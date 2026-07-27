@@ -272,11 +272,11 @@ Here is the visual system observed across **8 captured pages** from [agently.dev
 ```
 
 ## References
-- [Agently](https://design.withfudge.com/pin/6671) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6670) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6669) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6668) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6667) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6666) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6665) — [source page](agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6664) — [source page](agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6671) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6670) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6669) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6668) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6667) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6666) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6665) — [source page](https://agently.dev/)
+- [Agently](https://design.withfudge.com/pin/6664) — [source page](https://agently.dev/)

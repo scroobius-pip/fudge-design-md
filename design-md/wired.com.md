@@ -144,5 +144,5 @@ Here is the visual system observed across **2 captured pages** from [wired.com](
 ```
 
 ## References
-- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6786) — [source page](wired.com/story/inside-the-gay-tech-mafia/)
-- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6785) — [source page](wired.com/story/inside-the-gay-tech-mafia/)
+- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6786) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)
+- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6785) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)

@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [airo-builder
 ```
 
 ## References
-- [GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9208) — [source page](airo-builder.godaddy.com/)
+- [GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9208) — [source page](https://airo-builder.godaddy.com/)

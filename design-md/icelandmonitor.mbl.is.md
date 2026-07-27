@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [icelandmoni
 ```
 
 ## References
-- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9140) — [source page](icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)
-- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9139) — [source page](icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)
-- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9138) — [source page](icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)
+- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9140) — [source page](https://icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)
+- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9139) — [source page](https://icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)
+- [Records shed new light on German sailors who escaped to Iceland - Iceland Monitor](https://design.withfudge.com/pin/9138) — [source page](https://icelandmonitor.mbl.is/news/culture_and_living/2026/04/29/records_shed_new_light_on_german_sailors_who_escape/)

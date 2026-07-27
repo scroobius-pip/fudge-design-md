@@ -289,11 +289,11 @@ Here is the visual system observed across **40 captured pages** from [cosmos.so]
 ```
 
 ## References
-- [Explore / Cosmos](https://design.withfudge.com/pin/9477) — [source page](cosmos.so/explore)
-- [Cosmos](https://design.withfudge.com/pin/8596) — [source page](cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8595) — [source page](cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8594) — [source page](cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8593) — [source page](cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8592) — [source page](cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8591) — [source page](cosmos.so/)
-- [Welcome to Cosmos](https://design.withfudge.com/pin/4489) — [source page](cosmos.so/)
+- [Explore / Cosmos](https://design.withfudge.com/pin/9477) — [source page](https://cosmos.so/explore)
+- [Cosmos](https://design.withfudge.com/pin/8596) — [source page](https://cosmos.so/)
+- [Cosmos](https://design.withfudge.com/pin/8595) — [source page](https://cosmos.so/)
+- [Cosmos](https://design.withfudge.com/pin/8594) — [source page](https://cosmos.so/)
+- [Cosmos](https://design.withfudge.com/pin/8593) — [source page](https://cosmos.so/)
+- [Cosmos](https://design.withfudge.com/pin/8592) — [source page](https://cosmos.so/)
+- [Cosmos](https://design.withfudge.com/pin/8591) — [source page](https://cosmos.so/)
+- [Welcome to Cosmos](https://design.withfudge.com/pin/4489) — [source page](https://cosmos.so/)

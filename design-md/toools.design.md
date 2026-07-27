@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [toools.desi
 ```
 
 ## References
-- [TOOOLS.design Sponsorships – Get More Reach For Your Product](https://design.withfudge.com/pin/7452) — [source page](toools.design/sponsor)
-- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7451) — [source page](toools.design/)
-- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7450) — [source page](toools.design/)
+- [TOOOLS.design Sponsorships – Get More Reach For Your Product](https://design.withfudge.com/pin/7452) — [source page](https://toools.design/sponsor)
+- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7451) — [source page](https://toools.design/)
+- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7450) — [source page](https://toools.design/)

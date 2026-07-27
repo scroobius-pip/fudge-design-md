@@ -356,11 +356,11 @@ Here is the visual system observed across **9 captured pages** from [paved.com](
 ```
 
 ## References
-- [Paved | All-in-one Platform For Newsletter Sponsorships](https://design.withfudge.com/pin/9852) — [source page](paved.com/users/sign_up)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9851) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9850) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9849) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9848) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9847) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9846) — [source page](paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9845) — [source page](paved.com/)
+- [Paved | All-in-one Platform For Newsletter Sponsorships](https://design.withfudge.com/pin/9852) — [source page](https://paved.com/users/sign_up)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9851) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9850) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9849) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9848) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9847) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9846) — [source page](https://paved.com/)
+- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9845) — [source page](https://paved.com/)

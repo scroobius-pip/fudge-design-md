@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [camo.com](h
 ```
 
 ## References
-- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7178) — [source page](camo.com/studio)
-- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7177) — [source page](camo.com/studio)
-- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7176) — [source page](camo.com/studio)
+- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7178) — [source page](https://camo.com/studio)
+- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7177) — [source page](https://camo.com/studio)
+- [Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7176) — [source page](https://camo.com/studio)

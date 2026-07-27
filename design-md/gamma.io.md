@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [gamma.io](h
 ```
 
 ## References
-- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8485) — [source page](gamma.io/)
-- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8484) — [source page](gamma.io/)
+- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8485) — [source page](https://gamma.io/)
+- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8484) — [source page](https://gamma.io/)

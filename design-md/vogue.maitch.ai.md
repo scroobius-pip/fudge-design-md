@@ -173,7 +173,7 @@ Here is the visual system observed across **4 captured pages** from [vogue.maitc
 ```
 
 ## References
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/8011) — [source page](vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7946) — [source page](vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7945) — [source page](vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7941) — [source page](vogue.maitch.ai/)
+- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/8011) — [source page](https://vogue.maitch.ai/)
+- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7946) — [source page](https://vogue.maitch.ai/)
+- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7945) — [source page](https://vogue.maitch.ai/)
+- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7941) — [source page](https://vogue.maitch.ai/)

@@ -182,8 +182,8 @@ Here is the visual system observed across **5 captured pages** from [porkbun.com
 ```
 
 ## References
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/8324) — [source page](porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5321) — [source page](porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5320) — [source page](porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5319) — [source page](porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5318) — [source page](porkbun.com/)
+- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/8324) — [source page](https://porkbun.com/)
+- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5321) — [source page](https://porkbun.com/)
+- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5320) — [source page](https://porkbun.com/)
+- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5319) — [source page](https://porkbun.com/)
+- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5318) — [source page](https://porkbun.com/)

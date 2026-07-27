@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [app.micro.so
 ```
 
 ## References
-- [Captured page 8734](https://design.withfudge.com/pin/8734) — [source page](app.micro.so/login)
+- [Captured page 8734](https://design.withfudge.com/pin/8734) — [source page](https://app.micro.so/login)

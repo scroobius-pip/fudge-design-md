@@ -175,7 +175,7 @@ Here is the visual system observed across **4 captured pages** from [firstpromot
 ```
 
 ## References
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7706) — [source page](firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7705) — [source page](firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7704) — [source page](firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7703) — [source page](firstpromoter.com/)
+- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7706) — [source page](https://firstpromoter.com/)
+- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7705) — [source page](https://firstpromoter.com/)
+- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7704) — [source page](https://firstpromoter.com/)
+- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7703) — [source page](https://firstpromoter.com/)

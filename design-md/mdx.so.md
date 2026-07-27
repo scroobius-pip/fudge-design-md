@@ -155,6 +155,6 @@ Here is the visual system observed across **3 captured pages** from [mdx.so](htt
 ```
 
 ## References
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6342) — [source page](mdx.so/)
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6341) — [source page](mdx.so/)
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6340) — [source page](mdx.so/)
+- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6342) — [source page](https://mdx.so/)
+- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6341) — [source page](https://mdx.so/)
+- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6340) — [source page](https://mdx.so/)

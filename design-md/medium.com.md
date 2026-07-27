@@ -384,11 +384,11 @@ Here is the visual system observed across **20 captured pages** from [medium.com
 ```
 
 ## References
-- [Explore topics - Medium](https://design.withfudge.com/pin/9708) — [source page](medium.com/explore-topics)
-- [Medium: Read and write stories.](https://design.withfudge.com/pin/9706) — [source page](medium.com/)
-- [Why write on Medium?](https://design.withfudge.com/pin/9603) — [source page](medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9602) — [source page](medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9601) — [source page](medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9600) — [source page](medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9599) — [source page](medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9598) — [source page](medium.com/write)
+- [Explore topics - Medium](https://design.withfudge.com/pin/9708) — [source page](https://medium.com/explore-topics)
+- [Medium: Read and write stories.](https://design.withfudge.com/pin/9706) — [source page](https://medium.com/)
+- [Why write on Medium?](https://design.withfudge.com/pin/9603) — [source page](https://medium.com/write)
+- [Why write on Medium?](https://design.withfudge.com/pin/9602) — [source page](https://medium.com/write)
+- [Why write on Medium?](https://design.withfudge.com/pin/9601) — [source page](https://medium.com/write)
+- [Why write on Medium?](https://design.withfudge.com/pin/9600) — [source page](https://medium.com/write)
+- [Why write on Medium?](https://design.withfudge.com/pin/9599) — [source page](https://medium.com/write)
+- [Why write on Medium?](https://design.withfudge.com/pin/9598) — [source page](https://medium.com/write)

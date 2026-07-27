@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [webdeveloper
 ```
 
 ## References
-- [Skills — Front-end AI Coding Skills — Web Developer](https://design.withfudge.com/pin/8582) — [source page](webdeveloper.com/skills/)
+- [Skills — Front-end AI Coding Skills — Web Developer](https://design.withfudge.com/pin/8582) — [source page](https://webdeveloper.com/skills/)

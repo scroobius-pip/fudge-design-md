@@ -265,11 +265,11 @@ Here is the visual system observed across **9 captured pages** from [jobyaviatio
 ```
 
 ## References
-- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8296) — [source page](jobyaviation.com/company)
-- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8295) — [source page](jobyaviation.com/company)
-- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8294) — [source page](jobyaviation.com/company)
-- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8293) — [source page](jobyaviation.com/company)
-- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8292) — [source page](jobyaviation.com/)
-- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8291) — [source page](jobyaviation.com/)
-- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8290) — [source page](jobyaviation.com/)
-- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8289) — [source page](jobyaviation.com/)
+- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8296) — [source page](https://jobyaviation.com/company)
+- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8295) — [source page](https://jobyaviation.com/company)
+- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8294) — [source page](https://jobyaviation.com/company)
+- [Company | Joby Aviation – Building the Future of Electric Air Taxi Travel | Joby Aviation](https://design.withfudge.com/pin/8293) — [source page](https://jobyaviation.com/company)
+- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8292) — [source page](https://jobyaviation.com/)
+- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8291) — [source page](https://jobyaviation.com/)
+- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8290) — [source page](https://jobyaviation.com/)
+- [Joby Aviation | Electric Air Taxi for Zero-Emission Travel | Joby Aviation](https://design.withfudge.com/pin/8289) — [source page](https://jobyaviation.com/)

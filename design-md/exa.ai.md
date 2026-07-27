@@ -435,11 +435,11 @@ Here is the visual system observed across **32 captured pages** from [exa.ai](ht
 ```
 
 ## References
-- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9597) — [source page](exa.ai/customers/monday)
-- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9596) — [source page](exa.ai/customers/monday)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9595) — [source page](exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9594) — [source page](exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9593) — [source page](exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9592) — [source page](exa.ai/)
-- [Exa AI Research Blog](https://design.withfudge.com/pin/6589) — [source page](exa.ai/blog/exa-instant)
-- [Exa AI Research Blog](https://design.withfudge.com/pin/6588) — [source page](exa.ai/blog)
+- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9597) — [source page](https://exa.ai/customers/monday)
+- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9596) — [source page](https://exa.ai/customers/monday)
+- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9595) — [source page](https://exa.ai/)
+- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9594) — [source page](https://exa.ai/)
+- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9593) — [source page](https://exa.ai/)
+- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9592) — [source page](https://exa.ai/)
+- [Exa AI Research Blog](https://design.withfudge.com/pin/6589) — [source page](https://exa.ai/blog/exa-instant)
+- [Exa AI Research Blog](https://design.withfudge.com/pin/6588) — [source page](https://exa.ai/blog)

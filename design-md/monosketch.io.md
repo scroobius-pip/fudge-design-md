@@ -126,6 +126,6 @@ Here is the visual system observed across **3 captured pages** from [monosketch.
 ```
 
 ## References
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6500) — [source page](monosketch.io/)
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6499) — [source page](monosketch.io/)
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6498) — [source page](monosketch.io/)
+- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6500) — [source page](https://monosketch.io/)
+- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6499) — [source page](https://monosketch.io/)
+- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6498) — [source page](https://monosketch.io/)

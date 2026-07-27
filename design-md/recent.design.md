@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [recent.desig
 ```
 
 ## References
-- [Recent Design](https://design.withfudge.com/pin/9586) — [source page](recent.design/)
+- [Recent Design](https://design.withfudge.com/pin/9586) — [source page](https://recent.design/)

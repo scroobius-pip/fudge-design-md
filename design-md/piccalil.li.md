@@ -390,11 +390,11 @@ Here is the visual system observed across **13 captured pages** from [piccalil.l
 ```
 
 ## References
-- [Advertise - Piccalilli](https://design.withfudge.com/pin/9628) — [source page](piccalil.li/advertise/)
-- [Log in - Piccalilli](https://design.withfudge.com/pin/9627) — [source page](piccalil.li/login/)
-- [The Index - Piccalilli](https://design.withfudge.com/pin/9626) — [source page](piccalil.li/the-index/)
-- [The Index - Piccalilli](https://design.withfudge.com/pin/9625) — [source page](piccalil.li/the-index/)
-- [The Index - Piccalilli](https://design.withfudge.com/pin/9624) — [source page](piccalil.li/the-index/)
-- [Open Working Projects - Piccalilli](https://design.withfudge.com/pin/9623) — [source page](piccalil.li/projects/)
-- [Piccalilli - level up your front-end development skills](https://design.withfudge.com/pin/9622) — [source page](piccalil.li/)
-- [Piccalilli - level up your front-end development skills](https://design.withfudge.com/pin/9621) — [source page](piccalil.li/)
+- [Advertise - Piccalilli](https://design.withfudge.com/pin/9628) — [source page](https://piccalil.li/advertise/)
+- [Log in - Piccalilli](https://design.withfudge.com/pin/9627) — [source page](https://piccalil.li/login/)
+- [The Index - Piccalilli](https://design.withfudge.com/pin/9626) — [source page](https://piccalil.li/the-index/)
+- [The Index - Piccalilli](https://design.withfudge.com/pin/9625) — [source page](https://piccalil.li/the-index/)
+- [The Index - Piccalilli](https://design.withfudge.com/pin/9624) — [source page](https://piccalil.li/the-index/)
+- [Open Working Projects - Piccalilli](https://design.withfudge.com/pin/9623) — [source page](https://piccalil.li/projects/)
+- [Piccalilli - level up your front-end development skills](https://design.withfudge.com/pin/9622) — [source page](https://piccalil.li/)
+- [Piccalilli - level up your front-end development skills](https://design.withfudge.com/pin/9621) — [source page](https://piccalil.li/)

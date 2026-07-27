@@ -155,6 +155,6 @@ Here is the visual system observed across **3 captured pages** from [app.useorig
 ```
 
 ## References
-- [Origin Financial](https://design.withfudge.com/pin/8926) — [source page](app.useorigin.com/home/preview)
-- [Origin Financial](https://design.withfudge.com/pin/8925) — [source page](app.useorigin.com/onboarding/free-trial)
-- [Origin Financial](https://design.withfudge.com/pin/8924) — [source page](app.useorigin.com/sign-up/dtc)
+- [Origin Financial](https://design.withfudge.com/pin/8926) — [source page](https://app.useorigin.com/home/preview)
+- [Origin Financial](https://design.withfudge.com/pin/8925) — [source page](https://app.useorigin.com/onboarding/free-trial)
+- [Origin Financial](https://design.withfudge.com/pin/8924) — [source page](https://app.useorigin.com/sign-up/dtc)

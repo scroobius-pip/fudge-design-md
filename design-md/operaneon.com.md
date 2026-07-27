@@ -293,11 +293,11 @@ Here is the visual system observed across **20 captured pages** from [operaneon.
 ```
 
 ## References
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6366) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6365) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6364) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6363) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6362) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6361) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6360) — [source page](operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/3490) — [source page](operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6366) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6365) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6364) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6363) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6362) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6361) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6360) — [source page](https://operaneon.com/)
+- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/3490) — [source page](https://operaneon.com/)

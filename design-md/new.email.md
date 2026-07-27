@@ -220,10 +220,10 @@ Here is the visual system observed across **7 captured pages** from [new.email](
 ```
 
 ## References
-- [Untitled | new.email by Resend](https://design.withfudge.com/pin/7201) — [source page](new.email/chat/f004f442-7aa4-47d0-be0c-252a1c079c19)
-- [new.email by Resend](https://design.withfudge.com/pin/7200) — [source page](new.email/)
-- [new.email by Resend](https://design.withfudge.com/pin/7199) — [source page](new.email/)
-- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7198) — [source page](new.email/brand-kits)
-- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7197) — [source page](new.email/brand-kits)
-- [new.email by Resend](https://design.withfudge.com/pin/7196) — [source page](new.email/)
-- [Sign up | new.email by Resend](https://design.withfudge.com/pin/7195) — [source page](new.email/sign-up)
+- [Untitled | new.email by Resend](https://design.withfudge.com/pin/7201) — [source page](https://new.email/chat/f004f442-7aa4-47d0-be0c-252a1c079c19)
+- [new.email by Resend](https://design.withfudge.com/pin/7200) — [source page](https://new.email/)
+- [new.email by Resend](https://design.withfudge.com/pin/7199) — [source page](https://new.email/)
+- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7198) — [source page](https://new.email/brand-kits)
+- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7197) — [source page](https://new.email/brand-kits)
+- [new.email by Resend](https://design.withfudge.com/pin/7196) — [source page](https://new.email/)
+- [Sign up | new.email by Resend](https://design.withfudge.com/pin/7195) — [source page](https://new.email/sign-up)

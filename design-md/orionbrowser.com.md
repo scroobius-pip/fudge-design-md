@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [orionbrowse
 ```
 
 ## References
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10434) — [source page](orionbrowser.com/)
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10433) — [source page](orionbrowser.com/)
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10432) — [source page](orionbrowser.com/)
+- [Orion Browser by Kagi](https://design.withfudge.com/pin/10434) — [source page](https://orionbrowser.com/)
+- [Orion Browser by Kagi](https://design.withfudge.com/pin/10433) — [source page](https://orionbrowser.com/)
+- [Orion Browser by Kagi](https://design.withfudge.com/pin/10432) — [source page](https://orionbrowser.com/)

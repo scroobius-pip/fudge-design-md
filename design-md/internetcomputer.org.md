@@ -219,11 +219,11 @@ Here is the visual system observed across **8 captured pages** from [internetcom
 ```
 
 ## References
-- [ICP quick start](https://design.withfudge.com/pin/9184) — [source page](internetcomputer.org/quick-start/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7605) — [source page](internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7604) — [source page](internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7603) — [source page](internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7535) — [source page](internetcomputer.org/)
-- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5767) — [source page](internetcomputer.org/)
-- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5766) — [source page](internetcomputer.org/)
-- [World Computer | Internet Computer](https://design.withfudge.com/pin/3431) — [source page](internetcomputer.org/)
+- [ICP quick start](https://design.withfudge.com/pin/9184) — [source page](https://internetcomputer.org/quick-start/)
+- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7605) — [source page](https://internetcomputer.org/)
+- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7604) — [source page](https://internetcomputer.org/)
+- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7603) — [source page](https://internetcomputer.org/)
+- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7535) — [source page](https://internetcomputer.org/)
+- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5767) — [source page](https://internetcomputer.org/)
+- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5766) — [source page](https://internetcomputer.org/)
+- [World Computer | Internet Computer](https://design.withfudge.com/pin/3431) — [source page](https://internetcomputer.org/)

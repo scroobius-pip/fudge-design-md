@@ -340,11 +340,11 @@ Here is the visual system observed across **26 captured pages** from [priorlabs.
 ```
 
 ## References
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6866) — [source page](priorlabs.ai/careers)
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6865) — [source page](priorlabs.ai/careers)
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6864) — [source page](priorlabs.ai/careers)
-- [About | Prior Labs](https://design.withfudge.com/pin/6863) — [source page](priorlabs.ai/about)
-- [About | Prior Labs](https://design.withfudge.com/pin/6862) — [source page](priorlabs.ai/about)
-- [About | Prior Labs](https://design.withfudge.com/pin/6861) — [source page](priorlabs.ai/about)
-- [Prior Labs](https://design.withfudge.com/pin/6860) — [source page](priorlabs.ai/deployment/model-context-protocol)
-- [Prior Labs](https://design.withfudge.com/pin/6859) — [source page](priorlabs.ai/deployment/model-context-protocol)
+- [Careers | Prior Labs](https://design.withfudge.com/pin/6866) — [source page](https://priorlabs.ai/careers)
+- [Careers | Prior Labs](https://design.withfudge.com/pin/6865) — [source page](https://priorlabs.ai/careers)
+- [Careers | Prior Labs](https://design.withfudge.com/pin/6864) — [source page](https://priorlabs.ai/careers)
+- [About | Prior Labs](https://design.withfudge.com/pin/6863) — [source page](https://priorlabs.ai/about)
+- [About | Prior Labs](https://design.withfudge.com/pin/6862) — [source page](https://priorlabs.ai/about)
+- [About | Prior Labs](https://design.withfudge.com/pin/6861) — [source page](https://priorlabs.ai/about)
+- [Prior Labs](https://design.withfudge.com/pin/6860) — [source page](https://priorlabs.ai/deployment/model-context-protocol)
+- [Prior Labs](https://design.withfudge.com/pin/6859) — [source page](https://priorlabs.ai/deployment/model-context-protocol)

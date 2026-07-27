@@ -105,4 +105,4 @@ Here is the visual system observed across **1 captured page** from [dtai.cs.kule
 ```
 
 ## References
-- [How I tried not to become a logic programmer](https://design.withfudge.com/pin/9362) — [source page](dtai.cs.kuleuven.be/projects/ALP/newsletter/aug08/content/Historical/content.html)
+- [How I tried not to become a logic programmer](https://design.withfudge.com/pin/9362) — [source page](https://dtai.cs.kuleuven.be/projects/ALP/newsletter/aug08/content/Historical/content.html)

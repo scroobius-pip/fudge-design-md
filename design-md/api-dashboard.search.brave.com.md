@@ -183,8 +183,8 @@ Here is the visual system observed across **5 captured pages** from [api-dashboa
 ```
 
 ## References
-- [Brave Search - API](https://design.withfudge.com/pin/9446) — [source page](api-dashboard.search.brave.com/app/subscriptions/subscribe)
-- [Brave Search - API](https://design.withfudge.com/pin/9445) — [source page](api-dashboard.search.brave.com/app/keys)
-- [Brave Search - API](https://design.withfudge.com/pin/9444) — [source page](api-dashboard.search.brave.com/app/subscriptions/subscribe)
-- [Brave Search - API](https://design.withfudge.com/pin/9443) — [source page](api-dashboard.search.brave.com/app/dashboard)
-- [Brave Search - API](https://design.withfudge.com/pin/9442) — [source page](api-dashboard.search.brave.com/verify-account)
+- [Brave Search - API](https://design.withfudge.com/pin/9446) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+- [Brave Search - API](https://design.withfudge.com/pin/9445) — [source page](https://api-dashboard.search.brave.com/app/keys)
+- [Brave Search - API](https://design.withfudge.com/pin/9444) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+- [Brave Search - API](https://design.withfudge.com/pin/9443) — [source page](https://api-dashboard.search.brave.com/app/dashboard)
+- [Brave Search - API](https://design.withfudge.com/pin/9442) — [source page](https://api-dashboard.search.brave.com/verify-account)

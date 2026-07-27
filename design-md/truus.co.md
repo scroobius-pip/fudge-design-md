@@ -301,11 +301,11 @@ Here is the visual system observed across **10 captured pages** from [truus.co](
 ```
 
 ## References
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6924) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6923) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6922) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6921) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6920) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6919) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6918) — [source page](truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6917) — [source page](truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6924) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6923) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6922) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6921) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6920) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6919) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6918) — [source page](https://truus.co/)
+- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6917) — [source page](https://truus.co/)

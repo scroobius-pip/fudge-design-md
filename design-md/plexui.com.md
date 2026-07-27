@@ -208,10 +208,10 @@ Here is the visual system observed across **7 captured pages** from [plexui.com]
 ```
 
 ## References
-- [Colors](https://design.withfudge.com/pin/8772) — [source page](plexui.com/docs/foundations/colors)
-- [Typography](https://design.withfudge.com/pin/8771) — [source page](plexui.com/docs/foundations/typography)
-- [Design Tokens](https://design.withfudge.com/pin/8340) — [source page](plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8339) — [source page](plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8338) — [source page](plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8337) — [source page](plexui.com/docs/foundations/design-tokens)
-- [Button](https://design.withfudge.com/pin/8336) — [source page](plexui.com/docs/components/button)
+- [Colors](https://design.withfudge.com/pin/8772) — [source page](https://plexui.com/docs/foundations/colors)
+- [Typography](https://design.withfudge.com/pin/8771) — [source page](https://plexui.com/docs/foundations/typography)
+- [Design Tokens](https://design.withfudge.com/pin/8340) — [source page](https://plexui.com/docs/foundations/design-tokens)
+- [Design Tokens](https://design.withfudge.com/pin/8339) — [source page](https://plexui.com/docs/foundations/design-tokens)
+- [Design Tokens](https://design.withfudge.com/pin/8338) — [source page](https://plexui.com/docs/foundations/design-tokens)
+- [Design Tokens](https://design.withfudge.com/pin/8337) — [source page](https://plexui.com/docs/foundations/design-tokens)
+- [Button](https://design.withfudge.com/pin/8336) — [source page](https://plexui.com/docs/components/button)

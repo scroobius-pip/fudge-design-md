@@ -307,11 +307,11 @@ Here is the visual system observed across **26 captured pages** from [webflow.co
 ```
 
 ## References
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6023) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6022) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6021) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6020) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6019) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6018) — [source page](webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6017) — [source page](webflow.com/pricing)
-- [Webflow Ecommerce website builder | Webflow](https://design.withfudge.com/pin/6016) — [source page](webflow.com/feature/ecommerce)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6023) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6022) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6021) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6020) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6019) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6018) — [source page](https://webflow.com/pricing)
+- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6017) — [source page](https://webflow.com/pricing)
+- [Webflow Ecommerce website builder | Webflow](https://design.withfudge.com/pin/6016) — [source page](https://webflow.com/feature/ecommerce)

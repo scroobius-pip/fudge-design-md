@@ -95,4 +95,4 @@ Here is the visual system observed across **1 captured page** from [lazy.so](htt
 ```
 
 ## References
-- [Lazy • A capture tool for knowledge](https://design.withfudge.com/pin/8144) — [source page](lazy.so/)
+- [Lazy • A capture tool for knowledge](https://design.withfudge.com/pin/8144) — [source page](https://lazy.so/)

@@ -253,11 +253,11 @@ Here is the visual system observed across **9 captured pages** from [diabrowser.
 ```
 
 ## References
-- [Dia Browser | Latest Release Notes](https://design.withfudge.com/pin/9533) — [source page](diabrowser.com/release-notes/latest)
-- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3816) — [source page](diabrowser.com/getting-started)
-- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3815) — [source page](diabrowser.com/getting-started)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3814) — [source page](diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3813) — [source page](diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3812) — [source page](diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3811) — [source page](diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3810) — [source page](diabrowser.com/)
+- [Dia Browser | Latest Release Notes](https://design.withfudge.com/pin/9533) — [source page](https://diabrowser.com/release-notes/latest)
+- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3816) — [source page](https://diabrowser.com/getting-started)
+- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3815) — [source page](https://diabrowser.com/getting-started)
+- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3814) — [source page](https://diabrowser.com/)
+- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3813) — [source page](https://diabrowser.com/)
+- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3812) — [source page](https://diabrowser.com/)
+- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3811) — [source page](https://diabrowser.com/)
+- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3810) — [source page](https://diabrowser.com/)

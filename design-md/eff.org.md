@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [eff.org](htt
 ```
 
 ## References
-- [Electronic Frontier Foundation | Defending your rights in the digital world](https://design.withfudge.com/pin/6965) — [source page](eff.org/)
+- [Electronic Frontier Foundation | Defending your rights in the digital world](https://design.withfudge.com/pin/6965) — [source page](https://eff.org/)

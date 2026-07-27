@@ -407,11 +407,11 @@ Here is the visual system observed across **14 captured pages** from [photon.cod
 ```
 
 ## References
-- [Photon Residency](https://design.withfudge.com/pin/6515) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6514) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6513) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6512) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6511) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6510) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6509) — [source page](photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6508) — [source page](photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6515) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6514) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6513) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6512) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6511) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6510) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6509) — [source page](https://photon.codes/residency)
+- [Photon Residency](https://design.withfudge.com/pin/6508) — [source page](https://photon.codes/residency)

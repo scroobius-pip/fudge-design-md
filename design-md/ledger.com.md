@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [ledger.com]
 ```
 
 ## References
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7797) — [source page](ledger.com/)
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7796) — [source page](ledger.com/)
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7795) — [source page](ledger.com/)
+- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7797) — [source page](https://ledger.com/)
+- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7796) — [source page](https://ledger.com/)
+- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7795) — [source page](https://ledger.com/)

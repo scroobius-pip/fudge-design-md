@@ -303,11 +303,11 @@ Here is the visual system observed across **10 captured pages** from [trymeasure
 ```
 
 ## References
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6994) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6993) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6992) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6991) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6990) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6989) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6988) — [source page](trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6987) — [source page](trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6994) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6993) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6992) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6991) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6990) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6989) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6988) — [source page](https://trymeasured.com/)
+- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6987) — [source page](https://trymeasured.com/)

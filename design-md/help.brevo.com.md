@@ -148,4 +148,4 @@ Here is the visual system observed across **1 captured page** from [help.brevo.c
 ```
 
 ## References
-- [Submit a request – Home](https://design.withfudge.com/pin/10061) — [source page](help.brevo.com/hc/en-us/requests/new)
+- [Submit a request – Home](https://design.withfudge.com/pin/10061) — [source page](https://help.brevo.com/hc/en-us/requests/new)

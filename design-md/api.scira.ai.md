@@ -129,8 +129,8 @@ Here is the visual system observed across **5 captured pages** from [api.scira.a
 ```
 
 ## References
-- [Scira API Platform](https://design.withfudge.com/pin/5945) — [source page](api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5944) — [source page](api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5943) — [source page](api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5942) — [source page](api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5941) — [source page](api.scira.ai/)
+- [Scira API Platform](https://design.withfudge.com/pin/5945) — [source page](https://api.scira.ai/)
+- [Scira API Platform](https://design.withfudge.com/pin/5944) — [source page](https://api.scira.ai/)
+- [Scira API Platform](https://design.withfudge.com/pin/5943) — [source page](https://api.scira.ai/)
+- [Scira API Platform](https://design.withfudge.com/pin/5942) — [source page](https://api.scira.ai/)
+- [Scira API Platform](https://design.withfudge.com/pin/5941) — [source page](https://api.scira.ai/)

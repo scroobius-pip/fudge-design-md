@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [motion.dev](
 ```
 
 ## References
-- [Motion — JavaScript & React animation library](https://design.withfudge.com/pin/8759) — [source page](motion.dev/)
+- [Motion — JavaScript & React animation library](https://design.withfudge.com/pin/8759) — [source page](https://motion.dev/)

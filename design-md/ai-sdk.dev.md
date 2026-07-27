@@ -202,9 +202,9 @@ Here is the visual system observed across **6 captured pages** from [ai-sdk.dev]
 ```
 
 ## References
-- [AI SDK](https://design.withfudge.com/pin/8397) — [source page](ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8396) — [source page](ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8395) — [source page](ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8394) — [source page](ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8393) — [source page](ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8392) — [source page](ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8397) — [source page](https://ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8396) — [source page](https://ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8395) — [source page](https://ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8394) — [source page](https://ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8393) — [source page](https://ai-sdk.dev/)
+- [AI SDK](https://design.withfudge.com/pin/8392) — [source page](https://ai-sdk.dev/)

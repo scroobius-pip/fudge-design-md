@@ -263,10 +263,10 @@ Here is the visual system observed across **7 captured pages** from [obsidianos.
 ```
 
 ## References
-- [Obsidian](https://design.withfudge.com/pin/8843) — [source page](obsidianos.com/pricing)
-- [Obsidian](https://design.withfudge.com/pin/8842) — [source page](obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8841) — [source page](obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8840) — [source page](obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8839) — [source page](obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8838) — [source page](obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8837) — [source page](obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8843) — [source page](https://obsidianos.com/pricing)
+- [Obsidian](https://design.withfudge.com/pin/8842) — [source page](https://obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8841) — [source page](https://obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8840) — [source page](https://obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8839) — [source page](https://obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8838) — [source page](https://obsidianos.com/)
+- [Obsidian](https://design.withfudge.com/pin/8837) — [source page](https://obsidianos.com/)

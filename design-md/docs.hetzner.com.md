@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [docs.hetzner
 ```
 
 ## References
-- [Hetzner Price Adjustment - Hetzner Docs](https://design.withfudge.com/pin/9658) — [source page](docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+- [Hetzner Price Adjustment - Hetzner Docs](https://design.withfudge.com/pin/9658) — [source page](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)

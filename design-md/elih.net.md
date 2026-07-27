@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [elih.net](ht
 ```
 
 ## References
-- [Eli Heuer | Eli Heuer](https://design.withfudge.com/pin/10001) — [source page](elih.net/)
+- [Eli Heuer | Eli Heuer](https://design.withfudge.com/pin/10001) — [source page](https://elih.net/)

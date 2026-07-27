@@ -194,9 +194,9 @@ Here is the visual system observed across **6 captured pages** from [usgraphics.
 ```
 
 ## References
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6712) — [source page](usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6711) — [source page](usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6710) — [source page](usgraphics.com/)
-- [U.S. Graphics Company - General Catalog](https://design.withfudge.com/pin/5523) — [source page](usgraphics.com/catalog)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5522) — [source page](usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5521) — [source page](usgraphics.com/)
+- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6712) — [source page](https://usgraphics.com/)
+- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6711) — [source page](https://usgraphics.com/)
+- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6710) — [source page](https://usgraphics.com/)
+- [U.S. Graphics Company - General Catalog](https://design.withfudge.com/pin/5523) — [source page](https://usgraphics.com/catalog)
+- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5522) — [source page](https://usgraphics.com/)
+- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5521) — [source page](https://usgraphics.com/)

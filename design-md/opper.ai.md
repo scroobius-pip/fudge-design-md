@@ -204,9 +204,9 @@ Here is the visual system observed across **6 captured pages** from [opper.ai](h
 ```
 
 ## References
-- [Car Wash Test on 53 leading AI models: "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?"](https://design.withfudge.com/pin/7023) — [source page](opper.ai/blog/car-wash-test)
-- [Opper](https://design.withfudge.com/pin/7022) — [source page](opper.ai/pricing)
-- [Opper](https://design.withfudge.com/pin/7021) — [source page](opper.ai/pricing)
-- [Opper](https://design.withfudge.com/pin/7020) — [source page](opper.ai/)
-- [Opper](https://design.withfudge.com/pin/7019) — [source page](opper.ai/)
-- [Opper](https://design.withfudge.com/pin/7018) — [source page](opper.ai/)
+- [Car Wash Test on 53 leading AI models: "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?"](https://design.withfudge.com/pin/7023) — [source page](https://opper.ai/blog/car-wash-test)
+- [Opper](https://design.withfudge.com/pin/7022) — [source page](https://opper.ai/pricing)
+- [Opper](https://design.withfudge.com/pin/7021) — [source page](https://opper.ai/pricing)
+- [Opper](https://design.withfudge.com/pin/7020) — [source page](https://opper.ai/)
+- [Opper](https://design.withfudge.com/pin/7019) — [source page](https://opper.ai/)
+- [Opper](https://design.withfudge.com/pin/7018) — [source page](https://opper.ai/)

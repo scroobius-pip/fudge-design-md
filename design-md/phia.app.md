@@ -199,9 +199,9 @@ Here is the visual system observed across **6 captured pages** from [phia.app](h
 ```
 
 ## References
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7420) — [source page](phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7419) — [source page](phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7418) — [source page](phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7417) — [source page](phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7416) — [source page](phia.app/)
-- [Phia | Designed to be seen](https://design.withfudge.com/pin/3741) — [source page](phia.app/login)
+- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7420) — [source page](https://phia.app/)
+- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7419) — [source page](https://phia.app/)
+- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7418) — [source page](https://phia.app/)
+- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7417) — [source page](https://phia.app/)
+- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7416) — [source page](https://phia.app/)
+- [Phia | Designed to be seen](https://design.withfudge.com/pin/3741) — [source page](https://phia.app/login)

@@ -219,9 +219,9 @@ Here is the visual system observed across **6 captured pages** from [shopify.des
 ```
 
 ## References
-- [Shopify Design](https://design.withfudge.com/pin/8597) — [source page](shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8590) — [source page](shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8589) — [source page](shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8588) — [source page](shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8587) — [source page](shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8586) — [source page](shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8597) — [source page](https://shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8590) — [source page](https://shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8589) — [source page](https://shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8588) — [source page](https://shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8587) — [source page](https://shopify.design/)
+- [Shopify Design](https://design.withfudge.com/pin/8586) — [source page](https://shopify.design/)

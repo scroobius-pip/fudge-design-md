@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [canva.com](h
 ```
 
 ## References
-- [Brand Kit - All assets - Canva](https://design.withfudge.com/pin/8043) — [source page](canva.com/brand/kAHDv9A3tp4)
+- [Brand Kit - All assets - Canva](https://design.withfudge.com/pin/8043) — [source page](https://canva.com/brand/kAHDv9A3tp4)

@@ -147,5 +147,5 @@ Here is the visual system observed across **2 captured pages** from [autogram.id
 ```
 
 ## References
-- [Autogram](https://design.withfudge.com/pin/10168) — [source page](autogram.id/companies)
-- [Autogram](https://design.withfudge.com/pin/10167) — [source page](autogram.id/)
+- [Autogram](https://design.withfudge.com/pin/10168) — [source page](https://autogram.id/companies)
+- [Autogram](https://design.withfudge.com/pin/10167) — [source page](https://autogram.id/)

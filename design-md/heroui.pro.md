@@ -300,11 +300,11 @@ Here is the visual system observed across **16 captured pages** from [heroui.pro
 ```
 
 ## References
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8798) — [source page](heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8797) — [source page](heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8796) — [source page](heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8795) — [source page](heroui.pro/)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/834) — [source page](heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/833) — [source page](heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/832) — [source page](heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/831) — [source page](heroui.pro/components/marketing/pricing)
+- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8798) — [source page](https://heroui.pro/)
+- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8797) — [source page](https://heroui.pro/)
+- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8796) — [source page](https://heroui.pro/)
+- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8795) — [source page](https://heroui.pro/)
+- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/834) — [source page](https://heroui.pro/components/marketing/pricing)
+- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/833) — [source page](https://heroui.pro/components/marketing/pricing)
+- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/832) — [source page](https://heroui.pro/components/marketing/pricing)
+- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/831) — [source page](https://heroui.pro/components/marketing/pricing)

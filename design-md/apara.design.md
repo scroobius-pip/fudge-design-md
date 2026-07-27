@@ -271,11 +271,11 @@ Here is the visual system observed across **8 captured pages** from [apara.desig
 ```
 
 ## References
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7985) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7984) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7983) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7982) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7981) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7980) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7979) — [source page](apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7978) — [source page](apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7985) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7984) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7983) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7982) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7981) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7980) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7979) — [source page](https://apara.design/)
+- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7978) — [source page](https://apara.design/)

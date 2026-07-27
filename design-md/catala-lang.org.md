@@ -166,6 +166,6 @@ Here is the visual system observed across **3 captured pages** from [catala-lang
 ```
 
 ## References
-- [Features - Catala](https://design.withfudge.com/pin/9003) — [source page](catala-lang.org/en/features)
-- [Catala - Law to Code](https://design.withfudge.com/pin/9002) — [source page](catala-lang.org/en/)
-- [Catala - Law to Code](https://design.withfudge.com/pin/9001) — [source page](catala-lang.org/en/)
+- [Features - Catala](https://design.withfudge.com/pin/9003) — [source page](https://catala-lang.org/en/features)
+- [Catala - Law to Code](https://design.withfudge.com/pin/9002) — [source page](https://catala-lang.org/en/)
+- [Catala - Law to Code](https://design.withfudge.com/pin/9001) — [source page](https://catala-lang.org/en/)

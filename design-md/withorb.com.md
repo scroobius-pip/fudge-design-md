@@ -104,4 +104,4 @@ Here is the visual system observed across **1 captured page** from [withorb.com]
 ```
 
 ## References
-- [Orb | The revenue design company](https://design.withfudge.com/pin/7991) — [source page](withorb.com/)
+- [Orb | The revenue design company](https://design.withfudge.com/pin/7991) — [source page](https://withorb.com/)

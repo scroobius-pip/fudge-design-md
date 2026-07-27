@@ -105,4 +105,4 @@ Here is the visual system observed across **1 captured page** from [archive.ph](
 ```
 
 ## References
-- [When Dawkins met Claude - UnHerd](https://design.withfudge.com/pin/9216) — [source page](archive.ph/2026.05.03-112644/https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/)
+- [When Dawkins met Claude - UnHerd](https://design.withfudge.com/pin/9216) — [source page](https://archive.ph/2026.05.03-112644/https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/)

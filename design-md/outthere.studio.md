@@ -199,9 +199,9 @@ Here is the visual system observed across **6 captured pages** from [outthere.st
 ```
 
 ## References
-- [OutThere](https://design.withfudge.com/pin/7360) — [source page](outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7359) — [source page](outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7358) — [source page](outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7357) — [source page](outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7356) — [source page](outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7355) — [source page](outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7360) — [source page](https://outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7359) — [source page](https://outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7358) — [source page](https://outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7357) — [source page](https://outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7356) — [source page](https://outthere.studio/)
+- [OutThere](https://design.withfudge.com/pin/7355) — [source page](https://outthere.studio/)

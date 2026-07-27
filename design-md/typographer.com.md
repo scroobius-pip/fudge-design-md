@@ -348,11 +348,11 @@ Here is the visual system observed across **12 captured pages** from [typographe
 ```
 
 ## References
-- [Sign Up | Typographer](https://design.withfudge.com/pin/10430) — [source page](typographer.com/sign-up/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10423) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10422) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10421) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10420) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10419) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10418) — [source page](typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10417) — [source page](typographer.com/)
+- [Sign Up | Typographer](https://design.withfudge.com/pin/10430) — [source page](https://typographer.com/sign-up/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10423) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10422) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10421) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10420) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10419) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10418) — [source page](https://typographer.com/)
+- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10417) — [source page](https://typographer.com/)

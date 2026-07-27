@@ -170,6 +170,6 @@ Here is the visual system observed across **3 captured pages** from [acoup.blog]
 ```
 
 ## References
-- [Collections: Raising Carthaginian Armies, Part V: How a Carthaginian Army Fights – A Collection of Unmitigated Pedantry](https://design.withfudge.com/pin/9512) — [source page](acoup.blog/2026/05/22/collections-raising-carthaginian-armies-part-v-how-a-carthaginian-army-fights/)
-- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9511) — [source page](acoup.blog/)
-- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9510) — [source page](acoup.blog/)
+- [Collections: Raising Carthaginian Armies, Part V: How a Carthaginian Army Fights – A Collection of Unmitigated Pedantry](https://design.withfudge.com/pin/9512) — [source page](https://acoup.blog/2026/05/22/collections-raising-carthaginian-armies-part-v-how-a-carthaginian-army-fights/)
+- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9511) — [source page](https://acoup.blog/)
+- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9510) — [source page](https://acoup.blog/)

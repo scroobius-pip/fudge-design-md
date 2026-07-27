@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [workbench.s
 ```
 
 ## References
-- [Workbench](https://design.withfudge.com/pin/8419) — [source page](workbench.suna.design/apps/particle)
-- [Workbench](https://design.withfudge.com/pin/8418) — [source page](workbench.suna.design/)
+- [Workbench](https://design.withfudge.com/pin/8419) — [source page](https://workbench.suna.design/apps/particle)
+- [Workbench](https://design.withfudge.com/pin/8418) — [source page](https://workbench.suna.design/)

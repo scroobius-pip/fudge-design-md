@@ -428,11 +428,11 @@ Here is the visual system observed across **16 captured pages** from [worklouder
 ```
 
 ## References
-- [WORK LOUDER®](https://design.withfudge.com/pin/10144) — [source page](worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10143) — [source page](worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10142) — [source page](worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10141) — [source page](worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10140) — [source page](worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10139) — [source page](worklouder.cc/)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10138) — [source page](worklouder.cc/)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10137) — [source page](worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10144) — [source page](https://worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10143) — [source page](https://worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10142) — [source page](https://worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10141) — [source page](https://worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10140) — [source page](https://worklouder.cc/nomad-e-2)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10139) — [source page](https://worklouder.cc/)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10138) — [source page](https://worklouder.cc/)
+- [WORK LOUDER®](https://design.withfudge.com/pin/10137) — [source page](https://worklouder.cc/nomad-e-2)

@@ -242,11 +242,11 @@ Here is the visual system observed across **8 captured pages** from [aiverse.des
 ```
 
 ## References
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/8555) — [source page](aiverse.design/)
-- [Patterns](https://design.withfudge.com/pin/7291) — [source page](aiverse.design/patterns)
-- [Patterns](https://design.withfudge.com/pin/7290) — [source page](aiverse.design/patterns)
-- [Patterns](https://design.withfudge.com/pin/7289) — [source page](aiverse.design/patterns)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7288) — [source page](aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7287) — [source page](aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7286) — [source page](aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7285) — [source page](aiverse.design/)
+- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/8555) — [source page](https://aiverse.design/)
+- [Patterns](https://design.withfudge.com/pin/7291) — [source page](https://aiverse.design/patterns)
+- [Patterns](https://design.withfudge.com/pin/7290) — [source page](https://aiverse.design/patterns)
+- [Patterns](https://design.withfudge.com/pin/7289) — [source page](https://aiverse.design/patterns)
+- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7288) — [source page](https://aiverse.design/)
+- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7287) — [source page](https://aiverse.design/)
+- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7286) — [source page](https://aiverse.design/)
+- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7285) — [source page](https://aiverse.design/)

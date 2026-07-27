@@ -163,7 +163,7 @@ Here is the visual system observed across **4 captured pages** from [hermesatlas
 ```
 
 ## References
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8982) — [source page](hermesatlas.com/)
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8981) — [source page](hermesatlas.com/)
-- [litprog-skill — Hermes Agent Skills & Skill Registries | Hermes Atlas](https://design.withfudge.com/pin/8980) — [source page](hermesatlas.com/projects/tlehman/litprog-skill)
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8979) — [source page](hermesatlas.com/)
+- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8982) — [source page](https://hermesatlas.com/)
+- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8981) — [source page](https://hermesatlas.com/)
+- [litprog-skill — Hermes Agent Skills & Skill Registries | Hermes Atlas](https://design.withfudge.com/pin/8980) — [source page](https://hermesatlas.com/projects/tlehman/litprog-skill)
+- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8979) — [source page](https://hermesatlas.com/)

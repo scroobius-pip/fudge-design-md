@@ -246,11 +246,11 @@ Here is the visual system observed across **8 captured pages** from [cobe.vercel
 ```
 
 ## References
-- [COBE](https://design.withfudge.com/pin/8181) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8180) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8179) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8178) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8177) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8176) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8175) — [source page](cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8174) — [source page](cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8181) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8180) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8179) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8178) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8177) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8176) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8175) — [source page](https://cobe.vercel.app/)
+- [COBE](https://design.withfudge.com/pin/8174) — [source page](https://cobe.vercel.app/)

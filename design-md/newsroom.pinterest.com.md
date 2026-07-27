@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [newsroom.pin
 ```
 
 ## References
-- [Company | Pinterest Newsroom](https://design.withfudge.com/pin/8044) — [source page](newsroom.pinterest.com/company/)
+- [Company | Pinterest Newsroom](https://design.withfudge.com/pin/8044) — [source page](https://newsroom.pinterest.com/company/)

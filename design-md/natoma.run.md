@@ -147,7 +147,7 @@ Here is the visual system observed across **4 captured pages** from [natoma.run]
 ```
 
 ## References
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7708) — [source page](natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7707) — [source page](natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7404) — [source page](natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7403) — [source page](natoma.run/)
+- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7708) — [source page](https://natoma.run/)
+- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7707) — [source page](https://natoma.run/)
+- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7404) — [source page](https://natoma.run/)
+- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7403) — [source page](https://natoma.run/)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [postfa.st](
 ```
 
 ## References
-- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7482) — [source page](postfa.st/)
-- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7481) — [source page](postfa.st/)
+- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7482) — [source page](https://postfa.st/)
+- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7481) — [source page](https://postfa.st/)

@@ -97,4 +97,4 @@ Here is the visual system observed across **1 captured page** from [calebwu.ca](
 ```
 
 ## References
-- [Caleb Wu](https://design.withfudge.com/pin/8692) — [source page](calebwu.ca/)
+- [Caleb Wu](https://design.withfudge.com/pin/8692) — [source page](https://calebwu.ca/)

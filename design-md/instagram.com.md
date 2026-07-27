@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [instagram.c
 ```
 
 ## References
-- [Instagram](https://design.withfudge.com/pin/7159) — [source page](instagram.com/reels/DVJSDDsCOFT/)
-- [Instagram](https://design.withfudge.com/pin/5713) — [source page](instagram.com/p/DSI1F2Kkq71/)
+- [Instagram](https://design.withfudge.com/pin/7159) — [source page](https://instagram.com/reels/DVJSDDsCOFT/)
+- [Instagram](https://design.withfudge.com/pin/5713) — [source page](https://instagram.com/p/DSI1F2Kkq71/)

@@ -112,5 +112,5 @@ Here is the visual system observed across **2 captured pages** from [samspratt.c
 ```
 
 ## References
-- [Sam Spratt Archive](https://design.withfudge.com/pin/9182) — [source page](samspratt.com/story)
-- [Sam Spratt Archive](https://design.withfudge.com/pin/9181) — [source page](samspratt.com/story)
+- [Sam Spratt Archive](https://design.withfudge.com/pin/9182) — [source page](https://samspratt.com/story)
+- [Sam Spratt Archive](https://design.withfudge.com/pin/9181) — [source page](https://samspratt.com/story)

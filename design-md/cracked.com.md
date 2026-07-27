@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [cracked.com
 ```
 
 ## References
-- [Movies & TV | Cracked.com](https://design.withfudge.com/pin/8242) — [source page](cracked.com/humor-movies-tv.html)
-- [Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/pin/8241) — [source page](cracked.com/)
+- [Movies & TV | Cracked.com](https://design.withfudge.com/pin/8242) — [source page](https://cracked.com/humor-movies-tv.html)
+- [Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/pin/8241) — [source page](https://cracked.com/)

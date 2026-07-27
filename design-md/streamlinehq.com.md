@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [streamlinehq
 ```
 
 ## References
-- [Download PNG & SVG Icons: Your Ultimate Icon Library](https://design.withfudge.com/pin/7453) — [source page](streamlinehq.com/)
+- [Download PNG & SVG Icons: Your Ultimate Icon Library](https://design.withfudge.com/pin/7453) — [source page](https://streamlinehq.com/)

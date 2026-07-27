@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [beta.stackov
 ```
 
 ## References
-- [Stack Overflow](https://design.withfudge.com/pin/7609) — [source page](beta.stackoverflow.com/)
+- [Stack Overflow](https://design.withfudge.com/pin/7609) — [source page](https://beta.stackoverflow.com/)

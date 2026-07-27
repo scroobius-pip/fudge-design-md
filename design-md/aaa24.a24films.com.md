@@ -286,11 +286,11 @@ Here is the visual system observed across **20 captured pages** from [aaa24.a24f
 ```
 
 ## References
-- [FAQs | AAA24](https://design.withfudge.com/pin/6577) — [source page](aaa24.a24films.com/page/all-access-faqs/)
-- [FAQs | AAA24](https://design.withfudge.com/pin/6576) — [source page](aaa24.a24films.com/page/all-access-faqs/)
-- [Not Found | AAA24](https://design.withfudge.com/pin/6384) — [source page](aaa24.a24films.com/account/auth/)
-- [Not Found | AAA24](https://design.withfudge.com/pin/6383) — [source page](aaa24.a24films.com/account/auth/)
-- [AAA24](https://design.withfudge.com/pin/6379) — [source page](aaa24.a24films.com/)
-- [AAA24](https://design.withfudge.com/pin/6378) — [source page](aaa24.a24films.com/)
-- [AAA24](https://design.withfudge.com/pin/6377) — [source page](aaa24.a24films.com/)
-- [Join > Account Check | AAA24](https://design.withfudge.com/pin/144) — [source page](aaa24.a24films.com/signup/account-check)
+- [FAQs | AAA24](https://design.withfudge.com/pin/6577) — [source page](https://aaa24.a24films.com/page/all-access-faqs/)
+- [FAQs | AAA24](https://design.withfudge.com/pin/6576) — [source page](https://aaa24.a24films.com/page/all-access-faqs/)
+- [Not Found | AAA24](https://design.withfudge.com/pin/6384) — [source page](https://aaa24.a24films.com/account/auth/)
+- [Not Found | AAA24](https://design.withfudge.com/pin/6383) — [source page](https://aaa24.a24films.com/account/auth/)
+- [AAA24](https://design.withfudge.com/pin/6379) — [source page](https://aaa24.a24films.com/)
+- [AAA24](https://design.withfudge.com/pin/6378) — [source page](https://aaa24.a24films.com/)
+- [AAA24](https://design.withfudge.com/pin/6377) — [source page](https://aaa24.a24films.com/)
+- [Join > Account Check | AAA24](https://design.withfudge.com/pin/144) — [source page](https://aaa24.a24films.com/signup/account-check)

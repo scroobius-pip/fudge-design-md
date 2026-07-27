@@ -159,5 +159,5 @@ Here is the visual system observed across **2 captured pages** from [spellsurf.c
 ```
 
 ## References
-- [Spellsurf](https://design.withfudge.com/pin/10166) — [source page](spellsurf.com/)
-- [Spellsurf](https://design.withfudge.com/pin/10165) — [source page](spellsurf.com/)
+- [Spellsurf](https://design.withfudge.com/pin/10166) — [source page](https://spellsurf.com/)
+- [Spellsurf](https://design.withfudge.com/pin/10165) — [source page](https://spellsurf.com/)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [myaccount.p
 ```
 
 ## References
-- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6718) — [source page](myaccount.payoneer.com/setupmyaccount)
-- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6717) — [source page](myaccount.payoneer.com/setupmyaccount)
+- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6718) — [source page](https://myaccount.payoneer.com/setupmyaccount)
+- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6717) — [source page](https://myaccount.payoneer.com/setupmyaccount)

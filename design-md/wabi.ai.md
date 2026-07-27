@@ -195,10 +195,10 @@ Here is the visual system observed across **7 captured pages** from [wabi.ai](ht
 ```
 
 ## References
-- [Skia shader playground by @brock - Wabi](https://design.withfudge.com/pin/8287) — [source page](wabi.ai/@brock/skia-shader-playground-1023499)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8212) — [source page](wabi.ai/)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8211) — [source page](wabi.ai/)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8210) — [source page](wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4453) — [source page](wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4452) — [source page](wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4451) — [source page](wabi.ai/)
+- [Skia shader playground by @brock - Wabi](https://design.withfudge.com/pin/8287) — [source page](https://wabi.ai/@brock/skia-shader-playground-1023499)
+- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8212) — [source page](https://wabi.ai/)
+- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8211) — [source page](https://wabi.ai/)
+- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8210) — [source page](https://wabi.ai/)
+- [Wabi](https://design.withfudge.com/pin/4453) — [source page](https://wabi.ai/)
+- [Wabi](https://design.withfudge.com/pin/4452) — [source page](https://wabi.ai/)
+- [Wabi](https://design.withfudge.com/pin/4451) — [source page](https://wabi.ai/)

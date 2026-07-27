@@ -160,7 +160,7 @@ Here is the visual system observed across **4 captured pages** from [works.pm](h
 ```
 
 ## References
-- [Works - About](https://design.withfudge.com/pin/8498) — [source page](works.pm/about)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8497) — [source page](works.pm/)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8496) — [source page](works.pm/)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8495) — [source page](works.pm/)
+- [Works - About](https://design.withfudge.com/pin/8498) — [source page](https://works.pm/about)
+- [Works - Paul Macgregor](https://design.withfudge.com/pin/8497) — [source page](https://works.pm/)
+- [Works - Paul Macgregor](https://design.withfudge.com/pin/8496) — [source page](https://works.pm/)
+- [Works - Paul Macgregor](https://design.withfudge.com/pin/8495) — [source page](https://works.pm/)

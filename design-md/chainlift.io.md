@@ -139,6 +139,6 @@ Here is the visual system observed across **3 captured pages** from [chainlift.i
 ```
 
 ## References
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6347) — [source page](chainlift.io/liftkit)
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6346) — [source page](chainlift.io/liftkit)
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6345) — [source page](chainlift.io/liftkit)
+- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6347) — [source page](https://chainlift.io/liftkit)
+- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6346) — [source page](https://chainlift.io/liftkit)
+- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6345) — [source page](https://chainlift.io/liftkit)

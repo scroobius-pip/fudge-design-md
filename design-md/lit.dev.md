@@ -277,11 +277,11 @@ Here is the visual system observed across **11 captured pages** from [lit.dev](h
 ```
 
 ## References
-- [Lit](https://design.withfudge.com/pin/7865) — [source page](lit.dev/)
-- [Lit](https://design.withfudge.com/pin/7864) — [source page](lit.dev/)
-- [What is Lit? – Lit](https://design.withfudge.com/pin/1679) — [source page](lit.dev/docs/)
-- [Lit](https://design.withfudge.com/pin/1678) — [source page](lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1677) — [source page](lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1676) — [source page](lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1675) — [source page](lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1674) — [source page](lit.dev/)
+- [Lit](https://design.withfudge.com/pin/7865) — [source page](https://lit.dev/)
+- [Lit](https://design.withfudge.com/pin/7864) — [source page](https://lit.dev/)
+- [What is Lit? – Lit](https://design.withfudge.com/pin/1679) — [source page](https://lit.dev/docs/)
+- [Lit](https://design.withfudge.com/pin/1678) — [source page](https://lit.dev/)
+- [Lit](https://design.withfudge.com/pin/1677) — [source page](https://lit.dev/)
+- [Lit](https://design.withfudge.com/pin/1676) — [source page](https://lit.dev/)
+- [Lit](https://design.withfudge.com/pin/1675) — [source page](https://lit.dev/)
+- [Lit](https://design.withfudge.com/pin/1674) — [source page](https://lit.dev/)

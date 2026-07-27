@@ -268,11 +268,11 @@ Here is the visual system observed across **10 captured pages** from [audio.com]
 ```
 
 ## References
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6245) — [source page](audio.com/subscriptions)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6244) — [source page](audio.com/subscriptions)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6243) — [source page](audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6242) — [source page](audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6241) — [source page](audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6240) — [source page](audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6239) — [source page](audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6238) — [source page](audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6245) — [source page](https://audio.com/subscriptions)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6244) — [source page](https://audio.com/subscriptions)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6243) — [source page](https://audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6242) — [source page](https://audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6241) — [source page](https://audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6240) — [source page](https://audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6239) — [source page](https://audio.com/)
+- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6238) — [source page](https://audio.com/)

@@ -250,10 +250,10 @@ Here is the visual system observed across **7 captured pages** from [metr.org](h
 ```
 
 ## References
-- [Donate to METR](https://design.withfudge.com/pin/7185) — [source page](metr.org/donate)
-- [Donate to METR](https://design.withfudge.com/pin/7184) — [source page](metr.org/donate)
-- [METR](https://design.withfudge.com/pin/7183) — [source page](metr.org/)
-- [METR](https://design.withfudge.com/pin/7182) — [source page](metr.org/)
-- [METR](https://design.withfudge.com/pin/7181) — [source page](metr.org/)
-- [METR](https://design.withfudge.com/pin/7180) — [source page](metr.org/)
-- [METR](https://design.withfudge.com/pin/7179) — [source page](metr.org/)
+- [Donate to METR](https://design.withfudge.com/pin/7185) — [source page](https://metr.org/donate)
+- [Donate to METR](https://design.withfudge.com/pin/7184) — [source page](https://metr.org/donate)
+- [METR](https://design.withfudge.com/pin/7183) — [source page](https://metr.org/)
+- [METR](https://design.withfudge.com/pin/7182) — [source page](https://metr.org/)
+- [METR](https://design.withfudge.com/pin/7181) — [source page](https://metr.org/)
+- [METR](https://design.withfudge.com/pin/7180) — [source page](https://metr.org/)
+- [METR](https://design.withfudge.com/pin/7179) — [source page](https://metr.org/)

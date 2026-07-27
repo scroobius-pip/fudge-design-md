@@ -343,11 +343,11 @@ Here is the visual system observed across **15 captured pages** from [metamask.i
 ```
 
 ## References
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8860) — [source page](metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8859) — [source page](metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8858) — [source page](metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8857) — [source page](metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8856) — [source page](metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8855) — [source page](metamask.io/)
-- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8854) — [source page](metamask.io/card)
-- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8853) — [source page](metamask.io/card)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8860) — [source page](https://metamask.io/)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8859) — [source page](https://metamask.io/)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8858) — [source page](https://metamask.io/)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8857) — [source page](https://metamask.io/)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8856) — [source page](https://metamask.io/)
+- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8855) — [source page](https://metamask.io/)
+- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8854) — [source page](https://metamask.io/card)
+- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8853) — [source page](https://metamask.io/card)

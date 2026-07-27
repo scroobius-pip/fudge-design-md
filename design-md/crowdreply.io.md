@@ -295,11 +295,11 @@ Here is the visual system observed across **9 captured pages** from [crowdreply.
 ```
 
 ## References
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8154) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8153) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8152) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8151) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8150) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8149) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8148) — [source page](crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8147) — [source page](crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8154) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8153) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8152) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8151) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8150) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8149) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8148) — [source page](https://crowdreply.io/)
+- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8147) — [source page](https://crowdreply.io/)

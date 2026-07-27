@@ -174,7 +174,7 @@ Here is the visual system observed across **4 captured pages** from [jsfiddle.ne
 ```
 
 ## References
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8168) — [source page](jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8167) — [source page](jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8166) — [source page](jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8165) — [source page](jsfiddle.net/)
+- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8168) — [source page](https://jsfiddle.net/)
+- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8167) — [source page](https://jsfiddle.net/)
+- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8166) — [source page](https://jsfiddle.net/)
+- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8165) — [source page](https://jsfiddle.net/)

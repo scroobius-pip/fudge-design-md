@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [1community.c
 ```
 
 ## References
-- [About - 1Community](https://design.withfudge.com/pin/8829) — [source page](1community.com/about/)
+- [About - 1Community](https://design.withfudge.com/pin/8829) — [source page](https://1community.com/about/)

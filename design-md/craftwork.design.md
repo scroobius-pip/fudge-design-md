@@ -291,11 +291,11 @@ Here is the visual system observed across **22 captured pages** from [craftwork.
 ```
 
 ## References
-- [Curated Inspiration](https://design.withfudge.com/pin/7386) — [source page](craftwork.design/curated/sections)
-- [Curated Inspiration](https://design.withfudge.com/pin/3960) — [source page](craftwork.design/curated/sections)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2927) — [source page](craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2926) — [source page](craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2925) — [source page](craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1875) — [source page](craftwork.design/pro)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1874) — [source page](craftwork.design/pro)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1873) — [source page](craftwork.design/pro)
+- [Curated Inspiration](https://design.withfudge.com/pin/7386) — [source page](https://craftwork.design/curated/sections)
+- [Curated Inspiration](https://design.withfudge.com/pin/3960) — [source page](https://craftwork.design/curated/sections)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2927) — [source page](https://craftwork.design/newsletter)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2926) — [source page](https://craftwork.design/newsletter)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2925) — [source page](https://craftwork.design/newsletter)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1875) — [source page](https://craftwork.design/pro)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1874) — [source page](https://craftwork.design/pro)
+- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1873) — [source page](https://craftwork.design/pro)

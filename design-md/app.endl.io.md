@@ -111,4 +111,4 @@ Here is the visual system observed across **1 captured page** from [app.endl.io]
 ```
 
 ## References
-- [endl](https://design.withfudge.com/pin/9906) — [source page](app.endl.io/signup)
+- [endl](https://design.withfudge.com/pin/9906) — [source page](https://app.endl.io/signup)

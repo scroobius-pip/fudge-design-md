@@ -285,11 +285,11 @@ Here is the visual system observed across **10 captured pages** from [ogilvy.com
 ```
 
 ## References
-- [Influence Business Director |Ogilvy](https://design.withfudge.com/pin/9237) — [source page](ogilvy.com/careers/4676726005)
-- [About | Ogilvy](https://design.withfudge.com/pin/9236) — [source page](ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9235) — [source page](ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9234) — [source page](ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9233) — [source page](ogilvy.com/ideas)
-- [About | Ogilvy](https://design.withfudge.com/pin/9232) — [source page](ogilvy.com/team)
-- [Contact | Ogilvy](https://design.withfudge.com/pin/9231) — [source page](ogilvy.com/contact)
-- [Cost of Beauty - Dove | Our Work | Ogilvy](https://design.withfudge.com/pin/9230) — [source page](ogilvy.com/work/cost-beauty)
+- [Influence Business Director |Ogilvy](https://design.withfudge.com/pin/9237) — [source page](https://ogilvy.com/careers/4676726005)
+- [About | Ogilvy](https://design.withfudge.com/pin/9236) — [source page](https://ogilvy.com/careers)
+- [About | Ogilvy](https://design.withfudge.com/pin/9235) — [source page](https://ogilvy.com/careers)
+- [About | Ogilvy](https://design.withfudge.com/pin/9234) — [source page](https://ogilvy.com/careers)
+- [About | Ogilvy](https://design.withfudge.com/pin/9233) — [source page](https://ogilvy.com/ideas)
+- [About | Ogilvy](https://design.withfudge.com/pin/9232) — [source page](https://ogilvy.com/team)
+- [Contact | Ogilvy](https://design.withfudge.com/pin/9231) — [source page](https://ogilvy.com/contact)
+- [Cost of Beauty - Dove | Our Work | Ogilvy](https://design.withfudge.com/pin/9230) — [source page](https://ogilvy.com/work/cost-beauty)

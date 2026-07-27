@@ -241,9 +241,9 @@ Here is the visual system observed across **6 captured pages** from [redis.io](h
 ```
 
 ## References
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7591) — [source page](redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7590) — [source page](redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7589) — [source page](redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7588) — [source page](redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7587) — [source page](redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7586) — [source page](redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7591) — [source page](https://redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7590) — [source page](https://redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7589) — [source page](https://redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7588) — [source page](https://redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7587) — [source page](https://redis.io/)
+- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7586) — [source page](https://redis.io/)

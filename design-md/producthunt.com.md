@@ -168,8 +168,8 @@ Here is the visual system observed across **5 captured pages** from [producthunt
 ```
 
 ## References
-- [Best of Product Hunt: July 14, 2026 | Product Hunt](https://design.withfudge.com/pin/10088) — [source page](producthunt.com/leaderboard/daily/2026/7/14)
-- [Work Email Verification](https://design.withfudge.com/pin/10047) — [source page](producthunt.com/my/work-email-verify)
-- [Product Hunt Advertising](https://design.withfudge.com/pin/7371) — [source page](producthunt.com/sponsor)
-- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7370) — [source page](producthunt.com/topics/developer-tools)
-- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7369) — [source page](producthunt.com/topics/developer-tools)
+- [Best of Product Hunt: July 14, 2026 | Product Hunt](https://design.withfudge.com/pin/10088) — [source page](https://producthunt.com/leaderboard/daily/2026/7/14)
+- [Work Email Verification](https://design.withfudge.com/pin/10047) — [source page](https://producthunt.com/my/work-email-verify)
+- [Product Hunt Advertising](https://design.withfudge.com/pin/7371) — [source page](https://producthunt.com/sponsor)
+- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7370) — [source page](https://producthunt.com/topics/developer-tools)
+- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7369) — [source page](https://producthunt.com/topics/developer-tools)

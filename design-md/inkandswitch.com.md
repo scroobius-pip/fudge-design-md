@@ -90,4 +90,4 @@ Here is the visual system observed across **1 captured page** from [inkandswitch
 ```
 
 ## References
-- [Ink & Switch](https://design.withfudge.com/pin/8991) — [source page](inkandswitch.com/)
+- [Ink & Switch](https://design.withfudge.com/pin/8991) — [source page](https://inkandswitch.com/)

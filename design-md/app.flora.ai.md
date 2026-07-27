@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [app.flora.a
 ```
 
 ## References
-- [FLORA - Untitled](https://design.withfudge.com/pin/7889) — [source page](app.flora.ai/projects/ns74n4f8n7ymn4y8xfc5z64k0n82kn9m)
-- [FLORA - Projects](https://design.withfudge.com/pin/7888) — [source page](app.flora.ai/projects)
+- [FLORA - Untitled](https://design.withfudge.com/pin/7889) — [source page](https://app.flora.ai/projects/ns74n4f8n7ymn4y8xfc5z64k0n82kn9m)
+- [FLORA - Projects](https://design.withfudge.com/pin/7888) — [source page](https://app.flora.ai/projects)

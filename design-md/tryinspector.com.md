@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [tryinspector
 ```
 
 ## References
-- [Inspector - Edit your front-end, visually](https://design.withfudge.com/pin/7647) — [source page](tryinspector.com/)
+- [Inspector - Edit your front-end, visually](https://design.withfudge.com/pin/7647) — [source page](https://tryinspector.com/)

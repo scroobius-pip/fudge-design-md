@@ -110,4 +110,4 @@ Here is the visual system observed across **1 captured page** from [app.intercom
 ```
 
 ## References
-- [Intercom | The easiest way to see and talk to your users](https://design.withfudge.com/pin/9304) — [source page](app.intercom.com/admins/sign_up/email)
+- [Intercom | The easiest way to see and talk to your users](https://design.withfudge.com/pin/9304) — [source page](https://app.intercom.com/admins/sign_up/email)

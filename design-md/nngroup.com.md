@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [nngroup.com]
 ```
 
 ## References
-- [Nielsen Norman Group: UX Training, Consulting, & Research - NN/G](https://design.withfudge.com/pin/10169) — [source page](nngroup.com/)
+- [Nielsen Norman Group: UX Training, Consulting, & Research - NN/G](https://design.withfudge.com/pin/10169) — [source page](https://nngroup.com/)

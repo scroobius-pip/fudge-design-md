@@ -316,11 +316,11 @@ Here is the visual system observed across **19 captured pages** from [bfl.ai](ht
 ```
 
 ## References
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6151) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6150) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6149) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6148) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6147) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6146) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6145) — [source page](bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6144) — [source page](bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6151) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6150) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6149) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6148) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6147) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6146) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6145) — [source page](https://bfl.ai/)
+- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6144) — [source page](https://bfl.ai/)

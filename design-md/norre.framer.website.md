@@ -123,6 +123,6 @@ Here is the visual system observed across **3 captured pages** from [norre.frame
 ```
 
 ## References
-- [Norre](https://design.withfudge.com/pin/8045) — [source page](norre.framer.website/)
-- [Norre](https://design.withfudge.com/pin/5584) — [source page](norre.framer.website/)
-- [Norre](https://design.withfudge.com/pin/5583) — [source page](norre.framer.website/)
+- [Norre](https://design.withfudge.com/pin/8045) — [source page](https://norre.framer.website/)
+- [Norre](https://design.withfudge.com/pin/5584) — [source page](https://norre.framer.website/)
+- [Norre](https://design.withfudge.com/pin/5583) — [source page](https://norre.framer.website/)

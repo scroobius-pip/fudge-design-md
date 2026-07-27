@@ -269,11 +269,11 @@ Here is the visual system observed across **9 captured pages** from [x.com](http
 ```
 
 ## References
-- [X - The Everything App / X](https://design.withfudge.com/pin/10071) — [source page](x.com/i/jf/onboarding/web)
-- [(1) Ace of Razgriz on X: "How the cable was closing up &amp; catching of the CZ-10B 1st stage. https://t.co/HZsZmKkRHN" / X](https://design.withfudge.com/pin/9971) — [source page](x.com/i/premium_sign_up)
-- [Home / X](https://design.withfudge.com/pin/7333) — [source page](x.com/i/premium_sign_up)
-- [Explore / X](https://design.withfudge.com/pin/5046) — [source page](x.com/explore)
-- [Home / X](https://design.withfudge.com/pin/4817) — [source page](x.com/i/premium-business)
-- [Home / X](https://design.withfudge.com/pin/4816) — [source page](x.com/i/premium-business)
-- [Home / X](https://design.withfudge.com/pin/4815) — [source page](x.com/i/premium-business)
-- [Home / X](https://design.withfudge.com/pin/4814) — [source page](x.com/i/premium-business)
+- [X - The Everything App / X](https://design.withfudge.com/pin/10071) — [source page](https://x.com/i/jf/onboarding/web)
+- [(1) Ace of Razgriz on X: "How the cable was closing up &amp; catching of the CZ-10B 1st stage. https://t.co/HZsZmKkRHN" / X](https://design.withfudge.com/pin/9971) — [source page](https://x.com/i/premium_sign_up)
+- [Home / X](https://design.withfudge.com/pin/7333) — [source page](https://x.com/i/premium_sign_up)
+- [Explore / X](https://design.withfudge.com/pin/5046) — [source page](https://x.com/explore)
+- [Home / X](https://design.withfudge.com/pin/4817) — [source page](https://x.com/i/premium-business)
+- [Home / X](https://design.withfudge.com/pin/4816) — [source page](https://x.com/i/premium-business)
+- [Home / X](https://design.withfudge.com/pin/4815) — [source page](https://x.com/i/premium-business)
+- [Home / X](https://design.withfudge.com/pin/4814) — [source page](https://x.com/i/premium-business)

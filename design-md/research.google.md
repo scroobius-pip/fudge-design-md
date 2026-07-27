@@ -363,11 +363,11 @@ Here is the visual system observed across **14 captured pages** from [research.g
 ```
 
 ## References
-- [People – Google Research](https://design.withfudge.com/pin/9578) — [source page](research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9577) — [source page](research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9576) — [source page](research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9575) — [source page](research.google/people/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9574) — [source page](research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9573) — [source page](research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9572) — [source page](research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9571) — [source page](research.google/resources/)
+- [People – Google Research](https://design.withfudge.com/pin/9578) — [source page](https://research.google/people/)
+- [People – Google Research](https://design.withfudge.com/pin/9577) — [source page](https://research.google/people/)
+- [People – Google Research](https://design.withfudge.com/pin/9576) — [source page](https://research.google/people/)
+- [People – Google Research](https://design.withfudge.com/pin/9575) — [source page](https://research.google/people/)
+- [Resources – Google Research](https://design.withfudge.com/pin/9574) — [source page](https://research.google/resources/)
+- [Resources – Google Research](https://design.withfudge.com/pin/9573) — [source page](https://research.google/resources/)
+- [Resources – Google Research](https://design.withfudge.com/pin/9572) — [source page](https://research.google/resources/)
+- [Resources – Google Research](https://design.withfudge.com/pin/9571) — [source page](https://research.google/resources/)

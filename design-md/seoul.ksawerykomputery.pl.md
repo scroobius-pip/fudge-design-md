@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [seoul.ksawer
 ```
 
 ## References
-- [SEOUL](https://design.withfudge.com/pin/7935) — [source page](seoul.ksawerykomputery.pl/)
+- [SEOUL](https://design.withfudge.com/pin/7935) — [source page](https://seoul.ksawerykomputery.pl/)

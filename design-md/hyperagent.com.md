@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [hyperagent.
 ```
 
 ## References
-- [Hyperagent](https://design.withfudge.com/pin/8945) — [source page](hyperagent.com/)
-- [Hyperagent](https://design.withfudge.com/pin/8944) — [source page](hyperagent.com/)
+- [Hyperagent](https://design.withfudge.com/pin/8945) — [source page](https://hyperagent.com/)
+- [Hyperagent](https://design.withfudge.com/pin/8944) — [source page](https://hyperagent.com/)

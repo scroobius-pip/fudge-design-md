@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [floq.co.id](
 ```
 
 ## References
-- [Platform Investasi Aset Kripto Terpercaya di Indonesia](https://design.withfudge.com/pin/9923) — [source page](floq.co.id/)
+- [Platform Investasi Aset Kripto Terpercaya di Indonesia](https://design.withfudge.com/pin/9923) — [source page](https://floq.co.id/)

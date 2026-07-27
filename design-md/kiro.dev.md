@@ -139,6 +139,6 @@ Here is the visual system observed across **3 captured pages** from [kiro.dev](h
 ```
 
 ## References
-- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8141) — [source page](kiro.dev/)
-- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8140) — [source page](kiro.dev/)
-- [Pricing - Kiro](https://design.withfudge.com/pin/8139) — [source page](kiro.dev/pricing/)
+- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8141) — [source page](https://kiro.dev/)
+- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8140) — [source page](https://kiro.dev/)
+- [Pricing - Kiro](https://design.withfudge.com/pin/8139) — [source page](https://kiro.dev/pricing/)

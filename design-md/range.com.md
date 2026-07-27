@@ -208,10 +208,10 @@ Here is the visual system observed across **7 captured pages** from [range.com](
 ```
 
 ## References
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8933) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8932) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8931) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8930) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8929) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8928) — [source page](range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8927) — [source page](range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8933) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8932) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8931) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8930) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8929) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8928) — [source page](https://range.com/)
+- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8927) — [source page](https://range.com/)

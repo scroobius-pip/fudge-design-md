@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [drudgereport
 ```
 
 ## References
-- [DRUDGE REPORT 2026®](https://design.withfudge.com/pin/8999) — [source page](drudgereport.com/default.htm)
+- [DRUDGE REPORT 2026®](https://design.withfudge.com/pin/8999) — [source page](https://drudgereport.com/default.htm)

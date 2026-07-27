@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [app.setapp.c
 ```
 
 ## References
-- [Use GPT5, DALL-E 3, and other AI models within the Setapp AI+ toolkit](https://design.withfudge.com/pin/7674) — [source page](app.setapp.com/ai-plus)
+- [Use GPT5, DALL-E 3, and other AI models within the Setapp AI+ toolkit](https://design.withfudge.com/pin/7674) — [source page](https://app.setapp.com/ai-plus)

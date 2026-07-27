@@ -168,8 +168,8 @@ Here is the visual system observed across **5 captured pages** from [nova.lightm
 ```
 
 ## References
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6696) — [source page](nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6695) — [source page](nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6694) — [source page](nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6693) — [source page](nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6692) — [source page](nova.lightmode.io/)
+- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6696) — [source page](https://nova.lightmode.io/)
+- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6695) — [source page](https://nova.lightmode.io/)
+- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6694) — [source page](https://nova.lightmode.io/)
+- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6693) — [source page](https://nova.lightmode.io/)
+- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6692) — [source page](https://nova.lightmode.io/)

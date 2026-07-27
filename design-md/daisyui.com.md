@@ -194,8 +194,8 @@ Here is the visual system observed across **5 captured pages** from [daisyui.com
 ```
 
 ## References
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6207) — [source page](daisyui.com/theme-generator/)
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6206) — [source page](daisyui.com/theme-generator/)
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6205) — [source page](daisyui.com/theme-generator/)
-- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5972) — [source page](daisyui.com/)
-- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5971) — [source page](daisyui.com/)
+- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6207) — [source page](https://daisyui.com/theme-generator/)
+- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6206) — [source page](https://daisyui.com/theme-generator/)
+- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6205) — [source page](https://daisyui.com/theme-generator/)
+- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5972) — [source page](https://daisyui.com/)
+- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5971) — [source page](https://daisyui.com/)

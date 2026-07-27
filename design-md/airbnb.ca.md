@@ -299,11 +299,11 @@ Here is the visual system observed across **9 captured pages** from [airbnb.ca](
 ```
 
 ## References
-- [Pittsburgh, PA Vacation Rentals – Airbnb](https://design.withfudge.com/pin/10056) — [source page](airbnb.ca/pittsburgh-pa/stays)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10055) — [source page](airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10054) — [source page](airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10053) — [source page](airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10052) — [source page](airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10051) — [source page](airbnb.ca/rooms/1674567715400534990)
-- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10050) — [source page](airbnb.ca/s/Pittsburgh--PA/homes)
-- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10049) — [source page](airbnb.ca/s/Pittsburgh--PA/homes)
+- [Pittsburgh, PA Vacation Rentals – Airbnb](https://design.withfudge.com/pin/10056) — [source page](https://airbnb.ca/pittsburgh-pa/stays)
+- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10055) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10054) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10053) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10052) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10051) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10050) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
+- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10049) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)

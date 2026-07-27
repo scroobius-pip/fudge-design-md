@@ -111,4 +111,4 @@ Here is the visual system observed across **1 captured page** from [peon-ping.ve
 ```
 
 ## References
-- [peon-ping — Stop babysitting your terminal](https://design.withfudge.com/pin/6421) — [source page](peon-ping.vercel.app/)
+- [peon-ping — Stop babysitting your terminal](https://design.withfudge.com/pin/6421) — [source page](https://peon-ping.vercel.app/)

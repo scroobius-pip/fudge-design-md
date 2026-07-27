@@ -225,11 +225,11 @@ Here is the visual system observed across **8 captured pages** from [lelezhang.d
 ```
 
 ## References
-- [lele's website](https://design.withfudge.com/pin/6396) — [source page](lelezhang.design/chat-explorations)
-- [lele's website](https://design.withfudge.com/pin/5815) — [source page](lelezhang.design/)
-- [lele's website](https://design.withfudge.com/pin/5814) — [source page](lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4822) — [source page](lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4821) — [source page](lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4820) — [source page](lelezhang.design/chat-explorations)
-- [lele's portfolio](https://design.withfudge.com/pin/4819) — [source page](lelezhang.design/chat-explorations)
-- [lele's portfolio](https://design.withfudge.com/pin/4818) — [source page](lelezhang.design/chat-explorations)
+- [lele's website](https://design.withfudge.com/pin/6396) — [source page](https://lelezhang.design/chat-explorations)
+- [lele's website](https://design.withfudge.com/pin/5815) — [source page](https://lelezhang.design/)
+- [lele's website](https://design.withfudge.com/pin/5814) — [source page](https://lelezhang.design/)
+- [lele's portfolio](https://design.withfudge.com/pin/4822) — [source page](https://lelezhang.design/)
+- [lele's portfolio](https://design.withfudge.com/pin/4821) — [source page](https://lelezhang.design/)
+- [lele's portfolio](https://design.withfudge.com/pin/4820) — [source page](https://lelezhang.design/chat-explorations)
+- [lele's portfolio](https://design.withfudge.com/pin/4819) — [source page](https://lelezhang.design/chat-explorations)
+- [lele's portfolio](https://design.withfudge.com/pin/4818) — [source page](https://lelezhang.design/chat-explorations)

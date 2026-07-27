@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [minimax.io]
 ```
 
 ## References
-- [MiniMax](https://design.withfudge.com/pin/9509) — [source page](minimax.io/)
-- [MiniMax](https://design.withfudge.com/pin/9508) — [source page](minimax.io/)
+- [MiniMax](https://design.withfudge.com/pin/9509) — [source page](https://minimax.io/)
+- [MiniMax](https://design.withfudge.com/pin/9508) — [source page](https://minimax.io/)

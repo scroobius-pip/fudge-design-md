@@ -278,11 +278,11 @@ Here is the visual system observed across **11 captured pages** from [palse.gr](
 ```
 
 ## References
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6615) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6614) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6613) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6612) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6611) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6610) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6609) — [source page](palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6608) — [source page](palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6615) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6614) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6613) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6612) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6611) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6610) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6609) — [source page](https://palse.gr/)
+- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6608) — [source page](https://palse.gr/)

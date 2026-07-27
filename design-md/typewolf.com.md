@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [typewolf.co
 ```
 
 ## References
-- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6455) — [source page](typewolf.com/)
-- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6454) — [source page](typewolf.com/)
+- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6455) — [source page](https://typewolf.com/)
+- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6454) — [source page](https://typewolf.com/)

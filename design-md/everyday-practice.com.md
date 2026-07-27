@@ -200,8 +200,8 @@ Here is the visual system observed across **5 captured pages** from [everyday-pr
 ```
 
 ## References
-- [일상의실천](https://design.withfudge.com/pin/10374) — [source page](everyday-practice.com/poseuteo-poster-victionary/)
-- [일상의실천](https://design.withfudge.com/pin/10373) — [source page](everyday-practice.com/poseuteo-poster-victionary/)
-- [일상의실천](https://design.withfudge.com/pin/10372) — [source page](everyday-practice.com/)
-- [일상의실천](https://design.withfudge.com/pin/10371) — [source page](everyday-practice.com/)
-- [일상의실천](https://design.withfudge.com/pin/10370) — [source page](everyday-practice.com/)
+- [일상의실천](https://design.withfudge.com/pin/10374) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+- [일상의실천](https://design.withfudge.com/pin/10373) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+- [일상의실천](https://design.withfudge.com/pin/10372) — [source page](https://everyday-practice.com/)
+- [일상의실천](https://design.withfudge.com/pin/10371) — [source page](https://everyday-practice.com/)
+- [일상의실천](https://design.withfudge.com/pin/10370) — [source page](https://everyday-practice.com/)

@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [glimtapp.io]
 ```
 
 ## References
-- [Glimt — Mindful Breathing Reminders](https://design.withfudge.com/pin/8333) — [source page](glimtapp.io/)
+- [Glimt — Mindful Breathing Reminders](https://design.withfudge.com/pin/8333) — [source page](https://glimtapp.io/)

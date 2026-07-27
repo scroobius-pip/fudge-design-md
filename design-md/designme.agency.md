@@ -150,6 +150,6 @@ Here is the visual system observed across **3 captured pages** from [designme.ag
 ```
 
 ## References
-- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6409) — [source page](designme.agency/)
-- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6408) — [source page](designme.agency/)
-- [DesignMe - Your design partner for when average isn’t enough.](https://design.withfudge.com/pin/4899) — [source page](designme.agency/)
+- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6409) — [source page](https://designme.agency/)
+- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6408) — [source page](https://designme.agency/)
+- [DesignMe - Your design partner for when average isn’t enough.](https://design.withfudge.com/pin/4899) — [source page](https://designme.agency/)

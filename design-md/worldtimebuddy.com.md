@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [worldtimebud
 ```
 
 ## References
-- [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://design.withfudge.com/pin/8411) — [source page](worldtimebuddy.com/)
+- [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://design.withfudge.com/pin/8411) — [source page](https://worldtimebuddy.com/)

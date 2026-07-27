@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [clubhouse.c
 ```
 
 ## References
-- [Clubhouse](https://design.withfudge.com/pin/7585) — [source page](clubhouse.com/)
-- [Clubhouse](https://design.withfudge.com/pin/7584) — [source page](clubhouse.com/)
+- [Clubhouse](https://design.withfudge.com/pin/7585) — [source page](https://clubhouse.com/)
+- [Clubhouse](https://design.withfudge.com/pin/7584) — [source page](https://clubhouse.com/)

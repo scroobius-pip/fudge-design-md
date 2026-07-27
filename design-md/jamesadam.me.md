@@ -99,5 +99,5 @@ Here is the visual system observed across **2 captured pages** from [jamesadam.m
 ```
 
 ## References
-- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6344) — [source page](jamesadam.me/blog/introducing-growl/)
-- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6343) — [source page](jamesadam.me/blog/introducing-growl/)
+- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6344) — [source page](https://jamesadam.me/blog/introducing-growl/)
+- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6343) — [source page](https://jamesadam.me/blog/introducing-growl/)

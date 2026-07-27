@@ -239,10 +239,10 @@ Here is the visual system observed across **7 captured pages** from [mykc.cargo.
 ```
 
 ## References
-- [OSULLOC Brand Identity and Integrated Application Renewal - MYKC STUDIO](https://design.withfudge.com/pin/10403) — [source page](mykc.cargo.site/OSULLOC-Brand-Identity-and-Integrated-Application-Renewal)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10321) — [source page](mykc.cargo.site/Directory-Magazine)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10320) — [source page](mykc.cargo.site/Directory-Magazine)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10319) — [source page](mykc.cargo.site/Directory-Magazine)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10318) — [source page](mykc.cargo.site/PRO-SPECS-BRANDBOOK)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10317) — [source page](mykc.cargo.site/PRO-SPECS-BRANDBOOK)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10316) — [source page](mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+- [OSULLOC Brand Identity and Integrated Application Renewal - MYKC STUDIO](https://design.withfudge.com/pin/10403) — [source page](https://mykc.cargo.site/OSULLOC-Brand-Identity-and-Integrated-Application-Renewal)
+- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10321) — [source page](https://mykc.cargo.site/Directory-Magazine)
+- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10320) — [source page](https://mykc.cargo.site/Directory-Magazine)
+- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10319) — [source page](https://mykc.cargo.site/Directory-Magazine)
+- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10318) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10317) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10316) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)

@@ -374,11 +374,11 @@ Here is the visual system observed across **12 captured pages** from [allbirds.c
 ```
 
 ## References
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8958) — [source page](allbirds.com/pages/our-story)
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8957) — [source page](allbirds.com/pages/our-story)
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8956) — [source page](allbirds.com/pages/our-story)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8955) — [source page](allbirds.com/collections/mens-new-arrivals)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8954) — [source page](allbirds.com/collections/mens-new-arrivals)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8953) — [source page](allbirds.com/collections/mens-new-arrivals)
-- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8952) — [source page](allbirds.com/)
-- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8951) — [source page](allbirds.com/)
+- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8958) — [source page](https://allbirds.com/pages/our-story)
+- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8957) — [source page](https://allbirds.com/pages/our-story)
+- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8956) — [source page](https://allbirds.com/pages/our-story)
+- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8955) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8954) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8953) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8952) — [source page](https://allbirds.com/)
+- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8951) — [source page](https://allbirds.com/)

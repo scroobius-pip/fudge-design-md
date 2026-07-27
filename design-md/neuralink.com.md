@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [neuralink.c
 ```
 
 ## References
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7923) — [source page](neuralink.com/)
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7922) — [source page](neuralink.com/)
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7921) — [source page](neuralink.com/)
+- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7923) — [source page](https://neuralink.com/)
+- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7922) — [source page](https://neuralink.com/)
+- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7921) — [source page](https://neuralink.com/)

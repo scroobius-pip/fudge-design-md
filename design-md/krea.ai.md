@@ -184,8 +184,8 @@ Here is the visual system observed across **5 captured pages** from [krea.ai](ht
 ```
 
 ## References
-- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9749) — [source page](krea.ai/)
-- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9748) — [source page](krea.ai/)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9747) — [source page](krea.ai/krea-2)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9746) — [source page](krea.ai/krea-2)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9745) — [source page](krea.ai/krea-2)
+- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9749) — [source page](https://krea.ai/)
+- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9748) — [source page](https://krea.ai/)
+- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9747) — [source page](https://krea.ai/krea-2)
+- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9746) — [source page](https://krea.ai/krea-2)
+- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9745) — [source page](https://krea.ai/krea-2)

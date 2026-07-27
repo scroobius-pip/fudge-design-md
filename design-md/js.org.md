@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [js.org](http
 ```
 
 ## References
-- [JS.ORG - the JavaScript organization](https://design.withfudge.com/pin/8164) — [source page](js.org/)
+- [JS.ORG - the JavaScript organization](https://design.withfudge.com/pin/8164) — [source page](https://js.org/)

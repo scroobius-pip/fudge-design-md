@@ -198,7 +198,7 @@ Here is the visual system observed across **4 captured pages** from [hermes4.nou
 ```
 
 ## References
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7872) — [source page](hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7871) — [source page](hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7870) — [source page](hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7869) — [source page](hermes4.nousresearch.com/)
+- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7872) — [source page](https://hermes4.nousresearch.com/)
+- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7871) — [source page](https://hermes4.nousresearch.com/)
+- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7870) — [source page](https://hermes4.nousresearch.com/)
+- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7869) — [source page](https://hermes4.nousresearch.com/)

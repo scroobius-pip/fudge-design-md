@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [figr.design
 ```
 
 ## References
-- [Talk to Figr | Get Your Product Design Questions Answered](https://design.withfudge.com/pin/7414) — [source page](figr.design/contact)
-- [Figr - AI Design Agent for Product Teams | Ship UX Faster](https://design.withfudge.com/pin/7413) — [source page](figr.design/)
+- [Talk to Figr | Get Your Product Design Questions Answered](https://design.withfudge.com/pin/7414) — [source page](https://figr.design/contact)
+- [Figr - AI Design Agent for Product Teams | Ship UX Faster](https://design.withfudge.com/pin/7413) — [source page](https://figr.design/)

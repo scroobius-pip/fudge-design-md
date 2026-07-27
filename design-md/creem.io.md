@@ -213,9 +213,9 @@ Here is the visual system observed across **6 captured pages** from [creem.io](h
 ```
 
 ## References
-- [Creem](https://design.withfudge.com/pin/7119) — [source page](creem.io/)
-- [Creem](https://design.withfudge.com/pin/7118) — [source page](creem.io/)
-- [Creem](https://design.withfudge.com/pin/7117) — [source page](creem.io/)
-- [Creem](https://design.withfudge.com/pin/7116) — [source page](creem.io/)
-- [Creem](https://design.withfudge.com/pin/6201) — [source page](creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
-- [Creem](https://design.withfudge.com/pin/6200) — [source page](creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
+- [Creem](https://design.withfudge.com/pin/7119) — [source page](https://creem.io/)
+- [Creem](https://design.withfudge.com/pin/7118) — [source page](https://creem.io/)
+- [Creem](https://design.withfudge.com/pin/7117) — [source page](https://creem.io/)
+- [Creem](https://design.withfudge.com/pin/7116) — [source page](https://creem.io/)
+- [Creem](https://design.withfudge.com/pin/6201) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
+- [Creem](https://design.withfudge.com/pin/6200) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)

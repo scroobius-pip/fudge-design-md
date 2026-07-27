@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [polymarket.
 ```
 
 ## References
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8585) — [source page](polymarket.com/)
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8584) — [source page](polymarket.com/)
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8583) — [source page](polymarket.com/)
+- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8585) — [source page](https://polymarket.com/)
+- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8584) — [source page](https://polymarket.com/)
+- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8583) — [source page](https://polymarket.com/)

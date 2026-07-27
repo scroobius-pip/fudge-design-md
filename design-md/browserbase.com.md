@@ -298,11 +298,11 @@ Here is the visual system observed across **10 captured pages** from [browserbas
 ```
 
 ## References
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7920) — [source page](browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7919) — [source page](browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7918) — [source page](browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7917) — [source page](browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7916) — [source page](browserbase.com/pricing)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7915) — [source page](browserbase.com/)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7914) — [source page](browserbase.com/)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7913) — [source page](browserbase.com/)
+- [Pricing | Browserbase](https://design.withfudge.com/pin/7920) — [source page](https://browserbase.com/pricing)
+- [Pricing | Browserbase](https://design.withfudge.com/pin/7919) — [source page](https://browserbase.com/pricing)
+- [Pricing | Browserbase](https://design.withfudge.com/pin/7918) — [source page](https://browserbase.com/pricing)
+- [Pricing | Browserbase](https://design.withfudge.com/pin/7917) — [source page](https://browserbase.com/pricing)
+- [Pricing | Browserbase](https://design.withfudge.com/pin/7916) — [source page](https://browserbase.com/pricing)
+- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7915) — [source page](https://browserbase.com/)
+- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7914) — [source page](https://browserbase.com/)
+- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7913) — [source page](https://browserbase.com/)

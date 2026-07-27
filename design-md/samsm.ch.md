@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [samsm.ch](h
 ```
 
 ## References
-- [Notes on a trip to China | Sam Smith](https://design.withfudge.com/pin/9914) — [source page](samsm.ch/china-trip-2025/)
-- [Why I Like Small Keyboards | Sam Smith](https://design.withfudge.com/pin/9913) — [source page](samsm.ch/small-keyboards/)
+- [Notes on a trip to China | Sam Smith](https://design.withfudge.com/pin/9914) — [source page](https://samsm.ch/china-trip-2025/)
+- [Why I Like Small Keyboards | Sam Smith](https://design.withfudge.com/pin/9913) — [source page](https://samsm.ch/small-keyboards/)

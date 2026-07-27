@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [selkie.desi
 ```
 
 ## References
-- [Substage: A natural language command bar for your Finder windows.](https://design.withfudge.com/pin/8748) — [source page](selkie.design/substage/)
-- [Selkie Design](https://design.withfudge.com/pin/8700) — [source page](selkie.design/)
+- [Substage: A natural language command bar for your Finder windows.](https://design.withfudge.com/pin/8748) — [source page](https://selkie.design/substage/)
+- [Selkie Design](https://design.withfudge.com/pin/8700) — [source page](https://selkie.design/)

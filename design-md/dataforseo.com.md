@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [dataforseo.c
 ```
 
 ## References
-- [Powerful API Stack For Data-Driven SEO Tools – DataForSEO](https://design.withfudge.com/pin/9912) — [source page](dataforseo.com/)
+- [Powerful API Stack For Data-Driven SEO Tools – DataForSEO](https://design.withfudge.com/pin/9912) — [source page](https://dataforseo.com/)

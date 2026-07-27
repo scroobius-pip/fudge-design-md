@@ -284,11 +284,11 @@ Here is the visual system observed across **18 captured pages** from [pinterest.
 ```
 
 ## References
-- [Lofree Flow84](https://design.withfudge.com/pin/7928) — [source page](pinterest.com/pin/202873158210924306/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7175) — [source page](pinterest.com/business/hub/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7071) — [source page](pinterest.com/homefeed/)
-- [Pinterest](https://design.withfudge.com/pin/5912) — [source page](pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5911) — [source page](pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5910) — [source page](pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5909) — [source page](pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5379) — [source page](pinterest.com/search/pins/)
+- [Lofree Flow84](https://design.withfudge.com/pin/7928) — [source page](https://pinterest.com/pin/202873158210924306/)
+- [(2) Pinterest](https://design.withfudge.com/pin/7175) — [source page](https://pinterest.com/business/hub/)
+- [(2) Pinterest](https://design.withfudge.com/pin/7071) — [source page](https://pinterest.com/homefeed/)
+- [Pinterest](https://design.withfudge.com/pin/5912) — [source page](https://pinterest.com/business/hub/)
+- [Pinterest](https://design.withfudge.com/pin/5911) — [source page](https://pinterest.com/business/hub/)
+- [Pinterest](https://design.withfudge.com/pin/5910) — [source page](https://pinterest.com/business/hub/)
+- [Pinterest](https://design.withfudge.com/pin/5909) — [source page](https://pinterest.com/business/hub/)
+- [Pinterest](https://design.withfudge.com/pin/5379) — [source page](https://pinterest.com/search/pins/)

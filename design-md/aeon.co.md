@@ -217,9 +217,9 @@ Here is the visual system observed across **6 captured pages** from [aeon.co](ht
 ```
 
 ## References
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6526) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6525) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6524) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6523) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6522) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6521) — [source page](aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6526) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6525) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6524) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6523) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6522) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6521) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)

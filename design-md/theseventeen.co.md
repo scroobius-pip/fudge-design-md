@@ -154,6 +154,6 @@ Here is the visual system observed across **3 captured pages** from [theseventee
 ```
 
 ## References
-- [The Seventeen](https://design.withfudge.com/pin/7306) — [source page](theseventeen.co/)
-- [The Seventeen](https://design.withfudge.com/pin/7305) — [source page](theseventeen.co/)
-- [The Seventeen](https://design.withfudge.com/pin/7304) — [source page](theseventeen.co/)
+- [The Seventeen](https://design.withfudge.com/pin/7306) — [source page](https://theseventeen.co/)
+- [The Seventeen](https://design.withfudge.com/pin/7305) — [source page](https://theseventeen.co/)
+- [The Seventeen](https://design.withfudge.com/pin/7304) — [source page](https://theseventeen.co/)

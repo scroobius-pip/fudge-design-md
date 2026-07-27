@@ -325,11 +325,11 @@ Here is the visual system observed across **27 captured pages** from [fontofweb.
 ```
 
 ## References
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/9262) — [source page](fontofweb.com/search/pins)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8776) — [source page](fontofweb.com/pin/641)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8775) — [source page](fontofweb.com/pin/641)
-- [خط الويب: إلهام التصميم المدعوم بالذكاء الاصطناعي واكتشاف الخطوط](https://design.withfudge.com/pin/8577) — [source page](fontofweb.com/search/pins)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8535) — [source page](fontofweb.com/pin/7792)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8460) — [source page](fontofweb.com/)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8224) — [source page](fontofweb.com/search/pins)
-- [Design Inspiration From thebutterinbetween.com/stories](https://design.withfudge.com/pin/8052) — [source page](fontofweb.com/search/pins)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/9262) — [source page](https://fontofweb.com/search/pins)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8776) — [source page](https://fontofweb.com/pin/641)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8775) — [source page](https://fontofweb.com/pin/641)
+- [خط الويب: إلهام التصميم المدعوم بالذكاء الاصطناعي واكتشاف الخطوط](https://design.withfudge.com/pin/8577) — [source page](https://fontofweb.com/search/pins)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8535) — [source page](https://fontofweb.com/pin/7792)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8460) — [source page](https://fontofweb.com/)
+- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8224) — [source page](https://fontofweb.com/search/pins)
+- [Design Inspiration From thebutterinbetween.com/stories](https://design.withfudge.com/pin/8052) — [source page](https://fontofweb.com/search/pins)

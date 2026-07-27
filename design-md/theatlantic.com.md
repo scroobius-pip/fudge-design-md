@@ -226,8 +226,8 @@ Here is the visual system observed across **5 captured pages** from [theatlantic
 ```
 
 ## References
-- [World Edition - The Atlantic](https://design.withfudge.com/pin/9453) — [source page](theatlantic.com/world/)
-- [World Edition - The Atlantic](https://design.withfudge.com/pin/8964) — [source page](theatlantic.com/world/)
-- [The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://design.withfudge.com/pin/6191) — [source page](theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
-- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2764) — [source page](theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2763) — [source page](theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- [World Edition - The Atlantic](https://design.withfudge.com/pin/9453) — [source page](https://theatlantic.com/world/)
+- [World Edition - The Atlantic](https://design.withfudge.com/pin/8964) — [source page](https://theatlantic.com/world/)
+- [The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://design.withfudge.com/pin/6191) — [source page](https://theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
+- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2764) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2763) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)

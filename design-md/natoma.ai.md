@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [natoma.ai](
 ```
 
 ## References
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7711) — [source page](natoma.ai/)
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7710) — [source page](natoma.ai/)
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7709) — [source page](natoma.ai/)
+- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7711) — [source page](https://natoma.ai/)
+- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7710) — [source page](https://natoma.ai/)
+- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7709) — [source page](https://natoma.ai/)

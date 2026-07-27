@@ -169,6 +169,6 @@ Here is the visual system observed across **3 captured pages** from [getdesign.m
 ```
 
 ## References
-- [Design System Analysis: Apple](https://design.withfudge.com/pin/9863) — [source page](getdesign.md/apple/design-md)
-- [Design System Analysis: Apple](https://design.withfudge.com/pin/9862) — [source page](getdesign.md/apple/design-md)
-- [getdesign.md — DESIGN.md collection for AI coding agents](https://design.withfudge.com/pin/9861) — [source page](getdesign.md/)
+- [Design System Analysis: Apple](https://design.withfudge.com/pin/9863) — [source page](https://getdesign.md/apple/design-md)
+- [Design System Analysis: Apple](https://design.withfudge.com/pin/9862) — [source page](https://getdesign.md/apple/design-md)
+- [getdesign.md — DESIGN.md collection for AI coding agents](https://design.withfudge.com/pin/9861) — [source page](https://getdesign.md/)

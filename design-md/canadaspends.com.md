@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [canadaspend
 ```
 
 ## References
-- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6907) — [source page](canadaspends.com/en/federal/spending)
-- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6906) — [source page](canadaspends.com/en/federal/spending)
+- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6907) — [source page](https://canadaspends.com/en/federal/spending)
+- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6906) — [source page](https://canadaspends.com/en/federal/spending)

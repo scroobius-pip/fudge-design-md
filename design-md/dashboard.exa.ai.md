@@ -158,5 +158,5 @@ Here is the visual system observed across **2 captured pages** from [dashboard.e
 ```
 
 ## References
-- [Home | Exa API](https://design.withfudge.com/pin/9452) — [source page](dashboard.exa.ai/home)
-- [API Keys | Exa API](https://design.withfudge.com/pin/9451) — [source page](dashboard.exa.ai/api-keys)
+- [Home | Exa API](https://design.withfudge.com/pin/9452) — [source page](https://dashboard.exa.ai/home)
+- [API Keys | Exa API](https://design.withfudge.com/pin/9451) — [source page](https://dashboard.exa.ai/api-keys)

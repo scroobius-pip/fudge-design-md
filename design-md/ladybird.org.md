@@ -202,9 +202,9 @@ Here is the visual system observed across **6 captured pages** from [ladybird.or
 ```
 
 ## References
-- [Ladybird](https://design.withfudge.com/pin/6980) — [source page](ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6979) — [source page](ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6978) — [source page](ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6977) — [source page](ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6976) — [source page](ladybird.org/)
-- [Ladybird adopts Rust, with help from AI - Ladybird](https://design.withfudge.com/pin/6975) — [source page](ladybird.org/posts/adopting-rust/)
+- [Ladybird](https://design.withfudge.com/pin/6980) — [source page](https://ladybird.org/)
+- [Ladybird](https://design.withfudge.com/pin/6979) — [source page](https://ladybird.org/)
+- [Ladybird](https://design.withfudge.com/pin/6978) — [source page](https://ladybird.org/)
+- [Ladybird](https://design.withfudge.com/pin/6977) — [source page](https://ladybird.org/)
+- [Ladybird](https://design.withfudge.com/pin/6976) — [source page](https://ladybird.org/)
+- [Ladybird adopts Rust, with help from AI - Ladybird](https://design.withfudge.com/pin/6975) — [source page](https://ladybird.org/posts/adopting-rust/)

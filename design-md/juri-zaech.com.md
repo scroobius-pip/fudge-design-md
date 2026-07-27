@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [juri-zaech.c
 ```
 
 ## References
-- [JURI ZÆCH](https://design.withfudge.com/pin/6951) — [source page](juri-zaech.com/)
+- [JURI ZÆCH](https://design.withfudge.com/pin/6951) — [source page](https://juri-zaech.com/)

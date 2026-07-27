@@ -196,8 +196,8 @@ Here is the visual system observed across **5 captured pages** from [snorkel.ai]
 ```
 
 ## References
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9591) — [source page](snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9590) — [source page](snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9589) — [source page](snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9588) — [source page](snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9587) — [source page](snorkel.ai/)
+- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9591) — [source page](https://snorkel.ai/)
+- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9590) — [source page](https://snorkel.ai/)
+- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9589) — [source page](https://snorkel.ai/)
+- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9588) — [source page](https://snorkel.ai/)
+- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9587) — [source page](https://snorkel.ai/)

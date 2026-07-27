@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [getlago.com]
 ```
 
 ## References
-- [Lago | Open-Source Billing Infrastructure](https://design.withfudge.com/pin/9750) — [source page](getlago.com/)
+- [Lago | Open-Source Billing Infrastructure](https://design.withfudge.com/pin/9750) — [source page](https://getlago.com/)

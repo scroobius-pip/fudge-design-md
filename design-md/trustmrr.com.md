@@ -193,8 +193,8 @@ Here is the visual system observed across **5 captured pages** from [trustmrr.co
 ```
 
 ## References
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7519) — [source page](trustmrr.com/dashboard)
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7518) — [source page](trustmrr.com/dashboard)
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7517) — [source page](trustmrr.com/dashboard)
-- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7516) — [source page](trustmrr.com/)
-- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7515) — [source page](trustmrr.com/)
+- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7519) — [source page](https://trustmrr.com/dashboard)
+- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7518) — [source page](https://trustmrr.com/dashboard)
+- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7517) — [source page](https://trustmrr.com/dashboard)
+- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7516) — [source page](https://trustmrr.com/)
+- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7515) — [source page](https://trustmrr.com/)

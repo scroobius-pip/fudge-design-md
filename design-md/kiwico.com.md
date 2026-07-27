@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [kiwico.com](
 ```
 
 ## References
-- [Seriously fun hands-on learning for curious kids of all ages | KiwiCo](https://design.withfudge.com/pin/9476) — [source page](kiwico.com/)
+- [Seriously fun hands-on learning for curious kids of all ages | KiwiCo](https://design.withfudge.com/pin/9476) — [source page](https://kiwico.com/)

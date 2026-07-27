@@ -404,11 +404,11 @@ Here is the visual system observed across **42 captured pages** from [claude.ai]
 ```
 
 ## References
-- [Sign in - Claude](https://design.withfudge.com/pin/9549) — [source page](claude.ai/login)
-- [Sign in - Claude](https://design.withfudge.com/pin/9266) — [source page](claude.ai/login)
-- [Axya Design System](https://design.withfudge.com/pin/8942) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8941) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8940) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8939) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8938) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8937) — [source page](claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Sign in - Claude](https://design.withfudge.com/pin/9549) — [source page](https://claude.ai/login)
+- [Sign in - Claude](https://design.withfudge.com/pin/9266) — [source page](https://claude.ai/login)
+- [Axya Design System](https://design.withfudge.com/pin/8942) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Axya Design System](https://design.withfudge.com/pin/8941) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Axya Design System](https://design.withfudge.com/pin/8940) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Axya Design System](https://design.withfudge.com/pin/8939) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Axya Design System](https://design.withfudge.com/pin/8938) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+- [Axya Design System](https://design.withfudge.com/pin/8937) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)

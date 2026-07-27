@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [wero-wallet
 ```
 
 ## References
-- [Wero - Digital payment wallet](https://design.withfudge.com/pin/6825) — [source page](wero-wallet.eu/)
-- [Wero - Digital payment wallet](https://design.withfudge.com/pin/6824) — [source page](wero-wallet.eu/)
+- [Wero - Digital payment wallet](https://design.withfudge.com/pin/6825) — [source page](https://wero-wallet.eu/)
+- [Wero - Digital payment wallet](https://design.withfudge.com/pin/6824) — [source page](https://wero-wallet.eu/)

@@ -107,5 +107,5 @@ Here is the visual system observed across **2 captured pages** from [metalab.com
 ```
 
 ## References
-- [Robinhood | Product design case study](https://design.withfudge.com/pin/9785) — [source page](metalab.com/work/robinhood)
-- [Robinhood | Product design case study](https://design.withfudge.com/pin/9784) — [source page](metalab.com/work/robinhood)
+- [Robinhood | Product design case study](https://design.withfudge.com/pin/9785) — [source page](https://metalab.com/work/robinhood)
+- [Robinhood | Product design case study](https://design.withfudge.com/pin/9784) — [source page](https://metalab.com/work/robinhood)

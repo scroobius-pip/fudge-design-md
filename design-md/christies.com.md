@@ -257,11 +257,11 @@ Here is the visual system observed across **8 captured pages** from [christies.c
 ```
 
 ## References
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7384) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7383) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7382) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7381) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7376) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7375) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7374) — [source page](christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7373) — [source page](christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7384) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7383) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7382) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7381) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7376) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7375) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7374) — [source page](https://christies.com/)
+- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7373) — [source page](https://christies.com/)

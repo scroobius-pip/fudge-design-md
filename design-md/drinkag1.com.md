@@ -320,11 +320,11 @@ Here is the visual system observed across **15 captured pages** from [drinkag1.c
 ```
 
 ## References
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6222) — [source page](drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6221) — [source page](drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6220) — [source page](drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6219) — [source page](drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6218) — [source page](drinkag1.com/)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6217) — [source page](drinkag1.com/partner/general-partnerships)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6216) — [source page](drinkag1.com/partner/general-partnerships)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6215) — [source page](drinkag1.com/partner/general-partnerships)
+- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6222) — [source page](https://drinkag1.com/)
+- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6221) — [source page](https://drinkag1.com/)
+- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6220) — [source page](https://drinkag1.com/)
+- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6219) — [source page](https://drinkag1.com/)
+- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6218) — [source page](https://drinkag1.com/)
+- [AG1 | Get Started](https://design.withfudge.com/pin/6217) — [source page](https://drinkag1.com/partner/general-partnerships)
+- [AG1 | Get Started](https://design.withfudge.com/pin/6216) — [source page](https://drinkag1.com/partner/general-partnerships)
+- [AG1 | Get Started](https://design.withfudge.com/pin/6215) — [source page](https://drinkag1.com/partner/general-partnerships)

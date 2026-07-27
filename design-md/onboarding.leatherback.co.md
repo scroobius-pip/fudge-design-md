@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [onboarding.l
 ```
 
 ## References
-- [Onboarding | Leatherback - Fastest Crossborder Payments.](https://design.withfudge.com/pin/7275) — [source page](onboarding.leatherback.co/get-started-individual)
+- [Onboarding | Leatherback - Fastest Crossborder Payments.](https://design.withfudge.com/pin/7275) — [source page](https://onboarding.leatherback.co/get-started-individual)

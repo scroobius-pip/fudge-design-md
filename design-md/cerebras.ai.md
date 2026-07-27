@@ -290,11 +290,11 @@ Here is the visual system observed across **26 captured pages** from [cerebras.a
 ```
 
 ## References
-- [Cerebras](https://design.withfudge.com/pin/9329) — [source page](cerebras.ai/)
-- [Careers](https://design.withfudge.com/pin/3203) — [source page](cerebras.ai/open-positions)
-- [Cerebras](https://design.withfudge.com/pin/3202) — [source page](cerebras.ai/join-us)
-- [Cerebras](https://design.withfudge.com/pin/3201) — [source page](cerebras.ai/join-us)
-- [Cerebras](https://design.withfudge.com/pin/3200) — [source page](cerebras.ai/build-with-us)
-- [Cerebras](https://design.withfudge.com/pin/3199) — [source page](cerebras.ai/build-with-us)
-- [Cerebras](https://design.withfudge.com/pin/3198) — [source page](cerebras.ai/company)
-- [Cerebras](https://design.withfudge.com/pin/3197) — [source page](cerebras.ai/company)
+- [Cerebras](https://design.withfudge.com/pin/9329) — [source page](https://cerebras.ai/)
+- [Careers](https://design.withfudge.com/pin/3203) — [source page](https://cerebras.ai/open-positions)
+- [Cerebras](https://design.withfudge.com/pin/3202) — [source page](https://cerebras.ai/join-us)
+- [Cerebras](https://design.withfudge.com/pin/3201) — [source page](https://cerebras.ai/join-us)
+- [Cerebras](https://design.withfudge.com/pin/3200) — [source page](https://cerebras.ai/build-with-us)
+- [Cerebras](https://design.withfudge.com/pin/3199) — [source page](https://cerebras.ai/build-with-us)
+- [Cerebras](https://design.withfudge.com/pin/3198) — [source page](https://cerebras.ai/company)
+- [Cerebras](https://design.withfudge.com/pin/3197) — [source page](https://cerebras.ai/company)

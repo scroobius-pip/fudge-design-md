@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [artstation.
 ```
 
 ## References
-- [ArtStation - Daniel Reid](https://design.withfudge.com/pin/8864) — [source page](artstation.com/danielcannata)
-- [ArtStation - All Channels](https://design.withfudge.com/pin/2253) — [source page](artstation.com/)
+- [ArtStation - Daniel Reid](https://design.withfudge.com/pin/8864) — [source page](https://artstation.com/danielcannata)
+- [ArtStation - All Channels](https://design.withfudge.com/pin/2253) — [source page](https://artstation.com/)

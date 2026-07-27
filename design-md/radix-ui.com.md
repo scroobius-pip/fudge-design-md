@@ -315,11 +315,11 @@ Here is the visual system observed across **10 captured pages** from [radix-ui.c
 ```
 
 ## References
-- [Radix UI](https://design.withfudge.com/pin/8038) — [source page](radix-ui.com/)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8037) — [source page](radix-ui.com/themes/playground)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8036) — [source page](radix-ui.com/themes/playground)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8035) — [source page](radix-ui.com/themes/playground)
-- [Create a custom palette – Radix Colors](https://design.withfudge.com/pin/8034) — [source page](radix-ui.com/colors/custom)
-- [Radix Colors](https://design.withfudge.com/pin/8033) — [source page](radix-ui.com/colors)
-- [Radix Icons](https://design.withfudge.com/pin/8032) — [source page](radix-ui.com/icons)
-- [Radix Primitives](https://design.withfudge.com/pin/8031) — [source page](radix-ui.com/primitives)
+- [Radix UI](https://design.withfudge.com/pin/8038) — [source page](https://radix-ui.com/)
+- [Playground – Radix Themes](https://design.withfudge.com/pin/8037) — [source page](https://radix-ui.com/themes/playground)
+- [Playground – Radix Themes](https://design.withfudge.com/pin/8036) — [source page](https://radix-ui.com/themes/playground)
+- [Playground – Radix Themes](https://design.withfudge.com/pin/8035) — [source page](https://radix-ui.com/themes/playground)
+- [Create a custom palette – Radix Colors](https://design.withfudge.com/pin/8034) — [source page](https://radix-ui.com/colors/custom)
+- [Radix Colors](https://design.withfudge.com/pin/8033) — [source page](https://radix-ui.com/colors)
+- [Radix Icons](https://design.withfudge.com/pin/8032) — [source page](https://radix-ui.com/icons)
+- [Radix Primitives](https://design.withfudge.com/pin/8031) — [source page](https://radix-ui.com/primitives)

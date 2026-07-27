@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [riavrn.ru](h
 ```
 
 ## References
-- [Воронежские памятники Великой Отечественной войны: «Три самолета»](https://design.withfudge.com/pin/9103) — [source page](riavrn.ru/districts/semiluksky/voronezhskie-pamyatniki-velikoj-otechestvennoj-vojny-tri-samoleta/)
+- [Воронежские памятники Великой Отечественной войны: «Три самолета»](https://design.withfudge.com/pin/9103) — [source page](https://riavrn.ru/districts/semiluksky/voronezhskie-pamyatniki-velikoj-otechestvennoj-vojny-tri-samoleta/)

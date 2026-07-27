@@ -87,4 +87,4 @@ Here is the visual system observed across **1 captured page** from [npmjs.com](h
 ```
 
 ## References
-- [npm | Create New Organization](https://design.withfudge.com/pin/7646) — [source page](npmjs.com/org/create)
+- [npm | Create New Organization](https://design.withfudge.com/pin/7646) — [source page](https://npmjs.com/org/create)

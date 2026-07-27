@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [cinepolis.co
 ```
 
 ## References
-- [Cinépolis | Entra](https://design.withfudge.com/pin/8441) — [source page](cinepolis.com/mx)
+- [Cinépolis | Entra](https://design.withfudge.com/pin/8441) — [source page](https://cinepolis.com/mx)

@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [note.com](ht
 ```
 
 ## References
-- [note ――つくる、つながる、とどける。](https://design.withfudge.com/pin/8099) — [source page](note.com/)
+- [note ――つくる、つながる、とどける。](https://design.withfudge.com/pin/8099) — [source page](https://note.com/)

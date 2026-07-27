@@ -345,11 +345,11 @@ Here is the visual system observed across **36 captured pages** from [elevenlabs
 ```
 
 ## References
-- [Studio | ElevenLabs](https://design.withfudge.com/pin/9196) — [source page](elevenlabs.io/app/studio)
-- [Home | ElevenLabs](https://design.withfudge.com/pin/9195) — [source page](elevenlabs.io/app/home)
-- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9194) — [source page](elevenlabs.io/)
-- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9193) — [source page](elevenlabs.io/)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9192) — [source page](elevenlabs.io/agents)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9191) — [source page](elevenlabs.io/agents)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9190) — [source page](elevenlabs.io/agents)
-- [ElevenLabs Pricing for Creators & Businesses of All Sizes](https://design.withfudge.com/pin/4926) — [source page](elevenlabs.io/pricing)
+- [Studio | ElevenLabs](https://design.withfudge.com/pin/9196) — [source page](https://elevenlabs.io/app/studio)
+- [Home | ElevenLabs](https://design.withfudge.com/pin/9195) — [source page](https://elevenlabs.io/app/home)
+- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9194) — [source page](https://elevenlabs.io/)
+- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9193) — [source page](https://elevenlabs.io/)
+- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9192) — [source page](https://elevenlabs.io/agents)
+- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9191) — [source page](https://elevenlabs.io/agents)
+- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9190) — [source page](https://elevenlabs.io/agents)
+- [ElevenLabs Pricing for Creators & Businesses of All Sizes](https://design.withfudge.com/pin/4926) — [source page](https://elevenlabs.io/pricing)

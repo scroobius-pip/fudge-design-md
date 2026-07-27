@@ -335,11 +335,11 @@ Here is the visual system observed across **8 captured pages** from [impeccable.
 ```
 
 ## References
-- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9917) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9916) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7738) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7737) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7736) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7735) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7734) — [source page](impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7733) — [source page](impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9917) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9916) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7738) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7737) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7736) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7735) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7734) — [source page](https://impeccable.style/)
+- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7733) — [source page](https://impeccable.style/)

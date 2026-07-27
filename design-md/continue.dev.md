@@ -237,9 +237,9 @@ Here is the visual system observed across **6 captured pages** from [continue.de
 ```
 
 ## References
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8680) — [source page](continue.dev/)
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8679) — [source page](continue.dev/)
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8678) — [source page](continue.dev/)
-- [Continue • About Us](https://design.withfudge.com/pin/6709) — [source page](continue.dev/about-us)
-- [Continue • About Us](https://design.withfudge.com/pin/6708) — [source page](continue.dev/about-us)
-- [Continue • Ship as fast as you code](https://design.withfudge.com/pin/6707) — [source page](continue.dev/)
+- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8680) — [source page](https://continue.dev/)
+- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8679) — [source page](https://continue.dev/)
+- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8678) — [source page](https://continue.dev/)
+- [Continue • About Us](https://design.withfudge.com/pin/6709) — [source page](https://continue.dev/about-us)
+- [Continue • About Us](https://design.withfudge.com/pin/6708) — [source page](https://continue.dev/about-us)
+- [Continue • Ship as fast as you code](https://design.withfudge.com/pin/6707) — [source page](https://continue.dev/)

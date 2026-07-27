@@ -321,11 +321,11 @@ Here is the visual system observed across **40 captured pages** from [anthropic.
 ```
 
 ## References
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9505) — [source page](anthropic.com/institute/recursive-self-improvement)
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9504) — [source page](anthropic.com/institute/recursive-self-improvement)
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9503) — [source page](anthropic.com/institute/recursive-self-improvement)
-- [Harness design for long-running application development \ Anthropic](https://design.withfudge.com/pin/8483) — [source page](anthropic.com/engineering/harness-design-long-running-apps)
-- [Home \ Anthropic](https://design.withfudge.com/pin/6290) — [source page](anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5069) — [source page](anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5068) — [source page](anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5067) — [source page](anthropic.com/)
+- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9505) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9504) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9503) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+- [Harness design for long-running application development \ Anthropic](https://design.withfudge.com/pin/8483) — [source page](https://anthropic.com/engineering/harness-design-long-running-apps)
+- [Home \ Anthropic](https://design.withfudge.com/pin/6290) — [source page](https://anthropic.com/)
+- [Home \ Anthropic](https://design.withfudge.com/pin/5069) — [source page](https://anthropic.com/)
+- [Home \ Anthropic](https://design.withfudge.com/pin/5068) — [source page](https://anthropic.com/)
+- [Home \ Anthropic](https://design.withfudge.com/pin/5067) — [source page](https://anthropic.com/)

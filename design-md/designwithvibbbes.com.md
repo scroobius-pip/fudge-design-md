@@ -240,10 +240,10 @@ Here is the visual system observed across **7 captured pages** from [designwithv
 ```
 
 ## References
-- [Captured page 7194](https://design.withfudge.com/pin/7194) — [source page](designwithvibbbes.com/pricing)
-- [Captured page 7193](https://design.withfudge.com/pin/7193) — [source page](designwithvibbbes.com/pricing)
-- [Captured page 7192](https://design.withfudge.com/pin/7192) — [source page](designwithvibbbes.com/docs)
-- [Captured page 7191](https://design.withfudge.com/pin/7191) — [source page](designwithvibbbes.com/docs)
-- [Captured page 7190](https://design.withfudge.com/pin/7190) — [source page](designwithvibbbes.com/docs)
-- [Captured page 7189](https://design.withfudge.com/pin/7189) — [source page](designwithvibbbes.com/)
-- [Captured page 7188](https://design.withfudge.com/pin/7188) — [source page](designwithvibbbes.com/)
+- [Captured page 7194](https://design.withfudge.com/pin/7194) — [source page](https://designwithvibbbes.com/pricing)
+- [Captured page 7193](https://design.withfudge.com/pin/7193) — [source page](https://designwithvibbbes.com/pricing)
+- [Captured page 7192](https://design.withfudge.com/pin/7192) — [source page](https://designwithvibbbes.com/docs)
+- [Captured page 7191](https://design.withfudge.com/pin/7191) — [source page](https://designwithvibbbes.com/docs)
+- [Captured page 7190](https://design.withfudge.com/pin/7190) — [source page](https://designwithvibbbes.com/docs)
+- [Captured page 7189](https://design.withfudge.com/pin/7189) — [source page](https://designwithvibbbes.com/)
+- [Captured page 7188](https://design.withfudge.com/pin/7188) — [source page](https://designwithvibbbes.com/)

@@ -94,4 +94,4 @@ Here is the visual system observed across **1 captured page** from [markerchun.c
 ```
 
 ## References
-- [markerchun - NEO80](https://design.withfudge.com/pin/9124) — [source page](markerchun.com/neo80)
+- [markerchun - NEO80](https://design.withfudge.com/pin/9124) — [source page](https://markerchun.com/neo80)

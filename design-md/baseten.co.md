@@ -244,10 +244,10 @@ Here is the visual system observed across **7 captured pages** from [baseten.co]
 ```
 
 ## References
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9328) — [source page](baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9327) — [source page](baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9326) — [source page](baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9325) — [source page](baseten.co/products/dedicated-inference/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9324) — [source page](baseten.co/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9323) — [source page](baseten.co/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9008) — [source page](baseten.co/)
+- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9328) — [source page](https://baseten.co/products/dedicated-inference/)
+- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9327) — [source page](https://baseten.co/products/dedicated-inference/)
+- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9326) — [source page](https://baseten.co/products/dedicated-inference/)
+- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9325) — [source page](https://baseten.co/products/dedicated-inference/)
+- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9324) — [source page](https://baseten.co/)
+- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9323) — [source page](https://baseten.co/)
+- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9008) — [source page](https://baseten.co/)

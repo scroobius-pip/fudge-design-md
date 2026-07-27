@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [identity.fli
 ```
 
 ## References
-- [Flickr Login](https://design.withfudge.com/pin/8231) — [source page](identity.flickr.com/login)
+- [Flickr Login](https://design.withfudge.com/pin/8231) — [source page](https://identity.flickr.com/login)

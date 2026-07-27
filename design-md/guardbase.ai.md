@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [guardbase.ai
 ```
 
 ## References
-- [Guardbase](https://design.withfudge.com/pin/6501) — [source page](guardbase.ai/)
+- [Guardbase](https://design.withfudge.com/pin/6501) — [source page](https://guardbase.ai/)

@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [roomfive.net
 ```
 
 ## References
-- [Freelance Web Designer and Developer in Los Angeles — Andrew Couldwell](https://design.withfudge.com/pin/8698) — [source page](roomfive.net/)
+- [Freelance Web Designer and Developer in Los Angeles — Andrew Couldwell](https://design.withfudge.com/pin/8698) — [source page](https://roomfive.net/)

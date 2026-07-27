@@ -362,11 +362,11 @@ Here is the visual system observed across **14 captured pages** from [app.standa
 ```
 
 ## References
-- [Standards - FontofWeb](https://design.withfudge.com/pin/8524) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8523) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8522) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8521) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8520) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8519) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8518) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8517) — [source page](app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - FontofWeb](https://design.withfudge.com/pin/8524) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8523) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8522) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8521) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8520) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8519) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8518) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- [Standards - Project Setup](https://design.withfudge.com/pin/8517) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)

@@ -166,6 +166,6 @@ Here is the visual system observed across **3 captured pages** from [kiwijo.com]
 ```
 
 ## References
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8049) — [source page](kiwijo.com/)
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8048) — [source page](kiwijo.com/)
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8047) — [source page](kiwijo.com/)
+- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8049) — [source page](https://kiwijo.com/)
+- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8048) — [source page](https://kiwijo.com/)
+- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8047) — [source page](https://kiwijo.com/)

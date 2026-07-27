@@ -382,11 +382,11 @@ Here is the visual system observed across **12 captured pages** from [superlist.
 ```
 
 ## References
-- [Open Source](https://design.withfudge.com/pin/8890) — [source page](superlist.com/open-source)
-- [Superlist Pricing: Free Plan & Team Plans for Task Management](https://design.withfudge.com/pin/8889) — [source page](superlist.com/pricing)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8888) — [source page](superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8887) — [source page](superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8886) — [source page](superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8885) — [source page](superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8884) — [source page](superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8883) — [source page](superlist.com/)
+- [Open Source](https://design.withfudge.com/pin/8890) — [source page](https://superlist.com/open-source)
+- [Superlist Pricing: Free Plan & Team Plans for Task Management](https://design.withfudge.com/pin/8889) — [source page](https://superlist.com/pricing)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8888) — [source page](https://superlist.com/)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8887) — [source page](https://superlist.com/)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8886) — [source page](https://superlist.com/)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8885) — [source page](https://superlist.com/)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8884) — [source page](https://superlist.com/)
+- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8883) — [source page](https://superlist.com/)

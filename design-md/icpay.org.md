@@ -300,11 +300,11 @@ Here is the visual system observed across **11 captured pages** from [icpay.org]
 ```
 
 ## References
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7760) — [source page](icpay.org/en-US/explore)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7758) — [source page](icpay.org/en-US/auth/signup)
-- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7757) — [source page](icpay.org/en-US/onboarding)
-- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7756) — [source page](icpay.org/en-US/onboarding)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7755) — [source page](icpay.org/en-US/features)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7754) — [source page](icpay.org/en-US)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7753) — [source page](icpay.org/en-US)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7752) — [source page](icpay.org/en-US)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7760) — [source page](https://icpay.org/en-US/explore)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7758) — [source page](https://icpay.org/en-US/auth/signup)
+- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7757) — [source page](https://icpay.org/en-US/onboarding)
+- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7756) — [source page](https://icpay.org/en-US/onboarding)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7755) — [source page](https://icpay.org/en-US/features)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7754) — [source page](https://icpay.org/en-US)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7753) — [source page](https://icpay.org/en-US)
+- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7752) — [source page](https://icpay.org/en-US)

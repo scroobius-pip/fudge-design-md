@@ -119,5 +119,5 @@ Here is the visual system observed across **2 captured pages** from [lucumr.poco
 ```
 
 ## References
-- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7057) — [source page](lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
-- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7056) — [source page](lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
+- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7057) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
+- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7056) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)

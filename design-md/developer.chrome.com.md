@@ -166,8 +166,8 @@ Here is the visual system observed across **5 captured pages** from [developer.c
 ```
 
 ## References
-- [Documentation  |  Docs  |  Chrome for Developers](https://design.withfudge.com/pin/6427) — [source page](developer.chrome.com/docs)
-- [Chrome for Developers](https://design.withfudge.com/pin/6426) — [source page](developer.chrome.com/)
-- [Chrome for Developers](https://design.withfudge.com/pin/6425) — [source page](developer.chrome.com/)
-- [Chrome for Developers](https://design.withfudge.com/pin/6424) — [source page](developer.chrome.com/)
-- [404  |  Page Not Found  |  Chrome for Developers](https://design.withfudge.com/pin/5809) — [source page](developer.chrome.com/extensions/experimental_devtools_console)
+- [Documentation  |  Docs  |  Chrome for Developers](https://design.withfudge.com/pin/6427) — [source page](https://developer.chrome.com/docs)
+- [Chrome for Developers](https://design.withfudge.com/pin/6426) — [source page](https://developer.chrome.com/)
+- [Chrome for Developers](https://design.withfudge.com/pin/6425) — [source page](https://developer.chrome.com/)
+- [Chrome for Developers](https://design.withfudge.com/pin/6424) — [source page](https://developer.chrome.com/)
+- [404  |  Page Not Found  |  Chrome for Developers](https://design.withfudge.com/pin/5809) — [source page](https://developer.chrome.com/extensions/experimental_devtools_console)

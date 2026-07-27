@@ -225,11 +225,11 @@ Here is the visual system observed across **8 captured pages** from [instantdb.c
 ```
 
 ## References
-- [Instant Pricing](https://design.withfudge.com/pin/8779) — [source page](instantdb.com/pricing)
-- [Instant](https://design.withfudge.com/pin/8778) — [source page](instantdb.com/)
-- [Captured page 1705](https://design.withfudge.com/pin/1705) — [source page](instantdb.com/dash)
-- [Instant](https://design.withfudge.com/pin/1704) — [source page](instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1703) — [source page](instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1702) — [source page](instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1701) — [source page](instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1700) — [source page](instantdb.com/)
+- [Instant Pricing](https://design.withfudge.com/pin/8779) — [source page](https://instantdb.com/pricing)
+- [Instant](https://design.withfudge.com/pin/8778) — [source page](https://instantdb.com/)
+- [Captured page 1705](https://design.withfudge.com/pin/1705) — [source page](https://instantdb.com/dash)
+- [Instant](https://design.withfudge.com/pin/1704) — [source page](https://instantdb.com/)
+- [Instant](https://design.withfudge.com/pin/1703) — [source page](https://instantdb.com/)
+- [Instant](https://design.withfudge.com/pin/1702) — [source page](https://instantdb.com/)
+- [Instant](https://design.withfudge.com/pin/1701) — [source page](https://instantdb.com/)
+- [Instant](https://design.withfudge.com/pin/1700) — [source page](https://instantdb.com/)

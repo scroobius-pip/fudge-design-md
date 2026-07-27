@@ -329,11 +329,11 @@ Here is the visual system observed across **37 captured pages** from [nvg8.io](h
 ```
 
 ## References
-- [Navigate](https://design.withfudge.com/pin/8491) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8490) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8489) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8488) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8487) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6542) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6541) — [source page](nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6540) — [source page](nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/8491) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/8490) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/8489) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/8488) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/8487) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/6542) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/6541) — [source page](https://nvg8.io/)
+- [Navigate](https://design.withfudge.com/pin/6540) — [source page](https://nvg8.io/)

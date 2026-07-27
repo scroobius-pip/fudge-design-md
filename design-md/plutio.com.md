@@ -245,11 +245,11 @@ Here is the visual system observed across **8 captured pages** from [plutio.com]
 ```
 
 ## References
-- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8367) — [source page](plutio.com/pricing)
-- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8366) — [source page](plutio.com/pricing)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8365) — [source page](plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8364) — [source page](plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8363) — [source page](plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8362) — [source page](plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8361) — [source page](plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8360) — [source page](plutio.com/)
+- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8367) — [source page](https://plutio.com/pricing)
+- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8366) — [source page](https://plutio.com/pricing)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8365) — [source page](https://plutio.com/)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8364) — [source page](https://plutio.com/)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8363) — [source page](https://plutio.com/)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8362) — [source page](https://plutio.com/)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8361) — [source page](https://plutio.com/)
+- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8360) — [source page](https://plutio.com/)

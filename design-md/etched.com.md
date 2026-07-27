@@ -257,11 +257,11 @@ Here is the visual system observed across **8 captured pages** from [etched.com]
 ```
 
 ## References
-- [Join Us | Etched](https://design.withfudge.com/pin/9873) — [source page](etched.com/join)
-- [Join Us | Etched](https://design.withfudge.com/pin/9872) — [source page](etched.com/join)
-- [Etched](https://design.withfudge.com/pin/9871) — [source page](etched.com/)
-- [Etched](https://design.withfudge.com/pin/9870) — [source page](etched.com/)
-- [Etched](https://design.withfudge.com/pin/9869) — [source page](etched.com/)
-- [Etched](https://design.withfudge.com/pin/9868) — [source page](etched.com/)
-- [Etched](https://design.withfudge.com/pin/9867) — [source page](etched.com/)
-- [Etched](https://design.withfudge.com/pin/9866) — [source page](etched.com/)
+- [Join Us | Etched](https://design.withfudge.com/pin/9873) — [source page](https://etched.com/join)
+- [Join Us | Etched](https://design.withfudge.com/pin/9872) — [source page](https://etched.com/join)
+- [Etched](https://design.withfudge.com/pin/9871) — [source page](https://etched.com/)
+- [Etched](https://design.withfudge.com/pin/9870) — [source page](https://etched.com/)
+- [Etched](https://design.withfudge.com/pin/9869) — [source page](https://etched.com/)
+- [Etched](https://design.withfudge.com/pin/9868) — [source page](https://etched.com/)
+- [Etched](https://design.withfudge.com/pin/9867) — [source page](https://etched.com/)
+- [Etched](https://design.withfudge.com/pin/9866) — [source page](https://etched.com/)

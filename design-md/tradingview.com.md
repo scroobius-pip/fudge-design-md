@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [tradingview
 ```
 
 ## References
-- [Economic Calendar — World Economic Events — TradingView](https://design.withfudge.com/pin/9494) — [source page](tradingview.com/economic-calendar/)
-- [TradingView Subscriptions: Pricing and Features](https://design.withfudge.com/pin/9493) — [source page](tradingview.com/pricing/)
+- [Economic Calendar — World Economic Events — TradingView](https://design.withfudge.com/pin/9494) — [source page](https://tradingview.com/economic-calendar/)
+- [TradingView Subscriptions: Pricing and Features](https://design.withfudge.com/pin/9493) — [source page](https://tradingview.com/pricing/)

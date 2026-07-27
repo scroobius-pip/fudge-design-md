@@ -222,9 +222,9 @@ Here is the visual system observed across **6 captured pages** from [traderepubl
 ```
 
 ## References
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9943) — [source page](traderepublic.com/en-de/about)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9942) — [source page](traderepublic.com/en-de/about)
-- [Support 24/7: Call and Chat](https://design.withfudge.com/pin/9941) — [source page](traderepublic.com/en-de/support)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9940) — [source page](traderepublic.com/en-de)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9939) — [source page](traderepublic.com/en-de)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9938) — [source page](traderepublic.com/en-de)
+- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9943) — [source page](https://traderepublic.com/en-de/about)
+- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9942) — [source page](https://traderepublic.com/en-de/about)
+- [Support 24/7: Call and Chat](https://design.withfudge.com/pin/9941) — [source page](https://traderepublic.com/en-de/support)
+- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9940) — [source page](https://traderepublic.com/en-de)
+- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9939) — [source page](https://traderepublic.com/en-de)
+- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9938) — [source page](https://traderepublic.com/en-de)

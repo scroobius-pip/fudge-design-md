@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [delve.co](h
 ```
 
 ## References
-- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8219) — [source page](delve.co/)
-- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8218) — [source page](delve.co/)
+- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8219) — [source page](https://delve.co/)
+- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8218) — [source page](https://delve.co/)

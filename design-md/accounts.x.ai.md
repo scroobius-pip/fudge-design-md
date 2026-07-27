@@ -227,10 +227,10 @@ Here is the visual system observed across **7 captured pages** from [accounts.x.
 ```
 
 ## References
-- [Your SpaceXAI API Account | SpaceXAI Accounts](https://design.withfudge.com/pin/10437) — [source page](accounts.x.ai/account)
-- [Device Sign-in | Grok](https://design.withfudge.com/pin/10204) — [source page](accounts.x.ai/oauth2/device/done)
-- [Authorize — Grok | Grok](https://design.withfudge.com/pin/10203) — [source page](accounts.x.ai/oauth2/device/consent)
-- [Device Sign-in | Grok](https://design.withfudge.com/pin/10202) — [source page](accounts.x.ai/oauth2/device)
-- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4140) — [source page](accounts.x.ai/account)
-- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4139) — [source page](accounts.x.ai/account)
-- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4138) — [source page](accounts.x.ai/account)
+- [Your SpaceXAI API Account | SpaceXAI Accounts](https://design.withfudge.com/pin/10437) — [source page](https://accounts.x.ai/account)
+- [Device Sign-in | Grok](https://design.withfudge.com/pin/10204) — [source page](https://accounts.x.ai/oauth2/device/done)
+- [Authorize — Grok | Grok](https://design.withfudge.com/pin/10203) — [source page](https://accounts.x.ai/oauth2/device/consent)
+- [Device Sign-in | Grok](https://design.withfudge.com/pin/10202) — [source page](https://accounts.x.ai/oauth2/device)
+- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4140) — [source page](https://accounts.x.ai/account)
+- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4139) — [source page](https://accounts.x.ai/account)
+- [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4138) — [source page](https://accounts.x.ai/account)

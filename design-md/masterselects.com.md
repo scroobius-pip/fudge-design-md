@@ -144,7 +144,7 @@ Here is the visual system observed across **4 captured pages** from [masterselec
 ```
 
 ## References
-- [MASterSelects](https://design.withfudge.com/pin/6252) — [source page](masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6251) — [source page](masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6250) — [source page](masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6248) — [source page](masterselects.com/)
+- [MASterSelects](https://design.withfudge.com/pin/6252) — [source page](https://masterselects.com/)
+- [MASterSelects](https://design.withfudge.com/pin/6251) — [source page](https://masterselects.com/)
+- [MASterSelects](https://design.withfudge.com/pin/6250) — [source page](https://masterselects.com/)
+- [MASterSelects](https://design.withfudge.com/pin/6248) — [source page](https://masterselects.com/)

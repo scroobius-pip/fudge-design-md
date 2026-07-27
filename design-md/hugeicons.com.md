@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [hugeicons.c
 ```
 
 ## References
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6629) — [source page](hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6628) — [source page](hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6627) — [source page](hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6626) — [source page](hugeicons.com/)
+- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6629) — [source page](https://hugeicons.com/)
+- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6628) — [source page](https://hugeicons.com/)
+- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6627) — [source page](https://hugeicons.com/)
+- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6626) — [source page](https://hugeicons.com/)

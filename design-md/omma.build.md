@@ -321,11 +321,11 @@ Here is the visual system observed across **13 captured pages** from [omma.build
 ```
 
 ## References
-- [Omma](https://design.withfudge.com/pin/8400) — [source page](omma.build/components)
-- [Omma](https://design.withfudge.com/pin/8399) — [source page](omma.build/components)
-- [Omma](https://design.withfudge.com/pin/8398) — [source page](omma.build/components)
-- [Omma](https://design.withfudge.com/pin/8391) — [source page](omma.build/g1qyo7stdq9)
-- [Omma](https://design.withfudge.com/pin/8390) — [source page](omma.build/community/z8sl5wt0zi6v)
-- [Omma](https://design.withfudge.com/pin/8389) — [source page](omma.build/community/z8sl5wt0zi6v)
-- [Omma](https://design.withfudge.com/pin/8388) — [source page](omma.build/)
-- [Omma](https://design.withfudge.com/pin/8387) — [source page](omma.build/)
+- [Omma](https://design.withfudge.com/pin/8400) — [source page](https://omma.build/components)
+- [Omma](https://design.withfudge.com/pin/8399) — [source page](https://omma.build/components)
+- [Omma](https://design.withfudge.com/pin/8398) — [source page](https://omma.build/components)
+- [Omma](https://design.withfudge.com/pin/8391) — [source page](https://omma.build/g1qyo7stdq9)
+- [Omma](https://design.withfudge.com/pin/8390) — [source page](https://omma.build/community/z8sl5wt0zi6v)
+- [Omma](https://design.withfudge.com/pin/8389) — [source page](https://omma.build/community/z8sl5wt0zi6v)
+- [Omma](https://design.withfudge.com/pin/8388) — [source page](https://omma.build/)
+- [Omma](https://design.withfudge.com/pin/8387) — [source page](https://omma.build/)

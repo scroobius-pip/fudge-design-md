@@ -224,8 +224,8 @@ Here is the visual system observed across **5 captured pages** from [styles.refe
 ```
 
 ## References
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9858) — [source page](styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9857) — [source page](styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9856) — [source page](styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9855) — [source page](styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9854) — [source page](styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9858) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9857) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9856) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9855) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9854) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)

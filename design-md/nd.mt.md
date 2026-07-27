@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [nd.mt](https
 ```
 
 ## References
-- [nd.mt](https://design.withfudge.com/pin/7054) — [source page](nd.mt/)
+- [nd.mt](https://design.withfudge.com/pin/7054) — [source page](https://nd.mt/)

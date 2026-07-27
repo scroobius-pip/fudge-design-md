@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [usepanda.com
 ```
 
 ## References
-- [Panda — The homepage for your favorite websites](https://design.withfudge.com/pin/7428) — [source page](usepanda.com/)
+- [Panda — The homepage for your favorite websites](https://design.withfudge.com/pin/7428) — [source page](https://usepanda.com/)

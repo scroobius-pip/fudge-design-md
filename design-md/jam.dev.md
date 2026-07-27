@@ -307,11 +307,11 @@ Here is the visual system observed across **9 captured pages** from [jam.dev](ht
 ```
 
 ## References
-- [Jam - Pricing](https://design.withfudge.com/pin/8002) — [source page](jam.dev/pricing)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8001) — [source page](jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8000) — [source page](jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7999) — [source page](jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7998) — [source page](jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7997) — [source page](jam.dev/)
-- [Pls fix](https://design.withfudge.com/pin/6645) — [source page](jam.dev/plsfix)
-- [Pls fix](https://design.withfudge.com/pin/6644) — [source page](jam.dev/plsfix)
+- [Jam - Pricing](https://design.withfudge.com/pin/8002) — [source page](https://jam.dev/pricing)
+- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8001) — [source page](https://jam.dev/)
+- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8000) — [source page](https://jam.dev/)
+- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7999) — [source page](https://jam.dev/)
+- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7998) — [source page](https://jam.dev/)
+- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7997) — [source page](https://jam.dev/)
+- [Pls fix](https://design.withfudge.com/pin/6645) — [source page](https://jam.dev/plsfix)
+- [Pls fix](https://design.withfudge.com/pin/6644) — [source page](https://jam.dev/plsfix)

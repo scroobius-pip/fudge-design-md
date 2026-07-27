@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [forbes.com]
 ```
 
 ## References
-- [Innovation](https://design.withfudge.com/pin/9036) — [source page](forbes.com/innovation/)
-- [Forbes](https://design.withfudge.com/pin/9035) — [source page](forbes.com/)
+- [Innovation](https://design.withfudge.com/pin/9036) — [source page](https://forbes.com/innovation/)
+- [Forbes](https://design.withfudge.com/pin/9035) — [source page](https://forbes.com/)

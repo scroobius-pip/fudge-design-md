@@ -278,11 +278,11 @@ Here is the visual system observed across **34 captured pages** from [awwwards.c
 ```
 
 ## References
-- [OceanX 2025 - Awwwards SOTD](https://design.withfudge.com/pin/6996) — [source page](awwwards.com/sites/oceanx-2025)
-- [Jobs for Web Designers and Developers](https://design.withfudge.com/pin/6995) — [source page](awwwards.com/jobs/)
-- [Actbe Inc. - Awwwards Honorable Mention](https://design.withfudge.com/pin/5789) — [source page](awwwards.com/sites/actbe-inc)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5788) — [source page](awwwards.com/sites/herve-baillargeon)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5787) — [source page](awwwards.com/sites/stenger-bike)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5786) — [source page](awwwards.com/sites/lowes-innovation-labs)
-- [Awwwards - Website Awards - Best Web Design Trends](https://design.withfudge.com/pin/3078) — [source page](awwwards.com/)
-- [Awwwards](https://design.withfudge.com/pin/243) — [source page](awwwards.com/faqs/)
+- [OceanX 2025 - Awwwards SOTD](https://design.withfudge.com/pin/6996) — [source page](https://awwwards.com/sites/oceanx-2025)
+- [Jobs for Web Designers and Developers](https://design.withfudge.com/pin/6995) — [source page](https://awwwards.com/jobs/)
+- [Actbe Inc. - Awwwards Honorable Mention](https://design.withfudge.com/pin/5789) — [source page](https://awwwards.com/sites/actbe-inc)
+- [Locomotive - Awwwards](https://design.withfudge.com/pin/5788) — [source page](https://awwwards.com/sites/herve-baillargeon)
+- [Locomotive - Awwwards](https://design.withfudge.com/pin/5787) — [source page](https://awwwards.com/sites/stenger-bike)
+- [Locomotive - Awwwards](https://design.withfudge.com/pin/5786) — [source page](https://awwwards.com/sites/lowes-innovation-labs)
+- [Awwwards - Website Awards - Best Web Design Trends](https://design.withfudge.com/pin/3078) — [source page](https://awwwards.com/)
+- [Awwwards](https://design.withfudge.com/pin/243) — [source page](https://awwwards.com/faqs/)

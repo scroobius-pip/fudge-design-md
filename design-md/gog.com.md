@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [gog.com](htt
 ```
 
 ## References
-- [GOG.com](https://design.withfudge.com/pin/6569) — [source page](gog.com/account)
+- [GOG.com](https://design.withfudge.com/pin/6569) — [source page](https://gog.com/account)

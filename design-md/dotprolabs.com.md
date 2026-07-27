@@ -211,8 +211,8 @@ Here is the visual system observed across **5 captured pages** from [dotprolabs.
 ```
 
 ## References
-- [DotPro Labs](https://design.withfudge.com/pin/7494) — [source page](dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7493) — [source page](dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7492) — [source page](dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7491) — [source page](dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7490) — [source page](dotprolabs.com/)
+- [DotPro Labs](https://design.withfudge.com/pin/7494) — [source page](https://dotprolabs.com/)
+- [DotPro Labs](https://design.withfudge.com/pin/7493) — [source page](https://dotprolabs.com/)
+- [DotPro Labs](https://design.withfudge.com/pin/7492) — [source page](https://dotprolabs.com/)
+- [DotPro Labs](https://design.withfudge.com/pin/7491) — [source page](https://dotprolabs.com/)
+- [DotPro Labs](https://design.withfudge.com/pin/7490) — [source page](https://dotprolabs.com/)

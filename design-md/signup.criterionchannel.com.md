@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [signup.crit
 ```
 
 ## References
-- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7909) — [source page](signup.criterionchannel.com/)
-- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7908) — [source page](signup.criterionchannel.com/)
+- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7909) — [source page](https://signup.criterionchannel.com/)
+- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7908) — [source page](https://signup.criterionchannel.com/)

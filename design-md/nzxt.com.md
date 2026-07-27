@@ -174,7 +174,7 @@ Here is the visual system observed across **4 captured pages** from [nzxt.com](h
 ```
 
 ## References
-- [Small Form Factor](https://design.withfudge.com/pin/7092) — [source page](nzxt.com/en-intl/collections/small-form-factor)
-- [Small Form Factor](https://design.withfudge.com/pin/7091) — [source page](nzxt.com/en-intl/collections/small-form-factor)
-- [Small Form Factor](https://design.withfudge.com/pin/7090) — [source page](nzxt.com/en-intl/collections/small-form-factor)
-- [NZXT | H2 Flow | Mini-ITX Airflow Case](https://design.withfudge.com/pin/7089) — [source page](nzxt.com/en-intl/products/h2-flow)
+- [Small Form Factor](https://design.withfudge.com/pin/7092) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+- [Small Form Factor](https://design.withfudge.com/pin/7091) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+- [Small Form Factor](https://design.withfudge.com/pin/7090) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+- [NZXT | H2 Flow | Mini-ITX Airflow Case](https://design.withfudge.com/pin/7089) — [source page](https://nzxt.com/en-intl/products/h2-flow)

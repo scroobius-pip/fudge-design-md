@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [opencollect
 ```
 
 ## References
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6777) — [source page](opencollective.com/)
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6776) — [source page](opencollective.com/)
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6775) — [source page](opencollective.com/)
+- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6777) — [source page](https://opencollective.com/)
+- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6776) — [source page](https://opencollective.com/)
+- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6775) — [source page](https://opencollective.com/)

@@ -336,11 +336,11 @@ Here is the visual system observed across **8 captured pages** from [spectrum.ie
 ```
 
 ## References
-- [Noise-Driven Computing: A Paradigm Shift - IEEE Spectrum](https://design.withfudge.com/pin/10431) — [source page](spectrum.ieee.org/thermodynamic-computing-normal-computing)
-- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10416) — [source page](spectrum.ieee.org/biggest-probabilistic-computer)
-- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10415) — [source page](spectrum.ieee.org/biggest-probabilistic-computer)
-- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10414) — [source page](spectrum.ieee.org/biggest-probabilistic-computer)
-- [Biosignals, Robotics, and Rehabilitation - IEEE Spectrum](https://design.withfudge.com/pin/3405) — [source page](spectrum.ieee.org/biosignals-robotics-and-rehabilitation)
-- [Robot Videos: Speedy Drone Landing, CoRL Floor, More - IEEE Spectrum](https://design.withfudge.com/pin/3404) — [source page](spectrum.ieee.org/video-friday-speedy-drone-landing)
-- [How Robotics Is Powering the Future of Innovation - IEEE Spectrum](https://design.withfudge.com/pin/3403) — [source page](spectrum.ieee.org/how-robotics-is-powering-the-future-of-innovation)
-- [How Robotics Is Powering the Future of Innovation - IEEE Spectrum](https://design.withfudge.com/pin/3402) — [source page](spectrum.ieee.org/how-robotics-is-powering-the-future-of-innovation)
+- [Noise-Driven Computing: A Paradigm Shift - IEEE Spectrum](https://design.withfudge.com/pin/10431) — [source page](https://spectrum.ieee.org/thermodynamic-computing-normal-computing)
+- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10416) — [source page](https://spectrum.ieee.org/biggest-probabilistic-computer)
+- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10415) — [source page](https://spectrum.ieee.org/biggest-probabilistic-computer)
+- [Biggest Probabilistic Computer Turns Noise Into Answers - IEEE Spectrum](https://design.withfudge.com/pin/10414) — [source page](https://spectrum.ieee.org/biggest-probabilistic-computer)
+- [Biosignals, Robotics, and Rehabilitation - IEEE Spectrum](https://design.withfudge.com/pin/3405) — [source page](https://spectrum.ieee.org/biosignals-robotics-and-rehabilitation)
+- [Robot Videos: Speedy Drone Landing, CoRL Floor, More - IEEE Spectrum](https://design.withfudge.com/pin/3404) — [source page](https://spectrum.ieee.org/video-friday-speedy-drone-landing)
+- [How Robotics Is Powering the Future of Innovation - IEEE Spectrum](https://design.withfudge.com/pin/3403) — [source page](https://spectrum.ieee.org/how-robotics-is-powering-the-future-of-innovation)
+- [How Robotics Is Powering the Future of Innovation - IEEE Spectrum](https://design.withfudge.com/pin/3402) — [source page](https://spectrum.ieee.org/how-robotics-is-powering-the-future-of-innovation)

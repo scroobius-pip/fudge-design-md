@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [qntm.org](h
 ```
 
 ## References
-- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/6490) — [source page](qntm.org/)
-- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/5100) — [source page](qntm.org/)
+- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/6490) — [source page](https://qntm.org/)
+- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/5100) — [source page](https://qntm.org/)

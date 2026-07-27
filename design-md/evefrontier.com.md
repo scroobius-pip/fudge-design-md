@@ -192,7 +192,7 @@ Here is the visual system observed across **4 captured pages** from [evefrontier
 ```
 
 ## References
-- [EVE Frontier](https://design.withfudge.com/pin/9922) — [source page](evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9921) — [source page](evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9920) — [source page](evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9919) — [source page](evefrontier.com/en)
+- [EVE Frontier](https://design.withfudge.com/pin/9922) — [source page](https://evefrontier.com/en)
+- [EVE Frontier](https://design.withfudge.com/pin/9921) — [source page](https://evefrontier.com/en)
+- [EVE Frontier](https://design.withfudge.com/pin/9920) — [source page](https://evefrontier.com/en)
+- [EVE Frontier](https://design.withfudge.com/pin/9919) — [source page](https://evefrontier.com/en)

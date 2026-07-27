@@ -317,11 +317,11 @@ Here is the visual system observed across **9 captured pages** from [pay.google.
 ```
 
 ## References
-- [Dashboard: Google Pay & Wallet Console](https://design.withfudge.com/pin/7174) — [source page](pay.google.com/business/console/home/BCR2DN5TW2P7PKRR)
-- [Google Pay API: Google Pay & Wallet Console](https://design.withfudge.com/pin/7173) — [source page](pay.google.com/business/console/payment/BCR2DN5TW2P7PKRR)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7172) — [source page](pay.google.com/intl/en_us/about/)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7171) — [source page](pay.google.com/intl/en_us/about/)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7170) — [source page](pay.google.com/intl/en_us/about/)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7169) — [source page](pay.google.com/intl/en_us/about/)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7168) — [source page](pay.google.com/intl/en_us/about/)
-- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7167) — [source page](pay.google.com/intl/en_us/about/)
+- [Dashboard: Google Pay & Wallet Console](https://design.withfudge.com/pin/7174) — [source page](https://pay.google.com/business/console/home/BCR2DN5TW2P7PKRR)
+- [Google Pay API: Google Pay & Wallet Console](https://design.withfudge.com/pin/7173) — [source page](https://pay.google.com/business/console/payment/BCR2DN5TW2P7PKRR)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7172) — [source page](https://pay.google.com/intl/en_us/about/)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7171) — [source page](https://pay.google.com/intl/en_us/about/)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7170) — [source page](https://pay.google.com/intl/en_us/about/)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7169) — [source page](https://pay.google.com/intl/en_us/about/)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7168) — [source page](https://pay.google.com/intl/en_us/about/)
+- [Google Pay - Seamlessly Pay Online, Pay In Stores or Send Money](https://design.withfudge.com/pin/7167) — [source page](https://pay.google.com/intl/en_us/about/)

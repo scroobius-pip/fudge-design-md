@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [wonder.so](h
 ```
 
 ## References
-- [Wonder - Design like Magic](https://design.withfudge.com/pin/8335) — [source page](wonder.so/)
+- [Wonder - Design like Magic](https://design.withfudge.com/pin/8335) — [source page](https://wonder.so/)

@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [ghostty.org]
 ```
 
 ## References
-- [Ghostty](https://design.withfudge.com/pin/7560) — [source page](ghostty.org/)
+- [Ghostty](https://design.withfudge.com/pin/7560) — [source page](https://ghostty.org/)

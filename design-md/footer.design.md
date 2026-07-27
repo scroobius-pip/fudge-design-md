@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [footer.desi
 ```
 
 ## References
-- [Footer | Inversa](https://design.withfudge.com/pin/7029) — [source page](footer.design/sites/inversa)
-- [Footer | Grid Footers — The only footer gallery on earth.](https://design.withfudge.com/pin/7028) — [source page](footer.design/styles/grid)
-- [Footer | Mesh Optical](https://design.withfudge.com/pin/7027) — [source page](footer.design/sites/mesh-optical)
+- [Footer | Inversa](https://design.withfudge.com/pin/7029) — [source page](https://footer.design/sites/inversa)
+- [Footer | Grid Footers — The only footer gallery on earth.](https://design.withfudge.com/pin/7028) — [source page](https://footer.design/styles/grid)
+- [Footer | Mesh Optical](https://design.withfudge.com/pin/7027) — [source page](https://footer.design/sites/mesh-optical)

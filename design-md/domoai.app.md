@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [domoai.app](
 ```
 
 ## References
-- [Nano Banana Image Editor | Now on DomoAI](https://design.withfudge.com/pin/7939) — [source page](domoai.app/create/image-editing)
+- [Nano Banana Image Editor | Now on DomoAI](https://design.withfudge.com/pin/7939) — [source page](https://domoai.app/create/image-editing)

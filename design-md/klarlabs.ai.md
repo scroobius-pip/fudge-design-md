@@ -241,10 +241,10 @@ Here is the visual system observed across **7 captured pages** from [klarlabs.ai
 ```
 
 ## References
-- [Pricing — Klar](https://design.withfudge.com/pin/10086) — [source page](klarlabs.ai/pricing)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10085) — [source page](klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10084) — [source page](klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10083) — [source page](klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10082) — [source page](klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10081) — [source page](klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10080) — [source page](klarlabs.ai/compare/klar-vs-gemini)
+- [Pricing — Klar](https://design.withfudge.com/pin/10086) — [source page](https://klarlabs.ai/pricing)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10085) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10084) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10083) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10082) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10081) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10080) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)

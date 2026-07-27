@@ -193,7 +193,7 @@ Here is the visual system observed across **4 captured pages** from [workspaces.
 ```
 
 ## References
-- [About — Workspaces](https://design.withfudge.com/pin/10221) — [source page](workspaces.xyz/about)
-- [Workspaces](https://design.withfudge.com/pin/10220) — [source page](workspaces.xyz/)
-- [Workspaces](https://design.withfudge.com/pin/10219) — [source page](workspaces.xyz/)
-- [Workspaces](https://design.withfudge.com/pin/10218) — [source page](workspaces.xyz/)
+- [About — Workspaces](https://design.withfudge.com/pin/10221) — [source page](https://workspaces.xyz/about)
+- [Workspaces](https://design.withfudge.com/pin/10220) — [source page](https://workspaces.xyz/)
+- [Workspaces](https://design.withfudge.com/pin/10219) — [source page](https://workspaces.xyz/)
+- [Workspaces](https://design.withfudge.com/pin/10218) — [source page](https://workspaces.xyz/)

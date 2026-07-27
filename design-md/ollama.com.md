@@ -162,7 +162,7 @@ Here is the visual system observed across **4 captured pages** from [ollama.com]
 ```
 
 ## References
-- [qwen3-vl](https://design.withfudge.com/pin/7508) — [source page](ollama.com/library/qwen3-vl)
-- [Pricing · Ollama](https://design.withfudge.com/pin/7507) — [source page](ollama.com/pricing)
-- [Ollama](https://design.withfudge.com/pin/7506) — [source page](ollama.com/)
-- [Ollama](https://design.withfudge.com/pin/7505) — [source page](ollama.com/)
+- [qwen3-vl](https://design.withfudge.com/pin/7508) — [source page](https://ollama.com/library/qwen3-vl)
+- [Pricing · Ollama](https://design.withfudge.com/pin/7507) — [source page](https://ollama.com/pricing)
+- [Ollama](https://design.withfudge.com/pin/7506) — [source page](https://ollama.com/)
+- [Ollama](https://design.withfudge.com/pin/7505) — [source page](https://ollama.com/)

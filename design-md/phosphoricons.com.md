@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [phosphoricon
 ```
 
 ## References
-- [Phosphor Icons](https://design.withfudge.com/pin/8753) — [source page](phosphoricons.com/)
+- [Phosphor Icons](https://design.withfudge.com/pin/8753) — [source page](https://phosphoricons.com/)

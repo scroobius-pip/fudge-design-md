@@ -102,4 +102,4 @@ Here is the visual system observed across **1 captured page** from [fonts.adobe.
 ```
 
 ## References
-- [Molan | Adobe Fonts](https://design.withfudge.com/pin/9908) — [source page](fonts.adobe.com/fonts/molan)
+- [Molan | Adobe Fonts](https://design.withfudge.com/pin/9908) — [source page](https://fonts.adobe.com/fonts/molan)

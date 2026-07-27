@@ -194,9 +194,9 @@ Here is the visual system observed across **6 captured pages** from [nicelydone.
 ```
 
 ## References
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7996) — [source page](nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7995) — [source page](nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7994) — [source page](nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7993) — [source page](nicelydone.club/)
-- [Screens](https://design.withfudge.com/pin/4614) — [source page](nicelydone.club/n/pages)
-- [Screens](https://design.withfudge.com/pin/4613) — [source page](nicelydone.club/n/pages)
+- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7996) — [source page](https://nicelydone.club/)
+- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7995) — [source page](https://nicelydone.club/)
+- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7994) — [source page](https://nicelydone.club/)
+- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7993) — [source page](https://nicelydone.club/)
+- [Screens](https://design.withfudge.com/pin/4614) — [source page](https://nicelydone.club/n/pages)
+- [Screens](https://design.withfudge.com/pin/4613) — [source page](https://nicelydone.club/n/pages)

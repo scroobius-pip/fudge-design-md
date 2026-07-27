@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [icloud.com]
 ```
 
 ## References
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6567) — [source page](icloud.com/mail/)
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6566) — [source page](icloud.com/mail/)
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6565) — [source page](icloud.com/mail/)
+- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6567) — [source page](https://icloud.com/mail/)
+- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6566) — [source page](https://icloud.com/mail/)
+- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6565) — [source page](https://icloud.com/mail/)

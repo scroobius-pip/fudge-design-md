@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [boltai.com](
 ```
 
 ## References
-- [BoltAI (Bolt AI): AI App for Mac](https://design.withfudge.com/pin/8878) — [source page](boltai.com/)
+- [BoltAI (Bolt AI): AI App for Mac](https://design.withfudge.com/pin/8878) — [source page](https://boltai.com/)

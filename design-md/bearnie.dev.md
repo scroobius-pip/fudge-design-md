@@ -76,4 +76,4 @@ Here is the visual system observed across **1 captured page** from [bearnie.dev]
 ```
 
 ## References
-- [Bearnie - Build Your Own Component Library](https://design.withfudge.com/pin/6152) — [source page](bearnie.dev/)
+- [Bearnie - Build Your Own Component Library](https://design.withfudge.com/pin/6152) — [source page](https://bearnie.dev/)

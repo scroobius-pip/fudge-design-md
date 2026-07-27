@@ -289,11 +289,11 @@ Here is the visual system observed across **10 captured pages** from [para.co](h
 ```
 
 ## References
-- [Para](https://design.withfudge.com/pin/9322) — [source page](para.co/auth)
-- [Para](https://design.withfudge.com/pin/9315) — [source page](para.co/auth)
-- [Para](https://design.withfudge.com/pin/9314) — [source page](para.co/)
-- [Para](https://design.withfudge.com/pin/9313) — [source page](para.co/)
-- [Para](https://design.withfudge.com/pin/9312) — [source page](para.co/)
-- [Para](https://design.withfudge.com/pin/9311) — [source page](para.co/)
-- [Para](https://design.withfudge.com/pin/9310) — [source page](para.co/)
-- [Para](https://design.withfudge.com/pin/9309) — [source page](para.co/)
+- [Para](https://design.withfudge.com/pin/9322) — [source page](https://para.co/auth)
+- [Para](https://design.withfudge.com/pin/9315) — [source page](https://para.co/auth)
+- [Para](https://design.withfudge.com/pin/9314) — [source page](https://para.co/)
+- [Para](https://design.withfudge.com/pin/9313) — [source page](https://para.co/)
+- [Para](https://design.withfudge.com/pin/9312) — [source page](https://para.co/)
+- [Para](https://design.withfudge.com/pin/9311) — [source page](https://para.co/)
+- [Para](https://design.withfudge.com/pin/9310) — [source page](https://para.co/)
+- [Para](https://design.withfudge.com/pin/9309) — [source page](https://para.co/)

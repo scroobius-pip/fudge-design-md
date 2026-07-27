@@ -144,9 +144,9 @@ Here is the visual system observed across **6 captured pages** from [stitch.with
 ```
 
 ## References
-- [Stitch - Projects](https://design.withfudge.com/pin/8769) — [source page](stitch.withgoogle.com/projects/6683748932822423175)
-- [Stitch - Projects](https://design.withfudge.com/pin/8768) — [source page](stitch.withgoogle.com/projects/6683748932822423175)
-- [Stitch - Projects](https://design.withfudge.com/pin/8767) — [source page](stitch.withgoogle.com/projects/6683748932822423175)
-- [Stitch - Projects](https://design.withfudge.com/pin/8766) — [source page](stitch.withgoogle.com/projects/6683748932822423175)
-- [Stitch - Projects](https://design.withfudge.com/pin/8765) — [source page](stitch.withgoogle.com/projects/6683748932822423175)
-- [Stitch - Docs](https://design.withfudge.com/pin/5929) — [source page](stitch.withgoogle.com/docs/)
+- [Stitch - Projects](https://design.withfudge.com/pin/8769) — [source page](https://stitch.withgoogle.com/projects/6683748932822423175)
+- [Stitch - Projects](https://design.withfudge.com/pin/8768) — [source page](https://stitch.withgoogle.com/projects/6683748932822423175)
+- [Stitch - Projects](https://design.withfudge.com/pin/8767) — [source page](https://stitch.withgoogle.com/projects/6683748932822423175)
+- [Stitch - Projects](https://design.withfudge.com/pin/8766) — [source page](https://stitch.withgoogle.com/projects/6683748932822423175)
+- [Stitch - Projects](https://design.withfudge.com/pin/8765) — [source page](https://stitch.withgoogle.com/projects/6683748932822423175)
+- [Stitch - Docs](https://design.withfudge.com/pin/5929) — [source page](https://stitch.withgoogle.com/docs/)

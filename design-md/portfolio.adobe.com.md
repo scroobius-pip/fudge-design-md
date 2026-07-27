@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [portfolio.a
 ```
 
 ## References
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7314) — [source page](portfolio.adobe.com/)
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7313) — [source page](portfolio.adobe.com/)
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7312) — [source page](portfolio.adobe.com/)
+- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7314) — [source page](https://portfolio.adobe.com/)
+- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7313) — [source page](https://portfolio.adobe.com/)
+- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7312) — [source page](https://portfolio.adobe.com/)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [useforma.ap
 ```
 
 ## References
-- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6497) — [source page](useforma.app/)
-- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6496) — [source page](useforma.app/)
+- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6497) — [source page](https://useforma.app/)
+- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6496) — [source page](https://useforma.app/)

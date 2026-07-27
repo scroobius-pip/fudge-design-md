@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [agentation.c
 ```
 
 ## References
-- [Agentation](https://design.withfudge.com/pin/8098) — [source page](agentation.com/)
+- [Agentation](https://design.withfudge.com/pin/8098) — [source page](https://agentation.com/)

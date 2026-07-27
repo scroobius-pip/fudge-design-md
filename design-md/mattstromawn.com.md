@@ -102,5 +102,5 @@ Here is the visual system observed across **2 captured pages** from [mattstromaw
 ```
 
 ## References
-- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6300) — [source page](mattstromawn.com/writing/generating-color-palettes/)
-- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6299) — [source page](mattstromawn.com/writing/generating-color-palettes/)
+- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6300) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)
+- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6299) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)

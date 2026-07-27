@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [joinloops.or
 ```
 
 ## References
-- [Loops - Short videos. Your community. Your rules.](https://design.withfudge.com/pin/6970) — [source page](joinloops.org/)
+- [Loops - Short videos. Your community. Your rules.](https://design.withfudge.com/pin/6970) — [source page](https://joinloops.org/)

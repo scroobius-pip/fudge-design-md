@@ -399,11 +399,11 @@ Here is the visual system observed across **12 captured pages** from [primeintel
 ```
 
 ## References
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9967) — [source page](primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9966) — [source page](primeintellect.ai/)
-- [How Zapier Turned AutomationBench Into a Continuous Agent Improvement Loop](https://design.withfudge.com/pin/9965) — [source page](primeintellect.ai/case-study/zapier)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9964) — [source page](primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9963) — [source page](primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9962) — [source page](primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9961) — [source page](primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9960) — [source page](primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9967) — [source page](https://primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9966) — [source page](https://primeintellect.ai/)
+- [How Zapier Turned AutomationBench Into a Continuous Agent Improvement Loop](https://design.withfudge.com/pin/9965) — [source page](https://primeintellect.ai/case-study/zapier)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9964) — [source page](https://primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9963) — [source page](https://primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9962) — [source page](https://primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9961) — [source page](https://primeintellect.ai/)
+- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9960) — [source page](https://primeintellect.ai/)

@@ -221,10 +221,10 @@ Here is the visual system observed across **7 captured pages** from [cavalry.stu
 ```
 
 ## References
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8899) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8898) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8897) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8896) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8895) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8894) — [source page](cavalry.studio/en/)
-- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8893) — [source page](cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8899) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8898) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8897) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8896) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8895) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8894) — [source page](https://cavalry.studio/en/)
+- [Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8893) — [source page](https://cavalry.studio/en/)

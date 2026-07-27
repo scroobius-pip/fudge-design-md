@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [blog.google
 ```
 
 ## References
-- [The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/7540) — [source page](blog.google/)
-- [The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/4979) — [source page](blog.google/)
+- [The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/7540) — [source page](https://blog.google/)
+- [The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/4979) — [source page](https://blog.google/)

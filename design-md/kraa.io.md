@@ -340,11 +340,11 @@ Here is the visual system observed across **14 captured pages** from [kraa.io](h
 ```
 
 ## References
-- [Kraa.io](https://design.withfudge.com/pin/9874) — [source page](kraa.io/311511354687055872)
-- [Kraa.io](https://design.withfudge.com/pin/9657) — [source page](kraa.io/311139496198285568)
-- [Kraa.io](https://design.withfudge.com/pin/9615) — [source page](kraa.io/simdijinkins)
-- [Kraa.io](https://design.withfudge.com/pin/9614) — [source page](kraa.io/simdijinkins)
-- [Kraa.io](https://design.withfudge.com/pin/9613) — [source page](kraa.io/311139496198285568)
-- [Kraa.io](https://design.withfudge.com/pin/9612) — [source page](kraa.io/kraa/examples/artifacts)
-- [Kraa.io](https://design.withfudge.com/pin/9611) — [source page](kraa.io/311139434296912128)
-- [Kraa.io](https://design.withfudge.com/pin/9610) — [source page](kraa.io/311139434296912128)
+- [Kraa.io](https://design.withfudge.com/pin/9874) — [source page](https://kraa.io/311511354687055872)
+- [Kraa.io](https://design.withfudge.com/pin/9657) — [source page](https://kraa.io/311139496198285568)
+- [Kraa.io](https://design.withfudge.com/pin/9615) — [source page](https://kraa.io/simdijinkins)
+- [Kraa.io](https://design.withfudge.com/pin/9614) — [source page](https://kraa.io/simdijinkins)
+- [Kraa.io](https://design.withfudge.com/pin/9613) — [source page](https://kraa.io/311139496198285568)
+- [Kraa.io](https://design.withfudge.com/pin/9612) — [source page](https://kraa.io/kraa/examples/artifacts)
+- [Kraa.io](https://design.withfudge.com/pin/9611) — [source page](https://kraa.io/311139434296912128)
+- [Kraa.io](https://design.withfudge.com/pin/9610) — [source page](https://kraa.io/311139434296912128)

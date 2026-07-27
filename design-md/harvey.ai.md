@@ -288,11 +288,11 @@ Here is the visual system observed across **10 captured pages** from [harvey.ai]
 ```
 
 ## References
-- [Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/pin/8744) — [source page](harvey.ai/blog)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8743) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8742) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8741) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8740) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8739) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8738) — [source page](harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8737) — [source page](harvey.ai/)
+- [Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/pin/8744) — [source page](https://harvey.ai/blog)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8743) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8742) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8741) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8740) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8739) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8738) — [source page](https://harvey.ai/)
+- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8737) — [source page](https://harvey.ai/)

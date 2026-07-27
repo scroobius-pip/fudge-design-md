@@ -104,5 +104,5 @@ Here is the visual system observed across **2 captured pages** from [posts.im](h
 ```
 
 ## References
-- [Posts](https://design.withfudge.com/pin/8537) — [source page](posts.im/)
-- [Posts](https://design.withfudge.com/pin/8536) — [source page](posts.im/)
+- [Posts](https://design.withfudge.com/pin/8537) — [source page](https://posts.im/)
+- [Posts](https://design.withfudge.com/pin/8536) — [source page](https://posts.im/)

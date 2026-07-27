@@ -182,8 +182,8 @@ Here is the visual system observed across **5 captured pages** from [dandad.org]
 ```
 
 ## References
-- [Search results for cinematography | D&AD](https://design.withfudge.com/pin/9795) — [source page](dandad.org/search)
-- [D&AD](https://design.withfudge.com/pin/9794) — [source page](dandad.org/)
-- [D&AD](https://design.withfudge.com/pin/9793) — [source page](dandad.org/)
-- [D&AD](https://design.withfudge.com/pin/9792) — [source page](dandad.org/)
-- [D&AD New Blood Awards archive](https://design.withfudge.com/pin/9787) — [source page](dandad.org/work/new-blood-archive)
+- [Search results for cinematography | D&AD](https://design.withfudge.com/pin/9795) — [source page](https://dandad.org/search)
+- [D&AD](https://design.withfudge.com/pin/9794) — [source page](https://dandad.org/)
+- [D&AD](https://design.withfudge.com/pin/9793) — [source page](https://dandad.org/)
+- [D&AD](https://design.withfudge.com/pin/9792) — [source page](https://dandad.org/)
+- [D&AD New Blood Awards archive](https://design.withfudge.com/pin/9787) — [source page](https://dandad.org/work/new-blood-archive)

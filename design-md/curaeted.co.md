@@ -87,4 +87,4 @@ Here is the visual system observed across **1 captured page** from [curaeted.co]
 ```
 
 ## References
-- [Curaeted.co](https://design.withfudge.com/pin/9288) — [source page](curaeted.co/)
+- [Curaeted.co](https://design.withfudge.com/pin/9288) — [source page](https://curaeted.co/)

@@ -94,4 +94,4 @@ Here is the visual system observed across **1 captured page** from [search.googl
 ```
 
 ## References
-- [Achievements](https://design.withfudge.com/pin/6952) — [source page](search.google.com/search-console/achievement)
+- [Achievements](https://design.withfudge.com/pin/6952) — [source page](https://search.google.com/search-console/achievement)

@@ -107,5 +107,5 @@ Here is the visual system observed across **2 captured pages** from [five-am.com
 ```
 
 ## References
-- [Design & Technology | 5AM](https://design.withfudge.com/pin/8238) — [source page](five-am.com/)
-- [Design & Technology | 5AM](https://design.withfudge.com/pin/8237) — [source page](five-am.com/)
+- [Design & Technology | 5AM](https://design.withfudge.com/pin/8238) — [source page](https://five-am.com/)
+- [Design & Technology | 5AM](https://design.withfudge.com/pin/8237) — [source page](https://five-am.com/)

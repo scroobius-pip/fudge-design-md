@@ -411,11 +411,11 @@ Here is the visual system observed across **72 captured pages** from [dfy.co.kr]
 ```
 
 ## References
-- [DFY® | blip](https://design.withfudge.com/pin/10393) — [source page](dfy.co.kr/work/blip/)
-- [DFY® | blip](https://design.withfudge.com/pin/10392) — [source page](dfy.co.kr/work/blip/)
-- [DFY® | blip](https://design.withfudge.com/pin/10391) — [source page](dfy.co.kr/work/blip/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10369) — [source page](dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10368) — [source page](dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10367) — [source page](dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10366) — [source page](dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10365) — [source page](dfy.co.kr/work/naver-1784/)
+- [DFY® | blip](https://design.withfudge.com/pin/10393) — [source page](https://dfy.co.kr/work/blip/)
+- [DFY® | blip](https://design.withfudge.com/pin/10392) — [source page](https://dfy.co.kr/work/blip/)
+- [DFY® | blip](https://design.withfudge.com/pin/10391) — [source page](https://dfy.co.kr/work/blip/)
+- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10369) — [source page](https://dfy.co.kr/work/naver-1784/)
+- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10368) — [source page](https://dfy.co.kr/work/naver-1784/)
+- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10367) — [source page](https://dfy.co.kr/work/naver-1784/)
+- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10366) — [source page](https://dfy.co.kr/work/naver-1784/)
+- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10365) — [source page](https://dfy.co.kr/work/naver-1784/)

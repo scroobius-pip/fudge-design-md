@@ -274,11 +274,11 @@ Here is the visual system observed across **17 captured pages** from [aino.agenc
 ```
 
 ## References
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7074) — [source page](aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7073) — [source page](aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7072) — [source page](aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/4463) — [source page](aino.agency/)
-- [Internships — Aino](https://design.withfudge.com/pin/4432) — [source page](aino.agency/careers/internships)
-- [Internships — Aino](https://design.withfudge.com/pin/4431) — [source page](aino.agency/careers/internships)
-- [Careers — Aino](https://design.withfudge.com/pin/4430) — [source page](aino.agency/careers)
-- [Careers — Aino](https://design.withfudge.com/pin/4429) — [source page](aino.agency/careers)
+- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7074) — [source page](https://aino.agency/)
+- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7073) — [source page](https://aino.agency/)
+- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7072) — [source page](https://aino.agency/)
+- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/4463) — [source page](https://aino.agency/)
+- [Internships — Aino](https://design.withfudge.com/pin/4432) — [source page](https://aino.agency/careers/internships)
+- [Internships — Aino](https://design.withfudge.com/pin/4431) — [source page](https://aino.agency/careers/internships)
+- [Careers — Aino](https://design.withfudge.com/pin/4430) — [source page](https://aino.agency/careers)
+- [Careers — Aino](https://design.withfudge.com/pin/4429) — [source page](https://aino.agency/careers)

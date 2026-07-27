@@ -302,11 +302,11 @@ Here is the visual system observed across **15 captured pages** from [kimi.com](
 ```
 
 ## References
-- [Kimi - 会推理解析，能深度思考的AI助手](https://design.withfudge.com/pin/8499) — [source page](kimi.com/replay/19bfc050-be52-808c-8000-0000e7fa3b25)
-- [Kimi Claw | 24/7 AI Assistant with Long-term Memory & Automation](https://design.withfudge.com/pin/6570) — [source page](kimi.com/bot)
-- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6091) — [source page](kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
-- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6090) — [source page](kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
-- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6089) — [source page](kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
-- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6088) — [source page](kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
-- [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://design.withfudge.com/pin/6087) — [source page](kimi.com/)
-- [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://design.withfudge.com/pin/6086) — [source page](kimi.com/)
+- [Kimi - 会推理解析，能深度思考的AI助手](https://design.withfudge.com/pin/8499) — [source page](https://kimi.com/replay/19bfc050-be52-808c-8000-0000e7fa3b25)
+- [Kimi Claw | 24/7 AI Assistant with Long-term Memory & Automation](https://design.withfudge.com/pin/6570) — [source page](https://kimi.com/bot)
+- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6091) — [source page](https://kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
+- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6090) — [source page](https://kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
+- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6089) — [source page](https://kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
+- [Production Deductive DBs - Kimi](https://design.withfudge.com/pin/6088) — [source page](https://kimi.com/chat/19c062a2-78d2-8919-8000-09d2d13f3687)
+- [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://design.withfudge.com/pin/6087) — [source page](https://kimi.com/)
+- [Kimi AI with K2.5 | Visual Coding Meets Agent Swarm](https://design.withfudge.com/pin/6086) — [source page](https://kimi.com/)

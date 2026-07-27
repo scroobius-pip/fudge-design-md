@@ -272,11 +272,11 @@ Here is the visual system observed across **10 captured pages** from [browseros.
 ```
 
 ## References
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5991) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5990) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5989) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5988) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5987) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5986) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5176) — [source page](browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5175) — [source page](browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5991) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5990) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5989) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5988) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5987) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5986) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5176) — [source page](https://browseros.com/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5175) — [source page](https://browseros.com/)

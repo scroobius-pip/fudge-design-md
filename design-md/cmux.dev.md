@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [cmux.dev](ht
 ```
 
 ## References
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/6897) — [source page](cmux.dev/)
+- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/6897) — [source page](https://cmux.dev/)

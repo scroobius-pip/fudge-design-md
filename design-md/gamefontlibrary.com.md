@@ -119,4 +119,4 @@ Here is the visual system observed across **1 captured page** from [gamefontlibr
 ```
 
 ## References
-- [Marathon | GameFontLibrary](https://design.withfudge.com/pin/8160) — [source page](gamefontlibrary.com/games/marathon)
+- [Marathon | GameFontLibrary](https://design.withfudge.com/pin/8160) — [source page](https://gamefontlibrary.com/games/marathon)

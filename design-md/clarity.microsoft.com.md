@@ -168,8 +168,8 @@ Here is the visual system observed across **5 captured pages** from [clarity.mic
 ```
 
 ## References
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6784) — [source page](clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6783) — [source page](clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6782) — [source page](clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6781) — [source page](clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6780) — [source page](clarity.microsoft.com/)
+- [Font of Web - Clarity](https://design.withfudge.com/pin/6784) — [source page](https://clarity.microsoft.com/)
+- [Font of Web - Clarity](https://design.withfudge.com/pin/6783) — [source page](https://clarity.microsoft.com/)
+- [Font of Web - Clarity](https://design.withfudge.com/pin/6782) — [source page](https://clarity.microsoft.com/)
+- [Font of Web - Clarity](https://design.withfudge.com/pin/6781) — [source page](https://clarity.microsoft.com/)
+- [Font of Web - Clarity](https://design.withfudge.com/pin/6780) — [source page](https://clarity.microsoft.com/)

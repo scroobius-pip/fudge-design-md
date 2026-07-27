@@ -289,11 +289,11 @@ Here is the visual system observed across **10 captured pages** from [rerun.io](
 ```
 
 ## References
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9394) — [source page](rerun.io/viewer)
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9393) — [source page](rerun.io/viewer)
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9392) — [source page](rerun.io/viewer)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9391) — [source page](rerun.io/)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9390) — [source page](rerun.io/)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9389) — [source page](rerun.io/)
-- [Careers — Rerun](https://design.withfudge.com/pin/9388) — [source page](rerun.io/careers)
-- [Careers — Rerun](https://design.withfudge.com/pin/9387) — [source page](rerun.io/careers)
+- [Web Viewer — Rerun](https://design.withfudge.com/pin/9394) — [source page](https://rerun.io/viewer)
+- [Web Viewer — Rerun](https://design.withfudge.com/pin/9393) — [source page](https://rerun.io/viewer)
+- [Web Viewer — Rerun](https://design.withfudge.com/pin/9392) — [source page](https://rerun.io/viewer)
+- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9391) — [source page](https://rerun.io/)
+- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9390) — [source page](https://rerun.io/)
+- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9389) — [source page](https://rerun.io/)
+- [Careers — Rerun](https://design.withfudge.com/pin/9388) — [source page](https://rerun.io/careers)
+- [Careers — Rerun](https://design.withfudge.com/pin/9387) — [source page](https://rerun.io/careers)

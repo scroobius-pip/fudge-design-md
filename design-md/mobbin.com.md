@@ -304,11 +304,11 @@ Here is the visual system observed across **12 captured pages** from [mobbin.com
 ```
 
 ## References
-- [Sign up | Mobbin](https://design.withfudge.com/pin/10087) — [source page](mobbin.com/signup)
-- [Pricing | Mobbin](https://design.withfudge.com/pin/6761) — [source page](mobbin.com/pricing)
-- [Pricing | Mobbin](https://design.withfudge.com/pin/6760) — [source page](mobbin.com/pricing)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6581) — [source page](mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6580) — [source page](mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6579) — [source page](mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6578) — [source page](mobbin.com/)
-- [Attio Web Onboarding Flow | Mobbin](https://design.withfudge.com/pin/5624) — [source page](mobbin.com/flows/4373fd95-c2f6-4361-9c2d-34ce151bcee9)
+- [Sign up | Mobbin](https://design.withfudge.com/pin/10087) — [source page](https://mobbin.com/signup)
+- [Pricing | Mobbin](https://design.withfudge.com/pin/6761) — [source page](https://mobbin.com/pricing)
+- [Pricing | Mobbin](https://design.withfudge.com/pin/6760) — [source page](https://mobbin.com/pricing)
+- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6581) — [source page](https://mobbin.com/)
+- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6580) — [source page](https://mobbin.com/)
+- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6579) — [source page](https://mobbin.com/)
+- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6578) — [source page](https://mobbin.com/)
+- [Attio Web Onboarding Flow | Mobbin](https://design.withfudge.com/pin/5624) — [source page](https://mobbin.com/flows/4373fd95-c2f6-4361-9c2d-34ce151bcee9)

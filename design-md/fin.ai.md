@@ -423,11 +423,11 @@ Here is the visual system observed across **25 captured pages** from [fin.ai](ht
 ```
 
 ## References
-- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9648) — [source page](fin.ai/startups)
-- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9647) — [source page](fin.ai/startups)
-- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9646) — [source page](fin.ai/startups)
-- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9645) — [source page](fin.ai/cx-models)
-- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9644) — [source page](fin.ai/cx-models)
-- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9643) — [source page](fin.ai/cx-models)
-- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9642) — [source page](fin.ai/cx-models)
-- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9641) — [source page](fin.ai/cx-models)
+- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9648) — [source page](https://fin.ai/startups)
+- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9647) — [source page](https://fin.ai/startups)
+- [1 Year of Fin Free for Startups | Early Stage Startup Program](https://design.withfudge.com/pin/9646) — [source page](https://fin.ai/startups)
+- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9645) — [source page](https://fin.ai/cx-models)
+- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9644) — [source page](https://fin.ai/cx-models)
+- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9643) — [source page](https://fin.ai/cx-models)
+- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9642) — [source page](https://fin.ai/cx-models)
+- [Fin Apex 1.0 — The best-performing model for customer service](https://design.withfudge.com/pin/9641) — [source page](https://fin.ai/cx-models)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [monogram.ai
 ```
 
 ## References
-- [Monogram](https://design.withfudge.com/pin/9955) — [source page](monogram.ai/)
-- [Monogram](https://design.withfudge.com/pin/9954) — [source page](monogram.ai/)
+- [Monogram](https://design.withfudge.com/pin/9955) — [source page](https://monogram.ai/)
+- [Monogram](https://design.withfudge.com/pin/9954) — [source page](https://monogram.ai/)

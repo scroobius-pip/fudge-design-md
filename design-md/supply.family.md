@@ -166,6 +166,6 @@ Here is the visual system observed across **3 captured pages** from [supply.fami
 ```
 
 ## References
-- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9536) — [source page](supply.family/shop/403-mesapholic/)
-- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9535) — [source page](supply.family/shop/403-mesapholic/)
-- [Home | Premium Mockups, Fonts & Graphics for Designers | Supply Family](https://design.withfudge.com/pin/9534) — [source page](supply.family/)
+- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9536) — [source page](https://supply.family/shop/403-mesapholic/)
+- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9535) — [source page](https://supply.family/shop/403-mesapholic/)
+- [Home | Premium Mockups, Fonts & Graphics for Designers | Supply Family](https://design.withfudge.com/pin/9534) — [source page](https://supply.family/)

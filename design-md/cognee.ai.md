@@ -196,8 +196,8 @@ Here is the visual system observed across **5 captured pages** from [cognee.ai](
 ```
 
 ## References
-- [Pricing | Cognee - AI Memory Engine Plans](https://design.withfudge.com/pin/10429) — [source page](cognee.ai/pricing)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10428) — [source page](cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10427) — [source page](cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10426) — [source page](cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10425) — [source page](cognee.ai/)
+- [Pricing | Cognee - AI Memory Engine Plans](https://design.withfudge.com/pin/10429) — [source page](https://cognee.ai/pricing)
+- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10428) — [source page](https://cognee.ai/)
+- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10427) — [source page](https://cognee.ai/)
+- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10426) — [source page](https://cognee.ai/)
+- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10425) — [source page](https://cognee.ai/)

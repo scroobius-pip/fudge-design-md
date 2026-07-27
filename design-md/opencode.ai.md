@@ -222,11 +222,11 @@ Here is the visual system observed across **8 captured pages** from [opencode.ai
 ```
 
 ## References
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6260) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6176) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6175) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6174) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6173) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6172) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6171) — [source page](opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6170) — [source page](opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6260) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6176) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6175) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6174) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6173) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6172) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6171) — [source page](https://opencode.ai/)
+- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6170) — [source page](https://opencode.ai/)

@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [withdiode.co
 ```
 
 ## References
-- [Diode — Build, program, and simulate hardware](https://design.withfudge.com/pin/7058) — [source page](withdiode.com/)
+- [Diode — Build, program, and simulate hardware](https://design.withfudge.com/pin/7058) — [source page](https://withdiode.com/)

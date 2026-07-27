@@ -283,11 +283,11 @@ Here is the visual system observed across **9 captured pages** from [digg.com](h
 ```
 
 ## References
-- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9673) — [source page](digg.com/tech/hlgaxkg1)
-- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9672) — [source page](digg.com/tech/hlgaxkg1)
-- [Tech News · Digg](https://design.withfudge.com/pin/9671) — [source page](digg.com/tech)
-- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9584) — [source page](digg.com/tech/ii9xibgn)
-- [Tech News · Digg](https://design.withfudge.com/pin/9583) — [source page](digg.com/tech)
-- [Tech News · Digg](https://design.withfudge.com/pin/9582) — [source page](digg.com/tech)
-- [Tech News · Digg](https://design.withfudge.com/pin/9581) — [source page](digg.com/tech)
-- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9580) — [source page](digg.com/tech/ii9xibgn)
+- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9673) — [source page](https://digg.com/tech/hlgaxkg1)
+- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9672) — [source page](https://digg.com/tech/hlgaxkg1)
+- [Tech News · Digg](https://design.withfudge.com/pin/9671) — [source page](https://digg.com/tech)
+- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9584) — [source page](https://digg.com/tech/ii9xibgn)
+- [Tech News · Digg](https://design.withfudge.com/pin/9583) — [source page](https://digg.com/tech)
+- [Tech News · Digg](https://design.withfudge.com/pin/9582) — [source page](https://digg.com/tech)
+- [Tech News · Digg](https://design.withfudge.com/pin/9581) — [source page](https://digg.com/tech)
+- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9580) — [source page](https://digg.com/tech/ii9xibgn)

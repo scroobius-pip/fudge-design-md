@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [contentform
 ```
 
 ## References
-- [CFC - SBS 8 News](https://design.withfudge.com/pin/10405) — [source page](contentformcontext.com/sbs-8-news)
-- [CFC - SBS 8 News](https://design.withfudge.com/pin/10404) — [source page](contentformcontext.com/sbs-8-news)
+- [CFC - SBS 8 News](https://design.withfudge.com/pin/10405) — [source page](https://contentformcontext.com/sbs-8-news)
+- [CFC - SBS 8 News](https://design.withfudge.com/pin/10404) — [source page](https://contentformcontext.com/sbs-8-news)

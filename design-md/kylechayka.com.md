@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [kylechayka.
 ```
 
 ## References
-- [Kyle Chayka](https://design.withfudge.com/pin/6531) — [source page](kylechayka.com/)
-- [Kyle Chayka](https://design.withfudge.com/pin/6530) — [source page](kylechayka.com/)
-- [Kyle Chayka](https://design.withfudge.com/pin/6529) — [source page](kylechayka.com/)
+- [Kyle Chayka](https://design.withfudge.com/pin/6531) — [source page](https://kylechayka.com/)
+- [Kyle Chayka](https://design.withfudge.com/pin/6530) — [source page](https://kylechayka.com/)
+- [Kyle Chayka](https://design.withfudge.com/pin/6529) — [source page](https://kylechayka.com/)

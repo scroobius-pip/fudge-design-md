@@ -317,11 +317,11 @@ Here is the visual system observed across **22 captured pages** from [workers.cl
 ```
 
 ## References
-- [Pricing](https://design.withfudge.com/pin/7645) — [source page](workers.cloudflare.com/pricing)
-- [Pricing](https://design.withfudge.com/pin/7644) — [source page](workers.cloudflare.com/pricing)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7643) — [source page](workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7642) — [source page](workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7641) — [source page](workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7640) — [source page](workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7639) — [source page](workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7638) — [source page](workers.cloudflare.com/)
+- [Pricing](https://design.withfudge.com/pin/7645) — [source page](https://workers.cloudflare.com/pricing)
+- [Pricing](https://design.withfudge.com/pin/7644) — [source page](https://workers.cloudflare.com/pricing)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7643) — [source page](https://workers.cloudflare.com/)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7642) — [source page](https://workers.cloudflare.com/)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7641) — [source page](https://workers.cloudflare.com/)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7640) — [source page](https://workers.cloudflare.com/)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7639) — [source page](https://workers.cloudflare.com/)
+- [Cloudflare Workers](https://design.withfudge.com/pin/7638) — [source page](https://workers.cloudflare.com/)

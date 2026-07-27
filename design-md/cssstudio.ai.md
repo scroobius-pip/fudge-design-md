@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [cssstudio.ai
 ```
 
 ## References
-- [Getting started | CSS Studio](https://design.withfudge.com/pin/8764) — [source page](cssstudio.ai/learn/getting-started)
+- [Getting started | CSS Studio](https://design.withfudge.com/pin/8764) — [source page](https://cssstudio.ai/learn/getting-started)

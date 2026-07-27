@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [fudge.ai](h
 ```
 
 ## References
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8235) — [source page](fudge.ai/)
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8234) — [source page](fudge.ai/)
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8233) — [source page](fudge.ai/)
+- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8235) — [source page](https://fudge.ai/)
+- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8234) — [source page](https://fudge.ai/)
+- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8233) — [source page](https://fudge.ai/)

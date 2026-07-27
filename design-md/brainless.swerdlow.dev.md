@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [brainless.sw
 ```
 
 ## References
-- [brainless](https://design.withfudge.com/pin/10164) — [source page](brainless.swerdlow.dev/)
+- [brainless](https://design.withfudge.com/pin/10164) — [source page](https://brainless.swerdlow.dev/)

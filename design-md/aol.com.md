@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [aol.com](ht
 ```
 
 ## References
-- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8410) — [source page](aol.com/)
-- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8409) — [source page](aol.com/)
+- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8410) — [source page](https://aol.com/)
+- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8409) — [source page](https://aol.com/)

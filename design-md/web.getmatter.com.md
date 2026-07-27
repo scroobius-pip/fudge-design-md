@@ -154,6 +154,6 @@ Here is the visual system observed across **3 captured pages** from [web.getmatt
 ```
 
 ## References
-- [Queue | Matter](https://design.withfudge.com/pin/9227) — [source page](web.getmatter.com/list/queue)
-- [Queue | Matter](https://design.withfudge.com/pin/9226) — [source page](web.getmatter.com/list/queue)
-- [Matter](https://design.withfudge.com/pin/9225) — [source page](web.getmatter.com/)
+- [Queue | Matter](https://design.withfudge.com/pin/9227) — [source page](https://web.getmatter.com/list/queue)
+- [Queue | Matter](https://design.withfudge.com/pin/9226) — [source page](https://web.getmatter.com/list/queue)
+- [Matter](https://design.withfudge.com/pin/9225) — [source page](https://web.getmatter.com/)

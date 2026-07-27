@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [auth.exa.ai]
 ```
 
 ## References
-- [Exa Login](https://design.withfudge.com/pin/6647) — [source page](auth.exa.ai/)
+- [Exa Login](https://design.withfudge.com/pin/6647) — [source page](https://auth.exa.ai/)

@@ -286,11 +286,11 @@ Here is the visual system observed across **9 captured pages** from [sanalabs.co
 ```
 
 ## References
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10201) — [source page](sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10200) — [source page](sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10199) — [source page](sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10198) — [source page](sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10197) — [source page](sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10196) — [source page](sanalabs.com/careers)
-- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10195) — [source page](sanalabs.com/about)
-- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10194) — [source page](sanalabs.com/about)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10201) — [source page](https://sanalabs.com/careers)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10200) — [source page](https://sanalabs.com/careers)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10199) — [source page](https://sanalabs.com/careers)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10198) — [source page](https://sanalabs.com/careers)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10197) — [source page](https://sanalabs.com/careers)
+- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10196) — [source page](https://sanalabs.com/careers)
+- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10195) — [source page](https://sanalabs.com/about)
+- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10194) — [source page](https://sanalabs.com/about)

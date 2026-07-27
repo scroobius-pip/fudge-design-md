@@ -355,11 +355,11 @@ Here is the visual system observed across **24 captured pages** from [moda.app](
 ```
 
 ## References
-- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8322) — [source page](moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
-- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8321) — [source page](moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
-- [Moda | Moda](https://design.withfudge.com/pin/8320) — [source page](moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8319) — [source page](moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8318) — [source page](moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8317) — [source page](moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8316) — [source page](moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8315) — [source page](moda.app/)
+- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8322) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
+- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8321) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
+- [Moda | Moda](https://design.withfudge.com/pin/8320) — [source page](https://moda.app/)
+- [Moda | Moda](https://design.withfudge.com/pin/8319) — [source page](https://moda.app/)
+- [Moda | Moda](https://design.withfudge.com/pin/8318) — [source page](https://moda.app/)
+- [Moda | Moda](https://design.withfudge.com/pin/8317) — [source page](https://moda.app/)
+- [Moda | Moda](https://design.withfudge.com/pin/8316) — [source page](https://moda.app/)
+- [Moda | Moda](https://design.withfudge.com/pin/8315) — [source page](https://moda.app/)

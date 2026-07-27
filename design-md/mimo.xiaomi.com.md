@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [mimo.xiaomi
 ```
 
 ## References
-- [Xiaomi MiMo](https://design.withfudge.com/pin/5935) — [source page](mimo.xiaomi.com/)
-- [Xiaomi MiMo](https://design.withfudge.com/pin/5934) — [source page](mimo.xiaomi.com/)
+- [Xiaomi MiMo](https://design.withfudge.com/pin/5935) — [source page](https://mimo.xiaomi.com/)
+- [Xiaomi MiMo](https://design.withfudge.com/pin/5934) — [source page](https://mimo.xiaomi.com/)

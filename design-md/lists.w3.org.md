@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [lists.w3.org
 ```
 
 ## References
-- [www-rdf-logic@w3.org from April 2001: by thread](https://design.withfudge.com/pin/7616) — [source page](lists.w3.org/Archives/Public/www-rdf-logic/2001Apr/thread.html)
+- [www-rdf-logic@w3.org from April 2001: by thread](https://design.withfudge.com/pin/7616) — [source page](https://lists.w3.org/Archives/Public/www-rdf-logic/2001Apr/thread.html)

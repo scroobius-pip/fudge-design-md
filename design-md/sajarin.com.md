@@ -135,6 +135,6 @@ Here is the visual system observed across **3 captured pages** from [sajarin.com
 ```
 
 ## References
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7026) — [source page](sajarin.com/blog/modeltree/)
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7025) — [source page](sajarin.com/blog/modeltree/)
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7024) — [source page](sajarin.com/blog/modeltree/)
+- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7026) — [source page](https://sajarin.com/blog/modeltree/)
+- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7025) — [source page](https://sajarin.com/blog/modeltree/)
+- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7024) — [source page](https://sajarin.com/blog/modeltree/)

@@ -132,6 +132,6 @@ Here is the visual system observed across **3 captured pages** from [saaslanding
 ```
 
 ## References
-- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8832) — [source page](saaslandingpage.com/claude/)
-- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8831) — [source page](saaslandingpage.com/claude/)
-- [14 Best Resources And Tools for Creating SaaS Landing Pages - SaaS Landing Page](https://design.withfudge.com/pin/7309) — [source page](saaslandingpage.com/resources/)
+- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8832) — [source page](https://saaslandingpage.com/claude/)
+- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8831) — [source page](https://saaslandingpage.com/claude/)
+- [14 Best Resources And Tools for Creating SaaS Landing Pages - SaaS Landing Page](https://design.withfudge.com/pin/7309) — [source page](https://saaslandingpage.com/resources/)

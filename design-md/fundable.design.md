@@ -188,9 +188,9 @@ Here is the visual system observed across **6 captured pages** from [fundable.de
 ```
 
 ## References
-- [Fundable — Logo Design](https://design.withfudge.com/pin/6714) — [source page](fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5699) — [source page](fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5698) — [source page](fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5697) — [source page](fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5696) — [source page](fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5695) — [source page](fundable.design/)
+- [Fundable — Logo Design](https://design.withfudge.com/pin/6714) — [source page](https://fundable.design/)
+- [Fundable](https://design.withfudge.com/pin/5699) — [source page](https://fundable.design/)
+- [Fundable](https://design.withfudge.com/pin/5698) — [source page](https://fundable.design/)
+- [Fundable](https://design.withfudge.com/pin/5697) — [source page](https://fundable.design/)
+- [Fundable](https://design.withfudge.com/pin/5696) — [source page](https://fundable.design/)
+- [Fundable](https://design.withfudge.com/pin/5695) — [source page](https://fundable.design/)

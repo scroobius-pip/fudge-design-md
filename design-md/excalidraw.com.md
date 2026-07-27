@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [excalidraw.c
 ```
 
 ## References
-- [Excalidraw Whiteboard](https://design.withfudge.com/pin/8125) — [source page](excalidraw.com/)
+- [Excalidraw Whiteboard](https://design.withfudge.com/pin/8125) — [source page](https://excalidraw.com/)

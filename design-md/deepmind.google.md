@@ -360,11 +360,11 @@ Here is the visual system observed across **25 captured pages** from [deepmind.g
 ```
 
 ## References
-- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9520) — [source page](deepmind.google/models/gemini/pro/)
-- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9519) — [source page](deepmind.google/models/gemini/pro/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8705) — [source page](deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8704) — [source page](deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8703) — [source page](deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8702) — [source page](deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8701) — [source page](deepmind.google/models/gemma/gemma-4/)
-- [Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/pin/6854) — [source page](deepmind.google/models/model-cards/gemini-3-1-pro/)
+- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9520) — [source page](https://deepmind.google/models/gemini/pro/)
+- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9519) — [source page](https://deepmind.google/models/gemini/pro/)
+- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8705) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8704) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8703) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8702) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8701) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- [Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/pin/6854) — [source page](https://deepmind.google/models/model-cards/gemini-3-1-pro/)

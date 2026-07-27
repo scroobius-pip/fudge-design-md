@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [coss.com](ht
 ```
 
 ## References
-- [A new, modern UI component library built on top of Base UI - coss ui](https://design.withfudge.com/pin/7977) — [source page](coss.com/ui)
+- [A new, modern UI component library built on top of Base UI - coss ui](https://design.withfudge.com/pin/7977) — [source page](https://coss.com/ui)

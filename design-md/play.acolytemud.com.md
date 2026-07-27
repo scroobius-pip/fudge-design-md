@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [play.acolyte
 ```
 
 ## References
-- [Play — Acolyte MUD](https://design.withfudge.com/pin/9030) — [source page](play.acolytemud.com/play.html)
+- [Play — Acolyte MUD](https://design.withfudge.com/pin/9030) — [source page](https://play.acolytemud.com/play.html)

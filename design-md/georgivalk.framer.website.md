@@ -167,6 +167,6 @@ Here is the visual system observed across **3 captured pages** from [georgivalk.
 ```
 
 ## References
-- [Georgi Valkov](https://design.withfudge.com/pin/6534) — [source page](georgivalk.framer.website/)
-- [Georgi Valkov](https://design.withfudge.com/pin/6533) — [source page](georgivalk.framer.website/)
-- [Georgi Valkov](https://design.withfudge.com/pin/6532) — [source page](georgivalk.framer.website/)
+- [Georgi Valkov](https://design.withfudge.com/pin/6534) — [source page](https://georgivalk.framer.website/)
+- [Georgi Valkov](https://design.withfudge.com/pin/6533) — [source page](https://georgivalk.framer.website/)
+- [Georgi Valkov](https://design.withfudge.com/pin/6532) — [source page](https://georgivalk.framer.website/)

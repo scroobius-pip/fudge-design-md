@@ -175,8 +175,8 @@ Here is the visual system observed across **5 captured pages** from [jakub.kr](h
 ```
 
 ## References
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8758) — [source page](jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8757) — [source page](jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8756) — [source page](jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8755) — [source page](jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Jakub Krehel](https://design.withfudge.com/pin/7940) — [source page](jakub.kr/)
+- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8758) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8757) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8756) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8755) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+- [Jakub Krehel](https://design.withfudge.com/pin/7940) — [source page](https://jakub.kr/)

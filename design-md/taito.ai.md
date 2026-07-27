@@ -163,7 +163,7 @@ Here is the visual system observed across **4 captured pages** from [taito.ai](h
 ```
 
 ## References
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9517) — [source page](taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9516) — [source page](taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9515) — [source page](taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9514) — [source page](taito.ai/)
+- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9517) — [source page](https://taito.ai/)
+- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9516) — [source page](https://taito.ai/)
+- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9515) — [source page](https://taito.ai/)
+- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9514) — [source page](https://taito.ai/)

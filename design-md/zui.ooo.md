@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [zui.ooo](htt
 ```
 
 ## References
-- [ZUI.C // SYS.PORTFOLIO](https://design.withfudge.com/pin/8863) — [source page](zui.ooo/)
+- [ZUI.C // SYS.PORTFOLIO](https://design.withfudge.com/pin/8863) — [source page](https://zui.ooo/)

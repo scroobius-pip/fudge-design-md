@@ -229,11 +229,11 @@ Here is the visual system observed across **8 captured pages** from [juno.build]
 ```
 
 ## References
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7237) — [source page](juno.build/)
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7236) — [source page](juno.build/)
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7235) — [source page](juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3436) — [source page](juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3435) — [source page](juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3434) — [source page](juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3433) — [source page](juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3432) — [source page](juno.build/)
+- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7237) — [source page](https://juno.build/)
+- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7236) — [source page](https://juno.build/)
+- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7235) — [source page](https://juno.build/)
+- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3436) — [source page](https://juno.build/)
+- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3435) — [source page](https://juno.build/)
+- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3434) — [source page](https://juno.build/)
+- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3433) — [source page](https://juno.build/)
+- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3432) — [source page](https://juno.build/)

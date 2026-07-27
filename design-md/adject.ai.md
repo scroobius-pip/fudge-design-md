@@ -187,7 +187,7 @@ Here is the visual system observed across **4 captured pages** from [adject.ai](
 ```
 
 ## References
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7678) — [source page](adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7677) — [source page](adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7676) — [source page](adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7675) — [source page](adject.ai/)
+- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7678) — [source page](https://adject.ai/)
+- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7677) — [source page](https://adject.ai/)
+- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7676) — [source page](https://adject.ai/)
+- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7675) — [source page](https://adject.ai/)

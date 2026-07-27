@@ -340,11 +340,11 @@ Here is the visual system observed across **12 captured pages** from [rollups.co
 ```
 
 ## References
-- [Rollups | RUV](https://design.withfudge.com/pin/5928) — [source page](rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5927) — [source page](rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5926) — [source page](rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5925) — [source page](rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5924) — [source page](rollups.com/ruv)
-- [Rollups](https://design.withfudge.com/pin/5923) — [source page](rollups.com/)
-- [Rollups](https://design.withfudge.com/pin/5922) — [source page](rollups.com/)
-- [Rollups](https://design.withfudge.com/pin/5921) — [source page](rollups.com/)
+- [Rollups | RUV](https://design.withfudge.com/pin/5928) — [source page](https://rollups.com/ruv)
+- [Rollups | RUV](https://design.withfudge.com/pin/5927) — [source page](https://rollups.com/ruv)
+- [Rollups | RUV](https://design.withfudge.com/pin/5926) — [source page](https://rollups.com/ruv)
+- [Rollups | RUV](https://design.withfudge.com/pin/5925) — [source page](https://rollups.com/ruv)
+- [Rollups | RUV](https://design.withfudge.com/pin/5924) — [source page](https://rollups.com/ruv)
+- [Rollups](https://design.withfudge.com/pin/5923) — [source page](https://rollups.com/)
+- [Rollups](https://design.withfudge.com/pin/5922) — [source page](https://rollups.com/)
+- [Rollups](https://design.withfudge.com/pin/5921) — [source page](https://rollups.com/)

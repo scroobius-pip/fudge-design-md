@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [dev.to](http
 ```
 
 ## References
-- [DEV Community](https://design.withfudge.com/pin/9944) — [source page](dev.to/)
+- [DEV Community](https://design.withfudge.com/pin/9944) — [source page](https://dev.to/)

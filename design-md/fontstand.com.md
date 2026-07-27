@@ -216,11 +216,11 @@ Here is the visual system observed across **8 captured pages** from [fontstand.c
 ```
 
 ## References
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6812) — [source page](fontstand.com/conference)
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6811) — [source page](fontstand.com/conference)
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6810) — [source page](fontstand.com/conference)
-- [Application — Fontstand](https://design.withfudge.com/pin/5506) — [source page](fontstand.com/apps)
-- [Application — Fontstand](https://design.withfudge.com/pin/5505) — [source page](fontstand.com/apps)
-- [Pricing — Fontstand](https://design.withfudge.com/pin/5493) — [source page](fontstand.com/pricing)
-- [Pricing — Fontstand](https://design.withfudge.com/pin/5492) — [source page](fontstand.com/pricing)
-- [Contact — Fontstand](https://design.withfudge.com/pin/5491) — [source page](fontstand.com/contact)
+- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6812) — [source page](https://fontstand.com/conference)
+- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6811) — [source page](https://fontstand.com/conference)
+- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6810) — [source page](https://fontstand.com/conference)
+- [Application — Fontstand](https://design.withfudge.com/pin/5506) — [source page](https://fontstand.com/apps)
+- [Application — Fontstand](https://design.withfudge.com/pin/5505) — [source page](https://fontstand.com/apps)
+- [Pricing — Fontstand](https://design.withfudge.com/pin/5493) — [source page](https://fontstand.com/pricing)
+- [Pricing — Fontstand](https://design.withfudge.com/pin/5492) — [source page](https://fontstand.com/pricing)
+- [Contact — Fontstand](https://design.withfudge.com/pin/5491) — [source page](https://fontstand.com/contact)

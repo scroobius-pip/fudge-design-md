@@ -110,4 +110,4 @@ Here is the visual system observed across **1 captured page** from [hel.io](http
 ```
 
 ## References
-- [MoonPay Commerce | Sell more with crypto⚡️](https://design.withfudge.com/pin/7759) — [source page](hel.io/)
+- [MoonPay Commerce | Sell more with crypto⚡️](https://design.withfudge.com/pin/7759) — [source page](https://hel.io/)

@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [my.10web.io
 ```
 
 ## References
-- [Websites - Dashboard](https://design.withfudge.com/pin/6702) — [source page](my.10web.io/websites)
-- [Convert With AI Builder - Dashboard](https://design.withfudge.com/pin/6701) — [source page](my.10web.io/setup/ai-convert)
+- [Websites - Dashboard](https://design.withfudge.com/pin/6702) — [source page](https://my.10web.io/websites)
+- [Convert With AI Builder - Dashboard](https://design.withfudge.com/pin/6701) — [source page](https://my.10web.io/setup/ai-convert)

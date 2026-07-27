@@ -204,9 +204,9 @@ Here is the visual system observed across **6 captured pages** from [trustpilot.
 ```
 
 ## References
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7774) — [source page](trustpilot.com/)
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7773) — [source page](trustpilot.com/)
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7772) — [source page](trustpilot.com/)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7771) — [source page](trustpilot.com/review/moonpay.com)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7770) — [source page](trustpilot.com/review/moonpay.com)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7769) — [source page](trustpilot.com/review/moonpay.com)
+- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7774) — [source page](https://trustpilot.com/)
+- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7773) — [source page](https://trustpilot.com/)
+- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7772) — [source page](https://trustpilot.com/)
+- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7771) — [source page](https://trustpilot.com/review/moonpay.com)
+- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7770) — [source page](https://trustpilot.com/review/moonpay.com)
+- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7769) — [source page](https://trustpilot.com/review/moonpay.com)

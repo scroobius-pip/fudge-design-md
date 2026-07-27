@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [boringbar.ap
 ```
 
 ## References
-- [boringBar - Taskbar Dock Replacement for macOS](https://design.withfudge.com/pin/8813) — [source page](boringbar.app/)
+- [boringBar - Taskbar Dock Replacement for macOS](https://design.withfudge.com/pin/8813) — [source page](https://boringbar.app/)

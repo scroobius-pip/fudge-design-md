@@ -295,11 +295,11 @@ Here is the visual system observed across **8 captured pages** from [neuform.ai]
 ```
 
 ## References
-- [Neuform](https://design.withfudge.com/pin/8825) — [source page](neuform.ai/)
-- [Trending Community Pages | Neuform](https://design.withfudge.com/pin/8822) — [source page](neuform.ai/community/trending)
-- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8821) — [source page](neuform.ai/community/tag/dashboard)
-- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8820) — [source page](neuform.ai/community/tag/dashboard)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8819) — [source page](neuform.ai/page/autonomous-systems-engine)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8818) — [source page](neuform.ai/page/autonomous-systems-engine)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8817) — [source page](neuform.ai/page/autonomous-systems-engine)
-- [Telemetry Interface Background Effect | Neuform](https://design.withfudge.com/pin/8816) — [source page](neuform.ai/page/telemetry-interface-5)
+- [Neuform](https://design.withfudge.com/pin/8825) — [source page](https://neuform.ai/)
+- [Trending Community Pages | Neuform](https://design.withfudge.com/pin/8822) — [source page](https://neuform.ai/community/trending)
+- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8821) — [source page](https://neuform.ai/community/tag/dashboard)
+- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8820) — [source page](https://neuform.ai/community/tag/dashboard)
+- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8819) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8818) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8817) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+- [Telemetry Interface Background Effect | Neuform](https://design.withfudge.com/pin/8816) — [source page](https://neuform.ai/page/telemetry-interface-5)

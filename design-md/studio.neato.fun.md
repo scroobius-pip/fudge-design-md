@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [studio.neato
 ```
 
 ## References
-- [Gradients - Studio](https://design.withfudge.com/pin/8124) — [source page](studio.neato.fun/gradients)
+- [Gradients - Studio](https://design.withfudge.com/pin/8124) — [source page](https://studio.neato.fun/gradients)

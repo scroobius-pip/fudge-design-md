@@ -181,8 +181,8 @@ Here is the visual system observed across **5 captured pages** from [edition.cnn
 ```
 
 ## References
-- [EOPL: The lawless floating gas station where the Iranian shadow fleet trades oil | CNN](https://design.withfudge.com/pin/9108) — [source page](edition.cnn.com/2026/04/27/asia/eopl-oil-iran-shadow-fleet-war-intl-hnk)
-- [Measles vaccine: Record-breaking outbreak may have driven uptake | CNN](https://design.withfudge.com/pin/9107) — [source page](edition.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over)
-- [Kentucky Derby favorite Renegade faces uphill battle after drawing unfavorable starting position | CNN](https://design.withfudge.com/pin/9106) — [source page](edition.cnn.com/2026/04/25/sport/renegade-kentucky-derby-draw)
-- [A Supreme Court case over pesticides is bringing out the ‘MAHA moms’ — and threats of consequences for the midterms | CNN Politics](https://design.withfudge.com/pin/9105) — [source page](edition.cnn.com/2026/04/27/politics/roundup-pesticides-maha-supreme-court)
-- [Adidas share price boosted by new world record in London Marathon | CNN Business](https://design.withfudge.com/pin/9104) — [source page](edition.cnn.com/2026/04/27/business/adidas-share-price-london-marathon-intl)
+- [EOPL: The lawless floating gas station where the Iranian shadow fleet trades oil | CNN](https://design.withfudge.com/pin/9108) — [source page](https://edition.cnn.com/2026/04/27/asia/eopl-oil-iran-shadow-fleet-war-intl-hnk)
+- [Measles vaccine: Record-breaking outbreak may have driven uptake | CNN](https://design.withfudge.com/pin/9107) — [source page](https://edition.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over)
+- [Kentucky Derby favorite Renegade faces uphill battle after drawing unfavorable starting position | CNN](https://design.withfudge.com/pin/9106) — [source page](https://edition.cnn.com/2026/04/25/sport/renegade-kentucky-derby-draw)
+- [A Supreme Court case over pesticides is bringing out the ‘MAHA moms’ — and threats of consequences for the midterms | CNN Politics](https://design.withfudge.com/pin/9105) — [source page](https://edition.cnn.com/2026/04/27/politics/roundup-pesticides-maha-supreme-court)
+- [Adidas share price boosted by new world record in London Marathon | CNN Business](https://design.withfudge.com/pin/9104) — [source page](https://edition.cnn.com/2026/04/27/business/adidas-share-price-london-marathon-intl)

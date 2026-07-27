@@ -330,11 +330,11 @@ Here is the visual system observed across **11 captured pages** from [almost-pea
 ```
 
 ## References
-- [PEARFECT](https://design.withfudge.com/pin/8639) — [source page](almost-pearfect.com/)
-- [PEARFECT — menu](https://design.withfudge.com/pin/8638) — [source page](almost-pearfect.com/menu/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8637) — [source page](almost-pearfect.com/shop/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8636) — [source page](almost-pearfect.com/shop/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8635) — [source page](almost-pearfect.com/shop/)
-- [PEARFECT](https://design.withfudge.com/pin/8634) — [source page](almost-pearfect.com/)
-- [PEARFECT](https://design.withfudge.com/pin/8626) — [source page](almost-pearfect.com/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8625) — [source page](almost-pearfect.com/shopen/)
+- [PEARFECT](https://design.withfudge.com/pin/8639) — [source page](https://almost-pearfect.com/)
+- [PEARFECT — menu](https://design.withfudge.com/pin/8638) — [source page](https://almost-pearfect.com/menu/)
+- [PEARFECT — shop](https://design.withfudge.com/pin/8637) — [source page](https://almost-pearfect.com/shop/)
+- [PEARFECT — shop](https://design.withfudge.com/pin/8636) — [source page](https://almost-pearfect.com/shop/)
+- [PEARFECT — shop](https://design.withfudge.com/pin/8635) — [source page](https://almost-pearfect.com/shop/)
+- [PEARFECT](https://design.withfudge.com/pin/8634) — [source page](https://almost-pearfect.com/)
+- [PEARFECT](https://design.withfudge.com/pin/8626) — [source page](https://almost-pearfect.com/)
+- [PEARFECT — shop](https://design.withfudge.com/pin/8625) — [source page](https://almost-pearfect.com/shopen/)

@@ -127,6 +127,6 @@ Here is the visual system observed across **3 captured pages** from [fonts.flori
 ```
 
 ## References
-- [FAQ | Florian Karsten Typefaces](https://design.withfudge.com/pin/8359) — [source page](fonts.floriankarsten.com/faq)
-- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8358) — [source page](fonts.floriankarsten.com/)
-- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8357) — [source page](fonts.floriankarsten.com/)
+- [FAQ | Florian Karsten Typefaces](https://design.withfudge.com/pin/8359) — [source page](https://fonts.floriankarsten.com/faq)
+- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8358) — [source page](https://fonts.floriankarsten.com/)
+- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8357) — [source page](https://fonts.floriankarsten.com/)

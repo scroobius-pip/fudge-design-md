@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [deepwiki.co
 ```
 
 ## References
-- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8114) — [source page](deepwiki.com/bagusindrayana/ews-concept-new)
-- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8113) — [source page](deepwiki.com/bagusindrayana/ews-concept-new)
-- [DeepWiki | AI documentation you can talk to, for every repo](https://design.withfudge.com/pin/8112) — [source page](deepwiki.com/)
+- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8114) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
+- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8113) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
+- [DeepWiki | AI documentation you can talk to, for every repo](https://design.withfudge.com/pin/8112) — [source page](https://deepwiki.com/)

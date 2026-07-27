@@ -225,11 +225,11 @@ Here is the visual system observed across **8 captured pages** from [baked.desig
 ```
 
 ## References
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6495) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6319) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5265) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5264) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5263) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5262) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5261) — [source page](baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5260) — [source page](baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6495) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6319) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5265) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5264) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5263) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5262) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5261) — [source page](https://baked.design/)
+- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5260) — [source page](https://baked.design/)

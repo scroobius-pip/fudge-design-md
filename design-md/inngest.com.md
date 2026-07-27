@@ -338,11 +338,11 @@ Here is the visual system observed across **11 captured pages** from [inngest.co
 ```
 
 ## References
-- [Pricing - Inngest](https://design.withfudge.com/pin/7556) — [source page](inngest.com/pricing)
-- [Pricing - Inngest](https://design.withfudge.com/pin/7555) — [source page](inngest.com/pricing)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7554) — [source page](inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7553) — [source page](inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7552) — [source page](inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7551) — [source page](inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7550) — [source page](inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7549) — [source page](inngest.com/)
+- [Pricing - Inngest](https://design.withfudge.com/pin/7556) — [source page](https://inngest.com/pricing)
+- [Pricing - Inngest](https://design.withfudge.com/pin/7555) — [source page](https://inngest.com/pricing)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7554) — [source page](https://inngest.com/)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7553) — [source page](https://inngest.com/)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7552) — [source page](https://inngest.com/)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7551) — [source page](https://inngest.com/)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7550) — [source page](https://inngest.com/)
+- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7549) — [source page](https://inngest.com/)

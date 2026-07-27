@@ -289,11 +289,11 @@ Here is the visual system observed across **9 captured pages** from [studiofnt.c
 ```
 
 ## References
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10399) — [source page](studiofnt.com/Naver-Blog)
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10398) — [source page](studiofnt.com/Naver-Blog)
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10397) — [source page](studiofnt.com/Naver-Blog)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10396) — [source page](studiofnt.com/WISDOM-HOUSE)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10395) — [source page](studiofnt.com/WISDOM-HOUSE)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10394) — [source page](studiofnt.com/WISDOM-HOUSE)
-- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10290) — [source page](studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
-- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10289) — [source page](studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
+- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10399) — [source page](https://studiofnt.com/Naver-Blog)
+- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10398) — [source page](https://studiofnt.com/Naver-Blog)
+- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10397) — [source page](https://studiofnt.com/Naver-Blog)
+- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10396) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10395) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10394) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10290) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
+- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10289) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)

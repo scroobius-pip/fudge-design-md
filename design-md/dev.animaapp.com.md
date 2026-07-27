@@ -107,4 +107,4 @@ Here is the visual system observed across **1 captured page** from [dev.animaapp
 ```
 
 ## References
-- [Anima](https://design.withfudge.com/pin/5952) — [source page](dev.animaapp.com/)
+- [Anima](https://design.withfudge.com/pin/5952) — [source page](https://dev.animaapp.com/)

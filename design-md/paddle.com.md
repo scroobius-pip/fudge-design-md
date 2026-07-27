@@ -223,10 +223,10 @@ Here is the visual system observed across **7 captured pages** from [paddle.com]
 ```
 
 ## References
-- [Pricing | Paddle](https://design.withfudge.com/pin/6765) — [source page](paddle.com/pricing)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6750) — [source page](paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6749) — [source page](paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6748) — [source page](paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6747) — [source page](paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6746) — [source page](paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6745) — [source page](paddle.com/)
+- [Pricing | Paddle](https://design.withfudge.com/pin/6765) — [source page](https://paddle.com/pricing)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6750) — [source page](https://paddle.com/)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6749) — [source page](https://paddle.com/)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6748) — [source page](https://paddle.com/)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6747) — [source page](https://paddle.com/)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6746) — [source page](https://paddle.com/)
+- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6745) — [source page](https://paddle.com/)

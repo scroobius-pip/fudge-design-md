@@ -209,8 +209,8 @@ Here is the visual system observed across **5 captured pages** from [every.to](h
 ```
 
 ## References
-- [Every](https://design.withfudge.com/pin/8446) — [source page](every.to/)
-- [Every](https://design.withfudge.com/pin/8445) — [source page](every.to/)
-- [Every](https://design.withfudge.com/pin/8444) — [source page](every.to/)
-- [Every](https://design.withfudge.com/pin/8443) — [source page](every.to/)
-- [Every](https://design.withfudge.com/pin/8442) — [source page](every.to/)
+- [Every](https://design.withfudge.com/pin/8446) — [source page](https://every.to/)
+- [Every](https://design.withfudge.com/pin/8445) — [source page](https://every.to/)
+- [Every](https://design.withfudge.com/pin/8444) — [source page](https://every.to/)
+- [Every](https://design.withfudge.com/pin/8443) — [source page](https://every.to/)
+- [Every](https://design.withfudge.com/pin/8442) — [source page](https://every.to/)

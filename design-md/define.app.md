@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [define.app](
 ```
 
 ## References
-- [Apply for early access - define](https://design.withfudge.com/pin/8209) — [source page](define.app/)
+- [Apply for early access - define](https://design.withfudge.com/pin/8209) — [source page](https://define.app/)

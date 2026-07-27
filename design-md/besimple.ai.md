@@ -212,8 +212,8 @@ Here is the visual system observed across **5 captured pages** from [besimple.ai
 ```
 
 ## References
-- [Besimple AI](https://design.withfudge.com/pin/9802) — [source page](besimple.ai/blogs/voice-code-bench)
-- [Besimple AI](https://design.withfudge.com/pin/9801) — [source page](besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9800) — [source page](besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9799) — [source page](besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9798) — [source page](besimple.ai/)
+- [Besimple AI](https://design.withfudge.com/pin/9802) — [source page](https://besimple.ai/blogs/voice-code-bench)
+- [Besimple AI](https://design.withfudge.com/pin/9801) — [source page](https://besimple.ai/)
+- [Besimple AI](https://design.withfudge.com/pin/9800) — [source page](https://besimple.ai/)
+- [Besimple AI](https://design.withfudge.com/pin/9799) — [source page](https://besimple.ai/)
+- [Besimple AI](https://design.withfudge.com/pin/9798) — [source page](https://besimple.ai/)

@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [percival.in
 ```
 
 ## References
-- [Percival](https://design.withfudge.com/pin/6093) — [source page](percival.ink/)
-- [Percival](https://design.withfudge.com/pin/6092) — [source page](percival.ink/)
+- [Percival](https://design.withfudge.com/pin/6093) — [source page](https://percival.ink/)
+- [Percival](https://design.withfudge.com/pin/6092) — [source page](https://percival.ink/)

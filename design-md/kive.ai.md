@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [kive.ai](htt
 ```
 
 ## References
-- [Kive - AI Product Photography for Consumer Brands](https://design.withfudge.com/pin/7499) — [source page](kive.ai/)
+- [Kive - AI Product Photography for Consumer Brands](https://design.withfudge.com/pin/7499) — [source page](https://kive.ai/)

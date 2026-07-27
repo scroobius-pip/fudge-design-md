@@ -304,11 +304,11 @@ Here is the visual system observed across **18 captured pages** from [offmenu.de
 ```
 
 ## References
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8812) — [source page](offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8811) — [source page](offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8810) — [source page](offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8809) — [source page](offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8808) — [source page](offmenu.design/work/ditto)
-- [Off Menu — AI-Native Studio for Agentic Interfaces](https://design.withfudge.com/pin/8807) — [source page](offmenu.design/)
-- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8554) — [source page](offmenu.design/work/resonant)
-- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8553) — [source page](offmenu.design/work/resonant)
+- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8812) — [source page](https://offmenu.design/work/ditto)
+- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8811) — [source page](https://offmenu.design/work/ditto)
+- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8810) — [source page](https://offmenu.design/work/ditto)
+- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8809) — [source page](https://offmenu.design/work/ditto)
+- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8808) — [source page](https://offmenu.design/work/ditto)
+- [Off Menu — AI-Native Studio for Agentic Interfaces](https://design.withfudge.com/pin/8807) — [source page](https://offmenu.design/)
+- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8554) — [source page](https://offmenu.design/work/resonant)
+- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8553) — [source page](https://offmenu.design/work/resonant)

@@ -337,11 +337,11 @@ Here is the visual system observed across **21 captured pages** from [dash.cloud
 ```
 
 ## References
-- [fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10060) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/fontofweb.com)
-- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10039) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
-- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9843) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
-- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9840) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/checkout/payment)
-- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9839) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/checkout/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb21haW4iOiJpY29uaWNpdHkuY2MiLCJpYXQiOjE3ODI3NDI1MjF9.muJehkecD0tCTCrfV1N9znF69cWZWCGe14onv5V_2Rw)
-- [Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9664) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/billing/billable-usage)
-- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9239) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
-- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9238) — [source page](dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
+- [fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10060) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/fontofweb.com)
+- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10039) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
+- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9843) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
+- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9840) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/checkout/payment)
+- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9839) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/checkout/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb21haW4iOiJpY29uaWNpdHkuY2MiLCJpYXQiOjE3ODI3NDI1MjF9.muJehkecD0tCTCrfV1N9znF69cWZWCGe14onv5V_2Rw)
+- [Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9664) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/billing/billable-usage)
+- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9239) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
+- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9238) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)

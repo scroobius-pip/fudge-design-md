@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [neil.compute
 ```
 
 ## References
-- [Neil Panchal](https://design.withfudge.com/pin/9513) — [source page](neil.computer/)
+- [Neil Panchal](https://design.withfudge.com/pin/9513) — [source page](https://neil.computer/)

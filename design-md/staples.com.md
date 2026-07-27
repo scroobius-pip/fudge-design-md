@@ -160,5 +160,5 @@ Here is the visual system observed across **2 captured pages** from [staples.com
 ```
 
 ## References
-- [Staples® Official Online Store](https://design.withfudge.com/pin/9816) — [source page](staples.com/)
-- [Staples® Official Online Store](https://design.withfudge.com/pin/9815) — [source page](staples.com/)
+- [Staples® Official Online Store](https://design.withfudge.com/pin/9816) — [source page](https://staples.com/)
+- [Staples® Official Online Store](https://design.withfudge.com/pin/9815) — [source page](https://staples.com/)

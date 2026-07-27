@@ -136,6 +136,6 @@ Here is the visual system observed across **3 captured pages** from [miromiro.ap
 ```
 
 ## References
-- [Website to Tailwind — Export Any Section as Clean HTML & Tailwind CSS | MiroMiro](https://design.withfudge.com/pin/10190) — [source page](miromiro.app/features/inspect-export)
-- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4857) — [source page](miromiro.app/)
-- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4856) — [source page](miromiro.app/)
+- [Website to Tailwind — Export Any Section as Clean HTML & Tailwind CSS | MiroMiro](https://design.withfudge.com/pin/10190) — [source page](https://miromiro.app/features/inspect-export)
+- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4857) — [source page](https://miromiro.app/)
+- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4856) — [source page](https://miromiro.app/)

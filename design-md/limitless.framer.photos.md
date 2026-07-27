@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [limitless.f
 ```
 
 ## References
-- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9507) — [source page](limitless.framer.photos/)
-- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9506) — [source page](limitless.framer.photos/)
+- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9507) — [source page](https://limitless.framer.photos/)
+- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9506) — [source page](https://limitless.framer.photos/)

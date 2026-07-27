@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [kalirestaura
 ```
 
 ## References
-- [Kali Restaurant - Hollywood, Los Angeles, CA](https://design.withfudge.com/pin/9469) — [source page](kalirestaurant.com/)
+- [Kali Restaurant - Hollywood, Los Angeles, CA](https://design.withfudge.com/pin/9469) — [source page](https://kalirestaurant.com/)

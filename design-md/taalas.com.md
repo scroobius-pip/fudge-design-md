@@ -123,4 +123,4 @@ Here is the visual system observed across **1 captured page** from [taalas.com](
 ```
 
 ## References
-- [Taalas | The model is The Computer](https://design.withfudge.com/pin/9797) — [source page](taalas.com/)
+- [Taalas | The model is The Computer](https://design.withfudge.com/pin/9797) — [source page](https://taalas.com/)

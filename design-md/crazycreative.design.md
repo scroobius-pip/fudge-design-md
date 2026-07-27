@@ -317,11 +317,11 @@ Here is the visual system observed across **35 captured pages** from [crazycreat
 ```
 
 ## References
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/9130) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/8777) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6968) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6967) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/670) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/669) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/668) — [source page](crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/667) — [source page](crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/9130) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/8777) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6968) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6967) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/670) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/669) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/668) — [source page](https://crazycreative.design/)
+- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/667) — [source page](https://crazycreative.design/)

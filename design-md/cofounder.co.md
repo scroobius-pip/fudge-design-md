@@ -225,9 +225,9 @@ Here is the visual system observed across **6 captured pages** from [cofounder.c
 ```
 
 ## References
-- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9471) — [source page](cofounder.co/)
-- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9470) — [source page](cofounder.co/)
-- [Cofounder](https://design.withfudge.com/pin/8173) — [source page](cofounder.co/)
-- [Cofounder | Pricing](https://design.withfudge.com/pin/8171) — [source page](cofounder.co/pricing)
-- [Cofounder](https://design.withfudge.com/pin/8170) — [source page](cofounder.co/)
-- [Cofounder](https://design.withfudge.com/pin/8169) — [source page](cofounder.co/)
+- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9471) — [source page](https://cofounder.co/)
+- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9470) — [source page](https://cofounder.co/)
+- [Cofounder](https://design.withfudge.com/pin/8173) — [source page](https://cofounder.co/)
+- [Cofounder | Pricing](https://design.withfudge.com/pin/8171) — [source page](https://cofounder.co/pricing)
+- [Cofounder](https://design.withfudge.com/pin/8170) — [source page](https://cofounder.co/)
+- [Cofounder](https://design.withfudge.com/pin/8169) — [source page](https://cofounder.co/)

@@ -76,4 +76,4 @@ Here is the visual system observed across **1 captured page** from [app.factory.
 ```
 
 ## References
-- [Factory](https://design.withfudge.com/pin/6821) — [source page](app.factory.ai/)
+- [Factory](https://design.withfudge.com/pin/6821) — [source page](https://app.factory.ai/)

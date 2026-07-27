@@ -139,6 +139,6 @@ Here is the visual system observed across **3 captured pages** from [shop.a24fil
 ```
 
 ## References
-- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6382) — [source page](shop.a24films.com/products/a24-stones-tee)
-- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6381) — [source page](shop.a24films.com/products/a24-stones-tee)
-- [Members Only – A24 Shop](https://design.withfudge.com/pin/6380) — [source page](shop.a24films.com/collections/members-only)
+- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6382) — [source page](https://shop.a24films.com/products/a24-stones-tee)
+- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6381) — [source page](https://shop.a24films.com/products/a24-stones-tee)
+- [Members Only – A24 Shop](https://design.withfudge.com/pin/6380) — [source page](https://shop.a24films.com/collections/members-only)

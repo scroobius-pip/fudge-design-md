@@ -426,11 +426,11 @@ Here is the visual system observed across **30 captured pages** from [mistral.ai
 ```
 
 ## References
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10276) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10275) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10274) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9786) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9774) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9773) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9772) — [source page](mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9771) — [source page](mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10276) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10275) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10274) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9786) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9774) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9773) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9772) — [source page](https://mistral.ai/)
+- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9771) — [source page](https://mistral.ai/)

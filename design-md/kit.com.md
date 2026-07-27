@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [kit.com](ht
 ```
 
 ## References
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7488) — [source page](kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7487) — [source page](kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7486) — [source page](kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7485) — [source page](kit.com/)
-- [Flexible Pricing Plans for Every Stage of Your Creator Business](https://design.withfudge.com/pin/5165) — [source page](kit.com/pricing)
+- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7488) — [source page](https://kit.com/)
+- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7487) — [source page](https://kit.com/)
+- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7486) — [source page](https://kit.com/)
+- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7485) — [source page](https://kit.com/)
+- [Flexible Pricing Plans for Every Stage of Your Creator Business](https://design.withfudge.com/pin/5165) — [source page](https://kit.com/pricing)

@@ -313,11 +313,11 @@ Here is the visual system observed across **26 captured pages** from [modal.com]
 ```
 
 ## References
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9044) — [source page](modal.com/pricing)
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9043) — [source page](modal.com/pricing)
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9042) — [source page](modal.com/pricing)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9041) — [source page](modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9040) — [source page](modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9039) — [source page](modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9038) — [source page](modal.com/products/notebooks)
-- [Blog | Modal](https://design.withfudge.com/pin/2502) — [source page](modal.com/blog)
+- [Plan Pricing | Modal](https://design.withfudge.com/pin/9044) — [source page](https://modal.com/pricing)
+- [Plan Pricing | Modal](https://design.withfudge.com/pin/9043) — [source page](https://modal.com/pricing)
+- [Plan Pricing | Modal](https://design.withfudge.com/pin/9042) — [source page](https://modal.com/pricing)
+- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9041) — [source page](https://modal.com/products/notebooks)
+- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9040) — [source page](https://modal.com/products/notebooks)
+- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9039) — [source page](https://modal.com/products/notebooks)
+- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9038) — [source page](https://modal.com/products/notebooks)
+- [Blog | Modal](https://design.withfudge.com/pin/2502) — [source page](https://modal.com/blog)

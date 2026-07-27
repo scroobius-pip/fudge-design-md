@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [algebrica.o
 ```
 
 ## References
-- [Cauchy’s Convergence Criterion for Series | Algebrica](https://design.withfudge.com/pin/8752) — [source page](algebrica.org/cauchy-convergence-criterion-series/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8751) — [source page](algebrica.org/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8750) — [source page](algebrica.org/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8749) — [source page](algebrica.org/)
+- [Cauchy’s Convergence Criterion for Series | Algebrica](https://design.withfudge.com/pin/8752) — [source page](https://algebrica.org/cauchy-convergence-criterion-series/)
+- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8751) — [source page](https://algebrica.org/)
+- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8750) — [source page](https://algebrica.org/)
+- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8749) — [source page](https://algebrica.org/)

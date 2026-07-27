@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [npr.org](htt
 ```
 
 ## References
-- [NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR](https://design.withfudge.com/pin/6788) — [source page](npr.org/)
+- [NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR](https://design.withfudge.com/pin/6788) — [source page](https://npr.org/)

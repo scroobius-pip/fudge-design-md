@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [meta.ai](htt
 ```
 
 ## References
-- [Meta AI](https://design.withfudge.com/pin/8745) — [source page](meta.ai/)
+- [Meta AI](https://design.withfudge.com/pin/8745) — [source page](https://meta.ai/)

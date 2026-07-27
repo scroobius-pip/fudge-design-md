@@ -152,6 +152,6 @@ Here is the visual system observed across **3 captured pages** from [adventureso
 ```
 
 ## References
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6741) — [source page](adventureson.band/)
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6740) — [source page](adventureson.band/)
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6739) — [source page](adventureson.band/)
+- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6741) — [source page](https://adventureson.band/)
+- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6740) — [source page](https://adventureson.band/)
+- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6739) — [source page](https://adventureson.band/)

@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [madalitso.me
 ```
 
 ## References
-- [digital-garden](https://design.withfudge.com/pin/7874) — [source page](madalitso.me/)
+- [digital-garden](https://design.withfudge.com/pin/7874) — [source page](https://madalitso.me/)

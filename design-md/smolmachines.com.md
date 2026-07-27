@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [smolmachines
 ```
 
 ## References
-- [smol machines](https://design.withfudge.com/pin/9025) — [source page](smolmachines.com/)
+- [smol machines](https://design.withfudge.com/pin/9025) — [source page](https://smolmachines.com/)

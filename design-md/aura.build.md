@@ -308,11 +308,11 @@ Here is the visual system observed across **14 captured pages** from [aura.build
 ```
 
 ## References
-- [Brand Portfolio Website Template | Aura](https://design.withfudge.com/pin/8824) — [source page](aura.build/templates/brand-portfolio)
-- [React Generator | Aura](https://design.withfudge.com/pin/8823) — [source page](aura.build/react/048e2c2c-d679-4cf4-bbca-f9a9327db67a)
-- [Changelog | Aura](https://design.withfudge.com/pin/8663) — [source page](aura.build/changelog)
-- [Changelog | Aura](https://design.withfudge.com/pin/8662) — [source page](aura.build/changelog)
-- [Changelog | Aura](https://design.withfudge.com/pin/8661) — [source page](aura.build/changelog)
-- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8660) — [source page](aura.build/templates/futuristic-technology1)
-- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8659) — [source page](aura.build/templates/futuristic-technology1)
-- [Browse Paid Templates - Aura](https://design.withfudge.com/pin/8658) — [source page](aura.build/browse/components/paid-templates)
+- [Brand Portfolio Website Template | Aura](https://design.withfudge.com/pin/8824) — [source page](https://aura.build/templates/brand-portfolio)
+- [React Generator | Aura](https://design.withfudge.com/pin/8823) — [source page](https://aura.build/react/048e2c2c-d679-4cf4-bbca-f9a9327db67a)
+- [Changelog | Aura](https://design.withfudge.com/pin/8663) — [source page](https://aura.build/changelog)
+- [Changelog | Aura](https://design.withfudge.com/pin/8662) — [source page](https://aura.build/changelog)
+- [Changelog | Aura](https://design.withfudge.com/pin/8661) — [source page](https://aura.build/changelog)
+- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8660) — [source page](https://aura.build/templates/futuristic-technology1)
+- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8659) — [source page](https://aura.build/templates/futuristic-technology1)
+- [Browse Paid Templates - Aura](https://design.withfudge.com/pin/8658) — [source page](https://aura.build/browse/components/paid-templates)

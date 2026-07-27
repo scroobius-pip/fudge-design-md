@@ -226,10 +226,10 @@ Here is the visual system observed across **7 captured pages** from [wafer.ai](h
 ```
 
 ## References
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9900) — [source page](wafer.ai/blog/glm52-amd)
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9899) — [source page](wafer.ai/blog/glm52-amd)
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9898) — [source page](wafer.ai/blog/glm52-amd)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9897) — [source page](wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9896) — [source page](wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9895) — [source page](wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9894) — [source page](wafer.ai/)
+- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9900) — [source page](https://wafer.ai/blog/glm52-amd)
+- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9899) — [source page](https://wafer.ai/blog/glm52-amd)
+- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9898) — [source page](https://wafer.ai/blog/glm52-amd)
+- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9897) — [source page](https://wafer.ai/)
+- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9896) — [source page](https://wafer.ai/)
+- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9895) — [source page](https://wafer.ai/)
+- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9894) — [source page](https://wafer.ai/)

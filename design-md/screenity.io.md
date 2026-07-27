@@ -146,7 +146,7 @@ Here is the visual system observed across **4 captured pages** from [screenity.i
 ```
 
 ## References
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6744) — [source page](screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6743) — [source page](screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6742) — [source page](screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/5113) — [source page](screenity.io/)
+- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6744) — [source page](https://screenity.io/)
+- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6743) — [source page](https://screenity.io/)
+- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6742) — [source page](https://screenity.io/)
+- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/5113) — [source page](https://screenity.io/)

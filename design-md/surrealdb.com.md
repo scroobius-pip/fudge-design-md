@@ -147,5 +147,5 @@ Here is the visual system observed across **2 captured pages** from [surrealdb.c
 ```
 
 ## References
-- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10110) — [source page](surrealdb.com/platform/surrealdb)
-- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10109) — [source page](surrealdb.com/platform/surrealdb)
+- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10110) — [source page](https://surrealdb.com/platform/surrealdb)
+- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10109) — [source page](https://surrealdb.com/platform/surrealdb)

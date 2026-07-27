@@ -204,9 +204,9 @@ Here is the visual system observed across **6 captured pages** from [capacity.so
 ```
 
 ## References
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7716) — [source page](capacity.so/clone-website-ai)
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7715) — [source page](capacity.so/clone-website-ai)
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7714) — [source page](capacity.so/clone-website-ai)
-- [AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://design.withfudge.com/pin/7713) — [source page](capacity.so/mvp-builder)
-- [Pick the plan that fits your needs - Capacity](https://design.withfudge.com/pin/7712) — [source page](capacity.so/pricing)
-- [Capacity - Turn that idea you had in mind into a website](https://design.withfudge.com/pin/7415) — [source page](capacity.so/)
+- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7716) — [source page](https://capacity.so/clone-website-ai)
+- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7715) — [source page](https://capacity.so/clone-website-ai)
+- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7714) — [source page](https://capacity.so/clone-website-ai)
+- [AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://design.withfudge.com/pin/7713) — [source page](https://capacity.so/mvp-builder)
+- [Pick the plan that fits your needs - Capacity](https://design.withfudge.com/pin/7712) — [source page](https://capacity.so/pricing)
+- [Capacity - Turn that idea you had in mind into a website](https://design.withfudge.com/pin/7415) — [source page](https://capacity.so/)

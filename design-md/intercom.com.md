@@ -365,11 +365,11 @@ Here is the visual system observed across **18 captured pages** from [intercom.c
 ```
 
 ## References
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9303) — [source page](intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9302) — [source page](intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9301) — [source page](intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9300) — [source page](intercom.com/customers)
-- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9299) — [source page](intercom.com/pricing)
-- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9298) — [source page](intercom.com/pricing)
-- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9297) — [source page](intercom.com/)
-- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9296) — [source page](intercom.com/)
+- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9303) — [source page](https://intercom.com/customers)
+- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9302) — [source page](https://intercom.com/customers)
+- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9301) — [source page](https://intercom.com/customers)
+- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9300) — [source page](https://intercom.com/customers)
+- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9299) — [source page](https://intercom.com/pricing)
+- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9298) — [source page](https://intercom.com/pricing)
+- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9297) — [source page](https://intercom.com/)
+- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9296) — [source page](https://intercom.com/)

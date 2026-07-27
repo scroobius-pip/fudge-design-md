@@ -214,10 +214,10 @@ Here is the visual system observed across **7 captured pages** from [scira.ai](h
 ```
 
 ## References
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5947) — [source page](scira.ai/)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5946) — [source page](scira.ai/sign-in)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5940) — [source page](scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5939) — [source page](scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5938) — [source page](scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5937) — [source page](scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5936) — [source page](scira.ai/about)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5947) — [source page](https://scira.ai/)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5946) — [source page](https://scira.ai/sign-in)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5940) — [source page](https://scira.ai/about)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5939) — [source page](https://scira.ai/about)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5938) — [source page](https://scira.ai/about)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5937) — [source page](https://scira.ai/about)
+- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5936) — [source page](https://scira.ai/about)

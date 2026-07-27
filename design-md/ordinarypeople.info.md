@@ -401,11 +401,11 @@ Here is the visual system observed across **15 captured pages** from [ordinarype
 ```
 
 ## References
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10410) — [source page](ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10409) — [source page](ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10408) — [source page](ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10407) — [source page](ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10406) — [source page](ordinarypeople.info/work/netflixk-content)
-- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10315) — [source page](ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
-- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10314) — [source page](ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
-- [Design Trend Report — Ordinary People](https://design.withfudge.com/pin/10313) — [source page](ordinarypeople.info/work/design-trend-report)
+- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10410) — [source page](https://ordinarypeople.info/work/netflixk-content)
+- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10409) — [source page](https://ordinarypeople.info/work/netflixk-content)
+- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10408) — [source page](https://ordinarypeople.info/work/netflixk-content)
+- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10407) — [source page](https://ordinarypeople.info/work/netflixk-content)
+- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10406) — [source page](https://ordinarypeople.info/work/netflixk-content)
+- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10315) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
+- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10314) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
+- [Design Trend Report — Ordinary People](https://design.withfudge.com/pin/10313) — [source page](https://ordinarypeople.info/work/design-trend-report)

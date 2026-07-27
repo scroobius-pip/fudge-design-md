@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [heroui.chat]
 ```
 
 ## References
-- [HeroUI Chat](https://design.withfudge.com/pin/5916) — [source page](heroui.chat/)
+- [HeroUI Chat](https://design.withfudge.com/pin/5916) — [source page](https://heroui.chat/)

@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [falcon.so](h
 ```
 
 ## References
-- [Falcon - Design Different](https://design.withfudge.com/pin/7667) — [source page](falcon.so/)
+- [Falcon - Design Different](https://design.withfudge.com/pin/7667) — [source page](https://falcon.so/)

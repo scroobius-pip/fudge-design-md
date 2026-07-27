@@ -190,7 +190,7 @@ Here is the visual system observed across **4 captured pages** from [ergo.org](h
 ```
 
 ## References
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9974) — [source page](ergo.org/)
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9973) — [source page](ergo.org/)
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9972) — [source page](ergo.org/)
-- [Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/pin/9969) — [source page](ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
+- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9974) — [source page](https://ergo.org/)
+- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9973) — [source page](https://ergo.org/)
+- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9972) — [source page](https://ergo.org/)
+- [Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/pin/9969) — [source page](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)

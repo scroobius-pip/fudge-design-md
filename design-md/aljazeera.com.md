@@ -141,6 +141,6 @@ Here is the visual system observed across **3 captured pages** from [aljazeera.c
 ```
 
 ## References
-- [Thai police arrest Indonesian wanted for $10m cyberfraud | Cybercrime News | Al Jazeera](https://design.withfudge.com/pin/9086) — [source page](aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud)
-- [Injured Salah has played his last game for Liverpool: Egypt team official | Football News | Al Jazeera](https://design.withfudge.com/pin/9085) — [source page](aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official)
-- [Zaragoza goalkeeper punches player, sparks brawl in La Liga 2 derby match | Football News | Al Jazeera](https://design.withfudge.com/pin/9084) — [source page](aljazeera.com/sports/2026/4/27/zaragoza-goalkeeper-punches-player-sparks-brawl-in-la-liga-2-derby-match)
+- [Thai police arrest Indonesian wanted for $10m cyberfraud | Cybercrime News | Al Jazeera](https://design.withfudge.com/pin/9086) — [source page](https://aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud)
+- [Injured Salah has played his last game for Liverpool: Egypt team official | Football News | Al Jazeera](https://design.withfudge.com/pin/9085) — [source page](https://aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official)
+- [Zaragoza goalkeeper punches player, sparks brawl in La Liga 2 derby match | Football News | Al Jazeera](https://design.withfudge.com/pin/9084) — [source page](https://aljazeera.com/sports/2026/4/27/zaragoza-goalkeeper-punches-player-sparks-brawl-in-la-liga-2-derby-match)

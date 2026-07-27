@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [point.free](
 ```
 
 ## References
-- [A 10 year old Xeon is all you need - point.free](https://design.withfudge.com/pin/9492) — [source page](point.free/blog/gemma-4-on-a-2016-xeon/)
+- [A 10 year old Xeon is all you need - point.free](https://design.withfudge.com/pin/9492) — [source page](https://point.free/blog/gemma-4-on-a-2016-xeon/)

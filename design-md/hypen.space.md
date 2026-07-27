@@ -316,10 +316,10 @@ Here is the visual system observed across **7 captured pages** from [hypen.space
 ```
 
 ## References
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9381) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9380) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9379) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9378) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9377) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9376) — [source page](hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9375) — [source page](hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9381) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9380) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9379) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9378) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9377) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9376) — [source page](https://hypen.space/)
+- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9375) — [source page](https://hypen.space/)

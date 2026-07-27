@@ -178,7 +178,7 @@ Here is the visual system observed across **4 captured pages** from [ocoya.com](
 ```
 
 ## References
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7673) — [source page](ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7672) — [source page](ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7671) — [source page](ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7670) — [source page](ocoya.com/)
+- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7673) — [source page](https://ocoya.com/)
+- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7672) — [source page](https://ocoya.com/)
+- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7671) — [source page](https://ocoya.com/)
+- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7670) — [source page](https://ocoya.com/)

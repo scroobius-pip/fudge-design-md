@@ -156,8 +156,8 @@ Here is the visual system observed across **5 captured pages** from [youtube.com
 ```
 
 ## References
-- [¿Fue rentable invertir en paneles solares? - YouTube](https://design.withfudge.com/pin/9175) — [source page](youtube.com/watch)
-- [The Kidnapped Girl - YouTube](https://design.withfudge.com/pin/8865) — [source page](youtube.com/watch)
-- [INTERSTELLAR NO TIME FOR CAUTION THEME ONE HOUR LOOP - YouTube](https://design.withfudge.com/pin/5762) — [source page](youtube.com/watch)
-- [Checking Out THE FINALS Halloween Event - ARC Raiders Waiting Room - YouTube](https://design.withfudge.com/pin/3921) — [source page](youtube.com/watch)
-- [Font of Web Demo - YouTube](https://design.withfudge.com/pin/1748) — [source page](youtube.com/watch)
+- [¿Fue rentable invertir en paneles solares? - YouTube](https://design.withfudge.com/pin/9175) — [source page](https://youtube.com/watch)
+- [The Kidnapped Girl - YouTube](https://design.withfudge.com/pin/8865) — [source page](https://youtube.com/watch)
+- [INTERSTELLAR NO TIME FOR CAUTION THEME ONE HOUR LOOP - YouTube](https://design.withfudge.com/pin/5762) — [source page](https://youtube.com/watch)
+- [Checking Out THE FINALS Halloween Event - ARC Raiders Waiting Room - YouTube](https://design.withfudge.com/pin/3921) — [source page](https://youtube.com/watch)
+- [Font of Web Demo - YouTube](https://design.withfudge.com/pin/1748) — [source page](https://youtube.com/watch)

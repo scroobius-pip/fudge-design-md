@@ -84,5 +84,5 @@ Here is the visual system observed across **2 captured pages** from [mangle.read
 ```
 
 ## References
-- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6083) — [source page](mangle.readthedocs.io/en/latest/datalog.html)
-- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6082) — [source page](mangle.readthedocs.io/en/latest/datalog.html)
+- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6083) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)
+- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6082) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)

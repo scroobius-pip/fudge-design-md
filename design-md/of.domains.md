@@ -212,9 +212,9 @@ Here is the visual system observed across **6 captured pages** from [of.domains]
 ```
 
 ## References
-- [Captured page 8356](https://design.withfudge.com/pin/8356) — [source page](of.domains/)
-- [Captured page 8355](https://design.withfudge.com/pin/8355) — [source page](of.domains/)
-- [Captured page 8354](https://design.withfudge.com/pin/8354) — [source page](of.domains/)
-- [Captured page 8353](https://design.withfudge.com/pin/8353) — [source page](of.domains/)
-- [Captured page 8352](https://design.withfudge.com/pin/8352) — [source page](of.domains/)
-- [Captured page 8351](https://design.withfudge.com/pin/8351) — [source page](of.domains/)
+- [Captured page 8356](https://design.withfudge.com/pin/8356) — [source page](https://of.domains/)
+- [Captured page 8355](https://design.withfudge.com/pin/8355) — [source page](https://of.domains/)
+- [Captured page 8354](https://design.withfudge.com/pin/8354) — [source page](https://of.domains/)
+- [Captured page 8353](https://design.withfudge.com/pin/8353) — [source page](https://of.domains/)
+- [Captured page 8352](https://design.withfudge.com/pin/8352) — [source page](https://of.domains/)
+- [Captured page 8351](https://design.withfudge.com/pin/8351) — [source page](https://of.domains/)

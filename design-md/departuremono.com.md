@@ -261,11 +261,11 @@ Here is the visual system observed across **11 captured pages** from [departurem
 ```
 
 ## References
-- [Departure Mono](https://design.withfudge.com/pin/9531) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/9530) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5064) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5063) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5062) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5061) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5060) — [source page](departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5059) — [source page](departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/9531) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/9530) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5064) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5063) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5062) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5061) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5060) — [source page](https://departuremono.com/)
+- [Departure Mono](https://design.withfudge.com/pin/5059) — [source page](https://departuremono.com/)

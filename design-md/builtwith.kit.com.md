@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [builtwith.k
 ```
 
 ## References
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6376) — [source page](builtwith.kit.com/)
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6375) — [source page](builtwith.kit.com/)
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6374) — [source page](builtwith.kit.com/)
+- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6376) — [source page](https://builtwith.kit.com/)
+- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6375) — [source page](https://builtwith.kit.com/)
+- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6374) — [source page](https://builtwith.kit.com/)

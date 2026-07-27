@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [app.bitgo.co
 ```
 
 ## References
-- [Unknown IP Address - BitGo](https://design.withfudge.com/pin/10057) — [source page](app.bitgo.com/web/auth/unknown-request-source)
+- [Unknown IP Address - BitGo](https://design.withfudge.com/pin/10057) — [source page](https://app.bitgo.com/web/auth/unknown-request-source)

@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [phoenix.new]
 ```
 
 ## References
-- [Home · Phoenix.new](https://design.withfudge.com/pin/6101) — [source page](phoenix.new/)
+- [Home · Phoenix.new](https://design.withfudge.com/pin/6101) — [source page](https://phoenix.new/)

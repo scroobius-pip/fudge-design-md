@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [chutes.ai](h
 ```
 
 ## References
-- [moonshotai/Kimi-K2.5-TEE | Chutes](https://design.withfudge.com/pin/8060) — [source page](chutes.ai/app/chute/2ff25e81-4586-5ec8-b892-3a6f342693d7)
+- [moonshotai/Kimi-K2.5-TEE | Chutes](https://design.withfudge.com/pin/8060) — [source page](https://chutes.ai/app/chute/2ff25e81-4586-5ec8-b892-3a6f342693d7)

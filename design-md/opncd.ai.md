@@ -95,4 +95,4 @@ Here is the visual system observed across **1 captured page** from [opncd.ai](ht
 ```
 
 ## References
-- [OpenCode](https://design.withfudge.com/pin/8464) — [source page](opncd.ai/share/KCEeEWe4)
+- [OpenCode](https://design.withfudge.com/pin/8464) — [source page](https://opncd.ai/share/KCEeEWe4)

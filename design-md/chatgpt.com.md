@@ -353,11 +353,11 @@ Here is the visual system observed across **22 captured pages** from [chatgpt.co
 ```
 
 ## References
-- [ChatGPT](https://design.withfudge.com/pin/10217) — [source page](chatgpt.com/)
-- [Rater Workspace Instructions](https://design.withfudge.com/pin/10192) — [source page](chatgpt.com/c/6a58d721-5858-83ea-9954-b6027ddc806a)
-- [ChatGPT](https://design.withfudge.com/pin/10040) — [source page](chatgpt.com/)
-- [HTML CSS Pattern Code](https://design.withfudge.com/pin/9739) — [source page](chatgpt.com/c/6a3949d2-ee78-83ea-9938-851dc4038cec)
-- [ChatGPT - Buildy](https://design.withfudge.com/pin/9568) — [source page](chatgpt.com/apps/buildy/asdk_app_69f9215e800881919f3d96d79200a35a)
-- [Fudge - Query Cost Projections](https://design.withfudge.com/pin/9540) — [source page](chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
-- [Fudge - Query Cost Projections](https://design.withfudge.com/pin/9539) — [source page](chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
-- [ChatGPT - Fudge](https://design.withfudge.com/pin/9538) — [source page](chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/project)
+- [ChatGPT](https://design.withfudge.com/pin/10217) — [source page](https://chatgpt.com/)
+- [Rater Workspace Instructions](https://design.withfudge.com/pin/10192) — [source page](https://chatgpt.com/c/6a58d721-5858-83ea-9954-b6027ddc806a)
+- [ChatGPT](https://design.withfudge.com/pin/10040) — [source page](https://chatgpt.com/)
+- [HTML CSS Pattern Code](https://design.withfudge.com/pin/9739) — [source page](https://chatgpt.com/c/6a3949d2-ee78-83ea-9938-851dc4038cec)
+- [ChatGPT - Buildy](https://design.withfudge.com/pin/9568) — [source page](https://chatgpt.com/apps/buildy/asdk_app_69f9215e800881919f3d96d79200a35a)
+- [Fudge - Query Cost Projections](https://design.withfudge.com/pin/9540) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
+- [Fudge - Query Cost Projections](https://design.withfudge.com/pin/9539) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
+- [ChatGPT - Fudge](https://design.withfudge.com/pin/9538) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/project)

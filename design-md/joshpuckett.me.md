@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [joshpuckett
 ```
 
 ## References
-- [Josh Puckett](https://design.withfudge.com/pin/8402) — [source page](joshpuckett.me/)
-- [Josh Puckett](https://design.withfudge.com/pin/8401) — [source page](joshpuckett.me/dialkit/photostack)
+- [Josh Puckett](https://design.withfudge.com/pin/8402) — [source page](https://joshpuckett.me/)
+- [Josh Puckett](https://design.withfudge.com/pin/8401) — [source page](https://joshpuckett.me/dialkit/photostack)

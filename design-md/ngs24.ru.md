@@ -141,6 +141,6 @@ Here is the visual system observed across **3 captured pages** from [ngs24.ru](h
 ```
 
 ## References
-- [В Красноярске объявили новую дату общегородского субботника - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9098) — [source page](ngs24.ru/text/gorod/2026/04/27/76388941/)
-- [В Красноярске выбрали трех самых красивых девушек региона - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9097) — [source page](ngs24.ru/text/style/2026/04/27/76389214/)
-- [Жильцы дома на Куйбышева в Красноярске не могут спасти собаку, которую содержат всем подъездом - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9096) — [source page](ngs24.ru/text/animals/2026/04/27/76389413/)
+- [В Красноярске объявили новую дату общегородского субботника - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9098) — [source page](https://ngs24.ru/text/gorod/2026/04/27/76388941/)
+- [В Красноярске выбрали трех самых красивых девушек региона - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9097) — [source page](https://ngs24.ru/text/style/2026/04/27/76389214/)
+- [Жильцы дома на Куйбышева в Красноярске не могут спасти собаку, которую содержат всем подъездом - 27 апреля 2026 | НГС24.ру](https://design.withfudge.com/pin/9096) — [source page](https://ngs24.ru/text/animals/2026/04/27/76389413/)

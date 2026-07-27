@@ -343,11 +343,11 @@ Here is the visual system observed across **12 captured pages** from [pop.site](
 ```
 
 ## References
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7732) — [source page](pop.site/pricing)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7731) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7730) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7729) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7728) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7727) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7726) — [source page](pop.site/)
-- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7725) — [source page](pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7732) — [source page](https://pop.site/pricing)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7731) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7730) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7729) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7728) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7727) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7726) — [source page](https://pop.site/)
+- [Pop Site - Free Personal Site Builder & Linktree Alternative](https://design.withfudge.com/pin/7725) — [source page](https://pop.site/)

@@ -246,11 +246,11 @@ Here is the visual system observed across **8 captured pages** from [unicorn.stu
 ```
 
 ## References
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8332) — [source page](unicorn.studio/inspiration)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8331) — [source page](unicorn.studio/)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8330) — [source page](unicorn.studio/)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8329) — [source page](unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3970) — [source page](unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3969) — [source page](unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3968) — [source page](unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3967) — [source page](unicorn.studio/)
+- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8332) — [source page](https://unicorn.studio/inspiration)
+- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8331) — [source page](https://unicorn.studio/)
+- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8330) — [source page](https://unicorn.studio/)
+- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8329) — [source page](https://unicorn.studio/)
+- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3970) — [source page](https://unicorn.studio/)
+- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3969) — [source page](https://unicorn.studio/)
+- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3968) — [source page](https://unicorn.studio/)
+- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3967) — [source page](https://unicorn.studio/)

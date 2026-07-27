@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [igerman.cc]
 ```
 
 ## References
-- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9529) — [source page](igerman.cc/blog/dopamine-fracking/)
-- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9528) — [source page](igerman.cc/blog/dopamine-fracking/)
+- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9529) — [source page](https://igerman.cc/blog/dopamine-fracking/)
+- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9528) — [source page](https://igerman.cc/blog/dopamine-fracking/)

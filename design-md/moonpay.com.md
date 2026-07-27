@@ -228,11 +228,11 @@ Here is the visual system observed across **8 captured pages** from [moonpay.com
 ```
 
 ## References
-- [Crypto for Business: Payments, Ramps & Stablecoins | MoonPay](https://design.withfudge.com/pin/7768) — [source page](moonpay.com/business)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7767) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7766) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7765) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7764) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7763) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7762) — [source page](moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7761) — [source page](moonpay.com/)
+- [Crypto for Business: Payments, Ramps & Stablecoins | MoonPay](https://design.withfudge.com/pin/7768) — [source page](https://moonpay.com/business)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7767) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7766) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7765) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7764) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7763) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7762) — [source page](https://moonpay.com/)
+- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7761) — [source page](https://moonpay.com/)

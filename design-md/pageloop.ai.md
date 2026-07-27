@@ -255,10 +255,10 @@ Here is the visual system observed across **7 captured pages** from [pageloop.ai
 ```
 
 ## References
-- [Pageloop | Blog](https://design.withfudge.com/pin/7083) — [source page](pageloop.ai/blog)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7082) — [source page](pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7081) — [source page](pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7080) — [source page](pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7079) — [source page](pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7078) — [source page](pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7077) — [source page](pageloop.ai/)
+- [Pageloop | Blog](https://design.withfudge.com/pin/7083) — [source page](https://pageloop.ai/blog)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7082) — [source page](https://pageloop.ai/)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7081) — [source page](https://pageloop.ai/)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7080) — [source page](https://pageloop.ai/)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7079) — [source page](https://pageloop.ai/)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7078) — [source page](https://pageloop.ai/)
+- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7077) — [source page](https://pageloop.ai/)

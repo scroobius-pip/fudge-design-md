@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [dreamcompos
 ```
 
 ## References
-- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8792) — [source page](dreamcomposer.co/)
-- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8791) — [source page](dreamcomposer.co/)
+- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8792) — [source page](https://dreamcomposer.co/)
+- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8791) — [source page](https://dreamcomposer.co/)

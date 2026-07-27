@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [rselbach.com
 ```
 
 ## References
-- [Roberto Selbach](https://design.withfudge.com/pin/5985) — [source page](rselbach.com/)
+- [Roberto Selbach](https://design.withfudge.com/pin/5985) — [source page](https://rselbach.com/)

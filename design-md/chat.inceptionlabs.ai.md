@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [chat.incepti
 ```
 
 ## References
-- [Inception Chat](https://design.withfudge.com/pin/9518) — [source page](chat.inceptionlabs.ai/)
+- [Inception Chat](https://design.withfudge.com/pin/9518) — [source page](https://chat.inceptionlabs.ai/)

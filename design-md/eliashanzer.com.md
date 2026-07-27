@@ -104,4 +104,4 @@ Here is the visual system observed across **1 captured page** from [eliashanzer.
 ```
 
 ## References
-- [Elias Hanzer](https://design.withfudge.com/pin/7372) — [source page](eliashanzer.com/)
+- [Elias Hanzer](https://design.withfudge.com/pin/7372) — [source page](https://eliashanzer.com/)

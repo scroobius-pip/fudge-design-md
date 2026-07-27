@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [newsinengli
 ```
 
 ## References
-- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9143) — [source page](newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
-- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9142) — [source page](newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
+- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9143) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
+- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9142) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)

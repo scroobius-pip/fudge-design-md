@@ -246,11 +246,11 @@ Here is the visual system observed across **8 captured pages** from [pencil.dev]
 ```
 
 ## References
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5984) — [source page](pencil.dev/downloads)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5983) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5982) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5981) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5980) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5979) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5978) — [source page](pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5977) — [source page](pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5984) — [source page](https://pencil.dev/downloads)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5983) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5982) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5981) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5980) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5979) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5978) — [source page](https://pencil.dev/)
+- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5977) — [source page](https://pencil.dev/)

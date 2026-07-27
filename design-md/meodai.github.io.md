@@ -220,9 +220,9 @@ Here is the visual system observed across **6 captured pages** from [meodai.gith
 ```
 
 ## References
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8509) — [source page](meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8508) — [source page](meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8507) — [source page](meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8506) — [source page](meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8505) — [source page](meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8504) — [source page](meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8509) — [source page](https://meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8508) — [source page](https://meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8507) — [source page](https://meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8506) — [source page](https://meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8505) — [source page](https://meodai.github.io/heerich/)
+- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8504) — [source page](https://meodai.github.io/heerich/)

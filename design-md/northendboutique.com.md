@@ -301,11 +301,11 @@ Here is the visual system observed across **8 captured pages** from [northendbou
 ```
 
 ## References
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9936) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9935) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9934) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9933) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9932) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9931) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9930) — [source page](northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9929) — [source page](northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9936) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9935) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9934) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9933) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9932) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9931) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9930) — [source page](https://northendboutique.com/)
+- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9929) — [source page](https://northendboutique.com/)

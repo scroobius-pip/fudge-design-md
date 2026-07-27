@@ -145,5 +145,5 @@ Here is the visual system observed across **2 captured pages** from [capy.ai](ht
 ```
 
 ## References
-- [Capy Pricing | Plans for Individuals and Teams](https://design.withfudge.com/pin/7791) — [source page](capy.ai/pricing)
-- [Capy - The IDE for the parallel age](https://design.withfudge.com/pin/7790) — [source page](capy.ai/)
+- [Capy Pricing | Plans for Individuals and Teams](https://design.withfudge.com/pin/7791) — [source page](https://capy.ai/pricing)
+- [Capy - The IDE for the parallel age](https://design.withfudge.com/pin/7790) — [source page](https://capy.ai/)

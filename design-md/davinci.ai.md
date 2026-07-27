@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [davinci.ai](
 ```
 
 ## References
-- [DaVinci - AI Art Generator](https://design.withfudge.com/pin/7937) — [source page](davinci.ai/app)
+- [DaVinci - AI Art Generator](https://design.withfudge.com/pin/7937) — [source page](https://davinci.ai/app)

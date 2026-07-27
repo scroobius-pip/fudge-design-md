@@ -106,4 +106,4 @@ Here is the visual system observed across **1 captured page** from [readme.com](
 ```
 
 ## References
-- [ReadMe · Developer-friendly API documentation](https://design.withfudge.com/pin/9199) — [source page](readme.com/)
+- [ReadMe · Developer-friendly API documentation](https://design.withfudge.com/pin/9199) — [source page](https://readme.com/)

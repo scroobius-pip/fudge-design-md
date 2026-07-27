@@ -241,11 +241,11 @@ Here is the visual system observed across **8 captured pages** from [lead.bank](
 ```
 
 ## References
-- [Personal Lending](https://design.withfudge.com/pin/7259) — [source page](lead.bank/personal/lending-solutions)
-- [Personal Banking](https://design.withfudge.com/pin/7257) — [source page](lead.bank/personal)
-- [Personal Banking](https://design.withfudge.com/pin/7256) — [source page](lead.bank/personal)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7255) — [source page](lead.bank/baas-partner-platform)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7254) — [source page](lead.bank/baas-partner-platform)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7253) — [source page](lead.bank/baas-partner-platform)
-- [Lead Bank](https://design.withfudge.com/pin/7252) — [source page](lead.bank/)
-- [Lead Bank](https://design.withfudge.com/pin/7251) — [source page](lead.bank/)
+- [Personal Lending](https://design.withfudge.com/pin/7259) — [source page](https://lead.bank/personal/lending-solutions)
+- [Personal Banking](https://design.withfudge.com/pin/7257) — [source page](https://lead.bank/personal)
+- [Personal Banking](https://design.withfudge.com/pin/7256) — [source page](https://lead.bank/personal)
+- [BaaS Partner Platform](https://design.withfudge.com/pin/7255) — [source page](https://lead.bank/baas-partner-platform)
+- [BaaS Partner Platform](https://design.withfudge.com/pin/7254) — [source page](https://lead.bank/baas-partner-platform)
+- [BaaS Partner Platform](https://design.withfudge.com/pin/7253) — [source page](https://lead.bank/baas-partner-platform)
+- [Lead Bank](https://design.withfudge.com/pin/7252) — [source page](https://lead.bank/)
+- [Lead Bank](https://design.withfudge.com/pin/7251) — [source page](https://lead.bank/)

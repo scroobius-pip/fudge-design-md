@@ -155,6 +155,6 @@ Here is the visual system observed across **3 captured pages** from [nature.com]
 ```
 
 ## References
-- [Nature Aging](https://design.withfudge.com/pin/9911) — [source page](nature.com/nataging)
-- [Nature Aging](https://design.withfudge.com/pin/9910) — [source page](nature.com/nataging)
-- [Nature Aging](https://design.withfudge.com/pin/9909) — [source page](nature.com/nataging)
+- [Nature Aging](https://design.withfudge.com/pin/9911) — [source page](https://nature.com/nataging)
+- [Nature Aging](https://design.withfudge.com/pin/9910) — [source page](https://nature.com/nataging)
+- [Nature Aging](https://design.withfudge.com/pin/9909) — [source page](https://nature.com/nataging)

@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [rt.com](htt
 ```
 
 ## References
-- [Trump announces new Iran talks, warns ‘no more Mr. Nice Guy’ — RT World News](https://design.withfudge.com/pin/8998) — [source page](rt.com/news/638713-trump-second-round-iran-talks/)
-- [RT - Breaking News, Russia News, World News and Video](https://design.withfudge.com/pin/8997) — [source page](rt.com/)
+- [Trump announces new Iran talks, warns ‘no more Mr. Nice Guy’ — RT World News](https://design.withfudge.com/pin/8998) — [source page](https://rt.com/news/638713-trump-second-round-iran-talks/)
+- [RT - Breaking News, Russia News, World News and Video](https://design.withfudge.com/pin/8997) — [source page](https://rt.com/)

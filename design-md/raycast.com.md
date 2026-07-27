@@ -202,11 +202,11 @@ Here is the visual system observed across **8 captured pages** from [raycast.com
 ```
 
 ## References
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/7307) — [source page](raycast.com/)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4918) — [source page](raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4917) — [source page](raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4916) — [source page](raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4915) — [source page](raycast.com/pricing)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4675) — [source page](raycast.com/)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4674) — [source page](raycast.com/)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4673) — [source page](raycast.com/)
+- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/7307) — [source page](https://raycast.com/)
+- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4918) — [source page](https://raycast.com/pricing)
+- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4917) — [source page](https://raycast.com/pricing)
+- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4916) — [source page](https://raycast.com/pricing)
+- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4915) — [source page](https://raycast.com/pricing)
+- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4675) — [source page](https://raycast.com/)
+- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4674) — [source page](https://raycast.com/)
+- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4673) — [source page](https://raycast.com/)

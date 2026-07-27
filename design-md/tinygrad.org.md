@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [tinygrad.or
 ```
 
 ## References
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8223) — [source page](tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8222) — [source page](tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8221) — [source page](tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8220) — [source page](tinygrad.org/)
+- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8223) — [source page](https://tinygrad.org/)
+- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8222) — [source page](https://tinygrad.org/)
+- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8221) — [source page](https://tinygrad.org/)
+- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8220) — [source page](https://tinygrad.org/)

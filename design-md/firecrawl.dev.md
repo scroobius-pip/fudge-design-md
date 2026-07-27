@@ -322,11 +322,11 @@ Here is the visual system observed across **16 captured pages** from [firecrawl.
 ```
 
 ## References
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7576) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7575) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7574) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7573) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7572) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7571) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7570) — [source page](firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7569) — [source page](firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7576) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7575) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7574) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7573) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7572) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7571) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7570) — [source page](https://firecrawl.dev/agent)
+- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7569) — [source page](https://firecrawl.dev/agent)

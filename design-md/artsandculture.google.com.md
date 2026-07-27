@@ -371,11 +371,11 @@ Here is the visual system observed across **15 captured pages** from [artsandcul
 ```
 
 ## References
-- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7274) — [source page](artsandculture.google.com/experiment/2gFc5DkygEURfw)
-- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7273) — [source page](artsandculture.google.com/experiment/2gFc5DkygEURfw)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7272) — [source page](artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7271) — [source page](artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7270) — [source page](artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7269) — [source page](artsandculture.google.com/)
-- [Captured page 7268](https://design.withfudge.com/pin/7268) — [source page](artsandculture.google.com/recommended)
-- [Explore — Google Arts & Culture](https://design.withfudge.com/pin/7267) — [source page](artsandculture.google.com/explore)
+- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7274) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
+- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7273) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
+- [Google Arts & Culture](https://design.withfudge.com/pin/7272) — [source page](https://artsandculture.google.com/)
+- [Google Arts & Culture](https://design.withfudge.com/pin/7271) — [source page](https://artsandculture.google.com/)
+- [Google Arts & Culture](https://design.withfudge.com/pin/7270) — [source page](https://artsandculture.google.com/)
+- [Google Arts & Culture](https://design.withfudge.com/pin/7269) — [source page](https://artsandculture.google.com/)
+- [Captured page 7268](https://design.withfudge.com/pin/7268) — [source page](https://artsandculture.google.com/recommended)
+- [Explore — Google Arts & Culture](https://design.withfudge.com/pin/7267) — [source page](https://artsandculture.google.com/explore)

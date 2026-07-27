@@ -373,11 +373,11 @@ Here is the visual system observed across **14 captured pages** from [thinkwithm
 ```
 
 ## References
-- [Mark | About](https://design.withfudge.com/pin/9358) — [source page](thinkwithmark.com/pages/about)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9357) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9356) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9355) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9354) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9353) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9352) — [source page](thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9351) — [source page](thinkwithmark.com/)
+- [Mark | About](https://design.withfudge.com/pin/9358) — [source page](https://thinkwithmark.com/pages/about)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9357) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9356) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9355) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9354) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9353) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9352) — [source page](https://thinkwithmark.com/preorder)
+- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9351) — [source page](https://thinkwithmark.com/)

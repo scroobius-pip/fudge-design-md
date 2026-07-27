@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [rediff.com]
 ```
 
 ## References
-- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8993) — [source page](rediff.com/)
-- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8992) — [source page](rediff.com/)
+- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8993) — [source page](https://rediff.com/)
+- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8992) — [source page](https://rediff.com/)

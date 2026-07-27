@@ -137,6 +137,6 @@ Here is the visual system observed across **3 captured pages** from [lcd.ertdfgc
 ```
 
 ## References
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7099) — [source page](lcd.ertdfgcvb.xyz/)
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7098) — [source page](lcd.ertdfgcvb.xyz/)
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7097) — [source page](lcd.ertdfgcvb.xyz/)
+- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7099) — [source page](https://lcd.ertdfgcvb.xyz/)
+- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7098) — [source page](https://lcd.ertdfgcvb.xyz/)
+- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7097) — [source page](https://lcd.ertdfgcvb.xyz/)

@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [nestleprofes
 ```
 
 ## References
-- [10 Street Food Ideas | Nestlé Professional](https://design.withfudge.com/pin/7657) — [source page](nestleprofessional.us/trends-insights/10-street-food-ideas)
+- [10 Street Food Ideas | Nestlé Professional](https://design.withfudge.com/pin/7657) — [source page](https://nestleprofessional.us/trends-insights/10-street-food-ideas)

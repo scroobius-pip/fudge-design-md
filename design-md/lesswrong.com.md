@@ -251,8 +251,8 @@ Here is the visual system observed across **5 captured pages** from [lesswrong.c
 ```
 
 ## References
-- [31 Laws of Fun — LessWrong](https://design.withfudge.com/pin/9674) — [source page](lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
-- [Eutopia is Scary — LessWrong](https://design.withfudge.com/pin/9663) — [source page](lesswrong.com/posts/hQSaMafoizBSa3gFR/eutopia-is-scary)
-- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9661) — [source page](lesswrong.com/users/eliezer_yudkowsky)
-- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9660) — [source page](lesswrong.com/users/eliezer_yudkowsky)
-- [LessWrong](https://design.withfudge.com/pin/5693) — [source page](lesswrong.com/)
+- [31 Laws of Fun — LessWrong](https://design.withfudge.com/pin/9674) — [source page](https://lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
+- [Eutopia is Scary — LessWrong](https://design.withfudge.com/pin/9663) — [source page](https://lesswrong.com/posts/hQSaMafoizBSa3gFR/eutopia-is-scary)
+- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9661) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
+- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9660) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
+- [LessWrong](https://design.withfudge.com/pin/5693) — [source page](https://lesswrong.com/)

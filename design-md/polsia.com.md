@@ -158,5 +158,5 @@ Here is the visual system observed across **2 captured pages** from [polsia.com]
 ```
 
 ## References
-- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7666) — [source page](polsia.com/live)
-- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7665) — [source page](polsia.com/)
+- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7666) — [source page](https://polsia.com/live)
+- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7665) — [source page](https://polsia.com/)

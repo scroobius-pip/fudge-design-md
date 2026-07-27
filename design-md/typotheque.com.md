@@ -134,6 +134,6 @@ Here is the visual system observed across **3 captured pages** from [typotheque.
 ```
 
 ## References
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6828) — [source page](typotheque.com/blog/improving-zed-display)
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6827) — [source page](typotheque.com/blog/improving-zed-display)
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6826) — [source page](typotheque.com/blog/improving-zed-display)
+- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6828) — [source page](https://typotheque.com/blog/improving-zed-display)
+- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6827) — [source page](https://typotheque.com/blog/improving-zed-display)
+- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6826) — [source page](https://typotheque.com/blog/improving-zed-display)

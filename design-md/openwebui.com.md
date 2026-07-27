@@ -329,11 +329,11 @@ Here is the visual system observed across **11 captured pages** from [openwebui.
 ```
 
 ## References
-- [Open WebUI Community](https://design.withfudge.com/pin/7514) — [source page](openwebui.com/home)
-- [Best AI Models 2026 - 100+ LLMs Leaderboard Ranked by Real Usage • Open WebUI](https://design.withfudge.com/pin/7513) — [source page](openwebui.com/leaderboard)
-- [Models • Open WebUI](https://design.withfudge.com/pin/7512) — [source page](openwebui.com/models)
-- [中文 – AI Community • Open WebUI](https://design.withfudge.com/pin/7511) — [source page](openwebui.com/o/chinese)
-- [Explore AI Resources – Models, Prompts, Tools & Communities • Open WebUI](https://design.withfudge.com/pin/7510) — [source page](openwebui.com/explore)
-- [Open WebUI Community](https://design.withfudge.com/pin/7509) — [source page](openwebui.com/home)
-- [Log in • Open WebUI Community](https://design.withfudge.com/pin/7504) — [source page](openwebui.com/auth)
-- [Open WebUI: Self-Hosted AI Platform](https://design.withfudge.com/pin/7503) — [source page](openwebui.com/)
+- [Open WebUI Community](https://design.withfudge.com/pin/7514) — [source page](https://openwebui.com/home)
+- [Best AI Models 2026 - 100+ LLMs Leaderboard Ranked by Real Usage • Open WebUI](https://design.withfudge.com/pin/7513) — [source page](https://openwebui.com/leaderboard)
+- [Models • Open WebUI](https://design.withfudge.com/pin/7512) — [source page](https://openwebui.com/models)
+- [中文 – AI Community • Open WebUI](https://design.withfudge.com/pin/7511) — [source page](https://openwebui.com/o/chinese)
+- [Explore AI Resources – Models, Prompts, Tools & Communities • Open WebUI](https://design.withfudge.com/pin/7510) — [source page](https://openwebui.com/explore)
+- [Open WebUI Community](https://design.withfudge.com/pin/7509) — [source page](https://openwebui.com/home)
+- [Log in • Open WebUI Community](https://design.withfudge.com/pin/7504) — [source page](https://openwebui.com/auth)
+- [Open WebUI: Self-Hosted AI Platform](https://design.withfudge.com/pin/7503) — [source page](https://openwebui.com/)

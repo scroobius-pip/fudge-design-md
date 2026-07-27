@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [professional
 ```
 
 ## References
-- [Bloomberg Terminal | Bloomberg Professional Services](https://design.withfudge.com/pin/10435) — [source page](professional.bloomberg.com/products/bloomberg-terminal/)
+- [Bloomberg Terminal | Bloomberg Professional Services](https://design.withfudge.com/pin/10435) — [source page](https://professional.bloomberg.com/products/bloomberg-terminal/)

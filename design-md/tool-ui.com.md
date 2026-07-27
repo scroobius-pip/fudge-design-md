@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [tool-ui.com]
 ```
 
 ## References
-- [Tool UI](https://design.withfudge.com/pin/6249) — [source page](tool-ui.com/)
+- [Tool UI](https://design.withfudge.com/pin/6249) — [source page](https://tool-ui.com/)

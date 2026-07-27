@@ -174,7 +174,7 @@ Here is the visual system observed across **4 captured pages** from [dashboard.i
 ```
 
 ## References
-- [Subnets - ICP Dashboard](https://design.withfudge.com/pin/9061) — [source page](dashboard.internetcomputer.org/network/subnets)
-- [ICP Dashboard](https://design.withfudge.com/pin/9060) — [source page](dashboard.internetcomputer.org/)
-- [ICP Dashboard](https://design.withfudge.com/pin/9059) — [source page](dashboard.internetcomputer.org/)
-- [ICP Dashboard](https://design.withfudge.com/pin/9058) — [source page](dashboard.internetcomputer.org/)
+- [Subnets - ICP Dashboard](https://design.withfudge.com/pin/9061) — [source page](https://dashboard.internetcomputer.org/network/subnets)
+- [ICP Dashboard](https://design.withfudge.com/pin/9060) — [source page](https://dashboard.internetcomputer.org/)
+- [ICP Dashboard](https://design.withfudge.com/pin/9059) — [source page](https://dashboard.internetcomputer.org/)
+- [ICP Dashboard](https://design.withfudge.com/pin/9058) — [source page](https://dashboard.internetcomputer.org/)

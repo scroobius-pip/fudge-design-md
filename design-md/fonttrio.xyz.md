@@ -324,5 +324,5 @@ Here is the visual system observed across **2 captured pages** from [fonttrio.xy
 ```
 
 ## References
-- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7847) — [source page](fonttrio.xyz/)
-- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7846) — [source page](fonttrio.xyz/)
+- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7847) — [source page](https://fonttrio.xyz/)
+- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7846) — [source page](https://fonttrio.xyz/)

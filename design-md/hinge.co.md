@@ -155,6 +155,6 @@ Here is the visual system observed across **3 captured pages** from [hinge.co](h
 ```
 
 ## References
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10070) — [source page](hinge.co/)
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10069) — [source page](hinge.co/)
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10068) — [source page](hinge.co/)
+- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10070) — [source page](https://hinge.co/)
+- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10069) — [source page](https://hinge.co/)
+- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10068) — [source page](https://hinge.co/)

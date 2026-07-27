@@ -265,11 +265,11 @@ Here is the visual system observed across **8 captured pages** from [pebblebed.c
 ```
 
 ## References
-- [Events · Pebblebed](https://design.withfudge.com/pin/9836) — [source page](pebblebed.com/events)
-- [Careers · Pebblebed](https://design.withfudge.com/pin/9835) — [source page](pebblebed.com/careers)
-- [Keith Adams · Pebblebed · Pebblebed](https://design.withfudge.com/pin/9834) — [source page](pebblebed.com/team/keith-adams)
-- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9833) — [source page](pebblebed.com/blog/computing-is-bigger)
-- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9832) — [source page](pebblebed.com/blog/computing-is-bigger)
-- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9831) — [source page](pebblebed.com/blog/computing-is-bigger)
-- [Blog · Pebblebed](https://design.withfudge.com/pin/9830) — [source page](pebblebed.com/blog)
-- [Pebblebed · A home for builders](https://design.withfudge.com/pin/9829) — [source page](pebblebed.com/)
+- [Events · Pebblebed](https://design.withfudge.com/pin/9836) — [source page](https://pebblebed.com/events)
+- [Careers · Pebblebed](https://design.withfudge.com/pin/9835) — [source page](https://pebblebed.com/careers)
+- [Keith Adams · Pebblebed · Pebblebed](https://design.withfudge.com/pin/9834) — [source page](https://pebblebed.com/team/keith-adams)
+- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9833) — [source page](https://pebblebed.com/blog/computing-is-bigger)
+- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9832) — [source page](https://pebblebed.com/blog/computing-is-bigger)
+- [On Computers · Pebblebed Blog · Pebblebed](https://design.withfudge.com/pin/9831) — [source page](https://pebblebed.com/blog/computing-is-bigger)
+- [Blog · Pebblebed](https://design.withfudge.com/pin/9830) — [source page](https://pebblebed.com/blog)
+- [Pebblebed · A home for builders](https://design.withfudge.com/pin/9829) — [source page](https://pebblebed.com/)

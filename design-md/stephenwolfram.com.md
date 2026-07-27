@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [stephenwolfr
 ```
 
 ## References
-- [Stephen Wolfram: Official Website](https://design.withfudge.com/pin/7100) — [source page](stephenwolfram.com/)
+- [Stephen Wolfram: Official Website](https://design.withfudge.com/pin/7100) — [source page](https://stephenwolfram.com/)

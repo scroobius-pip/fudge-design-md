@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [hatroid.com
 ```
 
 ## References
-- [Dub Tailored Jacket / grey – HATRA OFFICIAL](https://design.withfudge.com/pin/9384) — [source page](hatroid.com/en/products/dub-tailored-jacket-grey)
-- [Outer – HATRA OFFICIAL](https://design.withfudge.com/pin/9383) — [source page](hatroid.com/en/collections/outer)
-- [HATRA OFFICIAL](https://design.withfudge.com/pin/9382) — [source page](hatroid.com/en)
+- [Dub Tailored Jacket / grey – HATRA OFFICIAL](https://design.withfudge.com/pin/9384) — [source page](https://hatroid.com/en/products/dub-tailored-jacket-grey)
+- [Outer – HATRA OFFICIAL](https://design.withfudge.com/pin/9383) — [source page](https://hatroid.com/en/collections/outer)
+- [HATRA OFFICIAL](https://design.withfudge.com/pin/9382) — [source page](https://hatroid.com/en)

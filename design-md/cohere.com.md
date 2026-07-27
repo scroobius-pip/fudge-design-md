@@ -314,11 +314,11 @@ Here is the visual system observed across **9 captured pages** from [cohere.com]
 ```
 
 ## References
-- [About Our Company | Cohere](https://design.withfudge.com/pin/9953) — [source page](cohere.com/about)
-- [About Our Company | Cohere](https://design.withfudge.com/pin/9952) — [source page](cohere.com/about)
-- [Contact Sales | Secure and Scalable AI | Cohere](https://design.withfudge.com/pin/9951) — [source page](cohere.com/contact-sales)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9950) — [source page](cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9949) — [source page](cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9948) — [source page](cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9947) — [source page](cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9946) — [source page](cohere.com/)
+- [About Our Company | Cohere](https://design.withfudge.com/pin/9953) — [source page](https://cohere.com/about)
+- [About Our Company | Cohere](https://design.withfudge.com/pin/9952) — [source page](https://cohere.com/about)
+- [Contact Sales | Secure and Scalable AI | Cohere](https://design.withfudge.com/pin/9951) — [source page](https://cohere.com/contact-sales)
+- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9950) — [source page](https://cohere.com/)
+- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9949) — [source page](https://cohere.com/)
+- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9948) — [source page](https://cohere.com/)
+- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9947) — [source page](https://cohere.com/)
+- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9946) — [source page](https://cohere.com/)

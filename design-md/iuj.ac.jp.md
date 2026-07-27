@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [iuj.ac.jp](h
 ```
 
 ## References
-- [International University of Japan](https://design.withfudge.com/pin/6829) — [source page](iuj.ac.jp/)
+- [International University of Japan](https://design.withfudge.com/pin/6829) — [source page](https://iuj.ac.jp/)

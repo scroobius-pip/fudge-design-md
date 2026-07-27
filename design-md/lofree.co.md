@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [lofree.co](
 ```
 
 ## References
-- [Lofree | Fun 2㎡ Designer for Mechanical Keyboard](https://design.withfudge.com/pin/7927) — [source page](lofree.co/)
-- [Flow84, the Smoothest Mechanical Keyboard](https://design.withfudge.com/pin/7926) — [source page](lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)
+- [Lofree | Fun 2㎡ Designer for Mechanical Keyboard](https://design.withfudge.com/pin/7927) — [source page](https://lofree.co/)
+- [Flow84, the Smoothest Mechanical Keyboard](https://design.withfudge.com/pin/7926) — [source page](https://lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)

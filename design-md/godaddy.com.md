@@ -308,11 +308,11 @@ Here is the visual system observed across **15 captured pages** from [godaddy.co
 ```
 
 ## References
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9215) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9214) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9213) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9212) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9211) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9210) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9209) — [source page](godaddy.com/en-ph/offers/godaddy)
-- [Build No Code Web Apps & More with AI - GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9207) — [source page](godaddy.com/en/airo/ai-builder)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9215) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9214) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9213) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9212) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9211) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9210) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9209) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+- [Build No Code Web Apps & More with AI - GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9207) — [source page](https://godaddy.com/en/airo/ai-builder)

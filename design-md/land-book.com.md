@@ -239,10 +239,10 @@ Here is the visual system observed across **7 captured pages** from [land-book.c
 ```
 
 ## References
-- [PRO | Landbook](https://design.withfudge.com/pin/10108) — [source page](land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10107) — [source page](land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10106) — [source page](land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10105) — [source page](land-book.com/pro)
-- [The best section design examples](https://design.withfudge.com/pin/10104) — [source page](land-book.com/sections)
-- [The best section design examples](https://design.withfudge.com/pin/10103) — [source page](land-book.com/sections)
-- [The best serif website design inspiration | Landbook](https://design.withfudge.com/pin/4492) — [source page](land-book.com/)
+- [PRO | Landbook](https://design.withfudge.com/pin/10108) — [source page](https://land-book.com/pro)
+- [PRO | Landbook](https://design.withfudge.com/pin/10107) — [source page](https://land-book.com/pro)
+- [PRO | Landbook](https://design.withfudge.com/pin/10106) — [source page](https://land-book.com/pro)
+- [PRO | Landbook](https://design.withfudge.com/pin/10105) — [source page](https://land-book.com/pro)
+- [The best section design examples](https://design.withfudge.com/pin/10104) — [source page](https://land-book.com/sections)
+- [The best section design examples](https://design.withfudge.com/pin/10103) — [source page](https://land-book.com/sections)
+- [The best serif website design inspiration | Landbook](https://design.withfudge.com/pin/4492) — [source page](https://land-book.com/)

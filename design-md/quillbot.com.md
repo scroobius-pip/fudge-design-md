@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [quillbot.com
 ```
 
 ## References
-- [Quillbot: Write, Design & Create](https://design.withfudge.com/pin/9542) — [source page](quillbot.com/)
+- [Quillbot: Write, Design & Create](https://design.withfudge.com/pin/9542) — [source page](https://quillbot.com/)

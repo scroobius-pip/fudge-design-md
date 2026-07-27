@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [app.firework
 ```
 
 ## References
-- [Log In - Fireworks AI](https://design.withfudge.com/pin/8503) — [source page](app.fireworks.ai/login)
+- [Log In - Fireworks AI](https://design.withfudge.com/pin/8503) — [source page](https://app.fireworks.ai/login)

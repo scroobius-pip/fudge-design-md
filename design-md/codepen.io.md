@@ -368,11 +368,11 @@ Here is the visual system observed across **26 captured pages** from [codepen.io
 ```
 
 ## References
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8438) — [source page](codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8437) — [source page](codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8436) — [source page](codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8435) — [source page](codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8434) — [source page](codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8433) — [source page](codepen.io/)
-- [Settings - CodePen](https://design.withfudge.com/pin/8432) — [source page](codepen.io/settings/profile)
-- [Settings - CodePen](https://design.withfudge.com/pin/8431) — [source page](codepen.io/settings/profile)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8438) — [source page](https://codepen.io/)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8437) — [source page](https://codepen.io/)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8436) — [source page](https://codepen.io/)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8435) — [source page](https://codepen.io/)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8434) — [source page](https://codepen.io/)
+- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8433) — [source page](https://codepen.io/)
+- [Settings - CodePen](https://design.withfudge.com/pin/8432) — [source page](https://codepen.io/settings/profile)
+- [Settings - CodePen](https://design.withfudge.com/pin/8431) — [source page](https://codepen.io/settings/profile)

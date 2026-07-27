@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [demo.refero
 ```
 
 ## References
-- [Refero Research](https://design.withfudge.com/pin/7786) — [source page](demo.refero.design/)
-- [Refero Research](https://design.withfudge.com/pin/7776) — [source page](demo.refero.design/)
+- [Refero Research](https://design.withfudge.com/pin/7786) — [source page](https://demo.refero.design/)
+- [Refero Research](https://design.withfudge.com/pin/7776) — [source page](https://demo.refero.design/)

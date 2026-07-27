@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [supernova.i
 ```
 
 ## References
-- [Supernova.io — AI-powered platform for product teams](https://design.withfudge.com/pin/9265) — [source page](supernova.io/)
-- [Pricing | Supernova.io](https://design.withfudge.com/pin/9264) — [source page](supernova.io/pricing)
-- [Pricing | Supernova.io](https://design.withfudge.com/pin/9263) — [source page](supernova.io/pricing)
+- [Supernova.io — AI-powered platform for product teams](https://design.withfudge.com/pin/9265) — [source page](https://supernova.io/)
+- [Pricing | Supernova.io](https://design.withfudge.com/pin/9264) — [source page](https://supernova.io/pricing)
+- [Pricing | Supernova.io](https://design.withfudge.com/pin/9263) — [source page](https://supernova.io/pricing)

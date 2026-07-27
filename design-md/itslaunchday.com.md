@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [itslaunchday
 ```
 
 ## References
-- [LaunchDay](https://design.withfudge.com/pin/10187) — [source page](itslaunchday.com/)
+- [LaunchDay](https://design.withfudge.com/pin/10187) — [source page](https://itslaunchday.com/)

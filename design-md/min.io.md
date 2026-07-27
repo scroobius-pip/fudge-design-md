@@ -139,6 +139,6 @@ Here is the visual system observed across **3 captured pages** from [min.io](htt
 ```
 
 ## References
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6314) — [source page](min.io/)
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6313) — [source page](min.io/)
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6312) — [source page](min.io/)
+- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6314) — [source page](https://min.io/)
+- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6313) — [source page](https://min.io/)
+- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6312) — [source page](https://min.io/)

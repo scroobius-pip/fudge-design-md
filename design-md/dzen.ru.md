@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [dzen.ru](ht
 ```
 
 ## References
-- [В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/pin/8996) — [source page](dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6)
-- [Дзен: последние новости России и мира сегодня](https://design.withfudge.com/pin/8995) — [source page](dzen.ru/news)
+- [В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/pin/8996) — [source page](https://dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6)
+- [Дзен: последние новости России и мира сегодня](https://design.withfudge.com/pin/8995) — [source page](https://dzen.ru/news)

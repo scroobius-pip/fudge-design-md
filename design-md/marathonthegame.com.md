@@ -306,11 +306,11 @@ Here is the visual system observed across **8 captured pages** from [marathonthe
 ```
 
 ## References
-- [Marathon | Homepage](https://design.withfudge.com/pin/7792) — [source page](marathonthegame.com/it-it)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6564) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6563) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6562) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6561) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6560) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6559) — [source page](marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6558) — [source page](marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/7792) — [source page](https://marathonthegame.com/it-it)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6564) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6563) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6562) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6561) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6560) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6559) — [source page](https://marathonthegame.com/)
+- [Marathon | Homepage](https://design.withfudge.com/pin/6558) — [source page](https://marathonthegame.com/)

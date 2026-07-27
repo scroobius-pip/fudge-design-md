@@ -136,4 +136,4 @@ Here is the visual system observed across **1 captured page** from [freenet.org]
 ```
 
 ## References
-- [Freenet](https://design.withfudge.com/pin/9427) — [source page](freenet.org/)
+- [Freenet](https://design.withfudge.com/pin/9427) — [source page](https://freenet.org/)

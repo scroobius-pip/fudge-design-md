@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [generalbrea
 ```
 
 ## References
-- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8328) — [source page](generalbread.co/)
-- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8327) — [source page](generalbread.co/)
+- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8328) — [source page](https://generalbread.co/)
+- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8327) — [source page](https://generalbread.co/)

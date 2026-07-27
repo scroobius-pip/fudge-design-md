@@ -231,9 +231,9 @@ Here is the visual system observed across **6 captured pages** from [noon.design
 ```
 
 ## References
-- [Noon](https://design.withfudge.com/pin/8620) — [source page](noon.design/)
-- [Noon](https://design.withfudge.com/pin/8619) — [source page](noon.design/)
-- [Noon](https://design.withfudge.com/pin/8618) — [source page](noon.design/)
-- [Noon](https://design.withfudge.com/pin/8617) — [source page](noon.design/)
-- [Noon](https://design.withfudge.com/pin/8616) — [source page](noon.design/)
-- [Noon](https://design.withfudge.com/pin/8615) — [source page](noon.design/)
+- [Noon](https://design.withfudge.com/pin/8620) — [source page](https://noon.design/)
+- [Noon](https://design.withfudge.com/pin/8619) — [source page](https://noon.design/)
+- [Noon](https://design.withfudge.com/pin/8618) — [source page](https://noon.design/)
+- [Noon](https://design.withfudge.com/pin/8617) — [source page](https://noon.design/)
+- [Noon](https://design.withfudge.com/pin/8616) — [source page](https://noon.design/)
+- [Noon](https://design.withfudge.com/pin/8615) — [source page](https://noon.design/)

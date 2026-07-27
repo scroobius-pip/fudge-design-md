@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [jan.ai](htt
 ```
 
 ## References
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8282) — [source page](jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8281) — [source page](jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8280) — [source page](jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8279) — [source page](jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8278) — [source page](jan.ai/)
+- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8282) — [source page](https://jan.ai/)
+- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8281) — [source page](https://jan.ai/)
+- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8280) — [source page](https://jan.ai/)
+- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8279) — [source page](https://jan.ai/)
+- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8278) — [source page](https://jan.ai/)

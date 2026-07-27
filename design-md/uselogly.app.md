@@ -225,10 +225,10 @@ Here is the visual system observed across **7 captured pages** from [uselogly.ap
 ```
 
 ## References
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6915) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6914) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6913) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6912) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6911) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6910) — [source page](uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6909) — [source page](uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6915) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6914) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6913) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6912) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6911) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6910) — [source page](https://uselogly.app/)
+- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6909) — [source page](https://uselogly.app/)

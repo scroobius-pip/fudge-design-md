@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [animaapp.co
 ```
 
 ## References
-- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5953) — [source page](animaapp.com/)
-- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5951) — [source page](animaapp.com/)
+- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5953) — [source page](https://animaapp.com/)
+- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5951) — [source page](https://animaapp.com/)

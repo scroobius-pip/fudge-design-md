@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [paper-demo-p
 ```
 
 ## References
-- [Dream Big Preview](https://design.withfudge.com/pin/7934) — [source page](paper-demo-pearl.vercel.app/)
+- [Dream Big Preview](https://design.withfudge.com/pin/7934) — [source page](https://paper-demo-pearl.vercel.app/)

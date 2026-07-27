@@ -273,11 +273,11 @@ Here is the visual system observed across **9 captured pages** from [dub.co](htt
 ```
 
 ## References
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7583) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7582) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7581) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7580) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7579) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7578) — [source page](dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7577) — [source page](dub.co/)
-- [Pricing | Dub](https://design.withfudge.com/pin/3066) — [source page](dub.co/pricing/partners)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7583) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7582) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7581) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7580) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7579) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7578) — [source page](https://dub.co/)
+- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7577) — [source page](https://dub.co/)
+- [Pricing | Dub](https://design.withfudge.com/pin/3066) — [source page](https://dub.co/pricing/partners)

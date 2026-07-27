@@ -350,11 +350,11 @@ Here is the visual system observed across **14 captured pages** from [era.app](h
 ```
 
 ## References
-- [Referrals — Era](https://design.withfudge.com/pin/9760) — [source page](era.app/en-US/app/referrals)
-- [Support — Era](https://design.withfudge.com/pin/9759) — [source page](era.app/en-US/app/support)
-- [MCP setup — Era](https://design.withfudge.com/pin/9758) — [source page](era.app/en-US/app/mcp-setup)
-- [Transactions — Era](https://design.withfudge.com/pin/9757) — [source page](era.app/en-US/app/transactions)
-- [Get started — Era](https://design.withfudge.com/pin/9756) — [source page](era.app/en-US/app)
-- [Get started — Era](https://design.withfudge.com/pin/9755) — [source page](era.app/en-US/app)
-- [Sign in — Era](https://design.withfudge.com/pin/9754) — [source page](era.app/en-US/sign-in)
-- [Pricing — Era](https://design.withfudge.com/pin/9753) — [source page](era.app/pricing)
+- [Referrals — Era](https://design.withfudge.com/pin/9760) — [source page](https://era.app/en-US/app/referrals)
+- [Support — Era](https://design.withfudge.com/pin/9759) — [source page](https://era.app/en-US/app/support)
+- [MCP setup — Era](https://design.withfudge.com/pin/9758) — [source page](https://era.app/en-US/app/mcp-setup)
+- [Transactions — Era](https://design.withfudge.com/pin/9757) — [source page](https://era.app/en-US/app/transactions)
+- [Get started — Era](https://design.withfudge.com/pin/9756) — [source page](https://era.app/en-US/app)
+- [Get started — Era](https://design.withfudge.com/pin/9755) — [source page](https://era.app/en-US/app)
+- [Sign in — Era](https://design.withfudge.com/pin/9754) — [source page](https://era.app/en-US/sign-in)
+- [Pricing — Era](https://design.withfudge.com/pin/9753) — [source page](https://era.app/pricing)

@@ -126,6 +126,6 @@ Here is the visual system observed across **3 captured pages** from [llmrefs.com
 ```
 
 ## References
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6281) — [source page](llmrefs.com/)
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6280) — [source page](llmrefs.com/)
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6279) — [source page](llmrefs.com/)
+- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6281) — [source page](https://llmrefs.com/)
+- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6280) — [source page](https://llmrefs.com/)
+- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6279) — [source page](https://llmrefs.com/)

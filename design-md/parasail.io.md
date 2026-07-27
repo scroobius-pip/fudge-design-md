@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [parasail.io]
 ```
 
 ## References
-- [Parasail - No limits. No contracts. Priced Right.](https://design.withfudge.com/pin/8500) — [source page](parasail.io/)
+- [Parasail - No limits. No contracts. Priced Right.](https://design.withfudge.com/pin/8500) — [source page](https://parasail.io/)

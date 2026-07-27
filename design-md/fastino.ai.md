@@ -253,9 +253,9 @@ Here is the visual system observed across **6 captured pages** from [fastino.ai]
 ```
 
 ## References
-- [Fastino Labs](https://design.withfudge.com/pin/9738) — [source page](fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9737) — [source page](fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9736) — [source page](fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9735) — [source page](fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9734) — [source page](fastino.ai/)
-- [Fastino Labs](https://design.withfudge.com/pin/9733) — [source page](fastino.ai/)
+- [Fastino Labs](https://design.withfudge.com/pin/9738) — [source page](https://fastino.ai/models/gliner2)
+- [Fastino Labs](https://design.withfudge.com/pin/9737) — [source page](https://fastino.ai/models/gliner2)
+- [Fastino Labs](https://design.withfudge.com/pin/9736) — [source page](https://fastino.ai/models/gliner2)
+- [Fastino Labs](https://design.withfudge.com/pin/9735) — [source page](https://fastino.ai/models/gliner2)
+- [Fastino Labs](https://design.withfudge.com/pin/9734) — [source page](https://fastino.ai/)
+- [Fastino Labs](https://design.withfudge.com/pin/9733) — [source page](https://fastino.ai/)

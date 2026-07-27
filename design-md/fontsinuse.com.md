@@ -175,7 +175,7 @@ Here is the visual system observed across **4 captured pages** from [fontsinuse.
 ```
 
 ## References
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6844) — [source page](fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6843) — [source page](fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6842) — [source page](fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6841) — [source page](fontsinuse.com/uses/75265/bruket-fjellhamar)
+- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6844) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6843) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6842) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6841) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)

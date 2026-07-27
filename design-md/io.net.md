@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [io.net](http
 ```
 
 ## References
-- [io.net | The Open Source AI Infrastructure Platform - io.net](https://design.withfudge.com/pin/8501) — [source page](io.net/)
+- [io.net | The Open Source AI Infrastructure Platform - io.net](https://design.withfudge.com/pin/8501) — [source page](https://io.net/)

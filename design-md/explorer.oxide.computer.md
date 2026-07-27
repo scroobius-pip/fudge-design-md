@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [explorer.oxi
 ```
 
 ## References
-- [Oxide 3D Explorer](https://design.withfudge.com/pin/9817) — [source page](explorer.oxide.computer/)
+- [Oxide 3D Explorer](https://design.withfudge.com/pin/9817) — [source page](https://explorer.oxide.computer/)

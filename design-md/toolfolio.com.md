@@ -178,7 +178,7 @@ Here is the visual system observed across **4 captured pages** from [toolfolio.c
 ```
 
 ## References
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/10000) — [source page](toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9999) — [source page](toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9998) — [source page](toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9997) — [source page](toolfolio.com/boosted-listing)
+- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/10000) — [source page](https://toolfolio.com/boosted-listing)
+- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9999) — [source page](https://toolfolio.com/boosted-listing)
+- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9998) — [source page](https://toolfolio.com/boosted-listing)
+- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9997) — [source page](https://toolfolio.com/boosted-listing)

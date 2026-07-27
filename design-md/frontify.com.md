@@ -278,11 +278,11 @@ Here is the visual system observed across **9 captured pages** from [frontify.co
 ```
 
 ## References
-- [Pricing | Frontify](https://design.withfudge.com/pin/6111) — [source page](frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6110) — [source page](frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6109) — [source page](frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6108) — [source page](frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6107) — [source page](frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6106) — [source page](frontify.com/en/pricing)
-- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6105) — [source page](frontify.com/en)
-- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6104) — [source page](frontify.com/en)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6111) — [source page](https://frontify.com/en/pricing)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6110) — [source page](https://frontify.com/en/pricing)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6109) — [source page](https://frontify.com/en/pricing)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6108) — [source page](https://frontify.com/en/pricing)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6107) — [source page](https://frontify.com/en/pricing)
+- [Pricing | Frontify](https://design.withfudge.com/pin/6106) — [source page](https://frontify.com/en/pricing)
+- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6105) — [source page](https://frontify.com/en)
+- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6104) — [source page](https://frontify.com/en)

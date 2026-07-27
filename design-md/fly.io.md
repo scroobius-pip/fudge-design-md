@@ -222,10 +222,10 @@ Here is the visual system observed across **7 captured pages** from [fly.io](htt
 ```
 
 ## References
-- [Sign in to Your Account · Fly](https://design.withfudge.com/pin/6102) — [source page](fly.io/app/sign-in)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6100) — [source page](fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6099) — [source page](fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6098) — [source page](fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6097) — [source page](fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6096) — [source page](fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6095) — [source page](fly.io/)
+- [Sign in to Your Account · Fly](https://design.withfudge.com/pin/6102) — [source page](https://fly.io/app/sign-in)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6100) — [source page](https://fly.io/)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6099) — [source page](https://fly.io/)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6098) — [source page](https://fly.io/)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6097) — [source page](https://fly.io/)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6096) — [source page](https://fly.io/)
+- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6095) — [source page](https://fly.io/)

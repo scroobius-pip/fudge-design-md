@@ -195,8 +195,8 @@ Here is the visual system observed across **5 captured pages** from [paths.grasp
 ```
 
 ## References
-- [Grasp - Sign up](https://design.withfudge.com/pin/6586) — [source page](paths.grasp.study/sign-up)
-- [Grasp - Sign in](https://design.withfudge.com/pin/6585) — [source page](paths.grasp.study/sign-in)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6584) — [source page](paths.grasp.study/login)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6583) — [source page](paths.grasp.study/login)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6582) — [source page](paths.grasp.study/login)
+- [Grasp - Sign up](https://design.withfudge.com/pin/6586) — [source page](https://paths.grasp.study/sign-up)
+- [Grasp - Sign in](https://design.withfudge.com/pin/6585) — [source page](https://paths.grasp.study/sign-in)
+- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6584) — [source page](https://paths.grasp.study/login)
+- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6583) — [source page](https://paths.grasp.study/login)
+- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6582) — [source page](https://paths.grasp.study/login)

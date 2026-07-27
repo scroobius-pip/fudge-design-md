@@ -349,11 +349,11 @@ Here is the visual system observed across **40 captured pages** from [stripe.com
 ```
 
 ## References
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10046) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10045) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10044) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10043) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10042) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10041) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7596) — [source page](stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7595) — [source page](stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10046) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10045) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10044) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10043) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10042) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10041) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7596) — [source page](https://stripe.com/)
+- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7595) — [source page](https://stripe.com/)

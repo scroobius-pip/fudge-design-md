@@ -148,4 +148,4 @@ Here is the visual system observed across **1 captured page** from [campus.flutt
 ```
 
 ## References
-- [Campus — the infinite canvas for your tools](https://design.withfudge.com/pin/10436) — [source page](campus.flutterflow.io/)
+- [Campus — the infinite canvas for your tools](https://design.withfudge.com/pin/10436) — [source page](https://campus.flutterflow.io/)

@@ -309,11 +309,11 @@ Here is the visual system observed across **61 captured pages** from [wise.com](
 ```
 
 ## References
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6936) — [source page](wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6935) — [source page](wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6934) — [source page](wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6933) — [source page](wise.com/gb/currency-converter/)
-- [Wise: Online Money Transfers | International Banking Features](https://design.withfudge.com/pin/6932) — [source page](wise.com/accounts)
-- [Wise - Reset Password](https://design.withfudge.com/pin/6716) — [source page](wise.com/login/forgot-password)
-- [Wise account: Multi-currency account | Foreign currency account](https://design.withfudge.com/pin/5291) — [source page](wise.com/us/account/)
-- [Wise - Home](https://design.withfudge.com/pin/4968) — [source page](wise.com/home)
+- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6936) — [source page](https://wise.com/gb/currency-converter/)
+- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6935) — [source page](https://wise.com/gb/currency-converter/)
+- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6934) — [source page](https://wise.com/gb/currency-converter/)
+- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6933) — [source page](https://wise.com/gb/currency-converter/)
+- [Wise: Online Money Transfers | International Banking Features](https://design.withfudge.com/pin/6932) — [source page](https://wise.com/accounts)
+- [Wise - Reset Password](https://design.withfudge.com/pin/6716) — [source page](https://wise.com/login/forgot-password)
+- [Wise account: Multi-currency account | Foreign currency account](https://design.withfudge.com/pin/5291) — [source page](https://wise.com/us/account/)
+- [Wise - Home](https://design.withfudge.com/pin/4968) — [source page](https://wise.com/home)

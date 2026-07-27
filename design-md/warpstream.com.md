@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [warpstream.c
 ```
 
 ## References
-- [WarpStream - The Diskless, Kafka-Compatible Data Streaming Platform](https://design.withfudge.com/pin/7592) — [source page](warpstream.com/)
+- [WarpStream - The Diskless, Kafka-Compatible Data Streaming Platform](https://design.withfudge.com/pin/7592) — [source page](https://warpstream.com/)

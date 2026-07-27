@@ -141,6 +141,6 @@ Here is the visual system observed across **3 captured pages** from [uicapsule.c
 ```
 
 ## References
-- [UICapsule](https://design.withfudge.com/pin/8762) — [source page](uicapsule.com/)
-- [UICapsule](https://design.withfudge.com/pin/8761) — [source page](uicapsule.com/ui/ios-volume-slider)
-- [UICapsule](https://design.withfudge.com/pin/8760) — [source page](uicapsule.com/)
+- [UICapsule](https://design.withfudge.com/pin/8762) — [source page](https://uicapsule.com/)
+- [UICapsule](https://design.withfudge.com/pin/8761) — [source page](https://uicapsule.com/ui/ios-volume-slider)
+- [UICapsule](https://design.withfudge.com/pin/8760) — [source page](https://uicapsule.com/)

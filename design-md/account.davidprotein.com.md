@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [account.davi
 ```
 
 ## References
-- [Sign in - David Protein](https://design.withfudge.com/pin/7822) — [source page](account.davidprotein.com/authentication/login)
+- [Sign in - David Protein](https://design.withfudge.com/pin/7822) — [source page](https://account.davidprotein.com/authentication/login)

@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [demo.define.
 ```
 
 ## References
-- [Modern work email for the new generation | define](https://design.withfudge.com/pin/8208) — [source page](demo.define.app/)
+- [Modern work email for the new generation | define](https://design.withfudge.com/pin/8208) — [source page](https://demo.define.app/)

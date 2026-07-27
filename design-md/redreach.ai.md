@@ -368,11 +368,11 @@ Here is the visual system observed across **13 captured pages** from [redreach.a
 ```
 
 ## References
-- [Parasite SEO Tool - Rank #1 on Google with Reddit | Redreach](https://design.withfudge.com/pin/10189) — [source page](redreach.ai/feature/parasite-seo-with-reddit)
-- [Reddit Lead Generation Tool & Finder - Redreach](https://design.withfudge.com/pin/10188) — [source page](redreach.ai/feature/lead-generation-with-reddit)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10186) — [source page](redreach.ai/)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10185) — [source page](redreach.ai/)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10184) — [source page](redreach.ai/)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10183) — [source page](redreach.ai/)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10182) — [source page](redreach.ai/)
-- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10181) — [source page](redreach.ai/)
+- [Parasite SEO Tool - Rank #1 on Google with Reddit | Redreach](https://design.withfudge.com/pin/10189) — [source page](https://redreach.ai/feature/parasite-seo-with-reddit)
+- [Reddit Lead Generation Tool & Finder - Redreach](https://design.withfudge.com/pin/10188) — [source page](https://redreach.ai/feature/lead-generation-with-reddit)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10186) — [source page](https://redreach.ai/)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10185) — [source page](https://redreach.ai/)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10184) — [source page](https://redreach.ai/)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10183) — [source page](https://redreach.ai/)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10182) — [source page](https://redreach.ai/)
+- [Redreach: AI-Powered Reddit Lead Generation Tool | Redreach: AI-Powered Reddit Lead Generation Tool](https://design.withfudge.com/pin/10181) — [source page](https://redreach.ai/)

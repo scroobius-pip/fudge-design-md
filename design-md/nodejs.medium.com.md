@@ -171,4 +171,4 @@ Here is the visual system observed across **1 captured page** from [nodejs.mediu
 ```
 
 ## References
-- [What use cases exist for async_hooks? | by Node.js | Medium](https://design.withfudge.com/pin/9707) — [source page](nodejs.medium.com/what-use-cases-exist-for-async-hooks-6eab74d7eefd)
+- [What use cases exist for async_hooks? | by Node.js | Medium](https://design.withfudge.com/pin/9707) — [source page](https://nodejs.medium.com/what-use-cases-exist-for-async-hooks-6eab74d7eefd)

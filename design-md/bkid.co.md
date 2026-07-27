@@ -147,5 +147,5 @@ Here is the visual system observed across **2 captured pages** from [bkid.co](ht
 ```
 
 ## References
-- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10283) — [source page](bkid.co/work/10-hangul-unit/)
-- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10282) — [source page](bkid.co/work/10-hangul-unit/)
+- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10283) — [source page](https://bkid.co/work/10-hangul-unit/)
+- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10282) — [source page](https://bkid.co/work/10-hangul-unit/)

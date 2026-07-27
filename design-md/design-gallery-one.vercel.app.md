@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [design-galle
 ```
 
 ## References
-- [Beautiful Redirect](https://design.withfudge.com/pin/6950) — [source page](design-gallery-one.vercel.app/)
+- [Beautiful Redirect](https://design.withfudge.com/pin/6950) — [source page](https://design-gallery-one.vercel.app/)

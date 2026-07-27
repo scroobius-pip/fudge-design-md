@@ -74,4 +74,4 @@ Here is the visual system observed across **1 captured page** from [svg.ertdfgcv
 ```
 
 ## References
-- [svg.svg](https://design.withfudge.com/pin/7094) — [source page](svg.ertdfgcvb.xyz/)
+- [svg.svg](https://design.withfudge.com/pin/7094) — [source page](https://svg.ertdfgcvb.xyz/)

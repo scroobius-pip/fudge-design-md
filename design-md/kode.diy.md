@@ -331,11 +331,11 @@ Here is the visual system observed across **14 captured pages** from [kode.diy](
 ```
 
 ## References
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9991) — [source page](kode.diy/shop)
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9990) — [source page](kode.diy/shop)
-- [Maker Module — Kode Dot](https://design.withfudge.com/pin/9989) — [source page](kode.diy/product/maker-module)
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9988) — [source page](kode.diy/shop)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9987) — [source page](kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9986) — [source page](kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9985) — [source page](kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9984) — [source page](kode.diy/)
+- [Shop — Kode Dot](https://design.withfudge.com/pin/9991) — [source page](https://kode.diy/shop)
+- [Shop — Kode Dot](https://design.withfudge.com/pin/9990) — [source page](https://kode.diy/shop)
+- [Maker Module — Kode Dot](https://design.withfudge.com/pin/9989) — [source page](https://kode.diy/product/maker-module)
+- [Shop — Kode Dot](https://design.withfudge.com/pin/9988) — [source page](https://kode.diy/shop)
+- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9987) — [source page](https://kode.diy/)
+- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9986) — [source page](https://kode.diy/)
+- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9985) — [source page](https://kode.diy/)
+- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9984) — [source page](https://kode.diy/)

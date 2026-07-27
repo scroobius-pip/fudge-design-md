@@ -370,11 +370,11 @@ Here is the visual system observed across **11 captured pages** from [stateofope
 ```
 
 ## References
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10215) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10214) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10213) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10212) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10211) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10210) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10209) — [source page](stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10208) — [source page](stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10215) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10214) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10213) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10212) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10211) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10210) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10209) — [source page](https://stateofopensource.ai/)
+- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10208) — [source page](https://stateofopensource.ai/)

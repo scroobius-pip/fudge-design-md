@@ -197,8 +197,8 @@ Here is the visual system observed across **5 captured pages** from [minoradvent
 ```
 
 ## References
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8712) — [source page](minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8711) — [source page](minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8710) — [source page](minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8709) — [source page](minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8708) — [source page](minoradventures.co/)
+- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8712) — [source page](https://minoradventures.co/)
+- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8711) — [source page](https://minoradventures.co/)
+- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8710) — [source page](https://minoradventures.co/)
+- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8709) — [source page](https://minoradventures.co/)
+- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8708) — [source page](https://minoradventures.co/)

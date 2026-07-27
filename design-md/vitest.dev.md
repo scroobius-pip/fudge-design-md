@@ -196,8 +196,8 @@ Here is the visual system observed across **5 captured pages** from [vitest.dev]
 ```
 
 ## References
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8186) — [source page](vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8185) — [source page](vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8184) — [source page](vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8183) — [source page](vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8182) — [source page](vitest.dev/)
+- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8186) — [source page](https://vitest.dev/)
+- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8185) — [source page](https://vitest.dev/)
+- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8184) — [source page](https://vitest.dev/)
+- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8183) — [source page](https://vitest.dev/)
+- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8182) — [source page](https://vitest.dev/)

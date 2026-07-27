@@ -81,4 +81,4 @@ Here is the visual system observed across **1 captured page** from [plus.nasa.go
 ```
 
 ## References
-- [NASA’s Artemis II Crew Launches to the Moon (Official Broadcast) | NASA+](https://design.withfudge.com/pin/8581) — [source page](plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)
+- [NASA’s Artemis II Crew Launches to the Moon (Official Broadcast) | NASA+](https://design.withfudge.com/pin/8581) — [source page](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)

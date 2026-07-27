@@ -383,11 +383,11 @@ Here is the visual system observed across **23 captured pages** from [davidprote
 ```
 
 ## References
-- [David Protein](https://design.withfudge.com/pin/8633) — [source page](davidprotein.com/)
-- [David Protein](https://design.withfudge.com/pin/7832) — [source page](davidprotein.com/)
-- [David Protein](https://design.withfudge.com/pin/7831) — [source page](davidprotein.com/)
-- [Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/pin/7830) — [source page](davidprotein.com/products/build-a-bundle)
-- [Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/pin/7829) — [source page](davidprotein.com/products/build-a-bundle)
-- [David frequently asked questions.](https://design.withfudge.com/pin/7827) — [source page](davidprotein.com/pages/frequently-asked-questions)
-- [About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/pin/7826) — [source page](davidprotein.com/pages/about-our-bar)
-- [About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/pin/7825) — [source page](davidprotein.com/pages/about-our-bar)
+- [David Protein](https://design.withfudge.com/pin/8633) — [source page](https://davidprotein.com/)
+- [David Protein](https://design.withfudge.com/pin/7832) — [source page](https://davidprotein.com/)
+- [David Protein](https://design.withfudge.com/pin/7831) — [source page](https://davidprotein.com/)
+- [Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/pin/7830) — [source page](https://davidprotein.com/products/build-a-bundle)
+- [Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/pin/7829) — [source page](https://davidprotein.com/products/build-a-bundle)
+- [David frequently asked questions.](https://design.withfudge.com/pin/7827) — [source page](https://davidprotein.com/pages/frequently-asked-questions)
+- [About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/pin/7826) — [source page](https://davidprotein.com/pages/about-our-bar)
+- [About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/pin/7825) — [source page](https://davidprotein.com/pages/about-our-bar)

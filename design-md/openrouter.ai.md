@@ -251,11 +251,11 @@ Here is the visual system observed across **9 captured pages** from [openrouter.
 ```
 
 ## References
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9468) — [source page](openrouter.ai/moonshotai/kimi-k2.6)
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9467) — [source page](openrouter.ai/moonshotai/kimi-k2.6)
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9466) — [source page](openrouter.ai/moonshotai/kimi-k2.6)
-- [Logs | OpenRouter](https://design.withfudge.com/pin/6971) — [source page](openrouter.ai/logs)
-- [OpenRouter](https://design.withfudge.com/pin/4011) — [source page](openrouter.ai/activity)
-- [OpenRouter](https://design.withfudge.com/pin/4010) — [source page](openrouter.ai/activity)
-- [OpenRouter](https://design.withfudge.com/pin/3790) — [source page](openrouter.ai/)
-- [GLM 4.5 Air (free) - API, Providers, Stats | OpenRouter](https://design.withfudge.com/pin/3789) — [source page](openrouter.ai/z-ai/glm-4.5-air:free)
+- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9468) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9467) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9466) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+- [Logs | OpenRouter](https://design.withfudge.com/pin/6971) — [source page](https://openrouter.ai/logs)
+- [OpenRouter](https://design.withfudge.com/pin/4011) — [source page](https://openrouter.ai/activity)
+- [OpenRouter](https://design.withfudge.com/pin/4010) — [source page](https://openrouter.ai/activity)
+- [OpenRouter](https://design.withfudge.com/pin/3790) — [source page](https://openrouter.ai/)
+- [GLM 4.5 Air (free) - API, Providers, Stats | OpenRouter](https://design.withfudge.com/pin/3789) — [source page](https://openrouter.ai/z-ai/glm-4.5-air:free)

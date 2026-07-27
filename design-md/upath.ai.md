@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [upath.ai](ht
 ```
 
 ## References
-- [UPath - Career Intelligence Platform](https://design.withfudge.com/pin/7936) — [source page](upath.ai/)
+- [UPath - Career Intelligence Platform](https://design.withfudge.com/pin/7936) — [source page](https://upath.ai/)

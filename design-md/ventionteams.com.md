@@ -338,11 +338,11 @@ Here is the visual system observed across **16 captured pages** from [ventiontea
 ```
 
 ## References
-- [Our work: software projects portfolio | Vention](https://design.withfudge.com/pin/7354) — [source page](ventionteams.com/our-work)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7353) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7352) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7351) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7350) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7349) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7348) — [source page](ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7347) — [source page](ventionteams.com/)
+- [Our work: software projects portfolio | Vention](https://design.withfudge.com/pin/7354) — [source page](https://ventionteams.com/our-work)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7353) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7352) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7351) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7350) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7349) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7348) — [source page](https://ventionteams.com/)
+- [Software Development Company | Vention](https://design.withfudge.com/pin/7347) — [source page](https://ventionteams.com/)

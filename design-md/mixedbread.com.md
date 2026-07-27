@@ -81,4 +81,4 @@ Here is the visual system observed across **1 captured page** from [mixedbread.c
 ```
 
 ## References
-- [Mixedbread](https://design.withfudge.com/pin/6177) — [source page](mixedbread.com/)
+- [Mixedbread](https://design.withfudge.com/pin/6177) — [source page](https://mixedbread.com/)

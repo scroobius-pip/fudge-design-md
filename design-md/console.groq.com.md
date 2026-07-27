@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [console.gro
 ```
 
 ## References
-- [GroqCloud](https://design.withfudge.com/pin/9484) — [source page](console.groq.com/home)
-- [GroqCloud](https://design.withfudge.com/pin/9483) — [source page](console.groq.com/home)
+- [GroqCloud](https://design.withfudge.com/pin/9484) — [source page](https://console.groq.com/home)
+- [GroqCloud](https://design.withfudge.com/pin/9483) — [source page](https://console.groq.com/home)

@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [sochi-blokno
 ```
 
 ## References
-- [Мэр Сочи заявил, что последствий для курорта от разлива мазута в Черном море нет](https://design.withfudge.com/pin/9168) — [source page](sochi-bloknot.ru/news/mer-sochi-zayavil-chto-posledstviy-dlya-kurorta-ot-1970253)
+- [Мэр Сочи заявил, что последствий для курорта от разлива мазута в Черном море нет](https://design.withfudge.com/pin/9168) — [source page](https://sochi-bloknot.ru/news/mer-sochi-zayavil-chto-posledstviy-dlya-kurorta-ot-1970253)

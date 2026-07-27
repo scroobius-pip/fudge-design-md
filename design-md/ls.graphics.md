@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [ls.graphics]
 ```
 
 ## References
-- [Highest quality mockups for graphic and UI designers](https://design.withfudge.com/pin/9891) — [source page](ls.graphics/)
+- [Highest quality mockups for graphic and UI designers](https://design.withfudge.com/pin/9891) — [source page](https://ls.graphics/)

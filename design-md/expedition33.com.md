@@ -95,4 +95,4 @@ Here is the visual system observed across **1 captured page** from [expedition33
 ```
 
 ## References
-- [Clair Obscur: Expedition 33 - Tomorrow comes](https://design.withfudge.com/pin/7539) — [source page](expedition33.com/)
+- [Clair Obscur: Expedition 33 - Tomorrow comes](https://design.withfudge.com/pin/7539) — [source page](https://expedition33.com/)

@@ -173,7 +173,7 @@ Here is the visual system observed across **4 captured pages** from [jasonwei.ne
 ```
 
 ## References
-- [Thoughts — Jason Wei](https://design.withfudge.com/pin/9221) — [source page](jasonwei.net/thoughts)
-- [Jason Wei](https://design.withfudge.com/pin/9220) — [source page](jasonwei.net/)
-- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9219) — [source page](jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
-- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9218) — [source page](jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+- [Thoughts — Jason Wei](https://design.withfudge.com/pin/9221) — [source page](https://jasonwei.net/thoughts)
+- [Jason Wei](https://design.withfudge.com/pin/9220) — [source page](https://jasonwei.net/)
+- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9219) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9218) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)

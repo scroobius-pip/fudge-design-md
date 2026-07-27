@@ -205,7 +205,7 @@ Here is the visual system observed across **4 captured pages** from [lineto.com]
 ```
 
 ## References
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9731) — [source page](lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9730) — [source page](lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9729) — [source page](lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var — Lineto.com](https://design.withfudge.com/pin/9728) — [source page](lineto.com/login)
+- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9731) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9730) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9729) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+- [Moonbase Var — Lineto.com](https://design.withfudge.com/pin/9728) — [source page](https://lineto.com/login)

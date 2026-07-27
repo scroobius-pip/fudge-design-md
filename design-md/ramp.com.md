@@ -225,11 +225,11 @@ Here is the visual system observed across **8 captured pages** from [ramp.com](h
 ```
 
 ## References
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9052) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9051) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9050) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9049) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9048) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9047) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9046) — [source page](ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9045) — [source page](ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9052) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9051) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9050) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9049) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9048) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9047) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9046) — [source page](https://ramp.com/)
+- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9045) — [source page](https://ramp.com/)

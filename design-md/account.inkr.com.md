@@ -94,4 +94,4 @@ Here is the visual system observed across **1 captured page** from [account.inkr
 ```
 
 ## References
-- [Read The Latest Manga, Manhua, Webtoon and Comics on INKR!](https://design.withfudge.com/pin/9366) — [source page](account.inkr.com/login)
+- [Read The Latest Manga, Manhua, Webtoon and Comics on INKR!](https://design.withfudge.com/pin/9366) — [source page](https://account.inkr.com/login)

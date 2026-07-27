@@ -204,9 +204,9 @@ Here is the visual system observed across **6 captured pages** from [twilio.com]
 ```
 
 ## References
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9465) — [source page](twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9464) — [source page](twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9463) — [source page](twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9462) — [source page](twilio.com/en-us/customer-engagement-platform)
-- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9461) — [source page](twilio.com/en-us)
-- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9460) — [source page](twilio.com/en-us)
+- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9465) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9464) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9463) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9462) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9461) — [source page](https://twilio.com/en-us)
+- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9460) — [source page](https://twilio.com/en-us)

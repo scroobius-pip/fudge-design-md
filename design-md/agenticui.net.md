@@ -173,7 +173,7 @@ Here is the visual system observed across **4 captured pages** from [agenticui.n
 ```
 
 ## References
-- [Agentic Design System](https://design.withfudge.com/pin/5933) — [source page](agenticui.net/)
-- [Agentic Design System](https://design.withfudge.com/pin/5932) — [source page](agenticui.net/)
-- [Preorder Agentic UI](https://design.withfudge.com/pin/5931) — [source page](agenticui.net/preorder)
-- [Preorder Agentic UI](https://design.withfudge.com/pin/5930) — [source page](agenticui.net/preorder)
+- [Agentic Design System](https://design.withfudge.com/pin/5933) — [source page](https://agenticui.net/)
+- [Agentic Design System](https://design.withfudge.com/pin/5932) — [source page](https://agenticui.net/)
+- [Preorder Agentic UI](https://design.withfudge.com/pin/5931) — [source page](https://agenticui.net/preorder)
+- [Preorder Agentic UI](https://design.withfudge.com/pin/5930) — [source page](https://agenticui.net/preorder)

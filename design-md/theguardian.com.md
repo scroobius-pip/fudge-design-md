@@ -223,8 +223,8 @@ Here is the visual system observed across **5 captured pages** from [theguardian
 ```
 
 ## References
-- [Norwegian group in talks to buy former Liberty Steel works in South Yorkshire | Steel industry | The Guardian](https://design.withfudge.com/pin/9146) — [source page](theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge)
-- [Schofield's First Law of Computing | Jack Schofield | The Guardian](https://design.withfudge.com/pin/7065) — [source page](theguardian.com/technology/2003/jul/24/onlinesupplement.columnists)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6618) — [source page](theguardian.com/international)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6617) — [source page](theguardian.com/international)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6616) — [source page](theguardian.com/international)
+- [Norwegian group in talks to buy former Liberty Steel works in South Yorkshire | Steel industry | The Guardian](https://design.withfudge.com/pin/9146) — [source page](https://theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge)
+- [Schofield's First Law of Computing | Jack Schofield | The Guardian](https://design.withfudge.com/pin/7065) — [source page](https://theguardian.com/technology/2003/jul/24/onlinesupplement.columnists)
+- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6618) — [source page](https://theguardian.com/international)
+- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6617) — [source page](https://theguardian.com/international)
+- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6616) — [source page](https://theguardian.com/international)

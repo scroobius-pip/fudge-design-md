@@ -342,11 +342,11 @@ Here is the visual system observed across **15 captured pages** from [stateof.mo
 ```
 
 ## References
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6056) — [source page](stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6055) — [source page](stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6054) — [source page](stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6053) — [source page](stateof.mozilla.org/tools/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6052) — [source page](stateof.mozilla.org/tools/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6051) — [source page](stateof.mozilla.org/manifesto/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6050) — [source page](stateof.mozilla.org/stakes/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6049) — [source page](stateof.mozilla.org/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6056) — [source page](https://stateof.mozilla.org/roadmap/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6055) — [source page](https://stateof.mozilla.org/roadmap/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6054) — [source page](https://stateof.mozilla.org/roadmap/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6053) — [source page](https://stateof.mozilla.org/tools/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6052) — [source page](https://stateof.mozilla.org/tools/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6051) — [source page](https://stateof.mozilla.org/manifesto/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6050) — [source page](https://stateof.mozilla.org/stakes/)
+- [State of Mozilla 2025](https://design.withfudge.com/pin/6049) — [source page](https://stateof.mozilla.org/)

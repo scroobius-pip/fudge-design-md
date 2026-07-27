@@ -166,6 +166,6 @@ Here is the visual system observed across **3 captured pages** from [sohnne.com]
 ```
 
 ## References
-- [Sohnne® Official Site | Mid-Century Modern Furniture, Iconic Designs](https://design.withfudge.com/pin/8805) — [source page](sohnne.com/)
-- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8804) — [source page](sohnne.com/product/the-ball-chair-replica/)
-- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8803) — [source page](sohnne.com/product/the-ball-chair-replica/)
+- [Sohnne® Official Site | Mid-Century Modern Furniture, Iconic Designs](https://design.withfudge.com/pin/8805) — [source page](https://sohnne.com/)
+- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8804) — [source page](https://sohnne.com/product/the-ball-chair-replica/)
+- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8803) — [source page](https://sohnne.com/product/the-ball-chair-replica/)

@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [chatkit.stud
 ```
 
 ## References
-- [Playground — ChatKit Studio](https://design.withfudge.com/pin/8910) — [source page](chatkit.studio/playground)
+- [Playground — ChatKit Studio](https://design.withfudge.com/pin/8910) — [source page](https://chatkit.studio/playground)

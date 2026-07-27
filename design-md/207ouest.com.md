@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [207ouest.com
 ```
 
 ## References
-- [Fashion and Design Concept Store in the Heart of Mile End | 207ouest – 207 Ouest](https://design.withfudge.com/pin/9732) — [source page](207ouest.com/)
+- [Fashion and Design Concept Store in the Heart of Mile End | 207ouest – 207 Ouest](https://design.withfudge.com/pin/9732) — [source page](https://207ouest.com/)

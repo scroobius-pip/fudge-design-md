@@ -146,5 +146,5 @@ Here is the visual system observed across **2 captured pages** from [accounts.th
 ```
 
 ## References
-- [The Atlantic Magazine & Digital Subscriptions - The Atlantic](https://design.withfudge.com/pin/9224) — [source page](accounts.theatlantic.com/products/)
-- [The Atlantic](https://design.withfudge.com/pin/9223) — [source page](accounts.theatlantic.com/products/free-trial/)
+- [The Atlantic Magazine & Digital Subscriptions - The Atlantic](https://design.withfudge.com/pin/9224) — [source page](https://accounts.theatlantic.com/products/)
+- [The Atlantic](https://design.withfudge.com/pin/9223) — [source page](https://accounts.theatlantic.com/products/free-trial/)

@@ -233,11 +233,11 @@ Here is the visual system observed across **8 captured pages** from [familytype.
 ```
 
 ## References
-- [Captured page 9796](https://design.withfudge.com/pin/9796) — [source page](familytype.co/typefaces/universal-sans)
-- [Captured page 9791](https://design.withfudge.com/pin/9791) — [source page](familytype.co/typefaces/universal-sans)
-- [Captured page 9790](https://design.withfudge.com/pin/9790) — [source page](familytype.co/typefaces/universal-sans)
-- [Captured page 9789](https://design.withfudge.com/pin/9789) — [source page](familytype.co/typefaces/universal-sans)
-- [Captured page 9788](https://design.withfudge.com/pin/9788) — [source page](familytype.co/typefaces/universal-sans)
-- [Family Type](https://design.withfudge.com/pin/5474) — [source page](familytype.co/)
-- [Family Type](https://design.withfudge.com/pin/5473) — [source page](familytype.co/)
-- [Family Type](https://design.withfudge.com/pin/5472) — [source page](familytype.co/)
+- [Captured page 9796](https://design.withfudge.com/pin/9796) — [source page](https://familytype.co/typefaces/universal-sans)
+- [Captured page 9791](https://design.withfudge.com/pin/9791) — [source page](https://familytype.co/typefaces/universal-sans)
+- [Captured page 9790](https://design.withfudge.com/pin/9790) — [source page](https://familytype.co/typefaces/universal-sans)
+- [Captured page 9789](https://design.withfudge.com/pin/9789) — [source page](https://familytype.co/typefaces/universal-sans)
+- [Captured page 9788](https://design.withfudge.com/pin/9788) — [source page](https://familytype.co/typefaces/universal-sans)
+- [Family Type](https://design.withfudge.com/pin/5474) — [source page](https://familytype.co/)
+- [Family Type](https://design.withfudge.com/pin/5473) — [source page](https://familytype.co/)
+- [Family Type](https://design.withfudge.com/pin/5472) — [source page](https://familytype.co/)

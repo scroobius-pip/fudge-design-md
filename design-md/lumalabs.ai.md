@@ -104,5 +104,5 @@ Here is the visual system observed across **2 captured pages** from [lumalabs.ai
 ```
 
 ## References
-- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8580) — [source page](lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
-- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8579) — [source page](lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
+- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8580) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
+- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8579) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)

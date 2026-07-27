@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [docs.restate
 ```
 
 ## References
-- [Quickstart - Restate](https://design.withfudge.com/pin/7597) — [source page](docs.restate.dev/quickstart)
+- [Quickstart - Restate](https://design.withfudge.com/pin/7597) — [source page](https://docs.restate.dev/quickstart)

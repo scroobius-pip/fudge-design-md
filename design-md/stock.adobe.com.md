@@ -303,11 +303,11 @@ Here is the visual system observed across **19 captured pages** from [stock.adob
 ```
 
 ## References
-- [Stock Photos, Images, Videos & AI Editing Tools | Adobe Stock](https://design.withfudge.com/pin/9842) — [source page](stock.adobe.com/ng)
-- [Illustrations inspirational stock assets | Adobe Stock](https://design.withfudge.com/pin/2089) — [source page](stock.adobe.com/ng/collections/hyyvNoCHFekrT4CqLst1sYyqWS1w14ui)
-- [Royalty-free Stock Illustrations | Adobe Stock](https://design.withfudge.com/pin/2088) — [source page](stock.adobe.com/ng/illustrations)
-- [Royalty-free Stock Illustrations | Adobe Stock](https://design.withfudge.com/pin/2087) — [source page](stock.adobe.com/ng/illustrations)
-- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2086) — [source page](stock.adobe.com/ng/pricing)
-- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2084) — [source page](stock.adobe.com/ng/pricing)
-- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2083) — [source page](stock.adobe.com/ng/pricing)
-- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2082) — [source page](stock.adobe.com/ng/pricing)
+- [Stock Photos, Images, Videos & AI Editing Tools | Adobe Stock](https://design.withfudge.com/pin/9842) — [source page](https://stock.adobe.com/ng)
+- [Illustrations inspirational stock assets | Adobe Stock](https://design.withfudge.com/pin/2089) — [source page](https://stock.adobe.com/ng/collections/hyyvNoCHFekrT4CqLst1sYyqWS1w14ui)
+- [Royalty-free Stock Illustrations | Adobe Stock](https://design.withfudge.com/pin/2088) — [source page](https://stock.adobe.com/ng/illustrations)
+- [Royalty-free Stock Illustrations | Adobe Stock](https://design.withfudge.com/pin/2087) — [source page](https://stock.adobe.com/ng/illustrations)
+- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2086) — [source page](https://stock.adobe.com/ng/pricing)
+- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2084) — [source page](https://stock.adobe.com/ng/pricing)
+- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2083) — [source page](https://stock.adobe.com/ng/pricing)
+- [Adobe Stock pricing and membership plan | Adobe Stock](https://design.withfudge.com/pin/2082) — [source page](https://stock.adobe.com/ng/pricing)

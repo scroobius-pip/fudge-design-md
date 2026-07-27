@@ -161,7 +161,7 @@ Here is the visual system observed across **4 captured pages** from [jenwagner.c
 ```
 
 ## References
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8802) — [source page](jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8801) — [source page](jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8800) — [source page](jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8799) — [source page](jenwagner.co/affiliate)
+- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8802) — [source page](https://jenwagner.co/affiliate)
+- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8801) — [source page](https://jenwagner.co/affiliate)
+- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8800) — [source page](https://jenwagner.co/affiliate)
+- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8799) — [source page](https://jenwagner.co/affiliate)

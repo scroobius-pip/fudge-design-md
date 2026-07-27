@@ -180,5 +180,5 @@ Here is the visual system observed across **2 captured pages** from [astrotypes.
 ```
 
 ## References
-- [Astrotypes](https://design.withfudge.com/pin/8440) — [source page](astrotypes.com/)
-- [Astrotypes](https://design.withfudge.com/pin/8439) — [source page](astrotypes.com/)
+- [Astrotypes](https://design.withfudge.com/pin/8440) — [source page](https://astrotypes.com/)
+- [Astrotypes](https://design.withfudge.com/pin/8439) — [source page](https://astrotypes.com/)

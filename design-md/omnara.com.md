@@ -81,4 +81,4 @@ Here is the visual system observed across **1 captured page** from [omnara.com](
 ```
 
 ## References
-- [Omnara - Claude Code & Codex Mobile & Web Client](https://design.withfudge.com/pin/6453) — [source page](omnara.com/)
+- [Omnara - Claude Code & Codex Mobile & Web Client](https://design.withfudge.com/pin/6453) — [source page](https://omnara.com/)

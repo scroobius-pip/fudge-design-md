@@ -297,11 +297,11 @@ Here is the visual system observed across **17 captured pages** from [visitors.n
 ```
 
 ## References
-- [(36) Stats on Godly - Visitors](https://design.withfudge.com/pin/7484) — [source page](visitors.now/s/godly.website)
-- [(37) Stats on Godly - Visitors](https://design.withfudge.com/pin/7483) — [source page](visitors.now/s/godly.website)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7449) — [source page](visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7448) — [source page](visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7447) — [source page](visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7446) — [source page](visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7445) — [source page](visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7444) — [source page](visitors.now/)
+- [(36) Stats on Godly - Visitors](https://design.withfudge.com/pin/7484) — [source page](https://visitors.now/s/godly.website)
+- [(37) Stats on Godly - Visitors](https://design.withfudge.com/pin/7483) — [source page](https://visitors.now/s/godly.website)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7449) — [source page](https://visitors.now/)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7448) — [source page](https://visitors.now/)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7447) — [source page](https://visitors.now/)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7446) — [source page](https://visitors.now/)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7445) — [source page](https://visitors.now/)
+- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7444) — [source page](https://visitors.now/)

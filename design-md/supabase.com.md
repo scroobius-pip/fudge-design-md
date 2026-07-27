@@ -311,11 +311,11 @@ Here is the visual system observed across **12 captured pages** from [supabase.c
 ```
 
 ## References
-- [Supabase](https://design.withfudge.com/pin/6639) — [source page](supabase.com/dashboard/sign-in)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6638) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6637) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6636) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6635) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6634) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6633) — [source page](supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6632) — [source page](supabase.com/)
+- [Supabase](https://design.withfudge.com/pin/6639) — [source page](https://supabase.com/dashboard/sign-in)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6638) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6637) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6636) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6635) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6634) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6633) — [source page](https://supabase.com/)
+- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6632) — [source page](https://supabase.com/)

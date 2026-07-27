@@ -203,9 +203,9 @@ Here is the visual system observed across **6 captured pages** from [flickr.com]
 ```
 
 ## References
-- [About Flickr | We’re the real deal.](https://design.withfudge.com/pin/8230) — [source page](flickr.com/company/about-us/)
-- [About Flickr | We’re the real deal.](https://design.withfudge.com/pin/8229) — [source page](flickr.com/company/about-us/)
-- [Flickr Pro | Get to know Flickr Pro.](https://design.withfudge.com/pin/8228) — [source page](flickr.com/flickr-pro)
-- [Flickr | Come for the photos, stay for the weirdos.](https://design.withfudge.com/pin/8227) — [source page](flickr.com/features)
-- [Flickr | The best place to be a photographer online.](https://design.withfudge.com/pin/8226) — [source page](flickr.com/)
-- [Flickr | The best place to be a photographer online.](https://design.withfudge.com/pin/8225) — [source page](flickr.com/)
+- [About Flickr | We’re the real deal.](https://design.withfudge.com/pin/8230) — [source page](https://flickr.com/company/about-us/)
+- [About Flickr | We’re the real deal.](https://design.withfudge.com/pin/8229) — [source page](https://flickr.com/company/about-us/)
+- [Flickr Pro | Get to know Flickr Pro.](https://design.withfudge.com/pin/8228) — [source page](https://flickr.com/flickr-pro)
+- [Flickr | Come for the photos, stay for the weirdos.](https://design.withfudge.com/pin/8227) — [source page](https://flickr.com/features)
+- [Flickr | The best place to be a photographer online.](https://design.withfudge.com/pin/8226) — [source page](https://flickr.com/)
+- [Flickr | The best place to be a photographer online.](https://design.withfudge.com/pin/8225) — [source page](https://flickr.com/)

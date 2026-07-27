@@ -84,5 +84,5 @@ Here is the visual system observed across **2 captured pages** from [baremettle.
 ```
 
 ## References
-- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6254) — [source page](baremettle.com/forums/index.php)
-- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6253) — [source page](baremettle.com/forums/index.php)
+- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6254) — [source page](https://baremettle.com/forums/index.php)
+- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6253) — [source page](https://baremettle.com/forums/index.php)

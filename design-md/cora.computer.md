@@ -219,9 +219,9 @@ Here is the visual system observed across **6 captured pages** from [cora.comput
 ```
 
 ## References
-- [Cora](https://design.withfudge.com/pin/8459) — [source page](cora.computer/users/sign_up)
-- [Cora](https://design.withfudge.com/pin/8457) — [source page](cora.computer/users/sign_in)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8456) — [source page](cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8455) — [source page](cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8454) — [source page](cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8453) — [source page](cora.computer/)
+- [Cora](https://design.withfudge.com/pin/8459) — [source page](https://cora.computer/users/sign_up)
+- [Cora](https://design.withfudge.com/pin/8457) — [source page](https://cora.computer/users/sign_in)
+- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8456) — [source page](https://cora.computer/)
+- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8455) — [source page](https://cora.computer/)
+- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8454) — [source page](https://cora.computer/)
+- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8453) — [source page](https://cora.computer/)

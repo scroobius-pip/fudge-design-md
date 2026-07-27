@@ -384,11 +384,11 @@ Here is the visual system observed across **39 captured pages** from [claude.com
 ```
 
 ## References
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10038) — [source page](claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10037) — [source page](claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10036) — [source page](claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10035) — [source page](claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10034) — [source page](claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10033) — [source page](claude.com/programs/startups)
-- [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://design.withfudge.com/pin/9222) — [source page](claude.com/product/claude-code)
-- [Download Claude | Claude](https://design.withfudge.com/pin/6390) — [source page](claude.com/download)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10038) — [source page](https://claude.com/programs/startups)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10037) — [source page](https://claude.com/programs/startups)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10036) — [source page](https://claude.com/programs/startups)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10035) — [source page](https://claude.com/programs/startups)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10034) — [source page](https://claude.com/programs/startups)
+- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10033) — [source page](https://claude.com/programs/startups)
+- [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://design.withfudge.com/pin/9222) — [source page](https://claude.com/product/claude-code)
+- [Download Claude | Claude](https://design.withfudge.com/pin/6390) — [source page](https://claude.com/download)

@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [twitch.tv](
 ```
 
 ## References
-- [(1) carnifexGG - Twitch](https://design.withfudge.com/pin/6568) — [source page](twitch.tv/carnifexgg)
-- [THiiXY - Twitch](https://design.withfudge.com/pin/3694) — [source page](twitch.tv/thiixy)
+- [(1) carnifexGG - Twitch](https://design.withfudge.com/pin/6568) — [source page](https://twitch.tv/carnifexgg)
+- [THiiXY - Twitch](https://design.withfudge.com/pin/3694) — [source page](https://twitch.tv/thiixy)

@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [bengalturf.
 ```
 
 ## References
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9475) — [source page](bengalturf.yolasite.com/)
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9474) — [source page](bengalturf.yolasite.com/)
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9473) — [source page](bengalturf.yolasite.com/)
+- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9475) — [source page](https://bengalturf.yolasite.com/)
+- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9474) — [source page](https://bengalturf.yolasite.com/)
+- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9473) — [source page](https://bengalturf.yolasite.com/)

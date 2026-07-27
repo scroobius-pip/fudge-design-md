@@ -339,11 +339,11 @@ Here is the visual system observed across **13 captured pages** from [getomni.ai
 ```
 
 ## References
-- [AI Agents for Lending](https://design.withfudge.com/pin/6872) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6871) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6870) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6869) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6868) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6867) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/5244) — [source page](getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/5243) — [source page](getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6872) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6871) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6870) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6869) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6868) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/6867) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/5244) — [source page](https://getomni.ai/)
+- [AI Agents for Lending](https://design.withfudge.com/pin/5243) — [source page](https://getomni.ai/)

@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [slideshare.
 ```
 
 ## References
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7163) — [source page](slideshare.net/)
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7162) — [source page](slideshare.net/)
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7161) — [source page](slideshare.net/)
+- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7163) — [source page](https://slideshare.net/)
+- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7162) — [source page](https://slideshare.net/)
+- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7161) — [source page](https://slideshare.net/)

@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [app.curator.
 ```
 
 ## References
-- [Curator Dashboard](https://design.withfudge.com/pin/7655) — [source page](app.curator.io/onboarding/network)
+- [Curator Dashboard](https://design.withfudge.com/pin/7655) — [source page](https://app.curator.io/onboarding/network)

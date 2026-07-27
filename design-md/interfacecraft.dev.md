@@ -162,7 +162,7 @@ Here is the visual system observed across **4 captured pages** from [interfacecr
 ```
 
 ## References
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6302) — [source page](interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6233) — [source page](interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6232) — [source page](interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6231) — [source page](interfacecraft.dev/)
+- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6302) — [source page](https://interfacecraft.dev/)
+- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6233) — [source page](https://interfacecraft.dev/)
+- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6232) — [source page](https://interfacecraft.dev/)
+- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6231) — [source page](https://interfacecraft.dev/)

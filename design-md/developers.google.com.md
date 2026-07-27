@@ -152,6 +152,6 @@ Here is the visual system observed across **3 captured pages** from [developers.
 ```
 
 ## References
-- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6327) — [source page](developers.google.com/program/plans-and-pricing)
-- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6326) — [source page](developers.google.com/program/plans-and-pricing)
-- [Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/5075) — [source page](developers.google.com/program)
+- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6327) — [source page](https://developers.google.com/program/plans-and-pricing)
+- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6326) — [source page](https://developers.google.com/program/plans-and-pricing)
+- [Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/5075) — [source page](https://developers.google.com/program)

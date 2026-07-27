@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [dune.ng](htt
 ```
 
 ## References
-- [Where to Buy – DÙNE](https://design.withfudge.com/pin/6315) — [source page](dune.ng/where-to-buy)
+- [Where to Buy – DÙNE](https://design.withfudge.com/pin/6315) — [source page](https://dune.ng/where-to-buy)

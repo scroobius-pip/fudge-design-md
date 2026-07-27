@@ -215,11 +215,11 @@ Here is the visual system observed across **8 captured pages** from [netflix.com
 ```
 
 ## References
-- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6423) — [source page](netflix.com/ng/title/624420)
-- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6422) — [source page](netflix.com/ng/title/624420)
-- [Netflix](https://design.withfudge.com/pin/3807) — [source page](netflix.com/NotFound)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2338) — [source page](netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2337) — [source page](netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2336) — [source page](netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2335) — [source page](netflix.com/)
-- [Netflix Nigeria - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2334) — [source page](netflix.com/ng/)
+- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6423) — [source page](https://netflix.com/ng/title/624420)
+- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6422) — [source page](https://netflix.com/ng/title/624420)
+- [Netflix](https://design.withfudge.com/pin/3807) — [source page](https://netflix.com/NotFound)
+- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2338) — [source page](https://netflix.com/)
+- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2337) — [source page](https://netflix.com/)
+- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2336) — [source page](https://netflix.com/)
+- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2335) — [source page](https://netflix.com/)
+- [Netflix Nigeria - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2334) — [source page](https://netflix.com/ng/)

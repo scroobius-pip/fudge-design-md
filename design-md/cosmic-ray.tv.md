@@ -259,10 +259,10 @@ Here is the visual system observed across **7 captured pages** from [cosmic-ray.
 ```
 
 ## References
-- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10402) — [source page](cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
-- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10401) — [source page](cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
-- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10400) — [source page](cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
-- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10287) — [source page](cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
-- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10286) — [source page](cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
-- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10285) — [source page](cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
-- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10284) — [source page](cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
+- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10402) — [source page](https://cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
+- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10401) — [source page](https://cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
+- [NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10400) — [source page](https://cosmic-ray.tv/NAVER-DAN25-Conference-Movie-Package-2025)
+- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10287) — [source page](https://cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
+- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10286) — [source page](https://cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
+- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10285) — [source page](https://cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)
+- [NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/pin/10284) — [source page](https://cosmic-ray.tv/NAVER-Dan23-Conference-Movie-Package-2023)

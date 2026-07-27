@@ -168,8 +168,8 @@ Here is the visual system observed across **5 captured pages** from [selected.si
 ```
 
 ## References
-- [Explore — Selected Site](https://design.withfudge.com/pin/8205) — [source page](selected.site/explore)
-- [Selected Site — Curated Tools & Resources](https://design.withfudge.com/pin/8204) — [source page](selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8203) — [source page](selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8202) — [source page](selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8201) — [source page](selected.site/)
+- [Explore — Selected Site](https://design.withfudge.com/pin/8205) — [source page](https://selected.site/explore)
+- [Selected Site — Curated Tools & Resources](https://design.withfudge.com/pin/8204) — [source page](https://selected.site/)
+- [Home — Selected Site](https://design.withfudge.com/pin/8203) — [source page](https://selected.site/)
+- [Home — Selected Site](https://design.withfudge.com/pin/8202) — [source page](https://selected.site/)
+- [Home — Selected Site](https://design.withfudge.com/pin/8201) — [source page](https://selected.site/)

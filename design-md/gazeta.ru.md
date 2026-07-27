@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [gazeta.ru](
 ```
 
 ## References
-- [Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://design.withfudge.com/pin/9101) — [source page](gazeta.ru/social/news/2026/04/27/28352593.shtml)
-- [Главные новости России и мира сегодня - Газета.Ru](https://design.withfudge.com/pin/9089) — [source page](gazeta.ru/)
+- [Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://design.withfudge.com/pin/9101) — [source page](https://gazeta.ru/social/news/2026/04/27/28352593.shtml)
+- [Главные новости России и мира сегодня - Газета.Ru](https://design.withfudge.com/pin/9089) — [source page](https://gazeta.ru/)

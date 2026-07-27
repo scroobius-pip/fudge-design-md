@@ -305,11 +305,11 @@ Here is the visual system observed across **17 captured pages** from [foundation
 ```
 
 ## References
-- [Colorful Encounter | Foundation](https://design.withfudge.com/pin/8482) — [source page](foundation.app/mint/base/0x592dA21bC83c916212E3748da719286AFEF08036/3)
-- [Foundation](https://design.withfudge.com/pin/8481) — [source page](foundation.app/)
-- [Galleries | Foundation](https://design.withfudge.com/pin/8480) — [source page](foundation.app/browse/galleries)
-- [Galleries | Foundation](https://design.withfudge.com/pin/8479) — [source page](foundation.app/trending/galleries)
-- [Page not found | Foundation](https://design.withfudge.com/pin/8478) — [source page](foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
-- [Page not found | Foundation](https://design.withfudge.com/pin/8477) — [source page](foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
-- [0xDd41…304e | Foundation](https://design.withfudge.com/pin/8476) — [source page](foundation.app/0xDd41906B5E8a8823dbd4750b8647EC5dA1D5304e)
-- [JIMMY (@JIMMY) | Foundation](https://design.withfudge.com/pin/8475) — [source page](foundation.app/@JIMMY)
+- [Colorful Encounter | Foundation](https://design.withfudge.com/pin/8482) — [source page](https://foundation.app/mint/base/0x592dA21bC83c916212E3748da719286AFEF08036/3)
+- [Foundation](https://design.withfudge.com/pin/8481) — [source page](https://foundation.app/)
+- [Galleries | Foundation](https://design.withfudge.com/pin/8480) — [source page](https://foundation.app/browse/galleries)
+- [Galleries | Foundation](https://design.withfudge.com/pin/8479) — [source page](https://foundation.app/trending/galleries)
+- [Page not found | Foundation](https://design.withfudge.com/pin/8478) — [source page](https://foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
+- [Page not found | Foundation](https://design.withfudge.com/pin/8477) — [source page](https://foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
+- [0xDd41…304e | Foundation](https://design.withfudge.com/pin/8476) — [source page](https://foundation.app/0xDd41906B5E8a8823dbd4750b8647EC5dA1D5304e)
+- [JIMMY (@JIMMY) | Foundation](https://design.withfudge.com/pin/8475) — [source page](https://foundation.app/@JIMMY)

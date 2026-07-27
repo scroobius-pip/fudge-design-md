@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [migma.ai](ht
 ```
 
 ## References
-- [Contact Us | MigmaAI](https://design.withfudge.com/pin/7385) — [source page](migma.ai/contact)
+- [Contact Us | MigmaAI](https://design.withfudge.com/pin/7385) — [source page](https://migma.ai/contact)

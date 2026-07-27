@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [better-hub.c
 ```
 
 ## References
-- [Better Hub](https://design.withfudge.com/pin/7308) — [source page](better-hub.com/)
+- [Better Hub](https://design.withfudge.com/pin/7308) — [source page](https://better-hub.com/)

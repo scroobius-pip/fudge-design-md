@@ -109,4 +109,4 @@ Here is the visual system observed across **1 captured page** from [newsweek.com
 ```
 
 ## References
-- [Newsweek - Latest Breaking News, US, World, Politics, Business, Tech and Videos.](https://design.withfudge.com/pin/8994) — [source page](newsweek.com/)
+- [Newsweek - Latest Breaking News, US, World, Politics, Business, Tech and Videos.](https://design.withfudge.com/pin/8994) — [source page](https://newsweek.com/)

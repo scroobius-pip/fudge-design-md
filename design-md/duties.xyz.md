@@ -233,9 +233,9 @@ Here is the visual system observed across **6 captured pages** from [duties.xyz]
 ```
 
 ## References
-- [Duties.xyz](https://design.withfudge.com/pin/9565) — [source page](duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9564) — [source page](duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9563) — [source page](duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9562) — [source page](duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9561) — [source page](duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9560) — [source page](duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9565) — [source page](https://duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9564) — [source page](https://duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9563) — [source page](https://duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9562) — [source page](https://duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9561) — [source page](https://duties.xyz/)
+- [Duties.xyz](https://design.withfudge.com/pin/9560) — [source page](https://duties.xyz/)

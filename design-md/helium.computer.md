@@ -243,11 +243,11 @@ Here is the visual system observed across **10 captured pages** from [helium.com
 ```
 
 ## References
-- [Helium Browser](https://design.withfudge.com/pin/6939) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/6938) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/6937) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3806) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3805) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3804) — [source page](helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3803) — [source page](helium.computer/)
-- [Helium · Bangs](https://design.withfudge.com/pin/3802) — [source page](helium.computer/bangs)
+- [Helium Browser](https://design.withfudge.com/pin/6939) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/6938) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/6937) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/3806) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/3805) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/3804) — [source page](https://helium.computer/)
+- [Helium Browser](https://design.withfudge.com/pin/3803) — [source page](https://helium.computer/)
+- [Helium · Bangs](https://design.withfudge.com/pin/3802) — [source page](https://helium.computer/bangs)

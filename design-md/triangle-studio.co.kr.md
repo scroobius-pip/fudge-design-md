@@ -354,11 +354,11 @@ Here is the visual system observed across **15 captured pages** from [triangle-s
 ```
 
 ## References
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10305) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10304) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10303) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10302) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10301) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10300) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10299) — [source page](triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10298) — [source page](triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10305) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10304) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10303) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10302) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10301) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10300) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10299) — [source page](https://triangle-studio.co.kr/)
+- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10298) — [source page](https://triangle-studio.co.kr/)

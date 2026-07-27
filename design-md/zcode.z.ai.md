@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [zcode.z.ai]
 ```
 
 ## References
-- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9893) — [source page](zcode.z.ai/en)
-- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9892) — [source page](zcode.z.ai/en)
+- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9893) — [source page](https://zcode.z.ai/en)
+- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9892) — [source page](https://zcode.z.ai/en)

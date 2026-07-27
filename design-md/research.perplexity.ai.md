@@ -145,5 +145,5 @@ Here is the visual system observed across **2 captured pages** from [research.pe
 ```
 
 ## References
-- [Rethinking Search as Code Generation](https://design.withfudge.com/pin/9495) — [source page](research.perplexity.ai/articles/rethinking-search-as-code-generation)
-- [Perplexity Research](https://design.withfudge.com/pin/7990) — [source page](research.perplexity.ai/)
+- [Rethinking Search as Code Generation](https://design.withfudge.com/pin/9495) — [source page](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
+- [Perplexity Research](https://design.withfudge.com/pin/7990) — [source page](https://research.perplexity.ai/)

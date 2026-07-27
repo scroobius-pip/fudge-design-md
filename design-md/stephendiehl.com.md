@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [stephendiehl
 ```
 
 ## References
-- [Crypto in 2026: Oh, This is the Bad Place](https://design.withfudge.com/pin/9740) — [source page](stephendiehl.com/posts/bad_place_2026/)
+- [Crypto in 2026: Oh, This is the Bad Place](https://design.withfudge.com/pin/9740) — [source page](https://stephendiehl.com/posts/bad_place_2026/)

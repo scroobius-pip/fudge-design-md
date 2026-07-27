@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [quiver.ai](
 ```
 
 ## References
-- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7618) — [source page](quiver.ai/)
-- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7617) — [source page](quiver.ai/)
+- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7618) — [source page](https://quiver.ai/)
+- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7617) — [source page](https://quiver.ai/)

@@ -325,11 +325,11 @@ Here is the visual system observed across **8 captured pages** from [squareup.co
 ```
 
 ## References
-- [Power your entire business | Square](https://design.withfudge.com/pin/9723) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9722) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9721) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9720) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9719) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9718) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9717) — [source page](squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9716) — [source page](squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9723) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9722) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9721) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9720) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9719) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9718) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9717) — [source page](https://squareup.com/us/en)
+- [Power your entire business | Square](https://design.withfudge.com/pin/9716) — [source page](https://squareup.com/us/en)

@@ -224,11 +224,11 @@ Here is the visual system observed across **8 captured pages** from [dash.dropbo
 ```
 
 ## References
-- [Dropbox Dash: Find anything. Protect everything.](https://design.withfudge.com/pin/5914) — [source page](dash.dropbox.com/)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3565) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3564) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3563) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3562) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3561) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3560) — [source page](dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3559) — [source page](dash.dropbox.com/mclarenf1)
+- [Dropbox Dash: Find anything. Protect everything.](https://design.withfudge.com/pin/5914) — [source page](https://dash.dropbox.com/)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3565) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3564) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3563) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3562) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3561) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3560) — [source page](https://dash.dropbox.com/mclarenf1)
+- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3559) — [source page](https://dash.dropbox.com/mclarenf1)

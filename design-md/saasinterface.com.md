@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [saasinterfac
 ```
 
 ## References
-- [Pricing - Saas Interface](https://design.withfudge.com/pin/7310) — [source page](saasinterface.com/pricing/)
+- [Pricing - Saas Interface](https://design.withfudge.com/pin/7310) — [source page](https://saasinterface.com/pricing/)

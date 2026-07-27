@@ -341,11 +341,11 @@ Here is the visual system observed across **44 captured pages** from [braintrust
 ```
 
 ## References
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8909) — [source page](braintrust.dev/)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8908) — [source page](braintrust.dev/pricing)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8907) — [source page](braintrust.dev/pricing)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8906) — [source page](braintrust.dev/pricing)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8905) — [source page](braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8904) — [source page](braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8903) — [source page](braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8902) — [source page](braintrust.dev/)
+- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8909) — [source page](https://braintrust.dev/)
+- [Pricing - Braintrust](https://design.withfudge.com/pin/8908) — [source page](https://braintrust.dev/pricing)
+- [Pricing - Braintrust](https://design.withfudge.com/pin/8907) — [source page](https://braintrust.dev/pricing)
+- [Pricing - Braintrust](https://design.withfudge.com/pin/8906) — [source page](https://braintrust.dev/pricing)
+- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8905) — [source page](https://braintrust.dev/)
+- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8904) — [source page](https://braintrust.dev/)
+- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8903) — [source page](https://braintrust.dev/)
+- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8902) — [source page](https://braintrust.dev/)

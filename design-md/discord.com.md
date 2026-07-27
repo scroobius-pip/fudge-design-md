@@ -275,11 +275,11 @@ Here is the visual system observed across **27 captured pages** from [discord.co
 ```
 
 ## References
-- [What brings you to the Developer Portal? | Discord Developer Portal](https://design.withfudge.com/pin/7873) — [source page](discord.com/developers/applications)
-- [(15473) Discord | Friends](https://design.withfudge.com/pin/3822) — [source page](discord.com/channels/@me)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/793) — [source page](discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/792) — [source page](discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/791) — [source page](discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/790) — [source page](discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/789) — [source page](discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/788) — [source page](discord.com/nitro)
+- [What brings you to the Developer Portal? | Discord Developer Portal](https://design.withfudge.com/pin/7873) — [source page](https://discord.com/developers/applications)
+- [(15473) Discord | Friends](https://design.withfudge.com/pin/3822) — [source page](https://discord.com/channels/@me)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/793) — [source page](https://discord.com/nitro)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/792) — [source page](https://discord.com/nitro)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/791) — [source page](https://discord.com/nitro)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/790) — [source page](https://discord.com/nitro)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/789) — [source page](https://discord.com/nitro)
+- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/788) — [source page](https://discord.com/nitro)

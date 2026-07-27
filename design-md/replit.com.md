@@ -337,11 +337,11 @@ Here is the visual system observed across **28 captured pages** from [replit.com
 ```
 
 ## References
-- [Mandarin Reader - Replit](https://design.withfudge.com/pin/8012) — [source page](replit.com/@scroobius_pip/Mandarin-Reader)
-- [Replit Pro – Software creation for modern teams](https://design.withfudge.com/pin/8010) — [source page](replit.com/pro)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8009) — [source page](replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8008) — [source page](replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8007) — [source page](replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8006) — [source page](replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8005) — [source page](replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8004) — [source page](replit.com/)
+- [Mandarin Reader - Replit](https://design.withfudge.com/pin/8012) — [source page](https://replit.com/@scroobius_pip/Mandarin-Reader)
+- [Replit Pro – Software creation for modern teams](https://design.withfudge.com/pin/8010) — [source page](https://replit.com/pro)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8009) — [source page](https://replit.com/)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8008) — [source page](https://replit.com/)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8007) — [source page](https://replit.com/)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8006) — [source page](https://replit.com/)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8005) — [source page](https://replit.com/)
+- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8004) — [source page](https://replit.com/)

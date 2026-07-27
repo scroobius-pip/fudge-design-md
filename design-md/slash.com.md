@@ -106,4 +106,4 @@ Here is the visual system observed across **1 captured page** from [slash.com](h
 ```
 
 ## References
-- [Business Banking, Cards & Treasury | Slash](https://design.withfudge.com/pin/10440) — [source page](slash.com/)
+- [Business Banking, Cards & Treasury | Slash](https://design.withfudge.com/pin/10440) — [source page](https://slash.com/)

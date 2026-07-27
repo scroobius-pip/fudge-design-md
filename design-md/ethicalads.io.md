@@ -84,5 +84,5 @@ Here is the visual system observed across **2 captured pages** from [ethicalads.
 ```
 
 ## References
-- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6085) — [source page](ethicalads.io/advertisers/)
-- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6084) — [source page](ethicalads.io/advertisers/)
+- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6085) — [source page](https://ethicalads.io/advertisers/)
+- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6084) — [source page](https://ethicalads.io/advertisers/)

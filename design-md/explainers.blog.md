@@ -153,6 +153,6 @@ Here is the visual system observed across **3 captured pages** from [explainers.
 ```
 
 ## References
-- [Why is the sky blue?](https://design.withfudge.com/pin/6337) — [source page](explainers.blog/posts/why-is-the-sky-blue/)
-- [Why is the sky blue?](https://design.withfudge.com/pin/6336) — [source page](explainers.blog/posts/why-is-the-sky-blue/)
-- [Why is the sky blue?](https://design.withfudge.com/pin/6335) — [source page](explainers.blog/posts/why-is-the-sky-blue/)
+- [Why is the sky blue?](https://design.withfudge.com/pin/6337) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
+- [Why is the sky blue?](https://design.withfudge.com/pin/6336) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
+- [Why is the sky blue?](https://design.withfudge.com/pin/6335) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)

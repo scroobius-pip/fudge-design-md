@@ -187,8 +187,8 @@ Here is the visual system observed across **5 captured pages** from [base-ui.com
 ```
 
 ## References
-- [Base UI](https://design.withfudge.com/pin/8041) — [source page](base-ui.com/)
-- [Base UI](https://design.withfudge.com/pin/8040) — [source page](base-ui.com/)
-- [Base UI](https://design.withfudge.com/pin/8039) — [source page](base-ui.com/)
-- [Quick start · Base UI](https://design.withfudge.com/pin/3865) — [source page](base-ui.com/react/overview/quick-start)
-- [Base UI](https://design.withfudge.com/pin/3864) — [source page](base-ui.com/)
+- [Base UI](https://design.withfudge.com/pin/8041) — [source page](https://base-ui.com/)
+- [Base UI](https://design.withfudge.com/pin/8040) — [source page](https://base-ui.com/)
+- [Base UI](https://design.withfudge.com/pin/8039) — [source page](https://base-ui.com/)
+- [Quick start · Base UI](https://design.withfudge.com/pin/3865) — [source page](https://base-ui.com/react/overview/quick-start)
+- [Base UI](https://design.withfudge.com/pin/3864) — [source page](https://base-ui.com/)

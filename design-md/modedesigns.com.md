@@ -363,11 +363,11 @@ Here is the visual system observed across **14 captured pages** from [modedesign
 ```
 
 ## References
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9123) — [source page](modedesigns.com/products/envoy)
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9122) — [source page](modedesigns.com/products/envoy)
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9121) — [source page](modedesigns.com/products/envoy)
-- [All – Mode Designs](https://design.withfudge.com/pin/9120) — [source page](modedesigns.com/collections/all)
-- [All – Mode Designs](https://design.withfudge.com/pin/9119) — [source page](modedesigns.com/collections/all)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9118) — [source page](modedesigns.com/)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9117) — [source page](modedesigns.com/)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9116) — [source page](modedesigns.com/)
+- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9123) — [source page](https://modedesigns.com/products/envoy)
+- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9122) — [source page](https://modedesigns.com/products/envoy)
+- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9121) — [source page](https://modedesigns.com/products/envoy)
+- [All – Mode Designs](https://design.withfudge.com/pin/9120) — [source page](https://modedesigns.com/collections/all)
+- [All – Mode Designs](https://design.withfudge.com/pin/9119) — [source page](https://modedesigns.com/collections/all)
+- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9118) — [source page](https://modedesigns.com/)
+- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9117) — [source page](https://modedesigns.com/)
+- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9116) — [source page](https://modedesigns.com/)

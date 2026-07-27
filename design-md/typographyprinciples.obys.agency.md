@@ -301,11 +301,11 @@ Here is the visual system observed across **9 captured pages** from [typographyp
 ```
 
 ## References
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7785) — [source page](typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7784) — [source page](typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7783) — [source page](typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7782) — [source page](typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Intro_Alignments](https://design.withfudge.com/pin/7781) — [source page](typographyprinciples.obys.agency/intro_alignments/)
-- [Typography Principles](https://design.withfudge.com/pin/7780) — [source page](typographyprinciples.obys.agency/)
-- [Typography Principles — Fonts](https://design.withfudge.com/pin/7779) — [source page](typographyprinciples.obys.agency/fonts/)
-- [Typography Principles](https://design.withfudge.com/pin/7778) — [source page](typographyprinciples.obys.agency/)
+- [Typography Principles — Contrast](https://design.withfudge.com/pin/7785) — [source page](https://typographyprinciples.obys.agency/contrast/)
+- [Typography Principles — Contrast](https://design.withfudge.com/pin/7784) — [source page](https://typographyprinciples.obys.agency/contrast/)
+- [Typography Principles — Contrast](https://design.withfudge.com/pin/7783) — [source page](https://typographyprinciples.obys.agency/contrast/)
+- [Typography Principles — Contrast](https://design.withfudge.com/pin/7782) — [source page](https://typographyprinciples.obys.agency/contrast/)
+- [Typography Principles — Intro_Alignments](https://design.withfudge.com/pin/7781) — [source page](https://typographyprinciples.obys.agency/intro_alignments/)
+- [Typography Principles](https://design.withfudge.com/pin/7780) — [source page](https://typographyprinciples.obys.agency/)
+- [Typography Principles — Fonts](https://design.withfudge.com/pin/7779) — [source page](https://typographyprinciples.obys.agency/fonts/)
+- [Typography Principles](https://design.withfudge.com/pin/7778) — [source page](https://typographyprinciples.obys.agency/)

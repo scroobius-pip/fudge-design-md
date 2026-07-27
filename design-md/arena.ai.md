@@ -180,6 +180,6 @@ Here is the visual system observed across **3 captured pages** from [arena.ai](h
 ```
 
 ## References
-- [LLM Leaderboard - Best Text & Chat AI Models Compared](https://design.withfudge.com/pin/9344) — [source page](arena.ai/leaderboard/text)
-- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8747) — [source page](arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595)
-- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8746) — [source page](arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702)
+- [LLM Leaderboard - Best Text & Chat AI Models Compared](https://design.withfudge.com/pin/9344) — [source page](https://arena.ai/leaderboard/text)
+- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8747) — [source page](https://arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595)
+- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8746) — [source page](https://arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702)

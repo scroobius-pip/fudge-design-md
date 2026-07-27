@@ -109,4 +109,4 @@ Here is the visual system observed across **1 captured page** from [manychat.com
 ```
 
 ## References
-- [Chat Marketing Made Easy with Manychat](https://design.withfudge.com/pin/7658) — [source page](manychat.com/)
+- [Chat Marketing Made Easy with Manychat](https://design.withfudge.com/pin/7658) — [source page](https://manychat.com/)

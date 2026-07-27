@@ -319,11 +319,11 @@ Here is the visual system observed across **20 captured pages** from [lexingtont
 ```
 
 ## References
-- [Bastion - A construction theme for Astro & Tailwind CSS.](https://design.withfudge.com/pin/7744) — [source page](lexingtonthemes.com/templates/bastion)
-- [Trendspotter - A curation theme for Astro & Tailwind CSS](https://design.withfudge.com/pin/7076) — [source page](lexingtonthemes.com/templates/trendspotter)
-- [Lexingtonthemes.com - 404](https://design.withfudge.com/pin/6873) — [source page](lexingtonthemes.com/asdfas)
-- [Dusk - An event theme for Astro & Tailwind CSS.](https://design.withfudge.com/pin/6330) — [source page](lexingtonthemes.com/templates/dusk)
-- [Lexington Themes – Astro & Tailwind CSS Website Templates](https://design.withfudge.com/pin/6278) — [source page](lexingtonthemes.com/)
-- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6274) — [source page](lexingtonthemes.com/pricing)
-- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6273) — [source page](lexingtonthemes.com/pricing)
-- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6272) — [source page](lexingtonthemes.com/pricing)
+- [Bastion - A construction theme for Astro & Tailwind CSS.](https://design.withfudge.com/pin/7744) — [source page](https://lexingtonthemes.com/templates/bastion)
+- [Trendspotter - A curation theme for Astro & Tailwind CSS](https://design.withfudge.com/pin/7076) — [source page](https://lexingtonthemes.com/templates/trendspotter)
+- [Lexingtonthemes.com - 404](https://design.withfudge.com/pin/6873) — [source page](https://lexingtonthemes.com/asdfas)
+- [Dusk - An event theme for Astro & Tailwind CSS.](https://design.withfudge.com/pin/6330) — [source page](https://lexingtonthemes.com/templates/dusk)
+- [Lexington Themes – Astro & Tailwind CSS Website Templates](https://design.withfudge.com/pin/6278) — [source page](https://lexingtonthemes.com/)
+- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6274) — [source page](https://lexingtonthemes.com/pricing)
+- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6273) — [source page](https://lexingtonthemes.com/pricing)
+- [Lexingtonthemes.com - Pricing](https://design.withfudge.com/pin/6272) — [source page](https://lexingtonthemes.com/pricing)

@@ -186,11 +186,11 @@ Here is the visual system observed across **8 captured pages** from [app.reve.co
 ```
 
 ## References
-- [Account](https://design.withfudge.com/pin/8375) — [source page](app.reve.com/account)
-- [Reve](https://design.withfudge.com/pin/8374) — [source page](app.reve.com/home)
-- [Inspiration - Reve](https://design.withfudge.com/pin/8373) — [source page](app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients)
-- [Inspiration - Reve](https://design.withfudge.com/pin/8372) — [source page](app.reve.com/inspiration)
-- [Reve](https://design.withfudge.com/pin/8371) — [source page](app.reve.com/home)
-- [Reve Image - Pricing](https://design.withfudge.com/pin/8370) — [source page](app.reve.com/pricing)
-- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8369) — [source page](app.reve.com/)
-- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8368) — [source page](app.reve.com/)
+- [Account](https://design.withfudge.com/pin/8375) — [source page](https://app.reve.com/account)
+- [Reve](https://design.withfudge.com/pin/8374) — [source page](https://app.reve.com/home)
+- [Inspiration - Reve](https://design.withfudge.com/pin/8373) — [source page](https://app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients)
+- [Inspiration - Reve](https://design.withfudge.com/pin/8372) — [source page](https://app.reve.com/inspiration)
+- [Reve](https://design.withfudge.com/pin/8371) — [source page](https://app.reve.com/home)
+- [Reve Image - Pricing](https://design.withfudge.com/pin/8370) — [source page](https://app.reve.com/pricing)
+- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8369) — [source page](https://app.reve.com/)
+- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8368) — [source page](https://app.reve.com/)

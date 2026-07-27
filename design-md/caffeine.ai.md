@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [caffeine.ai
 ```
 
 ## References
-- [Caffeine - A Self-Writing Internet Technology](https://design.withfudge.com/pin/8830) — [source page](caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings)
-- [About Caffeine](https://design.withfudge.com/pin/7229) — [source page](caffeine.ai/info)
+- [Caffeine - A Self-Writing Internet Technology](https://design.withfudge.com/pin/8830) — [source page](https://caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings)
+- [About Caffeine](https://design.withfudge.com/pin/7229) — [source page](https://caffeine.ai/info)

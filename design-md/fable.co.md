@@ -316,11 +316,11 @@ Here is the visual system observed across **14 captured pages** from [fable.co](
 ```
 
 ## References
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6898) — [source page](fable.co/store)
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6896) — [source page](fable.co/store)
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6895) — [source page](fable.co/store)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6894) — [source page](fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6893) — [source page](fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6892) — [source page](fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6891) — [source page](fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/2208) — [source page](fable.co/)
+- [Fable | Stories for everyone](https://design.withfudge.com/pin/6898) — [source page](https://fable.co/store)
+- [Fable | Stories for everyone](https://design.withfudge.com/pin/6896) — [source page](https://fable.co/store)
+- [Fable | Stories for everyone](https://design.withfudge.com/pin/6895) — [source page](https://fable.co/store)
+- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6894) — [source page](https://fable.co/)
+- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6893) — [source page](https://fable.co/)
+- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6892) — [source page](https://fable.co/)
+- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6891) — [source page](https://fable.co/)
+- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/2208) — [source page](https://fable.co/)

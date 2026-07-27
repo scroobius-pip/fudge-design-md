@@ -342,11 +342,11 @@ Here is the visual system observed across **14 captured pages** from [parallel.a
 ```
 
 ## References
-- [Parallel](https://design.withfudge.com/pin/10439) — [source page](parallel.ai/)
-- [Parallel Quality Benchmarks | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6126) — [source page](parallel.ai/benchmarks)
-- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6125) — [source page](parallel.ai/pricing)
-- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6124) — [source page](parallel.ai/pricing)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6123) — [source page](parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6122) — [source page](parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6121) — [source page](parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6120) — [source page](parallel.ai/)
+- [Parallel](https://design.withfudge.com/pin/10439) — [source page](https://parallel.ai/)
+- [Parallel Quality Benchmarks | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6126) — [source page](https://parallel.ai/benchmarks)
+- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6125) — [source page](https://parallel.ai/pricing)
+- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6124) — [source page](https://parallel.ai/pricing)
+- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6123) — [source page](https://parallel.ai/)
+- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6122) — [source page](https://parallel.ai/)
+- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6121) — [source page](https://parallel.ai/)
+- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6120) — [source page](https://parallel.ai/)

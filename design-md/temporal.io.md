@@ -183,8 +183,8 @@ Here is the visual system observed across **5 captured pages** from [temporal.io
 ```
 
 ## References
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7545) — [source page](temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7544) — [source page](temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7543) — [source page](temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7542) — [source page](temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7541) — [source page](temporal.io/)
+- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7545) — [source page](https://temporal.io/)
+- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7544) — [source page](https://temporal.io/)
+- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7543) — [source page](https://temporal.io/)
+- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7542) — [source page](https://temporal.io/)
+- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7541) — [source page](https://temporal.io/)

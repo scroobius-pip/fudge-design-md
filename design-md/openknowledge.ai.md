@@ -315,11 +315,11 @@ Here is the visual system observed across **9 captured pages** from [openknowled
 ```
 
 ## References
-- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9812) — [source page](openknowledge.ai/docs/get-started/quickstart)
-- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9811) — [source page](openknowledge.ai/docs/get-started/quickstart)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9810) — [source page](openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9809) — [source page](openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9808) — [source page](openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9807) — [source page](openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9806) — [source page](openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9805) — [source page](openknowledge.ai/)
+- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9812) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
+- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9811) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9810) — [source page](https://openknowledge.ai/)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9809) — [source page](https://openknowledge.ai/)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9808) — [source page](https://openknowledge.ai/)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9807) — [source page](https://openknowledge.ai/)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9806) — [source page](https://openknowledge.ai/)
+- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9805) — [source page](https://openknowledge.ai/)

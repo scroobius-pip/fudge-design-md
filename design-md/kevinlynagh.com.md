@@ -81,4 +81,4 @@ Here is the visual system observed across **1 captured page** from [kevinlynagh.
 ```
 
 ## References
-- [Kevin's Newsletter](https://design.withfudge.com/pin/9037) — [source page](kevinlynagh.com/newsletter/)
+- [Kevin's Newsletter](https://design.withfudge.com/pin/9037) — [source page](https://kevinlynagh.com/newsletter/)

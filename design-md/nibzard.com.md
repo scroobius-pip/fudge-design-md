@@ -131,5 +131,5 @@ Here is the visual system observed across **2 captured pages** from [nibzard.com
 ```
 
 ## References
-- [nibzard - Home](https://design.withfudge.com/pin/5950) — [source page](nibzard.com/)
-- [nibzard - Home](https://design.withfudge.com/pin/5949) — [source page](nibzard.com/)
+- [nibzard - Home](https://design.withfudge.com/pin/5950) — [source page](https://nibzard.com/)
+- [nibzard - Home](https://design.withfudge.com/pin/5949) — [source page](https://nibzard.com/)

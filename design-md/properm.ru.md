@@ -99,5 +99,5 @@ Here is the visual system observed across **2 captured pages** from [properm.ru]
 ```
 
 ## References
-- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9166) — [source page](properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
-- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9165) — [source page](properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
+- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9166) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
+- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9165) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)

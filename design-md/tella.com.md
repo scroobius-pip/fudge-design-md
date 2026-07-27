@@ -243,10 +243,10 @@ Here is the visual system observed across **7 captured pages** from [tella.com](
 ```
 
 ## References
-- [Tella — Pricing](https://design.withfudge.com/pin/6354) — [source page](tella.com/pricing)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6353) — [source page](tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6352) — [source page](tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6351) — [source page](tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6350) — [source page](tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6349) — [source page](tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6348) — [source page](tella.com/)
+- [Tella — Pricing](https://design.withfudge.com/pin/6354) — [source page](https://tella.com/pricing)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6353) — [source page](https://tella.com/)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6352) — [source page](https://tella.com/)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6351) — [source page](https://tella.com/)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6350) — [source page](https://tella.com/)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6349) — [source page](https://tella.com/)
+- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6348) — [source page](https://tella.com/)

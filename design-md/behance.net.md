@@ -290,11 +290,11 @@ Here is the visual system observed across **10 captured pages** from [behance.ne
 ```
 
 ## References
-- [For You :: Behance](https://design.withfudge.com/pin/7320) — [source page](behance.net/)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7319) — [source page](behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7318) — [source page](behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7317) — [source page](behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7316) — [source page](behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7315) — [source page](behance.net/pro)
-- [For You :: Behance](https://design.withfudge.com/pin/7311) — [source page](behance.net/)
-- [Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/pin/5277) — [source page](behance.net/gallery/238894041/Pricing-List-Practice-Work-01)
+- [For You :: Behance](https://design.withfudge.com/pin/7320) — [source page](https://behance.net/)
+- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7319) — [source page](https://behance.net/pro)
+- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7318) — [source page](https://behance.net/pro)
+- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7317) — [source page](https://behance.net/pro)
+- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7316) — [source page](https://behance.net/pro)
+- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7315) — [source page](https://behance.net/pro)
+- [For You :: Behance](https://design.withfudge.com/pin/7311) — [source page](https://behance.net/)
+- [Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/pin/5277) — [source page](https://behance.net/gallery/238894041/Pricing-List-Practice-Work-01)

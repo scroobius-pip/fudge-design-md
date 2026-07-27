@@ -308,11 +308,11 @@ Here is the visual system observed across **12 captured pages** from [scenery.io
 ```
 
 ## References
-- [Scenery - Spin Me Around](https://design.withfudge.com/pin/9012) — [source page](scenery.io/scenes/spin-me-around-fmpMmxFfvFU/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9011) — [source page](scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9010) — [source page](scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7139) — [source page](scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7138) — [source page](scenery.io/)
-- [Login to Scenery](https://design.withfudge.com/pin/7137) — [source page](scenery.io/login)
-- [Scenery](https://design.withfudge.com/pin/7136) — [source page](scenery.io/scenes/)
-- [Scenery Patrons](https://design.withfudge.com/pin/7135) — [source page](scenery.io/patrons/)
+- [Scenery - Spin Me Around](https://design.withfudge.com/pin/9012) — [source page](https://scenery.io/scenes/spin-me-around-fmpMmxFfvFU/)
+- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9011) — [source page](https://scenery.io/)
+- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9010) — [source page](https://scenery.io/)
+- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7139) — [source page](https://scenery.io/)
+- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7138) — [source page](https://scenery.io/)
+- [Login to Scenery](https://design.withfudge.com/pin/7137) — [source page](https://scenery.io/login)
+- [Scenery](https://design.withfudge.com/pin/7136) — [source page](https://scenery.io/scenes/)
+- [Scenery Patrons](https://design.withfudge.com/pin/7135) — [source page](https://scenery.io/patrons/)

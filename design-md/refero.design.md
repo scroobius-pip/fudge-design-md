@@ -397,11 +397,11 @@ Here is the visual system observed across **14 captured pages** from [refero.des
 ```
 
 ## References
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9837) — [source page](refero.design/)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9685) — [source page](refero.design/)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9684) — [source page](refero.design/research/389302d4-86d9-497e-b0ef-af9e6e1b618a)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9683) — [source page](refero.design/)
-- [Refero — Search](https://design.withfudge.com/pin/7625) — [source page](refero.design/search)
-- [Refero — Search](https://design.withfudge.com/pin/7624) — [source page](refero.design/search)
-- [Refero — Search | iOS | | Billing & Plans](https://design.withfudge.com/pin/7623) — [source page](refero.design/apps/search)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/7622) — [source page](refero.design/)
+- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9837) — [source page](https://refero.design/)
+- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9685) — [source page](https://refero.design/)
+- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9684) — [source page](https://refero.design/research/389302d4-86d9-497e-b0ef-af9e6e1b618a)
+- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9683) — [source page](https://refero.design/)
+- [Refero — Search](https://design.withfudge.com/pin/7625) — [source page](https://refero.design/search)
+- [Refero — Search](https://design.withfudge.com/pin/7624) — [source page](https://refero.design/search)
+- [Refero — Search | iOS | | Billing & Plans](https://design.withfudge.com/pin/7623) — [source page](https://refero.design/apps/search)
+- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/7622) — [source page](https://refero.design/)

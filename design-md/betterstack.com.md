@@ -288,11 +288,11 @@ Here is the visual system observed across **11 captured pages** from [betterstac
 ```
 
 ## References
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7017) — [source page](betterstack.com/enterprise)
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7016) — [source page](betterstack.com/enterprise)
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7015) — [source page](betterstack.com/enterprise)
-- [Sign up | Better Stack](https://design.withfudge.com/pin/7014) — [source page](betterstack.com/users/sign-up)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7013) — [source page](betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7012) — [source page](betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7011) — [source page](betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7010) — [source page](betterstack.com/)
+- [Enterprise | Better Stack](https://design.withfudge.com/pin/7017) — [source page](https://betterstack.com/enterprise)
+- [Enterprise | Better Stack](https://design.withfudge.com/pin/7016) — [source page](https://betterstack.com/enterprise)
+- [Enterprise | Better Stack](https://design.withfudge.com/pin/7015) — [source page](https://betterstack.com/enterprise)
+- [Sign up | Better Stack](https://design.withfudge.com/pin/7014) — [source page](https://betterstack.com/users/sign-up)
+- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7013) — [source page](https://betterstack.com/)
+- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7012) — [source page](https://betterstack.com/)
+- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7011) — [source page](https://betterstack.com/)
+- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7010) — [source page](https://betterstack.com/)

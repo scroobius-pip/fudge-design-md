@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [piyushjain.i
 ```
 
 ## References
-- [Piyush Jain | Designer](https://design.withfudge.com/pin/8341) — [source page](piyushjain.in/)
+- [Piyush Jain | Designer](https://design.withfudge.com/pin/8341) — [source page](https://piyushjain.in/)

@@ -134,4 +134,4 @@ Here is the visual system observed across **1 captured page** from [seriot.ch](h
 ```
 
 ## References
-- [Jira IS Turing-Complete](https://design.withfudge.com/pin/9454) — [source page](seriot.ch/computation/jira.html)
+- [Jira IS Turing-Complete](https://design.withfudge.com/pin/9454) — [source page](https://seriot.ch/computation/jira.html)

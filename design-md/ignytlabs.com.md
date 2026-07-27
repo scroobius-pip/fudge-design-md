@@ -273,11 +273,11 @@ Here is the visual system observed across **10 captured pages** from [ignytlabs.
 ```
 
 ## References
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7064) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7063) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7062) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7061) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7060) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7059) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4972) — [source page](ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4971) — [source page](ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7064) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7063) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7062) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7061) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7060) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7059) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4972) — [source page](https://ignytlabs.com/)
+- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4971) — [source page](https://ignytlabs.com/)

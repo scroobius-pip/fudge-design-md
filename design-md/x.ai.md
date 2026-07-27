@@ -355,11 +355,11 @@ Here is the visual system observed across **12 captured pages** from [x.ai](http
 ```
 
 ## References
-- [Introducing Grok 4.5 | SpaceXAI](https://design.withfudge.com/pin/10438) — [source page](x.ai/news/grok-4-5)
-- [Careers: Build AI That Advances Humanity | xAI](https://design.withfudge.com/pin/9744) — [source page](x.ai/careers)
-- [Grok — Truth-seeking AI Chatbot with Voice & Image Generation | xAI](https://design.withfudge.com/pin/9743) — [source page](x.ai/grok)
-- [Grok — Truth-seeking AI Chatbot with Voice & Image Generation | xAI](https://design.withfudge.com/pin/9742) — [source page](x.ai/grok)
-- [xAI](https://design.withfudge.com/pin/9741) — [source page](x.ai/)
-- [Company: Accelerating Scientific Discovery | xAI](https://design.withfudge.com/pin/9422) — [source page](x.ai/company)
-- [Company: Accelerating Scientific Discovery | xAI](https://design.withfudge.com/pin/9421) — [source page](x.ai/company)
-- [Colossus: The World's Largest AI Supercomputer | xAI](https://design.withfudge.com/pin/9420) — [source page](x.ai/colossus)
+- [Introducing Grok 4.5 | SpaceXAI](https://design.withfudge.com/pin/10438) — [source page](https://x.ai/news/grok-4-5)
+- [Careers: Build AI That Advances Humanity | xAI](https://design.withfudge.com/pin/9744) — [source page](https://x.ai/careers)
+- [Grok — Truth-seeking AI Chatbot with Voice & Image Generation | xAI](https://design.withfudge.com/pin/9743) — [source page](https://x.ai/grok)
+- [Grok — Truth-seeking AI Chatbot with Voice & Image Generation | xAI](https://design.withfudge.com/pin/9742) — [source page](https://x.ai/grok)
+- [xAI](https://design.withfudge.com/pin/9741) — [source page](https://x.ai/)
+- [Company: Accelerating Scientific Discovery | xAI](https://design.withfudge.com/pin/9422) — [source page](https://x.ai/company)
+- [Company: Accelerating Scientific Discovery | xAI](https://design.withfudge.com/pin/9421) — [source page](https://x.ai/company)
+- [Colossus: The World's Largest AI Supercomputer | xAI](https://design.withfudge.com/pin/9420) — [source page](https://x.ai/colossus)

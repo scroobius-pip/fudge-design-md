@@ -277,11 +277,11 @@ Here is the visual system observed across **10 captured pages** from [palantir.c
 ```
 
 ## References
-- [Captured page 9369](https://design.withfudge.com/pin/9369) — [source page](palantir.com/)
-- [Palantir | Page Not Found](https://design.withfudge.com/pin/9368) — [source page](palantir.com/404)
-- [Palantir | Page Not Found](https://design.withfudge.com/pin/9367) — [source page](palantir.com/404)
-- [Home | Palantir](https://design.withfudge.com/pin/2345) — [source page](palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2344) — [source page](palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2343) — [source page](palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2342) — [source page](palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2341) — [source page](palantir.com/)
+- [Captured page 9369](https://design.withfudge.com/pin/9369) — [source page](https://palantir.com/)
+- [Palantir | Page Not Found](https://design.withfudge.com/pin/9368) — [source page](https://palantir.com/404)
+- [Palantir | Page Not Found](https://design.withfudge.com/pin/9367) — [source page](https://palantir.com/404)
+- [Home | Palantir](https://design.withfudge.com/pin/2345) — [source page](https://palantir.com/)
+- [Home | Palantir](https://design.withfudge.com/pin/2344) — [source page](https://palantir.com/)
+- [Home | Palantir](https://design.withfudge.com/pin/2343) — [source page](https://palantir.com/)
+- [Home | Palantir](https://design.withfudge.com/pin/2342) — [source page](https://palantir.com/)
+- [Home | Palantir](https://design.withfudge.com/pin/2341) — [source page](https://palantir.com/)

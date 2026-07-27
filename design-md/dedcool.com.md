@@ -318,11 +318,11 @@ Here is the visual system observed across **17 captured pages** from [dedcool.co
 ```
 
 ## References
-- [About – DedCool](https://design.withfudge.com/pin/6073) — [source page](dedcool.com/pages/about-us)
-- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6072) — [source page](dedcool.com/pages/rewards)
-- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6071) — [source page](dedcool.com/pages/rewards)
-- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6070) — [source page](dedcool.com/pages/rewards)
-- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6069) — [source page](dedcool.com/pages/rewards)
-- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6068) — [source page](dedcool.com/pages/rewards)
-- [Account – DedCool](https://design.withfudge.com/pin/6067) — [source page](dedcool.com/account/login)
-- [Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://design.withfudge.com/pin/6066) — [source page](dedcool.com/)
+- [About – DedCool](https://design.withfudge.com/pin/6073) — [source page](https://dedcool.com/pages/about-us)
+- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6072) — [source page](https://dedcool.com/pages/rewards)
+- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6071) — [source page](https://dedcool.com/pages/rewards)
+- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6070) — [source page](https://dedcool.com/pages/rewards)
+- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6069) — [source page](https://dedcool.com/pages/rewards)
+- [DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6068) — [source page](https://dedcool.com/pages/rewards)
+- [Account – DedCool](https://design.withfudge.com/pin/6067) — [source page](https://dedcool.com/account/login)
+- [Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://design.withfudge.com/pin/6066) — [source page](https://dedcool.com/)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [dfinity.org
 ```
 
 ## References
-- [The DFINITY Foundation](https://design.withfudge.com/pin/7231) — [source page](dfinity.org/)
-- [The DFINITY Foundation](https://design.withfudge.com/pin/7230) — [source page](dfinity.org/)
+- [The DFINITY Foundation](https://design.withfudge.com/pin/7231) — [source page](https://dfinity.org/)
+- [The DFINITY Foundation](https://design.withfudge.com/pin/7230) — [source page](https://dfinity.org/)

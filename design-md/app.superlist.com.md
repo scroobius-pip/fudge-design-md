@@ -82,5 +82,5 @@ Here is the visual system observed across **2 captured pages** from [app.superli
 ```
 
 ## References
-- [Superlist](https://design.withfudge.com/pin/8892) — [source page](app.superlist.com/inbox)
-- [Superlist](https://design.withfudge.com/pin/8891) — [source page](app.superlist.com/inbox)
+- [Superlist](https://design.withfudge.com/pin/8892) — [source page](https://app.superlist.com/inbox)
+- [Superlist](https://design.withfudge.com/pin/8891) — [source page](https://app.superlist.com/inbox)

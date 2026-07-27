@@ -147,6 +147,6 @@ Here is the visual system observed across **3 captured pages** from [predictions
 ```
 
 ## References
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6296) — [source page](predictions.paradigm.xyz/)
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6295) — [source page](predictions.paradigm.xyz/)
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6294) — [source page](predictions.paradigm.xyz/)
+- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6296) — [source page](https://predictions.paradigm.xyz/)
+- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6295) — [source page](https://predictions.paradigm.xyz/)
+- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6294) — [source page](https://predictions.paradigm.xyz/)

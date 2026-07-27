@@ -214,11 +214,11 @@ Here is the visual system observed across **8 captured pages** from [maxibestof.
 ```
 
 ## References
-- [Website design inspiration, layouts & similar websites](https://design.withfudge.com/pin/6226) — [source page](maxibestof.one/websites)
-- [Unlock Full Access](https://design.withfudge.com/pin/6225) — [source page](maxibestof.one/supporters)
-- [Unlock Full Access](https://design.withfudge.com/pin/6224) — [source page](maxibestof.one/supporters)
-- [Unlock Full Access](https://design.withfudge.com/pin/6223) — [source page](maxibestof.one/supporters)
-- [Become a Supporter](https://design.withfudge.com/pin/2811) — [source page](maxibestof.one/supporters)
-- [Become a Supporter](https://design.withfudge.com/pin/2810) — [source page](maxibestof.one/supporters)
-- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2809) — [source page](maxibestof.one/)
-- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2808) — [source page](maxibestof.one/)
+- [Website design inspiration, layouts & similar websites](https://design.withfudge.com/pin/6226) — [source page](https://maxibestof.one/websites)
+- [Unlock Full Access](https://design.withfudge.com/pin/6225) — [source page](https://maxibestof.one/supporters)
+- [Unlock Full Access](https://design.withfudge.com/pin/6224) — [source page](https://maxibestof.one/supporters)
+- [Unlock Full Access](https://design.withfudge.com/pin/6223) — [source page](https://maxibestof.one/supporters)
+- [Become a Supporter](https://design.withfudge.com/pin/2811) — [source page](https://maxibestof.one/supporters)
+- [Become a Supporter](https://design.withfudge.com/pin/2810) — [source page](https://maxibestof.one/supporters)
+- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2809) — [source page](https://maxibestof.one/)
+- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2808) — [source page](https://maxibestof.one/)

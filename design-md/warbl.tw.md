@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [warbl.tw](h
 ```
 
 ## References
-- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7680) — [source page](warbl.tw/)
-- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7679) — [source page](warbl.tw/)
+- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7680) — [source page](https://warbl.tw/)
+- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7679) — [source page](https://warbl.tw/)

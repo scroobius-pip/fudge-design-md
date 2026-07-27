@@ -176,9 +176,9 @@ Here is the visual system observed across **6 captured pages** from [soundcloud.
 ```
 
 ## References
-- [ACID WAVES by CRAFTHOOL](https://design.withfudge.com/pin/8707) — [source page](soundcloud.com/crafthool/acid)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5215) — [source page](soundcloud.com/)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5214) — [source page](soundcloud.com/)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5213) — [source page](soundcloud.com/)
-- [Stream Actual Source music | Listen to songs, albums, playlists for free on SoundCloud](https://design.withfudge.com/pin/5212) — [source page](soundcloud.com/actual-source)
-- [Your feed on SoundCloud](https://design.withfudge.com/pin/3003) — [source page](soundcloud.com/feed)
+- [ACID WAVES by CRAFTHOOL](https://design.withfudge.com/pin/8707) — [source page](https://soundcloud.com/crafthool/acid)
+- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5215) — [source page](https://soundcloud.com/)
+- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5214) — [source page](https://soundcloud.com/)
+- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5213) — [source page](https://soundcloud.com/)
+- [Stream Actual Source music | Listen to songs, albums, playlists for free on SoundCloud](https://design.withfudge.com/pin/5212) — [source page](https://soundcloud.com/actual-source)
+- [Your feed on SoundCloud](https://design.withfudge.com/pin/3003) — [source page](https://soundcloud.com/feed)

@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [pocketui.ap
 ```
 
 ## References
-- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9860) — [source page](pocketui.app/)
-- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9859) — [source page](pocketui.app/)
+- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9860) — [source page](https://pocketui.app/)
+- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9859) — [source page](https://pocketui.app/)

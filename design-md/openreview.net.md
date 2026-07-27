@@ -136,4 +136,4 @@ Here is the visual system observed across **1 captured page** from [openreview.n
 ```
 
 ## References
-- [Can Large Language Models Understand Symbolic Graphics Programs? | OpenReview](https://design.withfudge.com/pin/9915) — [source page](openreview.net/forum)
+- [Can Large Language Models Understand Symbolic Graphics Programs? | OpenReview](https://design.withfudge.com/pin/9915) — [source page](https://openreview.net/forum)

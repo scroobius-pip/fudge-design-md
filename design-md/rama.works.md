@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [rama.works]
 ```
 
 ## References
-- [RAMA WORKS®](https://design.withfudge.com/pin/7933) — [source page](rama.works/)
-- [RAMA WORKS®](https://design.withfudge.com/pin/7932) — [source page](rama.works/)
+- [RAMA WORKS®](https://design.withfudge.com/pin/7933) — [source page](https://rama.works/)
+- [RAMA WORKS®](https://design.withfudge.com/pin/7932) — [source page](https://rama.works/)

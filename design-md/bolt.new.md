@@ -147,7 +147,7 @@ Here is the visual system observed across **4 captured pages** from [bolt.new](h
 ```
 
 ## References
-- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6002) — [source page](bolt.new/~/sb1-mt1pgazi)
-- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6001) — [source page](bolt.new/~/sb1-mt1pgazi)
-- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6000) — [source page](bolt.new/)
-- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/5999) — [source page](bolt.new/)
+- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6002) — [source page](https://bolt.new/~/sb1-mt1pgazi)
+- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6001) — [source page](https://bolt.new/~/sb1-mt1pgazi)
+- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6000) — [source page](https://bolt.new/)
+- [Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/5999) — [source page](https://bolt.new/)

@@ -117,5 +117,5 @@ Here is the visual system observed across **2 captured pages** from [drkst.frame
 ```
 
 ## References
-- [Drkst®](https://design.withfudge.com/pin/9029) — [source page](drkst.framer.website/)
-- [Drkst®](https://design.withfudge.com/pin/5589) — [source page](drkst.framer.website/)
+- [Drkst®](https://design.withfudge.com/pin/9029) — [source page](https://drkst.framer.website/)
+- [Drkst®](https://design.withfudge.com/pin/5589) — [source page](https://drkst.framer.website/)

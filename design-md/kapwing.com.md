@@ -228,11 +228,11 @@ Here is the visual system observed across **8 captured pages** from [kapwing.com
 ```
 
 ## References
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7907) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7906) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7905) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7904) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7903) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7902) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7901) — [source page](kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7900) — [source page](kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7907) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7906) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7905) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7904) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7903) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7902) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7901) — [source page](https://kapwing.com/)
+- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7900) — [source page](https://kapwing.com/)

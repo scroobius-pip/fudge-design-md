@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [ads.pintere
 ```
 
 ## References
-- [(2) Pinterest](https://design.withfudge.com/pin/7070) — [source page](ads.pinterest.com/advertiser/549769598879/ads/create/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7069) — [source page](ads.pinterest.com/advertiser/549769598879/ads/create/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7068) — [source page](ads.pinterest.com/advertiser/549769598879/ads/create/)
+- [(2) Pinterest](https://design.withfudge.com/pin/7070) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
+- [(2) Pinterest](https://design.withfudge.com/pin/7069) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
+- [(2) Pinterest](https://design.withfudge.com/pin/7068) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)

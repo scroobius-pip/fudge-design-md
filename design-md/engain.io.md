@@ -110,4 +110,4 @@ Here is the visual system observed across **1 captured page** from [engain.io](h
 ```
 
 ## References
-- [Engain - The AI-Powered Reddit Organic Marketing Software](https://design.withfudge.com/pin/10191) — [source page](engain.io/)
+- [Engain - The AI-Powered Reddit Organic Marketing Software](https://design.withfudge.com/pin/10191) — [source page](https://engain.io/)

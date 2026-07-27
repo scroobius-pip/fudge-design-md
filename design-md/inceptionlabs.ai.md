@@ -364,11 +364,11 @@ Here is the visual system observed across **15 captured pages** from [inceptionl
 ```
 
 ## References
-- [Our Models – Inception](https://design.withfudge.com/pin/8042) — [source page](inceptionlabs.ai/models)
-- [About – Inception](https://design.withfudge.com/pin/7215) — [source page](inceptionlabs.ai/about)
-- [Our Models – Inception](https://design.withfudge.com/pin/7214) — [source page](inceptionlabs.ai/models)
-- [Enterprise – Inception](https://design.withfudge.com/pin/7213) — [source page](inceptionlabs.ai/enterprise)
-- [Enterprise – Inception](https://design.withfudge.com/pin/7212) — [source page](inceptionlabs.ai/enterprise)
-- [Enterprise – Inception](https://design.withfudge.com/pin/7211) — [source page](inceptionlabs.ai/enterprise)
-- [Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7210) — [source page](inceptionlabs.ai/)
-- [Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7209) — [source page](inceptionlabs.ai/)
+- [Our Models – Inception](https://design.withfudge.com/pin/8042) — [source page](https://inceptionlabs.ai/models)
+- [About – Inception](https://design.withfudge.com/pin/7215) — [source page](https://inceptionlabs.ai/about)
+- [Our Models – Inception](https://design.withfudge.com/pin/7214) — [source page](https://inceptionlabs.ai/models)
+- [Enterprise – Inception](https://design.withfudge.com/pin/7213) — [source page](https://inceptionlabs.ai/enterprise)
+- [Enterprise – Inception](https://design.withfudge.com/pin/7212) — [source page](https://inceptionlabs.ai/enterprise)
+- [Enterprise – Inception](https://design.withfudge.com/pin/7211) — [source page](https://inceptionlabs.ai/enterprise)
+- [Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7210) — [source page](https://inceptionlabs.ai/)
+- [Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7209) — [source page](https://inceptionlabs.ai/)

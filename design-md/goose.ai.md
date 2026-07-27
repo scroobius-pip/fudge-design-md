@@ -174,7 +174,7 @@ Here is the visual system observed across **4 captured pages** from [goose.ai](h
 ```
 
 ## References
-- [GooseAI](https://design.withfudge.com/pin/6494) — [source page](goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6493) — [source page](goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6492) — [source page](goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6491) — [source page](goose.ai/)
+- [GooseAI](https://design.withfudge.com/pin/6494) — [source page](https://goose.ai/)
+- [GooseAI](https://design.withfudge.com/pin/6493) — [source page](https://goose.ai/)
+- [GooseAI](https://design.withfudge.com/pin/6492) — [source page](https://goose.ai/)
+- [GooseAI](https://design.withfudge.com/pin/6491) — [source page](https://goose.ai/)

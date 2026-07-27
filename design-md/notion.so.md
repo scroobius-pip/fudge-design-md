@@ -231,11 +231,11 @@ Here is the visual system observed across **9 captured pages** from [notion.so](
 ```
 
 ## References
-- [Font of Web | Notion](https://design.withfudge.com/pin/9217) — [source page](notion.so/fontofwebsponsorship/Font-of-Web-875c921acd8d419488899ddb29f5850a)
-- [Whisp OS | Notion](https://design.withfudge.com/pin/9062) — [source page](notion.so/fontofwebsponsorship/Whisp-OS-1b45348bcddb80eba7bfdbe7b087d8d5)
-- [Home | Notion](https://design.withfudge.com/pin/6779) — [source page](notion.so/a531cadad9ca4cf49ca63ecdd60357a5)
-- [Onboarding](https://design.withfudge.com/pin/5254) — [source page](notion.so/onboarding)
-- [Onboarding](https://design.withfudge.com/pin/5253) — [source page](notion.so/onboarding)
-- [Onboarding](https://design.withfudge.com/pin/5252) — [source page](notion.so/onboarding)
-- [Font of Web](https://design.withfudge.com/pin/4090) — [source page](notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
-- [Font of Web](https://design.withfudge.com/pin/4089) — [source page](notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+- [Font of Web | Notion](https://design.withfudge.com/pin/9217) — [source page](https://notion.so/fontofwebsponsorship/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+- [Whisp OS | Notion](https://design.withfudge.com/pin/9062) — [source page](https://notion.so/fontofwebsponsorship/Whisp-OS-1b45348bcddb80eba7bfdbe7b087d8d5)
+- [Home | Notion](https://design.withfudge.com/pin/6779) — [source page](https://notion.so/a531cadad9ca4cf49ca63ecdd60357a5)
+- [Onboarding](https://design.withfudge.com/pin/5254) — [source page](https://notion.so/onboarding)
+- [Onboarding](https://design.withfudge.com/pin/5253) — [source page](https://notion.so/onboarding)
+- [Onboarding](https://design.withfudge.com/pin/5252) — [source page](https://notion.so/onboarding)
+- [Font of Web](https://design.withfudge.com/pin/4090) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+- [Font of Web](https://design.withfudge.com/pin/4089) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)

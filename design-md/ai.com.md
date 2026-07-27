@@ -76,4 +76,4 @@ Here is the visual system observed across **1 captured page** from [ai.com](http
 ```
 
 ## References
-- [AI Agents That Can Do Anything You Can - ai.com](https://design.withfudge.com/pin/6338) — [source page](ai.com/start)
+- [AI Agents That Can Do Anything You Can - ai.com](https://design.withfudge.com/pin/6338) — [source page](https://ai.com/start)

@@ -329,11 +329,11 @@ Here is the visual system observed across **26 captured pages** from [ahrefs.com
 ```
 
 ## References
-- [Plans & Pricing - Ahrefs](https://design.withfudge.com/pin/7050) — [source page](ahrefs.com/pricing)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7049) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7048) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7047) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7046) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7045) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7044) — [source page](ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7043) — [source page](ahrefs.com/)
+- [Plans & Pricing - Ahrefs](https://design.withfudge.com/pin/7050) — [source page](https://ahrefs.com/pricing)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7049) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7048) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7047) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7046) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7045) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7044) — [source page](https://ahrefs.com/)
+- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7043) — [source page](https://ahrefs.com/)

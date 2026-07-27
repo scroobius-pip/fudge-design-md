@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [oasishealth
 ```
 
 ## References
-- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8462) — [source page](oasishealth.app/)
-- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8461) — [source page](oasishealth.app/)
+- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8462) — [source page](https://oasishealth.app/)
+- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8461) — [source page](https://oasishealth.app/)

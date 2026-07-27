@@ -241,11 +241,11 @@ Here is the visual system observed across **8 captured pages** from [getkleio.co
 ```
 
 ## References
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7328) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7327) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7326) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7325) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7324) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7323) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7322) — [source page](getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7321) — [source page](getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7328) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7327) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7326) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7325) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7324) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7323) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7322) — [source page](https://getkleio.com/)
+- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7321) — [source page](https://getkleio.com/)

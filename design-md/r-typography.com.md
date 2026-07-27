@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [r-typography
 ```
 
 ## References
-- [ABOUT R-TYPOGRAPHY | R-Typography](https://design.withfudge.com/pin/6845) — [source page](r-typography.com/about)
+- [ABOUT R-TYPOGRAPHY | R-Typography](https://design.withfudge.com/pin/6845) — [source page](https://r-typography.com/about)

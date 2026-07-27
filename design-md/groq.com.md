@@ -182,8 +182,8 @@ Here is the visual system observed across **5 captured pages** from [groq.com](h
 ```
 
 ## References
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9482) — [source page](groq.com/pricing)
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9481) — [source page](groq.com/pricing)
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9480) — [source page](groq.com/pricing)
-- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9479) — [source page](groq.com/)
-- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9478) — [source page](groq.com/)
+- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9482) — [source page](https://groq.com/pricing)
+- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9481) — [source page](https://groq.com/pricing)
+- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9480) — [source page](https://groq.com/pricing)
+- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9479) — [source page](https://groq.com/)
+- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9478) — [source page](https://groq.com/)

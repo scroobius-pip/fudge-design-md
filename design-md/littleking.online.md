@@ -94,4 +94,4 @@ Here is the visual system observed across **1 captured page** from [littleking.o
 ```
 
 ## References
-- [About – Little King](https://design.withfudge.com/pin/8342) — [source page](littleking.online/pages/about-us)
+- [About – Little King](https://design.withfudge.com/pin/8342) — [source page](https://littleking.online/pages/about-us)

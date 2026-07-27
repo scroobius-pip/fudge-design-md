@@ -354,11 +354,11 @@ Here is the visual system observed across **11 captured pages** from [kagi.com](
 ```
 
 ## References
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9413) — [source page](kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9412) — [source page](kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9411) — [source page](kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9410) — [source page](kagi.com/pricing)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9409) — [source page](kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9408) — [source page](kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9407) — [source page](kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9406) — [source page](kagi.com/)
+- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9413) — [source page](https://kagi.com/pricing)
+- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9412) — [source page](https://kagi.com/pricing)
+- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9411) — [source page](https://kagi.com/pricing)
+- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9410) — [source page](https://kagi.com/pricing)
+- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9409) — [source page](https://kagi.com/)
+- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9408) — [source page](https://kagi.com/)
+- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9407) — [source page](https://kagi.com/)
+- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9406) — [source page](https://kagi.com/)

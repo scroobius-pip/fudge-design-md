@@ -148,4 +148,4 @@ Here is the visual system observed across **1 captured page** from [unconv.ai](h
 ```
 
 ## References
-- [Unconventional AI](https://design.withfudge.com/pin/9803) — [source page](unconv.ai/)
+- [Unconventional AI](https://design.withfudge.com/pin/9803) — [source page](https://unconv.ai/)

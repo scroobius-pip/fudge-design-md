@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [finance.yaho
 ```
 
 ## References
-- [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://design.withfudge.com/pin/7828) — [source page](finance.yahoo.com/)
+- [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://design.withfudge.com/pin/7828) — [source page](https://finance.yahoo.com/)

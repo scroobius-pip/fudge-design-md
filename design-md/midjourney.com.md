@@ -294,11 +294,11 @@ Here is the visual system observed across **12 captured pages** from [midjourney
 ```
 
 ## References
-- [Explore](https://design.withfudge.com/pin/7958) — [source page](midjourney.com/explore)
-- [Explore](https://design.withfudge.com/pin/7957) — [source page](midjourney.com/jobs/de658947-01a7-4458-a4d9-9b895c53b39c)
-- [Midjourney](https://design.withfudge.com/pin/7956) — [source page](midjourney.com/home)
-- [Updates](https://design.withfudge.com/pin/4939) — [source page](midjourney.com/updates)
-- [Updates](https://design.withfudge.com/pin/4938) — [source page](midjourney.com/updates)
-- [Explore](https://design.withfudge.com/pin/4937) — [source page](midjourney.com/@simdi)
-- [Explore](https://design.withfudge.com/pin/4936) — [source page](midjourney.com/@simdi)
-- [Explore](https://design.withfudge.com/pin/4935) — [source page](midjourney.com/@u5682978487)
+- [Explore](https://design.withfudge.com/pin/7958) — [source page](https://midjourney.com/explore)
+- [Explore](https://design.withfudge.com/pin/7957) — [source page](https://midjourney.com/jobs/de658947-01a7-4458-a4d9-9b895c53b39c)
+- [Midjourney](https://design.withfudge.com/pin/7956) — [source page](https://midjourney.com/home)
+- [Updates](https://design.withfudge.com/pin/4939) — [source page](https://midjourney.com/updates)
+- [Updates](https://design.withfudge.com/pin/4938) — [source page](https://midjourney.com/updates)
+- [Explore](https://design.withfudge.com/pin/4937) — [source page](https://midjourney.com/@simdi)
+- [Explore](https://design.withfudge.com/pin/4936) — [source page](https://midjourney.com/@simdi)
+- [Explore](https://design.withfudge.com/pin/4935) — [source page](https://midjourney.com/@u5682978487)

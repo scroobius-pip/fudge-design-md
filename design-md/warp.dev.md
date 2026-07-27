@@ -340,11 +340,11 @@ Here is the visual system observed across **25 captured pages** from [warp.dev](
 ```
 
 ## References
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6774) — [source page](warp.dev/)
-- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6773) — [source page](warp.dev/pricing)
-- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6772) — [source page](warp.dev/pricing)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6771) — [source page](warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6770) — [source page](warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6769) — [source page](warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6768) — [source page](warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6767) — [source page](warp.dev/)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6774) — [source page](https://warp.dev/)
+- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6773) — [source page](https://warp.dev/pricing)
+- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6772) — [source page](https://warp.dev/pricing)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6771) — [source page](https://warp.dev/)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6770) — [source page](https://warp.dev/)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6769) — [source page](https://warp.dev/)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6768) — [source page](https://warp.dev/)
+- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6767) — [source page](https://warp.dev/)

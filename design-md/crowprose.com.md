@@ -102,5 +102,5 @@ Here is the visual system observed across **2 captured pages** from [crowprose.c
 ```
 
 ## References
-- [Writing | Joe McKenney](https://design.withfudge.com/pin/6283) — [source page](crowprose.com/blog/)
-- [Competence as Tragedy](https://design.withfudge.com/pin/6282) — [source page](crowprose.com/blog/competence-as-tragedy/)
+- [Writing | Joe McKenney](https://design.withfudge.com/pin/6283) — [source page](https://crowprose.com/blog/)
+- [Competence as Tragedy](https://design.withfudge.com/pin/6282) — [source page](https://crowprose.com/blog/competence-as-tragedy/)

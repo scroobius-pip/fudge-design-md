@@ -163,7 +163,7 @@ Here is the visual system observed across **4 captured pages** from [neobrowser.
 ```
 
 ## References
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8667) — [source page](neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8666) — [source page](neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8665) — [source page](neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8664) — [source page](neobrowser.ai/)
+- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8667) — [source page](https://neobrowser.ai/)
+- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8666) — [source page](https://neobrowser.ai/)
+- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8665) — [source page](https://neobrowser.ai/)
+- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8664) — [source page](https://neobrowser.ai/)

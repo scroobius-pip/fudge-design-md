@@ -216,9 +216,9 @@ Here is the visual system observed across **6 captured pages** from [getmesa.dev
 ```
 
 ## References
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8058) — [source page](getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8057) — [source page](getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8056) — [source page](getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8055) — [source page](getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8054) — [source page](getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8053) — [source page](getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8058) — [source page](https://getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8057) — [source page](https://getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8056) — [source page](https://getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8055) — [source page](https://getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8054) — [source page](https://getmesa.dev/)
+- [Mesa — The canvas for code](https://design.withfudge.com/pin/8053) — [source page](https://getmesa.dev/)

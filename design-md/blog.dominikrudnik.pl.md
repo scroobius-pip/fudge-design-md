@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [blog.dominik
 ```
 
 ## References
-- [Qikcik Blog](https://design.withfudge.com/pin/8232) — [source page](blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
+- [Qikcik Blog](https://design.withfudge.com/pin/8232) — [source page](https://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)

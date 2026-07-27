@@ -415,11 +415,11 @@ Here is the visual system observed across **20 captured pages** from [pangram.co
 ```
 
 ## References
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9705) — [source page](pangram.com/dashboard)
-- [AI Detection API | Pangram Labs](https://design.withfudge.com/pin/9704) — [source page](pangram.com/solutions/api)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9703) — [source page](pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9702) — [source page](pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9701) — [source page](pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9700) — [source page](pangram.com/plan)
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9699) — [source page](pangram.com/dashboard)
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9698) — [source page](pangram.com/dashboard)
+- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9705) — [source page](https://pangram.com/dashboard)
+- [AI Detection API | Pangram Labs](https://design.withfudge.com/pin/9704) — [source page](https://pangram.com/solutions/api)
+- [Plan | Pangram Labs](https://design.withfudge.com/pin/9703) — [source page](https://pangram.com/plan)
+- [Plan | Pangram Labs](https://design.withfudge.com/pin/9702) — [source page](https://pangram.com/plan)
+- [Plan | Pangram Labs](https://design.withfudge.com/pin/9701) — [source page](https://pangram.com/plan)
+- [Plan | Pangram Labs](https://design.withfudge.com/pin/9700) — [source page](https://pangram.com/plan)
+- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9699) — [source page](https://pangram.com/dashboard)
+- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9698) — [source page](https://pangram.com/dashboard)

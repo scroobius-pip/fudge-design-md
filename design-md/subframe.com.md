@@ -346,11 +346,11 @@ Here is the visual system observed across **27 captured pages** from [subframe.c
 ```
 
 ## References
-- [Subframe - Tailwind CSS Components](https://design.withfudge.com/pin/7662) — [source page](subframe.com/library/overview)
-- [Subframe - Tailwind CSS Templates](https://design.withfudge.com/pin/7602) — [source page](subframe.com/templates)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6467) — [source page](subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6466) — [source page](subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6465) — [source page](subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6464) — [source page](subframe.com/design-systems)
-- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6463) — [source page](subframe.com/)
-- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6462) — [source page](subframe.com/)
+- [Subframe - Tailwind CSS Components](https://design.withfudge.com/pin/7662) — [source page](https://subframe.com/library/overview)
+- [Subframe - Tailwind CSS Templates](https://design.withfudge.com/pin/7602) — [source page](https://subframe.com/templates)
+- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6467) — [source page](https://subframe.com/design-systems)
+- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6466) — [source page](https://subframe.com/design-systems)
+- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6465) — [source page](https://subframe.com/design-systems)
+- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6464) — [source page](https://subframe.com/design-systems)
+- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6463) — [source page](https://subframe.com/)
+- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6462) — [source page](https://subframe.com/)

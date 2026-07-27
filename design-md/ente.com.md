@@ -308,11 +308,11 @@ Here is the visual system observed across **11 captured pages** from [ente.com](
 ```
 
 ## References
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8463) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8385) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8384) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8383) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8382) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8381) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8380) — [source page](ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8379) — [source page](ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8463) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8385) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8384) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8383) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8382) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8381) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8380) — [source page](https://ente.com/)
+- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8379) — [source page](https://ente.com/)

@@ -106,5 +106,5 @@ Here is the visual system observed across **2 captured pages** from [tokens.stud
 ```
 
 ## References
-- [Design systems, fully automated | Tokens Studio](https://design.withfudge.com/pin/5915) — [source page](tokens.studio/)
-- [Logic-first tokens for scalable design systems | Tokens Studio](https://design.withfudge.com/pin/5913) — [source page](tokens.studio/studio-platform)
+- [Design systems, fully automated | Tokens Studio](https://design.withfudge.com/pin/5915) — [source page](https://tokens.studio/)
+- [Logic-first tokens for scalable design systems | Tokens Studio](https://design.withfudge.com/pin/5913) — [source page](https://tokens.studio/studio-platform)

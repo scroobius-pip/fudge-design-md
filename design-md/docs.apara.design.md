@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [docs.apara.
 ```
 
 ## References
-- [Apara Docs](https://design.withfudge.com/pin/7987) — [source page](docs.apara.design/terms-and-condition)
-- [Apara Docs](https://design.withfudge.com/pin/7986) — [source page](docs.apara.design/)
+- [Apara Docs](https://design.withfudge.com/pin/7987) — [source page](https://docs.apara.design/terms-and-condition)
+- [Apara Docs](https://design.withfudge.com/pin/7986) — [source page](https://docs.apara.design/)

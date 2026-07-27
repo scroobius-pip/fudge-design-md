@@ -326,11 +326,11 @@ Here is the visual system observed across **16 captured pages** from [stripe.dev
 ```
 
 ## References
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6883) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6882) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6881) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6880) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6879) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6878) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6877) — [source page](stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6876) — [source page](stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6883) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6882) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6881) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6880) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6879) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6878) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6877) — [source page](https://stripe.dev/)
+- [Stripe Dot Dev](https://design.withfudge.com/pin/6876) — [source page](https://stripe.dev/)

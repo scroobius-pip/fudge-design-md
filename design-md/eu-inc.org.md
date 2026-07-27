@@ -159,5 +159,5 @@ Here is the visual system observed across **2 captured pages** from [eu-inc.org]
 ```
 
 ## References
-- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8207) — [source page](eu-inc.org/)
-- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8206) — [source page](eu-inc.org/)
+- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8207) — [source page](https://eu-inc.org/)
+- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8206) — [source page](https://eu-inc.org/)

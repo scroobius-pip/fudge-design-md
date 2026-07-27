@@ -212,6 +212,6 @@ Here is the visual system observed across **3 captured pages** from [neubrutalis
 ```
 
 ## References
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9977) — [source page](neubrutalism.com/)
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9976) — [source page](neubrutalism.com/)
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9975) — [source page](neubrutalism.com/)
+- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9977) — [source page](https://neubrutalism.com/)
+- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9976) — [source page](https://neubrutalism.com/)
+- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9975) — [source page](https://neubrutalism.com/)

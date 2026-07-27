@@ -93,4 +93,4 @@ Here is the visual system observed across **1 captured page** from [hungryram.co
 ```
 
 ## References
-- [Custom Web Design and SEO Agency | Hungry Ram](https://design.withfudge.com/pin/8578) — [source page](hungryram.com/)
+- [Custom Web Design and SEO Agency | Hungry Ram](https://design.withfudge.com/pin/8578) — [source page](https://hungryram.com/)

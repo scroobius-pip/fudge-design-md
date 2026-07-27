@@ -131,4 +131,4 @@ Here is the visual system observed across **1 captured page** from [fergusfinn.c
 ```
 
 ## References
-- [The economics of speculative decoding](https://design.withfudge.com/pin/9550) — [source page](fergusfinn.com/blog/economics-of-speculative-decoding/)
+- [The economics of speculative decoding](https://design.withfudge.com/pin/9550) — [source page](https://fergusfinn.com/blog/economics-of-speculative-decoding/)

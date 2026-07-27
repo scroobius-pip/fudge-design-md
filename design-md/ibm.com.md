@@ -315,11 +315,11 @@ Here is the visual system observed across **33 captured pages** from [ibm.com](h
 ```
 
 ## References
-- [Services from IBM](https://design.withfudge.com/pin/6555) — [source page](ibm.com/services)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6554) — [source page](ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6553) — [source page](ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6552) — [source page](ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6551) — [source page](ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6550) — [source page](ibm.com/consulting)
-- [IBM](https://design.withfudge.com/pin/6549) — [source page](ibm.com/us-en)
-- [IBM](https://design.withfudge.com/pin/6548) — [source page](ibm.com/us-en)
+- [Services from IBM](https://design.withfudge.com/pin/6555) — [source page](https://ibm.com/services)
+- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6554) — [source page](https://ibm.com/consulting)
+- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6553) — [source page](https://ibm.com/consulting)
+- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6552) — [source page](https://ibm.com/consulting)
+- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6551) — [source page](https://ibm.com/consulting)
+- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6550) — [source page](https://ibm.com/consulting)
+- [IBM](https://design.withfudge.com/pin/6549) — [source page](https://ibm.com/us-en)
+- [IBM](https://design.withfudge.com/pin/6548) — [source page](https://ibm.com/us-en)

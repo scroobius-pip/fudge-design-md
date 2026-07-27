@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [carcard.ari
 ```
 
 ## References
-- [CarCard — Digitize your business cards](https://design.withfudge.com/pin/7745) — [source page](carcard.arible.co/)
-- [CardScanner — Digitize your business cards](https://design.withfudge.com/pin/7743) — [source page](carcard.arible.co/)
+- [CarCard — Digitize your business cards](https://design.withfudge.com/pin/7745) — [source page](https://carcard.arible.co/)
+- [CardScanner — Digitize your business cards](https://design.withfudge.com/pin/7743) — [source page](https://carcard.arible.co/)

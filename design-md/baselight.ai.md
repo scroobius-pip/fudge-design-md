@@ -247,10 +247,10 @@ Here is the visual system observed across **7 captured pages** from [baselight.a
 ```
 
 ## References
-- [Baselight Data Catalog | Explore and Query Global Structured Datasets](https://design.withfudge.com/pin/7854) — [source page](baselight.ai/catalog/)
-- [Pricing - Baselight](https://design.withfudge.com/pin/7853) — [source page](baselight.ai/pricing/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7852) — [source page](baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7851) — [source page](baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7850) — [source page](baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7849) — [source page](baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7848) — [source page](baselight.ai/)
+- [Baselight Data Catalog | Explore and Query Global Structured Datasets](https://design.withfudge.com/pin/7854) — [source page](https://baselight.ai/catalog/)
+- [Pricing - Baselight](https://design.withfudge.com/pin/7853) — [source page](https://baselight.ai/pricing/)
+- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7852) — [source page](https://baselight.ai/)
+- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7851) — [source page](https://baselight.ai/)
+- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7850) — [source page](https://baselight.ai/)
+- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7849) — [source page](https://baselight.ai/)
+- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7848) — [source page](https://baselight.ai/)

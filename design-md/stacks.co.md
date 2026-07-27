@@ -155,6 +155,6 @@ Here is the visual system observed across **3 captured pages** from [stacks.co](
 ```
 
 ## References
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7976) — [source page](stacks.co/explore/ecosystem)
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7975) — [source page](stacks.co/explore/ecosystem)
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7974) — [source page](stacks.co/explore/ecosystem)
+- [Stacks Ecosystem](https://design.withfudge.com/pin/7976) — [source page](https://stacks.co/explore/ecosystem)
+- [Stacks Ecosystem](https://design.withfudge.com/pin/7975) — [source page](https://stacks.co/explore/ecosystem)
+- [Stacks Ecosystem](https://design.withfudge.com/pin/7974) — [source page](https://stacks.co/explore/ecosystem)

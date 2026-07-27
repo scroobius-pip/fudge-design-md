@@ -205,9 +205,9 @@ Here is the visual system observed across **6 captured pages** from [bland.ai](h
 ```
 
 ## References
-- [Pricing | Bland AI](https://design.withfudge.com/pin/9670) — [source page](bland.ai/pricing)
-- [Pricing | Bland AI](https://design.withfudge.com/pin/9669) — [source page](bland.ai/pricing)
-- [Book a demo | Bland AI](https://design.withfudge.com/pin/9668) — [source page](bland.ai/book-a-demo)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9667) — [source page](bland.ai/)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9666) — [source page](bland.ai/)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9665) — [source page](bland.ai/)
+- [Pricing | Bland AI](https://design.withfudge.com/pin/9670) — [source page](https://bland.ai/pricing)
+- [Pricing | Bland AI](https://design.withfudge.com/pin/9669) — [source page](https://bland.ai/pricing)
+- [Book a demo | Bland AI](https://design.withfudge.com/pin/9668) — [source page](https://bland.ai/book-a-demo)
+- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9667) — [source page](https://bland.ai/)
+- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9666) — [source page](https://bland.ai/)
+- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9665) — [source page](https://bland.ai/)

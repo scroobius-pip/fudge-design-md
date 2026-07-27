@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [getflowy.app
 ```
 
 ## References
-- [flowy - automatically animated Mac screen recordings](https://design.withfudge.com/pin/6489) — [source page](getflowy.app/)
+- [flowy - automatically animated Mac screen recordings](https://design.withfudge.com/pin/6489) — [source page](https://getflowy.app/)

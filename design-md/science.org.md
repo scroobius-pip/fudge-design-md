@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [science.org]
 ```
 
 ## References
-- [Science Advances | AAAS](https://design.withfudge.com/pin/8192) — [source page](science.org/journal/sciadv)
+- [Science Advances | AAAS](https://design.withfudge.com/pin/8192) — [source page](https://science.org/journal/sciadv)

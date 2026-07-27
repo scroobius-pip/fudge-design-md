@@ -340,11 +340,11 @@ Here is the visual system observed across **19 captured pages** from [teenage.en
 ```
 
 ## References
-- [now - teenage engineering](https://design.withfudge.com/pin/10227) — [source page](teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10226) — [source page](teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10225) — [source page](teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10224) — [source page](teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10223) — [source page](teenage.engineering/now)
-- [teenage engineering](https://design.withfudge.com/pin/8706) — [source page](teenage.engineering/)
-- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8074) — [source page](teenage.engineering/products/op-1)
-- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8073) — [source page](teenage.engineering/products/op-1)
+- [now - teenage engineering](https://design.withfudge.com/pin/10227) — [source page](https://teenage.engineering/now)
+- [now - teenage engineering](https://design.withfudge.com/pin/10226) — [source page](https://teenage.engineering/now)
+- [now - teenage engineering](https://design.withfudge.com/pin/10225) — [source page](https://teenage.engineering/now)
+- [now - teenage engineering](https://design.withfudge.com/pin/10224) — [source page](https://teenage.engineering/now)
+- [now - teenage engineering](https://design.withfudge.com/pin/10223) — [source page](https://teenage.engineering/now)
+- [teenage engineering](https://design.withfudge.com/pin/8706) — [source page](https://teenage.engineering/)
+- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8074) — [source page](https://teenage.engineering/products/op-1)
+- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8073) — [source page](https://teenage.engineering/products/op-1)

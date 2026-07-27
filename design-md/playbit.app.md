@@ -162,7 +162,7 @@ Here is the visual system observed across **4 captured pages** from [playbit.app
 ```
 
 ## References
-- [playbit](https://design.withfudge.com/pin/8286) — [source page](playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8285) — [source page](playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8284) — [source page](playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8283) — [source page](playbit.app/)
+- [playbit](https://design.withfudge.com/pin/8286) — [source page](https://playbit.app/)
+- [playbit](https://design.withfudge.com/pin/8285) — [source page](https://playbit.app/)
+- [playbit](https://design.withfudge.com/pin/8284) — [source page](https://playbit.app/)
+- [playbit](https://design.withfudge.com/pin/8283) — [source page](https://playbit.app/)

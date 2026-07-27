@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [tonsky.me](h
 ```
 
 ## References
-- [A shallow dive into DataScript internals @ tonsky.me](https://design.withfudge.com/pin/9370) — [source page](tonsky.me/blog/datascript-internals/)
+- [A shallow dive into DataScript internals @ tonsky.me](https://design.withfudge.com/pin/9370) — [source page](https://tonsky.me/blog/datascript-internals/)

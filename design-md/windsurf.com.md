@@ -372,11 +372,11 @@ Here is the visual system observed across **13 captured pages** from [windsurf.c
 ```
 
 ## References
-- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8877) — [source page](windsurf.com/download)
-- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8876) — [source page](windsurf.com/download)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8875) — [source page](windsurf.com/pricing)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8874) — [source page](windsurf.com/pricing)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8873) — [source page](windsurf.com/pricing)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8872) — [source page](windsurf.com/)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8871) — [source page](windsurf.com/)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8870) — [source page](windsurf.com/)
+- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8877) — [source page](https://windsurf.com/download)
+- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8876) — [source page](https://windsurf.com/download)
+- [Pricing | Windsurf](https://design.withfudge.com/pin/8875) — [source page](https://windsurf.com/pricing)
+- [Pricing | Windsurf](https://design.withfudge.com/pin/8874) — [source page](https://windsurf.com/pricing)
+- [Pricing | Windsurf](https://design.withfudge.com/pin/8873) — [source page](https://windsurf.com/pricing)
+- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8872) — [source page](https://windsurf.com/)
+- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8871) — [source page](https://windsurf.com/)
+- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8870) — [source page](https://windsurf.com/)

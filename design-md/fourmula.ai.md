@@ -247,11 +247,11 @@ Here is the visual system observed across **8 captured pages** from [fourmula.ai
 ```
 
 ## References
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8675) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8674) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8673) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8672) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8671) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8670) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8669) — [source page](fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8668) — [source page](fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8675) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8674) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8673) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8672) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8671) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8670) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8669) — [source page](https://fourmula.ai/)
+- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8668) — [source page](https://fourmula.ai/)

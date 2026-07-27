@@ -141,6 +141,6 @@ Here is the visual system observed across **3 captured pages** from [wonder.desi
 ```
 
 ## References
-- [Wonder](https://design.withfudge.com/pin/8836) — [source page](wonder.design/)
-- [Wonder](https://design.withfudge.com/pin/8835) — [source page](wonder.design/)
-- [Wonder](https://design.withfudge.com/pin/8834) — [source page](wonder.design/)
+- [Wonder](https://design.withfudge.com/pin/8836) — [source page](https://wonder.design/)
+- [Wonder](https://design.withfudge.com/pin/8835) — [source page](https://wonder.design/)
+- [Wonder](https://design.withfudge.com/pin/8834) — [source page](https://wonder.design/)

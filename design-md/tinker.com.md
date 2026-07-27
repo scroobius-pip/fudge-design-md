@@ -208,10 +208,10 @@ Here is the visual system observed across **7 captured pages** from [tinker.com]
 ```
 
 ## References
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8576) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8575) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8574) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8573) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8572) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8571) — [source page](tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8570) — [source page](tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8576) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8575) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8574) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8573) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8572) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8571) — [source page](https://tinker.com/ng)
+- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8570) — [source page](https://tinker.com/ng)

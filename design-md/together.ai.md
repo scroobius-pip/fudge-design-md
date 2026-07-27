@@ -340,11 +340,11 @@ Here is the visual system observed across **14 captured pages** from [together.a
 ```
 
 ## References
-- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6850) — [source page](together.ai/code-interpreter)
-- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6849) — [source page](together.ai/code-interpreter)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6848) — [source page](together.ai/blog/consistency-diffusion-language-models)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6847) — [source page](together.ai/blog/consistency-diffusion-language-models)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6846) — [source page](together.ai/blog/consistency-diffusion-language-models)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6838) — [source page](together.ai/)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6837) — [source page](together.ai/)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6836) — [source page](together.ai/)
+- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6850) — [source page](https://together.ai/code-interpreter)
+- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6849) — [source page](https://together.ai/code-interpreter)
+- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6848) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6847) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6846) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6838) — [source page](https://together.ai/)
+- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6837) — [source page](https://together.ai/)
+- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6836) — [source page](https://together.ai/)

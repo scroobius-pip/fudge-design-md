@@ -147,5 +147,5 @@ Here is the visual system observed across **2 captured pages** from [om.co](http
 ```
 
 ## References
-- [Taking a Few Days Off – On my Om](https://design.withfudge.com/pin/9814) — [source page](om.co/2026/06/08/taking-a-few-days-off/)
-- [On my Om – Technology & Change: Field Notes From The Present Future](https://design.withfudge.com/pin/9813) — [source page](om.co/)
+- [Taking a Few Days Off – On my Om](https://design.withfudge.com/pin/9814) — [source page](https://om.co/2026/06/08/taking-a-few-days-off/)
+- [On my Om – Technology & Change: Field Notes From The Present Future](https://design.withfudge.com/pin/9813) — [source page](https://om.co/)

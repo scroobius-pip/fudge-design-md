@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [app.florafau
 ```
 
 ## References
-- [FLORA - Untitled](https://design.withfudge.com/pin/6142) — [source page](app.florafauna.ai/projects/ns7demdp8pwzze46a57tpb5cns7x01ac)
+- [FLORA - Untitled](https://design.withfudge.com/pin/6142) — [source page](https://app.florafauna.ai/projects/ns7demdp8pwzze46a57tpb5cns7x01ac)

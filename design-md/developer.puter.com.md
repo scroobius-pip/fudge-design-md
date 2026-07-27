@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [developer.pu
 ```
 
 ## References
-- [Puter.js - Free, Serverless, Cloud and AI](https://design.withfudge.com/pin/9013) — [source page](developer.puter.com/)
+- [Puter.js - Free, Serverless, Cloud and AI](https://design.withfudge.com/pin/9013) — [source page](https://developer.puter.com/)

@@ -272,11 +272,11 @@ Here is the visual system observed across **9 captured pages** from [www2.hm.com
 ```
 
 ## References
-- [Men's Graphic Tees | Long & Short Sleeve T-Shirts | H&M US](https://design.withfudge.com/pin/7952) — [source page](www2.hm.com/en_us/men/products/t-shirts-tank-tops/graphic-printed-t-shirts.html)
-- [Men's T-Shirts & Tops | Polo Shirts, Tanks & Graphics | H&M US](https://design.withfudge.com/pin/7951) — [source page](www2.hm.com/en_us/men/products/t-shirts-tank-tops.html)
-- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7950) — [source page](www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
-- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7949) — [source page](www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
-- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7948) — [source page](www2.hm.com/en_us/men.html)
-- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7947) — [source page](www2.hm.com/en_us/men.html)
-- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7944) — [source page](www2.hm.com/en_us/index.html)
-- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7943) — [source page](www2.hm.com/en_us/index.html)
+- [Men's Graphic Tees | Long & Short Sleeve T-Shirts | H&M US](https://design.withfudge.com/pin/7952) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops/graphic-printed-t-shirts.html)
+- [Men's T-Shirts & Tops | Polo Shirts, Tanks & Graphics | H&M US](https://design.withfudge.com/pin/7951) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops.html)
+- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7950) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
+- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7949) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
+- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7948) — [source page](https://www2.hm.com/en_us/men.html)
+- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7947) — [source page](https://www2.hm.com/en_us/men.html)
+- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7944) — [source page](https://www2.hm.com/en_us/index.html)
+- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7943) — [source page](https://www2.hm.com/en_us/index.html)

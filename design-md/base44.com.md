@@ -304,10 +304,10 @@ Here is the visual system observed across **7 captured pages** from [base44.com]
 ```
 
 ## References
-- [Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/pin/9559) — [source page](base44.com/pricing)
-- [404 Error: Page Not Found | Base44](https://design.withfudge.com/pin/9558) — [source page](base44.com/l)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7409) — [source page](base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7408) — [source page](base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7407) — [source page](base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7406) — [source page](base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7405) — [source page](base44.com/)
+- [Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/pin/9559) — [source page](https://base44.com/pricing)
+- [404 Error: Page Not Found | Base44](https://design.withfudge.com/pin/9558) — [source page](https://base44.com/l)
+- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7409) — [source page](https://base44.com/)
+- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7408) — [source page](https://base44.com/)
+- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7407) — [source page](https://base44.com/)
+- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7406) — [source page](https://base44.com/)
+- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7405) — [source page](https://base44.com/)

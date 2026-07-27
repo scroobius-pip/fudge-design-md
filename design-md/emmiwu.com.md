@@ -160,5 +160,5 @@ Here is the visual system observed across **2 captured pages** from [emmiwu.com]
 ```
 
 ## References
-- [Emmi Wu Portfolio](https://design.withfudge.com/pin/8632) — [source page](emmiwu.com/)
-- [Emmi Wu Portfolio](https://design.withfudge.com/pin/8631) — [source page](emmiwu.com/)
+- [Emmi Wu Portfolio](https://design.withfudge.com/pin/8632) — [source page](https://emmiwu.com/)
+- [Emmi Wu Portfolio](https://design.withfudge.com/pin/8631) — [source page](https://emmiwu.com/)

@@ -160,7 +160,7 @@ Here is the visual system observed across **4 captured pages** from [voidzero.de
 ```
 
 ## References
-- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8190) — [source page](voidzero.dev/)
-- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8189) — [source page](voidzero.dev/)
-- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8188) — [source page](voidzero.dev/)
-- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8187) — [source page](voidzero.dev/)
+- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8190) — [source page](https://voidzero.dev/)
+- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8189) — [source page](https://voidzero.dev/)
+- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8188) — [source page](https://voidzero.dev/)
+- [VoidZero | The Javascript Tooling company](https://design.withfudge.com/pin/8187) — [source page](https://voidzero.dev/)

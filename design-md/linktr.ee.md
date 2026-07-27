@@ -289,11 +289,11 @@ Here is the visual system observed across **10 captured pages** from [linktr.ee]
 ```
 
 ## References
-- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6798) — [source page](linktr.ee/s/pricing)
-- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6797) — [source page](linktr.ee/s/pricing)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6796) — [source page](linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6795) — [source page](linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6794) — [source page](linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6793) — [source page](linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6792) — [source page](linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6791) — [source page](linktr.ee/)
+- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6798) — [source page](https://linktr.ee/s/pricing)
+- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6797) — [source page](https://linktr.ee/s/pricing)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6796) — [source page](https://linktr.ee/)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6795) — [source page](https://linktr.ee/)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6794) — [source page](https://linktr.ee/)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6793) — [source page](https://linktr.ee/)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6792) — [source page](https://linktr.ee/)
+- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6791) — [source page](https://linktr.ee/)

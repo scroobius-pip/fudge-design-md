@@ -107,5 +107,5 @@ Here is the visual system observed across **2 captured pages** from [vedomosti.r
 ```
 
 ## References
-- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9137) — [source page](vedomosti.ru/)
-- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9090) — [source page](vedomosti.ru/)
+- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9137) — [source page](https://vedomosti.ru/)
+- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9090) — [source page](https://vedomosti.ru/)

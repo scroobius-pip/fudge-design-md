@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [spectrum.ado
 ```
 
 ## References
-- [What's new - Spectrum](https://design.withfudge.com/pin/7988) — [source page](spectrum.adobe.com/page/whats-new/)
+- [What's new - Spectrum](https://design.withfudge.com/pin/7988) — [source page](https://spectrum.adobe.com/page/whats-new/)

@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [uat-portal.a
 ```
 
 ## References
-- [Requests](https://design.withfudge.com/pin/10424) — [source page](uat-portal.app.techleadnpn.co.th/v2/e-approval)
+- [Requests](https://design.withfudge.com/pin/10424) — [source page](https://uat-portal.app.techleadnpn.co.th/v2/e-approval)

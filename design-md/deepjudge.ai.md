@@ -268,11 +268,11 @@ Here is the visual system observed across **20 captured pages** from [deepjudge.
 ```
 
 ## References
-- [DeepJudge - Precision AI Search for legal teams](https://design.withfudge.com/pin/6301) — [source page](deepjudge.ai/)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3424) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3423) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3422) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3421) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3420) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3419) — [source page](deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3418) — [source page](deepjudge.ai/product)
+- [DeepJudge - Precision AI Search for legal teams](https://design.withfudge.com/pin/6301) — [source page](https://deepjudge.ai/)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3424) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3423) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3422) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3421) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3420) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3419) — [source page](https://deepjudge.ai/product)
+- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3418) — [source page](https://deepjudge.ai/product)

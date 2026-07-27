@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [app.superde
 ```
 
 ## References
-- [Superdesign](https://design.withfudge.com/pin/6128) — [source page](app.superdesign.dev/)
-- [Disruptor Beta Launch | Superdesign Prompts](https://design.withfudge.com/pin/6127) — [source page](app.superdesign.dev/)
+- [Superdesign](https://design.withfudge.com/pin/6128) — [source page](https://app.superdesign.dev/)
+- [Disruptor Beta Launch | Superdesign Prompts](https://design.withfudge.com/pin/6127) — [source page](https://app.superdesign.dev/)

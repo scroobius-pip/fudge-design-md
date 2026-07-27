@@ -111,4 +111,4 @@ Here is the visual system observed across **1 captured page** from [interfacer.c
 ```
 
 ## References
-- [INTERFACER. the design studio.](https://design.withfudge.com/pin/8542) — [source page](interfacer.co/)
+- [INTERFACER. the design studio.](https://design.withfudge.com/pin/8542) — [source page](https://interfacer.co/)

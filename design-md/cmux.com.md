@@ -178,7 +178,7 @@ Here is the visual system observed across **4 captured pages** from [cmux.com](h
 ```
 
 ## References
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9450) — [source page](cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9449) — [source page](cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9448) — [source page](cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9447) — [source page](cmux.com/)
+- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9450) — [source page](https://cmux.com/)
+- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9449) — [source page](https://cmux.com/)
+- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9448) — [source page](https://cmux.com/)
+- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9447) — [source page](https://cmux.com/)

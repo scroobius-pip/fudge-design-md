@@ -342,11 +342,11 @@ Here is the visual system observed across **50 captured pages** from [vercel.com
 ```
 
 ## References
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9715) — [source page](vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9714) — [source page](vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9713) — [source page](vercel.com/simdi-jinkins-projects-f83afebe/fontofweb)
-- [Vercel](https://design.withfudge.com/pin/9712) — [source page](vercel.com/simdi-jinkins-projects-f83afebe)
-- [Login – Vercel](https://design.withfudge.com/pin/9711) — [source page](vercel.com/login)
-- [Agentic Infrastructure](https://design.withfudge.com/pin/9710) — [source page](vercel.com/)
-- [Agentic Infrastructure](https://design.withfudge.com/pin/9709) — [source page](vercel.com/)
-- [Migrate to Vercel from Cloudflare | Vercel Knowledge Base](https://design.withfudge.com/pin/7329) — [source page](vercel.com/kb/guide/migrate-to-vercel-from-cloudflare)
+- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9715) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
+- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9714) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
+- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9713) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb)
+- [Vercel](https://design.withfudge.com/pin/9712) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe)
+- [Login – Vercel](https://design.withfudge.com/pin/9711) — [source page](https://vercel.com/login)
+- [Agentic Infrastructure](https://design.withfudge.com/pin/9710) — [source page](https://vercel.com/)
+- [Agentic Infrastructure](https://design.withfudge.com/pin/9709) — [source page](https://vercel.com/)
+- [Migrate to Vercel from Cloudflare | Vercel Knowledge Base](https://design.withfudge.com/pin/7329) — [source page](https://vercel.com/kb/guide/migrate-to-vercel-from-cloudflare)

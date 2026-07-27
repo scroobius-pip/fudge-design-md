@@ -90,4 +90,4 @@ Here is the visual system observed across **1 captured page** from [venice.ai](h
 ```
 
 ## References
-- [Venice | Private AI for Unlimited Creative Freedom](https://design.withfudge.com/pin/8719) — [source page](venice.ai/)
+- [Venice | Private AI for Unlimited Creative Freedom](https://design.withfudge.com/pin/8719) — [source page](https://venice.ai/)

@@ -333,11 +333,11 @@ Here is the visual system observed across **9 captured pages** from [thinkingmac
 ```
 
 ## References
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10153) — [source page](thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10152) — [source page](thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10151) — [source page](thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10150) — [source page](thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10149) — [source page](thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10148) — [source page](thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10147) — [source page](thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10146) — [source page](thinkingmachines.ai/blog/interaction-models/)
+- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10153) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10152) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10151) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10150) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10149) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10148) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10147) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10146) — [source page](https://thinkingmachines.ai/blog/interaction-models/)

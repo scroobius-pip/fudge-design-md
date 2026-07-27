@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [matklad.git
 ```
 
 ## References
-- [matklad](https://design.withfudge.com/pin/6334) — [source page](matklad.github.io/)
-- [matklad](https://design.withfudge.com/pin/6333) — [source page](matklad.github.io/)
+- [matklad](https://design.withfudge.com/pin/6334) — [source page](https://matklad.github.io/)
+- [matklad](https://design.withfudge.com/pin/6333) — [source page](https://matklad.github.io/)

@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [zoom.com](ht
 ```
 
 ## References
-- [One platform to connect | Zoom](https://design.withfudge.com/pin/9136) — [source page](zoom.com/)
+- [One platform to connect | Zoom](https://design.withfudge.com/pin/9136) — [source page](https://zoom.com/)

@@ -145,5 +145,5 @@ Here is the visual system observed across **2 captured pages** from [sarah.dev](
 ```
 
 ## References
-- [Sarah Drasner's Site](https://design.withfudge.com/pin/6642) — [source page](sarah.dev/writing)
-- [Sarah Drasner's Site](https://design.withfudge.com/pin/6641) — [source page](sarah.dev/writing)
+- [Sarah Drasner's Site](https://design.withfudge.com/pin/6642) — [source page](https://sarah.dev/writing)
+- [Sarah Drasner's Site](https://design.withfudge.com/pin/6641) — [source page](https://sarah.dev/writing)

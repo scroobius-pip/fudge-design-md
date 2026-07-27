@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [namecheap.co
 ```
 
 ## References
-- [Place Your Order](https://design.withfudge.com/pin/9838) — [source page](namecheap.com/cart/checkout/payment/payment.aspx)
+- [Place Your Order](https://design.withfudge.com/pin/9838) — [source page](https://namecheap.com/cart/checkout/payment/payment.aspx)

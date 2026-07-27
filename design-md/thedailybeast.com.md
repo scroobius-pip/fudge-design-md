@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [thedailybeas
 ```
 
 ## References
-- [The Daily Beast: The Latest in Politics, Media & Entertainment News](https://design.withfudge.com/pin/6787) — [source page](thedailybeast.com/)
+- [The Daily Beast: The Latest in Politics, Media & Entertainment News](https://design.withfudge.com/pin/6787) — [source page](https://thedailybeast.com/)

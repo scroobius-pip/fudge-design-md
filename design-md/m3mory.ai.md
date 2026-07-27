@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [m3mory.ai](h
 ```
 
 ## References
-- [m3mory - Long-term memory for AI agents](https://design.withfudge.com/pin/9135) — [source page](m3mory.ai/)
+- [m3mory - Long-term memory for AI agents](https://design.withfudge.com/pin/9135) — [source page](https://m3mory.ai/)

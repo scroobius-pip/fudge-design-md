@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [glazeapp.co
 ```
 
 ## References
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7788) — [source page](glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7787) — [source page](glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7661) — [source page](glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7660) — [source page](glazeapp.com/)
+- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7788) — [source page](https://glazeapp.com/)
+- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7787) — [source page](https://glazeapp.com/)
+- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7661) — [source page](https://glazeapp.com/)
+- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7660) — [source page](https://glazeapp.com/)

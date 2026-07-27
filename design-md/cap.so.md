@@ -297,11 +297,11 @@ Here is the visual system observed across **19 captured pages** from [cap.so](ht
 ```
 
 ## References
-- [Pricing — Cap](https://design.withfudge.com/pin/6479) — [source page](cap.so/pricing)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6478) — [source page](cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6477) — [source page](cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6476) — [source page](cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6475) — [source page](cap.so/home)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4342) — [source page](cap.so/pricing)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4341) — [source page](cap.so/pricing)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4340) — [source page](cap.so/pricing)
+- [Pricing — Cap](https://design.withfudge.com/pin/6479) — [source page](https://cap.so/pricing)
+- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6478) — [source page](https://cap.so/home)
+- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6477) — [source page](https://cap.so/home)
+- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6476) — [source page](https://cap.so/home)
+- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6475) — [source page](https://cap.so/home)
+- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4342) — [source page](https://cap.so/pricing)
+- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4341) — [source page](https://cap.so/pricing)
+- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4340) — [source page](https://cap.so/pricing)

@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [sprouts.com]
 ```
 
 ## References
-- [Healthy Grocery, Organic Food & Supplements | Sprouts Farmers Market](https://design.withfudge.com/pin/7053) — [source page](sprouts.com/)
+- [Healthy Grocery, Organic Food & Supplements | Sprouts Farmers Market](https://design.withfudge.com/pin/7053) — [source page](https://sprouts.com/)

@@ -385,11 +385,11 @@ Here is the visual system observed across **19 captured pages** from [mymind.com
 ```
 
 ## References
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8990) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8989) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8988) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8987) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8986) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8985) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8984) — [source page](mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8983) — [source page](mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8990) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8989) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8988) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8987) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8986) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8985) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8984) — [source page](https://mymind.com/)
+- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8983) — [source page](https://mymind.com/)

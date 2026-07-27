@@ -87,4 +87,4 @@ Here is the visual system observed across **1 captured page** from [jonyablonski
 ```
 
 ## References
-- [Laws of UX Index Poster | The Online Store of Jon Yablonski](https://design.withfudge.com/pin/9162) — [source page](jonyablonski.bigcartel.com/product/laws-of-ux-index-poster)
+- [Laws of UX Index Poster | The Online Store of Jon Yablonski](https://design.withfudge.com/pin/9162) — [source page](https://jonyablonski.bigcartel.com/product/laws-of-ux-index-poster)

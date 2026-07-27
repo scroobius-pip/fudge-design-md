@@ -153,7 +153,7 @@ Here is the visual system observed across **4 captured pages** from [blindsight.
 ```
 
 ## References
-- [Blindsight](https://design.withfudge.com/pin/6419) — [source page](blindsight.space/)
-- [Blindsight](https://design.withfudge.com/pin/6418) — [source page](blindsight.space/)
-- [Blindsight](https://design.withfudge.com/pin/6407) — [source page](blindsight.space/)
-- [Memories](https://design.withfudge.com/pin/6406) — [source page](blindsight.space/memories/)
+- [Blindsight](https://design.withfudge.com/pin/6419) — [source page](https://blindsight.space/)
+- [Blindsight](https://design.withfudge.com/pin/6418) — [source page](https://blindsight.space/)
+- [Blindsight](https://design.withfudge.com/pin/6407) — [source page](https://blindsight.space/)
+- [Memories](https://design.withfudge.com/pin/6406) — [source page](https://blindsight.space/memories/)

@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [fortune.com]
 ```
 
 ## References
-- [Fortune](https://design.withfudge.com/pin/7866) — [source page](fortune.com/checkout/mo_1_mo_29/)
+- [Fortune](https://design.withfudge.com/pin/7866) — [source page](https://fortune.com/checkout/mo_1_mo_29/)

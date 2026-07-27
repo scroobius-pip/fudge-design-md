@@ -161,7 +161,7 @@ Here is the visual system observed across **4 captured pages** from [ami.dev](ht
 ```
 
 ## References
-- [Ami](https://design.withfudge.com/pin/6958) — [source page](ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6957) — [source page](ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6956) — [source page](ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6955) — [source page](ami.dev/)
+- [Ami](https://design.withfudge.com/pin/6958) — [source page](https://ami.dev/)
+- [Ami](https://design.withfudge.com/pin/6957) — [source page](https://ami.dev/)
+- [Ami](https://design.withfudge.com/pin/6956) — [source page](https://ami.dev/)
+- [Ami](https://design.withfudge.com/pin/6955) — [source page](https://ami.dev/)

@@ -240,11 +240,11 @@ Here is the visual system observed across **9 captured pages** from [lovable.dev
 ```
 
 ## References
-- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7243) — [source page](lovable.dev/)
-- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7242) — [source page](lovable.dev/)
-- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7241) — [source page](lovable.dev/)
-- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7240) — [source page](lovable.dev/)
-- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/6706) — [source page](lovable.dev/)
-- [Lovable](https://design.withfudge.com/pin/2268) — [source page](lovable.dev/)
-- [Lovable](https://design.withfudge.com/pin/2267) — [source page](lovable.dev/)
-- [Lovable](https://design.withfudge.com/pin/2266) — [source page](lovable.dev/)
+- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7243) — [source page](https://lovable.dev/)
+- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7242) — [source page](https://lovable.dev/)
+- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7241) — [source page](https://lovable.dev/)
+- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/7240) — [source page](https://lovable.dev/)
+- [Lovable - Build Apps & Websites with AI, Fast | No Code App Builder](https://design.withfudge.com/pin/6706) — [source page](https://lovable.dev/)
+- [Lovable](https://design.withfudge.com/pin/2268) — [source page](https://lovable.dev/)
+- [Lovable](https://design.withfudge.com/pin/2267) — [source page](https://lovable.dev/)
+- [Lovable](https://design.withfudge.com/pin/2266) — [source page](https://lovable.dev/)

@@ -310,11 +310,11 @@ Here is the visual system observed across **11 captured pages** from [cotool.ai]
 ```
 
 ## References
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8608) — [source page](cotool.ai/about)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8607) — [source page](cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8606) — [source page](cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8605) — [source page](cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8604) — [source page](cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8603) — [source page](cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8602) — [source page](cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8601) — [source page](cotool.ai/)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8608) — [source page](https://cotool.ai/about)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8607) — [source page](https://cotool.ai/detect)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8606) — [source page](https://cotool.ai/detect)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8605) — [source page](https://cotool.ai/detect)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8604) — [source page](https://cotool.ai/)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8603) — [source page](https://cotool.ai/)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8602) — [source page](https://cotool.ai/)
+- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8601) — [source page](https://cotool.ai/)

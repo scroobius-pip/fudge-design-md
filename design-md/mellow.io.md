@@ -327,11 +327,11 @@ Here is the visual system observed across **13 captured pages** from [mellow.io]
 ```
 
 ## References
-- [Get Paid From Clients Worldwide With Complete Tax Documentation | Mellow for Freelancers](https://design.withfudge.com/pin/6738) — [source page](mellow.io/for-contractors)
-- [Get Paid From Clients Worldwide With Complete Tax Documentation | Mellow for Freelancers](https://design.withfudge.com/pin/6737) — [source page](mellow.io/for-contractors)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6736) — [source page](mellow.io/for-contractors/get-paid)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6735) — [source page](mellow.io/for-contractors/get-paid)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6734) — [source page](mellow.io/for-contractors/get-paid)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6733) — [source page](mellow.io/for-contractors/get-paid)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6732) — [source page](mellow.io/for-contractors/get-paid)
-- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6731) — [source page](mellow.io/for-contractors/get-paid)
+- [Get Paid From Clients Worldwide With Complete Tax Documentation | Mellow for Freelancers](https://design.withfudge.com/pin/6738) — [source page](https://mellow.io/for-contractors)
+- [Get Paid From Clients Worldwide With Complete Tax Documentation | Mellow for Freelancers](https://design.withfudge.com/pin/6737) — [source page](https://mellow.io/for-contractors)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6736) — [source page](https://mellow.io/for-contractors/get-paid)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6735) — [source page](https://mellow.io/for-contractors/get-paid)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6734) — [source page](https://mellow.io/for-contractors/get-paid)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6733) — [source page](https://mellow.io/for-contractors/get-paid)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6732) — [source page](https://mellow.io/for-contractors/get-paid)
+- [Payment system for freelancers and contractors | Mellow for freelancers](https://design.withfudge.com/pin/6731) — [source page](https://mellow.io/for-contractors/get-paid)

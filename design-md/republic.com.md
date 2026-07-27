@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [republic.co
 ```
 
 ## References
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6984) — [source page](republic.com/raise)
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6983) — [source page](republic.com/raise)
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6982) — [source page](republic.com/raise)
-- [Republic — Invest in Startups, Crypto and More](https://design.withfudge.com/pin/6981) — [source page](republic.com/)
+- [Raise on Republic — Republic](https://design.withfudge.com/pin/6984) — [source page](https://republic.com/raise)
+- [Raise on Republic — Republic](https://design.withfudge.com/pin/6983) — [source page](https://republic.com/raise)
+- [Raise on Republic — Republic](https://design.withfudge.com/pin/6982) — [source page](https://republic.com/raise)
+- [Republic — Invest in Startups, Crypto and More](https://design.withfudge.com/pin/6981) — [source page](https://republic.com/)

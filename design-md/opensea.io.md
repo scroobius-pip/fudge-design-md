@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [opensea.io](
 ```
 
 ## References
-- [OpenSea, exchange everything — token trading and NFT marketplace](https://design.withfudge.com/pin/8465) — [source page](opensea.io/)
+- [OpenSea, exchange everything — token trading and NFT marketplace](https://design.withfudge.com/pin/8465) — [source page](https://opensea.io/)

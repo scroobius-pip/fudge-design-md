@@ -319,11 +319,11 @@ Here is the visual system observed across **48 captured pages** from [figma.com]
 ```
 
 ## References
-- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8790) — [source page](figma.com/gallery/)
-- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8027) — [source page](figma.com/gallery/)
-- [What Is Human-Computer Interaction? | Figma](https://design.withfudge.com/pin/7973) — [source page](figma.com/resource-library/human-computer-interaction/)
-- [What is skeuomorphism? | Figma](https://design.withfudge.com/pin/7964) — [source page](figma.com/resource-library/what-is-skeuomorphism/)
-- [24 Best Fonts for Websites in 2026 | Figma](https://design.withfudge.com/pin/7963) — [source page](figma.com/resource-library/best-fonts-for-websites/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7962) — [source page](figma.com/fonts/inter/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7961) — [source page](figma.com/fonts/inter/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7960) — [source page](figma.com/fonts/inter/)
+- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8790) — [source page](https://figma.com/gallery/)
+- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8027) — [source page](https://figma.com/gallery/)
+- [What Is Human-Computer Interaction? | Figma](https://design.withfudge.com/pin/7973) — [source page](https://figma.com/resource-library/human-computer-interaction/)
+- [What is skeuomorphism? | Figma](https://design.withfudge.com/pin/7964) — [source page](https://figma.com/resource-library/what-is-skeuomorphism/)
+- [24 Best Fonts for Websites in 2026 | Figma](https://design.withfudge.com/pin/7963) — [source page](https://figma.com/resource-library/best-fonts-for-websites/)
+- [Inter Font | Figma](https://design.withfudge.com/pin/7962) — [source page](https://figma.com/fonts/inter/)
+- [Inter Font | Figma](https://design.withfudge.com/pin/7961) — [source page](https://figma.com/fonts/inter/)
+- [Inter Font | Figma](https://design.withfudge.com/pin/7960) — [source page](https://figma.com/fonts/inter/)

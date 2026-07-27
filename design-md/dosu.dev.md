@@ -170,6 +170,6 @@ Here is the visual system observed across **3 captured pages** from [dosu.dev](h
 ```
 
 ## References
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10413) — [source page](dosu.dev/)
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10412) — [source page](dosu.dev/)
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10411) — [source page](dosu.dev/)
+- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10413) — [source page](https://dosu.dev/)
+- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10412) — [source page](https://dosu.dev/)
+- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10411) — [source page](https://dosu.dev/)

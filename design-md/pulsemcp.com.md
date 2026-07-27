@@ -132,5 +132,5 @@ Here is the visual system observed across **2 captured pages** from [pulsemcp.co
 ```
 
 ## References
-- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6606) — [source page](pulsemcp.com/clients)
-- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6605) — [source page](pulsemcp.com/clients)
+- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6606) — [source page](https://pulsemcp.com/clients)
+- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6605) — [source page](https://pulsemcp.com/clients)

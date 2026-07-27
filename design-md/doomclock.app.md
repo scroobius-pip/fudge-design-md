@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [doomclock.ap
 ```
 
 ## References
-- [DOOMCLOCK — Every crisis. Every outcome. Ranked by probability.](https://design.withfudge.com/pin/7938) — [source page](doomclock.app/)
+- [DOOMCLOCK — Every crisis. Every outcome. Ranked by probability.](https://design.withfudge.com/pin/7938) — [source page](https://doomclock.app/)

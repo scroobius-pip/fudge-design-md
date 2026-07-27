@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [makelanding.
 ```
 
 ## References
-- [Build Beautiful Landing Pages Instantly With AI | Makelanding](https://design.withfudge.com/pin/6713) — [source page](makelanding.ai/)
+- [Build Beautiful Landing Pages Instantly With AI | Makelanding](https://design.withfudge.com/pin/6713) — [source page](https://makelanding.ai/)

@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [starnews.com
 ```
 
 ## References
-- [সারা দেশে ভোটকেন্দ্রে মৃত্যু ৫ | STAR NEWS](https://design.withfudge.com/pin/6420) — [source page](starnews.com.bd/election-26/3756/4-deaths-at-polling-stations-across-the-country.html)
+- [সারা দেশে ভোটকেন্দ্রে মৃত্যু ৫ | STAR NEWS](https://design.withfudge.com/pin/6420) — [source page](https://starnews.com.bd/election-26/3756/4-deaths-at-polling-stations-across-the-country.html)

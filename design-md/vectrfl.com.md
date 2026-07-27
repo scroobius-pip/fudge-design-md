@@ -81,4 +81,4 @@ Here is the visual system observed across **1 captured page** from [vectrfl.com]
 ```
 
 ## References
-- [Vectr](https://design.withfudge.com/pin/9567) — [source page](vectrfl.com/)
+- [Vectr](https://design.withfudge.com/pin/9567) — [source page](https://vectrfl.com/)

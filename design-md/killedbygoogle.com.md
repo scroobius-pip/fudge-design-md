@@ -80,4 +80,4 @@ Here is the visual system observed across **1 captured page** from [killedbygoog
 ```
 
 ## References
-- [Google Graveyard - Killed by Google](https://design.withfudge.com/pin/8770) — [source page](killedbygoogle.com/)
+- [Google Graveyard - Killed by Google](https://design.withfudge.com/pin/8770) — [source page](https://killedbygoogle.com/)

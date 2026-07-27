@@ -260,11 +260,11 @@ Here is the visual system observed across **8 captured pages** from [tinywins.co
 ```
 
 ## References
-- [Our Approach | TinyWins | TinyWins](https://design.withfudge.com/pin/9782) — [source page](tinywins.com/approach)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9781) — [source page](tinywins.com/about)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9780) — [source page](tinywins.com/about)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9779) — [source page](tinywins.com/about)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9778) — [source page](tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9777) — [source page](tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9776) — [source page](tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9775) — [source page](tinywins.com/)
+- [Our Approach | TinyWins | TinyWins](https://design.withfudge.com/pin/9782) — [source page](https://tinywins.com/approach)
+- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9781) — [source page](https://tinywins.com/about)
+- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9780) — [source page](https://tinywins.com/about)
+- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9779) — [source page](https://tinywins.com/about)
+- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9778) — [source page](https://tinywins.com/)
+- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9777) — [source page](https://tinywins.com/)
+- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9776) — [source page](https://tinywins.com/)
+- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9775) — [source page](https://tinywins.com/)

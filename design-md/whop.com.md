@@ -217,9 +217,9 @@ Here is the visual system observed across **6 captured pages** from [whop.com](h
 ```
 
 ## References
-- [Whop. The future of work. | Whop](https://design.withfudge.com/pin/10222) — [source page](whop.com/)
-- [Login to Whop 🔐 | Whop](https://design.withfudge.com/pin/6948) — [source page](whop.com/login/)
-- [Dashboard | Whop](https://design.withfudge.com/pin/6947) — [source page](whop.com/dashboard/start/)
-- [Finance | Whop](https://design.withfudge.com/pin/6946) — [source page](whop.com/finance/)
-- [Home | Whop](https://design.withfudge.com/pin/6945) — [source page](whop.com/home-feed/)
-- [Discover | Whop](https://design.withfudge.com/pin/6944) — [source page](whop.com/discover/)
+- [Whop. The future of work. | Whop](https://design.withfudge.com/pin/10222) — [source page](https://whop.com/)
+- [Login to Whop 🔐 | Whop](https://design.withfudge.com/pin/6948) — [source page](https://whop.com/login/)
+- [Dashboard | Whop](https://design.withfudge.com/pin/6947) — [source page](https://whop.com/dashboard/start/)
+- [Finance | Whop](https://design.withfudge.com/pin/6946) — [source page](https://whop.com/finance/)
+- [Home | Whop](https://design.withfudge.com/pin/6945) — [source page](https://whop.com/home-feed/)
+- [Discover | Whop](https://design.withfudge.com/pin/6944) — [source page](https://whop.com/discover/)

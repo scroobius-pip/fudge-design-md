@@ -289,11 +289,11 @@ Here is the visual system observed across **12 captured pages** from [arcraiders
 ```
 
 ## References
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7115) — [source page](arcraiders.com/creator-program)
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7114) — [source page](arcraiders.com/creator-program)
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7113) — [source page](arcraiders.com/creator-program)
-- [December Update 1.7.0 | ARC Raiders](https://design.withfudge.com/pin/5606) — [source page](arcraiders.com/news/cold-snap-patch-notes)
-- [ARC Raiders](https://design.withfudge.com/pin/4471) — [source page](arcraiders.com/en/)
-- [ARC Raiders](https://design.withfudge.com/pin/2057) — [source page](arcraiders.com/)
-- [ARC Raiders](https://design.withfudge.com/pin/2056) — [source page](arcraiders.com/)
-- [ARC Raiders](https://design.withfudge.com/pin/2055) — [source page](arcraiders.com/)
+- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7115) — [source page](https://arcraiders.com/creator-program)
+- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7114) — [source page](https://arcraiders.com/creator-program)
+- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7113) — [source page](https://arcraiders.com/creator-program)
+- [December Update 1.7.0 | ARC Raiders](https://design.withfudge.com/pin/5606) — [source page](https://arcraiders.com/news/cold-snap-patch-notes)
+- [ARC Raiders](https://design.withfudge.com/pin/4471) — [source page](https://arcraiders.com/en/)
+- [ARC Raiders](https://design.withfudge.com/pin/2057) — [source page](https://arcraiders.com/)
+- [ARC Raiders](https://design.withfudge.com/pin/2056) — [source page](https://arcraiders.com/)
+- [ARC Raiders](https://design.withfudge.com/pin/2055) — [source page](https://arcraiders.com/)

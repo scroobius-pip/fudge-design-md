@@ -319,11 +319,11 @@ Here is the visual system observed across **17 captured pages** from [motion.sof
 ```
 
 ## References
-- [Motion – Changelog](https://design.withfudge.com/pin/7006) — [source page](motion.software/changelog)
-- [Motion – Log in](https://design.withfudge.com/pin/7005) — [source page](motion.software/login)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7004) — [source page](motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7003) — [source page](motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7002) — [source page](motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7001) — [source page](motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7000) — [source page](motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/6999) — [source page](motion.software/)
+- [Motion – Changelog](https://design.withfudge.com/pin/7006) — [source page](https://motion.software/changelog)
+- [Motion – Log in](https://design.withfudge.com/pin/7005) — [source page](https://motion.software/login)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7004) — [source page](https://motion.software/)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7003) — [source page](https://motion.software/)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7002) — [source page](https://motion.software/)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7001) — [source page](https://motion.software/)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7000) — [source page](https://motion.software/)
+- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/6999) — [source page](https://motion.software/)

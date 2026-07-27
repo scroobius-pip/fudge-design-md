@@ -188,9 +188,9 @@ Here is the visual system observed across **6 captured pages** from [runwayml.co
 ```
 
 ## References
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7635) — [source page](runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7634) — [source page](runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7633) — [source page](runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7632) — [source page](runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7631) — [source page](runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7630) — [source page](runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7635) — [source page](https://runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7634) — [source page](https://runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7633) — [source page](https://runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7632) — [source page](https://runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7631) — [source page](https://runwayml.com/)
+- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7630) — [source page](https://runwayml.com/)

@@ -245,11 +245,11 @@ Here is the visual system observed across **8 captured pages** from [celesteduff
 ```
 
 ## References
-- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7863) — [source page](celesteduffy.com/contact)
-- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7862) — [source page](celesteduffy.com/contact)
-- [Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7861) — [source page](celesteduffy.com/licensing-1)
-- [General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7860) — [source page](celesteduffy.com/portfolio)
-- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7859) — [source page](celesteduffy.com/prints)
-- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7858) — [source page](celesteduffy.com/prints)
-- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7857) — [source page](celesteduffy.com/)
-- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7856) — [source page](celesteduffy.com/)
+- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7863) — [source page](https://celesteduffy.com/contact)
+- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7862) — [source page](https://celesteduffy.com/contact)
+- [Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7861) — [source page](https://celesteduffy.com/licensing-1)
+- [General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7860) — [source page](https://celesteduffy.com/portfolio)
+- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7859) — [source page](https://celesteduffy.com/prints)
+- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7858) — [source page](https://celesteduffy.com/prints)
+- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7857) — [source page](https://celesteduffy.com/)
+- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7856) — [source page](https://celesteduffy.com/)

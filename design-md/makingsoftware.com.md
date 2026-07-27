@@ -287,11 +287,11 @@ Here is the visual system observed across **17 captured pages** from [makingsoft
 ```
 
 ## References
-- [Making Software: How is data stored?](https://design.withfudge.com/pin/6339) — [source page](makingsoftware.com/chapters/how-is-data-stored)
-- [Making Software](https://design.withfudge.com/pin/5745) — [source page](makingsoftware.com/)
-- [Making Software: Shaders.](https://design.withfudge.com/pin/5744) — [source page](makingsoftware.com/chapters/shaders)
-- [Making Software](https://design.withfudge.com/pin/5077) — [source page](makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/572) — [source page](makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/559) — [source page](makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/451) — [source page](makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/450) — [source page](makingsoftware.com/)
+- [Making Software: How is data stored?](https://design.withfudge.com/pin/6339) — [source page](https://makingsoftware.com/chapters/how-is-data-stored)
+- [Making Software](https://design.withfudge.com/pin/5745) — [source page](https://makingsoftware.com/)
+- [Making Software: Shaders.](https://design.withfudge.com/pin/5744) — [source page](https://makingsoftware.com/chapters/shaders)
+- [Making Software](https://design.withfudge.com/pin/5077) — [source page](https://makingsoftware.com/)
+- [Making Software](https://design.withfudge.com/pin/572) — [source page](https://makingsoftware.com/)
+- [Making Software](https://design.withfudge.com/pin/559) — [source page](https://makingsoftware.com/)
+- [Making Software](https://design.withfudge.com/pin/451) — [source page](https://makingsoftware.com/)
+- [Making Software](https://design.withfudge.com/pin/450) — [source page](https://makingsoftware.com/)

@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [cargo.site]
 ```
 
 ## References
-- [Cargo](https://design.withfudge.com/pin/6371) — [source page](cargo.site/)
-- [Cargo: Templates](https://design.withfudge.com/pin/6370) — [source page](cargo.site/templates)
-- [Cargo: Templates](https://design.withfudge.com/pin/6369) — [source page](cargo.site/templates/preview/3225613)
-- [Cargo: Templates](https://design.withfudge.com/pin/6368) — [source page](cargo.site/templates)
-- [Cargo](https://design.withfudge.com/pin/6367) — [source page](cargo.site/)
+- [Cargo](https://design.withfudge.com/pin/6371) — [source page](https://cargo.site/)
+- [Cargo: Templates](https://design.withfudge.com/pin/6370) — [source page](https://cargo.site/templates)
+- [Cargo: Templates](https://design.withfudge.com/pin/6369) — [source page](https://cargo.site/templates/preview/3225613)
+- [Cargo: Templates](https://design.withfudge.com/pin/6368) — [source page](https://cargo.site/templates)
+- [Cargo](https://design.withfudge.com/pin/6367) — [source page](https://cargo.site/)

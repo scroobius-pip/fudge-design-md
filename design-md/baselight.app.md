@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [baselight.ap
 ```
 
 ## References
-- [Welcome to Baselight | Baselight](https://design.withfudge.com/pin/7855) — [source page](baselight.app/)
+- [Welcome to Baselight | Baselight](https://design.withfudge.com/pin/7855) — [source page](https://baselight.app/)

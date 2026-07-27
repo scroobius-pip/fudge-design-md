@@ -330,11 +330,11 @@ Here is the visual system observed across **19 captured pages** from [cavalry.sc
 ```
 
 ## References
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7158) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7157) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7156) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7155) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7154) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7153) — [source page](cavalry.scenegroup.co/teams/)
-- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7152) — [source page](cavalry.scenegroup.co/pricing/)
-- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7151) — [source page](cavalry.scenegroup.co/pricing/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7158) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7157) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7156) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7155) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7154) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7153) — [source page](https://cavalry.scenegroup.co/teams/)
+- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7152) — [source page](https://cavalry.scenegroup.co/pricing/)
+- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7151) — [source page](https://cavalry.scenegroup.co/pricing/)

@@ -148,7 +148,7 @@ Here is the visual system observed across **4 captured pages** from [storybook.j
 ```
 
 ## References
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8026) — [source page](storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8025) — [source page](storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8024) — [source page](storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8023) — [source page](storybook.js.org/)
+- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8026) — [source page](https://storybook.js.org/)
+- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8025) — [source page](https://storybook.js.org/)
+- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8024) — [source page](https://storybook.js.org/)
+- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8023) — [source page](https://storybook.js.org/)

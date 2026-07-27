@@ -159,7 +159,7 @@ Here is the visual system observed across **4 captured pages** from [kilo.ai](ht
 ```
 
 ## References
-- [Kilo - Cline vs Kilo Code - Multi-Surface AI Orchestration Comparison](https://design.withfudge.com/pin/6963) — [source page](kilo.ai/cline)
-- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6432) — [source page](kilo.ai/)
-- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6431) — [source page](kilo.ai/)
-- [Kilo - Install Kilo Code](https://design.withfudge.com/pin/6430) — [source page](kilo.ai/install)
+- [Kilo - Cline vs Kilo Code - Multi-Surface AI Orchestration Comparison](https://design.withfudge.com/pin/6963) — [source page](https://kilo.ai/cline)
+- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6432) — [source page](https://kilo.ai/)
+- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6431) — [source page](https://kilo.ai/)
+- [Kilo - Install Kilo Code](https://design.withfudge.com/pin/6430) — [source page](https://kilo.ai/install)

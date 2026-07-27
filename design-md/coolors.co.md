@@ -313,11 +313,11 @@ Here is the visual system observed across **13 captured pages** from [coolors.co
 ```
 
 ## References
-- [Color Bot - Coolors](https://design.withfudge.com/pin/6905) — [source page](coolors.co/color-bot)
-- [Color Bot - Coolors](https://design.withfudge.com/pin/6904) — [source page](coolors.co/color-bot)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6394) — [source page](coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6393) — [source page](coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6392) — [source page](coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6391) — [source page](coolors.co/)
-- [Create a Palette - Coolors](https://design.withfudge.com/pin/6229) — [source page](coolors.co/565554-2e86ab-f6f5ae-f5f749-f24236)
-- [Create a Palette - Coolors](https://design.withfudge.com/pin/6228) — [source page](coolors.co/adeee3-86deb7-63b995-50723c-423e28)
+- [Color Bot - Coolors](https://design.withfudge.com/pin/6905) — [source page](https://coolors.co/color-bot)
+- [Color Bot - Coolors](https://design.withfudge.com/pin/6904) — [source page](https://coolors.co/color-bot)
+- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6394) — [source page](https://coolors.co/)
+- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6393) — [source page](https://coolors.co/)
+- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6392) — [source page](https://coolors.co/)
+- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6391) — [source page](https://coolors.co/)
+- [Create a Palette - Coolors](https://design.withfudge.com/pin/6229) — [source page](https://coolors.co/565554-2e86ab-f6f5ae-f5f749-f24236)
+- [Create a Palette - Coolors](https://design.withfudge.com/pin/6228) — [source page](https://coolors.co/adeee3-86deb7-63b995-50723c-423e28)

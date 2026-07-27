@@ -298,9 +298,9 @@ Here is the visual system observed across **6 captured pages** from [mixfont.com
 ```
 
 ## References
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9435) — [source page](mixfont.com/fonts/granite-echo-2)
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9434) — [source page](mixfont.com/fonts/granite-echo-2)
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9433) — [source page](mixfont.com/fonts/granite-echo-2)
-- [Fonts — Mixfont](https://design.withfudge.com/pin/9432) — [source page](mixfont.com/fonts)
-- [Sign In — Mixfont](https://design.withfudge.com/pin/9431) — [source page](mixfont.com/signin)
-- [Mixfont — Make Any Font You Can Imagine](https://design.withfudge.com/pin/9430) — [source page](mixfont.com/)
+- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9435) — [source page](https://mixfont.com/fonts/granite-echo-2)
+- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9434) — [source page](https://mixfont.com/fonts/granite-echo-2)
+- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9433) — [source page](https://mixfont.com/fonts/granite-echo-2)
+- [Fonts — Mixfont](https://design.withfudge.com/pin/9432) — [source page](https://mixfont.com/fonts)
+- [Sign In — Mixfont](https://design.withfudge.com/pin/9431) — [source page](https://mixfont.com/signin)
+- [Mixfont — Make Any Font You Can Imagine](https://design.withfudge.com/pin/9430) — [source page](https://mixfont.com/)

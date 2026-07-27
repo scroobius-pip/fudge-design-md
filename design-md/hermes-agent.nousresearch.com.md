@@ -129,4 +129,4 @@ Here is the visual system observed across **1 captured page** from [hermes-agent
 ```
 
 ## References
-- [Hermes Agent — An Agent That Grows With You | Nous Research](https://design.withfudge.com/pin/8720) — [source page](hermes-agent.nousresearch.com/)
+- [Hermes Agent — An Agent That Grows With You | Nous Research](https://design.withfudge.com/pin/8720) — [source page](https://hermes-agent.nousresearch.com/)

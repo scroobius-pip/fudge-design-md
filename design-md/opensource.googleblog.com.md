@@ -132,5 +132,5 @@ Here is the visual system observed across **2 captured pages** from [opensource.
 ```
 
 ## References
-- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6039) — [source page](opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
-- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6038) — [source page](opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
+- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6039) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
+- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6038) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)

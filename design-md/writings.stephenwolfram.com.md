@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [writings.ste
 ```
 
 ## References
-- [Making Wolfram Tech Available as a Foundation Tool for LLM Systems—Stephen Wolfram Writings](https://design.withfudge.com/pin/7101) — [source page](writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
+- [Making Wolfram Tech Available as a Foundation Tool for LLM Systems—Stephen Wolfram Writings](https://design.withfudge.com/pin/7101) — [source page](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)

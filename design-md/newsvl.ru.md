@@ -78,4 +78,4 @@ Here is the visual system observed across **1 captured page** from [newsvl.ru](h
 ```
 
 ## References
-- [Ни одного поражения: школьники из Лесозаводска стали лучшими волейболистами на международном «Кубке Дружбы» – Новости Владивостока на VL.ru](https://design.withfudge.com/pin/9170) — [source page](newsvl.ru/sport/2026/04/29/238098/)
+- [Ни одного поражения: школьники из Лесозаводска стали лучшими волейболистами на международном «Кубке Дружбы» – Новости Владивостока на VL.ru](https://design.withfudge.com/pin/9170) — [source page](https://newsvl.ru/sport/2026/04/29/238098/)

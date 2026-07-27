@@ -237,11 +237,11 @@ Here is the visual system observed across **8 captured pages** from [loom.com](h
 ```
 
 ## References
-- [Videos | Library | Loom - 5 July 2026](https://design.withfudge.com/pin/9907) — [source page](loom.com/share/c6903db110e44596b7b043d59201f653)
-- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/6646) — [source page](loom.com/c680c0fe-b23c-42d7-9f89-fb342dbefb72)
-- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/4576) — [source page](loom.com/incentives)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4575) — [source page](loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4574) — [source page](loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4573) — [source page](loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4572) — [source page](loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4571) — [source page](loom.com/looms/videos)
+- [Videos | Library | Loom - 5 July 2026](https://design.withfudge.com/pin/9907) — [source page](https://loom.com/share/c6903db110e44596b7b043d59201f653)
+- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/6646) — [source page](https://loom.com/c680c0fe-b23c-42d7-9f89-fb342dbefb72)
+- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/4576) — [source page](https://loom.com/incentives)
+- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4575) — [source page](https://loom.com/looms/videos)
+- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4574) — [source page](https://loom.com/looms/videos)
+- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4573) — [source page](https://loom.com/looms/videos)
+- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4572) — [source page](https://loom.com/looms/videos)
+- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4571) — [source page](https://loom.com/looms/videos)

@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [voggle.com](
 ```
 
 ## References
-- [Voggle - find today's hidden theme](https://design.withfudge.com/pin/7292) — [source page](voggle.com/)
+- [Voggle - find today's hidden theme](https://design.withfudge.com/pin/7292) — [source page](https://voggle.com/)

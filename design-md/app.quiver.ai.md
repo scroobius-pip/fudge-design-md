@@ -154,6 +154,6 @@ Here is the visual system observed across **3 captured pages** from [app.quiver.
 ```
 
 ## References
-- [QuiverAI public beta](https://design.withfudge.com/pin/9928) — [source page](app.quiver.ai/explore)
-- [QuiverAI public beta](https://design.withfudge.com/pin/9927) — [source page](app.quiver.ai/onboarding)
-- [QuiverAI public beta](https://design.withfudge.com/pin/9926) — [source page](app.quiver.ai/onboarding)
+- [QuiverAI public beta](https://design.withfudge.com/pin/9928) — [source page](https://app.quiver.ai/explore)
+- [QuiverAI public beta](https://design.withfudge.com/pin/9927) — [source page](https://app.quiver.ai/onboarding)
+- [QuiverAI public beta](https://design.withfudge.com/pin/9926) — [source page](https://app.quiver.ai/onboarding)

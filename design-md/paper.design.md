@@ -330,11 +330,11 @@ Here is the visual system observed across **13 captured pages** from [paper.desi
 ```
 
 ## References
-- [Paper MCP server · Paper](https://design.withfudge.com/pin/7126) — [source page](paper.design/docs/mcp)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7125) — [source page](paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7124) — [source page](paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7123) — [source page](paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7122) — [source page](paper.design/)
-- [Pricing • Paper](https://design.withfudge.com/pin/7121) — [source page](paper.design/pricing)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7120) — [source page](paper.design/)
-- [Announcing Paper’s $4.2M seed round, led by Accel · Paper](https://design.withfudge.com/pin/3163) — [source page](paper.design/blog/seed)
+- [Paper MCP server · Paper](https://design.withfudge.com/pin/7126) — [source page](https://paper.design/docs/mcp)
+- [Paper – design, share, ship](https://design.withfudge.com/pin/7125) — [source page](https://paper.design/)
+- [Paper – design, share, ship](https://design.withfudge.com/pin/7124) — [source page](https://paper.design/)
+- [Paper – design, share, ship](https://design.withfudge.com/pin/7123) — [source page](https://paper.design/)
+- [Paper – design, share, ship](https://design.withfudge.com/pin/7122) — [source page](https://paper.design/)
+- [Pricing • Paper](https://design.withfudge.com/pin/7121) — [source page](https://paper.design/pricing)
+- [Paper – design, share, ship](https://design.withfudge.com/pin/7120) — [source page](https://paper.design/)
+- [Announcing Paper’s $4.2M seed round, led by Accel · Paper](https://design.withfudge.com/pin/3163) — [source page](https://paper.design/blog/seed)

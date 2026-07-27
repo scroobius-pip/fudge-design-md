@@ -188,8 +188,8 @@ Here is the visual system observed across **5 captured pages** from [sunflower.m
 ```
 
 ## References
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6008) — [source page](sunflower.me/success)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6007) — [source page](sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6006) — [source page](sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6005) — [source page](sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6003) — [source page](sunflower.me/)
+- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6008) — [source page](https://sunflower.me/success)
+- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6007) — [source page](https://sunflower.me/)
+- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6006) — [source page](https://sunflower.me/)
+- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6005) — [source page](https://sunflower.me/)
+- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6003) — [source page](https://sunflower.me/)

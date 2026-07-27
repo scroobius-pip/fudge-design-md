@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [notewave.ap
 ```
 
 ## References
-- [Feynman AI](https://design.withfudge.com/pin/6359) — [source page](notewave.app/)
-- [Feynman AI](https://design.withfudge.com/pin/6358) — [source page](notewave.app/)
-- [Feynman AI](https://design.withfudge.com/pin/6357) — [source page](notewave.app/)
+- [Feynman AI](https://design.withfudge.com/pin/6359) — [source page](https://notewave.app/)
+- [Feynman AI](https://design.withfudge.com/pin/6358) — [source page](https://notewave.app/)
+- [Feynman AI](https://design.withfudge.com/pin/6357) — [source page](https://notewave.app/)

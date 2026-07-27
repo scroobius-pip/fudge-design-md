@@ -229,9 +229,9 @@ Here is the visual system observed across **6 captured pages** from [writewithsp
 ```
 
 ## References
-- [Spiral](https://design.withfudge.com/pin/8452) — [source page](writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8451) — [source page](writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8450) — [source page](writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8449) — [source page](writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8448) — [source page](writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8447) — [source page](writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8452) — [source page](https://writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8451) — [source page](https://writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8450) — [source page](https://writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8449) — [source page](https://writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8448) — [source page](https://writewithspiral.com/)
+- [Spiral](https://design.withfudge.com/pin/8447) — [source page](https://writewithspiral.com/)

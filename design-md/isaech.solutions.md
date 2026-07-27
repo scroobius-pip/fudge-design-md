@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [isaech.solut
 ```
 
 ## References
-- [404 - Page not found: /dsfa | Isaech Solutions](https://design.withfudge.com/pin/6874) — [source page](isaech.solutions/dsfa)
+- [404 - Page not found: /dsfa | Isaech Solutions](https://design.withfudge.com/pin/6874) — [source page](https://isaech.solutions/dsfa)

@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [grapevine.is
 ```
 
 ## References
-- [Man Found Dead Near Háifoss](https://design.withfudge.com/pin/9141) — [source page](grapevine.is/news/2026/04/27/man-found-dead-near-haifoss/)
+- [Man Found Dead Near Háifoss](https://design.withfudge.com/pin/9141) — [source page](https://grapevine.is/news/2026/04/27/man-found-dead-near-haifoss/)

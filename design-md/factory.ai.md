@@ -329,11 +329,11 @@ Here is the visual system observed across **22 captured pages** from [factory.ai
 ```
 
 ## References
-- [Factory IDE | AI Coding Agents](https://design.withfudge.com/pin/6823) — [source page](factory.ai/product/ide)
-- [About Factory | Agent-Native Development](https://design.withfudge.com/pin/6822) — [source page](factory.ai/company)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6820) — [source page](factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6819) — [source page](factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6818) — [source page](factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6817) — [source page](factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6816) — [source page](factory.ai/enterprise)
-- [Factory | Agent-Native Software Development](https://design.withfudge.com/pin/6815) — [source page](factory.ai/)
+- [Factory IDE | AI Coding Agents](https://design.withfudge.com/pin/6823) — [source page](https://factory.ai/product/ide)
+- [About Factory | Agent-Native Development](https://design.withfudge.com/pin/6822) — [source page](https://factory.ai/company)
+- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6820) — [source page](https://factory.ai/enterprise)
+- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6819) — [source page](https://factory.ai/enterprise)
+- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6818) — [source page](https://factory.ai/enterprise)
+- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6817) — [source page](https://factory.ai/enterprise)
+- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6816) — [source page](https://factory.ai/enterprise)
+- [Factory | Agent-Native Software Development](https://design.withfudge.com/pin/6815) — [source page](https://factory.ai/)

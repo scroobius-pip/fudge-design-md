@@ -191,7 +191,7 @@ Here is the visual system observed across **4 captured pages** from [endl.io](ht
 ```
 
 ## References
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9905) — [source page](endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9904) — [source page](endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9903) — [source page](endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9902) — [source page](endl.io/)
+- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9905) — [source page](https://endl.io/)
+- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9904) — [source page](https://endl.io/)
+- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9903) — [source page](https://endl.io/)
+- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9902) — [source page](https://endl.io/)

@@ -252,11 +252,11 @@ Here is the visual system observed across **9 captured pages** from [macaron.im]
 ```
 
 ## References
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6575) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6574) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6573) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6572) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6571) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5464) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5463) — [source page](macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5462) — [source page](macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6575) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6574) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6573) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6572) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6571) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5464) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5463) — [source page](https://macaron.im/)
+- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5462) — [source page](https://macaron.im/)

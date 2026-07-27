@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [youworkfort
 ```
 
 ## References
-- [Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://design.withfudge.com/pin/7437) — [source page](youworkforthem.com/fonts/free)
-- [Bebas Neue Font Alternatives - YouWorkForThem](https://design.withfudge.com/pin/7436) — [source page](youworkforthem.com/collection/bebas-neue-font-alternatives)
-- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7435) — [source page](youworkforthem.com/)
-- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7434) — [source page](youworkforthem.com/)
-- [Picual Font - YouWorkForThem](https://design.withfudge.com/pin/7433) — [source page](youworkforthem.com/font/T32673/picual)
+- [Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://design.withfudge.com/pin/7437) — [source page](https://youworkforthem.com/fonts/free)
+- [Bebas Neue Font Alternatives - YouWorkForThem](https://design.withfudge.com/pin/7436) — [source page](https://youworkforthem.com/collection/bebas-neue-font-alternatives)
+- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7435) — [source page](https://youworkforthem.com/)
+- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7434) — [source page](https://youworkforthem.com/)
+- [Picual Font - YouWorkForThem](https://design.withfudge.com/pin/7433) — [source page](https://youworkforthem.com/font/T32673/picual)

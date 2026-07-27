@@ -313,11 +313,11 @@ Here is the visual system observed across **38 captured pages** from [anytype.io
 ```
 
 ## References
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8145) — [source page](anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8022) — [source page](anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8021) — [source page](anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8020) — [source page](anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8019) — [source page](anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8018) — [source page](anytype.io/pricing)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8017) — [source page](anytype.io/pricing)
-- [The Everything App](https://design.withfudge.com/pin/1980) — [source page](anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8145) — [source page](https://anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8022) — [source page](https://anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8021) — [source page](https://anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8020) — [source page](https://anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8019) — [source page](https://anytype.io/)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8018) — [source page](https://anytype.io/pricing)
+- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8017) — [source page](https://anytype.io/pricing)
+- [The Everything App](https://design.withfudge.com/pin/1980) — [source page](https://anytype.io/)

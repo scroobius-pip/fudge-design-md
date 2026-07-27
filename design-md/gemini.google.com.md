@@ -154,5 +154,5 @@ Here is the visual system observed across **2 captured pages** from [gemini.goog
 ```
 
 ## References
-- [Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/pin/8794) — [source page](gemini.google.com/app/bbc718fe23109ab6)
-- [Google Gemini](https://design.withfudge.com/pin/5688) — [source page](gemini.google.com/u/1/app)
+- [Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/pin/8794) — [source page](https://gemini.google.com/app/bbc718fe23109ab6)
+- [Google Gemini](https://design.withfudge.com/pin/5688) — [source page](https://gemini.google.com/u/1/app)

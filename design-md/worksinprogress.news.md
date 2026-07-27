@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [worksinprogr
 ```
 
 ## References
-- [The Works in Progress Newsletter | Substack](https://design.withfudge.com/pin/8111) — [source page](worksinprogress.news/)
+- [The Works in Progress Newsletter | Substack](https://design.withfudge.com/pin/8111) — [source page](https://worksinprogress.news/)

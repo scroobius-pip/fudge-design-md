@@ -292,11 +292,11 @@ Here is the visual system observed across **22 captured pages** from [abcdinamo.
 ```
 
 ## References
-- [Dinamo Typefaces](https://design.withfudge.com/pin/8621) — [source page](abcdinamo.com/buy/diatype)
-- [Home — Dinamo Typefaces](https://design.withfudge.com/pin/40) — [source page](abcdinamo.com/)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/39) — [source page](abcdinamo.com/news)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/38) — [source page](abcdinamo.com/news)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/37) — [source page](abcdinamo.com/news)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/36) — [source page](abcdinamo.com/hardware)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/35) — [source page](abcdinamo.com/hardware)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/34) — [source page](abcdinamo.com/hardware)
+- [Dinamo Typefaces](https://design.withfudge.com/pin/8621) — [source page](https://abcdinamo.com/buy/diatype)
+- [Home — Dinamo Typefaces](https://design.withfudge.com/pin/40) — [source page](https://abcdinamo.com/)
+- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/39) — [source page](https://abcdinamo.com/news)
+- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/38) — [source page](https://abcdinamo.com/news)
+- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/37) — [source page](https://abcdinamo.com/news)
+- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/36) — [source page](https://abcdinamo.com/hardware)
+- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/35) — [source page](https://abcdinamo.com/hardware)
+- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/34) — [source page](https://abcdinamo.com/hardware)

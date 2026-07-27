@@ -205,9 +205,9 @@ Here is the visual system observed across **6 captured pages** from [epsteinexpo
 ```
 
 ## References
-- [Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://design.withfudge.com/pin/6931) — [source page](epsteinexposed.com/emails)
-- [Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://design.withfudge.com/pin/6930) — [source page](epsteinexposed.com/chat)
-- [Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://design.withfudge.com/pin/6929) — [source page](epsteinexposed.com/documents)
-- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6928) — [source page](epsteinexposed.com/persons/ghislaine-maxwell)
-- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6927) — [source page](epsteinexposed.com/persons/ghislaine-maxwell)
-- [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://design.withfudge.com/pin/6926) — [source page](epsteinexposed.com/)
+- [Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://design.withfudge.com/pin/6931) — [source page](https://epsteinexposed.com/emails)
+- [Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://design.withfudge.com/pin/6930) — [source page](https://epsteinexposed.com/chat)
+- [Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://design.withfudge.com/pin/6929) — [source page](https://epsteinexposed.com/documents)
+- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6928) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6927) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+- [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://design.withfudge.com/pin/6926) — [source page](https://epsteinexposed.com/)

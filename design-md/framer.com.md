@@ -416,11 +416,11 @@ Here is the visual system observed across **57 captured pages** from [framer.com
 ```
 
 ## References
-- [Framer: AI website editor for site updates](https://design.withfudge.com/pin/10163) — [source page](framer.com/agents/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10162) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10161) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10160) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10159) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10158) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10157) — [source page](framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10156) — [source page](framer.com/)
+- [Framer: AI website editor for site updates](https://design.withfudge.com/pin/10163) — [source page](https://framer.com/agents/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10162) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10161) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10160) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10159) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10158) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10157) — [source page](https://framer.com/)
+- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10156) — [source page](https://framer.com/)

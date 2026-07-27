@@ -236,9 +236,9 @@ Here is the visual system observed across **6 captured pages** from [cypherpunkb
 ```
 
 ## References
-- [The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9527) — [source page](cypherpunkbooks.com/book/the-crypto-anarchist-manifesto)
-- [A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9526) — [source page](cypherpunkbooks.com/book/a-cypherpunks-manifesto)
-- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9525) — [source page](cypherpunkbooks.com/collection)
-- [The Cypherpunk Library](https://design.withfudge.com/pin/9524) — [source page](cypherpunkbooks.com/)
-- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9523) — [source page](cypherpunkbooks.com/collection)
-- [The Cypherpunk Library](https://design.withfudge.com/pin/9522) — [source page](cypherpunkbooks.com/)
+- [The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9527) — [source page](https://cypherpunkbooks.com/book/the-crypto-anarchist-manifesto)
+- [A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9526) — [source page](https://cypherpunkbooks.com/book/a-cypherpunks-manifesto)
+- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9525) — [source page](https://cypherpunkbooks.com/collection)
+- [The Cypherpunk Library](https://design.withfudge.com/pin/9524) — [source page](https://cypherpunkbooks.com/)
+- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9523) — [source page](https://cypherpunkbooks.com/collection)
+- [The Cypherpunk Library](https://design.withfudge.com/pin/9522) — [source page](https://cypherpunkbooks.com/)

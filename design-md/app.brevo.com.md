@@ -218,9 +218,9 @@ Here is the visual system observed across **6 captured pages** from [app.brevo.c
 ```
 
 ## References
-- [Campaigns - Brevo](https://design.withfudge.com/pin/10111) — [source page](app.brevo.com/campaigns/listing)
-- [Hello Simdi - Brevo](https://design.withfudge.com/pin/10059) — [source page](app.brevo.com/)
-- [API keys & MCP - Brevo](https://design.withfudge.com/pin/10058) — [source page](app.brevo.com/settings/keys/api)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5148) — [source page](app.brevo.com/billing/account/plans/customize/starter)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5147) — [source page](app.brevo.com/billing/account/plans/customize/starter)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5146) — [source page](app.brevo.com/billing/account/plans/customize/starter)
+- [Campaigns - Brevo](https://design.withfudge.com/pin/10111) — [source page](https://app.brevo.com/campaigns/listing)
+- [Hello Simdi - Brevo](https://design.withfudge.com/pin/10059) — [source page](https://app.brevo.com/)
+- [API keys & MCP - Brevo](https://design.withfudge.com/pin/10058) — [source page](https://app.brevo.com/settings/keys/api)
+- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5148) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5147) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5146) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)

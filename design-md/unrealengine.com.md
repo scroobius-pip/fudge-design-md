@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [unrealengin
 ```
 
 ## References
-- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7650) — [source page](unrealengine.com/en-US)
-- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7649) — [source page](unrealengine.com/en-US)
-- [Embark Studios build the award-winning ARC Raiders with Unreal Engine - Unreal Engine](https://design.withfudge.com/pin/7648) — [source page](unrealengine.com/en-US/developer-interviews/embark-studios-build-the-award-winning-arc-raiders-with-unreal-engine)
+- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7650) — [source page](https://unrealengine.com/en-US)
+- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7649) — [source page](https://unrealengine.com/en-US)
+- [Embark Studios build the award-winning ARC Raiders with Unreal Engine - Unreal Engine](https://design.withfudge.com/pin/7648) — [source page](https://unrealengine.com/en-US/developer-interviews/embark-studios-build-the-award-winning-arc-raiders-with-unreal-engine)

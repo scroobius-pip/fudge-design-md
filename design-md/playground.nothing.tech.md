@@ -331,11 +331,11 @@ Here is the visual system observed across **18 captured pages** from [playground
 ```
 
 ## References
-- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8564) — [source page](playground.nothing.tech/apps)
-- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8563) — [source page](playground.nothing.tech/apps)
-- [Nothing Playground](https://design.withfudge.com/pin/8562) — [source page](playground.nothing.tech/builder)
-- [Nothing Playground](https://design.withfudge.com/pin/8560) — [source page](playground.nothing.tech/)
-- [HipRapHop Open by Charles TM - Nothing Playground](https://design.withfudge.com/pin/8559) — [source page](playground.nothing.tech/detail/eq/x8UeiIlHHUPm93qp)
-- [Nothing Playground](https://design.withfudge.com/pin/8558) — [source page](playground.nothing.tech/)
-- [Nothing Playground](https://design.withfudge.com/pin/8557) — [source page](playground.nothing.tech/)
-- [Nothing Playground](https://design.withfudge.com/pin/8556) — [source page](playground.nothing.tech/)
+- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8564) — [source page](https://playground.nothing.tech/apps)
+- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8563) — [source page](https://playground.nothing.tech/apps)
+- [Nothing Playground](https://design.withfudge.com/pin/8562) — [source page](https://playground.nothing.tech/builder)
+- [Nothing Playground](https://design.withfudge.com/pin/8560) — [source page](https://playground.nothing.tech/)
+- [HipRapHop Open by Charles TM - Nothing Playground](https://design.withfudge.com/pin/8559) — [source page](https://playground.nothing.tech/detail/eq/x8UeiIlHHUPm93qp)
+- [Nothing Playground](https://design.withfudge.com/pin/8558) — [source page](https://playground.nothing.tech/)
+- [Nothing Playground](https://design.withfudge.com/pin/8557) — [source page](https://playground.nothing.tech/)
+- [Nothing Playground](https://design.withfudge.com/pin/8556) — [source page](https://playground.nothing.tech/)

@@ -342,11 +342,11 @@ Here is the visual system observed across **14 captured pages** from [ashmolean.
 ```
 
 ## References
-- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6603) — [source page](ashmolean.org/working-ashmolean)
-- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6602) — [source page](ashmolean.org/working-ashmolean)
-- [BRINGING HISTORY TO LIFE | 2025 ANNUAL APPEAL | Ashmolean Museum](https://design.withfudge.com/pin/6601) — [source page](ashmolean.org/bringing-history-to-life-2025-appeal)
-- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6600) — [source page](ashmolean.org/plan-your-visit)
-- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6599) — [source page](ashmolean.org/plan-your-visit)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6598) — [source page](ashmolean.org/)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6597) — [source page](ashmolean.org/)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6596) — [source page](ashmolean.org/)
+- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6603) — [source page](https://ashmolean.org/working-ashmolean)
+- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6602) — [source page](https://ashmolean.org/working-ashmolean)
+- [BRINGING HISTORY TO LIFE | 2025 ANNUAL APPEAL | Ashmolean Museum](https://design.withfudge.com/pin/6601) — [source page](https://ashmolean.org/bringing-history-to-life-2025-appeal)
+- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6600) — [source page](https://ashmolean.org/plan-your-visit)
+- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6599) — [source page](https://ashmolean.org/plan-your-visit)
+- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6598) — [source page](https://ashmolean.org/)
+- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6597) — [source page](https://ashmolean.org/)
+- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6596) — [source page](https://ashmolean.org/)

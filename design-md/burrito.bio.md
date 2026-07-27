@@ -122,4 +122,4 @@ Here is the visual system observed across **1 captured page** from [burrito.bio]
 ```
 
 ## References
-- [Biology is a Burrito (& Other Essays)](https://design.withfudge.com/pin/9532) — [source page](burrito.bio/)
+- [Biology is a Burrito (& Other Essays)](https://design.withfudge.com/pin/9532) — [source page](https://burrito.bio/)

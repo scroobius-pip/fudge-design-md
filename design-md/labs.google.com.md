@@ -110,4 +110,4 @@ Here is the visual system observed across **1 captured page** from [labs.google.
 ```
 
 ## References
-- [Pomelli by Google Labs](https://design.withfudge.com/pin/6802) — [source page](labs.google.com/pomelli/about/)
+- [Pomelli by Google Labs](https://design.withfudge.com/pin/6802) — [source page](https://labs.google.com/pomelli/about/)

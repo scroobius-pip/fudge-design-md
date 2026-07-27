@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [restate.dev
 ```
 
 ## References
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7559) — [source page](restate.dev/)
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7558) — [source page](restate.dev/)
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7557) — [source page](restate.dev/)
+- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7559) — [source page](https://restate.dev/)
+- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7558) — [source page](https://restate.dev/)
+- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7557) — [source page](https://restate.dev/)

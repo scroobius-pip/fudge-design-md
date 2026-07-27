@@ -219,10 +219,10 @@ Here is the visual system observed across **7 captured pages** from [standards.s
 ```
 
 ## References
-- [Enterprise Features — Scalable Brand Management — Standards](https://design.withfudge.com/pin/7284) — [source page](standards.site/for-enterprise/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7283) — [source page](standards.site/for-agencies/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7282) — [source page](standards.site/for-agencies/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7281) — [source page](standards.site/for-agencies/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7280) — [source page](standards.site/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7279) — [source page](standards.site/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7278) — [source page](standards.site/)
+- [Enterprise Features — Scalable Brand Management — Standards](https://design.withfudge.com/pin/7284) — [source page](https://standards.site/for-enterprise/)
+- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7283) — [source page](https://standards.site/for-agencies/)
+- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7282) — [source page](https://standards.site/for-agencies/)
+- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7281) — [source page](https://standards.site/for-agencies/)
+- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7280) — [source page](https://standards.site/)
+- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7279) — [source page](https://standards.site/)
+- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7278) — [source page](https://standards.site/)

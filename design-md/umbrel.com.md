@@ -310,11 +310,11 @@ Here is the visual system observed across **10 captured pages** from [umbrel.com
 ```
 
 ## References
-- [Umbrel Pro | Home Cloud with up to 32TB storage](https://design.withfudge.com/pin/8095) — [source page](umbrel.com/umbrel-pro)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8094) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8093) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8092) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8091) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8090) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8089) — [source page](umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8088) — [source page](umbrel.com/umbrelos)
+- [Umbrel Pro | Home Cloud with up to 32TB storage](https://design.withfudge.com/pin/8095) — [source page](https://umbrel.com/umbrel-pro)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8094) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8093) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8092) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8091) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8090) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8089) — [source page](https://umbrel.com/umbrelos)
+- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8088) — [source page](https://umbrel.com/umbrelos)

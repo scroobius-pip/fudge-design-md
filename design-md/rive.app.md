@@ -216,7 +216,7 @@ Here is the visual system observed across **4 captured pages** from [rive.app](h
 ```
 
 ## References
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9764) — [source page](rive.app/)
-- [Rive - Log in](https://design.withfudge.com/pin/9763) — [source page](rive.app/login/)
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9762) — [source page](rive.app/)
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9761) — [source page](rive.app/)
+- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9764) — [source page](https://rive.app/)
+- [Rive - Log in](https://design.withfudge.com/pin/9763) — [source page](https://rive.app/login/)
+- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9762) — [source page](https://rive.app/)
+- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9761) — [source page](https://rive.app/)

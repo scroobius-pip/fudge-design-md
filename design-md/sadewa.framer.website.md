@@ -345,11 +345,11 @@ Here is the visual system observed across **16 captured pages** from [sadewa.fra
 ```
 
 ## References
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5966) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5965) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5964) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5963) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5962) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5961) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5960) — [source page](sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5959) — [source page](sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5966) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5965) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5964) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5963) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5962) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5961) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5960) — [source page](https://sadewa.framer.website/)
+- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5959) — [source page](https://sadewa.framer.website/)

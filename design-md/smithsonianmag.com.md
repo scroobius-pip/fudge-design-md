@@ -230,8 +230,8 @@ Here is the visual system observed across **5 captured pages** from [smithsonian
 ```
 
 ## References
-- [The Man Who Created a Written Language for the Cherokee Did It So Efficiently and Elegantly, His Peers Thought It Was Magic](https://design.withfudge.com/pin/9548) — [source page](smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9547) — [source page](smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9546) — [source page](smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9545) — [source page](smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9544) — [source page](smithsonianmag.com/)
+- [The Man Who Created a Written Language for the Cherokee Did It So Efficiently and Elegantly, His Peers Thought It Was Magic](https://design.withfudge.com/pin/9548) — [source page](https://smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
+- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9547) — [source page](https://smithsonianmag.com/)
+- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9546) — [source page](https://smithsonianmag.com/)
+- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9545) — [source page](https://smithsonianmag.com/)
+- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9544) — [source page](https://smithsonianmag.com/)

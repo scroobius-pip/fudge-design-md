@@ -208,10 +208,10 @@ Here is the visual system observed across **7 captured pages** from [frame.work]
 ```
 
 ## References
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9024) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9023) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9022) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9021) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9020) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9019) — [source page](frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9018) — [source page](frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9024) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9023) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9022) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9021) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9020) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9019) — [source page](https://frame.work/laptop13pro)
+- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9018) — [source page](https://frame.work/laptop13pro)

@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [app.cofounde
 ```
 
 ## References
-- [Cofounder](https://design.withfudge.com/pin/8172) — [source page](app.cofounder.co/login)
+- [Cofounder](https://design.withfudge.com/pin/8172) — [source page](https://app.cofounder.co/login)

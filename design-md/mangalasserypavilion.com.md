@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [mangalassery
 ```
 
 ## References
-- [Services – Mangalassery Pavilion](https://design.withfudge.com/pin/8136) — [source page](mangalasserypavilion.com/services/)
+- [Services – Mangalassery Pavilion](https://design.withfudge.com/pin/8136) — [source page](https://mangalasserypavilion.com/services/)

@@ -80,4 +80,4 @@ Here is the visual system observed across **1 captured page** from [squarespace.
 ```
 
 ## References
-- [Website Builder – Easily Create Your Own Website — Squarespace](https://design.withfudge.com/pin/8161) — [source page](squarespace.com/)
+- [Website Builder – Easily Create Your Own Website — Squarespace](https://design.withfudge.com/pin/8161) — [source page](https://squarespace.com/)

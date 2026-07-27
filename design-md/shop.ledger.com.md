@@ -288,11 +288,11 @@ Here is the visual system observed across **11 captured pages** from [shop.ledge
 ```
 
 ## References
-- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7808) — [source page](shop.ledger.com/products/ledger-nano-x)
-- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7807) — [source page](shop.ledger.com/products/ledger-nano-x)
-- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7806) — [source page](shop.ledger.com/products/ledger-nano-x)
-- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7805) — [source page](shop.ledger.com/products/ledger-nano-x)
-- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7804) — [source page](shop.ledger.com/pages/ledger-flex)
-- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7803) — [source page](shop.ledger.com/pages/ledger-flex)
-- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7802) — [source page](shop.ledger.com/pages/ledger-flex)
-- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7801) — [source page](shop.ledger.com/pages/ledger-flex)
+- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7808) — [source page](https://shop.ledger.com/products/ledger-nano-x)
+- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7807) — [source page](https://shop.ledger.com/products/ledger-nano-x)
+- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7806) — [source page](https://shop.ledger.com/products/ledger-nano-x)
+- [Buy Ledger Nano X Hardware Wallet | Ledger | Ledger](https://design.withfudge.com/pin/7805) — [source page](https://shop.ledger.com/products/ledger-nano-x)
+- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7804) — [source page](https://shop.ledger.com/pages/ledger-flex)
+- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7803) — [source page](https://shop.ledger.com/pages/ledger-flex)
+- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7802) — [source page](https://shop.ledger.com/pages/ledger-flex)
+- [Ledger Flex - intuitive touchscreen hardware signer | Ledger](https://design.withfudge.com/pin/7801) — [source page](https://shop.ledger.com/pages/ledger-flex)

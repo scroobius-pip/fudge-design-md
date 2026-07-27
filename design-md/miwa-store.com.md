@@ -82,4 +82,4 @@ Here is the visual system observed across **1 captured page** from [miwa-store.c
 ```
 
 ## References
-- [Aspirateur sans fil Miwa](https://design.withfudge.com/pin/8914) — [source page](miwa-store.com/products/akku-staubsauger)
+- [Aspirateur sans fil Miwa](https://design.withfudge.com/pin/8914) — [source page](https://miwa-store.com/products/akku-staubsauger)

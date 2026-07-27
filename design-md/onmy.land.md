@@ -156,6 +156,6 @@ Here is the visual system observed across **3 captured pages** from [onmy.land](
 ```
 
 ## References
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9995) — [source page](onmy.land/)
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9994) — [source page](onmy.land/)
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9993) — [source page](onmy.land/)
+- [onmy — Your page, on your land](https://design.withfudge.com/pin/9995) — [source page](https://onmy.land/)
+- [onmy — Your page, on your land](https://design.withfudge.com/pin/9994) — [source page](https://onmy.land/)
+- [onmy — Your page, on your land](https://design.withfudge.com/pin/9993) — [source page](https://onmy.land/)

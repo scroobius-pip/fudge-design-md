@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [godly.websi
 ```
 
 ## References
-- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7443) — [source page](godly.website/)
-- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7432) — [source page](godly.website/)
+- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7443) — [source page](https://godly.website/)
+- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7432) — [source page](https://godly.website/)

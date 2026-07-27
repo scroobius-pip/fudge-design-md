@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [json-render.
 ```
 
 ## References
-- [json-render | The Generative UI Framework](https://design.withfudge.com/pin/7794) — [source page](json-render.dev/)
+- [json-render | The Generative UI Framework](https://design.withfudge.com/pin/7794) — [source page](https://json-render.dev/)

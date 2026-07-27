@@ -176,7 +176,7 @@ Here is the visual system observed across **4 captured pages** from [intl.nothin
 ```
 
 ## References
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7742) — [source page](intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7741) — [source page](intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7740) — [source page](intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7739) — [source page](intl.nothing.tech/products/phone-4a-pro)
+- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7742) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7741) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7740) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7739) — [source page](https://intl.nothing.tech/products/phone-4a-pro)

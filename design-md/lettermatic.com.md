@@ -161,7 +161,7 @@ Here is the visual system observed across **4 captured pages** from [lettermatic
 ```
 
 ## References
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5970) — [source page](lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5969) — [source page](lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5968) — [source page](lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5967) — [source page](lettermatic.com/)
+- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5970) — [source page](https://lettermatic.com/)
+- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5969) — [source page](https://lettermatic.com/)
+- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5968) — [source page](https://lettermatic.com/)
+- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5967) — [source page](https://lettermatic.com/)

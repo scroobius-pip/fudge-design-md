@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [clerk.com](h
 ```
 
 ## References
-- [Clerk | Authentication and User Management](https://design.withfudge.com/pin/10442) — [source page](clerk.com/)
+- [Clerk | Authentication and User Management](https://design.withfudge.com/pin/10442) — [source page](https://clerk.com/)

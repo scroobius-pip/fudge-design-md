@@ -257,10 +257,10 @@ Here is the visual system observed across **7 captured pages** from [shop.heavym
 ```
 
 ## References
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10013) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10012) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10011) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10010) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10009) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10008) — [source page](shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10007) — [source page](shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10013) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10012) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10011) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10010) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10009) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10008) — [source page](https://shop.heavymetal.com/)
+- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10007) — [source page](https://shop.heavymetal.com/)

@@ -168,8 +168,8 @@ Here is the visual system observed across **5 captured pages** from [pressgazett
 ```
 
 ## References
-- [Getty vs Stability AI ruling is 'damp squib' that fails to create precedent - Press Gazette](https://design.withfudge.com/pin/9083) — [source page](pressgazette.co.uk/media_law/getty-vs-stability-ai-copyright-ruling-uk/)
-- [Axel Springer given UK govt approval for Telegraph takeover - Press Gazette](https://design.withfudge.com/pin/9082) — [source page](pressgazette.co.uk/the-wire/media-mergers-news-tracker/axel-springer-given-uk-government-approval-for-telegraph-takeover/)
-- [Breaking news Google referrals doubled to US publishers in a year - Press Gazette](https://design.withfudge.com/pin/9081) — [source page](pressgazette.co.uk/media-audience-and-business-data/us-publishers-see-traffic-boost-for-breaking-news-from-google-discover/)
-- [Women’s interest magazine sales 2025: Harper's Bazaar grows in print and digital - Press Gazette](https://design.withfudge.com/pin/9080) — [source page](pressgazette.co.uk/media-audience-and-business-data/media_metrics/womens-interest-magazine-sales-2025-harpers-bazaar-grows-in-print-and-digital/)
-- [Most popular websites for news in the world: Monthly top 50 listing](https://design.withfudge.com/pin/9079) — [source page](pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/)
+- [Getty vs Stability AI ruling is 'damp squib' that fails to create precedent - Press Gazette](https://design.withfudge.com/pin/9083) — [source page](https://pressgazette.co.uk/media_law/getty-vs-stability-ai-copyright-ruling-uk/)
+- [Axel Springer given UK govt approval for Telegraph takeover - Press Gazette](https://design.withfudge.com/pin/9082) — [source page](https://pressgazette.co.uk/the-wire/media-mergers-news-tracker/axel-springer-given-uk-government-approval-for-telegraph-takeover/)
+- [Breaking news Google referrals doubled to US publishers in a year - Press Gazette](https://design.withfudge.com/pin/9081) — [source page](https://pressgazette.co.uk/media-audience-and-business-data/us-publishers-see-traffic-boost-for-breaking-news-from-google-discover/)
+- [Women’s interest magazine sales 2025: Harper's Bazaar grows in print and digital - Press Gazette](https://design.withfudge.com/pin/9080) — [source page](https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/womens-interest-magazine-sales-2025-harpers-bazaar-grows-in-print-and-digital/)
+- [Most popular websites for news in the world: Monthly top 50 listing](https://design.withfudge.com/pin/9079) — [source page](https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/)

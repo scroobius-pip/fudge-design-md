@@ -301,11 +301,11 @@ Here is the visual system observed across **11 captured pages** from [wolfram.co
 ```
 
 ## References
-- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7112) — [source page](wolfram.com/products/)
-- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7111) — [source page](wolfram.com/products/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7110) — [source page](wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7109) — [source page](wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7108) — [source page](wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7107) — [source page](wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7106) — [source page](wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7105) — [source page](wolfram.com/)
+- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7112) — [source page](https://wolfram.com/products/)
+- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7111) — [source page](https://wolfram.com/products/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7110) — [source page](https://wolfram.com/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7109) — [source page](https://wolfram.com/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7108) — [source page](https://wolfram.com/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7107) — [source page](https://wolfram.com/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7106) — [source page](https://wolfram.com/)
+- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7105) — [source page](https://wolfram.com/)

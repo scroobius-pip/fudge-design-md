@@ -103,5 +103,5 @@ Here is the visual system observed across **2 captured pages** from [artefakt.mo
 ```
 
 ## References
-- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8539) — [source page](artefakt.mov/)
-- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8538) — [source page](artefakt.mov/)
+- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8539) — [source page](https://artefakt.mov/)
+- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8538) — [source page](https://artefakt.mov/)

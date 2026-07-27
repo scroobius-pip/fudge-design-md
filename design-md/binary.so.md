@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [binary.so](
 ```
 
 ## References
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7683) — [source page](binary.so/)
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7682) — [source page](binary.so/)
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7681) — [source page](binary.so/)
+- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7683) — [source page](https://binary.so/)
+- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7682) — [source page](https://binary.so/)
+- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7681) — [source page](https://binary.so/)

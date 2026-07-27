@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [tools.launch
 ```
 
 ## References
-- [Launch Llama Pricing | Free & Paid Plans for Founders](https://design.withfudge.com/pin/9853) — [source page](tools.launchllama.co/pricing)
+- [Launch Llama Pricing | Free & Paid Plans for Founders](https://design.withfudge.com/pin/9853) — [source page](https://tools.launchllama.co/pricing)

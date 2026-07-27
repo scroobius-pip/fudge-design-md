@@ -226,10 +226,10 @@ Here is the visual system observed across **7 captured pages** from [good-fella.
 ```
 
 ## References
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8198) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8197) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8196) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8195) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8194) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8193) — [source page](good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8191) — [source page](good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8198) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8197) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8196) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8195) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8194) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8193) — [source page](https://good-fella.com/)
+- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8191) — [source page](https://good-fella.com/)

@@ -177,9 +177,9 @@ Here is the visual system observed across **6 captured pages** from [replicate.c
 ```
 
 ## References
-- [mattsays/sam3-image | Run with an API on Replicate](https://design.withfudge.com/pin/7601) — [source page](replicate.com/mattsays/sam3-image)
-- [Playground - Run and compare models.](https://design.withfudge.com/pin/5689) — [source page](replicate.com/playground)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5292) — [source page](replicate.com/home)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5188) — [source page](replicate.com/)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5187) — [source page](replicate.com/)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5186) — [source page](replicate.com/)
+- [mattsays/sam3-image | Run with an API on Replicate](https://design.withfudge.com/pin/7601) — [source page](https://replicate.com/mattsays/sam3-image)
+- [Playground - Run and compare models.](https://design.withfudge.com/pin/5689) — [source page](https://replicate.com/playground)
+- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5292) — [source page](https://replicate.com/home)
+- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5188) — [source page](https://replicate.com/)
+- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5187) — [source page](https://replicate.com/)
+- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5186) — [source page](https://replicate.com/)

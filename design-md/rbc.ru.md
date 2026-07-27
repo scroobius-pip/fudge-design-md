@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [rbc.ru](htt
 ```
 
 ## References
-- [Представитель аппарата вице-премьера Григоренко: разработчики ИИ смогут использовать любые данные для обучения моделей — РБК](https://design.withfudge.com/pin/9100) — [source page](rbc.ru/technology_and_media/27/04/2026/69ede8fb9a7947ae89a66727)
-- [Юристы после снегопада в Москве раскрыли стратегию получения компенсаций — РБК](https://design.withfudge.com/pin/9099) — [source page](rbc.ru/society/27/04/2026/69ef9b959a7947236191fdba)
+- [Представитель аппарата вице-премьера Григоренко: разработчики ИИ смогут использовать любые данные для обучения моделей — РБК](https://design.withfudge.com/pin/9100) — [source page](https://rbc.ru/technology_and_media/27/04/2026/69ede8fb9a7947ae89a66727)
+- [Юристы после снегопада в Москве раскрыли стратегию получения компенсаций — РБК](https://design.withfudge.com/pin/9099) — [source page](https://rbc.ru/society/27/04/2026/69ef9b959a7947236191fdba)

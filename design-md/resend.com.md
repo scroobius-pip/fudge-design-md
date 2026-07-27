@@ -263,11 +263,11 @@ Here is the visual system observed across **10 captured pages** from [resend.com
 ```
 
 ## References
-- [Resend](https://design.withfudge.com/pin/9321) — [source page](resend.com/login)
-- [Contacts · Resend](https://design.withfudge.com/pin/6941) — [source page](resend.com/audience)
-- [Domains · Resend](https://design.withfudge.com/pin/6940) — [source page](resend.com/domains)
-- [Pricing · Resend](https://design.withfudge.com/pin/5164) — [source page](resend.com/pricing)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5163) — [source page](resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5162) — [source page](resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5161) — [source page](resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5160) — [source page](resend.com/)
+- [Resend](https://design.withfudge.com/pin/9321) — [source page](https://resend.com/login)
+- [Contacts · Resend](https://design.withfudge.com/pin/6941) — [source page](https://resend.com/audience)
+- [Domains · Resend](https://design.withfudge.com/pin/6940) — [source page](https://resend.com/domains)
+- [Pricing · Resend](https://design.withfudge.com/pin/5164) — [source page](https://resend.com/pricing)
+- [Resend · Email for developers](https://design.withfudge.com/pin/5163) — [source page](https://resend.com/)
+- [Resend · Email for developers](https://design.withfudge.com/pin/5162) — [source page](https://resend.com/)
+- [Resend · Email for developers](https://design.withfudge.com/pin/5161) — [source page](https://resend.com/)
+- [Resend · Email for developers](https://design.withfudge.com/pin/5160) — [source page](https://resend.com/)

@@ -239,10 +239,10 @@ Here is the visual system observed across **7 captured pages** from [mega.nz](ht
 ```
 
 ## References
-- [MEGA](https://design.withfudge.com/pin/8651) — [source page](mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8650) — [source page](mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8649) — [source page](mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8648) — [source page](mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8647) — [source page](mega.nz/fm/account)
-- [MEGA](https://design.withfudge.com/pin/8646) — [source page](mega.nz/fm)
-- [MEGA](https://design.withfudge.com/pin/8645) — [source page](mega.nz/fm)
+- [MEGA](https://design.withfudge.com/pin/8651) — [source page](https://mega.nz/fm/6k5h0KoQ)
+- [MEGA](https://design.withfudge.com/pin/8650) — [source page](https://mega.nz/fm/6k5h0KoQ)
+- [MEGA](https://design.withfudge.com/pin/8649) — [source page](https://mega.nz/fm/6k5h0KoQ)
+- [MEGA](https://design.withfudge.com/pin/8648) — [source page](https://mega.nz/fm/6k5h0KoQ)
+- [MEGA](https://design.withfudge.com/pin/8647) — [source page](https://mega.nz/fm/account)
+- [MEGA](https://design.withfudge.com/pin/8646) — [source page](https://mega.nz/fm)
+- [MEGA](https://design.withfudge.com/pin/8645) — [source page](https://mega.nz/fm)

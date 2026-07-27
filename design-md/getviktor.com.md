@@ -242,11 +242,11 @@ Here is the visual system observed across **8 captured pages** from [getviktor.c
 ```
 
 ## References
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6488) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6487) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6486) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6485) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6484) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6483) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6482) — [source page](getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6481) — [source page](getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6488) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6487) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6486) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6485) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6484) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6483) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6482) — [source page](https://getviktor.com/)
+- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6481) — [source page](https://getviktor.com/)

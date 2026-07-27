@@ -228,11 +228,11 @@ Here is the visual system observed across **8 captured pages** from [invideo.io]
 ```
 
 ## References
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6199) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6198) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6197) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6196) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6195) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6194) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6193) — [source page](invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6192) — [source page](invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6199) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6198) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6197) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6196) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6195) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6194) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6193) — [source page](https://invideo.io/)
+- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6192) — [source page](https://invideo.io/)

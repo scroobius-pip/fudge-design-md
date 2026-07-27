@@ -320,11 +320,11 @@ Here is the visual system observed across **19 captured pages** from [qoves.com]
 ```
 
 ## References
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9258) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9257) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9256) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9255) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9254) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9253) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9252) — [source page](qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9251) — [source page](qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9258) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9257) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9256) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9255) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9254) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9253) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9252) — [source page](https://qoves.com/)
+- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9251) — [source page](https://qoves.com/)

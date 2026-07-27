@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [ia.net](http
 ```
 
 ## References
-- [iA Writer: The Benchmark of Markdown Writing Apps](https://design.withfudge.com/pin/8143) — [source page](ia.net/writer)
+- [iA Writer: The Benchmark of Markdown Writing Apps](https://design.withfudge.com/pin/8143) — [source page](https://ia.net/writer)

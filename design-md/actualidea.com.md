@@ -179,8 +179,8 @@ Here is the visual system observed across **5 captured pages** from [actualidea.
 ```
 
 ## References
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8697) — [source page](actualidea.com/26/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8696) — [source page](actualidea.com/nylon/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8695) — [source page](actualidea.com/nylon4/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8694) — [source page](actualidea.com/26/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8693) — [source page](actualidea.com/26/)
+- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8697) — [source page](https://actualidea.com/26/)
+- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8696) — [source page](https://actualidea.com/nylon/)
+- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8695) — [source page](https://actualidea.com/nylon4/)
+- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8694) — [source page](https://actualidea.com/26/)
+- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8693) — [source page](https://actualidea.com/26/)

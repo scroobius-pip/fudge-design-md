@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [frankchimer
 ```
 
 ## References
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7427) — [source page](frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7426) — [source page](frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7425) — [source page](frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7424) — [source page](frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7423) — [source page](frankchimero.com/)
+- [Frank Chimero · Home](https://design.withfudge.com/pin/7427) — [source page](https://frankchimero.com/)
+- [Frank Chimero · Home](https://design.withfudge.com/pin/7426) — [source page](https://frankchimero.com/)
+- [Frank Chimero · Home](https://design.withfudge.com/pin/7425) — [source page](https://frankchimero.com/)
+- [Frank Chimero · Home](https://design.withfudge.com/pin/7424) — [source page](https://frankchimero.com/)
+- [Frank Chimero · Home](https://design.withfudge.com/pin/7423) — [source page](https://frankchimero.com/)

@@ -76,4 +76,4 @@ Here is the visual system observed across **1 captured page** from [fluid.glass]
 ```
 
 ## References
-- [Fluid Glass - Collection](https://design.withfudge.com/pin/9032) — [source page](fluid.glass/collection)
+- [Fluid Glass - Collection](https://design.withfudge.com/pin/9032) — [source page](https://fluid.glass/collection)

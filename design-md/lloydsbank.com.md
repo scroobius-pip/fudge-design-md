@@ -184,8 +184,8 @@ Here is the visual system observed across **5 captured pages** from [lloydsbank.
 ```
 
 ## References
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8963) — [source page](lloydsbank.com/business/home.html)
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8962) — [source page](lloydsbank.com/business/home.html)
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8961) — [source page](lloydsbank.com/business/home.html)
-- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8960) — [source page](lloydsbank.com/)
-- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8959) — [source page](lloydsbank.com/)
+- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8963) — [source page](https://lloydsbank.com/business/home.html)
+- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8962) — [source page](https://lloydsbank.com/business/home.html)
+- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8961) — [source page](https://lloydsbank.com/business/home.html)
+- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8960) — [source page](https://lloydsbank.com/)
+- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8959) — [source page](https://lloydsbank.com/)

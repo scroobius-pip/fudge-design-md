@@ -107,4 +107,4 @@ Here is the visual system observed across **1 captured page** from [sockpuppet.o
 ```
 
 ## References
-- [The Emacsification of Software — Quarrelsome](https://design.withfudge.com/pin/9305) — [source page](sockpuppet.org/blog/2026/05/12/emacsification/)
+- [The Emacsification of Software — Quarrelsome](https://design.withfudge.com/pin/9305) — [source page](https://sockpuppet.org/blog/2026/05/12/emacsification/)

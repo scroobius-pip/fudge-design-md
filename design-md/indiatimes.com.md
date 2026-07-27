@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [indiatimes.c
 ```
 
 ## References
-- [Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness](https://design.withfudge.com/pin/9000) — [source page](indiatimes.com/)
+- [Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness](https://design.withfudge.com/pin/9000) — [source page](https://indiatimes.com/)

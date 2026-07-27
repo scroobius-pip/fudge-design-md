@@ -126,6 +126,6 @@ Here is the visual system observed across **3 captured pages** from [ui.shadcn.c
 ```
 
 ## References
-- [New Project - shadcn/ui](https://design.withfudge.com/pin/6141) — [source page](ui.shadcn.com/create)
-- [New Project - shadcn/ui](https://design.withfudge.com/pin/6140) — [source page](ui.shadcn.com/create)
-- [Theming - shadcn/ui](https://design.withfudge.com/pin/5948) — [source page](ui.shadcn.com/docs/theming)
+- [New Project - shadcn/ui](https://design.withfudge.com/pin/6141) — [source page](https://ui.shadcn.com/create)
+- [New Project - shadcn/ui](https://design.withfudge.com/pin/6140) — [source page](https://ui.shadcn.com/create)
+- [Theming - shadcn/ui](https://design.withfudge.com/pin/5948) — [source page](https://ui.shadcn.com/docs/theming)

@@ -184,8 +184,8 @@ Here is the visual system observed across **5 captured pages** from [curator.io]
 ```
 
 ## References
-- [Social Media Aggregator Tips, Guides & News | Curator Blog](https://design.withfudge.com/pin/7656) — [source page](curator.io/blog)
-- [Pricing – Curator Social Media Aggregator](https://design.withfudge.com/pin/7654) — [source page](curator.io/pricing)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7653) — [source page](curator.io/)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7652) — [source page](curator.io/)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7651) — [source page](curator.io/)
+- [Social Media Aggregator Tips, Guides & News | Curator Blog](https://design.withfudge.com/pin/7656) — [source page](https://curator.io/blog)
+- [Pricing – Curator Social Media Aggregator](https://design.withfudge.com/pin/7654) — [source page](https://curator.io/pricing)
+- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7653) — [source page](https://curator.io/)
+- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7652) — [source page](https://curator.io/)
+- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7651) — [source page](https://curator.io/)

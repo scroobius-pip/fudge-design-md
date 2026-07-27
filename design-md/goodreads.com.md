@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [goodreads.co
 ```
 
 ## References
-- [Sabriel (Abhorsen, #1) by Garth Nix | Goodreads](https://design.withfudge.com/pin/6138) — [source page](goodreads.com/book/show/518848.Sabriel)
+- [Sabriel (Abhorsen, #1) by Garth Nix | Goodreads](https://design.withfudge.com/pin/6138) — [source page](https://goodreads.com/book/show/518848.Sabriel)

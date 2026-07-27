@@ -238,8 +238,8 @@ Here is the visual system observed across **5 captured pages** from [odylicmedia
 ```
 
 ## References
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8159) — [source page](odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8158) — [source page](odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8157) — [source page](odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8156) — [source page](odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8155) — [source page](odylicmedia.com/)
+- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8159) — [source page](https://odylicmedia.com/)
+- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8158) — [source page](https://odylicmedia.com/)
+- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8157) — [source page](https://odylicmedia.com/)
+- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8156) — [source page](https://odylicmedia.com/)
+- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8155) — [source page](https://odylicmedia.com/)

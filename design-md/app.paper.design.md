@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [app.paper.d
 ```
 
 ## References
-- [Files · Paper](https://design.withfudge.com/pin/8569) — [source page](app.paper.design/)
-- [Files · Paper](https://design.withfudge.com/pin/8568) — [source page](app.paper.design/)
+- [Files · Paper](https://design.withfudge.com/pin/8569) — [source page](https://app.paper.design/)
+- [Files · Paper](https://design.withfudge.com/pin/8568) — [source page](https://app.paper.design/)

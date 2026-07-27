@@ -110,4 +110,4 @@ Here is the visual system observed across **1 captured page** from [tana.inc](ht
 ```
 
 ## References
-- [Tana — Meetings that ship](https://design.withfudge.com/pin/8142) — [source page](tana.inc/)
+- [Tana — Meetings that ship](https://design.withfudge.com/pin/8142) — [source page](https://tana.inc/)

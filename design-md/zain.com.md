@@ -86,4 +86,4 @@ Here is the visual system observed across **1 captured page** from [zain.com](ht
 ```
 
 ## References
-- [Home](https://design.withfudge.com/pin/8334) — [source page](zain.com/en)
+- [Home](https://design.withfudge.com/pin/8334) — [source page](https://zain.com/en)

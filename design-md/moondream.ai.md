@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [moondream.a
 ```
 
 ## References
-- [Moondream](https://design.withfudge.com/pin/7955) — [source page](moondream.ai/login)
-- [Moondream](https://design.withfudge.com/pin/7954) — [source page](moondream.ai/)
-- [Moondream](https://design.withfudge.com/pin/7953) — [source page](moondream.ai/)
+- [Moondream](https://design.withfudge.com/pin/7955) — [source page](https://moondream.ai/login)
+- [Moondream](https://design.withfudge.com/pin/7954) — [source page](https://moondream.ai/)
+- [Moondream](https://design.withfudge.com/pin/7953) — [source page](https://moondream.ai/)

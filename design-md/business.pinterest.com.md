@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [business.pin
 ```
 
 ## References
-- [Marketing on Pinterest | Pinterest Business](https://design.withfudge.com/pin/7628) — [source page](business.pinterest.com/)
+- [Marketing on Pinterest | Pinterest Business](https://design.withfudge.com/pin/7628) — [source page](https://business.pinterest.com/)

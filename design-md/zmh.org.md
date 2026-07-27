@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [zmh.org](htt
 ```
 
 ## References
-- [Zachary Hamed](https://design.withfudge.com/pin/8689) — [source page](zmh.org/)
+- [Zachary Hamed](https://design.withfudge.com/pin/8689) — [source page](https://zmh.org/)

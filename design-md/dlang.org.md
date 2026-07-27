@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [dlang.org](
 ```
 
 ## References
-- [Table of Contents - D Programming Language](https://design.withfudge.com/pin/6416) — [source page](dlang.org/spec/spec.html)
-- [Home - D Programming Language](https://design.withfudge.com/pin/6415) — [source page](dlang.org/)
+- [Table of Contents - D Programming Language](https://design.withfudge.com/pin/6416) — [source page](https://dlang.org/spec/spec.html)
+- [Home - D Programming Language](https://design.withfudge.com/pin/6415) — [source page](https://dlang.org/)

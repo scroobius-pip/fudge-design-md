@@ -305,11 +305,11 @@ Here is the visual system observed across **12 captured pages** from [app.subfra
 ```
 
 ## References
-- [Context Menu — Subframe](https://design.withfudge.com/pin/8787) — [source page](app.subframe.com/43dbad4eab5d/library)
-- [Calendar — Subframe](https://design.withfudge.com/pin/8786) — [source page](app.subframe.com/43dbad4eab5d/library)
-- [Accordion — Subframe](https://design.withfudge.com/pin/8785) — [source page](app.subframe.com/43dbad4eab5d/library)
-- [Components — Subframe](https://design.withfudge.com/pin/8059) — [source page](app.subframe.com/43dbad4eab5d/library)
-- [Pricing Plans — Subframe](https://design.withfudge.com/pin/6474) — [source page](app.subframe.com/43dbad4eab5d/design/f8304564-146e-4448-9423-11ea67d1bb68/edit)
-- [Authorization Successful — Subframe](https://design.withfudge.com/pin/6473) — [source page](app.subframe.com/oauth/consent)
-- [Authorize Application — Subframe](https://design.withfudge.com/pin/6472) — [source page](app.subframe.com/oauth/consent)
-- [Your pages — Subframe](https://design.withfudge.com/pin/6471) — [source page](app.subframe.com/43dbad4eab5d/playground)
+- [Context Menu — Subframe](https://design.withfudge.com/pin/8787) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+- [Calendar — Subframe](https://design.withfudge.com/pin/8786) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+- [Accordion — Subframe](https://design.withfudge.com/pin/8785) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+- [Components — Subframe](https://design.withfudge.com/pin/8059) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+- [Pricing Plans — Subframe](https://design.withfudge.com/pin/6474) — [source page](https://app.subframe.com/43dbad4eab5d/design/f8304564-146e-4448-9423-11ea67d1bb68/edit)
+- [Authorization Successful — Subframe](https://design.withfudge.com/pin/6473) — [source page](https://app.subframe.com/oauth/consent)
+- [Authorize Application — Subframe](https://design.withfudge.com/pin/6472) — [source page](https://app.subframe.com/oauth/consent)
+- [Your pages — Subframe](https://design.withfudge.com/pin/6471) — [source page](https://app.subframe.com/43dbad4eab5d/playground)

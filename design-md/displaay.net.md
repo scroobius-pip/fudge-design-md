@@ -118,5 +118,5 @@ Here is the visual system observed across **2 captured pages** from [displaay.ne
 ```
 
 ## References
-- [Season - Displaay Type Foundry](https://design.withfudge.com/pin/9585) — [source page](displaay.net/typeface/season)
-- [Matter - Displaay Type Foundry](https://design.withfudge.com/pin/3164) — [source page](displaay.net/typeface/matter)
+- [Season - Displaay Type Foundry](https://design.withfudge.com/pin/9585) — [source page](https://displaay.net/typeface/season)
+- [Matter - Displaay Type Foundry](https://design.withfudge.com/pin/3164) — [source page](https://displaay.net/typeface/matter)

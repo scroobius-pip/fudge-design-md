@@ -364,11 +364,11 @@ Here is the visual system observed across **13 captured pages** from [morphllm.c
 ```
 
 ## References
-- [Dashboard | Morph](https://design.withfudge.com/pin/7228) — [source page](morphllm.com/dashboard/api-keys)
-- [Morph MCP - Supercharge Your Coding Agent | Morph](https://design.withfudge.com/pin/7227) — [source page](morphllm.com/mcp)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7226) — [source page](morphllm.com/onboarding/6)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7225) — [source page](morphllm.com/onboarding/3)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7224) — [source page](morphllm.com/onboarding)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7223) — [source page](morphllm.com/sign-up)
-- [Pricing | Morph](https://design.withfudge.com/pin/7222) — [source page](morphllm.com/pricing)
-- [Pricing | Morph](https://design.withfudge.com/pin/7221) — [source page](morphllm.com/pricing)
+- [Dashboard | Morph](https://design.withfudge.com/pin/7228) — [source page](https://morphllm.com/dashboard/api-keys)
+- [Morph MCP - Supercharge Your Coding Agent | Morph](https://design.withfudge.com/pin/7227) — [source page](https://morphllm.com/mcp)
+- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7226) — [source page](https://morphllm.com/onboarding/6)
+- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7225) — [source page](https://morphllm.com/onboarding/3)
+- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7224) — [source page](https://morphllm.com/onboarding)
+- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7223) — [source page](https://morphllm.com/sign-up)
+- [Pricing | Morph](https://design.withfudge.com/pin/7222) — [source page](https://morphllm.com/pricing)
+- [Pricing | Morph](https://design.withfudge.com/pin/7221) — [source page](https://morphllm.com/pricing)

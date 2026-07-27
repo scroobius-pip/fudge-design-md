@@ -361,11 +361,11 @@ Here is the visual system observed across **19 captured pages** from [windscribe
 ```
 
 ## References
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10079) — [source page](windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10078) — [source page](windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10077) — [source page](windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10076) — [source page](windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10075) — [source page](windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10074) — [source page](windscribe.com/signup)
-- [Login - Windscribe](https://design.withfudge.com/pin/5006) — [source page](windscribe.com/login)
-- [Windscribe | Turn your friend into a best friend](https://design.withfudge.com/pin/5005) — [source page](windscribe.com/referafriend/)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10079) — [source page](https://windscribe.com/signup)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10078) — [source page](https://windscribe.com/signup)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10077) — [source page](https://windscribe.com/signup)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10076) — [source page](https://windscribe.com/signup)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10075) — [source page](https://windscribe.com/signup)
+- [Sign Up | Windscribe](https://design.withfudge.com/pin/10074) — [source page](https://windscribe.com/signup)
+- [Login - Windscribe](https://design.withfudge.com/pin/5006) — [source page](https://windscribe.com/login)
+- [Windscribe | Turn your friend into a best friend](https://design.withfudge.com/pin/5005) — [source page](https://windscribe.com/referafriend/)

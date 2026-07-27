@@ -92,4 +92,4 @@ Here is the visual system observed across **1 captured page** from [reader.sparx
 ```
 
 ## References
-- [Love & Gelato - Sparx Reader](https://design.withfudge.com/pin/7606) — [source page](reader.sparx-learning.com/task)
+- [Love & Gelato - Sparx Reader](https://design.withfudge.com/pin/7606) — [source page](https://reader.sparx-learning.com/task)

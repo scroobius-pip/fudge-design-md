@@ -193,7 +193,7 @@ Here is the visual system observed across **4 captured pages** from [rachelchen.
 ```
 
 ## References
-- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7303) — [source page](rachelchen.tech/fun)
-- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7302) — [source page](rachelchen.tech/projects/openai)
-- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7301) — [source page](rachelchen.tech/projects/openai)
-- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7300) — [source page](rachelchen.tech/)
+- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7303) — [source page](https://rachelchen.tech/fun)
+- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7302) — [source page](https://rachelchen.tech/projects/openai)
+- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7301) — [source page](https://rachelchen.tech/projects/openai)
+- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7300) — [source page](https://rachelchen.tech/)

@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [agent.minima
 ```
 
 ## References
-- [MiniMax Agent: Minimize Effort, Maximize Intelligence](https://design.withfudge.com/pin/7992) — [source page](agent.minimax.io/chat)
+- [MiniMax Agent: Minimize Effort, Maximize Intelligence](https://design.withfudge.com/pin/7992) — [source page](https://agent.minimax.io/chat)

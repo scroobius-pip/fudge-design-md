@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [annas-archiv
 ```
 
 ## References
-- [Anna’s Blog](https://design.withfudge.com/pin/6697) — [source page](annas-archive.li/blog/)
+- [Anna’s Blog](https://design.withfudge.com/pin/6697) — [source page](https://annas-archive.li/blog/)

@@ -184,8 +184,8 @@ Here is the visual system observed across **5 captured pages** from [paradigmai.
 ```
 
 ## References
-- [Paradigm - Recruiting](https://design.withfudge.com/pin/8217) — [source page](paradigmai.com/solutions/recruiting)
-- [Paradigm](https://design.withfudge.com/pin/8216) — [source page](paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8215) — [source page](paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8214) — [source page](paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8213) — [source page](paradigmai.com/)
+- [Paradigm - Recruiting](https://design.withfudge.com/pin/8217) — [source page](https://paradigmai.com/solutions/recruiting)
+- [Paradigm](https://design.withfudge.com/pin/8216) — [source page](https://paradigmai.com/)
+- [Paradigm](https://design.withfudge.com/pin/8215) — [source page](https://paradigmai.com/)
+- [Paradigm](https://design.withfudge.com/pin/8214) — [source page](https://paradigmai.com/)
+- [Paradigm](https://design.withfudge.com/pin/8213) — [source page](https://paradigmai.com/)

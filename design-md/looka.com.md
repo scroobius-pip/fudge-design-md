@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [looka.com](h
 ```
 
 ## References
-- [Logo Design Pricing, Packages & Add-Ons - Looka](https://design.withfudge.com/pin/9841) — [source page](looka.com/pricing/)
+- [Logo Design Pricing, Packages & Add-Ons - Looka](https://design.withfudge.com/pin/9841) — [source page](https://looka.com/pricing/)

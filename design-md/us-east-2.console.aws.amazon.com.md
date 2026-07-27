@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [us-east-2.co
 ```
 
 ## References
-- [Console Home | Console Home | us-east-2](https://design.withfudge.com/pin/7598) — [source page](us-east-2.console.aws.amazon.com/console/home)
+- [Console Home | Console Home | us-east-2](https://design.withfudge.com/pin/7598) — [source page](https://us-east-2.console.aws.amazon.com/console/home)

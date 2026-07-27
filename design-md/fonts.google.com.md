@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [fonts.google
 ```
 
 ## References
-- [Mozilla Headline - Google Fonts](https://design.withfudge.com/pin/10216) — [source page](fonts.google.com/specimen/Mozilla+Headline)
+- [Mozilla Headline - Google Fonts](https://design.withfudge.com/pin/10216) — [source page](https://fonts.google.com/specimen/Mozilla+Headline)

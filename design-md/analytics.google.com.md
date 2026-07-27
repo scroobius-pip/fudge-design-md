@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [analytics.g
 ```
 
 ## References
-- [Analytics | Home](https://design.withfudge.com/pin/6041) — [source page](analytics.google.com/analytics/web/)
-- [Analytics | Home](https://design.withfudge.com/pin/6040) — [source page](analytics.google.com/analytics/web/)
+- [Analytics | Home](https://design.withfudge.com/pin/6041) — [source page](https://analytics.google.com/analytics/web/)
+- [Analytics | Home](https://design.withfudge.com/pin/6040) — [source page](https://analytics.google.com/analytics/web/)

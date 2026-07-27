@@ -124,4 +124,4 @@ Here is the visual system observed across **1 captured page** from [deviantart.c
 ```
 
 ## References
-- [Log In | DeviantArt](https://design.withfudge.com/pin/7789) — [source page](deviantart.com/users/login)
+- [Log In | DeviantArt](https://design.withfudge.com/pin/7789) — [source page](https://deviantart.com/users/login)

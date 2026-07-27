@@ -510,11 +510,11 @@ Here is the visual system observed across **18 captured pages** from [laylo.com]
 ```
 
 ## References
-- [Settings • Laylo](https://design.withfudge.com/pin/10031) — [source page](laylo.com/settings)
-- [Agents • Laylo](https://design.withfudge.com/pin/10030) — [source page](laylo.com/agents)
-- [Messages • Laylo](https://design.withfudge.com/pin/10029) — [source page](laylo.com/messages)
-- [Profile • Laylo](https://design.withfudge.com/pin/10028) — [source page](laylo.com/profile)
-- [Home • Laylo](https://design.withfudge.com/pin/10027) — [source page](laylo.com/drops)
-- [Laylo](https://design.withfudge.com/pin/10026) — [source page](laylo.com/onboarding/ownYourBranding)
-- [Laylo](https://design.withfudge.com/pin/10025) — [source page](laylo.com/onboarding/verify)
-- [Laylo](https://design.withfudge.com/pin/10024) — [source page](laylo.com/onboarding/introduceYourself)
+- [Settings • Laylo](https://design.withfudge.com/pin/10031) — [source page](https://laylo.com/settings)
+- [Agents • Laylo](https://design.withfudge.com/pin/10030) — [source page](https://laylo.com/agents)
+- [Messages • Laylo](https://design.withfudge.com/pin/10029) — [source page](https://laylo.com/messages)
+- [Profile • Laylo](https://design.withfudge.com/pin/10028) — [source page](https://laylo.com/profile)
+- [Home • Laylo](https://design.withfudge.com/pin/10027) — [source page](https://laylo.com/drops)
+- [Laylo](https://design.withfudge.com/pin/10026) — [source page](https://laylo.com/onboarding/ownYourBranding)
+- [Laylo](https://design.withfudge.com/pin/10025) — [source page](https://laylo.com/onboarding/verify)
+- [Laylo](https://design.withfudge.com/pin/10024) — [source page](https://laylo.com/onboarding/introduceYourself)

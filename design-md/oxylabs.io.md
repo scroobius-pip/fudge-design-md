@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [oxylabs.io]
 ```
 
 ## References
-- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9865) — [source page](oxylabs.io/)
-- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9864) — [source page](oxylabs.io/)
+- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9865) — [source page](https://oxylabs.io/)
+- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9864) — [source page](https://oxylabs.io/)

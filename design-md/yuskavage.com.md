@@ -178,7 +178,7 @@ Here is the visual system observed across **4 captured pages** from [yuskavage.c
 ```
 
 ## References
-- [Media - Yuskavage](https://design.withfudge.com/pin/7296) — [source page](yuskavage.com/media/)
-- [Exhibitions - Yuskavage](https://design.withfudge.com/pin/7295) — [source page](yuskavage.com/exhibitions/)
-- [Bio - Yuskavage](https://design.withfudge.com/pin/7294) — [source page](yuskavage.com/bio/)
-- [Home - Yuskavage](https://design.withfudge.com/pin/7293) — [source page](yuskavage.com/)
+- [Media - Yuskavage](https://design.withfudge.com/pin/7296) — [source page](https://yuskavage.com/media/)
+- [Exhibitions - Yuskavage](https://design.withfudge.com/pin/7295) — [source page](https://yuskavage.com/exhibitions/)
+- [Bio - Yuskavage](https://design.withfudge.com/pin/7294) — [source page](https://yuskavage.com/bio/)
+- [Home - Yuskavage](https://design.withfudge.com/pin/7293) — [source page](https://yuskavage.com/)

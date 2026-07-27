@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [app.squareu
 ```
 
 ## References
-- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9725) — [source page](app.squareup.com/login)
-- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9724) — [source page](app.squareup.com/login)
+- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9725) — [source page](https://app.squareup.com/login)
+- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9724) — [source page](https://app.squareup.com/login)

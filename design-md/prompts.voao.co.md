@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [prompts.voa
 ```
 
 ## References
-- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8541) — [source page](prompts.voao.co/gallery)
-- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8540) — [source page](prompts.voao.co/)
+- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8541) — [source page](https://prompts.voao.co/gallery)
+- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8540) — [source page](https://prompts.voao.co/)

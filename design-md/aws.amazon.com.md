@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [aws.amazon.c
 ```
 
 ## References
-- [Free Cloud Computing Services - AWS Free Tier](https://design.withfudge.com/pin/7600) — [source page](aws.amazon.com/free/)
+- [Free Cloud Computing Services - AWS Free Tier](https://design.withfudge.com/pin/7600) — [source page](https://aws.amazon.com/free/)

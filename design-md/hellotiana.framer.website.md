@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [hellotiana.
 ```
 
 ## References
-- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9054) — [source page](hellotiana.framer.website/)
-- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9053) — [source page](hellotiana.framer.website/)
+- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9054) — [source page](https://hellotiana.framer.website/)
+- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9053) — [source page](https://hellotiana.framer.website/)

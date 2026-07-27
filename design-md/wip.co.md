@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [wip.co](htt
 ```
 
 ## References
-- [WIP](https://design.withfudge.com/pin/7067) — [source page](wip.co/)
-- [WIP](https://design.withfudge.com/pin/7066) — [source page](wip.co/)
+- [WIP](https://design.withfudge.com/pin/7067) — [source page](https://wip.co/)
+- [WIP](https://design.withfudge.com/pin/7066) — [source page](https://wip.co/)

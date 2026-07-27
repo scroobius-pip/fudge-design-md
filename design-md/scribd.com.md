@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [scribd.com]
 ```
 
 ## References
-- [Discover the Best eBooks, Audiobooks, Magazines, Sheet Music, and More | Scribd](https://design.withfudge.com/pin/7165) — [source page](scribd.com/checkout/payment-options)
-- [Discover the Best eBooks, Audiobooks, Magazines, Sheet Music, and More | Scribd](https://design.withfudge.com/pin/7164) — [source page](scribd.com/checkout)
-- [Scribd: Home to the world’s documents.](https://design.withfudge.com/pin/7160) — [source page](scribd.com/)
+- [Discover the Best eBooks, Audiobooks, Magazines, Sheet Music, and More | Scribd](https://design.withfudge.com/pin/7165) — [source page](https://scribd.com/checkout/payment-options)
+- [Discover the Best eBooks, Audiobooks, Magazines, Sheet Music, and More | Scribd](https://design.withfudge.com/pin/7164) — [source page](https://scribd.com/checkout)
+- [Scribd: Home to the world’s documents.](https://design.withfudge.com/pin/7160) — [source page](https://scribd.com/)

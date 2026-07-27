@@ -353,11 +353,11 @@ Here is the visual system observed across **24 captured pages** from [notion.com
 ```
 
 ## References
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9284) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9283) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9282) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9281) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9280) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9279) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9278) — [source page](notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9277) — [source page](notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9284) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9283) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9282) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9281) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9280) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9279) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9278) — [source page](https://notion.com/product/dev)
+- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9277) — [source page](https://notion.com/product/dev)

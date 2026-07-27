@@ -335,11 +335,11 @@ Here is the visual system observed across **26 captured pages** from [micro.so](
 ```
 
 ## References
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8733) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8732) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8731) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8730) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8729) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8728) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8727) — [source page](micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8726) — [source page](micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8733) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8732) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8731) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8730) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8729) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8728) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8727) — [source page](https://micro.so/)
+- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8726) — [source page](https://micro.so/)

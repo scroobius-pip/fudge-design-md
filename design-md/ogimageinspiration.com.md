@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [ogimageinspi
 ```
 
 ## References
-- [Open Graph Image Inspiration](https://design.withfudge.com/pin/7422) — [source page](ogimageinspiration.com/)
+- [Open Graph Image Inspiration](https://design.withfudge.com/pin/7422) — [source page](https://ogimageinspiration.com/)

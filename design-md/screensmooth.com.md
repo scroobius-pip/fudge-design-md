@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [screensmoot
 ```
 
 ## References
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7332) — [source page](screensmooth.com/)
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7331) — [source page](screensmooth.com/)
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7330) — [source page](screensmooth.com/)
+- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7332) — [source page](https://screensmooth.com/)
+- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7331) — [source page](https://screensmooth.com/)
+- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7330) — [source page](https://screensmooth.com/)

@@ -210,8 +210,8 @@ Here is the visual system observed across **5 captured pages** from [skill-shrek
 ```
 
 ## References
-- [Skill Shrek](https://design.withfudge.com/pin/6625) — [source page](skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6622) — [source page](skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6621) — [source page](skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6620) — [source page](skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6619) — [source page](skill-shrek.vercel.app/)
+- [Skill Shrek](https://design.withfudge.com/pin/6625) — [source page](https://skill-shrek.vercel.app/)
+- [Skill Shrek](https://design.withfudge.com/pin/6622) — [source page](https://skill-shrek.vercel.app/)
+- [Skill Shrek](https://design.withfudge.com/pin/6621) — [source page](https://skill-shrek.vercel.app/)
+- [Skill Shrek](https://design.withfudge.com/pin/6620) — [source page](https://skill-shrek.vercel.app/)
+- [Skill Shrek](https://design.withfudge.com/pin/6619) — [source page](https://skill-shrek.vercel.app/)

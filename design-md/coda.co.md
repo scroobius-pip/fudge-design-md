@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [coda.co](ht
 ```
 
 ## References
-- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6759) — [source page](coda.co/merchant-of-record/)
-- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6758) — [source page](coda.co/merchant-of-record/)
+- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6759) — [source page](https://coda.co/merchant-of-record/)
+- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6758) — [source page](https://coda.co/merchant-of-record/)

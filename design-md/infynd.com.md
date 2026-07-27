@@ -95,4 +95,4 @@ Here is the visual system observed across **1 captured page** from [infynd.com](
 ```
 
 ## References
-- [InFynd | B2B Data & Sales Intelligence Platform UK](https://design.withfudge.com/pin/9491) — [source page](infynd.com/)
+- [InFynd | B2B Data & Sales Intelligence Platform UK](https://design.withfudge.com/pin/9491) — [source page](https://infynd.com/)

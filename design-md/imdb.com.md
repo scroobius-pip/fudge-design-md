@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [imdb.com](ht
 ```
 
 ## References
-- [Monster (2003) - IMDb](https://design.withfudge.com/pin/8978) — [source page](imdb.com/title/tt0340855/)
+- [Monster (2003) - IMDb](https://design.withfudge.com/pin/8978) — [source page](https://imdb.com/title/tt0340855/)

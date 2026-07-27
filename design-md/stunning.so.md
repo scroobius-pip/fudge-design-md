@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [stunning.so]
 ```
 
 ## References
-- [Stunning - Build Full Stack Apps 10x faster with AI.](https://design.withfudge.com/pin/6715) — [source page](stunning.so/)
+- [Stunning - Build Full Stack Apps 10x faster with AI.](https://design.withfudge.com/pin/6715) — [source page](https://stunning.so/)

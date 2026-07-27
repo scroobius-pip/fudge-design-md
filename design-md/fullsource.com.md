@@ -112,4 +112,4 @@ Here is the visual system observed across **1 captured page** from [fullsource.c
 ```
 
 ## References
-- [Full Source® | Safety Supplies, Workwear & Apparel](https://design.withfudge.com/pin/9937) — [source page](fullsource.com/)
+- [Full Source® | Safety Supplies, Workwear & Apparel](https://design.withfudge.com/pin/9937) — [source page](https://fullsource.com/)

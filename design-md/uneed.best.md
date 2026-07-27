@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [uneed.best]
 ```
 
 ## References
-- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6624) — [source page](uneed.best/)
-- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6623) — [source page](uneed.best/)
+- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6624) — [source page](https://uneed.best/)
+- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6623) — [source page](https://uneed.best/)

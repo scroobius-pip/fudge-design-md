@@ -205,9 +205,9 @@ Here is the visual system observed across **6 captured pages** from [jace.ai](ht
 ```
 
 ## References
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8614) — [source page](jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8613) — [source page](jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8612) — [source page](jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8611) — [source page](jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8610) — [source page](jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8609) — [source page](jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8614) — [source page](https://jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8613) — [source page](https://jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8612) — [source page](https://jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8611) — [source page](https://jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8610) — [source page](https://jace.ai/)
+- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8609) — [source page](https://jace.ai/)

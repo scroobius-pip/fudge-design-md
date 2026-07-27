@@ -234,9 +234,9 @@ Here is the visual system observed across **6 captured pages** from [kapa.ai](ht
 ```
 
 ## References
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9502) — [source page](kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9501) — [source page](kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9500) — [source page](kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9499) — [source page](kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9498) — [source page](kapa.ai/request-demo)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9497) — [source page](kapa.ai/)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9502) — [source page](https://kapa.ai/)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9501) — [source page](https://kapa.ai/)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9500) — [source page](https://kapa.ai/)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9499) — [source page](https://kapa.ai/)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9498) — [source page](https://kapa.ai/request-demo)
+- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9497) — [source page](https://kapa.ai/)

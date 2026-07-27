@@ -97,4 +97,4 @@ Here is the visual system observed across **1 captured page** from [auth.twitch.
 ```
 
 ## References
-- [Twitch Auth](https://design.withfudge.com/pin/8525) — [source page](auth.twitch.tv/authorize)
+- [Twitch Auth](https://design.withfudge.com/pin/8525) — [source page](https://auth.twitch.tv/authorize)

@@ -237,10 +237,10 @@ Here is the visual system observed across **7 captured pages** from [ycombinator
 ```
 
 ## References
-- [Operations Associate – Data Samples & Customer Success at Sixtyfour | Y Combinator](https://design.withfudge.com/pin/10032) — [source page](ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
-- [Y Combinator](https://design.withfudge.com/pin/6679) — [source page](ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6678) — [source page](ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6677) — [source page](ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6676) — [source page](ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6675) — [source page](ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6674) — [source page](ycombinator.com/)
+- [Operations Associate – Data Samples & Customer Success at Sixtyfour | Y Combinator](https://design.withfudge.com/pin/10032) — [source page](https://ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
+- [Y Combinator](https://design.withfudge.com/pin/6679) — [source page](https://ycombinator.com/)
+- [Y Combinator](https://design.withfudge.com/pin/6678) — [source page](https://ycombinator.com/)
+- [Y Combinator](https://design.withfudge.com/pin/6677) — [source page](https://ycombinator.com/)
+- [Y Combinator](https://design.withfudge.com/pin/6676) — [source page](https://ycombinator.com/)
+- [Y Combinator](https://design.withfudge.com/pin/6675) — [source page](https://ycombinator.com/)
+- [Y Combinator](https://design.withfudge.com/pin/6674) — [source page](https://ycombinator.com/)

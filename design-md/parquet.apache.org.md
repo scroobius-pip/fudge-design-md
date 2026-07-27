@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [parquet.apac
 ```
 
 ## References
-- [Parquet](https://design.withfudge.com/pin/7599) — [source page](parquet.apache.org/)
+- [Parquet](https://design.withfudge.com/pin/7599) — [source page](https://parquet.apache.org/)

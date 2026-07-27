@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [machinelearn
 ```
 
 ## References
-- [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents - Apple Machine Learning Research](https://design.withfudge.com/pin/7368) — [source page](machinelearning.apple.com/research/ferret-ui)
+- [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents - Apple Machine Learning Research](https://design.withfudge.com/pin/7368) — [source page](https://machinelearning.apple.com/research/ferret-ui)

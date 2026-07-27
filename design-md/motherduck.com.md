@@ -178,7 +178,7 @@ Here is the visual system observed across **4 captured pages** from [motherduck.
 ```
 
 ## References
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9374) — [source page](motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9373) — [source page](motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9372) — [source page](motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9371) — [source page](motherduck.com/)
+- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9374) — [source page](https://motherduck.com/)
+- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9373) — [source page](https://motherduck.com/)
+- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9372) — [source page](https://motherduck.com/)
+- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9371) — [source page](https://motherduck.com/)

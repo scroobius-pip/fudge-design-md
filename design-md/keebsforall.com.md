@@ -94,4 +94,4 @@ Here is the visual system observed across **1 captured page** from [keebsforall.
 ```
 
 ## References
-- [MKC75 Keyboard by MyKeyClub | Custom Mechanical Keyboards – KeebsForAll](https://design.withfudge.com/pin/9521) — [source page](keebsforall.com/collections/keyboards/products/mkc75-by-mykeyclub)
+- [MKC75 Keyboard by MyKeyClub | Custom Mechanical Keyboards – KeebsForAll](https://design.withfudge.com/pin/9521) — [source page](https://keebsforall.com/collections/keyboards/products/mkc75-by-mykeyclub)

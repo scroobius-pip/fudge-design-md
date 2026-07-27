@@ -117,5 +117,5 @@ Here is the visual system observed across **2 captured pages** from [account.not
 ```
 
 ## References
-- [Nothing Account - Login](https://design.withfudge.com/pin/8561) — [source page](account.nothing.tech/login/)
-- [Nothing Account - Login](https://design.withfudge.com/pin/3303) — [source page](account.nothing.tech/login/)
+- [Nothing Account - Login](https://design.withfudge.com/pin/8561) — [source page](https://account.nothing.tech/login/)
+- [Nothing Account - Login](https://design.withfudge.com/pin/3303) — [source page](https://account.nothing.tech/login/)

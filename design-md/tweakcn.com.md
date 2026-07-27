@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [tweakcn.com
 ```
 
 ## References
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6204) — [source page](tweakcn.com/editor/theme)
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6203) — [source page](tweakcn.com/editor/theme)
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6202) — [source page](tweakcn.com/editor/theme)
+- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6204) — [source page](https://tweakcn.com/editor/theme)
+- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6203) — [source page](https://tweakcn.com/editor/theme)
+- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6202) — [source page](https://tweakcn.com/editor/theme)

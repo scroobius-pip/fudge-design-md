@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [classy.md](
 ```
 
 ## References
-- [Classy](https://design.withfudge.com/pin/10090) — [source page](classy.md/)
-- [Classy](https://design.withfudge.com/pin/10089) — [source page](classy.md/)
+- [Classy](https://design.withfudge.com/pin/10090) — [source page](https://classy.md/)
+- [Classy](https://design.withfudge.com/pin/10089) — [source page](https://classy.md/)

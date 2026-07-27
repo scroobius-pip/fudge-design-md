@@ -136,4 +136,4 @@ Here is the visual system observed across **1 captured page** from [creatoom.com
 ```
 
 ## References
-- [Premium and free mockups psd - Creatoom](https://design.withfudge.com/pin/9901) — [source page](creatoom.com/)
+- [Premium and free mockups psd - Creatoom](https://design.withfudge.com/pin/9901) — [source page](https://creatoom.com/)

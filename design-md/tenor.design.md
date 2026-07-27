@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [tenor.desig
 ```
 
 ## References
-- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9034) — [source page](tenor.design/)
-- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9033) — [source page](tenor.design/)
+- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9034) — [source page](https://tenor.design/)
+- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9033) — [source page](https://tenor.design/)

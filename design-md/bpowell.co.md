@@ -102,4 +102,4 @@ Here is the visual system observed across **1 captured page** from [bpowell.co](
 ```
 
 ## References
-- [Ben Powell Independent Designer + Filmmaker](https://design.withfudge.com/pin/7277) — [source page](bpowell.co/)
+- [Ben Powell Independent Designer + Filmmaker](https://design.withfudge.com/pin/7277) — [source page](https://bpowell.co/)

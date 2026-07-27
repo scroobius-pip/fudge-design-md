@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [seesaw.webs
 ```
 
 ## References
-- [Aileen Luo — SEESAW](https://design.withfudge.com/pin/10229) — [source page](seesaw.website/websites/aileenland)
-- [SEESAW ✦ Design Inspiration](https://design.withfudge.com/pin/10228) — [source page](seesaw.website/)
+- [Aileen Luo — SEESAW](https://design.withfudge.com/pin/10229) — [source page](https://seesaw.website/websites/aileenland)
+- [SEESAW ✦ Design Inspiration](https://design.withfudge.com/pin/10228) — [source page](https://seesaw.website/)

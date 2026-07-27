@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [quintoandar.
 ```
 
 ## References
-- [Abra as portas para um novo morar - QuintoAndar](https://design.withfudge.com/pin/8977) — [source page](quintoandar.com.br/)
+- [Abra as portas para um novo morar - QuintoAndar](https://design.withfudge.com/pin/8977) — [source page](https://quintoandar.com.br/)

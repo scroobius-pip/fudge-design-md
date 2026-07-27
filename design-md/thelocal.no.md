@@ -142,6 +142,6 @@ Here is the visual system observed across **3 captured pages** from [thelocal.no
 ```
 
 ## References
-- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9147) — [source page](thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
-- [EXPLAINED: Why Oslo experiences earthquakes and what the risk is](https://design.withfudge.com/pin/9145) — [source page](thelocal.no/20260428/explained-why-oslo-experiences-earthquakes-and-what-the-risk-is)
-- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9144) — [source page](thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
+- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9147) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
+- [EXPLAINED: Why Oslo experiences earthquakes and what the risk is](https://design.withfudge.com/pin/9145) — [source page](https://thelocal.no/20260428/explained-why-oslo-experiences-earthquakes-and-what-the-risk-is)
+- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9144) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)

@@ -300,11 +300,11 @@ Here is the visual system observed across **10 captured pages** from [alpine.inc
 ```
 
 ## References
-- [Alpine](https://design.withfudge.com/pin/7702) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7701) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7700) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7699) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7698) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7697) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7696) — [source page](alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7695) — [source page](alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7702) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7701) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7700) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7699) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7698) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7697) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7696) — [source page](https://alpine.inc/)
+- [Alpine](https://design.withfudge.com/pin/7695) — [source page](https://alpine.inc/)

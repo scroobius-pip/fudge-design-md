@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [voiceos.com
 ```
 
 ## References
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6414) — [source page](voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6413) — [source page](voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6412) — [source page](voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6411) — [source page](voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6410) — [source page](voiceos.com/)
+- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6414) — [source page](https://voiceos.com/)
+- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6413) — [source page](https://voiceos.com/)
+- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6412) — [source page](https://voiceos.com/)
+- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6411) — [source page](https://voiceos.com/)
+- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6410) — [source page](https://voiceos.com/)

@@ -78,4 +78,4 @@ Here is the visual system observed across **1 captured page** from [typeby.com](
 ```
 
 ## References
-- [TYPE BY](https://design.withfudge.com/pin/6004) — [source page](typeby.com/)
+- [TYPE BY](https://design.withfudge.com/pin/6004) — [source page](https://typeby.com/)

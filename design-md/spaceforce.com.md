@@ -109,4 +109,4 @@ Here is the visual system observed across **1 captured page** from [spaceforce.c
 ```
 
 ## References
-- [Discover Space Force Careers | U.S. Space Force](https://design.withfudge.com/pin/8826) — [source page](spaceforce.com/careers)
+- [Discover Space Force Careers | U.S. Space Force](https://design.withfudge.com/pin/8826) — [source page](https://spaceforce.com/careers)

@@ -223,10 +223,10 @@ Here is the visual system observed across **7 captured pages** from [shaders.pap
 ```
 
 ## References
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8567) — [source page](shaders.paper.design/fluted-glass)
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8566) — [source page](shaders.paper.design/fluted-glass)
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8565) — [source page](shaders.paper.design/fluted-glass)
-- [Paper Shaders – Ultra-fast zero-dependency shaders](https://design.withfudge.com/pin/7130) — [source page](shaders.paper.design/)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7129) — [source page](shaders.paper.design/grain-gradient)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7128) — [source page](shaders.paper.design/grain-gradient)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7127) — [source page](shaders.paper.design/grain-gradient)
+- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8567) — [source page](https://shaders.paper.design/fluted-glass)
+- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8566) — [source page](https://shaders.paper.design/fluted-glass)
+- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8565) — [source page](https://shaders.paper.design/fluted-glass)
+- [Paper Shaders – Ultra-fast zero-dependency shaders](https://design.withfudge.com/pin/7130) — [source page](https://shaders.paper.design/)
+- [Grain Gradient • Paper](https://design.withfudge.com/pin/7129) — [source page](https://shaders.paper.design/grain-gradient)
+- [Grain Gradient • Paper](https://design.withfudge.com/pin/7128) — [source page](https://shaders.paper.design/grain-gradient)
+- [Grain Gradient • Paper](https://design.withfudge.com/pin/7127) — [source page](https://shaders.paper.design/grain-gradient)

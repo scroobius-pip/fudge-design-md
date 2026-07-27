@@ -390,11 +390,11 @@ Here is the visual system observed across **12 captured pages** from [giga.ai](h
 ```
 
 ## References
-- [Voice Experience - Giga](https://design.withfudge.com/pin/8976) — [source page](giga.ai/voice-experience)
-- [Voice Experience - Giga](https://design.withfudge.com/pin/8975) — [source page](giga.ai/voice-experience)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8974) — [source page](giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8973) — [source page](giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8972) — [source page](giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8971) — [source page](giga.ai/agent-canvas)
-- [Giga](https://design.withfudge.com/pin/8970) — [source page](giga.ai/)
-- [Giga](https://design.withfudge.com/pin/8969) — [source page](giga.ai/)
+- [Voice Experience - Giga](https://design.withfudge.com/pin/8976) — [source page](https://giga.ai/voice-experience)
+- [Voice Experience - Giga](https://design.withfudge.com/pin/8975) — [source page](https://giga.ai/voice-experience)
+- [Agent Canvas - Giga](https://design.withfudge.com/pin/8974) — [source page](https://giga.ai/agent-canvas)
+- [Agent Canvas - Giga](https://design.withfudge.com/pin/8973) — [source page](https://giga.ai/agent-canvas)
+- [Agent Canvas - Giga](https://design.withfudge.com/pin/8972) — [source page](https://giga.ai/agent-canvas)
+- [Agent Canvas - Giga](https://design.withfudge.com/pin/8971) — [source page](https://giga.ai/agent-canvas)
+- [Giga](https://design.withfudge.com/pin/8970) — [source page](https://giga.ai/)
+- [Giga](https://design.withfudge.com/pin/8969) — [source page](https://giga.ai/)

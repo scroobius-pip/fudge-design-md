@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [stenciljs.co
 ```
 
 ## References
-- [Stencil](https://design.withfudge.com/pin/8510) — [source page](stenciljs.com/)
+- [Stencil](https://design.withfudge.com/pin/8510) — [source page](https://stenciljs.com/)

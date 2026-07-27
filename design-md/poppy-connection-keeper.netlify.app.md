@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [poppy-conne
 ```
 
 ## References
-- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7669) — [source page](poppy-connection-keeper.netlify.app/)
-- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7668) — [source page](poppy-connection-keeper.netlify.app/)
+- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7669) — [source page](https://poppy-connection-keeper.netlify.app/)
+- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7668) — [source page](https://poppy-connection-keeper.netlify.app/)

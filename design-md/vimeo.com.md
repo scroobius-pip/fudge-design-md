@@ -191,8 +191,8 @@ Here is the visual system observed across **5 captured pages** from [vimeo.com](
 ```
 
 ## References
-- [Vimeo](https://design.withfudge.com/pin/6442) — [source page](vimeo.com/survey/join)
-- [Join Vimeo](https://design.withfudge.com/pin/6441) — [source page](vimeo.com/join)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6440) — [source page](vimeo.com/)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6439) — [source page](vimeo.com/)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6438) — [source page](vimeo.com/)
+- [Vimeo](https://design.withfudge.com/pin/6442) — [source page](https://vimeo.com/survey/join)
+- [Join Vimeo](https://design.withfudge.com/pin/6441) — [source page](https://vimeo.com/join)
+- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6440) — [source page](https://vimeo.com/)
+- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6439) — [source page](https://vimeo.com/)
+- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6438) — [source page](https://vimeo.com/)

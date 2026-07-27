@@ -205,9 +205,9 @@ Here is the visual system observed across **6 captured pages** from [plus.excali
 ```
 
 ## References
-- [Security at Excalidraw | Online collaborative whiteboard](https://design.withfudge.com/pin/8131) — [source page](plus.excalidraw.com/security-and-compliance)
-- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8130) — [source page](plus.excalidraw.com/excalidraw-for-teams)
-- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8129) — [source page](plus.excalidraw.com/excalidraw-for-teams)
-- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8128) — [source page](plus.excalidraw.com/pricing)
-- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8127) — [source page](plus.excalidraw.com/pricing)
-- [Excalidraw | Online whiteboard collaboration made easy](https://design.withfudge.com/pin/8126) — [source page](plus.excalidraw.com/)
+- [Security at Excalidraw | Online collaborative whiteboard](https://design.withfudge.com/pin/8131) — [source page](https://plus.excalidraw.com/security-and-compliance)
+- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8130) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
+- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8129) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
+- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8128) — [source page](https://plus.excalidraw.com/pricing)
+- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8127) — [source page](https://plus.excalidraw.com/pricing)
+- [Excalidraw | Online whiteboard collaboration made easy](https://design.withfudge.com/pin/8126) — [source page](https://plus.excalidraw.com/)

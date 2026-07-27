@@ -349,11 +349,11 @@ Here is the visual system observed across **33 captured pages** from [openai.com
 ```
 
 ## References
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10128) — [source page](openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10127) — [source page](openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10126) — [source page](openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10125) — [source page](openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10124) — [source page](openai.com/supply/co-lab/work-louder/)
-- [Codex in ChatGPT | AI Coding Agents for Software Engineering | OpenAI](https://design.withfudge.com/pin/10002) — [source page](openai.com/codex/)
-- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/9656) — [source page](openai.com/codex/)
-- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/7664) — [source page](openai.com/codex/)
+- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10128) — [source page](https://openai.com/supply/co-lab/work-louder/)
+- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10127) — [source page](https://openai.com/supply/co-lab/work-louder/)
+- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10126) — [source page](https://openai.com/supply/co-lab/work-louder/)
+- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10125) — [source page](https://openai.com/supply/co-lab/work-louder/)
+- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10124) — [source page](https://openai.com/supply/co-lab/work-louder/)
+- [Codex in ChatGPT | AI Coding Agents for Software Engineering | OpenAI](https://design.withfudge.com/pin/10002) — [source page](https://openai.com/codex/)
+- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/9656) — [source page](https://openai.com/codex/)
+- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/7664) — [source page](https://openai.com/codex/)

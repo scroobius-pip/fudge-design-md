@@ -194,8 +194,8 @@ Here is the visual system observed across **5 captured pages** from [ground.news
 ```
 
 ## References
-- [Ground News](https://design.withfudge.com/pin/8644) — [source page](ground.news/)
-- [Captured page 8643](https://design.withfudge.com/pin/8643) — [source page](ground.news/subscribe)
-- [Captured page 8642](https://design.withfudge.com/pin/8642) — [source page](ground.news/subscribe)
-- [Captured page 8641](https://design.withfudge.com/pin/8641) — [source page](ground.news/subscribe)
-- [Captured page 8640](https://design.withfudge.com/pin/8640) — [source page](ground.news/subscribe)
+- [Ground News](https://design.withfudge.com/pin/8644) — [source page](https://ground.news/)
+- [Captured page 8643](https://design.withfudge.com/pin/8643) — [source page](https://ground.news/subscribe)
+- [Captured page 8642](https://design.withfudge.com/pin/8642) — [source page](https://ground.news/subscribe)
+- [Captured page 8641](https://design.withfudge.com/pin/8641) — [source page](https://ground.news/subscribe)
+- [Captured page 8640](https://design.withfudge.com/pin/8640) — [source page](https://ground.news/subscribe)

@@ -119,4 +119,4 @@ Here is the visual system observed across **1 captured page** from [demo-basket.
 ```
 
 ## References
-- [demo](https://design.withfudge.com/pin/9996) — [source page](demo-basket.onmy.land/)
+- [demo](https://design.withfudge.com/pin/9996) — [source page](https://demo-basket.onmy.land/)

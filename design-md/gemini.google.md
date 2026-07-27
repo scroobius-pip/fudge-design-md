@@ -281,11 +281,11 @@ Here is the visual system observed across **12 captured pages** from [gemini.goo
 ```
 
 ## References
-- [Google AI Pro and Ultra — get access to Gemini 3 Pro and more](https://design.withfudge.com/pin/6640) — [source page](gemini.google/subscriptions/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4978) — [source page](gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4977) — [source page](gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4976) — [source page](gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4975) — [source page](gemini.google/overview/image-generation/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4442) — [source page](gemini.google/subscriptions/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4441) — [source page](gemini.google/subscriptions/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4440) — [source page](gemini.google/subscriptions/)
+- [Google AI Pro and Ultra — get access to Gemini 3 Pro and more](https://design.withfudge.com/pin/6640) — [source page](https://gemini.google/subscriptions/)
+- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4978) — [source page](https://gemini.google/overview/image-generation/)
+- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4977) — [source page](https://gemini.google/overview/image-generation/)
+- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4976) — [source page](https://gemini.google/overview/image-generation/)
+- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4975) — [source page](https://gemini.google/overview/image-generation/)
+- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4442) — [source page](https://gemini.google/subscriptions/)
+- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4441) — [source page](https://gemini.google/subscriptions/)
+- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4440) — [source page](https://gemini.google/subscriptions/)

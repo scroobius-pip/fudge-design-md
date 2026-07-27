@@ -265,11 +265,11 @@ Here is the visual system observed across **9 captured pages** from [nga.gov](ht
 ```
 
 ## References
-- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9275) — [source page](nga.gov/about-us)
-- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9274) — [source page](nga.gov/about-us)
-- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9273) — [source page](nga.gov/visit/visiting-kids)
-- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9272) — [source page](nga.gov/visit/visiting-kids)
-- [National Gallery of Art](https://design.withfudge.com/pin/9271) — [source page](nga.gov/)
-- [National Gallery of Art](https://design.withfudge.com/pin/9270) — [source page](nga.gov/)
-- [National Gallery of Art](https://design.withfudge.com/pin/9269) — [source page](nga.gov/)
-- [The Art of Looking: Ambrogio de Predis, Bianca Maria Sforza | National Gallery of Art](https://design.withfudge.com/pin/9268) — [source page](nga.gov/calendar/art-looking-ambrogio-de-predis-bianca-maria-sforza)
+- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9275) — [source page](https://nga.gov/about-us)
+- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9274) — [source page](https://nga.gov/about-us)
+- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9273) — [source page](https://nga.gov/visit/visiting-kids)
+- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9272) — [source page](https://nga.gov/visit/visiting-kids)
+- [National Gallery of Art](https://design.withfudge.com/pin/9271) — [source page](https://nga.gov/)
+- [National Gallery of Art](https://design.withfudge.com/pin/9270) — [source page](https://nga.gov/)
+- [National Gallery of Art](https://design.withfudge.com/pin/9269) — [source page](https://nga.gov/)
+- [The Art of Looking: Ambrogio de Predis, Bianca Maria Sforza | National Gallery of Art](https://design.withfudge.com/pin/9268) — [source page](https://nga.gov/calendar/art-looking-ambrogio-de-predis-bianca-maria-sforza)

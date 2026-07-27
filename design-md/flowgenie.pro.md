@@ -172,7 +172,7 @@ Here is the visual system observed across **4 captured pages** from [flowgenie.p
 ```
 
 ## References
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7692) — [source page](flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7691) — [source page](flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7690) — [source page](flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7689) — [source page](flowgenie.pro/)
+- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7692) — [source page](https://flowgenie.pro/)
+- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7691) — [source page](https://flowgenie.pro/)
+- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7690) — [source page](https://flowgenie.pro/)
+- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7689) — [source page](https://flowgenie.pro/)

@@ -285,11 +285,11 @@ Here is the visual system observed across **20 captured pages** from [antigravit
 ```
 
 ## References
-- [Google Antigravity Auth Success](https://design.withfudge.com/pin/6298) — [source page](antigravity.google/auth-success)
-- [Google Antigravity Use Cases](https://design.withfudge.com/pin/5658) — [source page](antigravity.google/use-cases)
-- [Google Antigravity Changelog](https://design.withfudge.com/pin/5616) — [source page](antigravity.google/changelog)
-- [Google Antigravity Changelog](https://design.withfudge.com/pin/5615) — [source page](antigravity.google/changelog)
-- [Google Antigravity Pricing](https://design.withfudge.com/pin/5033) — [source page](antigravity.google/pricing)
-- [Google Antigravity Product](https://design.withfudge.com/pin/4837) — [source page](antigravity.google/product)
-- [Google Antigravity Product](https://design.withfudge.com/pin/4836) — [source page](antigravity.google/product)
-- [Google Antigravity - Use Case: Professional](https://design.withfudge.com/pin/4835) — [source page](antigravity.google/use-cases/professional)
+- [Google Antigravity Auth Success](https://design.withfudge.com/pin/6298) — [source page](https://antigravity.google/auth-success)
+- [Google Antigravity Use Cases](https://design.withfudge.com/pin/5658) — [source page](https://antigravity.google/use-cases)
+- [Google Antigravity Changelog](https://design.withfudge.com/pin/5616) — [source page](https://antigravity.google/changelog)
+- [Google Antigravity Changelog](https://design.withfudge.com/pin/5615) — [source page](https://antigravity.google/changelog)
+- [Google Antigravity Pricing](https://design.withfudge.com/pin/5033) — [source page](https://antigravity.google/pricing)
+- [Google Antigravity Product](https://design.withfudge.com/pin/4837) — [source page](https://antigravity.google/product)
+- [Google Antigravity Product](https://design.withfudge.com/pin/4836) — [source page](https://antigravity.google/product)
+- [Google Antigravity - Use Case: Professional](https://design.withfudge.com/pin/4835) — [source page](https://antigravity.google/use-cases/professional)

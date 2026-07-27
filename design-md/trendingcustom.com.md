@@ -84,4 +84,4 @@ Here is the visual system observed across **1 captured page** from [trendingcust
 ```
 
 ## References
-- [Cat Mom Sparkly Pattern Personalized Shirt, Gift For Cat Mom - TrendingCustom](https://design.withfudge.com/pin/6417) — [source page](trendingcustom.com/products/cat-mom-4th-of-july-america-sparkly-pattern-psnl-shirt-independence-day-0501152)
+- [Cat Mom Sparkly Pattern Personalized Shirt, Gift For Cat Mom - TrendingCustom](https://design.withfudge.com/pin/6417) — [source page](https://trendingcustom.com/products/cat-mom-4th-of-july-america-sparkly-pattern-psnl-shirt-independence-day-0501152)

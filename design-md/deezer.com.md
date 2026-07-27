@@ -215,9 +215,9 @@ Here is the visual system observed across **6 captured pages** from [deezer.com]
 ```
 
 ## References
-- [Deezer](https://design.withfudge.com/pin/7886) — [source page](deezer.com/en/profile/6789862023/playlists)
-- [Deezer](https://design.withfudge.com/pin/7885) — [source page](deezer.com/account)
-- [Deezer | Subscriptions and offers | Music streaming](https://design.withfudge.com/pin/7884) — [source page](deezer.com/en/offers)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7883) — [source page](deezer.com/en/)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7882) — [source page](deezer.com/en/)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7881) — [source page](deezer.com/en/)
+- [Deezer](https://design.withfudge.com/pin/7886) — [source page](https://deezer.com/en/profile/6789862023/playlists)
+- [Deezer](https://design.withfudge.com/pin/7885) — [source page](https://deezer.com/account)
+- [Deezer | Subscriptions and offers | Music streaming](https://design.withfudge.com/pin/7884) — [source page](https://deezer.com/en/offers)
+- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7883) — [source page](https://deezer.com/en/)
+- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7882) — [source page](https://deezer.com/en/)
+- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7881) — [source page](https://deezer.com/en/)

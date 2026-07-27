@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [junicode.sou
 ```
 
 ## References
-- [Junicode](https://design.withfudge.com/pin/5992) — [source page](junicode.sourceforge.io/)
+- [Junicode](https://design.withfudge.com/pin/5992) — [source page](https://junicode.sourceforge.io/)

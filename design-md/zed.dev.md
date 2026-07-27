@@ -357,11 +357,11 @@ Here is the visual system observed across **14 captured pages** from [zed.dev](h
 ```
 
 ## References
-- [Zed — Download](https://design.withfudge.com/pin/9154) — [source page](zed.dev/download)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9153) — [source page](zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9152) — [source page](zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9151) — [source page](zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9150) — [source page](zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9149) — [source page](zed.dev/)
-- [Zed — Love your editor again](https://design.withfudge.com/pin/5976) — [source page](zed.dev/)
-- [Zed — The editor for what's next](https://design.withfudge.com/pin/4625) — [source page](zed.dev/)
+- [Zed — Download](https://design.withfudge.com/pin/9154) — [source page](https://zed.dev/download)
+- [Zed — Your last next editor](https://design.withfudge.com/pin/9153) — [source page](https://zed.dev/)
+- [Zed — Your last next editor](https://design.withfudge.com/pin/9152) — [source page](https://zed.dev/)
+- [Zed — Your last next editor](https://design.withfudge.com/pin/9151) — [source page](https://zed.dev/)
+- [Zed — Your last next editor](https://design.withfudge.com/pin/9150) — [source page](https://zed.dev/)
+- [Zed — Your last next editor](https://design.withfudge.com/pin/9149) — [source page](https://zed.dev/)
+- [Zed — Love your editor again](https://design.withfudge.com/pin/5976) — [source page](https://zed.dev/)
+- [Zed — The editor for what's next](https://design.withfudge.com/pin/4625) — [source page](https://zed.dev/)

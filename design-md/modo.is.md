@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [modo.is](htt
 ```
 
 ## References
-- [AI-Powered Hardware Design Platform | Modo](https://design.withfudge.com/pin/7421) — [source page](modo.is/)
+- [AI-Powered Hardware Design Platform | Modo](https://design.withfudge.com/pin/7421) — [source page](https://modo.is/)

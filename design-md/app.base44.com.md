@@ -156,6 +156,6 @@ Here is the visual system observed across **3 captured pages** from [app.base44.
 ```
 
 ## References
-- [Curated | Base44](https://design.withfudge.com/pin/7412) — [source page](app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
-- [Curated | Base44](https://design.withfudge.com/pin/7411) — [source page](app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
-- [untitled | Base44](https://design.withfudge.com/pin/7410) — [source page](app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+- [Curated | Base44](https://design.withfudge.com/pin/7412) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+- [Curated | Base44](https://design.withfudge.com/pin/7411) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+- [untitled | Base44](https://design.withfudge.com/pin/7410) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)

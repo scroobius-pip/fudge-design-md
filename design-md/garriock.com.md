@@ -235,10 +235,10 @@ Here is the visual system observed across **7 captured pages** from [garriock.co
 ```
 
 ## References
-- [Garriock & Co.](https://design.withfudge.com/pin/7367) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7366) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7365) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7364) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7363) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7362) — [source page](garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7361) — [source page](garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7367) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7366) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7365) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7364) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7363) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7362) — [source page](https://garriock.com/)
+- [Garriock & Co.](https://design.withfudge.com/pin/7361) — [source page](https://garriock.com/)

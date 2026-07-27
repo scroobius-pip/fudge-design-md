@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [artera.ae](
 ```
 
 ## References
-- [The Last Supper - Lucas Cranach the Elder | Artera](https://design.withfudge.com/pin/6538) — [source page](artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596)
-- [Captured page 6537](https://design.withfudge.com/pin/6537) — [source page](artera.ae/artworks)
-- [Artera – AI-Powered Art Discovery & Creative Community](https://design.withfudge.com/pin/6536) — [source page](artera.ae/)
+- [The Last Supper - Lucas Cranach the Elder | Artera](https://design.withfudge.com/pin/6538) — [source page](https://artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596)
+- [Captured page 6537](https://design.withfudge.com/pin/6537) — [source page](https://artera.ae/artworks)
+- [Artera – AI-Powered Art Discovery & Creative Community](https://design.withfudge.com/pin/6536) — [source page](https://artera.ae/)

@@ -295,11 +295,11 @@ Here is the visual system observed across **21 captured pages** from [affectable
 ```
 
 ## References
-- [The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/pin/6890) — [source page](affectablesleep.com/product-purchase)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6889) — [source page](affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6888) — [source page](affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6887) — [source page](affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6886) — [source page](affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6885) — [source page](affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6884) — [source page](affectablesleep.com/)
-- [Blog](https://design.withfudge.com/pin/3360) — [source page](affectablesleep.com/blog)
+- [The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/pin/6890) — [source page](https://affectablesleep.com/product-purchase)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6889) — [source page](https://affectablesleep.com/)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6888) — [source page](https://affectablesleep.com/)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6887) — [source page](https://affectablesleep.com/)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6886) — [source page](https://affectablesleep.com/)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6885) — [source page](https://affectablesleep.com/)
+- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6884) — [source page](https://affectablesleep.com/)
+- [Blog](https://design.withfudge.com/pin/3360) — [source page](https://affectablesleep.com/blog)

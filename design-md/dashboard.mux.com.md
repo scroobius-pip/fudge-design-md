@@ -118,5 +118,5 @@ Here is the visual system observed across **2 captured pages** from [dashboard.m
 ```
 
 ## References
-- [Sign Up | Mux](https://design.withfudge.com/pin/6451) — [source page](dashboard.mux.com/signup)
-- [Login | Mux](https://design.withfudge.com/pin/2001) — [source page](dashboard.mux.com/login)
+- [Sign Up | Mux](https://design.withfudge.com/pin/6451) — [source page](https://dashboard.mux.com/signup)
+- [Login | Mux](https://design.withfudge.com/pin/2001) — [source page](https://dashboard.mux.com/login)

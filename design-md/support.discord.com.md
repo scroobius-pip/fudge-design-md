@@ -121,4 +121,4 @@ Here is the visual system observed across **1 captured page** from [support.disc
 ```
 
 ## References
-- [How can I disable Text-To-Speech? – Discord](https://design.withfudge.com/pin/10112) — [source page](support.discord.com/hc/en-us/articles/208613137-How-can-I-disable-Text-To-Speech)
+- [How can I disable Text-To-Speech? – Discord](https://design.withfudge.com/pin/10112) — [source page](https://support.discord.com/hc/en-us/articles/208613137-How-can-I-disable-Text-To-Speech)

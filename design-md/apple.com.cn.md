@@ -83,4 +83,4 @@ Here is the visual system observed across **1 captured page** from [apple.com.cn
 ```
 
 ## References
-- [购买 MacBook Pro - Apple (中国大陆)](https://design.withfudge.com/pin/8526) — [source page](apple.com.cn/shop/buy-mac/macbook-pro)
+- [购买 MacBook Pro - Apple (中国大陆)](https://design.withfudge.com/pin/8526) — [source page](https://apple.com.cn/shop/buy-mac/macbook-pro)

@@ -121,5 +121,5 @@ Here is the visual system observed across **2 captured pages** from [arcee.ai](h
 ```
 
 ## References
-- [Arcee AI](https://design.withfudge.com/pin/6373) — [source page](arcee.ai/)
-- [Arcee AI](https://design.withfudge.com/pin/6372) — [source page](arcee.ai/)
+- [Arcee AI](https://design.withfudge.com/pin/6373) — [source page](https://arcee.ai/)
+- [Arcee AI](https://design.withfudge.com/pin/6372) — [source page](https://arcee.ai/)

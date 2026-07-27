@@ -343,11 +343,11 @@ Here is the visual system observed across **45 captured pages** from [cursor.com
 ```
 
 ## References
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/8861) — [source page](cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6663) — [source page](cursor.com/marketplace/publish)
-- [Cursor - Marketplace](https://design.withfudge.com/pin/6662) — [source page](cursor.com/marketplace)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6661) — [source page](cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6660) — [source page](cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6659) — [source page](cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6658) — [source page](cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6657) — [source page](cursor.com/marketplace/publish)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/8861) — [source page](https://cursor.com/dashboard)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6663) — [source page](https://cursor.com/marketplace/publish)
+- [Cursor - Marketplace](https://design.withfudge.com/pin/6662) — [source page](https://cursor.com/marketplace)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6661) — [source page](https://cursor.com/dashboard)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6660) — [source page](https://cursor.com/dashboard)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6659) — [source page](https://cursor.com/dashboard)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6658) — [source page](https://cursor.com/dashboard)
+- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6657) — [source page](https://cursor.com/marketplace/publish)

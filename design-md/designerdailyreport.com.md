@@ -165,6 +165,6 @@ Here is the visual system observed across **3 captured pages** from [designerdai
 ```
 
 ## References
-- [Designer Daily Report](https://design.withfudge.com/pin/7431) — [source page](designerdailyreport.com/)
-- [Designer Daily Report](https://design.withfudge.com/pin/7430) — [source page](designerdailyreport.com/)
-- [Designer Daily Report](https://design.withfudge.com/pin/7429) — [source page](designerdailyreport.com/)
+- [Designer Daily Report](https://design.withfudge.com/pin/7431) — [source page](https://designerdailyreport.com/)
+- [Designer Daily Report](https://design.withfudge.com/pin/7430) — [source page](https://designerdailyreport.com/)
+- [Designer Daily Report](https://design.withfudge.com/pin/7429) — [source page](https://designerdailyreport.com/)

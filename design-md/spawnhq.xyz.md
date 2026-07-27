@@ -97,4 +97,4 @@ Here is the visual system observed across **1 captured page** from [spawnhq.xyz]
 ```
 
 ## References
-- [SpawnHQ — AI Agents That Work So You Don't Have To](https://design.withfudge.com/pin/6969) — [source page](spawnhq.xyz/)
+- [SpawnHQ — AI Agents That Work So You Don't Have To](https://design.withfudge.com/pin/6969) — [source page](https://spawnhq.xyz/)

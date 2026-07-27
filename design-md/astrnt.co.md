@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [astrnt.co](
 ```
 
 ## References
-- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8774) — [source page](astrnt.co/)
-- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8773) — [source page](astrnt.co/)
+- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8774) — [source page](https://astrnt.co/)
+- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8773) — [source page](https://astrnt.co/)

@@ -105,4 +105,4 @@ Here is the visual system observed across **1 captured page** from [lorenzodaldo
 ```
 
 ## References
-- [Lorenzo Dal Dosso — IT Specialist](https://design.withfudge.com/pin/8343) — [source page](lorenzodaldosso.it/)
+- [Lorenzo Dal Dosso — IT Specialist](https://design.withfudge.com/pin/8343) — [source page](https://lorenzodaldosso.it/)

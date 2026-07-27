@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [ntathome.co
 ```
 
 ## References
-- [Captured page 8913](https://design.withfudge.com/pin/8913) — [source page](ntathome.com/checkout/subscribe/purchase)
-- [National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8912) — [source page](ntathome.com/)
-- [Red - National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8911) — [source page](ntathome.com/)
+- [Captured page 8913](https://design.withfudge.com/pin/8913) — [source page](https://ntathome.com/checkout/subscribe/purchase)
+- [National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8912) — [source page](https://ntathome.com/)
+- [Red - National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8911) — [source page](https://ntathome.com/)

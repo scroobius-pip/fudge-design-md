@@ -167,7 +167,7 @@ Here is the visual system observed across **4 captured pages** from [urbit.org](
 ```
 
 ## References
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8845) — [source page](urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8844) — [source page](urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4839) — [source page](urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4838) — [source page](urbit.org/)
+- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8845) — [source page](https://urbit.org/)
+- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8844) — [source page](https://urbit.org/)
+- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4839) — [source page](https://urbit.org/)
+- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4838) — [source page](https://urbit.org/)

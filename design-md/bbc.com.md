@@ -153,6 +153,6 @@ Here is the visual system observed across **3 captured pages** from [bbc.com](ht
 ```
 
 ## References
-- [Наступление повстанцев в Мали: три сценария развития событий для военного правительства, которое поддерживает Россия - BBC News Русская служба](https://design.withfudge.com/pin/9169) — [source page](bbc.com/russian/articles/cn4py93xjn2o)
-- [When Attenborough met the gorillas - the story behind his iconic TV moment](https://design.withfudge.com/pin/9109) — [source page](bbc.com/news/articles/ce9n794g42zo)
-- [BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://design.withfudge.com/pin/6962) — [source page](bbc.com/)
+- [Наступление повстанцев в Мали: три сценария развития событий для военного правительства, которое поддерживает Россия - BBC News Русская служба](https://design.withfudge.com/pin/9169) — [source page](https://bbc.com/russian/articles/cn4py93xjn2o)
+- [When Attenborough met the gorillas - the story behind his iconic TV moment](https://design.withfudge.com/pin/9109) — [source page](https://bbc.com/news/articles/ce9n794g42zo)
+- [BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://design.withfudge.com/pin/6962) — [source page](https://bbc.com/)

@@ -302,11 +302,11 @@ Here is the visual system observed across **8 captured pages** from [multi.app](
 ```
 
 ## References
-- [Blog - Multi](https://design.withfudge.com/pin/6081) — [source page](multi.app/blog)
-- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6080) — [source page](multi.app/blog/multi-is-joining-openai)
-- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6079) — [source page](multi.app/blog/multi-is-joining-openai)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6078) — [source page](multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6077) — [source page](multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6076) — [source page](multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6075) — [source page](multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6074) — [source page](multi.app/)
+- [Blog - Multi](https://design.withfudge.com/pin/6081) — [source page](https://multi.app/blog)
+- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6080) — [source page](https://multi.app/blog/multi-is-joining-openai)
+- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6079) — [source page](https://multi.app/blog/multi-is-joining-openai)
+- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6078) — [source page](https://multi.app/)
+- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6077) — [source page](https://multi.app/)
+- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6076) — [source page](https://multi.app/)
+- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6075) — [source page](https://multi.app/)
+- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6074) — [source page](https://multi.app/)

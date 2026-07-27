@@ -121,6 +121,6 @@ Here is the visual system observed across **3 captured pages** from [p.cv](https
 ```
 
 ## References
-- [P.CV](https://design.withfudge.com/pin/8494) — [source page](p.cv/)
-- [P.CV](https://design.withfudge.com/pin/8493) — [source page](p.cv/)
-- [P.CV](https://design.withfudge.com/pin/8492) — [source page](p.cv/)
+- [P.CV](https://design.withfudge.com/pin/8494) — [source page](https://p.cv/)
+- [P.CV](https://design.withfudge.com/pin/8493) — [source page](https://p.cv/)
+- [P.CV](https://design.withfudge.com/pin/8492) — [source page](https://p.cv/)

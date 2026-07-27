@@ -97,4 +97,4 @@ Here is the visual system observed across **1 captured page** from [vladivostok1
 ```
 
 ## References
-- [График работы поликлиник на майские праздники изменят в Приморье - 29 апреля 2026 | ВЛАДИВОСТОК1.ру](https://design.withfudge.com/pin/9171) — [source page](vladivostok1.ru/text/health/2026/04/29/76392456/)
+- [График работы поликлиник на майские праздники изменят в Приморье - 29 апреля 2026 | ВЛАДИВОСТОК1.ру](https://design.withfudge.com/pin/9171) — [source page](https://vladivostok1.ru/text/health/2026/04/29/76392456/)

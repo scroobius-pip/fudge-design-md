@@ -163,7 +163,7 @@ Here is the visual system observed across **4 captured pages** from [keyavadgama
 ```
 
 ## References
-- [Home](https://design.withfudge.com/pin/8028) — [source page](keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3625) — [source page](keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3624) — [source page](keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3623) — [source page](keyavadgama.com/)
+- [Home](https://design.withfudge.com/pin/8028) — [source page](https://keyavadgama.com/)
+- [Home](https://design.withfudge.com/pin/3625) — [source page](https://keyavadgama.com/)
+- [Home](https://design.withfudge.com/pin/3624) — [source page](https://keyavadgama.com/)
+- [Home](https://design.withfudge.com/pin/3623) — [source page](https://keyavadgama.com/)

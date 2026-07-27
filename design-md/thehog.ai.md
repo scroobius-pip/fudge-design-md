@@ -196,8 +196,8 @@ Here is the visual system observed across **5 captured pages** from [thehog.ai](
 ```
 
 ## References
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6324) — [source page](thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6323) — [source page](thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6322) — [source page](thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6321) — [source page](thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6320) — [source page](thehog.ai/)
+- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6324) — [source page](https://thehog.ai/)
+- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6323) — [source page](https://thehog.ai/)
+- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6322) — [source page](https://thehog.ai/)
+- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6321) — [source page](https://thehog.ai/)
+- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6320) — [source page](https://thehog.ai/)

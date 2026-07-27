@@ -180,8 +180,8 @@ Here is the visual system observed across **5 captured pages** from [liveblocks.
 ```
 
 ## References
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8084) — [source page](liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8083) — [source page](liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8082) — [source page](liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8081) — [source page](liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8080) — [source page](liveblocks.io/)
+- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8084) — [source page](https://liveblocks.io/)
+- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8083) — [source page](https://liveblocks.io/)
+- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8082) — [source page](https://liveblocks.io/)
+- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8081) — [source page](https://liveblocks.io/)
+- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8080) — [source page](https://liveblocks.io/)

@@ -152,6 +152,6 @@ Here is the visual system observed across **3 captured pages** from [mulerouter.
 ```
 
 ## References
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9057) — [source page](mulerouter.ai/)
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9056) — [source page](mulerouter.ai/)
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9055) — [source page](mulerouter.ai/)
+- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9057) — [source page](https://mulerouter.ai/)
+- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9056) — [source page](https://mulerouter.ai/)
+- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9055) — [source page](https://mulerouter.ai/)

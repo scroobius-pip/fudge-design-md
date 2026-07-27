@@ -96,4 +96,4 @@ Here is the visual system observed across **1 captured page** from [flora.ai](ht
 ```
 
 ## References
-- [FLORA — Your Creative Environment](https://design.withfudge.com/pin/7887) — [source page](flora.ai/)
+- [FLORA — Your Creative Environment](https://design.withfudge.com/pin/7887) — [source page](https://flora.ai/)

@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [void.cloud]
 ```
 
 ## References
-- [Void](https://design.withfudge.com/pin/8097) — [source page](void.cloud/)
-- [Void](https://design.withfudge.com/pin/8096) — [source page](void.cloud/)
+- [Void](https://design.withfudge.com/pin/8097) — [source page](https://void.cloud/)
+- [Void](https://design.withfudge.com/pin/8096) — [source page](https://void.cloud/)

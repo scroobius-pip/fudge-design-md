@@ -136,6 +136,6 @@ Here is the visual system observed across **3 captured pages** from [bspk.xyz](h
 ```
 
 ## References
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9365) — [source page](bspk.xyz/anthropic)
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9364) — [source page](bspk.xyz/anthropic)
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9363) — [source page](bspk.xyz/anthropic)
+- [Anthropic — BSPK](https://design.withfudge.com/pin/9365) — [source page](https://bspk.xyz/anthropic)
+- [Anthropic — BSPK](https://design.withfudge.com/pin/9364) — [source page](https://bspk.xyz/anthropic)
+- [Anthropic — BSPK](https://design.withfudge.com/pin/9363) — [source page](https://bspk.xyz/anthropic)

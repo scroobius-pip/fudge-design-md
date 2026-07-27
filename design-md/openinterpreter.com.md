@@ -107,5 +107,5 @@ Here is the visual system observed across **2 captured pages** from [openinterpr
 ```
 
 ## References
-- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6840) — [source page](openinterpreter.com/)
-- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6839) — [source page](openinterpreter.com/)
+- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6840) — [source page](https://openinterpreter.com/)
+- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6839) — [source page](https://openinterpreter.com/)

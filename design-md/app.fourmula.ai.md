@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [app.fourmul
 ```
 
 ## References
-- [Formula AI | Create Assets](https://design.withfudge.com/pin/8677) — [source page](app.fourmula.ai/project/create-pdp)
-- [Formula AI | Start](https://design.withfudge.com/pin/8676) — [source page](app.fourmula.ai/start)
+- [Formula AI | Create Assets](https://design.withfudge.com/pin/8677) — [source page](https://app.fourmula.ai/project/create-pdp)
+- [Formula AI | Start](https://design.withfudge.com/pin/8676) — [source page](https://app.fourmula.ai/start)

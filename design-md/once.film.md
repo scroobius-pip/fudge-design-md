@@ -365,11 +365,11 @@ Here is the visual system observed across **11 captured pages** from [once.film]
 ```
 
 ## References
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9340) — [source page](once.film/wedding)
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9339) — [source page](once.film/wedding)
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9338) — [source page](once.film/wedding)
-- [Simple One Time Pricing](https://design.withfudge.com/pin/9337) — [source page](once.film/pricing)
-- [Simple One Time Pricing](https://design.withfudge.com/pin/9336) — [source page](once.film/pricing)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9335) — [source page](once.film/)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9334) — [source page](once.film/)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9333) — [source page](once.film/)
+- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9340) — [source page](https://once.film/wedding)
+- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9339) — [source page](https://once.film/wedding)
+- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9338) — [source page](https://once.film/wedding)
+- [Simple One Time Pricing](https://design.withfudge.com/pin/9337) — [source page](https://once.film/pricing)
+- [Simple One Time Pricing](https://design.withfudge.com/pin/9336) — [source page](https://once.film/pricing)
+- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9335) — [source page](https://once.film/)
+- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9334) — [source page](https://once.film/)
+- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9333) — [source page](https://once.film/)

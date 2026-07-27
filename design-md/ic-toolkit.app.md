@@ -158,5 +158,5 @@ Here is the visual system observed across **2 captured pages** from [ic-toolkit.
 ```
 
 ## References
-- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7239) — [source page](ic-toolkit.app/)
-- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7238) — [source page](ic-toolkit.app/)
+- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7239) — [source page](https://ic-toolkit.app/)
+- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7238) — [source page](https://ic-toolkit.app/)

@@ -222,7 +222,7 @@ Here is the visual system observed across **4 captured pages** from [postnext.io
 ```
 
 ## References
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7498) — [source page](postnext.io/)
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7497) — [source page](postnext.io/)
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7496) — [source page](postnext.io/)
-- [PostNext: Flexible Pricing Plans](https://design.withfudge.com/pin/7495) — [source page](postnext.io/pricing)
+- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7498) — [source page](https://postnext.io/)
+- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7497) — [source page](https://postnext.io/)
+- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7496) — [source page](https://postnext.io/)
+- [PostNext: Flexible Pricing Plans](https://design.withfudge.com/pin/7495) — [source page](https://postnext.io/pricing)

@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [link2.gysin
 ```
 
 ## References
-- [Link 2](https://design.withfudge.com/pin/7096) — [source page](link2.gysin-vanetti.com/)
-- [Link 2](https://design.withfudge.com/pin/7095) — [source page](link2.gysin-vanetti.com/)
+- [Link 2](https://design.withfudge.com/pin/7096) — [source page](https://link2.gysin-vanetti.com/)
+- [Link 2](https://design.withfudge.com/pin/7095) — [source page](https://link2.gysin-vanetti.com/)

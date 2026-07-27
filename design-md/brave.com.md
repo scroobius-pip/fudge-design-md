@@ -253,9 +253,9 @@ Here is the visual system observed across **6 captured pages** from [brave.com](
 ```
 
 ## References
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9441) — [source page](brave.com/)
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9440) — [source page](brave.com/)
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9439) — [source page](brave.com/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9438) — [source page](brave.com/search/api/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9437) — [source page](brave.com/search/api/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9436) — [source page](brave.com/search/api/)
+- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9441) — [source page](https://brave.com/)
+- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9440) — [source page](https://brave.com/)
+- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9439) — [source page](https://brave.com/)
+- [Brave Search API | Brave](https://design.withfudge.com/pin/9438) — [source page](https://brave.com/search/api/)
+- [Brave Search API | Brave](https://design.withfudge.com/pin/9437) — [source page](https://brave.com/search/api/)
+- [Brave Search API | Brave](https://design.withfudge.com/pin/9436) — [source page](https://brave.com/search/api/)

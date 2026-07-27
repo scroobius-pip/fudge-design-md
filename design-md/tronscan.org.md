@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [tronscan.or
 ```
 
 ## References
-- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9186) — [source page](tronscan.org/)
-- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9185) — [source page](tronscan.org/)
+- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9186) — [source page](https://tronscan.org/)
+- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9185) — [source page](https://tronscan.org/)

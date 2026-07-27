@@ -98,4 +98,4 @@ Here is the visual system observed across **1 captured page** from [gatheros.co]
 ```
 
 ## References
-- [GatherOS](https://design.withfudge.com/pin/9472) — [source page](gatheros.co/)
+- [GatherOS](https://design.withfudge.com/pin/9472) — [source page](https://gatheros.co/)

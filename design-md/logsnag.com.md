@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [logsnag.com
 ```
 
 ## References
-- [Pricing | LogSnag](https://design.withfudge.com/pin/6974) — [source page](logsnag.com/pricing)
-- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6973) — [source page](logsnag.com/)
-- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6972) — [source page](logsnag.com/)
+- [Pricing | LogSnag](https://design.withfudge.com/pin/6974) — [source page](https://logsnag.com/pricing)
+- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6973) — [source page](https://logsnag.com/)
+- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6972) — [source page](https://logsnag.com/)

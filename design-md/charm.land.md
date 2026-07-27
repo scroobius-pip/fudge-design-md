@@ -85,4 +85,4 @@ Here is the visual system observed across **1 captured page** from [charm.land](
 ```
 
 ## References
-- [Charm](https://design.withfudge.com/pin/8833) — [source page](charm.land/)
+- [Charm](https://design.withfudge.com/pin/8833) — [source page](https://charm.land/)

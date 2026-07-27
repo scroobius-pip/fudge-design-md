@@ -242,11 +242,11 @@ Here is the visual system observed across **9 captured pages** from [google.com]
 ```
 
 ## References
-- [Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed except one who jumped from the walls on his horse and fled :”D - Google Search](https://design.withfudge.com/pin/8713) — [source page](google.com/search)
-- [Google Search](https://design.withfudge.com/pin/6925) — [source page](google.com/search)
-- [Google Search](https://design.withfudge.com/pin/6604) — [source page](google.com/search)
-- [Google Search](https://design.withfudge.com/pin/5849) — [source page](google.com/search)
-- [images - Google Search](https://design.withfudge.com/pin/5375) — [source page](google.com/search)
-- [gradient pricing cards - Google Search](https://design.withfudge.com/pin/5177) — [source page](google.com/search)
-- [Google](https://design.withfudge.com/pin/3993) — [source page](google.com/webhp)
-- [navicate - Google Search](https://design.withfudge.com/pin/3247) — [source page](google.com/search)
+- [Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed except one who jumped from the walls on his horse and fled :”D - Google Search](https://design.withfudge.com/pin/8713) — [source page](https://google.com/search)
+- [Google Search](https://design.withfudge.com/pin/6925) — [source page](https://google.com/search)
+- [Google Search](https://design.withfudge.com/pin/6604) — [source page](https://google.com/search)
+- [Google Search](https://design.withfudge.com/pin/5849) — [source page](https://google.com/search)
+- [images - Google Search](https://design.withfudge.com/pin/5375) — [source page](https://google.com/search)
+- [gradient pricing cards - Google Search](https://design.withfudge.com/pin/5177) — [source page](https://google.com/search)
+- [Google](https://design.withfudge.com/pin/3993) — [source page](https://google.com/webhp)
+- [navicate - Google Search](https://design.withfudge.com/pin/3247) — [source page](https://google.com/search)

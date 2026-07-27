@@ -161,7 +161,7 @@ Here is the visual system observed across **4 captured pages** from [platform.mi
 ```
 
 ## References
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8277) — [source page](platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8276) — [source page](platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8275) — [source page](platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8274) — [source page](platform.minimax.io/subscribe/token-plan)
+- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8277) — [source page](https://platform.minimax.io/subscribe/token-plan)
+- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8276) — [source page](https://platform.minimax.io/subscribe/token-plan)
+- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8275) — [source page](https://platform.minimax.io/subscribe/token-plan)
+- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8274) — [source page](https://platform.minimax.io/subscribe/token-plan)

@@ -90,4 +90,4 @@ Here is the visual system observed across **1 captured page** from [biomarkt.de]
 ```
 
 ## References
-- [Lebensmittelkunde: Spargel: Saison, Lagerung & Zubereitung | Denns BioMarkt | biomarkt.de](https://design.withfudge.com/pin/8788) — [source page](biomarkt.de/bio-wissen/lebensmittelkunde/spargel/)
+- [Lebensmittelkunde: Spargel: Saison, Lagerung & Zubereitung | Denns BioMarkt | biomarkt.de](https://design.withfudge.com/pin/8788) — [source page](https://biomarkt.de/bio-wissen/lebensmittelkunde/spargel/)

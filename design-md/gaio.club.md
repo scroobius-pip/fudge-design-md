@@ -258,11 +258,11 @@ Here is the visual system observed across **10 captured pages** from [gaio.club]
 ```
 
 ## References
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8016) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8015) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8014) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4554) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4553) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4552) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4551) — [source page](gaio.club/)
-- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4550) — [source page](gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8016) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8015) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/8014) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4554) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4553) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4552) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4551) — [source page](https://gaio.club/)
+- [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/pin/4550) — [source page](https://gaio.club/)

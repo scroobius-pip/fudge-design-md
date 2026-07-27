@@ -258,7 +258,7 @@ Here is the visual system observed across **4 captured pages** from [lunagraph.c
 ```
 
 ## References
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9017) — [source page](lunagraph.com/)
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9016) — [source page](lunagraph.com/)
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9015) — [source page](lunagraph.com/)
-- [Lunagraph | Design Partner for Startups | Crafting Delightful Experiences](https://design.withfudge.com/pin/8714) — [source page](lunagraph.com/)
+- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9017) — [source page](https://lunagraph.com/)
+- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9016) — [source page](https://lunagraph.com/)
+- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9015) — [source page](https://lunagraph.com/)
+- [Lunagraph | Design Partner for Startups | Crafting Delightful Experiences](https://design.withfudge.com/pin/8714) — [source page](https://lunagraph.com/)

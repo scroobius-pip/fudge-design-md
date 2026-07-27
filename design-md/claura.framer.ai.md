@@ -156,6 +156,6 @@ Here is the visual system observed across **3 captured pages** from [claura.fram
 ```
 
 ## References
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8122) — [source page](claura.framer.ai/)
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8121) — [source page](claura.framer.ai/)
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8120) — [source page](claura.framer.ai/)
+- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8122) — [source page](https://claura.framer.ai/)
+- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8121) — [source page](https://claura.framer.ai/)
+- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8120) — [source page](https://claura.framer.ai/)

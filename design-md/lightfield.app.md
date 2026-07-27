@@ -160,8 +160,8 @@ Here is the visual system observed across **5 captured pages** from [lightfield.
 ```
 
 ## References
-- [Pricing](https://design.withfudge.com/pin/9320) — [source page](lightfield.app/pricing)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9319) — [source page](lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9318) — [source page](lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9317) — [source page](lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9316) — [source page](lightfield.app/clp/default-1)
+- [Pricing](https://design.withfudge.com/pin/9320) — [source page](https://lightfield.app/pricing)
+- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9319) — [source page](https://lightfield.app/clp/default-1)
+- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9318) — [source page](https://lightfield.app/clp/default-1)
+- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9317) — [source page](https://lightfield.app/clp/default-1)
+- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9316) — [source page](https://lightfield.app/clp/default-1)

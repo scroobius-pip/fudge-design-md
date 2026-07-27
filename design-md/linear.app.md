@@ -322,11 +322,11 @@ Here is the visual system observed across **24 captured pages** from [linear.app
 ```
 
 ## References
-- [Linear – The system for product development](https://design.withfudge.com/pin/10441) — [source page](linear.app/)
-- [Inbox](https://design.withfudge.com/pin/8257) — [source page](linear.app/raulnech/inbox)
-- [Raulnech › d](https://design.withfudge.com/pin/8256) — [source page](linear.app/raulnech/team/RAU/view/d-a43819140ab0)
-- [TEST › Overview](https://design.withfudge.com/pin/8255) — [source page](linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8254) — [source page](linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8250) — [source page](linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8249) — [source page](linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8248) — [source page](linear.app/raulnech/project/test-5c8bd22de24f/overview)
+- [Linear – The system for product development](https://design.withfudge.com/pin/10441) — [source page](https://linear.app/)
+- [Inbox](https://design.withfudge.com/pin/8257) — [source page](https://linear.app/raulnech/inbox)
+- [Raulnech › d](https://design.withfudge.com/pin/8256) — [source page](https://linear.app/raulnech/team/RAU/view/d-a43819140ab0)
+- [TEST › Overview](https://design.withfudge.com/pin/8255) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+- [TEST › Overview](https://design.withfudge.com/pin/8254) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+- [TEST › Overview](https://design.withfudge.com/pin/8250) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+- [TEST › Overview](https://design.withfudge.com/pin/8249) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+- [TEST › Overview](https://design.withfudge.com/pin/8248) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)

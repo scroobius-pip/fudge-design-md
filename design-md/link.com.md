@@ -255,11 +255,11 @@ Here is the visual system observed across **10 captured pages** from [link.com](
 ```
 
 ## References
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7250) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7249) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7248) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7247) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4681) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4680) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4679) — [source page](link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4678) — [source page](link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7250) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7249) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7248) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7247) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4681) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4680) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4679) — [source page](https://link.com/)
+- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4678) — [source page](https://link.com/)

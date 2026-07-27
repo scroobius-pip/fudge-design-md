@@ -133,5 +133,5 @@ Here is the visual system observed across **2 captured pages** from [insforge.de
 ```
 
 ## References
-- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8815) — [source page](insforge.dev/)
-- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8814) — [source page](insforge.dev/)
+- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8815) — [source page](https://insforge.dev/)
+- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8814) — [source page](https://insforge.dev/)

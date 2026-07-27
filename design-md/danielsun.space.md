@@ -328,11 +328,11 @@ Here is the visual system observed across **10 captured pages** from [danielsun.
 ```
 
 ## References
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8691) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8690) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7972) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7971) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7970) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7969) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7968) — [source page](danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7967) — [source page](danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8691) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8690) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7972) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7971) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7970) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7969) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7968) — [source page](https://danielsun.space/)
+- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7967) — [source page](https://danielsun.space/)

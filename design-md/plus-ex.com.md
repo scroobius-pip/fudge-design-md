@@ -405,11 +405,11 @@ Here is the visual system observed across **22 captured pages** from [plus-ex.co
 ```
 
 ## References
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10243) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10242) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10241) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10240) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10239) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10238) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10237) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10236) — [source page](plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10243) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10242) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10241) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10240) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10239) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10238) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10237) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+- [Plus X Creative Partner](https://design.withfudge.com/pin/10236) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)

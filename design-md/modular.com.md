@@ -163,7 +163,7 @@ Here is the visual system observed across **4 captured pages** from [modular.com
 ```
 
 ## References
-- [Modular: Editions & Pricing](https://design.withfudge.com/pin/8630) — [source page](modular.com/pricing)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8629) — [source page](modular.com/)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8628) — [source page](modular.com/)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8627) — [source page](modular.com/)
+- [Modular: Editions & Pricing](https://design.withfudge.com/pin/8630) — [source page](https://modular.com/pricing)
+- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8629) — [source page](https://modular.com/)
+- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8628) — [source page](https://modular.com/)
+- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8627) — [source page](https://modular.com/)

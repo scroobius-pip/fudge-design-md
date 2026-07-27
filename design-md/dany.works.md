@@ -203,10 +203,10 @@ Here is the visual system observed across **7 captured pages** from [dany.works]
 ```
 
 ## References
-- [dany works on](https://design.withfudge.com/pin/8350) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8349) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8348) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8347) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8346) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8345) — [source page](dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8344) — [source page](dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8350) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8349) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8348) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8347) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8346) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8345) — [source page](https://dany.works/)
+- [dany works on](https://design.withfudge.com/pin/8344) — [source page](https://dany.works/)

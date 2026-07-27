@@ -134,5 +134,5 @@ Here is the visual system observed across **2 captured pages** from [petsmart.co
 ```
 
 ## References
-- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10073) — [source page](petsmart.com/)
-- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10072) — [source page](petsmart.com/)
+- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10073) — [source page](https://petsmart.com/)
+- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10072) — [source page](https://petsmart.com/)

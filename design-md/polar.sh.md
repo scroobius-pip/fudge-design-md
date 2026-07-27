@@ -342,11 +342,11 @@ Here is the visual system observed across **33 captured pages** from [polar.sh](
 ```
 
 ## References
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9828) — [source page](polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9827) — [source page](polar.sh/)
-- [Pricing | Polar](https://design.withfudge.com/pin/9826) — [source page](polar.sh/resources/pricing)
-- [Pricing | Polar](https://design.withfudge.com/pin/9825) — [source page](polar.sh/resources/pricing)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9824) — [source page](polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9823) — [source page](polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9822) — [source page](polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9821) — [source page](polar.sh/)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9828) — [source page](https://polar.sh/)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9827) — [source page](https://polar.sh/)
+- [Pricing | Polar](https://design.withfudge.com/pin/9826) — [source page](https://polar.sh/resources/pricing)
+- [Pricing | Polar](https://design.withfudge.com/pin/9825) — [source page](https://polar.sh/resources/pricing)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9824) — [source page](https://polar.sh/)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9823) — [source page](https://polar.sh/)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9822) — [source page](https://polar.sh/)
+- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9821) — [source page](https://polar.sh/)

@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [symbl.space
 ```
 
 ## References
-- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8200) — [source page](symbl.space/)
-- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8199) — [source page](symbl.space/)
+- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8200) — [source page](https://symbl.space/)
+- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8199) — [source page](https://symbl.space/)

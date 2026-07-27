@@ -196,8 +196,8 @@ Here is the visual system observed across **5 captured pages** from [campaignliv
 ```
 
 ## References
-- [UK subscription](https://design.withfudge.com/pin/7894) — [source page](campaignlive.co.uk/membership)
-- [UK subscription](https://design.withfudge.com/pin/7893) — [source page](campaignlive.co.uk/membership)
-- [UK subscription](https://design.withfudge.com/pin/7892) — [source page](campaignlive.co.uk/membership)
-- [UK subscription](https://design.withfudge.com/pin/7891) — [source page](campaignlive.co.uk/membership)
-- [History of advertising: No 110: The Hathaway man's eyepatch](https://design.withfudge.com/pin/7890) — [source page](campaignlive.co.uk/article/history-advertising-no-110-hathaway-mans-eyepatch/1317084)
+- [UK subscription](https://design.withfudge.com/pin/7894) — [source page](https://campaignlive.co.uk/membership)
+- [UK subscription](https://design.withfudge.com/pin/7893) — [source page](https://campaignlive.co.uk/membership)
+- [UK subscription](https://design.withfudge.com/pin/7892) — [source page](https://campaignlive.co.uk/membership)
+- [UK subscription](https://design.withfudge.com/pin/7891) — [source page](https://campaignlive.co.uk/membership)
+- [History of advertising: No 110: The Hathaway man's eyepatch](https://design.withfudge.com/pin/7890) — [source page](https://campaignlive.co.uk/article/history-advertising-no-110-hathaway-mans-eyepatch/1317084)

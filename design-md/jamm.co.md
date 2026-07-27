@@ -238,10 +238,10 @@ Here is the visual system observed across **7 captured pages** from [jamm.co](ht
 ```
 
 ## References
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6809) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6808) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6807) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6806) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6805) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6804) — [source page](jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6803) — [source page](jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6809) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6808) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6807) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6806) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6805) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6804) — [source page](https://jamm.co/)
+- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6803) — [source page](https://jamm.co/)

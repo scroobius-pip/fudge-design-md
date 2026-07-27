@@ -308,11 +308,11 @@ Here is the visual system observed across **16 captured pages** from [pentagram.
 ```
 
 ## References
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8273) — [source page](pentagram.com/)
-- [Contact](https://design.withfudge.com/pin/8272) — [source page](pentagram.com/contact)
-- [News](https://design.withfudge.com/pin/8271) — [source page](pentagram.com/news)
-- [About](https://design.withfudge.com/pin/8270) — [source page](pentagram.com/about)
-- [About](https://design.withfudge.com/pin/8269) — [source page](pentagram.com/about)
-- [Loka Chai Maker](https://design.withfudge.com/pin/8268) — [source page](pentagram.com/work/loka-chai-maker)
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8267) — [source page](pentagram.com/)
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8266) — [source page](pentagram.com/)
+- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8273) — [source page](https://pentagram.com/)
+- [Contact](https://design.withfudge.com/pin/8272) — [source page](https://pentagram.com/contact)
+- [News](https://design.withfudge.com/pin/8271) — [source page](https://pentagram.com/news)
+- [About](https://design.withfudge.com/pin/8270) — [source page](https://pentagram.com/about)
+- [About](https://design.withfudge.com/pin/8269) — [source page](https://pentagram.com/about)
+- [Loka Chai Maker](https://design.withfudge.com/pin/8268) — [source page](https://pentagram.com/work/loka-chai-maker)
+- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8267) — [source page](https://pentagram.com/)
+- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8266) — [source page](https://pentagram.com/)

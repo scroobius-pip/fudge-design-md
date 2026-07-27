@@ -375,11 +375,11 @@ Here is the visual system observed across **18 captured pages** from [tryholo.ai
 ```
 
 ## References
-- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7480) — [source page](tryholo.ai/pricing)
-- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7479) — [source page](tryholo.ai/pricing)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7478) — [source page](tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7477) — [source page](tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7476) — [source page](tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7475) — [source page](tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7474) — [source page](tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7473) — [source page](tryholo.ai/)
+- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7480) — [source page](https://tryholo.ai/pricing)
+- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7479) — [source page](https://tryholo.ai/pricing)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7478) — [source page](https://tryholo.ai/)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7477) — [source page](https://tryholo.ai/)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7476) — [source page](https://tryholo.ai/)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7475) — [source page](https://tryholo.ai/)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7474) — [source page](https://tryholo.ai/)
+- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7473) — [source page](https://tryholo.ai/)

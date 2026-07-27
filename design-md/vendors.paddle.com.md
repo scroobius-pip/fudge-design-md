@@ -274,11 +274,11 @@ Here is the visual system observed across **9 captured pages** from [vendors.pad
 ```
 
 ## References
-- [Paddle Dashboard](https://design.withfudge.com/pin/7187) — [source page](vendors.paddle.com/overview/subscriptions)
-- [Paddle Dashboard](https://design.withfudge.com/pin/7186) — [source page](vendors.paddle.com/overview/subscriptions)
-- [Overview](https://design.withfudge.com/pin/6757) — [source page](vendors.paddle.com/invoicing-v2)
-- [Overview](https://design.withfudge.com/pin/6756) — [source page](vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6755) — [source page](vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6754) — [source page](vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6753) — [source page](vendors.paddle.com/overview)
-- [Overview](https://design.withfudge.com/pin/6752) — [source page](vendors.paddle.com/overview)
+- [Paddle Dashboard](https://design.withfudge.com/pin/7187) — [source page](https://vendors.paddle.com/overview/subscriptions)
+- [Paddle Dashboard](https://design.withfudge.com/pin/7186) — [source page](https://vendors.paddle.com/overview/subscriptions)
+- [Overview](https://design.withfudge.com/pin/6757) — [source page](https://vendors.paddle.com/invoicing-v2)
+- [Overview](https://design.withfudge.com/pin/6756) — [source page](https://vendors.paddle.com/onboarding/get-started)
+- [Overview](https://design.withfudge.com/pin/6755) — [source page](https://vendors.paddle.com/onboarding/get-started)
+- [Overview](https://design.withfudge.com/pin/6754) — [source page](https://vendors.paddle.com/onboarding/get-started)
+- [Overview](https://design.withfudge.com/pin/6753) — [source page](https://vendors.paddle.com/overview)
+- [Overview](https://design.withfudge.com/pin/6752) — [source page](https://vendors.paddle.com/overview)

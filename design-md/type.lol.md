@@ -265,11 +265,11 @@ Here is the visual system observed across **9 captured pages** from [type.lol](h
 ```
 
 ## References
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7462) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7461) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7460) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7459) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7458) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7457) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7456) — [source page](type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7455) — [source page](type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7462) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7461) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7460) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7459) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7458) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7457) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7456) — [source page](https://type.lol/)
+- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7455) — [source page](https://type.lol/)

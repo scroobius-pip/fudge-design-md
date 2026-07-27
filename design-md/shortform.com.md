@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [shortform.c
 ```
 
 ## References
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9189) — [source page](shortform.com/app/onboarding)
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9188) — [source page](shortform.com/app/onboarding)
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9187) — [source page](shortform.com/app/onboarding)
+- [Shortform | Onboarding](https://design.withfudge.com/pin/9189) — [source page](https://shortform.com/app/onboarding)
+- [Shortform | Onboarding](https://design.withfudge.com/pin/9188) — [source page](https://shortform.com/app/onboarding)
+- [Shortform | Onboarding](https://design.withfudge.com/pin/9187) — [source page](https://shortform.com/app/onboarding)

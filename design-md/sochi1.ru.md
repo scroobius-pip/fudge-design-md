@@ -99,4 +99,4 @@ Here is the visual system observed across **1 captured page** from [sochi1.ru](h
 ```
 
 ## References
-- [Власти Сочи обвинили собственников не муниципальных земель в массовом распространении вредителей - 29 апреля 2026 | СОЧИ1.ру](https://design.withfudge.com/pin/9167) — [source page](sochi1.ru/text/ecology/2026/04/29/76392724/)
+- [Власти Сочи обвинили собственников не муниципальных земель в массовом распространении вредителей - 29 апреля 2026 | СОЧИ1.ру](https://design.withfudge.com/pin/9167) — [source page](https://sochi1.ru/text/ecology/2026/04/29/76392724/)

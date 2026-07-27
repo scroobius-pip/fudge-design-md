@@ -202,6 +202,6 @@ Here is the visual system observed across **3 captured pages** from [ampcode.com
 ```
 
 ## References
-- [Owner’s Manual - Amp](https://design.withfudge.com/pin/9180) — [source page](ampcode.com/manual)
-- [Amp](https://design.withfudge.com/pin/9179) — [source page](ampcode.com/)
-- [Amp](https://design.withfudge.com/pin/9178) — [source page](ampcode.com/)
+- [Owner’s Manual - Amp](https://design.withfudge.com/pin/9180) — [source page](https://ampcode.com/manual)
+- [Amp](https://design.withfudge.com/pin/9179) — [source page](https://ampcode.com/)
+- [Amp](https://design.withfudge.com/pin/9178) — [source page](https://ampcode.com/)

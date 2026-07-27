@@ -208,10 +208,10 @@ Here is the visual system observed across **7 captured pages** from [grey.co](ht
 ```
 
 ## References
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6725) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6724) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6723) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6722) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6721) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6720) — [source page](grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6719) — [source page](grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6725) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6724) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6723) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6722) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6721) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6720) — [source page](https://grey.co/)
+- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6719) — [source page](https://grey.co/)

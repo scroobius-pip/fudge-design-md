@@ -166,6 +166,6 @@ Here is the visual system observed across **3 captured pages** from [ucp.dev](ht
 ```
 
 ## References
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9361) — [source page](ucp.dev/)
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9360) — [source page](ucp.dev/)
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9359) — [source page](ucp.dev/)
+- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9361) — [source page](https://ucp.dev/)
+- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9360) — [source page](https://ucp.dev/)
+- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9359) — [source page](https://ucp.dev/)

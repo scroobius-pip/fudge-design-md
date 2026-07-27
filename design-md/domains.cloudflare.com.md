@@ -88,4 +88,4 @@ Here is the visual system observed across **1 captured page** from [domains.clou
 ```
 
 ## References
-- [Search and register available domain names | Cloudflare Registrar](https://design.withfudge.com/pin/8323) — [source page](domains.cloudflare.com/)
+- [Search and register available domain names | Cloudflare Registrar](https://design.withfudge.com/pin/8323) — [source page](https://domains.cloudflare.com/)

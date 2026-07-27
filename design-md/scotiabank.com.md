@@ -109,4 +109,4 @@ Here is the visual system observed across **1 captured page** from [scotiabank.c
 ```
 
 ## References
-- [Scotiabank Global Site](https://design.withfudge.com/pin/9875) — [source page](scotiabank.com/global/en/global-site.html)
+- [Scotiabank Global Site](https://design.withfudge.com/pin/9875) — [source page](https://scotiabank.com/global/en/global-site.html)

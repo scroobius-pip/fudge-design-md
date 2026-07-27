@@ -331,11 +331,11 @@ Here is the visual system observed across **16 captured pages** from [wisprflow.
 ```
 
 ## References
-- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7402) — [source page](wisprflow.ai/pricing)
-- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7401) — [source page](wisprflow.ai/pricing)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7400) — [source page](wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7399) — [source page](wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7398) — [source page](wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7397) — [source page](wisprflow.ai/about)
-- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7396) — [source page](wisprflow.ai/)
-- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7395) — [source page](wisprflow.ai/)
+- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7402) — [source page](https://wisprflow.ai/pricing)
+- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7401) — [source page](https://wisprflow.ai/pricing)
+- [About | Wispr Flow](https://design.withfudge.com/pin/7400) — [source page](https://wisprflow.ai/about)
+- [About | Wispr Flow](https://design.withfudge.com/pin/7399) — [source page](https://wisprflow.ai/about)
+- [About | Wispr Flow](https://design.withfudge.com/pin/7398) — [source page](https://wisprflow.ai/about)
+- [About | Wispr Flow](https://design.withfudge.com/pin/7397) — [source page](https://wisprflow.ai/about)
+- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7396) — [source page](https://wisprflow.ai/)
+- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7395) — [source page](https://wisprflow.ai/)

@@ -108,4 +108,4 @@ Here is the visual system observed across **1 captured page** from [mn.ru](https
 ```
 
 ## References
-- [Турпоток на курорт «Термы» вырастет](https://design.withfudge.com/pin/9102) — [source page](mn.ru/smart/turpotok-na-kurort-termy-vyrastet)
+- [Турпоток на курорт «Термы» вырастет](https://design.withfudge.com/pin/9102) — [source page](https://mn.ru/smart/turpotok-na-kurort-termy-vyrastet)

@@ -120,5 +120,5 @@ Here is the visual system observed across **2 captured pages** from [mojolang.or
 ```
 
 ## References
-- [Mojo](https://design.withfudge.com/pin/9198) — [source page](mojolang.org/)
-- [Mojo](https://design.withfudge.com/pin/9197) — [source page](mojolang.org/)
+- [Mojo](https://design.withfudge.com/pin/9198) — [source page](https://mojolang.org/)
+- [Mojo](https://design.withfudge.com/pin/9197) — [source page](https://mojolang.org/)

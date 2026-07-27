@@ -348,11 +348,11 @@ Here is the visual system observed across **12 captured pages** from [thisispenn
 ```
 
 ## References
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10006) — [source page](thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10005) — [source page](thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10004) — [source page](thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10003) — [source page](thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3658) — [source page](thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3657) — [source page](thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3656) — [source page](thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3655) — [source page](thisispenny.com/)
+- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10006) — [source page](https://thisispenny.com/)
+- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10005) — [source page](https://thisispenny.com/)
+- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10004) — [source page](https://thisispenny.com/)
+- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10003) — [source page](https://thisispenny.com/)
+- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3658) — [source page](https://thisispenny.com/)
+- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3657) — [source page](https://thisispenny.com/)
+- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3656) — [source page](https://thisispenny.com/)
+- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3655) — [source page](https://thisispenny.com/)

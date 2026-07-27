@@ -108,5 +108,5 @@ Here is the visual system observed across **2 captured pages** from [mockdown.de
 ```
 
 ## References
-- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6673) — [source page](mockdown.design/)
-- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6672) — [source page](mockdown.design/)
+- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6673) — [source page](https://mockdown.design/)
+- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6672) — [source page](https://mockdown.design/)

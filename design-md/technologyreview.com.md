@@ -128,6 +128,6 @@ Here is the visual system observed across **3 captured pages** from [technologyr
 ```
 
 ## References
-- [MIT Technology Review](https://design.withfudge.com/pin/9174) — [source page](technologyreview.com/)
-- [MIT Technology Review](https://design.withfudge.com/pin/9173) — [source page](technologyreview.com/)
-- [MIT Technology Review](https://design.withfudge.com/pin/9172) — [source page](technologyreview.com/)
+- [MIT Technology Review](https://design.withfudge.com/pin/9174) — [source page](https://technologyreview.com/)
+- [MIT Technology Review](https://design.withfudge.com/pin/9173) — [source page](https://technologyreview.com/)
+- [MIT Technology Review](https://design.withfudge.com/pin/9172) — [source page](https://technologyreview.com/)

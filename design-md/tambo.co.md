@@ -369,11 +369,11 @@ Here is the visual system observed across **12 captured pages** from [tambo.co](
 ```
 
 ## References
-- [Tambo](https://design.withfudge.com/pin/6691) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6690) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6689) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6688) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6687) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6686) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6685) — [source page](tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6684) — [source page](tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6691) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6690) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6689) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6688) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6687) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6686) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6685) — [source page](https://tambo.co/)
+- [Tambo](https://design.withfudge.com/pin/6684) — [source page](https://tambo.co/)

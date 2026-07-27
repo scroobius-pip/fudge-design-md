@@ -87,4 +87,4 @@ Here is the visual system observed across **1 captured page** from [id.ai](https
 ```
 
 ## References
-- [Internet Identity](https://design.withfudge.com/pin/7534) — [source page](id.ai/)
+- [Internet Identity](https://design.withfudge.com/pin/7534) — [source page](https://id.ai/)

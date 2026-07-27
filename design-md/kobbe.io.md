@@ -353,11 +353,11 @@ Here is the visual system observed across **12 captured pages** from [kobbe.io](
 ```
 
 ## References
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10175) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10123) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10122) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10121) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10120) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10119) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10118) — [source page](kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10117) — [source page](kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10175) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10123) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10122) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10121) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10120) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10119) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10118) — [source page](https://kobbe.io/)
+- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10117) — [source page](https://kobbe.io/)

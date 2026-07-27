@@ -119,5 +119,5 @@ Here is the visual system observed across **2 captured pages** from [assistant-u
 ```
 
 ## References
-- [Installation | assistant-ui](https://design.withfudge.com/pin/8806) — [source page](assistant-ui.com/docs/installation)
-- [Thread | assistant-ui](https://design.withfudge.com/pin/8754) — [source page](assistant-ui.com/docs/ui/thread)
+- [Installation | assistant-ui](https://design.withfudge.com/pin/8806) — [source page](https://assistant-ui.com/docs/installation)
+- [Thread | assistant-ui](https://design.withfudge.com/pin/8754) — [source page](https://assistant-ui.com/docs/ui/thread)

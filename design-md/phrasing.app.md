@@ -320,11 +320,11 @@ Here is the visual system observed across **13 captured pages** from [phrasing.a
 ```
 
 ## References
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6190) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6189) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6188) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6187) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6186) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6185) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6184) — [source page](phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6183) — [source page](phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6190) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6189) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6188) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6187) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6186) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6185) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6184) — [source page](https://phrasing.app/)
+- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6183) — [source page](https://phrasing.app/)

@@ -140,6 +140,6 @@ Here is the visual system observed across **3 captured pages** from [witharc.co]
 ```
 
 ## References
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6764) — [source page](witharc.co/)
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6763) — [source page](witharc.co/)
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6762) — [source page](witharc.co/)
+- [Arc • Creative Studio](https://design.withfudge.com/pin/6764) — [source page](https://witharc.co/)
+- [Arc • Creative Studio](https://design.withfudge.com/pin/6763) — [source page](https://witharc.co/)
+- [Arc • Creative Studio](https://design.withfudge.com/pin/6762) — [source page](https://witharc.co/)

@@ -231,11 +231,11 @@ Here is the visual system observed across **8 captured pages** from [kigen.desig
 ```
 
 ## References
-- [Kigen Design System](https://design.withfudge.com/pin/8718) — [source page](kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8717) — [source page](kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8716) — [source page](kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8715) — [source page](kigen.design/system)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5798) — [source page](kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5797) — [source page](kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5796) — [source page](kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5795) — [source page](kigen.design/)
+- [Kigen Design System](https://design.withfudge.com/pin/8718) — [source page](https://kigen.design/system)
+- [Kigen Design System](https://design.withfudge.com/pin/8717) — [source page](https://kigen.design/system)
+- [Kigen Design System](https://design.withfudge.com/pin/8716) — [source page](https://kigen.design/system)
+- [Kigen Design System](https://design.withfudge.com/pin/8715) — [source page](https://kigen.design/system)
+- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5798) — [source page](https://kigen.design/)
+- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5797) — [source page](https://kigen.design/)
+- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5796) — [source page](https://kigen.design/)
+- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5795) — [source page](https://kigen.design/)

@@ -100,4 +100,4 @@ Here is the visual system observed across **1 captured page** from [shaders.com]
 ```
 
 ## References
-- [Smokescreen - Shaders](https://design.withfudge.com/pin/9009) — [source page](shaders.com/collection/smokescreen)
+- [Smokescreen - Shaders](https://design.withfudge.com/pin/9009) — [source page](https://shaders.com/collection/smokescreen)

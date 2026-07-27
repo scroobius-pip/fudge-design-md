@@ -146,5 +146,5 @@ Here is the visual system observed across **2 captured pages** from [subq.ai](ht
 ```
 
 ## References
-- [Subquadratic — Efficiency is Intelligence](https://design.withfudge.com/pin/9662) — [source page](subq.ai/)
-- [Request Early Access — Subquadratic](https://design.withfudge.com/pin/9659) — [source page](subq.ai/request-early-access)
+- [Subquadratic — Efficiency is Intelligence](https://design.withfudge.com/pin/9662) — [source page](https://subq.ai/)
+- [Request Early Access — Subquadratic](https://design.withfudge.com/pin/9659) — [source page](https://subq.ai/request-early-access)

@@ -182,8 +182,8 @@ Here is the visual system observed across **5 captured pages** from [saaspo.com]
 ```
 
 ## References
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7093) — [source page](saaspo.com/)
-- [Saaspo | Flint Landing Page](https://design.withfudge.com/pin/7087) — [source page](saaspo.com/pages/flint-landing-page-v2)
-- [Advertise on Saaspo | Saaspo](https://design.withfudge.com/pin/7086) — [source page](saaspo.com/advertise)
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7085) — [source page](saaspo.com/)
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7084) — [source page](saaspo.com/)
+- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7093) — [source page](https://saaspo.com/)
+- [Saaspo | Flint Landing Page](https://design.withfudge.com/pin/7087) — [source page](https://saaspo.com/pages/flint-landing-page-v2)
+- [Advertise on Saaspo | Saaspo](https://design.withfudge.com/pin/7086) — [source page](https://saaspo.com/advertise)
+- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7085) — [source page](https://saaspo.com/)
+- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7084) — [source page](https://saaspo.com/)
