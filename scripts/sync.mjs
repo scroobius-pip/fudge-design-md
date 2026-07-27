@@ -1,5 +1,5 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
-import { basename, dirname, join } from "node:path";
+import { basename, dirname } from "node:path";
 
 const origin = process.env.FUDGE_ORIGIN ?? "https://design.withfudge.com";
 const sitemapUrl = `${origin}/sitemaps/domains.xml`;
@@ -32,13 +32,24 @@ const safeDomain = (value) => {
 };
 
 const fetchText = async (url) => {
-  const response = await fetch(url, {
-    headers: { "user-agent": "fudge-design-md-sync/1.0" },
-  });
-  if (!response.ok) {
-    throw new Error(`${response.status} ${response.statusText}`);
+  let lastError;
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        headers: { "user-agent": "fudge-design-md-sync/1.0" },
+      });
+      if (!response.ok) {
+        throw new Error(`${response.status} ${response.statusText}`);
+      }
+      return response.text();
+    } catch (error) {
+      lastError = error;
+      if (attempt < 3) {
+        await new Promise((resolve) => setTimeout(resolve, attempt * 500));
+      }
+    }
   }
-  return response.text();
+  throw lastError;
 };
 
 const domainsFromSitemap = (xml) => {
@@ -104,7 +115,7 @@ if (domains.length === 0) {
 const failures = [];
 let updated = 0;
 
-for (const domain of domains) {
+const syncDomain = async (domain) => {
   const conversationUrl = `${origin}/conversation/${domain}-design`;
   const markdownUrl = `${conversationUrl}.md`;
   try {
@@ -122,7 +133,18 @@ for (const domain of domains) {
   } catch (error) {
     failures.push(`${domain}: ${error.message}`);
   }
-}
+};
+
+let cursor = 0;
+await Promise.all(
+  Array.from({ length: Math.min(16, domains.length) }, async () => {
+    while (cursor < domains.length) {
+      const domain = domains[cursor];
+      cursor += 1;
+      await syncDomain(domain);
+    }
+  }),
+);
 
 await updateReadmeIndex();
 
@@ -144,4 +166,3 @@ if (process.env.GITHUB_STEP_SUMMARY) {
 }
 
 if (failures.length === domains.length) process.exitCode = 1;
-
