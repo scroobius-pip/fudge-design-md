@@ -188,6 +188,14 @@ Cloudflare’s dashboard is a **dense enterprise operations console**: account-s
 
 [Open guide](design-md/dash.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
 
+### dashboard.internetcomputer.org
+
+[![How dashboard.internetcomputer.org is designed](https://pin.fontofweb.com/9061?format=jpg)](design-md/dashboard.internetcomputer.org.md)
+
+The Internet Computer dashboard is a **network operations view**: home plus network subnets. Visually it leans **cool technical light-mode**—white surfaces, soft blue accents (`#66aeff`, `#9e9eff`), and muted gray text (`#a3a3a3`). It should feel like infrastructure observability: charts, status, and subnet structure—not a consumer marketing site.
+
+[Open guide](design-md/dashboard.internetcomputer.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.internetcomputer.org-design)
+
 ### dashboard.mux.com
 
 [![How dashboard.mux.com is designed](https://pin.fontofweb.com/2001?format=jpg)](design-md/dashboard.mux.com.md)
