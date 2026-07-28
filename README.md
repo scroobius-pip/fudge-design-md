@@ -540,6 +540,14 @@ Departure Mono’s site is a **specimen stage for a lo-fi monospaced pixel font*
 
 [Open guide](design-md/departuremono.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/departuremono.com-design)
 
+### designsystems.surf
+
+[![How designsystems.surf is designed](https://pin.fontofweb.com/8109?format=jpg)](design-md/designsystems.surf.md)
+
+designsystems.surf is a **documentation-and-product hybrid** for people who collect and build design systems. The shell is deliberately quiet: white canvas, black ink, light gray separators, and a slim top bar with a pill search field. Personality arrives through **soft gray content cards**, **orange gradient commerce CTAs**, circular brand marks in side navigation, and simple diagram illustrations—not through a loud marketing skin.
+
+[Open guide](design-md/designsystems.surf.md) · [View the Fudge conversation](https://design.withfudge.com/share/designsystems.surf-design)
+
 ### developer.chrome.com
 
 [![How developer.chrome.com is designed](https://pin.fontofweb.com/6426?format=jpg)](design-md/developer.chrome.com.md)
