@@ -1,144 +1,110 @@
 # How cracked.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cracked.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cracked.com-design)
 
-Source domain: [cracked.com](https://cracked.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-23
+## Design character
 
-<!--
-coverPin: 8242
--->
+Cracked is a loud, editorial humor portal: black masthead, bold white/yellow wordmark energy, dense multi-column content grids, and thumbnail-led story modules. It reads like a classic internet magazine—high contrast, heavy weights, and packed modules—not a minimal SaaS landing page. Humor is in the headlines; the chrome is utilitarian black, white, and accent red/yellow from the brand bar.
 
-Here is the visual system observed across **2 captured pages** from [cracked.com](https://cracked.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#f5f5f5",
-  "#656565",
-  "#005f6b",
-  "#ffcc00",
-  "#eeeeee",
-  "#ffffff",
-  "#ffd772",
-  "#d7a14d",
-  "#e91302",
-  "#ad573b",
-  "#296384",
-  "#1d1919",
-  "#f0eeeb",
-  "#e4763e",
-  "#5e4d3d"
-]
-```
+- Strong **black masthead** with category navigation
+- **Bold, weighty headlines** (700–900) over lighter body
+- Thumbnail + headline story cards in tight grids
+- High content density; short module padding (~10–20px)
+- Clear section labels for verticals (Movies & TV, etc.)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cracked.com",
-  "sampleText": "cracked.com",
-  "fonts": [
-    {
-      "family": "Neuekabel",
-      "familyId": 2398,
-      "pinId": 8242,
-      "domain": "cracked.com",
-      "weight": "700",
-      "size": "30px",
-      "lineHeight": "40px",
-      "letterSpacing": "normal",
-      "frequency": 21
-    },
-    {
-      "family": "Source Serif 4",
-      "familyId": 1336,
-      "pinId": 8242,
-      "domain": "cracked.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 21
-    },
-    {
-      "family": "Open Sans",
-      "familyId": 2034,
-      "pinId": 8241,
-      "domain": "cracked.com",
-      "weight": "700",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 13
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 27 |
-| Spacing values | 23 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8242,
-      "title": "Movies & TV | Cracked.com",
-      "domain": "cracked.com/humor-movies-tv.html",
-      "pageUrl": "cracked.com/humor-movies-tv.html",
-      "imageUrl": "https://pin.fontofweb.com/8242?format=jpg",
-      "colors": [
-        "#d7a14d",
-        "#e91302",
-        "#ffcc00",
-        "#ad573b",
-        "#296384",
-        "#ffffff",
-        "#000000",
-        "#656565"
-      ],
-      "fonts": [
-        "Neuekabel",
-        "Source Serif 4"
-      ]
-    },
-    {
-      "pinId": 8241,
-      "title": "Cracked.com - America's Only Humor Site | Cracked.com",
-      "domain": "cracked.com/",
-      "pageUrl": "cracked.com/",
-      "imageUrl": "https://pin.fontofweb.com/8241?format=jpg",
-      "colors": [
-        "#f1c42f",
-        "#ffd772",
-        "#eeeeee",
-        "#888787",
-        "#f0f0ee",
-        "#000000",
-        "#1f1e1f",
-        "#f5f5f5"
-      ],
-      "fonts": [
-        "Neuekabel",
-        "Open Sans",
-        "Source Serif 4"
-      ]
-    }
-  ]
-}
-```
+Measured role colors were not recorded. From the captured pages:
 
-## Representative captures
-[![Movies & TV | Cracked.com](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/pin/8242)
-[Movies & TV | Cracked.com](https://design.withfudge.com/pin/8242) — [source page](https://cracked.com/humor-movies-tv.html)
+- **Masthead / chrome**: near-black bars and footers
+- **Page field**: light/white content wells under the header
+- **Type**: black headlines on light cards; white type on dark chrome
+- **Accents**: brand yellow/red notes in logo lockups and occasional badges (visual)
+- **Rules**: 1px solid horizontal dividers between modules
 
-[![Cracked.com - America's Only Humor Site | Cracked.com](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/pin/8241)
-[Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/pin/8241) — [source page](https://cracked.com/)
+Keep the system high-contrast editorial—black chrome, light reading surface, restrained accent.
+
+### Typography
+
+No declared families. Observed scale:
+
+| Role | Size | Weight | Line-height |
+|------|------|--------|-------------|
+| Section / feature head | ~30–36px | 700–900 | ~40px |
+| Card headline | ~20–26px | 700–900 | ~26–32px |
+| Deck / blurb | ~16–22px | 400 | ~28–32px |
+| Nav / meta / bylines | 16px | 700 (nav) / 400 (meta) | tight ~16px on nav |
+
+Headlines dominate: heavy weight, short lines, little decoration. Body stays 16px with comfortable ~28px leading in blurbs.
+
+### Spacing and layout
+
+- Module padding clusters at **10px / 20px**; horizontal card padding ~16px on category pages
+- Desktop home uses a wide multi-column magazine grid with side margins ~280px on very wide captures
+- 1px top borders repeat as list/module separators
+- Category pages stack vertical lists of story rows (thumb + text)
+- Density is intentionally high—little dead air between stories
+
+## Visual language
+
+- **Shape**: mostly squared-off cards and media thumbs; radii not a defining feature
+- **Borders**: thin solid rules, not soft shadows
+- **Imagery**: photographic and illustrated article thumbs; large feature art in heroes
+- **Logo**: bold wordmark in the black header
+- **Motion**: not established
+
+## Components and states
+
+1. **Global header** — black bar, Cracked wordmark, category links, utility icons
+2. **Feature / river modules** — big story with image + heavy headline
+3. **Story card** — thumbnail, bold title, short deck, meta
+4. **Section index** (e.g. Movies & TV) — titled hub with stacked editorial rows
+5. **Footer chrome** — dark utilitarian close
+
+Interaction states (hover underline, etc.) are not reliable from stills—preserve structure and type weight instead.
+
+## Responsive behavior
+
+Two paths captured: wide home (~1712px) and narrower category (~800px). At 800px the layout collapses toward single-column story stacks with 16px side padding while keeping bold 20–30px heads. Treat as content-first responsive: grids drop columns before type radically changes.
+
+## Practical guidance
+
+**Preserve**
+
+- Black masthead + dense editorial grid
+- 700–900 headlines as the primary voice
+- Thumbnail-led modules and thin rules
+- High information density
+
+**Avoid**
+
+- Airy startup spacing that undermines the magazine feel
+- Soft pastel cards or large rounded corners
+- Replacing bold humor headlines with thin geometric display type
+- Over-branding every card with extra accent colors
+
+**Adaptation**
+
+- Start from header + story card + section index patterns
+- Type ramp: display 36 / card 22–26 / body 16
+- Keep accent color scarce; let photography and headlines carry energy
+
+## Scope note
+
+Based on Cracked home and `/humor-movies-tv.html` captures. Font families and measured palettes were unavailable; color guidance is visual. Article long-form interiors, ads, and comment UI were not the focus of these captures.
+
+## Captured pages
+
+[![Home — magazine grid](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/share/pin-8241)
+
+[Home — magazine grid](https://design.withfudge.com/share/pin-8241)
+
+[![Movies & TV hub](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/share/pin-8242)
+
+[Movies & TV hub](https://design.withfudge.com/share/pin-8242)

@@ -148,6 +148,14 @@ Content for Context’s case-study page (SBS 8 News) reads as a **editorial port
 
 [Open guide](design-md/contentformcontext.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/contentformcontext.com-design)
 
+### cracked.com
+
+[![How cracked.com is designed](https://pin.fontofweb.com/8241?format=jpg)](design-md/cracked.com.md)
+
+Cracked is a loud, editorial humor portal: black masthead, bold white/yellow wordmark energy, dense multi-column content grids, and thumbnail-led story modules. It reads like a classic internet magazine—high contrast, heavy weights, and packed modules—not a minimal SaaS landing page. Humor is in the headlines; the chrome is utilitarian black, white, and accent red/yellow from the brand bar.
+
+[Open guide](design-md/cracked.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cracked.com-design)
+
 ### curator.io
 
 [![How curator.io is designed](https://pin.fontofweb.com/7651?format=jpg)](design-md/curator.io.md)
