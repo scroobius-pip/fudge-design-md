@@ -68,6 +68,14 @@ A Collection of Unmitigated Pedantry is a long-form history blog that dresses li
 
 [Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
 
+### adject.ai
+
+[![How adject.ai is designed](https://pin.fontofweb.com/7678?format=jpg)](design-md/adject.ai.md)
+
+Adject presents as a **confident consumer-SaaS launch site** for AI product imagery. The system is bright, spacious, and product-demo forward: a pure white canvas, near-black geometric headlines, and a single electric blue used for primary actions and key interactive moments (expanded FAQ, main CTAs). Floating UI mockups and soft multi-stop shadows sell “magic output” without cluttering the chrome.
+
+[Open guide](design-md/adject.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/adject.ai-design)
+
 ### adventureson.band
 
 [![How adventureson.band is designed](https://pin.fontofweb.com/6741?format=jpg)](design-md/adventureson.band.md)
