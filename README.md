@@ -708,6 +708,14 @@ frame.work (Framework) sells modular laptops with a **clean hardware-brand syste
 
 [Open guide](design-md/frame.work.md) · [View the Fudge conversation](https://design.withfudge.com/share/frame.work-design)
 
+### framer.com
+
+[![How framer.com is designed](https://pin.fontofweb.com/10162?format=jpg)](design-md/framer.com.md)
+
+Framer’s marketing site is a **black-canvas product theater** for a visual website builder and AI agents. High-contrast and cinematic: pure black fields, white grotesque display, soft 18–25px rounded cards, electric blue accent (`#0099ff`), and lush product/video imagery in rounded stages. Density is intentional — capability grids, logo walls, stacked demos — always on dark velvet rather than gray SaaS chrome.
+
+[Open guide](design-md/framer.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/framer.com-design)
+
 ### fundable.design
 
 [![How fundable.design is designed](https://pin.fontofweb.com/6714?format=jpg)](design-md/fundable.design.md)
