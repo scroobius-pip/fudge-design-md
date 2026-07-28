@@ -1,132 +1,85 @@
 # How analytics.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/analytics.google.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
-Source domain: [analytics.google.com](https://analytics.google.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-28
+## Design character
 
-<!--
-coverPin: 6041
--->
+Google Analytics is **Material-era enterprise calm**: light gray page ground, white rounded metric cards, blue data ink, and dense-but-airy dashboard composition. Numbers are the heroes; chrome stays neutral so trends, deltas, and tables remain legible for long sessions.
 
-Here is the visual system observed across **2 captured pages** from [analytics.google.com](https://analytics.google.com).
+What should survive adaptation:
+- White cards on light gray canvas
+- Google blue (`#1a73e8`) for series, links, and key actions
+- Large KPI figures with small muted labels
+- Green/red delta semantics without turning the whole UI into traffic lights
 
-```fudge-colors
-[
-  "#202124",
-  "#f1f3f4",
-  "#000000",
-  "#5f6368",
-  "#1a73e8",
-  "#1967d2",
-  "#188038",
-  "#d93025",
-  "#333333",
-  "#dadce0",
-  "#6798dd",
-  "#9bbfe4",
-  "#7aaa85",
-  "#2e79e2",
-  "#535456",
-  "#969799"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from analytics.google.com",
-  "sampleText": "analytics.google.com",
-  "fonts": [
-    {
-      "family": "Roboto",
-      "familyId": 150,
-      "pinId": 6041,
-      "domain": "analytics.google.com",
-      "weight": "400",
-      "size": "13px",
-      "lineHeight": "20px",
-      "letterSpacing": "0.2px",
-      "frequency": 2
-    },
-    {
-      "family": "Google Sans 18 Pt",
-      "familyId": 1093,
-      "pinId": 6041,
-      "domain": "analytics.google.com",
-      "weight": "500",
-      "size": "18px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 23 |
-| Spacing values | 8 |
-| Borders and radii | 3 |
-| Shadows | 0 |
-| Gradients | 0 |
+Measured swatches seen across pages: `#1a73e8`, `#000000`, `#5f6368`, `#333333`. Supporting grays (`#5f6368`, `#333333`) handle secondary labels. Page background is cooler light gray; cards are white. Charts use blue primary lines with lighter fills/bands.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6041,
-      "title": "Analytics | Home",
-      "domain": "analytics.google.com/analytics/web/",
-      "pageUrl": "analytics.google.com/analytics/web/",
-      "imageUrl": "https://pin.fontofweb.com/6041?format=jpg",
-      "colors": [
-        "#188038",
-        "#1a73e8",
-        "#6798dd",
-        "#dadce0",
-        "#5f6368",
-        "#000000",
-        "#9bbfe4",
-        "#d93025"
-      ],
-      "fonts": [
-        "Roboto",
-        "Google Sans 18 Pt"
-      ]
-    },
-    {
-      "pinId": 6040,
-      "title": "Analytics | Home",
-      "domain": "analytics.google.com/analytics/web/",
-      "pageUrl": "analytics.google.com/analytics/web/",
-      "imageUrl": "https://pin.fontofweb.com/6040?format=jpg",
-      "colors": [
-        "#c2c3c4",
-        "#202124",
-        "#9c9ea0",
-        "#689adf",
-        "#f1f3f4",
-        "#f3f4f6",
-        "#545557",
-        "#afccef"
-      ],
-      "fonts": [
-        "Roboto",
-        "Google Sans 18 Pt"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Analytics | Home](https://pin.fontofweb.com/6041?format=jpg)](https://design.withfudge.com/pin/6041)
-[Analytics | Home](https://design.withfudge.com/pin/6041) — [source page](https://analytics.google.com/analytics/web/)
+Observed text styles:
+- **text**: unknown, weight 400, 13px, lh 14.95px
+- **text**: unknown, weight 500, 14px, lh 14px
+- **text**: unknown, weight 500, 14px, lh 21px
+- **text**: unknown, weight 500, 14px, lh 20px
+- **text**: unknown, weight 500, 14px, lh 16.1px
+- **text**: unknown, weight 500, 18px, lh 24px
+- **text**: unknown, weight 500, 14px, lh 14px
+- **text**: unknown, weight 400, 13px, lh 20px
+- **text**: unknown, weight 500, 14px, lh 18px
+- **text**: unknown, weight 500, 14px, lh 16px
+- **text**: unknown, weight 400, 12px, lh 13.8px
+- **text**: unknown, weight 500, 14px, lh 16px
 
-[![Analytics | Home](https://pin.fontofweb.com/6040?format=jpg)](https://design.withfudge.com/pin/6040)
-[Analytics | Home](https://design.withfudge.com/pin/6040) — [source page](https://analytics.google.com/analytics/web/)
+UI sans throughout. KPI numbers are large and medium-weight; chart axes and table cells shrink; card titles sit between. No decorative display faces inside the app shell.
+
+### Spacing and layout
+
+Recurring spacing measurements include 4px, 8px, 14px, 20px, 24px, 32px, 36px, 40px, 46px. Dashboard modules sit in a responsive card grid with consistent gutters. Realtime side cards pair with main trend cards. Observed corner radii include 8px, 22px. Prefer 12–16px-class soft rounding on cards.
+
+## Visual language
+
+Subtle card shadows, hairline borders, chip filters, and icon+label rows. Charts are flat line/bar with restrained fills. Empty/loading states should stay as quiet as populated ones.
+
+## Components and states
+
+- App top bar / property context (when visible)
+- Metric cards with title, big number, delta, sparkline/chart
+- Realtime panel with per-minute bars and country list
+- Recently accessed shortcut cards
+- Text buttons/links in brand blue
+
+## Responsive behavior
+
+Captures are mid-width dashboard views (~1270–1290px). Expect cards to reflow from multi-column to stacked single column; keep KPI type from shrinking below scannable sizes.
+
+## Practical guidance
+
+**Preserve** card-on-gray structure, blue data accent, delta coloring discipline, dense clarity.  
+**Avoid** dark-mode gimmicks that fight Material light analytics norms, rainbow multi-series chaos, heavy illustration.
+
+## Scope note
+
+Studied 2 page captures on paths /analytics/web/. Some structural families were incomplete on these pages. Only /analytics/web/ app home-style dashboards were captured—not Admin or Explore deep tools.
+
+## Captured pages
+
+[![Analytics | Home](https://pin.fontofweb.com/6041?format=jpg)](https://design.withfudge.com/share/pin-6041)
+
+[Analytics | Home](https://design.withfudge.com/share/pin-6041)
+
+[![Analytics | Home](https://pin.fontofweb.com/6040?format=jpg)](https://design.withfudge.com/share/pin-6040)
+
+[Analytics | Home](https://design.withfudge.com/share/pin-6040)
+
+## Colors
+
+- `#1a73e8`
+- `#000000`
+- `#5f6368`
+- `#333333`

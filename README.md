@@ -68,6 +68,14 @@ Alpine.inc presents as **premium dark SaaS theater**: near-black stages, crisp w
 
 [Open guide](design-md/alpine.inc.md) · [View the Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
 
+### analytics.google.com
+
+[![How analytics.google.com is designed](https://pin.fontofweb.com/6041?format=jpg)](design-md/analytics.google.com.md)
+
+Google Analytics is **Material-era enterprise calm**: light gray page ground, white rounded metric cards, blue data ink, and dense-but-airy dashboard composition. Numbers are the heroes; chrome stays neutral so trends, deltas, and tables remain legible for long sessions.
+
+[Open guide](design-md/analytics.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
+
 ### arcee.ai
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6372?format=jpg)](design-md/arcee.ai.md)
