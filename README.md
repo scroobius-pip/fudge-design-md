@@ -508,6 +508,14 @@ Mux dashboard captures focus on **authentication entry**—login and signup—ra
 
 [Open guide](design-md/dashboard.mux.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.mux.com-design)
 
+### deepjudge.ai
+
+[![How deepjudge.ai is designed](https://pin.fontofweb.com/6301?format=jpg)](design-md/deepjudge.ai.md)
+
+DeepJudge presents as a **premium dark legal-tech brand**: near-black full-bleed canvases, ivory serif display type, and a single centered white “paper” form card. It feels closer to a private members’ site or editorial law journal than to a busy SaaS dashboard. Authority comes from restraint—huge literary headlines, tiny sans supporting copy, and almost no decoration.
+
+[Open guide](design-md/deepjudge.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/deepjudge.ai-design)
+
 ### deepmind.google
 
 [![How deepmind.google is designed](https://pin.fontofweb.com/9520?format=jpg)](design-md/deepmind.google.md)
