@@ -292,6 +292,14 @@ Baked Design sells product design to startup founders with a **portfolio-as-land
 
 [Open guide](design-md/baked.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/baked.design-design)
 
+### baseten.co
+
+[![How baseten.co is designed](https://pin.fontofweb.com/9008?format=jpg)](design-md/baseten.co.md)
+
+Baseten markets **production ML inference** with a calm, infrastructure-forward system: pure white (and soft mint-gray) canvases, near-black sans type, and a single electric **neon lime** brand signal. Product storytelling is carried by **isometric technical diagrams**—mint cubes, cylinders, dashed rings, metric chips—rather than photography. A hairline **blueprint grid** (dashed column/row guides) sits under heroes and feature bands, making the whole site feel like a precise engineering drawing, not a lifestyle brand.
+
+[Open guide](design-md/baseten.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/baseten.co-design)
+
 ### bengalturf.yolasite.com
 
 [![How bengalturf.yolasite.com is designed](https://pin.fontofweb.com/9475?format=jpg)](design-md/bengalturf.yolasite.com.md)
