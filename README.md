@@ -28,6 +28,14 @@ COBE is a developer-library marketing page that behaves like a **live product de
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
+### developer.chrome.com
+
+[![How developer.chrome.com is designed](https://pin.fontofweb.com/6426?format=jpg)](design-md/developer.chrome.com.md)
+
+developer.chrome.com is Google’s **Chrome for Developers** hub: a dark, documentation-forward product site that mixes Material-ish cards with bold marketing display type. The shell is near-black, type is light gray/white, and accent is a calm sky blue. Home is a hero + illustrated feature cards; docs is a searchable catalog of topic cards. Even the 404 stays on-brand—minimal, centered, same chrome and rainbow footer rule.
+
+[Open guide](design-md/developer.chrome.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/developer.chrome.com-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
