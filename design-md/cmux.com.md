@@ -1,195 +1,115 @@
 # How cmux.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cmux.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cmux.com-design)
 
-Source domain: [cmux.com](https://cmux.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-23
+## Design character
 
-<!--
-coverPin: 9450
--->
+cmux sells a **native Mac terminal for agent multitasking** with classic developer-marketing clarity: high-contrast neutrals, product window screenshots (tabs, splits, sidebars), black-and-white CTAs, and just enough monospace signal to feel technical without becoming a theme park. Light and dark bands alternate, but tokens stay monochrome.
 
-Here is the visual system observed across **4 captured pages** from [cmux.com](https://cmux.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#ededed",
-  "#171717",
-  "#0a0a0a",
-  "#fafafa",
-  "#000000",
-  "#ffffff",
-  "#737373",
-  "#a3a3a3",
-  "#262626",
-  "#e5e5e5",
-  "#f9ee7d",
-  "#f9f9f9",
-  "#777777",
-  "#e7e7e7",
-  "#677d79",
-  "#0b0b0b"
-]
-```
+- **Neutral only** (black/white/gray)—no playful brand rainbow  
+- **Product screenshot as proof** (multi-pane terminal)  
+- Dual **filled black** + **outline** CTA pair  
+- **12px** rounding on cards/media  
+- Centered content column with airy section pads (~96px)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cmux.com",
-  "sampleText": "cmux.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9450,
-      "domain": "cmux.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 64
-    },
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 9450,
-      "domain": "cmux.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 3482
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9450,
-      "domain": "cmux.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 775
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 37 |
-| Spacing values | 198 |
-| Borders and radii | 12 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9450,
-      "title": "cmux — The terminal built for multitasking",
-      "domain": "cmux.com/",
-      "pageUrl": "cmux.com/",
-      "imageUrl": "https://pin.fontofweb.com/9450?format=jpg",
-      "colors": [
-        "#777777",
-        "#a3a3a3",
-        "#ededed",
-        "#e7e7e7",
-        "#ffffff",
-        "#677d79",
-        "#0b0b0b",
-        "#4e4e4e"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Geist",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9449,
-      "title": "cmux — The terminal built for multitasking",
-      "domain": "cmux.com/",
-      "pageUrl": "cmux.com/",
-      "imageUrl": "https://pin.fontofweb.com/9449?format=jpg",
-      "colors": [
-        "#000000",
-        "#55494f",
-        "#e5e5e5",
-        "#181818",
-        "#f9f9f9",
-        "#f9ee7d",
-        "#fafafa",
-        "#adadad"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Geist",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9448,
-      "title": "cmux — The terminal built for multitasking",
-      "domain": "cmux.com/",
-      "pageUrl": "cmux.com/",
-      "imageUrl": "https://pin.fontofweb.com/9448?format=jpg",
-      "colors": [
-        "#171717",
-        "#b7b7b7",
-        "#757572",
-        "#000000",
-        "#0d2c07",
-        "#2d78f0",
-        "#6cacee",
-        "#474947"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Geist",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9447,
-      "title": "cmux — The terminal built for multitasking",
-      "domain": "cmux.com/",
-      "pageUrl": "cmux.com/",
-      "imageUrl": "https://pin.fontofweb.com/9447?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#7b7b79",
-        "#dfe0df",
-        "#ededed",
-        "#262626",
-        "#a3a3a3",
-        "#000000",
-        "#0c2c07"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Geist",
-        "System"
-      ]
-    }
-  ]
-}
-```
+Measured roles:
 
-## Representative captures
-[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9450?format=jpg)](https://design.withfudge.com/pin/9450)
-[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9450) — [source page](https://cmux.com/)
+| Context | text_primary | text_secondary | accent/CTA |
+|---------|--------------|----------------|------------|
+| Dark band | `#ededed` | `#a3a3a3` | light buttons on dark |
+| Light band | `#171717` | `#737373` | `#171717` filled buttons |
 
-[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9449?format=jpg)](https://design.withfudge.com/pin/9449)
-[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9449) — [source page](https://cmux.com/)
+Canvas flips white ↔ near-black. Taxonomy: monochrome, dark-mode capable, neutral hue.
 
-[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9448?format=jpg)](https://design.withfudge.com/pin/9448)
-[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9448) — [source page](https://cmux.com/)
+### Typography
 
-[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9447?format=jpg)](https://design.withfudge.com/pin/9447)
-[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9447) — [source page](https://cmux.com/)
+- Heads ~**24px** / 600 / lh 32  
+- Lead ~**18px** / 400 / lh ~29  
+- Body/UI ~**14–16px** / 400–500  
+- Small ~**12–15px**  
+
+Monospace appears inside product screenshots and code-ish UI, not necessarily as marketing body. Families not declared.
+
+### Spacing and layout
+
+- Section padding **96px** vertical common; horizontal **24px**  
+- Large side margins (~**516px** at 1712 → narrow centered measure)  
+- Stack gaps **12 / 40 / 48px**  
+- Feature lists with **16px** gap  
+
+## Visual language
+
+- Radii **12px** on frames/cards; pills for true circular icon buttons  
+- 1px borders on outline buttons and window chrome  
+- Soft floating app screenshot with subtle depth (visual)  
+- Logo mark: simple blue-ish play/terminal badge on light—keep mark small
+
+## Components and states
+
+1. **Top nav** — docs/blog/changelog/community/github + download CTA + theme toggle  
+2. **Hero** — logo, title, lede, dual buttons, big app screenshot  
+3. **Feature list** — concise bullets under “Features”  
+4. **Alternating light/dark bands** for narrative sections  
+5. **GitHub social proof** — star count near nav  
+
+Default resting states.
+
+## Responsive behavior
+
+All four captures at 1712px. Light/dark sections demonstrate theme tokens more than breakpoint changes. Expect the centered column to hold while side margins shrink—mobile not captured.
+
+## Practical guidance
+
+**Preserve**
+
+- Monochrome dual theme  
+- Screenshot-led hero  
+- Black fill + outline CTA pair  
+- 12px radius + airy 96px sections  
+
+**Avoid**
+
+- Colorful gradient mesh backgrounds  
+- Illustration-only heroes without the real terminal  
+- Heavy skeuomorphism beyond a simple window frame  
+- Wide unfocused multi-column marketing clutter  
+
+## Scope note
+
+Four home captures spanning light and dark bands. Strong text roles, spacing, radii; font families not declared. Docs/blog subpages not in set.
+
+## Captured pages
+
+[![Home — dark terminal hero](https://pin.fontofweb.com/9447?format=jpg)](https://design.withfudge.com/share/pin-9447)
+
+[Home — dark terminal hero](https://design.withfudge.com/share/pin-9447)
+
+[![Home — light features](https://pin.fontofweb.com/9448?format=jpg)](https://design.withfudge.com/share/pin-9448)
+
+[Home — light features](https://design.withfudge.com/share/pin-9448)
+
+[![Home — continued system](https://pin.fontofweb.com/9449?format=jpg)](https://design.withfudge.com/share/pin-9449)
+
+[Home — continued system](https://design.withfudge.com/share/pin-9449)
+
+[![Home — consistency pass](https://pin.fontofweb.com/9450?format=jpg)](https://design.withfudge.com/share/pin-9450)
+
+[Home — consistency pass](https://design.withfudge.com/share/pin-9450)
+
+## Colors
+
+- `#ffffff`
+- `#0a0a0a`
+- `#171717`
+- `#ededed`
+- `#a3a3a3`
+- `#737373`
+- `#f5f5f5`

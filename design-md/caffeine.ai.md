@@ -1,119 +1,89 @@
 # How caffeine.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/caffeine.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/caffeine.ai-design)
 
-Source domain: [caffeine.ai](https://caffeine.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-15
+## Design character
 
-<!--
-coverPin: 8830
--->
+Caffeine is a **dark, high-contrast AI product** with two related moods:
+1. **Marketing/info** — near-black full bleed, pale text, electric lime accent (`#ddf730`), large light display lines
+2. **In-product settings** — denser panels, soft periwinkle accent (`#9cb1f4`), gray secondary text, compact controls
 
-Here is the visual system observed across **2 captured pages** from [caffeine.ai](https://caffeine.ai).
+The through-line is dark mode first, flat surfaces, and accents that feel electric rather than corporate blue.
 
-```fudge-colors
-[
-  "#000000",
-  "#fbfbfb",
-  "#f6f6f6",
-  "#0d0b09",
-  "#1d1d1d",
-  "#ffffff",
-  "#ddf730",
-  "#3d3d3d",
-  "#888888",
-  "#9cb1f4",
-  "#1c1d4f",
-  "#713001",
-  "#ffbc99",
-  "#d1d1d1",
-  "#2b2b2b",
-  "#1b1e4f"
-]
-```
+What should survive adaptation:
+- True dark canvases (not dark-gray mush)
+- Pale primary text (`#fbfbfb` / `#f6f6f6`)
+- One vivid accent per surface (lime on marketing, cool blue-violet in app)
+- Compact radii (6–14px) and 1px borders
 
-```fudge-font-usage
-{
-  "title": "Typography captured from caffeine.ai",
-  "sampleText": "caffeine.ai",
-  "fonts": [
-    {
-      "family": "Sohne",
-      "familyId": 2230,
-      "pinId": 8830,
-      "domain": "caffeine.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 154
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 31 |
-| Spacing values | 19 |
-| Borders and radii | 6 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
+Measured:
+- Marketing accent `#ddf730`, text primary `#fbfbfb`, secondary `#888888`
+- App accent `#9cb1f4`, text primary `#f6f6f6`, secondary `#d1d1d1`
+Also observed light fills `#fbfbfb` sparingly and mid grays `#d1d1d1`. Backgrounds read near black / charcoal.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8830,
-      "title": "Caffeine - A Self-Writing Internet Technology",
-      "domain": "caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings",
-      "pageUrl": "caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings",
-      "imageUrl": "https://pin.fontofweb.com/8830?format=jpg",
-      "colors": [
-        "#1b1e4f",
-        "#3d3d3d",
-        "#1c1d4f",
-        "#dcdcdb",
-        "#8f8f8e",
-        "#1d1d1d",
-        "#fbba97",
-        "#0d0b09"
-      ],
-      "fonts": [
-        "Sohne"
-      ]
-    },
-    {
-      "pinId": 7229,
-      "title": "About Caffeine",
-      "domain": "caffeine.ai/info",
-      "pageUrl": "caffeine.ai/info",
-      "imageUrl": "https://pin.fontofweb.com/7229?format=jpg",
-      "colors": [
-        "#010101",
-        "#323916",
-        "#404040",
-        "#000000",
-        "#3d3d3d",
-        "#ddf730",
-        "#656565",
-        "#888888"
-      ],
-      "fonts": [
-        "Sohne"
-      ]
-    }
-  ]
-}
-```
+### Typography
+Family undeclared. Observed:
+- Default UI/body **16px** weight 400 (line-height often unset/normal in app)
+- Marketing display ~**32px** weight **300** — surprisingly light large type
+- Emphasis weight 700 at 16/24
+- Small labels 12–14px
+The light large display on dark is a signature marketing move.
 
-## Representative captures
-[![Caffeine - A Self-Writing Internet Technology](https://pin.fontofweb.com/8830?format=jpg)](https://design.withfudge.com/pin/8830)
-[Caffeine - A Self-Writing Internet Technology](https://design.withfudge.com/pin/8830) — [source page](https://caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings)
+### Spacing and layout
+Spacing cluster: **8, 10, 12, 16, 20, 24, 32** with occasional huge hero gaps. Marketing info is a long vertical narrative; settings is a structured panel/layout with bordered regions.
 
-[![About Caffeine](https://pin.fontofweb.com/7229?format=jpg)](https://design.withfudge.com/pin/7229)
-[About Caffeine](https://design.withfudge.com/pin/7229) — [source page](https://caffeine.ai/info)
+## Visual language
+- Radii **6, 8, 14, 32** (32 for larger chips/containers; filter out infinite pill sentinels)
+- 1px solid borders define panels (especially settings)
+- Flat — no meaningful shadows observed
+- Dark mode default; taxonomy also notes yellow + blue accent hues
+
+## Components and states
+- Marketing: hero statements, accent CTAs, sparse nav
+- App: settings groups, bordered form controls, secondary gray labels
+- Accent used for focus/active and key actions
+Do not invent toast/modal motion from stills.
+
+## Responsive behavior
+Info page ~1712 wide; settings ~1113 wide. Both dark systems hold; settings becomes more vertically stacked at narrower widths. No formal breakpoint tokens recorded.
+
+## Practical guidance
+**Preserve**
+- Dark-first palette with pale text
+- Lime for loud marketing moments; cooler blue for in-app chrome
+- Light-weight large display on dark
+- Flat bordered panels
+
+**Avoid**
+- Pure white marketing pages that break the brand
+- Heavy drop shadows
+- Multiple loud accents on one screen
+- Overly rounded consumer-pastel cards
+
+## Scope note
+Studied `/info` and an authenticated-style `/chat/.../settings` view. Home marketing and full chat transcript UI may extend the system further.
+
+## Captured pages
+
+[![About — dark marketing](https://pin.fontofweb.com/7229?format=jpg)](https://design.withfudge.com/share/pin-7229)
+
+[About — dark marketing](https://design.withfudge.com/share/pin-7229)
+
+[![Chat settings — product chrome](https://pin.fontofweb.com/8830?format=jpg)](https://design.withfudge.com/share/pin-8830)
+
+[Chat settings — product chrome](https://design.withfudge.com/share/pin-8830)
+
+## Colors
+
+- `#ddf730`
+- `#9cb1f4`
+- `#fbfbfb`
+- `#f6f6f6`
+- `#888888`
+- `#d1d1d1`
+- `#0a0a0a`

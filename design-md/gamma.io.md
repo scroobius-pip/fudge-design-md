@@ -1,132 +1,91 @@
 # How gamma.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/gamma.io-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/gamma.io-design)
 
-Source domain: [gamma.io](https://gamma.io)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-28
+## Design character
 
-<!--
-coverPin: 8485
--->
+gamma.io (here: Bitcoin Ordinals/NFT market surface in captures) presents a **dark crypto gallery** with huge light display titles (~72px/600), soft gray body, and pill-heavy chrome (radius ~999). The system centers discovery — search/browse, large hero claim, and rounded media/collection cards on a near-black field. It feels contemporary web3 retail: dramatic type, generous section padding (88px wells), and glossy dark surfaces.
 
-Here is the visual system observed across **2 captured pages** from [gamma.io](https://gamma.io).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#ffffff",
-  "#000000",
-  "#0c0c0d",
-  "#1d1d1e",
-  "#615d5b",
-  "#181818",
-  "#f2ced2",
-  "#f3f3f5",
-  "#958e8f",
-  "#b1846c",
-  "#e0abf1",
-  "#afa6a5",
-  "#82603e",
-  "#161316",
-  "#a84051",
-  "#341e3a"
-]
-```
+- Dark canvas + white/light display.
+- Pill controls everywhere (search, chips, CTAs).
+- Large hero typography (48–72px) with light secondary body (300–400).
+- Soft 8px cards inside a pill-forward chrome language.
+- Collection/NFT imagery as primary content blocks.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from gamma.io",
-  "sampleText": "gamma.io",
-  "fonts": [
-    {
-      "family": "Gamma Sans",
-      "familyId": 2418,
-      "pinId": 8485,
-      "domain": "gamma.io",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "0.32px",
-      "frequency": 1071
-    },
-    {
-      "family": "Universal Sans",
-      "familyId": 73,
-      "pinId": 8485,
-      "domain": "gamma.io",
-      "weight": "600",
-      "size": "72px",
-      "lineHeight": "82.8px",
-      "letterSpacing": "-0.36px",
-      "frequency": 28
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 21 |
-| Spacing values | 14 |
-| Borders and radii | 6 |
-| Shadows | 0 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8485,
-      "title": "Gamma | Find & Buy Bitcoin Ordinals and NFTs",
-      "domain": "gamma.io/",
-      "pageUrl": "gamma.io/",
-      "imageUrl": "https://pin.fontofweb.com/8485?format=jpg",
-      "colors": [
-        "#615d5b",
-        "#181818",
-        "#000000",
-        "#f2ced2",
-        "#f3f3f5",
-        "#958e8f",
-        "#b1846c",
-        "#0c0c0d"
-      ],
-      "fonts": [
-        "Gamma Sans",
-        "Universal Sans"
-      ]
-    },
-    {
-      "pinId": 8484,
-      "title": "Gamma | Find & Buy Bitcoin Ordinals and NFTs",
-      "domain": "gamma.io/",
-      "pageUrl": "gamma.io/",
-      "imageUrl": "https://pin.fontofweb.com/8484?format=jpg",
-      "colors": [
-        "#afa6a5",
-        "#82603e",
-        "#161316",
-        "#a84051",
-        "#0c0c0d",
-        "#341e3a",
-        "#f8f8f9",
-        "#000000"
-      ],
-      "fonts": [
-        "Gamma Sans",
-        "Universal Sans"
-      ]
-    }
-  ]
-}
-```
+No structured roles. Visual:
 
-## Representative captures
-[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/pin/8485)
-[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8485) — [source page](https://gamma.io/)
+| Role | Approx | Use |
+|------|--------|-----|
+| Canvas | `#0b0b0f` / black | Page |
+| Ink | `#ffffff` | Display |
+| Muted | `#a0a0a0` | Body |
+| Surface | `#14141a` | Cards |
+| Pill fill | `#1c1c24` / white inverse | Controls |
 
-[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/pin/8484)
-[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8484) — [source page](https://gamma.io/)
+### Typography
+
+| Role | Size | Weight | LH |
+|------|------|--------|-----|
+| Body | 16px | 400 | 24px |
+| Light body | 16–18px | 300 | 24–27px |
+| Display | 72px | 600 | ~83px |
+| Mid display | 48px | 600 | 56px |
+
+### Spacing and layout
+
+- Large **88px** padding wells on some sections; **32px** horizontal on others.
+- Wide side margins (~185px) on certain hero constructions.
+- Home = hero claim + browse modules + cards.
+
+## Visual language
+
+- Pill radius dominant (999); content cards ~8px.
+- Dark-on-dark elevation via subtle surface shifts.
+- NFT/ordinal imagery in rounded frames.
+
+## Components and states
+
+1. Dark top nav + wallet/CTA pill.
+2. Hero with oversized title.
+3. Search/browse pills.
+4. Card grid for collections/items.
+5. Footer links on dark.
+
+## Responsive behavior
+
+Two desktop captures at 1712×1314. Expect pill chrome to remain; hero type scales 72→48; margins shrink before pills do.
+
+## Practical guidance
+
+**Preserve** dark gallery, pill chrome, huge display, 8px media cards.  
+**Avoid** light marketplace defaults, sharp 2px admin widgets, tiny hero type.
+
+## Scope note
+
+Two home captures only. Colors/fonts not structured; radii/spacing from measurements + screenshot read. Broader app flows not in set.
+
+## Captured pages
+
+[![Gamma home hero](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/share/pin-8485)
+
+[Gamma home hero](https://design.withfudge.com/share/pin-8485)
+
+[![Gamma home sections](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/share/pin-8484)
+
+[Gamma home sections](https://design.withfudge.com/share/pin-8484)
+
+## Colors
+
+- `#0b0b0f`
+- `#14141a`
+- `#1c1c24`
+- `#ffffff`
+- `#a0a0a0`

@@ -1,256 +1,102 @@
 # How duties.xyz is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/duties.xyz-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/duties.xyz-design)
 
-Source domain: [duties.xyz](https://duties.xyz)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-12
+# How duties.xyz is designed
 
-<!--
-coverPin: 9565
--->
+## Design character
 
-Here is the visual system observed across **6 captured pages** from [duties.xyz](https://duties.xyz).
+Duties.xyz is a maximalist editorial-tool aesthetic: warm cream paper, enormous black display type, and a dense icon “dock” that behaves like a playful operating-system shelf. It feels hand-built and slightly absurd on purpose—part design studio, part toy UI—while staying rigorously black-on-cream.
 
-```fudge-colors
-[
-  "#000000",
-  "#f1f0ee",
-  "#0000ee",
-  "#252525",
-  "#bfbfbf",
-  "#dddddd",
-  "#f0efed",
-  "#626461",
-  "#8a8b88",
-  "#87c75f",
-  "#718c61",
-  "#06080b",
-  "#bcbcba",
-  "#2c2d2d",
-  "#838f2e",
-  "#eb47d5"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from duties.xyz",
-  "sampleText": "duties.xyz",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9565,
-      "domain": "duties.xyz",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 64
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9565,
-      "domain": "duties.xyz",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 4680
-    },
-    {
-      "family": "As Therma",
-      "familyId": 2590,
-      "pinId": 9565,
-      "domain": "duties.xyz",
-      "weight": "400",
-      "size": "240px",
-      "lineHeight": "192px",
-      "letterSpacing": "-16.2px",
-      "frequency": 510
-    },
-    {
-      "family": "Pp Neue Montreal Mono",
-      "familyId": 2509,
-      "pinId": 9565,
-      "domain": "duties.xyz",
-      "weight": "500",
-      "size": "14px",
-      "lineHeight": "16.1px",
-      "letterSpacing": "normal",
-      "frequency": 37
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 48 |
-| Spacing values | 129 |
-| Borders and radii | 7 |
-| Shadows | 0 |
-| Gradients | 0 |
+Structured color roles were empty; values below are visual readings from captures:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9565,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9565?format=jpg",
-      "colors": [
-        "#626461",
-        "#8a8b88",
-        "#87c75f",
-        "#718c61",
-        "#252525",
-        "#0000ee",
-        "#06080b",
-        "#bcbcba"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "As Therma",
-        "Pp Neue Montreal Mono"
-      ]
-    },
-    {
-      "pinId": 9564,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9564?format=jpg",
-      "colors": [
-        "#f1f0ee",
-        "#838f2e",
-        "#0000ee",
-        "#eb47d5",
-        "#5e4a39",
-        "#cec9f0",
-        "#252525",
-        "#6f6f71"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Pp Neue Montreal Mono"
-      ]
-    },
-    {
-      "pinId": 9563,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9563?format=jpg",
-      "colors": [
-        "#dda282",
-        "#d18334",
-        "#1d2a54",
-        "#0000ee",
-        "#000000",
-        "#88949d",
-        "#ac81d3",
-        "#222425"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Pp Neue Montreal Mono"
-      ]
-    },
-    {
-      "pinId": 9562,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9562?format=jpg",
-      "colors": [
-        "#edecea",
-        "#b7b6b5",
-        "#434342",
-        "#252525",
-        "#939391",
-        "#000000",
-        "#bfbfbf",
-        "#696968"
-      ],
-      "fonts": [
-        "System",
-        "Pp Neue Montreal Mono"
-      ]
-    },
-    {
-      "pinId": 9561,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9561?format=jpg",
-      "colors": [
-        "#dddddd",
-        "#262626",
-        "#a0a19f",
-        "#a8bdb0",
-        "#525352",
-        "#252525",
-        "#000000",
-        "#bfbfbf"
-      ],
-      "fonts": [
-        "As Therma",
-        "System",
-        "Pp Neue Montreal Mono"
-      ]
-    },
-    {
-      "pinId": 9560,
-      "title": "Duties.xyz",
-      "domain": "duties.xyz/",
-      "pageUrl": "duties.xyz/",
-      "imageUrl": "https://pin.fontofweb.com/9560?format=jpg",
-      "colors": [
-        "#000000",
-        "#252525",
-        "#64e080",
-        "#0000ee",
-        "#a8beb1",
-        "#bfbfbf",
-        "#666765",
-        "#f0efed"
-      ],
-      "fonts": [
-        "System",
-        "As Therma",
-        "Pp Neue Montreal Mono"
-      ]
-    }
-  ]
-}
-```
+- **Paper canvas:** warm off-white / light cream
+- **Ink:** near-black for oversized wordmarks and body
+- **Dock glass:** frosted light panel with soft shadow
+- **Icon tiles:** full-spectrum app-icon colors (blue, green, red, purple, orange) sitting on the neutral stage
+- **Secondary chrome:** light grays for subdued UI chrome behind the dock
 
-## Representative captures
-[![Duties.xyz](https://pin.fontofweb.com/9565?format=jpg)](https://design.withfudge.com/pin/9565)
-[Duties.xyz](https://design.withfudge.com/pin/9565) — [source page](https://duties.xyz/)
+The brand color story is cream + black; saturation lives only inside the icon grid.
 
-[![Duties.xyz](https://pin.fontofweb.com/9564?format=jpg)](https://design.withfudge.com/pin/9564)
-[Duties.xyz](https://design.withfudge.com/pin/9564) — [source page](https://duties.xyz/)
+### Typography
 
-[![Duties.xyz](https://pin.fontofweb.com/9563?format=jpg)](https://design.withfudge.com/pin/9563)
-[Duties.xyz](https://design.withfudge.com/pin/9563) — [source page](https://duties.xyz/)
+No declared families. Observed:
 
-[![Duties.xyz](https://pin.fontofweb.com/9562?format=jpg)](https://design.withfudge.com/pin/9562)
-[Duties.xyz](https://design.withfudge.com/pin/9562) — [source page](https://duties.xyz/)
+- Monumental wordmark / display around **240px** (weight 400) for “Duties”
+- Small UI labels ~12–14px, weights 400–500
+- Supporting lines stay modest so the giant wordmark owns the page
 
-[![Duties.xyz](https://pin.fontofweb.com/9561?format=jpg)](https://design.withfudge.com/pin/9561)
-[Duties.xyz](https://design.withfudge.com/pin/9561) — [source page](https://duties.xyz/)
+Type is mostly geometric sans with tight control on the big word; decoration comes from icons, not lettering flourishes.
 
-[![Duties.xyz](https://pin.fontofweb.com/9560?format=jpg)](https://design.withfudge.com/pin/9560)
-[Duties.xyz](https://design.withfudge.com/pin/9560) — [source page](https://duties.xyz/)
+### Spacing and layout
+
+- Extremely consistent **10px** padding and gap across dense grids (thousands of observations)
+- Larger structural gaps appear around **400px** column separation in places
+- Radii: **4px** and **8px** dominate tiles; occasional **32px** on larger shells
+- Composition: huge centered wordmark upper-middle, frosted icon dock lower-middle, minimal top chrome
+
+## Visual language
+
+- Giant typography as the hero illustration
+- Soft floating dock with rounded app icons (squircle-like tiles)
+- Paper-like emptiness—most of the viewport is unused cream space
+- Light glassmorphism on the dock versus flat ink type
+
+## Components and states
+
+- Oversized wordmark lockup
+- Frosted multi-row icon launcher
+- Sparse top navigation / utility controls
+- Little traditional “marketing section” structure on the captured home states
+
+## Responsive behavior
+
+Captures are wide desktop and slightly narrower desktop crops of the same home. The wordmark scales down modestly; the dock remains the secondary anchor. True mobile layouts were not in the set.
+
+## Practical guidance
+
+**Preserve**
+
+- Cream paper + pure black mega type
+- 10px rhythmic gap system for dense icon layouts
+- One playful dock as the only colorful object
+
+**Avoid**
+
+- Filling the cream field with cards or stock photos
+- Shrinking the wordmark into a conventional startup hero
+- Adding a second UI metaphor beside the dock
+
+## Scope note
+
+Six captures, all home path at different crops/timestamps. No measured color roles or font families; guidance relies on screenshot reading plus spacing/radius observations.
+
+## Captured pages
+
+[![Home — mega wordmark + icon dock](https://pin.fontofweb.com/9565?format=jpg)](https://design.withfudge.com/share/pin-9565)
+
+[Home — mega wordmark + icon dock](https://design.withfudge.com/share/pin-9565)
+
+[![Home alternate crop](https://pin.fontofweb.com/9560?format=jpg)](https://design.withfudge.com/share/pin-9560)
+
+[Home alternate crop](https://design.withfudge.com/share/pin-9560)
+
+[![Home mid crop](https://pin.fontofweb.com/9561?format=jpg)](https://design.withfudge.com/share/pin-9561)
+
+[Home mid crop](https://design.withfudge.com/share/pin-9561)
+
+[![Wide short crop](https://pin.fontofweb.com/9563?format=jpg)](https://design.withfudge.com/share/pin-9563)
+
+[Wide short crop](https://design.withfudge.com/share/pin-9563)
+
+## Colors
+
+- `#f5f0e6`
+- `#0a0a0a`
+- `#ffffff`

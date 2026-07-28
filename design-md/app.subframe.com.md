@@ -1,334 +1,108 @@
 # How app.subframe.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.subframe.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.subframe.com-design)
 
-Source domain: [app.subframe.com](https://app.subframe.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-10
+## Design character
 
-<!--
-coverPin: 8787
--->
+Subframe feels like a **professional component factory**: bright white working surfaces, soft gray side regions, compact medium-weight labels, and specimens (accordions, calendars, pricing layouts) as the star. The chrome is intentionally generic-good so published design systems can vary inside it.
 
-Here is the visual system observed across **12 captured pages** from [app.subframe.com](https://app.subframe.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#242424",
-  "#000000",
-  "#fcfcfc",
-  "#f5f5f5",
-  "#f0f0f0",
-  "#737373",
-  "#ffffff",
-  "#ebebeb",
-  "#ededed",
-  "#171717",
-  "#a3a3a3",
-  "#fefefe",
-  "#626262",
-  "#2563eb",
-  "#5d5d5d",
-  "#fafafa"
-]
-```
+- **Light mode default** with gray wells, not dark IDE theatrics
+- **12px medium UI labels** with slight negative tracking
+- **8px default radius** (6–12px secondary steps)
+- **Library / editor / playground** IA with docs-like specimen stages
 
-```fudge-font-usage
-{
-  "title": "Typography captured from app.subframe.com",
-  "sampleText": "app.subframe.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8787,
-      "domain": "app.subframe.com",
-      "weight": "500",
-      "size": "12px",
-      "lineHeight": "18px",
-      "letterSpacing": "-0.06px",
-      "frequency": 624
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 12 |
-| Colors | 76 |
-| Spacing values | 62 |
-| Borders and radii | 39 |
-| Shadows | 9 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8787,
-      "title": "Context Menu — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/library",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/library",
-      "imageUrl": "https://pin.fontofweb.com/8787?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#898989",
-        "#242424",
-        "#000000",
-        "#1e1e1e",
-        "#bfbfbf",
-        "#5a5a5a"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8786,
-      "title": "Calendar — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/library",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/library",
-      "imageUrl": "https://pin.fontofweb.com/8786?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#779ee3",
-        "#171717",
-        "#f0f0f0",
-        "#c7c7c7",
-        "#000000",
-        "#626262",
-        "#3368e3"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8785,
-      "title": "Accordion — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/library",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/library",
-      "imageUrl": "https://pin.fontofweb.com/8785?format=jpg",
-      "colors": [
-        "#606060",
-        "#737373",
-        "#282828",
-        "#979797",
-        "#f0f0f0",
-        "#242424",
-        "#c6c6c6",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8059,
-      "title": "Components — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/library",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/library",
-      "imageUrl": "https://pin.fontofweb.com/8059?format=jpg",
-      "colors": [
-        "#171717",
-        "#000000",
-        "#2663e7",
-        "#242424",
-        "#aec7f5",
-        "#8e8e8e",
-        "#f0f0f0",
-        "#4b82e6"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6474,
-      "title": "Pricing Plans — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/design/f8304564-146e-4448-9423-11ea67d1bb68/edit",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/design/f8304564-146e-4448-9423-11ea67d1bb68/edit",
-      "imageUrl": "https://pin.fontofweb.com/6474?format=jpg",
-      "colors": [
-        "#363636",
-        "#ffffff",
-        "#242424",
-        "#b9b9b9",
-        "#5086c7",
-        "#155ebe",
-        "#626262",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6473,
-      "title": "Authorization Successful — Subframe",
-      "domain": "app.subframe.com/oauth/consent",
-      "pageUrl": "app.subframe.com/oauth/consent",
-      "imageUrl": "https://pin.fontofweb.com/6473?format=jpg",
-      "colors": [
-        "#a5a2a2",
-        "#4a4a4a",
-        "#ffffff",
-        "#fcfcfc",
-        "#ebebeb",
-        "#252525",
-        "#242424",
-        "#696969"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6472,
-      "title": "Authorize Application — Subframe",
-      "domain": "app.subframe.com/oauth/consent",
-      "pageUrl": "app.subframe.com/oauth/consent",
-      "imageUrl": "https://pin.fontofweb.com/6472?format=jpg",
-      "colors": [
-        "#e09b85",
-        "#1b1b1b",
-        "#fcfcfc",
-        "#5d5d5d",
-        "#f5f5f5",
-        "#ededed",
-        "#242424",
-        "#adadad"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6471,
-      "title": "Your pages — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/playground",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/playground",
-      "imageUrl": "https://pin.fontofweb.com/6471?format=jpg",
-      "colors": [
-        "#f9f9f9",
-        "#9b9b9b",
-        "#fcfcfc",
-        "#ffffff",
-        "#6d6d6d",
-        "#737373",
-        "#c8c5c4",
-        "#313131"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6470,
-      "title": "Your pages — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/playground",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/playground",
-      "imageUrl": "https://pin.fontofweb.com/6470?format=jpg",
-      "colors": [
-        "#000000",
-        "#8f8f8f",
-        "#f5f5f5",
-        "#f0f0f0",
-        "#fcfcfc",
-        "#e09279",
-        "#ffffff",
-        "#ebebeb"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6469,
-      "title": "New page — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/design/new",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/design/new",
-      "imageUrl": "https://pin.fontofweb.com/6469?format=jpg",
-      "colors": [
-        "#242424",
-        "#828282",
-        "#fafafa",
-        "#3e3e3e",
-        "#b6b7b8",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6468,
-      "title": "New page — Subframe",
-      "domain": "app.subframe.com/43dbad4eab5d/design/new",
-      "pageUrl": "app.subframe.com/43dbad4eab5d/design/new",
-      "imageUrl": "https://pin.fontofweb.com/6468?format=jpg",
-      "colors": [
-        "#000000",
-        "#181818",
-        "#fcfcfc",
-        "#242424",
-        "#c7c7c9",
-        "#ededed",
-        "#969696",
-        "#555555"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6037,
-      "title": "Sign in — Subframe",
-      "domain": "app.subframe.com/signin",
-      "pageUrl": "app.subframe.com/signin",
-      "imageUrl": "https://pin.fontofweb.com/6037?format=jpg",
-      "colors": [
-        "#57a767",
-        "#d56a61",
-        "#ededed",
-        "#5d5d5d",
-        "#242424",
-        "#b3b3b3",
-        "#2b2b2b",
-        "#f0f0f0"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+Screenshot-backed neutrals:
 
-## Representative captures
-[![Context Menu — Subframe](https://pin.fontofweb.com/8787?format=jpg)](https://design.withfudge.com/pin/8787)
-[Context Menu — Subframe](https://design.withfudge.com/pin/8787) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+- Canvas: `#ffffff`
+- Sidebar/wells: ~`#f6f7f8`
+- Borders: ~`#e8eaed`
+- Primary ink: slate-black ~`#111827`
+- Secondary: `#6b7280`
+- Interactive blue: ~`#3b82f6` when needed for links/focus
 
-[![Calendar — Subframe](https://pin.fontofweb.com/8786?format=jpg)](https://design.withfudge.com/pin/8786)
-[Calendar — Subframe](https://design.withfudge.com/pin/8786) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+### Typography
 
-[![Accordion — Subframe](https://pin.fontofweb.com/8785?format=jpg)](https://design.withfudge.com/pin/8785)
-[Accordion — Subframe](https://design.withfudge.com/pin/8785) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+Dominant measured style: **12px / 18px**, weight **500**, tracking ~**-0.06px**. That medium 12px label is the voice of the product chrome. Larger type appears inside user compositions on the canvas, not as default chrome.
 
-[![Components — Subframe](https://pin.fontofweb.com/8059?format=jpg)](https://design.withfudge.com/pin/8059)
-[Components — Subframe](https://design.withfudge.com/pin/8059) — [source page](https://app.subframe.com/43dbad4eab5d/library)
+### Spacing and layout
 
-[![Pricing Plans — Subframe](https://pin.fontofweb.com/6474?format=jpg)](https://design.withfudge.com/pin/6474)
-[Pricing Plans — Subframe](https://design.withfudge.com/pin/6474) — [source page](https://app.subframe.com/43dbad4eab5d/design/f8304564-146e-4448-9423-11ea67d1bb68/edit)
+- Common padding: **8px**, **16px**, **48px** (section/page)
+- Library: nav + specimen stage
+- Editor: tool canvas at mid widths (~910px capture still coherent)
+- Playground modal: centered white card, stacked integration rows, code snip well
 
-[![Authorization Successful — Subframe](https://pin.fontofweb.com/6473?format=jpg)](https://design.withfudge.com/pin/6473)
-[Authorization Successful — Subframe](https://design.withfudge.com/pin/6473) — [source page](https://app.subframe.com/oauth/consent)
+## Visual language
 
-[![Authorize Application — Subframe](https://pin.fontofweb.com/6472?format=jpg)](https://design.withfudge.com/pin/6472)
-[Authorize Application — Subframe](https://design.withfudge.com/pin/6472) — [source page](https://app.subframe.com/oauth/consent)
+- Radius ladder: **8px** primary, **6px** and **12px** supporting, rare pills (9999)
+- Soft shadows sparingly (e.g. ~0 2px 8px / 0 4px 16px on elevated cards)
+- Borders + fills define structure more than dramatic elevation
+- Integration rows use pale gray chips and brand glyphs without loud color blocks
 
-[![Your pages — Subframe](https://pin.fontofweb.com/6471?format=jpg)](https://design.withfudge.com/pin/6471)
-[Your pages — Subframe](https://design.withfudge.com/pin/6471) — [source page](https://app.subframe.com/43dbad4eab5d/playground)
+## Components and states
+
+1. **Library nav + specimen** — docs pattern for each component
+2. **Design editor canvas** — artboard with pricing/sections compositions
+3. **Playground connect modal** — icon circle, title, accordion-like integration list, CLI copy well
+4. **OAuth consent** — simple centered authorization card
+5. **Primary/secondary buttons** — compact, medium labels, blue or dark fills depending on context
+
+## Responsive behavior
+
+Captures span ~578–1712px widths across library, editor, oauth, playground. The **light compact system scales down** via narrower columns and stacked cards; it does not flip to a different dark brand at small sizes in this set.
+
+## Practical guidance
+
+**Preserve** white/gray professional shell, 12px medium labels, 8px radius, specimen-as-content, quiet shadows.
+
+**Avoid** turning the builder chrome into a neon AI skin, oversized marketing type in nav, or heavy skeuomorphism.
+
+## Scope note
+
+Eight captures: multiple library component pages, design edit, oauth consent (2), and playground. Font family names not declared; colors largely from visual inspection plus spacing/radius measurements.
+
+## Captured pages
+
+[![Library — Context Menu docs](https://pin.fontofweb.com/8787?format=jpg)](https://design.withfudge.com/share/pin-8787)
+
+[Library — Context Menu docs](https://design.withfudge.com/share/pin-8787)
+
+[![Library — Calendar](https://pin.fontofweb.com/8786?format=jpg)](https://design.withfudge.com/share/pin-8786)
+
+[Library — Calendar](https://design.withfudge.com/share/pin-8786)
+
+[![Library — Accordion](https://pin.fontofweb.com/8785?format=jpg)](https://design.withfudge.com/share/pin-8785)
+
+[Library — Accordion](https://design.withfudge.com/share/pin-8785)
+
+[![Components index](https://pin.fontofweb.com/8059?format=jpg)](https://design.withfudge.com/share/pin-8059)
+
+[Components index](https://design.withfudge.com/share/pin-8059)
+
+[![Design editor — Pricing Plans](https://pin.fontofweb.com/6474?format=jpg)](https://design.withfudge.com/share/pin-6474)
+
+[Design editor — Pricing Plans](https://design.withfudge.com/share/pin-6474)
+
+[![Playground — connect to code](https://pin.fontofweb.com/6471?format=jpg)](https://design.withfudge.com/share/pin-6471)
+
+[Playground — connect to code](https://design.withfudge.com/share/pin-6471)
+
+[![OAuth consent](https://pin.fontofweb.com/6472?format=jpg)](https://design.withfudge.com/share/pin-6472)
+
+[OAuth consent](https://design.withfudge.com/share/pin-6472)
+
+## Colors
+
+- `#ffffff`
+- `#f6f7f8`
+- `#e8eaed`
+- `#111827`
+- `#6b7280`
+- `#3b82f6`

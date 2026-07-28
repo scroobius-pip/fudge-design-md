@@ -1,215 +1,110 @@
 # How app.reve.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.reve.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.reve.com-design)
 
-Source domain: [app.reve.com](https://app.reve.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-25
+## Design character
 
-<!--
-coverPin: 8375
--->
+Reve is a **cinematic, image-native dark product**. Marketing, create, inspiration, and pricing all sit in a black environment where photography and generations supply color. Chrome is minimal: thin nav, white pill buttons, charcoal elevated cards, and rare mint/green status marks.
 
-Here is the visual system observed across **8 captured pages** from [app.reve.com](https://app.reve.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#010101",
-  "#093419",
-  "#545454",
-  "#171717",
-  "#843837",
-  "#979797",
-  "#258742",
-  "#e0e0e0",
-  "#717475",
-  "#181818",
-  "#ebebeb",
-  "#555657",
-  "#b9b9b8",
-  "#969795",
-  "#0c601a",
-  "#c1bab5"
-]
-```
+- **True black / near-black grounds** across marketing and app
+- **White pill primary actions** (Sign up, Get Free, Get Pro, Create)
+- **Image boards as the emotional core** (home/inspiration)
+- **Quiet charcoal pricing cards**—not colorful plan rainbows
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 62 |
-| Spacing values | 0 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+## Foundations
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8375,
-      "title": "Account",
-      "domain": "app.reve.com/account",
-      "pageUrl": "app.reve.com/account",
-      "imageUrl": "https://pin.fontofweb.com/8375?format=jpg",
-      "colors": [
-        "#093419",
-        "#545454",
-        "#171717",
-        "#843837",
-        "#979797",
-        "#258742",
-        "#e0e0e0"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8374,
-      "title": "Reve",
-      "domain": "app.reve.com/home",
-      "pageUrl": "app.reve.com/home",
-      "imageUrl": "https://pin.fontofweb.com/8374?format=jpg",
-      "colors": [
-        "#717475",
-        "#181818",
-        "#ebebeb",
-        "#555657",
-        "#b9b9b8",
-        "#969795",
-        "#0c601a"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8373,
-      "title": "Inspiration - Reve",
-      "domain": "app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients",
-      "pageUrl": "app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients",
-      "imageUrl": "https://pin.fontofweb.com/8373?format=jpg",
-      "colors": [
-        "#c1bab5",
-        "#416d7c",
-        "#ebd1bf",
-        "#111112",
-        "#6d929f",
-        "#1e404d",
-        "#949da1"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8372,
-      "title": "Inspiration - Reve",
-      "domain": "app.reve.com/inspiration",
-      "pageUrl": "app.reve.com/inspiration",
-      "imageUrl": "https://pin.fontofweb.com/8372?format=jpg",
-      "colors": [
-        "#cf1d21",
-        "#4652be",
-        "#d7aa41",
-        "#55717b",
-        "#4a0d10",
-        "#afaca9",
-        "#141517",
-        "#667739"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8371,
-      "title": "Reve",
-      "domain": "app.reve.com/home",
-      "pageUrl": "app.reve.com/home",
-      "imageUrl": "https://pin.fontofweb.com/8371?format=jpg",
-      "colors": [
-        "#7d7f81",
-        "#1a1a1a",
-        "#c4c4c4",
-        "#f1f1f1",
-        "#535455",
-        "#a1a09d"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8370,
-      "title": "Reve Image - Pricing",
-      "domain": "app.reve.com/pricing",
-      "pageUrl": "app.reve.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/8370?format=jpg",
-      "colors": [
-        "#121213",
-        "#2d3c41",
-        "#8e9091",
-        "#b8babb",
-        "#32aa5b",
-        "#fbfbfb",
-        "#5b5d5d"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8369,
-      "title": "Reve Image - AI Image Generator and Creative Tool",
-      "domain": "app.reve.com/",
-      "pageUrl": "app.reve.com/",
-      "imageUrl": "https://pin.fontofweb.com/8369?format=jpg",
-      "colors": [
-        "#a8b0b5",
-        "#9ac86d",
-        "#ca3a15",
-        "#283029",
-        "#6a5845",
-        "#cea372",
-        "#2f3855",
-        "#010101"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 8368,
-      "title": "Reve Image - AI Image Generator and Creative Tool",
-      "domain": "app.reve.com/",
-      "pageUrl": "app.reve.com/",
-      "imageUrl": "https://pin.fontofweb.com/8368?format=jpg",
-      "colors": [
-        "#888580",
-        "#575856",
-        "#493b24",
-        "#6b4a16",
-        "#997027",
-        "#c1c3c5",
-        "#010101",
-        "#32312f"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+### Color
 
-## Representative captures
-[![Account](https://pin.fontofweb.com/8375?format=jpg)](https://design.withfudge.com/pin/8375)
-[Account](https://design.withfudge.com/pin/8375) — [source page](https://app.reve.com/account)
+Visual system from screenshots (structured color rows were empty for this domain):
 
-[![Reve](https://pin.fontofweb.com/8374?format=jpg)](https://design.withfudge.com/pin/8374)
-[Reve](https://design.withfudge.com/pin/8374) — [source page](https://app.reve.com/home)
+- Ground: `#000000` → deep charcoal stages
+- Elevated cards: ~`#141414`–`#1a1a1a`
+- Primary text/icons on dark: `#ffffff`
+- Muted copy: mid gray ~`#a3a3a3`
+- CTA fill: white pills with black labels
+- Secondary outline control: white hairline “Log in” style buttons
+- Status accent: mint/green (~`#4ade80`) on battery/plan indicators
 
-[![Inspiration - Reve](https://pin.fontofweb.com/8373?format=jpg)](https://design.withfudge.com/pin/8373)
-[Inspiration - Reve](https://design.withfudge.com/pin/8373) — [source page](https://app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients)
+### Typography
 
-[![Inspiration - Reve](https://pin.fontofweb.com/8372?format=jpg)](https://design.withfudge.com/pin/8372)
-[Inspiration - Reve](https://design.withfudge.com/pin/8372) — [source page](https://app.reve.com/inspiration)
+No measured type table shipped for these captures. Visually:
 
-[![Reve](https://pin.fontofweb.com/8371?format=jpg)](https://design.withfudge.com/pin/8371)
-[Reve](https://design.withfudge.com/pin/8371) — [source page](https://app.reve.com/home)
+- Marketing/pricing titles: large, clean sans, regular-to-medium weight, high whitespace
+- UI chrome: compact sans labels in white/gray
+- Hierarchy is **scale + contrast**, not decorative typefaces
 
-[![Reve Image - Pricing](https://pin.fontofweb.com/8370?format=jpg)](https://design.withfudge.com/pin/8370)
-[Reve Image - Pricing](https://design.withfudge.com/pin/8370) — [source page](https://app.reve.com/pricing)
+### Spacing and layout
 
-[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8369?format=jpg)](https://design.withfudge.com/pin/8369)
-[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8369) — [source page](https://app.reve.com/)
+- Wide desktop compositions (~1937px captures) with **centered content columns**
+- Pricing: two equal cards with generous internal padding and large page margins
+- Inspiration: multi-column image mosaic edge-to-edge inside a slim app frame
+- Home/create: central stage with peripheral icon rails
 
-[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8368?format=jpg)](https://design.withfudge.com/pin/8368)
-[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8368) — [source page](https://app.reve.com/)
+## Visual language
+
+- Soft-rounded rectangles on cards and pills (not sharp industrial corners)
+- Minimal shadows; separation is value-step on black
+- Photography is full-bleed and high fidelity—UI never overlays heavy gradients on art
+- Green appears only as a **system status/plan meter**, not a second brand wash
+
+## Components and states
+
+1. **Top nav** — wordmark left; text links; outline Log in + solid white Sign up
+2. **Hero/create stage** — dark void, prompt or featured visual, primary pill
+3. **Inspiration mosaic** — rounded image tiles, hover/selection kept subtle
+4. **Pricing cards** — dual charcoal panels, feature lists with small icons, white CTA pills, mint capacity indicator
+5. **Account/settings** — same dark density, list/forms without introducing a light theme
+
+## Responsive behavior
+
+All eight captures share a wide desktop width. Treat Reve as **desktop-dark-first**; do not invent a light mobile skin from this set.
+
+## Practical guidance
+
+**Preserve** black environment, white pills, image-led boards, charcoal pricing, mint only for status.
+
+**Avoid** colorful SaaS card kits, purple AI clichés, dense light dashboards, or low-quality compressed thumbnails that break the cinematic bar.
+
+## Scope note
+
+Eight desktop captures spanning marketing home, app home, inspiration (list+detail), pricing, and account. Structured color/type observations were sparse; character guidance is grounded in direct screenshot inspection.
+
+## Captured pages
+
+[![Marketing home — cinematic hero](https://pin.fontofweb.com/8369?format=jpg)](https://design.withfudge.com/share/pin-8369)
+
+[Marketing home — cinematic hero](https://design.withfudge.com/share/pin-8369)
+
+[![App home — create workspace](https://pin.fontofweb.com/8374?format=jpg)](https://design.withfudge.com/share/pin-8374)
+
+[App home — create workspace](https://design.withfudge.com/share/pin-8374)
+
+[![Inspiration board](https://pin.fontofweb.com/8372?format=jpg)](https://design.withfudge.com/share/pin-8372)
+
+[Inspiration board](https://design.withfudge.com/share/pin-8372)
+
+[![Pricing — Free vs Pro cards](https://pin.fontofweb.com/8370?format=jpg)](https://design.withfudge.com/share/pin-8370)
+
+[Pricing — Free vs Pro cards](https://design.withfudge.com/share/pin-8370)
+
+[![Account](https://pin.fontofweb.com/8375?format=jpg)](https://design.withfudge.com/share/pin-8375)
+
+[Account](https://design.withfudge.com/share/pin-8375)
+
+[![Inspiration ingredients detail](https://pin.fontofweb.com/8373?format=jpg)](https://design.withfudge.com/share/pin-8373)
+
+[Inspiration ingredients detail](https://design.withfudge.com/share/pin-8373)
+
+## Colors
+
+- `#000000`
+- `#0a0a0a`
+- `#141414`
+- `#1a1a1a`
+- `#ffffff`
+- `#a3a3a3`
+- `#4ade80`

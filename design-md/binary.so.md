@@ -1,156 +1,106 @@
 # How binary.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/binary.so-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/binary.so-design)
 
-Source domain: [binary.so](https://binary.so)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-05
+## Design character
 
-<!--
-coverPin: 7683
--->
+Binary feels like modern B2B SaaS done with discipline: white canvas, slate-ink text, one deep navy accent (`#0f172a`), and a slate secondary (`#586a84`). The homepage sells speed and simplicity through large display headlines, airy section padding, rounded cards, and product UI mockups rather than loud illustration systems.
 
-Here is the visual system observed across **3 captured pages** from [binary.so](https://binary.so).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#0f172a",
-  "#586a84",
-  "#ffffff",
-  "#f8f8f8",
-  "#e2e8f0",
-  "#f5f5f5",
-  "#e1e7ef",
-  "#bdc1c8",
-  "#f8fafc",
-  "#3c424c",
-  "#f1f5f9",
-  "#64748b",
-  "#475569",
-  "#cbd5e1",
-  "#334155"
-]
-```
+- **Light mode first** with near-black primary text
+- **Slate secondary** for supporting copy and labels
+- **Deep navy as the serious accent** (fills, emphasis), not rainbow gradients
+- **Large section breathing room** (64px+ vertical padding)
+- **Soft elevation** (8px blur shadows) on key product cards
 
-```fudge-font-usage
-{
-  "title": "Typography captured from binary.so",
-  "sampleText": "binary.so",
-  "fonts": [
-    {
-      "family": "Basier Square",
-      "familyId": 1658,
-      "pinId": 7683,
-      "domain": "binary.so",
-      "weight": "500",
-      "size": "52px",
-      "lineHeight": "62.4px",
-      "letterSpacing": "-2.6px",
-      "frequency": 74
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7683,
-      "domain": "binary.so",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 587
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 36 |
-| Spacing values | 31 |
-| Borders and radii | 9 |
-| Shadows | 5 |
-| Gradients | 7 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7683,
-      "title": "Binary | Hiring software that is fast, simple and AI powered",
-      "domain": "binary.so/",
-      "pageUrl": "binary.so/",
-      "imageUrl": "https://pin.fontofweb.com/7683?format=jpg",
-      "colors": [
-        "#64748b",
-        "#586a84",
-        "#e2e8f0",
-        "#f8fafc",
-        "#0f172a",
-        "#3c424c",
-        "#51565f",
-        "#f5f5f5"
-      ],
-      "fonts": [
-        "Basier Square",
-        "System"
-      ]
-    },
-    {
-      "pinId": 7682,
-      "title": "Binary | Hiring software that is fast, simple and AI powered",
-      "domain": "binary.so/",
-      "pageUrl": "binary.so/",
-      "imageUrl": "https://pin.fontofweb.com/7682?format=jpg",
-      "colors": [
-        "#65564e",
-        "#f8f8f8",
-        "#afbbd0",
-        "#231f27",
-        "#ffffff",
-        "#a8715c",
-        "#0f172a",
-        "#586a84"
-      ],
-      "fonts": [
-        "System",
-        "Basier Square"
-      ]
-    },
-    {
-      "pinId": 7681,
-      "title": "Binary | Hiring software that is fast, simple and AI powered",
-      "domain": "binary.so/",
-      "pageUrl": "binary.so/",
-      "imageUrl": "https://pin.fontofweb.com/7681?format=jpg",
-      "colors": [
-        "#c8ccd1",
-        "#cbd5e1",
-        "#a1a7b0",
-        "#12182a",
-        "#000000",
-        "#f1f5f9",
-        "#f8f8f8",
-        "#2e3032"
-      ],
-      "fonts": [
-        "System",
-        "Basier Square"
-      ]
-    }
-  ]
-}
-```
+| Role | Hex | Use |
+|------|-----|-----|
+| Accent / ink | `#0f172a` | Primary emphasis, dark fills |
+| Text primary | `#000000` | Headlines and core UI copy |
+| Text secondary | `#586a84` | Supporting body, meta |
+| Canvas | white (visual) | Page background |
+| Surfaces | white cards on light gray bands (visual) | Feature modules |
 
-## Representative captures
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/pin/7683)
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7683) — [source page](https://binary.so/)
+### Typography
 
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/pin/7682)
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7682) — [source page](https://binary.so/)
+No declared family captured. Visual hierarchy:
 
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/pin/7681)
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7681) — [source page](https://binary.so/)
+- **Display**: ~52px weight 500, line-height ~62px; occasional ~44px weight 600
+- **Section heads**: ~30px weight 500 / 36px lh
+- **Lead body**: 18–20px regular, ~28px lh
+- **Body / UI**: 16px / 24px regular (dominant)
+- **Small / meta**: 14–15px medium
+
+The ladder is classic SaaS: one strong display size, clear section heads, readable 16–18 body.
+
+### Spacing and layout
+
+- **64px** top padding appears constantly — large section rhythm
+- Horizontal padding **24–32px** inside components
+- Wide side margins (~260–416px observed on centered columns) imply a **centered content column** on large screens
+- **160px** margin-bottom on some major blocks — very open vertical pacing
+- Density: moderate; cards and proof rows without cramming
+
+### Radii, borders, shadows
+
+- Radii cluster around **4 / 6 / 8px** — slightly rounded, not pill-everything
+- 1px solid borders on card edges
+- Soft shadows: `0 8px 10px` and deeper `0 8px 30px` on hero/product frames
+
+## Visual language
+
+- Flat white/gray surfaces with restrained elevation
+- Product screenshots and UI chrome as the main imagery
+- Rounded rectangles; occasional softer chips
+- Minimal decorative linework; clarity over ornament
+
+## Components and states
+
+- **Marketing header** with product nav and primary CTA
+- **Hero**: big claim + supporting line + dual CTAs
+- **Logo/social proof row**
+- **Feature sections**: headline + body + card or screenshot
+- **Pricing-adjacent modules** (taxonomy flags a pricing posture even on home captures)
+- **Cards** with 1px border and light shadow
+
+## Responsive behavior
+
+Captures at **1488** and **2048** wide. Layout stays multi-column marketing on large screens. Treat the system as desktop-first marketing; collapse feature rows to single column on small screens without changing the type ladder ratios.
+
+## Practical guidance
+
+**Preserve**: white canvas, slate secondary, navy accent, 16/24 body, ~52px display, 6–8px radii, generous 64px section padding.
+
+**Avoid**: dark-mode default, neon accents, tiny dense admin tables on marketing pages, sharp 0-radius enterprise austerity, or playful sticker illustrations.
+
+## Scope note
+
+Three homepage captures of `binary.so` (`/`). Color roles and spacing/radius/shadow observations supported the foundations; font family names were not declared in the capture data.
+
+## Captured pages
+
+[![Home — standard marketing viewport](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/share/pin-7683)
+
+[Home — standard marketing viewport](https://design.withfudge.com/share/pin-7683)
+
+[![Home — wide viewport product story](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/share/pin-7681)
+
+[Home — wide viewport product story](https://design.withfudge.com/share/pin-7681)
+
+[![Home — alternate wide pass](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/share/pin-7682)
+
+[Home — alternate wide pass](https://design.withfudge.com/share/pin-7682)
+
+## Colors
+
+- `#0f172a`
+- `#000000`
+- `#586a84`
+- `#ffffff`

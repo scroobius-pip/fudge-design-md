@@ -1,156 +1,88 @@
 # How builtwith.kit.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/builtwith.kit.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/builtwith.kit.com-design)
 
-Source domain: [builtwith.kit.com](https://builtwith.kit.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-10
+## Design character
 
-<!--
-coverPin: 6376
--->
+Kit (builtwith.kit.com) sells creator email with a **friendly, high-energy marketing system**: oversized display headlines, soft 8–12px radii, airy section spacing, and product UI moments embedded in a light, optimistic canvas. It feels approachable and modern without going brutalist or luxury-minimal.
 
-Here is the visual system observed across **3 captured pages** from [builtwith.kit.com](https://builtwith.kit.com).
+What should survive adaptation:
+- Big, confident display type as the primary brand voice
+- Soft-rounded interactive elements (not pills-everywhere, not sharp)
+- Generous vertical section cadence (40–80px+ gaps)
+- Product proof nested inside marketing narrative
 
-```fudge-colors
-[
-  "#f2efe9",
-  "#1e1e1e",
-  "#ffffff",
-  "#44b1ff",
-  "#862626",
-  "#4d4f52",
-  "#3f2a1d",
-  "#7e5c40",
-  "#c9987e",
-  "#43adf8",
-  "#92918d",
-  "#dfdfde",
-  "#ede7df",
-  "#cb6f41",
-  "#96cbf1",
-  "#525251"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from builtwith.kit.com",
-  "sampleText": "builtwith.kit.com",
-  "fonts": [
-    {
-      "family": "Libre Franklin",
-      "familyId": 1801,
-      "pinId": 6376,
-      "domain": "builtwith.kit.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "-0.16px",
-      "frequency": 328
-    },
-    {
-      "family": "Kit Sans",
-      "familyId": 1648,
-      "pinId": 6376,
-      "domain": "builtwith.kit.com",
-      "weight": "500",
-      "size": "48px",
-      "lineHeight": "48px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    }
-  ]
-}
-```
+### Color
+Structured color roles were unsupported in these captures. Visually the home page reads as **light background**, dark text, with Kit’s brand accent (warm/coral-leaning in marketing materials) used for CTAs and highlights. Keep a clean light base and one energetic accent rather than a rainbow.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 27 |
-| Spacing values | 18 |
-| Borders and radii | 4 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Typography
+Family undeclared. Observed:
+- Body ~**16px / 24px** lh, weight 400, slight negative tracking (~-0.16px)
+- Strong display sizes **48–80px** at weight 500 for heroes (scales with viewport)
+- Subheads ~18–20px weight 700
+- Compact UI labels ~12–16px, weights 600
+Hierarchy is size-first; display lines are short and punchy.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6376,
-      "title": "Email Platform for Creators – Launch & Grow with Kit",
-      "domain": "builtwith.kit.com/",
-      "pageUrl": "builtwith.kit.com/",
-      "imageUrl": "https://pin.fontofweb.com/6376?format=jpg",
-      "colors": [
-        "#f2efe9",
-        "#ffffff",
-        "#862626",
-        "#4d4f52",
-        "#3f2a1d",
-        "#7e5c40",
-        "#c9987e",
-        "#1e1e1e"
-      ],
-      "fonts": [
-        "Libre Franklin",
-        "Kit Sans"
-      ]
-    },
-    {
-      "pinId": 6375,
-      "title": "Email Platform for Creators – Launch & Grow with Kit",
-      "domain": "builtwith.kit.com/",
-      "pageUrl": "builtwith.kit.com/",
-      "imageUrl": "https://pin.fontofweb.com/6375?format=jpg",
-      "colors": [
-        "#ede7df",
-        "#cb6f41",
-        "#f2efe9",
-        "#44b1ff",
-        "#96cbf1",
-        "#525251",
-        "#2a567e",
-        "#afaca8"
-      ],
-      "fonts": [
-        "Libre Franklin",
-        "Kit Sans"
-      ]
-    },
-    {
-      "pinId": 6374,
-      "title": "Email Platform for Creators – Launch & Grow with Kit",
-      "domain": "builtwith.kit.com/",
-      "pageUrl": "builtwith.kit.com/",
-      "imageUrl": "https://pin.fontofweb.com/6374?format=jpg",
-      "colors": [
-        "#474443",
-        "#44b1ff",
-        "#84c3f5",
-        "#f2efe9",
-        "#1e1e1e",
-        "#f4f2ed",
-        "#707478",
-        "#1a1f22"
-      ],
-      "fonts": [
-        "Libre Franklin",
-        "Kit Sans"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Measured spacing includes **4, 16, 20, 24, 40, 44, 64, 80, 160** px. Layout patterns:
+- Full-width marketing sections with centered content max-width
+- Hero with headline + supporting line + CTA row
+- Alternating feature bands with media
+- Footer multi-column on large widths
 
-## Representative captures
-[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6376?format=jpg)](https://design.withfudge.com/pin/6376)
-[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6376) — [source page](https://builtwith.kit.com/)
+## Visual language
+- Radii **8px and 12px** dominate controls and cards
+- Minimal shadow reliance; separation via spacing and background bands
+- Borders light when present
+- Imagery: product screenshots and creator-facing visuals, not stock collage
 
-[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6375?format=jpg)](https://design.withfudge.com/pin/6375)
-[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6375) — [source page](https://builtwith.kit.com/)
+## Components and states
+- Primary CTA buttons with soft radius
+- Text nav with simple links
+- Feature rows combining icon/media + copy
+- Large display headlines as section openers
+Interactive hover/focus not established from stills.
 
-[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6374?format=jpg)](https://design.withfudge.com/pin/6374)
-[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6374) — [source page](https://builtwith.kit.com/)
+## Responsive behavior
+Three home captures at different widths (~1280 to 2048). Display type scales down from ~80px toward ~48–64px; body stays ~16px. Section structure holds; columns collapse visually on narrower widths.
+
+## Practical guidance
+**Preserve**
+- Oversized friendly display
+- 8–12px radius system
+- Airy section spacing
+- Light marketing canvas with one accent
+
+**Avoid**
+- Enterprise-dense tables as the default marketing pattern
+- Harsh blackfullbleed without relief
+- Mixing many radii (stick to 8/12)
+- Tiny hero type
+
+## Scope note
+All captures are the home page `/` at multiple viewports. Inner product app chrome was not studied.
+
+## Captured pages
+
+[![Home — wide hero](https://pin.fontofweb.com/6374?format=jpg)](https://design.withfudge.com/share/pin-6374)
+
+[Home — wide hero](https://design.withfudge.com/share/pin-6374)
+
+[![Home — mid-wide](https://pin.fontofweb.com/6376?format=jpg)](https://design.withfudge.com/share/pin-6376)
+
+[Home — mid-wide](https://design.withfudge.com/share/pin-6376)
+
+[![Home — narrower](https://pin.fontofweb.com/6375?format=jpg)](https://design.withfudge.com/share/pin-6375)
+
+[Home — narrower](https://design.withfudge.com/share/pin-6375)
+
+## Colors
+
+- `#ffffff`
+- `#111111`
+- `#f5f5f5`
+- `#ff6b4a`

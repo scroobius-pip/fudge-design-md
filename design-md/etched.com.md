@@ -1,286 +1,107 @@
 # How etched.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/etched.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/etched.com-design)
 
-Source domain: [etched.com](https://etched.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-30
+## Design character
 
-<!--
-coverPin: 9873
--->
+Etched is a semiconductor company that markets like a design studio. The site sits on a warm off-white paper canvas with near-black ink type, generous empty space, and one decisive black pill call-to-action. Headlines are enormous and set in a high-contrast serif; body copy is calm sans. The overall effect is quiet luxury for deep-tech — more gallery wall than product landing page.
 
-Here is the visual system observed across **8 captured pages** from [etched.com](https://etched.com).
+What should survive adaptation:
+- Warm paper canvas, not pure digital white or cool gray.
+- Massive serif display lines that can break across two or three rows.
+- A single hard black pill CTA; avoid rainbow accent systems.
+- Wide horizontal margins and section breathing room (~48px vertical gaps, ~20–70px side padding).
 
-```fudge-colors
-[
-  "#000000",
-  "#ededed",
-  "#ffffff",
-  "#e5e5e5",
-  "#979797",
-  "#b0b0b0",
-  "#acacac",
-  "#616162",
-  "#868686",
-  "#dddddd",
-  "#262628",
-  "#a7a8a8",
-  "#ebebeb",
-  "#929294",
-  "#202023",
-  "#5d5d60"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from etched.com",
-  "sampleText": "etched.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9873,
-      "domain": "etched.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 24
-    },
-    {
-      "family": "Söhne",
-      "familyId": 2237,
-      "pinId": 9873,
-      "domain": "etched.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 24
-    },
-    {
-      "family": "Söhne Mono",
-      "familyId": 2635,
-      "pinId": 9873,
-      "domain": "etched.com",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "10.2px",
-      "letterSpacing": "0.24px",
-      "frequency": 13
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 43 |
-| Spacing values | 233 |
-| Borders and radii | 13 |
-| Shadows | 0 |
-| Gradients | 0 |
+Measured structured color roles were not available. From the captured pages, the system is essentially monochrome on warm paper:
+- Canvas: warm cream / paper white
+- Primary text and logo: near-black ink
+- Secondary UI chrome (nav links, footers): softer charcoal
+- Primary action: solid black pill with white label
+- Decorative photography and metal 3D marks introduce graphite and silver only as imagery, not as UI chrome
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9873,
-      "title": "Join Us | Etched",
-      "domain": "etched.com/join",
-      "pageUrl": "etched.com/join",
-      "imageUrl": "https://pin.fontofweb.com/9873?format=jpg",
-      "colors": [
-        "#616162",
-        "#868686",
-        "#dddddd",
-        "#262628",
-        "#a7a8a8",
-        "#000000",
-        "#ededed",
-        "#979797"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne",
-        "Söhne Mono"
-      ]
-    },
-    {
-      "pinId": 9872,
-      "title": "Join Us | Etched",
-      "domain": "etched.com/join",
-      "pageUrl": "etched.com/join",
-      "imageUrl": "https://pin.fontofweb.com/9872?format=jpg",
-      "colors": [
-        "#ebebeb",
-        "#929294",
-        "#202023",
-        "#5d5d60",
-        "#000000",
-        "#ededed",
-        "#979797"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9871,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9871?format=jpg",
-      "colors": [
-        "#8f8f8f",
-        "#b0b0b0",
-        "#010101",
-        "#e9e9e9",
-        "#494949",
-        "#000000",
-        "#ededed",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne",
-        "Söhne Mono"
-      ]
-    },
-    {
-      "pinId": 9870,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9870?format=jpg",
-      "colors": [
-        "#b0b0b0",
-        "#ececec",
-        "#7a7a7a",
-        "#4c4c4c",
-        "#202020",
-        "#000000",
-        "#ededed",
-        "#e5e5e5"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9869,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9869?format=jpg",
-      "colors": [
-        "#ededed",
-        "#686564",
-        "#352d2c",
-        "#a77564",
-        "#0e1116",
-        "#d3a695",
-        "#bdbfbe",
-        "#6e493d"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne",
-        "Söhne Mono"
-      ]
-    },
-    {
-      "pinId": 9868,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9868?format=jpg",
-      "colors": [
-        "#ededed",
-        "#acacac",
-        "#252422",
-        "#787877",
-        "#264450",
-        "#464441",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9867,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9867?format=jpg",
-      "colors": [
-        "#898989",
-        "#6b6b6c",
-        "#acacac",
-        "#ededed",
-        "#232324",
-        "#4d4d4f",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9866,
-      "title": "Etched",
-      "domain": "etched.com/",
-      "pageUrl": "etched.com/",
-      "imageUrl": "https://pin.fontofweb.com/9866?format=jpg",
-      "colors": [
-        "#ededed",
-        "#a6a5a8",
-        "#1b1a1b",
-        "#4d4b4d",
-        "#7f7b7d",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    }
-  ]
-}
-```
+Do not introduce brand blues or neon accents; the restraint is the brand.
 
-## Representative captures
-[![Join Us | Etched](https://pin.fontofweb.com/9873?format=jpg)](https://design.withfudge.com/pin/9873)
-[Join Us | Etched](https://design.withfudge.com/pin/9873) — [source page](https://etched.com/join)
+### Typography
 
-[![Join Us | Etched](https://pin.fontofweb.com/9872?format=jpg)](https://design.withfudge.com/pin/9872)
-[Join Us | Etched](https://design.withfudge.com/pin/9872) — [source page](https://etched.com/join)
+Declared font families were not captured. Observed sizes on the join and home crops:
+- Display: ~68–96px, weight 400, tight leading (often 1.0)
+- Section titles and mid-heads: ~20px / 24px
+- Body: ~16px / 24px
+- Meta / small labels: ~12–14px
 
-[![Etched](https://pin.fontofweb.com/9871?format=jpg)](https://design.withfudge.com/pin/9871)
-[Etched](https://design.withfudge.com/pin/9871) — [source page](https://etched.com/)
+The hierarchy is extreme: one monumental line, then a short supporting sentence, then UI. Display is a classical high-contrast serif; UI and body read as a clean grotesque.
 
-[![Etched](https://pin.fontofweb.com/9870?format=jpg)](https://design.withfudge.com/pin/9870)
-[Etched](https://design.withfudge.com/pin/9870) — [source page](https://etched.com/)
+### Spacing and layout
 
-[![Etched](https://pin.fontofweb.com/9869?format=jpg)](https://design.withfudge.com/pin/9869)
-[Etched](https://design.withfudge.com/pin/9869) — [source page](https://etched.com/)
+Recurring spacing:
+- Side padding ~20px on tighter crops, ~70px on wider marketing bands
+- Large top margins ~48px between major blocks
+- Section bottom padding often ~105px
+- Content is centered with wide outer margins (~134px left/right on full desktop frames)
 
-[![Etched](https://pin.fontofweb.com/9868?format=jpg)](https://design.withfudge.com/pin/9868)
-[Etched](https://design.withfudge.com/pin/9868) — [source page](https://etched.com/)
+Layout is single-column hero → sparse feature strips → simple footer. No dense card grids on the primary marketing surfaces.
 
-[![Etched](https://pin.fontofweb.com/9867?format=jpg)](https://design.withfudge.com/pin/9867)
-[Etched](https://design.withfudge.com/pin/9867) — [source page](https://etched.com/)
+## Visual language
 
-[![Etched](https://pin.fontofweb.com/9866?format=jpg)](https://design.withfudge.com/pin/9866)
-[Etched](https://design.withfudge.com/pin/9866) — [source page](https://etched.com/)
+- Corners: mostly sharp or lightly softened; no playful bubble radii in primary chrome.
+- Borders: 1px solid rules appear on cards and dividers.
+- Imagery: metallic 3D glyphs and product photography float in open space; treated as sculpture, not thumbnails in a grid.
+- Shadows: largely absent; depth comes from photography, not drop shadows.
+- Motion: not established from still captures.
+
+## Components and states
+
+- Top nav: wordmark left, text links, one black pill CTA right (“Join us” / similar).
+- Hero: multi-line serif headline, one sentence of support, optional secondary text link.
+- Join page: same system with application-oriented copy and the same black pill.
+- Footer: minimal link row on the paper ground.
+
+Visible default states only; hover/focus were not captured.
+
+## Responsive behavior
+
+Multiple crops show the same type scale and paper system from wide desktop (~1700px) down toward narrower frames. The hero type stays large; side padding compresses before type does. A full multi-breakpoint matrix was not captured.
+
+## Practical guidance
+
+**Preserve**
+- Paper warmth + black ink + one pill CTA
+- Serif display that owns the first screen
+- Museum-like spacing; let empty canvas do the work
+
+**Avoid**
+- Cool gray SaaS backgrounds
+- Multi-color button hierarchies
+- Dense feature card walls and gradient meshes
+- Shrinking display type into a generic 32–40px H1
+
+**Adaptation**
+Use the system for deep-tech or hardware brands that want editorial gravitas. Keep photography sculptural and monochrome-adjacent.
+
+## Scope note
+
+Studied home and /join captures (8 total, mixed full frames and section crops). Structured color roles, radii, shadows, and font family names were unsupported; color and type character above combine spacing/type measurements with visual reading of the screenshots.
+
+## Captured pages
+
+[![Etched](https://pin.fontofweb.com/9867?format=jpg)](https://design.withfudge.com/share/pin-9867)
+
+[Etched](https://design.withfudge.com/share/pin-9867)
+
+[![Join Us | Etched](https://pin.fontofweb.com/9873?format=jpg)](https://design.withfudge.com/share/pin-9873)
+
+[Join Us | Etched](https://design.withfudge.com/share/pin-9873)
+
+[![Etched](https://pin.fontofweb.com/9871?format=jpg)](https://design.withfudge.com/share/pin-9871)
+
+[Etched](https://design.withfudge.com/share/pin-9871)
+
+[![Etched](https://pin.fontofweb.com/9870?format=jpg)](https://design.withfudge.com/share/pin-9870)
+
+[Etched](https://design.withfudge.com/share/pin-9870)

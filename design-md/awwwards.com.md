@@ -1,307 +1,119 @@
 # How awwwards.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/awwwards.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/awwwards.com-design)
 
-Source domain: [awwwards.com](https://awwwards.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-23
+## Design character
 
-<!--
-coverPin: 6996
--->
+Awwwards is a **gallery-first awards platform**: pale gray canvas, monumental black display type, and a thin utility header that stays out of the way of the Site of the Day. The product’s personality is editorial confidence—oversized titles, soft white cards, and just enough cyan accent to mark “live” actions without turning the chrome colorful.
 
-Here is the visual system observed across **34 captured pages** from [awwwards.com](https://awwwards.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#222222",
-  "#000000",
-  "#ededed",
-  "#ffffff",
-  "#f8f8f8",
-  "#f7f7f7",
-  "#49b3fc",
-  "#f9f9f9",
-  "#505050",
-  "#262626",
-  "#f4f4f4",
-  "#2b2b2b",
-  "#010101",
-  "#faf9f9",
-  "#454545",
-  "#f94e08"
-]
-```
+- **Monumental centered headlines** on a cool light stage.
+- **Quiet top navigation** with search, text links, and a solid dark “Be Pro” CTA.
+- **Soft elevated white cards** for jobs, nominees, and listings.
+- **Cyan as a sparse accent** (Post a Job, Hiring badge)—not a full secondary palette wash.
+- Submitted work and SOTD imagery carry the spectacle; the shell stays disciplined.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from awwwards.com",
-  "sampleText": "awwwards.com",
-  "fonts": [
-    {
-      "family": "Inter Tight",
-      "familyId": 29,
-      "pinId": 6996,
-      "domain": "awwwards.com",
-      "weight": "300",
-      "size": "14px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 654
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 34 |
-| Colors | 222 |
-| Spacing values | 20 |
-| Borders and radii | 8 |
-| Shadows | 0 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6996,
-      "title": "OceanX 2025 - Awwwards SOTD",
-      "domain": "awwwards.com/sites/oceanx-2025",
-      "pageUrl": "awwwards.com/sites/oceanx-2025",
-      "imageUrl": "https://pin.fontofweb.com/6996?format=jpg",
-      "colors": [
-        "#f7ccb1",
-        "#adadad",
-        "#222222",
-        "#92e0ef",
-        "#686868",
-        "#f19c75",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Inter Tight"
-      ]
-    },
-    {
-      "pinId": 6995,
-      "title": "Jobs for Web Designers and Developers",
-      "domain": "awwwards.com/jobs/",
-      "pageUrl": "awwwards.com/jobs/",
-      "imageUrl": "https://pin.fontofweb.com/6995?format=jpg",
-      "colors": [
-        "#797979",
-        "#ededed",
-        "#c3c4c4",
-        "#f9f9f9",
-        "#262626",
-        "#9d9d9d",
-        "#57b3f7",
-        "#5b5b5b"
-      ],
-      "fonts": [
-        "Inter Tight"
-      ]
-    },
-    {
-      "pinId": 5789,
-      "title": "Actbe Inc. - Awwwards Honorable Mention",
-      "domain": "awwwards.com/sites/actbe-inc",
-      "pageUrl": "awwwards.com/sites/actbe-inc",
-      "imageUrl": "https://pin.fontofweb.com/5789?format=jpg",
-      "colors": [
-        "#f4f4f4",
-        "#2b2b2b",
-        "#535352",
-        "#9c9c9b",
-        "#c2c2c2",
-        "#767575",
-        "#faef87"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5788,
-      "title": "Locomotive - Awwwards",
-      "domain": "awwwards.com/sites/herve-baillargeon",
-      "pageUrl": "awwwards.com/sites/herve-baillargeon",
-      "imageUrl": "https://pin.fontofweb.com/5788?format=jpg",
-      "colors": [
-        "#010101",
-        "#e9e5da",
-        "#aca9a1",
-        "#595751",
-        "#363530",
-        "#7b7973"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5787,
-      "title": "Locomotive - Awwwards",
-      "domain": "awwwards.com/sites/stenger-bike",
-      "pageUrl": "awwwards.com/sites/stenger-bike",
-      "imageUrl": "https://pin.fontofweb.com/5787?format=jpg",
-      "colors": [
-        "#faf9f9",
-        "#010101",
-        "#613c13",
-        "#4b4b4b",
-        "#969594",
-        "#c59d77",
-        "#de3f3c",
-        "#f2a5a3"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5786,
-      "title": "Locomotive - Awwwards",
-      "domain": "awwwards.com/sites/lowes-innovation-labs",
-      "pageUrl": "awwwards.com/sites/lowes-innovation-labs",
-      "imageUrl": "https://pin.fontofweb.com/5786?format=jpg",
-      "colors": [
-        "#f7f7f7",
-        "#020202",
-        "#aeaeae",
-        "#383838",
-        "#565656",
-        "#787878"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3078,
-      "title": "Awwwards - Website Awards - Best Web Design Trends",
-      "domain": "awwwards.com/",
-      "pageUrl": "awwwards.com/",
-      "imageUrl": "https://pin.fontofweb.com/3078?format=jpg",
-      "colors": [
-        "#e8e8e8",
-        "#2ea582",
-        "#8deaae",
-        "#302a28",
-        "#f9f9d4",
-        "#146669",
-        "#09413f",
-        "#1f5d44"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 243,
-      "title": "Awwwards",
-      "domain": "awwwards.com/faqs/",
-      "pageUrl": "awwwards.com/faqs/",
-      "imageUrl": "https://pin.fontofweb.com/243?format=jpg",
-      "colors": [
-        "#f8f8f8",
-        "#262626",
-        "#acacac",
-        "#777777",
-        "#505050"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 242,
-      "title": "Awwwards - Website Awards - Best Web Design Trends",
-      "domain": "awwwards.com/",
-      "pageUrl": "awwwards.com/",
-      "imageUrl": "https://pin.fontofweb.com/242?format=jpg",
-      "colors": [
-        "#1d1d1d",
-        "#f9f9f9",
-        "#454545",
-        "#636363",
-        "#cacaca",
-        "#939393"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 241,
-      "title": "Awwwards - Website Awards - Best Web Design Trends",
-      "domain": "awwwards.com/",
-      "pageUrl": "awwwards.com/",
-      "imageUrl": "https://pin.fontofweb.com/241?format=jpg",
-      "colors": [
-        "#f8f8f8",
-        "#030304",
-        "#2f2a2e",
-        "#595757",
-        "#918d8c",
-        "#f0503b",
-        "#a2684d",
-        "#d3d039"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 240,
-      "title": "Awwwards - Website Awards - Best Web Design Trends",
-      "domain": "awwwards.com/",
-      "pageUrl": "awwwards.com/",
-      "imageUrl": "https://pin.fontofweb.com/240?format=jpg",
-      "colors": [
-        "#faf9f9",
-        "#0a0605",
-        "#393837",
-        "#a3a09f",
-        "#9f0f09",
-        "#5d3122",
-        "#bd8160",
-        "#ea4933"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 239,
-      "title": "Awwwards - Website Awards - Best Web Design Trends",
-      "domain": "awwwards.com/",
-      "pageUrl": "awwwards.com/",
-      "imageUrl": "https://pin.fontofweb.com/239?format=jpg",
-      "colors": [
-        "#f7f7f7",
-        "#1a0e0d",
-        "#b1a4a6",
-        "#91c1c1",
-        "#454e52",
-        "#692218",
-        "#e74816",
-        "#9cd433"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+| Token | Value | Use |
+|-------|-------|-----|
+| Primary ink | `#222222` | Body and UI text role |
+| Canvas | cool light gray (~`#f3f3f3` visually) | Page background behind cards |
+| Surface | white | Job cards, panels, search field |
+| Inverse CTA | near-black | “Be Pro”, primary dark pills |
+| Accent | bright cyan/sky | “Post a Job”, hiring chip, select links |
 
-## Representative captures
-[![OceanX 2025 - Awwwards SOTD](https://pin.fontofweb.com/6996?format=jpg)](https://design.withfudge.com/pin/6996)
-[OceanX 2025 - Awwwards SOTD](https://design.withfudge.com/pin/6996) — [source page](https://awwwards.com/sites/oceanx-2025)
+Keep the system **almost monochrome**. Accent appears on intentional conversion controls and status chips only.
 
-[![Jobs for Web Designers and Developers](https://pin.fontofweb.com/6995?format=jpg)](https://design.withfudge.com/pin/6995)
-[Jobs for Web Designers and Developers](https://design.withfudge.com/pin/6995) — [source page](https://awwwards.com/jobs/)
+### Typography
 
-[![Actbe Inc. - Awwwards Honorable Mention](https://pin.fontofweb.com/5789?format=jpg)](https://design.withfudge.com/pin/5789)
-[Actbe Inc. - Awwwards Honorable Mention](https://design.withfudge.com/pin/5789) — [source page](https://awwwards.com/sites/actbe-inc)
+No declared family was captured. Hierarchy is unmistakable:
 
-[![Locomotive - Awwwards](https://pin.fontofweb.com/5788?format=jpg)](https://design.withfudge.com/pin/5788)
-[Locomotive - Awwwards](https://design.withfudge.com/pin/5788) — [source page](https://awwwards.com/sites/herve-baillargeon)
+- **Display**: extremely large condensed/grotesk titles (jobs board and SOTD nameplates can exceed 100px optically), weight ~400, tight leading.
+- **Section titles / card titles**: ~18–20px, weights 300–600.
+- **Meta / UI**: ~14px light (300) with generous line-height (~28px) for nav and secondary lines.
+- Tone is **international modernist grotesque**—neutral, tight, high-contrast against the pale stage.
 
-[![Locomotive - Awwwards](https://pin.fontofweb.com/5787?format=jpg)](https://design.withfudge.com/pin/5787)
-[Locomotive - Awwwards](https://design.withfudge.com/pin/5787) — [source page](https://awwwards.com/sites/stenger-bike)
+### Spacing and layout
 
-[![Locomotive - Awwwards](https://pin.fontofweb.com/5786?format=jpg)](https://design.withfudge.com/pin/5786)
-[Locomotive - Awwwards](https://design.withfudge.com/pin/5786) — [source page](https://awwwards.com/sites/lowes-innovation-labs)
+- Dominant padding rhythm around **16px and 30px** on listing surfaces.
+- Jobs board uses a **four-up card row** with equal white cards and internal meta footers.
+- Home SOTD stacks: small meta row → huge title → studio credit → full-bleed preview with an overlaid mini-nav dock.
+- Header is full-width with logo, primary nav, centered search, and trailing auth/CTAs.
+- Content feels moderately dense on jobs; home is more theatrical and open above the fold.
 
-[![Awwwards - Website Awards - Best Web Design Trends](https://pin.fontofweb.com/3078?format=jpg)](https://design.withfudge.com/pin/3078)
-[Awwwards - Website Awards - Best Web Design Trends](https://design.withfudge.com/pin/3078) — [source page](https://awwwards.com/)
+## Visual language
 
-[![Awwwards](https://pin.fontofweb.com/243?format=jpg)](https://design.withfudge.com/pin/243)
-[Awwwards](https://design.withfudge.com/pin/243) — [source page](https://awwwards.com/faqs/)
+- **Radii**: ~**8px** on cards and controls; occasional ~14px on larger chips; rare 4px details.
+- **Borders**: light structural dividers inside cards (location/website rows) rather than heavy outer frames.
+- **Shadows**: soft card lift on white panels over gray canvas—low drama.
+- **Imagery**: SOTD and site case pages are image-led; the chrome never competes with the nominated work.
+- **Promo strip**: thin dark marquee above the header on some views (Creative Pass) adds a second horizontal band without changing the core palette.
+
+## Components and states
+
+1. **Global header** — `W.` mark, Explore/Directory/Academy/Jobs/Market, search field, Log in / Sign Up, black **Be Pro**, outlined or cyan **Submit/Post** actions.
+2. **SOTD hero** — score/date meta, oversized title, studio link, large artwork, floating dock with Visit SOTD.
+3. **Jobs board** — display title with playful “HIRING” sticker, filter chips (Category/Type/Country), card grid with logo, role, blurb, location/website rows, relative time + arrow.
+4. **Filters** — soft pill dropdowns and a compact filter count control.
+5. **Site case chrome** — award context around third-party site presentations (multiple site paths in the set).
+
+Visible states in stills: default cards, remote badges, active cyan CTAs. No dark-theme shell in these captures.
+
+## Responsive behavior
+
+Captures span wide desktop (~1913px home, ~1711px jobs) down to narrower site embeds (~478–560px). The **jobs multi-column grid and oversized display type are desktop-forward**; narrow captures are mostly site-detail crops rather than a full mobile system. Do not invent breakpoint rules beyond “cards will need to stack as width collapses.”
+
+## Practical guidance
+
+**Preserve**
+
+- Pale gray stage + white cards + black type.
+- One dark solid CTA and one cyan accent CTA, not a rainbow of buttons.
+- Oversized editorial titles as the brand move.
+- Card footers with quiet meta rows instead of loud badges everywhere.
+
+**Avoid**
+
+- Saturating the UI with award-gold or multi-brand gradients in the chrome.
+- Shrinking display type into generic SaaS marketing scale.
+- Heavy drop shadows or glassmorphism on listing cards.
+- Claiming a specific licensed font family without a fresh source of truth.
+
+## Scope note
+
+Eight captures: home SOTD, jobs board, FAQs, and several site/award detail views (OceanX, Actbe, Locomotive-related pages). Strongest system signal is home + jobs. Structured color roles are thin (primary ink `#222222`); cyan/gray values above are visual reads from screenshots. Font families undeclared.
+
+## Captured pages
+
+[![Home — Site of the Day hero](https://pin.fontofweb.com/3078?format=jpg)](https://design.withfudge.com/share/pin-3078)
+
+[Home — Site of the Day hero](https://design.withfudge.com/share/pin-3078)
+
+[![Jobs board](https://pin.fontofweb.com/6995?format=jpg)](https://design.withfudge.com/share/pin-6995)
+
+[Jobs board](https://design.withfudge.com/share/pin-6995)
+
+[![Site of the Day — OceanX case](https://pin.fontofweb.com/6996?format=jpg)](https://design.withfudge.com/share/pin-6996)
+
+[Site of the Day — OceanX case](https://design.withfudge.com/share/pin-6996)
+
+[![Honorable Mention — Actbe](https://pin.fontofweb.com/5789?format=jpg)](https://design.withfudge.com/share/pin-5789)
+
+[Honorable Mention — Actbe](https://design.withfudge.com/share/pin-5789)
+
+[![FAQs](https://pin.fontofweb.com/243?format=jpg)](https://design.withfudge.com/share/pin-243)
+
+[FAQs](https://design.withfudge.com/share/pin-243)
+
+## Colors
+
+- `#222222`
+- `#ffffff`
+- `#f3f3f3`
+- `#0a0a0a`

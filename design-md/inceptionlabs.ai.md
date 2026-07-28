@@ -1,393 +1,104 @@
 # How inceptionlabs.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/inceptionlabs.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/inceptionlabs.ai-design)
 
-Source domain: [inceptionlabs.ai](https://inceptionlabs.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-12
+## Design character
 
-<!--
-coverPin: 8042
--->
+Inception Labs presents frontier LLM speed with a **cinematic dark site**: pure black stages, oversized white headlines, and an electric violet accent (`#7674ff`). Sections feel like research keynotes — sparse hero statements, then model/enterprise cards with soft luminous edges. The mood is serious and futuristic without clutter.
 
-Here is the visual system observed across **15 captured pages** from [inceptionlabs.ai](https://inceptionlabs.ai).
+What should survive adaptation:
+- Black void as the default stage
+- Violet as the single chromatic accent
+- Monumental white display type with short supporting lines
+- Large rounded cards and pill CTAs
 
-```fudge-colors
-[
-  "#000000",
-  "#faf8f0",
-  "#041414",
-  "#ffffff",
-  "#0000ee",
-  "#eff9f9",
-  "#f5f3eb",
-  "#2b2a29",
-  "#1a1918",
-  "#041314",
-  "#159999",
-  "#17c4c4",
-  "#18c4c3",
-  "#7674ff",
-  "#051515",
-  "#0c0c0b"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from inceptionlabs.ai",
-  "sampleText": "inceptionlabs.ai",
-  "fonts": [
-    {
-      "family": "Kmr Apparat",
-      "familyId": 2227,
-      "pinId": 8042,
-      "domain": "inceptionlabs.ai",
-      "weight": "375",
-      "size": "48px",
-      "lineHeight": "52.8px",
-      "letterSpacing": "normal",
-      "frequency": 31
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8042,
-      "domain": "inceptionlabs.ai",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 91
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8042,
-      "domain": "inceptionlabs.ai",
-      "weight": "500",
-      "size": "15px",
-      "lineHeight": "22.5px",
-      "letterSpacing": "normal",
-      "frequency": 40
-    },
-    {
-      "family": "Geist Mono",
-      "familyId": 136,
-      "pinId": 7206,
-      "domain": "inceptionlabs.ai",
-      "weight": "400",
-      "size": "28px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 16
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 15 |
-| Colors | 121 |
-| Spacing values | 63 |
-| Borders and radii | 19 |
-| Shadows | 0 |
-| Gradients | 0 |
+Measured:
+- Accent: `#7674ff` (violet)
+- Primary text: `#ffffff`
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8042,
-      "title": "Our Models – Inception",
-      "domain": "inceptionlabs.ai/models",
-      "pageUrl": "inceptionlabs.ai/models",
-      "imageUrl": "https://pin.fontofweb.com/8042?format=jpg",
-      "colors": [
-        "#27898a",
-        "#a6aeaf",
-        "#ffffff",
-        "#0a181a",
-        "#000000",
-        "#eff9f9",
-        "#f3f8f8",
-        "#3a4a4b"
-      ],
-      "fonts": [
-        "Kmr Apparat",
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7215,
-      "title": "About – Inception",
-      "domain": "inceptionlabs.ai/about",
-      "pageUrl": "inceptionlabs.ai/about",
-      "imageUrl": "https://pin.fontofweb.com/7215?format=jpg",
-      "colors": [
-        "#000000",
-        "#5f5c58",
-        "#807e7a",
-        "#259b9a",
-        "#0000ee",
-        "#b9b5af",
-        "#0b0b0a",
-        "#faf8f0"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7214,
-      "title": "Our Models – Inception",
-      "domain": "inceptionlabs.ai/models",
-      "pageUrl": "inceptionlabs.ai/models",
-      "imageUrl": "https://pin.fontofweb.com/7214?format=jpg",
-      "colors": [
-        "#051515",
-        "#fcfdfd",
-        "#858e8e",
-        "#343d74",
-        "#000000",
-        "#268080",
-        "#3a4647",
-        "#5c6767"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7213,
-      "title": "Enterprise – Inception",
-      "domain": "inceptionlabs.ai/enterprise",
-      "pageUrl": "inceptionlabs.ai/enterprise",
-      "imageUrl": "https://pin.fontofweb.com/7213?format=jpg",
-      "colors": [
-        "#f9f8f0",
-        "#d5f6f5",
-        "#87c794",
-        "#151512",
-        "#5e5f5a",
-        "#000000",
-        "#88b9ca",
-        "#dde49a"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7212,
-      "title": "Enterprise – Inception",
-      "domain": "inceptionlabs.ai/enterprise",
-      "pageUrl": "inceptionlabs.ai/enterprise",
-      "imageUrl": "https://pin.fontofweb.com/7212?format=jpg",
-      "colors": [
-        "#f7f4ed",
-        "#9b9994",
-        "#32312e",
-        "#a1c7c3",
-        "#2b2a29",
-        "#c1bfb9",
-        "#000000",
-        "#faf8f0"
-      ],
-      "fonts": [
-        "Kmr Apparat",
-        "Inter",
-        "System"
-      ]
-    },
-    {
-      "pinId": 7211,
-      "title": "Enterprise – Inception",
-      "domain": "inceptionlabs.ai/enterprise",
-      "pageUrl": "inceptionlabs.ai/enterprise",
-      "imageUrl": "https://pin.fontofweb.com/7211?format=jpg",
-      "colors": [
-        "#209a99",
-        "#000000",
-        "#d5f3f1",
-        "#d5efc7",
-        "#b4b5ad",
-        "#73756e",
-        "#8ebe97",
-        "#0c0c0b"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7210,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7210?format=jpg",
-      "colors": [
-        "#91908f",
-        "#faf8f0",
-        "#fbfaf6",
-        "#cbc9c5",
-        "#6b6b69",
-        "#1c1b19",
-        "#1a1918",
-        "#0000ee"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7209,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7209?format=jpg",
-      "colors": [
-        "#faf8f0",
-        "#000000",
-        "#c0bfbd",
-        "#8a8a88",
-        "#ffffff",
-        "#0000ee",
-        "#444341",
-        "#626160"
-      ],
-      "fonts": [
-        "Kmr Apparat",
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7208,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7208?format=jpg",
-      "colors": [
-        "#10100f",
-        "#0000ee",
-        "#f7f5ee",
-        "#39a2a1",
-        "#2b2a29",
-        "#696864",
-        "#83827e",
-        "#159999"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Kmr Apparat"
-      ]
-    },
-    {
-      "pinId": 7207,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7207?format=jpg",
-      "colors": [
-        "#8e9797",
-        "#f1f2ec",
-        "#485454",
-        "#000000",
-        "#041414",
-        "#5e7575",
-        "#061515",
-        "#b7bdbb"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat"
-      ]
-    },
-    {
-      "pinId": 7206,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7206?format=jpg",
-      "colors": [
-        "#225a5b",
-        "#ffffff",
-        "#f0f0eb",
-        "#a7afad",
-        "#1ec2c1",
-        "#6f7b7a",
-        "#000000",
-        "#faf8f0"
-      ],
-      "fonts": [
-        "Kmr Apparat",
-        "System",
-        "Inter",
-        "Geist Mono"
-      ]
-    },
-    {
-      "pinId": 7205,
-      "title": "Inception – A new frontier in LLM speed",
-      "domain": "inceptionlabs.ai/",
-      "pageUrl": "inceptionlabs.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7205?format=jpg",
-      "colors": [
-        "#1ac2c1",
-        "#091717",
-        "#041414",
-        "#edeeea",
-        "#248989",
-        "#636e6e",
-        "#0000ee",
-        "#faf8f0"
-      ],
-      "fonts": [
-        "System",
-        "Kmr Apparat",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+Visual system beyond measured roles:
+- Page ground: near-pure black
+- Secondary text: muted cool gray on black
+- Card surfaces: elevated dark charcoal with subtle violet edge light
+- Occasional soft purple/blue glow behind heroes and model art
 
-## Representative captures
-[![Our Models – Inception](https://pin.fontofweb.com/8042?format=jpg)](https://design.withfudge.com/pin/8042)
-[Our Models – Inception](https://design.withfudge.com/pin/8042) — [source page](https://inceptionlabs.ai/models)
+### Typography
 
-[![About – Inception](https://pin.fontofweb.com/7215?format=jpg)](https://design.withfudge.com/pin/7215)
-[About – Inception](https://design.withfudge.com/pin/7215) — [source page](https://inceptionlabs.ai/about)
+Family not declared; reads as a modern grotesque/display sans.
+- Heroes: very large, weighty, tight leading
+- Section titles: still large but secondary to heroes
+- Body: medium size, short paragraphs, high line-height for calm reading on black
+- UI labels and meta: smaller, wider tracking in nav and cards
 
-[![Our Models – Inception](https://pin.fontofweb.com/7214?format=jpg)](https://design.withfudge.com/pin/7214)
-[Our Models – Inception](https://design.withfudge.com/pin/7214) — [source page](https://inceptionlabs.ai/models)
+### Spacing and layout
 
-[![Enterprise – Inception](https://pin.fontofweb.com/7213?format=jpg)](https://design.withfudge.com/pin/7213)
-[Enterprise – Inception](https://design.withfudge.com/pin/7213) — [source page](https://inceptionlabs.ai/enterprise)
+Spacing observations span **10–48px** common UI steps, with large section gaps **80–120px**.
+- Wide desktop heroes with generous empty black field
+- Content blocks centered; cards in simple 1–3 column rows
+- Radii large: **~50–60px** on major rounded containers (soft “superellipse” product cards)
 
-[![Enterprise – Inception](https://pin.fontofweb.com/7212?format=jpg)](https://design.withfudge.com/pin/7212)
-[Enterprise – Inception](https://design.withfudge.com/pin/7212) — [source page](https://inceptionlabs.ai/enterprise)
+## Visual language
 
-[![Enterprise – Inception](https://pin.fontofweb.com/7211?format=jpg)](https://design.withfudge.com/pin/7211)
-[Enterprise – Inception](https://design.withfudge.com/pin/7211) — [source page](https://inceptionlabs.ai/enterprise)
+- Glow and blur around violet accents (light as brand material)
+- Deep rounded rectangles rather than sharp enterprise boxes
+- Minimal chrome: thin top nav, few icons
+- Model pages lean on structured lists/cards rather than dense tables
+- Photography/3D is secondary to type + glow
 
-[![Inception – A new frontier in LLM speed](https://pin.fontofweb.com/7210?format=jpg)](https://design.withfudge.com/pin/7210)
-[Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7210) — [source page](https://inceptionlabs.ai/)
+## Components and states
 
-[![Inception – A new frontier in LLM speed](https://pin.fontofweb.com/7209?format=jpg)](https://design.withfudge.com/pin/7209)
-[Inception – A new frontier in LLM speed](https://design.withfudge.com/pin/7209) — [source page](https://inceptionlabs.ai/)
+- Text-link nav + one primary pill CTA (“Get started” / contact patterns)
+- Hero stack: eyebrow → massive title → one sentence → CTA row
+- Feature/model cards: title, short blurb, optional badge
+- Enterprise sections: calmer copy density, same dark shell
+- Footer: low-contrast link columns on black
+
+## Responsive behavior
+
+Home, models, about, and enterprise were captured at multiple widths. The composition remains stacked marketing bands; cards wrap from multi-column to single column. Maintain the large type hierarchy when narrowing — do not densify into a dashboard.
+
+## Practical guidance
+
+**Preserve**
+- One accent hue (violet) on black
+- Huge type with lots of negative space
+- Soft, oversized rounded cards
+
+**Avoid**
+- Rainbow AI gradients competing with violet
+- Light gray page backgrounds
+- Small, dense SaaS marketing grids
+
+## Scope note
+
+Pages studied: `/`, `/models`, `/about`, `/enterprise` (multiple viewports). Structured color roles are sparse (accent + white text); typography family undeclared. Treat glow and card materials as visual interpretation from screenshots.
+
+## Captured pages
+
+[![Our Models – Inception](https://pin.fontofweb.com/8042?format=jpg)](https://design.withfudge.com/share/pin-8042)
+
+[Our Models – Inception](https://design.withfudge.com/share/pin-8042)
+
+[![About – Inception](https://pin.fontofweb.com/7215?format=jpg)](https://design.withfudge.com/share/pin-7215)
+
+[About – Inception](https://design.withfudge.com/share/pin-7215)
+
+[![Enterprise – Inception](https://pin.fontofweb.com/7213?format=jpg)](https://design.withfudge.com/share/pin-7213)
+
+[Enterprise – Inception](https://design.withfudge.com/share/pin-7213)
+
+[![Inception – A new frontier in LLM speed](https://pin.fontofweb.com/7210?format=jpg)](https://design.withfudge.com/share/pin-7210)
+
+[Inception – A new frontier in LLM speed](https://design.withfudge.com/share/pin-7210)
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#7674ff`

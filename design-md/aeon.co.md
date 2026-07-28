@@ -1,240 +1,102 @@
 # How aeon.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/aeon.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/aeon.co-design)
 
-Source domain: [aeon.co](https://aeon.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-14
+## Design character
 
-<!--
-coverPin: 6526
--->
+Aeon is a digital magazine that stages ideas like a quiet gallery of long essays. The system is **editorial first**: vast white field, black type, a single deep raspberry accent (`#930b51`), and hero photography that feels commissioned rather than stock. Nothing about the chrome competes with the argument on the page—navigation is a thin black bar, body type is generous, and the essay title is allowed to dominate the viewport.
 
-Here is the visual system observed across **6 captured pages** from [aeon.co](https://aeon.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#333333",
-  "#930b51",
-  "#666666",
-  "#c16e15",
-  "#035a6d",
-  "#999999",
-  "#9d120d",
-  "#940b52",
-  "#ececec",
-  "#0c776d",
-  "#9d1d20",
-  "#f9d1e9",
-  "#c27120",
-  "#151515"
-]
-```
+- **Light editorial canvas** with near-black text and one wine/raspberry accent.
+- **Monumental serif titles** for essays, with calm sans-like body and UI.
+- **Photography as thesis**, full-width or large, often with a soft light leak or atmospheric grade.
+- **Magazine furniture**: issue label, author byline with circular avatars, topic chips, share row, related-essay cards.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from aeon.co",
-  "sampleText": "aeon.co",
-  "fonts": [
-    {
-      "family": "Atlas Grotesk",
-      "familyId": 2134,
-      "pinId": 6526,
-      "domain": "aeon.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "normal",
-      "frequency": 644
-    },
-    {
-      "family": "Atlas Typewriter",
-      "familyId": 2089,
-      "pinId": 6526,
-      "domain": "aeon.co",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "16px",
-      "letterSpacing": "1.2px",
-      "frequency": 27
-    },
-    {
-      "family": "Acaca",
-      "familyId": 2135,
-      "pinId": 6525,
-      "domain": "aeon.co",
-      "weight": "600",
-      "size": "72px",
-      "lineHeight": "72px",
-      "letterSpacing": "normal",
-      "frequency": 214
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 61 |
-| Spacing values | 69 |
-| Borders and radii | 5 |
-| Shadows | 1 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6526,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6526?format=jpg",
-      "colors": [
-        "#c27120",
-        "#151515",
-        "#c16e15",
-        "#9d120d",
-        "#99215c",
-        "#035a6d",
-        "#ffffff",
-        "#0c776d"
-      ],
-      "fonts": [
-        "Atlas Grotesk",
-        "Atlas Typewriter"
-      ]
-    },
-    {
-      "pinId": 6525,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6525?format=jpg",
-      "colors": [
-        "#070403",
-        "#7f706f",
-        "#000000",
-        "#bebcbc",
-        "#ffffff",
-        "#493534",
-        "#655453",
-        "#999999"
-      ],
-      "fonts": [
-        "Atlas Grotesk",
-        "Acaca"
-      ]
-    },
-    {
-      "pinId": 6524,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6524?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#646464",
-        "#bc706f",
-        "#f7f7f7",
-        "#a0a0a0",
-        "#9d1f21",
-        "#000000",
-        "#9d1d20"
-      ],
-      "fonts": [
-        "Atlas Grotesk"
-      ]
-    },
-    {
-      "pinId": 6523,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6523?format=jpg",
-      "colors": [
-        "#141010",
-        "#b5acab",
-        "#423e3f",
-        "#ca602f",
-        "#996951",
-        "#000000",
-        "#a42e1b",
-        "#72747d"
-      ],
-      "fonts": [
-        "Atlas Grotesk",
-        "Acaca",
-        "Atlas Typewriter"
-      ]
-    },
-    {
-      "pinId": 6522,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6522?format=jpg",
-      "colors": [
-        "#a4615d",
-        "#683835",
-        "#930b51",
-        "#971e58",
-        "#2b2424",
-        "#ffffff",
-        "#e1fb83",
-        "#fbfbfb"
-      ],
-      "fonts": [
-        "Atlas Grotesk",
-        "Acaca"
-      ]
-    },
-    {
-      "pinId": 6521,
-      "title": "What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays",
-      "domain": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "pageUrl": "aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "imageUrl": "https://pin.fontofweb.com/6521?format=jpg",
-      "colors": [
-        "#686364",
-        "#fdfdfd",
-        "#333333",
-        "#ffffff",
-        "#282120",
-        "#d3aa76",
-        "#e0fa83",
-        "#000000"
-      ],
-      "fonts": [
-        "Atlas Grotesk",
-        "Atlas Typewriter",
-        "Acaca"
-      ]
-    }
-  ]
-}
-```
+| Role | Value | Use |
+| --- | --- | --- |
+| Page ground | pure / near white | Essay canvas |
+| Primary text | `#000000` | Titles and body |
+| Secondary text | `#333333` | Supporting copy, quieter lines |
+| Accent | `#930b51` | Topic labels, in-text links, “More essays” |
+| Inverse chrome | black header with white wordmark and icons | Global nav |
 
-## Representative captures
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6526?format=jpg)](https://design.withfudge.com/pin/6526)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6526) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+The palette is intentionally limited: black, white, one accent, photographic color. No gradients in the UI chrome; color lives in images and the raspberry links.
 
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6525?format=jpg)](https://design.withfudge.com/pin/6525)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6525) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+### Typography
 
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6524?format=jpg)](https://design.withfudge.com/pin/6524)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6524) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+Declared families are not in the captures. Visually:
 
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6523?format=jpg)](https://design.withfudge.com/pin/6523)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6523) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- **Essay titles**: large serif display, weighty (~30–72px across viewports), tight enough to feel literary, wrapping over 2–4 lines.
+- **Deck / lead**: ~20–22px, regular, slightly airy.
+- **Body**: ~16–18px with open measure and clear paragraph rhythm.
+- **UI / meta**: 12–16px for nav, topics, bylines; bold sparingly on section labels (“Psychology”, “27 May 2026”).
+- **Small caps / labels**: uppercase or small labels for section crumbs above the title.
 
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6522?format=jpg)](https://design.withfudge.com/pin/6522)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6522) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+### Spacing and layout
 
-[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6521?format=jpg)](https://design.withfudge.com/pin/6521)
-[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6521) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+- Wide single-column essay with generous side margins on large screens.
+- Vertical rhythm clusters around 10–40px for component gaps; larger 60–80px+ between major blocks.
+- Header is a slim full-width bar; content starts immediately beneath with topic + date, then the oversized title.
+- Related essays sit in multi-card rows with image thumbnails.
+
+## Visual language
+
+- **Shape**: mostly sharp editorial rectangles; circular author avatars; pill-like topic chips are understated.
+- **Borders/shadows**: minimal—depth comes from photography and type scale, not elevation.
+- **Imagery**: full-bleed or large atmospheric photos; essay cards use cropped stills with serif titles overlaid or below.
+- **Motion**: not observed in stills.
+
+## Components and states
+
+1. **Global black nav** — wordmark left; Explore, About, Support, Log in; utility icons and a yellow-accent support control in some states.
+2. **Essay masthead** — topic · date, huge serif title, short deck, author row with faces.
+3. **Inline body** — long measure, accent-colored links, occasional pull structures.
+4. **Share / tools row** — compact icon actions under the title block.
+5. **Related essays** — image + title cards in a horizontal or wrapped set, “More essays” in accent.
+6. **Footer / end matter** — quiet continuation of the white field.
+
+## Responsive behavior
+
+Six captures of the same essay path at varying heights/crops (roughly 422–1194px tall, ~2048px wide). The system stays single-column editorial; title scale and image crop change with viewport height more than structural reflow. Narrow mobile breakpoints were not clearly isolated.
+
+## Practical guidance
+
+**Preserve** the white literary field, one raspberry accent, serif essay titles, and photographic heroes.  
+**Avoid** SaaS card grids, saturated multi-color systems, or dense app chrome on reading surfaces.  
+**Adapt** by keeping UI monochrome and letting one accent mark topics and links only.
+
+## Scope note
+
+Studied six desktop-width captures of a single Aeon essay (neuroplasticity). Font family names and full site IA beyond the article template were not available; color roles include measured `#930b51` / black text plus screenshot reading of the black header.
+
+## Captured pages
+
+[![Essay hero — title, deck, authors](https://pin.fontofweb.com/6521?format=jpg)](https://design.withfudge.com/share/pin-6521)
+
+[Essay hero — title, deck, authors](https://design.withfudge.com/share/pin-6521)
+
+[![Essay mid — body and related](https://pin.fontofweb.com/6526?format=jpg)](https://design.withfudge.com/share/pin-6526)
+
+[Essay mid — body and related](https://design.withfudge.com/share/pin-6526)
+
+[![Essay — alternate tall crop](https://pin.fontofweb.com/6525?format=jpg)](https://design.withfudge.com/share/pin-6525)
+
+[Essay — alternate tall crop](https://design.withfudge.com/share/pin-6525)
+
+[![Essay — compact header band](https://pin.fontofweb.com/6523?format=jpg)](https://design.withfudge.com/share/pin-6523)
+
+[Essay — compact header band](https://design.withfudge.com/share/pin-6523)
+
+## Colors
+
+- `#930b51`
+- `#000000`
+- `#333333`
+- `#ffffff`

@@ -1,228 +1,116 @@
 # How bland.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/bland.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/bland.ai-design)
 
-Source domain: [bland.ai](https://bland.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-16
+## Design character
 
-<!--
-coverPin: 9670
--->
+Bland’s marketing site is high-clarity enterprise SaaS: pure white fields, heavy black display headlines, thin navigation, and a single warm **amber/gold** action color for primary buttons (“Book a demo”, “Request a demo”). Trust is signaled with green checks and sober body copy, not playful illustration noise. Pricing and demo flows reuse the same light card language.
 
-Here is the visual system observed across **6 captured pages** from [bland.ai](https://bland.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#151515",
-  "#ffffff",
-  "#f6f6f1",
-  "#e5e4dc",
-  "#d8441f",
-  "#000000",
-  "#f9a900",
-  "#0f6435",
-  "#1f3a6f",
-  "#1a1a1a",
-  "#4b4b4a",
-  "#fcfcfc",
-  "#b2b4b2",
-  "#1f1f1f",
-  "#868986",
-  "#454544"
-]
-```
+- **White canvas + near-black type** (`#151515`)
+- **Amber/gold solid CTAs** as the only loud color
+- **Green** reserved for success/trust marks (`#0f6435` family)
+- **Card forms and pricing tiles** with 1px borders and small radii
+- **Huge display claims** (48–64px) with short supporting lines
 
-```fudge-font-usage
-{
-  "title": "Typography captured from bland.ai",
-  "sampleText": "bland.ai",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9670,
-      "domain": "bland.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 46
-    },
-    {
-      "family": "Söhne",
-      "familyId": 2237,
-      "pinId": 9670,
-      "domain": "bland.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "-0.32px",
-      "frequency": 2835
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 53 |
-| Spacing values | 310 |
-| Borders and radii | 29 |
-| Shadows | 0 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9670,
-      "title": "Pricing | Bland AI",
-      "domain": "bland.ai/pricing",
-      "pageUrl": "bland.ai/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9670?format=jpg",
-      "colors": [
-        "#4b4b4a",
-        "#fcfcfc",
-        "#ffffff",
-        "#0f6435",
-        "#b2b4b2",
-        "#000000",
-        "#151515",
-        "#1f1f1f"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9669,
-      "title": "Pricing | Bland AI",
-      "domain": "bland.ai/pricing",
-      "pageUrl": "bland.ai/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9669?format=jpg",
-      "colors": [
-        "#454544",
-        "#000000",
-        "#0f6435",
-        "#d74a29",
-        "#191919",
-        "#151515",
-        "#f6f6f1",
-        "#b8b8b5"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9668,
-      "title": "Book a demo | Bland AI",
-      "domain": "bland.ai/book-a-demo",
-      "pageUrl": "bland.ai/book-a-demo",
-      "imageUrl": "https://pin.fontofweb.com/9668?format=jpg",
-      "colors": [
-        "#d8441f",
-        "#949594",
-        "#000000",
-        "#f6aa19",
-        "#ffffff",
-        "#fefefe",
-        "#5b5c5b",
-        "#604418"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9667,
-      "title": "Bland | Enterprise Voice AI Platform for Phone Agents",
-      "domain": "bland.ai/",
-      "pageUrl": "bland.ai/",
-      "imageUrl": "https://pin.fontofweb.com/9667?format=jpg",
-      "colors": [
-        "#31371c",
-        "#754c31",
-        "#f8f8f4",
-        "#95928e",
-        "#4c2f18",
-        "#d8441f",
-        "#201e1a",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9666,
-      "title": "Bland | Enterprise Voice AI Platform for Phone Agents",
-      "domain": "bland.ai/",
-      "pageUrl": "bland.ai/",
-      "imageUrl": "https://pin.fontofweb.com/9666?format=jpg",
-      "colors": [
-        "#414141",
-        "#fdfdfd",
-        "#000000",
-        "#ababab",
-        "#1a1a1a",
-        "#d5664b",
-        "#838383",
-        "#646464"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 9665,
-      "title": "Bland | Enterprise Voice AI Platform for Phone Agents",
-      "domain": "bland.ai/",
-      "pageUrl": "bland.ai/",
-      "imageUrl": "https://pin.fontofweb.com/9665?format=jpg",
-      "colors": [
-        "#151515",
-        "#f3f0ed",
-        "#d84623",
-        "#7a442c",
-        "#d8441f",
-        "#878885",
-        "#c9915e",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Söhne"
-      ]
-    }
-  ]
-}
-```
+| Role | Hex | Use |
+|------|-----|-----|
+| Text primary | `#151515` | Headlines, body ink |
+| Accent (warm) | `#d8441f` (role) / amber-gold buttons (visual) | Emphasis; primary buttons read as saturated gold/amber |
+| Trust / secondary | `#0f6435` | Checks, positive meta |
+| Surfaces | `#ffffff` | Cards, page |
+| Promo bar | solid orange-red strip (visual) | Announcement banner |
 
-## Representative captures
-[![Pricing | Bland AI](https://pin.fontofweb.com/9670?format=jpg)](https://design.withfudge.com/pin/9670)
-[Pricing | Bland AI](https://design.withfudge.com/pin/9670) — [source page](https://bland.ai/pricing)
+Keep chroma limited: black/white + one warm CTA + green for positivity.
 
-[![Pricing | Bland AI](https://pin.fontofweb.com/9669?format=jpg)](https://design.withfudge.com/pin/9669)
-[Pricing | Bland AI](https://design.withfudge.com/pin/9669) — [source page](https://bland.ai/pricing)
+### Typography
 
-[![Book a demo | Bland AI](https://pin.fontofweb.com/9668?format=jpg)](https://design.withfudge.com/pin/9668)
-[Book a demo | Bland AI](https://design.withfudge.com/pin/9668) — [source page](https://bland.ai/book-a-demo)
+- **Display**: 64px weight 600, lh 64 (hero); also 48px weight 300 for alternate large lines
+- **Section heads**: 32px/35px weight 600; 24px weight 600
+- **Body**: 16px / 22.4px regular (dominant)
+- **UI / meta**: 14px regular or medium / 21px; micro labels 11px medium
+- **Lead**: 20px / 29–30px
 
-[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9667?format=jpg)](https://design.withfudge.com/pin/9667)
-[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9667) — [source page](https://bland.ai/)
+Tone is modern grotesque, slightly tight on large heads, highly legible in forms.
 
-[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9666?format=jpg)](https://design.withfudge.com/pin/9666)
-[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9666) — [source page](https://bland.ai/)
+### Spacing and layout
 
-[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9665?format=jpg)](https://design.withfudge.com/pin/9665)
-[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9665) — [source page](https://bland.ai/)
+- Large horizontal page padding (**80px**) and side margins (~388px on wide centered columns)
+- Section padding often **96–120px** top and **48–80px** bottom
+- Form pages: split layout — bold left headline + checklist, right bordered card form
+- Pricing: card-heavy, moderate density
+
+### Radii and borders
+
+- Radii mostly **6px** (sometimes 4px); pill radii appear rarely
+- 1px solid borders define cards and inputs
+- Shadows largely unused — separation is border + spacing
+
+## Visual language
+
+- Light mode, flat surfaces, border-separated cards
+- Minimal illustration; product truth via copy, logos, and UI forms
+- Announcement bar as a full-width warm strip above the nav
+
+## Components and states
+
+1. **Announcement bar** + **marketing nav** (text links, ghost “Try for free”, solid gold “Book a demo”)
+2. **Hero** with massive headline
+3. **Logo wall** / social proof
+4. **Demo form card** — labeled fields, radio groups, checkbox groups, full-width gold submit
+5. **Pricing cards** and comparison modules
+6. **Trust checklist** with green ticks
+
+## Responsive behavior
+
+Viewports from ~**1207–2048px** across `/`, `/pricing`, `/book-a-demo`. Wide pages keep split hero/form layouts; narrower widths should stack the form under the pitch while keeping 16px body and amber CTA semantics.
+
+## Practical guidance
+
+**Preserve**: white field, black display type, amber primary buttons, green trust only, bordered cards, large section padding.
+
+**Avoid**: dark cyberpunk voice-AI clichés, purple gradients, icon salad, shadow-heavy glass cards, or multi-accent rainbow buttons.
+
+## Scope note
+
+Six captures across home, pricing, and book-a-demo. Color roles and spacing metrics were strong; declared font families were not present.
+
+## Captured pages
+
+[![Home — enterprise voice AI hero](https://pin.fontofweb.com/9665?format=jpg)](https://design.withfudge.com/share/pin-9665)
+
+[Home — enterprise voice AI hero](https://design.withfudge.com/share/pin-9665)
+
+[![Home — narrower marketing viewport](https://pin.fontofweb.com/9667?format=jpg)](https://design.withfudge.com/share/pin-9667)
+
+[Home — narrower marketing viewport](https://design.withfudge.com/share/pin-9667)
+
+[![Pricing](https://pin.fontofweb.com/9670?format=jpg)](https://design.withfudge.com/share/pin-9670)
+
+[Pricing](https://design.withfudge.com/share/pin-9670)
+
+[![Pricing — wide](https://pin.fontofweb.com/9669?format=jpg)](https://design.withfudge.com/share/pin-9669)
+
+[Pricing — wide](https://design.withfudge.com/share/pin-9669)
+
+[![Book a demo — split form](https://pin.fontofweb.com/9668?format=jpg)](https://design.withfudge.com/share/pin-9668)
+
+[Book a demo — split form](https://design.withfudge.com/share/pin-9668)
+
+[![Home — short viewport](https://pin.fontofweb.com/9666?format=jpg)](https://design.withfudge.com/share/pin-9666)
+
+[Home — short viewport](https://design.withfudge.com/share/pin-9666)
+
+## Colors
+
+- `#151515`
+- `#ffffff`
+- `#d8441f`
+- `#0f6435`

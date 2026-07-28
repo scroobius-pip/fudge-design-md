@@ -1,131 +1,104 @@
 # How clubhouse.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/clubhouse.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/clubhouse.com-design)
 
-Source domain: [clubhouse.com](https://clubhouse.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-01
+## Design character
 
-<!--
-coverPin: 7585
--->
+Clubhouse’s site is a **single bold poster**: saturated yellow ground, heavy black sans headline, white pill buttons, and circular portrait stickers scattered like a live room. There is almost no traditional website chrome—energy comes from color field + people, not from grids of features.
 
-Here is the visual system observed across **2 captured pages** from [clubhouse.com](https://clubhouse.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#242420",
-  "#1f2022",
-  "#ffe450",
-  "#ffffff",
-  "#dea08f",
-  "#c9bdad",
-  "#c4b463",
-  "#262520",
-  "#b07352",
-  "#f5f1f1",
-  "#5c4321",
-  "#919eb4",
-  "#ffe44f",
-  "#766e64",
-  "#fee351"
-]
-```
+- **Full-bleed yellow** as the brand surface  
+- **Bold black display** centered  
+- **White pill CTAs** (and black outline pills for secondary)  
+- **Circular avatars** as the only necessary imagery system  
+- Extreme minimal nav
 
-```fudge-font-usage
-{
-  "title": "Typography captured from clubhouse.com",
-  "sampleText": "clubhouse.com",
-  "fonts": [
-    {
-      "family": "Nunito",
-      "familyId": 990,
-      "pinId": 7585,
-      "domain": "clubhouse.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1097
-    },
-    {
-      "family": "Gt Maru",
-      "familyId": 2288,
-      "pinId": 7585,
-      "domain": "clubhouse.com",
-      "weight": "700",
-      "size": "72px",
-      "lineHeight": "79.2px",
-      "letterSpacing": "-6.48px",
-      "frequency": 32
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 22 |
-| Spacing values | 9 |
-| Borders and radii | 4 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7585,
-      "title": "Clubhouse",
-      "domain": "clubhouse.com/",
-      "pageUrl": "clubhouse.com/",
-      "imageUrl": "https://pin.fontofweb.com/7585?format=jpg",
-      "colors": [
-        "#dea08f",
-        "#c9bdad",
-        "#c4b463",
-        "#242420",
-        "#262520",
-        "#b07352",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Nunito",
-        "Gt Maru"
-      ]
-    },
-    {
-      "pinId": 7584,
-      "title": "Clubhouse",
-      "domain": "clubhouse.com/",
-      "pageUrl": "clubhouse.com/",
-      "imageUrl": "https://pin.fontofweb.com/7584?format=jpg",
-      "colors": [
-        "#fee351",
-        "#babab3",
-        "#878681",
-        "#000000",
-        "#242420",
-        "#fbf8ef",
-        "#686762",
-        "#1f2022"
-      ],
-      "fonts": [
-        "Nunito"
-      ]
-    }
-  ]
-}
-```
+| Use | Value |
+|-----|-------|
+| Canvas | vivid yellow ~`#ffe500` |
+| Text | `#000000` |
+| Primary button fill | `#ffffff` with black label |
+| Secondary button | transparent + black stroke |
+| Avatar rings | natural photo content on circles |
 
-## Representative captures
-[![Clubhouse](https://pin.fontofweb.com/7585?format=jpg)](https://design.withfudge.com/pin/7585)
-[Clubhouse](https://design.withfudge.com/pin/7585) — [source page](https://clubhouse.com/)
+No gradients required in chrome.
 
-[![Clubhouse](https://pin.fontofweb.com/7584?format=jpg)](https://design.withfudge.com/pin/7584)
-[Clubhouse](https://design.withfudge.com/pin/7584) — [source page](https://clubhouse.com/)
+### Typography
+
+- Hero ~**72px**, weight **700**, lh ~79 — short lowercase-friendly line  
+- UI/nav ~**12–17px**, weights 600–800  
+- Body sparse; this page is not long-form  
+
+Family not declared; heavy geometric/grotesk sans.
+
+### Spacing and layout
+
+- Header pads ~**8×24px** on outline CTA; **40px** side margins in places  
+- Vertical margins **12–16px** around CTA/avatar clusters  
+- Layout is free-form composition on a stage, not a 12-column marketing grid  
+- Footer links sit quietly on the yellow field
+
+## Visual language
+
+- **Fully pill radii (9999)** on CTAs  
+- Avatars: perfect circles, sometimes soft color backplates  
+- Hand logo mark in black line  
+- No shadows needed; yellow field flattens the scene  
+- 2px strokes on outline buttons (measured border width 2)
+
+## Components and states
+
+1. **Stage hero** — headline + primary pill + floating avatars  
+2. **Header** — logo, text link (jobs), outline “get clubhouse”  
+3. **Avatar stickers** — circular photos at varied scales  
+4. **Footer legal/social** — simple text links  
+
+Default only; no app room UI in this set.
+
+## Responsive behavior
+
+Both captures 1712px. Composition is art-directed for wide desktop; small screens would need reflow of avatar clusters (not observed).
+
+## Practical guidance
+
+**Preserve**
+
+- Yellow field + bold type + white pills + circles  
+- Poster-like emptiness  
+- Minimal feature copy  
+
+**Avoid**
+
+- Turning it into a standard 3-column SaaS landing  
+- Diluting yellow into pale cream  
+- Squared cards and heavy shadows  
+- Multi-accent rainbow UI  
+
+## Scope note
+
+Two home captures only. Strong visual system from screenshots; limited measured tokens beyond spacing/borders/radii. Product audio rooms and profiles not included.
+
+## Captured pages
+
+[![Home — yellow voice stage](https://pin.fontofweb.com/7584?format=jpg)](https://design.withfudge.com/share/pin-7584)
+
+[Home — yellow voice stage](https://design.withfudge.com/share/pin-7584)
+
+[![Home — avatar constellation](https://pin.fontofweb.com/7585?format=jpg)](https://design.withfudge.com/share/pin-7585)
+
+[Home — avatar constellation](https://design.withfudge.com/share/pin-7585)
+
+## Colors
+
+- `#ffe500`
+- `#000000`
+- `#ffffff`
+- `#111111`
+- `#fff3a0`

@@ -1,319 +1,187 @@
 # How behance.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/behance.net-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/behance.net-design)
 
-Source domain: [behance.net](https://behance.net)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-26
+## Design character
 
-<!--
-coverPin: 7320
--->
+Behance is a **creative portfolio network** built as a dense discovery grid first, marketing stage second. On Explore, the chrome is deliberately quiet—white canvas, charcoal type, one electric blue CTA—so project covers can be loud. On Pro, the product flips: full-bleed dark hero with a soft spectrum wash, oversized white display type, then pale product sections with soft white cards. The system’s personality is **gallery-native Adobe polish**: thin utility chrome, pill controls, rounded media tiles, and a single blue that marks “primary action” everywhere from Start Free Trial to For You chips to Got it.
 
-Here is the visual system observed across **10 captured pages** from [behance.net](https://behance.net).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#191919",
-  "#ffffff",
-  "#0057ff",
-  "#dee8ff",
-  "#e0eaff",
-  "#b125c0",
-  "#028901",
-  "#e8e8e8",
-  "#696969",
-  "#707070",
-  "#fefefe",
-  "#438faf",
-  "#9d7655",
-  "#0a090a",
-  "#030d40"
-]
-```
+- **Work-first masonry/grid** where project covers carry color and emotion; chrome stays near-neutral.
+- **One saturated blue accent** (`#0057ff`) for primary CTAs, active chips, and key links—not a rainbow of brand colors in the UI shell.
+- **Pill language** across search, filters, category chips, and buttons (small radius on chips, full pill on primary actions).
+- **Dual mood**: bright dense feed vs. cinematic Pro hero with soft multicolor glow behind centered type.
+- **Metadata under cards**—avatar, owner, appreciations, views—in small gray type that never competes with the cover.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from behance.net",
-  "sampleText": "behance.net",
-  "fonts": [
-    {
-      "family": "Acumin Vf",
-      "familyId": 1698,
-      "pinId": 7320,
-      "domain": "behance.net",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "15.6px",
-      "letterSpacing": "normal",
-      "frequency": 57
-    },
-    {
-      "family": "Acuminprowide",
-      "familyId": 2243,
-      "pinId": 7319,
-      "domain": "behance.net",
-      "weight": "600",
-      "size": "60px",
-      "lineHeight": "60px",
-      "letterSpacing": "-1.8px",
-      "frequency": 98
-    },
-    {
-      "family": "Acuminpro",
-      "familyId": 216,
-      "pinId": 7317,
-      "domain": "behance.net",
-      "weight": "600",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 10 |
-| Colors | 102 |
-| Spacing values | 101 |
-| Borders and radii | 26 |
-| Shadows | 5 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7320,
-      "title": "For You :: Behance",
-      "domain": "behance.net/",
-      "pageUrl": "behance.net/",
-      "imageUrl": "https://pin.fontofweb.com/7320?format=jpg",
-      "colors": [
-        "#438faf",
-        "#9d7655",
-        "#0a090a",
-        "#000000",
-        "#030d40",
-        "#2058e0",
-        "#0057ff",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Acumin Vf"
-      ]
-    },
-    {
-      "pinId": 7319,
-      "title": "Accelerate Your Creative Career | Behance Pro :: Behance",
-      "domain": "behance.net/pro",
-      "pageUrl": "behance.net/pro",
-      "imageUrl": "https://pin.fontofweb.com/7319?format=jpg",
-      "colors": [
-        "#747373",
-        "#000000",
-        "#5686e9",
-        "#191919",
-        "#232323",
-        "#fefefe",
-        "#545353",
-        "#e8e8e8"
-      ],
-      "fonts": [
-        "Acumin Vf",
-        "Acuminprowide"
-      ]
-    },
-    {
-      "pinId": 7318,
-      "title": "Accelerate Your Creative Career | Behance Pro :: Behance",
-      "domain": "behance.net/pro",
-      "pageUrl": "behance.net/pro",
-      "imageUrl": "https://pin.fontofweb.com/7318?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#5d5d5d",
-        "#1859ea",
-        "#000000",
-        "#878787",
-        "#dee8ff",
-        "#191919",
-        "#b6b6b6"
-      ],
-      "fonts": [
-        "Acumin Vf",
-        "Acuminprowide"
-      ]
-    },
-    {
-      "pinId": 7317,
-      "title": "Accelerate Your Creative Career | Behance Pro :: Behance",
-      "domain": "behance.net/pro",
-      "pageUrl": "behance.net/pro",
-      "imageUrl": "https://pin.fontofweb.com/7317?format=jpg",
-      "colors": [
-        "#3284de",
-        "#000000",
-        "#ffffff",
-        "#d55f2b",
-        "#f8fcf8",
-        "#2c9dc6",
-        "#1a1715",
-        "#028901"
-      ],
-      "fonts": [
-        "Acumin Vf",
-        "Acuminpro"
-      ]
-    },
-    {
-      "pinId": 7316,
-      "title": "Accelerate Your Creative Career | Behance Pro :: Behance",
-      "domain": "behance.net/pro",
-      "pageUrl": "behance.net/pro",
-      "imageUrl": "https://pin.fontofweb.com/7316?format=jpg",
-      "colors": [
-        "#fbbb17",
-        "#000000",
-        "#b0a9ad",
-        "#4b77ef",
-        "#3c545a",
-        "#ef6943",
-        "#191919",
-        "#0057ff"
-      ],
-      "fonts": [
-        "Acuminprowide",
-        "Acuminpro"
-      ]
-    },
-    {
-      "pinId": 7315,
-      "title": "Accelerate Your Creative Career | Behance Pro :: Behance",
-      "domain": "behance.net/pro",
-      "pageUrl": "behance.net/pro",
-      "imageUrl": "https://pin.fontofweb.com/7315?format=jpg",
-      "colors": [
-        "#0a0c0c",
-        "#191919",
-        "#b125c0",
-        "#15205e",
-        "#691e15",
-        "#ffffff",
-        "#bf679d",
-        "#fbfbfd"
-      ],
-      "fonts": [
-        "Acuminpro",
-        "Acuminprowide"
-      ]
-    },
-    {
-      "pinId": 7311,
-      "title": "For You :: Behance",
-      "domain": "behance.net/",
-      "pageUrl": "behance.net/",
-      "imageUrl": "https://pin.fontofweb.com/7311?format=jpg",
-      "colors": [
-        "#4a7cc1",
-        "#3f3e3f",
-        "#88817d",
-        "#da634d",
-        "#696969",
-        "#000000",
-        "#707070",
-        "#1851d7"
-      ],
-      "fonts": [
-        "Acuminpro",
-        "Acuminprowide"
-      ]
-    },
-    {
-      "pinId": 5277,
-      "title": "Pricing List | Practice Work 01 :: Behance",
-      "domain": "behance.net/gallery/238894041/Pricing-List-Practice-Work-01",
-      "pageUrl": "behance.net/gallery/238894041/Pricing-List-Practice-Work-01",
-      "imageUrl": "https://pin.fontofweb.com/5277?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#abadb0",
-        "#2188f4",
-        "#0a65fa",
-        "#242424",
-        "#636161",
-        "#f9b947",
-        "#feb5de"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5276,
-      "title": "Gradient Pricing Page Projects :: Photos, videos, logos, illustrations and branding :: Behance",
-      "domain": "behance.net/search/projects/gradient%20pricing%20page",
-      "pageUrl": "behance.net/search/projects/gradient%20pricing%20page",
-      "imageUrl": "https://pin.fontofweb.com/5276?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#791d17",
-        "#221a1b",
-        "#aab2b5",
-        "#63615c",
-        "#304b86",
-        "#c38369",
-        "#7e4ad1"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5275,
-      "title": "Showcase, Discover, and Hire Creatives :: Behance",
-      "domain": "behance.net/",
-      "pageUrl": "behance.net/",
-      "imageUrl": "https://pin.fontofweb.com/5275?format=jpg",
-      "colors": [
-        "#fafbfe",
-        "#0c0f11",
-        "#cac9d4",
-        "#2a302e",
-        "#95989a",
-        "#e3c9b4",
-        "#4e5d60",
-        "#dc714b"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Measured values from the product surfaces:
 
-## Representative captures
-[![For You :: Behance](https://pin.fontofweb.com/7320?format=jpg)](https://design.withfudge.com/pin/7320)
-[For You :: Behance](https://design.withfudge.com/pin/7320) — [source page](https://behance.net/)
+| Hex | Role in the system |
+| --- | --- |
+| `#0057ff` | Primary accent — Start Free Trial, active For You chip, solid primary buttons, key text links |
+| `#ffffff` | Canvas and card surfaces; inverted type on dark Pro hero; outlined secondary buttons |
+| `#191919` | Primary text and strong headings on light surfaces; near-black solid CTAs on marketing sections |
+| `#707070` / `#696969` | Secondary / meta text (owner labels, footer, supporting copy) |
 
-[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7319?format=jpg)](https://design.withfudge.com/pin/7319)
-[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7319) — [source page](https://behance.net/pro)
+**Relationships that matter**
 
-[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7318?format=jpg)](https://design.withfudge.com/pin/7318)
-[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7318) — [source page](https://behance.net/pro)
+- Feed and chrome live on pure white with near-black type; blue is the only loud UI color in the shell.
+- Category chips are dark translucent tiles with cover art bleeding through; the selected chip flips to solid blue with white label.
+- Pro hero inverts: black field, white display type, white primary pill + ghost outline secondary; spectrum blues/cyans/oranges/purples appear only as **background art**, not as UI tokens.
+- Benefit cards keep white surfaces on a pale cool page; icon tints (blue / green / purple) are section accents, not a second brand system.
+- PRO badges on avatars use the same electric blue family as primary CTAs.
 
-[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7317?format=jpg)](https://design.withfudge.com/pin/7317)
-[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7317) — [source page](https://behance.net/pro)
+Do not invent extra brand greens or oranges for chrome—those hues belong inside project covers and Pro hero art.
 
-[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7316?format=jpg)](https://design.withfudge.com/pin/7316)
-[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7316) — [source page](https://behance.net/pro)
+### Typography
 
-[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7315?format=jpg)](https://design.withfudge.com/pin/7315)
-[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7315) — [source page](https://behance.net/pro)
+No durable family name was declared in capture. Visually the stack is a clean **neo-grotesque UI sans**: geometric, slightly tight tracking on large sizes, excellent at dense meta labels.
 
-[![For You :: Behance](https://pin.fontofweb.com/7311?format=jpg)](https://design.withfudge.com/pin/7311)
-[For You :: Behance](https://design.withfudge.com/pin/7311) — [source page](https://behance.net/)
+Observed hierarchy (approximate sizes from product surfaces):
 
-[![Pricing List | Practice Work 01 :: Behance](https://pin.fontofweb.com/5277?format=jpg)](https://design.withfudge.com/pin/5277)
-[Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/pin/5277) — [source page](https://behance.net/gallery/238894041/Pricing-List-Practice-Work-01)
+| Role | Size / weight | Notes |
+| --- | --- | --- |
+| Pro display | ~60px / 600, tracking ~−1.8 | Centered hero; tight leading (≈1.0) |
+| Section title | ~35px / 600 (tablet) · large black headings on light | “Why upgrade to Pro?”, job pitch headlines |
+| Marketing body | ~18–20px / 400, slight negative tracking | Hero subcopy, benefit descriptions |
+| Card title | ~14–16px / 600 | Benefit card titles, dense UI emphasis |
+| UI / nav | ~12–14px / 400–600 | Top nav, chips, search, meta under projects |
+| Micro meta | ~12px / 400, lh ≈ 15.6 | Appreciations, views, footer |
+
+Practical rules:
+
+- **Display is bold and tight**; body is regular with comfortable ~1.4 line-height.
+- Feed type stays small so five-up covers dominate; marketing type jumps an order of magnitude.
+- Avoid decorative serifs or display faces in chrome—the portfolio imagery is the expression layer.
+
+### Spacing and layout
+
+Recurring measurements:
+
+- Horizontal page padding / section inset often **~28–40px**; some Pro content blocks show large side margins (~279px) that read as a **narrow centered column** on wide desktops.
+- Card internal padding clusters around **30px** (and tighter **7px** on dense controls).
+- Vertical rhythm under marketing blocks: **~20px** between stacked elements; large section gaps **~112–128px** on Pro storytelling.
+- Explore is a **multi-column project grid** (about five tiles wide at ~1700px) with thin gutters; covers are nearly square-to-landscape media with metadata directly beneath—not inside a heavy frame.
+- Sticky dual bars: primary nav, then filter/search/chip row—both full-bleed white with hairline separation.
+
+Density: **dense on Explore**, **moderate on Pro** landing sections. Do not stretch feed cards into large editorial gaps; discovery thrives on many simultaneous covers.
+
+## Visual language
+
+**Corners**
+
+- ~**6px** on small controls and some chips.
+- ~**14–20px** on project tiles, feature cards, and search fields (soft modern cards).
+- **Fully pill** (`border-radius: 100px`-class) on primary CTAs, avatar PRO badges, and selected filter pills.
+
+**Borders & elevation**
+
+- 1px solid hairlines define outlined buttons, search field, filter capsule, and card edges.
+- Soft shadow appears sparingly (`0 1px 15px`) under elevated marketing cards—not under every feed tile. Covers mostly sit flat on white; elevation is for product UI mockups and feature cards.
+
+**Imagery**
+
+- Explore: user project photography, packaging, type specimens, UI mockups—full-bleed inside rounded tiles; optional corner badges (FOLLOWING, NEW, price).
+- Pro hero: abstract spectrum glow (blue→cyan→orange→magenta) behind type; treated as art direction, not a reusable gradient token for buttons.
+- In-feed promo tile (“Do more with Behance Pro”) matches grid geometry but uses gradient + white pill CTA—chrome stays product-blue, promo may borrow spectrum.
+
+**Motion**
+
+Still captures only—no motion tokens. Preserve a calm, instant-click feel rather than theatrical page transitions in chrome.
+
+## Components
+
+**Top navigation**  
+Wordmark left; text links (Explore underlined when active); Hire dropdown; right cluster: blue **Start Free Trial** pill, white **Share Work** outline pill, icon buttons (messages, notifications), circular avatar, Adobe mark. On Pro the search field moves into the header as a dark translucent capsule.
+
+**Filter / search row**  
+Pill **Filter** control, elongated search field with leading magnifier, segmented pills (Projects / People / Assets / Images), sort dropdown. Soft gray fills, 1px borders, white page.
+
+**Category chip rail**  
+Horizontal scroller of rounded tiles: active = solid blue + white label + icon; inactive = darkened cover thumbnails with white labels. Chevron affordance for overflow.
+
+**Project card**  
+Rounded media; optional top-right status pill; below: owner avatar + name (or Multiple Owners), optional blue PRO badge, appreciation and view counts in gray with simple icons. No heavy drop shadow required.
+
+**Primary / secondary buttons**  
+- Primary filled: `#0057ff` or near-black `#191919` depending on context (header trial vs. in-section trial).  
+- Secondary: white fill, 1px border, dark label—or ghost white outline on dark hero.  
+- Both fully pill-shaped with comfortable horizontal padding.
+
+**Feature / benefit cards**  
+White rounded rectangles (~20px), light border or soft shadow, centered tinted icon in a rounded square, bold title, gray body, colored “Learn More” text link matching the icon hue.
+
+**Split product panels (Pro)**  
+Left: gradient stage with floating UI mockups and play affordance; right: white copy column. Large corner radius, generous internal padding.
+
+**Modal (gallery / comments)**  
+Centered white card, simple X dismiss, playful illustration, bold section heads, gray body, single blue **Got it** pill—same accent grammar as the rest of the product.
+
+## Responsive behavior
+
+Captures span ~518px (gallery modal), ~992px (Pro mid), and ~1646–1712px (desktop feed/Pro).
+
+- Desktop Explore: multi-column grid + dual sticky toolbars + horizontal chip rail.
+- Mid widths: Pro display type steps down (~35px class headings); benefit cards stack or reduce columns; side margins compress.
+- Narrow gallery context: modal-first utility UI, single column, large touch-friendly primary pill.
+- Keep the **blue pill CTA** reachable in the header at all widths; collapse secondary nav before sacrificing trial.
+
+## Practical guidance
+
+**Preserve**
+
+1. One electric blue for primary actions; neutrals for everything else in chrome.
+2. Work-first grid density—many covers, small meta type.
+3. Pill CTAs + soft 14–20px cards + 6px micro controls.
+4. Dark cinematic Pro hero as a mood shift, not a second product theme applied to Explore.
+5. Clear hierarchy: display → section title → body → 12px meta.
+6. Outline secondary beside filled primary (never two competing filled hues).
+
+**Avoid**
+
+1. Coloring the entire nav or chip rail in brand gradients.
+2. Heavy shadows under every project tile.
+3. Oversized body type in the feed that pushes covers off-screen.
+4. Declaring custom display fonts for UI chrome without a real licence path—keep chrome system/UI sans.
+5. Mixing black filled CTAs and blue filled CTAs in the same tight cluster without a clear primary.
+6. Turning category chips into flat gray tags—the darkened art-backed chip is part of the brand.
+
+## Scope note
+
+Drawn from Behance Explore home (desktop feed + header), Behance Pro marketing (desktop and mid-width sections including jobs/pricing storytelling), and a project gallery comment-guidelines modal. Font family names and licences were not declared; treat type as an unnamed UI sans. Color list is limited to measured neutrals plus `#0057ff`. Spectrum hues in the Pro hero are art direction inside imagery, not chrome tokens.
+
+## Captured pages
+
+[![Explore — For You feed](https://pin.fontofweb.com/7311?format=jpg)](https://design.withfudge.com/share/pin-7311)
+
+[Explore — For You feed](https://design.withfudge.com/share/pin-7311)
+
+[![Explore — header & chips](https://pin.fontofweb.com/7320?format=jpg)](https://design.withfudge.com/share/pin-7320)
+
+[Explore — header & chips](https://design.withfudge.com/share/pin-7320)
+
+[![Behance Pro — hero & benefits](https://pin.fontofweb.com/7315?format=jpg)](https://design.withfudge.com/share/pin-7315)
+
+[Behance Pro — hero & benefits](https://design.withfudge.com/share/pin-7315)
+
+[![Behance Pro — jobs storytelling](https://pin.fontofweb.com/7317?format=jpg)](https://design.withfudge.com/share/pin-7317)
+
+[Behance Pro — jobs storytelling](https://design.withfudge.com/share/pin-7317)
+
+[![Gallery — comment guidelines](https://pin.fontofweb.com/5277?format=jpg)](https://design.withfudge.com/share/pin-5277)
+
+[Gallery — comment guidelines](https://design.withfudge.com/share/pin-5277)
+
+## Colors
+
+- `#0057ff`
+- `#ffffff`
+- `#191919`
+- `#707070`
+- `#696969`

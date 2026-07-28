@@ -1,303 +1,111 @@
 # How grokipedia.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/grokipedia.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/grokipedia.com-design)
 
-Source domain: [grokipedia.com](https://grokipedia.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-17
+## Design character
 
-<!--
-coverPin: 9678
--->
+Grokipedia is a **dark encyclopedia**: near-black reading canvas, high-contrast article titles, blue inline links, and amber/brown inline code chips. It borrows Wikipedia’s information hierarchy (TOC rail, H1, long body, subsections) but skins it as a modern Grok-adjacent product with a centered top search pill and quiet utility chips.
 
-Here is the visual system observed across **9 captured pages** from [grokipedia.com](https://grokipedia.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#fcfcfc",
-  "#141414",
-  "#000000",
-  "#1f1f1f",
-  "#858585",
-  "#bfdbfe",
-  "#9e9e9e",
-  "#242424",
-  "#ffffff",
-  "#3b82f6",
-  "#ff6e14",
-  "#151515",
-  "#4c4c4c",
-  "#432919",
-  "#4a4a4b",
-  "#422716"
-]
-```
+- **Near-black article canvas** with white body text
+- **Blue link color** (`#BFDBFE` family accents measured)
+- **Amber inline code chips** on dark
+- **Left TOC rail** in muted gray
+- **Centered top search pill** + right utilities
+- Calm long-form reading measure—not a dashboard grid
 
-```fudge-font-usage
-{
-  "title": "Typography captured from grokipedia.com",
-  "sampleText": "grokipedia.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9678,
-      "domain": "grokipedia.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 52
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9678,
-      "domain": "grokipedia.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 2968
-    },
-    {
-      "family": "Georgia",
-      "familyId": 2177,
-      "pinId": 9343,
-      "domain": "grokipedia.com",
-      "weight": "600",
-      "size": "34px",
-      "lineHeight": "51px",
-      "letterSpacing": "-1px",
-      "frequency": 56
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 53 |
-| Spacing values | 356 |
-| Borders and radii | 35 |
-| Shadows | 5 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9678,
-      "title": "Search — Grokipedia",
-      "domain": "grokipedia.com/search",
-      "pageUrl": "grokipedia.com/search",
-      "imageUrl": "https://pin.fontofweb.com/9678?format=jpg",
-      "colors": [
-        "#4c4c4c",
-        "#858585",
-        "#1f1f1f",
-        "#000000",
-        "#fcfcfc",
-        "#9e9e9e",
-        "#b6b6b6",
-        "#e9e9e9"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9677,
-      "title": "Grokipedia",
-      "domain": "grokipedia.com/",
-      "pageUrl": "grokipedia.com/",
-      "imageUrl": "https://pin.fontofweb.com/9677?format=jpg",
-      "colors": [
-        "#7f7f7f",
-        "#1a1a1a",
-        "#fcfcfc",
-        "#141414",
-        "#1f1f1f",
-        "#858585",
-        "#616161",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9649,
-      "title": "Robert Kowalski — Grokipedia",
-      "domain": "grokipedia.com/page/Robert_Kowalski",
-      "pageUrl": "grokipedia.com/page/Robert_Kowalski",
-      "imageUrl": "https://pin.fontofweb.com/9649?format=jpg",
-      "colors": [
-        "#68686a",
-        "#151616",
-        "#b6b6b7",
-        "#141414",
-        "#432919",
-        "#000000",
-        "#9e9e9e",
-        "#bfdbfe"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9343,
-      "title": "Homoiconicity — Grokipedia",
-      "domain": "grokipedia.com/page/Homoiconicity",
-      "pageUrl": "grokipedia.com/page/Homoiconicity",
-      "imageUrl": "https://pin.fontofweb.com/9343?format=jpg",
-      "colors": [
-        "#4a4a4b",
-        "#1f1f1f",
-        "#ff6e14",
-        "#858585",
-        "#9e9e9e",
-        "#bfdbfe",
-        "#d9d9d9",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Georgia"
-      ]
-    },
-    {
-      "pinId": 9342,
-      "title": "Homoiconicity — Grokipedia",
-      "domain": "grokipedia.com/page/Homoiconicity",
-      "pageUrl": "grokipedia.com/page/Homoiconicity",
-      "imageUrl": "https://pin.fontofweb.com/9342?format=jpg",
-      "colors": [
-        "#ff6e14",
-        "#858585",
-        "#1f1f1f",
-        "#656c74",
-        "#373c43",
-        "#000000",
-        "#bfdbfe",
-        "#d9dbde"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Georgia"
-      ]
-    },
-    {
-      "pinId": 9341,
-      "title": "Homoiconicity — Grokipedia",
-      "domain": "grokipedia.com/page/Homoiconicity",
-      "pageUrl": "grokipedia.com/page/Homoiconicity",
-      "imageUrl": "https://pin.fontofweb.com/9341?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#422716",
-        "#141414",
-        "#858585",
-        "#1f1f1f",
-        "#000000",
-        "#4a4a4b",
-        "#cbcbcb"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Georgia"
-      ]
-    },
-    {
-      "pinId": 8828,
-      "title": "Quine (computing) — Grokipedia",
-      "domain": "grokipedia.com/page/Quine_(computing)",
-      "pageUrl": "grokipedia.com/page/Quine_(computing)",
-      "imageUrl": "https://pin.fontofweb.com/8828?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#7d7d7d",
-        "#ededed",
-        "#000000",
-        "#141414",
-        "#4c4c4c"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 8827,
-      "title": "Quine (computing) — Grokipedia",
-      "domain": "grokipedia.com/page/Quine_(computing)",
-      "pageUrl": "grokipedia.com/page/Quine_(computing)",
-      "imageUrl": "https://pin.fontofweb.com/8827?format=jpg",
-      "colors": [
-        "#bfdbfe",
-        "#1f1f1f",
-        "#d5d5d6",
-        "#9fa0a2",
-        "#9e9e9e",
-        "#151515",
-        "#4c4d4e",
-        "#757676"
-      ],
-      "fonts": [
-        "System",
-        "Georgia"
-      ]
-    },
-    {
-      "pinId": 5470,
-      "title": "Grokipedia",
-      "domain": "grokipedia.com/live",
-      "pageUrl": "grokipedia.com/live",
-      "imageUrl": "https://pin.fontofweb.com/5470?format=jpg",
-      "colors": [
-        "#141414",
-        "#ababab",
-        "#5c5c5c",
-        "#3e3f3e",
-        "#818181",
-        "#f0f0f0"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+| Role | Hex | Notes |
+| --- | --- | --- |
+| Canvas | `#0C0C0C`–`#111` | Page background |
+| Text primary | `#FCFCFC` | Titles and body |
+| Text secondary | `#858585`–`#9E9E9E` | TOC, meta |
+| Links / accent | `#BFDBFE` / lighter blue | Inline anchors |
+| Code chip fill | `#3A2A1A`–brown amber | `eval`, list literals |
+| Code chip text | light amber | On chip |
+| Search field | dark elevated | Top center pill |
+| Borders | hairline dark gray | Section rules |
 
-## Representative captures
-[![Search — Grokipedia](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/pin/9678)
-[Search — Grokipedia](https://design.withfudge.com/pin/9678) — [source page](https://grokipedia.com/search)
+### Typography
 
-[![Grokipedia](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/pin/9677)
-[Grokipedia](https://design.withfudge.com/pin/9677) — [source page](https://grokipedia.com/)
+| Use | Weight | Size / lh |
+| --- | --- | --- |
+| Article H1 | 400–500 | large display (~28–36 optical) |
+| Body | 400 | 16px / 24–29.6 |
+| H2 section | 400–500 | ~22–24px |
+| Meta / TOC | 400 | 14px |
+| UI chips | 400–500 | 12–14px |
 
-[![Robert Kowalski — Grokipedia](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/pin/9649)
-[Robert Kowalski — Grokipedia](https://design.withfudge.com/pin/9649) — [source page](https://grokipedia.com/page/Robert_Kowalski)
+Body is long-form; keep comfortable line length and 1.5-ish leading.
 
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/pin/9343)
-[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9343) — [source page](https://grokipedia.com/page/Homoiconicity)
+### Spacing and layout
 
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9342?format=jpg)](https://design.withfudge.com/pin/9342)
-[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9342) — [source page](https://grokipedia.com/page/Homoiconicity)
+- Content column with left sticky TOC
+- Article padding ~32px; bottom padding large (~128px)
+- Search centered in header; brand left; actions right
+- Radii: 8–12px cards/controls; pills for some chips; soft stacked shadows on elevated bits (`y:4 blur:6`, `y:10 blur:15`)
 
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9341?format=jpg)](https://design.withfudge.com/pin/9341)
-[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9341) — [source page](https://grokipedia.com/page/Homoiconicity)
+## Visual language
 
-[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8828?format=jpg)](https://design.withfudge.com/pin/8828)
-[Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8828) — [source page](https://grokipedia.com/page/Quine_(computing))
+- Editorial, not flashy
+- Inline code as rounded rect chips, not monospace-only bare text
+- Fact-check meta line under title with small icon
+- Section dividers are subtle horizontal rules
 
-[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8827?format=jpg)](https://design.withfudge.com/pin/8827)
-[Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8827) — [source page](https://grokipedia.com/page/Quine_(computing))
+## Components
+
+### Header
+Wordmark + version, center search, theme/suggest/edit utilities.
+
+### TOC
+Left list of section anchors in secondary gray.
+
+### Article body
+H1, paragraphs with blue links, amber code tokens, H2 blocks.
+
+### Search (home/search routes)
+Large empty field treatment consistent with dark Grok family.
+
+## Practical guidance
+
+**Do** protect long-form readability; keep blue for links only; use amber chips for code; preserve TOC + article split.
+
+**Don’t** turn articles into card masonry; neon the body; collapse hierarchy into undifferentiated gray text.
+
+## Scope note
+
+Eight captures across `/`, `/search`, and article pages (Homoiconicity, Quine, Kowalski). Measured text roles on article pins. No declared fonts. Desktop-focused.
+
+## Captured pages
+
+[![Article — Homoiconicity](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/share/pin-9343)
+
+[Article — Homoiconicity](https://design.withfudge.com/share/pin-9343)
+
+[![Search](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/share/pin-9678)
+
+[Search](https://design.withfudge.com/share/pin-9678)
+
+[![Home](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/share/pin-9677)
+
+[Home](https://design.withfudge.com/share/pin-9677)
+
+[![Article — Kowalski](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/share/pin-9649)
+
+[Article — Kowalski](https://design.withfudge.com/share/pin-9649)
+
+## Colors
+
+- `#0c0c0c`
+- `#fcfcfc`
+- `#bfdbfe`
+- `#858585`
+- `#9e9e9e`
+- `#1a1a1a`
+- `#ffffff`

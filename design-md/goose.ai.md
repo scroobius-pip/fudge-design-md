@@ -1,191 +1,116 @@
 # How goose.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/goose.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/goose.ai-design)
 
-Source domain: [goose.ai](https://goose.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-13
+## Design character
 
-<!--
-coverPin: 6494
--->
+GooseAI is a **deep-indigo developer marketing site** with a single joke told seriously: migration, geese, and API drop-in parity. The look is night-sky purple-navy, thin luminous line art, soft yellow display accents, and code samples as first-class UI. Sections breathe with large centered margins; content is a short stack of bold claims, outlined cards, and one peach solid CTA rather than a busy SaaS dashboard aesthetic.
 
-Here is the visual system observed across **4 captured pages** from [goose.ai](https://goose.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#ffffff",
-  "#000000",
-  "#281c59",
-  "#0b0224",
-  "#01001a",
-  "#83ff97",
-  "#fffa83",
-  "#ffc683",
-  "#c883ff",
-  "#83a5ff",
-  "#9991ff",
-  "#2f9e44",
-  "#34276a",
-  "#f9f9fa",
-  "#575267",
-  "#c1c0c7"
-]
-```
+- **Near-black indigo/navy canvas** with lavender line illustration
+- **Pale yellow display emphasis** on key phrases (“goosebumps”)
+- **Outlined cards** with 1–2px cool borders, not heavy fills
+- **One warm peach CTA** against cooler purple chrome
+- **Code block as product proof** (tabbed Python/JS, green diff highlight)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from goose.ai",
-  "sampleText": "goose.ai",
-  "fonts": [
-    {
-      "family": "Articulat Cf",
-      "familyId": 1562,
-      "pinId": 6494,
-      "domain": "goose.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24.8px",
-      "letterSpacing": "normal",
-      "frequency": 951
-    },
-    {
-      "family": "Karl",
-      "familyId": 2129,
-      "pinId": 6493,
-      "domain": "goose.ai",
-      "weight": "400",
-      "size": "26px",
-      "lineHeight": "35.1px",
-      "letterSpacing": "normal",
-      "frequency": 11
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 6492,
-      "domain": "goose.ai",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "18.6px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 41 |
-| Spacing values | 28 |
-| Borders and radii | 7 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6494,
-      "title": "GooseAI",
-      "domain": "goose.ai/",
-      "pageUrl": "goose.ai/",
-      "imageUrl": "https://pin.fontofweb.com/6494?format=jpg",
-      "colors": [
-        "#f9f9fa",
-        "#01001a",
-        "#575267",
-        "#c1c0c7",
-        "#ffffff",
-        "#281c59",
-        "#0b0224",
-        "#000000"
-      ],
-      "fonts": [
-        "Articulat Cf"
-      ]
-    },
-    {
-      "pinId": 6493,
-      "title": "GooseAI",
-      "domain": "goose.ai/",
-      "pageUrl": "goose.ai/",
-      "imageUrl": "https://pin.fontofweb.com/6493?format=jpg",
-      "colors": [
-        "#f8f585",
-        "#c883ff",
-        "#362f4c",
-        "#89849c",
-        "#0b0224",
-        "#ffc683",
-        "#907762",
-        "#281c59"
-      ],
-      "fonts": [
-        "Articulat Cf",
-        "Karl"
-      ]
-    },
-    {
-      "pinId": 6492,
-      "title": "GooseAI",
-      "domain": "goose.ai/",
-      "pageUrl": "goose.ai/",
-      "imageUrl": "https://pin.fontofweb.com/6492?format=jpg",
-      "colors": [
-        "#9991ff",
-        "#ffffff",
-        "#8b84e2",
-        "#05011c",
-        "#281c59",
-        "#6864b1",
-        "#2f9e44",
-        "#c3c3ca"
-      ],
-      "fonts": [
-        "Articulat Cf",
-        "Karl",
-        "System"
-      ]
-    },
-    {
-      "pinId": 6491,
-      "title": "GooseAI",
-      "domain": "goose.ai/",
-      "pageUrl": "goose.ai/",
-      "imageUrl": "https://pin.fontofweb.com/6491?format=jpg",
-      "colors": [
-        "#85fd9a",
-        "#fcfcfd",
-        "#6fc386",
-        "#10062a",
-        "#83ff97",
-        "#0b0224",
-        "#685cd1",
-        "#747085"
-      ],
-      "fonts": [
-        "Articulat Cf",
-        "Karl"
-      ]
-    }
-  ]
-}
-```
+No measured role palette was returned for these captures. From the screenshots:
 
-## Representative captures
-[![GooseAI](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/pin/6494)
-[GooseAI](https://design.withfudge.com/pin/6494) — [source page](https://goose.ai/)
+- **Canvas**: deep navy/indigo (almost black-violet)
+- **Line art / borders**: cool lavender-blue strokes
+- **Primary text**: white to soft lavender-white
+- **Display accent**: muted yellow for punch lines
+- **Secondary/muted copy**: gray-lavender
+- **CTA fill**: solid peach/apricot with dark label
+- **Code highlight**: green on the changed API base line
+- **Card fills**: slightly lifted translucent navy inside thin borders
 
-[![GooseAI](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/pin/6493)
-[GooseAI](https://design.withfudge.com/pin/6493) — [source page](https://goose.ai/)
+Use a cool, low-saturation night palette; warmth is reserved for CTA and occasional highlight text.
 
-[![GooseAI](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/pin/6492)
-[GooseAI](https://design.withfudge.com/pin/6492) — [source page](https://goose.ai/)
+### Typography
 
-[![GooseAI](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/pin/6491)
-[GooseAI](https://design.withfudge.com/pin/6491) — [source page](https://goose.ai/)
+Declared families were not captured. Observed type roles:
+
+- **Hero / section display**: ~50px, weight 500–700, tight friendly sans; line-height ~1.3–1.35
+- **Supporting display**: ~26–38px for secondary headlines
+- **Body**: 16px / ~24.8px line-height regular; 20px / 31px for larger body
+- **UI labels**: 12–16px; some labels push **900** weight for strong UI emphasis
+- Hierarchy leans on **size jumps + one accent color word**, not mixed serif/sans pairings
+
+### Spacing and layout
+
+- Wide side margins (~**296px** in large viewports) create a narrow content column on desktop
+- Section padding often **32px** inward; some hero bands use very large vertical padding (**~200px**)
+- Card internal padding ~**15–35px**; stacked feature rows with consistent gaps
+- Two-column sections (copy left / samples right) appear on wider frames; single column when tight
+- Overall density is **sparse**—large empty navy field around illustration and type
+
+## Visual language
+
+- **Illustration**: continuous-line geese in flight, monoline, same stroke weight as card borders—brand mark and decoration in one system
+- **Radii**: modest (**~4px** where measured); cards read as soft rectangles more than pills
+- **Borders**: 1–2px solid on all sides of cards and code chrome; borders carry more structure than shadows
+- **Shadows**: not observed as a primary depth tool
+- **Code UI**: dark panel, tab labels (Python / JavaScript), monospace body, single-line green emphasis for the migration diff
+- **Motion**: not established
+
+## Components and states
+
+1. **Hero claim** — short setup line + large punch line + paragraph + code card over illustration
+2. **Feature split** — left headline/body/CTA stack; right stack of bordered sample-output cards
+3. **Primary CTA** — filled peach bar with trailing chevron (active product path)
+4. **Secondary / disabled rows** — outlined buttons with “Coming Soon!” muted label (inactive paths stay visible but quiet)
+5. **Sample cards** — bordered prose blocks; active sample uses brighter type and orange word highlights; inactive samples fade
+6. **Code tabs** — text tabs with underline/active treatment above the snippet
+
+State language: filled vs outline, full opacity vs muted, accent words inside otherwise white body copy.
+
+## Responsive behavior
+
+Four homepage captures from roughly **1730–2050px** wide show the same dark marketing system with generous side margins. Narrower behavior is not strongly documented—expect the two-column feature/proof layout to stack and side margins to collapse before type scale changes.
+
+## Practical guidance
+
+**Preserve**
+
+- Indigo night canvas + monoline goose art as the brand signature
+- Yellow only for display punch; peach only for the primary CTA
+- Bordered navy cards and a real code sample with a one-line green diff
+- Wide margins and sparse sections—do not pack like a docs portal
+- “Coming soon” paths as quiet outlines beside one loud CTA
+
+**Avoid**
+
+- White marketing pages or generic purple gradients without the line-art system
+- Multiple competing solid CTAs
+- Heavy drop shadows or glassmorphism that fight the flat navy cards
+- Dropping the code proof—the product story is API parity
+- Warm brown or earth tones that break the cool night key
+
+## Scope note
+
+Based on four homepage viewport captures of goose.ai. Structured color roles and declared font families were not available; color and type notes combine spacing/radius/border measurements with visual reading of the screenshots. Inner docs, dashboard, and pricing flows are not in this set.
+
+## Captured pages
+
+[![Hero — Geese migrate](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/share/pin-6491)
+
+[Hero — Geese migrate](https://design.withfudge.com/share/pin-6491)
+
+[![Hero alternate crop](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/share/pin-6492)
+
+[Hero alternate crop](https://design.withfudge.com/share/pin-6492)
+
+[![Goosebumps feature split](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/share/pin-6493)
+
+[Goosebumps feature split](https://design.withfudge.com/share/pin-6493)
+
+[![Homepage wide frame](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/share/pin-6494)
+
+[Homepage wide frame](https://design.withfudge.com/share/pin-6494)

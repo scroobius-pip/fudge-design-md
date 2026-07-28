@@ -1,191 +1,66 @@
 # How astrotypes.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/astrotypes.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/astrotypes.com-design)
 
-Source domain: [astrotypes.com](https://astrotypes.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-27
+## Design character
 
-<!--
-coverPin: 8440
--->
+Astrotypes presents a **type-forward product landing**: medium-weight 60px headlines with solid 60px line-height, steady 16/24 body, and a disciplined 32–48px padding grid. The UI feels modern and content-centered—closer to a design tool marketing page than a noisy growth site.
 
-Here is the visual system observed across **2 captured pages** from [astrotypes.com](https://astrotypes.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#0a0a0a",
-  "#737373",
-  "#f5f5f5",
-  "#fafafa",
-  "#171717",
-  "#848484",
-  "#535353",
-  "#121212",
-  "#fefefe",
-  "#b2b2b2",
-  "#4a4a4a",
-  "#858585",
-  "#acacac",
-  "#fdfdfd"
-]
-```
+- Large centered or left display titles at ~60px.
+- Consistent 32px page padding and 48px section padding.
+- Small 8px radii—soft but not bubbly.
+- Modest type ramp (12–20px UI, 60px display) rather than dozens of sizes.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from astrotypes.com",
-  "sampleText": "astrotypes.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8440,
-      "domain": "astrotypes.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 515
-    },
-    {
-      "family": "Tanker",
-      "familyId": 2411,
-      "pinId": 8440,
-      "domain": "astrotypes.com",
-      "weight": "500",
-      "size": "60px",
-      "lineHeight": "60px",
-      "letterSpacing": "-1.5px",
-      "frequency": 29
-    },
-    {
-      "family": "Geist Mono",
-      "familyId": 136,
-      "pinId": 8440,
-      "domain": "astrotypes.com",
-      "weight": "400",
-      "size": "11.52px",
-      "lineHeight": "15.84px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    },
-    {
-      "family": "Technor",
-      "familyId": 2412,
-      "pinId": 8440,
-      "domain": "astrotypes.com",
-      "weight": "500",
-      "size": "60px",
-      "lineHeight": "60px",
-      "letterSpacing": "-1.5px",
-      "frequency": 29
-    },
-    {
-      "family": "Supreme",
-      "familyId": 2413,
-      "pinId": 8440,
-      "domain": "astrotypes.com",
-      "weight": "500",
-      "size": "20px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 29
-    },
-    {
-      "family": "Zodiak",
-      "familyId": 2410,
-      "pinId": 8439,
-      "domain": "astrotypes.com",
-      "weight": "500",
-      "size": "60px",
-      "lineHeight": "60px",
-      "letterSpacing": "-1.5px",
-      "frequency": 29
-    },
-    {
-      "family": "Plus Jakarta Sans",
-      "familyId": 989,
-      "pinId": 8439,
-      "domain": "astrotypes.com",
-      "weight": "500",
-      "size": "20px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 29
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 15 |
-| Spacing values | 8 |
-| Borders and radii | 4 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8440,
-      "title": "Astrotypes",
-      "domain": "astrotypes.com/",
-      "pageUrl": "astrotypes.com/",
-      "imageUrl": "https://pin.fontofweb.com/8440?format=jpg",
-      "colors": [
-        "#848484",
-        "#535353",
-        "#fafafa",
-        "#000000",
-        "#171717",
-        "#0a0a0a",
-        "#121212",
-        "#737373"
-      ],
-      "fonts": [
-        "Inter",
-        "Tanker",
-        "Geist Mono",
-        "Technor",
-        "Supreme"
-      ]
-    },
-    {
-      "pinId": 8439,
-      "title": "Astrotypes",
-      "domain": "astrotypes.com/",
-      "pageUrl": "astrotypes.com/",
-      "imageUrl": "https://pin.fontofweb.com/8439?format=jpg",
-      "colors": [
-        "#4a4a4a",
-        "#858585",
-        "#acacac",
-        "#0a0a0a",
-        "#f5f5f5",
-        "#737373",
-        "#000000",
-        "#171717"
-      ],
-      "fonts": [
-        "Inter",
-        "Zodiak",
-        "Plus Jakarta Sans",
-        "Geist Mono"
-      ]
-    }
-  ]
-}
-```
+No measured roles. Visually keep a limited palette so typography and layout remain the identity.
 
-## Representative captures
-[![Astrotypes](https://pin.fontofweb.com/8440?format=jpg)](https://design.withfudge.com/pin/8440)
-[Astrotypes](https://design.withfudge.com/pin/8440) — [source page](https://astrotypes.com/)
+### Typography
 
-[![Astrotypes](https://pin.fontofweb.com/8439?format=jpg)](https://design.withfudge.com/pin/8439)
-[Astrotypes](https://design.withfudge.com/pin/8439) — [source page](https://astrotypes.com/)
+Sans weights 400–500. Body 16/24; subheads 20/28; display 60/60; small UI 11.5–12/15.8–16; some 14/20.
+
+### Spacing and layout
+
+Padding-left/right 32px dominant; section vertical 32–48. Margin-top 16–24 between stacked blocks. Clean single-column marketing flow.
+
+## Visual language
+
+- 8px radius accents.
+- Minimal border/shadow records—flat, type-led.
+
+## Components and states
+
+- Hero with large title + supporting text + CTA.
+- Feature/explanation sections.
+- Simple nav.
+- Compact buttons consistent with 8px radius.
+
+## Responsive behavior
+
+Two desktop home captures (~1216 wide). Mobile not shown.
+
+## Practical guidance
+
+**Preserve:** typographic hero, 32px padding rhythm, limited radius.
+
+**Avoid:** cluttered multi-column gimmicks; decorative gradients that fight the type system.
+
+## Scope note
+
+Homepage only; color unsupported in structured data.
+
+## Captured pages
+
+[![Home — full](https://pin.fontofweb.com/8440?format=jpg)](https://design.withfudge.com/share/pin-8440)
+
+[Home — full](https://design.withfudge.com/share/pin-8440)
+
+[![Home — upper fold](https://pin.fontofweb.com/8439?format=jpg)](https://design.withfudge.com/share/pin-8439)
+
+[Home — upper fold](https://design.withfudge.com/share/pin-8439)

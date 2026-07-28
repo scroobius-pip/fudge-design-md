@@ -1,274 +1,125 @@
 # How celesteduffy.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/celesteduffy.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/celesteduffy.com-design)
 
-Source domain: [celesteduffy.com](https://celesteduffy.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-08
+## Design character
 
-<!--
-coverPin: 7863
--->
+Celeste Duffy’s site is an **illustrator’s gallery that behaves like a quiet boutique**: warm off-white paper backgrounds, black serif display type, and a minimal navigation chrome so the artwork can dominate. Personality lives in the illustrations—bold characters, saturated scenes—while the shell stays editorial and restrained. A full-width **coral/orange commission band** is the one loud brand surface outside the art itself.
 
-Here is the visual system observed across **8 captured pages** from [celesteduffy.com](https://celesteduffy.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#200603",
-  "#f4f2ea",
-  "#fe6b41",
-  "#feabda",
-  "#fd6b40",
-  "#827973",
-  "#cdc6c0",
-  "#5d534e",
-  "#191412",
-  "#f5f2eb",
-  "#a8a09a",
-  "#5d4140",
-  "#edaeb4",
-  "#d5c4d3",
-  "#a18992"
-]
-```
+- **Paper-warm neutrals** instead of pure cold gray-white
+- **Serif-forward display** for titles; simple sans or quiet UI for forms/nav
+- **Art-first grids** where cards are mostly image
+- One **high-chroma accent band** for conversion (commission/contact), not rainbow UI chrome
 
-```fudge-font-usage
-{
-  "title": "Typography captured from celesteduffy.com",
-  "sampleText": "celesteduffy.com",
-  "fonts": [
-    {
-      "family": "Almarai",
-      "familyId": 923,
-      "pinId": 7863,
-      "domain": "celesteduffy.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 197
-    },
-    {
-      "family": "Libre Baskerville",
-      "familyId": 1451,
-      "pinId": 7862,
-      "domain": "celesteduffy.com",
-      "weight": "400",
-      "size": "44.8px",
-      "lineHeight": "49.8893px",
-      "letterSpacing": "-0.896px",
-      "frequency": 20
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 67 |
-| Spacing values | 33 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7863,
-      "title": "About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/contact",
-      "pageUrl": "celesteduffy.com/contact",
-      "imageUrl": "https://pin.fontofweb.com/7863?format=jpg",
-      "colors": [
-        "#827973",
-        "#cdc6c0",
-        "#5d534e",
-        "#191412",
-        "#000000",
-        "#200603",
-        "#f5f2eb",
-        "#a8a09a"
-      ],
-      "fonts": [
-        "Almarai"
-      ]
-    },
-    {
-      "pinId": 7862,
-      "title": "About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/contact",
-      "pageUrl": "celesteduffy.com/contact",
-      "imageUrl": "https://pin.fontofweb.com/7862?format=jpg",
-      "colors": [
-        "#5d4140",
-        "#edaeb4",
-        "#f4f2ea",
-        "#feabda",
-        "#d5c4d3",
-        "#a18992",
-        "#200603",
-        "#000000"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7861,
-      "title": "Licensing — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/licensing-1",
-      "pageUrl": "celesteduffy.com/licensing-1",
-      "imageUrl": "https://pin.fontofweb.com/7861?format=jpg",
-      "colors": [
-        "#fd6b40",
-        "#200603",
-        "#f7f5ef",
-        "#f7d5c6",
-        "#847671",
-        "#782618",
-        "#312c2b",
-        "#f4f2ea"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7860,
-      "title": "General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/portfolio",
-      "pageUrl": "celesteduffy.com/portfolio",
-      "imageUrl": "https://pin.fontofweb.com/7860?format=jpg",
-      "colors": [
-        "#a57139",
-        "#f4f1eb",
-        "#22614c",
-        "#388a77",
-        "#000000",
-        "#200603",
-        "#70baa8",
-        "#9f8d82"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7859,
-      "title": "Store 2 — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/prints",
-      "pageUrl": "celesteduffy.com/prints",
-      "imageUrl": "https://pin.fontofweb.com/7859?format=jpg",
-      "colors": [
-        "#795a50",
-        "#cec8c5",
-        "#fd6b40",
-        "#3d1714",
-        "#a98f84",
-        "#96442d",
-        "#000000",
-        "#681c11"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7858,
-      "title": "Store 2 — CELESTE - Draw, Paint, Illustrate",
-      "domain": "celesteduffy.com/prints",
-      "pageUrl": "celesteduffy.com/prints",
-      "imageUrl": "https://pin.fontofweb.com/7858?format=jpg",
-      "colors": [
-        "#7c291b",
-        "#77706c",
-        "#554c45",
-        "#958e89",
-        "#9d7153",
-        "#200603",
-        "#000000",
-        "#fd6b41"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7857,
-      "title": "Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives",
-      "domain": "celesteduffy.com/",
-      "pageUrl": "celesteduffy.com/",
-      "imageUrl": "https://pin.fontofweb.com/7857?format=jpg",
-      "colors": [
-        "#200603",
-        "#885c4d",
-        "#5f98b6",
-        "#5e604f",
-        "#f4f2ea",
-        "#1f0703",
-        "#cba49b",
-        "#f1f1ed"
-      ],
-      "fonts": [
-        "Almarai",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 7856,
-      "title": "Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives",
-      "domain": "celesteduffy.com/",
-      "pageUrl": "celesteduffy.com/",
-      "imageUrl": "https://pin.fontofweb.com/7856?format=jpg",
-      "colors": [
-        "#131518",
-        "#ab8b6d",
-        "#e2deda",
-        "#200603",
-        "#3c3b3c",
-        "#d4b48f",
-        "#7d5b3d",
-        "#000000"
-      ],
-      "fonts": [
-        "Almarai"
-      ]
-    }
-  ]
-}
-```
+From screenshots (roles were not machine-labeled):
 
-## Representative captures
-[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7863?format=jpg)](https://design.withfudge.com/pin/7863)
-[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7863) — [source page](https://celesteduffy.com/contact)
+| Use | Approx. value | Notes |
+|-----|---------------|-------|
+| Page canvas | warm ivory `#f7f1e8` range | Slightly creamy, never pure #fff everywhere |
+| Primary text | near-black brown-black `#1a120c` | Soft black, not pure blue-black |
+| Commission band | vivid coral/orange ~`#e85d3b` | Full-bleed section with dark type |
+| Form fields on coral | light peach/cream inputs | Low contrast fields on loud ground |
+| Footer | deep brown/black bar | Anchors the page |
+| Art | full spectrum inside images | Not part of UI tokens |
 
-[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7862?format=jpg)](https://design.withfudge.com/pin/7862)
-[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7862) — [source page](https://celesteduffy.com/contact)
+### Typography
 
-[![Licensing — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7861?format=jpg)](https://design.withfudge.com/pin/7861)
-[Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7861) — [source page](https://celesteduffy.com/licensing-1)
+Families not declared in capture data. Visual system:
 
-[![General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7860?format=jpg)](https://design.withfudge.com/pin/7860)
-[General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7860) — [source page](https://celesteduffy.com/portfolio)
+- **Display / section titles:** large serif, ~35–64px, weight ~400, elegant editorial feel (“Would you like customization…”, portfolio titles)
+- **Body:** ~14–16px, comfortable reading measure, weight 400
+- **UI labels / nav:** smaller, simpler; forms use clear required labels
+- Line-heights on display stay relatively tight (~1.05–1.15); body nearer 1.4–1.5
 
-[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7859?format=jpg)](https://design.withfudge.com/pin/7859)
-[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7859) — [source page](https://celesteduffy.com/prints)
+### Spacing and layout
 
-[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7858?format=jpg)](https://design.withfudge.com/pin/7858)
-[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7858) — [source page](https://celesteduffy.com/prints)
+- Horizontal padding often ~**69px** on home, ~**22–32px** on denser grids
+- Vertical section padding ~**26–69px** depending on block
+- Portfolio uses a multi-column image grid with modest gutters
+- Commission section is a **two-column** split: serif story left, form right
+- Margins between stacked text blocks ~**16–32px**
 
-[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7857?format=jpg)](https://design.withfudge.com/pin/7857)
-[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7857) — [source page](https://celesteduffy.com/)
+## Visual language
 
-[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7856?format=jpg)](https://design.withfudge.com/pin/7856)
-[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7856) — [source page](https://celesteduffy.com/)
+- Corners mostly **sharp or lightly softened** (~15px rare); the site is more editorial than “app rounded”
+- Form controls on the coral band are **light filled rectangles** with minimal border
+- Primary submit is a **dark filled rounded rectangle** (near-black) on coral—high contrast
+- Imagery is the brand: character illustration, textured scenes, print mockups
+- No heavy drop shadows on the marketing chrome; separation is color blocking (ivory / coral / near-black footer)
+
+## Components and states
+
+1. **Top nav** — wordmark + text links, minimal
+2. **Masonry/grid gallery** — image tiles, little chrome
+3. **Store cards** — product image + quiet price/meta
+4. **Commission band** — loud coral, serif headline, multi-field form, checkbox groups, date field, dark submit
+5. **Footer** — dark bar with newsletter or wordmark lockup
+
+Interaction states beyond default were not captured.
+
+## Responsive behavior
+
+Captures are desktop-width (~1567–1712px) across home, prints, portfolio, licensing, and contact. The commission block’s two-column split is the main layout that would need stacking on small screens; no mobile captures were present.
+
+## Practical guidance
+
+**Preserve**
+
+- Warm paper canvas + serif headlines + art-led grids
+- Coral only as a deliberate full-bleed conversion surface
+- Dark footer as a heavy base note
+- Sparse UI chrome
+
+**Avoid**
+
+- Cold SaaS blues and purple gradients
+- Heavy card shadows and glassmorphism over artwork
+- Turning every section into a loud color block
+- Over-labeling gallery images with badges and chips
+
+## Scope note
+
+Eight captures across `/`, `/prints`, `/portfolio`, `/licensing-1`, and `/contact`. Spacing and some borders measured; color roles and font families were not declared—palette above is from visual reading of screenshots. Mobile layouts not observed.
+
+## Captured pages
+
+[![Home — illustration hero grid](https://pin.fontofweb.com/7856?format=jpg)](https://design.withfudge.com/share/pin-7856)
+
+[Home — illustration hero grid](https://design.withfudge.com/share/pin-7856)
+
+[![Home — alternate scroll state](https://pin.fontofweb.com/7857?format=jpg)](https://design.withfudge.com/share/pin-7857)
+
+[Home — alternate scroll state](https://design.withfudge.com/share/pin-7857)
+
+[![Prints store](https://pin.fontofweb.com/7858?format=jpg)](https://design.withfudge.com/share/pin-7858)
+
+[Prints store](https://design.withfudge.com/share/pin-7858)
+
+[![Portfolio grid](https://pin.fontofweb.com/7860?format=jpg)](https://design.withfudge.com/share/pin-7860)
+
+[Portfolio grid](https://design.withfudge.com/share/pin-7860)
+
+[![Licensing / commission form](https://pin.fontofweb.com/7861?format=jpg)](https://design.withfudge.com/share/pin-7861)
+
+[Licensing / commission form](https://design.withfudge.com/share/pin-7861)
+
+[![Contact / about](https://pin.fontofweb.com/7862?format=jpg)](https://design.withfudge.com/share/pin-7862)
+
+[Contact / about](https://design.withfudge.com/share/pin-7862)
+
+## Colors
+
+- `#f7f1e8`
+- `#ffffff`
+- `#1a120c`
+- `#e85d3b`
+- `#2b2118`
+- `#f0e6d8`

@@ -1,132 +1,68 @@
 # How carcard.arible.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/carcard.arible.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/carcard.arible.co-design)
 
-Source domain: [carcard.arible.co](https://carcard.arible.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-06
+## Design character
 
-<!--
-coverPin: 7745
--->
+CardScanner (carcard.arible.co) is a **calm document utility**: warm-white canvas, centered serif display (“Business cards, digitized.”), black pill primary button, and a clean list of processed cards with **green completion** status. It feels trustworthy and lightweight—fintech-adjacent ops tool without visual noise.
 
-Here is the visual system observed across **2 captured pages** from [carcard.arible.co](https://carcard.arible.co).
+What should survive adaptation:
+- Airy light canvas and centered hero
+- Serif display for brand voice, sans for UI
+- Black primary CTA; green only for success status
+- List rows with thumbnails + metadata
 
-```fudge-colors
-[
-  "#000000",
-  "#1a1a1a",
-  "#999999",
-  "#e5e5e0",
-  "#6b6b6b",
-  "#3a7d44",
-  "#ffffff",
-  "#f0f0ea",
-  "#8e7935",
-  "#6a5a27",
-  "#f5ce4c",
-  "#b79c44",
-  "#413818",
-  "#1f1d16",
-  "#8f061c",
-  "#444646"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from carcard.arible.co",
-  "sampleText": "carcard.arible.co",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 7745,
-      "domain": "carcard.arible.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "25.6px",
-      "letterSpacing": "normal",
-      "frequency": 256
-    },
-    {
-      "family": "Georgia",
-      "familyId": 2177,
-      "pinId": 7745,
-      "domain": "carcard.arible.co",
-      "weight": "400",
-      "size": "48px",
-      "lineHeight": "55.2px",
-      "letterSpacing": "-0.48px",
-      "frequency": 66
-    }
-  ]
-}
-```
+### Color
+Measured: accent/success green `#3a7d44`; text `#1a1a1a`; muted `#999999`.
+Page ground near `#fafaf7`/`#ffffff`. Header minimal. Status green is functional, not decorative wash.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 22 |
-| Spacing values | 17 |
-| Borders and radii | 5 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Typography
+Display serif ~44–48px; UI/body 12–18px weights 400–600. Small caps/eyebrow “Simple & fast” above the hero. Search and list use utilitarian sans.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7745,
-      "title": "CarCard — Digitize your business cards",
-      "domain": "carcard.arible.co/",
-      "pageUrl": "carcard.arible.co/",
-      "imageUrl": "https://pin.fontofweb.com/7745?format=jpg",
-      "colors": [
-        "#8e7935",
-        "#6a5a27",
-        "#f5ce4c",
-        "#1a1a1a",
-        "#b79c44",
-        "#413818",
-        "#1f1d16",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Georgia"
-      ]
-    },
-    {
-      "pinId": 7743,
-      "title": "CardScanner — Digitize your business cards",
-      "domain": "carcard.arible.co/",
-      "pageUrl": "carcard.arible.co/",
-      "imageUrl": "https://pin.fontofweb.com/7743?format=jpg",
-      "colors": [
-        "#3a7d44",
-        "#8f061c",
-        "#444646",
-        "#000000",
-        "#f0f0ea",
-        "#676868",
-        "#ffffff",
-        "#6b6b6b"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Georgia"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+2–40px UI spacing; large hero gaps (~80, 376). Centered max-width column: hero → dropzone → search → list.
 
-## Representative captures
-[![CarCard — Digitize your business cards](https://pin.fontofweb.com/7745?format=jpg)](https://design.withfudge.com/pin/7745)
-[CarCard — Digitize your business cards](https://design.withfudge.com/pin/7745) — [source page](https://carcard.arible.co/)
+## Visual language
+- Radii **4–10px** on inputs/dropzone; primary button more pill-like
+- Dotted/light border dropzone
+- Hairline row separators
+- Flat, light mode
 
-[![CardScanner — Digitize your business cards](https://pin.fontofweb.com/7743?format=jpg)](https://design.withfudge.com/pin/7743)
-[CardScanner — Digitize your business cards](https://design.withfudge.com/pin/7743) — [source page](https://carcard.arible.co/)
+## Components and states
+- **Get Started** black button
+- Drag-and-drop zone
+- Search field
+- Expandable card rows with COMPLETED green pill/dot
+- Header actions: Export CSV, Clear All (ghost buttons)
+
+## Responsive behavior
+Two home captures (including a shorter crop). System is single-column friendly by nature.
+
+## Practical guidance
+**Preserve** serif hero + utilitarian list, green-as-status-only, black CTA.
+**Avoid** turning success green into a full brand wash; avoid dense admin tables on the marketing hero.
+
+## Scope note
+Only `/` captures (product named CardScanner/CarCard in titles).
+
+## Captured pages
+
+[![Home — full workspace](https://pin.fontofweb.com/7743?format=jpg)](https://design.withfudge.com/share/pin-7743)
+
+[Home — full workspace](https://design.withfudge.com/share/pin-7743)
+
+[![Home — wide crop](https://pin.fontofweb.com/7745?format=jpg)](https://design.withfudge.com/share/pin-7745)
+
+[Home — wide crop](https://design.withfudge.com/share/pin-7745)
+
+## Colors
+
+- `#3a7d44`
+- `#1a1a1a`
+- `#999999`
+- `#ffffff`
+- `#f7f7f5`

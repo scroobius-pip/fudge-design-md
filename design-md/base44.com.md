@@ -1,330 +1,163 @@
 # How base44.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/base44.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/base44.com-design)
 
-Source domain: [base44.com](https://base44.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-11
+## Design character
 
-<!--
-coverPin: 9559
--->
+Base44 is a **soft, optimistic AI-builder brand**: airy gradient stages, near-black humanist display type, white product cards, and a calm black/lime control pair. Marketing pages feel like a lightroom for ideas—prompt box or pricing grid centered on pastel washes—while product previews drop into darker app chrome so the site can sell both “build with words” and a real working UI.
 
-Here is the visual system observed across **7 captured pages** from [base44.com](https://base44.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#faf9f7",
-  "#fff9eb",
-  "#0f0f0f",
-  "#e6e6e6",
-  "#0000ee",
-  "#bfd7e0",
-  "#dce8e8",
-  "#232529",
-  "#ebffb1",
-  "#ade900",
-  "#696f7b",
-  "#878787",
-  "#262626",
-  "#868686"
-]
-```
+- **Pastel sky-to-peach (or lavender) gradient stages** behind sparse heroes
+- **Monumental black display** with short gray supporting lines
+- **Pill-first chrome**: full-round black primary CTAs, soft lime header CTA, chip suggestion pills
+- **White elevated cards** with light 1px separation and generous internal padding
+- **One orange brand mark** (dot cluster / submit orb) as the only warm accent punch
+- **Product UI as the hero image**—kanban/app frames, not stock photography
 
-```fudge-font-usage
-{
-  "title": "Typography captured from base44.com",
-  "sampleText": "base44.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 23
-    },
-    {
-      "family": "Arial",
-      "familyId": 2088,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 4257
-    },
-    {
-      "family": "Madefor",
-      "familyId": 2256,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 5
-    },
-    {
-      "family": "Stk Miso",
-      "familyId": 2255,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "26.6406px",
-      "lineHeight": "26.6406px",
-      "letterSpacing": "normal",
-      "frequency": 8
-    },
-    {
-      "family": "Wix Madefor",
-      "familyId": 2210,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "15.72px",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Wix Madefor Vf",
-      "familyId": 724,
-      "pinId": 9559,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 3
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9558,
-      "domain": "base44.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 2990
-    },
-    {
-      "family": "Bcnovaticacyr",
-      "familyId": 2589,
-      "pinId": 9558,
-      "domain": "base44.com",
-      "weight": "500",
-      "size": "34.4px",
-      "lineHeight": "normal",
-      "letterSpacing": "3.44px",
-      "frequency": 68
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 7 |
-| Colors | 58 |
-| Spacing values | 173 |
-| Borders and radii | 22 |
-| Shadows | 0 |
-| Gradients | 6 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9559,
-      "title": "Plans to Fit Every Interest | Base44 Pricing",
-      "domain": "base44.com/pricing",
-      "pageUrl": "base44.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9559?format=jpg",
-      "colors": [
-        "#000000",
-        "#141414",
-        "#0f0f0f",
-        "#bfd4dd",
-        "#5b5d5d",
-        "#878787",
-        "#f4f8f8",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Arial",
-        "Madefor",
-        "Stk Miso",
-        "Wix Madefor",
-        "Wix Madefor Vf"
-      ]
-    },
-    {
-      "pinId": 9558,
-      "title": "404 Error: Page Not Found | Base44",
-      "domain": "base44.com/l",
-      "pageUrl": "base44.com/l",
-      "imageUrl": "https://pin.fontofweb.com/9558?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#7e7b7f",
-        "#100f10",
-        "#0000ee",
-        "#262626",
-        "#f5edf6",
-        "#000000",
-        "#fdc9a7"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Bcnovaticacyr",
-        "Madefor"
-      ]
-    },
-    {
-      "pinId": 7409,
-      "title": "Build Apps with AI in Minutes | Base44",
-      "domain": "base44.com/",
-      "pageUrl": "base44.com/",
-      "imageUrl": "https://pin.fontofweb.com/7409?format=jpg",
-      "colors": [
-        "#f1f3f0",
-        "#abacaa",
-        "#f4be98",
-        "#000000",
-        "#f1d7e7",
-        "#121212",
-        "#dce8e8",
-        "#f2bfba"
-      ],
-      "fonts": [
-        "Arial",
-        "Stk Miso",
-        "Wix Madefor"
-      ]
-    },
-    {
-      "pinId": 7408,
-      "title": "Build Apps with AI in Minutes | Base44",
-      "domain": "base44.com/",
-      "pageUrl": "base44.com/",
-      "imageUrl": "https://pin.fontofweb.com/7408?format=jpg",
-      "colors": [
-        "#0f0f0f",
-        "#fff9eb",
-        "#898880",
-        "#000000",
-        "#ff9c55",
-        "#ffffff",
-        "#ffc8a0",
-        "#151414"
-      ],
-      "fonts": [
-        "Arial",
-        "Stk Miso",
-        "Wix Madefor"
-      ]
-    },
-    {
-      "pinId": 7407,
-      "title": "Build Apps with AI in Minutes | Base44",
-      "domain": "base44.com/",
-      "pageUrl": "base44.com/",
-      "imageUrl": "https://pin.fontofweb.com/7407?format=jpg",
-      "colors": [
-        "#fef8eb",
-        "#ff8230",
-        "#fff9eb",
-        "#131312",
-        "#0f0f0f",
-        "#ffb278",
-        "#7e7c76",
-        "#000000"
-      ],
-      "fonts": [
-        "Arial",
-        "Stk Miso",
-        "Wix Madefor"
-      ]
-    },
-    {
-      "pinId": 7406,
-      "title": "Build Apps with AI in Minutes | Base44",
-      "domain": "base44.com/",
-      "pageUrl": "base44.com/",
-      "imageUrl": "https://pin.fontofweb.com/7406?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#f7f6f6",
-        "#767372",
-        "#696f7b",
-        "#241d1d",
-        "#e57555",
-        "#000000",
-        "#e6e6e6"
-      ],
-      "fonts": [
-        "Arial",
-        "Stk Miso",
-        "Madefor"
-      ]
-    },
-    {
-      "pinId": 7405,
-      "title": "Build Apps with AI in Minutes | Base44",
-      "domain": "base44.com/",
-      "pageUrl": "base44.com/",
-      "imageUrl": "https://pin.fontofweb.com/7405?format=jpg",
-      "colors": [
-        "#767d80",
-        "#e6e6e6",
-        "#eff3f3",
-        "#232529",
-        "#e8fcad",
-        "#ffffff",
-        "#ebffb1",
-        "#faf9f7"
-      ],
-      "fonts": [
-        "Arial",
-        "Stk Miso",
-        "Wix Madefor",
-        "Madefor"
-      ]
-    }
-  ]
-}
-```
+Measured text roles:
 
-## Representative captures
-[![Plans to Fit Every Interest | Base44 Pricing](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/pin/9559)
-[Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/pin/9559) — [source page](https://base44.com/pricing)
+| Role | Hex | Use |
+|------|-----|-----|
+| Primary text | `#000000` | Display, plan names, prices, body on light cards |
+| Secondary text | `#878787` | Supporting lines, muted labels, credit meta |
 
-[![404 Error: Page Not Found | Base44](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/pin/9558)
-[404 Error: Page Not Found | Base44](https://design.withfudge.com/pin/9558) — [source page](https://base44.com/l)
+Visually consistent surfaces and accents (from marketing captures):
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/pin/7409)
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7409) — [source page](https://base44.com/)
+| Role | Appearance | Notes |
+|------|------------|-------|
+| Canvas | Soft white → cool mint / sky / peach washes | Full-bleed atmospheric gradients; never heavy photo backgrounds |
+| Surface | Pure white cards and floating nav pill | Pricing tiers, feature split panels, prompt field |
+| Primary action (in-page) | Solid black pills | “Get started”, “Start building”, “Contact sales” |
+| Header CTA | Soft lime / chartreuse pill | “Start Building” in the top bar—lighter and friendlier than black |
+| Brand accent | Warm orange | Logo disc and prompt submit orb |
+| Feature checks | Coral-orange ticks | Pricing feature lists |
+| Enterprise strip | Dusty blue-gray / sage bar | Full-width secondary CTA band under pricing |
+| Muted chrome | Cool gray nav labels on white | Product / Use Cases / Resources links |
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7408?format=jpg)](https://design.withfudge.com/pin/7408)
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7408) — [source page](https://base44.com/)
+Keep the palette **mostly monochrome type on pastel air**, with orange reserved for identity and lime reserved for the persistent header invite. Avoid stacking multiple saturated brand colors in one section.
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7407?format=jpg)](https://design.withfudge.com/pin/7407)
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7407) — [source page](https://base44.com/)
+### Typography
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/pin/7406)
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7406) — [source page](https://base44.com/)
+No declared family in capture data—render with a clean **neo-grotesk / geometric sans** that can hold both huge display and quiet UI.
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/pin/7405)
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7405) — [source page](https://base44.com/)
+Observed ladder (pricing-heavy sample, weights mostly regular with selective medium/semibold):
+
+| Role | Approx size | Notes |
+|------|-------------|-------|
+| Display | ~71px, tracking slightly tight (~−0.7) | Hero lines like “Plans from first idea to full scale”, “Turn your ideas into apps” |
+| Section / card title | ~26–37px | Plan names, secondary headlines |
+| Lead / deck | ~16–20px | Supporting sentences under heroes |
+| Body / UI | ~12–14px | Feature lists, nav, card copy |
+| Meta / micro | ~10–12px | Credit lines, uppercase prompt hints, labels |
+| Price | Display-scale numerals | `$200` large with smaller `/mo` suffix in secondary weight/color |
+
+Hierarchy is **size-led more than weight-led**: regular weight carries most of the system; medium/semibold appears sparingly on UI emphasis. Line height sits slightly open on body (~1.5–1.6) and tighter on display (~1.1).
+
+### Spacing and layout
+
+- **Wide desktop marketing** (~1712–2048px captures): large horizontal inset (~100–110px feel on dense pricing blocks), airy section tops (~145px-class padding on major blocks)
+- **Card grids**: equal white pricing columns with ~20–24px gutters; five-up plan row on desktop
+- **Internal card padding**: ~22px-class on dense plan cards
+- **Home hero**: single centered column—headline, one deck line, one prompt card, suggestion chips
+- **Split product story**: white rounded panel split copy | dark app screenshot
+- **Floating top nav**: pill-shaped white bar with logo left, links center, lime CTA right—not a full-bleed hard header
+- Density is **moderate**: roomy marketing, not dashboard-dense until the embedded product UI appears
+
+## Visual language
+
+- **Corners**: pill-dominant—full round on CTAs and chips (`~100–999` radii), softer ~8–20px on cards and panels, ~10–11px on product frames
+- **Borders**: light 1px hairlines separating card zones (price block vs credits vs CTA); surfaces read as **border-separated**, not shadow-stacked (no meaningful shadow tokens captured)
+- **Gradients**: soft multi-stop washes (sky blue → white → peach; lavender → white → apricot; mint/pink card washes on promo tiles). Gradients are atmospheric, never striped or neon
+- **Imagery**: live product UI (dark kanban, colored status chips) framed inside light marketing chrome; logo is a warm multi-dot orange burst
+- **Motion**: not established from stills
+
+Overall effect: **friendly futurism**—startup SaaS without brutal black-on-black developer gloom.
+
+## Components
+
+### Navigation
+Floating white capsule: wordmark + orange mark, dropdown text links, globe, lime “Start Building” pill.
+
+### Hero prompt
+Large centered display + gray deck + wide white rounded prompt field with placeholder copy and circular orange submit control. Below: small-caps hint + outline/soft pill suggestion chips (“Reporting Dashboard”, “Gaming Platform”, …).
+
+### Pricing
+- Billing toggle: segmented control (inactive soft gray pill, active lime pill)
+- Plan cards: white, equal height, title + short blurb + large price + credit meta + black full-width “Get started” + checklist with coral ticks
+- Promo duo cards (free vs paid) can sit on soft gradient fills instead of pure white
+- Enterprise band: muted full-width bar, left copy + right black “Contact sales”
+
+### Product story panel
+Numbered step label (“01 / 04”), long-form black body, black CTA; adjacent dark app chrome screenshot with colorful column tags—the only place multi-hue UI colors flood in, and they stay *inside* the product frame.
+
+### Empty / error
+404: same gradient stage language, left-aligned stack—small “ERROR: 404”, huge black sentence, quiet gray support, single black “Back to Homepage” pill. No illustration clutter.
+
+### Buttons
+- **Primary in-content**: solid black, white label, full pill
+- **Header invite**: soft lime fill, dark label, full pill
+- **Chips**: white/soft fill, thin border or light gray edge, full pill
+- **Icon submit**: solid orange circle
+
+## Responsive behavior
+
+Captures are wide desktop viewports only (roughly 1712–2048×719–1314). Treat multi-column pricing and side-by-side product panels as **desktop compositions**. On narrower widths, stack plan cards, collapse the five-up row, and keep the floating nav/CTA pattern rather than inventing a heavy app bar. No mobile breakpoint metrics were recorded.
+
+## Practical guidance
+
+**Do**
+- Lead with one short black display line and one gray sentence
+- Put the primary action in a **black pill**; keep the header invite in **lime**
+- Stage content on soft pastel gradients and white cards
+- Use orange only for brand mark / submit / checklist ticks
+- Show the product UI as a framed dark surface against the light marketing shell
+- Prefer hairline card structure over drop shadows
+
+**Don’t**
+- Fill the page with saturated brand color blocks
+- Use heavy shadows, glassmorphism stacks, or dense dashboard chrome on marketing
+- Mix many CTA colors—black + lime + orange is enough
+- Shrink display type into a timid H2; the brand needs confident scale
+- Invent photographic hero imagery when a prompt field or product frame will do
+
+## Scope note
+
+Six marketing captures on base44.com: home (multiple hero/product states), full pricing, and a 404. Structured color roles only locked black and gray text; pastel washes, lime header CTA, and orange brand accents are visual readings from those screenshots. No declared webfonts or shadow/gradient tokens—type family and exact gradient stops should be treated as interpretive. App product chrome appears only as embedded previews, not as a full app-shell capture.
+
+## Captured pages
+
+[![Home — prompt hero on sky-to-peach wash](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/share/pin-7405)
+
+[Home — prompt hero on sky-to-peach wash](https://design.withfudge.com/share/pin-7405)
+
+[![Home — product story split panel](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/share/pin-7406)
+
+[Home — product story split panel](https://design.withfudge.com/share/pin-7406)
+
+[![Home — free vs paid promo cards](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/share/pin-7409)
+
+[Home — free vs paid promo cards](https://design.withfudge.com/share/pin-7409)
+
+[![Pricing — five-tier plan grid](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/share/pin-9559)
+
+[Pricing — five-tier plan grid](https://design.withfudge.com/share/pin-9559)
+
+[![404 — gradient empty state](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/share/pin-9558)
+
+[404 — gradient empty state](https://design.withfudge.com/share/pin-9558)
+
+## Colors
+
+- `#000000`
+- `#878787`
+- `#ffffff`
+- `#e8f5a0`
+- `#f97316`
+- `#e8eef0`

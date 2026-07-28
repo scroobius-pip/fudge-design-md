@@ -1,307 +1,104 @@
 # How frontify.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/frontify.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/frontify.com-design)
 
-Source domain: [frontify.com](https://frontify.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-29
+## Design character
 
-<!--
-coverPin: 6111
--->
+Frontify’s marketing/pricing system is **editorial SaaS on warm off-white**: huge light serif display (“Discover a plan built for you”), calm sans body at 18px, floating soft nav pills, and black pill CTAs (“Book demo”, “Talk to sales”). It feels premium brand-platform rather than neon PLG — generous pricing cards (~8px radius, 24–48px padding), MAU-model explanation, and lots of quiet beige canvas.
 
-Here is the visual system observed across **9 captured pages** from [frontify.com](https://frontify.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#111110",
-  "#f0f0eb",
-  "#e1e1db",
-  "#ffffff",
-  "#575753",
-  "#f0f1ec",
-  "#11110f",
-  "#41413f",
-  "#e8e9e3",
-  "#60605c",
-  "#83837e",
-  "#a5a6a0",
-  "#191917",
-  "#edeee7",
-  "#a7a7a4",
-  "#868684"
-]
-```
+- Warm light canvas (`#ebe8e1`–`#f3f1ec` range) not pure cold gray.
+- **Serif display + sans UI** pairing.
+- Black pills for primary actions; white/soft chips for nav.
+- 8px cards, 24px rhythm, occasional 32px soft panels.
+- Pricing honesty with large light headlines and short supporting copy.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from frontify.com",
-  "sampleText": "frontify.com",
-  "fonts": [
-    {
-      "family": "Abc Diatype",
-      "familyId": 829,
-      "pinId": 6111,
-      "domain": "frontify.com",
-      "weight": "400",
-      "size": "18px",
-      "lineHeight": "23.4px",
-      "letterSpacing": "normal",
-      "frequency": 419
-    },
-    {
-      "family": "By Andrej Sevcik",
-      "familyId": 2069,
-      "pinId": 6111,
-      "domain": "frontify.com",
-      "weight": "300",
-      "size": "64px",
-      "lineHeight": "64px",
-      "letterSpacing": "normal",
-      "frequency": 34
-    },
-    {
-      "family": "By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet",
-      "familyId": 2068,
-      "pinId": 6111,
-      "domain": "frontify.com",
-      "weight": "700",
-      "size": "20px",
-      "lineHeight": "26px",
-      "letterSpacing": "normal",
-      "frequency": 30
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 53 |
-| Spacing values | 95 |
-| Borders and radii | 20 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6111,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6111?format=jpg",
-      "colors": [
-        "#41413f",
-        "#e8e9e3",
-        "#60605c",
-        "#83837e",
-        "#111110",
-        "#a5a6a0",
-        "#e1e1db",
-        "#191917"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik",
-        "By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet"
-      ]
-    },
-    {
-      "pinId": 6110,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6110?format=jpg",
-      "colors": [
-        "#edeee7",
-        "#ffffff",
-        "#a7a7a4",
-        "#868684",
-        "#474949",
-        "#3b1e52",
-        "#111110",
-        "#686864"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6109,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6109?format=jpg",
-      "colors": [
-        "#f0f1eb",
-        "#b0b1ac",
-        "#3e3e3c",
-        "#747470",
-        "#ffffff",
-        "#111110",
-        "#131311"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6108,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6108?format=jpg",
-      "colors": [
-        "#9a9b95",
-        "#111110",
-        "#555652",
-        "#575753",
-        "#202222",
-        "#e1e1db",
-        "#e2e3dc",
-        "#797a75"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6107,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6107?format=jpg",
-      "colors": [
-        "#f0f1ec",
-        "#838380",
-        "#151513",
-        "#111110",
-        "#a6a7a2",
-        "#575753",
-        "#ffffff",
-        "#656562"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6106,
-      "title": "Pricing | Frontify",
-      "domain": "frontify.com/en/pricing",
-      "pageUrl": "frontify.com/en/pricing",
-      "imageUrl": "https://pin.fontofweb.com/6106?format=jpg",
-      "colors": [
-        "#f0f1ec",
-        "#aeaeaa",
-        "#434441",
-        "#81827e",
-        "#575753",
-        "#ffffff",
-        "#141412",
-        "#111110"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6105,
-      "title": "Frontify: Where Brands Live - Brand Management Software",
-      "domain": "frontify.com/en",
-      "pageUrl": "frontify.com/en",
-      "imageUrl": "https://pin.fontofweb.com/6105?format=jpg",
-      "colors": [
-        "#f0f0eb",
-        "#111110",
-        "#11110f",
-        "#fcfcfb",
-        "#9fa09d",
-        "#3b3b38",
-        "#cfd0cb",
-        "#666764"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6104,
-      "title": "Frontify: Where Brands Live - Brand Management Software",
-      "domain": "frontify.com/en",
-      "pageUrl": "frontify.com/en",
-      "imageUrl": "https://pin.fontofweb.com/6104?format=jpg",
-      "colors": [
-        "#e5e6e0",
-        "#9a9a96",
-        "#201f1d",
-        "#565553",
-        "#f0f0eb"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik"
-      ]
-    },
-    {
-      "pinId": 6103,
-      "title": "Frontify: Where Brands Live - Brand Management Software",
-      "domain": "frontify.com/en",
-      "pageUrl": "frontify.com/en",
-      "imageUrl": "https://pin.fontofweb.com/6103?format=jpg",
-      "colors": [
-        "#424240",
-        "#6c6d6a",
-        "#f0f0eb",
-        "#f9f9f8",
-        "#111110",
-        "#a2a39f",
-        "#ffffff",
-        "#11110f"
-      ],
-      "fonts": [
-        "Abc Diatype",
-        "By Andrej Sevcik",
-        "By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet"
-      ]
-    }
-  ]
-}
-```
+No structured roles. From screenshots:
 
-## Representative captures
-[![Pricing | Frontify](https://pin.fontofweb.com/6111?format=jpg)](https://design.withfudge.com/pin/6111)
-[Pricing | Frontify](https://design.withfudge.com/pin/6111) — [source page](https://frontify.com/en/pricing)
+| Role | Approx | Use |
+|------|--------|-----|
+| Canvas | `#ebe8e1` / warm gray-beige | Page |
+| Surface | `#ffffff` | Cards, nav pills |
+| Ink | `#121212` | Headlines, body |
+| Muted | `#5a5a5a` | Supporting |
+| CTA | `#0a0a0a` fill / white label | Book demo, Talk to sales |
+| Hairline | soft warm gray | Card edges |
 
-[![Pricing | Frontify](https://pin.fontofweb.com/6110?format=jpg)](https://design.withfudge.com/pin/6110)
-[Pricing | Frontify](https://design.withfudge.com/pin/6110) — [source page](https://frontify.com/en/pricing)
+### Typography
 
-[![Pricing | Frontify](https://pin.fontofweb.com/6109?format=jpg)](https://design.withfudge.com/pin/6109)
-[Pricing | Frontify](https://design.withfudge.com/pin/6109) — [source page](https://frontify.com/en/pricing)
+| Role | Size | Weight | LH |
+|------|------|--------|-----|
+| Body | 18px | 400 | ~23–24px |
+| Display | 64px | 300 | 64px |
+| Mid title | 32px | 300 | ~32–38px |
+| Small title | 24px | 300 | ~31px |
 
-[![Pricing | Frontify](https://pin.fontofweb.com/6108?format=jpg)](https://design.withfudge.com/pin/6108)
-[Pricing | Frontify](https://design.withfudge.com/pin/6108) — [source page](https://frontify.com/en/pricing)
+Display is intentionally light (300) serif/editorial — not bold grotesk.
 
-[![Pricing | Frontify](https://pin.fontofweb.com/6107?format=jpg)](https://design.withfudge.com/pin/6107)
-[Pricing | Frontify](https://design.withfudge.com/pin/6107) — [source page](https://frontify.com/en/pricing)
+### Spacing and layout
 
-[![Pricing | Frontify](https://pin.fontofweb.com/6106?format=jpg)](https://design.withfudge.com/pin/6106)
-[Pricing | Frontify](https://design.withfudge.com/pin/6106) — [source page](https://frontify.com/en/pricing)
+- 24px padding dominates cards; 48px horizontal on larger panels; 80px section bottoms.
+- Pricing hero: left explanatory column + oversized right headline.
+- Floating split header: left product nav pill cluster, right utility cluster.
 
-[![Frontify: Where Brands Live - Brand Management Software](https://pin.fontofweb.com/6105?format=jpg)](https://design.withfudge.com/pin/6105)
-[Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6105) — [source page](https://frontify.com/en)
+## Visual language
 
-[![Frontify: Where Brands Live - Brand Management Software](https://pin.fontofweb.com/6104?format=jpg)](https://design.withfudge.com/pin/6104)
-[Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6104) — [source page](https://frontify.com/en)
+- Soft 8px cards; some 32px rounded panels.
+- Minimal shadow; warmth from canvas pigment.
+- Black solid pills, outlined secondary where needed.
+- Photography/product UI may appear in lower sections; hero is type-led.
+
+## Components and states
+
+1. Split floating header (nav pill + actions pill).
+2. Pricing hero with Talk to sales CTA.
+3. Plan cards / MAU explanation modules.
+4. FAQ or feature rows with 18px body.
+5. Book demo primary in header.
+
+## Responsive behavior
+
+Captures include short wide heroes (~510px tall) and taller pricing stacks. Display 64px will need fluid scaling; keep warm canvas and black pills constant.
+
+## Practical guidance
+
+**Preserve** warm paper field, light serif display, 18px body, black pills, 8/24 card rhythm.  
+**Avoid** cold blue SaaS defaults, heavy 800-weight display, rainbow accents, cramped pricing tables.
+
+## Scope note
+
+Eight captures focused on `/en` and `/en/pricing`. Structured colors/fonts unsupported; serif/sans and beige canvas from screenshots. Product app shell not included.
+
+## Captured pages
+
+[![Pricing hero type](https://pin.fontofweb.com/6107?format=jpg)](https://design.withfudge.com/share/pin-6107)
+
+[Pricing hero type](https://design.withfudge.com/share/pin-6107)
+
+[![Pricing stack](https://pin.fontofweb.com/6110?format=jpg)](https://design.withfudge.com/share/pin-6110)
+
+[Pricing stack](https://design.withfudge.com/share/pin-6110)
+
+[![Pricing band](https://pin.fontofweb.com/6111?format=jpg)](https://design.withfudge.com/share/pin-6111)
+
+[Pricing band](https://design.withfudge.com/share/pin-6111)
+
+[![Pricing cards crop](https://pin.fontofweb.com/6108?format=jpg)](https://design.withfudge.com/share/pin-6108)
+
+[Pricing cards crop](https://design.withfudge.com/share/pin-6108)
+
+## Colors
+
+- `#ebe8e1`
+- `#f3f1ec`
+- `#ffffff`
+- `#121212`
+- `#5a5a5a`
+- `#0a0a0a`

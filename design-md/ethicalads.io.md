@@ -1,95 +1,83 @@
 # How ethicalads.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/ethicalads.io-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/ethicalads.io-design)
 
-Source domain: [ethicalads.io](https://ethicalads.io)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-28
+## Design character
 
-<!--
-coverPin: 6085
--->
+EthicalAds presents as practical open-source adjacent infrastructure marketing. The advertisers surface is a bright, conventional product page: white canvas, clear navy/blue primary actions, simple rounded cards, and readable sans body copy. It feels trustworthy and utilitarian rather than brand-theatrical.
 
-Here is the visual system observed across **2 captured pages** from [ethicalads.io](https://ethicalads.io).
+What should survive adaptation:
+- High-legibility light UI with obvious primary buttons
+- Modest corner radii (~3–6px)
+- Predictable vertical rhythm (8/12/16px stacks)
+- Marketing that still reads like documentation-adjacent SaaS
 
-```fudge-colors
-[
-  "#161c2d",
-  "#869ab8",
-  "#384c74",
-  "#f9fbfd",
-  "#2c82b9",
-  "#ffffff",
-  "#505050",
-  "#000000",
-  "#506690",
-  "#088cdb",
-  "#192a4e",
-  "#7082a1",
-  "#f1f2f6",
-  "#3183ba",
-  "#495a7b",
-  "#a2afc4"
-]
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 26 |
-| Spacing values | 21 |
-| Borders and radii | 3 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6085,
-      "title": "Advertise with Us - EthicalAds",
-      "domain": "ethicalads.io/advertisers/",
-      "pageUrl": "ethicalads.io/advertisers/",
-      "imageUrl": "https://pin.fontofweb.com/6085?format=jpg",
-      "colors": [
-        "#161c2d",
-        "#869ab8",
-        "#192a4e",
-        "#7082a1",
-        "#f1f2f6",
-        "#3183ba",
-        "#2c82b9",
-        "#495a7b"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6084,
-      "title": "Advertise with Us - EthicalAds",
-      "domain": "ethicalads.io/advertisers/",
-      "pageUrl": "ethicalads.io/advertisers/",
-      "imageUrl": "https://pin.fontofweb.com/6084?format=jpg",
-      "colors": [
-        "#2c82b9",
-        "#edfccd",
-        "#1f2026",
-        "#838d9d",
-        "#505050",
-        "#ffffff",
-        "#384c74",
-        "#161c2d"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Structured palette roles were unsupported. Visually:
+- White page background
+- Dark charcoal headings
+- Blue filled primary buttons and text links
+- Light gray card/section separation
+- Standard success/info accents only if present in badges (not strongly branded)
 
-## Representative captures
-[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6085?format=jpg)](https://design.withfudge.com/pin/6085)
-[Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6085) — [source page](https://ethicalads.io/advertisers/)
+### Typography
 
-[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6084?format=jpg)](https://design.withfudge.com/pin/6084)
-[Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6084) — [source page](https://ethicalads.io/advertisers/)
+Font families were not declared in the capture. Hierarchy is conventional marketing/docs:
+- Page title large and bold
+- Section heads medium weight
+- Body ~ readable 16px-class copy
+- Dense enough for pricing and advertiser details without editorial flourish
+
+### Spacing and layout
+
+Measured spacing emphasizes:
+- Horizontal padding ~20px
+- Margin stacks of 8 / 12 / 16px
+- Occasional wide centered columns (large left/right auto margins)
+
+Layout: top marketing nav, hero with CTA, feature/benefit sections, straightforward footer. Cards use small radii (~6px primary, ~3px secondary).
+
+## Visual language
+
+- Soft small radii, not pills
+- Light borders / flat cards rather than heavy shadows
+- Imagery is product UI or simple illustration if present; not cinematic
+- Overall “Bootstrap-clean” rather than custom art direction
+
+## Components and states
+
+- Primary blue button for main conversion
+- Secondary outline or text buttons
+- Simple form-like or plan cards on advertisers
+- Standard nav with logo + links + CTA
+
+Only default static states were observed.
+
+## Responsive behavior
+
+Two crops of the same advertisers path at different heights; not a full responsive study. Expect classic stacking of hero and cards on smaller widths.
+
+## Practical guidance
+
+**Preserve** clarity, blue primary, small radii, docs-like honesty.  
+**Avoid** dark cyber aesthetics or oversized display type that fights the utilitarian brand.  
+**Adaptation** works for privacy-respecting ad tech, open-source services, and boring-on-purpose B2B.
+
+## Scope note
+
+Two captures, both `/advertisers/`. Home and publisher dashboards were not in scope. Color/type families unsupported in structured data; guidance leans on spacing, radii, and screenshots.
+
+## Captured pages
+
+[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6084?format=jpg)](https://design.withfudge.com/share/pin-6084)
+
+[Advertise with Us - EthicalAds](https://design.withfudge.com/share/pin-6084)
+
+[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6085?format=jpg)](https://design.withfudge.com/share/pin-6085)
+
+[Advertise with Us - EthicalAds](https://design.withfudge.com/share/pin-6085)

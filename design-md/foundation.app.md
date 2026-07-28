@@ -1,334 +1,120 @@
 # How foundation.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/foundation.app-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/foundation.app-design)
 
-Source domain: [foundation.app](https://foundation.app)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-28
+## Design character
 
-<!--
-coverPin: 8482
--->
+Foundation is a **light, gallery-first NFT marketplace** where art fills large rounded tiles and chrome stays minimal. The home experience can open as a full-bleed artwork stage with a floating frosted search pill; browse/gallery views switch to a clean white shell, big “Browse” wordmark, soft segmented tabs, and a 2-up (or denser) grid of exhibition cards with glass-stat footers.
 
-Here is the visual system observed across **17 captured pages** from [foundation.app](https://foundation.app).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#171717",
-  "#ffffff",
-  "#fefefe",
-  "#343434",
-  "#010101",
-  "#555258",
-  "#7c7d86",
-  "#332a2b",
-  "#979999",
-  "#885a76",
-  "#54961d",
-  "#7d7c26",
-  "#0c090e",
-  "#8f564d",
-  "#f7f7f7"
-]
-```
+- **Art-forward canvases** — artwork is the hero; UI is thin and light.
+- **White app shell** with black primary actions and soft gray pills.
+- **Large radius media cards** (~12px) and fully pill search/filter controls.
+- Frosted / translucent **stats bars** over art (creators, sold, ETH totals).
+- Sparse type: huge black display “Browse”, otherwise 14–16px UI.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from foundation.app",
-  "sampleText": "foundation.app",
-  "fonts": [
-    {
-      "family": "Font",
-      "familyId": 319,
-      "pinId": 8482,
-      "domain": "foundation.app",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1256
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 17 |
-| Colors | 127 |
-| Spacing values | 160 |
-| Borders and radii | 70 |
-| Shadows | 12 |
-| Gradients | 3 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8482,
-      "title": "Colorful Encounter | Foundation",
-      "domain": "foundation.app/mint/base/0x592dA21bC83c916212E3748da719286AFEF08036/3",
-      "pageUrl": "foundation.app/mint/base/0x592dA21bC83c916212E3748da719286AFEF08036/3",
-      "imageUrl": "https://pin.fontofweb.com/8482?format=jpg",
-      "colors": [
-        "#555258",
-        "#7c7d86",
-        "#332a2b",
-        "#979999",
-        "#885a76",
-        "#54961d",
-        "#7d7c26",
-        "#fefefe"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8481,
-      "title": "Foundation",
-      "domain": "foundation.app/",
-      "pageUrl": "foundation.app/",
-      "imageUrl": "https://pin.fontofweb.com/8481?format=jpg",
-      "colors": [
-        "#000000",
-        "#f7f7f7",
-        "#857e76",
-        "#e55154",
-        "#9618e7",
-        "#08050a",
-        "#a9ca7b",
-        "#bcbdbc"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8480,
-      "title": "Galleries | Foundation",
-      "domain": "foundation.app/browse/galleries",
-      "pageUrl": "foundation.app/browse/galleries",
-      "imageUrl": "https://pin.fontofweb.com/8480?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#d3c860",
-        "#5b2219",
-        "#665a38",
-        "#1b342e",
-        "#000000",
-        "#fefefe",
-        "#292420"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8479,
-      "title": "Galleries | Foundation",
-      "domain": "foundation.app/trending/galleries",
-      "pageUrl": "foundation.app/trending/galleries",
-      "imageUrl": "https://pin.fontofweb.com/8479?format=jpg",
-      "colors": [
-        "#000000",
-        "#fefefe",
-        "#737575",
-        "#b4b4b5",
-        "#84f234",
-        "#c53aba",
-        "#fcb82f",
-        "#345765"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8478,
-      "title": "Page not found | Foundation",
-      "domain": "foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A",
-      "pageUrl": "foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A",
-      "imageUrl": "https://pin.fontofweb.com/8478?format=jpg",
-      "colors": [
-        "#a1a63a",
-        "#8e8f97",
-        "#ffffff",
-        "#5f6331",
-        "#8d5384",
-        "#020203",
-        "#4a4847",
-        "#aea885"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8477,
-      "title": "Page not found | Foundation",
-      "domain": "foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A",
-      "pageUrl": "foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A",
-      "imageUrl": "https://pin.fontofweb.com/8477?format=jpg",
-      "colors": [
-        "#171717",
-        "#343434",
-        "#f4f4f4",
-        "#9d9d9d",
-        "#060606",
-        "#91eb3b",
-        "#6b6b6b",
-        "#000000"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8476,
-      "title": "0xDd41…304e | Foundation",
-      "domain": "foundation.app/0xDd41906B5E8a8823dbd4750b8647EC5dA1D5304e",
-      "pageUrl": "foundation.app/0xDd41906B5E8a8823dbd4750b8647EC5dA1D5304e",
-      "imageUrl": "https://pin.fontofweb.com/8476?format=jpg",
-      "colors": [
-        "#010101",
-        "#b3b3b3",
-        "#343434",
-        "#818181",
-        "#000000",
-        "#91fa30",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8475,
-      "title": "JIMMY (@JIMMY) | Foundation",
-      "domain": "foundation.app/@JIMMY",
-      "pageUrl": "foundation.app/@JIMMY",
-      "imageUrl": "https://pin.fontofweb.com/8475?format=jpg",
-      "colors": [
-        "#97989a",
-        "#e736b8",
-        "#111010",
-        "#5359af",
-        "#ffffff",
-        "#c9262e",
-        "#fbfbfb",
-        "#737372"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8474,
-      "title": "Feed | Foundation",
-      "domain": "foundation.app/feed",
-      "pageUrl": "foundation.app/feed",
-      "imageUrl": "https://pin.fontofweb.com/8474?format=jpg",
-      "colors": [
-        "#b6b6b6",
-        "#3c3c3c",
-        "#99f344",
-        "#ffffff",
-        "#666666",
-        "#000000",
-        "#8b8b8b",
-        "#0b0b0b"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8473,
-      "title": "Feed | Foundation",
-      "domain": "foundation.app/feed",
-      "pageUrl": "foundation.app/feed",
-      "imageUrl": "https://pin.fontofweb.com/8473?format=jpg",
-      "colors": [
-        "#777777",
-        "#ffffff",
-        "#a9a9a9",
-        "#000000",
-        "#3d3d3d",
-        "#010101"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8472,
-      "title": "NBLAGL_008 | Foundation",
-      "domain": "foundation.app/mint/eth/0xa3C899d870B4c5875d2EA4a4902c1a5cd11383bC/9",
-      "pageUrl": "foundation.app/mint/eth/0xa3C899d870B4c5875d2EA4a4902c1a5cd11383bC/9",
-      "imageUrl": "https://pin.fontofweb.com/8472?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#636363",
-        "#fefefe",
-        "#3e3d3e",
-        "#bebebe",
-        "#9a77ac",
-        "#030303",
-        "#888888"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    },
-    {
-      "pinId": 8471,
-      "title": "NBLAGL_008 | Foundation",
-      "domain": "foundation.app/mint/eth/0xa3C899d870B4c5875d2EA4a4902c1a5cd11383bC/9",
-      "pageUrl": "foundation.app/mint/eth/0xa3C899d870B4c5875d2EA4a4902c1a5cd11383bC/9",
-      "imageUrl": "https://pin.fontofweb.com/8471?format=jpg",
-      "colors": [
-        "#797c69",
-        "#bf2522",
-        "#000000",
-        "#fefefe",
-        "#4a0d64",
-        "#83659f",
-        "#b01a69",
-        "#5dca37"
-      ],
-      "fonts": [
-        "Font"
-      ]
-    }
-  ]
-}
-```
+No structured palette rows. From captures:
 
-## Representative captures
-[![Colorful Encounter | Foundation](https://pin.fontofweb.com/8482?format=jpg)](https://design.withfudge.com/pin/8482)
-[Colorful Encounter | Foundation](https://design.withfudge.com/pin/8482) — [source page](https://foundation.app/mint/base/0x592dA21bC83c916212E3748da719286AFEF08036/3)
+| Role | Hex (approx.) | Use |
+|------|----------------|-----|
+| Canvas | `#ffffff` | Browse / galleries shell |
+| Ink | `#0a0a0a` | Headlines, primary buttons |
+| Muted text | `#6b6b6b` | Meta stats labels |
+| Soft pill | `#f2f2f2` / `#efefef` | Search field, inactive tabs |
+| Active tab chip | light gray fill + black label | “Galleries” |
+| Primary CTA | `#000000` text on black btn → white label | Create |
+| Accent orb | mint/green gradient dot | Profile/status beside Create |
+| Overlay stats | translucent dark glass | Card footers on art |
 
-[![Foundation](https://pin.fontofweb.com/8481?format=jpg)](https://design.withfudge.com/pin/8481)
-[Foundation](https://design.withfudge.com/pin/8481) — [source page](https://foundation.app/)
+Home splash may invert to artwork-dominated dark photography with white frosted search — still the same soft-pill language.
 
-[![Galleries | Foundation](https://pin.fontofweb.com/8480?format=jpg)](https://design.withfudge.com/pin/8480)
-[Galleries | Foundation](https://design.withfudge.com/pin/8480) — [source page](https://foundation.app/browse/galleries)
+### Typography
 
-[![Galleries | Foundation](https://pin.fontofweb.com/8479?format=jpg)](https://design.withfudge.com/pin/8479)
-[Galleries | Foundation](https://design.withfudge.com/pin/8479) — [source page](https://foundation.app/trending/galleries)
+Families not declared. System is a **grotesk sans**:
 
-[![Page not found | Foundation](https://pin.fontofweb.com/8478?format=jpg)](https://design.withfudge.com/pin/8478)
-[Page not found | Foundation](https://design.withfudge.com/pin/8478) — [source page](https://foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
+| Role | Size | Weight | LH |
+|------|------|--------|-----|
+| UI body | 16px | 400 | tight / default |
+| Emphasis UI | 14–16px | 600 | ~20px |
+| Card/section title | 32px | 500 | 40px |
+| Display “Browse” | very large black sans | ~700 visual | tight |
 
-[![Page not found | Foundation](https://pin.fontofweb.com/8477?format=jpg)](https://design.withfudge.com/pin/8477)
-[Page not found | Foundation](https://design.withfudge.com/pin/8477) — [source page](https://foundation.app/collection/0xBC431318E857Bf34416261A4e7591B858018c44A)
+### Spacing and layout
 
-[![0xDd41…304e | Foundation](https://pin.fontofweb.com/8476?format=jpg)](https://design.withfudge.com/pin/8476)
-[0xDd41…304e | Foundation](https://design.withfudge.com/pin/8476) — [source page](https://foundation.app/0xDd41906B5E8a8823dbd4750b8647EC5dA1D5304e)
+- Horizontal page padding often **48px**; dense chip padding **16×20**.
+- Card grid with ~12px radius; pill controls at 9999 radius.
+- Mint detail views use 8px radius and 8–12px padding on dense forms.
+- Home: centered floating search over full-bleed art; browse: header + tab row + masonry/grid of gallery cards.
 
-[![JIMMY (@JIMMY) | Foundation](https://pin.fontofweb.com/8475?format=jpg)](https://design.withfudge.com/pin/8475)
-[JIMMY (@JIMMY) | Foundation](https://design.withfudge.com/pin/8475) — [source page](https://foundation.app/@JIMMY)
+## Visual language
+
+- Soft, almost borderless cards; image is the surface.
+- Pill search with leading icon; black pill Create.
+- Glassmorphism only on on-art stat strips, not on chrome.
+- Minimal shadow; separation via whitespace and light gray chips.
+
+## Components and states
+
+1. **Top nav** — mark, Feed/Trending, center search pill, theme toggle, Create, avatar orb.
+2. **Segmented category tabs** — NFTs / Collections / Drops / Galleries.
+3. **Gallery card** — full-bleed art, centered title, optional logo chip, bottom stats row.
+4. **Sort control** — “Most active” outlined pill.
+5. **Mint/detail surfaces** — denser forms, 8px inputs (from mint captures).
+
+## Responsive behavior
+
+All primary captures ~1712×1314. Grid stays multi-column on desktop; mobile-specific layout not in set. Radius and pill language should hold when columns drop.
+
+## Practical guidance
+
+**Preserve**
+
+- White shell, black CTAs, art-first cards.
+- Frosted search and glass stats as the only “effects.”
+- Huge quiet display type for section titles.
+- 12px media radius + full pills for controls.
+
+**Avoid**
+
+- Heavy marketplace clutter (rainbow badges everywhere).
+- Dark-mode-default chrome on browse (home art stage is the exception).
+- Sharp 2–4px admin radii on gallery cards.
+- Competing brand colors in the shell.
+
+## Scope note
+
+Eight captures including home, galleries browse/trending, profile/collection paths, and a mint page. Color roles and font families unsupported in structure; visual palette from screenshots. Spacing on gallery views partially truncated.
+
+## Captured pages
+
+[![Home art stage](https://pin.fontofweb.com/8481?format=jpg)](https://design.withfudge.com/share/pin-8481)
+
+[Home art stage](https://design.withfudge.com/share/pin-8481)
+
+[![Browse galleries](https://pin.fontofweb.com/8480?format=jpg)](https://design.withfudge.com/share/pin-8480)
+
+[Browse galleries](https://design.withfudge.com/share/pin-8480)
+
+[![Trending galleries](https://pin.fontofweb.com/8479?format=jpg)](https://design.withfudge.com/share/pin-8479)
+
+[Trending galleries](https://design.withfudge.com/share/pin-8479)
+
+[![Mint detail](https://pin.fontofweb.com/8482?format=jpg)](https://design.withfudge.com/share/pin-8482)
+
+[Mint detail](https://design.withfudge.com/share/pin-8482)
+
+## Colors
+
+- `#ffffff`
+- `#0a0a0a`
+- `#6b6b6b`
+- `#f2f2f2`
+- `#efefef`
+- `#111111`

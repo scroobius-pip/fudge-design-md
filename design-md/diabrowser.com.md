@@ -1,282 +1,89 @@
 # How diabrowser.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/diabrowser.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/diabrowser.com-design)
 
-Source domain: [diabrowser.com](https://diabrowser.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-08
+## Design character
 
-<!--
-coverPin: 9533
--->
+Dia Browser markets itself like a **premium consumer editorial**, not a neon AI startup. The site is **cream/off-white, typographic, and product-forward**: enormous black headlines, generous whitespace, and soft photographs of the browser UI in real contexts. Docs pages keep the same calm temperature with a simple sidebar and readable article measure.
 
-Here is the visual system observed across **9 captured pages** from [diabrowser.com](https://diabrowser.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ebebeb",
-  "#f5f6f8",
-  "#667596",
-  "#a6a6a6",
-  "#595b5e",
-  "#b2cdfe",
-  "#262729",
-  "#f7f7f7",
-  "#aaaaaa",
-  "#888888",
-  "#6d6d6d",
-  "#3a3a3a",
-  "#f6f6f6",
-  "#c7c8c9",
-  "#9a9a9a"
-]
-```
+- Warm light canvas instead of pure startup white-blue
+- Display type large enough to feel magazine-like
+- Soft 12px rounding on product chrome and cards
+- Product UI photography as proof, not abstract 3D toys
 
-```fudge-font-usage
-{
-  "title": "Typography captured from diabrowser.com",
-  "sampleText": "diabrowser.com",
-  "fonts": [
-    {
-      "family": "Abc Oracle",
-      "familyId": 1103,
-      "pinId": 9533,
-      "domain": "diabrowser.com",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "15px",
-      "letterSpacing": "normal",
-      "frequency": 32
-    },
-    {
-      "family": "Exposure 0",
-      "familyId": 791,
-      "pinId": 9533,
-      "domain": "diabrowser.com",
-      "weight": "500",
-      "size": "18px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 80
-    },
-    {
-      "family": "Exposure 20",
-      "familyId": 2578,
-      "pinId": 9533,
-      "domain": "diabrowser.com",
-      "weight": "600",
-      "size": "45px",
-      "lineHeight": "54px",
-      "letterSpacing": "-0.45px",
-      "frequency": 45
-    },
-    {
-      "family": "Exposure",
-      "familyId": 2579,
-      "pinId": 9533,
-      "domain": "diabrowser.com",
-      "weight": "550",
-      "size": "16px",
-      "lineHeight": "23px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 60 |
-| Spacing values | 5 |
-| Borders and radii | 1 |
-| Shadows | 1 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9533,
-      "title": "Dia Browser | Latest Release Notes",
-      "domain": "diabrowser.com/release-notes/latest",
-      "pageUrl": "diabrowser.com/release-notes/latest",
-      "imageUrl": "https://pin.fontofweb.com/9533?format=jpg",
-      "colors": [
-        "#f5f6f8",
-        "#ebebeb",
-        "#667596",
-        "#a6a6a6",
-        "#595b5e",
-        "#000000",
-        "#b2cdfe",
-        "#262729"
-      ],
-      "fonts": [
-        "Abc Oracle",
-        "Exposure 0",
-        "Exposure 20",
-        "Exposure"
-      ]
-    },
-    {
-      "pinId": 3816,
-      "title": "Getting Started | Dia Browser",
-      "domain": "diabrowser.com/getting-started",
-      "pageUrl": "diabrowser.com/getting-started",
-      "imageUrl": "https://pin.fontofweb.com/3816?format=jpg",
-      "colors": [
-        "#f7f7f7",
-        "#aaaaaa",
-        "#888888",
-        "#6d6d6d",
-        "#3a3a3a"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3815,
-      "title": "Getting Started | Dia Browser",
-      "domain": "diabrowser.com/getting-started",
-      "pageUrl": "diabrowser.com/getting-started",
-      "imageUrl": "https://pin.fontofweb.com/3815?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#c7c8c9",
-        "#9a9a9a",
-        "#171717",
-        "#4a4a4a",
-        "#fbc449",
-        "#5184d9",
-        "#e44e3e"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3814,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3814?format=jpg",
-      "colors": [
-        "#eeedf1",
-        "#aaa9ac",
-        "#7f7d81",
-        "#2f2f30"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3813,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3813?format=jpg",
-      "colors": [
-        "#f6f5f5",
-        "#f9e0c6",
-        "#101010",
-        "#a29f9e",
-        "#5a5550"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3812,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3812?format=jpg",
-      "colors": [
-        "#f5f5f6",
-        "#d2dbf1",
-        "#060505",
-        "#a2a2a2",
-        "#574f4b"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3811,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3811?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#e9a48c",
-        "#f1adec",
-        "#e8d4d4",
-        "#f1a0ad",
-        "#edb882",
-        "#aaa3a2",
-        "#7c706c"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3810,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3810?format=jpg",
-      "colors": [
-        "#f9f9f9",
-        "#a2a4a5",
-        "#79787a",
-        "#232122",
-        "#a27d5d",
-        "#484d2b",
-        "#783824",
-        "#909c3e"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3809,
-      "title": "Dia Browser | AI Chat With Your Tabs",
-      "domain": "diabrowser.com/",
-      "pageUrl": "diabrowser.com/",
-      "imageUrl": "https://pin.fontofweb.com/3809?format=jpg",
-      "colors": [
-        "#f8f8f8",
-        "#030303",
-        "#b0b0b0",
-        "#7f7f7f",
-        "#5a5a5a",
-        "#343434"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No stable measured role hexes were returned. Visually:
 
-## Representative captures
-[![Dia Browser | Latest Release Notes](https://pin.fontofweb.com/9533?format=jpg)](https://design.withfudge.com/pin/9533)
-[Dia Browser | Latest Release Notes](https://design.withfudge.com/pin/9533) — [source page](https://diabrowser.com/release-notes/latest)
+- Canvas: warm cream / paper white
+- Text: near-black
+- Secondary text: muted warm gray
+- Product UI inside screenshots brings its own neutrals
+- Accents stay quiet—avoid inventing a loud brand purple
 
-[![Getting Started | Dia Browser](https://pin.fontofweb.com/3816?format=jpg)](https://design.withfudge.com/pin/3816)
-[Getting Started | Dia Browser](https://design.withfudge.com/pin/3816) — [source page](https://diabrowser.com/getting-started)
+### Typography
 
-[![Getting Started | Dia Browser](https://pin.fontofweb.com/3815?format=jpg)](https://design.withfudge.com/pin/3815)
-[Getting Started | Dia Browser](https://design.withfudge.com/pin/3815) — [source page](https://diabrowser.com/getting-started)
+Declared families unknown. Observed sizes span small UI (~10–14px) up through very large display (captures include ~48–64px+ hero lines). Weights cluster at 400–600. Body sits around 15–16px with airy leading. The voice is confident and minimal—“AI chat with your tabs” said once, large, then shown.
 
-[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3814?format=jpg)](https://design.withfudge.com/pin/3814)
-[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3814) — [source page](https://diabrowser.com/)
+### Spacing and layout
 
-[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3813?format=jpg)](https://design.withfudge.com/pin/3813)
-[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3813) — [source page](https://diabrowser.com/)
+Spacing steps include 4 / 8 / 10 / 12 / 16 / 24 / 40px. Home is a vertical story of hero → product frames → feature chapters. Getting Started uses a **left nav + main article** docs shell with comfortable padding. Avoid compressing the hero into a crowded above-the-fold widget pile.
 
-[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3812?format=jpg)](https://design.withfudge.com/pin/3812)
-[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3812) — [source page](https://diabrowser.com/)
+## Visual language
 
-[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3811?format=jpg)](https://design.withfudge.com/pin/3811)
-[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3811) — [source page](https://diabrowser.com/)
+- **Radius 12px** is the repeated rounding token on cards/frames
+- Soft shadows appear sparingly under product panels
+- Imagery: realistic browser windows, tab strips, chat panes—photographed or high-fidelity renders on cream
+- Release notes keep the same quiet shell with list content
 
-[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3810?format=jpg)](https://design.withfudge.com/pin/3810)
-[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3810) — [source page](https://diabrowser.com/)
+## Components and states
+
+- Marketing nav: light, text-first
+- Hero: oversized headline + short subcopy + quiet CTAs
+- Docs: sidebar sections, article title, step content
+- Release notes: chronological list in the same chrome
+
+No aggressive multi-color badge systems in the studied frames.
+
+## Practical guidance
+
+**Preserve**
+
+- Cream paper field and black type
+- Huge display headlines
+- 12px soft product frames
+- Docs that feel like the same brand as marketing
+
+**Avoid**
+
+- Cyberpunk dark mode as the default marketing skin
+- Tiny hero type with dense feature grids
+- Harsh pure-white + electric blue SaaS clichés
+
+## Scope note
+
+Multiple home viewports plus Getting Started and latest release notes (pins 3810–3816, 9533). Measured brand hex roles and declared fonts were not available in this capture set.
+
+## Captured pages
+
+[![Home hero — AI chat with your tabs](https://pin.fontofweb.com/3811?format=jpg)](https://design.withfudge.com/share/pin-3811)
+
+[Home hero — AI chat with your tabs](https://design.withfudge.com/share/pin-3811)
+
+[![Getting Started docs](https://pin.fontofweb.com/3815?format=jpg)](https://design.withfudge.com/share/pin-3815)
+
+[Getting Started docs](https://design.withfudge.com/share/pin-3815)
+
+[![Latest release notes](https://pin.fontofweb.com/9533?format=jpg)](https://design.withfudge.com/share/pin-9533)
+
+[Latest release notes](https://design.withfudge.com/share/pin-9533)
+
+[![Home wide crop](https://pin.fontofweb.com/3810?format=jpg)](https://design.withfudge.com/share/pin-3810)
+
+[Home wide crop](https://design.withfudge.com/share/pin-3810)

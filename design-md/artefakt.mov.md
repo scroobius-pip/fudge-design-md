@@ -1,114 +1,62 @@
 # How artefakt.mov is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/artefakt.mov-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/artefakt.mov-design)
 
-Source domain: [artefakt.mov](https://artefakt.mov)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-30
+## Design character
 
-<!--
-coverPin: 8539
--->
+Artefakt is a **hybrid production studio** site that behaves like a quiet title card: sparse composition, small precise type (~14px), and cinematic negative space. The brand feels editorial and filmic—more portfolio opener than SaaS marketing page.
 
-Here is the visual system observed across **2 captured pages** from [artefakt.mov](https://artefakt.mov).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#0d0d0d",
-  "#c2c2c2",
-  "#5b5b5b",
-  "#f8f8f8",
-  "#8b8b8b",
-  "#4b4c4b",
-  "#737373",
-  "#fcfcfc",
-  "#999999",
-  "#cbcbcb"
-]
-```
+- Extreme restraint in chrome and color count.
+- Small, tightly set sans labels (~14.3px / 15.8px).
+- Horizontal padding near 24px rather than huge marketing gutters.
+- Motion/film craft communicated through imagery and pacing, not UI widgets.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from artefakt.mov",
-  "sampleText": "artefakt.mov",
-  "fonts": [
-    {
-      "family": "Tronica Mono",
-      "familyId": 2425,
-      "pinId": 8539,
-      "domain": "artefakt.mov",
-      "weight": "400",
-      "size": "14.3333px",
-      "lineHeight": "15.7667px",
-      "letterSpacing": "normal",
-      "frequency": 22
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 12 |
-| Spacing values | 4 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8539,
-      "title": "Artefakt — Hybrid Production Frankfurt",
-      "domain": "artefakt.mov/",
-      "pageUrl": "artefakt.mov/",
-      "imageUrl": "https://pin.fontofweb.com/8539?format=jpg",
-      "colors": [
-        "#c2c2c2",
-        "#0d0d0d",
-        "#5b5b5b",
-        "#f8f8f8",
-        "#000000",
-        "#ffffff",
-        "#8b8b8b"
-      ],
-      "fonts": [
-        "Tronica Mono"
-      ]
-    },
-    {
-      "pinId": 8538,
-      "title": "Artefakt — Hybrid Production Frankfurt",
-      "domain": "artefakt.mov/",
-      "pageUrl": "artefakt.mov/",
-      "imageUrl": "https://pin.fontofweb.com/8538?format=jpg",
-      "colors": [
-        "#0d0d0d",
-        "#4b4c4b",
-        "#737373",
-        "#fcfcfc",
-        "#ffffff",
-        "#000000",
-        "#999999",
-        "#cbcbcb"
-      ],
-      "fonts": [
-        "Tronica Mono"
-      ]
-    }
-  ]
-}
-```
+No measured roles. Expect high-contrast monochrome or near-monochrome with imagery supplying color. Do not invent a multi-stop brand palette.
 
-## Representative captures
-[![Artefakt — Hybrid Production Frankfurt](https://pin.fontofweb.com/8539?format=jpg)](https://design.withfudge.com/pin/8539)
-[Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8539) — [source page](https://artefakt.mov/)
+### Typography
 
-[![Artefakt — Hybrid Production Frankfurt](https://pin.fontofweb.com/8538?format=jpg)](https://design.withfudge.com/pin/8538)
-[Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8538) — [source page](https://artefakt.mov/)
+Single observed text style around 14.3px with tight line-height ~15.8px—label-like, not blog body. Hierarchy is likely scale + weight rather than many sizes.
+
+### Spacing and layout
+
+Sparse. Padding-left/right ~24px observed. Large empty regions are intentional.
+
+## Visual language
+
+Minimal borders/radii/shadows recorded. Shape language is secondary to layout and type.
+
+## Components and states
+
+Likely: minimal nav, hero title, project entries, contact. Detailed component inventory is thin in the structured data—lean on the sparse editorial read from screenshots.
+
+## Responsive behavior
+
+Two similar desktop home captures only.
+
+## Practical guidance
+
+**Preserve:** quiet cinematic spacing, small precise type, image-led storytelling.
+
+**Avoid:** feature grids, bright SaaS gradients, oversized display type that breaks the title-card mood.
+
+## Scope note
+
+Homepage only (two captures). Most token families unsupported; guide is intentionally conservative.
+
+## Captured pages
+
+[![Home — hybrid production](https://pin.fontofweb.com/8539?format=jpg)](https://design.withfudge.com/share/pin-8539)
+
+[Home — hybrid production](https://design.withfudge.com/share/pin-8539)
+
+[![Home — alternate state](https://pin.fontofweb.com/8538?format=jpg)](https://design.withfudge.com/share/pin-8538)
+
+[Home — alternate state](https://design.withfudge.com/share/pin-8538)

@@ -1,131 +1,89 @@
 # How agentation.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/agentation.dev-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/agentation.dev-design)
 
-Source domain: [agentation.dev](https://agentation.dev)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-02
+## Design character
 
-<!--
-coverPin: 6235
--->
+Agentation’s docs site is a **clean product-education surface**: white canvas, near-black type, a left documentation rail, and a single instructional hero that shows the product UI inside a light browser frame. The brand mark is a minimal line glyph; accent interaction color is a clear blue on otherwise monochrome chrome. It feels like a careful indie developer tool—high craft, low noise.
 
-Here is the visual system observed across **2 captured pages** from [agentation.dev](https://agentation.dev).
+What should survive:
 
-```fudge-colors
-[
-  "#000000",
-  "#111111",
-  "#ffffff",
-  "#faf9f7",
-  "#1a1a1a",
-  "#fcfcfa",
-  "#595957",
-  "#2e2e2d",
-  "#c1c1bf",
-  "#bbcfe7",
-  "#888886",
-  "#94adda",
-  "#1f1f1f",
-  "#c9c9c8",
-  "#a3a5a2",
-  "#7195d3"
-]
-```
+- White docs shell with sticky/side nav.
+- Product demo as the hero, not abstract gradients.
+- Blue only for links, steps, and primary buttons inside the product chrome.
+- Long-form explanatory body under the demo.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from agentation.dev",
-  "sampleText": "agentation.dev",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6235,
-      "domain": "agentation.dev",
-      "weight": "500",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 2
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 6234,
-      "domain": "agentation.dev",
-      "weight": "400",
-      "size": "7px",
-      "lineHeight": "11.2px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 19 |
-| Spacing values | 17 |
-| Borders and radii | 6 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6235,
-      "title": "Agentation",
-      "domain": "agentation.dev/",
-      "pageUrl": "agentation.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6235?format=jpg",
-      "colors": [
-        "#111111",
-        "#595957",
-        "#2e2e2d",
-        "#fcfcfa",
-        "#c1c1bf",
-        "#bbcfe7",
-        "#888886",
-        "#94adda"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6234,
-      "title": "Agentation",
-      "domain": "agentation.dev/",
-      "pageUrl": "agentation.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6234?format=jpg",
-      "colors": [
-        "#1f1f1f",
-        "#fcfcfa",
-        "#c9c9c8",
-        "#a3a5a2",
-        "#7195d3",
-        "#faf9f7",
-        "#60605f",
-        "#24385c"
-      ],
-      "fonts": [
-        "Inter",
-        "System"
-      ]
-    }
-  ]
-}
-```
+| Role | Value | Use |
+| --- | --- | --- |
+| Ground | white | Page |
+| Primary text | `#000000` / `#111111` | Headings and body |
+| Accent / interactive | bright blue (buttons, step badges, text links) | CTAs and anchors |
+| Chrome | light gray browser frame, dark floating toolbars | Demo UI |
 
-## Representative captures
-[![Agentation](https://pin.fontofweb.com/6235?format=jpg)](https://design.withfudge.com/pin/6235)
-[Agentation](https://design.withfudge.com/pin/6235) — [source page](https://agentation.dev/)
+Measured roles emphasize monochrome text; blue is visible in screenshots on buttons (“Add”), numbered badges, and inline links.
 
-[![Agentation](https://pin.fontofweb.com/6234?format=jpg)](https://design.withfudge.com/pin/6234)
-[Agentation](https://design.withfudge.com/pin/6234) — [source page](https://agentation.dev/)
+### Typography
+
+- **Page title**: ~18–24px semibold sans (“Overview”).
+- **Body**: ~15–16px, comfortable line length in the main column.
+- **Nav**: 13–15px; quiet hierarchy with a “NEW” pill on API.
+- **Code / UI labels**: smaller mono-like labels inside the demo.
+
+Families not declared in data.
+
+### Spacing and layout
+
+- Docs pattern: narrow left nav (~logo + links), wide main column.
+- Tight 8–18px stack spacing inside content; demo card has soft shadow and ~8–16px radius.
+- Floating black annotation toolbar (pill) overlays the demo.
+
+## Visual language
+
+- Soft shadows under the browser mock; rounded 8–16px cards.
+- Numbered blue circular callouts on the mock UI.
+- Dark tooltips/popovers with blue primary buttons for “Add”.
+- Minimal illustration—mostly UI chrome photography/mock.
+
+## Components and states
+
+1. **Docs shell** — left nav, main article, version pin.
+2. **Hero demo card** — fake browser with annotated dashboard and floating toolbar.
+3. **Quick start numbered list** — plain text steps.
+4. **Inline product popover** — dark panel, input, Cancel/Add.
+5. **Text links** — blue underline-on-hover style anchors to essays/authors.
+
+## Responsive behavior
+
+One strong desktop capture (~1718×1314) and one tiny/partial capture; treat desktop docs layout as the reference. Mobile collapse of the left nav is not evidenced.
+
+## Practical guidance
+
+**Preserve** white docs clarity, demo-first teaching, blue as the only saturated accent.  
+**Avoid** dark-marketing hero clichés or multi-color gradient mashups.  
+**Adapt** other tools by putting a real UI annotation story above the fold.
+
+## Scope note
+
+Two captures of the home/docs overview. Tiny second capture adds little layout signal. No declared font families.
+
+## Captured pages
+
+[![Docs overview — demo hero](https://pin.fontofweb.com/6234?format=jpg)](https://design.withfudge.com/share/pin-6234)
+
+[Docs overview — demo hero](https://design.withfudge.com/share/pin-6234)
+
+[![Partial / narrow capture](https://pin.fontofweb.com/6235?format=jpg)](https://design.withfudge.com/share/pin-6235)
+
+[Partial / narrow capture](https://design.withfudge.com/share/pin-6235)
+
+## Colors
+
+- `#000000`
+- `#111111`
+- `#ffffff`

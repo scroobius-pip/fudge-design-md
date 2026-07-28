@@ -1,357 +1,108 @@
 # How danielsun.space is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/danielsun.space-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/danielsun.space-design)
 
-Source domain: [danielsun.space](https://danielsun.space)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-04
+## Design character
 
-<!--
-coverPin: 8691
--->
+danielsun.space reads as a **personal portfolio / experimental personal site**: multiple home viewport crops suggest a single-path experience refined across widths rather than a large marketing sitemap. The system should feel **authorial and designed**, with layout and type carrying identity more than corporate component libraries.
 
-Here is the visual system observed across **10 captured pages** from [danielsun.space](https://danielsun.space).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#f5f5f5",
-  "#767676",
-  "#ffffff",
-  "#0000ee",
-  "#f2f2f2",
-  "#ffd500",
-  "#b8b8b8",
-  "#cfcfcf",
-  "#1f1f1f",
-  "#fefefd",
-  "#fffddd",
-  "#ffed3b",
-  "#fecd26",
-  "#493e0e",
-  "#fff99d"
-]
-```
+- **Home-as-the-product**—one crafted narrative surface.
+- Strong personal point of view in layout composition.
+- Responsive home art direction across many widths (eight home captures).
+- Restraint in global nav chrome; content composition leads.
+- Portfolio pacing: hero presence, then selected work/moments.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from danielsun.space",
-  "sampleText": "danielsun.space",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8691,
-      "domain": "danielsun.space",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 245
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8691,
-      "domain": "danielsun.space",
-      "weight": "500",
-      "size": "29.629px",
-      "lineHeight": "35.5548px",
-      "letterSpacing": "normal",
-      "frequency": 11
-    },
-    {
-      "family": "Inter Tight",
-      "familyId": 29,
-      "pinId": 7972,
-      "domain": "danielsun.space",
-      "weight": "500",
-      "size": "18px",
-      "lineHeight": "21.6px",
-      "letterSpacing": "0.1px",
-      "frequency": 14
-    },
-    {
-      "family": "Reddit Sans Condensed",
-      "familyId": 2352,
-      "pinId": 7972,
-      "domain": "danielsun.space",
-      "weight": "900",
-      "size": "72px",
-      "lineHeight": "79.2px",
-      "letterSpacing": "-2.16px",
-      "frequency": 38
-    },
-    {
-      "family": "Caveat",
-      "familyId": 386,
-      "pinId": 7971,
-      "domain": "danielsun.space",
-      "weight": "700",
-      "size": "32px",
-      "lineHeight": "30.72px",
-      "letterSpacing": "-1px",
-      "frequency": 5
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 10 |
-| Colors | 91 |
-| Spacing values | 35 |
-| Borders and radii | 13 |
-| Shadows | 3 |
-| Gradients | 6 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8691,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/8691?format=jpg",
-      "colors": [
-        "#fffddd",
-        "#ffed3b",
-        "#fecd26",
-        "#ffffff",
-        "#fefefd",
-        "#0000ee",
-        "#000000",
-        "#493e0e"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8690,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/8690?format=jpg",
-      "colors": [
-        "#fefefd",
-        "#fdcd26",
-        "#493e0f",
-        "#fffcc3",
-        "#000000",
-        "#fff050",
-        "#949286",
-        "#ffd500"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7972,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7972?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#db6c34",
-        "#4d3927",
-        "#291e1d",
-        "#000000",
-        "#ffffff",
-        "#767676",
-        "#ffd500"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Inter Tight",
-        "Reddit Sans Condensed"
-      ]
-    },
-    {
-      "pinId": 7971,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7971?format=jpg",
-      "colors": [
-        "#f9f9f8",
-        "#6e6249",
-        "#f5f5f5",
-        "#959494",
-        "#ffffff",
-        "#454540",
-        "#000000",
-        "#ffd500"
-      ],
-      "fonts": [
-        "System",
-        "Reddit Sans Condensed",
-        "Inter",
-        "Caveat"
-      ]
-    },
-    {
-      "pinId": 7970,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7970?format=jpg",
-      "colors": [
-        "#ffd500",
-        "#ca5159",
-        "#f4f4f3",
-        "#444147",
-        "#ecb96f",
-        "#6c4cd0",
-        "#f3511c",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7969,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7969?format=jpg",
-      "colors": [
-        "#9d9c9d",
-        "#cdcdcd",
-        "#656568",
-        "#272727",
-        "#101332",
-        "#b7b0f5",
-        "#fefefe",
-        "#ebc61b"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Caveat"
-      ]
-    },
-    {
-      "pinId": 7968,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7968?format=jpg",
-      "colors": [
-        "#c6c7c7",
-        "#151515",
-        "#000000",
-        "#f5f5f6",
-        "#69c69f",
-        "#d2d4f6",
-        "#656564",
-        "#d4f9d3"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7967,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7967?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#f9f9f9",
-        "#c5aa89",
-        "#0000ee",
-        "#ffd500",
-        "#8d8e91",
-        "#030303",
-        "#b9bec3"
-      ],
-      "fonts": [
-        "System",
-        "Reddit Sans Condensed",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7966,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7966?format=jpg",
-      "colors": [
-        "#4a5f76",
-        "#d26229",
-        "#f8f8f8",
-        "#c6a989",
-        "#944278",
-        "#2b2926",
-        "#f7d92a",
-        "#f3e495"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7965,
-      "title": "Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3",
-      "domain": "danielsun.space/",
-      "pageUrl": "danielsun.space/",
-      "imageUrl": "https://pin.fontofweb.com/7965?format=jpg",
-      "colors": [
-        "#b8b8b8",
-        "#fbb1e0",
-        "#395eae",
-        "#cfcfcf",
-        "#1f1f1f",
-        "#0000ee",
-        "#383838",
-        "#f2f2f2"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Caveat"
-      ]
-    }
-  ]
-}
-```
+No aggregated role colors were retained. Infer a deliberate personal palette from imagery and type contrast when rebuilding; do not invent a SaaS blue system. Prefer a tight custom set tied to the designer’s identity.
 
-## Representative captures
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8691?format=jpg)](https://design.withfudge.com/pin/8691)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8691) — [source page](https://danielsun.space/)
+### Typography
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8690?format=jpg)](https://design.withfudge.com/pin/8690)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8690) — [source page](https://danielsun.space/)
+Declared families not retained. Use a clear display/body pairing suitable for portfolio storytelling; sizes will flex by breakpoint more than in app UI.
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7972?format=jpg)](https://design.withfudge.com/pin/7972)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7972) — [source page](https://danielsun.space/)
+### Spacing and layout
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7971?format=jpg)](https://design.withfudge.com/pin/7971)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7971) — [source page](https://danielsun.space/)
+- Eight captures all on `/` at varied viewports imply **responsive composition is the system**.
+- Expect large hero regions and intentional empty space rather than dense dashboards.
+- Align modules to a personal grid; avoid enterprise 12-column admin patterns.
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7970?format=jpg)](https://design.withfudge.com/pin/7970)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7970) — [source page](https://danielsun.space/)
+## Visual language
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7969?format=jpg)](https://design.withfudge.com/pin/7969)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7969) — [source page](https://danielsun.space/)
+- Portfolio imagery and experimental layout moves matter more than generic cards.
+- Radii/shadows should stay secondary to composition.
+- Motion unknown from stills—don’t invent signature animation.
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7968?format=jpg)](https://design.withfudge.com/pin/7968)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7968) — [source page](https://danielsun.space/)
+## Components and states
 
-[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7967?format=jpg)](https://design.withfudge.com/pin/7967)
-[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7967) — [source page](https://danielsun.space/)
+### Home composition
+Primary artifact: hero, identity, selected work entry points.
+
+### Project entry
+If present in-page, treat as editorial blocks rather than app lists.
+
+## Responsive behavior
+
+**Strongly supported**: many widths of the same home path. Redesign should prioritize fluid type and reflowed composition, not merely stacking identical desktop cards.
+
+## Practical guidance
+
+**Preserve**
+
+1. Single-site narrative focus.
+2. Width-specific art direction.
+3. Personal, non-corporate tone.
+4. Imagery and composition over UI kit sprawl.
+
+**Avoid**
+
+1. Generic template portfolio chrome.
+2. Forcing a large design-system component inventory onto a personal home.
+3. Fake font licences or accent roles not measured.
+
+**Adaptation recipe**
+
+- One home story → expressive type → fluid breakpoints → selective work moments.
+
+## Scope note
+
+Eight home captures on `danielsun.space`. Supported: multi-width home focus and portfolio character. Gaps: structured colors/fonts, interior case-study pages, motion.
+
+## Captured pages
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8691?format=jpg)](https://design.withfudge.com/share/pin-8691)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-8691)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8690?format=jpg)](https://design.withfudge.com/share/pin-8690)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-8690)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7972?format=jpg)](https://design.withfudge.com/share/pin-7972)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7972)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7971?format=jpg)](https://design.withfudge.com/share/pin-7971)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7971)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7970?format=jpg)](https://design.withfudge.com/share/pin-7970)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7970)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7969?format=jpg)](https://design.withfudge.com/share/pin-7969)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7969)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7968?format=jpg)](https://design.withfudge.com/share/pin-7968)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7968)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7967?format=jpg)](https://design.withfudge.com/share/pin-7967)
+
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7967)

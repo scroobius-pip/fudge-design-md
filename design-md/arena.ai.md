@@ -1,194 +1,80 @@
 # How arena.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/arena.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/arena.ai-design)
 
-Source domain: [arena.ai](https://arena.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-16
+## Design character
 
-<!--
-coverPin: 9344
--->
+Arena.ai splits into two complementary modes: a **warm light analytics leaderboard** and a **dark dual-pane model battle workspace**. Shared DNA is dense, tool-grade UI—tight tables, clear borders, modest radii—plus a coral-red accent (`#f25550`) that marks brand and key actions without rainbow clutter.
 
-Here is the visual system observed across **3 captured pages** from [arena.ai](https://arena.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#f4f0eb",
-  "#252523",
-  "#413d39",
-  "#33302e",
-  "#000000",
-  "#e7e1da",
-  "#ffffff",
-  "#c7c2bc",
-  "#f25550",
-  "#413c3a",
-  "#67625b",
-  "#299bff",
-  "#9ecbff",
-  "#23211f",
-  "#79b8ff",
-  "#e1e4e8"
-]
-```
+- Light warm paper (`#f4f0eb` family) for data surfaces; dark charcoal for the live arena.
+- Red/coral accent for brand marks and primary emphasis.
+- Dense but readable tables with 1px grid borders.
+- 6–12px radii and light shadows on elevated panels.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from arena.ai",
-  "sampleText": "arena.ai",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9344,
-      "domain": "arena.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 164
-    },
-    {
-      "family": "By Chi Long Trieu",
-      "familyId": 2454,
-      "pinId": 9344,
-      "domain": "arena.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 4257
-    },
-    {
-      "family": "Martina Plantijn",
-      "familyId": 2259,
-      "pinId": 9344,
-      "domain": "arena.ai",
-      "weight": "300",
-      "size": "16px",
-      "lineHeight": "20px",
-      "letterSpacing": "-0.4px",
-      "frequency": 5
-    },
-    {
-      "family": "Basel Grotesk Mono",
-      "familyId": 2455,
-      "pinId": 9344,
-      "domain": "arena.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8747,
-      "domain": "arena.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 28
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 42 |
-| Spacing values | 177 |
-| Borders and radii | 29 |
-| Shadows | 5 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9344,
-      "title": "LLM Leaderboard - Best Text & Chat AI Models Compared",
-      "domain": "arena.ai/leaderboard/text",
-      "pageUrl": "arena.ai/leaderboard/text",
-      "imageUrl": "https://pin.fontofweb.com/9344?format=jpg",
-      "colors": [
-        "#2563eb",
-        "#c7c2bc",
-        "#299bff",
-        "#67625b",
-        "#2e2c29",
-        "#33302e",
-        "#696663",
-        "#fcfaf8"
-      ],
-      "fonts": [
-        "Applesystem",
-        "By Chi Long Trieu",
-        "Martina Plantijn",
-        "Basel Grotesk Mono"
-      ]
-    },
-    {
-      "pinId": 8747,
-      "title": "Arena | Benchmark & Compare the Best AI Models",
-      "domain": "arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595",
-      "pageUrl": "arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595",
-      "imageUrl": "https://pin.fontofweb.com/8747?format=jpg",
-      "colors": [
-        "#2b2927",
-        "#000000",
-        "#413d39",
-        "#413c3a",
-        "#79b8ff",
-        "#f25550",
-        "#686c70",
-        "#9a9a97"
-      ],
-      "fonts": [
-        "By Chi Long Trieu",
-        "Basel Grotesk Mono",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8746,
-      "title": "Arena | Benchmark & Compare the Best AI Models",
-      "domain": "arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702",
-      "pageUrl": "arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702",
-      "imageUrl": "https://pin.fontofweb.com/8746?format=jpg",
-      "colors": [
-        "#413c3a",
-        "#413d39",
-        "#989692",
-        "#a9896c",
-        "#c7c2bc",
-        "#577123",
-        "#ffffff",
-        "#e7e1da"
-      ],
-      "fonts": [
-        "By Chi Long Trieu",
-        "Martina Plantijn",
-        "Inter",
-        "Basel Grotesk Mono"
-      ]
-    }
-  ]
-}
-```
+Measured: accent `#f25550`, text primary on dark `#f4f0eb`. Leaderboard mode uses dark text on warm light gray/off-white. Keep accents sparse so rankings and model text stay legible.
 
-## Representative captures
-[![LLM Leaderboard - Best Text & Chat AI Models Compared](https://pin.fontofweb.com/9344?format=jpg)](https://design.withfudge.com/pin/9344)
-[LLM Leaderboard - Best Text & Chat AI Models Compared](https://design.withfudge.com/pin/9344) — [source page](https://arena.ai/leaderboard/text)
+### Typography
 
-[![Arena | Benchmark & Compare the Best AI Models](https://pin.fontofweb.com/8747?format=jpg)](https://design.withfudge.com/pin/8747)
-[Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8747) — [source page](https://arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595)
+Sans UI. Body 14–16px with 20–24 line-height; some 11–12px meta; medium 500–600 for table emphasis. No declared family names.
 
-[![Arena | Benchmark & Compare the Best AI Models](https://pin.fontofweb.com/8746?format=jpg)](https://design.withfudge.com/pin/8746)
-[Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8746) — [source page](https://arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702)
+### Spacing and layout
+
+Leaderboard: heavy 32px padding zones, 8–16px inner gaps, full-width data grids. Arena: tighter 6–16px padding inside panes, dual columns for model outputs.
+
+## Visual language
+
+- Radii 4 / 6 / 8 / 12 (and occasional pill 9999).
+- 1px solid borders defining table geometry.
+- Soft shadows (`y:1–10`, blur 2–15) for popovers/cards.
+- Minimal illustration—UI is the product.
+
+## Components and states
+
+- Ranked tables with sticky headers/filters.
+- Model selector chips and tabs.
+- Dual response columns with vote/actions.
+- Side rails for prompts/history.
+- Light elevation on menus.
+
+## Responsive behavior
+
+Desktop-focused captures (1344–1712). Table density implies horizontal scroll or column priority on small screens, but not evidenced.
+
+## Practical guidance
+
+**Preserve:** warm light vs dark arena duality, coral accent, bordered data density.
+
+**Avoid:** turning leaderboards into sparse marketing pages; over-rounding table cells into soft cards that hurt scanability.
+
+## Scope note
+
+One leaderboard and two arena session captures. Font families undeclared.
+
+## Captured pages
+
+[![Text LLM leaderboard](https://pin.fontofweb.com/9344?format=jpg)](https://design.withfudge.com/share/pin-9344)
+
+[Text LLM leaderboard](https://design.withfudge.com/share/pin-9344)
+
+[![Side-by-side model arena](https://pin.fontofweb.com/8747?format=jpg)](https://design.withfudge.com/share/pin-8747)
+
+[Side-by-side model arena](https://design.withfudge.com/share/pin-8747)
+
+[![Arena session workspace](https://pin.fontofweb.com/8746?format=jpg)](https://design.withfudge.com/share/pin-8746)
+
+[Arena session workspace](https://design.withfudge.com/share/pin-8746)
+
+## Colors
+
+- `#f25550`
+- `#f4f0eb`
+- `#ffffff`
+- `#111111`

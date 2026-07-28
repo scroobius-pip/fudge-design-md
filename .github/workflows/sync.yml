@@ -5,18 +5,23 @@ on:
     inputs:
       domain:
         description: Normalized domain, for example stripe.com
-        required: true
+        required: false
         type: string
       share_key:
         description: Accepted Fudge share key
-        required: true
+        required: false
         type: string
+      backfill:
+        description: Refresh all accepted domain DESIGN.md shares
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
 concurrency:
-  group: fudge-design-md-${{ inputs.domain }}
+  group: fudge-design-md-${{ inputs.backfill && 'backfill' || inputs.domain }}
   cancel-in-progress: false
 
 jobs:
@@ -25,6 +30,7 @@ jobs:
     env:
       FUDGE_DOMAIN: ${{ inputs.domain }}
       FUDGE_SHARE_KEY: ${{ inputs.share_key }}
+      FUDGE_BACKFILL: ${{ inputs.backfill && '1' || '0' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -32,7 +38,7 @@ jobs:
           node-version: 20
       - name: Download accepted guide
         run: node scripts/sync.mjs
-      - name: Commit accepted guide
+      - name: Commit accepted guides
         run: |
           if git diff --quiet; then
             echo "No guide changes."
@@ -40,6 +46,11 @@ jobs:
           fi
           git config user.name "fudge-design-md[bot]"
           git config user.email "fudge-design-md[bot]@users.noreply.github.com"
-          git add README.md "design-md/${FUDGE_DOMAIN}.md"
-          git commit -m "docs: publish ${FUDGE_DOMAIN} design guide"
+          if [ "${FUDGE_BACKFILL}" = "1" ]; then
+            git add README.md design-md
+            git commit -m "docs: backfill accepted design guides"
+          else
+            git add README.md "design-md/${FUDGE_DOMAIN}.md"
+            git commit -m "docs: publish ${FUDGE_DOMAIN} design guide"
+          fi
           git push

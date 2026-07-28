@@ -1,207 +1,100 @@
 # How ergo.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/ergo.org-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/ergo.org-design)
 
-Source domain: [ergo.org](https://ergo.org)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-10
+# How ergo.org is designed
 
-<!--
-coverPin: 9974
--->
+## Design character
 
-Here is the visual system observed across **4 captured pages** from [ergo.org](https://ergo.org).
+Ergo is a cinematic philosophy education brand: black full-bleed photography, classical serif display titles, and a floating pill navigation. Course pages feel like title cards for a documentary series—dark, scholarly, and spacious.
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#f0ebe4",
-  "#768100",
-  "#9b9fa4",
-  "#161312",
-  "#eeece4",
-  "#767579",
-  "#363538",
-  "#575354",
-  "#768102",
-  "#4d5413",
-  "#4f3425",
-  "#a39e95",
-  "#787470",
-  "#3e5464"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from ergo.org",
-  "sampleText": "ergo.org",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9974,
-      "domain": "ergo.org",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 29
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9974,
-      "domain": "ergo.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 504
-    },
-    {
-      "family": "Libre Baskerville",
-      "familyId": 1451,
-      "pinId": 9974,
-      "domain": "ergo.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 1901
-    },
-    {
-      "family": "Sabon Lt Std",
-      "familyId": 2651,
-      "pinId": 9974,
-      "domain": "ergo.org",
-      "weight": "400",
-      "size": "32px",
-      "lineHeight": "32px",
-      "letterSpacing": "-0.64px",
-      "frequency": 76
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 35 |
-| Spacing values | 161 |
-| Borders and radii | 9 |
-| Shadows | 1 |
-| Gradients | 4 |
+- **Canvas:** black / near-black photographic fields
+- **Type:** white and soft off-white
+- **Panels:** translucent dark glass cards (instructor bios)
+- **Nav pill:** dark frosted capsule with light labels
+- **Photography:** monochrome or muted archival/tech imagery behind type
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9974,
-      "title": "Ergo — Philosophy Begins in Wonder",
-      "domain": "ergo.org/",
-      "pageUrl": "ergo.org/",
-      "imageUrl": "https://pin.fontofweb.com/9974?format=jpg",
-      "colors": [
-        "#9b9fa4",
-        "#161312",
-        "#eeece4",
-        "#767579",
-        "#363538",
-        "#575354",
-        "#768102",
-        "#4d5413"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Libre Baskerville",
-        "Sabon Lt Std"
-      ]
-    },
-    {
-      "pinId": 9973,
-      "title": "Ergo — Philosophy Begins in Wonder",
-      "domain": "ergo.org/",
-      "pageUrl": "ergo.org/",
-      "imageUrl": "https://pin.fontofweb.com/9973?format=jpg",
-      "colors": [
-        "#a39e95",
-        "#787470",
-        "#3e5464",
-        "#eeebe4",
-        "#816341",
-        "#5b4b35",
-        "#3a3b3b",
-        "#211b15"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 9972,
-      "title": "Ergo — Philosophy Begins in Wonder",
-      "domain": "ergo.org/",
-      "pageUrl": "ergo.org/",
-      "imageUrl": "https://pin.fontofweb.com/9972?format=jpg",
-      "colors": [
-        "#1d1a15",
-        "#3f3721",
-        "#aca8a0",
-        "#696562",
-        "#efece4",
-        "#888683",
-        "#998c71",
-        "#6c5e3c"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 9969,
-      "title": "Computation as a Universal and Fundamental Concept — Ergo",
-      "domain": "ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "pageUrl": "ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "imageUrl": "https://pin.fontofweb.com/9969?format=jpg",
-      "colors": [
-        "#8f8c88",
-        "#5b5a57",
-        "#d6d5d4",
-        "#030202",
-        "#2d2c2b",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Libre Baskerville",
-        "Sabon Lt Std"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9974?format=jpg)](https://design.withfudge.com/pin/9974)
-[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9974) — [source page](https://ergo.org/)
+- Display titles ~32px (and visually larger on heroes), weight 400, often wide tracking serif
+- Body ~16px / ~18–20px on dark reading columns
+- Classical, editorial rhythm—less startup SaaS, more essay film
 
-[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9973?format=jpg)](https://design.withfudge.com/pin/9973)
-[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9973) — [source page](https://ergo.org/)
+### Spacing and layout
 
-[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9972?format=jpg)](https://design.withfudge.com/pin/9972)
-[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9972) — [source page](https://ergo.org/)
+- Large section padding: 48px horizontal; 88–192px vertical bands common
+- Centered content with large side margins (~348px on wide frames)
+- Radii ~**16px** on cards; ~22px on some controls
+- Home: hero statement over imagery + course grid
+- Course: title card, essay column, instructor card rail
 
-[![Computation as a Universal and Fundamental Concept — Ergo](https://pin.fontofweb.com/9969?format=jpg)](https://design.withfudge.com/pin/9969)
-[Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/pin/9969) — [source page](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
+## Visual language
+
+- Full-bleed darkened photography
+- Serif lockups for course titles
+- Floating top nav capsule
+- Glass instructor cards
+- Minimal ornament; typography and photo do the work
+
+## Components and states
+
+- ERGO wordmark
+- Pill nav (Courses, All Videos, About)
+- Course cards on home
+- Long-form course introduction
+- Instructor profile card
+- Links to lecture index / YouTube
+
+## Responsive behavior
+
+Wide 2048 captures plus a 1335-wide home. Dark full-bleed approach likely continues on smaller screens with stacked instructor cards; mobile not explicitly captured.
+
+## Practical guidance
+
+**Preserve**
+
+- Black photographic stage and white serif display
+- Floating pill nav
+- 16px-class soft cards for people/meta
+- Generous vertical title-card padding
+
+**Avoid**
+
+- Bright white marketing templates
+- Playful illustrations or saturated gradients
+- Dense LMS sidebars that break the cinematic frame
+
+## Scope note
+
+Four captures: home variants and one course page. Spacing/radius measured; colors and font families largely screenshot-derived.
+
+## Captured pages
+
+[![Home cinematic hero](https://pin.fontofweb.com/9974?format=jpg)](https://design.withfudge.com/share/pin-9974)
+
+[Home cinematic hero](https://design.withfudge.com/share/pin-9974)
+
+[![Home alternate](https://pin.fontofweb.com/9972?format=jpg)](https://design.withfudge.com/share/pin-9972)
+
+[Home alternate](https://design.withfudge.com/share/pin-9972)
+
+[![Home mid width](https://pin.fontofweb.com/9973?format=jpg)](https://design.withfudge.com/share/pin-9973)
+
+[Home mid width](https://design.withfudge.com/share/pin-9973)
+
+[![Course title card](https://pin.fontofweb.com/9969?format=jpg)](https://design.withfudge.com/share/pin-9969)
+
+[Course title card](https://design.withfudge.com/share/pin-9969)
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#1a1a1a`
+- `#cfcfcf`

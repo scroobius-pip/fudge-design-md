@@ -1,220 +1,84 @@
 # How everyday-practice.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/everyday-practice.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/everyday-practice.com-design)
 
-Source domain: [everyday-practice.com](https://everyday-practice.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-19
+## Design character
 
-<!--
-coverPin: 10374
--->
+Everyday Practice (일상의실천) is a disciplined design-studio portfolio. Black, white, and mid-gray only; dense-but-controlled project grids; tight 10px gaps; and case pages that let posters and photography dominate. It feels archival and precise — studio craft over marketing theatrics.
 
-Here is the visual system observed across **5 captured pages** from [everyday-practice.com](https://everyday-practice.com).
+What should survive adaptation:
+- Strict monochrome (`#000`, `#e2e2e2`, `#787878`)
+- 10px gap/padding rhythm as the grid atom
+- Image-led project pages with minimal chrome
+- Bilingual or compact metadata, not long sales copy
 
-```fudge-colors
-[
-  "#e2e2e2",
-  "#131313",
-  "#787878",
-  "#ffffff",
-  "#000000",
-  "#1c1c1c",
-  "#222222",
-  "#d8baff",
-  "#42ff00",
-  "#ffeb3a",
-  "#fcfcfc",
-  "#595657",
-  "#372ec9",
-  "#141313",
-  "#cb6f6c",
-  "#bcbdbd"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from everyday-practice.com",
-  "sampleText": "everyday-practice.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10374,
-      "domain": "everyday-practice.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 26
-    },
-    {
-      "family": "Apple Sd Gothic Neo",
-      "familyId": 2680,
-      "pinId": 10374,
-      "domain": "everyday-practice.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 26
-    },
-    {
-      "family": "Font",
-      "familyId": 319,
-      "pinId": 10374,
-      "domain": "everyday-practice.com",
-      "weight": "400",
-      "size": "21.3333px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 6
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 58 |
-| Spacing values | 272 |
-| Borders and radii | 24 |
-| Shadows | 0 |
-| Gradients | 0 |
+Measured:
+- `#000000` text / heavy UI
+- `#e2e2e2` light gray surfaces/rules
+- `#787878` secondary text
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10374,
-      "title": "일상의실천",
-      "domain": "everyday-practice.com/poseuteo-poster-victionary/",
-      "pageUrl": "everyday-practice.com/poseuteo-poster-victionary/",
-      "imageUrl": "https://pin.fontofweb.com/10374?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#595657",
-        "#372ec9",
-        "#141313",
-        "#cb6f6c",
-        "#bcbdbd",
-        "#43b9a2",
-        "#e138a6"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Apple Sd Gothic Neo",
-        "Font"
-      ]
-    },
-    {
-      "pinId": 10373,
-      "title": "일상의실천",
-      "domain": "everyday-practice.com/poseuteo-poster-victionary/",
-      "pageUrl": "everyday-practice.com/poseuteo-poster-victionary/",
-      "imageUrl": "https://pin.fontofweb.com/10373?format=jpg",
-      "colors": [
-        "#47bb9c",
-        "#3a68bb",
-        "#fefdfe",
-        "#d1cec9",
-        "#5a534d",
-        "#131313",
-        "#352bca",
-        "#c8a2cd"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Apple Sd Gothic Neo",
-        "Font"
-      ]
-    },
-    {
-      "pinId": 10372,
-      "title": "일상의실천",
-      "domain": "everyday-practice.com/",
-      "pageUrl": "everyday-practice.com/",
-      "imageUrl": "https://pin.fontofweb.com/10372?format=jpg",
-      "colors": [
-        "#cad85c",
-        "#52504e",
-        "#956f55",
-        "#318a73",
-        "#161818",
-        "#842964",
-        "#d4d0cc",
-        "#242275"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Apple Sd Gothic Neo",
-        "Font"
-      ]
-    },
-    {
-      "pinId": 10371,
-      "title": "일상의실천",
-      "domain": "everyday-practice.com/",
-      "pageUrl": "everyday-practice.com/",
-      "imageUrl": "https://pin.fontofweb.com/10371?format=jpg",
-      "colors": [
-        "#caf155",
-        "#161616",
-        "#b8b4e9",
-        "#b2a28a",
-        "#f2f0ef",
-        "#5c5959",
-        "#f84551",
-        "#640715"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Apple Sd Gothic Neo",
-        "Font"
-      ]
-    },
-    {
-      "pinId": 10370,
-      "title": "일상의실천",
-      "domain": "everyday-practice.com/",
-      "pageUrl": "everyday-practice.com/",
-      "imageUrl": "https://pin.fontofweb.com/10370?format=jpg",
-      "colors": [
-        "#30d5e2",
-        "#757472",
-        "#6c9fe9",
-        "#151515",
-        "#5e1be0",
-        "#e2e1ea",
-        "#8eaf4f",
-        "#3d4d7f"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Apple Sd Gothic Neo",
-        "Font"
-      ]
-    }
-  ]
-}
-```
+No brand accent hue in the measured set — hierarchy is value-only.
 
-## Representative captures
-[![일상의실천](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/pin/10374)
-[일상의실천](https://design.withfudge.com/pin/10374) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+### Typography
 
-[![일상의실천](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/pin/10373)
-[일상의실천](https://design.withfudge.com/pin/10373) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+Families unsupported. Sizes cluster around 13.3–16px body/UI, ~21px emphasis, weight mostly 400. Type is a quiet servant to imagery.
 
-[![일상의실천](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/pin/10372)
-[일상의실천](https://design.withfudge.com/pin/10372) — [source page](https://everyday-practice.com/)
+### Spacing and layout
 
-[![일상의실천](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/pin/10371)
-[일상의실천](https://design.withfudge.com/pin/10371) — [source page](https://everyday-practice.com/)
+- Padding left/right 10px extremely common
+- Top padding 50px on major frames
+- column-gap / row-gap / gap 10px throughout
+- Portfolio grid density is moderate, not airy luxury
 
-[![일상의실천](https://pin.fontofweb.com/10370?format=jpg)](https://design.withfudge.com/pin/10370)
-[일상의실천](https://design.withfudge.com/pin/10370) — [source page](https://everyday-practice.com/)
+Radii barely present (~5px rare).
+
+## Visual language
+
+Flat surfaces, thin separations, illustration/poster work as the color source inside images only. Taxonomy: creative/design, portfolio, flat surfaces, sans-serif.
+
+## Components and states
+
+- Minimal nav
+- Project index grid
+- Case study page with large poster/image stage and sparse captions
+- Metadata lines (title, year, category) in small type
+
+## Practical guidance
+
+**Preserve** monochrome discipline and 10px grid atom.  
+**Avoid** colorful SaaS CTAs and large marketing illustrations outside project art.  
+**Adaptation** for studios, cultural institutions, and image-led portfolios.
+
+## Scope note
+
+Home and a project page (`/poseuteo-poster-victionary/`), five captures. Colors measured; font families unsupported.
+
+## Captured pages
+
+[![일상의실천](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/share/pin-10372)
+
+[일상의실천](https://design.withfudge.com/share/pin-10372)
+
+[![일상의실천](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/share/pin-10374)
+
+[일상의실천](https://design.withfudge.com/share/pin-10374)
+
+[![일상의실천](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/share/pin-10371)
+
+[일상의실천](https://design.withfudge.com/share/pin-10371)
+
+[![일상의실천](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/share/pin-10373)
+
+[일상의실천](https://design.withfudge.com/share/pin-10373)
+
+## Colors
+
+- `#000000`
+- `#e2e2e2`
+- `#787878`

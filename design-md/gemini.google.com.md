@@ -1,165 +1,101 @@
 # How gemini.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/gemini.google.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/gemini.google.com-design)
 
-Source domain: [gemini.google.com](https://gemini.google.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-10
+## Design character
 
-<!--
-coverPin: 8794
--->
+gemini.google.com is the Gemini app shell: dark charcoal workspace, left rail of chats, and a central conversation column. It feels like a focused AI workbench—low chrome contrast, soft blue accent for selection/actions, and light gray primary text on deep surfaces. Unlike the marketing site, this is product UI density with calm dark mode as the default captured look.
 
-Here is the visual system observed across **2 captured pages** from [gemini.google.com](https://gemini.google.com).
+## Foundations
 
-```fudge-colors
-[
-  "#000000",
-  "#e3e3e3",
-  "#c4c7c5",
-  "#1e1f20",
-  "#81c995",
-  "#c2e7ff",
-  "#8ab4f8",
-  "#fa903e",
-  "#9e9eff",
-  "#f28b82",
-  "#a8c7fa",
-  "#b6b6b4",
-  "#265380",
-  "#3b3a37",
-  "#f6f8f2",
-  "#6e7972"
-]
-```
+### Color
 
-```fudge-font-usage
-{
-  "title": "Typography captured from gemini.google.com",
-  "sampleText": "gemini.google.com",
-  "fonts": [
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 8794,
-      "domain": "gemini.google.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 54
-    },
-    {
-      "family": "Google Sans",
-      "familyId": 645,
-      "pinId": 8794,
-      "domain": "gemini.google.com",
-      "weight": "500",
-      "size": "20px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    },
-    {
-      "family": "Google Sans Code",
-      "familyId": 1765,
-      "pinId": 8794,
-      "domain": "gemini.google.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "21px",
-      "letterSpacing": "normal",
-      "frequency": 3
-    },
-    {
-      "family": "Arial",
-      "familyId": 2088,
-      "pinId": 8794,
-      "domain": "gemini.google.com",
-      "weight": "400",
-      "size": "24px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 6
-    },
-    {
-      "family": "Google Sans Flex",
-      "familyId": 1510,
-      "pinId": 8794,
-      "domain": "gemini.google.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 14
-    }
-  ]
-}
-```
+Measured roles:
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 28 |
-| Spacing values | 13 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+| Role | Hex |
+|---|---|
+| accent | `#8ab4f8` |
+| text_primary | `#e3e3e3` |
+| text_secondary | `#c4c7c5` |
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8794,
-      "title": "Replicating Semantic UI Design - Google Gemini",
-      "domain": "gemini.google.com/app/bbc718fe23109ab6",
-      "pageUrl": "gemini.google.com/app/bbc718fe23109ab6",
-      "imageUrl": "https://pin.fontofweb.com/8794?format=jpg",
-      "colors": [
-        "#c2e7ff",
-        "#9e9eff",
-        "#b6b6b4",
-        "#8ab4f8",
-        "#265380",
-        "#3b3a37",
-        "#e3e3e3",
-        "#000000"
-      ],
-      "fonts": [
-        "Times",
-        "Google Sans",
-        "Google Sans Code",
-        "Arial",
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 5688,
-      "title": "Google Gemini",
-      "domain": "gemini.google.com/u/1/app",
-      "pageUrl": "gemini.google.com/u/1/app",
-      "imageUrl": "https://pin.fontofweb.com/5688?format=jpg",
-      "colors": [
-        "#050505",
-        "#979897",
-        "#d6d4d0",
-        "#403f3e",
-        "#696867",
-        "#4d34c9",
-        "#251a61",
-        "#7c94f6"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Accent `#8ab4f8` (Google blue-leaning) marks interactive emphasis on dark UI. Primary text `#e3e3e3` and secondary `#c4c7c5` keep hierarchy soft rather than pure white-on-black. Canvas is near-black/charcoal from screenshots.
 
-## Representative captures
-[![Replicating Semantic UI Design - Google Gemini](https://pin.fontofweb.com/8794?format=jpg)](https://design.withfudge.com/pin/8794)
-[Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/pin/8794) — [source page](https://gemini.google.com/app/bbc718fe23109ab6)
+### Typography
 
-[![Google Gemini](https://pin.fontofweb.com/5688?format=jpg)](https://design.withfudge.com/pin/5688)
-[Google Gemini](https://design.withfudge.com/pin/5688) — [source page](https://gemini.google.com/u/1/app)
+- 16px / weight 400 (undeclared UI sans) — seen ~216 times
+- 14px / weight 400 (undeclared UI sans, line-height 21px) — seen ~169 times
+- 14px / weight 500 (undeclared UI sans, line-height 20px) — seen ~20 times
+- 16px / weight 400 (undeclared UI sans, line-height 24px) — seen ~14 times
+- 24px / weight 400 (undeclared UI sans) — seen ~8 times
+- 14px / weight 500 (undeclared UI sans) — seen ~4 times
+
+Conversation UI centers on 14–16px regular; occasional 24px for empty-state or titles. Weights stay mostly 400–500 for a readable chat cadence.
+
+### Spacing and layout
+
+- padding-left: 16px (×151)
+- padding-bottom: 16px (×135)
+- padding-right: 16px (×135)
+- padding-top: 16px (×135)
+- padding-top: 80px (×54)
+- padding-left: 12px (×39)
+- padding-right: 12px (×39)
+- padding-bottom: 24px (×29)
+
+16px padding repeats heavily—comfortable gutters inside rails and message columns. Layout pattern: left history rail + main transcript + composer. App captures around 1176–2048px wide show the rail remaining present on desktop widths.
+
+## Visual language
+
+- 4px (×32)
+- 16px (×32)
+
+4px for small controls; 16px for larger panels/inputs—Material-ish soft corners without candy pills everywhere. Borders are subtle edge definitions on dark surfaces. Imagery is sparse; the UI is typography and list density.
+
+## Components and states
+
+- **Chat list rail** with selected row highlight
+- **Message bubbles / plain transcript blocks**
+- **Composer** with rounded input and send control
+- **Model/account chrome** in the header
+- **Empty or prompt starter states** with larger type
+
+Taxonomy tags present include AI-enabled / generative AI capability framing.
+
+## Responsive behavior
+
+Two app paths at different widths. The shell remains a multi-pane desktop chat; do not assume a separate marketing layout here.
+
+## Practical guidance
+
+**Preserve**
+- Dark charcoal shell with `#8ab4f8` accent
+- Soft gray text pair (`#e3e3e3` / `#c4c7c5`)
+- 14–16px chat type and 16px padding rhythm
+- Rail + transcript + composer structure
+
+**Avoid**
+- Bright white marketing styling inside the app shell
+- Harsh pure-white body text or neon accents
+- Oversized display type in the transcript column
+
+## Scope note
+
+Two app captures (`/app/...`, `/u/1/app`). Marketing pages are covered separately under gemini.google.
+
+## Captured pages
+
+[![Replicating Semantic UI Design - Google Gemini](https://pin.fontofweb.com/8794?format=jpg)](https://design.withfudge.com/share/pin-8794)
+
+[Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/share/pin-8794)
+
+[![Google Gemini](https://pin.fontofweb.com/5688?format=jpg)](https://design.withfudge.com/share/pin-5688)
+
+[Google Gemini](https://design.withfudge.com/share/pin-5688)
+
+## Colors
+
+- `#8ab4f8`
+- `#e3e3e3`
+- `#c4c7c5`

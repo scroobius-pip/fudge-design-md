@@ -1,142 +1,70 @@
 # How camo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/camo.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/camo.com-design)
 
-Source domain: [camo.com](https://camo.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-24
+## Design character
 
-<!--
-coverPin: 7178
--->
+Camo Studio’s `/studio` marketing is a **bright, product-forward hardware/software hybrid page**. White canvas, bold dark headlines, a warm gold accent (`#f7be38`), and large product screenshots/device photography. It feels premium-consumer tech: clear, energetic, and screenshot-led.
 
-Here is the visual system observed across **3 captured pages** from [camo.com](https://camo.com).
+What should survive adaptation:
+- Product screenshot as primary storytelling device
+- Gold accent for emphasis/CTAs on a clean white field
+- Strong display hierarchy (up to ~60px)
+- Soft 4–24px radius language (small controls vs larger frames)
 
-```fudge-colors
-[
-  "#000000",
-  "#dce2f4",
-  "#ffffff",
-  "#09111f",
-  "#9992f7",
-  "#f7be38",
-  "#a7a2f8",
-  "#9d9b9e",
-  "#674424",
-  "#436126",
-  "#70982a",
-  "#5d5f64",
-  "#232b1b",
-  "#0d1421",
-  "#292287",
-  "#e3e5e8"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from camo.com",
-  "sampleText": "camo.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7178,
-      "domain": "camo.com",
-      "weight": "600",
-      "size": "18px",
-      "lineHeight": "22.5px",
-      "letterSpacing": "-0.176px",
-      "frequency": 8
-    }
-  ]
-}
-```
+### Color
+Measured: accent `#f7be38`, light surfaces `#ffffff`, cool supporting tint `#dce2f4`.
+Visually: near-black headlines, gray body, gold buttons/highlights, occasional cool gray-blue UI chrome in product shots.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 34 |
-| Spacing values | 28 |
-| Borders and radii | 4 |
-| Shadows | 1 |
-| Gradients | 1 |
+### Typography
+Family undeclared. Weights 400/600/700. Sizes from 12–20px UI up to **36–60px** display. Body around 16–18px. Hierarchy is bold and direct.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7178,
-      "title": "Camo Studio - Stand out video with any camera",
-      "domain": "camo.com/studio",
-      "pageUrl": "camo.com/studio",
-      "imageUrl": "https://pin.fontofweb.com/7178?format=jpg",
-      "colors": [
-        "#dce2f4",
-        "#9d9b9e",
-        "#9992f7",
-        "#000000",
-        "#674424",
-        "#436126",
-        "#70982a",
-        "#5d5f64"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7177,
-      "title": "Camo Studio - Stand out video with any camera",
-      "domain": "camo.com/studio",
-      "pageUrl": "camo.com/studio",
-      "imageUrl": "https://pin.fontofweb.com/7177?format=jpg",
-      "colors": [
-        "#724a39",
-        "#2f4421",
-        "#ac7147",
-        "#361e1b",
-        "#dce2f4",
-        "#c4c7d0",
-        "#000000",
-        "#c8963d"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7176,
-      "title": "Camo Studio - Stand out video with any camera",
-      "domain": "camo.com/studio",
-      "pageUrl": "camo.com/studio",
-      "imageUrl": "https://pin.fontofweb.com/7176?format=jpg",
-      "colors": [
-        "#dce2f4",
-        "#2f323a",
-        "#576871",
-        "#ffffff",
-        "#d9dbdf",
-        "#0c131e",
-        "#9992f7",
-        "#09111f"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Spacing includes 12, 24, 36, 48, 96, 112+ section gaps. Centered marketing column, hero with device visual, feature bands, and studio capability sections.
 
-## Representative captures
-[![Camo Studio - Stand out video with any camera](https://pin.fontofweb.com/7178?format=jpg)](https://design.withfudge.com/pin/7178)
-[Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7178) — [source page](https://camo.com/studio)
+## Visual language
+- Radii **4px** (tight UI) and **24px** (larger cards/media) — pill-leaning taxonomy on some controls
+- Clean flat marketing chrome; depth mostly from photography
+- Light mode dominant
 
-[![Camo Studio - Stand out video with any camera](https://pin.fontofweb.com/7177?format=jpg)](https://design.withfudge.com/pin/7177)
-[Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7177) — [source page](https://camo.com/studio)
+## Components and states
+- Primary gold or dark CTAs
+- Feature rows with icons + copy
+- Large product frames
+- Simple top nav
 
-[![Camo Studio - Stand out video with any camera](https://pin.fontofweb.com/7176?format=jpg)](https://design.withfudge.com/pin/7176)
-[Camo Studio - Stand out video with any camera](https://design.withfudge.com/pin/7176) — [source page](https://camo.com/studio)
+## Responsive behavior
+Captures span ~992–1712 width on `/studio`. Hero stacks; type scales down; gold accent system remains.
+
+## Practical guidance
+**Preserve** gold-on-white product hero energy, bold display, screenshot proof.
+**Avoid** dark-only brutalism or cluttered multi-accent rainbows.
+
+## Scope note
+All captures are `/studio` at multiple widths. Broader camo.com IA not included.
+
+## Captured pages
+
+[![Studio — full desktop hero](https://pin.fontofweb.com/7176?format=jpg)](https://design.withfudge.com/share/pin-7176)
+
+[Studio — full desktop hero](https://design.withfudge.com/share/pin-7176)
+
+[![Studio — mid width](https://pin.fontofweb.com/7178?format=jpg)](https://design.withfudge.com/share/pin-7178)
+
+[Studio — mid width](https://design.withfudge.com/share/pin-7178)
+
+[![Studio — narrower](https://pin.fontofweb.com/7177?format=jpg)](https://design.withfudge.com/share/pin-7177)
+
+[Studio — narrower](https://design.withfudge.com/share/pin-7177)
+
+## Colors
+
+- `#f7be38`
+- `#ffffff`
+- `#dce2f4`
+- `#111111`
+- `#6b7280`

@@ -1,317 +1,203 @@
 # How harvey.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/harvey.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/harvey.ai-design)
 
-Source domain: [harvey.ai](https://harvey.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-08
+## Design character
 
-<!--
-coverPin: 8744
--->
+Harvey is a **dark-first legal-tech brand** that reads like a premium professional-services studio: near-black canvases, warm off-white type, restrained stone neutrals, and editorial photography of lawyers and operators at work. Marketing pages alternate between **cinematic dark bands** (solutions mega-menu, security, customer trust) and **light editorial surfaces** (blog, feature marquees). The system feels confident, sparse, and institutional—never neon AI chrome.
 
-Here is the visual system observed across **10 captured pages** from [harvey.ai](https://harvey.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#fafaf9",
-  "#0f0e0d",
-  "#ffffff",
-  "#33312c",
-  "#706d66",
-  "#cccac6",
-  "#8f8b85",
-  "#4d4b46",
-  "#f9f9f7",
-  "#0f0e0c",
-  "#484f4b",
-  "#d2a28a",
-  "#f3f3f1",
-  "#afafaa",
-  "#7f8a89"
-]
-```
+- **Near-black marketing canvas** with warm stone primary text (`#fafaf9`)
+- **Muted secondary text** in warm grays (`#cccac6`, `#706d66`)—not cool blue-gray
+- **Dual surfaces**: dark product/marketing vs light blog/editorial paper
+- **Serif display** for large editorial headlines; clean sans for UI and body
+- **Soft light cards** floating on dark (rounded white/stone panels for partner grids)
+- **Quiet CTAs**: white pill on dark, black pill on light—no loud brand chroma
+- **Documentary photography** of legal professionals, not stock AI illustrations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from harvey.ai",
-  "sampleText": "harvey.ai",
-  "fonts": [
-    {
-      "family": "Harvey Sans Diatype",
-      "familyId": 2452,
-      "pinId": 8744,
-      "domain": "harvey.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 418
-    },
-    {
-      "family": "Harvey Serif",
-      "familyId": 2453,
-      "pinId": 8744,
-      "domain": "harvey.ai",
-      "weight": "400",
-      "size": "28px",
-      "lineHeight": "39.2px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 10 |
-| Colors | 73 |
-| Spacing values | 51 |
-| Borders and radii | 10 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8744,
-      "title": "Harvey AI Blog: Learn about legal AI, Harvey, and more",
-      "domain": "harvey.ai/blog",
-      "pageUrl": "harvey.ai/blog",
-      "imageUrl": "https://pin.fontofweb.com/8744?format=jpg",
-      "colors": [
-        "#4d4b46",
-        "#484f4b",
-        "#d2a28a",
-        "#f3f3f1",
-        "#afafaa",
-        "#fafaf9",
-        "#7f8a89",
-        "#0f0e0d"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8743,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8743?format=jpg",
-      "colors": [
-        "#fafaf9",
-        "#121210",
-        "#655349",
-        "#bdb2a7",
-        "#6f6f66",
-        "#cccac6",
-        "#706d66",
-        "#f1f0ee"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8742,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8742?format=jpg",
-      "colors": [
-        "#b6b6b4",
-        "#4c4a48",
-        "#f9f9f7",
-        "#000000",
-        "#fafaf9",
-        "#706d66",
-        "#0f0e0c",
-        "#7f7e7c"
-      ],
-      "fonts": [
-        "Harvey Serif",
-        "Harvey Sans Diatype"
-      ]
-    },
-    {
-      "pinId": 8741,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8741?format=jpg",
-      "colors": [
-        "#cccac6",
-        "#000000",
-        "#757471",
-        "#181715",
-        "#4f4e4b",
-        "#efefed",
-        "#bab9b6",
-        "#fafaf9"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype"
-      ]
-    },
-    {
-      "pinId": 8740,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8740?format=jpg",
-      "colors": [
-        "#f1f1ef",
-        "#363532",
-        "#737270",
-        "#33312c",
-        "#000000",
-        "#0f0e0c",
-        "#fafaf9",
-        "#afafad"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8739,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8739?format=jpg",
-      "colors": [
-        "#222435",
-        "#dde0e1",
-        "#000000",
-        "#303c41",
-        "#fafaf9",
-        "#ffffff",
-        "#141516",
-        "#566066"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8738,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8738?format=jpg",
-      "colors": [
-        "#171923",
-        "#f2f1ef",
-        "#a0665c",
-        "#5b3735",
-        "#000000",
-        "#474358",
-        "#0f0e0d",
-        "#95949f"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8737,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8737?format=jpg",
-      "colors": [
-        "#000000",
-        "#0f0e0d",
-        "#151412",
-        "#acaba7",
-        "#585856",
-        "#828280",
-        "#383836",
-        "#706d66"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8736,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8736?format=jpg",
-      "colors": [
-        "#0f0e0d",
-        "#8f8b85",
-        "#918f8b",
-        "#000000",
-        "#636261",
-        "#b3b2b0",
-        "#fbfbfa",
-        "#1f1e1b"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    },
-    {
-      "pinId": 8735,
-      "title": "Harvey | AI platform for legal and professional services",
-      "domain": "harvey.ai/",
-      "pageUrl": "harvey.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8735?format=jpg",
-      "colors": [
-        "#5d5752",
-        "#181b1c",
-        "#986e4f",
-        "#000000",
-        "#b0aeaa",
-        "#f8f9f7",
-        "#8e8881",
-        "#fafaf9"
-      ],
-      "fonts": [
-        "Harvey Sans Diatype",
-        "Harvey Serif"
-      ]
-    }
-  ]
-}
-```
+Measured text roles on the home capture:
 
-## Representative captures
-[![Harvey AI Blog: Learn about legal AI, Harvey, and more](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/pin/8744)
-[Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/pin/8744) — [source page](https://harvey.ai/blog)
+| Role | Hex | Where it shows |
+| --- | --- | --- |
+| Primary text (dark UI) | `#fafaf9` | Nav wordmark, section titles, body on black |
+| Secondary text | `#cccac6` | Supporting copy, menu descriptions |
+| Muted / tertiary | `#706d66` | Quieter labels, de-emphasized lines |
+| Marketing canvas | near-black (visually ~`#0B0B0B`–`#121212`) | Full-bleed home solutions & security bands |
+| Elevated light surface | warm off-white / stone | Partner logo card, blog hero panel |
+| Blog / editorial canvas | white–light gray | `/blog` page field |
+| Primary CTA (on dark) | white fill, dark label | “Request a Demo”, “Explore Platform” |
+| Primary CTA (on light) | near-black fill, white label | Blog header “Request a Demo” |
+| Ghost control | transparent + light hairline | “More About Security”, “Our Customers” |
+| Hairline / rules | low-contrast light on dark | Nav underline, card edges |
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/pin/8743)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8743) — [source page](https://harvey.ai/)
+Relationships that matter:
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8742?format=jpg)](https://design.withfudge.com/pin/8742)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8742) — [source page](https://harvey.ai/)
+- **Warm neutrals only.** The measured secondary pair is stone/taupe, not slate blue—keep the palette “legal paper and ink,” not SaaS blue.
+- **No saturated brand accent in chrome.** Emphasis comes from type scale, photography, and black/white inversion—not a purple or green product color.
+- **Light editorial is a full inversion**, not a tinted dark theme: black type, black CTA, generous white field, portrait photography.
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/pin/8741)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8741) — [source page](https://harvey.ai/)
+### Typography
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8740?format=jpg)](https://design.withfudge.com/pin/8740)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8740) — [source page](https://harvey.ai/)
+No declared webfont family was recorded. Visually the system is **dual-family**:
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8739?format=jpg)](https://design.withfudge.com/pin/8739)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8739) — [source page](https://harvey.ai/)
+- **Display / editorial**: transitional or modern serif for large stacked capability lists and blog titles (e.g. “Document Storage”, “A New Era of Collaboration…”).
+- **UI / body**: neutral geometric or neo-grotesque sans for nav, body, buttons, and meta.
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8738?format=jpg)](https://design.withfudge.com/pin/8738)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8738) — [source page](https://harvey.ai/)
+Observed sizes and weights:
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8737?format=jpg)](https://design.withfudge.com/pin/8737)
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8737) — [source page](https://harvey.ai/)
+| Use | Weight | Size / line-height | Notes |
+| --- | --- | --- | --- |
+| Hero / marquee display | 400 | ~56px / ~58.8px | Slight negative tracking (~-0.56) |
+| Section title | 500 | ~36px / ~38–40px | Tight leading, mild negative tracking |
+| Lead / card title | 400–500 | 20px / 26px | Solutions labels, subheads |
+| Body | 400 | 16px / 24px | Default marketing and blog copy |
+| UI / nav / meta | 400–500 | 14px / 18–20px | Nav links, chips, “by Harvey Team” |
+| Medium UI | 500 | 14–16px | Active nav, button labels |
+
+Hierarchy is **serif spectacle → quiet sans body → small medium-weight UI**. Avoid introducing a third display face or heavy black weights on heroes—display often stays at 400.
+
+### Spacing and layout
+
+Recurring measurements:
+
+- **Section padding** often **72px** on all sides for large dark content blocks
+- **Horizontal margins** ~**68px** common on wide frames
+- **Inner gutters** 36px, 28px, 24px, 16px, 12px, 8px
+- **Card / control radius** primarily **4px** (buttons, small chrome); larger soft rounds on photo cards and light partner panels (visual)
+- **1px solid borders** on elevated controls and outlined buttons
+- Content often **split two-column**: left label stack + right panel, or title left + copy right on security
+
+Layout patterns:
+
+1. **Centered wordmark nav** with dropdowns and trailing Login / Request a Demo
+2. **Solutions mega panel**: left vertical list of use-cases, right light card of partner logos
+3. **Full-bleed photo band** with overlaid white headline + white CTA
+4. **Logo trust strip** over photography with ghost “Our Customers”
+5. **Light editorial hero**: photo left, serif title + sans body right on stone panel
+6. **Security band**: dark two-column copy + four compliance icon tiles
+7. **Vertical marquee** of serif capability names fading in opacity on white
+
+## Visual language
+
+### Shape and depth
+
+- Default control geometry: **4px rounded rectangles** (not full pills on every action—buttons look slightly rounded rects)
+- Partner and feature cards: **larger soft radius** on light panels against pure black
+- Depth is minimal: dark UI uses **flat black + hairline + fill shift**; light cards sit as solid paper sheets
+- Shadows are not a dominant language in the captures—separation is **value contrast** and photography
+
+### Imagery
+
+- Prefer **real workplace photography**: annotated contracts, counsel reviewing paper, executive portraits
+- Logo walls stay **monochrome / white on dark** so they don’t fight the type
+- Compliance marks (SOC2, CCPA, ISO, GDPR) render as **quiet line icons** in muted gray on black
+- Blog uses **studio portrait crops** in a three-up row under “Innovation Spotlight”
+
+### Borders and dividers
+
+- Nav: thin bottom rule; active item can show a short underline
+- Ghost buttons: 1px light border, transparent fill, 4px radius
+- Light partner card: soft continuous edge, no heavy drop shadow required
+
+## Components and states
+
+### Navigation
+
+- Left: “Harvey” wordmark in primary text color
+- Center: Platform, Solutions, Customers, Security, Resources, About (dropdown chevrons)
+- Right: Login text + solid **Request a Demo** (black on light pages, may invert on dark)
+- Open Solutions: full dark overlay with left taxonomy list and right white logo matrix card
+
+### Buttons
+
+| Variant | Look |
+| --- | --- |
+| Primary on dark | White fill, dark label, ~4px radius |
+| Primary on light | Near-black fill, white label |
+| Ghost / secondary | Transparent, 1px light border, light label |
+| Text + arrow | Muted label with external-link affordance under compliance tiles |
+
+Keep labels short (“Request a Demo”, “Explore Platform”, “More About Security”).
+
+### Cards and panels
+
+- **Partner matrix card**: light stone fill, multi-row logo pairs with hairline connectors
+- **Blog feature card**: large photo + serif headline + sans deck on light gray panel
+- **Compliance tile**: icon above label + “Details” link—four-up on dark
+- **Portrait strip**: equal cropped headshots under section title
+
+### Editorial list / marquee
+
+- Stacked serif capability names with **opacity falloff** (focused line darkest, neighbors fade)—used for “top legal teams use Harvey for…”
+
+## Responsive behavior
+
+Captures are **desktop viewports** (~1357–1712px wide). Patterns to respect when adapting:
+
+- Mega-menu and two-column security layouts assume **wide horizontal space**—stack list above partner card on narrow widths
+- Photo bands keep type in the **open negative space** of the image (left third in the customer band)
+- Blog hero is naturally **1→2 column** (image / copy)
+- Capability marquee is a **single focused column**—don’t crush into multi-column chips
+
+## Practical guidance
+
+**Do**
+
+- Lead with warm off-white type on near-black; keep secondary text in stone grays
+- Invert cleanly for editorial: white paper, black ink, black CTA
+- Use **serif for spectacle headlines**, sans everywhere else
+- Prefer **documentary legal photography** and monochrome logo walls
+- Keep CTAs quiet (black/white only) and radii tight (~4px on controls)
+- Give dark sections **generous 72px padding** so the brand feels expensive, not cramped
+
+**Don’t**
+
+- Introduce electric blue, purple, or neon green as a brand accent
+- Over-round buttons into candy pills if the rest of the system stays 4px
+- Replace photography with abstract AI gradients or 3D mascots
+- Use cold blue-grays for muted text—stay warm stone
+- Crowd the mega-menu; the left list + right paper card needs air
+- Heavy drop shadows on dark cards—let flat black and paper panels do the work
+
+## Scope note
+
+Based on eight desktop captures: home (`/`, pins 8737–8743) covering hero marquee, solutions menu, security, and customer photography, plus blog (`/blog`, pin 8744). Measured color roles are text primaries/secondaries only; canvas hexes are visual reads. No declared font families. Mobile breakpoints and motion were not in scope.
+
+## Captured pages
+
+[![Hero capability marquee](https://pin.fontofweb.com/8737?format=jpg)](https://design.withfudge.com/share/pin-8737)
+
+[Hero capability marquee](https://design.withfudge.com/share/pin-8737)
+
+[![Solutions mega-menu + customer band](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/share/pin-8743)
+
+[Solutions mega-menu + customer band](https://design.withfudge.com/share/pin-8743)
+
+[![Enterprise security band](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/share/pin-8741)
+
+[Enterprise security band](https://design.withfudge.com/share/pin-8741)
+
+[![Blog editorial hero](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/share/pin-8744)
+
+[Blog editorial hero](https://design.withfudge.com/share/pin-8744)
+
+[![Home mid section](https://pin.fontofweb.com/8739?format=jpg)](https://design.withfudge.com/share/pin-8739)
+
+[Home mid section](https://design.withfudge.com/share/pin-8739)
+
+[![Home supporting frame](https://pin.fontofweb.com/8740?format=jpg)](https://design.withfudge.com/share/pin-8740)
+
+[Home supporting frame](https://design.withfudge.com/share/pin-8740)
+
+## Colors
+
+- `#fafaf9`
+- `#cccac6`
+- `#706d66`

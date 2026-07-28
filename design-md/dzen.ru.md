@@ -1,119 +1,95 @@
 # How dzen.ru is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dzen.ru-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dzen.ru-design)
 
-Source domain: [dzen.ru](https://dzen.ru)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-20
+# How dzen.ru is designed
 
-<!--
-coverPin: 8996
--->
+## Design character
 
-Here is the visual system observed across **2 captured pages** from [dzen.ru](https://dzen.ru).
+Dzen News is a bright, card-based Russian news reader: white canvas, soft gray search capsule, bold story headlines, and a river of rounded media cards. It feels consumer-friendly and content-first—closer to a modern feed product than a classic broadsheet.
 
-```fudge-colors
-[
-  "#000000",
-  "#06060f",
-  "#006be7",
-  "#ffffff",
-  "#1f1e1f",
-  "#5a703c",
-  "#bab9b8",
-  "#6093c7",
-  "#b3d9f2",
-  "#413e35",
-  "#fcfdfd",
-  "#787067",
-  "#2a70c4",
-  "#5d6266",
-  "#9b6c61",
-  "#fdfdfd"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dzen.ru",
-  "sampleText": "dzen.ru",
-  "fonts": [
-    {
-      "family": "Stella Sans Vf",
-      "familyId": 2490,
-      "pinId": 8996,
-      "domain": "dzen.ru",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 55
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 21 |
-| Spacing values | 6 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+No structured palette rows; visual system from captures:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8996,
-      "title": "В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен",
-      "domain": "dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6",
-      "pageUrl": "dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6",
-      "imageUrl": "https://pin.fontofweb.com/8996?format=jpg",
-      "colors": [
-        "#1f1e1f",
-        "#06060f",
-        "#5a703c",
-        "#bab9b8",
-        "#6093c7",
-        "#b3d9f2",
-        "#413e35",
-        "#006be7"
-      ],
-      "fonts": [
-        "Stella Sans Vf"
-      ]
-    },
-    {
-      "pinId": 8995,
-      "title": "Дзен: последние новости России и мира сегодня",
-      "domain": "dzen.ru/news",
-      "pageUrl": "dzen.ru/news",
-      "imageUrl": "https://pin.fontofweb.com/8995?format=jpg",
-      "colors": [
-        "#5d6266",
-        "#9b6c61",
-        "#000000",
-        "#fdfdfd",
-        "#969291",
-        "#465e28",
-        "#06060f",
-        "#cfccca"
-      ],
-      "fonts": [
-        "Stella Sans Vf"
-      ]
-    }
-  ]
-}
-```
+- **Page background:** white / very light gray
+- **Primary text:** near-black
+- **Links / inline emphasis:** clear blue underline style in article bodies
+- **Chips and source pills:** light gray fills with dark labels
+- **Category accents:** small colored marks (e.g. red LIVE-style badges) on cards
+- **Media:** full-color photography inside rounded rectangles
 
-## Representative captures
-[![В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/pin/8996)
-[В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/pin/8996) — [source page](https://dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6)
+### Typography
 
-[![Дзен: последние новости России и мира сегодня](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/pin/8995)
-[Дзен: последние новости России и мира сегодня](https://design.withfudge.com/pin/8995) — [source page](https://dzen.ru/news)
+- Story titles ~24px weight 700, ~28px line-height
+- Deck / body ~16–18px weight 400, line-heights 16–28px depending on block
+- Meta and source rows smaller, regular weight
+
+Cyrillic UI stays highly legible with generous title leading and restrained decoration.
+
+### Spacing and layout
+
+- Common padding 16px; margins around 11–12px between feed units
+- News home: search bar top, horizontal topic chips, then multi-column card mosaic
+- Article: centered column with title, byline, body, inline image strip, source chips
+- Card radius observed around **20px** on feed imagery
+
+## Visual language
+
+- Large rounded content cards with image-led tops
+- Pill search field and pill topic filters
+- Source attribution as compact chip rows
+- Minimal chrome—content tiles are the interface
+
+## Components and states
+
+- Global search capsule
+- Topic chip row (text + optional icons)
+- Story cards (image, title, source, time)
+- Article header with publisher badge
+- Horizontal thumbnail strip with “+N” overflow
+- Source link chips under articles
+
+## Responsive behavior
+
+Captures are relatively narrow (~650–740px wide), already reading as single-column feed/article layouts. Wider desktop mosaic behavior is not fully represented.
+
+## Practical guidance
+
+**Preserve**
+
+- White feed canvas and 20px-class media rounding
+- Bold ~24px titles with calm body copy
+- Chip-based topics and sources
+- Image-forward cards over text-only lists
+
+**Avoid**
+
+- Dark mode assumptions from these captures
+- Dense newspaper multi-column body text
+- Hard square thumbnails that fight the soft card language
+
+## Scope note
+
+Two captures: `/news` feed and one story page. Color and type families are screenshot-derived; spacing/radius partially measured.
+
+## Captured pages
+
+[![News feed mosaic](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/share/pin-8995)
+
+[News feed mosaic](https://design.withfudge.com/share/pin-8995)
+
+[![Story article](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/share/pin-8996)
+
+[Story article](https://design.withfudge.com/share/pin-8996)
+
+## Colors
+
+- `#ffffff`
+- `#111111`
+- `#e8e8e8`
+- `#2f6fed`

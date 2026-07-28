@@ -1,189 +1,117 @@
 # How flowgenie.pro is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/flowgenie.pro-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/flowgenie.pro-design)
 
-Source domain: [flowgenie.pro](https://flowgenie.pro)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-05
+## Design character
 
-<!--
-coverPin: 7692
--->
+FlowGenie is a **soft, airy product-marketing site** for a visual logic and forms builder. The system feels like modern multiplayer tooling: pure light canvas, gentle pastel atmospheric blurs, dual-colored primary actions (blue flow / pink form), and crisp product screenshots of a node editor. It is friendly and precise — closer to a design tool landing page than to enterprise workflow software.
 
-Here is the visual system observed across **4 captured pages** from [flowgenie.pro](https://flowgenie.pro).
+What should survive adaptation:
+- **Breathing white space** with faint blue/pink ambient glows, not hard section bands.
+- **Paired CTAs** that encode the two product verbs (Flow vs Form) in blue and pink.
+- **Clean grotesque headlines** at comfortable display sizes (not mega-poster extremes).
+- **Product UI previews** as the proof — blueprint nodes, badges, URL chips — rendered on soft elevated cards.
 
-```fudge-colors
-[
-  "#000000",
-  "#171717",
-  "#525252",
-  "#ffffff",
-  "#1e2939",
-  "#1b1c1e",
-  "#155dfc",
-  "#364153",
-  "#62748e",
-  "#fefefe",
-  "#76787c",
-  "#aaadb3",
-  "#f49d9c",
-  "#01ca48",
-  "#ef666f",
-  "#2362f7"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from flowgenie.pro",
-  "sampleText": "flowgenie.pro",
-  "fonts": [
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 7692,
-      "domain": "flowgenie.pro",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 79
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7689,
-      "domain": "flowgenie.pro",
-      "weight": "500",
-      "size": "48px",
-      "lineHeight": "60px",
-      "letterSpacing": "normal",
-      "frequency": 26
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7689,
-      "domain": "flowgenie.pro",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 5
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 41 |
-| Spacing values | 34 |
-| Borders and radii | 7 |
-| Shadows | 2 |
-| Gradients | 2 |
+Structured color tokens were empty; values below are taken from the homepage screenshots.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7692,
-      "title": "FlowGenie | Create logic and forms without any code. | FlowGenie",
-      "domain": "flowgenie.pro/",
-      "pageUrl": "flowgenie.pro/",
-      "imageUrl": "https://pin.fontofweb.com/7692?format=jpg",
-      "colors": [
-        "#76787c",
-        "#ffffff",
-        "#aaadb3",
-        "#f49d9c",
-        "#01ca48",
-        "#155dfc",
-        "#1e2939",
-        "#ef666f"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 7691,
-      "title": "FlowGenie | Create logic and forms without any code. | FlowGenie",
-      "domain": "flowgenie.pro/",
-      "pageUrl": "flowgenie.pro/",
-      "imageUrl": "https://pin.fontofweb.com/7691?format=jpg",
-      "colors": [
-        "#171717",
-        "#c0d1ef",
-        "#a8a8a8",
-        "#1f1f1f",
-        "#525252",
-        "#83a3e1",
-        "#000000",
-        "#e2b369"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 7690,
-      "title": "FlowGenie | Create logic and forms without any code. | FlowGenie",
-      "domain": "flowgenie.pro/",
-      "pageUrl": "flowgenie.pro/",
-      "imageUrl": "https://pin.fontofweb.com/7690?format=jpg",
-      "colors": [
-        "#525252",
-        "#c5e7f8",
-        "#3baafe",
-        "#89d0f9",
-        "#1e2939",
-        "#5b5f63",
-        "#a7a9aa",
-        "#cfcdca"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 7689,
-      "title": "FlowGenie | Create logic and forms without any code. | FlowGenie",
-      "domain": "flowgenie.pro/",
-      "pageUrl": "flowgenie.pro/",
-      "imageUrl": "https://pin.fontofweb.com/7689?format=jpg",
-      "colors": [
-        "#585c64",
-        "#4094de",
-        "#68bc82",
-        "#62748e",
-        "#000000",
-        "#e25090",
-        "#909397",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Geist",
-        "System",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+| Role (interpreted) | Hex | Notes |
+| --- | --- | --- |
+| Canvas | `#ffffff` | Primary field |
+| Ink | `#0a0a0a` | Headlines and body |
+| Muted ink | `#5c5c5c` | Supporting sentences, nav |
+| Flow CTA | `#3b82f6` | Blue filled pill “Build a Flow” |
+| Form CTA | `#ec4899` | Pink filled pill “Build a Form” |
+| Success / published | `#22c55e` | Green status chip in product UI |
+| Ambient blue | `#dbeafe` | Soft left glow |
+| Ambient pink | `#fce7f3` | Soft right glow |
+| Card stroke | `#e5e7eb` | Node editor borders |
 
-## Representative captures
-[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7692?format=jpg)](https://design.withfudge.com/pin/7692)
-[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7692) — [source page](https://flowgenie.pro/)
+Color meaning is literal: blue builds flows, pink builds forms. Keep that pairing intact if you extend the system.
 
-[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7691?format=jpg)](https://design.withfudge.com/pin/7691)
-[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7691) — [source page](https://flowgenie.pro/)
+### Typography
 
-[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7690?format=jpg)](https://design.withfudge.com/pin/7690)
-[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7690) — [source page](https://flowgenie.pro/)
+Families unknown. Observed scale:
 
-[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7689?format=jpg)](https://design.withfudge.com/pin/7689)
-[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7689) — [source page](https://flowgenie.pro/)
+- **Hero display:** ~48–56px, weight 400–500, relaxed tracking, sentence case (“Visually program real logic.”).
+- **Section titles:** ~48px medium/regular.
+- **Body / subcopy:** 16–18px regular.
+- **UI / nav / buttons:** 14–16px, medium (500) on buttons and some labels.
+- **Product chrome inside shots:** compact 12–14px UI sans.
+
+Tone is conversational and lowercase-friendly in body; headlines use standard sentence capitalization, not aggressive all-caps.
+
+### Spacing and layout
+
+Spacing shows **8 / 12 / 16 / 24 / 32px** for component rhythm and **large vertical leaps (80 / 96 / 144 / 208px+)** between marketing bands. Hero is centered: logo/nav, headline, subcopy, dual CTAs, social proof badge, then a product canvas. Wide desktop captures keep generous side margins; the node-editor preview sits low as a full-width proof strip. Density is low on marketing chrome and medium inside the product screenshot.
+
+## Visual language
+
+- **Ambient gradient mist:** soft blue and pink radial blurs behind the hero — never harsh linear brand gradients.
+- **Radii:** 4 / 8 / 12 / 16px on cards and controls; CTAs read as rounded rectangles (~12–16px) more than full capsules.
+- **Elevation:** light shadows (`y:1–2`, blur ~2–5, slight negative spread) under buttons and product cards — subtle, not dramatic.
+- **Product imagery:** white node cards, colored ports, green “Published” pill, monospaced-feeling URL chips, HTTP method selectors — the UI is the illustration.
+- **Logo:** simple genie-lamp mark + wordmark, centered or top-bar.
+
+## Components and states
+
+- **Nav:** text links (Docs, Pricing, Roadmap, Changelog), quiet “Take me to the app” with external affordance.
+- **Dual primary buttons:** blue and pink side-by-side, equal visual weight.
+- **Social proof chip:** Product Hunt-style bordered pill under CTAs.
+- **Section intro:** left-aligned title + one supporting sentence above product proof.
+- **Node editor preview:** Start card, If branching node, HTTP request panel, published badge + endpoint URL.
+- **Status badge:** small green pill for published state inside the product frame.
+
+Captures show resting marketing + static product UI — no interactive hover series.
+
+## Practical guidance
+
+**Preserve**
+- White airy canvas with pastel atmospheric color only in the background glow.
+- Blue/pink dual CTA semantics tied to Flow/Form.
+- Product editor screenshots as primary imagery.
+- Soft 8–16px radii and whisper shadows.
+
+**Avoid**
+- Dark mode marketing that throws away the soft tool-like clarity.
+- A single generic purple CTA that collapses the Flow/Form color story.
+- Dense enterprise tables or heavy border-grid landing sections.
+- Loud illustrations that replace the actual blueprint UI.
+
+## Scope note
+
+Studied four homepage viewports at varying widths (roughly laptop to wide desktop). Paths are only `/`; no docs, pricing, or in-app authenticated screens beyond marketing embeds. Font families and formal color tokens were not declared — hexes above are visual reads from the pins.
+
+## Captured pages
+
+[![Hero and dual CTAs](https://pin.fontofweb.com/7692?format=jpg)](https://design.withfudge.com/share/pin-7692)
+
+[Hero and dual CTAs](https://design.withfudge.com/share/pin-7692)
+
+[![Hero alternate crop](https://pin.fontofweb.com/7691?format=jpg)](https://design.withfudge.com/share/pin-7691)
+
+[Hero alternate crop](https://design.withfudge.com/share/pin-7691)
+
+[![Visual programming section](https://pin.fontofweb.com/7690?format=jpg)](https://design.withfudge.com/share/pin-7690)
+
+[Visual programming section](https://design.withfudge.com/share/pin-7690)
+
+[![Full homepage proof](https://pin.fontofweb.com/7689?format=jpg)](https://design.withfudge.com/share/pin-7689)
+
+[Full homepage proof](https://design.withfudge.com/share/pin-7689)
+
+## Colors
+
+- `#ffffff`
+- `#0a0a0a`
+- `#5c5c5c`
+- `#3b82f6`
+- `#ec4899`
+- `#22c55e`
+- `#dbeafe`
+- `#fce7f3`

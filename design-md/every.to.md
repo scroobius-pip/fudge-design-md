@@ -1,229 +1,95 @@
 # How every.to is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/every.to-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/every.to-design)
 
-Source domain: [every.to](https://every.to)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-27
+## Design character
 
-<!--
-coverPin: 8446
--->
+Every is an editorial/media product with a monochrome, slightly literary SaaS shell. Black, white, and zinc grays dominate; type is large and confident; surfaces stay flat with small radii. It feels like a modern magazine front page crossed with a clean startup home.
 
-Here is the visual system observed across **5 captured pages** from [every.to](https://every.to).
+What should survive adaptation:
+- Limited monochrome palette (`#000`, `#fff`, zinc `#8c8d91`, light gray `#d0d0d0`)
+- Big display lines (~42–48px) with calmer 15–20px body
+- Small radii (4–8px) plus occasional full pills (9999)
+- Content-index energy: issues, essays, products as browsable stacks
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#fafaf7",
-  "#d6d3d1",
-  "#3c3c3c",
-  "#272729",
-  "#c0f0fb",
-  "#d0d0d0",
-  "#8c8d91",
-  "#bcbcbc",
-  "#bdbdbd",
-  "#1a1a1a",
-  "#eae6de",
-  "#626262",
-  "#62c655",
-  "#282c2c"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from every.to",
-  "sampleText": "every.to",
-  "fonts": [
-    {
-      "family": "Switzer",
-      "familyId": 36,
-      "pinId": 8446,
-      "domain": "every.to",
-      "weight": "400",
-      "size": "15px",
-      "lineHeight": "22.5px",
-      "letterSpacing": "normal",
-      "frequency": 164
-    },
-    {
-      "family": "Klim Type Foundry",
-      "familyId": 2090,
-      "pinId": 8446,
-      "domain": "every.to",
-      "weight": "400",
-      "size": "42px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 10
-    },
-    {
-      "family": "Every",
-      "familyId": 2414,
-      "pinId": 8446,
-      "domain": "every.to",
-      "weight": "400",
-      "size": "48px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8442,
-      "domain": "every.to",
-      "weight": "400",
-      "size": "15px",
-      "lineHeight": "22.5px",
-      "letterSpacing": "normal",
-      "frequency": 57
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 61 |
-| Spacing values | 49 |
-| Borders and radii | 12 |
-| Shadows | 1 |
-| Gradients | 2 |
+Measured:
+- `#000000` primary text / dark surfaces
+- `#ffffff` light surfaces / reverse text
+- `#8c8d91` secondary zinc
+- `#d0d0d0` borders / muted rules
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8446,
-      "title": "Every",
-      "domain": "every.to/",
-      "pageUrl": "every.to/",
-      "imageUrl": "https://pin.fontofweb.com/8446?format=jpg",
-      "colors": [
-        "#282c2c",
-        "#000000",
-        "#bfc4c8",
-        "#c3f0fc",
-        "#d6d3d1",
-        "#c0f0fb",
-        "#8c8d91",
-        "#010101"
-      ],
-      "fonts": [
-        "Switzer",
-        "Klim Type Foundry",
-        "Every"
-      ]
-    },
-    {
-      "pinId": 8445,
-      "title": "Every",
-      "domain": "every.to/",
-      "pageUrl": "every.to/",
-      "imageUrl": "https://pin.fontofweb.com/8445?format=jpg",
-      "colors": [
-        "#5076d8",
-        "#ed671c",
-        "#d6d3d1",
-        "#000000",
-        "#165637",
-        "#209fb1",
-        "#f0f1ee",
-        "#323737"
-      ],
-      "fonts": [
-        "Switzer",
-        "Klim Type Foundry",
-        "Every"
-      ]
-    },
-    {
-      "pinId": 8444,
-      "title": "Every",
-      "domain": "every.to/",
-      "pageUrl": "every.to/",
-      "imageUrl": "https://pin.fontofweb.com/8444?format=jpg",
-      "colors": [
-        "#7c7c7c",
-        "#eb690b",
-        "#d6d3d1",
-        "#626262",
-        "#575757",
-        "#f4f3f0",
-        "#000000",
-        "#b9b8b7"
-      ],
-      "fonts": [
-        "Klim Type Foundry",
-        "Switzer"
-      ]
-    },
-    {
-      "pinId": 8443,
-      "title": "Every",
-      "domain": "every.to/",
-      "pageUrl": "every.to/",
-      "imageUrl": "https://pin.fontofweb.com/8443?format=jpg",
-      "colors": [
-        "#2f3237",
-        "#7f7dfd",
-        "#176db6",
-        "#982588",
-        "#727f88",
-        "#bdbdbd",
-        "#e0e1e2",
-        "#020202"
-      ],
-      "fonts": [
-        "Switzer",
-        "Klim Type Foundry",
-        "Every"
-      ]
-    },
-    {
-      "pinId": 8442,
-      "title": "Every",
-      "domain": "every.to/",
-      "pageUrl": "every.to/",
-      "imageUrl": "https://pin.fontofweb.com/8442?format=jpg",
-      "colors": [
-        "#c0f0fb",
-        "#4625d9",
-        "#2e2e2f",
-        "#fafaf7",
-        "#62c655",
-        "#272729",
-        "#000000",
-        "#c1315b"
-      ],
-      "fonts": [
-        "Switzer",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+Taxonomy notes both light and dark mode presence across captures — keep contrast high either way, still monochrome.
 
-## Representative captures
-[![Every](https://pin.fontofweb.com/8446?format=jpg)](https://design.withfudge.com/pin/8446)
-[Every](https://design.withfudge.com/pin/8446) — [source page](https://every.to/)
+### Typography
 
-[![Every](https://pin.fontofweb.com/8445?format=jpg)](https://design.withfudge.com/pin/8445)
-[Every](https://design.withfudge.com/pin/8445) — [source page](https://every.to/)
+Families unsupported. Observed:
+- Display ~42–48px weight 400
+- Mid ~18–20px weight 400–500, line-height ~1.5
+- Body ~15/22.5
+- UI labels ~16/24 weight 500
 
-[![Every](https://pin.fontofweb.com/8444?format=jpg)](https://design.withfudge.com/pin/8444)
-[Every](https://design.withfudge.com/pin/8444) — [source page](https://every.to/)
+### Spacing and layout
 
-[![Every](https://pin.fontofweb.com/8443?format=jpg)](https://design.withfudge.com/pin/8443)
-[Every](https://design.withfudge.com/pin/8443) — [source page](https://every.to/)
+- Large section padding ~120px vertical on big bands
+- Horizontal padding ~16px compact, ~137px on wide shells
+- Centered columns with modest side margins
 
-[![Every](https://pin.fontofweb.com/8442?format=jpg)](https://design.withfudge.com/pin/8442)
-[Every](https://design.withfudge.com/pin/8442) — [source page](https://every.to/)
+Radii: 4px common, 8px secondary, pills at 9999 for chips/CTAs.
+
+## Visual language
+
+Flat surfaces, limited palette, border-light separation. Cards and issue modules stay quiet so headlines and artwork lead. Taxonomy: content index, landing/home, large type, flat surfaces.
+
+## Components and states
+
+- Logo + text nav + account/CTA
+- Hero editorial headline
+- Issue/product cards or list rows
+- Pill filters or tags where present
+
+Mobile crop (~440px) shows the system compressing to a single column with the same monochrome voice.
+
+## Responsive behavior
+
+Desktop frames (~1712) and a narrow ~440px crop were captured. Type remains strong; padding tightens; stacks go single column. Exact breakpoint tokens unknown.
+
+## Practical guidance
+
+**Preserve** monochrome editorial calm and oversized titles.  
+**Avoid** multicolor marketing gradients and playful illustration noise.  
+**Adaptation** for media brands, newsletters, and AI writing products that want credibility.
+
+## Scope note
+
+Five home captures including a narrow viewport. Font families unsupported; colors measured. Inner article templates not deeply covered beyond the home system.
+
+## Captured pages
+
+[![Every](https://pin.fontofweb.com/8446?format=jpg)](https://design.withfudge.com/share/pin-8446)
+
+[Every](https://design.withfudge.com/share/pin-8446)
+
+[![Every](https://pin.fontofweb.com/8445?format=jpg)](https://design.withfudge.com/share/pin-8445)
+
+[Every](https://design.withfudge.com/share/pin-8445)
+
+[![Every](https://pin.fontofweb.com/8444?format=jpg)](https://design.withfudge.com/share/pin-8444)
+
+[Every](https://design.withfudge.com/share/pin-8444)
+
+[![Every](https://pin.fontofweb.com/8443?format=jpg)](https://design.withfudge.com/share/pin-8443)
+
+[Every](https://design.withfudge.com/share/pin-8443)
+
+## Colors
+
+- `#000000`
+- `#8c8d91`
+- `#ffffff`
+- `#d0d0d0`

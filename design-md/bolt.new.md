@@ -1,164 +1,93 @@
 # How bolt.new is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/bolt.new-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/bolt.new-design)
 
-Source domain: [bolt.new](https://bolt.new)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-23
+## Design character
 
-<!--
-coverPin: 6002
--->
+Bolt.new splits into two related faces:
 
-Here is the visual system observed across **4 captured pages** from [bolt.new](https://bolt.new).
+1. **Marketing/entry** — centered prompt-led hero, product promise, rounded controls on a dark or dim field  
+2. **Builder workspace** (`/~/…`) — IDE-like multi-pane UI: files, preview, chat/agent, dense toolbars
 
-```fudge-colors
-[
-  "#ffffff",
-  "#171719",
-  "#fefeff",
-  "#a3a3ac",
-  "#73737b",
-  "#1e1e21",
-  "#1488fc",
-  "#525252",
-  "#2ba6ff",
-  "#2c2c30",
-  "#3b82f6",
-  "#8b5cf6",
-  "#f6f6f6",
-  "#6e6e70",
-  "#c2c2c3",
-  "#4d4d4f"
-]
-```
+Shared DNA: modern developer tool aesthetics, **12px-ish rounding**, 1px borders, 14–16px UI type, and functional density that still feels soft rather than brutalist.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from bolt.new",
-  "sampleText": "bolt.new",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2031,
-      "pinId": 6002,
-      "domain": "bolt.new",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 88
-    }
-  ]
-}
-```
+What should survive adaptation:
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 43 |
-| Spacing values | 26 |
-| Borders and radii | 14 |
-| Shadows | 0 |
-| Gradients | 1 |
+- **Prompt-as-hero** on marketing
+- **Workspace density** without abandoning rounded softness
+- **14/16px UI type ladder** (not magazine display)
+- **Pill and 12px radii** on controls
+- **Bordered panes** over heavy drop shadows
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6002,
-      "title": "Bolt AI builder: Websites, apps & prototypes",
-      "domain": "bolt.new/~/sb1-mt1pgazi",
-      "pageUrl": "bolt.new/~/sb1-mt1pgazi",
-      "imageUrl": "https://pin.fontofweb.com/6002?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#6e6e70",
-        "#c2c2c3",
-        "#4d4d4f",
-        "#1e1e20",
-        "#ffffff",
-        "#99999b"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6001,
-      "title": "Bolt AI builder: Websites, apps & prototypes",
-      "domain": "bolt.new/~/sb1-mt1pgazi",
-      "pageUrl": "bolt.new/~/sb1-mt1pgazi",
-      "imageUrl": "https://pin.fontofweb.com/6001?format=jpg",
-      "colors": [
-        "#fefeff",
-        "#171719",
-        "#5e5e61",
-        "#a3a3ac",
-        "#f5f5f5",
-        "#2c2c30",
-        "#1f1f21",
-        "#73737b"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6000,
-      "title": "Bolt AI builder: Websites, apps & prototypes",
-      "domain": "bolt.new/",
-      "pageUrl": "bolt.new/",
-      "imageUrl": "https://pin.fontofweb.com/6000?format=jpg",
-      "colors": [
-        "#b13b15",
-        "#171719",
-        "#fefeff",
-        "#4c4f50",
-        "#ffffff",
-        "#305090",
-        "#161618",
-        "#1c3049"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 5999,
-      "title": "Bolt AI builder: Websites, apps & prototypes",
-      "domain": "bolt.new/",
-      "pageUrl": "bolt.new/",
-      "imageUrl": "https://pin.fontofweb.com/5999?format=jpg",
-      "colors": [
-        "#b9c3cc",
-        "#82868e",
-        "#37558b",
-        "#ffffff",
-        "#171719",
-        "#191c26",
-        "#2b8fde",
-        "#e9f0f4"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+## Foundations
 
-## Representative captures
-[![Bolt AI builder: Websites, apps & prototypes](https://pin.fontofweb.com/6002?format=jpg)](https://design.withfudge.com/pin/6002)
-[Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6002) — [source page](https://bolt.new/~/sb1-mt1pgazi)
+### Color
 
-[![Bolt AI builder: Websites, apps & prototypes](https://pin.fontofweb.com/6001?format=jpg)](https://design.withfudge.com/pin/6001)
-[Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6001) — [source page](https://bolt.new/~/sb1-mt1pgazi)
+Structured role colors missing. Visual system reads as dark-to-charcoal builder chrome with light preview surfaces, accent actions in a single brand highlight (often cool or vivid against charcoal). Keep marketing and workspace linked by the same control geometry even if surfaces flip light/dark.
 
-[![Bolt AI builder: Websites, apps & prototypes](https://pin.fontofweb.com/6000?format=jpg)](https://design.withfudge.com/pin/6000)
-[Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/6000) — [source page](https://bolt.new/)
+### Typography
 
-[![Bolt AI builder: Websites, apps & prototypes](https://pin.fontofweb.com/5999?format=jpg)](https://design.withfudge.com/pin/5999)
-[Bolt AI builder: Websites, apps & prototypes](https://design.withfudge.com/pin/5999) — [source page](https://bolt.new/)
+- Dominant UI/body: **16/24** and **14/20** regular
+- Occasional **18/28** for marketing supporting lines
+- Medium 14px for emphasized UI labels
+- Large marketing display is present visually but metrics skew toward UI sizes in the structured samples—pair a strong hero display with this UI base
+
+### Spacing and layout
+
+- Horizontal padding **16 / 24 / 32 / 40px** depending on pane
+- **64px** vertical margins on marketing sections
+- Builder: multi-column panes with tight toolbars; mobile capture **422px** wide shows collapsed builder chrome
+
+### Radii and borders
+
+- Radii: **4, 6, 8, 12, 24px** and full pills (**9999**) for chips/CTAs
+- 1px solid borders around inputs, panels, cards
+- Shadows minimal in samples — structure via borders and contrast
+
+## Visual language
+
+- Developer-tool clarity
+- Soft-rounded rectangles and pills
+- Preview frames and code/chat panes as primary imagery
+- Motion not established
+
+## Components and states
+
+- Marketing: logo, prompt input, primary generate/CTA, feature row
+- Builder: sidebar, tab bar, preview canvas, agent/chat rail, status chips
+- Inputs with pill or 12px rounding
+- Icon+label toolbar buttons
+
+## Responsive behavior
+
+Captures include **422px** (builder), **1119–1713px** marketing/builder. On small widths the builder collapses panes; marketing stacks the prompt and CTAs. Preserve pane border language when collapsing.
+
+## Practical guidance
+
+**Preserve**: prompt hero, rounded 12px controls, 14/16 UI type, bordered panes, builder density.
+
+**Avoid**: skeuomorphic desktop OS chrome, tiny unreadable microcopy, rainbow gradients behind the prompt, or turning the builder into a marketing landing page.
+
+## Scope note
+
+Four captures: home and a project builder route at multiple widths including a narrow 422px viewport. Color roles undeclared; geometry and type metrics were clearer than palette roles.
+
+## Captured pages
+
+[![Marketing home — prompt hero](https://pin.fontofweb.com/6000?format=jpg)](https://design.withfudge.com/share/pin-6000)
+
+[Marketing home — prompt hero](https://design.withfudge.com/share/pin-6000)
+
+[![Home — narrower viewport](https://pin.fontofweb.com/5999?format=jpg)](https://design.withfudge.com/share/pin-5999)
+
+[Home — narrower viewport](https://design.withfudge.com/share/pin-5999)
+
+[![Builder workspace — wide](https://pin.fontofweb.com/6001?format=jpg)](https://design.withfudge.com/share/pin-6001)
+
+[Builder workspace — wide](https://design.withfudge.com/share/pin-6001)
+
+[![Builder — narrow mobile width](https://pin.fontofweb.com/6002?format=jpg)](https://design.withfudge.com/share/pin-6002)
+
+[Builder — narrow mobile width](https://design.withfudge.com/share/pin-6002)

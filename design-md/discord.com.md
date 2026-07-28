@@ -1,304 +1,95 @@
 # How discord.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/discord.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/discord.com-design)
 
-Source domain: [discord.com](https://discord.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-08
+## Design character
 
-<!--
-coverPin: 7873
--->
+Discord’s public Nitro marketing is **loud, friendly, and dimensional**. It sits on deep dark blues/purples with **huge white headlines**, soft 3D clay characters and abstract blobs, and rounded product cards that feel more toy-like than enterprise. The developer portal onboarding capture shows a calmer cousin of the same system: card choices, clear hierarchy, still rounded and approachable.
 
-Here is the visual system observed across **27 captured pages** from [discord.com](https://discord.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#efeff1",
-  "#97979f",
-  "#fbfbfb",
-  "#ffffff",
-  "#5865f2",
-  "#96979e",
-  "#f8f9f9",
-  "#010101",
-  "#fcfcfd",
-  "#fefeff",
-  "#fafafc",
-  "#655e5b",
-  "#d24cb4",
-  "#6168e6",
-  "#a1a0a6"
-]
-```
+- Dark, saturated atmospheric backgrounds (not flat pure black only)
+- Oversized optimistic display type
+- Soft 3D / clay illustration language
+- 8–12px rounding on cards and controls
+- Community-playful tone over corporate minimalism
 
-```fudge-font-usage
-{
-  "title": "Typography captured from discord.com",
-  "sampleText": "discord.com",
-  "fonts": [
-    {
-      "family": "Gg Sans",
-      "familyId": 96,
-      "pinId": 7873,
-      "domain": "discord.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 587
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 27 |
-| Colors | 200 |
-| Spacing values | 4 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7873,
-      "title": "What brings you to the Developer Portal? | Discord Developer Portal",
-      "domain": "discord.com/developers/applications",
-      "pageUrl": "discord.com/developers/applications",
-      "imageUrl": "https://pin.fontofweb.com/7873?format=jpg",
-      "colors": [
-        "#655e5b",
-        "#97979f",
-        "#d24cb4",
-        "#fbfbfb",
-        "#efeff1",
-        "#6168e6",
-        "#a1a0a6",
-        "#5865f2"
-      ],
-      "fonts": [
-        "Gg Sans"
-      ]
-    },
-    {
-      "pinId": 3822,
-      "title": "(15473) Discord | Friends",
-      "domain": "discord.com/channels/@me",
-      "pageUrl": "discord.com/channels/@me",
-      "imageUrl": "https://pin.fontofweb.com/3822?format=jpg",
-      "colors": [
-        "#070707",
-        "#f2f1f2",
-        "#737276",
-        "#dc524b",
-        "#4963dd",
-        "#befb12",
-        "#64a055",
-        "#b143b0"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 793,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/793?format=jpg",
-      "colors": [
-        "#ab4bb7",
-        "#d7e9f7",
-        "#6c83f3",
-        "#52efd0",
-        "#fce165",
-        "#bb6454"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 792,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/792?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#5966f0",
-        "#25272b",
-        "#f875b5",
-        "#abb1e7",
-        "#86878b",
-        "#ffdb9d",
-        "#483e7d"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 791,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/791?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#1b1e21",
-        "#5966f1",
-        "#808285",
-        "#c171c5",
-        "#acadb0",
-        "#d7ade0",
-        "#515458"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 790,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/790?format=jpg",
-      "colors": [
-        "#f8f8f8",
-        "#1b1c20",
-        "#e3d3c6",
-        "#7282ea",
-        "#827f89",
-        "#c480ed",
-        "#e57ab0",
-        "#662b5f"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 789,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/789?format=jpg",
-      "colors": [
-        "#f8f9f9",
-        "#26262b",
-        "#6d73ec",
-        "#8bb6f1",
-        "#938d8d",
-        "#d8db69",
-        "#e15cb2"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 788,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/788?format=jpg",
-      "colors": [
-        "#c791f3",
-        "#fbfbfb",
-        "#2874d2",
-        "#a248bf",
-        "#c9bbe3",
-        "#4a4e60",
-        "#f5a94d"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 787,
-      "title": "Nitro Benefits and Features | Discord",
-      "domain": "discord.com/nitro",
-      "pageUrl": "discord.com/nitro",
-      "imageUrl": "https://pin.fontofweb.com/787?format=jpg",
-      "colors": [
-        "#c693f3",
-        "#fbfafb",
-        "#2a74d1",
-        "#a249bd",
-        "#4d5163",
-        "#f5a94e"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 786,
-      "title": "Discord Blog",
-      "domain": "discord.com/blog",
-      "pageUrl": "discord.com/blog",
-      "imageUrl": "https://pin.fontofweb.com/786?format=jpg",
-      "colors": [
-        "#464ec1",
-        "#dfe3ff",
-        "#6c72c3",
-        "#acb2ea"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 785,
-      "title": "Discord Blog",
-      "domain": "discord.com/blog",
-      "pageUrl": "discord.com/blog",
-      "imageUrl": "https://pin.fontofweb.com/785?format=jpg",
-      "colors": [
-        "#000000",
-        "#ffffff",
-        "#33378f",
-        "#545454",
-        "#7d7d7d",
-        "#2e2e2e",
-        "#a6a6a6"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 784,
-      "title": "Discord Blog",
-      "domain": "discord.com/blog",
-      "pageUrl": "discord.com/blog",
-      "imageUrl": "https://pin.fontofweb.com/784?format=jpg",
-      "colors": [
-        "#010101",
-        "#3c4fd4",
-        "#f5edf5",
-        "#7bc3f9",
-        "#f57ce1",
-        "#7c80eb",
-        "#242f92",
-        "#181b4a"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Measured role hexes were not returned for these captures. Visually Nitro leans on:
 
-## Representative captures
-[![What brings you to the Developer Portal? | Discord Developer Portal](https://pin.fontofweb.com/7873?format=jpg)](https://design.withfudge.com/pin/7873)
-[What brings you to the Developer Portal? | Discord Developer Portal](https://design.withfudge.com/pin/7873) — [source page](https://discord.com/developers/applications)
+- Deep navy / blurple atmospheric fields
+- White primary headlines
+- Soft pastel illustration accents (pinks, lilacs, sky blues)
+- Filled light CTAs contrasting the dark field
 
-[![(15473) Discord | Friends](https://pin.fontofweb.com/3822?format=jpg)](https://design.withfudge.com/pin/3822)
-[(15473) Discord | Friends](https://design.withfudge.com/pin/3822) — [source page](https://discord.com/channels/@me)
+Keep one strong filled CTA against the dark field rather than many competing neons.
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/793?format=jpg)](https://design.withfudge.com/pin/793)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/793) — [source page](https://discord.com/nitro)
+### Typography
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/792?format=jpg)](https://design.withfudge.com/pin/792)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/792) — [source page](https://discord.com/nitro)
+Declared families unknown. Observed:
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/791?format=jpg)](https://design.withfudge.com/pin/791)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/791) — [source page](https://discord.com/nitro)
+- Display ~32px+ weight 600 on portal; Nitro heroes go much larger
+- Body ~16px weight 400, line-height ~20–24px
+- Labels ~16px weight 500
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/790?format=jpg)](https://design.withfudge.com/pin/790)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/790) — [source page](https://discord.com/nitro)
+Type is geometric sans, bold and short-lined in heroes.
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/789?format=jpg)](https://design.withfudge.com/pin/789)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/789) — [source page](https://discord.com/nitro)
+### Spacing and layout
 
-[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/788?format=jpg)](https://design.withfudge.com/pin/788)
-[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/788) — [source page](https://discord.com/nitro)
+Radii **8px** and **12px** recur. Marketing pages alternate full-bleed illustration chapters with centered copy blocks. Nitro feature sections often pair a short headline with a large illustrative panel. Developer portal centers a question with selectable cards.
+
+## Visual language
+
+- Soft 3D characters, friends hanging out, abstract clay shapes
+- Rounded rectangular cards with gentle elevation
+- Gradient washes in the dark atmosphere
+- Mobile friends-list capture shows the product shell: compact lists, status, guild rail—more utilitarian than Nitro marketing
+
+## Components and states
+
+- **Marketing CTA:** high-contrast filled button on dark
+- **Feature chapters:** headline + illustration + short body
+- **Developer portal:** multi-card intent picker with icons
+- **Product chrome (mobile):** avatar list, status indicators, bottom/top bars
+
+## Practical guidance
+
+**Preserve**
+
+- Playful dark atmosphere + big type
+- Clay/3D friendliness
+- Rounded 8–12px UI
+- Short, energetic copy blocks
+
+**Avoid**
+
+- Sterile white enterprise restyle of Nitro pages
+- Harsh thin icon outlines without the soft illustration layer
+- Tiny timid headlines
+
+## Scope note
+
+Nitro marketing viewports, developer portal onboarding, and a mobile friends list (pins 788–793, 7873, 3822). Exact brand token hexes and declared fonts were not in the structured capture output.
+
+## Captured pages
+
+[![Nitro marketing hero](https://pin.fontofweb.com/788?format=jpg)](https://design.withfudge.com/share/pin-788)
+
+[Nitro marketing hero](https://design.withfudge.com/share/pin-788)
+
+[![Nitro tall feature scroll](https://pin.fontofweb.com/791?format=jpg)](https://design.withfudge.com/share/pin-791)
+
+[Nitro tall feature scroll](https://design.withfudge.com/share/pin-791)
+
+[![Developer Portal onboarding](https://pin.fontofweb.com/7873?format=jpg)](https://design.withfudge.com/share/pin-7873)
+
+[Developer Portal onboarding](https://design.withfudge.com/share/pin-7873)
+
+[![Mobile friends list](https://pin.fontofweb.com/3822?format=jpg)](https://design.withfudge.com/share/pin-3822)
+
+[Mobile friends list](https://design.withfudge.com/share/pin-3822)

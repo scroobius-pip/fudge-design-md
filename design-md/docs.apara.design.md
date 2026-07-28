@@ -1,144 +1,88 @@
 # How docs.apara.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/docs.apara.design-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/docs.apara.design-design)
 
-Source domain: [docs.apara.design](https://docs.apara.design)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-11
+## Design character
 
-<!--
-coverPin: 7987
--->
+Apara Docs feels like a **boutique Notion workspace** published as a productized help center. The shell is white with a light gray left rail, a friendly welcome headline, and **pastel gradient quick-access cards** that carry more personality than typical enterprise docs. Legal/policy pages stay quieter but share the same chrome. The brand voice is warm (“Hey There! What’s up.”) inside a clean structure.
 
-Here is the visual system observed across **2 captured pages** from [docs.apara.design](https://docs.apara.design).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#f8f8f8",
-  "#707070",
-  "#0000ee",
-  "#f9f9f9",
-  "#757575",
-  "#007cff",
-  "#a5a5a5",
-  "#b2b2b2",
-  "#646464",
-  "#ededed",
-  "#d9d9d9",
-  "#242424",
-  "#f28837",
-  "#f9c514"
-]
-```
+- White content stage + pale sidebar
+- Large welcoming display line
+- Gradient media cards for featured guides
+- Soft gray list tiles for secondary resources
+- One bright blue solid CTA
 
-```fudge-font-usage
-{
-  "title": "Typography captured from docs.apara.design",
-  "sampleText": "docs.apara.design",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7987,
-      "domain": "docs.apara.design",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 981
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7987,
-      "domain": "docs.apara.design",
-      "weight": "500",
-      "size": "12px",
-      "lineHeight": "14px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    },
-    {
-      "family": "A 8 Vp Nyp Lzcud Gbirn 8 Oe Wq Belq",
-      "familyId": 2357,
-      "pinId": 7987,
-      "domain": "docs.apara.design",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 30 |
-| Spacing values | 2 |
-| Borders and radii | 5 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7987,
-      "title": "Apara Docs",
-      "domain": "docs.apara.design/terms-and-condition",
-      "pageUrl": "docs.apara.design/terms-and-condition",
-      "imageUrl": "https://pin.fontofweb.com/7987?format=jpg",
-      "colors": [
-        "#f28837",
-        "#007cff",
-        "#f9c514",
-        "#959598",
-        "#e27f81",
-        "#ce94d0",
-        "#000000",
-        "#fefefe"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "A 8 Vp Nyp Lzcud Gbirn 8 Oe Wq Belq"
-      ]
-    },
-    {
-      "pinId": 7986,
-      "title": "Apara Docs",
-      "domain": "docs.apara.design/",
-      "pageUrl": "docs.apara.design/",
-      "imageUrl": "https://pin.fontofweb.com/7986?format=jpg",
-      "colors": [
-        "#c3b5ba",
-        "#f9f9f9",
-        "#242424",
-        "#ffffff",
-        "#007cff",
-        "#b2b2b2",
-        "#be7efe",
-        "#f8f8f8"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+Measured roles:
 
-## Representative captures
-[![Apara Docs](https://pin.fontofweb.com/7987?format=jpg)](https://design.withfudge.com/pin/7987)
-[Apara Docs](https://design.withfudge.com/pin/7987) — [source page](https://docs.apara.design/terms-and-condition)
+- Accent: `#0000ee` (classic strong blue; newsletter CTA reads bright blue in UI)
+- Primary text: `#000000`
+- Secondary text: `#707070`
 
-[![Apara Docs](https://pin.fontofweb.com/7986?format=jpg)](https://design.withfudge.com/pin/7986)
-[Apara Docs](https://design.withfudge.com/pin/7986) — [source page](https://docs.apara.design/)
+Surfaces: white main, light gray sidebar and tiles. Featured cards use full pastel gradients (lavender→pink, red→orange) with white labels.
+
+### Typography
+
+Declared families unknown. Welcome display ~ mid-large (samples include ~35px weight 500). Body/UI ~12–14px. Weights 400–500. Hierarchy is size-led on black text.
+
+### Spacing and layout
+
+Radii **10px** on cards; **999px** pills on chip-like controls. Docs layout: fixed left menu, main column with generous top greeting, quick-access grid, then list tiles. Right rail can hold quick actions.
+
+## Visual language
+
+- Soft, almost-app gradients on feature cards
+- Minimal borders; tiles use fill contrast
+- Friendly emoji/icon accents in nav labels
+- Clean legal article typography on secondary pages
+
+## Components and states
+
+- **Sidebar nav:** grouped Menu / Documents / Downloads
+- **Gradient feature cards:** icon + title on colorful wash
+- **List tiles:** icon + label on gray fill
+- **Newsletter CTA:** full-width bright blue bar with plus affordance
+- **Quick actions:** text links in a side column
+
+## Practical guidance
+
+**Preserve**
+
+- Warm welcome + structured docs shell
+- Gradient featured cards as personality
+- Blue as the only hard CTA color
+- Soft 10px rounding / pill chips
+
+**Avoid**
+
+- Making every card a loud gradient (reserve for featured)
+- Cold dense API-reference density on the hub
+- Replacing black text with low-contrast gray body
+
+## Scope note
+
+Hub home and terms page (pins 7986, 7987). Declared fonts not captured; accent hex reflects measured role values.
+
+## Captured pages
+
+[![Docs hub welcome](https://pin.fontofweb.com/7986?format=jpg)](https://design.withfudge.com/share/pin-7986)
+
+[Docs hub welcome](https://design.withfudge.com/share/pin-7986)
+
+[![Terms & Conditions article](https://pin.fontofweb.com/7987?format=jpg)](https://design.withfudge.com/share/pin-7987)
+
+[Terms & Conditions article](https://design.withfudge.com/share/pin-7987)
+
+## Colors
+
+- `#000000`
+- `#707070`
+- `#0000ee`
+- `#ffffff`

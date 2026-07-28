@@ -1,170 +1,111 @@
 # How claura.framer.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/claura.framer.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/claura.framer.ai-design)
 
-Source domain: [claura.framer.ai](https://claura.framer.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-16
+## Design character
 
-<!--
-coverPin: 8122
--->
+Claura is a **soft luxury AI-agency template**: warm cream canvas, espresso brown ink, big serif headlines, and one beautiful gradient/photographic panel doing the visual spectacle. UI chrome is minimal—pills, text links, and quiet labels—so the layout feels like a boutique studio site more than a tech console.
 
-Here is the visual system observed across **3 captured pages** from [claura.framer.ai](https://claura.framer.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#2b180a",
-  "#94877c",
-  "#ffffff",
-  "#efe7dd",
-  "#0000ee",
-  "#faf6f2",
-  "#b2775d",
-  "#301c0f",
-  "#723015",
-  "#3f747e",
-  "#736e67",
-  "#f8f1e8",
-  "#d24812",
-  "#295053",
-  "#c3b5aa"
-]
-```
+- Cream paper background + deep brown type (`#2b180a`)  
+- **Serif display** for heroes; simpler sans for UI  
+- Pill primary buttons in solid dark brown  
+- One art-directed media panel (gradient/photo) with generous radius  
+- Muted stone secondary text (`#94877c`)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from claura.framer.ai",
-  "sampleText": "claura.framer.ai",
-  "fonts": [
-    {
-      "family": "False",
-      "familyId": 2375,
-      "pinId": 8122,
-      "domain": "claura.framer.ai",
-      "weight": "400",
-      "size": "56px",
-      "lineHeight": "56px",
-      "letterSpacing": "-3.36px",
-      "frequency": 36
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8122,
-      "domain": "claura.framer.ai",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 91
-    },
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 8122,
-      "domain": "claura.framer.ai",
-      "weight": "400",
-      "size": "18px",
-      "lineHeight": "27px",
-      "letterSpacing": "-0.72px",
-      "frequency": 20
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 35 |
-| Spacing values | 7 |
-| Borders and radii | 8 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8122,
-      "title": "Claura - AI Agency Website Template for Framer",
-      "domain": "claura.framer.ai/",
-      "pageUrl": "claura.framer.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8122?format=jpg",
-      "colors": [
-        "#b2775d",
-        "#301c0f",
-        "#723015",
-        "#3f747e",
-        "#ffffff",
-        "#efe7dd",
-        "#000000",
-        "#736e67"
-      ],
-      "fonts": [
-        "False",
-        "System",
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 8121,
-      "title": "Claura - AI Agency Website Template for Framer",
-      "domain": "claura.framer.ai/",
-      "pageUrl": "claura.framer.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8121?format=jpg",
-      "colors": [
-        "#354f50",
-        "#faf6f2",
-        "#fea862",
-        "#f7f0e8",
-        "#923c29",
-        "#2b180a",
-        "#dfc9ba",
-        "#0000ee"
-      ],
-      "fonts": [
-        "Geist",
-        "False",
-        "System"
-      ]
-    },
-    {
-      "pinId": 8120,
-      "title": "Claura - AI Agency Website Template for Framer",
-      "domain": "claura.framer.ai/",
-      "pageUrl": "claura.framer.ai/",
-      "imageUrl": "https://pin.fontofweb.com/8120?format=jpg",
-      "colors": [
-        "#efe7dd",
-        "#b5abae",
-        "#e8b19a",
-        "#000000",
-        "#faf6f2",
-        "#6a92b8",
-        "#fec88d",
-        "#847b72"
-      ],
-      "fonts": [
-        "System",
-        "Geist",
-        "False"
-      ]
-    }
-  ]
-}
-```
+Measured:
 
-## Representative captures
-[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8122?format=jpg)](https://design.withfudge.com/pin/8122)
-[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8122) — [source page](https://claura.framer.ai/)
+| Role | Hex |
+|------|-----|
+| text_primary | `#2b180a` |
+| text_secondary | `#94877c` |
 
-[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8121?format=jpg)](https://design.withfudge.com/pin/8121)
-[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8121) — [source page](https://claura.framer.ai/)
+Visual canvas: warm cream/ivory. Primary CTA: near-espresso fill with light label. Secondary button: pale filled pill. Footer/badge chips stay light neutral.
 
-[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8120?format=jpg)](https://design.withfudge.com/pin/8120)
-[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8120) — [source page](https://claura.framer.ai/)
+### Typography
+
+- Hero ~**70px** / 400 / lh 77  
+- Section ~**56px** / 400  
+- Lead ~**18–20px** / 400 / lh 27–30  
+- Body/UI ~**14–16px** / 400–500  
+- Micro ~**12px**
+
+Serif for display is essential to the look; UI labels are smaller sans-like. Families not declared.
+
+### Spacing and layout
+
+- Centered hero stack with airy vertical gaps  
+- CTA padding ~**10×20px** (primary), tighter **8×16** secondary  
+- Lower sections use **20–30px** pads on cards  
+- Logo wall / social proof under hero in a single quiet row  
+
+## Visual language
+
+- Radii: **12px** small, **28px** media frames, **50–100px** pills/chips  
+- Hero media: rounded rectangle with optional dot-grid overlay on a soft orange→blue floral gradient  
+- Almost no hard shadows; softness from color and radius  
+- Brand marks in monochrome stone
+
+## Components and states
+
+1. **Top nav** — text links left, centered wordmark, pill CTA right  
+2. **Hero** — stars/microproof, serif H1, lede, dual CTAs, media panel  
+3. **Logo rail** — grayscale client marks  
+4. **Story sections** — serif titles + body + light chips (“Who we are”)  
+5. **Floating badges** — e.g. “Made in Framer”
+
+Default only.
+
+## Responsive behavior
+
+Captures at **1711** and **1308** px. Centered stack holds; media panel scales down. No phone breakpoint in set.
+
+## Practical guidance
+
+**Preserve**
+
+- Cream/espresso/stone palette  
+- Serif heroes + pill CTAs  
+- Single hero art piece with large radius  
+- Boutique agency calm  
+
+**Avoid**
+
+- Dark neon AI aesthetics  
+- Dense dashboard grids  
+- Rainbow multi-button rows  
+- Cold pure white + blue SaaS defaults  
+
+## Scope note
+
+Three home captures of the Framer template. Color text roles, radii, and type sizes solid; font file names not declared. Inner template pages not captured.
+
+## Captured pages
+
+[![Home hero — cream + serif](https://pin.fontofweb.com/8120?format=jpg)](https://design.withfudge.com/share/pin-8120)
+
+[Home hero — cream + serif](https://design.withfudge.com/share/pin-8120)
+
+[![Home — nav/details](https://pin.fontofweb.com/8121?format=jpg)](https://design.withfudge.com/share/pin-8121)
+
+[Home — nav/details](https://design.withfudge.com/share/pin-8121)
+
+[![Home — lower sections 1308](https://pin.fontofweb.com/8122?format=jpg)](https://design.withfudge.com/share/pin-8122)
+
+[Home — lower sections 1308](https://design.withfudge.com/share/pin-8122)
+
+## Colors
+
+- `#f6efe6`
+- `#2b180a`
+- `#94877c`
+- `#1a1008`
+- `#ffffff`
+- `#e8dfd4`

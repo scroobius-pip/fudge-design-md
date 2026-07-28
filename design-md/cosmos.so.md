@@ -1,318 +1,123 @@
 # How cosmos.so is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cosmos.so-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cosmos.so-design)
 
-Source domain: [cosmos.so](https://cosmos.so)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-28
+## Design character
 
-<!--
-coverPin: 9477
--->
+Cosmos is a **gallery-quiet visual discovery brand**: vast off-white fields, enormous black display type, and photography/art as the product surface. UI chrome is almost monastic—thin text nav, black pill primary CTA, ghost secondary pill, and soft floating image tiles. The system feels like a contemporary art platform, not a dense social app.
 
-Here is the visual system observed across **40 captured pages** from [cosmos.so](https://cosmos.so).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#f7f5f3",
-  "#302f47",
-  "#0d0d0d",
-  "#0c0c0c",
-  "#ffffff",
-  "#0e0e0e",
-  "#fcfcfc",
-  "#0b0b0b",
-  "#1c1c1c",
-  "#fdfdfd",
-  "#676767",
-  "#e6e5e0",
-  "#969493",
-  "#151515",
-  "#616161"
-]
-```
+- **Warm white canvas** + pure black type
+- **Massive display headlines** (58–74px) with tight negative tracking
+- **Pill CTAs**: solid black primary, outlined/ghost secondary
+- **Floating rounded media tiles** (scattered hero field, masonry collections)
+- Soft muted captions in gray; no loud multi-color brand accents in chrome
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cosmos.so",
-  "sampleText": "cosmos.so",
-  "fonts": [
-    {
-      "family": "Cosmos Oracle",
-      "familyId": 2430,
-      "pinId": 9477,
-      "domain": "cosmos.so",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 40 |
-| Colors | 256 |
-| Spacing values | 17 |
-| Borders and radii | 15 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9477,
-      "title": "Explore / Cosmos",
-      "domain": "cosmos.so/explore",
-      "pageUrl": "cosmos.so/explore",
-      "imageUrl": "https://pin.fontofweb.com/9477?format=jpg",
-      "colors": [
-        "#969493",
-        "#151515",
-        "#616161",
-        "#fbfbfb",
-        "#bab9b9",
-        "#3d3d3d"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8596,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8596?format=jpg",
-      "colors": [
-        "#c99c4e",
-        "#376e9d",
-        "#000000",
-        "#f5f4f1",
-        "#0d0d0d",
-        "#f7f5f3",
-        "#cd73c7",
-        "#a6a5a3"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8595,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8595?format=jpg",
-      "colors": [
-        "#938f86",
-        "#605e54",
-        "#1b1616",
-        "#000000",
-        "#ffffff",
-        "#403c3d"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8594,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8594?format=jpg",
-      "colors": [
-        "#161a19",
-        "#1880c3",
-        "#313047",
-        "#b3babd",
-        "#000000",
-        "#fdfdfd",
-        "#302f47",
-        "#035c98"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8593,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8593?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#ab9fb9",
-        "#3e3a35",
-        "#c0758b",
-        "#0f0e0f",
-        "#0d0d0d",
-        "#000000",
-        "#7e7473"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8592,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8592?format=jpg",
-      "colors": [
-        "#46413d",
-        "#87bac7",
-        "#4b592a",
-        "#0d0d0d",
-        "#000000",
-        "#8e8485",
-        "#b3b3a9",
-        "#f7f6f4"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 8591,
-      "title": "Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/8591?format=jpg",
-      "colors": [
-        "#000000",
-        "#0d0d0d",
-        "#6f5031",
-        "#1e1d1b",
-        "#696f67",
-        "#aaa79c",
-        "#a53219",
-        "#2b427f"
-      ],
-      "fonts": [
-        "Cosmos Oracle"
-      ]
-    },
-    {
-      "pinId": 4489,
-      "title": "Welcome to Cosmos",
-      "domain": "cosmos.so/",
-      "pageUrl": "cosmos.so/",
-      "imageUrl": "https://pin.fontofweb.com/4489?format=jpg",
-      "colors": [
-        "#0b0b0b",
-        "#adaba5",
-        "#d6d4cc",
-        "#7f7570",
-        "#9e917c",
-        "#525250",
-        "#433628"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3791,
-      "title": "Home / Cosmos",
-      "domain": "cosmos.so/home",
-      "pageUrl": "cosmos.so/home",
-      "imageUrl": "https://pin.fontofweb.com/3791?format=jpg",
-      "colors": [
-        "#0a0a0b",
-        "#e6f2f8",
-        "#5281a3",
-        "#aec7d8",
-        "#8b5a2e",
-        "#215896",
-        "#b2824c",
-        "#402e22"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3239,
-      "title": "simdi jinkins (@fontofweb) / Cosmos",
-      "domain": "cosmos.so/fontofweb",
-      "pageUrl": "cosmos.so/fontofweb",
-      "imageUrl": "https://pin.fontofweb.com/3239?format=jpg",
-      "colors": [
-        "#0d0d0d",
-        "#fcfcfc",
-        "#1e1a29",
-        "#361a4a",
-        "#423c63",
-        "#a2a2a3",
-        "#cda5ca",
-        "#44424b"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3238,
-      "title": "Search / Cosmos",
-      "domain": "cosmos.so/search/clusters",
-      "pageUrl": "cosmos.so/search/clusters",
-      "imageUrl": "https://pin.fontofweb.com/3238?format=jpg",
-      "colors": [
-        "#0d0d0d",
-        "#464646",
-        "#727272",
-        "#a9a9a9",
-        "#fdfdfd"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3237,
-      "title": "simdi jinkins (@fontofweb) / Cosmos",
-      "domain": "cosmos.so/fontofweb",
-      "pageUrl": "cosmos.so/fontofweb",
-      "imageUrl": "https://pin.fontofweb.com/3237?format=jpg",
-      "colors": [
-        "#1e1e1e",
-        "#f0ede7",
-        "#615b56",
-        "#a09d98",
-        "#5f4a30",
-        "#977f62",
-        "#d9afd0"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No structured color roles were stored. Visual system from screenshots:
 
-## Representative captures
-[![Explore / Cosmos](https://pin.fontofweb.com/9477?format=jpg)](https://design.withfudge.com/pin/9477)
-[Explore / Cosmos](https://design.withfudge.com/pin/9477) — [source page](https://cosmos.so/explore)
+- **Canvas**: soft warm white / paper
+- **Ink**: near-black for display and primary UI
+- **Secondary text**: medium gray for supporting lines and footer links
+- **Primary button**: black fill, white label
+- **Secondary button**: white/light fill with dark outline
+- **Content color**: unbounded—user art, dusty rose search stages, product photos supply hue
+- Frosted glass search field over imagery (translucent gray pill)
 
-[![Cosmos](https://pin.fontofweb.com/8596?format=jpg)](https://design.withfudge.com/pin/8596)
-[Cosmos](https://design.withfudge.com/pin/8596) — [source page](https://cosmos.so/)
+Do not freeze content hues as brand tokens; keep chrome monochrome.
 
-[![Cosmos](https://pin.fontofweb.com/8595?format=jpg)](https://design.withfudge.com/pin/8595)
-[Cosmos](https://design.withfudge.com/pin/8595) — [source page](https://cosmos.so/)
+### Typography
 
-[![Cosmos](https://pin.fontofweb.com/8594?format=jpg)](https://design.withfudge.com/pin/8594)
-[Cosmos](https://design.withfudge.com/pin/8594) — [source page](https://cosmos.so/)
+Families not declared. Observed scale:
 
-[![Cosmos](https://pin.fontofweb.com/8593?format=jpg)](https://design.withfudge.com/pin/8593)
-[Cosmos](https://design.withfudge.com/pin/8593) — [source page](https://cosmos.so/)
+- **Display**: 58–74px, weights ~350–400, line-height ≈ font-size (or slightly loose ~1.1), tracking about −2.3 to −3.7px — very tight, confident
+- **Subhead / pull**: 24–33px regular, slightly tight tracking
+- **Body**: 16/24 regular
+- **UI / meta**: 14–16px weight 500, tracking ~−0.3px; 14/18 for compact labels
+- Footer and social links stay small and quiet
 
-[![Cosmos](https://pin.fontofweb.com/8592?format=jpg)](https://design.withfudge.com/pin/8592)
-[Cosmos](https://design.withfudge.com/pin/8592) — [source page](https://cosmos.so/)
+A high-quality neutral grotesque with a light/book display cut fits; avoid decorative display faces.
 
-[![Cosmos](https://pin.fontofweb.com/8591?format=jpg)](https://design.withfudge.com/pin/8591)
-[Cosmos](https://design.withfudge.com/pin/8591) — [source page](https://cosmos.so/)
+### Spacing and layout
 
-[![Welcome to Cosmos](https://pin.fontofweb.com/4489?format=jpg)](https://design.withfudge.com/pin/4489)
-[Welcome to Cosmos](https://design.withfudge.com/pin/4489) — [source page](https://cosmos.so/)
+- Hero and feature blocks use large empty field; image tiles float with organic gaps
+- CTA stacks: **16px** vertical padding × **24px** horizontal on pills; some **32×48** on larger controls
+- Collection cards: **16px** padding, **12–16px** radii on media frames; occasional ~19px
+- Large **margin-top** spacers (60–300px) separate cinematic sections
+- Explore chip was a tiny capture; main system is home marketing
+
+## Visual language
+
+- **Radii**: true pills for buttons (effectively full-round); media tiles ~12–16px; some controls ~11px
+- **Borders**: 1px solid on ghost buttons and light frames
+- **Shadows**: minimal on chrome; depth comes from overlapping photo tiles and soft focus in the hero field
+- **Imagery**: curated art/photo tiles, collection covers, search-over-art compositions
+- **Logo**: simple multi-dot mark centered in footer bands
+- **Motion**: implied by scattered/depth tile fields; not measured
+
+## Components and states
+
+- **Hero**: huge “Search less. Find more.” claim, short gray subtitle, black “Sign up” pill + ghost “Download the app”, floating image constellation
+- **Feature rows**: left copy (“Powerful search. Beautiful results.”) beside large rounded collection previews
+- **Search stage**: oversized art triptych with centered frosted search pill (“art”)
+- **Closing CTA**: “Dream with us.” + black “Sign up for Cosmos” pill over fading tile field; mega wordmark “COSMOS” footer lockup
+- **Footer**: social text links left, legal right, mark center
+- Hover/active states not separately captured
+
+## Responsive behavior
+
+Home captures span ~1489–1712 widths with the same monochrome + tile language. No dedicated mobile captures in this set—expect display type to scale down while pills and floating tiles remain.
+
+## Practical guidance
+
+**Preserve**
+
+- Gallery white + black ink only in chrome
+- Oversized, tightly tracked display type
+- Black pill + ghost pill pair
+- Art/photo as the colorful layer
+- Huge sectional whitespace and floating tile depth
+
+**Avoid**
+
+- Bright brand gradients in UI chrome
+- Dense multi-column SaaS feature grids
+- Heavy card shadows and thick borders
+- Claiming measured brand hexes beyond black/white/gray without structured roles
+- Naming a font family without a declared source
+
+## Scope note
+
+Eight captures focused on `https://cosmos.so/` (plus a tiny `/explore` chip). Structured colors were empty—palette notes are screenshot-derived. Font families undeclared; sizes and radii from measured text/layout stats.
+
+## Captured pages
+
+[![Home — Search less hero](https://pin.fontofweb.com/8592?format=jpg)](https://design.withfudge.com/share/pin-8592)
+
+[Home — Search less hero](https://design.withfudge.com/share/pin-8592)
+
+[![Home — hero alternate](https://pin.fontofweb.com/8591?format=jpg)](https://design.withfudge.com/share/pin-8591)
+
+[Home — hero alternate](https://design.withfudge.com/share/pin-8591)
+
+[![Home — feature + collections](https://pin.fontofweb.com/8596?format=jpg)](https://design.withfudge.com/share/pin-8596)
+
+[Home — feature + collections](https://design.withfudge.com/share/pin-8596)
+
+[![Home — search opens a world](https://pin.fontofweb.com/8594?format=jpg)](https://design.withfudge.com/share/pin-8594)
+
+[Home — search opens a world](https://design.withfudge.com/share/pin-8594)
+
+[![Home — Dream with us CTA](https://pin.fontofweb.com/8595?format=jpg)](https://design.withfudge.com/share/pin-8595)
+
+[Home — Dream with us CTA](https://design.withfudge.com/share/pin-8595)
+
+[![Home — mid marketing band](https://pin.fontofweb.com/8593?format=jpg)](https://design.withfudge.com/share/pin-8593)
+
+[Home — mid marketing band](https://design.withfudge.com/share/pin-8593)

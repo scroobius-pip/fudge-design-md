@@ -1,346 +1,125 @@
 # How crazycreative.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/crazycreative.design-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/crazycreative.design-design)
 
-Source domain: [crazycreative.design](https://crazycreative.design)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-28
+## Design character
 
-<!--
-coverPin: 9130
--->
+Crazy Creative is maximalist studio branding: full-bleed hot pink fields, enormous white display type, sticky candy-colored illustration, and pill CTAs. It feels like a poster and a playground—startup agency swagger with mascot energy (bomb character, lightning bolts, geometric confetti). Nothing about it is understated; the system wins by commitment to pink + huge type + chunky shapes.
 
-Here is the visual system observed across **35 captured pages** from [crazycreative.design](https://crazycreative.design).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ff66c8",
-  "#ffffff",
-  "#0000ee",
-  "#121212",
-  "#ffd600",
-  "#fcfcfc",
-  "#fdfdfd",
-  "#ff67c8",
-  "#131312",
-  "#fefefe",
-  "#151515",
-  "#131313",
-  "#f3f4f7",
-  "#171717",
-  "#fcd410"
-]
-```
+- **Hot pink** full-viewport heroes
+- **Massive white display** (~100–130px) with tight leading
+- Soft white **pill buttons** with dark labels
+- Chunky illustration and geometric confetti in cyan/lime/lavender
+- Large corner radii (~40px, some fully pill ~100px)
+- Playful logo lockup with chrome/outline energy
 
-```fudge-font-usage
-{
-  "title": "Typography captured from crazycreative.design",
-  "sampleText": "crazycreative.design",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9130,
-      "domain": "crazycreative.design",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 546
-    },
-    {
-      "family": "Bricolage Grotesque 96 Pt",
-      "familyId": 78,
-      "pinId": 9130,
-      "domain": "crazycreative.design",
-      "weight": "400",
-      "size": "130px",
-      "lineHeight": "110.5px",
-      "letterSpacing": "-2.2px",
-      "frequency": 105
-    },
-    {
-      "family": "Bricolage Grotesque",
-      "familyId": 2208,
-      "pinId": 9130,
-      "domain": "crazycreative.design",
-      "weight": "400",
-      "size": "28px",
-      "lineHeight": "39.2px",
-      "letterSpacing": "-0.84px",
-      "frequency": 22
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 35 |
-| Colors | 294 |
-| Spacing values | 13 |
-| Borders and radii | 7 |
-| Shadows | 0 |
-| Gradients | 3 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9130,
-      "title": "Design That's Crazy Good – Crazy Creative by Nick Jacoy",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/9130?format=jpg",
-      "colors": [
-        "#f3a9d7",
-        "#fcf9fc",
-        "#f5e762",
-        "#000000",
-        "#6cfcf7",
-        "#ffffff",
-        "#baff42",
-        "#312f35"
-      ],
-      "fonts": [
-        "System",
-        "Bricolage Grotesque 96 Pt",
-        "Bricolage Grotesque"
-      ]
-    },
-    {
-      "pinId": 8777,
-      "title": "Design That's Crazy Good – Crazy Creative by Nick Jacoy",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/8777?format=jpg",
-      "colors": [
-        "#a278eb",
-        "#fefdfe",
-        "#6deed7",
-        "#ff66c8",
-        "#2d2d2e",
-        "#97a8ad",
-        "#ffffff",
-        "#0000ee"
-      ],
-      "fonts": [
-        "System",
-        "Bricolage Grotesque 96 Pt",
-        "Bricolage Grotesque"
-      ]
-    },
-    {
-      "pinId": 6968,
-      "title": "Design That's Crazy Good – Crazy Creative by Nick Jacoy",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/6968?format=jpg",
-      "colors": [
-        "#000000",
-        "#88568e",
-        "#121212",
-        "#ffffff",
-        "#f9c5e5",
-        "#ff67c8",
-        "#6cfefe",
-        "#b2adf8"
-      ],
-      "fonts": [
-        "System",
-        "Bricolage Grotesque 96 Pt",
-        "Bricolage Grotesque"
-      ]
-    },
-    {
-      "pinId": 6967,
-      "title": "Design That's Crazy Good – Crazy Creative by Nick Jacoy",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/6967?format=jpg",
-      "colors": [
-        "#ff66c8",
-        "#383739",
-        "#eea1d3",
-        "#ffd600",
-        "#90acf0",
-        "#fcf9fd",
-        "#110e14",
-        "#ffffff"
-      ],
-      "fonts": [
-        "System",
-        "Bricolage Grotesque 96 Pt",
-        "Bricolage Grotesque"
-      ]
-    },
-    {
-      "pinId": 670,
-      "title": "Design That's Crazy Good – Crazy Creative",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/670?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#161616",
-        "#aaaaaa",
-        "#525252",
-        "#7d7d7d",
-        "#719ed6"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 669,
-      "title": "Design That's Crazy Good – Crazy Creative",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/669?format=jpg",
-      "colors": [
-        "#fdfdfd",
-        "#131312",
-        "#291e51",
-        "#fabf0a",
-        "#df88f7",
-        "#81d9e5",
-        "#51530a",
-        "#79747a"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 668,
-      "title": "Design That's Crazy Good – Crazy Creative",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/668?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#121212",
-        "#bdbfc0",
-        "#7c6df7",
-        "#f9cbf5",
-        "#7e7e7e",
-        "#454445",
-        "#e2cc6b"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 667,
-      "title": "Design That's Crazy Good – Crazy Creative",
-      "domain": "crazycreative.design/",
-      "pageUrl": "crazycreative.design/",
-      "imageUrl": "https://pin.fontofweb.com/667?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#ff66c8",
-        "#121212",
-        "#4e4e4e",
-        "#d0c8e3",
-        "#cbfa4a",
-        "#330d27",
-        "#857ae4"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 666,
-      "title": "Behind the Magic – About",
-      "domain": "crazycreative.design/about",
-      "pageUrl": "crazycreative.design/about",
-      "imageUrl": "https://pin.fontofweb.com/666?format=jpg",
-      "colors": [
-        "#121212",
-        "#716ff3",
-        "#f9fafa",
-        "#cbf948",
-        "#151330",
-        "#929292",
-        "#71843e"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 665,
-      "title": "Behind the Magic – About",
-      "domain": "crazycreative.design/about",
-      "pageUrl": "crazycreative.design/about",
-      "imageUrl": "https://pin.fontofweb.com/665?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#c6f447",
-        "#222120",
-        "#746ff0",
-        "#d7e69f",
-        "#8b8da8",
-        "#d4b9f2",
-        "#f1c225"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 664,
-      "title": "Behind the Magic – About",
-      "domain": "crazycreative.design/about",
-      "pageUrl": "crazycreative.design/about",
-      "imageUrl": "https://pin.fontofweb.com/664?format=jpg",
-      "colors": [
-        "#fefeff",
-        "#151515",
-        "#c3c4c6",
-        "#979696",
-        "#6c6c6c",
-        "#3d3d3d",
-        "#f8fde1",
-        "#8f96e3"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 663,
-      "title": "Behind the Magic – About",
-      "domain": "crazycreative.design/about",
-      "pageUrl": "crazycreative.design/about",
-      "imageUrl": "https://pin.fontofweb.com/663?format=jpg",
-      "colors": [
-        "#fdfce6",
-        "#faf5fd",
-        "#aca99f",
-        "#6899cc",
-        "#54524b",
-        "#9ec3df"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No measured role palette in structured data; visual system is unambiguous:
 
-## Representative captures
-[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/9130?format=jpg)](https://design.withfudge.com/pin/9130)
-[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/9130) — [source page](https://crazycreative.design/)
+- **Hero field**: saturated hot pink / magenta
+- **Display type**: pure white
+- **Secondary type on pink**: white at smaller sizes
+- **CTA fill**: white pill; label near-black
+- **Accent props**: cyan, lime, lavender, yellow script “wow”
+- **Chrome**: white outline “Get Certified” button; rainbow strip above some headers
+- Alternate sections may invert, but the signature move is pink stage + white type
 
-[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/8777?format=jpg)](https://design.withfudge.com/pin/8777)
-[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/8777) — [source page](https://crazycreative.design/)
+### Typography
 
-[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6968?format=jpg)](https://design.withfudge.com/pin/6968)
-[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6968) — [source page](https://crazycreative.design/)
+Families undeclared. Hierarchy from captures:
 
-[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6967?format=jpg)](https://design.withfudge.com/pin/6967)
-[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6967) — [source page](https://crazycreative.design/)
+| Role | Size | Weight | Notes |
+|------|------|--------|-------|
+| Hero display | ~130px | 400 | lh ~110px (tight, slightly overlapping feel), ls ~-2px |
+| Supporting claim | ~28px | 400 | lh ~39px, slight negative track |
+| UI / nav | ~12–18px | 400–700 | Compact labels; some 18px bold |
+| Micro | 12px | 400 | Dense UI chrome |
 
-[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/670?format=jpg)](https://design.withfudge.com/pin/670)
-[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/670) — [source page](https://crazycreative.design/)
+Display is the brand: one enormous centered stack (“Design that's crazy good.”), not a multi-size editorial ramp. Script “wow” sits above as a handwritten accent.
 
-[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/669?format=jpg)](https://design.withfudge.com/pin/669)
-[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/669) — [source page](https://crazycreative.design/)
+### Spacing and layout
 
-[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/668?format=jpg)](https://design.withfudge.com/pin/668)
-[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/668) — [source page](https://crazycreative.design/)
+- Horizontal padding ~**24px** common; some controls ~30px
+- Vertical padding on bars/buttons ~20–22px
+- Hero is centered poster layout: logo/nav top, giant type middle, CTA, illustration bottom
+- Radii dominate: **40px** everywhere on cards/containers; **100px** on true pills
+- Side “Site of the Day” tab is a vertical white chip—allow branded peripheral chrome
 
-[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/667?format=jpg)](https://design.withfudge.com/pin/667)
-[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/667) — [source page](https://crazycreative.design/)
+## Visual language
+
+- **Flat loud color fields** instead of photography
+- **Mascot illustration** (expressive bomb, shapes) breaking the bottom edge
+- **Geometric confetti** triangles and bolts in secondary brights
+- **Pills and super-round rects**—soft, toy-like corners
+- **Outline buttons** for secondary actions vs filled white primary on pink
+- Logo: outlined / sticker-like “Crazy Creative” wordmark
+
+## Components and states
+
+1. **Pink hero** — optional top nav, script accent, huge claim, subcopy, Book a Call pill, mascot
+2. **Nav on pink** — Home / Services / About text links + outline Get Certified
+3. **Primary CTA** — white filled pill, dark text
+4. **Secondary CTA** — pink field, white stroke pill
+5. **Award tab** — vertical edge badge
+6. **Illustration layer** — non-negotiable brand texture under/around type
+
+Stills don’t define hover motion; preserve shape language and contrast instead.
+
+## Responsive behavior
+
+Multiple home captures around 1496–1528px and older ~1188–1687px widths show the same poster hero. Type stays huge; illustration scales with the stage. True small-mobile breakpoints aren’t richly documented—expect the display size to step down before abandoning the pink full-bleed idea.
+
+## Practical guidance
+
+**Preserve**
+
+- Full-bleed pink as the first impression
+- Oversized tight white display + tiny script accent
+- 40px+ rounding and pill CTAs
+- Mascot/confetti energy as structural art, not decoration afterthought
+
+**Avoid**
+
+- Diluting to pale pink or adding a corporate navy header bar
+- Small timid headlines that fight the brand promise
+- Sharp 4px enterprise corners on primary surfaces
+- Stock photo heroes replacing illustration
+
+**Adaptation**
+
+- One hero template + one content section inversion (e.g. light or dark) is enough to extend the system
+- CTA recipe: white fill on pink; outline on pink for secondary
+- Keep accent brights in illustration only so UI controls stay simple (white/black/pink)
+
+## Scope note
+
+All studied captures are homepage views at several widths and moments (including mascot-forward and nav-forward crops). Inner service/about pages, forms, and motion were not in this set. Font family names and instrumented color roles were unavailable—values above are from screenshot reading.
+
+## Captured pages
+
+[![Home — pink hero with nav](https://pin.fontofweb.com/9130?format=jpg)](https://design.withfudge.com/share/pin-9130)
+
+[Home — pink hero with nav](https://design.withfudge.com/share/pin-9130)
+
+[![Home — hero alternate](https://pin.fontofweb.com/8777?format=jpg)](https://design.withfudge.com/share/pin-8777)
+
+[Home — hero alternate](https://design.withfudge.com/share/pin-8777)
+
+[![Home — mascot crop](https://pin.fontofweb.com/6968?format=jpg)](https://design.withfudge.com/share/pin-6968)
+
+[Home — mascot crop](https://design.withfudge.com/share/pin-6968)
+
+[![Home — wide older capture](https://pin.fontofweb.com/667?format=jpg)](https://design.withfudge.com/share/pin-667)
+
+[Home — wide older capture](https://design.withfudge.com/share/pin-667)
+
+[![Home — matching viewport](https://pin.fontofweb.com/6967?format=jpg)](https://design.withfudge.com/share/pin-6967)
+
+[Home — matching viewport](https://design.withfudge.com/share/pin-6967)

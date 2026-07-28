@@ -1,259 +1,124 @@
 # How cypherpunkbooks.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cypherpunkbooks.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cypherpunkbooks.com-design)
 
-Source domain: [cypherpunkbooks.com](https://cypherpunkbooks.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-08
+## Design character
 
-<!--
-coverPin: 9527
--->
+The Cypherpunk Library is a **literary archive dressed as a quiet bookshop**: warm paper-like canvas, near-black olive text (`#1c1b12`), muted secondary taupe (`#6b6856`), and **book covers that cast real soft shadows**. Serif-leaning display titles sit large and calm; the UI never tries to look like a crypto exchange. Personality lives in the collection grid and long-form book pages, not in neon accents.
 
-Here is the visual system observed across **6 captured pages** from [cypherpunkbooks.com](https://cypherpunkbooks.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#1c1b12",
-  "#f1ecd9",
-  "#ffffe1",
-  "#14130c",
-  "#282412",
-  "#000000",
-  "#ffffff",
-  "#7a1f2b",
-  "#14532d",
-  "#c2410c",
-  "#1a1a1a",
-  "#b51d22",
-  "#0f3d3e",
-  "#16243f",
-  "#0b1f3a",
-  "#1f2733"
-]
-```
+- **Warm neutral reading chrome** (ink on paper, not pure startup blue/white).
+- **Cover-first browsing** with soft multi-layer shadows on book art.
+- **Large serif-feeling display** (56–64px class) for collection and book titles.
+- Generous side margins (~262px class on wide desktop) and **56px** content gutters.
+- Sparse UI: 1px rules, small radii (2–7px), almost no loud CTAs.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cypherpunkbooks.com",
-  "sampleText": "cypherpunkbooks.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9527,
-      "domain": "cypherpunkbooks.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 8
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 9527,
-      "domain": "cypherpunkbooks.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1206
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9527,
-      "domain": "cypherpunkbooks.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 341
-    },
-    {
-      "family": "Alpha Lyrae",
-      "familyId": 2576,
-      "pinId": 9526,
-      "domain": "cypherpunkbooks.com",
-      "weight": "500",
-      "size": "22px",
-      "lineHeight": "20.24px",
-      "letterSpacing": "-0.22px",
-      "frequency": 3
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 78 |
-| Spacing values | 279 |
-| Borders and radii | 21 |
-| Shadows | 9 |
-| Gradients | 16 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9527,
-      "title": "The Crypto Anarchist Manifesto · The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/book/the-crypto-anarchist-manifesto",
-      "pageUrl": "cypherpunkbooks.com/book/the-crypto-anarchist-manifesto",
-      "imageUrl": "https://pin.fontofweb.com/9527?format=jpg",
-      "colors": [
-        "#eeeed4",
-        "#7b7a67",
-        "#2c2c1b",
-        "#000000",
-        "#ffffe1",
-        "#a6a592",
-        "#6b6856",
-        "#4e4e3b"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Times"
-      ]
-    },
-    {
-      "pinId": 9526,
-      "title": "A Cypherpunk's Manifesto · The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/book/a-cypherpunks-manifesto",
-      "pageUrl": "cypherpunkbooks.com/book/a-cypherpunks-manifesto",
-      "imageUrl": "https://pin.fontofweb.com/9526?format=jpg",
-      "colors": [
-        "#000000",
-        "#927472",
-        "#555543",
-        "#1c1b12",
-        "#282412",
-        "#6b6856",
-        "#551920",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Times",
-        "Alpha Lyrae"
-      ]
-    },
-    {
-      "pinId": 9525,
-      "title": "Browse the collection · The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/collection",
-      "pageUrl": "cypherpunkbooks.com/collection",
-      "imageUrl": "https://pin.fontofweb.com/9525?format=jpg",
-      "colors": [
-        "#282412",
-        "#7a5512",
-        "#6b6856",
-        "#5b3a29",
-        "#c2410c",
-        "#0f3d3e",
-        "#e9e9d0",
-        "#1f2733"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Times",
-        "Alpha Lyrae"
-      ]
-    },
-    {
-      "pinId": 9524,
-      "title": "The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/",
-      "pageUrl": "cypherpunkbooks.com/",
-      "imageUrl": "https://pin.fontofweb.com/9524?format=jpg",
-      "colors": [
-        "#1b4f2e",
-        "#ffffe1",
-        "#1f2733",
-        "#6b6856",
-        "#14532d",
-        "#5c493e",
-        "#0b1f3a",
-        "#3a1d52"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Alpha Lyrae"
-      ]
-    },
-    {
-      "pinId": 9523,
-      "title": "Browse the collection · The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/collection",
-      "pageUrl": "cypherpunkbooks.com/collection",
-      "imageUrl": "https://pin.fontofweb.com/9523?format=jpg",
-      "colors": [
-        "#212119",
-        "#14532d",
-        "#f7931a",
-        "#9c9881",
-        "#401317",
-        "#000000",
-        "#523320",
-        "#f1ecd9"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Times",
-        "Alpha Lyrae"
-      ]
-    },
-    {
-      "pinId": 9522,
-      "title": "The Cypherpunk Library",
-      "domain": "cypherpunkbooks.com/",
-      "pageUrl": "cypherpunkbooks.com/",
-      "imageUrl": "https://pin.fontofweb.com/9522?format=jpg",
-      "colors": [
-        "#000000",
-        "#634322",
-        "#7a5512",
-        "#8b1e3f",
-        "#b51d22",
-        "#7a1f2b",
-        "#e4891d",
-        "#f7931a"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "Alpha Lyrae"
-      ]
-    }
-  ]
-}
-```
+| Role | Value | Use |
+| --- | --- | --- |
+| Primary text | `#1c1b12` | Titles and body ink |
+| Secondary text | `#6b6856` | Meta, muted lines |
+| Accent / inverse | `#ffffff` | Light accents on darker treatments |
 
-## Representative captures
-[![The Crypto Anarchist Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/pin/9527)
-[The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9527) — [source page](https://cypherpunkbooks.com/book/the-crypto-anarchist-manifesto)
+Canvas reads as warm off-white/cream. Covers supply full-color art; chrome stays monochrome-warm.
 
-[![A Cypherpunk's Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/pin/9526)
-[A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9526) — [source page](https://cypherpunkbooks.com/book/a-cypherpunks-manifesto)
+### Typography
 
-[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/pin/9525)
-[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9525) — [source page](https://cypherpunkbooks.com/collection)
+Declared families not retained; taxonomy marks **serif** for the system. Measured:
 
-[![The Cypherpunk Library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/pin/9524)
-[The Cypherpunk Library](https://design.withfudge.com/pin/9524) — [source page](https://cypherpunkbooks.com/)
+- Display **56–64px** weight 500, often 1.0 line-height.
+- Section/card titles **19–22px** weight 500; body **16–19px** with open leading (~33px on 19px reading lines).
+- UI meta **11–15px**; micro labels down to ~8.5–12px.
+- Book pages favor long comfortable measures over marketing stack type.
 
-[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/pin/9523)
-[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9523) — [source page](https://cypherpunkbooks.com/collection)
+### Spacing and layout
 
-[![The Cypherpunk Library](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/pin/9522)
-[The Cypherpunk Library](https://design.withfudge.com/pin/9522) — [source page](https://cypherpunkbooks.com/)
+- Horizontal content pad **56px**; outer centering margins ~**262px** on 1712px frames.
+- Large bottom padding ~**140px** on major shells.
+- Collection grids: column-gap ~**28px**, row-gap ~**36px**; book layouts also use **72px** gaps in places.
+- Home can use tighter **24px** gaps in denser rows.
+
+## Visual language
+
+- **Near-square corners** (2–7px) on chrome; covers get the elevation story.
+- Shadows are intentional: soft cover lifts (e.g. 0/14/30, 0/26/56) plus hairline 0/1/1 contacts.
+- 1px solid borders on filters/chips; flat page surfaces behind dimensional books.
+- Motion not established.
+
+## Components and states
+
+### Collection index
+Large page title, filter/UI chips, dense cover grid with title/meta under each book.
+
+### Book page
+Hero title (64px-class), secondary author/meta in taupe, long reading column, related covers with the same shadow language.
+
+### Home library
+Rows of covers with compact padding (6–16px) and multi-shadow stack for depth.
+
+## Responsive behavior
+
+Captures are mostly ~1455–1712px desktop. Side margins will collapse on smaller screens; keep cover shadows and warm ink pairing when narrowing.
+
+## Practical guidance
+
+**Preserve**
+
+1. Warm ink `#1c1b12` / taupe `#6b6856` on paper canvas.
+2. Cover shadows as the main “depth” device.
+3. Large calm display titles; quiet UI chrome.
+4. Wide reading margins on desktop.
+5. Serif-leaning literary tone over SaaS sans shouting.
+
+**Avoid**
+
+1. Neon crypto gradients and glass dashboards.
+2. Huge pill marketing CTAs dominating the archive.
+3. Flat covers with no elevation—books should feel physical.
+4. Inventing a named font licence from this guide.
+
+**Adaptation recipe**
+
+- Paper canvas + warm ink → cover grid with soft shadows → serif display titles → long book pages with taupe meta.
+
+## Scope note
+
+Six captures: home, collection (×2), and two book pages. Supported: warm palette, type scale, cover elevation, collection/book layout. Gaps: mobile, exact font family, motion.
+
+## Captured pages
+
+[![Collection grid](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/share/pin-9525)
+
+[Collection grid](https://design.withfudge.com/share/pin-9525)
+
+[![Book page — Cypherpunk's Manifesto](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/share/pin-9526)
+
+[Book page — Cypherpunk's Manifesto](https://design.withfudge.com/share/pin-9526)
+
+[![Home library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/share/pin-9524)
+
+[Home library](https://design.withfudge.com/share/pin-9524)
+
+[![Home alternate](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/share/pin-9522)
+
+[Home alternate](https://design.withfudge.com/share/pin-9522)
+
+[![Book page narrow](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/share/pin-9527)
+
+[Book page narrow](https://design.withfudge.com/share/pin-9527)
+
+[![Collection dense](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/share/pin-9523)
+
+[Collection dense](https://design.withfudge.com/share/pin-9523)
+
+## Colors
+
+- `#ffffff`
+- `#1c1b12`
+- `#6b6856`

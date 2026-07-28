@@ -1,158 +1,77 @@
 # How bkid.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/bkid.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/bkid.co-design)
 
-Source domain: [bkid.co](https://bkid.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-19
+## Design character
 
-<!--
-coverPin: 10283
--->
+The captured B K I D pages are **studio portfolio case studies**, not a product marketing site. The “10 Hangul Unit” work pages read as editorial design documentation: generous outer margins, small running text (~14/22), large top padding, and a calm light field that lets project imagery and diagrams dominate.
 
-Here is the visual system observed across **2 captured pages** from [bkid.co](https://bkid.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#444444",
-  "#ffffff",
-  "#888888",
-  "#000000",
-  "#2a2322",
-  "#0f7eb8",
-  "#615f5f",
-  "#764928",
-  "#fdfdfd",
-  "#da7409",
-  "#b6b5b5",
-  "#feaf0b",
-  "#868584",
-  "#cac7c4",
-  "#69615e",
-  "#f19f2f"
-]
-```
+- **Editorial quiet** — UI almost disappears
+- **Image-first project narrative**
+- **Small, readable body** with long vertical rhythm
+- **Wide side margins** framing a centered reading column
+- **Minimal chrome** (studio nav, project title, little else)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from bkid.co",
-  "sampleText": "bkid.co",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10283,
-      "domain": "bkid.co",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 33
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 10283,
-      "domain": "bkid.co",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 33
-    },
-    {
-      "family": "Helvetica Neue",
-      "familyId": 1422,
-      "pinId": 10283,
-      "domain": "bkid.co",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22px",
-      "letterSpacing": "normal",
-      "frequency": 5946
-    },
-    {
-      "family": "Helvetica",
-      "familyId": 66,
-      "pinId": 10283,
-      "domain": "bkid.co",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22px",
-      "letterSpacing": "1px",
-      "frequency": 8
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 21 |
-| Spacing values | 40 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10283,
-      "title": "10 Hangul Unit – B K I D",
-      "domain": "bkid.co/work/10-hangul-unit/",
-      "pageUrl": "bkid.co/work/10-hangul-unit/",
-      "imageUrl": "https://pin.fontofweb.com/10283?format=jpg",
-      "colors": [
-        "#2a2322",
-        "#0f7eb8",
-        "#615f5f",
-        "#764928",
-        "#fdfdfd",
-        "#da7409",
-        "#b6b5b5",
-        "#feaf0b"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Helvetica Neue",
-        "Helvetica"
-      ]
-    },
-    {
-      "pinId": 10282,
-      "title": "10 Hangul Unit – B K I D",
-      "domain": "bkid.co/work/10-hangul-unit/",
-      "pageUrl": "bkid.co/work/10-hangul-unit/",
-      "imageUrl": "https://pin.fontofweb.com/10282?format=jpg",
-      "colors": [
-        "#cac7c4",
-        "#69615e",
-        "#f19f2f",
-        "#fafafb",
-        "#a3a1a0",
-        "#9d612e",
-        "#1492c2",
-        "#2d6b8c"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Helvetica Neue",
-        "Helvetica"
-      ]
-    }
-  ]
-}
-```
+No structured role colors were returned. Visually the pages read as light paper with near-black text and project photography carrying all chroma. Treat the shell as neutral light; do not invent a brand rainbow.
 
-## Representative captures
-[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10283?format=jpg)](https://design.withfudge.com/pin/10283)
-[10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10283) — [source page](https://bkid.co/work/10-hangul-unit/)
+### Typography
 
-[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10282?format=jpg)](https://design.withfudge.com/pin/10282)
-[10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10282) — [source page](https://bkid.co/work/10-hangul-unit/)
+- Dominant text: **14px / 22px**, weight 400 — long-form captions and body
+- Occasional **10px** labels/meta
+- No declared family; the feel is clean grotesque suitable for bilingual (Latin/Hangul) captions
+
+Hierarchy is intentionally flat compared with SaaS marketing: the project title and images lead; body stays small and even.
+
+### Spacing and layout
+
+- **~100px** padding-top on major sections — museum-like entry breath
+- Side margins ~**63.5px** (and sometimes 32px) — consistent column inset
+- **21px** margin-bottom between text blocks — tight paragraph stack inside an otherwise open page
+- Section crops around **1104×825–857** — focused case-study frames rather than full marketing heroes
+
+## Visual language
+
+- Sparse borders/radii/shadows (not observed as a system)
+- Photography, diagrams, and type specimens from the work itself
+- Portfolio craft: white space as a design material
+
+## Components and states
+
+- Case study header (project name)
+- Sequential media blocks / diagrams
+- Small caption text under artifacts
+- Minimal site navigation
+
+No complex interactive component kit is visible in these crops.
+
+## Responsive behavior
+
+Only ~1104px-wide section crops were captured. Do not claim a full breakpoint system; keep the editorial column and scale imagery fluidly.
+
+## Practical guidance
+
+**Preserve**: quiet light shell, small body type, large top breath, image-led storytelling, wide margins.
+
+**Avoid**: SaaS hero patterns, loud CTAs, card marketplaces, or dense admin UI patterns on case studies.
+
+## Scope note
+
+Two section-crop captures of `bkid.co/work/10-hangul-unit/`. Color roles, radii, and shadows were largely unobserved; guidance leans on spacing metrics plus visual reading of the project pages.
+
+## Captured pages
+
+[![10 Hangul Unit — case study crop A](https://pin.fontofweb.com/10283?format=jpg)](https://design.withfudge.com/share/pin-10283)
+
+[10 Hangul Unit — case study crop A](https://design.withfudge.com/share/pin-10283)
+
+[![10 Hangul Unit — case study crop B](https://pin.fontofweb.com/10282?format=jpg)](https://design.withfudge.com/share/pin-10282)
+
+[10 Hangul Unit — case study crop B](https://design.withfudge.com/share/pin-10282)

@@ -1,132 +1,66 @@
 # How canadaspends.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/canadaspends.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/canadaspends.com-design)
 
-Source domain: [canadaspends.com](https://canadaspends.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-21
+## Design character
 
-<!--
-coverPin: 6907
--->
+Canada Spends presents federal spending as a **civic analytics product**: warm paper/cream canvas (`#f6ece3` family), deep red accent (`#932f2f`), charcoal text, and dense tables/visualizations. It feels trustworthy and slightly editorial—closer to a public report than a flashy fintech dashboard.
 
-Here is the visual system observed across **2 captured pages** from [canadaspends.com](https://canadaspends.com).
+What should survive adaptation:
+- Warm off-white paper ground (not pure cold gray)
+- Deep red as sparse accent for key metrics/links
+- Dense but legible data density
+- Sober sans hierarchy with clear numeric emphasis
 
-```fudge-colors
-[
-  "#272727",
-  "#000000",
-  "#f6ece3",
-  "#932f2f",
-  "#e5e7eb",
-  "#ffffff",
-  "#335b6b",
-  "#4a5565",
-  "#101828",
-  "#f6ebe3",
-  "#364153",
-  "#bedbff",
-  "#cccccc",
-  "#f7efe8",
-  "#bed9fd",
-  "#383736"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from canadaspends.com",
-  "sampleText": "canadaspends.com",
-  "fonts": [
-    {
-      "family": "Financier",
-      "familyId": 2197,
-      "pinId": 6907,
-      "domain": "canadaspends.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 835
-    },
-    {
-      "family": "Söhne Kraftig",
-      "familyId": 2198,
-      "pinId": 6907,
-      "domain": "canadaspends.com",
-      "weight": "700",
-      "size": "24px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 8
-    }
-  ]
-}
-```
+### Color
+Measured: accent `#932f2f`, text `#272727`, secondary `#4a5565`, warm ground `#f6ece3`.
+Use red for emphasis and key totals; keep charts on neutral series colors that don’t fight the red.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 30 |
-| Spacing values | 27 |
-| Borders and radii | 3 |
-| Shadows | 1 |
-| Gradients | 1 |
+### Typography
+Weights 400/500/700. Sizes from ~11–14px for table UI up through 16–18 body, 24–30 subheads, ~48px display for big figures/titles. Numerals should feel tabular and steady.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6907,
-      "title": "Federal Government Spending | Canada Spends",
-      "domain": "canadaspends.com/en/federal/spending",
-      "pageUrl": "canadaspends.com/en/federal/spending",
-      "imageUrl": "https://pin.fontofweb.com/6907?format=jpg",
-      "colors": [
-        "#272727",
-        "#364153",
-        "#f7efe8",
-        "#4a5565",
-        "#bed9fd",
-        "#f6ece3",
-        "#e5e7eb",
-        "#383736"
-      ],
-      "fonts": [
-        "Financier",
-        "Söhne Kraftig"
-      ]
-    },
-    {
-      "pinId": 6906,
-      "title": "Federal Government Spending | Canada Spends",
-      "domain": "canadaspends.com/en/federal/spending",
-      "pageUrl": "canadaspends.com/en/federal/spending",
-      "imageUrl": "https://pin.fontofweb.com/6906?format=jpg",
-      "colors": [
-        "#666461",
-        "#a45a57",
-        "#000000",
-        "#aba8a5",
-        "#335b6b",
-        "#5e2c2d",
-        "#932f2f",
-        "#923030"
-      ],
-      "fonts": [
-        "Financier",
-        "Söhne Kraftig"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Spacing 4–40px with a large content gap (~276) in places. Layout: sticky/top filters, primary chart, detailed tables. Dense density taxonomy fits.
 
-## Representative captures
-[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6907?format=jpg)](https://design.withfudge.com/pin/6907)
-[Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6907) — [source page](https://canadaspends.com/en/federal/spending)
+## Visual language
+- Radii mostly **4px** — slightly softened squares
+- Flat surfaces; data ink over decoration
+- Light borders for table structure
 
-[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6906?format=jpg)](https://design.withfudge.com/pin/6906)
-[Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6906) — [source page](https://canadaspends.com/en/federal/spending)
+## Components and states
+- Filter controls and tabs for spending views
+- Large KPI/readout figures
+- Charts + data tables
+- Breadcrumb/nav for federal taxonomy
+
+## Responsive behavior
+Two captures of the same spending page at ~1700px. Breakpoints not multi-width proven; keep tables horizontally scrollable rather than crushing columns.
+
+## Practical guidance
+**Preserve** warm paper + deep red + dense data honesty.
+**Avoid** neon dashboard clichés, heavy glass cards, or playful illustration that undercuts civic tone.
+
+## Scope note
+Only `/en/federal/spending` studied (two captures). Marketing home may be airier.
+
+## Captured pages
+
+[![Federal spending — primary view](https://pin.fontofweb.com/6906?format=jpg)](https://design.withfudge.com/share/pin-6906)
+
+[Federal spending — primary view](https://design.withfudge.com/share/pin-6906)
+
+[![Federal spending — alternate capture](https://pin.fontofweb.com/6907?format=jpg)](https://design.withfudge.com/share/pin-6907)
+
+[Federal spending — alternate capture](https://design.withfudge.com/share/pin-6907)
+
+## Colors
+
+- `#932f2f`
+- `#272727`
+- `#4a5565`
+- `#f6ece3`
+- `#ffffff`

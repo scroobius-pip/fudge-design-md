@@ -1,302 +1,118 @@
 # How dub.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dub.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dub.co-design)
 
-Source domain: [dub.co](https://dub.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-01
+# How dub.co is designed
 
-<!--
-coverPin: 7583
--->
+## Design character
 
-Here is the visual system observed across **9 captured pages** from [dub.co](https://dub.co).
+Dub is a polished black-and-white SaaS marketing system with one decisive green accent. The home experience reads as a modern attribution platform: near-black canvas, soft charcoal cards, oversized medium-weight headlines, and product UI framed as floating light panels. Everything feels dense but calm—enterprise credibility without enterprise clutter.
 
-```fudge-colors
-[
-  "#0a0a0a",
-  "#000000",
-  "#171717",
-  "#fafafa",
-  "#ffffff",
-  "#f5f5f5",
-  "#262626",
-  "#737373",
-  "#e5e5e5",
-  "#525252",
-  "#a3a3a3",
-  "#404040",
-  "#ea580c",
-  "#d4d4d4",
-  "#16a34a",
-  "#111827"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dub.co",
-  "sampleText": "dub.co",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7583,
-      "domain": "dub.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 834
-    },
-    {
-      "family": "Satoshi",
-      "familyId": 258,
-      "pinId": 7583,
-      "domain": "dub.co",
-      "weight": "500",
-      "size": "48px",
-      "lineHeight": "48px",
-      "letterSpacing": "normal",
-      "frequency": 39
-    },
-    {
-      "family": "Geist Mono",
-      "familyId": 136,
-      "pinId": 7581,
-      "domain": "dub.co",
-      "weight": "500",
-      "size": "24px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 83 |
-| Spacing values | 66 |
-| Borders and radii | 17 |
-| Shadows | 5 |
-| Gradients | 1 |
+Measured and observed roles:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7583,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7583?format=jpg",
-      "colors": [
-        "#a3a3a3",
-        "#191c15",
-        "#000000",
-        "#737373",
-        "#fb923c",
-        "#fafafa",
-        "#171717",
-        "#0a0a0a"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi"
-      ]
-    },
-    {
-      "pinId": 7582,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7582?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#9f9f9f",
-        "#202020",
-        "#000000",
-        "#545454",
-        "#0a0a0a",
-        "#171717",
-        "#d4d4d4"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi"
-      ]
-    },
-    {
-      "pinId": 7581,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7581?format=jpg",
-      "colors": [
-        "#f5c7aa",
-        "#212121",
-        "#000000",
-        "#e5e5e5",
-        "#0a0a0a",
-        "#d6713c",
-        "#ffffff",
-        "#f9f9f9"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi",
-        "Geist Mono"
-      ]
-    },
-    {
-      "pinId": 7580,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7580?format=jpg",
-      "colors": [
-        "#e5e5e5",
-        "#9ebe50",
-        "#000000",
-        "#737373",
-        "#7e7e7e",
-        "#edada1",
-        "#62be97",
-        "#0a0a0a"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi"
-      ]
-    },
-    {
-      "pinId": 7579,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7579?format=jpg",
-      "colors": [
-        "#b4c3f5",
-        "#111827",
-        "#a232f8",
-        "#e5e5e5",
-        "#1e60fc",
-        "#d8adf6",
-        "#5b8bfa",
-        "#16a34a"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi"
-      ]
-    },
-    {
-      "pinId": 7578,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7578?format=jpg",
-      "colors": [
-        "#2f2d2d",
-        "#99999a",
-        "#a0735a",
-        "#a070cc",
-        "#717172",
-        "#4e4c4c",
-        "#fefefe",
-        "#e69447"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7577,
-      "title": "Dub - The Modern Link Attribution Platform",
-      "domain": "dub.co/",
-      "pageUrl": "dub.co/",
-      "imageUrl": "https://pin.fontofweb.com/7577?format=jpg",
-      "colors": [
-        "#f9fafa",
-        "#4e4f4f",
-        "#ac85ec",
-        "#242424",
-        "#e5e5e5",
-        "#737373",
-        "#525252",
-        "#0a0a0a"
-      ],
-      "fonts": [
-        "Inter",
-        "Satoshi"
-      ]
-    },
-    {
-      "pinId": 3066,
-      "title": "Pricing | Dub",
-      "domain": "dub.co/pricing/partners",
-      "pageUrl": "dub.co/pricing/partners",
-      "imageUrl": "https://pin.fontofweb.com/3066?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#9e9e9e",
-        "#c4c3c3",
-        "#7e7e7e",
-        "#2a2a2a",
-        "#b37ee7",
-        "#ef944c",
-        "#4dc274"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3064,
-      "title": "Pricing | Dub",
-      "domain": "dub.co/pricing/links",
-      "pageUrl": "dub.co/pricing/links",
-      "imageUrl": "https://pin.fontofweb.com/3064?format=jpg",
-      "colors": [
-        "#fdfdfc",
-        "#050505",
-        "#848484",
-        "#aba9a7",
-        "#616160",
-        "#433833",
-        "#a586f7",
-        "#653eb1"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+- **Canvas / near-black:** `#0a0a0a` — primary page background
+- **Elevated surface:** `#171717` — cards, panels, and nested chrome
+- **Muted text / borders:** `#737373` — secondary labels and hairlines
+- **Success / brand accent:** `#16a34a` — primary CTAs (“Start for free”), active dots, positive metrics
+- **Light product chrome:** pure white panels for embedded dashboards and tables (visual reading of product frames)
+- **White type on dark** for primary copy; green reserved almost exclusively for action and status
 
-## Representative captures
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7583?format=jpg)](https://design.withfudge.com/pin/7583)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7583) — [source page](https://dub.co/)
+The palette is intentionally narrow. Green is the only saturated signal; everything else stays monochrome so charts, logos, and screenshots carry the color load.
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7582?format=jpg)](https://design.withfudge.com/pin/7582)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7582) — [source page](https://dub.co/)
+### Typography
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7581?format=jpg)](https://design.withfudge.com/pin/7581)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7581) — [source page](https://dub.co/)
+Declared font families were not captured. Observed scale on marketing pages:
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7580?format=jpg)](https://design.withfudge.com/pin/7580)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7580) — [source page](https://dub.co/)
+- Display / hero: ~48px, weight 500, tight line-height (~1.0)
+- Section titles: ~20px, weight 500, ~28px line-height
+- Body: 16px / 24px, weight 400
+- UI / meta: 14px / 20px, weights 400–500
+- Dense product labels lean smaller and medium weight
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7579?format=jpg)](https://design.withfudge.com/pin/7579)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7579) — [source page](https://dub.co/)
+Hierarchy is size-and-weight first, not color. Headlines sit heavy and short; supporting copy stays mid-gray on black.
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7578?format=jpg)](https://design.withfudge.com/pin/7578)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7578) — [source page](https://dub.co/)
+### Spacing and layout
 
-[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7577?format=jpg)](https://design.withfudge.com/pin/7577)
-[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7577) — [source page](https://dub.co/)
+Recurring measurements:
 
-[![Pricing | Dub](https://pin.fontofweb.com/3066?format=jpg)](https://design.withfudge.com/pin/3066)
-[Pricing | Dub](https://design.withfudge.com/pin/3066) — [source page](https://dub.co/pricing/partners)
+- Section vertical rhythm: 64–128px padding (96/128 common on large bands)
+- Horizontal page padding often 16px at the edge with large auto side margins (~340px) creating a centered content column on wide viewports
+- Card and control radii cluster at **8px** and **16px**; pills use full rounding (~9999)
+- Product mockups sit in generous whitespace with soft separation from the dark field
+
+Layout pattern: sticky slim top nav → full-bleed dark hero with centered claim → multi-column feature/logo bands → light-on-dark product showcases → dark footer.
+
+## Visual language
+
+- **Shape:** rounded rectangles (8–16px) for cards and inputs; pill buttons for primary actions
+- **Borders:** hairline neutral borders on elevated dark cards; light frames around product screenshots
+- **Depth:** product UIs appear as floating white sheets on the black stage—contrast does the elevation work more than heavy shadows
+- **Imagery:** real product chrome, partner logo rows, simple geometric marks; no lifestyle photography dominating the home story
+- **Motion:** not established from still captures
+
+## Components and states
+
+- **Top nav:** wordmark left, text links, green filled CTA right
+- **Hero:** short claim, one-line value prop, dual actions (green primary + quiet secondary)
+- **Metric / feature cards:** dark tiles with small labels and large numbers
+- **Logo wall:** monochrome partner marks in a calm row
+- **Product frames:** white app chrome with tables, filters, and green status chips
+- **Pricing (partners):** lighter marketing strip with plan comparison energy while staying on-brand
+
+Visible states in screenshots: default and selected/active (green), not full hover/focus specs.
+
+## Responsive behavior
+
+Captures span wide desktop and narrower desktop widths. The system keeps the dark canvas and collapses multi-column product showcases into stacked bands; side margins shrink while 16px edge padding remains. Exact mobile breakpoints were not captured.
+
+## Practical guidance
+
+**Preserve**
+
+- Near-black canvas with a single green accent for primary action
+- Medium-weight display type and short hero claims
+- White product frames as the brightest objects on the page
+- 8/16px radius discipline and generous section padding
+
+**Avoid**
+
+- Introducing a second saturated brand color
+- Busy gradients or illustration-heavy heroes
+- Light marketing pages that break the monochrome shell without reason
+- Over-rounded consumer “playful” radii on enterprise tables
+
+## Scope note
+
+Studied eight captures of dub.co home (multiple viewport crops) and `/pricing/partners`. Color roles and palette entries are sparse in structured data; several hex values above combine measured palette hits with direct screenshot reading. Font family names were not available.
+
+## Captured pages
+
+[![Home hero — dark canvas + green CTA](https://pin.fontofweb.com/7583?format=jpg)](https://design.withfudge.com/share/pin-7583)
+
+[Home hero — dark canvas + green CTA](https://design.withfudge.com/share/pin-7583)
+
+[![Product showcase on dark field](https://pin.fontofweb.com/7577?format=jpg)](https://design.withfudge.com/share/pin-7577)
+
+[Product showcase on dark field](https://design.withfudge.com/share/pin-7577)
+
+[![Narrower home crop](https://pin.fontofweb.com/7582?format=jpg)](https://design.withfudge.com/share/pin-7582)
+
+[Narrower home crop](https://design.withfudge.com/share/pin-7582)
+
+[![Partners pricing](https://pin.fontofweb.com/3066?format=jpg)](https://design.withfudge.com/share/pin-3066)
+
+[Partners pricing](https://design.withfudge.com/share/pin-3066)
+
+## Colors
+
+- `#0a0a0a`
+- `#171717`
+- `#737373`
+- `#16a34a`
+- `#ffffff`

@@ -1,347 +1,124 @@
 # How dedcool.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dedcool.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dedcool.com-design)
 
-Source domain: [dedcool.com](https://dedcool.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-28
+## Design character
 
-<!--
-coverPin: 6073
--->
+DedCool is a **clean, editorial fragrance ecommerce** brand that presents product as gallery sculpture. The chrome stays almost invisible—thin promo ticker, sparse uppercase nav, barcode wordmark—so oversized product photography and short manifesto headlines can dominate. The mood is LA wellness-meets-museum: white space, soft daylight still-lifes, and confident black type without loud brand color shouting over the bottles.
 
-Here is the visual system observed across **17 captured pages** from [dedcool.com](https://dedcool.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#373330",
-  "#f0f0f0",
-  "#1a172c",
-  "#ffffff",
-  "#cce1f5",
-  "#ff6b18",
-  "#2c2c2c",
-  "#6c6c6c",
-  "#ff6b17",
-  "#007aff",
-  "#030303",
-  "#f1f1f1",
-  "#606060",
-  "#5a5755",
-  "#c72c1d"
-]
-```
+- A **near-monochrome UI frame** that never competes with product photography.
+- **Billboard headlines** paired with dense but readable body copy.
+- **Product-as-hero** compositions (floating bottles, clinical labels, barcode branding).
+- Utility commerce patterns (cart count, thin promo bar, pill CTAs) kept quiet.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dedcool.com",
-  "sampleText": "dedcool.com",
-  "fonts": [
-    {
-      "family": "Messina Sans Mono",
-      "familyId": 2062,
-      "pinId": 6073,
-      "domain": "dedcool.com",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "26px",
-      "letterSpacing": "0.4px",
-      "frequency": 50
-    },
-    {
-      "family": "Universal Sans",
-      "familyId": 73,
-      "pinId": 6073,
-      "domain": "dedcool.com",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "16.8px",
-      "letterSpacing": "normal",
-      "frequency": 30
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 17 |
-| Colors | 141 |
-| Spacing values | 128 |
-| Borders and radii | 26 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6073,
-      "title": "About – DedCool",
-      "domain": "dedcool.com/pages/about-us",
-      "pageUrl": "dedcool.com/pages/about-us",
-      "imageUrl": "https://pin.fontofweb.com/6073?format=jpg",
-      "colors": [
-        "#5a5755",
-        "#c72c1d",
-        "#000000",
-        "#1a172c",
-        "#ba8b6d",
-        "#989b9d",
-        "#ebedee",
-        "#151413"
-      ],
-      "fonts": [
-        "Messina Sans Mono",
-        "Universal Sans"
-      ]
-    },
-    {
-      "pinId": 6072,
-      "title": "DedClub Rewards - DedCool Official Website",
-      "domain": "dedcool.com/pages/rewards",
-      "pageUrl": "dedcool.com/pages/rewards",
-      "imageUrl": "https://pin.fontofweb.com/6072?format=jpg",
-      "colors": [
-        "#010101",
-        "#f0f0f0",
-        "#6e6e6e",
-        "#acacac",
-        "#4f4f4f",
-        "#8b8b8b",
-        "#000000",
-        "#2a2a2a"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    },
-    {
-      "pinId": 6071,
-      "title": "DedClub Rewards - DedCool Official Website",
-      "domain": "dedcool.com/pages/rewards",
-      "pageUrl": "dedcool.com/pages/rewards",
-      "imageUrl": "https://pin.fontofweb.com/6071?format=jpg",
-      "colors": [
-        "#bebcbc",
-        "#cce0f4",
-        "#090909",
-        "#39302d",
-        "#2c2c2c",
-        "#6a4e3d",
-        "#ff6b18",
-        "#595757"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6070,
-      "title": "DedClub Rewards - DedCool Official Website",
-      "domain": "dedcool.com/pages/rewards",
-      "pageUrl": "dedcool.com/pages/rewards",
-      "imageUrl": "https://pin.fontofweb.com/6070?format=jpg",
-      "colors": [
-        "#000000",
-        "#efefef",
-        "#0b0b0b",
-        "#393939",
-        "#656565",
-        "#a5a5a5",
-        "#f4844d",
-        "#373330"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6069,
-      "title": "DedClub Rewards - DedCool Official Website",
-      "domain": "dedcool.com/pages/rewards",
-      "pageUrl": "dedcool.com/pages/rewards",
-      "imageUrl": "https://pin.fontofweb.com/6069?format=jpg",
-      "colors": [
-        "#191919",
-        "#f0f0f0",
-        "#373330",
-        "#6c6c6c",
-        "#c4def1",
-        "#a7a7a8",
-        "#7c7b7a",
-        "#000000"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6068,
-      "title": "DedClub Rewards - DedCool Official Website",
-      "domain": "dedcool.com/pages/rewards",
-      "pageUrl": "dedcool.com/pages/rewards",
-      "imageUrl": "https://pin.fontofweb.com/6068?format=jpg",
-      "colors": [
-        "#deaf88",
-        "#ff6b18",
-        "#767577",
-        "#a66447",
-        "#fd6a1d",
-        "#2c2c2c",
-        "#1a191a",
-        "#ecedec"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6067,
-      "title": "Account – DedCool",
-      "domain": "dedcool.com/account/login",
-      "pageUrl": "dedcool.com/account/login",
-      "imageUrl": "https://pin.fontofweb.com/6067?format=jpg",
-      "colors": [
-        "#030303",
-        "#b4b4b5",
-        "#cbe0f3",
-        "#f0f0f0",
-        "#6f6f71",
-        "#8e8e92",
-        "#1a172c",
-        "#464649"
-      ],
-      "fonts": [
-        "Universal Sans"
-      ]
-    },
-    {
-      "pinId": 6066,
-      "title": "Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool",
-      "domain": "dedcool.com/",
-      "pageUrl": "dedcool.com/",
-      "imageUrl": "https://pin.fontofweb.com/6066?format=jpg",
-      "colors": [
-        "#615151",
-        "#000000",
-        "#efefee",
-        "#f2c2ab",
-        "#161616",
-        "#c5c2c7",
-        "#cce1f5",
-        "#b8abd6"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    },
-    {
-      "pinId": 6065,
-      "title": "Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool",
-      "domain": "dedcool.com/",
-      "pageUrl": "dedcool.com/",
-      "imageUrl": "https://pin.fontofweb.com/6065?format=jpg",
-      "colors": [
-        "#292a2b",
-        "#4d5250",
-        "#b7b3af",
-        "#000000",
-        "#ff6b18",
-        "#837e78",
-        "#ffffff",
-        "#c38c75"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    },
-    {
-      "pinId": 6064,
-      "title": "Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool",
-      "domain": "dedcool.com/",
-      "pageUrl": "dedcool.com/",
-      "imageUrl": "https://pin.fontofweb.com/6064?format=jpg",
-      "colors": [
-        "#b2afa5",
-        "#000000",
-        "#1d1b19",
-        "#f0f0f0",
-        "#646463",
-        "#b6836c",
-        "#debb91",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    },
-    {
-      "pinId": 6063,
-      "title": "Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool",
-      "domain": "dedcool.com/",
-      "pageUrl": "dedcool.com/",
-      "imageUrl": "https://pin.fontofweb.com/6063?format=jpg",
-      "colors": [
-        "#2d2928",
-        "#f0f0f0",
-        "#fe691d",
-        "#f4f4f4",
-        "#ffffff",
-        "#ff6b18",
-        "#5f4f4f",
-        "#cdb38e"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    },
-    {
-      "pinId": 6062,
-      "title": "Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool",
-      "domain": "dedcool.com/",
-      "pageUrl": "dedcool.com/",
-      "imageUrl": "https://pin.fontofweb.com/6062?format=jpg",
-      "colors": [
-        "#f56e2d",
-        "#000000",
-        "#adacab",
-        "#0d0807",
-        "#913f21",
-        "#403c37",
-        "#f1f1f1",
-        "#606060"
-      ],
-      "fonts": [
-        "Universal Sans",
-        "Messina Sans Mono"
-      ]
-    }
-  ]
-}
-```
+Measured color roles were not retained for these captures. From the pages themselves the system reads as:
 
-## Representative captures
-[![About – DedCool](https://pin.fontofweb.com/6073?format=jpg)](https://design.withfudge.com/pin/6073)
-[About – DedCool](https://design.withfudge.com/pin/6073) — [source page](https://dedcool.com/pages/about-us)
+- **Canvas**: cool off-white / paper white site background.
+- **Ink**: near-black headlines, nav, and body.
+- **Surfaces**: pure white cards and form fields; soft gray hairlines.
+- **Accent through photography**: pale blue, lavender, and mint product packaging—not UI chrome.
+- **Ticker**: black strip with white utility type for promos.
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6072?format=jpg)](https://design.withfudge.com/pin/6072)
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6072) — [source page](https://dedcool.com/pages/rewards)
+Treat brand personality as living in product art and packaging, not in saturated buttons.
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6071?format=jpg)](https://design.withfudge.com/pin/6071)
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6071) — [source page](https://dedcool.com/pages/rewards)
+### Typography
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6070?format=jpg)](https://design.withfudge.com/pin/6070)
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6070) — [source page](https://dedcool.com/pages/rewards)
+Declared font families were not available. Observed sizes and weights:
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6069?format=jpg)](https://design.withfudge.com/pin/6069)
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6069) — [source page](https://dedcool.com/pages/rewards)
+- Display/about headlines around **80px** with tight line-height (~0.92).
+- Home manifesto lines around **24px**.
+- UI/nav and body cluster at **12px** with ~16.8px line-height; some micro labels at **10px**.
+- Section titles around **32px**.
+- Weight stays mostly **400**; hierarchy comes from size and tracking more than bold faces.
+- Tone is modern grotesque / neo-grotesk—wide, calm, slightly condensed display for “We make scents to live in.”
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6068?format=jpg)](https://design.withfudge.com/pin/6068)
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/pin/6068) — [source page](https://dedcool.com/pages/rewards)
+### Spacing and layout
 
-[![Account – DedCool](https://pin.fontofweb.com/6067?format=jpg)](https://design.withfudge.com/pin/6067)
-[Account – DedCool](https://design.withfudge.com/pin/6067) — [source page](https://dedcool.com/account/login)
+Recurring measurements:
 
-[![Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://pin.fontofweb.com/6066?format=jpg)](https://design.withfudge.com/pin/6066)
-[Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://design.withfudge.com/pin/6066) — [source page](https://dedcool.com/)
+- Content often inset with large side margins (~**98–308px** depending on viewport width)—a centered magazine column feel.
+- Section padding frequently **65–70px** vertical; about page uses **36–40px** vertical rhythm.
+- Nav and utility rows stay compact; product hero bands go edge-to-edge.
+- About layout uses a **split**: rounded photo card left, manifesto copy right.
+- Home CTAs use horizontal padding ~**20px** and vertical ~**13px**.
+
+Density is low; air is a feature.
+
+## Visual language
+
+- **Shape**: soft rounded product imagery (~**8px** cards; pill CTAs with very large radius ~**100px** on home; rewards surfaces ~**32px**).
+- **Borders**: 1px solid hairlines on cards and chips—structure without shadow drama.
+- **Imagery**: high-key product still-lifes on white; lifestyle portraits with rounded corners; barcode/wordmark as identity device.
+- **Motion**: not established from still captures.
+- **Chrome**: marquee promo ticker, centered barcode logo, uppercase text links.
+
+## Components and states
+
+Recurring UI:
+
+1. **Promo ticker** — black full-bleed bar, small uppercase offers, continuous utility messaging.
+2. **Primary nav** — text links left (Shop, Fragrance…) and right (Search, About, Cart); logo center.
+3. **Hero headline + product strip** — oversized statement over a horizontal product photography band.
+4. **Pill CTA** — fully rounded outlined or filled buttons (e.g. shop actions).
+5. **About split** — rounded image card + “WHAT WE STAND FOR” stacked title and paragraph.
+6. **Account/login** — sparse form on white with the same display voice.
+7. **Rewards** — multi-section marketing with bordered cards (~8px radius).
+
+Visible states are mostly default populated marketing; interactive hover/focus not captured.
+
+## Responsive behavior
+
+Captures span roughly **1200–2048px** wide viewports. Side margins compress as width drops; product heroes remain full-bleed. Multiple rewards captures show the same system reflowing vertical padding while keeping the white/minimal frame. True mobile breakpoints were not in the set.
+
+## Practical guidance
+
+**Preserve**
+
+- White gallery canvas + black type + product color only in photos.
+- Barcode / utilitarian identity marks.
+- Huge calm headlines; tiny UI labels.
+- Hairline borders and soft radii instead of heavy shadows.
+- Centered editorial measure with generous side margin.
+
+**Avoid**
+
+- Saturating the chrome with brand purple/blue from packaging.
+- Dense multi-column SaaS dashboards.
+- Drop shadows and glassmorphism.
+- Mixing many display faces; keep one quiet grotesque system.
+- Crowding the hero—product photography needs air.
+
+## Scope note
+
+Studied viewport captures for `/`, `/pages/about-us`, `/pages/rewards`, and `/account/login` (ids 6066–6073). Color roles, palette extraction, shadows, and declared font families were not available; color and type character above combine measured sizes/radii with visual reading of the screenshots. Motion and small-phone layouts were not observed.
+
+## Captured pages
+
+[![Home — hero ticker and product strip](https://pin.fontofweb.com/6066?format=jpg)](https://design.withfudge.com/share/pin-6066)
+
+[Home — hero ticker and product strip](https://design.withfudge.com/share/pin-6066)
+
+[![About — manifesto split](https://pin.fontofweb.com/6073?format=jpg)](https://design.withfudge.com/share/pin-6073)
+
+[About — manifesto split](https://design.withfudge.com/share/pin-6073)
+
+[![Rewards — DedClub](https://pin.fontofweb.com/6072?format=jpg)](https://design.withfudge.com/share/pin-6072)
+
+[Rewards — DedClub](https://design.withfudge.com/share/pin-6072)
+
+[![Account login](https://pin.fontofweb.com/6067?format=jpg)](https://design.withfudge.com/share/pin-6067)
+
+[Account login](https://design.withfudge.com/share/pin-6067)
+
+## Colors
+
+- `#000000`
+- `#ffffff`

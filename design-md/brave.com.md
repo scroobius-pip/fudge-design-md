@@ -1,276 +1,109 @@
 # How brave.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/brave.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/brave.com-design)
 
-Source domain: [brave.com](https://brave.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-23
+## Design character
 
-<!--
-coverPin: 9441
--->
+Brave markets a privacy-first browser with confident, slightly playful energy: enormous display type (up to ~70–120px), a warm orange brand presence beside cooler blue accents (`#434fcf`), pill-shaped CTAs, and illustration-led product scenes on a light canvas. The Search API pages reuse the same geometry with more developer-facing clarity.
 
-Here is the visual system observed across **6 captured pages** from [brave.com](https://brave.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#1c1c1d",
-  "#fafafb",
-  "#ffffff",
-  "#ffe1d4",
-  "#e9f3ff",
-  "#eeeef1",
-  "#e4e4e5",
-  "#000000",
-  "#434fcf",
-  "#c9c9ca",
-  "#dfe4f6",
-  "#f4f4f4",
-  "#797979",
-  "#2c2c2c",
-  "#d03c7a",
-  "#666464"
-]
-```
+- **Monumental display type** for consumer claims
+- **Pill CTAs** and large rounded cards (**16px**, pills at 1000+)
+- **Orange + blue accent pairing** without muddying either
+- **Card-heavy feature rows** with soft shadows (`0 8px 40px`)
+- **Illustration + product UI** as co-heroes
 
-```fudge-font-usage
-{
-  "title": "Typography captured from brave.com",
-  "sampleText": "brave.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9441,
-      "domain": "brave.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 32
-    },
-    {
-      "family": "Poppins",
-      "familyId": 1864,
-      "pinId": 9441,
-      "domain": "brave.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 4257
-    },
-    {
-      "family": "Flecha M",
-      "familyId": 2565,
-      "pinId": 9441,
-      "domain": "brave.com",
-      "weight": "500",
-      "size": "120px",
-      "lineHeight": "103px",
-      "letterSpacing": "-2.4px",
-      "frequency": 105
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9441,
-      "domain": "brave.com",
-      "weight": "600",
-      "size": "18px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 3
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 9441,
-      "domain": "brave.com",
-      "weight": "400",
-      "size": "20px",
-      "lineHeight": "30px",
-      "letterSpacing": "normal",
-      "frequency": 57
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 53 |
-| Spacing values | 284 |
-| Borders and radii | 26 |
-| Shadows | 2 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9441,
-      "title": "The browser that puts you first | Brave",
-      "domain": "brave.com/",
-      "pageUrl": "brave.com/",
-      "imageUrl": "https://pin.fontofweb.com/9441?format=jpg",
-      "colors": [
-        "#fafafb",
-        "#f4f4f4",
-        "#797979",
-        "#434fcf",
-        "#2c2c2c",
-        "#c9c9ca",
-        "#e9f3ff",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Flecha M",
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9440,
-      "title": "The browser that puts you first | Brave",
-      "domain": "brave.com/",
-      "pageUrl": "brave.com/",
-      "imageUrl": "https://pin.fontofweb.com/9440?format=jpg",
-      "colors": [
-        "#d03c7a",
-        "#666464",
-        "#ab5d9b",
-        "#e4e4e5",
-        "#f7d3c3",
-        "#000000",
-        "#aeadad",
-        "#f9f9f9"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Flecha M",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9439,
-      "title": "The browser that puts you first | Brave",
-      "domain": "brave.com/",
-      "pageUrl": "brave.com/",
-      "imageUrl": "https://pin.fontofweb.com/9439?format=jpg",
-      "colors": [
-        "#e67168",
-        "#695ac4",
-        "#a3d696",
-        "#faddcf",
-        "#434fcf",
-        "#797473",
-        "#c9c9ca",
-        "#e9f3ff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Flecha M",
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9438,
-      "title": "Brave Search API | Brave",
-      "domain": "brave.com/search/api/",
-      "pageUrl": "brave.com/search/api/",
-      "imageUrl": "https://pin.fontofweb.com/9438?format=jpg",
-      "colors": [
-        "#3955de",
-        "#94a7e1",
-        "#1c1c1d",
-        "#f0f2f3",
-        "#ffffff",
-        "#5a73d9",
-        "#797a7c",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Flecha M",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9437,
-      "title": "Brave Search API | Brave",
-      "domain": "brave.com/search/api/",
-      "pageUrl": "brave.com/search/api/",
-      "imageUrl": "https://pin.fontofweb.com/9437?format=jpg",
-      "colors": [
-        "#4b54ca",
-        "#494949",
-        "#b0b0b0",
-        "#202021",
-        "#9ca2d5",
-        "#7e7e7e",
-        "#1c1c1d",
-        "#434fcf"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Inter",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9436,
-      "title": "Brave Search API | Brave",
-      "domain": "brave.com/search/api/",
-      "pageUrl": "brave.com/search/api/",
-      "imageUrl": "https://pin.fontofweb.com/9436?format=jpg",
-      "colors": [
-        "#fafafb",
-        "#1c1c1d",
-        "#252525",
-        "#eeeef1",
-        "#ffffff",
-        "#8bdcf2",
-        "#000000",
-        "#dfe4f6"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Poppins",
-        "Flecha M",
-        "System",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+| Role | Hex | Use |
+|------|-----|-----|
+| Accent blue | `#434fcf` | Links, secondary brand moments |
+| Text primary | `#1c1c1d` | Core ink |
+| Surfaces | `#ffffff` | Cards/page |
+| Brand orange | visible in logo/CTAs | Primary consumer energy |
 
-## Representative captures
-[![The browser that puts you first | Brave](https://pin.fontofweb.com/9441?format=jpg)](https://design.withfudge.com/pin/9441)
-[The browser that puts you first | Brave](https://design.withfudge.com/pin/9441) — [source page](https://brave.com/)
+### Typography
 
-[![The browser that puts you first | Brave](https://pin.fontofweb.com/9440?format=jpg)](https://design.withfudge.com/pin/9440)
-[The browser that puts you first | Brave](https://design.withfudge.com/pin/9440) — [source page](https://brave.com/)
+- Mega display: **120/103** weight 500; **70/70** weight 500
+- Section heads: **30/40** weight 600
+- Body: **16/24** regular (dominant); medium 16 for emphasis
+- Lead: **20/30** regular or semibold
+- Small UI: 12–14px semibold/regular
 
-[![The browser that puts you first | Brave](https://pin.fontofweb.com/9439?format=jpg)](https://design.withfudge.com/pin/9439)
-[The browser that puts you first | Brave](https://design.withfudge.com/pin/9439) — [source page](https://brave.com/)
+Display is intentionally oversized and tight—Brave shouts the value prop, then settles into calm 16px body.
 
-[![Brave Search API | Brave](https://pin.fontofweb.com/9438?format=jpg)](https://design.withfudge.com/pin/9438)
-[Brave Search API | Brave](https://design.withfudge.com/pin/9438) — [source page](https://brave.com/search/api/)
+### Spacing and layout
 
-[![Brave Search API | Brave](https://pin.fontofweb.com/9437?format=jpg)](https://design.withfudge.com/pin/9437)
-[Brave Search API | Brave](https://design.withfudge.com/pin/9437) — [source page](https://brave.com/search/api/)
+- Gaps/column-gaps **24–32px**, sometimes **42px**
+- Section margin-top **40–80px**
+- Card padding ~**28.8px** all sides
+- Home and API pages share card grids and bordered regions
 
-[![Brave Search API | Brave](https://pin.fontofweb.com/9436?format=jpg)](https://design.withfudge.com/pin/9436)
-[Brave Search API | Brave](https://design.withfudge.com/pin/9436) — [source page](https://brave.com/search/api/)
+### Radii, borders, shadows
+
+- Radii **16px** cards; **1000/9999** pills
+- Borders 1–2px solid separating surfaces
+- Soft ambient shadow `0 8px 40px` under key cards/illustrations
+
+## Visual language
+
+- Light mode consumer marketing
+- Lion logo mark + wordmark
+- Illustrated heroes and browser chrome mockups
+- Rounded, friendly, high energy without cluttered gradients everywhere
+
+## Components and states
+
+- Top nav with Download/primary pill
+- Mega-type hero + supporting line + dual CTAs
+- Feature cards in multi-column grids
+- API page: developer headline, code/product cards, plan modules
+- Footer multi-column (standard marketing)
+
+## Responsive behavior
+
+Widths ~1484–1712px across `/` and `/search/api/`. On smaller screens, mega type must scale down hard while pills and 16px cards remain; feature grids collapse to 1–2 columns.
+
+## Practical guidance
+
+**Preserve**: oversized display, orange+blue accents, pills, 16px cards, 8/40 shadows, illustration+UI pairing.
+
+**Avoid**: tiny timid headlines, enterprise gray-only austerity, sharp 0-radius cards, or dropping orange entirely (loses Brave identity).
+
+## Scope note
+
+Five captures: three home, two Search API. Color roles partial but blue/ink measured; orange confirmed visually via brand chrome.
+
+## Captured pages
+
+[![Home — browser that puts you first](https://pin.fontofweb.com/9441?format=jpg)](https://design.withfudge.com/share/pin-9441)
+
+[Home — browser that puts you first](https://design.withfudge.com/share/pin-9441)
+
+[![Home — alternate wide pass](https://pin.fontofweb.com/9439?format=jpg)](https://design.withfudge.com/share/pin-9439)
+
+[Home — alternate wide pass](https://design.withfudge.com/share/pin-9439)
+
+[![Home — mid width](https://pin.fontofweb.com/9440?format=jpg)](https://design.withfudge.com/share/pin-9440)
+
+[Home — mid width](https://design.withfudge.com/share/pin-9440)
+
+[![Search API](https://pin.fontofweb.com/9436?format=jpg)](https://design.withfudge.com/share/pin-9436)
+
+[Search API](https://design.withfudge.com/share/pin-9436)
+
+[![Search API — shorter viewport](https://pin.fontofweb.com/9437?format=jpg)](https://design.withfudge.com/share/pin-9437)
+
+[Search API — shorter viewport](https://design.withfudge.com/share/pin-9437)
+
+## Colors
+
+- `#434fcf`
+- `#1c1c1d`
+- `#ffffff`
+- `#fb542b`

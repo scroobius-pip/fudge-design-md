@@ -1,170 +1,91 @@
 # How app.base44.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.base44.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.base44.com-design)
 
-Source domain: [app.base44.com](https://app.base44.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-26
+## Design character
 
-<!--
-coverPin: 7412
--->
+Base44’s captured experience is an **in-product builder paywall on a dark editor stage**: behind the scenes, a dimmed app chrome; front and center, a large white rounded pricing modal with an orange promotional banner, countdown, and four plan cards. The system is SaaS-familiar—soft shadows, peach discount pills, clear primary orange subscribe on the recommended plan—optimized for conversion without leaving the editor context.
 
-Here is the visual system observed across **3 captured pages** from [app.base44.com](https://app.base44.com).
+What should survive adaptation:
+- Dark editor backdrop vs bright modal sheet contrast
+- Orange accent for urgency banner and primary subscribe
+- Four-up plan cards with checklist features
+- Clean UI sans and soft 12–16px radii
 
-```fudge-colors
-[
-  "#09090b",
-  "#000000",
-  "#f8fafc",
-  "#ffffff",
-  "#4b5563",
-  "#111827",
-  "#ff7b42",
-  "#e2e8f0",
-  "#d1d5db",
-  "#9ca3af",
-  "#ffccac",
-  "#94a3b8",
-  "#fed7c3",
-  "#ff631f",
-  "#020617",
-  "#c1c1c1"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from app.base44.com",
-  "sampleText": "app.base44.com",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7412,
-      "domain": "app.base44.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 105
-    },
-    {
-      "family": "Wix Madefor App",
-      "familyId": 2257,
-      "pinId": 7412,
-      "domain": "app.base44.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 81
-    },
-    {
-      "family": "Wix Madefor",
-      "familyId": 2210,
-      "pinId": 7412,
-      "domain": "app.base44.com",
-      "weight": "500",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 48 |
-| Spacing values | 54 |
-| Borders and radii | 19 |
-| Shadows | 4 |
-| Gradients | 0 |
+Measured swatches seen across pages: `#2563eb`, `#09090b`, `#6b7280`, `#4b5563`, `#94a3b8`. Measured blues/grays (`#2563eb`, `#09090b`, `#6b7280`, `#4b5563`, `#94a3b8`) appear in UI chrome; the pricing story visually adds orange/peach accents for sale state. Black/zinc dark editor (`#09090b`) frames the white modal.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7412,
-      "title": "Curated | Base44",
-      "domain": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "pageUrl": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "imageUrl": "https://pin.fontofweb.com/7412?format=jpg",
-      "colors": [
-        "#09090b",
-        "#b6b9be",
-        "#f3f4f6",
-        "#918f85",
-        "#211e19",
-        "#000000",
-        "#6b7280",
-        "#374151"
-      ],
-      "fonts": [
-        "System",
-        "Wix Madefor App",
-        "Wix Madefor"
-      ]
-    },
-    {
-      "pinId": 7411,
-      "title": "Curated | Base44",
-      "domain": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "pageUrl": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "imageUrl": "https://pin.fontofweb.com/7411?format=jpg",
-      "colors": [
-        "#afb3b5",
-        "#fd7b45",
-        "#f8f8f7",
-        "#0d0d0f",
-        "#09090b",
-        "#688dcb",
-        "#000000",
-        "#5e5958"
-      ],
-      "fonts": [
-        "System",
-        "Wix Madefor App",
-        "Wix Madefor"
-      ]
-    },
-    {
-      "pinId": 7410,
-      "title": "untitled | Base44",
-      "domain": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "pageUrl": "app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview",
-      "imageUrl": "https://pin.fontofweb.com/7410?format=jpg",
-      "colors": [
-        "#020617",
-        "#b0b2b6",
-        "#fed7c3",
-        "#33353b",
-        "#475569",
-        "#fcd9c9",
-        "#f99c73",
-        "#fe6521"
-      ],
-      "fonts": [
-        "System",
-        "Wix Madefor App",
-        "Wix Madefor"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Curated | Base44](https://pin.fontofweb.com/7412?format=jpg)](https://design.withfudge.com/pin/7412)
-[Curated | Base44](https://design.withfudge.com/pin/7412) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+Observed text styles:
+- **text**: unknown, weight 400, 14px, lh 24px
+- **text**: unknown, weight 400, 14px, lh 20px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 12px, lh 16px
+- **text**: unknown, weight 500, 12px, lh 18px
+- **text**: unknown, weight 400, 12px, lh 16px
+- **text**: unknown, weight 400, 12px, lh 16px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 500, 14px, lh 20px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
 
-[![Curated | Base44](https://pin.fontofweb.com/7411?format=jpg)](https://design.withfudge.com/pin/7411)
-[Curated | Base44](https://design.withfudge.com/pin/7411) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+Modal title centered and bold; plan names medium; prices large with struck old prices; feature lists small with check icons. UI sans throughout—no editorial serif inside the builder paywall.
 
-[![untitled | Base44](https://pin.fontofweb.com/7410?format=jpg)](https://design.withfudge.com/pin/7410)
-[untitled | Base44](https://design.withfudge.com/pin/7410) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+### Spacing and layout
+
+Recurring spacing measurements include 4px, 7px, 8px, 12px, 14px, 16px, 24px, 28px. Modal is centered with internal grid of plan cards; banner spans full modal width; trust logos row beneath. Observed corner radii include 2px, 4px, 6px, 8px, 10px, 12px, 20px, 26px, 9999px.
+
+## Visual language
+
+Soft modal shadow, light card borders, pill badges (“30% off”), solid orange primary button vs outline secondary plan buttons. Countdown timer reads as functional urgency, not gamification confetti.
+
+## Components and states
+
+- Dimmed editor chrome (sidebar/canvas hints)
+- Promo banner with countdown
+- Plan cards: name, price, credits, CTA, feature checklist
+- Highlighted recommended plan (solid CTA)
+- Compliance/trust badge row
+- Close control on the modal
+
+## Responsive behavior
+
+Wide editor captures (~2048px). On smaller widths, plan cards should stack vertically inside a scrollable sheet while the orange banner remains sticky at the top of the modal.
+
+## Practical guidance
+
+**Preserve** modal-on-dark-editor pattern, orange sale accent, checklist plan comparison clarity.  
+**Avoid** restyling plans as dark cards that blend into the editor; avoid extra novelty illustrations inside the paywall.
+
+## Scope note
+
+Studied 3 page captures on paths /apps/69a0c0c2e9e84046e13cb675/editor/preview. Some structural families were incomplete on these pages. All captures share the editor/preview route focused on the pricing modal state.
+
+## Captured pages
+
+[![Curated | Base44](https://pin.fontofweb.com/7412?format=jpg)](https://design.withfudge.com/share/pin-7412)
+
+[Curated | Base44](https://design.withfudge.com/share/pin-7412)
+
+[![Curated | Base44](https://pin.fontofweb.com/7411?format=jpg)](https://design.withfudge.com/share/pin-7411)
+
+[Curated | Base44](https://design.withfudge.com/share/pin-7411)
+
+[![untitled | Base44](https://pin.fontofweb.com/7410?format=jpg)](https://design.withfudge.com/share/pin-7410)
+
+[untitled | Base44](https://design.withfudge.com/share/pin-7410)
+
+## Colors
+
+- `#2563eb`
+- `#09090b`
+- `#6b7280`
+- `#4b5563`
+- `#94a3b8`

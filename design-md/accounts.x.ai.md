@@ -1,253 +1,94 @@
 # How accounts.x.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/accounts.x.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/accounts.x.ai-design)
 
-Source domain: [accounts.x.ai](https://accounts.x.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-20
+## Design character
 
-<!--
-coverPin: 10437
--->
+accounts.x.ai is a **black account console** for Grok/xAI identity. The system is severe and modern: pure black page, charcoal elevated panels, white primary pills, and compact sans UI. It feels like a developer/account utility spun out of the same dark universe as the product — not a marketing site.
 
-Here is the visual system observed across **7 captured pages** from [accounts.x.ai](https://accounts.x.ai).
+What should survive adaptation:
+- True black canvas
+- Charcoal list panels with subtle borders
+- White filled pills for primary actions; dark outline pills for secondary
+- Left utility nav + right content column
 
-```fudge-colors
-[
-  "#ffffff",
-  "#1a1a1a",
-  "#000000",
-  "#0d0d0d",
-  "#141414",
-  "#303030",
-  "#fafafa",
-  "#acaaaa",
-  "#f07a82",
-  "#0f0f0f",
-  "#f4f4f4",
-  "#a8a8a8",
-  "#3ca458",
-  "#838282",
-  "#656565",
-  "#2a13d2"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from accounts.x.ai",
-  "sampleText": "accounts.x.ai",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10437,
-      "domain": "accounts.x.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 23
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 10437,
-      "domain": "accounts.x.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 23
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 10202,
-      "domain": "accounts.x.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "1.4px",
-      "frequency": 11
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 7 |
-| Colors | 55 |
-| Spacing values | 225 |
-| Borders and radii | 16 |
-| Shadows | 1 |
-| Gradients | 6 |
+Measured:
+- White: `#ffffff` (primary buttons, key text)
+- Muted gray: `#acaaaa` (secondary copy)
+- Surfaces: black page, slightly lifted charcoal cards
+- Brand avatar accent may introduce a saturated disc (e.g. purple/blue avatar) without recoloring the whole shell
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10437,
-      "title": "Your SpaceXAI API Account | SpaceXAI Accounts",
-      "domain": "accounts.x.ai/account",
-      "pageUrl": "accounts.x.ai/account",
-      "imageUrl": "https://pin.fontofweb.com/10437?format=jpg",
-      "colors": [
-        "#f4f4f4",
-        "#a8a8a8",
-        "#3ca458",
-        "#0f0f0f",
-        "#838282",
-        "#656565",
-        "#2a13d2",
-        "#301a7d"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 10204,
-      "title": "Device Sign-in | Grok",
-      "domain": "accounts.x.ai/oauth2/device/done",
-      "pageUrl": "accounts.x.ai/oauth2/device/done",
-      "imageUrl": "https://pin.fontofweb.com/10204?format=jpg",
-      "colors": [
-        "#18191a",
-        "#5f6b7a",
-        "#353e4a",
-        "#888e98",
-        "#adaeae",
-        "#000000",
-        "#ffffff",
-        "#1a1a1a"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 10203,
-      "title": "Authorize — Grok | Grok",
-      "domain": "accounts.x.ai/oauth2/device/consent",
-      "pageUrl": "accounts.x.ai/oauth2/device/consent",
-      "imageUrl": "https://pin.fontofweb.com/10203?format=jpg",
-      "colors": [
-        "#171819",
-        "#a4a6a8",
-        "#363f4b",
-        "#67717f",
-        "#f7f7f7",
-        "#000000",
-        "#ffffff",
-        "#1a1a1a"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 10202,
-      "title": "Device Sign-in | Grok",
-      "domain": "accounts.x.ai/oauth2/device",
-      "pageUrl": "accounts.x.ai/oauth2/device",
-      "imageUrl": "https://pin.fontofweb.com/10202?format=jpg",
-      "colors": [
-        "#191a1c",
-        "#acacad",
-        "#808894",
-        "#f9f9f9",
-        "#3d4856",
-        "#5e6979",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "System"
-      ]
-    },
-    {
-      "pinId": 4140,
-      "title": "Your xAI API Account | xAI Single-Sign On",
-      "domain": "accounts.x.ai/account",
-      "pageUrl": "accounts.x.ai/account",
-      "imageUrl": "https://pin.fontofweb.com/4140?format=jpg",
-      "colors": [
-        "#0c0c0c",
-        "#7e7d7e",
-        "#aeadae",
-        "#f1f1f2",
-        "#555455",
-        "#363636"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 4139,
-      "title": "Your xAI API Account | xAI Single-Sign On",
-      "domain": "accounts.x.ai/account",
-      "pageUrl": "accounts.x.ai/account",
-      "imageUrl": "https://pin.fontofweb.com/4139?format=jpg",
-      "colors": [
-        "#0f0f0f",
-        "#f7f7f8",
-        "#a09f9f",
-        "#515151",
-        "#7a7979",
-        "#c9c9c9",
-        "#196483",
-        "#e84437"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 4138,
-      "title": "Your xAI API Account | xAI Single-Sign On",
-      "domain": "accounts.x.ai/account",
-      "pageUrl": "accounts.x.ai/account",
-      "imageUrl": "https://pin.fontofweb.com/4138?format=jpg",
-      "colors": [
-        "#131313",
-        "#f8f8f8",
-        "#8d908d",
-        "#595959",
-        "#c6c6c6",
-        "#1d7291",
-        "#184960",
-        "#407bdc"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Your SpaceXAI API Account | SpaceXAI Accounts](https://pin.fontofweb.com/10437?format=jpg)](https://design.withfudge.com/pin/10437)
-[Your SpaceXAI API Account | SpaceXAI Accounts](https://design.withfudge.com/pin/10437) — [source page](https://accounts.x.ai/account)
+- Welcome/display ~**24–30px** weights 400–500
+- Section titles **16–20px** weight 500
+- Row labels **14px**; meta **12–13px**
+- Line-heights ~1.4–1.5 on UI stacks
+- No declared family in captures; neutral geometric sans read
 
-[![Device Sign-in | Grok](https://pin.fontofweb.com/10204?format=jpg)](https://design.withfudge.com/pin/10204)
-[Device Sign-in | Grok](https://design.withfudge.com/pin/10204) — [source page](https://accounts.x.ai/oauth2/device/done)
+### Spacing and layout
 
-[![Authorize — Grok | Grok](https://pin.fontofweb.com/10203?format=jpg)](https://design.withfudge.com/pin/10203)
-[Authorize — Grok | Grok](https://design.withfudge.com/pin/10203) — [source page](https://accounts.x.ai/oauth2/device/consent)
+- Panel padding **16–24px**; section gaps **40–48px**
+- Grid/gap tokens ~**12px**
+- Radii **12–16px** on panels and pills
+- Desktop: left nav rail, right main column; mobile capture shows narrower single column account
 
-[![Device Sign-in | Grok](https://pin.fontofweb.com/10202?format=jpg)](https://design.withfudge.com/pin/10202)
-[Device Sign-in | Grok](https://design.withfudge.com/pin/10202) — [source page](https://accounts.x.ai/oauth2/device)
+## Visual language
 
-[![Your xAI API Account | xAI Single-Sign On](https://pin.fontofweb.com/4140?format=jpg)](https://design.withfudge.com/pin/4140)
-[Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4140) — [source page](https://accounts.x.ai/account)
+- Flat dark panels, hairline separators between rows
+- Pill buttons (Enable/Connect/Disable)
+- Circular provider icons in sign-in method lists
+- Minimal illustration; avatar badge as the only colorful mark
+- Theme toggle (moon) as a small utility
 
-[![Your xAI API Account | xAI Single-Sign On](https://pin.fontofweb.com/4139?format=jpg)](https://design.withfudge.com/pin/4139)
-[Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4139) — [source page](https://accounts.x.ai/account)
+## Components and states
 
-[![Your xAI API Account | xAI Single-Sign On](https://pin.fontofweb.com/4138?format=jpg)](https://design.withfudge.com/pin/4138)
-[Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/pin/4138) — [source page](https://accounts.x.ai/account)
+1. Top bar with mark + theme  
+2. Left account nav (Account, Security, Sessions, Data)  
+3. Profile summary panel (name, email, subscription, created)  
+4. Sign-in methods list with row actions  
+5. OAuth device consent/done flows on related routes — same black system, centered cards  
+
+Primary = white pill on black; secondary = dark pill with light label; destructive/disable stays quiet outline.
+
+## Responsive behavior
+
+Account and OAuth device routes at desktop and a narrow account capture (~461px). Collapse to a single column and keep panels full-width; do not introduce a light marketing layout.
+
+## Practical guidance
+
+**Preserve:** black field, charcoal panels, white pills, compact settings type.  
+**Avoid:** white dashboard Material defaults, large hero marketing headers, colorful sidebar paints.
+
+## Scope note
+
+Seven captures across `/account` and OAuth device consent/done flows. Colors, radii, spacing, and type sizes measured; font family names not declared.
+
+## Captured pages
+
+[![Your SpaceXAI API Account | SpaceXAI Accounts](https://pin.fontofweb.com/10437?format=jpg)](https://design.withfudge.com/share/pin-10437)
+
+[Your SpaceXAI API Account | SpaceXAI Accounts](https://design.withfudge.com/share/pin-10437)
+
+[![Device Sign-in | Grok](https://pin.fontofweb.com/10204?format=jpg)](https://design.withfudge.com/share/pin-10204)
+
+[Device Sign-in | Grok](https://design.withfudge.com/share/pin-10204)
+
+[![Authorize — Grok | Grok](https://pin.fontofweb.com/10203?format=jpg)](https://design.withfudge.com/share/pin-10203)
+
+[Authorize — Grok | Grok](https://design.withfudge.com/share/pin-10203)
+
+[![Device Sign-in | Grok](https://pin.fontofweb.com/10202?format=jpg)](https://design.withfudge.com/share/pin-10202)
+
+[Device Sign-in | Grok](https://design.withfudge.com/share/pin-10202)
+
+## Colors
+
+- `#ffffff`
+- `#acaaaa`

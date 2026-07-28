@@ -1,170 +1,79 @@
 # How blindsight.space is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/blindsight.space-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/blindsight.space-design)
 
-Source domain: [blindsight.space](https://blindsight.space)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-12
+## Design character
 
-<!--
-coverPin: 6419
--->
+Blindsight is almost anti-SaaS. Captures show a vast light (or near-empty) field, minimal navigation, and occasional monumental type (~72px) with almost no component chrome. The `/memories/` path continues the same sparse, contemplative posture: content arrives as isolated artifacts, not marketing sections.
 
-Here is the visual system observed across **4 captured pages** from [blindsight.space](https://blindsight.space).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#0000ee",
-  "#ffffff",
-  "#ff0000",
-  "#eeeeee",
-  "#02060c",
-  "#2c333a",
-  "#929293",
-  "#676868",
-  "#72304c",
-  "#bf8abc",
-  "#14162f",
-  "#49494a",
-  "#523c70",
-  "#371e33",
-  "#d5d6d7"
-]
-```
+- **Extreme sparseness** — most of the viewport is empty on purpose
+- **Gallery pacing** rather than conversion funnels
+- **Rare, oversized type** when text appears
+- **Minimal borders** (when present, ~2px) instead of soft card UI
+- **No loud accent system**
 
-```fudge-font-usage
-{
-  "title": "Typography captured from blindsight.space",
-  "sampleText": "blindsight.space",
-  "fonts": [
-    {
-      "family": "Begum",
-      "familyId": 2113,
-      "pinId": 6406,
-      "domain": "blindsight.space",
-      "weight": "400",
-      "size": "72px",
-      "lineHeight": "72px",
-      "letterSpacing": "-4px",
-      "frequency": 2
-    },
-    {
-      "family": "Px Grotesk",
-      "familyId": 2114,
-      "pinId": 6406,
-      "domain": "blindsight.space",
-      "weight": "400",
-      "size": "72px",
-      "lineHeight": "72px",
-      "letterSpacing": "-4px",
-      "frequency": 2
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 33 |
-| Spacing values | 2 |
-| Borders and radii | 1 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6419,
-      "title": "Blindsight",
-      "domain": "blindsight.space/",
-      "pageUrl": "blindsight.space/",
-      "imageUrl": "https://pin.fontofweb.com/6419?format=jpg",
-      "colors": [
-        "#000000",
-        "#ffffff",
-        "#eeeeee",
-        "#02060c",
-        "#2c333a",
-        "#929293",
-        "#676868"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6418,
-      "title": "Blindsight",
-      "domain": "blindsight.space/",
-      "pageUrl": "blindsight.space/",
-      "imageUrl": "https://pin.fontofweb.com/6418?format=jpg",
-      "colors": [
-        "#72304c",
-        "#bf8abc",
-        "#14162f",
-        "#49494a",
-        "#523c70",
-        "#371e33",
-        "#d5d6d7",
-        "#ac597c"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6407,
-      "title": "Blindsight",
-      "domain": "blindsight.space/",
-      "pageUrl": "blindsight.space/",
-      "imageUrl": "https://pin.fontofweb.com/6407?format=jpg",
-      "colors": [
-        "#3f1116",
-        "#070e17",
-        "#474c53",
-        "#981818",
-        "#fefefe",
-        "#83868b",
-        "#f00f0d",
-        "#bcbec0"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 6406,
-      "title": "Memories",
-      "domain": "blindsight.space/memories/",
-      "pageUrl": "blindsight.space/memories/",
-      "imageUrl": "https://pin.fontofweb.com/6406?format=jpg",
-      "colors": [
-        "#eeeded",
-        "#120c16",
-        "#43181c",
-        "#000000",
-        "#ff0000",
-        "#0000ee",
-        "#382446",
-        "#2c3540"
-      ],
-      "fonts": [
-        "Begum",
-        "Px Grotesk"
-      ]
-    }
-  ]
-}
-```
+Structured colors were not returned. Visually: light neutral canvas, dark text when present, photography/memory content supplying any chroma. Keep the shell neutral.
 
-## Representative captures
-[![Blindsight](https://pin.fontofweb.com/6419?format=jpg)](https://design.withfudge.com/pin/6419)
-[Blindsight](https://design.withfudge.com/pin/6419) — [source page](https://blindsight.space/)
+### Typography
 
-[![Blindsight](https://pin.fontofweb.com/6418?format=jpg)](https://design.withfudge.com/pin/6418)
-[Blindsight](https://design.withfudge.com/pin/6418) — [source page](https://blindsight.space/)
+Sparse observations: **72px / 72px** weight 400 for primary statements. Body hierarchy is intentionally under-specified—when in doubt, use one display size and one small quiet label size, not a full SaaS type scale.
 
-[![Blindsight](https://pin.fontofweb.com/6407?format=jpg)](https://design.withfudge.com/pin/6407)
-[Blindsight](https://design.withfudge.com/pin/6407) — [source page](https://blindsight.space/)
+### Spacing and layout
 
-[![Memories](https://pin.fontofweb.com/6406?format=jpg)](https://design.withfudge.com/pin/6406)
-[Memories](https://design.withfudge.com/pin/6406) — [source page](https://blindsight.space/memories/)
+- Large vertical padding (~**125px** top, ~**45px** bottom on some blocks)
+- Layout is compositional, not grid-marketing
+- Home and memories share the same emptiness-first philosophy
+
+## Visual language
+
+- Almost no radii/shadows
+- 2px solid borders when frames appear
+- Imagery and memory objects as the only “components”
+- Stillness over motion (motion not evidenced)
+
+## Components and states
+
+- Bare nav / identity mark
+- Full-bleed or floating memory media
+- Occasional large title
+- Little to no form UI in the captured frames
+
+## Responsive behavior
+
+Widths ~1704–2048px observed. The design is viewport-as-canvas; scale emptiness and media, don’t suddenly introduce dense cards on mobile.
+
+## Practical guidance
+
+**Preserve**: emptiness, monumental type rarity, neutral shell, artifact-first memories.
+
+**Avoid**: feature grids, pricing tables, gradient heroes, sticky conversion CTAs, generic startup illustration.
+
+## Scope note
+
+Four captures: three home viewports and one `/memories/` view. Metrics were thin (few text/spacing samples); character guidance relies heavily on visual reading of the screenshots.
+
+## Captured pages
+
+[![Home — sparse gallery field](https://pin.fontofweb.com/6419?format=jpg)](https://design.withfudge.com/share/pin-6419)
+
+[Home — sparse gallery field](https://design.withfudge.com/share/pin-6419)
+
+[![Home — alternate crop](https://pin.fontofweb.com/6418?format=jpg)](https://design.withfudge.com/share/pin-6418)
+
+[Home — alternate crop](https://design.withfudge.com/share/pin-6418)
+
+[![Home — wide viewport](https://pin.fontofweb.com/6407?format=jpg)](https://design.withfudge.com/share/pin-6407)
+
+[Home — wide viewport](https://design.withfudge.com/share/pin-6407)
+
+[![Memories](https://pin.fontofweb.com/6406?format=jpg)](https://design.withfudge.com/share/pin-6406)
+
+[Memories](https://design.withfudge.com/share/pin-6406)

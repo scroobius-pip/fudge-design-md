@@ -1,382 +1,131 @@
 # How chatgpt.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/chatgpt.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/chatgpt.com-design)
 
-Source domain: [chatgpt.com](https://chatgpt.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-17
+## Design character
 
-<!--
-coverPin: 10217
--->
+ChatGPT’s product surface is a **calm conversation operating system**: large readable type, generous bubble radii, a persistent sidebar, and a bottom composer that feels soft rather than technical. Light and dark themes share the same geometry—only values invert. Brand green may appear in marks/marketing, but in-app chrome is mostly neutral gray-scale with occasional purple accent moments.
 
-Here is the visual system observed across **22 captured pages** from [chatgpt.com](https://chatgpt.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#ffffff",
-  "#000000",
-  "#0d0d0d",
-  "#f3f3f3",
-  "#212121",
-  "#fcfcfc",
-  "#303030",
-  "#ececec",
-  "#afafaf",
-  "#414141",
-  "#181818",
-  "#353535",
-  "#66d492",
-  "#323232",
-  "#f9f9f9",
-  "#2f2f2f"
-]
-```
+- **Sidebar + main thread + composer** architecture
+- **Soft geometry** (12–28px radii, pill composer treatments)
+- **Dual theme** with white↔near-black primaries and mid-gray secondaries
+- Typography optimized for **long message reading**, not poster heroes
 
-```fudge-font-usage
-{
-  "title": "Typography captured from chatgpt.com",
-  "sampleText": "chatgpt.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10217,
-      "domain": "chatgpt.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 24
-    },
-    {
-      "family": "Applesystembody",
-      "familyId": 2568,
-      "pinId": 10217,
-      "domain": "chatgpt.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 24
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 10192,
-      "domain": "chatgpt.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 20
-    },
-    {
-      "family": "Open Ai Sans",
-      "familyId": 3,
-      "pinId": 9031,
-      "domain": "chatgpt.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 764
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 22 |
-| Colors | 158 |
-| Spacing values | 978 |
-| Borders and radii | 110 |
-| Shadows | 18 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10217,
-      "title": "ChatGPT",
-      "domain": "chatgpt.com/",
-      "pageUrl": "chatgpt.com/",
-      "imageUrl": "https://pin.fontofweb.com/10217?format=jpg",
-      "colors": [
-        "#030303",
-        "#8f8f8f",
-        "#4a4b4b",
-        "#fbd03d",
-        "#6a9fe7",
-        "#325eb1",
-        "#ffa43d",
-        "#7f3a33"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 10192,
-      "title": "Rater Workspace Instructions",
-      "domain": "chatgpt.com/c/6a58d721-5858-83ea-9954-b6027ddc806a",
-      "pageUrl": "chatgpt.com/c/6a58d721-5858-83ea-9954-b6027ddc806a",
-      "imageUrl": "https://pin.fontofweb.com/10192?format=jpg",
-      "colors": [
-        "#757575",
-        "#e8e8e8",
-        "#000000",
-        "#462e79",
-        "#8953eb",
-        "#a6a6a6",
-        "#505050",
-        "#2a2a2a"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody",
-        "System"
-      ]
-    },
-    {
-      "pinId": 10040,
-      "title": "ChatGPT",
-      "domain": "chatgpt.com/",
-      "pageUrl": "chatgpt.com/",
-      "imageUrl": "https://pin.fontofweb.com/10040?format=jpg",
-      "colors": [
-        "#757575",
-        "#020202",
-        "#a7a7a7",
-        "#585858",
-        "#f5f5f5",
-        "#303030",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9739,
-      "title": "HTML CSS Pattern Code",
-      "domain": "chatgpt.com/c/6a3949d2-ee78-83ea-9938-851dc4038cec",
-      "pageUrl": "chatgpt.com/c/6a3949d2-ee78-83ea-9938-851dc4038cec",
-      "imageUrl": "https://pin.fontofweb.com/9739?format=jpg",
-      "colors": [
-        "#828083",
-        "#000000",
-        "#f7f7f7",
-        "#ac5048",
-        "#ac4f23",
-        "#787d5c",
-        "#3a843f",
-        "#f3f3f3"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9568,
-      "title": "ChatGPT - Buildy",
-      "domain": "chatgpt.com/apps/buildy/asdk_app_69f9215e800881919f3d96d79200a35a",
-      "pageUrl": "chatgpt.com/apps/buildy/asdk_app_69f9215e800881919f3d96d79200a35a",
-      "imageUrl": "https://pin.fontofweb.com/9568?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#dcf8fa",
-        "#212121",
-        "#0d0d0d",
-        "#67bfec",
-        "#f3f3f3",
-        "#e4bb95",
-        "#afafaf"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9540,
-      "title": "Fudge - Query Cost Projections",
-      "domain": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29",
-      "pageUrl": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29",
-      "imageUrl": "https://pin.fontofweb.com/9540?format=jpg",
-      "colors": [
-        "#454545",
-        "#ffffff",
-        "#959595",
-        "#fbfbfb",
-        "#000000",
-        "#212121",
-        "#afafaf",
-        "#6c6c6c"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9539,
-      "title": "Fudge - Query Cost Projections",
-      "domain": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29",
-      "pageUrl": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29",
-      "imageUrl": "https://pin.fontofweb.com/9539?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#303030",
-        "#d5d5d5",
-        "#afafaf",
-        "#898989",
-        "#353535",
-        "#212121",
-        "#393939"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9538,
-      "title": "ChatGPT - Fudge",
-      "domain": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/project",
-      "pageUrl": "chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/project",
-      "imageUrl": "https://pin.fontofweb.com/9538?format=jpg",
-      "colors": [
-        "#010101",
-        "#343434",
-        "#5e5e5e",
-        "#2f2f2f",
-        "#212121",
-        "#a0a0a0",
-        "#ffffff",
-        "#afafaf"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9490,
-      "title": "Color Collapse Strategy",
-      "domain": "chatgpt.com/c/6a1d3408-fd54-83ea-9e96-7aed630eb65c",
-      "pageUrl": "chatgpt.com/c/6a1d3408-fd54-83ea-9e96-7aed630eb65c",
-      "imageUrl": "https://pin.fontofweb.com/9490?format=jpg",
-      "colors": [
-        "#666766",
-        "#e5e5e5",
-        "#080808",
-        "#b3b3b3",
-        "#98674f",
-        "#000000",
-        "#8d8d8d",
-        "#cdcdcd"
-      ],
-      "fonts": [
-        "Applesystembody",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9455,
-      "title": "ChatGPT",
-      "domain": "chatgpt.com/",
-      "pageUrl": "chatgpt.com/",
-      "imageUrl": "https://pin.fontofweb.com/9455?format=jpg",
-      "colors": [
-        "#afafaf",
-        "#8d8d8d",
-        "#b1b1b1",
-        "#000000",
-        "#f3f3f3",
-        "#212121",
-        "#040404",
-        "#636363"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Applesystembody"
-      ]
-    },
-    {
-      "pinId": 9031,
-      "title": "ChatGPT Plan | Go",
-      "domain": "chatgpt.com/plans/go/",
-      "pageUrl": "chatgpt.com/plans/go/",
-      "imageUrl": "https://pin.fontofweb.com/9031?format=jpg",
-      "colors": [
-        "#c2e9fa",
-        "#737474",
-        "#b8b8b8",
-        "#0b85f8",
-        "#fafafa",
-        "#5bcaf6",
-        "#6393a9",
-        "#0d0d0d"
-      ],
-      "fonts": [
-        "Open Ai Sans"
-      ]
-    },
-    {
-      "pinId": 9028,
-      "title": "Font of Web - Masonry Grid Mockup",
-      "domain": "chatgpt.com/c/69e874b1-50f4-83ea-8a3d-bc5afb3b39cc",
-      "pageUrl": "chatgpt.com/c/69e874b1-50f4-83ea-8a3d-bc5afb3b39cc",
-      "imageUrl": "https://pin.fontofweb.com/9028?format=jpg",
-      "colors": [
-        "#6d6d6c",
-        "#b7b7b6",
-        "#99ceff",
-        "#f9f9f9",
-        "#fbfbfb",
-        "#303030",
-        "#000000",
-        "#2b2b29"
-      ],
-      "fonts": [
-        "System"
-      ]
-    }
-  ]
-}
-```
+Measured roles:
 
-## Representative captures
-[![ChatGPT](https://pin.fontofweb.com/10217?format=jpg)](https://design.withfudge.com/pin/10217)
-[ChatGPT](https://design.withfudge.com/pin/10217) — [source page](https://chatgpt.com/)
+| Role | Light | Dark |
+|------|-------|------|
+| text_primary | `#0d0d0d` | `#ffffff` |
+| text_secondary | `#8f8f8f` | `#afafaf` |
+| accent (moments) | `#643cae` | (context-dependent) |
+| Surfaces (visual) | white / `#f4f4f4` sidebars | `#212121` / near-black panels |
 
-[![Rater Workspace Instructions](https://pin.fontofweb.com/10192?format=jpg)](https://design.withfudge.com/pin/10192)
-[Rater Workspace Instructions](https://design.withfudge.com/pin/10192) — [source page](https://chatgpt.com/c/6a58d721-5858-83ea-9954-b6027ddc806a)
+Borders separate surfaces more than heavy shadows. Keep chroma low in chrome.
 
-[![ChatGPT](https://pin.fontofweb.com/10040?format=jpg)](https://design.withfudge.com/pin/10040)
-[ChatGPT](https://design.withfudge.com/pin/10040) — [source page](https://chatgpt.com/)
+### Typography
 
-[![HTML CSS Pattern Code](https://pin.fontofweb.com/9739?format=jpg)](https://design.withfudge.com/pin/9739)
-[HTML CSS Pattern Code](https://design.withfudge.com/pin/9739) — [source page](https://chatgpt.com/c/6a3949d2-ee78-83ea-9938-851dc4038cec)
+Sans system (family name not declared in captures):
 
-[![ChatGPT - Buildy](https://pin.fontofweb.com/9568?format=jpg)](https://design.withfudge.com/pin/9568)
-[ChatGPT - Buildy](https://design.withfudge.com/pin/9568) — [source page](https://chatgpt.com/apps/buildy/asdk_app_69f9215e800881919f3d96d79200a35a)
+- Titles / system messages ~**24–30px**, 400–600
+- Body messages ~**16px**, 400–600, line-height **24–28px**
+- UI chrome ~**14–16px**
+- Occasional 16.8px medium labels
 
-[![Fudge - Query Cost Projections](https://pin.fontofweb.com/9540?format=jpg)](https://design.withfudge.com/pin/9540)
-[Fudge - Query Cost Projections](https://design.withfudge.com/pin/9540) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
+Hierarchy is subtle—weight and color do more than dramatic scale jumps.
 
-[![Fudge - Query Cost Projections](https://pin.fontofweb.com/9539?format=jpg)](https://design.withfudge.com/pin/9539)
-[Fudge - Query Cost Projections](https://design.withfudge.com/pin/9539) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/c/6a285341-f55c-83ea-ac77-6add3eaa1c29)
+### Spacing and layout
 
-[![ChatGPT - Fudge](https://pin.fontofweb.com/9538?format=jpg)](https://design.withfudge.com/pin/9538)
-[ChatGPT - Fudge](https://design.withfudge.com/pin/9538) — [source page](https://chatgpt.com/g/g-p-69eea121b71881919374197d4fbeff70/project)
+- Common **gap 8–16px** in stacks and toolbars
+- Main column horizontal padding often **12–64px** depending on region
+- Composer and cards use **12–24px** internal padding
+- Message column is centered with comfortable max measure; sidebar fixed
+
+## Visual language
+
+- Radii: **8–12px** small controls, **16–24px** cards/bubbles, **22–28px** composer-like shells; fully pill values appear on circular icon buttons
+- Shadows: soft low elevation (`y:3 blur:6`) on floating elements; many zero-offset hairlines
+- 1px solid borders for sidebar rules and input rings
+- Imagery mostly user/AI content inside the thread—not marketing photography
+
+## Components and states
+
+1. **Left sidebar** — history, projects, workspace switchers
+2. **Message list** — alternating human/assistant blocks, soft bubbles or plain stacked prose depending on theme density
+3. **Composer** — multi-line input, rounded shell, send and tool icons
+4. **Top bar** — model/workspace context, minimal
+5. **Cards / tool results** — nested rounded panels inside the thread
+
+Populated conversation states are well represented; explicit hover/focus rings were not isolated.
+
+## Responsive behavior
+
+Widths from ~**580px** (embedded app) through ~**982px** to **2048px**. Narrow views compress the thread and may de-emphasize sidebar; wide views keep a centered readable column. Dual light/dark appears across captures.
+
+## Practical guidance
+
+**Preserve**
+
+- Neutral dual theme + soft radii
+- 16px body with ~1.5 line-height
+- Composer as a friendly rounded dock
+- Gray secondary text for meta
+
+**Avoid**
+
+- Loud multi-color chrome
+- Sharp dense admin tables as the default chat aesthetic
+- Tiny unreadable message type
+- Heavy skeuomorphic message shadows
+
+## Scope note
+
+Eight captures spanning home, project workspace, conversations (wide/narrow), light thread, and a specialized workspace. Strong spacing/radius/border signal and text roles; declared font families absent. Marketing brand pages beyond the app shell are lightly represented.
+
+## Captured pages
+
+[![Marketing/home shell](https://pin.fontofweb.com/10040?format=jpg)](https://design.withfudge.com/share/pin-10040)
+
+[Marketing/home shell](https://design.withfudge.com/share/pin-10040)
+
+[![Home alternate](https://pin.fontofweb.com/10217?format=jpg)](https://design.withfudge.com/share/pin-10217)
+
+[Home alternate](https://design.withfudge.com/share/pin-10217)
+
+[![Project workspace (dark)](https://pin.fontofweb.com/9538?format=jpg)](https://design.withfudge.com/share/pin-9538)
+
+[Project workspace (dark)](https://design.withfudge.com/share/pin-9538)
+
+[![Conversation wide](https://pin.fontofweb.com/9539?format=jpg)](https://design.withfudge.com/share/pin-9539)
+
+[Conversation wide](https://design.withfudge.com/share/pin-9539)
+
+[![Conversation narrow ~982px](https://pin.fontofweb.com/9540?format=jpg)](https://design.withfudge.com/share/pin-9540)
+
+[Conversation narrow ~982px](https://design.withfudge.com/share/pin-9540)
+
+[![Light conversation](https://pin.fontofweb.com/9739?format=jpg)](https://design.withfudge.com/share/pin-9739)
+
+[Light conversation](https://design.withfudge.com/share/pin-9739)
+
+[![Rater workspace](https://pin.fontofweb.com/10192?format=jpg)](https://design.withfudge.com/share/pin-10192)
+
+[Rater workspace](https://design.withfudge.com/share/pin-10192)
+
+## Colors
+
+- `#ffffff`
+- `#0d0d0d`
+- `#212121`
+- `#f4f4f4`
+- `#afafaf`
+- `#8f8f8f`
+- `#643cae`
+- `#10a37f`

@@ -1,166 +1,102 @@
 # How developers.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/developers.google.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/developers.google.com-design)
 
-Source domain: [developers.google.com](https://developers.google.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-08
+## Design character
 
-<!--
-coverPin: 6327
--->
+developers.google.com’s Developer Program surfaces read as **polished Google product marketing**, not a dense API reference. The system is **white-field, Material-adjacent, and conversion-clear**: a calm sans hierarchy, one unmistakable blue for primary actions, and generous product photography that sells the program as a place to learn, build, and ship. Pricing pages feel like a clean SaaS comparison; the program hub feels like a hero launch with floating device chrome and soft gradient orbs.
 
-Here is the visual system observed across **3 captured pages** from [developers.google.com](https://developers.google.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#202124",
-  "#dadce0",
-  "#1a73e8",
-  "#ffffff",
-  "#e8f0fe",
-  "#5f6368",
-  "#c4c7c5",
-  "#1f1f1f",
-  "#174ea6",
-  "#000000",
-  "#f1f3f4",
-  "#8cb3e2",
-  "#646568",
-  "#bec0c2",
-  "#3b3c3f",
-  "#878688"
-]
-```
+- Near-white canvas with **Google Blue** as the only loud accent
+- Large, friendly display lines with restrained body gray
+- Softly rounded cards and pill/rounded-rectangle CTAs
+- Product UI mockups as the main visual theater
 
-```fudge-font-usage
-{
-  "title": "Typography captured from developers.google.com",
-  "sampleText": "developers.google.com",
-  "fonts": [
-    {
-      "family": "Roboto",
-      "familyId": 150,
-      "pinId": 6327,
-      "domain": "developers.google.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 32
-    },
-    {
-      "family": "Google Sans 18 Pt",
-      "familyId": 1093,
-      "pinId": 6327,
-      "domain": "developers.google.com",
-      "weight": "500",
-      "size": "14px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 15
-    },
-    {
-      "family": "Material Symbols Outlined",
-      "familyId": 2097,
-      "pinId": 6327,
-      "domain": "developers.google.com",
-      "weight": "400",
-      "size": "24px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 6
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 37 |
-| Spacing values | 24 |
-| Borders and radii | 10 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6327,
-      "title": "Plans & Pricing | Google Developer Program  |  Google for Developers",
-      "domain": "developers.google.com/program/plans-and-pricing",
-      "pageUrl": "developers.google.com/program/plans-and-pricing",
-      "imageUrl": "https://pin.fontofweb.com/6327?format=jpg",
-      "colors": [
-        "#8cb3e2",
-        "#000000",
-        "#646568",
-        "#bec0c2",
-        "#3b3c3f",
-        "#878688",
-        "#202124",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Roboto",
-        "Google Sans 18 Pt",
-        "Material Symbols Outlined"
-      ]
-    },
-    {
-      "pinId": 6326,
-      "title": "Plans & Pricing | Google Developer Program  |  Google for Developers",
-      "domain": "developers.google.com/program/plans-and-pricing",
-      "pageUrl": "developers.google.com/program/plans-and-pricing",
-      "imageUrl": "https://pin.fontofweb.com/6326?format=jpg",
-      "colors": [
-        "#202124",
-        "#ffffff",
-        "#66696d",
-        "#cbced4",
-        "#1a73e8",
-        "#dadce0",
-        "#ec7c30",
-        "#e8f0fe"
-      ],
-      "fonts": [
-        "Roboto",
-        "Google Sans 18 Pt",
-        "Material Symbols Outlined"
-      ]
-    },
-    {
-      "pinId": 5075,
-      "title": "Google Developer Program  |  Google for Developers",
-      "domain": "developers.google.com/program",
-      "pageUrl": "developers.google.com/program",
-      "imageUrl": "https://pin.fontofweb.com/5075?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#fee8a6",
-        "#38a854",
-        "#5cd86b",
-        "#1e1f1f",
-        "#7a7b7a",
-        "#36773f",
-        "#224520"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Measured roles:
 
-## Representative captures
-[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6327?format=jpg)](https://design.withfudge.com/pin/6327)
-[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6327) — [source page](https://developers.google.com/program/plans-and-pricing)
+- Accent: `#1a73e8` (primary buttons, key links, focus energy)
+- Primary text: `#202124`
+- Secondary text: `#5f6368`
 
-[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6326?format=jpg)](https://design.withfudge.com/pin/6326)
-[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6326) — [source page](https://developers.google.com/program/plans-and-pricing)
+The broader page stays white/off-white with light gray dividers and card edges. Premium plan treatment introduces deeper blue fills on selected cards while Standard stays outlined/white. Avoid inventing a rainbow of Google brand colors—this slice is deliberately blue + neutral.
 
-[![Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/5075?format=jpg)](https://design.withfudge.com/pin/5075)
-[Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/5075) — [source page](https://developers.google.com/program)
+### Typography
+
+Declared families were not captured. Visually the stack is a **geometric humanist sans** in the Google Product Sans / Roboto tradition:
+
+- Display/hero roughly in the 36–48px range, weight ~400–500
+- Section titles ~20–28px
+- Body ~14–16px with comfortable line height (~20–24px)
+- Small meta/labels ~12px
+
+Hierarchy is achieved with size and color (near-black vs mid gray), not heavy weight stacks.
+
+### Spacing and layout
+
+Recurring spacing steps cluster around **2 / 4 / 8 / 12 / 16 / 24 / 32px**. Marketing sections breathe with large vertical gaps; plan cards sit in a centered multi-column row with consistent gutters. Content width stays moderate—readable marketing measure, not full-bleed app chrome.
+
+## Visual language
+
+- **Radii:** 4px on tight controls, **16px** on cards/panels, **24px** on larger soft containers
+- Borders are light hairlines separating white surfaces rather than heavy frames
+- Shadows stay minimal; elevation comes more from spacing and soft gray fills than dramatic drop shadows
+- Imagery: crisp product screenshots, floating browser/app chrome, soft blue/indigo gradient spheres behind heroes
+- Motion is not established from still captures
+
+## Components and states
+
+- **Primary CTA:** filled `#1a73e8` with white label (Join, Get Standard, etc.)
+- **Secondary CTA:** white/light fill with gray border (“Other Downloads”-style peers on related Google properties; here often text or quiet outline)
+- **Plan cards:** title, price, feature list, bottom CTA; selected/premium may invert to solid blue
+- **Top promo strip:** thin dark utility bar above the white marketing nav
+- **Nav:** simple text links, restrained iconography
+
+Do not invent hover/focus choreography beyond the obvious filled vs quiet button pairing.
+
+## Practical guidance
+
+**Preserve**
+
+- One blue accent against white + charcoal text
+- Soft 16–24px card rounding
+- Plan comparison as honest cards, not dense tables
+- Product mockups as hero art
+
+**Avoid**
+
+- Neon multi-accent palettes
+- Heavy skeuomorphic shadows
+- Cramped developer-docs density on marketing pages
+- Replacing blue CTAs with generic black pills (loses the Google cue)
+
+## Scope note
+
+Studied viewport captures of `/program` and `/program/plans-and-pricing` (pins 5075, 6326, 6327). Declared font families, motion, and true mobile breakpoints were not established in this set.
+
+## Captured pages
+
+[![Program hub hero with product theater](https://pin.fontofweb.com/5075?format=jpg)](https://design.withfudge.com/share/pin-5075)
+
+[Program hub hero with product theater](https://design.withfudge.com/share/pin-5075)
+
+[![Plans & Pricing comparison](https://pin.fontofweb.com/6327?format=jpg)](https://design.withfudge.com/share/pin-6327)
+
+[Plans & Pricing comparison](https://design.withfudge.com/share/pin-6327)
+
+[![Pricing mid-width viewport](https://pin.fontofweb.com/6326?format=jpg)](https://design.withfudge.com/share/pin-6326)
+
+[Pricing mid-width viewport](https://design.withfudge.com/share/pin-6326)
+
+## Colors
+
+- `#1a73e8`
+- `#202124`
+- `#5f6368`
+- `#ffffff`

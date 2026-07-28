@@ -1,328 +1,208 @@
 # How airbnb.ca is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/airbnb.ca-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/airbnb.ca-design)
 
-Source domain: [airbnb.ca](https://airbnb.ca)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-13
+## Design character
 
-<!--
-coverPin: 10056
--->
+Airbnb.ca’s stay product is a polished, photo-forward marketplace: bright white canvas, soft rounded cards, and a single hot accent (Rausch pink) that marks brand and primary action. Search, category stays, and listing detail all share the same calm density—enough structure to compare homes, never so much chrome that photos lose the stage.
 
-Here is the visual system observed across **9 captured pages** from [airbnb.ca](https://airbnb.ca).
+The mood is trustworthy hospitality, not luxury editorial and not utility-gray travel. Type is a clean neutral sans; hierarchy is modest (14–16px body, mid-20s titles); depth is light (hairline dividers, soft card shadows). The pink logo and reserve button are the only loud moments; everything else stays charcoal, gray, and white so listing photography carries emotion.
 
-```fudge-colors
-[
-  "#222222",
-  "#000000",
-  "#ffffff",
-  "#f7f7f7",
-  "#e5e3df",
-  "#dddddd",
-  "#6a6a6a",
-  "#ebebeb",
-  "#252525",
-  "#ff385c",
-  "#6c6c6c",
-  "#8c8c8c",
-  "#f2f2f2",
-  "#f5f5f5",
-  "#fefefe",
-  "#218275"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from airbnb.ca",
-  "sampleText": "airbnb.ca",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10056,
-      "domain": "airbnb.ca",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 25
-    },
-    {
-      "family": "By Dalton Maag Ltd",
-      "familyId": 641,
-      "pinId": 10056,
-      "domain": "airbnb.ca",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 25
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 10055,
-      "domain": "airbnb.ca",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Roboto",
-      "familyId": 150,
-      "pinId": 10050,
-      "domain": "airbnb.ca",
-      "weight": "400",
-      "size": "11px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 392
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 88 |
-| Spacing values | 740 |
-| Borders and radii | 70 |
-| Shadows | 14 |
-| Gradients | 15 |
+Measured roles across search and listing captures:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10056,
-      "title": "Pittsburgh, PA Vacation Rentals – Airbnb",
-      "domain": "airbnb.ca/pittsburgh-pa/stays",
-      "pageUrl": "airbnb.ca/pittsburgh-pa/stays",
-      "imageUrl": "https://pin.fontofweb.com/10056?format=jpg",
-      "colors": [
-        "#218275",
-        "#b29e8a",
-        "#786f65",
-        "#644e20",
-        "#d1cbc3",
-        "#e22860",
-        "#fefefe",
-        "#473828"
-      ],
-      "fonts": [
-        "Applesystem",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10055,
-      "title": "Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb",
-      "domain": "airbnb.ca/rooms/1674567715400534990",
-      "pageUrl": "airbnb.ca/rooms/1674567715400534990",
-      "imageUrl": "https://pin.fontofweb.com/10055?format=jpg",
-      "colors": [
-        "#b5b5b5",
-        "#e0195d",
-        "#646464",
-        "#e36f94",
-        "#868686",
-        "#f7f7f7",
-        "#f4bfd0",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10054,
-      "title": "Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb",
-      "domain": "airbnb.ca/rooms/1674567715400534990",
-      "pageUrl": "airbnb.ca/rooms/1674567715400534990",
-      "imageUrl": "https://pin.fontofweb.com/10054?format=jpg",
-      "colors": [
-        "#8d8c8d",
-        "#9a6b69",
-        "#332929",
-        "#623b3c",
-        "#fefefe",
-        "#c1bfc0",
-        "#585454",
-        "#db285f"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10053,
-      "title": "Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb",
-      "domain": "airbnb.ca/rooms/1674567715400534990",
-      "pageUrl": "airbnb.ca/rooms/1674567715400534990",
-      "imageUrl": "https://pin.fontofweb.com/10053?format=jpg",
-      "colors": [
-        "#713a34",
-        "#727171",
-        "#2b2929",
-        "#fefefe",
-        "#8faacd",
-        "#bfbfbe",
-        "#4f4e4e",
-        "#a56d53"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10052,
-      "title": "Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb",
-      "domain": "airbnb.ca/rooms/1674567715400534990",
-      "pageUrl": "airbnb.ca/rooms/1674567715400534990",
-      "imageUrl": "https://pin.fontofweb.com/10052?format=jpg",
-      "colors": [
-        "#8499b0",
-        "#bd8a57",
-        "#ffffff",
-        "#75421b",
-        "#8c837c",
-        "#b9b2ac",
-        "#191412",
-        "#6b6059"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10051,
-      "title": "Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb",
-      "domain": "airbnb.ca/rooms/1674567715400534990",
-      "pageUrl": "airbnb.ca/rooms/1674567715400534990",
-      "imageUrl": "https://pin.fontofweb.com/10051?format=jpg",
-      "colors": [
-        "#c0bab6",
-        "#72605a",
-        "#de255b",
-        "#b39962",
-        "#453e35",
-        "#1e1b1b",
-        "#84a7d3",
-        "#acbacb"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd"
-      ]
-    },
-    {
-      "pinId": 10050,
-      "title": "Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania",
-      "domain": "airbnb.ca/s/Pittsburgh--PA/homes",
-      "pageUrl": "airbnb.ca/s/Pittsburgh--PA/homes",
-      "imageUrl": "https://pin.fontofweb.com/10050?format=jpg",
-      "colors": [
-        "#acabaa",
-        "#706f6f",
-        "#363534",
-        "#9fbe6f",
-        "#fbfbfb",
-        "#dbefcb",
-        "#ad5447",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd",
-        "Roboto"
-      ]
-    },
-    {
-      "pinId": 10049,
-      "title": "Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania",
-      "domain": "airbnb.ca/s/Pittsburgh--PA/homes",
-      "pageUrl": "airbnb.ca/s/Pittsburgh--PA/homes",
-      "imageUrl": "https://pin.fontofweb.com/10049?format=jpg",
-      "colors": [
-        "#404234",
-        "#ae8062",
-        "#758947",
-        "#595d62",
-        "#1b1a1a",
-        "#69a1c7",
-        "#f1f2f0",
-        "#9b9a96"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "By Dalton Maag Ltd",
-        "Roboto"
-      ]
-    },
-    {
-      "pinId": 10048,
-      "title": "Pittsburgh, PA Vacation Rentals – Airbnb",
-      "domain": "airbnb.ca/pittsburgh-pa/stays",
-      "pageUrl": "airbnb.ca/pittsburgh-pa/stays",
-      "imageUrl": "https://pin.fontofweb.com/10048?format=jpg",
-      "colors": [
-        "#d1774c",
-        "#ccbba9",
-        "#6d7a87",
-        "#8cbfe5",
-        "#565541",
-        "#eccf6f",
-        "#fdfdfd",
-        "#252736"
-      ],
-      "fonts": [
-        "Applesystem",
-        "By Dalton Maag Ltd"
-      ]
-    }
-  ]
-}
-```
+| Role | Hex | Use |
+|------|-----|-----|
+| Accent | `#ff385c` | Logo wordmark/symbol, primary Reserve CTA, search submit disc, selected emphasis |
+| Text primary | `#222222` | Titles, prices, primary body |
+| Text secondary | `#6a6a6a` | Meta lines, supporting copy, quieter labels |
 
-## Representative captures
-[![Pittsburgh, PA Vacation Rentals – Airbnb](https://pin.fontofweb.com/10056?format=jpg)](https://design.withfudge.com/pin/10056)
-[Pittsburgh, PA Vacation Rentals – Airbnb](https://design.withfudge.com/pin/10056) — [source page](https://airbnb.ca/pittsburgh-pa/stays)
+Visually reinforced (not always role-tagged):
 
-[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10055?format=jpg)](https://design.withfudge.com/pin/10055)
-[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10055) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+- **Canvas / surfaces** — pure white page and cards.
+- **Chips & controls** — white fills with light gray hairline borders; selected or brand actions flip to pink.
+- **Map pins / price pills** — white rounded labels with dark type; selected pin inverts to black fill / white type.
+- **Status / trust** — soft green-tinted callouts (e.g. “price below average”) and gold stars for ratings—used sparingly beside the pink system.
+- **Destructive / heart** — outline heart on photos; filled state uses the accent family.
 
-[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10054?format=jpg)](https://design.withfudge.com/pin/10054)
-[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10054) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+Keep accent coverage low. Pink is for brand mark + one primary action per view, not section backgrounds.
 
-[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10053?format=jpg)](https://design.withfudge.com/pin/10053)
-[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10053) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+### Typography
 
-[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10052?format=jpg)](https://design.withfudge.com/pin/10052)
-[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10052) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+Declared family names were not captured; the face reads as a neutral geometric/humanist sans (Airbnb Cereal lineage visually).
 
-[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10051?format=jpg)](https://design.withfudge.com/pin/10051)
-[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10051) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+Observed scale (weight · size · line-height):
 
-[![Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://pin.fontofweb.com/10050?format=jpg)](https://design.withfudge.com/pin/10050)
-[Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10050) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
+- **Micro / chip** — 400 · 11–12px (filter labels, tiny meta)
+- **Body default** — 400 · **14px / ~20px** (dominant listing copy, search cards)
+- **Body comfortable** — 400 · **16px / 20–24px** (detail descriptions, host notes)
+- **Emphasis body** — 500–700 · 14–16px (prices “total”, strong labels)
+- **Card / section title** — 500–600 · **22–26px / ~26–30px** (listing name, “Entire home…”, section heads)
+- **Display rare** — large decorative sizes appear sparingly; product UI stays in the 14–26 band
 
-[![Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://pin.fontofweb.com/10049?format=jpg)](https://design.withfudge.com/pin/10049)
-[Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10049) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
+Tracking is neutral; no condensed display. Prices mix struck original + bold total in the same size band. Ratings use star glyph + compact number rather than oversized type.
+
+### Spacing and layout
+
+Recurring spacing: **8 · 12 · 24 · 32 · 40 · 48 · 80** px clusters.
+
+- **Search (`/s/...`)** — top global bar + centered destination pill; horizontal filter chip row; **split layout**: scrollable card grid left, sticky map right.
+- **Category stays** — similar grid of property cards with photo-first tiles.
+- **Listing detail (`/rooms/...`)** — centered content column; **photo mosaic** (large primary + 2×2 secondary) under title; below, two-column body (amenities/host left, **booking card** right).
+- Content max width feels marketplace-standard—wide enough for mosaic + card, with generous outer margins on large desktops.
+- Vertical sectioning uses **1px light dividers** more than colored bands.
+
+## Visual language
+
+### Shape and radius
+
+Measured radii: **4 · 8 · 12 · 16 · 20 · 24 · 28 · 40** (plus full pills).
+
+- **Listing photos** — large rounded rectangles (~12–16px+), carousel dots over image.
+- **Search / filter chips** — full **pills** with light stroke.
+- **Destination search control** — elongated pill with segmented fields and pink circular submit.
+- **Booking card** — large rounded container (~12–16px) with internal grid for dates.
+- **Map price labels** — compact pills; circular map zoom controls.
+- **Icon buttons** (share, save, menu) — circular or soft-round ghost controls.
+
+### Borders and shadows
+
+- Borders are almost always **1px solid** light gray on white (chip outlines, booking card, date fields, section rules). High occurrence of top/bottom hairlines for list separation.
+- Shadows stay soft and structural:
+  - light lift on cards / floating controls (`y:2 blur:4–16`)
+  - booking card and map chrome use medium ambient shadow (`y:8 blur:24` family)
+  - occasional 1px spread “ring” instead of a gray border
+- No heavy material stacks or colored glows.
+
+### Imagery
+
+Photography is the product. Listing tiles and the detail mosaic use real stay photos full-bleed inside rounded frames. Overlays are minimal: “Guest favourite” pill, heart, carousel chevron, “Show all photos”. Map is a full equal citizen on search—not a decorative thumbnail.
+
+### Motion
+
+Not measured from stills. UI implies standard marketplace motion: chip press, card hover lift, map pan, photo carousel—not cinematic page transitions.
+
+## Components and states
+
+### Global header
+
+- Left: pink Airbnb mark + wordmark.
+- Center: **segmented search pill** (location · dates · guests) with pink search disc.
+- Right: text links (“Become a host”), globe, circular menu avatar control.
+- Hairline bottom border separates header from content.
+
+### Filter chip row
+
+Horizontal scrolling pills: Filters plus amenity shortcuts (pets, parking, wifi…). Default = white + gray stroke + dark label; system stays quiet until a filter is active.
+
+### Listing card (search / category)
+
+1. Rounded photo (aspect ~4:3) with optional **Guest favourite** badge and save heart  
+2. Title row + star rating  
+3. One-line descriptor  
+4. Dates · bed/bath meta in secondary gray  
+5. Price row: optional struck price + **bold total** (“$X CAD total”)  
+
+Cards sit in a responsive multi-column grid beside the map.
+
+### Map panel
+
+- Price pills as markers; **selected** marker fills black.
+- Floating white circular zoom / expand controls.
+- Dotted search-area boundary on the map.
+
+### Listing detail
+
+- **Title** centered above mosaic.
+- **Photo mosaic** with “Show all photos” control on the last cell.
+- **Facts row** under title (guests · bedrooms · baths).
+- **Trust strip**: Guest favourite, social-proof line, numeric rating + review count in a rounded light container.
+- **Host row**: avatar, name, hosting tenure.
+- **Amenity list**: icon + title + short supporting line.
+- **Booking card** (sticky-feeling on desktop): total price, optional green insight chip, check-in/out grid, guests select, **full-width pink Reserve**, fine-print “won’t be charged yet”.
+
+Visible still states: default, favourite badge, selected map pin, struck-through vs total price. Do not invent hover/focus specs beyond light elevation and accent fill on primary actions.
+
+## Responsive behavior
+
+Captures are desktop-width section crops (search split view, detail mosaic + booking card). Expected adaptations consistent with the system:
+
+- Narrow: map stacks or becomes a toggle; listing grid → 1–2 columns; booking card moves below amenities.
+- Chips remain horizontally scrollable.
+- Photo mosaic collapses toward carousel.
+- Pink primary CTA remains full-width in the booking block.
+
+## Practical guidance
+
+**Preserve**
+
+- White canvas + `#222222` / `#6a6a6a` type + **`#ff385c` only for brand + primary action**.
+- Photo-first cards and the detail mosaic.
+- Pill search + pill filters.
+- Soft radii ladder and light hairline structure.
+- Map alongside results on wide search.
+- Booking card as a self-contained summary with one pink CTA.
+
+**Avoid**
+
+- Flooding pink across backgrounds or secondary buttons.
+- Hard black body text on pure white at long line lengths without the softer `#222`.
+- Sharp 0-radius cards or heavy drop shadows that feel like old material design.
+- Dense data tables competing with photography.
+- Extra accent hues for every badge (keep Guest favourite and ratings quiet).
+
+**Adaptation tips**
+
+- Marketplace MVP: header search pill, chip row, image card grid, pink primary—already reads “Airbnb-class”.
+- Detail page: mosaic + trust strip + sticky price card is the conversion pattern to copy carefully.
+- Localization (CAD totals, copy) sits inside the same type scale; don’t invent a separate regional skin.
+
+## Scope note
+
+Studied paths: category stays (`/pittsburgh-pa/stays`), search results (`/s/Pittsburgh--PA/homes`), and a full listing detail (`/rooms/...`) including photo mosaic, amenities, and booking card. Captures are section crops on large desktops. Declared font files/families were not present—treat typography as a neutral sans scale. Home/landing marketing and host dashboards were not in this set.
+
+## Captured pages
+
+[![Search — grid + map](https://pin.fontofweb.com/10049?format=jpg)](https://design.withfudge.com/share/pin-10049)
+
+[Search — grid + map](https://design.withfudge.com/share/pin-10049)
+
+[![Search — card crop](https://pin.fontofweb.com/10050?format=jpg)](https://design.withfudge.com/share/pin-10050)
+
+[Search — card crop](https://design.withfudge.com/share/pin-10050)
+
+[![Category stays grid](https://pin.fontofweb.com/10056?format=jpg)](https://design.withfudge.com/share/pin-10056)
+
+[Category stays grid](https://design.withfudge.com/share/pin-10056)
+
+[![Listing — hero + booking](https://pin.fontofweb.com/10051?format=jpg)](https://design.withfudge.com/share/pin-10051)
+
+[Listing — hero + booking](https://design.withfudge.com/share/pin-10051)
+
+[![Listing — mid detail](https://pin.fontofweb.com/10055?format=jpg)](https://design.withfudge.com/share/pin-10055)
+
+[Listing — mid detail](https://design.withfudge.com/share/pin-10055)
+
+[![Listing — section band](https://pin.fontofweb.com/10054?format=jpg)](https://design.withfudge.com/share/pin-10054)
+
+[Listing — section band](https://design.withfudge.com/share/pin-10054)
+
+[![Listing — structure crop](https://pin.fontofweb.com/10053?format=jpg)](https://design.withfudge.com/share/pin-10053)
+
+[Listing — structure crop](https://design.withfudge.com/share/pin-10053)
+
+[![Listing — supporting block](https://pin.fontofweb.com/10052?format=jpg)](https://design.withfudge.com/share/pin-10052)
+
+[Listing — supporting block](https://design.withfudge.com/share/pin-10052)
+
+## Colors
+
+- `#ff385c`
+- `#222222`
+- `#6a6a6a`
+- `#ffffff`

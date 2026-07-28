@@ -1,358 +1,98 @@
 # How ahrefs.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/ahrefs.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/ahrefs.com-design)
 
-Source domain: [ahrefs.com](https://ahrefs.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-23
+## Design character
 
-<!--
-coverPin: 7050
--->
+Ahrefs is a high-energy SEO platform brand that swings between **photographic infrastructure drama** and **flat product clarity**. The home big-data story is cinematic: dark server-hall photography, oversized white headlines, orange “Sign up” chips, and gold stat callouts. Pricing flips to a saturated **Ahrefs blue** field with a white three-column plan card and orange “Get started” buttons. Across both, the orange logo mark and CTA orange are the constant brand heat.
 
-Here is the visual system observed across **26 captured pages** from [ahrefs.com](https://ahrefs.com).
+What should survive:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#3a57fc",
-  "#111111",
-  "#1e1e1e",
-  "#272727",
-  "#ff8d00",
-  "#f4f5f6",
-  "#ffb528",
-  "#f75a03",
-  "#fefefe",
-  "#3a57fa",
-  "#e5e5e5",
-  "#fc8e06",
-  "#fcfcfc",
-  "#3b57f9"
-]
-```
+- Orange as the action color (`Get started`, Sign up, logo wordmark accent).
+- Blue as a major campaign/pricing field, not only a link color.
+- Huge marketing type and concrete stats.
+- Clean white plan cards with checklists on pricing.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from ahrefs.com",
-  "sampleText": "ahrefs.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7050,
-      "domain": "ahrefs.com",
-      "weight": "400",
-      "size": "18px",
-      "lineHeight": "29px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    },
-    {
-      "family": "Ahrefs",
-      "familyId": 313,
-      "pinId": 7049,
-      "domain": "ahrefs.com",
-      "weight": "400",
-      "size": "24px",
-      "lineHeight": "26px",
-      "letterSpacing": "normal",
-      "frequency": 58
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 26 |
-| Colors | 208 |
-| Spacing values | 50 |
-| Borders and radii | 20 |
-| Shadows | 1 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7050,
-      "title": "Plans & Pricing - Ahrefs",
-      "domain": "ahrefs.com/pricing",
-      "pageUrl": "ahrefs.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/7050?format=jpg",
-      "colors": [
-        "#676767",
-        "#1c1c1c",
-        "#fefefe",
-        "#b7b7b7",
-        "#bcc9f7",
-        "#edb96d",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7049,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7049?format=jpg",
-      "colors": [
-        "#f4f5f6",
-        "#b8b8b8",
-        "#326095",
-        "#3a57fc",
-        "#939393",
-        "#fcfcfc",
-        "#90acd1",
-        "#000000"
-      ],
-      "fonts": [
-        "Ahrefs",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7048,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7048?format=jpg",
-      "colors": [
-        "#e0683c",
-        "#ae5684",
-        "#3a57fc",
-        "#ffffff",
-        "#fafbfb",
-        "#fc8e06",
-        "#f3b16c",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7047,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7047?format=jpg",
-      "colors": [
-        "#9b9b9c",
-        "#afa92d",
-        "#ffffff",
-        "#e5e6e5",
-        "#a04d2b",
-        "#000000",
-        "#111111",
-        "#1e1e1e"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7046,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7046?format=jpg",
-      "colors": [
-        "#1f1f1f",
-        "#000000",
-        "#ffffff",
-        "#272727",
-        "#e9e8e8",
-        "#a5a5a6",
-        "#111111",
-        "#77803c"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7045,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7045?format=jpg",
-      "colors": [
-        "#ed9c29",
-        "#283bb0",
-        "#ffb528",
-        "#ff8d00",
-        "#0c0c0d",
-        "#ffffff",
-        "#3a57fc",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7044,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7044?format=jpg",
-      "colors": [
-        "#070707",
-        "#f0851c",
-        "#ffffff",
-        "#f0ad74",
-        "#4f63d9",
-        "#787878",
-        "#3a57fc",
-        "#8a99e6"
-      ],
-      "fonts": [
-        "Ahrefs",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7043,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7043?format=jpg",
-      "colors": [
-        "#000000",
-        "#9e9e9e",
-        "#010101",
-        "#ffffff",
-        "#747474",
-        "#474747",
-        "#dedede"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7042,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7042?format=jpg",
-      "colors": [
-        "#d56047",
-        "#9a579c",
-        "#b9c5ef",
-        "#ffffff",
-        "#ff8d00",
-        "#000000",
-        "#514cda",
-        "#eae0d4"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7041,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7041?format=jpg",
-      "colors": [
-        "#3c58f9",
-        "#f75a03",
-        "#3492f6",
-        "#c4d1dd",
-        "#272626",
-        "#3a57fc",
-        "#f2983c",
-        "#ffb528"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7040,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7040?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#3b58fa",
-        "#3a57fc",
-        "#524da3",
-        "#b2bffc",
-        "#343336",
-        "#f8b281",
-        "#f7f5f4"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    },
-    {
-      "pinId": 7039,
-      "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
-      "domain": "ahrefs.com/",
-      "pageUrl": "ahrefs.com/",
-      "imageUrl": "https://pin.fontofweb.com/7039?format=jpg",
-      "colors": [
-        "#ff8d00",
-        "#9f6cb2",
-        "#2e43be",
-        "#1c1c1d",
-        "#112078",
-        "#f69222",
-        "#525bf3",
-        "#a6a4a7"
-      ],
-      "fonts": [
-        "Inter",
-        "Ahrefs"
-      ]
-    }
-  ]
-}
-```
+| Role | Value | Use |
+| --- | --- | --- |
+| Accent / CTA | `#ffb528` (measured gold-orange) + vivid orange buttons on pricing | Primary actions, stats, logo |
+| Hero text | `#ffffff` | Headlines on dark photo and on blue pricing |
+| Pricing field | strong medium blue (full-bleed) | Plans page atmosphere |
+| Plan surface | white | Pricing table card |
+| Body on white | near-black | Plan names, feature lists |
+| Links on blue | lighter/yellowish text links in hero copy | Inline emphasis |
 
-## Representative captures
-[![Plans & Pricing - Ahrefs](https://pin.fontofweb.com/7050?format=jpg)](https://design.withfudge.com/pin/7050)
-[Plans & Pricing - Ahrefs](https://design.withfudge.com/pin/7050) — [source page](https://ahrefs.com/pricing)
+### Typography
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7049?format=jpg)](https://design.withfudge.com/pin/7049)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7049) — [source page](https://ahrefs.com/)
+- **Marketing display**: very large (up to ~64–92px on home claims), regular-to-medium weight, tight leading.
+- **Pricing title**: ~large white “Plans & pricing”.
+- **Plan price**: big tabular figures (`$129`, `$249`, `$449`).
+- **Body / features**: ~16–18px; check lists with orange checks.
+- **Nav**: 16–18px on blue or over photo.
+- Families not declared.
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7048?format=jpg)](https://design.withfudge.com/pin/7048)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7048) — [source page](https://ahrefs.com/)
+### Spacing and layout
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7047?format=jpg)](https://design.withfudge.com/pin/7047)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7047) — [source page](https://ahrefs.com/)
+- Home: full-bleed media hero, bottom stat row (4-up metrics).
+- Pricing: centered white multi-column card (~3 tiers) on blue; 8–32px inner gaps.
+- Radii modest on buttons (slightly rounded rects, not heavy pills on pricing CTAs); some 38px rounds elsewhere.
+- Toggle for annual billing sits above the card.
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7046?format=jpg)](https://design.withfudge.com/pin/7046)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7046) — [source page](https://ahrefs.com/)
+## Visual language
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7045?format=jpg)](https://design.withfudge.com/pin/7045)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7045) — [source page](https://ahrefs.com/)
+- Real photography (data centers, conference for Evolve sibling).
+- Flat material on pricing—no glassmorphism required.
+- Orange rectangular CTAs with sharp-soft corners.
+- Stat typography in orange against dark photo.
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7044?format=jpg)](https://design.withfudge.com/pin/7044)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7044) — [source page](https://ahrefs.com/)
+## Components and states
 
-[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7043?format=jpg)](https://design.withfudge.com/pin/7043)
-[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7043) — [source page](https://ahrefs.com/)
+1. **Global nav** — ahrefs wordmark, product menus, Sign in, orange Sign up.
+2. **Cinematic home hero** — badge (“AHREFS BIG DATA”), claim, body, text link, floating Sign up, bottom metrics.
+3. **Pricing hero on blue** — title, deck, billing toggle.
+4. **Plan matrix card** — three tiers, price, orange Get started, feature checklists, “What’s included” lists.
+5. **Help affordance** — circular ? control bottom-right.
+
+## Responsive behavior
+
+Home and pricing at ~1160–1712 widths. Pricing keeps the three-tier card readable on desktop; narrower stacking not fully shown. Home stats row is a strong wide-screen device.
+
+## Practical guidance
+
+**Preserve** orange CTA heat, blue pricing theater, huge claims, white plan card clarity.  
+**Avoid** muting orange into gray corporate or cluttering pricing with extra colors.  
+**Adapt** other tools by pairing one photo-driven story surface with one flat commercial surface.
+
+## Scope note
+
+Eight captures: home variants and pricing. Measured accent `#ffb528` and white text roles; blue field from screenshots. No declared font families.
+
+## Captured pages
+
+[![Home — big data server hero](https://pin.fontofweb.com/7045?format=jpg)](https://design.withfudge.com/share/pin-7045)
+
+[Home — big data server hero](https://design.withfudge.com/share/pin-7045)
+
+[![Pricing — blue field plans](https://pin.fontofweb.com/7050?format=jpg)](https://design.withfudge.com/share/pin-7050)
+
+[Pricing — blue field plans](https://design.withfudge.com/share/pin-7050)
+
+[![Home — wide marketing](https://pin.fontofweb.com/7048?format=jpg)](https://design.withfudge.com/share/pin-7048)
+
+[Home — wide marketing](https://design.withfudge.com/share/pin-7048)
+
+[![Home — compact width](https://pin.fontofweb.com/7049?format=jpg)](https://design.withfudge.com/share/pin-7049)
+
+[Home — compact width](https://design.withfudge.com/share/pin-7049)
+
+## Colors
+
+- `#ffb528`
+- `#ffffff`
+- `#000000`

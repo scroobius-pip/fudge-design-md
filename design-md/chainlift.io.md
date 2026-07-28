@@ -1,153 +1,114 @@
 # How chainlift.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/chainlift.io-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/chainlift.io-design)
 
-Source domain: [chainlift.io](https://chainlift.io)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-10
+## Design character
 
-<!--
-coverPin: 6347
--->
+LiftKit’s page sells a **UI framework for perfectionists**: confident display type, meticulously spaced sections, and component-looking cards that preview the product’s own discipline. It feels halfway between a design-system docs site and a modern SaaS launch—technical, crisp, and slightly opinionated about craft.
 
-Here is the visual system observed across **3 captured pages** from [chainlift.io](https://chainlift.io).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#e4e1e6",
-  "#dee1ff",
-  "#001258",
-  "#7d7d7d",
-  "#0e0e11",
-  "#727272",
-  "#bac3ff",
-  "#90909a",
-  "#276dc2",
-  "#706f72",
-  "#d8d5da",
-  "#0e0e10",
-  "#be2423",
-  "#98979b",
-  "#3b3b3f",
-  "#9ba8cc"
-]
-```
+- **Large, decisive display type** as the first impression
+- **Predictable vertical rhythm** (section stacks with repeating margin steps)
+- Soft **~15px card radii** and hairline edges
+- A craft-first tone: fewer gimmicks, more specimen-like UI blocks
 
-```fudge-font-usage
-{
-  "title": "Typography captured from chainlift.io",
-  "sampleText": "chainlift.io",
-  "fonts": [
-    {
-      "family": "Inter Font",
-      "familyId": 2104,
-      "pinId": 6347,
-      "domain": "chainlift.io",
-      "weight": "400",
-      "size": "17.1px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 259
-    },
-    {
-      "family": "Material Symbols Outlined",
-      "familyId": 2097,
-      "pinId": 6347,
-      "domain": "chainlift.io",
-      "weight": "400",
-      "size": "25.888px",
-      "lineHeight": "25.888px",
-      "letterSpacing": "-0.71px",
-      "frequency": 4
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 29 |
-| Spacing values | 15 |
-| Borders and radii | 2 |
-| Shadows | 1 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6347,
-      "title": "LiftKit: The UI Framework for Perfectionists by Chainlift.io",
-      "domain": "chainlift.io/liftkit",
-      "pageUrl": "chainlift.io/liftkit",
-      "imageUrl": "https://pin.fontofweb.com/6347?format=jpg",
-      "colors": [
-        "#276dc2",
-        "#706f72",
-        "#0e0e11",
-        "#d8d5da",
-        "#e4e1e6",
-        "#0e0e10",
-        "#7d7d7d",
-        "#be2423"
-      ],
-      "fonts": [
-        "Inter Font",
-        "Material Symbols Outlined"
-      ]
-    },
-    {
-      "pinId": 6346,
-      "title": "LiftKit: The UI Framework for Perfectionists by Chainlift.io",
-      "domain": "chainlift.io/liftkit",
-      "pageUrl": "chainlift.io/liftkit",
-      "imageUrl": "https://pin.fontofweb.com/6346?format=jpg",
-      "colors": [
-        "#061556",
-        "#dee1ff",
-        "#2e3f90",
-        "#001258",
-        "#d0d6f7",
-        "#101016",
-        "#7a87c1"
-      ],
-      "fonts": [
-        "Inter Font"
-      ]
-    },
-    {
-      "pinId": 6345,
-      "title": "LiftKit: The UI Framework for Perfectionists by Chainlift.io",
-      "domain": "chainlift.io/liftkit",
-      "pageUrl": "chainlift.io/liftkit",
-      "imageUrl": "https://pin.fontofweb.com/6345?format=jpg",
-      "colors": [
-        "#bac3ff",
-        "#829cc2",
-        "#d1bc5e",
-        "#101012",
-        "#dad7db",
-        "#2368c8",
-        "#033155",
-        "#7d7d7d"
-      ],
-      "fonts": [
-        "Inter Font"
-      ]
-    }
-  ]
-}
-```
+Machine color roles were sparse; visual reading of the LiftKit captures:
 
-## Representative captures
-[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6347?format=jpg)](https://design.withfudge.com/pin/6347)
-[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6347) — [source page](https://chainlift.io/liftkit)
+- Dark marketing moments and text near charcoal/black
+- Light content surfaces and cards on off-white/white
+- Neutral borders (~light gray) separating specimens
+- Accent appears as a cool brand highlight in UI samples (indigo-leaning in product chrome)—keep accents sparse
 
-[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6346?format=jpg)](https://design.withfudge.com/pin/6346)
-[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6346) — [source page](https://chainlift.io/liftkit)
+Treat neutrals as the system; accent is for interactive/specimen emphasis only.
 
-[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6345?format=jpg)](https://design.withfudge.com/pin/6345)
-[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6345) — [source page](https://chainlift.io/liftkit)
+### Typography
+
+Measured hierarchy (families not declared):
+
+| Step | Size | Weight | Line-height |
+|------|------|--------|-------------|
+| Display | ~72px | 700 | ~92px |
+| Section | ~35px | 600 | ~45px |
+| Subhead | ~28px | 600 | ~35px |
+| Lead | ~22–26px | 400–500 | ~20–26px |
+| Body | ~15–17px | 400–600 | ~19–28px |
+| Small | ~13px | 400 | ~17px |
+
+Strong weight contrast (400/500/600/700) defines hierarchy as much as size.
+
+### Spacing and layout
+
+- Section margins stack around **25px / 45px / 57px** steps
+- Card padding ~**15–22px**; larger section pads approach **72px**
+- Content is a long single-column marketing scroll with embedded component previews
+- Button-like controls pad ~**11×22px**
+
+## Visual language
+
+- **Radii ~15px** dominate cards/controls (a huge outlier radius in data is noise—ignore)
+- Soft edge: ~**1px blur shadow** at 0 offset appears as a hairline glow/edge rather than dramatic elevation
+- 1px solid borders on specimen frames
+- Imagery is UI itself—buttons, type samples, layout demos—not lifestyle photos
+
+## Components and states
+
+1. **Hero** — oversized title, short value prop, primary/secondary actions
+2. **Specimen cards** — rounded containers showcasing components or tokens
+3. **Feature rows** — title + explanation + optional preview
+4. **Code/UI embeds** — framed examples inside the marketing flow
+
+Only default states captured.
+
+## Responsive behavior
+
+Three desktop widths (~1387–1675px) of the same `/liftkit` path. Layout remains a centered marketing column; no mobile evidence.
+
+## Practical guidance
+
+**Preserve**
+
+- Big type + disciplined spacing scale
+- ~15px radius language
+- Specimen-led storytelling
+- Neutral canvas with restrained accent
+
+**Avoid**
+
+- Chaotic multi-accent marketing
+- Tiny timid headlines
+- Heavy skeuomorphic shadows
+- Treating every block as a different visual style
+
+## Scope note
+
+Three captures, all `/liftkit`. Strong spacing/type/radius signal; limited multi-page IA and no declared font families. Home/marketing beyond LiftKit not in set.
+
+## Captured pages
+
+[![LiftKit hero](https://pin.fontofweb.com/6345?format=jpg)](https://design.withfudge.com/share/pin-6345)
+
+[LiftKit hero](https://design.withfudge.com/share/pin-6345)
+
+[![LiftKit mid sections](https://pin.fontofweb.com/6346?format=jpg)](https://design.withfudge.com/share/pin-6346)
+
+[LiftKit mid sections](https://design.withfudge.com/share/pin-6346)
+
+[![LiftKit cards ~15px radius](https://pin.fontofweb.com/6347?format=jpg)](https://design.withfudge.com/share/pin-6347)
+
+[LiftKit cards ~15px radius](https://design.withfudge.com/share/pin-6347)
+
+## Colors
+
+- `#0b0b0f`
+- `#ffffff`
+- `#111827`
+- `#e5e7eb`
+- `#6366f1`
+- `#f8fafc`

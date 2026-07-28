@@ -1,248 +1,126 @@
 # How cofounder.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cofounder.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cofounder.co-design)
 
-Source domain: [cofounder.co](https://cofounder.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-26
+## Design character
 
-<!--
-coverPin: 9471
--->
+Cofounder markets agent automation with an unusually soft, storybook posture: pure white chrome, near-black serif-like display headlines, quiet gray body, and full-bleed **pixel-art landscapes** as the emotional core. UI chrome is minimal — text nav, ghost buttons, one black pill “Sign up” — while product moments appear as translucent glass prompts and toast cards floating over illustrated worlds (sunflowers, parks, laptops in grass).
 
-Here is the visual system observed across **6 captured pages** from [cofounder.co](https://cofounder.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#171717",
-  "#000000",
-  "#0a0a0a",
-  "#fefffc",
-  "#2c2c2c",
-  "#ffffff",
-  "#646464",
-  "#444141",
-  "#dde3dd",
-  "#b4b8b4",
-  "#fbfbf8",
-  "#fafafa",
-  "#f5f5f2",
-  "#202020",
-  "#1a1a1a",
-  "#dee2de"
-]
-```
+- White marketing frame + `#0a0a0a` primary type and `#646464` secondary
+- Huge, calm display lines (46–90px) with generous whitespace
+- Pixel / painterly illustration as primary media, not stock photos
+- Black filled primary button vs outlined/ghost secondary
+- Soft floating cards (~8–16px radius) over the art
+- Sparse density; illustration does the heavy lifting
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cofounder.co",
-  "sampleText": "cofounder.co",
-  "fonts": [
-    {
-      "family": "Tt Neoris",
-      "familyId": 2571,
-      "pinId": 9471,
-      "domain": "cofounder.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1862
-    },
-    {
-      "family": "Af Another Sans",
-      "familyId": 2391,
-      "pinId": 8173,
-      "domain": "cofounder.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 679
-    },
-    {
-      "family": "Pp Mondwest",
-      "familyId": 1349,
-      "pinId": 8171,
-      "domain": "cofounder.co",
-      "weight": "400",
-      "size": "54px",
-      "lineHeight": "54px",
-      "letterSpacing": "normal",
-      "frequency": 32
-    },
-    {
-      "family": "Geist Mono",
-      "familyId": 136,
-      "pinId": 8171,
-      "domain": "cofounder.co",
-      "weight": "400",
-      "size": "48px",
-      "lineHeight": "62.4px",
-      "letterSpacing": "-1.44px",
-      "frequency": 2
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 67 |
-| Spacing values | 72 |
-| Borders and radii | 29 |
-| Shadows | 11 |
-| Gradients | 4 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9471,
-      "title": "Cofounder lets you run an entire company with agents",
-      "domain": "cofounder.co/",
-      "pageUrl": "cofounder.co/",
-      "imageUrl": "https://pin.fontofweb.com/9471?format=jpg",
-      "colors": [
-        "#4e8257",
-        "#203a35",
-        "#574f3f",
-        "#aa996e",
-        "#171717",
-        "#f5f5f2",
-        "#fbfbf8",
-        "#000000"
-      ],
-      "fonts": [
-        "Tt Neoris"
-      ]
-    },
-    {
-      "pinId": 9470,
-      "title": "Cofounder lets you run an entire company with agents",
-      "domain": "cofounder.co/",
-      "pageUrl": "cofounder.co/",
-      "imageUrl": "https://pin.fontofweb.com/9470?format=jpg",
-      "colors": [
-        "#f5f5f2",
-        "#548d50",
-        "#f2f3ee",
-        "#7fba4f",
-        "#ffffff",
-        "#202020",
-        "#7e6f53",
-        "#fbfbf8"
-      ],
-      "fonts": [
-        "Tt Neoris"
-      ]
-    },
-    {
-      "pinId": 8173,
-      "title": "Cofounder",
-      "domain": "cofounder.co/",
-      "pageUrl": "cofounder.co/",
-      "imageUrl": "https://pin.fontofweb.com/8173?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#b4b8b4",
-        "#1e6b47",
-        "#2c2c2c",
-        "#646464",
-        "#0b79af",
-        "#0a0a0a",
-        "#fbfbfa"
-      ],
-      "fonts": [
-        "Af Another Sans"
-      ]
-    },
-    {
-      "pinId": 8171,
-      "title": "Cofounder | Pricing",
-      "domain": "cofounder.co/pricing",
-      "pageUrl": "cofounder.co/pricing",
-      "imageUrl": "https://pin.fontofweb.com/8171?format=jpg",
-      "colors": [
-        "#babbba",
-        "#fdfdfb",
-        "#000000",
-        "#2c2c2c",
-        "#878787",
-        "#646463",
-        "#7fa5da",
-        "#646464"
-      ],
-      "fonts": [
-        "Af Another Sans",
-        "Pp Mondwest",
-        "Geist Mono"
-      ]
-    },
-    {
-      "pinId": 8170,
-      "title": "Cofounder",
-      "domain": "cofounder.co/",
-      "pageUrl": "cofounder.co/",
-      "imageUrl": "https://pin.fontofweb.com/8170?format=jpg",
-      "colors": [
-        "#b5d6e8",
-        "#57b2d9",
-        "#98b04e",
-        "#444141",
-        "#467131",
-        "#fefefc",
-        "#ffffff",
-        "#dde3dd"
-      ],
-      "fonts": [
-        "Af Another Sans",
-        "Pp Mondwest"
-      ]
-    },
-    {
-      "pinId": 8169,
-      "title": "Cofounder",
-      "domain": "cofounder.co/",
-      "pageUrl": "cofounder.co/",
-      "imageUrl": "https://pin.fontofweb.com/8169?format=jpg",
-      "colors": [
-        "#0a0a0a",
-        "#fefffc",
-        "#b4b8b4",
-        "#2a553f",
-        "#000000",
-        "#646464",
-        "#a8b24f",
-        "#91baa1"
-      ],
-      "fonts": [
-        "Af Another Sans",
-        "Pp Mondwest"
-      ]
-    }
-  ]
-}
-```
+Measured:
 
-## Representative captures
-[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9471?format=jpg)](https://design.withfudge.com/pin/9471)
-[Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9471) — [source page](https://cofounder.co/)
+| Role | Hex | Use |
+|------|-----|-----|
+| Accent / primary action | `#0a0a0a` | Filled buttons, strong labels |
+| Primary text | `#0a0a0a` | Headlines and key UI |
+| Secondary text | `#646464` | Supporting copy |
 
-[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9470?format=jpg)](https://design.withfudge.com/pin/9470)
-[Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9470) — [source page](https://cofounder.co/)
+Canvas reads pure white in chrome; illustration supplies full-spectrum greens, sky blues, and sunflower yellows. Keep UI monochrome so the art stays loud.
 
-[![Cofounder](https://pin.fontofweb.com/8173?format=jpg)](https://design.withfudge.com/pin/8173)
-[Cofounder](https://design.withfudge.com/pin/8173) — [source page](https://cofounder.co/)
+### Typography
 
-[![Cofounder | Pricing](https://pin.fontofweb.com/8171?format=jpg)](https://design.withfudge.com/pin/8171)
-[Cofounder | Pricing](https://design.withfudge.com/pin/8171) — [source page](https://cofounder.co/pricing)
+Families undeclared. Texture reads editorial/serif for display on several crops, with simpler UI sans for nav and cards.
 
-[![Cofounder](https://pin.fontofweb.com/8170?format=jpg)](https://design.withfudge.com/pin/8170)
-[Cofounder](https://design.withfudge.com/pin/8170) — [source page](https://cofounder.co/)
+| Role | Size | Weight | Line-height | Tracking |
+|------|------|--------|-------------|----------|
+| Hero display | ~90px | 400 | ~90px | ~-1.8px |
+| Section / pricing display | 46–54px | 400 | ~50–54px | slight tighten |
+| Subhead | ~24px | 500 | ~31px | slight negative |
+| Body | 16px | 400 | 24px | default |
+| UI / nav | 13–16px | 500 | ~17–22px | slight negative |
 
-[![Cofounder](https://pin.fontofweb.com/8169?format=jpg)](https://design.withfudge.com/pin/8169)
-[Cofounder](https://design.withfudge.com/pin/8169) — [source page](https://cofounder.co/)
+Display is large and relatively light (not ultra-black poster type). Body stays classic 16/24.
+
+### Spacing and layout
+
+- Wide desktop heroes with large top padding and centered copy blocks.
+- Side padding often ~48–120px; some ultra-wide crops push huge outer margins.
+- Pricing mobile-ish crop (~660px) still keeps centered stacks with ~24px padding and ~16px card radius.
+- Gaps between chrome and art are intentional white bands or hard illustration bleeds.
+
+## Visual language
+
+- **Illustration-first:** Pixel landscapes, soft clouds, props (laptop, book, flower) set tone.
+- **Glass UI:** Frosted prompt bars and notification toasts over the scene; light borders and soft shadows (`y:1–6`, small blurs).
+- **Radius:** 4–10px on small controls; ~16px on larger pricing cards; occasional full pills on primary buttons.
+- **Borders:** 1px neutral outlines on ghosts and cards.
+- **Motion:** Not established from stills; floating cards imply gentle product life without proving animation specs.
+
+## Components and states
+
+1. **Marketing header** — wordmark; text links; ghost “Log in”; black pill “Sign up” / “Run a company”.
+2. **Hero** — oversized claim, short gray subcopy, dual CTAs, optional text link (“Watch our launch video”).
+3. **Illustration stage** — full-width pixel scene with overlaid prompt composer and email toast.
+4. **Side mini-nav** (some crops) — vertical text list over white margin beside the art.
+5. **Pricing** — large display price/headline on white; simple card with soft shadow (narrow viewport capture).
+
+Only default resting states are visible.
+
+## Responsive behavior
+
+Set includes ultra-wide home (~2540px), standard wide (~2048px), and a narrow pricing crop (~660px). Chrome collapses toward simpler stacked headers on smaller widths while illustration remains dominant on home. Exact breakpoint tokens were not recorded.
+
+## Practical guidance
+
+**Preserve**
+
+- Monochrome UI over rich pixel worlds
+- Massive calm headlines and airy white margins
+- Black pill primary + ghost secondary pairing
+- Glass prompt/toast vocabulary for “product in the world”
+
+**Avoid**
+
+- Generic purple-gradient AI clichés
+- Dense dashboard marketing above the fold
+- Heavy shadows or neon accents on chrome
+- Replacing illustration with abstract 3D blobs without a new art system
+
+**Adaptation**
+
+Build the brand around one illustration language and keep controls almost invisible. If art changes, keep the black/white type and button recipe stable.
+
+## Scope note
+
+Six captures on `/` and `/pricing` (pins 8169–8173, 9470–9471). No declared fonts. Color roles only cover black/gray UI — illustration palettes are visual only. App-authenticated product screens were not in this set.
+
+## Captured pages
+
+[![Home — white hero and claim](https://pin.fontofweb.com/8169?format=jpg)](https://design.withfudge.com/share/pin-8169)
+
+[Home — white hero and claim](https://design.withfudge.com/share/pin-8169)
+
+[![Home — hero with art break](https://pin.fontofweb.com/8170?format=jpg)](https://design.withfudge.com/share/pin-8170)
+
+[Home — hero with art break](https://design.withfudge.com/share/pin-8170)
+
+[![Home — pixel park landscape](https://pin.fontofweb.com/9471?format=jpg)](https://design.withfudge.com/share/pin-9471)
+
+[Home — pixel park landscape](https://design.withfudge.com/share/pin-9471)
+
+[![Home — sunflower prompt stage](https://pin.fontofweb.com/8173?format=jpg)](https://design.withfudge.com/share/pin-8173)
+
+[Home — sunflower prompt stage](https://design.withfudge.com/share/pin-8173)
+
+[![Pricing — narrow viewport](https://pin.fontofweb.com/8171?format=jpg)](https://design.withfudge.com/share/pin-8171)
+
+[Pricing — narrow viewport](https://design.withfudge.com/share/pin-8171)
+
+## Colors
+
+- `#0a0a0a`
+- `#646464`

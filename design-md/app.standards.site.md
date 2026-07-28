@@ -1,391 +1,94 @@
 # How app.standards.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.standards.site-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.standards.site-design)
 
-Source domain: [app.standards.site](https://app.standards.site)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-29
+## Design character
 
-<!--
-coverPin: 8524
--->
+Standards is a **monochrome, editorial design-ops tool**. The UI looks almost printed: black and white, tiny radii, large empty margins, and very little chroma. It frames design-system work as serious documentation infrastructure rather than a playful canvas app.
 
-Here is the visual system observed across **14 captured pages** from [app.standards.site](https://app.standards.site).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#898989",
-  "#333333",
-  "#242424",
-  "#101010",
-  "#2395e7",
-  "#4b4b4b",
-  "#2591df",
-  "#99cbef",
-  "#494949",
-  "#949494",
-  "#484848",
-  "#3a3a3a",
-  "#ff2e01",
-  "#541b14"
-]
-```
+- **Strict black/white (and light gray) palette**
+- **4px radius discipline**—barely soft, never bubbly
+- **Large outer padding** (≈80px horizontal, ≈90px top in measurements)
+- **16px UI type** with tight 16px line-height for compact chrome
 
-```fudge-font-usage
-{
-  "title": "Typography captured from app.standards.site",
-  "sampleText": "app.standards.site",
-  "fonts": [
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 8524,
-      "domain": "app.standards.site",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 1386
-    },
-    {
-      "family": "Söhne",
-      "familyId": 2237,
-      "pinId": 8524,
-      "domain": "app.standards.site",
-      "weight": "600",
-      "size": "18px",
-      "lineHeight": "24.5px",
-      "letterSpacing": "normal",
-      "frequency": 5
-    },
-    {
-      "family": "Klim Type Foundry",
-      "familyId": 2090,
-      "pinId": 8524,
-      "domain": "app.standards.site",
-      "weight": "400",
-      "size": "13px",
-      "lineHeight": "15.6px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    },
-    {
-      "family": "Fontsohnehalbfett",
-      "familyId": 2421,
-      "pinId": 8521,
-      "domain": "app.standards.site",
-      "weight": "600",
-      "size": "170px",
-      "lineHeight": "170px",
-      "letterSpacing": "normal",
-      "frequency": 26
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 14 |
-| Colors | 91 |
-| Spacing values | 98 |
-| Borders and radii | 21 |
-| Shadows | 3 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8524,
-      "title": "Standards - FontofWeb",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit",
-      "imageUrl": "https://pin.fontofweb.com/8524?format=jpg",
-      "colors": [
-        "#fe2e02",
-        "#898989",
-        "#a23711",
-        "#c1bcb7",
-        "#797978",
-        "#444241",
-        "#060606",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Times",
-        "Söhne",
-        "Klim Type Foundry"
-      ]
-    },
-    {
-      "pinId": 8523,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8523?format=jpg",
-      "colors": [
-        "#101010",
-        "#333333",
-        "#000000",
-        "#2595e6",
-        "#ffffff",
-        "#85c1ec",
-        "#a7a7a7",
-        "#868686"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8522,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8522?format=jpg",
-      "colors": [
-        "#2591df",
-        "#101010",
-        "#848484",
-        "#99cbef",
-        "#494949",
-        "#898989",
-        "#333333",
-        "#000000"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8521,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8521?format=jpg",
-      "colors": [
-        "#2591df",
-        "#6d6d6d",
-        "#101010",
-        "#aeaeae",
-        "#000000",
-        "#99cbef",
-        "#494949",
-        "#f5f5f5"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Fontsohnehalbfett",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8520,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8520?format=jpg",
-      "colors": [
-        "#101010",
-        "#898989",
-        "#ffffff",
-        "#e7e7e7",
-        "#666666",
-        "#3f3f3f",
-        "#000000",
-        "#949494"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry"
-      ]
-    },
-    {
-      "pinId": 8519,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8519?format=jpg",
-      "colors": [
-        "#a9a9a9",
-        "#4a4a4a",
-        "#747474",
-        "#ffffff",
-        "#2395e7",
-        "#000000",
-        "#2a95e3",
-        "#191919"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8518,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8518?format=jpg",
-      "colors": [
-        "#242424",
-        "#fefefe",
-        "#949494",
-        "#ffffff",
-        "#bababa",
-        "#2591df",
-        "#000000",
-        "#6c6c6c"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8517,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8517?format=jpg",
-      "colors": [
-        "#6b6b6b",
-        "#b89dea",
-        "#2395e7",
-        "#111111",
-        "#000000",
-        "#e6e6e6",
-        "#b2c3eb",
-        "#414141"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry"
-      ]
-    },
-    {
-      "pinId": 8516,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8516?format=jpg",
-      "colors": [
-        "#2a96e5",
-        "#1c4262",
-        "#484848",
-        "#2a76b1",
-        "#2395e7",
-        "#101010",
-        "#e5f2fd",
-        "#97caf0"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8515,
-      "title": "Standards - Project Setup",
-      "domain": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "pageUrl": "app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup",
-      "imageUrl": "https://pin.fontofweb.com/8515?format=jpg",
-      "colors": [
-        "#393939",
-        "#101010",
-        "#333333",
-        "#242424",
-        "#7fbbe9",
-        "#a3a4a5",
-        "#ffffff",
-        "#3a3a3a"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry",
-        "Söhne"
-      ]
-    },
-    {
-      "pinId": 8514,
-      "title": "Standards - Create Workspace",
-      "domain": "app.standards.site/create-workspace",
-      "pageUrl": "app.standards.site/create-workspace",
-      "imageUrl": "https://pin.fontofweb.com/8514?format=jpg",
-      "colors": [
-        "#101010",
-        "#ff2e01",
-        "#fad0c6",
-        "#ffffff",
-        "#5b5b5b",
-        "#9c9c9c",
-        "#541b14",
-        "#892313"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry"
-      ]
-    },
-    {
-      "pinId": 8513,
-      "title": "Standards - Create Workspace",
-      "domain": "app.standards.site/create-workspace",
-      "pageUrl": "app.standards.site/create-workspace",
-      "imageUrl": "https://pin.fontofweb.com/8513?format=jpg",
-      "colors": [
-        "#541b14",
-        "#892313",
-        "#101010",
-        "#a5a5a5",
-        "#ff2e01",
-        "#ffffff",
-        "#737373",
-        "#f38a78"
-      ],
-      "fonts": [
-        "Times",
-        "Klim Type Foundry"
-      ]
-    }
-  ]
-}
-```
+- Ink: black `#000000` / near-black
+- Paper: white `#ffffff`
+- Wells/rules: light grays ~`#f4f4f4`–`#d4d4d4`
+- No strong brand hue observed in chrome—content may introduce color, UI should not
 
-## Representative captures
-[![Standards - FontofWeb](https://pin.fontofweb.com/8524?format=jpg)](https://design.withfudge.com/pin/8524)
-[Standards - FontofWeb](https://design.withfudge.com/pin/8524) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit)
+### Typography
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8523?format=jpg)](https://design.withfudge.com/pin/8523)
-[Standards - Project Setup](https://design.withfudge.com/pin/8523) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+Measured default: **16px / 16px**, weight 400—unusually tight leading for a dense tools feel. Hierarchy comes from weight shifts and layout, not a deep size ramp in the shell.
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8522?format=jpg)](https://design.withfudge.com/pin/8522)
-[Standards - Project Setup](https://design.withfudge.com/pin/8522) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+### Spacing and layout
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8521?format=jpg)](https://design.withfudge.com/pin/8521)
-[Standards - Project Setup](https://design.withfudge.com/pin/8521) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- Horizontal page padding **80px** (very frequent)
+- Top padding ~**90px**; secondary **20px** control padding; section **30px**
+- Occasional negative margins (~-3 to -9) for optical alignment of tight stacks
+- Setup vs edit share the same austere frame; edit adds a structured canvas/document stage
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8520?format=jpg)](https://design.withfudge.com/pin/8520)
-[Standards - Project Setup](https://design.withfudge.com/pin/8520) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+## Visual language
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8519?format=jpg)](https://design.withfudge.com/pin/8519)
-[Standards - Project Setup](https://design.withfudge.com/pin/8519) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+- Hairlines and solid black controls beat shadows (no meaningful shadow system observed)
+- Geometry is rectangular with **4px** rounding only
+- High contrast binary UI—selected states flip black/white rather than using color fills
+- Feels closer to a typesetting app than a colorful design toy
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8518?format=jpg)](https://design.withfudge.com/pin/8518)
-[Standards - Project Setup](https://design.withfudge.com/pin/8518) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+## Components and states
 
-[![Standards - Project Setup](https://pin.fontofweb.com/8517?format=jpg)](https://design.withfudge.com/pin/8517)
-[Standards - Project Setup](https://design.withfudge.com/pin/8517) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+1. **Setup forms** — labeled fields, monochrome buttons, airy vertical rhythm
+2. **Edit canvas** — document/artboard central, chrome minimized
+3. **Navigation/chrome** — thin, high-contrast, icon+label sparse
+4. **Primary actions** — black on white or inverted white on black
+
+## Responsive behavior
+
+Multiple widths from ~1575–2048 on setup plus edit. The system keeps **large padding and monochrome structure** while width changes—desktop fluid, not a separate small-screen identity in this set (shortest height crops still look like desktop UI).
+
+## Practical guidance
+
+**Preserve** binary palette, 4px radii, huge margins, tight 16px chrome type, content-over-chrome hierarchy.
+
+**Avoid** colorful sidebars, 12–16px bubbly cards, heavy drop shadows, or marketing gradients inside the tool shell.
+
+## Scope note
+
+Eight captures of setup + edit for one project path across several widths. Font families and semantic color roles undeclared; guidance from measured spacing/radius/type plus screenshots.
+
+## Captured pages
+
+[![Edit canvas — FontofWeb project](https://pin.fontofweb.com/8524?format=jpg)](https://design.withfudge.com/share/pin-8524)
+
+[Edit canvas — FontofWeb project](https://design.withfudge.com/share/pin-8524)
+
+[![Project setup — wide](https://pin.fontofweb.com/8518?format=jpg)](https://design.withfudge.com/share/pin-8518)
+
+[Project setup — wide](https://design.withfudge.com/share/pin-8518)
+
+[![Project setup — mid width](https://pin.fontofweb.com/8520?format=jpg)](https://design.withfudge.com/share/pin-8520)
+
+[Project setup — mid width](https://design.withfudge.com/share/pin-8520)
+
+[![Project setup — tighter width](https://pin.fontofweb.com/8519?format=jpg)](https://design.withfudge.com/share/pin-8519)
+
+[Project setup — tighter width](https://design.withfudge.com/share/pin-8519)
+
+[![Project setup — alternate state](https://pin.fontofweb.com/8523?format=jpg)](https://design.withfudge.com/share/pin-8523)
+
+[Project setup — alternate state](https://design.withfudge.com/share/pin-8523)
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#111111`
+- `#f4f4f4`
+- `#d4d4d4`

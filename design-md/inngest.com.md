@@ -1,367 +1,105 @@
 # How inngest.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/inngest.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
 
-Source domain: [inngest.com](https://inngest.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-01
+## Design character
 
-<!--
-coverPin: 7556
--->
+Inngest is a **dark developer-infrastructure** brand. The site feels like a polished product console turned marketing page: near-black grounds, warm stone neutrals (`#f5f5f4`, `#d6d3d1`), and a restrained gold accent (`#d8a657`). Heroes pair bold claims with product UI screenshots; pricing is clean card math on the same dark shell.
 
-Here is the visual system observed across **11 captured pages** from [inngest.com](https://inngest.com).
+What should survive adaptation:
+- Warm-neutral type on cool-black surfaces (not pure blue-dark SaaS)
+- Gold used sparingly for emphasis and brand marks
+- Product UI proof embedded in marketing bands
+- Calm, wide pricing cards with obvious hierarchy
 
-```fudge-colors
-[
-  "#000000",
-  "#f6f6f6",
-  "#0c0a09",
-  "#fafaf9",
-  "#1c1917",
-  "#ffffff",
-  "#d6d3d1",
-  "#e7e5e4",
-  "#9b9b9b",
-  "#78716c",
-  "#a8a29e",
-  "#f5f5f4",
-  "#d1d5db",
-  "#9ca3af",
-  "#e5e7eb",
-  "#cbb26a"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from inngest.com",
-  "sampleText": "inngest.com",
-  "fonts": [
-    {
-      "family": "By Laurenz Brunner",
-      "familyId": 1007,
-      "pinId": 7556,
-      "domain": "inngest.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 209
-    },
-    {
-      "family": "Abc Whyte",
-      "familyId": 2284,
-      "pinId": 7556,
-      "domain": "inngest.com",
-      "weight": "300",
-      "size": "36px",
-      "lineHeight": "40px",
-      "letterSpacing": "-2px",
-      "frequency": 4
-    },
-    {
-      "family": "Abc Whyte Inktrap",
-      "familyId": 2286,
-      "pinId": 7556,
-      "domain": "inngest.com",
-      "weight": "500",
-      "size": "36px",
-      "lineHeight": "40px",
-      "letterSpacing": "-2px",
-      "frequency": 5
-    },
-    {
-      "family": "By Laurenz Brunner 20132019",
-      "familyId": 2285,
-      "pinId": 7549,
-      "domain": "inngest.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22.75px",
-      "letterSpacing": "normal",
-      "frequency": 8
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 11 |
-| Colors | 122 |
-| Spacing values | 122 |
-| Borders and radii | 21 |
-| Shadows | 14 |
-| Gradients | 0 |
+Measured:
+- Lights / primary text: `#f5f5f4`, `#fafaf9`, `#f6f6f6`, `#ffffff`
+- Secondary text: `#d6d3d1`
+- Gold accent: `#d8a657`
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7556,
-      "title": "Pricing - Inngest",
-      "domain": "inngest.com/pricing",
-      "pageUrl": "inngest.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/7556?format=jpg",
-      "colors": [
-        "#c8b16b",
-        "#403b35",
-        "#2c9963",
-        "#c85c32",
-        "#fafaf9",
-        "#a8a29e",
-        "#1a161c",
-        "#e7e5e4"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte",
-        "Abc Whyte Inktrap"
-      ]
-    },
-    {
-      "pinId": 7555,
-      "title": "Pricing - Inngest",
-      "domain": "inngest.com/pricing",
-      "pageUrl": "inngest.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/7555?format=jpg",
-      "colors": [
-        "#b17a50",
-        "#1d1916",
-        "#b8b6b5",
-        "#8c8b89",
-        "#296746",
-        "#efefed",
-        "#000000",
-        "#1c1917"
-      ],
-      "fonts": [
-        "By Laurenz Brunner"
-      ]
-    },
-    {
-      "pinId": 7554,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7554?format=jpg",
-      "colors": [
-        "#5c5136",
-        "#242424",
-        "#fdfdfc",
-        "#78716c",
-        "#95865f",
-        "#c9b26c",
-        "#bbbbba",
-        "#e2e8f0"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte Inktrap"
-      ]
-    },
-    {
-      "pinId": 7553,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7553?format=jpg",
-      "colors": [
-        "#292524",
-        "#191614",
-        "#000000",
-        "#383736",
-        "#a9a8a7",
-        "#2e3a4e",
-        "#fafaf9",
-        "#7f7e7e"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte"
-      ]
-    },
-    {
-      "pinId": 7552,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7552?format=jpg",
-      "colors": [
-        "#8a8784",
-        "#2c9962",
-        "#f6f6f6",
-        "#ca5c32",
-        "#cbcac8",
-        "#5e5463",
-        "#0c0a09",
-        "#ffffff"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte",
-        "Abc Whyte Inktrap"
-      ]
-    },
-    {
-      "pinId": 7551,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7551?format=jpg",
-      "colors": [
-        "#c9b26c",
-        "#47443f",
-        "#7f7d7b",
-        "#337854",
-        "#173723",
-        "#918257",
-        "#fafaf9",
-        "#000000"
-      ],
-      "fonts": [
-        "Abc Whyte Inktrap",
-        "By Laurenz Brunner"
-      ]
-    },
-    {
-      "pinId": 7550,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7550?format=jpg",
-      "colors": [
-        "#0c0a09",
-        "#262626",
-        "#fafaf9",
-        "#bea766",
-        "#d6d3d1",
-        "#f6f6f6",
-        "#e5e7eb",
-        "#ffffff"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte",
-        "Abc Whyte Inktrap"
-      ]
-    },
-    {
-      "pinId": 7549,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7549?format=jpg",
-      "colors": [
-        "#adadad",
-        "#cbb26a",
-        "#47423b",
-        "#89b482",
-        "#d1d0cf",
-        "#c3ad6b",
-        "#f6f6f6",
-        "#0c0a09"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte Inktrap",
-        "Abc Whyte",
-        "By Laurenz Brunner 20132019"
-      ]
-    },
-    {
-      "pinId": 7548,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7548?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#686668",
-        "#e5e7eb",
-        "#d6d3d1",
-        "#5ba36a",
-        "#9b9997",
-        "#e0dedb",
-        "#e7e5e4"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte"
-      ]
-    },
-    {
-      "pinId": 7547,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7547?format=jpg",
-      "colors": [
-        "#a89984",
-        "#fafaf9",
-        "#81674e",
-        "#ffffff",
-        "#6d6c69",
-        "#adadad",
-        "#ea6962",
-        "#d6d3d1"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte Inktrap",
-        "Abc Whyte",
-        "By Laurenz Brunner 20132019"
-      ]
-    },
-    {
-      "pinId": 7546,
-      "title": "AI and backend workflows, orchestrated at any scale",
-      "domain": "inngest.com/",
-      "pageUrl": "inngest.com/",
-      "imageUrl": "https://pin.fontofweb.com/7546?format=jpg",
-      "colors": [
-        "#fafaf9",
-        "#e5e7eb",
-        "#c9b16c",
-        "#cbb26a",
-        "#bab9b8",
-        "#000000",
-        "#ffffff",
-        "#f6f6f6"
-      ],
-      "fonts": [
-        "By Laurenz Brunner",
-        "Abc Whyte"
-      ]
-    }
-  ]
-}
-```
+Visual read:
+- Canvas: deep charcoal/black
+- Elevated panels slightly lighter than canvas
+- Borders are low-contrast hairlines
+- Success/info colors appear inside product shots, not as page chrome
 
-## Representative captures
-[![Pricing - Inngest](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/pin/7556)
-[Pricing - Inngest](https://design.withfudge.com/pin/7556) — [source page](https://inngest.com/pricing)
+### Typography
 
-[![Pricing - Inngest](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/pin/7555)
-[Pricing - Inngest](https://design.withfudge.com/pin/7555) — [source page](https://inngest.com/pricing)
+Family not declared; product sans with strong weight contrast.
+- Display titles: large, tight, high contrast white/stone
+- Body: mid size, comfortable line length
+- Pricing numerals: oversized, tabular feel
+- Nav and meta: smaller, medium weight
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/pin/7554)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7554) — [source page](https://inngest.com/)
+### Spacing and layout
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/pin/7553)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7553) — [source page](https://inngest.com/)
+Common steps **4 / 8 / 12 / 16 / 24 / 32px**, section gaps **48–96px**.
+- Radii **4–12px** on cards/controls; full pills **9999** on some CTAs/chips
+- Marketing max-width with centered heroes
+- Pricing: 2–4 column card row with equal card radii
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7552?format=jpg)](https://design.withfudge.com/pin/7552)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7552) — [source page](https://inngest.com/)
+## Visual language
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7551?format=jpg)](https://design.withfudge.com/pin/7551)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7551) — [source page](https://inngest.com/)
+- Soft card elevation on dark (subtle shadow, not material slabs)
+- Product screenshots with rounded frames and thin rings
+- Diagram-like workflow graphics in brand gold/stone
+- Minimal illustration; engineering clarity over playful mascots
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7550?format=jpg)](https://design.withfudge.com/pin/7550)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7550) — [source page](https://inngest.com/)
+## Components and states
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7549?format=jpg)](https://design.withfudge.com/pin/7549)
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7549) — [source page](https://inngest.com/)
+- Sticky/top nav with logo, links, Login, primary CTA
+- Hero: title + subcopy + dual CTAs + product visual
+- Logo clouds in muted monochrome
+- Feature rows: icon/title/body or screenshot + copy
+- Pricing cards: plan name, price, feature list, CTA
+- Footer link matrix in muted stone
+
+## Responsive behavior
+
+Home and pricing captured across multiple widths including tall full-page shots. Cards collapse from multi-column to stack; hero media moves under copy. Keep pricing comparison scannable when stacked (price and CTA still above the fold of each card).
+
+## Practical guidance
+
+**Preserve**
+- Stone neutrals + gold on black
+- Product UI as primary imagery
+- Simple pricing card grammar
+
+**Avoid**
+- Cold pure-blue dark themes that lose the warm stone
+- Rainbow gradient hero backgrounds
+- Over-rounding everything into consumer bubbles
+
+## Scope note
+
+Studied home and pricing captures (multiple viewports). Color roles and radii measured; declared font families absent. Gradient/border/media structured families largely unsupported — screenshot interpretation fills those gaps.
+
+## Captured pages
+
+[![Pricing - Inngest](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/share/pin-7556)
+
+[Pricing - Inngest](https://design.withfudge.com/share/pin-7556)
+
+[![Pricing - Inngest](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/share/pin-7555)
+
+[Pricing - Inngest](https://design.withfudge.com/share/pin-7555)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/share/pin-7554)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7554)
+
+## Colors
+
+- `#000000`
+- `#f5f5f4`
+- `#fafaf9`
+- `#d6d3d1`
+- `#d8a657`
+- `#ffffff`
+- `#f6f6f6`

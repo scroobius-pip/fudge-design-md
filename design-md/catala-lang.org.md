@@ -1,180 +1,72 @@
 # How catala-lang.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/catala-lang.org-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/catala-lang.org-design)
 
-Source domain: [catala-lang.org](https://catala-lang.org)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-20
+## Design character
 
-<!--
-coverPin: 9003
--->
+Catala’s site feels like a **warm academic research project**: soft paper canvas, serif display headlines, sand/gold filled buttons, and carefully presented code samples. It bridges law and computer science without startup flash—credible, bilingual, and documentation-forward.
 
-Here is the visual system observed across **3 captured pages** from [catala-lang.org](https://catala-lang.org).
+What should survive adaptation:
+- Warm off-white paper ground
+- Serif for explanatory display; monospace for code
+- Sand/gold primary buttons (`#` family near measured brown `#4d3006` text accents)
+- Highlighted phrase marks in body copy (pale yellow/beige chips)
 
-```fudge-colors
-[
-  "#000000",
-  "#fbcc80",
-  "#ddd6cd",
-  "#ffffff",
-  "#292524",
-  "#4d3006",
-  "#70480d",
-  "#44403b",
-  "#fafaf9",
-  "#996633",
-  "#008800",
-  "#bb0066",
-  "#706a63",
-  "#333333",
-  "#1a1918",
-  "#867764"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from catala-lang.org",
-  "sampleText": "catala-lang.org",
-  "fonts": [
-    {
-      "family": "Space Grotesk",
-      "familyId": 907,
-      "pinId": 9003,
-      "domain": "catala-lang.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 383
-    },
-    {
-      "family": "Libre Baskerville",
-      "familyId": 1451,
-      "pinId": 9003,
-      "domain": "catala-lang.org",
-      "weight": "600",
-      "size": "36px",
-      "lineHeight": "40px",
-      "letterSpacing": "normal",
-      "frequency": 27
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9001,
-      "domain": "catala-lang.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 16
-    },
-    {
-      "family": "Fira Code",
-      "familyId": 110,
-      "pinId": 9001,
-      "domain": "catala-lang.org",
-      "weight": "700",
-      "size": "14.4px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 7
-    }
-  ]
-}
-```
+### Color
+Measured text browns: `#4d3006`, `#292524`, `#44403b`.
+Visually: paper background, white content cards, gold/sand CTA fills, green/pink syntax colors inside code blocks, stone borders.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 38 |
-| Spacing values | 27 |
-| Borders and radii | 5 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Typography
+Weights 400–700. Sizes 12–20 body/UI, 24–36 display. Serif headlines; sans UI; **monospace** code. Line length comfortable for long explanatory sentences.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9003,
-      "title": "Features - Catala",
-      "domain": "catala-lang.org/en/features",
-      "pageUrl": "catala-lang.org/en/features",
-      "imageUrl": "https://pin.fontofweb.com/9003?format=jpg",
-      "colors": [
-        "#1a1918",
-        "#ffffff",
-        "#867764",
-        "#b3a89c",
-        "#777879",
-        "#4e4844",
-        "#292524",
-        "#f4d2b2"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 9002,
-      "title": "Catala - Law to Code",
-      "domain": "catala-lang.org/en/",
-      "pageUrl": "catala-lang.org/en/",
-      "imageUrl": "https://pin.fontofweb.com/9002?format=jpg",
-      "colors": [
-        "#706a63",
-        "#363432",
-        "#6c6a68",
-        "#d8c9b2",
-        "#fffcf8",
-        "#aba9a6",
-        "#d2634d",
-        "#b39f85"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Libre Baskerville"
-      ]
-    },
-    {
-      "pinId": 9001,
-      "title": "Catala - Law to Code",
-      "domain": "catala-lang.org/en/",
-      "pageUrl": "catala-lang.org/en/",
-      "imageUrl": "https://pin.fontofweb.com/9001?format=jpg",
-      "colors": [
-        "#000000",
-        "#ffffff",
-        "#333333",
-        "#f6d093",
-        "#ddd6cd",
-        "#fefdfb",
-        "#44403b",
-        "#fbcc80"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Libre Baskerville",
-        "System",
-        "Fira Code"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Clean 4–8–16–32–64–128 scale. Centered article column, top nav with FR/EN toggle, code examples in bordered panels beside prose.
 
-## Representative captures
-[![Features - Catala](https://pin.fontofweb.com/9003?format=jpg)](https://design.withfudge.com/pin/9003)
-[Features - Catala](https://design.withfudge.com/pin/9003) — [source page](https://catala-lang.org/en/features)
+## Visual language
+- Soft, mostly flat; rounded taxonomy noted though radii observations sparse
+- Light borders on secondary buttons and code chrome
+- Syntax-colored code as primary “illustration”
 
-[![Catala - Law to Code](https://pin.fontofweb.com/9002?format=jpg)](https://design.withfudge.com/pin/9002)
-[Catala - Law to Code](https://design.withfudge.com/pin/9002) — [source page](https://catala-lang.org/en/)
+## Components and states
+- Primary sand button vs outlined secondary
+- Language toggle (FR/EN)
+- Code block with filename bar
+- Feature discovery CTAs
+- Partner/footer academic credits
 
-[![Catala - Law to Code](https://pin.fontofweb.com/9001?format=jpg)](https://design.withfudge.com/pin/9001)
-[Catala - Law to Code](https://design.withfudge.com/pin/9001) — [source page](https://catala-lang.org/en/)
+## Responsive behavior
+Home and features ~1627–1712. Single column reading holds; code may need horizontal scroll on small screens.
+
+## Practical guidance
+**Preserve** paper+serif+sand academic warmth and first-class code samples.
+**Avoid** dark cyber themes or aggressive marketing gradients unsuited to a research DSL.
+
+## Scope note
+`/en/` and `/en/features` studied.
+
+## Captured pages
+
+[![Home — Law to Code](https://pin.fontofweb.com/9001?format=jpg)](https://design.withfudge.com/share/pin-9001)
+
+[Home — Law to Code](https://design.withfudge.com/share/pin-9001)
+
+[![Home — crop](https://pin.fontofweb.com/9002?format=jpg)](https://design.withfudge.com/share/pin-9002)
+
+[Home — crop](https://design.withfudge.com/share/pin-9002)
+
+[![Features](https://pin.fontofweb.com/9003?format=jpg)](https://design.withfudge.com/share/pin-9003)
+
+[Features](https://design.withfudge.com/share/pin-9003)
+
+## Colors
+
+- `#4d3006`
+- `#292524`
+- `#44403b`
+- `#f5f0e8`
+- `#e8d4a8`
+- `#ffffff`

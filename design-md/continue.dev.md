@@ -1,260 +1,139 @@
 # How continue.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/continue.dev-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/continue.dev-design)
 
-Source domain: [continue.dev](https://continue.dev)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-04
+## Design character
 
-<!--
-coverPin: 8680
--->
+Continue’s marketing site is **quiet, airy developer infrastructure branding**: pale gray-to-white fields, near-black hairline UI, and oversized **light-weight display type** (56–64px at weight ~300) with tight negative tracking. The emotional center is abstract ink-and-geometry art—violet/indigo splatter and ruled technical linework in a white frame—paired with a floating product UI card (PR review / Anti-Slop checks). Primary actions are solid **near-navy/black pills** (`#020817`), not rainbow gradients. About and careers keep the same whisper-quiet chrome with list rows and a single art panel.
 
-Here is the visual system observed across **6 captured pages** from [continue.dev](https://continue.dev).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#020817",
-  "#fafafa",
-  "#ffffff",
-  "#312e81",
-  "#f9f3f4",
-  "#05bd48",
-  "#efe4e7",
-  "#0f172a",
-  "#ef4444",
-  "#00a72e",
-  "#161434",
-  "#1a1a1a",
-  "#f87171",
-  "#f3f3f3",
-  "#252525"
-]
-```
+- Pale neutral canvas + ink-black type
+- Ultra-light large display headlines (weight ~300, 56–64px, tracking ~−1.4 to −1.6px)
+- Dark solid CTA (`#020817` / `#0f172a` family) and text-link secondary
+- Abstract technical art as the only loud visual
+- Soft product cards with light borders and restrained shadows
+- Airy spacing; never dense marketing clutter
 
-```fudge-font-usage
-{
-  "title": "Typography captured from continue.dev",
-  "sampleText": "continue.dev",
-  "fonts": [
-    {
-      "family": "Ibm Plex Sans",
-      "familyId": 669,
-      "pinId": 8680,
-      "domain": "continue.dev",
-      "weight": "300",
-      "size": "56px",
-      "lineHeight": "58.8px",
-      "letterSpacing": "-1.4px",
-      "frequency": 80
-    },
-    {
-      "family": "Ibm Plex Mono",
-      "familyId": 75,
-      "pinId": 8680,
-      "domain": "continue.dev",
-      "weight": "400",
-      "size": "11px",
-      "lineHeight": "16.5px",
-      "letterSpacing": "0.275px",
-      "frequency": 4
-    },
-    {
-      "family": "Monaco",
-      "familyId": 2440,
-      "pinId": 8678,
-      "domain": "continue.dev",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "18px",
-      "letterSpacing": "normal",
-      "frequency": 22
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 6709,
-      "domain": "continue.dev",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "16px",
-      "letterSpacing": "2.4px",
-      "frequency": 40
-    },
-    {
-      "family": "Manrope",
-      "familyId": 134,
-      "pinId": 6709,
-      "domain": "continue.dev",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 124
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 53 |
-| Spacing values | 46 |
-| Borders and radii | 14 |
-| Shadows | 3 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8680,
-      "title": "Continue • Quality control for your software factory. | Continue",
-      "domain": "continue.dev/",
-      "pageUrl": "continue.dev/",
-      "imageUrl": "https://pin.fontofweb.com/8680?format=jpg",
-      "colors": [
-        "#252525",
-        "#b3e3bc",
-        "#f3f3f3",
-        "#05bd48",
-        "#ffffff",
-        "#020817",
-        "#818181",
-        "#312e81"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 8679,
-      "title": "Continue • Quality control for your software factory. | Continue",
-      "domain": "continue.dev/",
-      "pageUrl": "continue.dev/",
-      "imageUrl": "https://pin.fontofweb.com/8679?format=jpg",
-      "colors": [
-        "#312e81",
-        "#b48ce3",
-        "#f87171",
-        "#666666",
-        "#ffffff",
-        "#ecb9ab",
-        "#05bd48",
-        "#b0aeae"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 8678,
-      "title": "Continue • Quality control for your software factory. | Continue",
-      "domain": "continue.dev/",
-      "pageUrl": "continue.dev/",
-      "imageUrl": "https://pin.fontofweb.com/8678?format=jpg",
-      "colors": [
-        "#514d9a",
-        "#ffffff",
-        "#b2aada",
-        "#161434",
-        "#f4f4f5",
-        "#020817",
-        "#242527",
-        "#f9f3f4"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Ibm Plex Mono",
-        "Monaco"
-      ]
-    },
-    {
-      "pinId": 6709,
-      "title": "Continue • About Us",
-      "domain": "continue.dev/about-us",
-      "pageUrl": "continue.dev/about-us",
-      "imageUrl": "https://pin.fontofweb.com/6709?format=jpg",
-      "colors": [
-        "#f3f3f3",
-        "#000000",
-        "#959595",
-        "#b9b9b9",
-        "#4c4c4c",
-        "#fafafa"
-      ],
-      "fonts": [
-        "System",
-        "Manrope"
-      ]
-    },
-    {
-      "pinId": 6708,
-      "title": "Continue • About Us",
-      "domain": "continue.dev/about-us",
-      "pageUrl": "continue.dev/about-us",
-      "imageUrl": "https://pin.fontofweb.com/6708?format=jpg",
-      "colors": [
-        "#626069",
-        "#29252d",
-        "#c69cbe",
-        "#784c72",
-        "#aeaeb2",
-        "#8a888f",
-        "#f5f5f5",
-        "#fafafa"
-      ],
-      "fonts": [
-        "Manrope",
-        "System"
-      ]
-    },
-    {
-      "pinId": 6707,
-      "title": "Continue • Ship as fast as you code",
-      "domain": "continue.dev/",
-      "pageUrl": "continue.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6707?format=jpg",
-      "colors": [
-        "#000000",
-        "#544f52",
-        "#586690",
-        "#1c1c1e",
-        "#f3f3f4",
-        "#b1b2b3",
-        "#4da264",
-        "#020817"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Ibm Plex Mono"
-      ]
-    }
-  ]
-}
-```
+Measured roles (home):
 
-## Representative captures
-[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8680?format=jpg)](https://design.withfudge.com/pin/8680)
-[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8680) — [source page](https://continue.dev/)
+- **Accent / primary action fill:** `#020817`
+- **Primary text:** `#020817`
+- **Secondary text:** `#0f172a` (also reads as deep navy family—visually near-black)
 
-[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8679?format=jpg)](https://design.withfudge.com/pin/8679)
-[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8679) — [source page](https://continue.dev/)
+Visually extended:
 
-[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8678?format=jpg)](https://design.withfudge.com/pin/8678)
-[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8678) — [source page](https://continue.dev/)
+- **Canvas:** soft light gray / off-white gradient wash behind hero
+- **Surfaces:** pure white product cards and art frames
+- **Art accents:** indigo/violet ink, graphite technical lines, magenta wash on About art
+- **Status in product mock:** soft red/pink “needs review” rows; green/red diff markers in code
 
-[![Continue • About Us](https://pin.fontofweb.com/6709?format=jpg)](https://design.withfudge.com/pin/6709)
-[Continue • About Us](https://design.withfudge.com/pin/6709) — [source page](https://continue.dev/about-us)
+The brand color story is essentially **black ink on paper** plus one artwork’s hue.
 
-[![Continue • About Us](https://pin.fontofweb.com/6708?format=jpg)](https://design.withfudge.com/pin/6708)
-[Continue • About Us](https://design.withfudge.com/pin/6708) — [source page](https://continue.dev/about-us)
+### Typography
 
-[![Continue • Ship as fast as you code](https://pin.fontofweb.com/6707?format=jpg)](https://design.withfudge.com/pin/6707)
-[Continue • Ship as fast as you code](https://design.withfudge.com/pin/6707) — [source page](https://continue.dev/)
+No declared families. Clear ladder:
+
+- **Display:** 56px / 58.8px lh and 64px / 67.2–70.4px lh, **weight 300**, letter-spacing about **−1.4 to −1.6px**
+- **Body:** 16px / 24px weight 400
+- **Deck / supporting:** 15–18px
+- **Eyebrow / meta:** 11–12px, sometimes with positive letter-spacing (~0.275–2.4px) for small-caps feel labels (“CONTINUOUS AI”, “ABOUT US”, “SAN FRANCISCO”)
+- **UI in mock:** 14px medium for controls
+
+The light display weight is the signature—do not bold the hero into a heavy SaaS slab.
+
+### Spacing and layout
+
+- Common vertical rhythm: **24px** margins/padding; section blocks with **40–56px** padding
+- Hero: split composition—copy left, art right; product UI card overlapping below
+- About: copy left + square art right; openings as full-width rows
+- Horizontal padding on cards often **20–24px**
+- Wide captures (1670–2048px) with lots of negative space
+
+## Visual language
+
+- **Radii:** pill CTAs **9999px**; small controls ~**6px**; product chrome softly rounded
+- **Borders:** 1px light gray hairlines on cards, job rows, and section rules
+- **Shadows:** soft stacked elevation on the product card (e.g. y:1 blur 2; y:4 blur 6 spread −4; y:10 blur 15 spread −3)—subtle, not neon glow
+- **Imagery:** signature abstract plots (ink + schematic grids); no stock photos of smiling teams
+- **Logo:** geometric mark + “Continue” wordmark, monochrome
+
+## Components and states
+
+- **Nav:** logo left; text links (Docs, Pricing, Blog, Sign in); minimal
+- **Hero CTA pair:** solid dark “Get started” + ghost/text “Test your PR →”
+- **Product preview card:** inbox/PR chrome, checklist sidebar, code diff panel
+- **About hero:** eyebrow label, light display title, two short paragraphs, framed art
+- **Backed-by row:** grayscale partner logos
+- **Job list:** bordered rows, title + one-line description, trailing arrow
+- **Footer:** simple text links + social icons on pale field
+
+States visible: default CTAs; list row hover not required to invent; review list shows “needs review” emphasis in the mock only.
+
+## Responsive behavior
+
+Multiple home and about viewports, all wide. The split hero (type | art) and overlapping product card are desktop compositions—on small screens stack art below type and keep the light display size scaled down rather than bolding up.
+
+## Practical guidance
+
+**Preserve**
+
+- Weight-300 oversized headlines with negative tracking
+- Pale paper canvas and near-black ink CTAs
+- Abstract technical art as brand theater
+- Quiet borders and soft card shadow only where product UI floats
+
+**Avoid**
+
+- Heavy bold heroes and saturated multi-color gradients
+- Crowded logo walls or loud illustration mashups
+- Turning the dark CTA into a bright startup blue/purple by default
+- Dense pricing-table energy on the marketing hero
+
+**Adaptation**
+
+- Keep `#020817` as both text and primary button fill for a monochrome authority feel
+- Use artwork hue sparingly (one accent family per page)
+- Match eyebrow labels with wide tracking small caps styling
+
+## Scope note
+
+Six captures: continue.dev home (hero, full viewport with product card, alternate hero art) and `/about-us` (team story + openings list). Measured navy/black text and accent `#020817` / `#0f172a`. No declared font families. Docs/app surfaces not included.
+
+## Captured pages
+
+[![Home — hero strip](https://pin.fontofweb.com/8680?format=jpg)](https://design.withfudge.com/share/pin-8680)
+
+[Home — hero strip](https://design.withfudge.com/share/pin-8680)
+
+[![Home — hero + product card](https://pin.fontofweb.com/8679?format=jpg)](https://design.withfudge.com/share/pin-8679)
+
+[Home — hero + product card](https://design.withfudge.com/share/pin-8679)
+
+[![Home — quality control hero](https://pin.fontofweb.com/8678?format=jpg)](https://design.withfudge.com/share/pin-8678)
+
+[Home — quality control hero](https://design.withfudge.com/share/pin-8678)
+
+[![About — join the team](https://pin.fontofweb.com/6708?format=jpg)](https://design.withfudge.com/share/pin-6708)
+
+[About — join the team](https://design.withfudge.com/share/pin-6708)
+
+[![About — openings list](https://pin.fontofweb.com/6709?format=jpg)](https://design.withfudge.com/share/pin-6709)
+
+[About — openings list](https://design.withfudge.com/share/pin-6709)
+
+[![Home — alternate wide](https://pin.fontofweb.com/6707?format=jpg)](https://design.withfudge.com/share/pin-6707)
+
+[Home — alternate wide](https://design.withfudge.com/share/pin-6707)
+
+## Colors
+
+- `#020817`
+- `#0f172a`
+- `#ffffff`

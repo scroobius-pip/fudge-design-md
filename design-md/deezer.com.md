@@ -1,238 +1,136 @@
 # How deezer.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/deezer.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/deezer.com-design)
 
-Source domain: [deezer.com](https://deezer.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-09
+## Design character
 
-<!--
-coverPin: 7886
--->
+Deezer is a music product that flips between two moods: a **bright, gallery-like onboarding and library shell**, and a **near-black marketing/offers stage** where huge type and soft brand glow do the selling. Across both, the brand stays simple — a purple heart mark, rounded selection rings, pill filters, and flat surfaces — so album art and photography carry emotion while chrome stays calm and legible.
 
-Here is the visual system observed across **6 captured pages** from [deezer.com](https://deezer.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#fdfcfe",
-  "#0f0d13",
-  "#ffffff",
-  "#656367",
-  "#a238ff",
-  "#6f6d71",
-  "#f5f2f8",
-  "#c7c5cb",
-  "#2d2d32",
-  "#121216",
-  "#a9a6aa",
-  "#ad47ff",
-  "#555257",
-  "#706e73",
-  "#ebe7ee"
-]
-```
+- A **purple brand accent** used sparingly (logo, selected rings, active toggles) on otherwise neutral UI.
+- **Dual canvas modes**: light gray/white product surfaces vs. pure black commercial pages.
+- **Circular media** for artists and avatars; rectangular cards for plans and settings groups.
+- **Huge display type** on marketing, quiet 14–16px UI type in product.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from deezer.com",
-  "sampleText": "deezer.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7886,
-      "domain": "deezer.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "21.328px",
-      "letterSpacing": "normal",
-      "frequency": 19
-    },
-    {
-      "family": "Deezer Product",
-      "familyId": 2336,
-      "pinId": 7886,
-      "domain": "deezer.com",
-      "weight": "700",
-      "size": "64px",
-      "lineHeight": "64px",
-      "letterSpacing": "normal",
-      "frequency": 70
-    },
-    {
-      "family": "Deezer Brand",
-      "familyId": 2335,
-      "pinId": 7883,
-      "domain": "deezer.com",
-      "weight": "700",
-      "size": "56px",
-      "lineHeight": "normal",
-      "letterSpacing": "0.25px",
-      "frequency": 88
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 70 |
-| Spacing values | 81 |
-| Borders and radii | 24 |
-| Shadows | 1 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7886,
-      "title": "Deezer",
-      "domain": "deezer.com/en/profile/6789862023/playlists",
-      "pageUrl": "deezer.com/en/profile/6789862023/playlists",
-      "imageUrl": "https://pin.fontofweb.com/7886?format=jpg",
-      "colors": [
-        "#0f0f0f",
-        "#c7c5cb",
-        "#545455",
-        "#692c98",
-        "#ad47ff",
-        "#8d8c8e",
-        "#000000",
-        "#656367"
-      ],
-      "fonts": [
-        "Inter",
-        "Deezer Product"
-      ]
-    },
-    {
-      "pinId": 7885,
-      "title": "Deezer",
-      "domain": "deezer.com/account",
-      "pageUrl": "deezer.com/account",
-      "imageUrl": "https://pin.fontofweb.com/7885?format=jpg",
-      "colors": [
-        "#dfa74e",
-        "#9750cf",
-        "#a238ff",
-        "#706e73",
-        "#d5d2d8",
-        "#c7c5cb",
-        "#e24040",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7884,
-      "title": "Deezer | Subscriptions and offers | Music streaming",
-      "domain": "deezer.com/en/offers",
-      "pageUrl": "deezer.com/en/offers",
-      "imageUrl": "https://pin.fontofweb.com/7884?format=jpg",
-      "colors": [
-        "#000000",
-        "#ffffff",
-        "#39363c",
-        "#6b2ba6",
-        "#fbfbfd",
-        "#a238ff",
-        "#121216",
-        "#0f0d13"
-      ],
-      "fonts": [
-        "Inter",
-        "Deezer Product"
-      ]
-    },
-    {
-      "pinId": 7883,
-      "title": "Deezer | Listen to music online | Music streaming app",
-      "domain": "deezer.com/en/",
-      "pageUrl": "deezer.com/en/",
-      "imageUrl": "https://pin.fontofweb.com/7883?format=jpg",
-      "colors": [
-        "#fdfcfe",
-        "#a238ff",
-        "#1a1a1e",
-        "#0f0d13",
-        "#121216",
-        "#183b1b",
-        "#5c475d",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter",
-        "Deezer Brand"
-      ]
-    },
-    {
-      "pinId": 7882,
-      "title": "Deezer | Listen to music online | Music streaming app",
-      "domain": "deezer.com/en/",
-      "pageUrl": "deezer.com/en/",
-      "imageUrl": "https://pin.fontofweb.com/7882?format=jpg",
-      "colors": [
-        "#121216",
-        "#000000",
-        "#88878a",
-        "#ca8afc",
-        "#b68dc4",
-        "#7191c1",
-        "#d09aff",
-        "#833d0d"
-      ],
-      "fonts": [
-        "Inter",
-        "Deezer Brand"
-      ]
-    },
-    {
-      "pinId": 7881,
-      "title": "Deezer | Listen to music online | Music streaming app",
-      "domain": "deezer.com/en/",
-      "pageUrl": "deezer.com/en/",
-      "imageUrl": "https://pin.fontofweb.com/7881?format=jpg",
-      "colors": [
-        "#a238ff",
-        "#656368",
-        "#a03afc",
-        "#0f0d13",
-        "#fdfdff",
-        "#c78ef5",
-        "#000000",
-        "#cccbce"
-      ],
-      "fonts": [
-        "Inter",
-        "Deezer Brand"
-      ]
-    }
-  ]
-}
-```
+Measured roles and palette:
 
-## Representative captures
-[![Deezer](https://pin.fontofweb.com/7886?format=jpg)](https://design.withfudge.com/pin/7886)
-[Deezer](https://design.withfudge.com/pin/7886) — [source page](https://deezer.com/en/profile/6789862023/playlists)
+| Role / swatch | Hex | Where it shows up |
+| --- | --- | --- |
+| Primary text (light product) | `#000000` | Headings, body, nav labels on light canvases |
+| Secondary text | `#656367` | Supporting copy, muted labels |
+| Primary text (dark commercial) | `#ffffff` | Offers headlines and plan titles on black |
+| Secondary on dark | `#a9a6aa` | Feature bullets and muted plan copy |
 
-[![Deezer](https://pin.fontofweb.com/7885?format=jpg)](https://design.withfudge.com/pin/7885)
-[Deezer](https://design.withfudge.com/pin/7885) — [source page](https://deezer.com/account)
+Visual reading from screenshots (not separately measured as roles):
 
-[![Deezer | Subscriptions and offers | Music streaming](https://pin.fontofweb.com/7884?format=jpg)](https://design.withfudge.com/pin/7884)
-[Deezer | Subscriptions and offers | Music streaming](https://design.withfudge.com/pin/7884) — [source page](https://deezer.com/en/offers)
+- **Canvas light**: cool light gray page background behind white cards and circular artist tiles.
+- **Canvas dark**: pure black offers hero with a soft purple radial glow behind the headline.
+- **Brand purple**: saturated violet/magenta for the heart logo, selected artist rings, and filled account toggles — the one chromatic constant across modes.
+- **CTA gray**: disabled/progress pills on onboarding read as medium gray until the user finishes selection.
 
-[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7883?format=jpg)](https://design.withfudge.com/pin/7883)
-[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7883) — [source page](https://deezer.com/en/)
+### Typography
 
-[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7882?format=jpg)](https://design.withfudge.com/pin/7882)
-[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7882) — [source page](https://deezer.com/en/)
+Font family names were not captured. Visually the system is a clean **sans-serif** stack.
 
-[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7881?format=jpg)](https://design.withfudge.com/pin/7881)
-[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7881) — [source page](https://deezer.com/en/)
+Observed sizes and weights:
+
+| Use | Size / weight | Notes |
+| --- | --- | --- |
+| Marketing display | ~120–160px, weight 700–800 | Ultra-large hero lines on home/offers |
+| Section display | 56–78px, weight 700 | Secondary heroes and plan titles |
+| Playlist empty title | 64px / 700 | Sparse library empty states |
+| Body / UI | 14–16px, weight 400–600 | Account rows, nav, filters |
+| Line height | ~1.25–1.5 on UI; tight/solid on display | Display often matches size (e.g. 64/64, 120/120) |
+
+Hierarchy is extreme on commercial pages and deliberately modest inside account/library chrome.
+
+### Spacing and layout
+
+Recurring measurements:
+
+- Horizontal padding clusters around **16 / 24 / 28 / 32px**; wider marketing gutters near **112–190px**.
+- Vertical section padding often **24 / 56 / 140px** on marketing; product panels use **16–24px** internal padding.
+- Centered content with large equal side margins (~160–570px depending on viewport and page).
+- Artist onboarding: multi-column circular grid with equal gaps; genre chips in a single horizontal row.
+- Account: narrow centered column of stacked white cards on a light gray field.
+- Library: left icon rail + main content; empty state centered in the remaining pane.
+
+## Visual language
+
+- **Radii**: 2, 4, 8, 12px on chips, inputs, cards; **256px** (full pill/circle) on avatars, artist discs, and toggles.
+- **Borders**: thin 1px separators; account controls also show heavier 2px outlines on circular controls.
+- **Surfaces**: mostly flat. Marketing uses soft brand glow rather than hard shadows; product cards sit as flat white panels on gray.
+- **Imagery**: photographic circular portraits dominate onboarding; offers rely on typography + glow with little chrome decoration.
+- **Selection**: purple ring + small heart badge on chosen artists; gray pill CTA counts remaining picks.
+
+## Components and states
+
+1. **Top brand bar** — purple heart + wordmark left; minimal or absent secondary chrome on focused flows.
+2. **Search field** — full-width light gray pill with leading magnifier.
+3. **Genre filter chips** — small rounded pills; one active (filled) vs. outline/idle.
+4. **Artist tile** — circular image, name caption, optional purple selection ring and heart.
+5. **Progress CTA** — bottom-centered pill (“CHOOSE N MORE ARTISTS”) disabled-looking until quota met.
+6. **Offers plan cards** — bordered rounded cards on black; bold price; checklist; dual CTAs (text link + filled).
+7. **Account card stack** — white rounded groups with row labels, chevrons, and pill toggles (off = gray track, on = purple fill).
+8. **Library shell** — dark icon sidebar, light main stage, empty-state illustration + primary text button.
+
+## Responsive behavior
+
+Captures include a narrower home (~1076px) and wide desktops (~2048px). Patterns that hold:
+
+- Marketing type scales down but stays display-scale.
+- Artist grid reduces column count; chips may wrap.
+- Account column stays centered single-rail rather than multi-column.
+- Sidebar library layout is a desktop product pattern; do not assume the same chrome on small mobile without further captures.
+
+## Practical guidance
+
+**Preserve**
+
+- Purple as the only strong accent on neutral gray/black/white structure.
+- Circular media for people/artists; reserve rectangles for settings and commerce.
+- Quiet product UI type with occasional oversized marketing display.
+- Empty states that stay sparse (illustration + one sentence + one button).
+
+**Avoid**
+
+- Rainbow accents or competing brand hues in chrome.
+- Heavy drop shadows or glassmorphism — the system is flat with soft glow at most.
+- Dense data tables on consumer surfaces; Deezer prefers cards, discs, and simple rows.
+- Using display sizes inside settings — account UI stays 14–16px.
+
+## Evidence scope
+
+Based on six captures: English home (multiple viewports), `/en/offers`, `/account`, and a playlists library empty state. Color roles cover primary/secondary text on light and dark; exact brand-purple hex was not returned as a measured role and should be sampled from brand assets if you need a token. Font family names were not available.
+
+## Captured pages
+
+[![Home — create your artist crew onboarding](https://pin.fontofweb.com/7883?format=jpg)](https://design.withfudge.com/share/pin-7883)
+
+[Home — create your artist crew onboarding](https://design.withfudge.com/share/pin-7883)
+
+[![Offers — Individual plan on dark stage](https://pin.fontofweb.com/7884?format=jpg)](https://design.withfudge.com/share/pin-7884)
+
+[Offers — Individual plan on dark stage](https://design.withfudge.com/share/pin-7884)
+
+[![Account — settings cards and toggles](https://pin.fontofweb.com/7885?format=jpg)](https://design.withfudge.com/share/pin-7885)
+
+[Account — settings cards and toggles](https://design.withfudge.com/share/pin-7885)
+
+[![Playlists — empty library shell](https://pin.fontofweb.com/7886?format=jpg)](https://design.withfudge.com/share/pin-7886)
+
+[Playlists — empty library shell](https://design.withfudge.com/share/pin-7886)
+
+## Colors
+
+- `#000000`
+- `#656367`
+- `#ffffff`
+- `#a9a6aa`

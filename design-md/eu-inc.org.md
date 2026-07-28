@@ -1,170 +1,73 @@
 # How eu-inc.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/eu-inc.org-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/eu-inc.org-design)
 
-Source domain: [eu-inc.org](https://eu-inc.org)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-20
+## Design character
 
-<!--
-coverPin: 8207
--->
+EU–INC reads like a political/civic campaign site more than a startup landing page. A bright white field carries bold, slightly condensed display type, short manifesto lines, and EU-associated blue accents. The composition is poster-like: big claim, supporting strip, clear next step.
 
-Here is the visual system observed across **2 captured pages** from [eu-inc.org](https://eu-inc.org).
+What should survive adaptation:
+- White civic canvas with confident black type
+- Blue as the only strong accent (EU signal)
+- Poster hierarchy — few words, large size
+- Generous section padding (30–100px vertical bands)
 
-```fudge-colors
-[
-  "#000000",
-  "#f5f5f5",
-  "#5e5e5e",
-  "#111111",
-  "#999999",
-  "#6b645c",
-  "#d7b482",
-  "#242121",
-  "#7f95c3",
-  "#862029",
-  "#f4f4f4",
-  "#a67460",
-  "#383d59",
-  "#621c88",
-  "#adada7",
-  "#151515"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from eu-inc.org",
-  "sampleText": "eu-inc.org",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8207,
-      "domain": "eu-inc.org",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 35
-    },
-    {
-      "family": "Apfel Grotezk",
-      "familyId": 1337,
-      "pinId": 8207,
-      "domain": "eu-inc.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 31
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8207,
-      "domain": "eu-inc.org",
-      "weight": "600",
-      "size": "22px",
-      "lineHeight": "26.4px",
-      "letterSpacing": "-0.44px",
-      "frequency": 11
-    },
-    {
-      "family": "Custom Apfel Grotezk",
-      "familyId": 2394,
-      "pinId": 8207,
-      "domain": "eu-inc.org",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 33
-    },
-    {
-      "family": "Mono Spec",
-      "familyId": 2393,
-      "pinId": 8206,
-      "domain": "eu-inc.org",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "16.8px",
-      "letterSpacing": "normal",
-      "frequency": 3
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 19 |
-| Spacing values | 9 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 2 |
+Structured roles unsupported. Visually:
+- White background
+- Near-black primary type
+- EU blue for links, key UI, and accent marks
+- Light gray rules or panels for separation
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8207,
-      "title": "EU–INC — One Europe. One Standard. — Pan-European legal entity.",
-      "domain": "eu-inc.org/",
-      "pageUrl": "eu-inc.org/",
-      "imageUrl": "https://pin.fontofweb.com/8207?format=jpg",
-      "colors": [
-        "#6b645c",
-        "#111111",
-        "#d7b482",
-        "#000000",
-        "#242121",
-        "#7f95c3",
-        "#862029",
-        "#f4f4f4"
-      ],
-      "fonts": [
-        "System",
-        "Apfel Grotezk",
-        "Inter",
-        "Custom Apfel Grotezk"
-      ]
-    },
-    {
-      "pinId": 8206,
-      "title": "EU–INC — One Europe. One Standard. — Pan-European legal entity.",
-      "domain": "eu-inc.org/",
-      "pageUrl": "eu-inc.org/",
-      "imageUrl": "https://pin.fontofweb.com/8206?format=jpg",
-      "colors": [
-        "#151515",
-        "#111111",
-        "#f5f5f5",
-        "#000000",
-        "#464646",
-        "#5e5e5e",
-        "#999999",
-        "#818181"
-      ],
-      "fonts": [
-        "System",
-        "Mono Spec",
-        "Inter",
-        "Apfel Grotezk",
-        "Custom Apfel Grotezk"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8207?format=jpg)](https://design.withfudge.com/pin/8207)
-[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8207) — [source page](https://eu-inc.org/)
+Families not declared. Observed:
+- Body ~16/24 at 400
+- Emphasized mid-heads ~22px weight 600
+- Small labels ~12px
+- Display on the hero is visually much larger and tighter — campaign headline energy
 
-[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8206?format=jpg)](https://design.withfudge.com/pin/8206)
-[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8206) — [source page](https://eu-inc.org/)
+### Spacing and layout
+
+- Padding bands: 30 top / 58 bottom with 20px sides on content shells
+- Larger sections push toward 100px bottom padding
+- 40px left padding on some inset blocks
+- Centered manifesto column rather than app-like grids
+
+## Visual language
+
+Flat, high-contrast, low decoration. Borders are thin when present; radii are minimal. Imagery, if any, is symbolic rather than product screenshots.
+
+## Components and states
+
+- Simple top identity + language/nav
+- Hero manifesto block
+- Secondary explanation sections
+- Clear text or filled blue CTA
+
+Static only.
+
+## Practical guidance
+
+**Preserve** civic white + blue accent + bold short claims.  
+**Avoid** startup purple gradients, glassmorphism, and playful illustration systems.  
+**Adaptation** fits policy, nonprofit, and pan-European product coalitions.
+
+## Scope note
+
+Two home captures only. Inner pages and mobile breakpoints not studied. Colors/fonts from visual reading plus spacing measurements.
+
+## Captured pages
+
+[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8207?format=jpg)](https://design.withfudge.com/share/pin-8207)
+
+[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/share/pin-8207)
+
+[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8206?format=jpg)](https://design.withfudge.com/share/pin-8206)
+
+[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/share/pin-8206)

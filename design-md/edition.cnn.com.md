@@ -1,201 +1,103 @@
 # How edition.cnn.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/edition.cnn.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/edition.cnn.com-design)
 
-Source domain: [edition.cnn.com](https://edition.cnn.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-27
+# How edition.cnn.com is designed
 
-<!--
-coverPin: 9108
--->
+## Design character
 
-Here is the visual system observed across **5 captured pages** from [edition.cnn.com](https://edition.cnn.com).
+CNN Edition article pages are classic digital newsprint: white reading column, CNN red brand spark, strong serif/sans news hierarchy, and a right-rail of related stories and utilities. The system prioritizes scannable headlines and trustworthy article structure over marketing flourish.
 
-```fudge-colors
-[
-  "#000000",
-  "#0c0c0c",
-  "#6e6e6e",
-  "#fefefe",
-  "#232323",
-  "#4f4f4f",
-  "#8b8b8b",
-  "#b9b9b9",
-  "#818181",
-  "#b6b6b6",
-  "#5c5c5c",
-  "#808080",
-  "#444444",
-  "#afafaf",
-  "#222222",
-  "#636363"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from edition.cnn.com",
-  "sampleText": "edition.cnn.com",
-  "fonts": [
-    {
-      "family": "Noto Serif",
-      "familyId": 2144,
-      "pinId": 9108,
-      "domain": "edition.cnn.com",
-      "weight": "400",
-      "size": "18px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 203
-    },
-    {
-      "family": "Cnn Sans W 04",
-      "familyId": 2507,
-      "pinId": 9107,
-      "domain": "edition.cnn.com",
-      "weight": "400",
-      "size": "18px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 34
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 34 |
-| Spacing values | 11 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+No structured palette; visual:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9108,
-      "title": "EOPL: The lawless floating gas station where the Iranian shadow fleet trades oil | CNN",
-      "domain": "edition.cnn.com/2026/04/27/asia/eopl-oil-iran-shadow-fleet-war-intl-hnk",
-      "pageUrl": "edition.cnn.com/2026/04/27/asia/eopl-oil-iran-shadow-fleet-war-intl-hnk",
-      "imageUrl": "https://pin.fontofweb.com/9108?format=jpg",
-      "colors": [
-        "#4f4f4f",
-        "#0c0c0c",
-        "#000000",
-        "#fefefe",
-        "#8b8b8b",
-        "#b9b9b9",
-        "#232323"
-      ],
-      "fonts": [
-        "Noto Serif"
-      ]
-    },
-    {
-      "pinId": 9107,
-      "title": "Measles vaccine: Record-breaking outbreak may have driven uptake | CNN",
-      "domain": "edition.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over",
-      "pageUrl": "edition.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over",
-      "imageUrl": "https://pin.fontofweb.com/9107?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#818181",
-        "#000000",
-        "#b6b6b6",
-        "#0c0c0c",
-        "#232323",
-        "#5c5c5c"
-      ],
-      "fonts": [
-        "Noto Serif",
-        "Cnn Sans W 04"
-      ]
-    },
-    {
-      "pinId": 9106,
-      "title": "Kentucky Derby favorite Renegade faces uphill battle after drawing unfavorable starting position | CNN",
-      "domain": "edition.cnn.com/2026/04/25/sport/renegade-kentucky-derby-draw",
-      "pageUrl": "edition.cnn.com/2026/04/25/sport/renegade-kentucky-derby-draw",
-      "imageUrl": "https://pin.fontofweb.com/9106?format=jpg",
-      "colors": [
-        "#808080",
-        "#000000",
-        "#fefefe",
-        "#444444",
-        "#afafaf",
-        "#222222",
-        "#636363",
-        "#0c0c0c"
-      ],
-      "fonts": [
-        "Noto Serif",
-        "Cnn Sans W 04"
-      ]
-    },
-    {
-      "pinId": 9105,
-      "title": "A Supreme Court case over pesticides is bringing out the ‘MAHA moms’ — and threats of consequences for the midterms | CNN Politics",
-      "domain": "edition.cnn.com/2026/04/27/politics/roundup-pesticides-maha-supreme-court",
-      "pageUrl": "edition.cnn.com/2026/04/27/politics/roundup-pesticides-maha-supreme-court",
-      "imageUrl": "https://pin.fontofweb.com/9105?format=jpg",
-      "colors": [
-        "#062058",
-        "#000000",
-        "#3a4752",
-        "#fefefd",
-        "#6e7171",
-        "#636d91",
-        "#bdb8b2",
-        "#1f1f21"
-      ],
-      "fonts": [
-        "Noto Serif",
-        "Cnn Sans W 04"
-      ]
-    },
-    {
-      "pinId": 9104,
-      "title": "Adidas share price boosted by new world record in London Marathon | CNN Business",
-      "domain": "edition.cnn.com/2026/04/27/business/adidas-share-price-london-marathon-intl",
-      "pageUrl": "edition.cnn.com/2026/04/27/business/adidas-share-price-london-marathon-intl",
-      "imageUrl": "https://pin.fontofweb.com/9104?format=jpg",
-      "colors": [
-        "#ca6756",
-        "#b1b36c",
-        "#c58d8d",
-        "#0c0c0c",
-        "#000000",
-        "#cac7c1",
-        "#2e2c2a",
-        "#6f783a"
-      ],
-      "fonts": [
-        "Noto Serif",
-        "Cnn Sans W 04"
-      ]
-    }
-  ]
-}
-```
+- **Canvas:** white
+- **Brand:** CNN red on logo and key markers
+- **Body text:** near-black
+- **Meta / timestamps:** medium gray
+- **Links and accents:** blue/red sparingly in article tools
+- **Borders:** light gray rules separating rail and modules
 
-## Representative captures
-[![EOPL: The lawless floating gas station where the Iranian shadow fleet trades oil | CNN](https://pin.fontofweb.com/9108?format=jpg)](https://design.withfudge.com/pin/9108)
-[EOPL: The lawless floating gas station where the Iranian shadow fleet trades oil | CNN](https://design.withfudge.com/pin/9108) — [source page](https://edition.cnn.com/2026/04/27/asia/eopl-oil-iran-shadow-fleet-war-intl-hnk)
+### Typography
 
-[![Measles vaccine: Record-breaking outbreak may have driven uptake | CNN](https://pin.fontofweb.com/9107?format=jpg)](https://design.withfudge.com/pin/9107)
-[Measles vaccine: Record-breaking outbreak may have driven uptake | CNN](https://design.withfudge.com/pin/9107) — [source page](https://edition.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over)
+- Body copy consistently **18px** with ~32px line-height (weight 400)—very readable news measure
+- Bold 18px / ~30px for strong inline or subhead emphasis
+- Large article titles dominate the header (visual display size above the body)
+- Byline and timestamp smaller, muted
 
-[![Kentucky Derby favorite Renegade faces uphill battle after drawing unfavorable starting position | CNN](https://pin.fontofweb.com/9106?format=jpg)](https://design.withfudge.com/pin/9106)
-[Kentucky Derby favorite Renegade faces uphill battle after drawing unfavorable starting position | CNN](https://design.withfudge.com/pin/9106) — [source page](https://edition.cnn.com/2026/04/25/sport/renegade-kentucky-derby-draw)
+### Spacing and layout
 
-[![A Supreme Court case over pesticides is bringing out the ‘MAHA moms’ — and threats of consequences for the midterms | CNN Politics](https://pin.fontofweb.com/9105?format=jpg)](https://design.withfudge.com/pin/9105)
-[A Supreme Court case over pesticides is bringing out the ‘MAHA moms’ — and threats of consequences for the midterms | CNN Politics](https://design.withfudge.com/pin/9105) — [source page](https://edition.cnn.com/2026/04/27/politics/roundup-pesticides-maha-supreme-court)
+- Vertical rhythm driven by **24px** margins between blocks
+- Article column + right sidebar on desktop-width captures (~660px artboards suggest cropped article chrome)
+- Media blocks interrupt text with captions beneath
+- Related modules stack cleanly under or beside the story
 
-[![Adidas share price boosted by new world record in London Marathon | CNN Business](https://pin.fontofweb.com/9104?format=jpg)](https://design.withfudge.com/pin/9104)
-[Adidas share price boosted by new world record in London Marathon | CNN Business](https://design.withfudge.com/pin/9104) — [source page](https://edition.cnn.com/2026/04/27/business/adidas-share-price-london-marathon-intl)
+## Visual language
+
+- Lede image with caption
+- Clean horizontal rules
+- Compact “follow / share / save” tool clusters
+- Thumbnail + headline lists in the rail
+- Minimal illustration; photography and video stills carry visuals
+
+## Components and states
+
+- Global CNN header (logo, sections, account)
+- Article header: eyebrow, title, byline, timestamp
+- Inline lead media
+- Body paragraphs with pull tools
+- Right rail: more stories, newsletters, ads/modules
+- Footer site map (beyond crop in some shots)
+
+## Responsive behavior
+
+Captures are relatively narrow article crops. Expect the rail to drop under the article on smaller viewports; exact breakpoints not measured.
+
+## Practical guidance
+
+**Preserve**
+
+- 18/32 body reading rhythm
+- Red logo as rare saturated brand mark
+- Clear title → byline → media → body sequence
+- 24px stacking between major blocks
+
+**Avoid**
+
+- Startup card grids on article bodies
+- Over-stylized drop caps or editorial gimmicks that hurt scan speed
+- Dark theme assumptions from these captures
+
+## Scope note
+
+Five article URLs across politics, health, sport, business, and world. Shared article chrome is the design system; homepages were not in the capture set.
+
+## Captured pages
+
+[![Politics article](https://pin.fontofweb.com/9105?format=jpg)](https://design.withfudge.com/share/pin-9105)
+
+[Politics article](https://design.withfudge.com/share/pin-9105)
+
+[![Health article](https://pin.fontofweb.com/9107?format=jpg)](https://design.withfudge.com/share/pin-9107)
+
+[Health article](https://design.withfudge.com/share/pin-9107)
+
+[![World/Asia article](https://pin.fontofweb.com/9108?format=jpg)](https://design.withfudge.com/share/pin-9108)
+
+[World/Asia article](https://design.withfudge.com/share/pin-9108)
+
+[![Sport article](https://pin.fontofweb.com/9106?format=jpg)](https://design.withfudge.com/share/pin-9106)
+
+[Sport article](https://design.withfudge.com/share/pin-9106)
+
+## Colors
+
+- `#cc0000`
+- `#ffffff`
+- `#0c0c0c`
+- `#6b6b6b`

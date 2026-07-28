@@ -1,190 +1,80 @@
 # How agenticui.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/agenticui.net-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/agenticui.net-design)
 
-Source domain: [agenticui.net](https://agenticui.net)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-21
+## Design character
 
-<!--
-coverPin: 5933
--->
+Agentic UI presents as a **cinematic dark product teaser**: full-bleed moody photography, huge white wordmark typography stacked vertically, and almost no traditional marketing chrome. It feels like a fashion/editorial launch for a design system or product drop—mystery first, utility later (preorder path).
 
-Here is the visual system observed across **4 captured pages** from [agenticui.net](https://agenticui.net).
+What should survive:
 
-```fudge-colors
-[
-  "#000000",
-  "#616161",
-  "#191919",
-  "#8c8c8c",
-  "#0000ee",
-  "#f7f7f7",
-  "#b7b7b7",
-  "#7d7d7d",
-  "#4f4f4f",
-  "#2c2c2c",
-  "#070707",
-  "#818181",
-  "#b4b4b4",
-  "#5b5b5b",
-  "#161616",
-  "#f8f8f8"
-]
-```
+- Dark photographic full-bleed grounds.
+- Oversized, tightly leading display type as the brand.
+- Minimal nav; preorder as a quiet destination rather than a busy funnel.
+- High contrast white type on image, not busy cards.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from agenticui.net",
-  "sampleText": "agenticui.net",
-  "fonts": [
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 5933,
-      "domain": "agenticui.net",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "normal",
-      "frequency": 9
-    },
-    {
-      "family": "Ibm Plex Mono",
-      "familyId": 75,
-      "pinId": 5932,
-      "domain": "agenticui.net",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "11px",
-      "letterSpacing": "0.2px",
-      "frequency": 1
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 5930,
-      "domain": "agenticui.net",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "19.6px",
-      "letterSpacing": "-0.3px",
-      "frequency": 10
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 26 |
-| Spacing values | 0 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 5933,
-      "title": "Agentic Design System",
-      "domain": "agenticui.net/",
-      "pageUrl": "agenticui.net/",
-      "imageUrl": "https://pin.fontofweb.com/5933?format=jpg",
-      "colors": [
-        "#4f4f4f",
-        "#2c2c2c",
-        "#070707",
-        "#000000",
-        "#f7f7f7",
-        "#818181",
-        "#b4b4b4",
-        "#191919"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 5932,
-      "title": "Agentic Design System",
-      "domain": "agenticui.net/",
-      "pageUrl": "agenticui.net/",
-      "imageUrl": "https://pin.fontofweb.com/5932?format=jpg",
-      "colors": [
-        "#000000",
-        "#5b5b5b",
-        "#191919",
-        "#b7b7b7",
-        "#161616",
-        "#f8f8f8",
-        "#858686",
-        "#0000ee"
-      ],
-      "fonts": [
-        "Ibm Plex Mono",
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 5931,
-      "title": "Preorder Agentic UI",
-      "domain": "agenticui.net/preorder",
-      "pageUrl": "agenticui.net/preorder",
-      "imageUrl": "https://pin.fontofweb.com/5931?format=jpg",
-      "colors": [
-        "#8c8c8c",
-        "#f7f7f7",
-        "#b0b0b0",
-        "#6b6b6b",
-        "#171717",
-        "#616161",
-        "#7d7d7d",
-        "#000000"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 5930,
-      "title": "Preorder Agentic UI",
-      "domain": "agenticui.net/preorder",
-      "pageUrl": "agenticui.net/preorder",
-      "imageUrl": "https://pin.fontofweb.com/5930?format=jpg",
-      "colors": [
-        "#f4f4f4",
-        "#444444",
-        "#0000ee",
-        "#b7b7b7",
-        "#1b1b1b",
-        "#000000",
-        "#686868",
-        "#616161"
-      ],
-      "fonts": [
-        "Ibm Plex Mono",
-        "Geist",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+- **Ground**: black / image-driven darks.
+- **Type**: white primary; small secondary labels.
+- Sparse UI—few measured role colors returned; the system is photo + type.
 
-## Representative captures
-[![Agentic Design System](https://pin.fontofweb.com/5933?format=jpg)](https://design.withfudge.com/pin/5933)
-[Agentic Design System](https://design.withfudge.com/pin/5933) — [source page](https://agenticui.net/)
+### Typography
 
-[![Agentic Design System](https://pin.fontofweb.com/5932?format=jpg)](https://design.withfudge.com/pin/5932)
-[Agentic Design System](https://design.withfudge.com/pin/5932) — [source page](https://agenticui.net/)
+- Massive display sans/serif hybrid feel in stacked “AGENTIC” style lettering (visual).
+- Body/UI sparse ~13–16px where present on preorder.
+- Letterspacing and scale do more work than weight variety.
 
-[![Preorder Agentic UI](https://pin.fontofweb.com/5931?format=jpg)](https://design.withfudge.com/pin/5931)
-[Preorder Agentic UI](https://design.withfudge.com/pin/5931) — [source page](https://agenticui.net/preorder)
+### Spacing and layout
 
-[![Preorder Agentic UI](https://pin.fontofweb.com/5930?format=jpg)](https://design.withfudge.com/pin/5930)
-[Preorder Agentic UI](https://design.withfudge.com/pin/5930) — [source page](https://agenticui.net/preorder)
+- Full-viewport heroes; content centered or dramatically placed on the photo.
+- Little conventional grid chrome on the landing captures.
+- Preorder views introduce simpler form-like spacing without dense app structure.
+
+## Visual language
+
+- Editorial photography (figures, atmosphere).
+- Typography as graphic poster.
+- Near-absent borders/shadows on the marketing surface.
+
+## Components and states
+
+1. **Poster home** — full-bleed image + giant identity type.
+2. **Preorder** — reduced page for intent capture; still dark and minimal.
+3. **Minimal nav/footer** if present—never competing with the poster.
+
+## Responsive behavior
+
+Home and preorder at wide and mid widths. The poster idea scales by cropping photography and reflowing giant type; detailed mobile components not richly documented.
+
+## Practical guidance
+
+**Preserve** poster-level type, photographic darkness, and restraint.  
+**Avoid** turning the brand into a generic SaaS feature grid on first paint.  
+**Adapt** preorder to stay on-brand: few fields, same dark field, one clear action.
+
+## Scope note
+
+Four captures (home + preorder). Structured color/type roles were thin—guide relies on screenshot reading of the cinematic system.
+
+## Captured pages
+
+[![Home — cinematic poster](https://pin.fontofweb.com/5932?format=jpg)](https://design.withfudge.com/share/pin-5932)
+
+[Home — cinematic poster](https://design.withfudge.com/share/pin-5932)
+
+[![Home — mid width](https://pin.fontofweb.com/5933?format=jpg)](https://design.withfudge.com/share/pin-5933)
+
+[Home — mid width](https://design.withfudge.com/share/pin-5933)
+
+[![Preorder — wide](https://pin.fontofweb.com/5930?format=jpg)](https://design.withfudge.com/share/pin-5930)
+
+[Preorder — wide](https://design.withfudge.com/share/pin-5930)
+
+[![Preorder — compact](https://pin.fontofweb.com/5931?format=jpg)](https://design.withfudge.com/share/pin-5931)
+
+[Preorder — compact](https://design.withfudge.com/share/pin-5931)

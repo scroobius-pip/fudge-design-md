@@ -1,200 +1,100 @@
 # How frankchimero.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/frankchimero.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/frankchimero.com-design)
 
-Source domain: [frankchimero.com](https://frankchimero.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-27
+## Design character
 
-<!--
-coverPin: 7427
--->
+frankchimero.com is a **quiet personal studio site**: generous padding, bookish pacing, and almost no chrome. The system reads as essay-first design — light paper canvas, single-column reading measure, restrained sans at 14–18px, and large breathing room (often 64px padding). It feels human, slow, and intentionally under-designed compared to SaaS landings.
 
-Here is the visual system observed across **5 captured pages** from [frankchimero.com](https://frankchimero.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#cccccc",
-  "#555555",
-  "#ffffff",
-  "#202020",
-  "#010101",
-  "#747474",
-  "#454545",
-  "#a1a1a1",
-  "#878787",
-  "#ababab",
-  "#6a6a6a",
-  "#373737",
-  "#9b9b9b",
-  "#6e6e6e",
-  "#353535"
-]
-```
+- Paper-light canvas and long vertical rhythm.
+- Body-first type (14–16px/1.5) with occasional 18–24px titles.
+- **64px** padding as a signature spacious inset.
+- Minimal navigation; content is the interface.
+- No loud accents, cards, or growth-hack CTAs.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from frankchimero.com",
-  "sampleText": "frankchimero.com",
-  "fonts": [
-    {
-      "family": "Ibm Plex Sans",
-      "familyId": 669,
-      "pinId": 7427,
-      "domain": "frankchimero.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 370
-    },
-    {
-      "family": "Martina Plantijn",
-      "familyId": 2259,
-      "pinId": 7426,
-      "domain": "frankchimero.com",
-      "weight": "400",
-      "size": "24px",
-      "lineHeight": "28.8px",
-      "letterSpacing": "normal",
-      "frequency": 16
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 31 |
-| Spacing values | 16 |
-| Borders and radii | 3 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7427,
-      "title": "Frank Chimero · Home",
-      "domain": "frankchimero.com/",
-      "pageUrl": "frankchimero.com/",
-      "imageUrl": "https://pin.fontofweb.com/7427?format=jpg",
-      "colors": [
-        "#747474",
-        "#202020",
-        "#010101",
-        "#cccccc",
-        "#454545",
-        "#a1a1a1",
-        "#000000",
-        "#555555"
-      ],
-      "fonts": [
-        "Ibm Plex Sans"
-      ]
-    },
-    {
-      "pinId": 7426,
-      "title": "Frank Chimero · Home",
-      "domain": "frankchimero.com/",
-      "pageUrl": "frankchimero.com/",
-      "imageUrl": "https://pin.fontofweb.com/7426?format=jpg",
-      "colors": [
-        "#000000",
-        "#878787",
-        "#ababab",
-        "#555555",
-        "#cccccc",
-        "#6a6a6a",
-        "#373737"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Martina Plantijn"
-      ]
-    },
-    {
-      "pinId": 7425,
-      "title": "Frank Chimero · Home",
-      "domain": "frankchimero.com/",
-      "pageUrl": "frankchimero.com/",
-      "imageUrl": "https://pin.fontofweb.com/7425?format=jpg",
-      "colors": [
-        "#9b9b9b",
-        "#6e6e6e",
-        "#353535",
-        "#cccccc",
-        "#010101",
-        "#000000"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Martina Plantijn"
-      ]
-    },
-    {
-      "pinId": 7424,
-      "title": "Frank Chimero · Home",
-      "domain": "frankchimero.com/",
-      "pageUrl": "frankchimero.com/",
-      "imageUrl": "https://pin.fontofweb.com/7424?format=jpg",
-      "colors": [
-        "#e1e4e4",
-        "#757676",
-        "#000000",
-        "#cccccc",
-        "#262626",
-        "#ffffff",
-        "#afd1cd",
-        "#c1bec6"
-      ],
-      "fonts": [
-        "Martina Plantijn",
-        "Ibm Plex Sans"
-      ]
-    },
-    {
-      "pinId": 7423,
-      "title": "Frank Chimero · Home",
-      "domain": "frankchimero.com/",
-      "pageUrl": "frankchimero.com/",
-      "imageUrl": "https://pin.fontofweb.com/7423?format=jpg",
-      "colors": [
-        "#b2d7ed",
-        "#7ca1c1",
-        "#cccccc",
-        "#575657",
-        "#010101",
-        "#913d59",
-        "#000000",
-        "#555555"
-      ],
-      "fonts": [
-        "Ibm Plex Sans",
-        "Martina Plantijn"
-      ]
-    }
-  ]
-}
-```
+No structured colors. Visual system is near-monochrome:
 
-## Representative captures
-[![Frank Chimero · Home](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/pin/7427)
-[Frank Chimero · Home](https://design.withfudge.com/pin/7427) — [source page](https://frankchimero.com/)
+| Role | Approx | Use |
+|------|--------|-----|
+| Canvas | `#f7f4ef` – `#ffffff` | Page |
+| Ink | `#1a1a1a` | Body/titles |
+| Muted | `#666666` | Meta, secondary |
+| Rule | `#e5e5e5` | Rare dividers |
 
-[![Frank Chimero · Home](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/pin/7426)
-[Frank Chimero · Home](https://design.withfudge.com/pin/7426) — [source page](https://frankchimero.com/)
+### Typography
 
-[![Frank Chimero · Home](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/pin/7425)
-[Frank Chimero · Home](https://design.withfudge.com/pin/7425) — [source page](https://frankchimero.com/)
+| Role | Size | Weight | LH |
+|------|------|--------|-----|
+| Body | 16px | 400 | 24px |
+| Small / meta | 14px | 400 | 21–24px |
+| Lead / title | 18–24px | 400 | ~27–29px |
 
-[![Frank Chimero · Home](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/pin/7424)
-[Frank Chimero · Home](https://design.withfudge.com/pin/7424) — [source page](https://frankchimero.com/)
+No black display shouting — hierarchy is subtle size and space.
 
-[![Frank Chimero · Home](https://pin.fontofweb.com/7423?format=jpg)](https://design.withfudge.com/pin/7423)
-[Frank Chimero · Home](https://design.withfudge.com/pin/7423) — [source page](https://frankchimero.com/)
+### Spacing and layout
+
+- Signature **64px** padding on major containers.
+- Secondary 12px vertical padding on tighter stacks; 18px margins between blocks.
+- Single reading column; home is a vertical index of writing/work.
+
+## Visual language
+
+- Essentially borderless and shadowless.
+- Photography or project stills appear as simple blocks when present.
+- Empty space is a material.
+
+## Components and states
+
+1. Sparse header identity.
+2. Linked list / index of essays and projects.
+3. Long-form text blocks.
+4. Quiet footer.
+
+No complex interactive components in captures.
+
+## Responsive behavior
+
+Desktop captures ~960–1712px. The 64px inset should reduce on narrow viewports but keep the airy single-column feel.
+
+## Practical guidance
+
+**Preserve** paper calm, 64px breath, body-size honesty, minimal chrome.  
+**Avoid** card grids, gradient heroes, sticky conversion bars, oversized marketing display.
+
+## Scope note
+
+Five home captures at different scrolls/widths. Color roles and radii largely unsupported — character is screenshot-evident whitespace and type.
+
+## Captured pages
+
+[![Home reading index](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/share/pin-7426)
+
+[Home reading index](https://design.withfudge.com/share/pin-7426)
+
+[![Home alternate scroll](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/share/pin-7425)
+
+[Home alternate scroll](https://design.withfudge.com/share/pin-7425)
+
+[![Shorter crop](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/share/pin-7427)
+
+[Shorter crop](https://design.withfudge.com/share/pin-7427)
+
+[![Narrower frame](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/share/pin-7424)
+
+[Narrower frame](https://design.withfudge.com/share/pin-7424)
+
+## Colors
+
+- `#f7f4ef`
+- `#ffffff`
+- `#1a1a1a`
+- `#666666`
+- `#e5e5e5`

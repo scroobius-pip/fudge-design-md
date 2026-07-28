@@ -1,156 +1,68 @@
 # How capy.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/capy.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/capy.ai-design)
 
-Source domain: [capy.ai](https://capy.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-06
+## Design character
 
-<!--
-coverPin: 7791
--->
+Capy positions an IDE for “the parallel age” with a **black, teal-accented developer marketing system**. Huge display type (up to ~76px), teal `#63c8c1` accent, muted gray body (`#5d5d5d`/`#6b6b6b`), and product UI screenshots. It feels sharp, modern, and tool-like—not playful animal mascot chaos despite the name.
 
-Here is the visual system observed across **2 captured pages** from [capy.ai](https://capy.ai).
+What should survive adaptation:
+- Black canvas + white/light headlines
+- Single teal accent
+- Very large display heroes
+- Compact radii (3–12px, some 18)
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#63c8c1",
-  "#267b7a",
-  "#dedede",
-  "#fafafa",
-  "#3d3d3d",
-  "#a3a3a3",
-  "#6b6b6b",
-  "#e7e7e7",
-  "#181818",
-  "#d1d1d1",
-  "#f5f5f5",
-  "#888888",
-  "#5d5d5d",
-  "#030303"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from capy.ai",
-  "sampleText": "capy.ai",
-  "fonts": [
-    {
-      "family": "Abc Social Mono Unlicensed",
-      "familyId": 2315,
-      "pinId": 7791,
-      "domain": "capy.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 8
-    },
-    {
-      "family": "Bebas Neue",
-      "familyId": 2316,
-      "pinId": 7791,
-      "domain": "capy.ai",
-      "weight": "400",
-      "size": "32px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    },
-    {
-      "family": "Cc Wild Words",
-      "familyId": 2317,
-      "pinId": 7791,
-      "domain": "capy.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 6
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7790,
-      "domain": "capy.ai",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "15px",
-      "letterSpacing": "normal",
-      "frequency": 19
-    }
-  ]
-}
-```
+### Color
+Measured: accent `#63c8c1`; text `#000000` (on light cards), `#5d5d5d`, `#181818`, `#6b6b6b`.
+Overall page reads dark with light text; nested cards may invert. Teal for links, highlights, key UI gleams.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 32 |
-| Spacing values | 47 |
-| Borders and radii | 16 |
-| Shadows | 5 |
-| Gradients | 0 |
+### Typography
+Weights 400–600. Sizes from micro 8–10px up through 14–18 body to **24–32** subheads and **~76px** display. Tracking on display appears tight.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7791,
-      "title": "Capy Pricing | Plans for Individuals and Teams",
-      "domain": "capy.ai/pricing",
-      "pageUrl": "capy.ai/pricing",
-      "imageUrl": "https://pin.fontofweb.com/7791?format=jpg",
-      "colors": [
-        "#63c8c1",
-        "#888888",
-        "#e7e7e7",
-        "#d1aae3",
-        "#030303",
-        "#ae5f4f",
-        "#5d5d5d",
-        "#000000"
-      ],
-      "fonts": [
-        "Abc Social Mono Unlicensed",
-        "Bebas Neue",
-        "Cc Wild Words"
-      ]
-    },
-    {
-      "pinId": 7790,
-      "title": "Capy - The IDE for the parallel age",
-      "domain": "capy.ai/",
-      "pageUrl": "capy.ai/",
-      "imageUrl": "https://pin.fontofweb.com/7790?format=jpg",
-      "colors": [
-        "#fdfdfd",
-        "#63c8c1",
-        "#cbcbcc",
-        "#181818",
-        "#267b7a",
-        "#030303",
-        "#8cafe6",
-        "#f5f5f5"
-      ],
-      "fonts": [
-        "Abc Social Mono Unlicensed",
-        "Bebas Neue",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+6, 12, 24, 25, 40, 60, 100+ gaps. Hero + proof + pricing cards. Pricing page continues black system with plan comparison.
 
-## Representative captures
-[![Capy Pricing | Plans for Individuals and Teams](https://pin.fontofweb.com/7791?format=jpg)](https://design.withfudge.com/pin/7791)
-[Capy Pricing | Plans for Individuals and Teams](https://design.withfudge.com/pin/7791) — [source page](https://capy.ai/pricing)
+## Visual language
+- Rounded corners moderate (3–18)
+- Border-separated surfaces
+- Product screenshots and light illustration
+- Dark mode marketing
 
-[![Capy - The IDE for the parallel age](https://pin.fontofweb.com/7790?format=jpg)](https://design.withfudge.com/pin/7790)
-[Capy - The IDE for the parallel age](https://design.withfudge.com/pin/7790) — [source page](https://capy.ai/)
+## Components and states
+- Teal accent CTAs or highlights
+- Pricing cards for individuals/teams
+- Nav with product links
+- Screenshot frames
+
+## Responsive behavior
+Home and pricing both ~2048 wide captures—limited breakpoint proof. Keep hero type fluid; stack pricing cards.
+
+## Practical guidance
+**Preserve** teal-on-black focus, huge display, tool seriousness.
+**Avoid** multi-accent cyberpunk noise or soft pastel light themes as default.
+
+## Scope note
+`/` and `/pricing` only.
+
+## Captured pages
+
+[![Home — IDE hero](https://pin.fontofweb.com/7790?format=jpg)](https://design.withfudge.com/share/pin-7790)
+
+[Home — IDE hero](https://design.withfudge.com/share/pin-7790)
+
+[![Pricing](https://pin.fontofweb.com/7791?format=jpg)](https://design.withfudge.com/share/pin-7791)
+
+[Pricing](https://design.withfudge.com/share/pin-7791)
+
+## Colors
+
+- `#63c8c1`
+- `#000000`
+- `#181818`
+- `#5d5d5d`
+- `#6b6b6b`
+- `#ffffff`

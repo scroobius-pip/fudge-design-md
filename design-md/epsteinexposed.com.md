@@ -1,228 +1,113 @@
 # How epsteinexposed.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/epsteinexposed.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/epsteinexposed.com-design)
 
-Source domain: [epsteinexposed.com](https://epsteinexposed.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-21
+# How epsteinexposed.com is designed
 
-<!--
-coverPin: 6931
--->
+## Design character
 
-Here is the visual system observed across **6 captured pages** from [epsteinexposed.com](https://epsteinexposed.com).
+Epstein Exposed is a dark investigative data product: near-black research chrome, gold/amber selection accents, and dense multi-pane browsers for people, documents, and email. It feels like a serious OSINT workstation—information density over marketing gloss.
 
-```fudge-colors
-[
-  "#000000",
-  "#e6edf3",
-  "#6e7681",
-  "#1b2332",
-  "#7d8590",
-  "#0c1017",
-  "#0d1117",
-  "#d4a843",
-  "#06080d",
-  "#131921",
-  "#c23b22",
-  "#2b7fff",
-  "#1a2230",
-  "#94a3b8",
-  "#dc2626",
-  "#ffffff"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from epsteinexposed.com",
-  "sampleText": "epsteinexposed.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6931,
-      "domain": "epsteinexposed.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "25.6px",
-      "letterSpacing": "normal",
-      "frequency": 301
-    },
-    {
-      "family": "Jet Brains Mono",
-      "familyId": 2028,
-      "pinId": 6931,
-      "domain": "epsteinexposed.com",
-      "weight": "400",
-      "size": "10px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 59 |
-| Spacing values | 115 |
-| Borders and radii | 70 |
-| Shadows | 8 |
-| Gradients | 0 |
+Measured:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6931,
-      "title": "Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed",
-      "domain": "epsteinexposed.com/emails",
-      "pageUrl": "epsteinexposed.com/emails",
-      "imageUrl": "https://pin.fontofweb.com/6931?format=jpg",
-      "colors": [
-        "#d4a843",
-        "#131921",
-        "#2b7fff",
-        "#6e7681",
-        "#1a2230",
-        "#7d8590",
-        "#e6edf3",
-        "#ad9050"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 6930,
-      "title": "Ask About the Epstein Files - AI Research Assistant | Epstein Exposed",
-      "domain": "epsteinexposed.com/chat",
-      "pageUrl": "epsteinexposed.com/chat",
-      "imageUrl": "https://pin.fontofweb.com/6930?format=jpg",
-      "colors": [
-        "#08090e",
-        "#40434b",
-        "#1b2332",
-        "#e6edf3",
-        "#000000",
-        "#6e7681",
-        "#0d1117",
-        "#262015"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 6929,
-      "title": "Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed",
-      "domain": "epsteinexposed.com/documents",
-      "pageUrl": "epsteinexposed.com/documents",
-      "imageUrl": "https://pin.fontofweb.com/6929?format=jpg",
-      "colors": [
-        "#a3894e",
-        "#06080d",
-        "#423722",
-        "#1b2332",
-        "#7d8590",
-        "#c23b22",
-        "#e6edf3",
-        "#0a0c12"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 6928,
-      "title": "Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed",
-      "domain": "epsteinexposed.com/persons/ghislaine-maxwell",
-      "pageUrl": "epsteinexposed.com/persons/ghislaine-maxwell",
-      "imageUrl": "https://pin.fontofweb.com/6928?format=jpg",
-      "colors": [
-        "#e6edf3",
-        "#c48a74",
-        "#4c515f",
-        "#c0c2c7",
-        "#1b2332",
-        "#131921",
-        "#933a27",
-        "#d4a843"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 6927,
-      "title": "Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed",
-      "domain": "epsteinexposed.com/persons/ghislaine-maxwell",
-      "pageUrl": "epsteinexposed.com/persons/ghislaine-maxwell",
-      "imageUrl": "https://pin.fontofweb.com/6927?format=jpg",
-      "colors": [
-        "#06080d",
-        "#0d1117",
-        "#0c1017",
-        "#c2c9d0",
-        "#c23b22",
-        "#6c3325",
-        "#1b2332",
-        "#b17d5f"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 6926,
-      "title": "Epstein Exposed - The Most Comprehensive Epstein Files Database",
-      "domain": "epsteinexposed.com/",
-      "pageUrl": "epsteinexposed.com/",
-      "imageUrl": "https://pin.fontofweb.com/6926?format=jpg",
-      "colors": [
-        "#94a3b8",
-        "#ada2a4",
-        "#b99a52",
-        "#5f4f2a",
-        "#000000",
-        "#e0e7ed",
-        "#3f434a",
-        "#d4a843"
-      ],
-      "fonts": [
-        "Inter",
-        "Jet Brains Mono"
-      ]
-    }
-  ]
-}
-```
+- **Primary text on dark:** `#e6edf3`
+- **Gold accent:** `#d4a843` — active nav, selected folders, highlight CTAs
+- **Muted labels:** `#7d8590`, `#6e7681`
+- **Alert / emphasis red:** `#c23b22` (sparingly)
+- **Shell background:** deep charcoal / near-black
+- **Panels:** slightly lifted dark surfaces with hairline borders
 
-## Representative captures
-[![Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://pin.fontofweb.com/6931?format=jpg)](https://design.withfudge.com/pin/6931)
-[Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://design.withfudge.com/pin/6931) — [source page](https://epsteinexposed.com/emails)
+Gold is the selection language; red is rare warning energy; everything else stays cool gray-on-black.
 
-[![Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://pin.fontofweb.com/6930?format=jpg)](https://design.withfudge.com/pin/6930)
-[Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://design.withfudge.com/pin/6930) — [source page](https://epsteinexposed.com/chat)
+### Typography
 
-[![Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://pin.fontofweb.com/6929?format=jpg)](https://design.withfudge.com/pin/6929)
-[Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://design.withfudge.com/pin/6929) — [source page](https://epsteinexposed.com/documents)
+- Body ~16px / ~25.6px weight 400 for reading panes
+- UI chrome 12–14 / 16–20
+- Compact metadata at 10–12px
+- No declared family; system reads as clean UI sans
 
-[![Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://pin.fontofweb.com/6928?format=jpg)](https://design.withfudge.com/pin/6928)
-[Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6928) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+### Spacing and layout
 
-[![Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://pin.fontofweb.com/6927?format=jpg)](https://design.withfudge.com/pin/6927)
-[Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6927) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+- Padding 12–16px inside lists; 24px on larger section pads
+- Radii mostly **4–8px**, some 12px panels, pills for primary actions
+- App layout: top nav tabs → left filters/folders → center list → right detail empty states
+- Marketing home uses darker cinematic hero before entering the app shell
 
-[![Epstein Exposed - The Most Comprehensive Epstein Files Database](https://pin.fontofweb.com/6926?format=jpg)](https://design.withfudge.com/pin/6926)
-[Epstein Exposed - The Most Comprehensive Epstein Files Database](https://design.withfudge.com/pin/6926) — [source page](https://epsteinexposed.com/)
+## Visual language
+
+- Dense tables/lists with avatar initials
+- Tag chips and folder trees
+- Gold filled active states on otherwise monochrome chrome
+- Empty detail panes with quiet instructional copy
+- Floating AI/help CTAs (dark + gold)
+
+## Components and states
+
+- Global tab nav (Persons, Documents, Emails, AI Chat…)
+- Search field in header
+- Sidebar filters (view mode, folders, date, tags, contacts)
+- Thread/email list rows with stars and colored tags
+- Detail empty state
+- Banner for source documentation disclaimers
+- Home marketing landing with dataset stats
+
+## Responsive behavior
+
+Captures are wide desktop app and home states. The workstation assumes horizontal real estate; mobile patterns not evidenced.
+
+## Practical guidance
+
+**Preserve**
+
+- Dark shell with `#e6edf3` text and `#d4a843` selection gold
+- 4–8px tight radii for data density
+- Clear three-zone research layout
+- Quiet empty states instead of decorative noise
+
+**Avoid**
+
+- Light startup SaaS skins on the research app
+- Rainbow charts that compete with evidentiary reading
+- Oversized marketing radii inside email/document browsers
+
+## Scope note
+
+Six captures: home, emails, chat, documents, and person profile. Strong measured palette; font families unknown.
+
+## Captured pages
+
+[![Marketing home](https://pin.fontofweb.com/6926?format=jpg)](https://design.withfudge.com/share/pin-6926)
+
+[Marketing home](https://design.withfudge.com/share/pin-6926)
+
+[![Emails workstation](https://pin.fontofweb.com/6931?format=jpg)](https://design.withfudge.com/share/pin-6931)
+
+[Emails workstation](https://design.withfudge.com/share/pin-6931)
+
+[![AI chat research](https://pin.fontofweb.com/6930?format=jpg)](https://design.withfudge.com/share/pin-6930)
+
+[AI chat research](https://design.withfudge.com/share/pin-6930)
+
+[![Documents browser](https://pin.fontofweb.com/6929?format=jpg)](https://design.withfudge.com/share/pin-6929)
+
+[Documents browser](https://design.withfudge.com/share/pin-6929)
+
+[![Person profile](https://pin.fontofweb.com/6927?format=jpg)](https://design.withfudge.com/share/pin-6927)
+
+[Person profile](https://design.withfudge.com/share/pin-6927)
+
+## Colors
+
+- `#e6edf3`
+- `#d4a843`
+- `#7d8590`
+- `#6e7681`
+- `#c23b22`
+- `#0d1117`
+- `#161b22`

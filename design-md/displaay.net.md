@@ -1,129 +1,71 @@
 # How displaay.net is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/displaay.net-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/displaay.net-design)
 
-Source domain: [displaay.net](https://displaay.net)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-13
+## Design character
 
-<!--
-coverPin: 9585
--->
+Displaay’s typeface pages are **specimen-first**. The UI almost disappears so the type can run at poster scale—captures show samples around **120–200px**. The mood is contemporary European foundry: light canvas, sparse metadata, and just enough navigation to move between families (Season, Matter). It is a gallery for letterforms, not a marketing funnel.
 
-Here is the visual system observed across **2 captured pages** from [displaay.net](https://displaay.net).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#e3e3e3",
-  "#b8b8b8",
-  "#525252",
-  "#010101",
-  "#e6e6e6",
-  "#949494",
-  "#2b2b2b",
-  "#757575",
-  "#fdfcfb",
-  "#76756f",
-  "#b8f9fc",
-  "#9e9e9a",
-  "#c7c5c1",
-  "#3d403f"
-]
-```
+- Type as the hero media at extreme scale
+- Minimal chrome and quiet meta labels
+- Light neutral canvas
+- Small, understated controls (~10px radius)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from displaay.net",
-  "sampleText": "displaay.net",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9585,
-      "domain": "displaay.net",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 22
-    },
-    {
-      "family": "Saans",
-      "familyId": 2491,
-      "pinId": 9585,
-      "domain": "displaay.net",
-      "weight": "400",
-      "size": "15px",
-      "lineHeight": "19.5px",
-      "letterSpacing": "0.3px",
-      "frequency": 4565
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 17 |
-| Spacing values | 42 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9585,
-      "title": "Season - Displaay Type Foundry",
-      "domain": "displaay.net/typeface/season",
-      "pageUrl": "displaay.net/typeface/season",
-      "imageUrl": "https://pin.fontofweb.com/9585?format=jpg",
-      "colors": [
-        "#b8b8b8",
-        "#525252",
-        "#e3e3e3",
-        "#010101",
-        "#e6e6e6",
-        "#949494",
-        "#2b2b2b",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Saans"
-      ]
-    },
-    {
-      "pinId": 3164,
-      "title": "Matter - Displaay Type Foundry",
-      "domain": "displaay.net/typeface/matter",
-      "pageUrl": "displaay.net/typeface/matter",
-      "imageUrl": "https://pin.fontofweb.com/3164?format=jpg",
-      "colors": [
-        "#fdfcfb",
-        "#76756f",
-        "#000000",
-        "#b8f9fc",
-        "#9e9e9a",
-        "#c7c5c1",
-        "#3d403f",
-        "#81a2a2"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No measured brand roles returned. Visually: light gray/white field, near-black type specimens, muted UI labels. Color appears mainly inside the type specimen styles themselves when a face is chromatic; default chrome stays neutral.
 
-## Representative captures
-[![Season - Displaay Type Foundry](https://pin.fontofweb.com/9585?format=jpg)](https://design.withfudge.com/pin/9585)
-[Season - Displaay Type Foundry](https://design.withfudge.com/pin/9585) — [source page](https://displaay.net/typeface/season)
+### Typography
 
-[![Matter - Displaay Type Foundry](https://pin.fontofweb.com/3164?format=jpg)](https://design.withfudge.com/pin/3164)
-[Matter - Displaay Type Foundry](https://design.withfudge.com/pin/3164) — [source page](https://displaay.net/typeface/matter)
+Ironically the UI font is quiet; the **product is the specimen**. Observed UI sizes ~10–15px; specimens leap to 120–200px with tight leading (~180px on large samples). Weights in UI hover at 400. Do not let chrome type compete with specimen type.
+
+### Spacing and layout
+
+Wide open stages for glyphs. Padding around specimens is generous; metadata sits in thin rails or small blocks. Radius **10px** on interactive chips/controls.
+
+## Visual language
+
+- Full-width or large-stage glyph proofs
+- Thin rules or soft separators
+- Almost no illustration beyond type
+- Interactive specimen controls stay visually subordinate
+
+## Components and states
+
+- Family page hero specimen
+- Style/weight pickers and small UI chips
+- Supporting text blocks for about/licensing style content (kept secondary)
+
+## Practical guidance
+
+**Preserve**
+
+- Monumental specimens
+- Quiet light UI
+- Foundry restraint
+
+**Avoid**
+
+- SaaS feature grids over the specimen
+- Loud gradients behind every glyph
+- Tiny specimen previews that look like a font picker dropdown
+
+## Scope note
+
+Season and Matter typeface pages (pins 9585, 3164). Declared UI font families and brand hex roles not captured.
+
+## Captured pages
+
+[![Season specimen](https://pin.fontofweb.com/9585?format=jpg)](https://design.withfudge.com/share/pin-9585)
+
+[Season specimen](https://design.withfudge.com/share/pin-9585)
+
+[![Matter specimen](https://pin.fontofweb.com/3164?format=jpg)](https://design.withfudge.com/share/pin-3164)
+
+[Matter specimen](https://design.withfudge.com/share/pin-3164)
