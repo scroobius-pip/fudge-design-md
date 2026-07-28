@@ -308,6 +308,14 @@ Bengal Turf is a **local lawn-and-landscape brochure site** on a classic Yola te
 
 [Open guide](design-md/bengalturf.yolasite.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/bengalturf.yolasite.com-design)
 
+### betterstack.com
+
+[![How betterstack.com is designed](https://pin.fontofweb.com/7010?format=jpg)](design-md/betterstack.com.md)
+
+Better Stack is a **dark-first observability SaaS** brand: near-black canvases, crisp white headlines, and a soft **lavender–periwinkle** interactive accent. Marketing pages feel like a product cockpit—dense feature carousels, glass-dark cards, and realistic UI chrome—while still reading as approachable and sharp rather than neon cyberpunk.
+
+[Open guide](design-md/betterstack.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/betterstack.com-design)
+
 ### c82.net
 
 [![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)
