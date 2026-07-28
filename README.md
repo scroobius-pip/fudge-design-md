@@ -332,6 +332,14 @@ Grok is a **void-black AI chat product**: pure black canvas, monochrome wordmark
 
 [Open guide](design-md/grok.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/grok.com-design)
 
+### impeccable.style
+
+[![How impeccable.style is designed](https://pin.fontofweb.com/9917?format=jpg)](design-md/impeccable.style.md)
+
+impeccable.style sells a **frontend-design craft upgrade** with a dark, terminal-adjacent marketing site. The page is mostly black/near-black, type is light gray to white, and small amber (`#ffba00`) and teal (`#0fb6ac`) accents punch through like CLI highlights. Layout is a long single-column essay mixed with product chrome: sticky top nav, install command pills, dark code panels, and a mock multi-pane IDE/browser frame.
+
+[Open guide](design-md/impeccable.style.md) · [View the Fudge conversation](https://design.withfudge.com/share/impeccable.style-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
