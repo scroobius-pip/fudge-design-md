@@ -284,6 +284,14 @@ frame.work (Framework) sells modular laptops with a **clean hardware-brand syste
 
 [Open guide](design-md/frame.work.md) · [View the Fudge conversation](https://design.withfudge.com/share/frame.work-design)
 
+### fundable.design
+
+[![How fundable.design is designed](https://pin.fontofweb.com/6714?format=jpg)](design-md/fundable.design.md)
+
+Fundable is a **dark, logo-studio landing** aimed at founders who need an investor-ready mark. The system is high-contrast black canvas, large confident sans headlines (~39px/600), sparse copy, and bold logo specimens as the art. It feels like a specialist service one-pager: dramatic, minimal chrome, pill CTAs, and portfolio marks doing the selling.
+
+[Open guide](design-md/fundable.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/fundable.design-design)
+
 ### google.com
 
 [![How google.com is designed](https://pin.fontofweb.com/6925?format=jpg)](design-md/google.com.md)
