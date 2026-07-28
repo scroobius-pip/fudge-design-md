@@ -380,6 +380,14 @@ Christie’s site is **auction-house modernism**: vast white space, thin elegant
 
 [Open guide](design-md/christies.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/christies.com-design)
 
+### clarity.microsoft.com
+
+[![How clarity.microsoft.com is designed](https://pin.fontofweb.com/6780?format=jpg)](design-md/clarity.microsoft.com.md)
+
+Microsoft Clarity’s public site is **Fluent-adjacent product marketing**: clean white canvas, Segoe-like sans hierarchy, official Microsoft blue for actions, and large dashboard screenshots proving the analytics product. It feels trustworthy and corporate-modern rather than startup-flashy—heatmaps and session tools shown literally.
+
+[Open guide](design-md/clarity.microsoft.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/clarity.microsoft.com-design)
+
 ### cobe.vercel.app
 
 [![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
