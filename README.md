@@ -660,6 +660,14 @@ Fastino Labs is a dark, compact AI research/marketing surface. The canvas is nea
 
 [Open guide](design-md/fastino.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/fastino.ai-design)
 
+### figr.design
+
+[![How figr.design is designed](https://pin.fontofweb.com/7413?format=jpg)](design-md/figr.design.md)
+
+Figr is a soft, premium AI design-agent brand. Pages sit on a warm off-white/cream canvas with elegant black serif display at very large sizes (~76px, weight 300), calm sans UI, and lavender/purple pill CTAs. Contact uses a split layout: big serif question on the left, spacious form on the right. It feels boutique and human, not cyberpunk AI.
+
+[Open guide](design-md/figr.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/figr.design-design)
+
 ### fontsinuse.com
 
 [![How fontsinuse.com is designed](https://pin.fontofweb.com/6841?format=jpg)](design-md/fontsinuse.com.md)
