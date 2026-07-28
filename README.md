@@ -156,6 +156,14 @@ Curator is a **bright, sales-forward SaaS marketing site** for a social media ag
 
 [Open guide](design-md/curator.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/curator.io-design)
 
+### dash.cloudflare.com
+
+[![How dash.cloudflare.com is designed](https://pin.fontofweb.com/10060?format=jpg)](design-md/dash.cloudflare.com.md)
+
+Cloudflare’s dashboard is a **dense enterprise operations console**: account-scoped routes for domains, billing, API tokens, and checkout. The visual system is **light, blue-accented, highly utilitarian**—built for scanning tables, forms, and multi-step account tasks rather than brand storytelling.
+
+[Open guide](design-md/dash.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
+
 ### delve.co
 
 [![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)
