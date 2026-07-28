@@ -1,290 +1,106 @@
 # How departuremono.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/departuremono.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/departuremono.com-design)
 
-Source domain: [departuremono.com](https://departuremono.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-08
+## Design character
 
-<!--
-coverPin: 9531
--->
+Departure Mono’s site is a **specimen stage for a lo-fi monospaced pixel font**, art-directed like a desk collage from a sci-fi research lab. The UI chrome is almost invisible: light gray paper backdrop, a gray pixel wordmark, tiny utility links, and then a still-life of documents — letterhead, sticky note, badge, compass geometry, highlighter — all set in the face being sold. The product *is* the interface.
 
-Here is the visual system observed across **11 captured pages** from [departuremono.com](https://departuremono.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#444444",
-  "#eeeeee",
-  "#222222",
-  "#c0c0c0",
-  "#333333",
-  "#000000",
-  "#6c6c58",
-  "#cccccc",
-  "#f0f0f0",
-  "#404040",
-  "#666666",
-  "#8f8f8f",
-  "#656361",
-  "#8f8d89",
-  "#d4c6b6",
-  "#8e8e8e"
-]
-```
+- **One monospaced pixel voice** for UI and specimen content alike.
+- A **flat, archival desk** aesthetic (paper, stickers, badges) instead of SaaS cards and gradients.
+- **Sparse navigation** (Download / GitHub / Donate) that never upstages the specimen.
+- High-contrast black type on pale grounds, with occasional kraft/beige and charcoal props.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from departuremono.com",
-  "sampleText": "departuremono.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9531,
-      "domain": "departuremono.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 55
-    },
-    {
-      "family": "Departure Mono",
-      "familyId": 1300,
-      "pinId": 9531,
-      "domain": "departuremono.com",
-      "weight": "400",
-      "size": "11px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 4257
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 11 |
-| Colors | 56 |
-| Spacing values | 23 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9531,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/9531?format=jpg",
-      "colors": [
-        "#cccccc",
-        "#656361",
-        "#444444",
-        "#f0f0f0",
-        "#404040",
-        "#333333",
-        "#8f8d89",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Departure Mono"
-      ]
-    },
-    {
-      "pinId": 9530,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/9530?format=jpg",
-      "colors": [
-        "#c0c0c0",
-        "#404040",
-        "#666666",
-        "#222222",
-        "#444444",
-        "#8e8e8e",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Departure Mono"
-      ]
-    },
-    {
-      "pinId": 5064,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5064?format=jpg",
-      "colors": [
-        "#222222",
-        "#666666",
-        "#8f8f8f",
-        "#484846",
-        "#f6a141",
-        "#fffbe2"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5063,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5063?format=jpg",
-      "colors": [
-        "#222222",
-        "#c0c0c0",
-        "#6d6d6c",
-        "#989898",
-        "#4c4c48",
-        "#fcfefe",
-        "#f0a043",
-        "#9a6931"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5062,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5062?format=jpg",
-      "colors": [
-        "#222222",
-        "#4f4f49",
-        "#f9a038",
-        "#868686",
-        "#312512",
-        "#c2a26b",
-        "#694d25"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5061,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5061?format=jpg",
-      "colors": [
-        "#232322",
-        "#bfbfbf",
-        "#565655",
-        "#727272",
-        "#8d8d8d",
-        "#faa23b",
-        "#532f12"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5060,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5060?format=jpg",
-      "colors": [
-        "#222222",
-        "#56554d"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5059,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5059?format=jpg",
-      "colors": [
-        "#222222",
-        "#f39f3e",
-        "#55391c",
-        "#9a7245",
-        "#302213"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5058,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5058?format=jpg",
-      "colors": [
-        "#f1f1f1",
-        "#454545",
-        "#8aa788",
-        "#8f8f8f",
-        "#b6b6b5",
-        "#6e7f6c"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5057,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5057?format=jpg",
-      "colors": [
-        "#eeeeee",
-        "#464646",
-        "#a1a1a1",
-        "#757575"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5056,
-      "title": "Departure Mono",
-      "domain": "departuremono.com/",
-      "pageUrl": "departuremono.com/",
-      "imageUrl": "https://pin.fontofweb.com/5056?format=jpg",
-      "colors": [
-        "#f0f0f0",
-        "#414141",
-        "#d9c9b7",
-        "#a8a6a2",
-        "#878582",
-        "#676561"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No measured palette. Visual reading:
 
-## Representative captures
-[![Departure Mono](https://pin.fontofweb.com/9531?format=jpg)](https://design.withfudge.com/pin/9531)
-[Departure Mono](https://design.withfudge.com/pin/9531) — [source page](https://departuremono.com/)
+- **Page**: cool light gray / off-white field.
+- **Wordmark plate**: medium gray rectangle behind black pixel lettering.
+- **Document**: white letter sheet with black body text; mint/sage highlighter strokes on key phrases.
+- **Sticky prop**: warm kraft/beige note with black pixel headline + bitmap QR-like block.
+- **ID badge**: dark charcoal card, light pixel type, dotted texture swatch, white status square.
+- **Diagram lines**: thin gray construction geometry behind the collage.
+- **UI links**: small black uppercase labels top-right.
 
-[![Departure Mono](https://pin.fontofweb.com/9530?format=jpg)](https://design.withfudge.com/pin/9530)
-[Departure Mono](https://design.withfudge.com/pin/9530) — [source page](https://departuremono.com/)
+Color supports the prop story; it is not a multi-token product palette.
 
-[![Departure Mono](https://pin.fontofweb.com/5064?format=jpg)](https://design.withfudge.com/pin/5064)
-[Departure Mono](https://design.withfudge.com/pin/5064) — [source page](https://departuremono.com/)
+### Typography
 
-[![Departure Mono](https://pin.fontofweb.com/5063?format=jpg)](https://design.withfudge.com/pin/5063)
-[Departure Mono](https://design.withfudge.com/pin/5063) — [source page](https://departuremono.com/)
+The site showcases **Departure Mono** (pixel monospace). Captured sizes (family name not machine-labeled in tokens):
 
-[![Departure Mono](https://pin.fontofweb.com/5062?format=jpg)](https://design.withfudge.com/pin/5062)
-[Departure Mono](https://design.withfudge.com/pin/5062) — [source page](https://departuremono.com/)
+| Role | Size | Notes |
+| --- | --- | --- |
+| Micro UI / dense specimen | 11px | Extremely common; body of letter and UI labels |
+| Secondary | 14–16.5px | Short descriptions, supporting lines |
+| Display specimen | 88px / solid lh | Large wordmark-scale setting |
+| Weight | 400 dominant | Pixel face reads even without weight drama |
 
-[![Departure Mono](https://pin.fontofweb.com/5061?format=jpg)](https://design.withfudge.com/pin/5061)
-[Departure Mono](https://design.withfudge.com/pin/5061) — [source page](https://departuremono.com/)
+Everything is monospaced and intentionally technical. Do not pair with a friendly proportional sans for body copy if you want the same character.
 
-[![Departure Mono](https://pin.fontofweb.com/5060?format=jpg)](https://design.withfudge.com/pin/5060)
-[Departure Mono](https://design.withfudge.com/pin/5060) — [source page](https://departuremono.com/)
+### Spacing and layout
 
-[![Departure Mono](https://pin.fontofweb.com/5059?format=jpg)](https://design.withfudge.com/pin/5059)
-[Departure Mono](https://design.withfudge.com/pin/5059) — [source page](https://departuremono.com/)
+- Side padding around **44px**; outer margins ~**88–114px** on wide views.
+- Large vertical air: top padding ~**137px**, big bottom margins in collage layouts.
+- Wide column gaps (~**187px**) in some specimen arrangements; tight **11px** gaps where micro grids appear.
+- Composition is **asymmetric collage**, not a 12-column marketing grid: badge lower-left, letter center, sticky overlapping right, tool outline along the bottom.
+- Narrow capture (~875px) still keeps the paper desk metaphor with simplified stacking.
+
+## Visual language
+
+- **No measured radii or borders** — edges are hard pixel/rect, matching the font’s technical vibe.
+- **No shadows** in the structural data; depth comes from overlapping paper props and line drawings.
+- **Props as UI**: clipboard sticky, laminated badge, mechanical pencil/highlighter outline, circular construction marks.
+- **Texture**: dotted bitmap blocks, pixel QR, ruled-paper side holes on the letter sheet.
+- Motion was not observed; the brand feels still and archival.
+
+## Components and states
+
+1. **Wordmark bar** — gray plate, pixel logotype, tiny version tag (`v1.500`).
+2. **Utility links** — Download, GitHub, Donate with simple glyphs.
+3. **Specimen letter** — full monospaced letter layout with highlighted phrases.
+4. **Annotation sticky** — overlapping kraft card with bold stacked title and bitmap mark.
+5. **Access badge** — dark ID card (“TIER 1 ACCESS”) as characterful brand chrome.
+6. **Desk geometry** — faint circles/lines and tool silhouettes anchoring the scene.
+
+These are art-direction components more than app widgets. Primary actions are the text links, not filled buttons.
+
+## Responsive behavior
+
+Wide (~1712px) and narrower (~875px) homepage captures both keep the collage language. On the smaller width, props scale down and spacing compresses, but the system does not switch to a conventional stacked marketing layout in the observed frames. Older additional captures exist but did not yield structural measurements.
+
+## Practical guidance
+
+**Preserve**
+
+- Pixel mono as the single type system for UI + marketing.
+- Paper-desk collage with a few tactile props instead of generic feature grids.
+- Pale neutral stage; let black pixels and one kraft accent do the work.
+- Tiny utilitarian nav; the specimen is the hero.
+
+**Avoid**
+
+- Smooth geometric sans, soft multicolored gradients, or glass cards.
+- Large filled brand buttons that look like SaaS trials.
+- Crowding the desk with too many props — negative space is part of the craft.
+- Anti-aliasing the pixel face into a blurry display headline; keep it crisp and modular.
+
+## Evidence scope
+
+Eight homepage captures across viewports; structured spacing/type detail is richest on the two newest pins (wide + narrow). Colors, radii, shadows, and font-family tokens were not returned as measured systems — prop colors and the Departure Mono identity are interpreted from screenshots and the site’s stated purpose as a monospaced pixel font specimen.
+
+## Captured pages
+
+[![Home — wide desk collage specimen](https://pin.fontofweb.com/9531?format=jpg)](https://design.withfudge.com/share/pin-9531)
+
+[Home — wide desk collage specimen](https://design.withfudge.com/share/pin-9531)
+
+[![Home — narrower viewport specimen](https://pin.fontofweb.com/9530?format=jpg)](https://design.withfudge.com/share/pin-9530)
+
+[Home — narrower viewport specimen](https://design.withfudge.com/share/pin-9530)

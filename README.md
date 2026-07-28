@@ -532,6 +532,14 @@ Delve’s marketing site sells automated compliance with a **cinematic dark stag
 
 [Open guide](design-md/delve.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/delve.co-design)
 
+### departuremono.com
+
+[![How departuremono.com is designed](https://pin.fontofweb.com/9531?format=jpg)](design-md/departuremono.com.md)
+
+Departure Mono’s site is a **specimen stage for a lo-fi monospaced pixel font**, art-directed like a desk collage from a sci-fi research lab. The UI chrome is almost invisible: light gray paper backdrop, a gray pixel wordmark, tiny utility links, and then a still-life of documents — letterhead, sticky note, badge, compass geometry, highlighter — all set in the face being sold. The product *is* the interface.
+
+[Open guide](design-md/departuremono.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/departuremono.com-design)
+
 ### developer.chrome.com
 
 [![How developer.chrome.com is designed](https://pin.fontofweb.com/6426?format=jpg)](design-md/developer.chrome.com.md)
