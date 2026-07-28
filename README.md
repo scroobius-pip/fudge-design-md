@@ -628,6 +628,14 @@ Ente is a bright, privacy-forward consumer product site: pure white canvas, char
 
 [Open guide](design-md/ente.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ente.com-design)
 
+### era.app
+
+[![How era.app is designed](https://pin.fontofweb.com/9753?format=jpg)](design-md/era.app.md)
+
+Era is a soft fintech/consumer app system: warm paper grays, mint-teal accents, and calm rounded cards. Marketing pricing and signed-in app shells share the same quiet vocabulary—approachable wealth tooling rather than loud crypto flash.
+
+[Open guide](design-md/era.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/era.app-design)
+
 ### fastino.ai
 
 [![How fastino.ai is designed](https://pin.fontofweb.com/9733?format=jpg)](design-md/fastino.ai.md)
