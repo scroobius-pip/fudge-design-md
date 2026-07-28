@@ -84,6 +84,14 @@ COBE is a developer-library marketing page that behaves like a **live product de
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
+### curator.io
+
+[![How curator.io is designed](https://pin.fontofweb.com/7651?format=jpg)](design-md/curator.io.md)
+
+Curator is a **bright, sales-forward SaaS marketing site** for a social media aggregator: big centered headlines, generous section padding, pill-heavy controls, and a clean black/white base with a **vivid blue accent** (`#0099ff`) on content surfaces like the blog. It feels approachable and product-led—hero claims, rounded cards, and long scrolling feature storytelling rather than a dense app shell.
+
+[Open guide](design-md/curator.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/curator.io-design)
+
 ### delve.co
 
 [![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)
