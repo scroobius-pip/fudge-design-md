@@ -1,329 +1,115 @@
 # How alpine.inc is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/alpine.inc-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
 
-Source domain: [alpine.inc](https://alpine.inc)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-05
+## Design character
 
-<!--
-coverPin: 7702
--->
+Alpine.inc presents as **premium dark SaaS theater**: near-black stages, crisp white geometric wordmark, large light headlines, and floating product UI mockups (messaging, calendar-like surfaces) that glow softly above the void. The marketing site sells calm capability—sparse sections, deliberate emptiness, and a single cool blue accent—rather than feature laundry lists.
 
-Here is the visual system observed across **10 captured pages** from [alpine.inc](https://alpine.inc).
+What should survive adaptation:
+- True dark canvas with high-contrast white type
+- Product UI shown inside rounded floating frames
+- One cool accent (measured blue around `#4595f5`) used sparingly
+- Luxury-software pacing: fewer modules, more air
 
-```fudge-colors
-[
-  "#000000",
-  "#16161a",
-  "#2c2338",
-  "#0b0b0d",
-  "#ffffff",
-  "#f9f9fe",
-  "#121214",
-  "#f8f8fc",
-  "#f5f5ff",
-  "#00000a",
-  "#0000ee",
-  "#1a1816",
-  "#00000d",
-  "#5b5b62",
-  "#ffde18",
-  "#27272b"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from alpine.inc",
-  "sampleText": "alpine.inc",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7702,
-      "domain": "alpine.inc",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 588
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 7701,
-      "domain": "alpine.inc",
-      "weight": "400",
-      "size": "20px",
-      "lineHeight": "32px",
-      "letterSpacing": "-0.2px",
-      "frequency": 95
-    },
-    {
-      "family": "Dm Serif",
-      "familyId": 2305,
-      "pinId": 7701,
-      "domain": "alpine.inc",
-      "weight": "400",
-      "size": "40px",
-      "lineHeight": "48px",
-      "letterSpacing": "normal",
-      "frequency": 10
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 10 |
-| Colors | 94 |
-| Spacing values | 24 |
-| Borders and radii | 7 |
-| Shadows | 4 |
-| Gradients | 2 |
+Measured swatches seen across pages: `#4595f5`, `#ffffff`, `#5b5b62`. Core set: deep black/charcoal background, white primary text, muted gray (`#5b5b62`-range) secondary text, white surfaces inside mockups, and blue accent for interactive or brand sparks. Keep secondary text dim enough for hierarchy but still readable on black.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7702,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7702?format=jpg",
-      "colors": [
-        "#76767a",
-        "#383838",
-        "#050505",
-        "#000000",
-        "#aaa9ac",
-        "#ffffff"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7701,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7701?format=jpg",
-      "colors": [
-        "#000000",
-        "#afaeb3",
-        "#f9f9fe",
-        "#76757a",
-        "#16151a",
-        "#46454a",
-        "#ffffff",
-        "#16161a"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Dm Serif"
-      ]
-    },
-    {
-      "pinId": 7700,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7700?format=jpg",
-      "colors": [
-        "#4179e8",
-        "#38a558",
-        "#d7363b",
-        "#ffffff",
-        "#16161a",
-        "#f6f6fd",
-        "#fbfbfc",
-        "#17171d"
-      ],
-      "fonts": [
-        "System",
-        "Dm Serif",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7699,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7699?format=jpg",
-      "colors": [
-        "#656362",
-        "#2b2232",
-        "#caa063",
-        "#56482e",
-        "#8e877e",
-        "#b1b8bf",
-        "#a2734a",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7698,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7698?format=jpg",
-      "colors": [
-        "#ffdf17",
-        "#0b0b0d",
-        "#d4b570",
-        "#a1a2a7",
-        "#0000ee",
-        "#ffffff",
-        "#27272b",
-        "#f5f5ff"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Dm Serif"
-      ]
-    },
-    {
-      "pinId": 7697,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7697?format=jpg",
-      "colors": [
-        "#5469ef",
-        "#71702a",
-        "#9e8667",
-        "#fdfcf9",
-        "#373832",
-        "#b3bac2",
-        "#65be86",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7696,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7696?format=jpg",
-      "colors": [
-        "#575555",
-        "#0b0b0d",
-        "#828284",
-        "#afaeaf",
-        "#191818",
-        "#687ed7",
-        "#000000",
-        "#00000d"
-      ],
-      "fonts": [
-        "System",
-        "Dm Serif",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 7695,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7695?format=jpg",
-      "colors": [
-        "#1eb1ee",
-        "#c1c1c2",
-        "#6e6e71",
-        "#2188b4",
-        "#383838",
-        "#000000",
-        "#8d8d90",
-        "#0d0d0d"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7694,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7694?format=jpg",
-      "colors": [
-        "#fdfdfd",
-        "#d1d9f9",
-        "#fbdcc5",
-        "#000000",
-        "#595959",
-        "#b3b2b6",
-        "#858386",
-        "#f9d8ec"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7693,
-      "title": "Alpine",
-      "domain": "alpine.inc/",
-      "pageUrl": "alpine.inc/",
-      "imageUrl": "https://pin.fontofweb.com/7693?format=jpg",
-      "colors": [
-        "#3d3d42",
-        "#27272b",
-        "#0000ee",
-        "#a9d7b8",
-        "#4e4e80",
-        "#0b0b0d",
-        "#916848",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Dm Serif",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Alpine](https://pin.fontofweb.com/7702?format=jpg)](https://design.withfudge.com/pin/7702)
-[Alpine](https://design.withfudge.com/pin/7702) — [source page](https://alpine.inc/)
+Observed text styles:
+- **text**: unknown, weight 400, 12px
+- **text**: unknown, weight 400, 12px
+- **text**: unknown, weight 400, 20px, lh 32px
+- **text**: unknown, weight 400, 40px, lh 48px
+- **text**: unknown, weight 400, 12px
+- **text**: unknown, weight 400, 40px, lh 48px
+- **text**: unknown, weight 400, 20px, lh 34px
+- **text**: unknown, weight 400, 20px, lh 24px
+- **text**: unknown, weight 400, 52px, lh 52px
+- **text**: unknown, weight 400, 29px, lh 34.8px
+- **text**: unknown, weight 400, 12px
+- **text**: unknown, weight 400, 16px, lh 24px
 
-[![Alpine](https://pin.fontofweb.com/7701?format=jpg)](https://design.withfudge.com/pin/7701)
-[Alpine](https://design.withfudge.com/pin/7701) — [source page](https://alpine.inc/)
+Large geometric sans headlines in white; smaller gray body; UI inside mockups uses compact app type. Tracking on big lines stays controlled. The wordmark is part of the type system—simple, wide, modern.
 
-[![Alpine](https://pin.fontofweb.com/7700?format=jpg)](https://design.withfudge.com/pin/7700)
-[Alpine](https://design.withfudge.com/pin/7700) — [source page](https://alpine.inc/)
+### Spacing and layout
 
-[![Alpine](https://pin.fontofweb.com/7699?format=jpg)](https://design.withfudge.com/pin/7699)
-[Alpine](https://design.withfudge.com/pin/7699) — [source page](https://alpine.inc/)
+Recurring spacing measurements include 2.5px, 16px, 18px, 20px, 32px, 48px, 56px, 62px, 64px, 72px, 100px, 128px, 155px. Sections are vertically roomy. Hero often pairs a short headline stack with a large product visual. Multi-column feature rows appear only when mockups need side-by-side comparison; otherwise single-focus bands dominate. Observed corner radii include 1px, 4px, 12px, 16px, 24px, 9999px.
 
-[![Alpine](https://pin.fontofweb.com/7698?format=jpg)](https://design.withfudge.com/pin/7698)
-[Alpine](https://design.withfudge.com/pin/7698) — [source page](https://alpine.inc/)
+## Visual language
 
-[![Alpine](https://pin.fontofweb.com/7697?format=jpg)](https://design.withfudge.com/pin/7697)
-[Alpine](https://design.withfudge.com/pin/7697) — [source page](https://alpine.inc/)
+Soft shadows under mockup cards create the main depth cue. Borders are hairline or absent. Gradients, if present, are subtle atmospheric glows—not rainbow mesh. Avoid cluttering the dark field with bright multi-colored illustrations.
 
-[![Alpine](https://pin.fontofweb.com/7696?format=jpg)](https://design.withfudge.com/pin/7696)
-[Alpine](https://design.withfudge.com/pin/7696) — [source page](https://alpine.inc/)
+## Components and states
 
-[![Alpine](https://pin.fontofweb.com/7695?format=jpg)](https://design.withfudge.com/pin/7695)
-[Alpine](https://design.withfudge.com/pin/7695) — [source page](https://alpine.inc/)
+- **Transparent/dark header** with wordmark and minimal text links
+- **Hero**: headline + supporting line + primary CTA + product frame
+- **Feature bands**: short copy + UI screenshot cards
+- **Buttons**: high-contrast light fills or blue accents on dark
+- **Mockup chrome**: rounded rectangles, muted internal UI grays
+
+## Responsive behavior
+
+Multiple home widths (~1641–2048px) show the same dark system scaling: mockups shrink, type reflows, margins hold. On smaller screens stack mockups below headlines and keep the black field continuous.
+
+## Practical guidance
+
+**Preserve**
+- Dark stage, white type, sparse sectioning
+- Floating rounded product frames with soft depth
+- Single blue accent discipline
+
+**Avoid**
+- Light-mode defaulting that breaks the brand night sky
+- Rainbow charts and loud badge rows on the marketing shell
+- Tiny low-contrast gray copy on black
+
+## Scope note
+
+Studied 8 page captures on paths /. Some structural families were incomplete on these pages. All studied captures are home marketing views at multiple widths; in-app product chrome beyond mockups is inferred only visually.
+
+## Captured pages
+
+[![Alpine](https://pin.fontofweb.com/7702?format=jpg)](https://design.withfudge.com/share/pin-7702)
+
+[Alpine](https://design.withfudge.com/share/pin-7702)
+
+[![Alpine](https://pin.fontofweb.com/7701?format=jpg)](https://design.withfudge.com/share/pin-7701)
+
+[Alpine](https://design.withfudge.com/share/pin-7701)
+
+[![Alpine](https://pin.fontofweb.com/7700?format=jpg)](https://design.withfudge.com/share/pin-7700)
+
+[Alpine](https://design.withfudge.com/share/pin-7700)
+
+[![Alpine](https://pin.fontofweb.com/7699?format=jpg)](https://design.withfudge.com/share/pin-7699)
+
+[Alpine](https://design.withfudge.com/share/pin-7699)
+
+[![Alpine](https://pin.fontofweb.com/7698?format=jpg)](https://design.withfudge.com/share/pin-7698)
+
+[Alpine](https://design.withfudge.com/share/pin-7698)
+
+[![Alpine](https://pin.fontofweb.com/7697?format=jpg)](https://design.withfudge.com/share/pin-7697)
+
+[Alpine](https://design.withfudge.com/share/pin-7697)
+
+[![Alpine](https://pin.fontofweb.com/7696?format=jpg)](https://design.withfudge.com/share/pin-7696)
+
+[Alpine](https://design.withfudge.com/share/pin-7696)
+
+[![Alpine](https://pin.fontofweb.com/7695?format=jpg)](https://design.withfudge.com/share/pin-7695)
+
+[Alpine](https://design.withfudge.com/share/pin-7695)
+
+## Colors
+
+- `#4595f5`
+- `#ffffff`
+- `#5b5b62`

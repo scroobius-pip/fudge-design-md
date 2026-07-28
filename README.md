@@ -28,6 +28,14 @@ A Collection of Unmitigated Pedantry is a long-form history blog that dresses li
 
 [Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
 
+### alpine.inc
+
+[![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
+
+Alpine.inc presents as **premium dark SaaS theater**: near-black stages, crisp white geometric wordmark, large light headlines, and floating product UI mockups (messaging, calendar-like surfaces) that glow softly above the void. The marketing site sells calm capability—sparse sections, deliberate emptiness, and a single cool blue accent—rather than feature laundry lists.
+
+[Open guide](design-md/alpine.inc.md) · [View the Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
+
 ### arcee.ai
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6372?format=jpg)](design-md/arcee.ai.md)
