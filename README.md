@@ -28,6 +28,14 @@ A Collection of Unmitigated Pedantry is a long-form history blog that dresses li
 
 [Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
 
+### adventureson.band
+
+[![How adventureson.band is designed](https://pin.fontofweb.com/6741?format=jpg)](design-md/adventureson.band.md)
+
+adventureson.band is an **immersive artist presence** for Ty Finck’s instrumental ambient project. It behaves like a sequence of full-bleed visual poems—album art floating on soft abstract gradients, a stark white watercolor field for a release title, and a near-black cinematic portrait chapter for biography. UI is deliberately scarce: small underlined text links, quiet labels, and large margins of atmosphere.
+
+[Open guide](design-md/adventureson.band.md) · [View the Fudge conversation](https://design.withfudge.com/share/adventureson.band-design)
+
 ### alpine.inc
 
 [![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
