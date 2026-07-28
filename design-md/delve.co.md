@@ -1,132 +1,104 @@
 # How delve.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/delve.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/delve.co-design)
 
-Source domain: [delve.co](https://delve.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-21
+## Design character
 
-<!--
-coverPin: 8219
--->
+Delve’s marketing site sells automated compliance with a **cinematic dark stage**: a full-bleed vertical gradient from deep teal through black into hot orange, oversize white headlines, and a single loud CTA. The product promise is serious (SOC 2, HIPAA, GDPR), but the visual system feels more like a launch film than a paperwork portal — high contrast, sparse copy, and a geometric color field that doubles as brand texture.
 
-Here is the visual system observed across **2 captured pages** from [delve.co](https://delve.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#ffffff",
-  "#000000",
-  "#0c0c0c",
-  "#dfe0e5",
-  "#fb4a02",
-  "#f7f8f8",
-  "#8a3d13",
-  "#9c9f9f",
-  "#d44403",
-  "#0f1011",
-  "#3b8c96",
-  "#431e0e",
-  "#4e4e4c",
-  "#064659",
-  "#1f6373",
-  "#913c08"
-]
-```
+- **Dark-first marketing** with white type and one saturated accent action.
+- A **teal→orange vertical bar gradient** as the signature backdrop (not a flat fill).
+- **Monumental headline type** that can dominate half the viewport.
+- A **strict nav + dual CTA** pattern: ghost Login, solid Book a Demo.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from delve.co",
-  "sampleText": "delve.co",
-  "fonts": [
-    {
-      "family": "Inter Tight",
-      "familyId": 29,
-      "pinId": 8219,
-      "domain": "delve.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 33
-    },
-    {
-      "family": "Overused Grotesk",
-      "familyId": 982,
-      "pinId": 8219,
-      "domain": "delve.co",
-      "weight": "700",
-      "size": "64px",
-      "lineHeight": "64px",
-      "letterSpacing": "-0.64px",
-      "frequency": 78
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 23 |
-| Spacing values | 27 |
-| Borders and radii | 5 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8219,
-      "title": "Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance",
-      "domain": "delve.co/",
-      "pageUrl": "delve.co/",
-      "imageUrl": "https://pin.fontofweb.com/8219?format=jpg",
-      "colors": [
-        "#f7f8f8",
-        "#8a3d13",
-        "#9c9f9f",
-        "#d44403",
-        "#ffffff",
-        "#0c0c0c",
-        "#0f1011",
-        "#3b8c96"
-      ],
-      "fonts": [
-        "Inter Tight",
-        "Overused Grotesk"
-      ]
-    },
-    {
-      "pinId": 8218,
-      "title": "Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance",
-      "domain": "delve.co/",
-      "pageUrl": "delve.co/",
-      "imageUrl": "https://pin.fontofweb.com/8218?format=jpg",
-      "colors": [
-        "#1f6373",
-        "#913c08",
-        "#748f8a",
-        "#ffffff",
-        "#fcfdfc",
-        "#312720",
-        "#000000",
-        "#d85c10"
-      ],
-      "fonts": [
-        "Inter Tight",
-        "Overused Grotesk"
-      ]
-    }
-  ]
-}
-```
+No structured palette roles were captured. Visual reading from the home hero and footer:
 
-## Representative captures
-[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8219?format=jpg)](https://design.withfudge.com/pin/8219)
-[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8219) — [source page](https://delve.co/)
+- **Canvas**: near-black to true black under the gradient mesh.
+- **Gradient field**: cool teal/cyan on the left, warming through brown-black midtones into vivid orange on the right, rendered as tall vertical strips with a subtle grid of framework badges.
+- **Primary text**: pure white for headlines and nav labels.
+- **Secondary text**: soft light gray for supporting sentences and footer meta.
+- **Primary action**: saturated orange filled button on dark heroes (“Book a Demo”).
+- **Inverse action**: white filled button on dark header and on teal promo tiles; black label text.
+- **Footer surfaces**: charcoal/black panels with 1px hairline dividers; one teal gradient “Bottom Line” promo cell.
 
-[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8218?format=jpg)](https://design.withfudge.com/pin/8218)
-[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8218) — [source page](https://delve.co/)
+Treat orange as the only aggressive accent; everything else stays monochrome or gradient-bound.
+
+### Typography
+
+Family names were not captured. The face reads as a modern **grotesk sans**, tight and confident.
+
+| Role | Observed size / weight | Behavior |
+| --- | --- | --- |
+| Hero display | ~140px / 700 (one capture); ~64px / 700 on alternate hero | One or two short lines, near-solid line-height |
+| Body | 16px / 400, lh ~24 | Centered subcopy under heroes |
+| UI / nav | 14–16px / 400–600 | Header links, footer lists |
+| Lead | 18–20px / 400 | Occasional larger supporting lines |
+
+Display type is the brand. Body never competes with it.
+
+### Spacing and layout
+
+- Section padding clusters at **48px** and large **112–128px** vertical rhythm.
+- Horizontal padding common at **48 / 80 / ~85px**.
+- Hero is full-viewport: headline optically centered, CTA under subcopy, trust line near the fold.
+- Footer is a multi-column grid (logo/address | link groups | promo tile) separated by light rules.
+- Framework badges sit in a loose lower-right grid over the gradient rather than in a tight card row.
+
+## Visual language
+
+- **No measured corner radii** — buttons and panels read as small-radius or near-sharp rectangles, not pills.
+- **1px solid borders** divide footer columns and outline badge cells; no soft shadow language observed.
+- **Gradient + grid** is the distinctive motif: vertical color bars, faint cell lines, certification marks floating in cells (SOC 2, HIPAA, GDPR, ISO, PCI-DSS).
+- Imagery is minimal; brand energy comes from color field and type, not photography.
+
+## Components and states
+
+1. **Global header** — black/translucent bar, logo left, three dropdown groups center, Login text + white “Book a Demo” right.
+2. **Hero** — oversized white headline, one sentence subcopy, single primary button (orange or white depending on slide).
+3. **Framework badge cells** — small labeled marks in the gradient grid.
+4. **Footer mega-grid** — company blurb, link columns, certifications row, gradient promo with inverse CTA.
+5. **Legal strip** — tiny copyright + policy links + social icons on pure black.
+
+Visible states in stills: default marketing rest. Do not invent hover/focus behavior beyond the clear default vs. filled button contrast.
+
+## Responsive behavior
+
+Only wide desktop viewports (~1712×1314) were captured, twice (hero variant + footer-forward view). Assume the gradient hero and multi-column footer are desktop-first; stack behavior on small screens was not observed.
+
+## Practical guidance
+
+**Preserve**
+
+- Teal-to-orange vertical drama behind sparse white type.
+- One primary conversion verb everywhere (“Book a Demo”).
+- Huge headlines with short subcopy — no long paragraphs in the hero.
+- Footer as an information dense counterweight to the airy hero.
+
+**Avoid**
+
+- Light-mode default marketing; this system is built for dark.
+- Multiple competing accent colors (keep orange exclusive for action).
+- Card carousels or illustration-heavy storytelling that dilute the gradient brand field.
+- Small, timid headlines — scale is part of the identity.
+
+## Evidence scope
+
+Two homepage viewport captures only (hero-focused and footer-focused). No in-app product UI, no mobile breakpoints, and no measured color tokens — accent and surface colors above are visual readings from the screenshots.
+
+## Captured pages
+
+[![Home hero — compliance in days](https://pin.fontofweb.com/8218?format=jpg)](https://design.withfudge.com/share/pin-8218)
+
+[Home hero — compliance in days](https://design.withfudge.com/share/pin-8218)
+
+[![Home footer — mega grid and promo tile](https://pin.fontofweb.com/8219?format=jpg)](https://design.withfudge.com/share/pin-8219)
+
+[Home footer — mega grid and promo tile](https://design.withfudge.com/share/pin-8219)

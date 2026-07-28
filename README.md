@@ -44,6 +44,14 @@ COBE is a developer-library marketing page that behaves like a **live product de
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
+### delve.co
+
+[![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)
+
+Delve’s marketing site sells automated compliance with a **cinematic dark stage**: a full-bleed vertical gradient from deep teal through black into hot orange, oversize white headlines, and a single loud CTA. The product promise is serious (SOC 2, HIPAA, GDPR), but the visual system feels more like a launch film than a paperwork portal — high contrast, sparse copy, and a geometric color field that doubles as brand texture.
+
+[Open guide](design-md/delve.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/delve.co-design)
+
 ### developer.chrome.com
 
 [![How developer.chrome.com is designed](https://pin.fontofweb.com/6426?format=jpg)](design-md/developer.chrome.com.md)
