@@ -1,131 +1,88 @@
 # How dlang.org is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dlang.org-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dlang.org-design)
 
-Source domain: [dlang.org](https://dlang.org)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-12
+## Design character
 
-<!--
-coverPin: 6416
--->
+dlang.org is a **classic language homepage**: helpful, slightly old-web in structure, and honest about being a community/docs hub. A **brick-red** (`#b03931`) top bar and matching primary buttons anchor the brand. Below, light gray and white bands hold intro copy, a code sample card, sponsor logos, and practical News/Learn/Community/Documentation columns. It prioritizes clarity over fashion.
 
-Here is the visual system observed across **2 captured pages** from [dlang.org](https://dlang.org).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#333333",
-  "#b03931",
-  "#f5f5f5",
-  "#ffffff",
-  "#cccccc",
-  "#98312a",
-  "#999999",
-  "#dc4040",
-  "#b07975",
-  "#e4c2c0",
-  "#c99c99",
-  "#414141",
-  "#787878",
-  "#aa423a",
-  "#b2b2b2"
-]
-```
+- Brick-red as the single strong accent
+- Code sample adjacent to the pitch
+- Logo/proof row for industry use
+- Utility multi-column link sections
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dlang.org",
-  "sampleText": "dlang.org",
-  "fonts": [
-    {
-      "family": "Roboto Slab",
-      "familyId": 2116,
-      "pinId": 6416,
-      "domain": "dlang.org",
-      "weight": "400",
-      "size": "15px",
-      "lineHeight": "21px",
-      "letterSpacing": "normal",
-      "frequency": 233
-    },
-    {
-      "family": "Consolas",
-      "familyId": 2117,
-      "pinId": 6415,
-      "domain": "dlang.org",
-      "weight": "400",
-      "size": "13px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 7
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 25 |
-| Spacing values | 39 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6416,
-      "title": "Table of Contents - D Programming Language",
-      "domain": "dlang.org/spec/spec.html",
-      "pageUrl": "dlang.org/spec/spec.html",
-      "imageUrl": "https://pin.fontofweb.com/6416?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#b07975",
-        "#e4c2c0",
-        "#333333",
-        "#000000",
-        "#c99c99",
-        "#414141",
-        "#f5f5f5"
-      ],
-      "fonts": [
-        "Roboto Slab"
-      ]
-    },
-    {
-      "pinId": 6415,
-      "title": "Home - D Programming Language",
-      "domain": "dlang.org/",
-      "pageUrl": "dlang.org/",
-      "imageUrl": "https://pin.fontofweb.com/6415?format=jpg",
-      "colors": [
-        "#333333",
-        "#b67c79",
-        "#ffffff",
-        "#fcfcfc",
-        "#dc4040",
-        "#b03931",
-        "#f5f5f5",
-        "#7f4dc9"
-      ],
-      "fonts": [
-        "Roboto Slab",
-        "Consolas"
-      ]
-    }
-  ]
-}
-```
+Measured:
 
-## Representative captures
-[![Table of Contents - D Programming Language](https://pin.fontofweb.com/6416?format=jpg)](https://design.withfudge.com/pin/6416)
-[Table of Contents - D Programming Language](https://design.withfudge.com/pin/6416) — [source page](https://dlang.org/spec/spec.html)
+- Accent: `#b03931`
+- Primary text: `#333333`
+- Secondary text: `#999999`
 
-[![Home - D Programming Language](https://pin.fontofweb.com/6415?format=jpg)](https://design.withfudge.com/pin/6415)
-[Home - D Programming Language](https://design.withfudge.com/pin/6415) — [source page](https://dlang.org/)
+Surfaces are light gray hero band + white lower sections. Links inside body copy often pick up the red accent. Buttons: filled red primary, white secondary with gray border.
+
+### Typography
+
+Declared families unknown. Body ~15px / 21px line-height weight 400. Headings jump to ~30px. The stack reads as a standard readable sans for docs/marketing hybrid pages.
+
+### Spacing and layout
+
+Radius **4px** on buttons/inputs. Home is vertically stacked sections with a two-column hero (copy + code). Lower content uses multi-column grids. Spec TOC page is denser documentation navigation on the same palette.
+
+## Visual language
+
+- Flat surfaces, minimal shadow
+- Simple bordered code card
+- Corporate logo strip
+- Sidebar-ish latest announcements cards on the home right column
+- Red text links as the interactive cue
+
+## Components and states
+
+- **Top nav:** red bar, white wordmark/links, search
+- **Primary button:** solid red (“Download”, “Donate”)
+- **Secondary button:** white outline
+- **Code panel:** monospaced sample in a light card
+- **Content cards:** announcements list with thumbnails
+- **Spec TOC:** hierarchical documentation links
+
+## Practical guidance
+
+**Preserve**
+
+- One red accent + gray text system
+- Code beside the value prop
+- Straightforward sectioning for Learn/Docs/Community
+
+**Avoid**
+
+- Rewriting it as a dark neon devrel landing
+- Dropping the code sample from the hero story
+- Over-rounding everything into a consumer app look
+
+## Scope note
+
+Home and language spec TOC (pins 6415, 6416). Declared fonts not available; system is desktop-viewport documented here.
+
+## Captured pages
+
+[![Home — pitch, code, community](https://pin.fontofweb.com/6415?format=jpg)](https://design.withfudge.com/share/pin-6415)
+
+[Home — pitch, code, community](https://design.withfudge.com/share/pin-6415)
+
+[![Language spec table of contents](https://pin.fontofweb.com/6416?format=jpg)](https://design.withfudge.com/share/pin-6416)
+
+[Language spec table of contents](https://design.withfudge.com/share/pin-6416)
+
+## Colors
+
+- `#b03931`
+- `#333333`
+- `#999999`
+- `#ffffff`

@@ -564,6 +564,14 @@ Modern Digg is a **warm paper newsroom**, not the old orange digg-button era. Th
 
 [Open guide](design-md/digg.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/digg.com-design)
 
+### dlang.org
+
+[![How dlang.org is designed](https://pin.fontofweb.com/6415?format=jpg)](design-md/dlang.org.md)
+
+dlang.org is a **classic language homepage**: helpful, slightly old-web in structure, and honest about being a community/docs hub. A **brick-red** (`#b03931`) top bar and matching primary buttons anchor the brand. Below, light gray and white bands hold intro copy, a code sample card, sponsor logos, and practical News/Learn/Community/Documentation columns. It prioritizes clarity over fashion.
+
+[Open guide](design-md/dlang.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dlang.org-design)
+
 ### dosu.dev
 
 [![How dosu.dev is designed](https://pin.fontofweb.com/10411?format=jpg)](design-md/dosu.dev.md)
