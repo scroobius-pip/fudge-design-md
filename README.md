@@ -276,6 +276,14 @@ footer.design is a **dark gallery of website footers** — a reference product t
 
 [Open guide](design-md/footer.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/footer.design-design)
 
+### frame.work
+
+[![How frame.work is designed](https://pin.fontofweb.com/9023?format=jpg)](design-md/frame.work.md)
+
+frame.work (Framework) sells modular laptops with a **clean hardware-brand system**: light canvas, confident sans headlines (~48px/600), product photography as hero, and long-scrolling spec storytelling. It feels precise and engineer-honest — generous side margins (~132px outer), 40px content padding, and pill CTAs — closer to premium consumer electronics than startup gradient landings.
+
+[Open guide](design-md/frame.work.md) · [View the Fudge conversation](https://design.withfudge.com/share/frame.work-design)
+
 ### google.com
 
 [![How google.com is designed](https://pin.fontofweb.com/6925?format=jpg)](design-md/google.com.md)
