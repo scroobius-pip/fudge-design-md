@@ -196,6 +196,14 @@ Brevo’s app surfaces are a **professional marketing-automation console**: ligh
 
 [Open guide](design-md/app.brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
+### app.fourmula.ai
+
+[![How app.fourmula.ai is designed](https://pin.fontofweb.com/8676?format=jpg)](design-md/app.fourmula.ai.md)
+
+Formula AI (app.fourmula.ai) runs a **two-act visual system**. Onboarding and start surfaces are **light, airy, and editorial**—huge tight headlines on white, soft gray panels, and a single dark pill CTA. Once you enter a project, the product flips to a **dark production studio**: charcoal rails, denser forms, product imagery, and violet/purple accents that mark the brand inside the tool.
+
+[Open guide](design-md/app.fourmula.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.fourmula.ai-design)
+
 ### app.paper.design
 
 [![How app.paper.design is designed](https://pin.fontofweb.com/8569?format=jpg)](design-md/app.paper.design.md)
