@@ -20,6 +20,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
+### autogram.id
+
+[![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
+
+Autogram presents as a **calm, airy personal-OS product**: a near-white stage, near-black type, and a constellation of floating social/app tiles orbiting a centered hero. The chrome is minimal so the metaphor of “everything you share in one place” can live as motion-ready cards rather than dense marketing sections.
+
+[Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
+
 ### cobe.vercel.app
 
 [![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
