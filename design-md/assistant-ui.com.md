@@ -1,130 +1,75 @@
 # How assistant-ui.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/assistant-ui.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/assistant-ui.com-design)
 
-Source domain: [assistant-ui.com](https://assistant-ui.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-11
+## Design character
 
-<!--
-coverPin: 8806
--->
+assistant-ui’s docs are a **dark developer product surface**: near-black background, off-white primary text (`#fafafa`), muted gray secondary (`#a1a1a1`), and a soft periwinkle accent (`#cdd6f4`) rather than neon blue. It reads as modern shadcn-adjacent documentation—sidebar, prose, and live component previews in one calm toolkit aesthetic.
 
-Here is the visual system observed across **2 captured pages** from [assistant-ui.com](https://assistant-ui.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#fafafa",
-  "#cdd6f4",
-  "#262626",
-  "#2b7fff",
-  "#a1a1a1",
-  "#94e2d5",
-  "#f5c2e7",
-  "#a6e3a1",
-  "#cba6f7",
-  "#f9e2af",
-  "#424242",
-  "#757575",
-  "#0e0e0e",
-  "#979797",
-  "#1c3352"
-]
-```
+- Dark docs default with low-chroma accent.
+- 6–10px radii on controls and code/previews.
+- 13–16px sans body with comfortable leading (20–24).
+- Tight 8–16px padding rhythm inside nav and content.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from assistant-ui.com",
-  "sampleText": "assistant-ui.com",
-  "fonts": [
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 8806,
-      "domain": "assistant-ui.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "23.8px",
-      "letterSpacing": "normal",
-      "frequency": 25
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8754,
-      "domain": "assistant-ui.com",
-      "weight": "400",
-      "size": "13px",
-      "lineHeight": "21.45px",
-      "letterSpacing": "normal",
-      "frequency": 196
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 22 |
-| Spacing values | 31 |
-| Borders and radii | 8 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8806,
-      "title": "Installation | assistant-ui",
-      "domain": "assistant-ui.com/docs/installation",
-      "pageUrl": "assistant-ui.com/docs/installation",
-      "imageUrl": "https://pin.fontofweb.com/8806?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#424242",
-        "#757575",
-        "#262626",
-        "#000000",
-        "#0e0e0e",
-        "#979797"
-      ],
-      "fonts": [
-        "Geist"
-      ]
-    },
-    {
-      "pinId": 8754,
-      "title": "Thread | assistant-ui",
-      "domain": "assistant-ui.com/docs/ui/thread",
-      "pageUrl": "assistant-ui.com/docs/ui/thread",
-      "imageUrl": "https://pin.fontofweb.com/8754?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#1c3352",
-        "#2b7fff",
-        "#4d4c4d",
-        "#121212",
-        "#b1afb1",
-        "#262626",
-        "#cdd6f4"
-      ],
-      "fonts": [
-        "Geist",
-        "System"
-      ]
-    }
-  ]
-}
-```
+Measured: accent `#cdd6f4`, text primary `#fafafa`, secondary `#a1a1a1`. Surfaces charcoal/black; code blocks slightly elevated. Avoid harsh pure primary blue.
 
-## Representative captures
-[![Installation | assistant-ui](https://pin.fontofweb.com/8806?format=jpg)](https://design.withfudge.com/pin/8806)
-[Installation | assistant-ui](https://design.withfudge.com/pin/8806) — [source page](https://assistant-ui.com/docs/installation)
+### Typography
 
-[![Thread | assistant-ui](https://pin.fontofweb.com/8754?format=jpg)](https://design.withfudge.com/pin/8754)
-[Thread | assistant-ui](https://design.withfudge.com/pin/8754) — [source page](https://assistant-ui.com/docs/ui/thread)
+Sans 400–500. Sizes 13–16 common; line-heights ~17.9–24. Installation fragment also 14/20–23.8.
+
+### Spacing and layout
+
+Docs: left nav + main + sometimes right TOC. Padding 8–16px dominant; some 6–14px micro padding in dense lists.
+
+## Visual language
+
+- Radii 6 / 8 / 10 / 14.
+- 1px borders on panels.
+- Minimal shadows observed—border and fill define structure.
+
+## Components and states
+
+- Sidebar navigation tree.
+- Prose headings and inline code.
+- Component preview frames.
+- Tabs/segments for examples.
+- Copyable installation snippets.
+
+## Responsive behavior
+
+One full desktop docs page and one tiny fragment; mobile docs pattern not established.
+
+## Practical guidance
+
+**Preserve:** dark calm docs, soft accent, medium radii, toolkit density.
+
+**Avoid:** light-only docs restyle without care; loud brand gradients; oversized marketing heroes inside API reference.
+
+## Scope note
+
+Docs pages only (thread + installation). Marketing homepage not in set. No declared font families.
+
+## Captured pages
+
+[![Thread component docs](https://pin.fontofweb.com/8754?format=jpg)](https://design.withfudge.com/share/pin-8754)
+
+[Thread component docs](https://design.withfudge.com/share/pin-8754)
+
+[![Installation docs](https://pin.fontofweb.com/8806?format=jpg)](https://design.withfudge.com/share/pin-8806)
+
+[Installation docs](https://design.withfudge.com/share/pin-8806)
+
+## Colors
+
+- `#cdd6f4`
+- `#fafafa`
+- `#a1a1a1`
+- `#0a0a0a`

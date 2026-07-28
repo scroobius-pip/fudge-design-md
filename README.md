@@ -44,6 +44,14 @@ Artificial Analysis is a **light, high-trust AI analytics brand**: white canvas,
 
 [Open guide](design-md/artificialanalysis.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
 
+### assistant-ui.com
+
+[![How assistant-ui.com is designed](https://pin.fontofweb.com/8754?format=jpg)](design-md/assistant-ui.com.md)
+
+assistant-ui’s docs are a **dark developer product surface**: near-black background, off-white primary text (`#fafafa`), muted gray secondary (`#a1a1a1`), and a soft periwinkle accent (`#cdd6f4`) rather than neon blue. It reads as modern shadcn-adjacent documentation—sidebar, prose, and live component previews in one calm toolkit aesthetic.
+
+[Open guide](design-md/assistant-ui.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/assistant-ui.com-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
