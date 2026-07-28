@@ -404,6 +404,14 @@ COBE is a developer-library marketing page that behaves like a **live product de
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
+### coda.co
+
+[![How coda.co is designed](https://pin.fontofweb.com/6759?format=jpg)](design-md/coda.co.md)
+
+Coda’s Merchant of Record landing is calm B2B finance marketing: a soft warm-gray field, near-black headlines, olive-gray secondary copy, and a single black pill CTA. The page is sparse and editorial — one bold claim, one short subline, one action — then a large product mockup that does the selling. Soft 3D icons and rounded chip cards sit on the muted canvas without loud brand color.
+
+[Open guide](design-md/coda.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/coda.co-design)
+
 ### contentformcontext.com
 
 [![How contentformcontext.com is designed](https://pin.fontofweb.com/10404?format=jpg)](design-md/contentformcontext.com.md)
