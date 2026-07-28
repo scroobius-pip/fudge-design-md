@@ -1,156 +1,92 @@
 # How earth.google.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/earth.google.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/earth.google.com-design)
 
-Source domain: [earth.google.com](https://earth.google.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-15
+# How earth.google.com is designed
 
-<!--
-coverPin: 9655
--->
+## Design character
 
-Here is the visual system observed across **3 captured pages** from [earth.google.com](https://earth.google.com).
+Google Earth Web is a full-bleed globe product: the planet is the interface, and Chrome-like utility UI floats as compact light controls over imagery. The design character is cartographic immersion first, Google Material restraint second—minimal chrome, maximum Earth.
 
-```fudge-colors
-[
-  "#000000",
-  "#040404",
-  "#464958",
-  "#8aa496",
-  "#a17846",
-  "#222e49",
-  "#cbe0d1",
-  "#a8a8db",
-  "#857360",
-  "#d5ead8",
-  "#161616",
-  "#c6bc58",
-  "#9e85c8",
-  "#74a462",
-  "#104a75",
-  "#434a4a"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from earth.google.com",
-  "sampleText": "earth.google.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9655,
-      "domain": "earth.google.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 33
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9655,
-      "domain": "earth.google.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 4257
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 26 |
-| Spacing values | 0 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+Structured colors were empty; visual system:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9655,
-      "title": "Google Earth",
-      "domain": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA",
-      "pageUrl": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA",
-      "imageUrl": "https://pin.fontofweb.com/9655?format=jpg",
-      "colors": [
-        "#040404",
-        "#464958",
-        "#8aa496",
-        "#a17846",
-        "#222e49",
-        "#cbe0d1",
-        "#a8a8db",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times"
-      ]
-    },
-    {
-      "pinId": 9654,
-      "title": "Google Earth",
-      "domain": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA",
-      "pageUrl": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA",
-      "imageUrl": "https://pin.fontofweb.com/9654?format=jpg",
-      "colors": [
-        "#857360",
-        "#d5ead8",
-        "#161616",
-        "#c6bc58",
-        "#9e85c8",
-        "#74a462",
-        "#104a75",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times"
-      ]
-    },
-    {
-      "pinId": 9653,
-      "title": "Google Earth",
-      "domain": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA",
-      "pageUrl": "earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA",
-      "imageUrl": "https://pin.fontofweb.com/9653?format=jpg",
-      "colors": [
-        "#4c4e57",
-        "#a4c3f6",
-        "#000000",
-        "#575327",
-        "#969c9a",
-        "#0f0f0f",
-        "#dbdcdb",
-        "#092337"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times"
-      ]
-    }
-  ]
-}
-```
+- **Stage:** live satellite / terrain imagery (full color, constantly changing)
+- **UI surfaces:** white and light gray floating panels, search field, tool rails
+- **Icons / ink on chrome:** dark gray / Google blue accents on interactive controls
+- **Map labels:** light type with subtle halo for legibility on imagery (visual)
 
-## Representative captures
-[![Google Earth](https://pin.fontofweb.com/9655?format=jpg)](https://design.withfudge.com/pin/9655)
-[Google Earth](https://design.withfudge.com/pin/9655) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA)
+Brand color is mostly whatever the globe shows; UI stays neutral so it never competes with terrain.
 
-[![Google Earth](https://pin.fontofweb.com/9654?format=jpg)](https://design.withfudge.com/pin/9654)
-[Google Earth](https://design.withfudge.com/pin/9654) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)
+### Typography
 
-[![Google Earth](https://pin.fontofweb.com/9653?format=jpg)](https://design.withfudge.com/pin/9653)
-[Google Earth](https://design.withfudge.com/pin/9653) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)
+Observed UI type ~14–16px weight 400 on floating chrome. No display marketing type in these captures—this is product UI, not a landing page.
+
+### Spacing and layout
+
+- Viewport-filling map canvas
+- Floating search / tool clusters anchored to edges
+- Minimal permanent margins; panels overlay rather than push content
+- No useful spacing token scale from structured data (empty spacing family)
+
+## Visual language
+
+- Immersive globe as hero and body
+- Small rounded floating controls
+- Soft shadows under panels (visual) for separation from imagery
+- Knowledge cards / place panels when a location is selected (partially visible in captures)
+
+## Components and states
+
+- Top or corner search
+- Zoom / tilt / north tools
+- Layers and knowledge side sheets
+- Attribution footer strip on the map
+- Occasional coach marks or feature callouts
+
+## Responsive behavior
+
+All three captures are large desktop (1712×1314) of `/web` globe states. Layout differences are mostly map camera and open panels, not breakpoint redesigns.
+
+## Practical guidance
+
+**Preserve**
+
+- Imagery-first full bleed
+- Tiny neutral floating chrome
+- Let map color dominate; keep UI grayscale + one accent
+
+**Avoid**
+
+- Heavy marketing headers over the globe
+- Opaque sidebars that steal half the planet by default
+- Decorative illustration competing with real Earth imagery
+
+## Scope note
+
+Three Google Earth Web captures with near-identical paths (camera/UI state variants). Almost no structured color/type/spacing rows—guide is screenshot-led.
+
+## Captured pages
+
+[![Earth Web globe](https://pin.fontofweb.com/9655?format=jpg)](https://design.withfudge.com/share/pin-9655)
+
+[Earth Web globe](https://design.withfudge.com/share/pin-9655)
+
+[![Earth Web alternate UI state](https://pin.fontofweb.com/9654?format=jpg)](https://design.withfudge.com/share/pin-9654)
+
+[Earth Web alternate UI state](https://design.withfudge.com/share/pin-9654)
+
+[![Earth Web third state](https://pin.fontofweb.com/9653?format=jpg)](https://design.withfudge.com/share/pin-9653)
+
+[Earth Web third state](https://design.withfudge.com/share/pin-9653)
+
+## Colors
+
+- `#ffffff`
+- `#202124`
+- `#1a73e8`

@@ -220,6 +220,14 @@ developer.chrome.com is Google’s **Chrome for Developers** hub: a dark, docume
 
 [Open guide](design-md/developer.chrome.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/developer.chrome.com-design)
 
+### earth.google.com
+
+[![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
+
+Google Earth Web is a full-bleed globe product: the planet is the interface, and Chrome-like utility UI floats as compact light controls over imagery. The design character is cartographic immersion first, Google Material restraint second—minimal chrome, maximum Earth.
+
+[Open guide](design-md/earth.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/earth.google.com-design)
+
 ### fontstand.com
 
 [![How fontstand.com is designed](https://pin.fontofweb.com/6811?format=jpg)](design-md/fontstand.com.md)
