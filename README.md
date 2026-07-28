@@ -316,6 +316,14 @@ Better Stack is a **dark-first observability SaaS** brand: near-black canvases, 
 
 [Open guide](design-md/betterstack.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/betterstack.com-design)
 
+### blog.google
+
+[![How blog.google is designed](https://pin.fontofweb.com/7540?format=jpg)](design-md/blog.google.md)
+
+The Keyword (blog.google) is Google’s product/technology news surface: clean white canvas, approachable editorial type, soft card radii (~16px), and gentle elevation. It feels more magazine than docs—story cards, clear sectioning, and restrained Material-adjacent softness without heavy purple branding in the captured frames.
+
+[Open guide](design-md/blog.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/blog.google-design)
+
 ### c82.net
 
 [![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)

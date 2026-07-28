@@ -1,117 +1,86 @@
 # How blog.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/blog.google-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/blog.google-design)
 
-Source domain: [blog.google](https://blog.google)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-01
+## Design character
 
-<!--
-coverPin: 7540
--->
+The Keyword (blog.google) is Google’s product/technology news surface: clean white canvas, approachable editorial type, soft card radii (~16px), and gentle elevation. It feels more magazine than docs—story cards, clear sectioning, and restrained Material-adjacent softness without heavy purple branding in the captured frames.
 
-Here is the visual system observed across **2 captured pages** from [blog.google](https://blog.google).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#5f6368",
-  "#000000",
-  "#364043",
-  "#ffffff",
-  "#202124",
-  "#3367d6",
-  "#1a73e8",
-  "#c6cfda",
-  "#272d29",
-  "#f6f8fa",
-  "#467ce9",
-  "#867e7a",
-  "#714329",
-  "#8bb1d8",
-  "#b43124",
-  "#ceb290"
-]
-```
+- **Editorial clarity** on white
+- **Soft cards** (16px radius, light multi-stop shadows)
+- **Readable multi-size type** from ~14px UI to ~36px story titles
+- **Airy padding** (~24–36px) inside content modules
+- **Story-first layout** over product chrome
 
-```fudge-font-usage
-{
-  "title": "Typography captured from blog.google",
-  "sampleText": "blog.google",
-  "fonts": [
-    {
-      "family": "Google Sans",
-      "familyId": 645,
-      "pinId": 7540,
-      "domain": "blog.google",
-      "weight": "300",
-      "size": "18px",
-      "lineHeight": "25.992px",
-      "letterSpacing": "normal",
-      "frequency": 95
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 24 |
-| Spacing values | 4 |
-| Borders and radii | 1 |
-| Shadows | 1 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7540,
-      "title": "The Keyword | Google Product and Technology News and Stories",
-      "domain": "blog.google/",
-      "pageUrl": "blog.google/",
-      "imageUrl": "https://pin.fontofweb.com/7540?format=jpg",
-      "colors": [
-        "#5f6368",
-        "#c6cfda",
-        "#3367d6",
-        "#272d29",
-        "#f6f8fa",
-        "#467ce9",
-        "#1a73e8",
-        "#867e7a"
-      ],
-      "fonts": [
-        "Google Sans"
-      ]
-    },
-    {
-      "pinId": 4979,
-      "title": "The Keyword | Google Product and Technology News and Stories",
-      "domain": "blog.google/",
-      "pageUrl": "blog.google/",
-      "imageUrl": "https://pin.fontofweb.com/4979?format=jpg",
-      "colors": [
-        "#f6f8fb",
-        "#adaeaf",
-        "#7a94bd",
-        "#838486",
-        "#afc5e3",
-        "#2c2d30",
-        "#4b6899",
-        "#555659"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No structured role palette returned. Visually: white background, near-black text, Google’s familiar multi-color logo accents in chrome, soft gray surfaces for secondary regions. Do not invent a full Material color token set beyond what’s visible.
 
-## Representative captures
-[![The Keyword | Google Product and Technology News and Stories](https://pin.fontofweb.com/7540?format=jpg)](https://design.withfudge.com/pin/7540)
-[The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/7540) — [source page](https://blog.google/)
+### Typography
 
-[![The Keyword | Google Product and Technology News and Stories](https://pin.fontofweb.com/4979?format=jpg)](https://design.withfudge.com/pin/4979)
-[The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/pin/4979) — [source page](https://blog.google/)
+- **Story titles**: ~36px / 44px weight 400
+- **Body / deck**: ~18px weight 300, ~26px lh — lighter weight for approachability
+- **Secondary**: 16px / 28px regular
+- **Nav / UI**: 14px medium with tall line-height in places
+
+The lighter 300 weight on 18px text is a distinctive “Google editorial” softness.
+
+### Spacing and layout
+
+- Module padding ~**36px** horizontal/bottom, **24px** top
+- **16px** and **8px** margins between stacked items
+- Negative horizontal margin (~−72px) appears in some full-bleed card breaks — cards can escape the text column slightly
+
+### Radii and shadows
+
+- Radius **16px** on key cards
+- Shadows layered: `0 1px 3px` plus `0 4px 8px 3px` — soft Material-like elevation
+
+## Visual language
+
+- Friendly, rounded, light
+- Photography and story art inside cards
+- Minimal harsh lines; elevation > hard borders in the observed home frames
+
+## Components and states
+
+- Top marketing/editorial nav
+- Featured story hero or large card
+- Story card grids
+- Category/label chips (visually quiet)
+- Footer utilities (not deeply captured)
+
+## Responsive behavior
+
+Two home captures at **1307** and **1440** wide, relatively short heights (partial viewports). System is desktop editorial; on smaller widths, cards should reflow to a single column while keeping 16px radii and the soft type weights.
+
+## Practical guidance
+
+**Preserve**: white editorial canvas, 16px card radius, soft dual shadows, 36px titles, light 18/300 decks.
+
+**Avoid**: dark mode default, sharp 2px industrial borders, startup neon CTAs, or dense dashboard widgets on the blog home.
+
+## Scope note
+
+Two homepage captures only. Color roles and full footer/article templates were not in set; foundations combine limited metrics with screenshot reading.
+
+## Captured pages
+
+[![The Keyword home — story cards](https://pin.fontofweb.com/7540?format=jpg)](https://design.withfudge.com/share/pin-7540)
+
+[The Keyword home — story cards](https://design.withfudge.com/share/pin-7540)
+
+[![The Keyword home — compact viewport](https://pin.fontofweb.com/4979?format=jpg)](https://design.withfudge.com/share/pin-4979)
+
+[The Keyword home — compact viewport](https://design.withfudge.com/share/pin-4979)
+
+## Colors
+
+- `#ffffff`
+- `#202124`
