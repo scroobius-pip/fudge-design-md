@@ -1,4 +1,4 @@
-name: Publish one Fudge DESIGN.md guide
+name: Sync one accepted Fudge DESIGN.md guide
 
 on:
   workflow_dispatch:
@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  publish:
+  sync:
     runs-on: ubuntu-latest
     env:
       FUDGE_DOMAIN: ${{ inputs.domain }}
