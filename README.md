@@ -20,6 +20,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
+### cobe.vercel.app
+
+[![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
+
+COBE is a developer-library marketing page that behaves like a **live product demo first and documentation second**. The visual system is almost monastic: vast white field, a single interactive WebGL globe as the hero artifact, then a long vertical stack of API sections. Personality lives in the globe (dot-rendered continents, emoji stickers, glowing arcs) and in a sharp **electric blue** accent—not in chrome, illustration, or marketing flourishes.
+
+[Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
