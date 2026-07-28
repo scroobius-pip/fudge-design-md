@@ -1,241 +1,101 @@
 # How app.brevo.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.brevo.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
-Source domain: [app.brevo.com](https://app.brevo.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-15
+## Design character
 
-<!--
-coverPin: 10111
--->
+Brevo’s app surfaces are a **professional marketing-automation console**: light gray shell, white content cards, purple brand accent (`#6358de`) for primary buttons and active states, and dense campaign/settings information architecture. It feels trustworthy and operational—built for lists, campaigns, and keys—not for cinematic product marketing.
 
-Here is the visual system observed across **6 captured pages** from [app.brevo.com](https://app.brevo.com).
+What should survive adaptation:
+- Light gray app background + white panels
+- Purple primary actions (`#6358de`)
+- Dark primary text (`#1b1b1b`) and muted secondary (`#696969`)
+- Left navigation + listing tables + settings forms
 
-```fudge-colors
-[
-  "#1b1b1b",
-  "#ffffff",
-  "#e3e3e3",
-  "#f9fff6",
-  "#1c1c1c",
-  "#fffdf6",
-  "#efeefc",
-  "#ffecee",
-  "#f0f0f0",
-  "#000000",
-  "#6358de",
-  "#696969",
-  "#d7fec8",
-  "#deaf02",
-  "#cfcfcf",
-  "#d8efe8"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from app.brevo.com",
-  "sampleText": "app.brevo.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10111,
-      "domain": "app.brevo.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 23
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 10111,
-      "domain": "app.brevo.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 23
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 10111,
-      "domain": "app.brevo.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 571
-    },
-    {
-      "family": "Arial",
-      "familyId": 2088,
-      "pinId": 10058,
-      "domain": "app.brevo.com",
-      "weight": "400",
-      "size": "13.3333px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 2
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 63 |
-| Spacing values | 392 |
-| Borders and radii | 48 |
-| Shadows | 5 |
-| Gradients | 8 |
+Measured swatches seen across pages: `#6358de`, `#1b1b1b`, `#696969`. Keep purple scarce enough to mean “primary”; neutrals do the heavy lifting. Success/warning colors may appear in statuses but should not overwrite brand purple.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10111,
-      "title": "Campaigns - Brevo",
-      "domain": "app.brevo.com/campaigns/listing",
-      "pageUrl": "app.brevo.com/campaigns/listing",
-      "imageUrl": "https://pin.fontofweb.com/10111?format=jpg",
-      "colors": [
-        "#2a2929",
-        "#80797a",
-        "#555452",
-        "#b8b7b7",
-        "#daf7c1",
-        "#279875",
-        "#fefdfc",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 10059,
-      "title": "Hello Simdi - Brevo",
-      "domain": "app.brevo.com/",
-      "pageUrl": "app.brevo.com/",
-      "imageUrl": "https://pin.fontofweb.com/10059?format=jpg",
-      "colors": [
-        "#8177ce",
-        "#c2c2c3",
-        "#17865e",
-        "#d8fbc9",
-        "#8db59d",
-        "#2d2d2c",
-        "#fefefc",
-        "#767776"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 10058,
-      "title": "API keys & MCP - Brevo",
-      "domain": "app.brevo.com/settings/keys/api",
-      "pageUrl": "app.brevo.com/settings/keys/api",
-      "imageUrl": "https://pin.fontofweb.com/10058?format=jpg",
-      "colors": [
-        "#848587",
-        "#1e9970",
-        "#c0c3c2",
-        "#3e3e3f",
-        "#fdfdfe",
-        "#8baedf",
-        "#046b45",
-        "#4566c8"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Inter",
-        "Arial"
-      ]
-    },
-    {
-      "pinId": 5148,
-      "title": "Customize Starter plan - Brevo",
-      "domain": "app.brevo.com/billing/account/plans/customize/starter",
-      "pageUrl": "app.brevo.com/billing/account/plans/customize/starter",
-      "imageUrl": "https://pin.fontofweb.com/5148?format=jpg",
-      "colors": [
-        "#f2f2fc",
-        "#a3a2aa",
-        "#6f6f73",
-        "#515056",
-        "#2e2d31"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5147,
-      "title": "Customize Starter plan - Brevo",
-      "domain": "app.brevo.com/billing/account/plans/customize/starter",
-      "pageUrl": "app.brevo.com/billing/account/plans/customize/starter",
-      "imageUrl": "https://pin.fontofweb.com/5147?format=jpg",
-      "colors": [
-        "#fafafa",
-        "#1d1d1d",
-        "#cacaca",
-        "#989898",
-        "#767676",
-        "#505050",
-        "#7167d4",
-        "#b7b2e5"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 5146,
-      "title": "Customize Starter plan - Brevo",
-      "domain": "app.brevo.com/billing/account/plans/customize/starter",
-      "pageUrl": "app.brevo.com/billing/account/plans/customize/starter",
-      "imageUrl": "https://pin.fontofweb.com/5146?format=jpg",
-      "colors": [
-        "#fcfcfe",
-        "#bbbbbf",
-        "#858586",
-        "#646365",
-        "#2c2c2d",
-        "#6b63c0",
-        "#3fa380"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Campaigns - Brevo](https://pin.fontofweb.com/10111?format=jpg)](https://design.withfudge.com/pin/10111)
-[Campaigns - Brevo](https://design.withfudge.com/pin/10111) — [source page](https://app.brevo.com/campaigns/listing)
+Observed text styles:
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 14px
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 400, 14px, lh 16px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 14px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 400, 16px, lh 24px
 
-[![Hello Simdi - Brevo](https://pin.fontofweb.com/10059?format=jpg)](https://design.withfudge.com/pin/10059)
-[Hello Simdi - Brevo](https://design.withfudge.com/pin/10059) — [source page](https://app.brevo.com/)
+Compact UI sans for nav and tables; clearer medium titles on page headers; smaller helper text in gray. Monospace can appear for API keys on settings routes.
 
-[![API keys & MCP - Brevo](https://pin.fontofweb.com/10058?format=jpg)](https://design.withfudge.com/pin/10058)
-[API keys & MCP - Brevo](https://design.withfudge.com/pin/10058) — [source page](https://app.brevo.com/settings/keys/api)
+### Spacing and layout
 
-[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5148?format=jpg)](https://design.withfudge.com/pin/5148)
-[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5148) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+Recurring spacing measurements include 4px, 16px, 24px, 32px. App padding is regular; listings use row density suitable for inboxes/campaigns; settings pages use form widths narrower than full bleed. Observed corner radii include 8px, 12px, 16px, 20px, 32px.
 
-[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5147?format=jpg)](https://design.withfudge.com/pin/5147)
-[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5147) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+## Visual language
 
-[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5146?format=jpg)](https://design.withfudge.com/pin/5146)
-[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5146) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+Subtle card elevation, thin borders, purple filled buttons, quiet secondary outline buttons. Tables and empty states stay plain. Avoid illustrative heroes inside authenticated routes.
+
+## Components and states
+
+- Left sidebar navigation
+- Top page headers with primary CTA (e.g., create campaign)
+- Campaign listing rows/tables
+- Billing/plan customization flows
+- API keys settings panels
+- Form inputs, toggles, and status chips
+
+## Responsive behavior
+
+Desktop captures (~1712–2048px). Collapse sidebar on smaller screens; keep tables scrollable; preserve purple primary CTAs in headers.
+
+## Practical guidance
+
+**Preserve** purple accent discipline, light console structure, listing density, readable dark text.  
+**Avoid** consumer-portal yellows or dark neon skins that fight Brevo’s operational clarity.
+
+## Scope note
+
+Studied 6 page captures on paths /, /billing/account/plans/customize/starter, /campaigns/listing, /settings/keys/api. Some structural families were incomplete on these pages. Home/app entry, campaigns listing, API keys settings, and billing plan customization were studied.
+
+## Captured pages
+
+[![Campaigns - Brevo](https://pin.fontofweb.com/10111?format=jpg)](https://design.withfudge.com/share/pin-10111)
+
+[Campaigns - Brevo](https://design.withfudge.com/share/pin-10111)
+
+[![Hello Simdi - Brevo](https://pin.fontofweb.com/10059?format=jpg)](https://design.withfudge.com/share/pin-10059)
+
+[Hello Simdi - Brevo](https://design.withfudge.com/share/pin-10059)
+
+[![API keys & MCP - Brevo](https://pin.fontofweb.com/10058?format=jpg)](https://design.withfudge.com/share/pin-10058)
+
+[API keys & MCP - Brevo](https://design.withfudge.com/share/pin-10058)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5148?format=jpg)](https://design.withfudge.com/share/pin-5148)
+
+[Customize Starter plan - Brevo](https://design.withfudge.com/share/pin-5148)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5147?format=jpg)](https://design.withfudge.com/share/pin-5147)
+
+[Customize Starter plan - Brevo](https://design.withfudge.com/share/pin-5147)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5146?format=jpg)](https://design.withfudge.com/share/pin-5146)
+
+[Customize Starter plan - Brevo](https://design.withfudge.com/share/pin-5146)
+
+## Colors
+
+- `#6358de`
+- `#1b1b1b`
+- `#696969`

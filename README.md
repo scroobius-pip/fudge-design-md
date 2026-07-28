@@ -172,6 +172,14 @@ Brave’s Search API dashboard is a **utilitarian developer console**: light gra
 
 [Open guide](design-md/api-dashboard.search.brave.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/api-dashboard.search.brave.com-design)
 
+### app.brevo.com
+
+[![How app.brevo.com is designed](https://pin.fontofweb.com/10111?format=jpg)](design-md/app.brevo.com.md)
+
+Brevo’s app surfaces are a **professional marketing-automation console**: light gray shell, white content cards, purple brand accent (`#6358de`) for primary buttons and active states, and dense campaign/settings information architecture. It feels trustworthy and operational—built for lists, campaigns, and keys—not for cinematic product marketing.
+
+[Open guide](design-md/app.brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
