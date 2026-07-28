@@ -116,6 +116,14 @@ Aiverse.design feels like a curated design journal for AI products: warm off-whi
 
 [Open guide](design-md/aiverse.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/aiverse.design-design)
 
+### algebrica.org
+
+[![How algebrica.org is designed](https://pin.fontofweb.com/8752?format=jpg)](design-md/algebrica.org.md)
+
+Algebrica reads like a **quiet mathematical library on the web**: white paper canvas, black ink, and just enough structure to keep theorems findable. The brand voice is scholarly rather than startup-bright. The home page opens with a large display headline (“A Mathematical Knowledge Base”), short gray supporting copy, and two solid black pill buttons—then settles into a grid of soft topic cards (Algebra, Calculus, and peers). Article pages shift into a **textbook layout**: sticky table of contents, long reading column, and theorem/definition blocks nested in light gray rounded panels.
+
+[Open guide](design-md/algebrica.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/algebrica.org-design)
+
 ### alpine.inc
 
 [![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
