@@ -348,6 +348,14 @@ c82.net’s Naturalist’s Library is a **scholarly, illustration-first archive*
 
 [Open guide](design-md/c82.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/c82.net-design)
 
+### cap.so
+
+[![How cap.so is designed](https://pin.fontofweb.com/6475?format=jpg)](design-md/cap.so.md)
+
+Cap is a **crisp monochrome SaaS** for screen recording: white canvas, black primary text/buttons, zinc muted copy (`#71717a`), and soft small radii. Marketing is friendly and spacious; pricing is orderly card comparison. It reads modern indie-software—not enterprise heavy, not neon playful.
+
+[Open guide](design-md/cap.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/cap.so-design)
+
 ### cavalry.studio
 
 [![How cavalry.studio is designed](https://pin.fontofweb.com/8893?format=jpg)](design-md/cavalry.studio.md)
