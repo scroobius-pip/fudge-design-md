@@ -220,6 +220,14 @@ Fontstand is a **type-industry product site** that swings between two modes: a h
 
 [Open guide](design-md/fontstand.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/fontstand.com-design)
 
+### footer.design
+
+[![How footer.design is designed](https://pin.fontofweb.com/7028?format=jpg)](design-md/footer.design.md)
+
+footer.design is a **dark gallery of website footers** — a reference product that treats the bottom of the page as the subject. The shell is almost pure black with quiet gray type; the content is a dense masonry of real site footers, each shown as a rounded preview card. The mood is archival, designer-facing, and slightly editorial: labels like “Grid Footers,” category chips, and short case blurbs sit beside large cropped footer specimens rather than marketing hero copy.
+
+[Open guide](design-md/footer.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/footer.design-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
