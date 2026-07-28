@@ -132,6 +132,14 @@ COBE is a developer-library marketing page that behaves like a **live product de
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
+### contentformcontext.com
+
+[![How contentformcontext.com is designed](https://pin.fontofweb.com/10404?format=jpg)](design-md/contentformcontext.com.md)
+
+Content for Context’s case-study page (SBS 8 News) reads as a **editorial portfolio** more than a product UI: full-bleed photography, large serif-or-display case headlines, generous white margins, and long-form storytelling sections. The captures show a clean agency layout—hero imagery tied to the broadcaster brand, then structured narrative blocks—without a dense component library.
+
+[Open guide](design-md/contentformcontext.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/contentformcontext.com-design)
+
 ### curator.io
 
 [![How curator.io is designed](https://pin.fontofweb.com/7651?format=jpg)](design-md/curator.io.md)

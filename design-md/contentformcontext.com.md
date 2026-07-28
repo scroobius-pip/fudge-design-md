@@ -1,144 +1,103 @@
 # How contentformcontext.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/contentformcontext.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/contentformcontext.com-design)
 
-Source domain: [contentformcontext.com](https://contentformcontext.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-19
+## Design character
 
-<!--
-coverPin: 10405
--->
+Content for Context’s case-study page (SBS 8 News) reads as a **editorial portfolio** more than a product UI: full-bleed photography, large serif-or-display case headlines, generous white margins, and long-form storytelling sections. The captures show a clean agency layout—hero imagery tied to the broadcaster brand, then structured narrative blocks—without a dense component library.
 
-Here is the visual system observed across **2 captured pages** from [contentformcontext.com](https://contentformcontext.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#999999",
-  "#ffffff",
-  "#111111",
-  "#0000ee",
-  "#aeaeae",
-  "#19bbb7",
-  "#050505",
-  "#094947",
-  "#776b68",
-  "#343335",
-  "#051354",
-  "#dadde2",
-  "#959ba2",
-  "#fdfefe",
-  "#4b83c0"
-]
-```
+- Photography-led case heroes
+- Wide margins (~50px+) and calm vertical pacing
+- Large case titles (~30–35px) over quieter 16–20px body
+- Minimal chrome; story and image do the work
+- Soft, restrained UI chrome if any (large ~60px radius appears once)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from contentformcontext.com",
-  "sampleText": "contentformcontext.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 10405,
-      "domain": "contentformcontext.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 72
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 10405,
-      "domain": "contentformcontext.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 72
-    },
-    {
-      "family": "Aktiv Grotesk",
-      "familyId": 2689,
-      "pinId": 10404,
-      "domain": "contentformcontext.com",
-      "weight": "400",
-      "size": "19px",
-      "lineHeight": "19px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 22 |
-| Spacing values | 31 |
-| Borders and radii | 1 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 10405,
-      "title": "CFC - SBS 8 News",
-      "domain": "contentformcontext.com/sbs-8-news",
-      "pageUrl": "contentformcontext.com/sbs-8-news",
-      "imageUrl": "https://pin.fontofweb.com/10405?format=jpg",
-      "colors": [
-        "#19bbb7",
-        "#050505",
-        "#094947",
-        "#776b68",
-        "#343335",
-        "#051354",
-        "#dadde2",
-        "#959ba2"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System"
-      ]
-    },
-    {
-      "pinId": 10404,
-      "title": "CFC - SBS 8 News",
-      "domain": "contentformcontext.com/sbs-8-news",
-      "pageUrl": "contentformcontext.com/sbs-8-news",
-      "imageUrl": "https://pin.fontofweb.com/10404?format=jpg",
-      "colors": [
-        "#111111",
-        "#fdfefe",
-        "#4b83c0",
-        "#1b57a6",
-        "#061459",
-        "#7a7c7e",
-        "#414141",
-        "#cad4e2"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Aktiv Grotesk"
-      ]
-    }
-  ]
-}
-```
+No instrumented color roles or palette rows were returned. Visually the page reads as:
 
-## Representative captures
-[![CFC - SBS 8 News](https://pin.fontofweb.com/10405?format=jpg)](https://design.withfudge.com/pin/10405)
-[CFC - SBS 8 News](https://design.withfudge.com/pin/10405) — [source page](https://contentformcontext.com/sbs-8-news)
+- Light/neutral page field
+- Dark type on light reading sections
+- Full-color photography carrying brand hues from the client (SBS 8 News)
 
-[![CFC - SBS 8 News](https://pin.fontofweb.com/10404?format=jpg)](https://design.withfudge.com/pin/10404)
-[CFC - SBS 8 News](https://design.withfudge.com/pin/10404) — [source page](https://contentformcontext.com/sbs-8-news)
+Treat color as **content-driven** (photos, logos in-frame) rather than a fixed product token set until measured.
+
+### Typography
+
+No declared families. Observed sizes:
+
+- **Body default:** 16px (dominant)
+- **Supporting:** 20px / ~26px line-height
+- **Display/case titles:** ~30–35px with matching line-height near 1.0–1.2
+- **Small labels:** 14px
+
+Weight stays regular (400) across the measured styles—hierarchy is mostly size and placement.
+
+### Spacing and layout
+
+- Horizontal margins cluster near **~50.6px** (and a wider ~182px inset on some blocks)
+- Vertical padding on staged blocks: **20px**, **60px**
+- Section-crop compositions suggest a single-column editorial flow with occasional large media breaks
+- Capture widths ~1245–1255px—more article than ultrawide marketing billboard
+
+## Visual language
+
+- **Radii:** mostly square media; one measured **60px** radius (soft container or control)
+- **Borders / shadows / gradients:** not meaningfully present in measurements
+- **Imagery:** broadcast/news photography and project stills dominate
+- Mood is documentary and premium-agency, not SaaS dashboard
+
+## Components and states
+
+Still evidence points to simple building blocks:
+
+- Case hero (image + title)
+- Narrative text sections
+- Possibly logo/lockup moments for the client brand
+- Sparse navigation chrome (not the focus of these crops)
+
+Do not invent complex interactive component states from these stills.
+
+## Responsive behavior
+
+Only two section crops of the same case URL. No multi-breakpoint proof—reflow should keep margins generous and type readable; avoid assuming a fixed desktop grid.
+
+## Practical guidance
+
+**Preserve**
+
+- Editorial pacing and photography priority
+- Large case titles with regular-weight body
+- Wide side margins and unhurried vertical rhythm
+
+**Avoid**
+
+- Packing SaaS card grids over the story
+- Loud multi-accent product palettes unrelated to the case
+- Tiny dense type that fights the portfolio tone
+
+**Adaptation**
+
+- Let each case’s photography set accent color
+- Keep chrome quieter than the media
+- Use 16/20/30–35px as a simple type ladder
+
+## Scope note
+
+Two section crops of contentformcontext.com `/sbs-8-news` only. No measured color roles or declared fonts. Other case studies and the marketing home are outside this set—use as a case-study pattern reference, not a full site system.
+
+## Captured pages
+
+[![SBS 8 News — case hero/story](https://pin.fontofweb.com/10404?format=jpg)](https://design.withfudge.com/share/pin-10404)
+
+[SBS 8 News — case hero/story](https://design.withfudge.com/share/pin-10404)
+
+[![SBS 8 News — section crop](https://pin.fontofweb.com/10405?format=jpg)](https://design.withfudge.com/share/pin-10405)
+
+[SBS 8 News — section crop](https://design.withfudge.com/share/pin-10405)
