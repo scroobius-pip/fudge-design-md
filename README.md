@@ -244,6 +244,14 @@ Endl is a confident fintech marketing site built on white space, vivid blue bran
 
 [Open guide](design-md/endl.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/endl.io-design)
 
+### fontsinuse.com
+
+[![How fontsinuse.com is designed](https://pin.fontofweb.com/6841?format=jpg)](design-md/fontsinuse.com.md)
+
+Fonts In Use is an **editorial archive of typography in the wild**. The site feels like a quiet museum label system wrapped around loud artwork: stark black-and-white chrome, a stacked wordmark, and a content stage that hands nearly all color and drama to the submitted pieces.
+
+[Open guide](design-md/fontsinuse.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/fontsinuse.com-design)
+
 ### fontstand.com
 
 [![How fontstand.com is designed](https://pin.fontofweb.com/6811?format=jpg)](design-md/fontstand.com.md)
