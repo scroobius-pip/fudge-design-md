@@ -60,6 +60,14 @@ Autogram presents as a **calm, airy personal-OS product**: a near-white stage, n
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
 
+### c82.net
+
+[![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)
+
+c82.net’s Naturalist’s Library is a **scholarly, illustration-first archive**. Pages feel like a carefully set natural history volume translated to the screen: serif reading text, moss green and burnt orange accents, square corners, and specimen art as the hero—not UI chrome.
+
+[Open guide](design-md/c82.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/c82.net-design)
+
 ### cavalry.studio
 
 [![How cavalry.studio is designed](https://pin.fontofweb.com/8893?format=jpg)](design-md/cavalry.studio.md)
