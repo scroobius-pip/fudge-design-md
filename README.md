@@ -284,6 +284,14 @@ Autogram presents as a **calm, airy personal-OS product**: a near-white stage, n
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
 
+### baked.design
+
+[![How baked.design is designed](https://pin.fontofweb.com/5265?format=jpg)](design-md/baked.design.md)
+
+Baked Design sells product design to startup founders with a **portfolio-as-landing-page** that feels like a polished Framer case study, not a corporate agency site. The system is **white-field, soft-card, electric blue**. Everything important sits in floating rounded panels or full-bleed product mockups; chrome is almost invisible. Copy is short, founder-direct, and set in a calm geometric sans. The mood is confident, lightly playful, and conversion-forward: primary CTAs always say some version of "Let's Talk," social proof is a masonry of testimonial chips, and the work itself is the hero art.
+
+[Open guide](design-md/baked.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/baked.design-design)
+
 ### bengalturf.yolasite.com
 
 [![How bengalturf.yolasite.com is designed](https://pin.fontofweb.com/9475?format=jpg)](design-md/bengalturf.yolasite.com.md)
