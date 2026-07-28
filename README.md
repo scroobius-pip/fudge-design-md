@@ -188,6 +188,14 @@ Cloudflare’s dashboard is a **dense enterprise operations console**: account-s
 
 [Open guide](design-md/dash.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
 
+### dashboard.mux.com
+
+[![How dashboard.mux.com is designed](https://pin.fontofweb.com/2001?format=jpg)](design-md/dashboard.mux.com.md)
+
+Mux dashboard captures focus on **authentication entry**—login and signup—rather than the full logged-in media console. The system presented here is a **focused auth gateway**: minimal chrome, clear forms, and product-trust quietness appropriate to a video infrastructure brand.
+
+[Open guide](design-md/dashboard.mux.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.mux.com-design)
+
 ### delve.co
 
 [![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)

@@ -1,129 +1,82 @@
 # How dashboard.mux.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dashboard.mux.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dashboard.mux.com-design)
 
-Source domain: [dashboard.mux.com](https://dashboard.mux.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-12
+## Design character
 
-<!--
-coverPin: 6451
--->
+Mux dashboard captures focus on **authentication entry**—login and signup—rather than the full logged-in media console. The system presented here is a **focused auth gateway**: minimal chrome, clear forms, and product-trust quietness appropriate to a video infrastructure brand.
 
-Here is the visual system observed across **2 captured pages** from [dashboard.mux.com](https://dashboard.mux.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#242628",
-  "#e2e4dd",
-  "#000000",
-  "#828c97",
-  "#ffffff",
-  "#f4f6f4",
-  "#ffb200",
-  "#bd8209",
-  "#d0d2c8",
-  "#b2bac2",
-  "#1e65c4",
-  "#7f817e",
-  "#fdb103",
-  "#c995b4",
-  "#b5b9ba",
-  "#cfb072"
-]
-```
+- **Login and signup as paired, symmetric surfaces**.
+- Minimal distraction around credentials and identity.
+- Clean developer-product tone (Mux as infra, not social app).
+- Strong form hierarchy: primary submit, secondary links (forgot/SSO if present).
+- Fast comprehension over brand theatrics on auth screens.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dashboard.mux.com",
-  "sampleText": "dashboard.mux.com",
-  "fonts": [
-    {
-      "family": "Aeonik",
-      "familyId": 2125,
-      "pinId": 6451,
-      "domain": "dashboard.mux.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "0.35px",
-      "frequency": 1305
-    },
-    {
-      "family": "Jet Brains Mono",
-      "familyId": 2028,
-      "pinId": 6451,
-      "domain": "dashboard.mux.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "0.35px",
-      "frequency": 16
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 28 |
-| Spacing values | 11 |
-| Borders and radii | 4 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6451,
-      "title": "Sign Up | Mux",
-      "domain": "dashboard.mux.com/signup",
-      "pageUrl": "dashboard.mux.com/signup",
-      "imageUrl": "https://pin.fontofweb.com/6451?format=jpg",
-      "colors": [
-        "#1e65c4",
-        "#828c97",
-        "#7f817e",
-        "#fdb103",
-        "#d0d2c8",
-        "#c995b4",
-        "#242628",
-        "#b5b9ba"
-      ],
-      "fonts": [
-        "Aeonik",
-        "Jet Brains Mono"
-      ]
-    },
-    {
-      "pinId": 2001,
-      "title": "Login | Mux",
-      "domain": "dashboard.mux.com/login",
-      "pageUrl": "dashboard.mux.com/login",
-      "imageUrl": "https://pin.fontofweb.com/2001?format=jpg",
-      "colors": [
-        "#e9eae5",
-        "#b1b3b1",
-        "#ffb201",
-        "#74787f",
-        "#242524",
-        "#c29127",
-        "#db52a2",
-        "#31a34e"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+No aggregated role colors retained. Auth pages typically use a light neutral canvas with a single primary action color—keep contrast high for inputs and errors even if exact brand hexes are not in this set.
 
-## Representative captures
-[![Sign Up | Mux](https://pin.fontofweb.com/6451?format=jpg)](https://design.withfudge.com/pin/6451)
-[Sign Up | Mux](https://design.withfudge.com/pin/6451) — [source page](https://dashboard.mux.com/signup)
+### Typography
 
-[![Login | Mux](https://pin.fontofweb.com/2001?format=jpg)](https://design.withfudge.com/pin/2001)
-[Login | Mux](https://design.withfudge.com/pin/2001) — [source page](https://dashboard.mux.com/login)
+Families not declared. Clear UI sizes for labels/inputs; avoid oversized marketing display on credential screens.
+
+### Spacing and layout
+
+- Centered or split auth layouts common to SaaS; keep field groups tight (8–16px rhythms).
+- Two captures only (`/login`, `/signup`)—system scope is intentionally narrow.
+
+## Visual language
+
+- Quiet surfaces, obvious input boundaries, restrained illustration if any.
+- No motion established.
+
+## Components and states
+
+### Login
+Email/password or SSO entry, submit, auxiliary links.
+
+### Signup
+Parallel structure to login with additional profile fields as needed; keep visual parity so the pair feels one system.
+
+## Responsive behavior
+
+Only two captures; assume single-column auth on narrow viewports. Don’t extrapolate full app responsive rules from auth alone.
+
+## Practical guidance
+
+**Preserve**
+
+1. Symmetric login/signup pairing.
+2. High-clarity forms, low chrome.
+3. Infra-trust quietness.
+4. Accessible contrast on inputs/actions.
+
+**Avoid**
+
+1. Treating auth as a full brand campaign page.
+2. Inferring the entire logged-in Mux design system from these two screens alone.
+3. Inventing palette/font licences.
+
+**Adaptation recipe**
+
+- Neutral auth canvas → clear fields → primary continue → mirrored login/signup.
+
+## Scope note
+
+Two captures: `/login`, `/signup`. Supported: auth-entry character and paired flows. Gaps: logged-in dashboard, colors/fonts measurements, responsive app shell, motion.
+
+## Captured pages
+
+[![Login](https://pin.fontofweb.com/2001?format=jpg)](https://design.withfudge.com/share/pin-2001)
+
+[Login](https://design.withfudge.com/share/pin-2001)
+
+[![Signup](https://pin.fontofweb.com/6451?format=jpg)](https://design.withfudge.com/share/pin-6451)
+
+[Signup](https://design.withfudge.com/share/pin-6451)
