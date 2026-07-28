@@ -1,28 +1,38 @@
-name: Sync Fudge DESIGN.md guides
+name: Publish one Fudge DESIGN.md guide
 
 on:
-  schedule:
-    - cron: "23 4 * * *"
   workflow_dispatch:
+    inputs:
+      domain:
+        description: Normalized domain, for example stripe.com
+        required: true
+        type: string
+      share_key:
+        description: Accepted Fudge share key
+        required: true
+        type: string
 
 permissions:
   contents: write
 
 concurrency:
-  group: fudge-design-md-sync
+  group: fudge-design-md-${{ inputs.domain }}
   cancel-in-progress: false
 
 jobs:
-  sync:
+  publish:
     runs-on: ubuntu-latest
+    env:
+      FUDGE_DOMAIN: ${{ inputs.domain }}
+      FUDGE_SHARE_KEY: ${{ inputs.share_key }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Download current guides
+      - name: Download accepted guide
         run: node scripts/sync.mjs
-      - name: Commit changes
+      - name: Commit accepted guide
         run: |
           if git diff --quiet; then
             echo "No guide changes."
@@ -30,6 +40,6 @@ jobs:
           fi
           git config user.name "fudge-design-md[bot]"
           git config user.email "fudge-design-md[bot]@users.noreply.github.com"
-          git add README.md design-md
-          git commit -m "chore: sync Fudge DESIGN.md guides"
+          git add README.md "design-md/${FUDGE_DOMAIN}.md"
+          git commit -m "docs: publish ${FUDGE_DOMAIN} design guide"
           git push

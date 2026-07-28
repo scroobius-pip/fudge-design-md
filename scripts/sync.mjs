@@ -1,172 +1,124 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
-import { isIP } from "node:net";
-import { basename, dirname } from "node:path";
+import { basename } from "node:path";
 
 const origin = process.env.FUDGE_ORIGIN ?? "https://design.withfudge.com";
-const sitemapUrl = `${origin}/sitemaps/domains.xml`;
+const domain = safeDomain(process.env.FUDGE_DOMAIN ?? "");
+const shareKey = process.env.FUDGE_SHARE_KEY?.trim() ?? "";
+const expectedShareKey = `${domain}-design`;
 const guideDir = new URL("../design-md/", import.meta.url);
 const readmePath = new URL("../README.md", import.meta.url);
 const indexStart = "<!-- DESIGN_MD_INDEX_START -->";
 const indexEnd = "<!-- DESIGN_MD_INDEX_END -->";
 
-const decodeXml = (value) =>
-  value
-    .replaceAll("&amp;", "&")
-    .replaceAll("&lt;", "<")
-    .replaceAll("&gt;", ">")
-    .replaceAll("&quot;", '"')
-    .replaceAll("&#39;", "'");
+if (shareKey !== expectedShareKey) {
+  throw new Error(`Expected share key ${expectedShareKey}, received ${shareKey}`);
+}
 
-const safeDomain = (value) => {
-  const domain = value.trim().toLowerCase();
+const markdownUrl = `${origin}/share/${encodeURIComponent(shareKey)}.md`;
+const response = await fetch(markdownUrl, {
+  headers: { "user-agent": "fudge-design-md-publisher/2.0" },
+});
+if (!response.ok) {
+  throw new Error(`Could not fetch ${markdownUrl}: ${response.status}`);
+}
+
+const markdown = await response.text();
+const guide = readGuide(markdown, domain, shareKey);
+await mkdir(guideDir, { recursive: true });
+await writeFile(new URL(`${domain}.md`, guideDir), markdown);
+await updateReadmeIndex();
+
+console.log(`Published ${domain} from ${markdownUrl}`);
+
+function safeDomain(value) {
+  const normalized = value.trim().toLowerCase();
   if (
-    !domain ||
-    domain.length > 253 ||
-    !/^[a-z0-9.-]+$/.test(domain) ||
-    domain.startsWith(".") ||
-    domain.endsWith(".") ||
-    domain.includes("..")
+    !normalized.includes(".")
+    || normalized.length > 253
+    || !normalized.split(".").every((label) =>
+      /^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(label)
+    )
   ) {
-    throw new Error(`Invalid domain in sitemap: ${value}`);
+    throw new Error(`Invalid domain: ${value}`);
   }
-  if (isIP(domain) !== 0 || domain === "localhost" || domain.endsWith(".local")) {
-    throw new Error(`Non-public host in sitemap: ${value}`);
-  }
-  return domain;
-};
+  return normalized;
+}
 
-const fetchText = async (url) => {
-  let lastError;
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
-    try {
-      const response = await fetch(url, {
-        headers: { "user-agent": "fudge-design-md-sync/1.0" },
-      });
-      if (!response.ok) {
-        throw new Error(`${response.status} ${response.statusText}`);
-      }
-      return response.text();
-    } catch (error) {
-      lastError = error;
-      if (attempt < 3) {
-        await new Promise((resolve) => setTimeout(resolve, attempt * 500));
-      }
-    }
-  }
-  throw lastError;
-};
-
-const domainsFromSitemap = (xml) => {
-  const domains = new Set();
-  for (const match of xml.matchAll(/<loc>([^<]+)<\/loc>/g)) {
-    const url = new URL(decodeXml(match[1]));
-    const canonical = url.pathname.match(/^\/conversation\/(.+)-design$/);
-    if (canonical) {
-      try {
-        domains.add(safeDomain(decodeURIComponent(canonical[1])));
-      } catch (error) {
-        if (!String(error.message).startsWith("Non-public host")) throw error;
-      }
-    }
-  }
-  return [...domains].sort((a, b) => a.localeCompare(b));
-};
-
-const validateGuide = (markdown, domain) => {
-  const conversationUrl = `${origin}/conversation/${domain}-design`;
-  if (!markdown.startsWith("# ")) {
-    throw new Error("missing title");
-  }
-  if (!markdown.includes(conversationUrl)) {
-    throw new Error("missing canonical conversation link");
-  }
-  if (!markdown.includes(`${origin}/pin/`)) {
-    throw new Error("missing captured-page reference");
-  }
-  if (!markdown.includes("https://pin.fontofweb.com/")) {
-    throw new Error("missing representative capture image");
-  }
-};
-
-const titleFromGuide = (markdown, fallback) => {
+function readGuide(markdown, expectedDomain, expectedKey) {
   const title = markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
-  return title || fallback;
-};
+  const liveUrl = `${origin}/share/${expectedKey}`;
+  const images = [
+    ...markdown.matchAll(/\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)/g),
+  ];
+  const character = sectionParagraph(markdown, "Design character");
 
-const coverPinFromGuide = (markdown) => {
-  const explicit = markdown.match(
-    /^coverPin(?:Id)?:\s*["']?(\d+)["']?\s*$/m,
-  )?.[1];
-  const pinId = explicit ??
-    markdown.match(
-      /"pinId"\s*:\s*(\d+)[\s\S]*?"imageUrl"\s*:\s*"https:\/\/pin\.fontofweb\.com\/\1\?format=jpg"/,
-    )?.[1] ??
-    markdown.match(/https:\/\/pin\.fontofweb\.com\/(\d+)\?format=jpg/)?.[1];
-  if (!pinId) throw new Error("missing representative cover pin");
+  if (!title) throw new Error("Guide is missing its title");
+  if (!markdown.includes(`](${liveUrl})`)) {
+    throw new Error("Guide is missing its canonical Fudge conversation");
+  }
+  if (!character) throw new Error("Guide is missing its design character");
+  if (images.length < 2 || images.length > 8) {
+    throw new Error("Guide must contain two to eight linked representative images");
+  }
+  if (!images.every((match) => match[3].startsWith(`${origin}/share/`))) {
+    throw new Error("Every representative image must link to a Fudge share");
+  }
+
   return {
-    pinId,
-    imageUrl: `https://pin.fontofweb.com/${pinId}?format=jpg`,
-    pinUrl: `${origin}/pin/${pinId}`,
+    domain: expectedDomain,
+    title,
+    character,
+    imageUrl: images[0][2],
+    liveUrl,
   };
-};
+}
 
-const conversationUrlFromGuide = (markdown, domain) =>
-  markdown.match(
-    /\[Open the live Fudge conversation\]\((https:\/\/design\.withfudge\.com\/conversation\/[^)]+)\)/,
-  )?.[1] ?? `${origin}/conversation/${domain}-design`;
-
-const summaryFromGuide = (markdown, domain) => {
-  const explicit = markdown.match(/^summary:\s*["']?(.+?)["']?\s*$/m)?.[1];
-  if (explicit) return explicit;
-  const paragraphs = markdown
-    .replace(/```[\s\S]*?```/g, "")
-    .replace(/<!--[\s\S]*?-->/g, "")
+function sectionParagraph(markdown, heading) {
+  const lines = markdown.split(/\r?\n/);
+  const start = lines.findIndex((line) =>
+    line.trim().toLowerCase() === `## ${heading.toLowerCase()}`
+  );
+  if (start === -1) return "";
+  const section = [];
+  for (const line of lines.slice(start + 1)) {
+    if (line.startsWith("## ")) break;
+    section.push(line);
+  }
+  return section.join("\n")
     .split(/\n\s*\n/)
-    .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
-    .filter(Boolean);
-  const summary = paragraphs.find((paragraph) =>
-    !paragraph.startsWith("#") &&
-    !paragraph.startsWith("[Open the live") &&
-    !paragraph.startsWith("Source domain:") &&
-    !paragraph.startsWith("Last updated:") &&
-    !paragraph.startsWith("[![") &&
-    !paragraph.startsWith("|")
-  ) ?? `A visual design guide to ${domain}.`;
-  const plain = summary
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/[*_`]/g, "")
-    .trim();
-  return plain.length > 180 ? `${plain.slice(0, 177).trimEnd()}…` : plain;
-};
+    .map((part) => part.replace(/\s+/g, " ").trim())
+    .find((part) => part && !part.startsWith("#")) ?? "";
+}
 
-const escapeHtml = (value) =>
-  value
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;");
-
-const updateReadmeIndex = async () => {
+async function updateReadmeIndex() {
   const files = (await readdir(guideDir))
     .filter((file) => file.endsWith(".md"))
     .sort((a, b) => a.localeCompare(b));
   const entries = [];
+
   for (const file of files) {
-    const markdown = await readFile(new URL(file, guideDir), "utf8");
-    const domain = basename(file, ".md");
-    const title = titleFromGuide(markdown, domain);
-    const cover = coverPinFromGuide(markdown);
-    const summary = summaryFromGuide(markdown, domain);
-    const conversationUrl = conversationUrlFromGuide(markdown, domain);
-    entries.push({
-      html: [
-        `<a href="design-md/${file}"><img src="${cover.imageUrl}" alt="${escapeHtml(title)}" width="360"></a>`,
-        `<br><strong>${escapeHtml(domain)}</strong>`,
-        `<br>${escapeHtml(summary)}`,
-        `<br><a href="design-md/${file}">Open guide</a> · <a href="${conversationUrl}">Open Fudge conversation</a> · <a href="${cover.pinUrl}">View capture</a>`,
-      ].join(""),
-    });
+    const candidate = await readFile(new URL(file, guideDir), "utf8");
+    const candidateDomain = basename(file, ".md");
+    try {
+      const accepted = readGuide(
+        candidate,
+        candidateDomain,
+        `${candidateDomain}-design`,
+      );
+      entries.push([
+        `### ${accepted.domain}`,
+        "",
+        `[![${accepted.title}](${accepted.imageUrl})](design-md/${file})`,
+        "",
+        accepted.character,
+        "",
+        `[Open guide](design-md/${file}) · [View the Fudge conversation](${accepted.liveUrl})`,
+      ].join("\n"));
+    } catch {
+      // Old thin drafts remain in the repository but are not listed as accepted guides.
+    }
   }
+
   const readme = await readFile(readmePath, "utf8");
   const start = readme.indexOf(indexStart);
   const end = readme.indexOf(indexEnd);
@@ -174,79 +126,8 @@ const updateReadmeIndex = async () => {
     throw new Error("README guide index markers are missing");
   }
   const replacement = entries.length
-    ? [
-        "<table>",
-        ...Array.from({ length: Math.ceil(entries.length / 2) }, (_, index) => {
-          const left = entries[index * 2]?.html ?? "";
-          const right = entries[index * 2 + 1]?.html ?? "";
-          return `<tr><td width="50%" valign="top">${left}</td><td width="50%" valign="top">${right}</td></tr>`;
-        }),
-        "</table>",
-      ].join("\n")
-    : "The first guides will appear after the initial production sync.";
+    ? entries.join("\n\n")
+    : "The first accepted guide will appear here.";
   const updated = `${readme.slice(0, start + indexStart.length)}\n${replacement}\n${readme.slice(end)}`;
   if (updated !== readme) await writeFile(readmePath, updated);
-};
-
-await mkdir(guideDir, { recursive: true });
-
-const sitemap = await fetchText(sitemapUrl);
-const domains = domainsFromSitemap(sitemap);
-if (domains.length === 0) {
-  throw new Error(`No canonical domain conversations found in ${sitemapUrl}`);
 }
-
-const failures = [];
-let updated = 0;
-
-const syncDomain = async (domain) => {
-  const conversationUrl = `${origin}/conversation/${domain}-design`;
-  const markdownUrl = `${conversationUrl}.md`;
-  try {
-    const markdown = await fetchText(markdownUrl);
-    validateGuide(markdown, domain);
-    const destination = new URL(`${domain}.md`, guideDir);
-    let previous = "";
-    try {
-      previous = await readFile(destination, "utf8");
-    } catch {}
-    if (previous !== markdown) {
-      await writeFile(destination, markdown);
-      updated += 1;
-    }
-  } catch (error) {
-    failures.push(`${domain}: ${error.message}`);
-  }
-};
-
-let cursor = 0;
-await Promise.all(
-  Array.from({ length: Math.min(16, domains.length) }, async () => {
-    while (cursor < domains.length) {
-      const domain = domains[cursor];
-      cursor += 1;
-      await syncDomain(domain);
-    }
-  }),
-);
-
-await updateReadmeIndex();
-
-const summary = [
-  `Domains discovered: ${domains.length}`,
-  `Guides updated: ${updated}`,
-  `Failures: ${failures.length}`,
-  ...failures.map((failure) => `- ${failure}`),
-].join("\n");
-console.log(summary);
-
-if (process.env.GITHUB_STEP_SUMMARY) {
-  await mkdir(dirname(process.env.GITHUB_STEP_SUMMARY), { recursive: true });
-  await writeFile(
-    process.env.GITHUB_STEP_SUMMARY,
-    `## Fudge DESIGN.md sync\n\n${summary}\n`,
-    { flag: "a" },
-  );
-}
-
-if (failures.length === domains.length) process.exitCode = 1;

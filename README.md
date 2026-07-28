@@ -14,7 +14,8 @@ Each guide:
 - links to the corresponding Fudge conversation;
 - links to the captured pages used to build it.
 
-The collection updates automatically as new domains become available in Fudge.
+The collection updates when a substantial domain guide is accepted and
+published through Fudge. Thin generated drafts are not listed as guides.
 
 ## Guides
 
