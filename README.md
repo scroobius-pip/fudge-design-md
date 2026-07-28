@@ -156,6 +156,14 @@ Anima’s marketing site is **dark, polished AI-design theater**: charcoal backg
 
 [Open guide](design-md/animaapp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/animaapp.com-design)
 
+### aol.com
+
+[![How aol.com is designed](https://pin.fontofweb.com/8410?format=jpg)](design-md/aol.com.md)
+
+AOL’s homepage is a **loud-friendly consumer portal**: a saturated yellow header carrying the bold black wordmark, a white search pill, and utility actions—then a white content canvas packed with news heroes, carousels, trending lists, and right-rail promos. It is intentionally denser and more mass-media than minimal SaaS marketing. The yellow bar is the brand handshake; everything below behaves like a modern content network.
+
+[Open guide](design-md/aol.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aol.com-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
