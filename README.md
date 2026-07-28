@@ -76,6 +76,14 @@ Google Analytics is **Material-era enterprise calm**: light gray page ground, wh
 
 [Open guide](design-md/analytics.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
+### app.superdesign.dev
+
+[![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
+
+Superdesign is a **prompt-to-UI workshop** with a split personality that is the product:
+
+[Open guide](design-md/app.superdesign.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.superdesign.dev-design)
+
 ### arcee.ai
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6372?format=jpg)](design-md/arcee.ai.md)
