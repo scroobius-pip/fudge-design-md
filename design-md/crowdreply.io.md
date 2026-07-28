@@ -1,324 +1,125 @@
 # How crowdreply.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/crowdreply.io-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/crowdreply.io-design)
 
-Source domain: [crowdreply.io](https://crowdreply.io)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-17
+## Design character
 
-<!--
-coverPin: 8154
--->
+CrowdReply is a **soft, airy AI-search marketing site** built like a product brochure: warm off-white canvas, bold centered headlines, and a **bento grid of pale pastel cards** that mix testimonials, KPI tiles, and dark product UI mockups. The brand feels optimistic and B2B-clean—closer to a modern growth-tool landing page than a dense dashboard.
 
-Here is the visual system observed across **9 captured pages** from [crowdreply.io](https://crowdreply.io).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#46484d",
-  "#111111",
-  "#1b181c",
-  "#1e1e1e",
-  "#f5f2e6",
-  "#8a8692",
-  "#272329",
-  "#c1d2fc",
-  "#dce5fd",
-  "#faf8f0",
-  "#fee3d6",
-  "#0000ee",
-  "#f96f4b",
-  "#f1ecd9"
-]
-```
+- **Warm paper canvas** with generous vertical rhythm and centered section titles.
+- **Pastel metric tiles** (peach, lavender, sand, soft blue) as proof objects beside quote cards.
+- **Dark inset product charts** inside light cards—product depth without darkening the page.
+- **Pill section labels** above each major block (“Testimonials”, “AI Search”).
+- Rounded **12–18px** cards and calm sans hierarchy rather than brutalist or neon AI aesthetics.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from crowdreply.io",
-  "sampleText": "crowdreply.io",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8154,
-      "domain": "crowdreply.io",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 275
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 8154,
-      "domain": "crowdreply.io",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "19.6px",
-      "letterSpacing": "normal",
-      "frequency": 34
-    },
-    {
-      "family": "Outfit",
-      "familyId": 123,
-      "pinId": 8154,
-      "domain": "crowdreply.io",
-      "weight": "600",
-      "size": "56px",
-      "lineHeight": "61.6px",
-      "letterSpacing": "-3.5px",
-      "frequency": 30
-    },
-    {
-      "family": "Crisp Noto Sans",
-      "familyId": 2279,
-      "pinId": 8154,
-      "domain": "crowdreply.io",
-      "weight": "400",
-      "size": "11px",
-      "lineHeight": "11px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 100 |
-| Spacing values | 35 |
-| Borders and radii | 22 |
-| Shadows | 3 |
-| Gradients | 2 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8154,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8154?format=jpg",
-      "colors": [
-        "#8d8d90",
-        "#81a5f2",
-        "#111111",
-        "#ffffff",
-        "#c14f41",
-        "#1b181c",
-        "#0000ee",
-        "#fbfaf9"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Outfit",
-        "Crisp Noto Sans"
-      ]
-    },
-    {
-      "pinId": 8153,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8153?format=jpg",
-      "colors": [
-        "#4c4c4c",
-        "#0000ee",
-        "#f19988",
-        "#666565",
-        "#46484d",
-        "#cdcccc",
-        "#989797",
-        "#fcfaf7"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Outfit"
-      ]
-    },
-    {
-      "pinId": 8152,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8152?format=jpg",
-      "colors": [
-        "#201d21",
-        "#cdcccf",
-        "#626161",
-        "#83a7f7",
-        "#000000",
-        "#ffffff",
-        "#46484d",
-        "#f07250"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8151,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8151?format=jpg",
-      "colors": [
-        "#fbfaf8",
-        "#615f69",
-        "#ffffff",
-        "#46484d",
-        "#000000",
-        "#a39fa0",
-        "#ee6a49",
-        "#2363e6"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8150,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8150?format=jpg",
-      "colors": [
-        "#fcfbfa",
-        "#f56e4e",
-        "#69362e",
-        "#000000",
-        "#111111",
-        "#bfbfc1",
-        "#7f9eec",
-        "#1d1b1e"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8149,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8149?format=jpg",
-      "colors": [
-        "#17241e",
-        "#5a575a",
-        "#272329",
-        "#3f9365",
-        "#2666e1",
-        "#949396",
-        "#164b2e",
-        "#dad8d8"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8148,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8148?format=jpg",
-      "colors": [
-        "#1b181c",
-        "#8a8692",
-        "#554952",
-        "#f96f4b",
-        "#4d4f6d",
-        "#1d1b1e",
-        "#ffffff",
-        "#863f33"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8147,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8147?format=jpg",
-      "colors": [
-        "#d26c52",
-        "#44445b",
-        "#201e25",
-        "#a6b148",
-        "#1b181c",
-        "#8c8989",
-        "#28242a",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 8146,
-      "title": "CrowdReply: The #1 AI Search Visibility Tool",
-      "domain": "crowdreply.io/",
-      "pageUrl": "crowdreply.io/",
-      "imageUrl": "https://pin.fontofweb.com/8146?format=jpg",
-      "colors": [
-        "#828285",
-        "#d7cccb",
-        "#f96f4b",
-        "#ffffff",
-        "#f4f3f0",
-        "#a9a9a9",
-        "#faf9f7",
-        "#492724"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Outfit",
-        "Crisp Noto Sans"
-      ]
-    }
-  ]
-}
-```
+Structured color roles were not retained on these captures. Visually the system reads as:
 
-## Representative captures
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8154?format=jpg)](https://design.withfudge.com/pin/8154)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8154) — [source page](https://crowdreply.io/)
+- **Canvas**: warm off-white / cream page background.
+- **Surfaces**: pure white cards; pastel fills for metric tiles (peach gradient chart card, soft blue ring chart, sand share-of-voice, lavender “2X” tile).
+- **Text**: near-black headlines and body; quieter gray subcopy under titles.
+- **Product chrome inside mockups**: near-black panels with blue→orange chart strokes and small green positive deltas.
+- **Logo color** on tiles stays brand-native (client marks), not a single global accent forced everywhere.
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8153?format=jpg)](https://design.withfudge.com/pin/8153)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8153) — [source page](https://crowdreply.io/)
+Do not invent a full semantic token set beyond this light/pastel/dark-inset pattern.
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8152?format=jpg)](https://design.withfudge.com/pin/8152)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8152) — [source page](https://crowdreply.io/)
+### Typography
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8151?format=jpg)](https://design.withfudge.com/pin/8151)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8151) — [source page](https://crowdreply.io/)
+No declared family names were retained. Measured styles:
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8150?format=jpg)](https://design.withfudge.com/pin/8150)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8150) — [source page](https://crowdreply.io/)
+- **Display / section titles**: ~**44–56px**, weight **600**, line-height ~1.1–1.2 (e.g. 56/61.6, 44/52.8).
+- **Body**: **14–18px** at 400–500, line-heights ~19–30px.
+- **UI / labels**: **11–14px**, including tight 11–12px meta.
+- **Tone**: confident, short marketing headlines; body stays readable and mid-weight.
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8149?format=jpg)](https://design.withfudge.com/pin/8149)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8149) — [source page](https://crowdreply.io/)
+### Spacing and layout
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8148?format=jpg)](https://design.withfudge.com/pin/8148)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8148) — [source page](https://crowdreply.io/)
+- Large section padding appears in hero-scale blocks (e.g. **134–220px** vertical padding on wide hero crop; **24–32px** padding common on card grids).
+- Card grids use consistent internal padding (**24–32px**) and **12px** corner radius at high frequency.
+- Layout is **centered single column of sections**, each: pill label → title → subtitle → 2×2 or masonry card grid.
 
-[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8147?format=jpg)](https://design.withfudge.com/pin/8147)
-[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8147) — [source page](https://crowdreply.io/)
+## Visual language
+
+- **Corners**: dominant **12px** rounding on cards; chips/buttons often **8–10px**; occasional larger pills (~18–68px) for labels and avatars.
+- **Borders/shadows**: cards read as soft elevated or flat white plates on cream—structured shadow values were not retained; separation is mostly fill contrast.
+- **Imagery**: dashboard mockups (line charts, citation bars, stacked prompt cards), avatar photos on quotes, brand logos on KPI tiles.
+- **Motion**: not established from stills.
+
+## Components and states
+
+### Section header
+Centered pill badge, bold title, one-line gray subtitle.
+
+### Testimonial card
+White rounded plate, quote, circular avatar, name + role.
+
+### Metric / logo tile
+Pastel fill, simple chart or big number, partner logo bottom-left.
+
+### Feature bento cell
+Title + short paragraph + either dark product screenshot or illustrated UI cluster.
+
+### Nav (hero)
+From the wide home crop: light marketing header with product CTAs over a spacious hero (exact nav chrome varies by crop).
+
+## Responsive behavior
+
+Captures span ~**936–1701px** widths, all home sections. Card grids reflow from wide multi-column bento to tighter stacks; radii and pastel language hold. Dedicated mobile nav patterns are not fully documented here.
+
+## Practical guidance
+
+**Preserve**
+
+1. Cream page + white cards + pastel proof tiles.
+2. Dark product charts as insets, not full-page dark mode.
+3. Pill labels above every major section.
+4. Big semibold centered titles with short subtitles.
+5. Mix quotes and KPI tiles in the same bento rhythm.
+
+**Avoid**
+
+1. Neon cyberpunk AI clichés or heavy gradients on the page chrome.
+2. Dense multi-column blog layouts—this site sells with open air.
+3. Inventing a proprietary font name from this guide.
+4. Turning every card dark; darkness is for product previews only.
+
+**Adaptation recipe**
+
+- Off-white brochure canvas → section pill → bold title → pastel/white bento → dark product inset for credibility.
+
+## Scope note
+
+Studied from eight home viewport crops on `crowdreply.io` (hero through testimonials and feature grids). Supported: marketing section rhythm, card radii, type scale, pastel proof language, product-mock inset pattern. Not established: exact brand accent hex roles, font family/licence, checkout/app chrome, motion.
+
+## Captured pages
+
+[![Home hero / wide](https://pin.fontofweb.com/8154?format=jpg)](https://design.withfudge.com/share/pin-8154)
+
+[Home hero / wide](https://design.withfudge.com/share/pin-8154)
+
+[![Testimonials bento](https://pin.fontofweb.com/8153?format=jpg)](https://design.withfudge.com/share/pin-8153)
+
+[Testimonials bento](https://design.withfudge.com/share/pin-8153)
+
+[![AI Search features grid](https://pin.fontofweb.com/8150?format=jpg)](https://design.withfudge.com/share/pin-8150)
+
+[AI Search features grid](https://design.withfudge.com/share/pin-8150)
+
+[![Home mid section](https://pin.fontofweb.com/8152?format=jpg)](https://design.withfudge.com/share/pin-8152)
+
+[Home mid section](https://design.withfudge.com/share/pin-8152)
+
+[![Home compact cards](https://pin.fontofweb.com/8148?format=jpg)](https://design.withfudge.com/share/pin-8148)
+
+[Home compact cards](https://design.withfudge.com/share/pin-8148)
+
+[![Home CTA region](https://pin.fontofweb.com/8147?format=jpg)](https://design.withfudge.com/share/pin-8147)
+
+[Home CTA region](https://design.withfudge.com/share/pin-8147)

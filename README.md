@@ -452,6 +452,14 @@ Creem is a **playful merchant-of-record SaaS** that sells seriousness (global pa
 
 [Open guide](design-md/creem.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/creem.io-design)
 
+### crowdreply.io
+
+[![How crowdreply.io is designed](https://pin.fontofweb.com/8154?format=jpg)](design-md/crowdreply.io.md)
+
+CrowdReply is a **soft, airy AI-search marketing site** built like a product brochure: warm off-white canvas, bold centered headlines, and a **bento grid of pale pastel cards** that mix testimonials, KPI tiles, and dark product UI mockups. The brand feels optimistic and B2B-clean—closer to a modern growth-tool landing page than a dense dashboard.
+
+[Open guide](design-md/crowdreply.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/crowdreply.io-design)
+
 ### curator.io
 
 [![How curator.io is designed](https://pin.fontofweb.com/7651?format=jpg)](design-md/curator.io.md)
