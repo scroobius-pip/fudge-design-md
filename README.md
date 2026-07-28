@@ -52,6 +52,14 @@ a16z.com opens like a **dark, confident manifesto**. The home system is cinemati
 
 [Open guide](design-md/a16z.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/a16z.com-design)
 
+### account.nothing.tech
+
+[![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
+
+Nothing’s account login is **radical minimalism**. A pale gray field with a faint dot grid holds a single centered white card. Typography is quiet, buttons are soft gray pills, and brand presence is a tiny vertical wordmark. It feels like hardware packaging: empty air, precise alignment, almost no ink.
+
+[Open guide](design-md/account.nothing.tech.md) · [View the Fudge conversation](https://design.withfudge.com/share/account.nothing.tech-design)
+
 ### acoup.blog
 
 [![How acoup.blog is designed](https://pin.fontofweb.com/9511?format=jpg)](design-md/acoup.blog.md)
