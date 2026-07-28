@@ -388,6 +388,14 @@ Microsoft Clarity’s public site is **Fluent-adjacent product marketing**: clea
 
 [Open guide](design-md/clarity.microsoft.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/clarity.microsoft.com-design)
 
+### claude.com
+
+[![How claude.com is designed](https://pin.fontofweb.com/9222?format=jpg)](design-md/claude.com.md)
+
+claude.com is the **editorial brand twin** to the product: warm charcoal and paper tones, enormous light-weight display type, terracotta accents, and generous emptiness. It feels closer to a thoughtful publisher or design studio than to a neon AI lab. Product screenshots and diagrams sit inside softly rounded frames on rich dark grounds.
+
+[Open guide](design-md/claude.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/claude.com-design)
+
 ### cobe.vercel.app
 
 [![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
