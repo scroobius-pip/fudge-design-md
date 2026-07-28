@@ -596,6 +596,14 @@ Drkst® reads as a **compact Framer-built studio/portfolio**—focused, contempo
 
 [Open guide](design-md/drkst.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/drkst.framer.website-design)
 
+### e360.yale.edu
+
+[![How e360.yale.edu is designed](https://pin.fontofweb.com/9925?format=jpg)](design-md/e360.yale.edu.md)
+
+Yale Environment 360 is a serious editorial magazine system: warm paper neutrals, coral-red accents, black display headlines, and large documentary photography. It feels academic yet public—long-form environmental journalism with a calm, print-influenced web layout.
+
+[Open guide](design-md/e360.yale.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/e360.yale.edu-design)
+
 ### earth.google.com
 
 [![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
