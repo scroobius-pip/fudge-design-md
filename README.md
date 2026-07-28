@@ -556,6 +556,14 @@ developer.chrome.com is Google’s **Chrome for Developers** hub: a dark, docume
 
 [Open guide](design-md/developer.chrome.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/developer.chrome.com-design)
 
+### digg.com
+
+[![How digg.com is designed](https://pin.fontofweb.com/9671?format=jpg)](design-md/digg.com.md)
+
+Modern Digg is a **warm paper newsroom**, not the old orange digg-button era. The tech feed sits on a soft **beige canvas** (`#efece6`) with **white elevated cards**, near-black type, and a crisp black wordmark. It feels editorial-product: ranked top stories, highlight tiles, rising-story rails, and dense but breathable metadata (views, likes, avatars). Dark mode is offered as a first-class toggle without changing the information architecture.
+
+[Open guide](design-md/digg.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/digg.com-design)
+
 ### earth.google.com
 
 [![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
