@@ -1,359 +1,114 @@
 # How almost-pearfect.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/almost-pearfect.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/almost-pearfect.com-design)
 
-Source domain: [almost-pearfect.com](https://almost-pearfect.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-03
+## Design character
 
-<!--
-coverPin: 8639
--->
+Almost Pearfect is **poster-first art direction**, not conventional web UI. Screens behave like full-bleed graphic statements: saturated solid fields (notably a fierce pure red menu), oversized hand-drawn black lettering, and a stacked editorial wordmark (“Almost / Perfect / PEAR”). Navigation feels like walking into a gallery vinyl rather than a Bootstrap header. The shop and information surfaces continue that art-object attitude—type and color do the identity work before components do.
 
-Here is the visual system observed across **11 captured pages** from [almost-pearfect.com](https://almost-pearfect.com).
+What should survive adaptation:
+- Courageous full-field color blocks
+- Irregular, human display lettering at extreme scale
+- Minimal chrome; layout as composition
+- Wordmark treated as a graphic device, not a polite logo in a 32px header
 
-```fudge-colors
-[
-  "#282828",
-  "#000000",
-  "#ffffff",
-  "#ff0000",
-  "#0000ee",
-  "#fd0000",
-  "#fefefe",
-  "#e60023",
-  "#fe0000",
-  "#efc522",
-  "#685e4e",
-  "#0c0906",
-  "#4d76a3",
-  "#c62a29",
-  "#b8bebc",
-  "#dac7b1"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from almost-pearfect.com",
-  "sampleText": "almost-pearfect.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 8639,
-      "domain": "almost-pearfect.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "16px",
-      "letterSpacing": "normal",
-      "frequency": 144
-    },
-    {
-      "family": "Trjn Da Vinci 70",
-      "familyId": 2433,
-      "pinId": 8637,
-      "domain": "almost-pearfect.com",
-      "weight": "500",
-      "size": "33px",
-      "lineHeight": "94px",
-      "letterSpacing": "-0.3px",
-      "frequency": 82
-    },
-    {
-      "family": "Acumin Concept",
-      "familyId": 2434,
-      "pinId": 8637,
-      "domain": "almost-pearfect.com",
-      "weight": "400",
-      "size": "8px",
-      "lineHeight": "11px",
-      "letterSpacing": "-0.1px",
-      "frequency": 6
-    },
-    {
-      "family": "Helvetica Neue",
-      "familyId": 1422,
-      "pinId": 8623,
-      "domain": "almost-pearfect.com",
-      "weight": "700",
-      "size": "11px",
-      "lineHeight": "20px",
-      "letterSpacing": "normal",
-      "frequency": 1
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 11 |
-| Colors | 96 |
-| Spacing values | 3 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+No stable measured palette roles were retained across these pages; rely on the visual description. The memorable measured/visual anchor is **signal red filling the entire menu plane** with pure black type and a small black wordmark lockup. Other pages can flip to contrasting solids or photo grounds, but the system’s signature is high-chroma fields and stark black/white type—not soft pastels or corporate blues.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8639,
-      "title": "PEARFECT",
-      "domain": "almost-pearfect.com/",
-      "pageUrl": "almost-pearfect.com/",
-      "imageUrl": "https://pin.fontofweb.com/8639?format=jpg",
-      "colors": [
-        "#efc522",
-        "#685e4e",
-        "#0c0906",
-        "#4d76a3",
-        "#c62a29",
-        "#fd0000",
-        "#282828",
-        "#b8bebc"
-      ],
-      "fonts": [
-        "Applesystem"
-      ]
-    },
-    {
-      "pinId": 8638,
-      "title": "PEARFECT — menu",
-      "domain": "almost-pearfect.com/menu/",
-      "pageUrl": "almost-pearfect.com/menu/",
-      "imageUrl": "https://pin.fontofweb.com/8638?format=jpg",
-      "colors": [
-        "#470404",
-        "#fe0000",
-        "#250504",
-        "#000000",
-        "#282828",
-        "#970a0b",
-        "#010000"
-      ],
-      "fonts": [
-        "Applesystem"
-      ]
-    },
-    {
-      "pinId": 8637,
-      "title": "PEARFECT — shop",
-      "domain": "almost-pearfect.com/shop/",
-      "pageUrl": "almost-pearfect.com/shop/",
-      "imageUrl": "https://pin.fontofweb.com/8637?format=jpg",
-      "colors": [
-        "#383838",
-        "#fd0000",
-        "#b30c0b",
-        "#c1c1c1",
-        "#000000",
-        "#282828",
-        "#ff0000",
-        "#7f7f7f"
-      ],
-      "fonts": [
-        "Trjn Da Vinci 70",
-        "Acumin Concept"
-      ]
-    },
-    {
-      "pinId": 8636,
-      "title": "PEARFECT — shop",
-      "domain": "almost-pearfect.com/shop/",
-      "pageUrl": "almost-pearfect.com/shop/",
-      "imageUrl": "https://pin.fontofweb.com/8636?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#f42a1d",
-        "#717278",
-        "#ae6a19",
-        "#bebbbc",
-        "#620d12",
-        "#ff0000",
-        "#0e0707"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Trjn Da Vinci 70",
-        "Acumin Concept"
-      ]
-    },
-    {
-      "pinId": 8635,
-      "title": "PEARFECT — shop",
-      "domain": "almost-pearfect.com/shop/",
-      "pageUrl": "almost-pearfect.com/shop/",
-      "imageUrl": "https://pin.fontofweb.com/8635?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#595656",
-        "#282828",
-        "#c8c3c2",
-        "#6a4023",
-        "#302e2e",
-        "#060403",
-        "#8b8786"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Trjn Da Vinci 70",
-        "Acumin Concept"
-      ]
-    },
-    {
-      "pinId": 8634,
-      "title": "PEARFECT",
-      "domain": "almost-pearfect.com/",
-      "pageUrl": "almost-pearfect.com/",
-      "imageUrl": "https://pin.fontofweb.com/8634?format=jpg",
-      "colors": [
-        "#d0c7bb",
-        "#fcfcfb",
-        "#cd2e2b",
-        "#968d82",
-        "#752a1e",
-        "#c9915f",
-        "#282828",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem"
-      ]
-    },
-    {
-      "pinId": 8626,
-      "title": "PEARFECT",
-      "domain": "almost-pearfect.com/",
-      "pageUrl": "almost-pearfect.com/",
-      "imageUrl": "https://pin.fontofweb.com/8626?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#626160",
-        "#754627",
-        "#ffffff",
-        "#e4472e",
-        "#482108",
-        "#aeadad",
-        "#3e3c3c"
-      ],
-      "fonts": [
-        "Trjn Da Vinci 70",
-        "Acumin Concept",
-        "Applesystem"
-      ]
-    },
-    {
-      "pinId": 8625,
-      "title": "PEARFECT — shop",
-      "domain": "almost-pearfect.com/shopen/",
-      "pageUrl": "almost-pearfect.com/shopen/",
-      "imageUrl": "https://pin.fontofweb.com/8625?format=jpg",
-      "colors": [
-        "#8c8c8c",
-        "#d06476",
-        "#220000",
-        "#282828",
-        "#63050f",
-        "#d60b28",
-        "#eeb7c5",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem"
-      ]
-    },
-    {
-      "pinId": 8624,
-      "title": "PEARFECT — home",
-      "domain": "almost-pearfect.com/homeen/",
-      "pageUrl": "almost-pearfect.com/homeen/",
-      "imageUrl": "https://pin.fontofweb.com/8624?format=jpg",
-      "colors": [
-        "#d1c7bb",
-        "#f5ce2e",
-        "#3d66a1",
-        "#000000",
-        "#c72d27",
-        "#908982",
-        "#fd0000",
-        "#4e4844"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Trjn Da Vinci 70"
-      ]
-    },
-    {
-      "pinId": 8623,
-      "title": "PEARFECT — home",
-      "domain": "almost-pearfect.com/homeen/",
-      "pageUrl": "almost-pearfect.com/homeen/",
-      "imageUrl": "https://pin.fontofweb.com/8623?format=jpg",
-      "colors": [
-        "#7a7261",
-        "#cf6763",
-        "#1e499b",
-        "#282828",
-        "#1a1511",
-        "#5277a3",
-        "#50120e",
-        "#c59262"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Helvetica Neue"
-      ]
-    },
-    {
-      "pinId": 8622,
-      "title": "PEARFECT — home",
-      "domain": "almost-pearfect.com/homeen/",
-      "pageUrl": "almost-pearfect.com/homeen/",
-      "imageUrl": "https://pin.fontofweb.com/8622?format=jpg",
-      "colors": [
-        "#5277a4",
-        "#6f6755",
-        "#c4ae9d",
-        "#ffffff",
-        "#1e489a",
-        "#fd0000",
-        "#561414",
-        "#191310"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Helvetica Neue"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![PEARFECT](https://pin.fontofweb.com/8639?format=jpg)](https://design.withfudge.com/pin/8639)
-[PEARFECT](https://design.withfudge.com/pin/8639) — [source page](https://almost-pearfect.com/)
+Observed text styles:
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 500, 33px, lh 94px
+- **text**: unknown, weight 500, 33px, lh 94px
+- **text**: unknown, weight 500, 12px, lh 20px
+- **text**: unknown, weight 400, 8px, lh 11px
+- **text**: unknown, weight 400, 8px, lh 11px
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 400, 11px, lh 15px
+- **text**: unknown, weight 400, 18px, lh 19px
+- **text**: unknown, weight 400, 49px, lh 50px
+- **text**: unknown, weight 400, 16px, lh 16px
 
-[![PEARFECT — menu](https://pin.fontofweb.com/8638?format=jpg)](https://design.withfudge.com/pin/8638)
-[PEARFECT — menu](https://design.withfudge.com/pin/8638) — [source page](https://almost-pearfect.com/menu/)
+Display type is intentionally imperfect and huge—marker/brush energy for menu words (HOME, MORE INFORMATION, SHOP). The wordmark stacks with mixed sizes and tight leading. Body/UI type, when it appears, should stay subordinate so the display voice remains the brand. Do not “fix” the lettering into a geometric UI sans.
 
-[![PEARFECT — shop](https://pin.fontofweb.com/8637?format=jpg)](https://design.withfudge.com/pin/8637)
-[PEARFECT — shop](https://design.withfudge.com/pin/8637) — [source page](https://almost-pearfect.com/shop/)
+### Spacing and layout
 
-[![PEARFECT — shop](https://pin.fontofweb.com/8636?format=jpg)](https://design.withfudge.com/pin/8636)
-[PEARFECT — shop](https://design.withfudge.com/pin/8636) — [source page](https://almost-pearfect.com/shop/)
+Recurring spacing measurements include 1px. Composition uses massive negative space as a design element. Menu items sit as a left-weighted vertical list with a corner close control and corner wordmark. Shop views may stretch wide with sparse product presence. Corner radii are modest where present; prefer screenshot judgment over inventing a scale. This is not an 8px-grid marketing site; optical balance beats token obedience.
 
-[![PEARFECT — shop](https://pin.fontofweb.com/8635?format=jpg)](https://design.withfudge.com/pin/8635)
-[PEARFECT — shop](https://design.withfudge.com/pin/8635) — [source page](https://almost-pearfect.com/shop/)
+## Visual language
 
-[![PEARFECT](https://pin.fontofweb.com/8634?format=jpg)](https://design.withfudge.com/pin/8634)
-[PEARFECT](https://design.withfudge.com/pin/8634) — [source page](https://almost-pearfect.com/)
+Think print studio and fashion lookbook crossovers: flat ink, abrupt crops, playful asymmetry. Borders and shadows are mostly unnecessary. Motion, if any, should feel like print flipping—not SaaS micro-interactions. Imagery (when used) should be curated art pieces, not stock lifestyle.
 
-[![PEARFECT](https://pin.fontofweb.com/8626?format=jpg)](https://design.withfudge.com/pin/8626)
-[PEARFECT](https://design.withfudge.com/pin/8626) — [source page](https://almost-pearfect.com/)
+## Components and states
 
-[![PEARFECT — shop](https://pin.fontofweb.com/8625?format=jpg)](https://design.withfudge.com/pin/8625)
-[PEARFECT — shop](https://design.withfudge.com/pin/8625) — [source page](https://almost-pearfect.com/shopen/)
+- **Fullscreen menu overlay**: red field, huge black nav words, × close, corner brand mark
+- **Sparse header** on content pages that yields to art direction
+- **Shop listings** that still feel designed rather than filter-heavy ecommerce
+- **Typographic hero moments** as primary “components”
+
+## Responsive behavior
+
+Captures range from compact (~924px) to wide (~1712px). The menu concept scales by keeping type monumental and reflowing the vertical list; resist shrinking display type into ordinary mobile nav sizes that kill the joke/impact.
+
+## Practical guidance
+
+**Preserve**
+- Full-bleed color fields and gigantic human display type
+- Wordmark as composition, gallery-like emptiness
+- High contrast black on chroma
+
+**Avoid**
+- Generic center-nav startup headers
+- Soft UI shadows and purple AI gradients
+- Normalizing the brand into safe beige ecommerce
+
+## Scope note
+
+Studied 8 page captures on paths /, /menu/, /shop/, /shopen/. Some structural families were incomplete on these pages. Home, menu overlay, and shop paths inform the system; checkout detail is not covered.
+
+## Captured pages
+
+[![PEARFECT](https://pin.fontofweb.com/8639?format=jpg)](https://design.withfudge.com/share/pin-8639)
+
+[PEARFECT](https://design.withfudge.com/share/pin-8639)
+
+[![PEARFECT — menu](https://pin.fontofweb.com/8638?format=jpg)](https://design.withfudge.com/share/pin-8638)
+
+[PEARFECT — menu](https://design.withfudge.com/share/pin-8638)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8637?format=jpg)](https://design.withfudge.com/share/pin-8637)
+
+[PEARFECT — shop](https://design.withfudge.com/share/pin-8637)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8625?format=jpg)](https://design.withfudge.com/share/pin-8625)
+
+[PEARFECT — shop](https://design.withfudge.com/share/pin-8625)
+
+[![PEARFECT](https://pin.fontofweb.com/8634?format=jpg)](https://design.withfudge.com/share/pin-8634)
+
+[PEARFECT](https://design.withfudge.com/share/pin-8634)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8636?format=jpg)](https://design.withfudge.com/share/pin-8636)
+
+[PEARFECT — shop](https://design.withfudge.com/share/pin-8636)
+
+[![PEARFECT](https://pin.fontofweb.com/8626?format=jpg)](https://design.withfudge.com/share/pin-8626)
+
+[PEARFECT](https://design.withfudge.com/share/pin-8626)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8635?format=jpg)](https://design.withfudge.com/share/pin-8635)
+
+[PEARFECT — shop](https://design.withfudge.com/share/pin-8635)
+
+## Colors
+
+- `#ff0000`
+- `#000000`
+- `#ffffff`

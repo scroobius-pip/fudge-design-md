@@ -124,6 +124,14 @@ Algebrica reads like a **quiet mathematical library on the web**: white paper ca
 
 [Open guide](design-md/algebrica.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/algebrica.org-design)
 
+### almost-pearfect.com
+
+[![How almost-pearfect.com is designed](https://pin.fontofweb.com/8639?format=jpg)](design-md/almost-pearfect.com.md)
+
+Almost Pearfect is **poster-first art direction**, not conventional web UI. Screens behave like full-bleed graphic statements: saturated solid fields (notably a fierce pure red menu), oversized hand-drawn black lettering, and a stacked editorial wordmark (“Almost / Perfect / PEAR”). Navigation feels like walking into a gallery vinyl rather than a Bootstrap header. The shop and information surfaces continue that art-object attitude—type and color do the identity work before components do.
+
+[Open guide](design-md/almost-pearfect.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/almost-pearfect.com-design)
+
 ### alpine.inc
 
 [![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
