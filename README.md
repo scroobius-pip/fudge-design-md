@@ -20,6 +20,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
+### 1600.agency
+
+[![How 1600.agency is designed](https://pin.fontofweb.com/5998?format=jpg)](design-md/1600.agency.md)
+
+1600.agency presents a **motion studio portfolio** with cinematic restraint. The shell is dark, the work is bright, and UI type stays calm so showreels and stills can lead. It feels like a screening room: low ambient chrome, large media, soft corners.
+
+[Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
+
 ### acoup.blog
 
 [![How acoup.blog is designed](https://pin.fontofweb.com/9511?format=jpg)](design-md/acoup.blog.md)
