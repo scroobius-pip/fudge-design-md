@@ -92,6 +92,14 @@ Affectable Sleep sells a clinical-feeling sleep device with the calm of a wellne
 
 [Open guide](design-md/affectablesleep.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/affectablesleep.com-design)
 
+### agently.dev
+
+[![How agently.dev is designed](https://pin.fontofweb.com/6671?format=jpg)](design-md/agently.dev.md)
+
+Agently markets an agent platform with a **dark, product-forward SaaS** look: deep black/charcoal grounds, large bold white headlines, compact 12px UI labels, and rounded cards that showcase product UI. It reads modern developer/startup—high contrast type, restrained accent color, and feature sections that alternate between hero claims and interface previews.
+
+[Open guide](design-md/agently.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/agently.dev-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/7285?format=jpg)](design-md/aiverse.design.md)

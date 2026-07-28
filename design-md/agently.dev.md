@@ -1,301 +1,85 @@
 # How agently.dev is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/agently.dev-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/agently.dev-design)
 
-Source domain: [agently.dev](https://agently.dev)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-18
+## Design character
 
-<!--
-coverPin: 6671
--->
+Agently markets an agent platform with a **dark, product-forward SaaS** look: deep black/charcoal grounds, large bold white headlines, compact 12px UI labels, and rounded cards that showcase product UI. It reads modern developer/startup—high contrast type, restrained accent color, and feature sections that alternate between hero claims and interface previews.
 
-Here is the visual system observed across **8 captured pages** from [agently.dev](https://agently.dev).
+What should survive:
 
-```fudge-colors
-[
-  "#000000",
-  "#1a1615",
-  "#ffffff",
-  "#453f3d",
-  "#d6abff",
-  "#1c1c1c",
-  "#4d4d4d",
-  "#c60dff",
-  "#6a1bd1",
-  "#f9f9f9",
-  "#a91bd1",
-  "#0000ee",
-  "#424242",
-  "#614a44",
-  "#ededed",
-  "#fafafa"
-]
-```
+- Dark marketing shell with bold ~52px headlines.
+- Soft-rounded cards (8–24px) for product shots and feature tiles.
+- Sparse top nav and clear primary CTA.
+- UI previews as proof, not abstract illustration only.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from agently.dev",
-  "sampleText": "agently.dev",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 6671,
-      "domain": "agently.dev",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 494
-    },
-    {
-      "family": "Dm Sans",
-      "familyId": 2053,
-      "pinId": 6671,
-      "domain": "agently.dev",
-      "weight": "700",
-      "size": "52px",
-      "lineHeight": "52px",
-      "letterSpacing": "-1.56px",
-      "frequency": 55
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6670,
-      "domain": "agently.dev",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "14.4px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    },
-    {
-      "family": "Onest",
-      "familyId": 1301,
-      "pinId": 6666,
-      "domain": "agently.dev",
-      "weight": "400",
-      "size": "15px",
-      "lineHeight": "21px",
-      "letterSpacing": "normal",
-      "frequency": 12
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 73 |
-| Spacing values | 17 |
-| Borders and radii | 16 |
-| Shadows | 8 |
-| Gradients | 6 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6671,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6671?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#fafafa",
-        "#1b1817",
-        "#7c7c7c",
-        "#4a4847",
-        "#1a1615",
-        "#a4a2a1",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Dm Sans"
-      ]
-    },
-    {
-      "pinId": 6670,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6670?format=jpg",
-      "colors": [
-        "#d6abff",
-        "#000000",
-        "#cd98ed",
-        "#993df7",
-        "#453f3d",
-        "#1e1b1a",
-        "#ccc9cd",
-        "#999798"
-      ],
-      "fonts": [
-        "System",
-        "Dm Sans",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6669,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6669?format=jpg",
-      "colors": [
-        "#1a1615",
-        "#983ef5",
-        "#f9f9f9",
-        "#e7cff4",
-        "#c192e8",
-        "#3b3938",
-        "#6a1bd1",
-        "#181514"
-      ],
-      "fonts": [
-        "System",
-        "Inter",
-        "Dm Sans"
-      ]
-    },
-    {
-      "pinId": 6668,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6668?format=jpg",
-      "colors": [
-        "#bab6bb",
-        "#9457cd",
-        "#ecdbf8",
-        "#504d4e",
-        "#faf9fa",
-        "#6b10cb",
-        "#18181a",
-        "#c8a1e4"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 6667,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6667?format=jpg",
-      "colors": [
-        "#222122",
-        "#0000ee",
-        "#743aec",
-        "#888288",
-        "#efe7fa",
-        "#000000",
-        "#d5b8fa",
-        "#ffffff"
-      ],
-      "fonts": [
-        "System",
-        "Dm Sans"
-      ]
-    },
-    {
-      "pinId": 6666,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6666?format=jpg",
-      "colors": [
-        "#af73fd",
-        "#ffffff",
-        "#6a1bd1",
-        "#872dfd",
-        "#c69cfb",
-        "#000000",
-        "#614a44",
-        "#1a1615"
-      ],
-      "fonts": [
-        "System",
-        "Onest",
-        "Dm Sans"
-      ]
-    },
-    {
-      "pinId": 6665,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6665?format=jpg",
-      "colors": [
-        "#c60dff",
-        "#d17ce6",
-        "#c0bfbf",
-        "#000000",
-        "#fbfbfb",
-        "#9c9c9b",
-        "#4d4d4d",
-        "#242120"
-      ],
-      "fonts": [
-        "Dm Sans",
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6664,
-      "title": "Agently",
-      "domain": "agently.dev/",
-      "pageUrl": "agently.dev/",
-      "imageUrl": "https://pin.fontofweb.com/6664?format=jpg",
-      "colors": [
-        "#7a7878",
-        "#0000ee",
-        "#ceaafb",
-        "#000000",
-        "#e6d6fb",
-        "#a560ff",
-        "#f4f2f5",
-        "#c7beb4"
-      ],
-      "fonts": [
-        "System",
-        "Dm Sans"
-      ]
-    }
-  ]
-}
-```
+- **Ground**: near-black.
+- **Primary text**: white / off-white.
+- **Secondary**: muted gray labels (~12–16px).
+- **Accent**: used sparingly on CTAs and highlights (screenshot-dependent; keep saturated accents few).
+- **Surfaces**: elevated dark cards slightly lighter than the page void.
 
-## Representative captures
-[![Agently](https://pin.fontofweb.com/6671?format=jpg)](https://design.withfudge.com/pin/6671)
-[Agently](https://design.withfudge.com/pin/6671) — [source page](https://agently.dev/)
+### Typography
 
-[![Agently](https://pin.fontofweb.com/6670?format=jpg)](https://design.withfudge.com/pin/6670)
-[Agently](https://design.withfudge.com/pin/6670) — [source page](https://agently.dev/)
+- **Hero**: ~40–52px weight 700, short multi-line claims.
+- **Body**: ~15–18px regular.
+- **Micro UI**: 12px labels common in chrome and badges.
+- Families not declared.
 
-[![Agently](https://pin.fontofweb.com/6669?format=jpg)](https://design.withfudge.com/pin/6669)
-[Agently](https://design.withfudge.com/pin/6669) — [source page](https://agently.dev/)
+### Spacing and layout
 
-[![Agently](https://pin.fontofweb.com/6668?format=jpg)](https://design.withfudge.com/pin/6668)
-[Agently](https://design.withfudge.com/pin/6668) — [source page](https://agently.dev/)
+- Vertical marketing stack; 12–24px component gaps; larger section breaks (~40–160px).
+- Radii cluster at 8, 10, 16, 24px; pills near 100px on some controls.
+- Centered heroes with product mock below or beside copy.
 
-[![Agently](https://pin.fontofweb.com/6667?format=jpg)](https://design.withfudge.com/pin/6667)
-[Agently](https://design.withfudge.com/pin/6667) — [source page](https://agently.dev/)
+## Visual language
 
-[![Agently](https://pin.fontofweb.com/6666?format=jpg)](https://design.withfudge.com/pin/6666)
-[Agently](https://design.withfudge.com/pin/6666) — [source page](https://agently.dev/)
+- Dark glass/card elevations, soft shadows occasionally.
+- Product screenshots in rounded frames.
+- Minimal illustration noise; focus on UI realism.
 
-[![Agently](https://pin.fontofweb.com/6665?format=jpg)](https://design.withfudge.com/pin/6665)
-[Agently](https://design.withfudge.com/pin/6665) — [source page](https://agently.dev/)
+## Components and states
 
-[![Agently](https://pin.fontofweb.com/6664?format=jpg)](https://design.withfudge.com/pin/6664)
-[Agently](https://design.withfudge.com/pin/6664) — [source page](https://agently.dev/)
+1. **Marketing nav** — logo, few links, signup.
+2. **Hero** — bold claim + supporting line + CTA + product visual.
+3. **Feature rows** — icon/title/body or screenshot cards.
+4. **Social proof / logos** — quiet strips when present.
+5. **Footer** — standard dark SaaS footer.
+
+## Responsive behavior
+
+Multiple home widths from ~1072–1712. Hero type stays large; cards reflow from multi-column toward stacked. Detailed mobile nav not fully captured.
+
+## Practical guidance
+
+**Preserve** dark high-contrast marketing, bold heads, rounded product cards.  
+**Avoid** light generic Bootstrap look or rainbow gradients.  
+**Adapt** by keeping one accent and letting screenshots carry credibility.
+
+## Scope note
+
+Eight home captures at varied widths. Color role hexes were sparse; type sizes and radii are measured. Font families unknown.
+
+## Captured pages
+
+[![Home — hero and product](https://pin.fontofweb.com/6671?format=jpg)](https://design.withfudge.com/share/pin-6671)
+
+[Home — hero and product](https://design.withfudge.com/share/pin-6671)
+
+[![Home — mid width](https://pin.fontofweb.com/6670?format=jpg)](https://design.withfudge.com/share/pin-6670)
+
+[Home — mid width](https://design.withfudge.com/share/pin-6670)
+
+[![Home — wide marketing](https://pin.fontofweb.com/6666?format=jpg)](https://design.withfudge.com/share/pin-6666)
+
+[Home — wide marketing](https://design.withfudge.com/share/pin-6666)
+
+[![Home — desktop tall](https://pin.fontofweb.com/6667?format=jpg)](https://design.withfudge.com/share/pin-6667)
+
+[Home — desktop tall](https://design.withfudge.com/share/pin-6667)
