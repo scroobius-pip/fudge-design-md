@@ -36,6 +36,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 
 [Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
 
+### 80.lv
+
+[![How 80.lv is designed](https://pin.fontofweb.com/9652?format=jpg)](design-md/80.lv.md)
+
+80 Level is a **games-art and CG editorial** site. The design is media-first journalism: large thumbnails, bold short headlines, and a dark or high-contrast shell that feels closer to a content network than a corporate blog. Energy comes from artwork, not from decorative UI.
+
+[Open guide](design-md/80.lv.md) · [View the Fudge conversation](https://design.withfudge.com/share/80.lv-design)
+
 ### a16z.com
 
 [![How a16z.com is designed](https://pin.fontofweb.com/7299?format=jpg)](design-md/a16z.com.md)
