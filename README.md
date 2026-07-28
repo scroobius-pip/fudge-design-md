@@ -564,6 +564,14 @@ Modern Digg is a **warm paper newsroom**, not the old orange digg-button era. Th
 
 [Open guide](design-md/digg.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/digg.com-design)
 
+### dosu.dev
+
+[![How dosu.dev is designed](https://pin.fontofweb.com/10411?format=jpg)](design-md/dosu.dev.md)
+
+Dosu sells **knowledge infrastructure for agents and humans** with a distinctive mix of **pixel-art nostalgia** and modern product clarity. The hero drops you into a grand library illustration rendered in chunky pixels, over a cream/warm field, with an elegant display headline and a live-feeling terminal window. It is whimsical without becoming childish—developer-serious install command beside a soft “Book a demo” path.
+
+[Open guide](design-md/dosu.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/dosu.dev-design)
+
 ### earth.google.com
 
 [![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
