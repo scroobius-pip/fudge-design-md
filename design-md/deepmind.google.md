@@ -1,389 +1,121 @@
 # How deepmind.google is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/deepmind.google-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/deepmind.google-design)
 
-Source domain: [deepmind.google](https://deepmind.google)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-07
+## Design character
 
-<!--
-coverPin: 9520
--->
+Google DeepMind’s model pages are a **dark, spacious product-science narrative**: near-black canvas, cool gray surfaces, soft white primary type, and pill navigation that feels closer to a device OS than a docs site. Benchmarks, model stories, and open-model launches (Gemini, Gemma) share one cinematic system—large quiet headlines, airy section padding, and data tables that still look designed rather than dumped.
 
-Here is the visual system observed across **25 captured pages** from [deepmind.google](https://deepmind.google).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#f8f9fc",
-  "#121317",
-  "#000000",
-  "#212226",
-  "#b2bbc5",
-  "#0000ee",
-  "#18191d",
-  "#f9f9fb",
-  "#e6eaf0",
-  "#101218",
-  "#151619",
-  "#1a1b20",
-  "#131418",
-  "#f3f4f8",
-  "#1a1b1f",
-  "#adb0b7"
-]
-```
+- **Dark monochrome base** with cool blue-gray secondary text.
+- **Pill / segmented controls** as the primary way to switch narrative chapters.
+- **Large radius cards** and soft panels over harsh grids.
+- Benchmark and spec content presented as **editorial data**, not dense admin tables.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from deepmind.google",
-  "sampleText": "deepmind.google",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9520,
-      "domain": "deepmind.google",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Google Sans Flex",
-      "familyId": 1510,
-      "pinId": 9520,
-      "domain": "deepmind.google",
-      "weight": "400",
-      "size": "17.5px",
-      "lineHeight": "25.375px",
-      "letterSpacing": "0.2079px",
-      "frequency": 4176
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9520,
-      "domain": "deepmind.google",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 504
-    },
-    {
-      "family": "Google Symbols",
-      "familyId": 325,
-      "pinId": 9520,
-      "domain": "deepmind.google",
-      "weight": "300",
-      "size": "24px",
-      "lineHeight": "24px",
-      "letterSpacing": "0.2079px",
-      "frequency": 2
-    },
-    {
-      "family": "Google Symbols Rounded 48 Pt",
-      "familyId": 2183,
-      "pinId": 6853,
-      "domain": "deepmind.google",
-      "weight": "300",
-      "size": "18px",
-      "lineHeight": "18px",
-      "letterSpacing": "0.2079px",
-      "frequency": 1
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 25 |
-| Colors | 160 |
-| Spacing values | 169 |
-| Borders and radii | 36 |
-| Shadows | 1 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9520,
-      "title": "Gemini 3.1 Pro — Google DeepMind",
-      "domain": "deepmind.google/models/gemini/pro/",
-      "pageUrl": "deepmind.google/models/gemini/pro/",
-      "imageUrl": "https://pin.fontofweb.com/9520?format=jpg",
-      "colors": [
-        "#121317",
-        "#b2bbc5",
-        "#1a1b1f",
-        "#18191d",
-        "#f8f9fc",
-        "#adb0b7",
-        "#70757b",
-        "#47494e"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Google Sans Flex",
-        "Times",
-        "Google Symbols"
-      ]
-    },
-    {
-      "pinId": 9519,
-      "title": "Gemini 3.1 Pro — Google DeepMind",
-      "domain": "deepmind.google/models/gemini/pro/",
-      "pageUrl": "deepmind.google/models/gemini/pro/",
-      "imageUrl": "https://pin.fontofweb.com/9519?format=jpg",
-      "colors": [
-        "#f8f9fc",
-        "#505156",
-        "#adaeb2",
-        "#f0f1f5",
-        "#727478",
-        "#18191d",
-        "#b2bbc5",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Google Sans Flex",
-        "Times",
-        "Google Symbols"
-      ]
-    },
-    {
-      "pinId": 8705,
-      "title": "Gemma 4 — Google DeepMind",
-      "domain": "deepmind.google/models/gemma/gemma-4/",
-      "pageUrl": "deepmind.google/models/gemma/gemma-4/",
-      "imageUrl": "https://pin.fontofweb.com/8705?format=jpg",
-      "colors": [
-        "#357af1",
-        "#f8f9fc",
-        "#000000",
-        "#151619",
-        "#5f6269",
-        "#8e939b",
-        "#b2bbc5",
-        "#e6eaf0"
-      ],
-      "fonts": [
-        "Google Sans Flex",
-        "Google Symbols"
-      ]
-    },
-    {
-      "pinId": 8704,
-      "title": "Gemma 4 — Google DeepMind",
-      "domain": "deepmind.google/models/gemma/gemma-4/",
-      "pageUrl": "deepmind.google/models/gemma/gemma-4/",
-      "imageUrl": "https://pin.fontofweb.com/8704?format=jpg",
-      "colors": [
-        "#6e7278",
-        "#191a1f",
-        "#000000",
-        "#0000ee",
-        "#263d58",
-        "#9d9fa4",
-        "#d4d5d9",
-        "#335891"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 8703,
-      "title": "Gemma 4 — Google DeepMind",
-      "domain": "deepmind.google/models/gemma/gemma-4/",
-      "pageUrl": "deepmind.google/models/gemma/gemma-4/",
-      "imageUrl": "https://pin.fontofweb.com/8703?format=jpg",
-      "colors": [
-        "#0000ee",
-        "#375d9d",
-        "#1c2c4c",
-        "#000000",
-        "#92949b",
-        "#3f4147",
-        "#1a1b20",
-        "#4485f2"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 8702,
-      "title": "Gemma 4 — Google DeepMind",
-      "domain": "deepmind.google/models/gemma/gemma-4/",
-      "pageUrl": "deepmind.google/models/gemma/gemma-4/",
-      "imageUrl": "https://pin.fontofweb.com/8702?format=jpg",
-      "colors": [
-        "#8f9299",
-        "#0000ee",
-        "#000000",
-        "#4281ef",
-        "#53565d",
-        "#284263",
-        "#1a1b20",
-        "#3d6e9e"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 8701,
-      "title": "Gemma 4 — Google DeepMind",
-      "domain": "deepmind.google/models/gemma/gemma-4/",
-      "pageUrl": "deepmind.google/models/gemma/gemma-4/",
-      "imageUrl": "https://pin.fontofweb.com/8701?format=jpg",
-      "colors": [
-        "#1b263c",
-        "#f8f9fc",
-        "#000000",
-        "#253d6d",
-        "#335fb4",
-        "#121317",
-        "#f1f2f6",
-        "#3978f2"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 6854,
-      "title": "Gemini 3.1 Pro - Model Card — Google DeepMind",
-      "domain": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "pageUrl": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "imageUrl": "https://pin.fontofweb.com/6854?format=jpg",
-      "colors": [
-        "#f8f9fc",
-        "#151619",
-        "#77777c",
-        "#4e4f53",
-        "#000000",
-        "#18191d",
-        "#a2a3a7",
-        "#dedfe3"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 6853,
-      "title": "Gemini 3.1 Pro - Model Card — Google DeepMind",
-      "domain": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "pageUrl": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "imageUrl": "https://pin.fontofweb.com/6853?format=jpg",
-      "colors": [
-        "#f8f9fc",
-        "#000000",
-        "#f9f9fb",
-        "#4b4c50",
-        "#121317",
-        "#a9aaae",
-        "#78797d",
-        "#ecedf1"
-      ],
-      "fonts": [
-        "Google Sans Flex",
-        "Google Symbols Rounded 48 Pt"
-      ]
-    },
-    {
-      "pinId": 6852,
-      "title": "Gemini 3.1 Pro - Model Card — Google DeepMind",
-      "domain": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "pageUrl": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "imageUrl": "https://pin.fontofweb.com/6852?format=jpg",
-      "colors": [
-        "#494c51",
-        "#9da1a7",
-        "#18191d",
-        "#e5e6ea",
-        "#f8f9fc",
-        "#121317",
-        "#b2bbc5",
-        "#000000"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 6851,
-      "title": "Gemini 3.1 Pro - Model Card — Google DeepMind",
-      "domain": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "pageUrl": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "imageUrl": "https://pin.fontofweb.com/6851?format=jpg",
-      "colors": [
-        "#999da3",
-        "#f4f5f9",
-        "#46494f",
-        "#676b71",
-        "#f8f9fc",
-        "#000000",
-        "#121317",
-        "#b2bbc5"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    },
-    {
-      "pinId": 6801,
-      "title": "Gemini 3.1 Pro - Model Card — Google DeepMind",
-      "domain": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "pageUrl": "deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "imageUrl": "https://pin.fontofweb.com/6801?format=jpg",
-      "colors": [
-        "#18191d",
-        "#868b92",
-        "#33353a",
-        "#e8e9ed",
-        "#b7b8bc",
-        "#f8f9fc",
-        "#000000",
-        "#575a5f"
-      ],
-      "fonts": [
-        "Google Sans Flex"
-      ]
-    }
-  ]
-}
-```
+Measured text roles:
 
-## Representative captures
-[![Gemini 3.1 Pro — Google DeepMind](https://pin.fontofweb.com/9520?format=jpg)](https://design.withfudge.com/pin/9520)
-[Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9520) — [source page](https://deepmind.google/models/gemini/pro/)
+- **Primary text**: `#f8f9fc`
+- **Secondary text**: `#b2bbc5`
 
-[![Gemini 3.1 Pro — Google DeepMind](https://pin.fontofweb.com/9519?format=jpg)](https://design.withfudge.com/pin/9519)
-[Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9519) — [source page](https://deepmind.google/models/gemini/pro/)
+Visual canvas (from screenshots): deep charcoal/black page background; elevated panels slightly lighter charcoal; white filled pill for the active tab; hairline column rules in tables at low contrast. Accents are minimal—status is mostly value emphasis (bold white numbers) rather than hue.
 
-[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8705?format=jpg)](https://design.withfudge.com/pin/8705)
-[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8705) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+Suggested working palette from captures: `#f8f9fc`, `#b2bbc5`, plus near-black surfaces.
 
-[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8704?format=jpg)](https://design.withfudge.com/pin/8704)
-[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8704) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+### Typography
 
-[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8703?format=jpg)](https://design.withfudge.com/pin/8703)
-[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8703) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+Families not declared. Observed scale:
 
-[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8702?format=jpg)](https://design.withfudge.com/pin/8702)
-[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8702) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+- Body ~**17.5px / 25.4px** line-height (dominant).
+- Secondary ~**14.5px / 21px**.
+- Section titles ~**32px** medium (weight ~500).
+- Display on Gemma launch ~**120px** light (weight ~300) and mid display ~**42px**.
+- Table numerals inherit body size but read bolder via weight/contrast.
+- Single sans system across UI and content; no decorative serif.
 
-[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8701?format=jpg)](https://design.withfudge.com/pin/8701)
-[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8701) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+### Spacing and layout
 
-[![Gemini 3.1 Pro - Model Card — Google DeepMind](https://pin.fontofweb.com/6854?format=jpg)](https://design.withfudge.com/pin/6854)
-[Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/pin/6854) — [source page](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+Strong, repeated spacing:
+
+- Horizontal content padding **72px**; vertical section padding **64–72px**.
+- Wide side margins ~**300–308px** on ultra-wide frames—content stays in a focused column.
+- Grid gaps **64px** between major blocks; tighter **16px** gaps inside control clusters.
+- Table rows breathe; section stacks are generous (margin-bottom **60–120px** between big chapters).
+
+Layout model: top floating controls → large rounded content stage → narrative sections and comparison tables.
+
+## Visual language
+
+- **Radii**: **16px** panels common; **8px** and **4px** for smaller controls; **9999px** pills/chips everywhere (tabs, tags, some buttons).
+- **Borders**: 1–2px solid low-contrast strokes on chips and some cards.
+- **Shadows**: nearly absent; depth from surface value shifts.
+- **Imagery**: abstract model art and gradient device visuals on launch heroes (Gemma); performance pages stay typographic/data-first.
+- **Taxonomy read**: dark mode, muted/monochrome, generative-AI product marketing, moderate density.
+
+## Components and states
+
+1. **Segmented pill nav** — dark track with white active pill (Capabilities / Hands-on / Performance / Model information).
+2. **Icon circle buttons** — back/forward chevrons in soft dark circles.
+3. **Performance stage card** — large 16px-radius charcoal panel holding headline + benchmark table.
+4. **Data table** — multi-column model comparison; primary column emphasized; muted headers; subtle row separation.
+5. **Launch hero (Gemma)** — massive light display type, short deck, pill CTAs, optional abstract visual.
+6. **Model card chrome** — compact pill/chip clusters with 2px borders (header capture).
+
+Active tab is the clearest state; hover/focus not evidenced.
+
+## Responsive behavior
+
+Captures include ultra-wide (~2048), mid (~1296–1793), and square-ish (~616) viewports on Gemma. Pills and heroes compress; display type scales down but stays light and huge relative to body. Performance table is desktop-oriented in the wide shots. True small-phone patterns were not fully documented.
+
+## Practical guidance
+
+**Preserve**
+
+- Cool dark neutrals with `#f8f9fc` / `#b2bbc5` text pairing.
+- Pill chapter navigation.
+- 72px section padding and large 16px content radii.
+- Benchmark tables as designed editorial objects.
+- Sparse accent color—let white type and layout do hierarchy.
+
+**Avoid**
+
+- Bright Material rainbow chrome on these model stories.
+- Dense light-mode admin tables.
+- Tiny radii or heavy drop shadows.
+- Multiple competing type families.
+- Filling every section with illustration; data pages should stay calm.
+
+## Scope note
+
+Studied Gemini 3.1 Pro performance/model pages (9520, 9519), Gemma 4 launch viewports (8701–8705), and a model-card header (6854). Background/palette extractions and font family names were unsupported; hex text roles and spacing/radius figures are measured. Surface blacks are visual reads from screenshots.
+
+## Captured pages
+
+[![Gemini 3.1 Pro — Performance table](https://pin.fontofweb.com/9520?format=jpg)](https://design.withfudge.com/share/pin-9520)
+
+[Gemini 3.1 Pro — Performance table](https://design.withfudge.com/share/pin-9520)
+
+[![Gemini 3.1 Pro — alternate frame](https://pin.fontofweb.com/9519?format=jpg)](https://design.withfudge.com/share/pin-9519)
+
+[Gemini 3.1 Pro — alternate frame](https://design.withfudge.com/share/pin-9519)
+
+[![Gemma 4 launch](https://pin.fontofweb.com/8705?format=jpg)](https://design.withfudge.com/share/pin-8705)
+
+[Gemma 4 launch](https://design.withfudge.com/share/pin-8705)
+
+[![Gemini model card chrome](https://pin.fontofweb.com/6854?format=jpg)](https://design.withfudge.com/share/pin-6854)
+
+[Gemini model card chrome](https://design.withfudge.com/share/pin-6854)
+
+## Colors
+
+- `#f8f9fc`
+- `#b2bbc5`
+- `#0a0a0a`
+- `#ffffff`

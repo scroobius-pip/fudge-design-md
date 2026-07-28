@@ -204,6 +204,14 @@ Mux dashboard captures focus on **authentication entry**—login and signup—ra
 
 [Open guide](design-md/dashboard.mux.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.mux.com-design)
 
+### deepmind.google
+
+[![How deepmind.google is designed](https://pin.fontofweb.com/9520?format=jpg)](design-md/deepmind.google.md)
+
+Google DeepMind’s model pages are a **dark, spacious product-science narrative**: near-black canvas, cool gray surfaces, soft white primary type, and pill navigation that feels closer to a device OS than a docs site. Benchmarks, model stories, and open-model launches (Gemini, Gemma) share one cinematic system—large quiet headlines, airy section padding, and data tables that still look designed rather than dumped.
+
+[Open guide](design-md/deepmind.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/deepmind.google-design)
+
 ### delve.co
 
 [![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)
