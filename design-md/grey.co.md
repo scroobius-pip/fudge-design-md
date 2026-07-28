@@ -6,102 +6,120 @@ Last updated: 2026-07-28
 
 ## Design character
 
-Grey is a **premium global banking** brand: cinematic near-black heroes, bold white display type, a saturated **blue primary CTA**, and lifestyle photography (hands, purple phone chrome, metallic nails) that makes fintech feel fashion-forward. Feature bands sit on the same dark stage as glassy cards with soft radii.
+Grey is a **calm, photography-led neobank brand**: soft blue studio gradients, oversized white display type, and lifestyle portraits that feel fashion-editorial more than fintech-dashboard. The product promise (inclusive global banking) is told through people and space—open sky-blue sets, tailored casual wardrobe, phone-in-hand product glimpses—while UI chrome stays minimal: light nav, one solid blue CTA, and dark testimonial stages as contrast bands.
 
 What should survive adaptation:
 
-- **Near-black marketing canvas** + white headlines
-- **Blue filled CTA** (“Create an account”) as the money action
-- **Purple product accents** in device chrome / lifestyle props
-- **Soft cards ~16–22px radius** over dark
-- High-end **hand/device photography**, not generic stock dashboards alone
-- Numbered feature rows (01 — 02 — 03) with quiet blur backgrounds
+- **Soft blue atmospheric gradients** as hero environment (not flat corporate blue blocks)
+- **Huge white humanist sans display** with slight negative tracking
+- **Editorial photography** of real customers in styled sets
+- **Single blue filled CTA** (“Get started — it’s free”)
+- **Dark charcoal testimonial cards** as a deliberate counterweight to airy heroes
 
 ## Foundations
 
 ### Color
 
-| Role | Hex (approx.) | Where |
-| --- | --- | --- |
-| Canvas | `#0A0A0A`–`#111` | Heroes and feature stage |
-| Primary text | `#FFFFFF` | Display and card titles |
-| Secondary text | muted light gray | Subcopy |
-| CTA blue | `#2F5BFF`–`#3B6CFF` | Primary buttons |
-| Product purple | `#7B2CFF`–`#A855F7` family | Phone case, bangles, UI chips |
-| Card surface | `#141418`–`#1A1A22` | Feature tiles |
-| Light top clip | white curve | Occasional geometric mask above hero photo |
+Measured text roles on the hero capture:
+
+| Role | Hex | Notes |
+|------|-----|--------|
+| Text primary | `#ffffff` | Display and primary copy on blue/dark |
+| Text secondary | `#f0f2f5` | Supporting lines, slightly cool off-white |
+
+Visual system beyond those roles:
+
+- **Hero atmosphere**: soft sky-to-periwinkle blue gradient studio backdrop
+- **Primary CTA**: medium saturated blue fill, white label
+- **Nav on hero**: white links; ghost/outline secondary control beside solid CTA in the header
+- **Testimonial stage**: near-black rounded panel, white quote type, muted role label
+- **Light bands** (where present): clean white/off-white resting surfaces between photo chapters
 
 ### Typography
 
-| Use | Weight | Size |
-| --- | --- | --- |
-| Display | 700 | ~49–64px, tight lh |
-| Subhead | 500 | ~28px |
-| Body | 400 | 16px / 24 |
-| UI labels | 500 | 14px |
+Declared families were not captured. Observed hierarchy:
 
-Modern grotesque sans; weight + size carry hierarchy.
+- **Display**: ~50–74px weight **700**, line-height ≈ font-size (tight stacks), tracking about **−1 to −1.5px** on largest lines
+- **Subhead / mid**: ~28px medium; ~20px body-lead with ~32px line-height and slight negative tracking
+- **Body / UI**: 14–16px at 400–500, line-height 20–24px
+- **Eyebrow / labels**: 16px with positive letter-spacing (~2px) on some UI labels
+- Tone is **geometric-humanist sans**, confident and friendly—not mono, not serif
 
 ### Spacing and layout
 
-- Hero: split or photo-right with large left type block
-- Feature grid: 3-up cards, ~20px radius common; some 8–16px
-- Section padding often **120px** vertical on story bands
-- Side padding ~50–80px on marketing frames
-- Soft shadows rare (`y:4 blur:8`)—mostly flat dark elevation
+- Horizontal page padding commonly **~52–80px** on desktop; some modules pad **~70px** on all sides
+- Hero uses large top padding (**~264px** in one measure) so type sits mid-viewport beside the model
+- Section vertical padding often **120px**; stacked margins **10–20px** under headlines, **40–64px** between blocks
+- Hero is a **split composition**: type + CTA left, full-height portrait right
+- Testimonial is a **wide rounded dark card** with photo tile left and quote right; circular prev/next affordances
 
 ## Visual language
 
-- Large white display, short lines
-- Photography is **styled and cropped boldly** (arm + phone breaking the frame)
-- Cards may use frosted/blurred iconography behind titles
-- Pills appear for small UI (100px radius chips) but primary CTA is rounded-rect ~8–12px
+- **Radii**: soft product feel—**8–22px** on cards and media; **~16–20px** common; occasional **100px** pills on small controls
+- **Borders**: 1–2px solid on chips and outline buttons; dashed 1px appears in some structural rules
+- **Shadows**: light elevation (`0 4px 8px`, occasional larger blur) under floating cards—not heavy material stacks
+- **Imagery**: high-end portrait photography, consistent cool color grade matching the blue set; product UI appears only as phone content inside the photo
+- **Corners on testimonials**: large rounded dark stage with a stepped/cut bottom-right where carousel controls sit—distinctive silhouette
 
-## Components
+## Components and states
 
-### Primary button
-Blue fill, white label, medium radius—not full pill on the main hero CTA.
+1. **Marketing header** — wordmark, language pill, text nav, Login text, outline or solid “Get started”
+2. **Hero** — multi-line white display, two-line value prop, primary blue CTA, full-bleed studio portrait
+3. **Primary button** — filled blue, medium radius, short benefit-led label
+4. **Testimonial carousel** — dark rounded panel, cropped portrait with rounded rect, large quote, name + role, circular icon buttons
+5. **Ghost / secondary controls** — light outline pills on blue or dark grounds
 
-### Feature card
-Dark tile, optional blurred motif, index label `01 —`, bold title.
+States visible: default solid CTA, quiet text links, outline header CTA, carousel chevrons as circular outlines.
 
-### Device UI (in photo)
-Light app chrome inside purple hardware—proof the brand spans marketing dark and product light.
+## Responsive behavior
+
+Seven homepage captures from roughly **1200–1710px** wide keep the photo-led hero and dark testimonial pattern. At narrower widths within this band, type remains large and photography still anchors the right side; a true mobile single-column system is not fully documented here.
 
 ## Practical guidance
 
-**Do** pair black stage + blue CTA + purple lifestyle accent; keep type huge and short; use real product-in-hand imagery.
+**Preserve**
 
-**Don’t** dilute into generic neon crypto gradients; over-round every control into candy pills; replace photography with flat icon grids only.
+- Soft blue studio gradient + editorial portrait as the brand environment
+- Oversized tight white display with restrained body copy
+- One blue CTA phrase repeated in header and hero
+- Dark rounded testimonial stages for social proof contrast
+- Generous padding and sparse density—fintech calm, not trading-terminal density
+
+**Avoid**
+
+- Generic stock-finance icon grids or purple SaaS gradients
+- Small timid headlines; Grey’s voice is billboard-scale
+- Rainbow accents or multiple CTA colors
+- Hard square cards everywhere—soft radii are part of the trust posture
+- Crowding the hero with feature bullets; keep the left column short
 
 ## Scope note
 
-Seven home captures (`/`, pins 6719–6725). Limited structured color roles; hexes reinforced from screens. Desktop-only set; motion not measured.
+Based on seven homepage captures of grey.co (hero, mid-page, and testimonial treatments). Measured color roles cover primary/secondary text on the hero; broader blues and charcoal values are from visual reading. Declared font families were not available. App UI, pricing, and logged-in product screens are outside this set.
 
 ## Captured pages
 
-[![Global account hero](https://pin.fontofweb.com/6723?format=jpg)](https://design.withfudge.com/share/pin-6723)
+[![Hero — inclusive banking](https://pin.fontofweb.com/6719?format=jpg)](https://design.withfudge.com/share/pin-6719)
 
-[Global account hero](https://design.withfudge.com/share/pin-6723)
+[Hero — inclusive banking](https://design.withfudge.com/share/pin-6719)
 
-[![Home alternate hero](https://pin.fontofweb.com/6725?format=jpg)](https://design.withfudge.com/share/pin-6725)
+[![Hero alternate crop](https://pin.fontofweb.com/6723?format=jpg)](https://design.withfudge.com/share/pin-6723)
 
-[Home alternate hero](https://design.withfudge.com/share/pin-6725)
+[Hero alternate crop](https://design.withfudge.com/share/pin-6723)
 
-[![Feature cards band](https://pin.fontofweb.com/6724?format=jpg)](https://design.withfudge.com/share/pin-6724)
+[![Testimonial stage](https://pin.fontofweb.com/6724?format=jpg)](https://design.withfudge.com/share/pin-6724)
 
-[Feature cards band](https://design.withfudge.com/share/pin-6724)
+[Testimonial stage](https://design.withfudge.com/share/pin-6724)
 
-[![Mid-page story](https://pin.fontofweb.com/6720?format=jpg)](https://design.withfudge.com/share/pin-6720)
+[![Homepage wide frame](https://pin.fontofweb.com/6725?format=jpg)](https://design.withfudge.com/share/pin-6725)
 
-[Mid-page story](https://design.withfudge.com/share/pin-6720)
+[Homepage wide frame](https://design.withfudge.com/share/pin-6725)
+
+[![Mid homepage module](https://pin.fontofweb.com/6720?format=jpg)](https://design.withfudge.com/share/pin-6720)
+
+[Mid homepage module](https://design.withfudge.com/share/pin-6720)
 
 ## Colors
 
-- `#0a0a0a`
 - `#ffffff`
-- `#2f5bff`
-- `#7b2cff`
-- `#141418`
-- `#111111`
-- `#a855f7`
+- `#f0f2f5`
