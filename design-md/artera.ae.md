@@ -1,142 +1,79 @@
 # How artera.ae is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/artera.ae-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/artera.ae-design)
 
-Source domain: [artera.ae](https://artera.ae)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-14
+## Design character
 
-<!--
-coverPin: 6538
--->
+Artera is an **AI art discovery gallery** dressed as a night-time museum: dark canvases, monumental sans headlines (up to 72px), white primary type, muted gray metadata, and a warm gold accent (`#f2c14e`). Artwork imagery is the hero; chrome stays thin so paintings and digital pieces dominate.
 
-Here is the visual system observed across **3 captured pages** from [artera.ae](https://artera.ae).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#f3f3f3",
-  "#f2c14e",
-  "#dbdbdb",
-  "#d1d5db",
-  "#d3d2d2",
-  "#262626",
-  "#939393",
-  "#3f3f3f",
-  "#4b5563",
-  "#9ca3af",
-  "#774748",
-  "#922843",
-  "#413936",
-  "#3b242a"
-]
-```
+- Dark mode gallery shell with gold accent.
+- Huge display titles on home; calmer 16–23px UI on detail.
+- 8px card radii and soft glows behind featured art.
+- Centered content with ~88–212px side margins on wide screens.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from artera.ae",
-  "sampleText": "artera.ae",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6538,
-      "domain": "artera.ae",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 32
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 40 |
-| Spacing values | 38 |
-| Borders and radii | 12 |
-| Shadows | 4 |
-| Gradients | 2 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6538,
-      "title": "The Last Supper - Lucas Cranach the Elder | Artera",
-      "domain": "artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596",
-      "pageUrl": "artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596",
-      "imageUrl": "https://pin.fontofweb.com/6538?format=jpg",
-      "colors": [
-        "#dbdbdb",
-        "#f3f3f3",
-        "#774748",
-        "#922843",
-        "#413936",
-        "#ffffff",
-        "#3b242a",
-        "#d1d5db"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6537,
-      "title": "",
-      "domain": "artera.ae/artworks",
-      "pageUrl": "artera.ae/artworks",
-      "imageUrl": "https://pin.fontofweb.com/6537?format=jpg",
-      "colors": [
-        "#ca6574",
-        "#c06330",
-        "#000000",
-        "#6c6a6c",
-        "#3d342e",
-        "#f2c14e",
-        "#755a3f",
-        "#471f1a"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6536,
-      "title": "Artera – AI-Powered Art Discovery & Creative Community",
-      "domain": "artera.ae/",
-      "pageUrl": "artera.ae/",
-      "imageUrl": "https://pin.fontofweb.com/6536?format=jpg",
-      "colors": [
-        "#eaebea",
-        "#4e3e27",
-        "#000000",
-        "#a68d67",
-        "#ffffff",
-        "#f2c14e",
-        "#d1d5db",
-        "#161412"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+Measured on detail: accent `#f2c14e`, text primary `#ffffff`, secondary `#939393`. Home continues the dark/gold system. Avoid cold corporate blue as primary accent.
 
-## Representative captures
-[![The Last Supper - Lucas Cranach the Elder | Artera](https://pin.fontofweb.com/6538?format=jpg)](https://design.withfudge.com/pin/6538)
-[The Last Supper - Lucas Cranach the Elder | Artera](https://design.withfudge.com/pin/6538) — [source page](https://artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596)
+### Typography
 
-[![Captured page 6537](https://pin.fontofweb.com/6537?format=jpg)](https://design.withfudge.com/pin/6537)
-[Captured page 6537](https://design.withfudge.com/pin/6537) — [source page](https://artera.ae/artworks)
+Sans. Weights 400–700. Body 16/24; mid 20–23; display 72/72 on home. Meta often 14/19.6–20.
 
-[![Artera – AI-Powered Art Discovery & Creative Community](https://pin.fontofweb.com/6536?format=jpg)](https://design.withfudge.com/pin/6536)
-[Artera – AI-Powered Art Discovery & Creative Community](https://design.withfudge.com/pin/6536) — [source page](https://artera.ae/)
+### Spacing and layout
+
+Home: large side margins (~88px) and tight 8–16px chip padding. Index: ~20px card padding. Detail: 16–32px stacks with centered column.
+
+## Visual language
+
+- Radii 8px cards; 10px controls; occasional 48px or pill.
+- Soft shadows including large glows (`blur 15–50`) for featured pieces.
+- 1px borders on some controls.
+
+## Components and states
+
+- Hero with oversized headline + CTA.
+- Artwork card grids with image-first tiles.
+- Detail header with title, artist, meta, actions.
+- Navigation for discover/community.
+- Subtle elevated media frames.
+
+## Responsive behavior
+
+Desktop widths ~1700+. Grid likely collapses columns on smaller screens; not directly evidenced.
+
+## Practical guidance
+
+**Preserve:** museum-dark + gold, image supremacy, monumental home type.
+
+**Avoid:** light cluttered marketplace chrome; neon multi-accents; tiny thumbnails without breathing room.
+
+## Scope note
+
+Home, artworks index, and one artwork detail. Font families undeclared.
+
+## Captured pages
+
+[![Home — art discovery](https://pin.fontofweb.com/6536?format=jpg)](https://design.withfudge.com/share/pin-6536)
+
+[Home — art discovery](https://design.withfudge.com/share/pin-6536)
+
+[![Artworks index grid](https://pin.fontofweb.com/6537?format=jpg)](https://design.withfudge.com/share/pin-6537)
+
+[Artworks index grid](https://design.withfudge.com/share/pin-6537)
+
+[![Artwork detail](https://pin.fontofweb.com/6538?format=jpg)](https://design.withfudge.com/share/pin-6538)
+
+[Artwork detail](https://design.withfudge.com/share/pin-6538)
+
+## Colors
+
+- `#f2c14e`
+- `#ffffff`
+- `#939393`
+- `#000000`

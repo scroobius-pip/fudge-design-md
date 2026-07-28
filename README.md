@@ -244,6 +244,14 @@ Arcee AI presents as a **cinematic dark brand landing**: near-black full-bleed a
 
 [Open guide](design-md/arcee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcee.ai-design)
 
+### artera.ae
+
+[![How artera.ae is designed](https://pin.fontofweb.com/6536?format=jpg)](design-md/artera.ae.md)
+
+Artera is an **AI art discovery gallery** dressed as a night-time museum: dark canvases, monumental sans headlines (up to 72px), white primary type, muted gray metadata, and a warm gold accent (`#f2c14e`). Artwork imagery is the hero; chrome stays thin so paintings and digital pieces dominate.
+
+[Open guide](design-md/artera.ae.md) · [View the Fudge conversation](https://design.withfudge.com/share/artera.ae-design)
+
 ### artificialanalysis.ai
 
 [![How artificialanalysis.ai is designed](https://pin.fontofweb.com/9681?format=jpg)](design-md/artificialanalysis.ai.md)
