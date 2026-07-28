@@ -484,6 +484,14 @@ Cloudflare’s dashboard is a **dense enterprise operations console**: account-s
 
 [Open guide](design-md/dash.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
 
+### dashboard.exa.ai
+
+[![How dashboard.exa.ai is designed](https://pin.fontofweb.com/9452?format=jpg)](design-md/dashboard.exa.ai.md)
+
+Exa’s dashboard is a **compact AI-search developer console**: home plus API keys. It feels like a modern AI infra app—**blue-forward accents**, dark text on light gray scale, and focused utility pages rather than a sprawling enterprise suite.
+
+[Open guide](design-md/dashboard.exa.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.exa.ai-design)
+
 ### dashboard.internetcomputer.org
 
 [![How dashboard.internetcomputer.org is designed](https://pin.fontofweb.com/9061?format=jpg)](design-md/dashboard.internetcomputer.org.md)
