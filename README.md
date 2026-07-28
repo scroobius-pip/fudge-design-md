@@ -148,6 +148,14 @@ Google Analytics is **Material-era enterprise calm**: light gray page ground, wh
 
 [Open guide](design-md/analytics.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
+### animaapp.com
+
+[![How animaapp.com is designed](https://pin.fontofweb.com/5953?format=jpg)](design-md/animaapp.com.md)
+
+Anima’s marketing site is **dark, polished AI-design theater**: charcoal background, a thin pink promo bar, a high-contrast serif display headline (“AI with an Eye for Design”), and a centered prompt-like input card with a soft purple rim light. Template previews sit in a horizontal row of product thumbnails. It sells tasteful generation—more design studio than hacker terminal.
+
+[Open guide](design-md/animaapp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/animaapp.com-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)

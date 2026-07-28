@@ -1,132 +1,79 @@
 # How animaapp.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/animaapp.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/animaapp.com-design)
 
-Source domain: [animaapp.com](https://animaapp.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-01-21
+## Design character
 
-<!--
-coverPin: 5953
--->
+Anima’s marketing site is **dark, polished AI-design theater**: charcoal background, a thin pink promo bar, a high-contrast serif display headline (“AI with an Eye for Design”), and a centered prompt-like input card with a soft purple rim light. Template previews sit in a horizontal row of product thumbnails. It sells tasteful generation—more design studio than hacker terminal.
 
-Here is the visual system observed across **2 captured pages** from [animaapp.com](https://animaapp.com).
+What should survive adaptation:
+- Dark charcoal stage and restrained purple/pink accents
+- Serif display + sans UI pairing
+- Prompt/composer card as the hero interaction
+- Rounded outline and solid pill buttons (Contact sales vs Signup)
 
-```fudge-colors
-[
-  "#ffffff",
-  "#706f6b",
-  "#a3a3a3",
-  "#ffc0cb",
-  "#1e1e1e",
-  "#d1d5db",
-  "#d8d8d8",
-  "#9ca3af",
-  "#2d2d2d",
-  "#2b2b2b",
-  "#000000",
-  "#5c61e3",
-  "#6d54cf",
-  "#f5f5f5",
-  "#7ac33c",
-  "#fbbcc6"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from animaapp.com",
-  "sampleText": "animaapp.com",
-  "fonts": [
-    {
-      "family": "Mulish",
-      "familyId": 2048,
-      "pinId": 5953,
-      "domain": "animaapp.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 9
-    },
-    {
-      "family": "Roslindale",
-      "familyId": 2049,
-      "pinId": 5953,
-      "domain": "animaapp.com",
-      "weight": "400",
-      "size": "76px",
-      "lineHeight": "91.2px",
-      "letterSpacing": "-1.52px",
-      "frequency": 66
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 27 |
-| Spacing values | 24 |
-| Borders and radii | 16 |
-| Shadows | 0 |
-| Gradients | 3 |
+No stable measured palette roles were retained across these pages; rely on the visual description. Visual anchors: near-black page, white headline type, muted gray body, pink top banner, purple glow/border on the composer and Accept cookie CTA, white solid primary signup. Keep accents limited so template screenshots can be colorful without fighting the shell.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 5953,
-      "title": "Anima: the UX Design Agent",
-      "domain": "animaapp.com/",
-      "pageUrl": "animaapp.com/",
-      "imageUrl": "https://pin.fontofweb.com/5953?format=jpg",
-      "colors": [
-        "#7ac33c",
-        "#fbbcc6",
-        "#797a7b",
-        "#5643b8",
-        "#ffc0cb",
-        "#d1d5db",
-        "#000000",
-        "#5c61e3"
-      ],
-      "fonts": [
-        "Mulish",
-        "Roslindale"
-      ]
-    },
-    {
-      "pinId": 5951,
-      "title": "Anima: the UX Design Agent",
-      "domain": "animaapp.com/",
-      "pageUrl": "animaapp.com/",
-      "imageUrl": "https://pin.fontofweb.com/5951?format=jpg",
-      "colors": [
-        "#a3a3a3",
-        "#2b2b2b",
-        "#2d2d2d",
-        "#706f6b",
-        "#d8d8d8",
-        "#000000",
-        "#2b386f",
-        "#fcbdc7"
-      ],
-      "fonts": [
-        "Mulish",
-        "Roslindale"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Anima: the UX Design Agent](https://pin.fontofweb.com/5953?format=jpg)](https://design.withfudge.com/pin/5953)
-[Anima: the UX Design Agent](https://design.withfudge.com/pin/5953) — [source page](https://animaapp.com/)
+Observed text styles:
+- **text**: unknown, weight 400, 76px, lh 91.2px
+- **text**: unknown, weight 400, 16px, lh 16px
+- **text**: unknown, weight 400, 14px, lh 21px
+- **text**: unknown, weight 400, 27px, lh 40.5px
+- **text**: unknown, weight 400, 14px, lh 21px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 16px, lh 24px
+- **text**: unknown, weight 400, 14px, lh 18px
+- **text**: unknown, weight 500, 14px
+- **text**: unknown, weight 500, 14px
+- **text**: unknown, weight 400, 76px, lh 91.2px
+- **text**: unknown, weight 400, 14px, lh 21px
 
-[![Anima: the UX Design Agent](https://pin.fontofweb.com/5951?format=jpg)](https://design.withfudge.com/pin/5951)
-[Anima: the UX Design Agent](https://design.withfudge.com/pin/5951) — [source page](https://animaapp.com/)
+Display serif for the manifesto line; clean sans for nav, body, and UI chrome. Template captions stay small and neutral. Avoid comic or techno display faces.
+
+### Spacing and layout
+
+Recurring spacing measurements include 8px, 12px, 24px, 25px, 32px, 80px. Centered hero stack, then a contained preview rail, then logo wall. Generous vertical padding between bands. Observed corner radii include 6px, 8px, 12px, 100px.
+
+## Visual language
+
+Soft glows, large radii on composer cards, pill buttons, subtle borders on dark elevated surfaces. Cookie bar is a dark strip with purple primary. Imagery is UI screenshots with colorful internal designs framed by the dark shell.
+
+## Components and states
+
+- Promo top bar
+- Transparent header: logo, nav dropdowns, outline Contact, text Login, solid Signup
+- Hero: serif H1, subcopy, composer card (Import Figma / Clone website + arrow submit)
+- Template preview cards with labels
+- Logo trust row
+- Cookie consent with Accept / Reject
+
+## Responsive behavior
+
+Captures are wide desktop marketing views. On smaller screens stack the template rail, keep the composer full width, and collapse nav into a menu while retaining the dark field and serif hero.
+
+## Practical guidance
+
+**Preserve** serif/sans contrast, dark shell, purple accent sparingly, composer-as-hero.  
+**Avoid** turning the page pure white startup-generic, or overloading mint/neon that conflicts with Anima’s softer AI glow.
+
+## Scope note
+
+Studied 2 page captures on paths /. Some structural families were incomplete on these pages. Home marketing captures only; app editor chrome is out of scope.
+
+## Captured pages
+
+[![Anima: the UX Design Agent](https://pin.fontofweb.com/5953?format=jpg)](https://design.withfudge.com/share/pin-5953)
+
+[Anima: the UX Design Agent](https://design.withfudge.com/share/pin-5953)
+
+[![Anima: the UX Design Agent](https://pin.fontofweb.com/5951?format=jpg)](https://design.withfudge.com/share/pin-5951)
+
+[Anima: the UX Design Agent](https://design.withfudge.com/share/pin-5951)
