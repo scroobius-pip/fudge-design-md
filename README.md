@@ -324,6 +324,14 @@ Grey is a **premium global banking** brand: cinematic near-black heroes, bold wh
 
 [Open guide](design-md/grey.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/grey.co-design)
 
+### grok.com
+
+[![How grok.com is designed](https://pin.fontofweb.com/10170?format=jpg)](design-md/grok.com.md)
+
+Grok is a **void-black AI chat product**: pure black canvas, monochrome wordmark + orbital glyph, and a single centered **full-pill prompt bar**. Marketing and product share the same darkness; the only warm fleck is a small **orange** “Try Free” chip on promo cards. It feels closer to a terminal stage than a colorful consumer assistant.
+
+[Open guide](design-md/grok.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/grok.com-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
