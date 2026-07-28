@@ -468,6 +468,14 @@ Curator is a **bright, sales-forward SaaS marketing site** for a social media ag
 
 [Open guide](design-md/curator.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/curator.io-design)
 
+### daisyui.com
+
+[![How daisyui.com is designed](https://pin.fontofweb.com/5971?format=jpg)](design-md/daisyui.com.md)
+
+daisyUI’s site is a **component-library showcase**: bold marketing display on the home page and a **dense theme-generator workspace** full of rounded controls, swatches, and bordered preview panels. The brand voice is developer-friendly and playful in type contrast (ultra-light huge display next to heavy 800–900 heads) while the tool UI stays systematic—black text, light surfaces, lots of 8–32px rounding.
+
+[Open guide](design-md/daisyui.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/daisyui.com-design)
+
 ### dash.cloudflare.com
 
 [![How dash.cloudflare.com is designed](https://pin.fontofweb.com/10060?format=jpg)](design-md/dash.cloudflare.com.md)
