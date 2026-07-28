@@ -1,202 +1,128 @@
 # How groq.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/groq.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/groq.com-design)
 
-Source domain: [groq.com](https://groq.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-29
+## Design character
 
-<!--
-coverPin: 9482
--->
+Groq’s marketing site is **fast, airy, and hardware-confident**. It pairs a warm off-white page canvas with large light-weight display headlines, charcoal body copy, and a single electric orange for primary actions. Hero moments drop a rounded dark stage onto the light page—chip photography, product demos, or copy blocks—so the brand oscillates between clean editorial whitespace and a contained black product theater. It feels premium developer-infrastructure, not neon startup chaos.
 
-Here is the visual system observed across **5 captured pages** from [groq.com](https://groq.com).
+What should survive adaptation:
+- Warm light page ground with generous margins
+- Orange (`#f43e01` family) only on primary pills and key marks
+- Huge, light (≈300) display lines with tight negative tracking
+- Charcoal secondary/body (`#2d2f33`) instead of pure black paragraphs
+- Dark inset stages with large corner radius as featured modules
 
-```fudge-colors
-[
-  "#2d2f33",
-  "#ffffff",
-  "#69695d",
-  "#f43e01",
-  "#cecebf",
-  "#e8e8de",
-  "#f3f4ee",
-  "#868787",
-  "#333437",
-  "#acadac",
-  "#636565",
-  "#f33f06",
-  "#b5b2ad",
-  "#3f4043",
-  "#91928c",
-  "#f8f9f6"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from groq.com",
-  "sampleText": "groq.com",
-  "fonts": [
-    {
-      "family": "Space Grotesk",
-      "familyId": 907,
-      "pinId": 9482,
-      "domain": "groq.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22px",
-      "letterSpacing": "normal",
-      "frequency": 389
-    },
-    {
-      "family": "Ibm Plex Mono",
-      "familyId": 75,
-      "pinId": 9482,
-      "domain": "groq.com",
-      "weight": "500",
-      "size": "12px",
-      "lineHeight": "15.6px",
-      "letterSpacing": "1.2px",
-      "frequency": 25
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 40 |
-| Spacing values | 28 |
-| Borders and radii | 11 |
-| Shadows | 0 |
-| Gradients | 2 |
+Measured roles:
+- Accent: `#f43e01`
+- Primary text (on dark stages / inverse): `#ffffff`
+- Primary/secondary text on light: `#2d2f33`
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9482,
-      "title": "Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.",
-      "domain": "groq.com/pricing",
-      "pageUrl": "groq.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9482?format=jpg",
-      "colors": [
-        "#868787",
-        "#333437",
-        "#f3f4ee",
-        "#acadac",
-        "#2d2f33",
-        "#636565"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 9481,
-      "title": "Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.",
-      "domain": "groq.com/pricing",
-      "pageUrl": "groq.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9481?format=jpg",
-      "colors": [
-        "#f33f06",
-        "#b5b2ad",
-        "#3f4043",
-        "#91928c",
-        "#2d2f33",
-        "#f43e01",
-        "#f8f9f6",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 9480,
-      "title": "Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.",
-      "domain": "groq.com/pricing",
-      "pageUrl": "groq.com/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9480?format=jpg",
-      "colors": [
-        "#7d7e7d",
-        "#f33d03",
-        "#f3b6a3",
-        "#2d2f33",
-        "#ed8061",
-        "#5a5a5c",
-        "#f43e01",
-        "#333438"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 9479,
-      "title": "Groq is fast, low cost inference.",
-      "domain": "groq.com/",
-      "pageUrl": "groq.com/",
-      "imageUrl": "https://pin.fontofweb.com/9479?format=jpg",
-      "colors": [
-        "#818280",
-        "#f43e01",
-        "#f3f4ee",
-        "#292a2c",
-        "#ffffff",
-        "#cecebf",
-        "#bdb6b1",
-        "#c09784"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 9478,
-      "title": "Groq is fast, low cost inference.",
-      "domain": "groq.com/",
-      "pageUrl": "groq.com/",
-      "imageUrl": "https://pin.fontofweb.com/9478?format=jpg",
-      "colors": [
-        "#6e6f6e",
-        "#f1f1ea",
-        "#e8e8de",
-        "#959695",
-        "#f43e01",
-        "#f2b8a4",
-        "#f33d02",
-        "#d36a4d"
-      ],
-      "fonts": [
-        "Space Grotesk",
-        "Ibm Plex Mono"
-      ]
-    }
-  ]
-}
-```
+Visually, the page canvas is a warm off-white/cream; nav sits in that field with dark type. Orange appears on “Start Building”, “Learn More”, and small lightning marks—never as a full-bleed background in the captured frames. Logo wordmark is near-black with a simple bolt. Trust/logo rows stay monochrome so orange remains scarce.
 
-## Representative captures
-[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9482?format=jpg)](https://design.withfudge.com/pin/9482)
-[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9482) — [source page](https://groq.com/pricing)
+### Typography
 
-[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9481?format=jpg)](https://design.withfudge.com/pin/9481)
-[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9481) — [source page](https://groq.com/pricing)
+Declared families were not captured. Observed scale:
+- Display: ~46px / ~60px line-height, weight 300, tracking ≈ -0.92px
+- Section display: ~32px / ~42px, weight 300, tracking ≈ -0.64px
+- Body / UI: 15–17px / ~21–24px, weight 400
+- Fine print / meta: ~13px / ~20px
+- Medium labels: 16px weight 500 on some nav/pricing UI
 
-[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9480?format=jpg)](https://design.withfudge.com/pin/9480)
-[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9480) — [source page](https://groq.com/pricing)
+The signature is **light display type at large size**—thin, wide, confident. Body stays regular and compact so pricing tables and feature copy don’t bloat.
 
-[![Groq is fast, low cost inference.](https://pin.fontofweb.com/9479?format=jpg)](https://design.withfudge.com/pin/9479)
-[Groq is fast, low cost inference.](https://design.withfudge.com/pin/9479) — [source page](https://groq.com/)
+### Spacing and layout
 
-[![Groq is fast, low cost inference.](https://pin.fontofweb.com/9478?format=jpg)](https://design.withfudge.com/pin/9478)
-[Groq is fast, low cost inference.](https://design.withfudge.com/pin/9478) — [source page](https://groq.com/)
+Measured habits:
+- Wide content gutters (margin-left/right often ~260px on desktop pricing/home stacks)
+- Section vertical padding 48–120px
+- Nav horizontal padding comfortable; CTA separated on the right
+- Dark hero stage inset from the page edge with breathing room above logo strip and below trust bar
+
+Layout grammar: **top marketing nav → full-width light sections alternating with inset dark stages → logo/trust row → optional persistent “try” bar**. Pricing continues the same light canvas with structured comparison blocks rather than a different theme.
+
+## Visual language
+
+**Shape.** Primary controls are full pills (`radius ~1000`). Featured stages use large rounded rectangles (~10px on some inner cards, much softer on the big hero well). The overall feel is continuous curves, not sharp tech grids.
+
+**Borders.** Minimal. Separation is mostly surface color (cream vs charcoal stage) rather than stroked boxes.
+
+**Shadows.** Not meaningfully observed—flat, high-contrast surfaces do the work.
+
+**Imagery.** Hero silicon/chip photography centered on the dark stage; crisp product truth over abstract 3D gradients. Logo wall is flat monochrome marks.
+
+**Motion.** Not established from stills (hardware may animate in product, but captures are static).
+
+## Components and states
+
+- **Nav:** text links with chevrons, centered wordmark, right-side Developers/Enterprise + solid orange “Start Building” pill.
+- **Dark stage module:** rounded charcoal panel, small orange bolt, split headline/body, orange outline or solid pill, centered hardware visual.
+- **Light sections:** oversized thin headlines, short supporting paragraphs in charcoal, occasional secondary buttons.
+- **Trust row:** compact logo strip on cream.
+- **Persistent prompt bar:** dark mini-bar (“Try the speed of Groq…”) with orange icon button—product teaser without leaving marketing.
+- **Pricing:** same type ramp; structured plans with clear numeric hierarchy (from related pricing captures).
+
+Buttons: solid orange pill (primary), dark/light ghost pills (secondary). Avoid inventing elaborate hover sets; stills show solid fills and simple outline pills.
+
+## Responsive behavior
+
+Captures cluster around large desktop widths (~1600–2048). Wide side margins imply a max content measure that should tighten on smaller viewports by reducing the 260px-class gutters before scaling type down. Dark stages should remain inset cards that can go full-bleed only when necessary. Pill CTAs stay pill-shaped at all widths.
+
+## Practical guidance
+
+**Preserve**
+- Cream canvas + charcoal type + one orange
+- Weight-300 oversized headlines with negative tracking
+- Inset dark stages as the drama device
+- Pill CTAs, never square blocks
+- Hardware photography as proof, not stock metaphors
+
+**Avoid**
+- Purple AI gradients or glass cards that genericize the brand
+- Heavy body type competing with thin display
+- Orange backgrounds or orange body text
+- Dense SaaS dashboard chrome on marketing pages
+
+**Adaptation tips**
+- Start with three tokens: canvas cream, ink `#2d2f33`, accent `#f43e01`
+- Set display at 300/tight tracking; keep UI at 400–500
+- Build sections as light bands interrupted by one rounded dark well each
+- Pricing and home must share the same cream world so the site feels continuous
+
+## Scope note
+
+Studied home (multiple crops) and pricing captures. Measured accents and text roles are from structured color roles; the warm off-white canvas and chip photography are confirmed visually. Font family names, gradients, and motion were not declared or observed in depth.
+
+## Captured pages
+
+[![Groq home — silicon stage](https://pin.fontofweb.com/9478?format=jpg)](https://design.withfudge.com/share/pin-9478)
+
+[Groq home — silicon stage](https://design.withfudge.com/share/pin-9478)
+
+[![Groq home alternate](https://pin.fontofweb.com/9479?format=jpg)](https://design.withfudge.com/share/pin-9479)
+
+[Groq home alternate](https://design.withfudge.com/share/pin-9479)
+
+[![Pricing](https://pin.fontofweb.com/9480?format=jpg)](https://design.withfudge.com/share/pin-9480)
+
+[Pricing](https://design.withfudge.com/share/pin-9480)
+
+[![Pricing mid crop](https://pin.fontofweb.com/9481?format=jpg)](https://design.withfudge.com/share/pin-9481)
+
+[Pricing mid crop](https://design.withfudge.com/share/pin-9481)
+
+[![Pricing wide](https://pin.fontofweb.com/9482?format=jpg)](https://design.withfudge.com/share/pin-9482)
+
+[Pricing wide](https://design.withfudge.com/share/pin-9482)
+
+## Colors
+
+- `#f43e01`
+- `#ffffff`
+- `#2d2f33`

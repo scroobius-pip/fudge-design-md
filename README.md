@@ -764,6 +764,14 @@ Grok is a **void-black AI chat product**: pure black canvas, monochrome wordmark
 
 [Open guide](design-md/grok.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/grok.com-design)
 
+### groq.com
+
+[![How groq.com is designed](https://pin.fontofweb.com/9478?format=jpg)](design-md/groq.com.md)
+
+Groq’s marketing site is **fast, airy, and hardware-confident**. It pairs a warm off-white page canvas with large light-weight display headlines, charcoal body copy, and a single electric orange for primary actions. Hero moments drop a rounded dark stage onto the light page—chip photography, product demos, or copy blocks—so the brand oscillates between clean editorial whitespace and a contained black product theater. It feels premium developer-infrastructure, not neon startup chaos.
+
+[Open guide](design-md/groq.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/groq.com-design)
+
 ### impeccable.style
 
 [![How impeccable.style is designed](https://pin.fontofweb.com/9917?format=jpg)](design-md/impeccable.style.md)
