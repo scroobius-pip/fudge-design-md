@@ -228,6 +228,14 @@ Superdesign is a **prompt-to-UI workshop** with a split personality that is the 
 
 [Open guide](design-md/app.superdesign.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.superdesign.dev-design)
 
+### apple.com
+
+[![How apple.com is designed](https://pin.fontofweb.com/9884?format=jpg)](design-md/apple.com.md)
+
+Apple’s storefront is the textbook of **restrained premium commerce**: vast white space, near-black SF-like sans, one blue interactive accent, and photography that does the selling. UI chrome is almost invisible—thin utility bars, frosted controls, hairline rules—so product finishes and typography carry the brand.
+
+[Open guide](design-md/apple.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/apple.com-design)
+
 ### arcee.ai
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6372?format=jpg)](design-md/arcee.ai.md)
