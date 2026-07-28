@@ -172,6 +172,14 @@ AOL’s homepage is a **loud-friendly consumer portal**: a saturated yellow head
 
 [Open guide](design-md/aol.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aol.com-design)
 
+### apara.design
+
+[![How apara.design is designed](https://pin.fontofweb.com/7985?format=jpg)](design-md/apara.design.md)
+
+Apara is a **quiet design-studio portfolio**: light neutral grounds, strong typographic case-study structure, and project imagery that supplies color while the chrome stays almost invisible. It should feel considered and slow—more monograph than agency template with bouncing badges.
+
+[Open guide](design-md/apara.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/apara.design-design)
+
 ### api-dashboard.search.brave.com
 
 [![How api-dashboard.search.brave.com is designed](https://pin.fontofweb.com/9446?format=jpg)](design-md/api-dashboard.search.brave.com.md)
