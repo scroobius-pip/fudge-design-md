@@ -156,6 +156,14 @@ Anima’s marketing site is **dark, polished AI-design theater**: charcoal backg
 
 [Open guide](design-md/animaapp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/animaapp.com-design)
 
+### anthropic.com
+
+[![How anthropic.com is designed](https://pin.fontofweb.com/9505?format=jpg)](design-md/anthropic.com.md)
+
+Anthropic’s site is **editorial restraint as brand**: warm off-white paper, near-black ink, generous margins, and typography that feels closer to a thoughtfully printed essay than a SaaS launch page. Home, engineering notes, and institute pieces share a bookish calm—authority without neon futurism.
+
+[Open guide](design-md/anthropic.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/anthropic.com-design)
+
 ### aol.com
 
 [![How aol.com is designed](https://pin.fontofweb.com/8410?format=jpg)](design-md/aol.com.md)
