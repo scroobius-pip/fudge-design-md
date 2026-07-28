@@ -1,286 +1,120 @@
 # How christies.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/christies.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/christies.com-design)
 
-Source domain: [christies.com](https://christies.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-26
+## Design character
 
-<!--
-coverPin: 7384
--->
+Christie’s site is **auction-house modernism**: vast white space, thin elegant type, and art photography that does all the emotional lifting. The chrome is almost invisible—navigation and labels whisper so lots, artists, and objects can speak. It should feel expensive through restraint, not through decoration.
 
-Here is the visual system observed across **8 captured pages** from [christies.com](https://christies.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#222222",
-  "#ffffff",
-  "#000000",
-  "#151e35",
-  "#6b5d4e",
-  "#b9a28d",
-  "#485c70",
-  "#0f0e0e",
-  "#f3f1ee",
-  "#9f6546",
-  "#e99e68",
-  "#277fdf",
-  "#de764d",
-  "#e69c70",
-  "#f3f3f3",
-  "#e3c5b0"
-]
-```
+- **White-first canvas** with black type and zero visual noise
+- **Light type weights** (often 300) for display and body elegance
+- **Near-square geometry** (~2px radii)
+- Image-led storytelling; UI labels stay small and calm
 
-```fudge-font-usage
-{
-  "title": "Typography captured from christies.com",
-  "sampleText": "christies.com",
-  "fonts": [
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 7384,
-      "domain": "christies.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 75
-    },
-    {
-      "family": "By Elias Hanzer",
-      "familyId": 2252,
-      "pinId": 7384,
-      "domain": "christies.com",
-      "weight": "300",
-      "size": "16px",
-      "lineHeight": "22.4px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    },
-    {
-      "family": "Abc Arizona Serif",
-      "familyId": 2254,
-      "pinId": 7384,
-      "domain": "christies.com",
-      "weight": "300",
-      "size": "32px",
-      "lineHeight": "38.4px",
-      "letterSpacing": "normal",
-      "frequency": 40
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 68 |
-| Spacing values | 24 |
-| Borders and radii | 4 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7384,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7384?format=jpg",
-      "colors": [
-        "#000000",
-        "#151e35",
-        "#6b5d4e",
-        "#222222",
-        "#b9a28d",
-        "#485c70",
-        "#ffffff",
-        "#0f0e0e"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer",
-        "Abc Arizona Serif"
-      ]
-    },
-    {
-      "pinId": 7383,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7383?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#de764d",
-        "#e69c70",
-        "#222222",
-        "#f3f3f3",
-        "#e3c5b0",
-        "#b59e90",
-        "#5d4c46"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer"
-      ]
-    },
-    {
-      "pinId": 7382,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7382?format=jpg",
-      "colors": [
-        "#55adc3",
-        "#fcfcfb",
-        "#222222",
-        "#ffffff",
-        "#15815a",
-        "#000000",
-        "#0e6980",
-        "#c3493e"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer"
-      ]
-    },
-    {
-      "pinId": 7381,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7381?format=jpg",
-      "colors": [
-        "#ddaf78",
-        "#686565",
-        "#e76b7a",
-        "#f2f1ee",
-        "#802425",
-        "#222222",
-        "#000000",
-        "#c13345"
-      ],
-      "fonts": [
-        "Times"
-      ]
-    },
-    {
-      "pinId": 7376,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7376?format=jpg",
-      "colors": [
-        "#bfbeb6",
-        "#f86a0c",
-        "#000000",
-        "#bb7449",
-        "#3b281e",
-        "#222222",
-        "#625c5a",
-        "#86b8ce"
-      ],
-      "fonts": [
-        "Times"
-      ]
-    },
-    {
-      "pinId": 7375,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7375?format=jpg",
-      "colors": [
-        "#c39761",
-        "#6b6965",
-        "#6d453c",
-        "#fdfdfd",
-        "#ffffff",
-        "#cdc8c0",
-        "#222222",
-        "#2f2d29"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer"
-      ]
-    },
-    {
-      "pinId": 7374,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7374?format=jpg",
-      "colors": [
-        "#ed933c",
-        "#783e2e",
-        "#222222",
-        "#ffffff",
-        "#b59462",
-        "#f7f5f2",
-        "#957350",
-        "#dec089"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer"
-      ]
-    },
-    {
-      "pinId": 7373,
-      "title": "Christie’s | Fine Art, Luxury & Antiques Auctions",
-      "domain": "christies.com/",
-      "pageUrl": "christies.com/",
-      "imageUrl": "https://pin.fontofweb.com/7373?format=jpg",
-      "colors": [
-        "#d2b479",
-        "#f8f8f7",
-        "#7c3b2c",
-        "#ffffff",
-        "#9b9792",
-        "#c71327",
-        "#9c895d",
-        "#020203"
-      ],
-      "fonts": [
-        "Times",
-        "By Elias Hanzer"
-      ]
-    }
-  ]
-}
-```
+- Page: pure/near `#ffffff`
+- Text: black / near-black
+- Secondary meta: mid gray
+- Rules/dividers: light gray hairlines
+- No loud brand accent in the captured home system—color lives in artwork photography
 
-## Representative captures
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7384?format=jpg)](https://design.withfudge.com/pin/7384)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7384) — [source page](https://christies.com/)
+### Typography
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7383?format=jpg)](https://design.withfudge.com/pin/7383)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7383) — [source page](https://christies.com/)
+Measured:
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7382?format=jpg)](https://design.withfudge.com/pin/7382)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7382) — [source page](https://christies.com/)
+- Display ~**32px** weight **300**, lh ~38px
+- Subhead ~**24px** weight **300**
+- Body ~**14–16px** weights 300–500
+- Small UI ~**14px** medium (500) for controls
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7381?format=jpg)](https://design.withfudge.com/pin/7381)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7381) — [source page](https://christies.com/)
+The light weight is signature—do not bold everything. Families not declared; visually a refined sans with occasional editorial serif moments in print-like headings (confirm visually per section).
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7376?format=jpg)](https://design.withfudge.com/pin/7376)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7376) — [source page](https://christies.com/)
+### Spacing and layout
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7375?format=jpg)](https://design.withfudge.com/pin/7375)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7375) — [source page](https://christies.com/)
+- Dense control padding **8×16px** on chips/buttons
+- Section stacks **24–40px** margins
+- Horizontal pads **8–48px** depending on grid depth
+- Multi-column editorial modules; generous negative space around hero art
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7374?format=jpg)](https://design.withfudge.com/pin/7374)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7374) — [source page](https://christies.com/)
+## Visual language
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7373?format=jpg)](https://design.withfudge.com/pin/7373)
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7373) — [source page](https://christies.com/)
+- **Radius ~2px** everywhere measurable—crisp, gallery-frame energy
+- Borders 1px where structure needs it; mostly spacing-defined
+- Shadows not a brand pillar
+- Full-bleed or wide art images; captions quiet beneath
+
+## Components and states
+
+1. **Global nav** — text links, search, account; thin bar
+2. **Hero lot/story** — large image + concise serif/sans title lockup
+3. **Sale/entry cards** — image + light metadata
+4. **Editorial strips** — horizontal series of auctions or articles
+5. **Footer** — multi-column institutional links
+
+Resting state only.
+
+## Responsive behavior
+
+All eight captures are home at ~1633–1712px. No alternate templates or mobile widths in set—treat as desktop home system only.
+
+## Practical guidance
+
+**Preserve**
+
+- Whisper UI, shout art
+- Light type weights and white field
+- 2px-class corners
+- Institutional calm
+
+**Avoid**
+
+- Startup gradients, glass, neon CTAs
+- Chunky 16px card radii
+- Heavy bold marketing fonts as default
+- Cluttered badge-driven commerce patterns
+
+## Scope note
+
+Eight home captures only. Strong spacing/type/radius read from structure; color roles and font families not declared. Interior lot pages, bidding flows, and mobile not observed.
+
+## Captured pages
+
+[![Home — hero auction story](https://pin.fontofweb.com/7373?format=jpg)](https://design.withfudge.com/share/pin-7373)
+
+[Home — hero auction story](https://design.withfudge.com/share/pin-7373)
+
+[![Home — secondary modules](https://pin.fontofweb.com/7374?format=jpg)](https://design.withfudge.com/share/pin-7374)
+
+[Home — secondary modules](https://design.withfudge.com/share/pin-7374)
+
+[![Home — collection strips](https://pin.fontofweb.com/7375?format=jpg)](https://design.withfudge.com/share/pin-7375)
+
+[Home — collection strips](https://design.withfudge.com/share/pin-7375)
+
+[![Home — mid scroll](https://pin.fontofweb.com/7376?format=jpg)](https://design.withfudge.com/share/pin-7376)
+
+[Home — mid scroll](https://design.withfudge.com/share/pin-7376)
+
+[![Home — features](https://pin.fontofweb.com/7381?format=jpg)](https://design.withfudge.com/share/pin-7381)
+
+[Home — features](https://design.withfudge.com/share/pin-7381)
+
+[![Home — lower content](https://pin.fontofweb.com/7384?format=jpg)](https://design.withfudge.com/share/pin-7384)
+
+[Home — lower content](https://design.withfudge.com/share/pin-7384)
+
+## Colors
+
+- `#ffffff`
+- `#000000`
+- `#111111`
+- `#f5f5f5`
+- `#666666`
+- `#e8e8e8`

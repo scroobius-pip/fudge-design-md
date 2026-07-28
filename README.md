@@ -68,6 +68,14 @@ Cavalry presents itself as a **professional 2D motion tool that markets like a p
 
 [Open guide](design-md/cavalry.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/cavalry.studio-design)
 
+### christies.com
+
+[![How christies.com is designed](https://pin.fontofweb.com/7373?format=jpg)](design-md/christies.com.md)
+
+Christie’s site is **auction-house modernism**: vast white space, thin elegant type, and art photography that does all the emotional lifting. The chrome is almost invisible—navigation and labels whisper so lots, artists, and objects can speak. It should feel expensive through restraint, not through decoration.
+
+[Open guide](design-md/christies.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/christies.com-design)
+
 ### cobe.vercel.app
 
 [![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
