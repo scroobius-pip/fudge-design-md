@@ -84,6 +84,14 @@ adventureson.band is an **immersive artist presence** for Ty Finck’s instrumen
 
 [Open guide](design-md/adventureson.band.md) · [View the Fudge conversation](https://design.withfudge.com/share/adventureson.band-design)
 
+### affectablesleep.com
+
+[![How affectablesleep.com is designed](https://pin.fontofweb.com/6889?format=jpg)](design-md/affectablesleep.com.md)
+
+Affectable Sleep sells a clinical-feeling sleep device with the calm of a wellness brand and the clarity of premium hardware marketing. The site is **soft dark slate** with **warm sand / champagne** type, large product photography, and airy centered layouts. It feels restorative rather than tech-bro: rounded hardware, gentle gradients in the product LEDs, and generous whitespace even on dark grounds.
+
+[Open guide](design-md/affectablesleep.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/affectablesleep.com-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/7285?format=jpg)](design-md/aiverse.design.md)

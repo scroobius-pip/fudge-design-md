@@ -1,324 +1,88 @@
 # How affectablesleep.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/affectablesleep.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/affectablesleep.com-design)
 
-Source domain: [affectablesleep.com](https://affectablesleep.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-20
+## Design character
 
-<!--
-coverPin: 6890
--->
+Affectable Sleep sells a clinical-feeling sleep device with the calm of a wellness brand and the clarity of premium hardware marketing. The site is **soft dark slate** with **warm sand / champagne** type, large product photography, and airy centered layouts. It feels restorative rather than tech-bro: rounded hardware, gentle gradients in the product LEDs, and generous whitespace even on dark grounds.
 
-Here is the visual system observed across **21 captured pages** from [affectablesleep.com](https://affectablesleep.com).
+What should survive:
 
-```fudge-colors
-[
-  "#000000",
-  "#1c1b1a",
-  "#ffffff",
-  "#38677c",
-  "#dddddd",
-  "#f9f9f1",
-  "#e9e9e9",
-  "#fdfcf3",
-  "#ffee58",
-  "#a9a9a9",
-  "#222222",
-  "#1a1a1a",
-  "#fdfdf4",
-  "#264a56",
-  "#5f87b6",
-  "#37677c"
-]
-```
+- Dark, low-chroma grounds with warm off-white typography.
+- Product-as-hero photography with soft studio light.
+- Pill CTAs and large light display type.
+- Sparse sections that breathe—marketing as rest, not urgency spam.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from affectablesleep.com",
-  "sampleText": "affectablesleep.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6890,
-      "domain": "affectablesleep.com",
-      "weight": "400",
-      "size": "19.2px",
-      "lineHeight": "32.64px",
-      "letterSpacing": "normal",
-      "frequency": 1075
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 21 |
-| Colors | 167 |
-| Spacing values | 38 |
-| Borders and radii | 17 |
-| Shadows | 2 |
-| Gradients | 3 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6890,
-      "title": "The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today",
-      "domain": "affectablesleep.com/product-purchase",
-      "pageUrl": "affectablesleep.com/product-purchase",
-      "imageUrl": "https://pin.fontofweb.com/6890?format=jpg",
-      "colors": [
-        "#222222",
-        "#0a0807",
-        "#ffee59",
-        "#777274",
-        "#daa12e",
-        "#000000",
-        "#f9f9f1",
-        "#9cb0dc"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6889,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6889?format=jpg",
-      "colors": [
-        "#ffee58",
-        "#1c1b1a",
-        "#000000",
-        "#ffffff",
-        "#dddddd",
-        "#ac7a63",
-        "#264a56",
-        "#777471"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6888,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6888?format=jpg",
-      "colors": [
-        "#ffee58",
-        "#1a1a1a",
-        "#37677c",
-        "#000000",
-        "#24231f",
-        "#8c9796",
-        "#dddddd",
-        "#feed5b"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6887,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6887?format=jpg",
-      "colors": [
-        "#f1f5ee",
-        "#976d4a",
-        "#939591",
-        "#20495f",
-        "#676b69",
-        "#533320",
-        "#3d3b35",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6886,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6886?format=jpg",
-      "colors": [
-        "#c2b967",
-        "#000000",
-        "#918f8b",
-        "#1c1b1a",
-        "#6e6b68",
-        "#222120",
-        "#dce6e4",
-        "#feed59"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6885,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6885?format=jpg",
-      "colors": [
-        "#777470",
-        "#1c1b1a",
-        "#e4ecec",
-        "#595653",
-        "#969491",
-        "#151515",
-        "#000000",
-        "#dddddd"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 6884,
-      "title": "Unlock Sleep's Hidden Power with UltraSleep™",
-      "domain": "affectablesleep.com/",
-      "pageUrl": "affectablesleep.com/",
-      "imageUrl": "https://pin.fontofweb.com/6884?format=jpg",
-      "colors": [
-        "#ffee58",
-        "#fbeb5a",
-        "#593a1f",
-        "#cc9782",
-        "#000000",
-        "#dddddd",
-        "#425f85",
-        "#5f87b6"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 3360,
-      "title": "Blog",
-      "domain": "affectablesleep.com/blog",
-      "pageUrl": "affectablesleep.com/blog",
-      "imageUrl": "https://pin.fontofweb.com/3360?format=jpg",
-      "colors": [
-        "#d3dddb",
-        "#98bcc4",
-        "#a06946",
-        "#211d16",
-        "#4a370d",
-        "#e6d0a7",
-        "#6f7170",
-        "#b68930"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3359,
-      "title": "Job Postings",
-      "domain": "affectablesleep.com/jobs",
-      "pageUrl": "affectablesleep.com/jobs",
-      "imageUrl": "https://pin.fontofweb.com/3359?format=jpg",
-      "colors": [
-        "#d1dedd",
-        "#232321",
-        "#9ca19f",
-        "#555856",
-        "#7c807f"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3358,
-      "title": "Affectable Sleep - building to enhance the restorative function of your sleep",
-      "domain": "affectablesleep.com/about",
-      "pageUrl": "affectablesleep.com/about",
-      "imageUrl": "https://pin.fontofweb.com/3358?format=jpg",
-      "colors": [
-        "#aec1bf",
-        "#fdfdf4",
-        "#98958f",
-        "#c5bdb9",
-        "#171311",
-        "#d2b444",
-        "#4e3322",
-        "#9d6149"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3357,
-      "title": "Affectable Sleep - building to enhance the restorative function of your sleep",
-      "domain": "affectablesleep.com/about",
-      "pageUrl": "affectablesleep.com/about",
-      "imageUrl": "https://pin.fontofweb.com/3357?format=jpg",
-      "colors": [
-        "#d8ba4d",
-        "#8896ab",
-        "#fefef5",
-        "#b4c3d8",
-        "#cbbb93",
-        "#d2978b",
-        "#8d5e45",
-        "#281b15"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 3356,
-      "title": "Affectable Sleep - building to enhance the restorative function of your sleep",
-      "domain": "affectablesleep.com/about",
-      "pageUrl": "affectablesleep.com/about",
-      "imageUrl": "https://pin.fontofweb.com/3356?format=jpg",
-      "colors": [
-        "#fefef5",
-        "#ceaf41",
-        "#1a1817",
-        "#22263a",
-        "#16477a",
-        "#db9b91",
-        "#b5b6ba",
-        "#a4705d"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+From screens and structure (few formal role hexes were returned):
 
-## Representative captures
-[![The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://pin.fontofweb.com/6890?format=jpg)](https://design.withfudge.com/pin/6890)
-[The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/pin/6890) — [source page](https://affectablesleep.com/product-purchase)
+- **Page ground**: deep cool charcoal / blue-black.
+- **Primary type**: warm sand / ivory (not pure white glare).
+- **Secondary type**: muted warm gray.
+- **Product accent**: soft cyan–green glow on the device face; packaging cream.
+- **CTA**: light filled pills (warm white/cream) with dark labels—inverse of the field.
+- **Cards / panels**: slightly lifted dark surfaces, large radius.
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6889?format=jpg)](https://design.withfudge.com/pin/6889)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6889) — [source page](https://affectablesleep.com/)
+### Typography
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6888?format=jpg)](https://design.withfudge.com/pin/6888)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6888) — [source page](https://affectablesleep.com/)
+- **Display**: very large light-weight sans (~48–84px), centered, short lines (“The end of tossing and turning.”).
+- **Body / UI**: ~16–20px regular; weight 300 appears on large heads, 400 on body.
+- **Nav**: small uppercase or restrained links; wordmark “AFFECTABLE” letterspaced.
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6887?format=jpg)](https://design.withfudge.com/pin/6887)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6887) — [source page](https://affectablesleep.com/)
+### Spacing and layout
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6886?format=jpg)](https://design.withfudge.com/pin/6886)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6886) — [source page](https://affectablesleep.com/)
+- Centered single column heroes; wide margins.
+- Spacing steps often 14–40px inside components; large 100px+ section breaks.
+- Radii: ~10px controls, ~100px pills, very large rounding on some media masks.
+- Purchase flow uses a left product stage + right form column.
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6885?format=jpg)](https://design.withfudge.com/pin/6885)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6885) — [source page](https://affectablesleep.com/)
+## Visual language
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6884?format=jpg)](https://design.withfudge.com/pin/6884)
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6884) — [source page](https://affectablesleep.com/)
+- Soft product glows, minimal lines, almost no harsh borders.
+- Hardware photography and lifestyle rest scenes.
+- Pill buttons, circular indicators, rounded device silhouette echoed in UI.
 
-[![Blog](https://pin.fontofweb.com/3360?format=jpg)](https://design.withfudge.com/pin/3360)
-[Blog](https://design.withfudge.com/pin/3360) — [source page](https://affectablesleep.com/blog)
+## Components and states
+
+1. **Marketing hero** — headline, subcopy, primary pill CTA, device on dark field.
+2. **Nav** — wordmark, few text links, cart.
+3. **Feature bands** — large type + product detail shots.
+4. **Purchase layout** — gallery/stage left; title, price, quantity, accordion details, sticky-style checkout CTA right.
+5. **Blog entry points** — quieter typographic lists on the same dark system.
+
+## Responsive behavior
+
+Multiple home widths (~1644–2048) plus purchase. Layout stays marketing-centered; purchase becomes a clearer two-column split on wide screens. Fine mobile nav patterns not fully evidenced.
+
+## Practical guidance
+
+**Preserve** dark restful field, warm type, pill CTAs, product glow as the only vivid accent.  
+**Avoid** neon SaaS blues, dense comparison tables as the first impression, or harsh pure-white type on black.  
+**Adapt** checkout to keep the device visible beside the form so commerce still feels like care.
+
+## Scope note
+
+Eight captures: home variants, blog, and product-purchase. Declared font families and exact brand hex tokens were largely unavailable; guidance mixes spacing/radius measures with screenshot reading.
+
+## Captured pages
+
+[![Home hero — device on dark field](https://pin.fontofweb.com/6889?format=jpg)](https://design.withfudge.com/share/pin-6889)
+
+[Home hero — device on dark field](https://design.withfudge.com/share/pin-6889)
+
+[![Home — alternate hero crop](https://pin.fontofweb.com/6888?format=jpg)](https://design.withfudge.com/share/pin-6888)
+
+[Home — alternate hero crop](https://design.withfudge.com/share/pin-6888)
+
+[![Product purchase](https://pin.fontofweb.com/6890?format=jpg)](https://design.withfudge.com/share/pin-6890)
+
+[Product purchase](https://design.withfudge.com/share/pin-6890)
+
+[![Home — mid-width](https://pin.fontofweb.com/6887?format=jpg)](https://design.withfudge.com/share/pin-6887)
+
+[Home — mid-width](https://design.withfudge.com/share/pin-6887)
