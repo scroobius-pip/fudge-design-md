@@ -1,311 +1,93 @@
 # How artificialanalysis.ai is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/artificialanalysis.ai-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
 
-Source domain: [artificialanalysis.ai](https://artificialanalysis.ai)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-20
+## Design character
 
-<!--
-coverPin: 9727
--->
+Artificial Analysis is a **light, high-trust AI analytics brand**: white canvas, near-black headlines, gray supporting copy, and a purple premium accent (`#8842fd` / `#7c3aed`) for paid and interactive emphasis. The system oscillates between editorial landing clarity and dense benchmark tables without losing the monochrome spine.
 
-Here is the visual system observed across **8 captured pages** from [artificialanalysis.ai](https://artificialanalysis.ai).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#43003b",
-  "#f1f2f4",
-  "#d9d9d9",
-  "#020817",
-  "#c394ff",
-  "#8842fd",
-  "#e7e7e7",
-  "#949494",
-  "#4d4d4d",
-  "#fafafa",
-  "#d4d4d4",
-  "#741a66",
-  "#787878",
-  "#d97706"
-]
-```
+- Light mode default with black primary text and gray secondary.
+- Purple as the commercial/interactive accent (pricing CTAs, premium chips).
+- Large display heroes (48–80px) that collapse into 14–16px data UI.
+- 8px card radii, 24px soft panels, occasional pills.
+- Centered content with ~132–308px side margins on wide screens.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from artificialanalysis.ai",
-  "sampleText": "artificialanalysis.ai",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9727,
-      "domain": "artificialanalysis.ai",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 19
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9727,
-      "domain": "artificialanalysis.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 19
-    },
-    {
-      "family": "Suisse Intl",
-      "familyId": 318,
-      "pinId": 9727,
-      "domain": "artificialanalysis.ai",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 26641
-    },
-    {
-      "family": "Victor Serif Basic",
-      "familyId": 2602,
-      "pinId": 9727,
-      "domain": "artificialanalysis.ai",
-      "weight": "400",
-      "size": "30px",
-      "lineHeight": "36px",
-      "letterSpacing": "normal",
-      "frequency": 8
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 104 |
-| Spacing values | 710 |
-| Borders and radii | 78 |
-| Shadows | 12 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9727,
-      "title": "AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis",
-      "domain": "artificialanalysis.ai/evaluations/omniscience",
-      "pageUrl": "artificialanalysis.ai/evaluations/omniscience",
-      "imageUrl": "https://pin.fontofweb.com/9727?format=jpg",
-      "colors": [
-        "#d9d9d9",
-        "#eb3568",
-        "#86b737",
-        "#741a66",
-        "#f1f2f4",
-        "#717170",
-        "#34a853",
-        "#e3fae3"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Suisse Intl",
-        "Victor Serif Basic"
-      ]
-    },
-    {
-      "pinId": 9726,
-      "title": "AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis",
-      "domain": "artificialanalysis.ai/evaluations/omniscience",
-      "pageUrl": "artificialanalysis.ai/evaluations/omniscience",
-      "imageUrl": "https://pin.fontofweb.com/9726?format=jpg",
-      "colors": [
-        "#d9d9d9",
-        "#741a66",
-        "#777676",
-        "#565656",
-        "#f1f2f4",
-        "#979798",
-        "#949494",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "System",
-        "Suisse Intl",
-        "Victor Serif Basic"
-      ]
-    },
-    {
-      "pinId": 9682,
-      "title": "AI Model & API Providers Analysis | Artificial Analysis",
-      "domain": "artificialanalysis.ai/",
-      "pageUrl": "artificialanalysis.ai/",
-      "imageUrl": "https://pin.fontofweb.com/9682?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#7b4293",
-        "#000000",
-        "#dfd4e1",
-        "#d4d4d4",
-        "#725a6e",
-        "#43003b",
-        "#460542"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "System",
-        "Victor Serif Basic"
-      ]
-    },
-    {
-      "pinId": 9681,
-      "title": "AI Model & API Providers Analysis | Artificial Analysis",
-      "domain": "artificialanalysis.ai/",
-      "pageUrl": "artificialanalysis.ai/",
-      "imageUrl": "https://pin.fontofweb.com/9681?format=jpg",
-      "colors": [
-        "#fefefe",
-        "#0e0e0e",
-        "#b9b6b8",
-        "#7a2972",
-        "#741a66",
-        "#949494",
-        "#ffb230",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "Victor Serif Basic"
-      ]
-    },
-    {
-      "pinId": 9680,
-      "title": "Pricing | Artificial Analysis",
-      "domain": "artificialanalysis.ai/pricing",
-      "pageUrl": "artificialanalysis.ai/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9680?format=jpg",
-      "colors": [
-        "#8844fb",
-        "#f1f2f4",
-        "#000000",
-        "#e7e7e7",
-        "#434344",
-        "#767676",
-        "#8842fd",
-        "#741a66"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "Victor Serif Basic",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9679,
-      "title": "Pricing | Artificial Analysis",
-      "domain": "artificialanalysis.ai/pricing",
-      "pageUrl": "artificialanalysis.ai/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9679?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#8844fb",
-        "#f1f2f4",
-        "#787878",
-        "#090a0c",
-        "#616262",
-        "#d9d9d9",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "Victor Serif Basic",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9676,
-      "title": "AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more",
-      "domain": "artificialanalysis.ai/agents/chatbots",
-      "pageUrl": "artificialanalysis.ai/agents/chatbots",
-      "imageUrl": "https://pin.fontofweb.com/9676?format=jpg",
-      "colors": [
-        "#f0fdfa",
-        "#8873d0",
-        "#fdfdfd",
-        "#d4d4d4",
-        "#f5f3ff",
-        "#d97706",
-        "#060606",
-        "#64748b"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "Victor Serif Basic"
-      ]
-    },
-    {
-      "pinId": 9675,
-      "title": "General Work AI Agents Comparison",
-      "domain": "artificialanalysis.ai/agents",
-      "pageUrl": "artificialanalysis.ai/agents",
-      "imageUrl": "https://pin.fontofweb.com/9675?format=jpg",
-      "colors": [
-        "#2563eb",
-        "#a3a3a3",
-        "#f9fafa",
-        "#6fad83",
-        "#d97706",
-        "#9385c9",
-        "#020817",
-        "#741a66"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Suisse Intl",
-        "Victor Serif Basic"
-      ]
-    }
-  ]
-}
-```
+Measured mix: text `#000000` / `#020817`, secondary `#949494` / `#4d4d4d` / `#a3a3a3` / `#64748b` / `#788599`, accents `#8842fd`, `#7c3aed`, and situational `#d97706`. Surfaces white; some charts introduce categorical colors—keep them in data, not chrome.
 
-## Representative captures
-[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9727?format=jpg)](https://design.withfudge.com/pin/9727)
-[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9727) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
+### Typography
 
-[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9726?format=jpg)](https://design.withfudge.com/pin/9726)
-[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9726) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
+Sans UI. Body 14–16/20–24; headings 30–48; display up to 80/80. Weights 400–500 primarily; medium for table emphasis.
 
-[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9682?format=jpg)](https://design.withfudge.com/pin/9682)
-[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9682) — [source page](https://artificialanalysis.ai/)
+### Spacing and layout
 
-[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9681?format=jpg)](https://design.withfudge.com/pin/9681)
-[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9681) — [source page](https://artificialanalysis.ai/)
+Marketing bands use large vertical padding (64–160px). Data views use 16–20px gutters and column-gap 16–24. Pricing cards sit in a centered pair with generous whitespace.
 
-[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9680?format=jpg)](https://design.withfudge.com/pin/9680)
-[Pricing | Artificial Analysis](https://design.withfudge.com/pin/9680) — [source page](https://artificialanalysis.ai/pricing)
+## Visual language
 
-[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9679?format=jpg)](https://design.withfudge.com/pin/9679)
-[Pricing | Artificial Analysis](https://design.withfudge.com/pin/9679) — [source page](https://artificialanalysis.ai/pricing)
+- Radii 6–8 common; 24 on larger cards; pills 9999 for toggles/chips.
+- 1–2px borders defining cards and table geometry.
+- Very light shadows (often y:1 blur:2) — almost flat.
 
-[![AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://pin.fontofweb.com/9676?format=jpg)](https://design.withfudge.com/pin/9676)
-[AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://design.withfudge.com/pin/9676) — [source page](https://artificialanalysis.ai/agents/chatbots)
+## Components and states
 
-[![General Work AI Agents Comparison](https://pin.fontofweb.com/9675?format=jpg)](https://design.withfudge.com/pin/9675)
-[General Work AI Agents Comparison](https://design.withfudge.com/pin/9675) — [source page](https://artificialanalysis.ai/agents)
+- Pill nav with black logo chip and purple Premium CTA.
+- Monthly/Yearly segmented control.
+- Pricing cards (highlighted Recommended with purple ring).
+- Leaderboard/comparison tables and filter chips.
+- Logo wall / social proof rows.
+- Article-style evaluation pages with embedded charts.
+
+## Responsive behavior
+
+Multiple desktop widths; layout remains centered single column → multi-column cards. Mobile specifics not captured.
+
+## Practical guidance
+
+**Preserve:** monochrome editorial base, purple commerce accent, dense-but-bordered data UI.
+
+**Avoid:** dark-mode default without purpose; multicolor marketing gradients; removing table borders that aid scanability.
+
+## Scope note
+
+Home, pricing, agents, chatbots, and evaluation pages. No declared font families.
+
+## Captured pages
+
+[![Home — AI insights hero](https://pin.fontofweb.com/9681?format=jpg)](https://design.withfudge.com/share/pin-9681)
+
+[Home — AI insights hero](https://design.withfudge.com/share/pin-9681)
+
+[![Pricing](https://pin.fontofweb.com/9680?format=jpg)](https://design.withfudge.com/share/pin-9680)
+
+[Pricing](https://design.withfudge.com/share/pin-9680)
+
+[![Agents comparison](https://pin.fontofweb.com/9675?format=jpg)](https://design.withfudge.com/share/pin-9675)
+
+[Agents comparison](https://design.withfudge.com/share/pin-9675)
+
+[![Chatbots comparison](https://pin.fontofweb.com/9676?format=jpg)](https://design.withfudge.com/share/pin-9676)
+
+[Chatbots comparison](https://design.withfudge.com/share/pin-9676)
+
+[![Omniscience evaluation](https://pin.fontofweb.com/9727?format=jpg)](https://design.withfudge.com/share/pin-9727)
+
+[Omniscience evaluation](https://design.withfudge.com/share/pin-9727)
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#020817`
+- `#949494`
+- `#8842fd`
+- `#7c3aed`
+- `#d97706`
+- `#64748b`

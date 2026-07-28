@@ -36,6 +36,14 @@ Arcee AI presents as a **cinematic dark brand landing**: near-black full-bleed a
 
 [Open guide](design-md/arcee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcee.ai-design)
 
+### artificialanalysis.ai
+
+[![How artificialanalysis.ai is designed](https://pin.fontofweb.com/9681?format=jpg)](design-md/artificialanalysis.ai.md)
+
+Artificial Analysis is a **light, high-trust AI analytics brand**: white canvas, near-black headlines, gray supporting copy, and a purple premium accent (`#8842fd` / `#7c3aed`) for paid and interactive emphasis. The system oscillates between editorial landing clarity and dense benchmark tables without losing the monochrome spine.
+
+[Open guide](design-md/artificialanalysis.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
