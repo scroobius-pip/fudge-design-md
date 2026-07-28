@@ -684,6 +684,14 @@ Fontstand is a **type-industry product site** that swings between two modes: a h
 
 [Open guide](design-md/fontstand.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/fontstand.com-design)
 
+### fonttrio.xyz
+
+[![How fonttrio.xyz is designed](https://pin.fontofweb.com/7846?format=jpg)](design-md/fonttrio.xyz.md)
+
+Fonttrio is a **dark, utility-forward font pairing lab** aimed at shadcn-style product UI. It opens with a monumental stacked wordmark, then settles into a bordered catalog of pairings—less brand theater, more workshop bench. The mood is late-night design tool: near-black canvas, pale text, hairline separators, and just enough violet to mark selection.
+
+[Open guide](design-md/fonttrio.xyz.md) · [View the Fudge conversation](https://design.withfudge.com/share/fonttrio.xyz-design)
+
 ### footer.design
 
 [![How footer.design is designed](https://pin.fontofweb.com/7028?format=jpg)](design-md/footer.design.md)
