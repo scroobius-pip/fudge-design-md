@@ -1,271 +1,198 @@
 # How aiverse.design is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/aiverse.design-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/aiverse.design-design)
 
-Source domain: [aiverse.design](https://aiverse.design)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-30
+## Design character
 
-<!--
-coverPin: 8555
--->
+Aiverse.design feels like a curated design journal for AI products: warm off-white paper, black ink, and oversized light-weight display type that announces ideas before UI chrome does. It is not a dark “AI terminal” brand and not a colorful startup landing page. The tone is editorial-calm—gallery, patterns, insights—with product screenshots doing the pedagogical work inside softly rounded frames.
 
-Here is the visual system observed across **8 captured pages** from [aiverse.design](https://aiverse.design).
+Primary actions collapse to a few black pills (Subscribe, Open full library). Secondary text sits in a dusty taupe so body hierarchy stays quiet against the cream field. The overall impression is museum-label clarity applied to AI UX examples.
 
-```fudge-colors
-[
-  "#000000",
-  "#d1b19c",
-  "#877164",
-  "#fff9f5",
-  "#f2ebe5",
-  "#85786d",
-  "#e2d9cf",
-  "#ffffff",
-  "#e0c4ab",
-  "#e5ceba",
-  "#ead9c9",
-  "#efe3d8",
-  "#f4ede7",
-  "#937f6d",
-  "#aa9e92",
-  "#baafa6"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from aiverse.design",
-  "sampleText": "aiverse.design",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8555,
-      "domain": "aiverse.design",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 397
-    },
-    {
-      "family": "Louize",
-      "familyId": 994,
-      "pinId": 7291,
-      "domain": "aiverse.design",
-      "weight": "400",
-      "size": "36px",
-      "lineHeight": "40px",
-      "letterSpacing": "-0.9px",
-      "frequency": 14
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 8 |
-| Colors | 68 |
-| Spacing values | 85 |
-| Borders and radii | 25 |
-| Shadows | 4 |
-| Gradients | 0 |
+Measured roles:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8555,
-      "title": "aiverse • Playbook for designing AI products",
-      "domain": "aiverse.design/",
-      "pageUrl": "aiverse.design/",
-      "imageUrl": "https://pin.fontofweb.com/8555?format=jpg",
-      "colors": [
-        "#e2d9cf",
-        "#ec722f",
-        "#ddb7a6",
-        "#d7895d",
-        "#cec4a2",
-        "#000000",
-        "#9f9b96",
-        "#6a665e"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7291,
-      "title": "Patterns",
-      "domain": "aiverse.design/patterns",
-      "pageUrl": "aiverse.design/patterns",
-      "imageUrl": "https://pin.fontofweb.com/7291?format=jpg",
-      "colors": [
-        "#877164",
-        "#62605f",
-        "#efe3d8",
-        "#000000",
-        "#e5ceba",
-        "#e0c4ab",
-        "#b2a9a2",
-        "#303030"
-      ],
-      "fonts": [
-        "System",
-        "Louize"
-      ]
-    },
-    {
-      "pinId": 7290,
-      "title": "Patterns",
-      "domain": "aiverse.design/patterns",
-      "pageUrl": "aiverse.design/patterns",
-      "imageUrl": "https://pin.fontofweb.com/7290?format=jpg",
-      "colors": [
-        "#faf3ed",
-        "#937f6d",
-        "#ead9c9",
-        "#090807",
-        "#d1b19c",
-        "#e5ceba",
-        "#000000",
-        "#e0c4ab"
-      ],
-      "fonts": [
-        "System",
-        "Louize"
-      ]
-    },
-    {
-      "pinId": 7289,
-      "title": "Patterns",
-      "domain": "aiverse.design/patterns",
-      "pageUrl": "aiverse.design/patterns",
-      "imageUrl": "https://pin.fontofweb.com/7289?format=jpg",
-      "colors": [
-        "#75706b",
-        "#000000",
-        "#faf2ec",
-        "#0b0a09",
-        "#d1b19c",
-        "#efe3d8",
-        "#bcb4ae",
-        "#ead9c9"
-      ],
-      "fonts": [
-        "System",
-        "Louize"
-      ]
-    },
-    {
-      "pinId": 7288,
-      "title": "aiverse • Playbook for designing AI products",
-      "domain": "aiverse.design/",
-      "pageUrl": "aiverse.design/",
-      "imageUrl": "https://pin.fontofweb.com/7288?format=jpg",
-      "colors": [
-        "#7a7673",
-        "#000000",
-        "#171513",
-        "#fef8f4",
-        "#877164",
-        "#4d4a47",
-        "#b0aaa5"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7287,
-      "title": "aiverse • Playbook for designing AI products",
-      "domain": "aiverse.design/",
-      "pageUrl": "aiverse.design/",
-      "imageUrl": "https://pin.fontofweb.com/7287?format=jpg",
-      "colors": [
-        "#fff9f5",
-        "#dcb6a4",
-        "#090807",
-        "#ce8664",
-        "#877164",
-        "#9d9589",
-        "#8d9ecc",
-        "#6b665e"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7286,
-      "title": "aiverse • Playbook for designing AI products",
-      "domain": "aiverse.design/",
-      "pageUrl": "aiverse.design/",
-      "imageUrl": "https://pin.fontofweb.com/7286?format=jpg",
-      "colors": [
-        "#141414",
-        "#faf7f4",
-        "#151515",
-        "#8c94ae",
-        "#ffffff",
-        "#3a383b",
-        "#f2ebe5",
-        "#aa9e92"
-      ],
-      "fonts": [
-        "System"
-      ]
-    },
-    {
-      "pinId": 7285,
-      "title": "aiverse • Playbook for designing AI products",
-      "domain": "aiverse.design/",
-      "pageUrl": "aiverse.design/",
-      "imageUrl": "https://pin.fontofweb.com/7285?format=jpg",
-      "colors": [
-        "#fef9f5",
-        "#181718",
-        "#ffffff",
-        "#89837f",
-        "#5f5d5c",
-        "#fff9f5",
-        "#e2d9cf",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Louize"
-      ]
-    }
-  ]
-}
-```
+| Role | Hex | Use |
+|------|-----|-----|
+| Text primary / accent ink | `#000000` | Headlines, primary UI, filled pills, key labels |
+| Text secondary | `#877164` | Supporting labels, quieter meta, taupe accent reading |
+| Text secondary (lighter) | `#aa9e92` | Further de-emphasized secondary copy |
 
-## Representative captures
-[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/8555?format=jpg)](https://design.withfudge.com/pin/8555)
-[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/8555) — [source page](https://aiverse.design/)
+Visually reinforced:
 
-[![Patterns](https://pin.fontofweb.com/7291?format=jpg)](https://design.withfudge.com/pin/7291)
-[Patterns](https://design.withfudge.com/pin/7291) — [source page](https://aiverse.design/patterns)
+- **Canvas** — warm cream / paper (`~#f7f1ea` family) across home and patterns; not pure white, not gray.
+- **Surfaces** — cards slightly lighter or matched to canvas with soft separation; screenshot frames may hold their own UI colors inside the media.
+- **Strokes** — light warm gray 1px rules around cards and filter chips; occasional 2px emphasis frames on home modules.
+- **CTA inversion** — solid black pill + white label; ghost pills keep cream fill + dark stroke/label (“Open full library”, “Log in”).
 
-[![Patterns](https://pin.fontofweb.com/7290?format=jpg)](https://design.withfudge.com/pin/7290)
-[Patterns](https://design.withfudge.com/pin/7290) — [source page](https://aiverse.design/patterns)
+Accent is typographic and tonal (black vs taupe on cream), not a saturated brand hue. Do not introduce electric purple/blue “AI gradients” into the chrome—the screenshots already bring product color.
 
-[![Patterns](https://pin.fontofweb.com/7289?format=jpg)](https://design.withfudge.com/pin/7289)
-[Patterns](https://design.withfudge.com/pin/7289) — [source page](https://aiverse.design/patterns)
+### Typography
 
-[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7288?format=jpg)](https://design.withfudge.com/pin/7288)
-[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7288) — [source page](https://aiverse.design/)
+Declared families were not captured. The system reads as a refined neo-grotesque / editorial sans with a very wide size ladder.
 
-[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7287?format=jpg)](https://design.withfudge.com/pin/7287)
-[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7287) — [source page](https://aiverse.design/)
+Observed scale (weight · size · line-height):
 
-[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7286?format=jpg)](https://design.withfudge.com/pin/7286)
-[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7286) — [source page](https://aiverse.design/)
+- **Meta / chip** — 500–600 · **12px / 16px**
+- **UI / card title support** — 400–600 · **14px / 20px**
+- **Body default** — 400–500 · **16px / 24–26px** (highest occurrence)
+- **Deck / lead** — 400–500 · **18px**
+- **Section title** — 700 · **24px / 32px**
+- **Marketing title** — 700 · **36px / 40px** or 400 · 36px
+- **Display** — 400 · **48px / 60px**
+- **Hero display** — 300–400 · **60px** (tight lh ~48 on some locks) and **96px** statement sizes on home
 
-[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7285?format=jpg)](https://design.withfudge.com/pin/7285)
-[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7285) — [source page](https://aiverse.design/)
+Display is intentionally light (300–400) at huge sizes—airier than bold tech heroes. Body stays regular; medium/semibold appear on nav items, filters, and small labels. Line length on decks stays moderate beneath wide headlines.
+
+### Spacing and layout
+
+Spacing clusters: **4 · 8 · 12 · 16 · 24 · 32 · 48 · 64 · 80 · 96 · 128**.
+
+- **Home** — generous top hero with massive headline + short deck + black CTA; subsequent bands introduce featured pattern stories and collections with large screenshots.
+- **Patterns (`/patterns`)** — sticky-feeling top nav; page title row (“Browse N AI UX examples”) with ghost button right; **filter chip row**; then a **3-column card grid** of example thumbnails + captions.
+- Horizontal padding is roomy; the grid does not feel packed edge-to-edge.
+- Section breaks rely on whitespace more than heavy rules.
+
+## Visual language
+
+### Shape and radius
+
+Measured radii: **6 · 16 · 24**.
+
+- Filter chips and small controls ≈ **full pill** or large radius.
+- Example cards / screenshot frames ≈ **16–24px** rounded rects.
+- Micro controls / tags ≈ **6px**.
+- Primary Subscribe CTA = **black pill** (fully rounded).
+
+### Borders and shadows
+
+- Cards and chips: **1px** light warm borders on all sides (balanced box strokes).
+- Home modules sometimes use **2px** frames for stronger editorial blocks.
+- Shadows are rare and soft when present (`blur ~30, spread -5`)—more of a gentle photo lift than material elevation. Most separation is border + background, not shadow stacks.
+
+### Imagery
+
+The product is a **screenshot gallery**. Each pattern card shows a real AI product UI (chat, agents, diffs, mobile lists) inside a rounded frame, often with a small “NEW” badge and a tiny `ai` mark. Captions sit below in primary black; the grid is the pedagogy. Hero art can include large wordmarks or feature graphics, but the library’s spine is rectangular UI captures on cream.
+
+### Motion
+
+Not established from stills. Keep any motion editorial (slow fade, light hover lift on cards)—not particle AI clichés.
+
+## Components and states
+
+### Top navigation
+
+- Left: compact `ai` mark + text links (Gallery, AI Patterns, Insights, More).
+- Right: icon actions (bookmark, search with keyboard hint), **black Subscribe pill**, text Log in.
+- On cream; no thick opaque bar—integrates with paper canvas.
+
+### Hero (home)
+
+- Huge light headline (multi-line OK).
+- Short taupe or black deck.
+- One black pill CTA.
+- Optional secondary ghost control.
+
+### Filter bar (patterns)
+
+- Leading view toggle + dropdown chips (Phases, AI Pattern, Industries, Apps).
+- Chips: cream/white fill, warm hairline, dark label, pill radius.
+
+### Pattern card
+
+1. Rounded screenshot (media-first)  
+2. Optional **NEW** badge corner  
+3. Caption title under image  
+4. Quiet meta / source mark  
+
+Grid: three-up on desktop in studied captures.
+
+### Buttons
+
+- **Primary** — black fill, white label, pill.  
+- **Secondary** — outlined pill on cream (“Open full library”).  
+- Text links in nav without button chrome.
+
+Still captures show default states; hover should stay subtle (border darken, slight shadow) without recoloring the cream system.
+
+## Responsive behavior
+
+Captures are desktop viewports (~1500–1700px wide). Patterns already read as a fluid card grid; expected behavior:
+
+- 3 → 2 → 1 columns for example cards.
+- Hero type scales down from 60–96px band but should stay oversized relative to body.
+- Nav may collapse into fewer links + menu while keeping the black Subscribe pill visible.
+- Filter chips scroll horizontally rather than wrapping into a tall stack when space is tight.
+
+## Practical guidance
+
+**Preserve**
+
+- **Cream paper canvas** + black ink + **taupe secondary** (`#877164` / `#aa9e92`).
+- **Light-weight oversized display** paired with 16px body.
+- Black pill primary / ghost pill secondary.
+- Softly rounded screenshot cards in a clean gallery grid.
+- Teaching-by-example layout: filters + captioned UI captures.
+
+**Avoid**
+
+- Dark mode default or neon AI gradients on the chrome.
+- Heavy shadows, glassmorphism, or dense dashboard sidebars on marketing pages.
+- Bright multi-color badge systems; one small NEW mark is enough.
+- Bold condensed display at hero sizes—the airy light face is the signature.
+- Pure cold gray backgrounds that kill the paper warmth.
+
+**Adaptation tips**
+
+- For a pattern library: cream page, black subscribe, chip filters, 16–24px radius media cards.
+- For an article/playbook home: one giant light headline, short deck, single black CTA, then featured captures.
+- Let embedded product screenshots keep their own UI colors; don’t retint them to taupe.
+
+## Scope note
+
+Studied home (`/`) heroes and mid-page gallery bands plus patterns index (`/patterns`) with filters and example grid. Color roles and type sizes are measured; declared font families were not available. Motion, mobile breakpoints, and account/subscribe flows beyond the marketing chrome were not in this capture set.
+
+## Captured pages
+
+[![Home — hero display](https://pin.fontofweb.com/7285?format=jpg)](https://design.withfudge.com/share/pin-7285)
+
+[Home — hero display](https://design.withfudge.com/share/pin-7285)
+
+[![Home — gallery band](https://pin.fontofweb.com/7286?format=jpg)](https://design.withfudge.com/share/pin-7286)
+
+[Home — gallery band](https://design.withfudge.com/share/pin-7286)
+
+[![Home — compact hero](https://pin.fontofweb.com/8555?format=jpg)](https://design.withfudge.com/share/pin-8555)
+
+[Home — compact hero](https://design.withfudge.com/share/pin-8555)
+
+[![Home — top chrome](https://pin.fontofweb.com/7288?format=jpg)](https://design.withfudge.com/share/pin-7288)
+
+[Home — top chrome](https://design.withfudge.com/share/pin-7288)
+
+[![Patterns — library grid](https://pin.fontofweb.com/7291?format=jpg)](https://design.withfudge.com/share/pin-7291)
+
+[Patterns — library grid](https://design.withfudge.com/share/pin-7291)
+
+[![Patterns — display type](https://pin.fontofweb.com/7290?format=jpg)](https://design.withfudge.com/share/pin-7290)
+
+[Patterns — display type](https://design.withfudge.com/share/pin-7290)
+
+[![Patterns — framed modules](https://pin.fontofweb.com/7289?format=jpg)](https://design.withfudge.com/share/pin-7289)
+
+[Patterns — framed modules](https://design.withfudge.com/share/pin-7289)
+
+[![Home — mid section](https://pin.fontofweb.com/7287?format=jpg)](https://design.withfudge.com/share/pin-7287)
+
+[Home — mid section](https://design.withfudge.com/share/pin-7287)
+
+## Colors
+
+- `#000000`
+- `#877164`
+- `#aa9e92`
+- `#ffffff`

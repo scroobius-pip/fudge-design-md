@@ -36,6 +36,14 @@ adventureson.band is an **immersive artist presence** for Ty Finck’s instrumen
 
 [Open guide](design-md/adventureson.band.md) · [View the Fudge conversation](https://design.withfudge.com/share/adventureson.band-design)
 
+### aiverse.design
+
+[![How aiverse.design is designed](https://pin.fontofweb.com/7285?format=jpg)](design-md/aiverse.design.md)
+
+Aiverse.design feels like a curated design journal for AI products: warm off-white paper, black ink, and oversized light-weight display type that announces ideas before UI chrome does. It is not a dark “AI terminal” brand and not a colorful startup landing page. The tone is editorial-calm—gallery, patterns, insights—with product screenshots doing the pedagogical work inside softly rounded frames.
+
+[Open guide](design-md/aiverse.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/aiverse.design-design)
+
 ### alpine.inc
 
 [![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
