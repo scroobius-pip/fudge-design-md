@@ -1,144 +1,90 @@
 # How app.squareup.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/app.squareup.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/app.squareup.com-design)
 
-Source domain: [app.squareup.com](https://app.squareup.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-06-19
+## Design character
 
-<!--
-coverPin: 9725
--->
+Square’s app login is a **split-stage brand gate**. One side is a clean white authentication form; the other is a black marketing panel that cycles bold benefit lines and floats a realistic product UI screenshot. The message is trustworthy commerce infrastructure—high contrast, few colors, product-in-hand imagery.
 
-Here is the visual system observed across **2 captured pages** from [app.squareup.com](https://app.squareup.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#101010",
-  "#ffffff",
-  "#000000",
-  "#666666",
-  "#fafafa",
-  "#808080",
-  "#fefefe",
-  "#131313",
-  "#af8b71",
-  "#c1bfbb",
-  "#7c522f",
-  "#9b133a",
-  "#f99d40",
-  "#7c7b78",
-  "#8ab0e6",
-  "#79c283"
-]
-```
+- **White form + black brand panel** duality
+- **Large weighty benefit headlines** on black (only one line fully white/active in the stack)
+- **Soft 6px inputs** and calm blue text links
+- **Floating product preview card** with gentle shadow
 
-```fudge-font-usage
-{
-  "title": "Typography captured from app.squareup.com",
-  "sampleText": "app.squareup.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9725,
-      "domain": "app.squareup.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 2
-    },
-    {
-      "family": "Square Sans Vf",
-      "familyId": 2612,
-      "pinId": 9725,
-      "domain": "app.squareup.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 5372
-    },
-    {
-      "family": "Cash Sans",
-      "familyId": 2611,
-      "pinId": 9724,
-      "domain": "app.squareup.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 262
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 23 |
-| Spacing values | 44 |
-| Borders and radii | 3 |
-| Shadows | 5 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9725,
-      "title": "Square: Sign in to Your Dashboard & Manage your Business",
-      "domain": "app.squareup.com/login",
-      "pageUrl": "app.squareup.com/login",
-      "imageUrl": "https://pin.fontofweb.com/9725?format=jpg",
-      "colors": [
-        "#101010",
-        "#131313",
-        "#af8b71",
-        "#c1bfbb",
-        "#7c522f",
-        "#9b133a",
-        "#fefefe",
-        "#f99d40"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Square Sans Vf"
-      ]
-    },
-    {
-      "pinId": 9724,
-      "title": "Square: Sign in to Your Dashboard & Manage your Business",
-      "domain": "app.squareup.com/login",
-      "pageUrl": "app.squareup.com/login",
-      "imageUrl": "https://pin.fontofweb.com/9724?format=jpg",
-      "colors": [
-        "#79c283",
-        "#337496",
-        "#fafafa",
-        "#928b87",
-        "#000000",
-        "#808080",
-        "#c9c9c7",
-        "#fefefe"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Square Sans Vf",
-        "Cash Sans"
-      ]
-    }
-  ]
-}
-```
+- Form canvas: `#ffffff`
+- Brand panel: `#000000` / near-black
+- Input fills/borders: light gray ~`#f5f5f5` / `#e0e0e0`
+- Primary text on white: near-black
+- Links / focus accent: Square blue ~`#006aff`
+- Active benefit line: white; idle lines: dim gray on black
 
-## Representative captures
-[![Square: Sign in to Your Dashboard & Manage your Business](https://pin.fontofweb.com/9725?format=jpg)](https://design.withfudge.com/pin/9725)
-[Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9725) — [source page](https://app.squareup.com/login)
+### Typography
 
-[![Square: Sign in to Your Dashboard & Manage your Business](https://pin.fontofweb.com/9724?format=jpg)](https://design.withfudge.com/pin/9724)
-[Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9724) — [source page](https://app.squareup.com/login)
+Measured:
+
+- UI body: **16px**, weight 400 (dominant)
+- Benefit headline: **~32.6px**, weight **600**, generous line-height ~52px
+
+No family name captured; visually a sturdy grotesque consistent with Square’s public brand.
+
+### Spacing and layout
+
+Heavy padding rhythm: **24px** stacks, **48px** section padding, **64px** horizontal insets on the brand panel, ~**25px** control padding.
+
+Wide layout: **two columns** (form | brand). Narrower capture (~890px) still shows the brand panel language—do not reduce the page to a lone form if brand presence matters.
+
+## Visual language
+
+- Radius **6px** on inputs/buttons (primary), tiny 2px accents elsewhere
+- Product preview uses a **soft shadow** (~0 8px 32px) to lift the card off black
+- Hairline separators on the form; no ornamental illustration style
+- Marketing panel may show a vertical list of dimmed phrases with one highlighted—kinetic copy without cluttering the form
+
+## Components and states
+
+1. **Email/password fields** — light fill, 6px radius, clear labels
+2. **Primary continue/sign-in button** — solid, high contrast (black or blue per brand moment)
+3. **Text links** — blue, quiet
+4. **Benefit list** — stacked phrases, one emphasized
+5. **Product screenshot card** — rounded window chrome, real UI imagery (POS/menu examples)
+
+## Responsive behavior
+
+Two widths (2048 and 890) of the same login route. The **split brand idea persists**; at narrower widths the marketing column may crop or stack but should not disappear entirely if you are preserving Square’s gate feeling.
+
+## Practical guidance
+
+**Preserve** split white/black gate, 6px controls, blue links, floating product proof, bold single-line benefit emphasis.
+
+**Avoid** playful gradients, tiny legal-wall typography as hero, or removing the product screenshot in favor of abstract shapes.
+
+## Scope note
+
+Only the login route at two viewport widths. Post-login dashboard patterns are outside this guide. Font family not declared in capture data.
+
+## Captured pages
+
+[![Login — wide split layout](https://pin.fontofweb.com/9724?format=jpg)](https://design.withfudge.com/share/pin-9724)
+
+[Login — wide split layout](https://design.withfudge.com/share/pin-9724)
+
+[![Login — narrower crop](https://pin.fontofweb.com/9725?format=jpg)](https://design.withfudge.com/share/pin-9725)
+
+[Login — narrower crop](https://design.withfudge.com/share/pin-9725)
+
+## Colors
+
+- `#ffffff`
+- `#000000`
+- `#f5f5f5`
+- `#e0e0e0`
+- `#006aff`
+- `#1a1a1a`

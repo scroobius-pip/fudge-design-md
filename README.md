@@ -212,6 +212,14 @@ Paper’s app home is a **bright, disciplined file OS** for design work. It feel
 
 [Open guide](design-md/app.paper.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.paper.design-design)
 
+### app.squareup.com
+
+[![How app.squareup.com is designed](https://pin.fontofweb.com/9724?format=jpg)](design-md/app.squareup.com.md)
+
+Square’s app login is a **split-stage brand gate**. One side is a clean white authentication form; the other is a black marketing panel that cycles bold benefit lines and floats a realistic product UI screenshot. The message is trustworthy commerce infrastructure—high contrast, few colors, product-in-hand imagery.
+
+[Open guide](design-md/app.squareup.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.squareup.com-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
