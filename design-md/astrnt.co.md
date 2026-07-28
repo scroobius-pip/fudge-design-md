@@ -1,119 +1,67 @@
 # How astrnt.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/astrnt.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/astrnt.co-design)
 
-Source domain: [astrnt.co](https://astrnt.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-10
+## Design character
 
-<!--
-coverPin: 8774
--->
+ASTRNT markets hiring/admissions transformation with a **confident corporate landing**: large bold headlines (48px/52px, weight 700), spacious vertical hero padding (120–180px), and compact 6px-radius controls with 2px borders. It feels operational and clear rather than playful.
 
-Here is the visual system observed across **2 captured pages** from [astrnt.co](https://astrnt.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#18244e",
-  "#494ca1",
-  "#db334d",
-  "#ffffff",
-  "#2d26b8",
-  "#fefefe",
-  "#c7c2ce",
-  "#d25a66",
-  "#898da0",
-  "#1a1e23",
-  "#f7edcf",
-  "#19244d",
-  "#36488f",
-  "#5d668f",
-  "#838db2"
-]
-```
+- Strong weight contrast (400 body vs 700 titles/labels).
+- Airy hero banding with large top/bottom padding.
+- Small control radii (~6px) and thicker 2px borders on key actions.
+- Straightforward sans hierarchy without ornamental display fonts.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from astrnt.co",
-  "sampleText": "astrnt.co",
-  "fonts": [
-    {
-      "family": "Open Sans",
-      "familyId": 2034,
-      "pinId": 8774,
-      "domain": "astrnt.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "22.8571px",
-      "letterSpacing": "normal",
-      "frequency": 20
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 23 |
-| Spacing values | 14 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8774,
-      "title": "ASTRNT – Transforming Hiring and Admissions",
-      "domain": "astrnt.co/",
-      "pageUrl": "astrnt.co/",
-      "imageUrl": "https://pin.fontofweb.com/8774?format=jpg",
-      "colors": [
-        "#c7c2ce",
-        "#000000",
-        "#db334d",
-        "#fefefe",
-        "#d25a66",
-        "#898da0",
-        "#1a1e23",
-        "#f7edcf"
-      ],
-      "fonts": [
-        "Open Sans"
-      ]
-    },
-    {
-      "pinId": 8773,
-      "title": "ASTRNT – Transforming Hiring and Admissions",
-      "domain": "astrnt.co/",
-      "pageUrl": "astrnt.co/",
-      "imageUrl": "https://pin.fontofweb.com/8773?format=jpg",
-      "colors": [
-        "#838db2",
-        "#585e74",
-        "#c8c1ce",
-        "#ffffff",
-        "#5562a0",
-        "#494ca1",
-        "#db334d",
-        "#19234b"
-      ],
-      "fonts": [
-        "Open Sans"
-      ]
-    }
-  ]
-}
-```
+No measured roles. Expect a clean light or brand-colored marketing field with high-contrast type; do not invent palette hexes.
 
-## Representative captures
-[![ASTRNT – Transforming Hiring and Admissions](https://pin.fontofweb.com/8774?format=jpg)](https://design.withfudge.com/pin/8774)
-[ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8774) — [source page](https://astrnt.co/)
+### Typography
 
-[![ASTRNT – Transforming Hiring and Admissions](https://pin.fontofweb.com/8773?format=jpg)](https://design.withfudge.com/pin/8773)
-[ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8773) — [source page](https://astrnt.co/)
+Body ~16/22.9; display 48/52 bold; some 14px bold labels with unusual large line-heights in measurements (treat cautiously). Overall: bold headlines, regular body.
+
+### Spacing and layout
+
+Hero padding-top ~180, bottom ~120; side padding can be large on split layouts (~645 observed on one side). Buttons use ~10–16px horizontal padding.
+
+## Visual language
+
+- 6px radius buttons.
+- 2px solid borders—more forceful than hairline SaaS.
+- Limited shadow language in captures.
+
+## Components and states
+
+- Top marketing nav.
+- Hero headline + supporting line + CTA.
+- Feature sections (inferred from landing structure).
+- Bordered primary/secondary buttons.
+
+## Responsive behavior
+
+Two home crops only; both desktop widths.
+
+## Practical guidance
+
+**Preserve:** bold hiring-platform clarity, airy heroes, slightly tougher border/radius language.
+
+**Avoid:** consumer-playful illustration overload; ultra-soft 16px+ radii that read consumer-social rather than HR tech.
+
+## Scope note
+
+Homepage only; color roles unsupported. Keep palette claims visual and modest.
+
+## Captured pages
+
+[![Home — hiring platform](https://pin.fontofweb.com/8774?format=jpg)](https://design.withfudge.com/share/pin-8774)
+
+[Home — hiring platform](https://design.withfudge.com/share/pin-8774)
+
+[![Home — alternate crop](https://pin.fontofweb.com/8773?format=jpg)](https://design.withfudge.com/share/pin-8773)
+
+[Home — alternate crop](https://design.withfudge.com/share/pin-8773)

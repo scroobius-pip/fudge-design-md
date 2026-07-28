@@ -268,6 +268,14 @@ assistant-ui’s docs are a **dark developer product surface**: near-black backg
 
 [Open guide](design-md/assistant-ui.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/assistant-ui.com-design)
 
+### astrnt.co
+
+[![How astrnt.co is designed](https://pin.fontofweb.com/8774?format=jpg)](design-md/astrnt.co.md)
+
+ASTRNT markets hiring/admissions transformation with a **confident corporate landing**: large bold headlines (48px/52px, weight 700), spacious vertical hero padding (120–180px), and compact 6px-radius controls with 2px borders. It feels operational and clear rather than playful.
+
+[Open guide](design-md/astrnt.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/astrnt.co-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
