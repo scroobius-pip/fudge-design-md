@@ -164,6 +164,14 @@ Cracked is a loud, editorial humor portal: black masthead, bold white/yellow wor
 
 [Open guide](design-md/cracked.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cracked.com-design)
 
+### creem.io
+
+[![How creem.io is designed](https://pin.fontofweb.com/7117?format=jpg)](design-md/creem.io.md)
+
+Creem is a **playful merchant-of-record SaaS** that sells seriousness (global payments, tax, compliance) with **cartoon energy**. The marketing site is loud on purpose: a lavender hero field, ultra-heavy black display type, a wide-eyed mascot peeking from the bottom edge, and pastel product cards with thick ink outlines. Checkout flips the mood—clean white commerce chrome, amber primary pay button, and quiet gray type—so the money moment feels trustworthy after the playful pitch.
+
+[Open guide](design-md/creem.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/creem.io-design)
+
 ### curator.io
 
 [![How curator.io is designed](https://pin.fontofweb.com/7651?format=jpg)](design-md/curator.io.md)
