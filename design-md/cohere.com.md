@@ -1,343 +1,148 @@
 # How cohere.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cohere.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cohere.com-design)
 
-Source domain: [cohere.com](https://cohere.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-09
+## Design character
 
-<!--
-coverPin: 9953
--->
+Cohere’s marketing site is polished enterprise AI: a **white canvas**, near-black display type, generous section padding, and a single loud **coral/orange brand accent** (`#ff7759` family) reserved for primary CTAs and product moments. The system feels calm and institutional until a saturated accent or purple product field breaks the monochrome. Product demos live inside soft-edged light cards with warm sand backdrops; developer sections flip to deep **indigo/violet** full-bleed fields with floating docs chrome.
 
-Here is the visual system observed across **9 captured pages** from [cohere.com](https://cohere.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#212121",
-  "#ffffff",
-  "#17171c",
-  "#f0eee9",
-  "#e5ebff",
-  "#2e2e2e",
-  "#9b60aa",
-  "#e5e7eb",
-  "#fafafa",
-  "#808080",
-  "#93939f",
-  "#bdbdbd",
-  "#525260",
-  "#efeee8",
-  "#131722"
-]
-```
+- White marketing field + charcoal/black type (`#212121` / `#000000`)
+- Coral/orange solid CTAs and brand marks as the only warm loud color
+- Large, slightly tight display headlines (48–72px range) at regular weight
+- Soft card radii (~20–22px) and pill buttons (~9999px)
+- Occasional full-bleed saturated product stages (purple docs, sand product UI)
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cohere.com",
-  "sampleText": "cohere.com",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9953,
-      "domain": "cohere.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 34
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 9953,
-      "domain": "cohere.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 34
-    },
-    {
-      "family": "By Christian Mengelt Team 77",
-      "familyId": 2649,
-      "pinId": 9953,
-      "domain": "cohere.com",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 4024
-    },
-    {
-      "family": "Cohere Mono",
-      "familyId": 2650,
-      "pinId": 9953,
-      "domain": "cohere.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "19.6px",
-      "letterSpacing": "0.28px",
-      "frequency": 48
-    },
-    {
-      "family": "Cohere",
-      "familyId": 2229,
-      "pinId": 9952,
-      "domain": "cohere.com",
-      "weight": "400",
-      "size": "72px",
-      "lineHeight": "72px",
-      "letterSpacing": "-1.44px",
-      "frequency": 47
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 9 |
-| Colors | 87 |
-| Spacing values | 389 |
-| Borders and radii | 32 |
-| Shadows | 0 |
-| Gradients | 9 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9953,
-      "title": "About Our Company | Cohere",
-      "domain": "cohere.com/about",
-      "pageUrl": "cohere.com/about",
-      "imageUrl": "https://pin.fontofweb.com/9953?format=jpg",
-      "colors": [
-        "#efeee8",
-        "#131722",
-        "#1c3082",
-        "#4162c9",
-        "#484434",
-        "#959188",
-        "#80a3e3",
-        "#151c45"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77",
-        "Cohere Mono"
-      ]
-    },
-    {
-      "pinId": 9952,
-      "title": "About Our Company | Cohere",
-      "domain": "cohere.com/about",
-      "pageUrl": "cohere.com/about",
-      "imageUrl": "https://pin.fontofweb.com/9952?format=jpg",
-      "colors": [
-        "#726f6f",
-        "#3d58d0",
-        "#a455c0",
-        "#df5a41",
-        "#d988d7",
-        "#d7bbd9",
-        "#efeee9",
-        "#7a89df"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77",
-        "Cohere"
-      ]
-    },
-    {
-      "pinId": 9951,
-      "title": "Contact Sales | Secure and Scalable AI | Cohere",
-      "domain": "cohere.com/contact-sales",
-      "pageUrl": "cohere.com/contact-sales",
-      "imageUrl": "https://pin.fontofweb.com/9951?format=jpg",
-      "colors": [
-        "#eff3ff",
-        "#b8b9bd",
-        "#476059",
-        "#7d7e85",
-        "#1c1b1f",
-        "#54555a",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77"
-      ]
-    },
-    {
-      "pinId": 9950,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9950?format=jpg",
-      "colors": [
-        "#19181c",
-        "#f8f7f8",
-        "#8e8489",
-        "#534264",
-        "#49454a",
-        "#8e7564",
-        "#8c6ea0",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77",
-        "Cohere"
-      ]
-    },
-    {
-      "pinId": 9949,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9949?format=jpg",
-      "colors": [
-        "#808287",
-        "#363436",
-        "#b06663",
-        "#699b84",
-        "#80a8df",
-        "#6aa960",
-        "#b3b98c",
-        "#efefed"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77"
-      ]
-    },
-    {
-      "pinId": 9948,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9948?format=jpg",
-      "colors": [
-        "#b8a79c",
-        "#dfb6b2",
-        "#847c7c",
-        "#32343a",
-        "#70403e",
-        "#57555d",
-        "#ab8d9c",
-        "#b34131"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77"
-      ]
-    },
-    {
-      "pinId": 9947,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9947?format=jpg",
-      "colors": [
-        "#393da9",
-        "#f4f4f4",
-        "#6160cf",
-        "#7f8287",
-        "#1e214c",
-        "#000000",
-        "#ffffff",
-        "#2e2e2e"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77"
-      ]
-    },
-    {
-      "pinId": 9946,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9946?format=jpg",
-      "colors": [
-        "#fdfcfa",
-        "#616162",
-        "#2a2a2c",
-        "#929192",
-        "#ef7968",
-        "#6e71c5",
-        "#fd3f22",
-        "#c2c2c2"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77"
-      ]
-    },
-    {
-      "pinId": 9945,
-      "title": "Enterprise AI: Private, Secure, Customizable | Cohere",
-      "domain": "cohere.com/",
-      "pageUrl": "cohere.com/",
-      "imageUrl": "https://pin.fontofweb.com/9945?format=jpg",
-      "colors": [
-        "#8f62a5",
-        "#c4a076",
-        "#6d430f",
-        "#ffffff",
-        "#472d20",
-        "#397b72",
-        "#b68cc8",
-        "#1f1f22"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter",
-        "By Christian Mengelt Team 77",
-        "Cohere"
-      ]
-    }
-  ]
-}
-```
+Measured text roles:
 
-## Representative captures
-[![About Our Company | Cohere](https://pin.fontofweb.com/9953?format=jpg)](https://design.withfudge.com/pin/9953)
-[About Our Company | Cohere](https://design.withfudge.com/pin/9953) — [source page](https://cohere.com/about)
+- **Primary text:** `#212121` and `#000000` (near-black body and display)
+- **Secondary text:** charcoal variants of the same family
 
-[![About Our Company | Cohere](https://pin.fontofweb.com/9952?format=jpg)](https://design.withfudge.com/pin/9952)
-[About Our Company | Cohere](https://design.withfudge.com/pin/9952) — [source page](https://cohere.com/about)
+Observed (not instrumented as roles) but visually dominant:
 
-[![Contact Sales | Secure and Scalable AI | Cohere](https://pin.fontofweb.com/9951?format=jpg)](https://design.withfudge.com/pin/9951)
-[Contact Sales | Secure and Scalable AI | Cohere](https://design.withfudge.com/pin/9951) — [source page](https://cohere.com/contact-sales)
+- **Canvas:** pure white marketing backgrounds
+- **Brand accent / CTA:** saturated coral-orange on solid buttons (“Talk to sales”, “Try now”, “Generating…”) and the C-mark logo
+- **Product stage purple:** deep indigo-to-violet grain field behind developer resources
+- **Sand product surface:** warm beige behind chat/demo cards
+- **Soft neutrals:** light gray nav chrome, muted secondary labels, mint-tinted active nav rows in docs UI
 
-[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9950?format=jpg)](https://design.withfudge.com/pin/9950)
-[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9950) — [source page](https://cohere.com/)
+Keep the palette mostly monochrome-neutral; spend color on CTAs and staged product art, not decorative gradients on every section.
 
-[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9949?format=jpg)](https://design.withfudge.com/pin/9949)
-[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9949) — [source page](https://cohere.com/)
+### Typography
 
-[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9948?format=jpg)](https://design.withfudge.com/pin/9948)
-[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9948) — [source page](https://cohere.com/)
+Declared font families were not captured. Visually the stack is a clean contemporary **sans** with:
 
-[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9947?format=jpg)](https://design.withfudge.com/pin/9947)
-[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9947) — [source page](https://cohere.com/)
+- **Display:** ~48–72px, weight ~400, tight tracking (letter-spacing around −0.5 to −1.4px on large sizes), line-height near 1.0–1.2
+- **Section titles:** ~24–32px regular
+- **Body:** 16px / 24px line-height dominates almost every page
+- **Small UI / nav / meta:** 12–14px
+- **About hero:** oversized single-line claim (“Intelligence is only as powerful…”) at ~72px
 
-[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9946?format=jpg)](https://design.withfudge.com/pin/9946)
-[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9946) — [source page](https://cohere.com/)
+Hierarchy is size-led more than weight-led—regular weight stays surprisingly light even at display sizes.
+
+### Spacing and layout
+
+Recurring measurements:
+
+- Horizontal content padding ~**40px**; outer margins ~**28–48px**
+- Large vertical section rhythm: **80px**, **96px**, **144px**, even **160px** top padding on hero/product stages
+- Card and grid gaps often **16–40px**; some home modules use very wide column gaps (~128–176px)
+- Contact and about pages keep generous top padding (~144px) before the first form or hero block
+
+Layout is wide desktop marketing (~1920–2048px captures): multi-column feature grids, split hero (copy left / product art right), and centered about claims.
+
+## Visual language
+
+- **Radii:** cards and panels cluster around **20–22px**; small controls ~**4–8px**; pills and primary buttons go full **9999px**
+- **Borders:** 1px solid hairlines on cards, form fields, and list rows—quiet, not heavy frames
+- **Shadows:** largely absent in structured measurements; depth comes from soft fills and staged product surfaces rather than drop shadows
+- **Imagery:** photographic leadership portraits on About; abstract brand marks; in-product UI mockups (chat, docs) with warm or purple stage backdrops
+- **Accent line:** thin multi-stop gradient hairline above product feature titles (Command / Transcribe / Embed)
+
+## Components and states
+
+Recurring patterns:
+
+- **Top nav:** logo left, text links, dual CTAs (ghost/outline “Log in” + solid coral “Talk to sales”)
+- **Hero:** large display line + short supporting sentence + dual actions (solid + text link)
+- **Product feature accordion/list:** titled rows (Command, Transcribe, Embed, Rerank) with check lists and “Learn more →”
+- **Demo cards:** rounded white chat bubbles on sand stage; coral status chip (“Generating…”)
+- **Sales form:** multi-field light form with country select, checkbox legal line, full-width coral submit
+- **About story:** oversized centered quote-like headline, then portrait grid with name/title captions
+- **Developer band:** purple full-bleed with white pill CTA and floating docs window (sidebar + code sample)
+- **Footer:** multi-column link grid, social icons, legal row
+
+Visible states in stills: default buttons, active sidebar item (soft mint fill), and a loading/generating chip—do not invent hover/focus beyond what is shown.
+
+## Responsive behavior
+
+Captures are wide desktop section crops. Treat mobile as unobserved: preserve the type scale and coral accent, but do not assume the same multi-column gaps or 144px section padding will hold on small viewports.
+
+## Practical guidance
+
+**Preserve**
+
+- White field + near-black type + coral CTA triangle
+- Soft 20–22px cards and pill primary buttons
+- Size-led hierarchy with restrained weight
+- Alternation between calm white marketing and rare saturated product stages
+
+**Avoid**
+
+- Rainbow decorative gradients on every section
+- Heavy shadows or glassmorphism competing with product mockups
+- Turning secondary text multicolored
+- Crowding the 80–144px section rhythm into dense startup packing
+
+**Adaptation**
+
+- Keep brand coral for primary action only
+- Use sand/beige only inside product demo stages
+- Reserve deep purple for developer/docs moments so marketing stays serene
+
+## Scope note
+
+Studied eight section crops on cohere.com: home (hero, product demo, feature list, developer resources), About (mission headline + leadership grid), and Contact Sales (form). Color roles measured for text (`#212121`, `#000000`); coral, purple, and sand are visual. No declared font families. Mobile breakpoints not in this set.
+
+## Captured pages
+
+[![Home — enterprise hero](https://pin.fontofweb.com/9950?format=jpg)](https://design.withfudge.com/share/pin-9950)
+
+[Home — enterprise hero](https://design.withfudge.com/share/pin-9950)
+
+[![Home — North logos + North card](https://pin.fontofweb.com/9949?format=jpg)](https://design.withfudge.com/share/pin-9949)
+
+[Home — North logos + North card](https://design.withfudge.com/share/pin-9949)
+
+[![Home — models product demo](https://pin.fontofweb.com/9947?format=jpg)](https://design.withfudge.com/share/pin-9947)
+
+[Home — models product demo](https://design.withfudge.com/share/pin-9947)
+
+[![Home — developer resources](https://pin.fontofweb.com/9946?format=jpg)](https://design.withfudge.com/share/pin-9946)
+
+[Home — developer resources](https://design.withfudge.com/share/pin-9946)
+
+[![About — mission headline](https://pin.fontofweb.com/9952?format=jpg)](https://design.withfudge.com/share/pin-9952)
+
+[About — mission headline](https://design.withfudge.com/share/pin-9952)
+
+[![About — leadership grid](https://pin.fontofweb.com/9953?format=jpg)](https://design.withfudge.com/share/pin-9953)
+
+[About — leadership grid](https://design.withfudge.com/share/pin-9953)
+
+[![Contact sales form](https://pin.fontofweb.com/9951?format=jpg)](https://design.withfudge.com/share/pin-9951)
+
+[Contact sales form](https://design.withfudge.com/share/pin-9951)
+
+## Colors
+
+- `#212121`
+- `#000000`
+- `#ffffff`

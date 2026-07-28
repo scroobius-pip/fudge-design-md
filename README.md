@@ -412,6 +412,14 @@ Coda’s Merchant of Record landing is calm B2B finance marketing: a soft warm-g
 
 [Open guide](design-md/coda.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/coda.co-design)
 
+### cohere.com
+
+[![How cohere.com is designed](https://pin.fontofweb.com/9950?format=jpg)](design-md/cohere.com.md)
+
+Cohere’s marketing site is polished enterprise AI: a **white canvas**, near-black display type, generous section padding, and a single loud **coral/orange brand accent** (`#ff7759` family) reserved for primary CTAs and product moments. The system feels calm and institutional until a saturated accent or purple product field breaks the monochrome. Product demos live inside soft-edged light cards with warm sand backdrops; developer sections flip to deep **indigo/violet** full-bleed fields with floating docs chrome.
+
+[Open guide](design-md/cohere.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cohere.com-design)
+
 ### contentformcontext.com
 
 [![How contentformcontext.com is designed](https://pin.fontofweb.com/10404?format=jpg)](design-md/contentformcontext.com.md)
