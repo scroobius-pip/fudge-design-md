@@ -332,6 +332,14 @@ Brookings reads as a **think-tank newsroom**: authoritative blue (`#00649f`), ne
 
 [Open guide](design-md/brookings.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/brookings.edu-design)
 
+### bud.app
+
+[![How bud.app is designed](https://pin.fontofweb.com/9131?format=jpg)](design-md/bud.app.md)
+
+Bud feels like a **warm productivity studio**: off-white / paper canvas, near-black type, soft gold/amber accent (`#b8860b`), and large rounded product cards. The marketing voice is confident and human (“Your AI Worker”), while the UI chrome stays minimal so **product screenshots and pricing tables** carry the story.
+
+[Open guide](design-md/bud.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/bud.app-design)
+
 ### c82.net
 
 [![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)

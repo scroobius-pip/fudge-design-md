@@ -1,165 +1,97 @@
 # How bud.app is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/bud.app-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/bud.app-design)
 
-Source domain: [bud.app](https://bud.app)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-28
+## Design character
 
-<!--
-coverPin: 9134
--->
+Bud feels like a **warm productivity studio**: off-white / paper canvas, near-black type, soft gold/amber accent (`#b8860b`), and large rounded product cards. The marketing voice is confident and human (“Your AI Worker”), while the UI chrome stays minimal so **product screenshots and pricing tables** carry the story.
 
-Here is the visual system observed across **4 captured pages** from [bud.app](https://bud.app).
+What should survive adaptation:
+- Warm neutral canvas (not pure cold gray SaaS)
+- Black primary text with a **single metallic gold accent**
+- Large **~20–24px rounded** surfaces for cards and media frames
+- Screenshot-led storytelling and clear pricing comparison
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#f7f7f7",
-  "#525252",
-  "#b8860b",
-  "#f9b96c",
-  "#dfa45d",
-  "#fdfdfd",
-  "#313131",
-  "#bdbdbd",
-  "#8b8b8b",
-  "#646464",
-  "#f3bf7d",
-  "#aaaaaa",
-  "#606060",
-  "#bdceb3"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from bud.app",
-  "sampleText": "bud.app",
-  "fonts": [
-    {
-      "family": "Circular",
-      "familyId": 2494,
-      "pinId": 9134,
-      "domain": "bud.app",
-      "weight": "500",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1324
-    }
-  ]
-}
-```
+### Color
+Measured roles:
+- **Text primary**: `#000000`
+- **Accent**: `#b8860b` (dark goldenrod) — links, highlights, key UI accents
+Visually: warm off-white page background, white elevated cards, soft gray borders, black buttons for primary CTAs. Keep accent rare; overuse turns the gold decorative.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 31 |
-| Spacing values | 96 |
-| Borders and radii | 23 |
-| Shadows | 7 |
-| Gradients | 5 |
+### Typography
+Family names were not declared in captures. Observed sizes/weights:
+- Body/UI cluster: **14–16px**, weights **400–600**, line-height ~1.5 (16/24, 14/20)
+- Subheads ~20px / 600
+- Display/pricing titles ~24px, weights up to **700**
+- Small meta ~10–13px
+Tracking is generally neutral; hierarchy is weight + size, not all-caps shouting.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9134,
-      "title": "Bud | The AI Agent With Its Own Computer",
-      "domain": "bud.app/replays/c1920c6c-6e6b-4cd2-9553-e8861e6097ef",
-      "pageUrl": "bud.app/replays/c1920c6c-6e6b-4cd2-9553-e8861e6097ef",
-      "imageUrl": "https://pin.fontofweb.com/9134?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#000000",
-        "#525252",
-        "#313131",
-        "#bdbdbd",
-        "#8b8b8b",
-        "#646464",
-        "#f3bf7d"
-      ],
-      "fonts": [
-        "Circular"
-      ]
-    },
-    {
-      "pinId": 9133,
-      "title": "Pricing - Bud",
-      "domain": "bud.app/pricing",
-      "pageUrl": "bud.app/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9133?format=jpg",
-      "colors": [
-        "#aaaaaa",
-        "#ffffff",
-        "#606060",
-        "#b8860b",
-        "#f9b96c",
-        "#bdceb3",
-        "#2f2f2f",
-        "#848484"
-      ],
-      "fonts": [
-        "Circular"
-      ]
-    },
-    {
-      "pinId": 9132,
-      "title": "Pricing - Bud",
-      "domain": "bud.app/pricing",
-      "pageUrl": "bud.app/pricing",
-      "imageUrl": "https://pin.fontofweb.com/9132?format=jpg",
-      "colors": [
-        "#c3d2b9",
-        "#000000",
-        "#ffffff",
-        "#f9b96c",
-        "#8a8a8a",
-        "#b2b2b2",
-        "#b8860b",
-        "#dfa45d"
-      ],
-      "fonts": [
-        "Circular"
-      ]
-    },
-    {
-      "pinId": 9131,
-      "title": "Bud - Your AI Worker",
-      "domain": "bud.app/",
-      "pageUrl": "bud.app/",
-      "imageUrl": "https://pin.fontofweb.com/9131?format=jpg",
-      "colors": [
-        "#c4c4c4",
-        "#fefefe",
-        "#e1d3ad",
-        "#f7f7f7",
-        "#323232",
-        "#d6b375",
-        "#ffffff",
-        "#c16921"
-      ],
-      "fonts": [
-        "Circular"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Recurring spacing: **4, 8, 12, 16, 24, 32, 40** px with larger section gaps (96–120+). Layout is a centered marketing column with:
+- Top nav + wordmark
+- Hero copy left / media right or stacked
+- Multi-column feature and pricing grids
+- Soft card separation rather than hard rules
 
-## Representative captures
-[![Bud | The AI Agent With Its Own Computer](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/pin/9134)
-[Bud | The AI Agent With Its Own Computer](https://design.withfudge.com/pin/9134) — [source page](https://bud.app/replays/c1920c6c-6e6b-4cd2-9553-e8861e6097ef)
+## Visual language
+- Radii mostly **20–24px** (pill-ish cards); avoid sharp rectangles
+- Borders: **1–2px solid** light neutral
+- Shadows: very subtle (`0 1px 2px`) or flat; elevation is mostly border + fill
+- Product UI mockups sit inside rounded frames on the warm canvas
+- No heavy gradients in the chrome
 
-[![Pricing - Bud](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/pin/9133)
-[Pricing - Bud](https://design.withfudge.com/pin/9133) — [source page](https://bud.app/pricing)
+## Components and states
+- **Primary button**: solid black, white label, rounded
+- **Text links / accents**: gold
+- **Pricing cards**: large rounded containers, clear plan hierarchy, numeric emphasis
+- **Nav**: sparse text links, minimal iconography
+- **Replay/detail views**: denser product chrome still on the same neutrals
 
-[![Pricing - Bud](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/pin/9132)
-[Pricing - Bud](https://design.withfudge.com/pin/9132) — [source page](https://bud.app/pricing)
+## Responsive behavior
+Captures share ~1712×1314 viewport across home, pricing, and a replay URL. True breakpoint behavior is not multi-width documented; keep fluid cards that stack.
 
-[![Bud - Your AI Worker](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/pin/9131)
-[Bud - Your AI Worker](https://design.withfudge.com/pin/9131) — [source page](https://bud.app/)
+## Practical guidance
+**Preserve**
+- Warm paper background + black type + single gold accent
+- Large rounded card language
+- Screenshot-forward heroes
+- Medium-weight UI type (500–600) for controls
+
+**Avoid**
+- Cold blue SaaS defaults
+- Multiple competing accent hues
+- Harsh 0-radius panels
+- Tiny dense admin type on marketing surfaces
+
+## Scope note
+Pages studied: `/`, `/pricing` (two captures), and one replay detail. Color roles measured on pricing; type families undeclared.
+
+## Captured pages
+
+[![Home — AI worker hero](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/share/pin-9131)
+
+[Home — AI worker hero](https://design.withfudge.com/share/pin-9131)
+
+[![Pricing — plans and comparison](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/share/pin-9133)
+
+[Pricing — plans and comparison](https://design.withfudge.com/share/pin-9133)
+
+[![Pricing — alternate capture](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/share/pin-9132)
+
+[Pricing — alternate capture](https://design.withfudge.com/share/pin-9132)
+
+[![Replay detail](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/share/pin-9134)
+
+[Replay detail](https://design.withfudge.com/share/pin-9134)
+
+## Colors
+
+- `#000000`
+- `#b8860b`
+- `#f7f4ef`
+- `#ffffff`
+- `#e7e2d9`
