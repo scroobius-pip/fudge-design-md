@@ -1,203 +1,98 @@
 # How api-dashboard.search.brave.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/api-dashboard.search.brave.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/api-dashboard.search.brave.com-design)
 
-Source domain: [api-dashboard.search.brave.com](https://api-dashboard.search.brave.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-05-23
+## Design character
 
-<!--
-coverPin: 9446
--->
+Brave’s Search API dashboard is a **utilitarian developer console**: light gray application background, white content panels, left navigation, tables and key management, and soft lavender/blue accent chips. Brand personality is present but subordinated to clarity—keys, plans, and status must be obvious.
 
-Here is the visual system observed across **5 captured pages** from [api-dashboard.search.brave.com](https://api-dashboard.search.brave.com).
+What should survive adaptation:
+- Light app shell with white work surfaces
+- Left nav + main content pattern
+- Soft blue/lavender accents (`#b2c3ff`-range) rather than neon
+- Dense tables and forms with calm borders (`#e4e4e5`, `#c9c9ca`)
 
-```fudge-colors
-[
-  "#e4e4e5",
-  "#141415",
-  "#1c1c1d",
-  "#909093",
-  "#303032",
-  "#fafafb",
-  "#464649",
-  "#252527",
-  "#c9c9ca",
-  "#b2c3ff",
-  "#1f1f23",
-  "#f2f2f3",
-  "#000000",
-  "#ffffff",
-  "#212848",
-  "#7c91ff"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from api-dashboard.search.brave.com",
-  "sampleText": "api-dashboard.search.brave.com",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 9446,
-      "domain": "api-dashboard.search.brave.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22px",
-      "letterSpacing": "normal",
-      "frequency": 4895
-    },
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9445,
-      "domain": "api-dashboard.search.brave.com",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 33
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 54 |
-| Spacing values | 493 |
-| Borders and radii | 43 |
-| Shadows | 0 |
-| Gradients | 0 |
+Measured swatches seen across pages: `#b2c3ff`, `#e4e4e5`, `#909093`, `#c9c9ca`. Neutrals dominate; accents highlight selection, badges, and primary actions. Text is dark on white; secondary labels mute to mid gray (`#909093`).
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9446,
-      "title": "Brave Search - API",
-      "domain": "api-dashboard.search.brave.com/app/subscriptions/subscribe",
-      "pageUrl": "api-dashboard.search.brave.com/app/subscriptions/subscribe",
-      "imageUrl": "https://pin.fontofweb.com/9446?format=jpg",
-      "colors": [
-        "#212848",
-        "#464649",
-        "#303032",
-        "#b2c3ff",
-        "#1c1c1d",
-        "#1a1b1d",
-        "#838384",
-        "#141415"
-      ],
-      "fonts": [
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9445,
-      "title": "Brave Search - API",
-      "domain": "api-dashboard.search.brave.com/app/keys",
-      "pageUrl": "api-dashboard.search.brave.com/app/keys",
-      "imageUrl": "https://pin.fontofweb.com/9445?format=jpg",
-      "colors": [
-        "#1a1a1a",
-        "#646465",
-        "#aebdf4",
-        "#fcfcfc",
-        "#ffffff",
-        "#3e3e3f",
-        "#39393b",
-        "#212848"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9444,
-      "title": "Brave Search - API",
-      "domain": "api-dashboard.search.brave.com/app/subscriptions/subscribe",
-      "pageUrl": "api-dashboard.search.brave.com/app/subscriptions/subscribe",
-      "imageUrl": "https://pin.fontofweb.com/9444?format=jpg",
-      "colors": [
-        "#e4e4e5",
-        "#000000",
-        "#191919",
-        "#1b2139",
-        "#141415",
-        "#1f1f23",
-        "#303032",
-        "#c9c9ca"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9443,
-      "title": "Brave Search - API",
-      "domain": "api-dashboard.search.brave.com/app/dashboard",
-      "pageUrl": "api-dashboard.search.brave.com/app/dashboard",
-      "imageUrl": "https://pin.fontofweb.com/9443?format=jpg",
-      "colors": [
-        "#838384",
-        "#141415",
-        "#909093",
-        "#535353",
-        "#b2c3ff",
-        "#c9c9ca",
-        "#39393b",
-        "#303032"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 9442,
-      "title": "Brave Search - API",
-      "domain": "api-dashboard.search.brave.com/verify-account",
-      "pageUrl": "api-dashboard.search.brave.com/verify-account",
-      "imageUrl": "https://pin.fontofweb.com/9442?format=jpg",
-      "colors": [
-        "#afb9e0",
-        "#b2c3ff",
-        "#1c1c1d",
-        "#c9c9ca",
-        "#909093",
-        "#141415",
-        "#303032",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Inter"
-      ]
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Brave Search - API](https://pin.fontofweb.com/9446?format=jpg)](https://design.withfudge.com/pin/9446)
-[Brave Search - API](https://design.withfudge.com/pin/9446) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+Observed text styles:
+- **text**: unknown, weight 400, 14px, lh 22px
+- **text**: unknown, weight 400, 20px
+- **text**: unknown, weight 600, 12px, lh 18px
+- **text**: unknown, weight 600, 22px, lh 28px
+- **text**: unknown, weight 400, 12px, lh 18px
+- **text**: unknown, weight 600, 14px, lh 22px
+- **text**: unknown, weight 600, 12px, lh 20px
+- **text**: unknown, weight 600, 12px, lh 20px
+- **text**: unknown, weight 600, 12px, lh 18px
+- **text**: unknown, weight 600, 12px, lh 18px
+- **text**: unknown, weight 600, 12px, lh 18px
+- **text**: unknown, weight 400, 14px, lh 22px
 
-[![Brave Search - API](https://pin.fontofweb.com/9445?format=jpg)](https://design.withfudge.com/pin/9445)
-[Brave Search - API](https://design.withfudge.com/pin/9445) — [source page](https://api-dashboard.search.brave.com/app/keys)
+Compact UI sans for nav, tables, and forms. Page titles medium weight; cell text smaller; mono may appear for key strings. No marketing display serif inside the console.
 
-[![Brave Search - API](https://pin.fontofweb.com/9444?format=jpg)](https://design.withfudge.com/pin/9444)
-[Brave Search - API](https://design.withfudge.com/pin/9444) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+### Spacing and layout
 
-[![Brave Search - API](https://pin.fontofweb.com/9443?format=jpg)](https://design.withfudge.com/pin/9443)
-[Brave Search - API](https://design.withfudge.com/pin/9443) — [source page](https://api-dashboard.search.brave.com/app/dashboard)
+Recurring spacing measurements include 8px, 24px, 64px, 170px. Dashboard padding is regular; tables consume primary width; side nav is narrow and persistent on desktop. Observed corner radii include 10px, 12px, 16px, 24px, 1000px.
 
-[![Brave Search - API](https://pin.fontofweb.com/9442?format=jpg)](https://design.withfudge.com/pin/9442)
-[Brave Search - API](https://design.withfudge.com/pin/9442) — [source page](https://api-dashboard.search.brave.com/verify-account)
+## Visual language
+
+Hairline borders, modest radii, quiet chips, minimal shadow. Empty states should be instructional, not illustrative posters. Avoid heavy gradients in the app chrome.
+
+## Components and states
+
+- Left navigation (dashboard, keys, subscriptions, etc.)
+- Top page title + primary actions (Create key, Subscribe)
+- Data tables and key rows
+- Plan/subscribe panels
+- Verify-account and other status screens
+- Form fields with calm focus rings
+
+## Responsive behavior
+
+Desktop captures (~1712px). On narrower widths collapse the left nav and keep tables horizontally scrollable rather than crushing columns into illegibility.
+
+## Practical guidance
+
+**Preserve** console clarity, soft accent chips, bordered white panels, table-first IA.  
+**Avoid** marketing-hero theatrics inside authenticated tools; avoid dark neon that hurts long-form admin readability.
+
+## Scope note
+
+Studied 5 page captures on paths /app/dashboard, /app/keys, /app/subscriptions/subscribe, /verify-account. Some structural families were incomplete on these pages. Dashboard, keys, subscribe, and verify-account routes were studied.
+
+## Captured pages
+
+[![Brave Search - API](https://pin.fontofweb.com/9446?format=jpg)](https://design.withfudge.com/share/pin-9446)
+
+[Brave Search - API](https://design.withfudge.com/share/pin-9446)
+
+[![Brave Search - API](https://pin.fontofweb.com/9445?format=jpg)](https://design.withfudge.com/share/pin-9445)
+
+[Brave Search - API](https://design.withfudge.com/share/pin-9445)
+
+[![Brave Search - API](https://pin.fontofweb.com/9443?format=jpg)](https://design.withfudge.com/share/pin-9443)
+
+[Brave Search - API](https://design.withfudge.com/share/pin-9443)
+
+[![Brave Search - API](https://pin.fontofweb.com/9442?format=jpg)](https://design.withfudge.com/share/pin-9442)
+
+[Brave Search - API](https://design.withfudge.com/share/pin-9442)
+
+[![Brave Search - API](https://pin.fontofweb.com/9444?format=jpg)](https://design.withfudge.com/share/pin-9444)
+
+[Brave Search - API](https://design.withfudge.com/share/pin-9444)
+
+## Colors
+
+- `#b2c3ff`
+- `#e4e4e5`
+- `#909093`
+- `#c9c9ca`

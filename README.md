@@ -164,6 +164,14 @@ AOL’s homepage is a **loud-friendly consumer portal**: a saturated yellow head
 
 [Open guide](design-md/aol.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aol.com-design)
 
+### api-dashboard.search.brave.com
+
+[![How api-dashboard.search.brave.com is designed](https://pin.fontofweb.com/9446?format=jpg)](design-md/api-dashboard.search.brave.com.md)
+
+Brave’s Search API dashboard is a **utilitarian developer console**: light gray application background, white content panels, left navigation, tables and key management, and soft lavender/blue accent chips. Brand personality is present but subordinated to clarity—keys, plans, and status must be obvious.
+
+[Open guide](design-md/api-dashboard.search.brave.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/api-dashboard.search.brave.com-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
