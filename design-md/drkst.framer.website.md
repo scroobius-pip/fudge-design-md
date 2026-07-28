@@ -1,128 +1,71 @@
 # How drkst.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/drkst.framer.website-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/drkst.framer.website-design)
 
-Source domain: [drkst.framer.website](https://drkst.framer.website)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-22
+## Design character
 
-<!--
-coverPin: 9029
--->
+Drkst® reads as a **compact Framer-built studio/portfolio**—focused, contemporary, and light on chrome. Captures show a short marketing stack rather than a long enterprise narrative: identity up front, concise sections, and UI rounding in the **5–10px** range that feels app-like without heavy skeuomorphism.
 
-Here is the visual system observed across **2 captured pages** from [drkst.framer.website](https://drkst.framer.website).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#f2f2f2",
-  "#030303",
-  "#0000ee",
-  "#5d5d5d",
-  "#838383",
-  "#101010",
-  "#fefefe",
-  "#323232",
-  "#a6a6a5",
-  "#ffffff",
-  "#090909",
-  "#c8c8c8",
-  "#373737",
-  "#777777",
-  "#9e9e9e"
-]
-```
+- Tight, modern corner radius (5–10px)
+- Concise portfolio pacing
+- Strong wordmark/identity presence
+- Framer-smooth marketing sections without clutter
 
-```fudge-font-usage
-{
-  "title": "Typography captured from drkst.framer.website",
-  "sampleText": "drkst.framer.website",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9029,
-      "domain": "drkst.framer.website",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 34
-    },
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 9029,
-      "domain": "drkst.framer.website",
-      "weight": "400",
-      "size": "25px",
-      "lineHeight": "22.5px",
-      "letterSpacing": "-1.25px",
-      "frequency": 1
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 17 |
-| Spacing values | 2 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9029,
-      "title": "Drkst®",
-      "domain": "drkst.framer.website/",
-      "pageUrl": "drkst.framer.website/",
-      "imageUrl": "https://pin.fontofweb.com/9029?format=jpg",
-      "colors": [
-        "#030303",
-        "#5d5d5d",
-        "#0000ee",
-        "#838383",
-        "#101010",
-        "#000000",
-        "#fefefe",
-        "#f2f2f2"
-      ],
-      "fonts": [
-        "System",
-        "Inter"
-      ]
-    },
-    {
-      "pinId": 5589,
-      "title": "Drkst®",
-      "domain": "drkst.framer.website/",
-      "pageUrl": "drkst.framer.website/",
-      "imageUrl": "https://pin.fontofweb.com/5589?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#090909",
-        "#c8c8c8",
-        "#373737",
-        "#777777",
-        "#9e9e9e",
-        "#585858"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+Measured role hexes were not returned. Read canvas/accent from the pins when adapting; do not invent a multi-stop brand deck. Maintain clear primary text contrast on the chosen field.
 
-## Representative captures
-[![Drkst®](https://pin.fontofweb.com/9029?format=jpg)](https://design.withfudge.com/pin/9029)
-[Drkst®](https://design.withfudge.com/pin/9029) — [source page](https://drkst.framer.website/)
+### Typography
 
-[![Drkst®](https://pin.fontofweb.com/5589?format=jpg)](https://design.withfudge.com/pin/5589)
-[Drkst®](https://design.withfudge.com/pin/5589) — [source page](https://drkst.framer.website/)
+Declared families unknown. Expect a contemporary geometric sans common to Framer portfolios: confident hero line, smaller supporting labels. Keep hierarchy shallow—few sizes, clear weight steps.
+
+### Spacing and layout
+
+Radii **5** and **10**. Layout is home-only in this set, with a relatively short vertical story (one capture is only ~431px tall). Prefer tight sectioning over sprawling whitespace essays.
+
+## Visual language
+
+- Modern studio minimalism
+- Soft small-radius cards/buttons
+- Likely strong typographic logo treatment (Drkst®)
+
+## Components and states
+
+- Top identity/nav
+- Hero statement
+- Following concise sections/CTAs
+
+Interaction details beyond stills are not established.
+
+## Practical guidance
+
+**Preserve**
+
+- Small-radius modern chrome
+- Short, sharp portfolio narrative
+- Identity-led header
+
+**Avoid**
+
+- Overbuilding into a bloated multi-page corporate kit from two home frames
+- Large 24px+ bubbly radii that fight the tighter system
+
+## Scope note
+
+Two home captures (pins 9029, 5589). Color roles and declared fonts unsupported in structured output; treat as a compact Framer portfolio reference.
+
+## Captured pages
+
+[![Home — primary studio view](https://pin.fontofweb.com/9029?format=jpg)](https://design.withfudge.com/share/pin-9029)
+
+[Home — primary studio view](https://design.withfudge.com/share/pin-9029)
+
+[![Home — short crop](https://pin.fontofweb.com/5589?format=jpg)](https://design.withfudge.com/share/pin-5589)
+
+[Home — short crop](https://design.withfudge.com/share/pin-5589)

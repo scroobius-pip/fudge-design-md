@@ -572,6 +572,14 @@ Dosu sells **knowledge infrastructure for agents and humans** with a distinctive
 
 [Open guide](design-md/dosu.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/dosu.dev-design)
 
+### drkst.framer.website
+
+[![How drkst.framer.website is designed](https://pin.fontofweb.com/9029?format=jpg)](design-md/drkst.framer.website.md)
+
+Drkst® reads as a **compact Framer-built studio/portfolio**—focused, contemporary, and light on chrome. Captures show a short marketing stack rather than a long enterprise narrative: identity up front, concise sections, and UI rounding in the **5–10px** range that feels app-like without heavy skeuomorphism.
+
+[Open guide](design-md/drkst.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/drkst.framer.website-design)
+
 ### earth.google.com
 
 [![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
