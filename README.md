@@ -100,6 +100,14 @@ Agently markets an agent platform with a **dark, product-forward SaaS** look: de
 
 [Open guide](design-md/agently.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/agently.dev-design)
 
+### ai-sdk.dev
+
+[![How ai-sdk.dev is designed](https://pin.fontofweb.com/8393?format=jpg)](design-md/ai-sdk.dev.md)
+
+AI SDK (Vercel) is a **developer documentation-marketing hybrid on pure black**. The page opens with a huge centered white headline, quiet gray deck, monochrome nav, and a dual teaching device: a dark code terminal beside a chat transcript. Accents appear as soft status colors in code (pink/green strings) and occasional green (`#62c073`) or pink (`#f75f8f`) category accents—never as a loud marketing rainbow. It feels like Vercel’s OSS craft: minimal, precise, dark, and code-real.
+
+[Open guide](design-md/ai-sdk.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai-sdk.dev-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/7285?format=jpg)](design-md/aiverse.design.md)
