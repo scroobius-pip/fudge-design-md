@@ -950,7 +950,8 @@ YouWorkForThem is a long-running creative marketplace that treats the **chrome a
 <tr><td width="50%" valign="top"><a href="design-md/hellotiana.framer.website.md"><img src="https://pin.fontofweb.com/9054?format=jpg" alt="How hellotiana.framer.website is designed" width="360"></a><br><strong>hellotiana.framer.website</strong><br>Substantial design guide for hellotiana.framer.website.<br><a href="design-md/hellotiana.framer.website.md">Open guide</a> · <a href="https://design.withfudge.com/share/hellotiana.framer.website-design">Open Fudge conversation</a></td>
 <tr><td width="50%" valign="top"><a href="design-md/inceptionlabs.ai.md"><img src="https://pin.fontofweb.com/8042?format=jpg" alt="How inceptionlabs.ai is designed" width="360"></a><br><strong>inceptionlabs.ai</strong><br>Substantial design guide for inceptionlabs.ai.<br><a href="design-md/inceptionlabs.ai.md">Open guide</a> · <a href="https://design.withfudge.com/share/inceptionlabs.ai-design">Open Fudge conversation</a></td>
 <tr><td width="50%" valign="top"><a href="design-md/inngest.com.md"><img src="https://pin.fontofweb.com/7556?format=jpg" alt="How inngest.com is designed" width="360"></a><br><strong>inngest.com</strong><br>Substantial design guide for inngest.com.<br><a href="design-md/inngest.com.md">Open guide</a> · <a href="https://design.withfudge.com/share/inngest.com-design">Open Fudge conversation</a></td>
-<!-- DESIGN_MD_INDEX_END -->
+
+<tr><td width="50%" valign="top"><a href="design-md/classy.md.md"><img src="https://pin.fontofweb.com/10089?format=jpg" alt="How classy.md is designed" width="360"></a><br><strong>classy.md</strong><br>Substantial design guide for classy.md.<br><a href="design-md/classy.md.md">Open guide</a> · <a href="https://design.withfudge.com/share/classy.md-design">Open Fudge conversation</a></td><!-- DESIGN_MD_INDEX_END -->
 
 ## Use a guide
 
