@@ -244,6 +244,14 @@ Endl is a confident fintech marketing site built on white space, vivid blue bran
 
 [Open guide](design-md/endl.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/endl.io-design)
 
+### ente.com
+
+[![How ente.com is designed](https://pin.fontofweb.com/8463?format=jpg)](design-md/ente.com.md)
+
+Ente is a bright, privacy-forward consumer product site: pure white canvas, charcoal UI chrome, and a vivid green accent reserved for trust moments (“Safe home”, encrypted badges). Photography of real people sits in softly rounded tiles—warm, human, and uncluttered.
+
+[Open guide](design-md/ente.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ente.com-design)
+
 ### fastino.ai
 
 [![How fastino.ai is designed](https://pin.fontofweb.com/9733?format=jpg)](design-md/fastino.ai.md)

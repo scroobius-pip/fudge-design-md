@@ -1,337 +1,100 @@
 # How ente.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/ente.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/ente.com-design)
 
-Source domain: [ente.com](https://ente.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-28
+# How ente.com is designed
 
-<!--
-coverPin: 8463
--->
+## Design character
 
-Here is the visual system observed across **11 captured pages** from [ente.com](https://ente.com).
+Ente is a bright, privacy-forward consumer product site: pure white canvas, charcoal UI chrome, and a vivid green accent reserved for trust moments (“Safe home”, encrypted badges). Photography of real people sits in softly rounded tiles—warm, human, and uncluttered.
 
-```fudge-colors
-[
-  "#000000",
-  "#282828",
-  "#ffffff",
-  "#f5f5f7",
-  "#f0f0f0",
-  "#969696",
-  "#08c225",
-  "#232323",
-  "#364153",
-  "#2c2c2c",
-  "#222222",
-  "#2d2d2d",
-  "#cadcde",
-  "#256b8d",
-  "#212321",
-  "#726760"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from ente.com",
-  "sampleText": "ente.com",
-  "fonts": [
-    {
-      "family": "Gilroy",
-      "familyId": 2408,
-      "pinId": 8463,
-      "domain": "ente.com",
-      "weight": "400",
-      "size": "17px",
-      "lineHeight": "25.5px",
-      "letterSpacing": "normal",
-      "frequency": 684
-    },
-    {
-      "family": "Gilroy W 00",
-      "familyId": 2409,
-      "pinId": 8463,
-      "domain": "ente.com",
-      "weight": "500",
-      "size": "14.875px",
-      "lineHeight": "21.25px",
-      "letterSpacing": "normal",
-      "frequency": 12
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 11 |
-| Colors | 105 |
-| Spacing values | 79 |
-| Borders and radii | 24 |
-| Shadows | 4 |
-| Gradients | 4 |
+- **Canvas:** white
+- **Ink / UI:** near-black charcoal for wordmark, nav, primary pills
+- **Accent green:** saturated green on key headline words and encrypted affordances
+- **Secondary surfaces:** light gray ghost buttons and soft card fills
+- **Imagery:** full-color lifestyle photos inside rounded frames
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8463,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8463?format=jpg",
-      "colors": [
-        "#2c2c2c",
-        "#ffffff",
-        "#000000",
-        "#cadcde",
-        "#256b8d",
-        "#212321",
-        "#726760",
-        "#b0775d"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8385,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8385?format=jpg",
-      "colors": [
-        "#af806b",
-        "#1c465b",
-        "#634c40",
-        "#232421",
-        "#f5f5f7",
-        "#3f80a4",
-        "#b5c5ca",
-        "#2a6528"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8384,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8384?format=jpg",
-      "colors": [
-        "#232423",
-        "#facc16",
-        "#ddfcd6",
-        "#282828",
-        "#232323",
-        "#7f7c7a",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8383,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8383?format=jpg",
-      "colors": [
-        "#40542a",
-        "#282828",
-        "#f6f6f6",
-        "#3bc817",
-        "#322d29",
-        "#91acb6",
-        "#916e55",
-        "#1c66be"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8382,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8382?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#b3b3b3",
-        "#f9f9fa",
-        "#2e2f2e",
-        "#6a6c6c",
-        "#0fc60c",
-        "#dffacf",
-        "#000000"
-      ],
-      "fonts": [
-        "Gilroy W 00",
-        "Gilroy"
-      ]
-    },
-    {
-      "pinId": 8381,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8381?format=jpg",
-      "colors": [
-        "#000000",
-        "#f5f6f7",
-        "#f4db4e",
-        "#10100f",
-        "#56bd40",
-        "#555655",
-        "#38652e",
-        "#a0a19f"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8380,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8380?format=jpg",
-      "colors": [
-        "#282726",
-        "#745c27",
-        "#f1cf47",
-        "#f2962f",
-        "#757ef2",
-        "#69696b",
-        "#282828",
-        "#000000"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8379,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8379?format=jpg",
-      "colors": [
-        "#555b6c",
-        "#386831",
-        "#282828",
-        "#a3a3a3",
-        "#ed2c26",
-        "#000000",
-        "#ffffff",
-        "#f5f5f7"
-      ],
-      "fonts": [
-        "Gilroy"
-      ]
-    },
-    {
-      "pinId": 8378,
-      "title": "Ente Photos: Store and share your photos with absolute privacy",
-      "domain": "ente.com/",
-      "pageUrl": "ente.com/",
-      "imageUrl": "https://pin.fontofweb.com/8378?format=jpg",
-      "colors": [
-        "#f8f8f9",
-        "#aeefae",
-        "#ffffff",
-        "#f0f0f0",
-        "#282828",
-        "#939393",
-        "#000000",
-        "#14c610"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8377,
-      "title": "Ensu",
-      "domain": "ente.com/ensu",
-      "pageUrl": "ente.com/ensu",
-      "imageUrl": "https://pin.fontofweb.com/8377?format=jpg",
-      "colors": [
-        "#fcfcfc",
-        "#ceced1",
-        "#000000",
-        "#f5f5f7",
-        "#ffffff",
-        "#364153",
-        "#010101",
-        "#999ca1"
-      ],
-      "fonts": [
-        "Gilroy",
-        "Gilroy W 00"
-      ]
-    },
-    {
-      "pinId": 8376,
-      "title": "Ensu - Ente's Local LLM app",
-      "domain": "ente.com/blog/ensu/",
-      "pageUrl": "ente.com/blog/ensu/",
-      "imageUrl": "https://pin.fontofweb.com/8376?format=jpg",
-      "colors": [
-        "#969696",
-        "#000000",
-        "#f3da4f",
-        "#ffffff",
-        "#63c94c",
-        "#5b6e2e",
-        "#5c5b5a",
-        "#18b098"
-      ],
-      "fonts": [
-        "Gilroy"
-      ]
-    }
-  ]
-}
-```
+Green signals safety; black handles structure; photos supply emotion.
 
-## Representative captures
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8463?format=jpg)](https://design.withfudge.com/pin/8463)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8463) — [source page](https://ente.com/)
+### Typography
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8385?format=jpg)](https://design.withfudge.com/pin/8385)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8385) — [source page](https://ente.com/)
+- Marketing body ~17/25.5 weight 400
+- Emphasis / UI ~14.9–21px weights 500–600
+- Large hero display pairing green + black lines
+- Clean geometric sans overall; family name not captured
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8384?format=jpg)](https://design.withfudge.com/pin/8384)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8384) — [source page](https://ente.com/)
+### Spacing and layout
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8383?format=jpg)](https://design.withfudge.com/pin/8383)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8383) — [source page](https://ente.com/)
+- Tight control padding (~4–17px) around nav actions
+- Section gaps with ~68px top margins in places
+- Radii: large pill values for primary buttons; ~17–34px on photo tiles
+- Centered hero with floating photo row beneath CTAs
+- Logo/press row in muted grayscale
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8382?format=jpg)](https://design.withfudge.com/pin/8382)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8382) — [source page](https://ente.com/)
+## Visual language
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8381?format=jpg)](https://design.withfudge.com/pin/8381)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8381) — [source page](https://ente.com/)
+- White void with floating photo cards (soft shadow, rounded rects)
+- Pill primary (filled black) + ghost secondary
+- Green only in meaningful trust copy/marks
+- Device mockups lower on the page with green edge accents
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8380?format=jpg)](https://design.withfudge.com/pin/8380)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8380) — [source page](https://ente.com/)
+## Components and states
 
-[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8379?format=jpg)](https://design.withfudge.com/pin/8379)
-[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8379) — [source page](https://ente.com/)
+- Top nav: wordmark, text links, social proof chip, Sign up pill
+- Hero headline with dual CTAs
+- Overlapping photo/encryption cards
+- Press logo strip
+- Feature sections and download prompts further down
+
+## Responsive behavior
+
+Multiple home crops from ~1076–1912px wide. Hero stacks and photo row reflow; exact mobile breakpoints not captured.
+
+## Practical guidance
+
+**Preserve**
+
+- White canvas, black pills, green trust accent only
+- Softly rounded photo tiles as the visual hero
+- Short headline with one green phrase
+
+**Avoid**
+
+- Dark encrypted-cyber clichés
+- Rainbow gradients or purple AI tropes
+- Crowding the hero with feature grids above the photos
+
+## Scope note
+
+Eight home captures at varied widths. Spacing/radius partially measured; font families and full color roles limited—screenshot-informed palette.
+
+## Captured pages
+
+[![Home hero wide](https://pin.fontofweb.com/8463?format=jpg)](https://design.withfudge.com/share/pin-8463)
+
+[Home hero wide](https://design.withfudge.com/share/pin-8463)
+
+[![Home full scroll crop](https://pin.fontofweb.com/8385?format=jpg)](https://design.withfudge.com/share/pin-8385)
+
+[Home full scroll crop](https://design.withfudge.com/share/pin-8385)
+
+[![Mid-width home](https://pin.fontofweb.com/8382?format=jpg)](https://design.withfudge.com/share/pin-8382)
+
+[Mid-width home](https://design.withfudge.com/share/pin-8382)
+
+[![Narrower home](https://pin.fontofweb.com/8380?format=jpg)](https://design.withfudge.com/share/pin-8380)
+
+[Narrower home](https://design.withfudge.com/share/pin-8380)
+
+## Colors
+
+- `#ffffff`
+- `#0a0a0a`
+- `#16a34a`
+- `#f4f4f5`
