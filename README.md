@@ -180,6 +180,14 @@ Brevo’s app surfaces are a **professional marketing-automation console**: ligh
 
 [Open guide](design-md/app.brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
+### app.paper.design
+
+[![How app.paper.design is designed](https://pin.fontofweb.com/8569?format=jpg)](design-md/app.paper.design.md)
+
+Paper’s app home is a **bright, disciplined file OS** for design work. It feels closer to a modern creative Finder than to a SaaS marketing dashboard: white stage, hairline structure, compact type, and almost no ornamental color. The UI is deliberately small and calm so documents—not chrome—become the product.
+
+[Open guide](design-md/app.paper.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.paper.design-design)
+
 ### app.superdesign.dev
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
