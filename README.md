@@ -60,6 +60,14 @@ Autogram presents as a **calm, airy personal-OS product**: a near-white stage, n
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
 
+### cavalry.studio
+
+[![How cavalry.studio is designed](https://pin.fontofweb.com/8893?format=jpg)](design-md/cavalry.studio.md)
+
+Cavalry presents itself as a **professional 2D motion tool that markets like a premium creative app**: near-black full-bleed canvases, oversized white headlines, and a single electric purple used sparingly for primary actions. The product UI itself becomes the hero art—timeline panels, node graphs, and viewport chrome sit behind or beside marketing copy rather than being illustrated abstractly.
+
+[Open guide](design-md/cavalry.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/cavalry.studio-design)
+
 ### cobe.vercel.app
 
 [![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)

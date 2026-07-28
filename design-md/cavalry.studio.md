@@ -1,247 +1,133 @@
 # How cavalry.studio is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cavalry.studio-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cavalry.studio-design)
 
-Source domain: [cavalry.studio](https://cavalry.studio)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-16
+## Design character
 
-<!--
-coverPin: 8899
--->
+Cavalry presents itself as a **professional 2D motion tool that markets like a premium creative app**: near-black full-bleed canvases, oversized white headlines, and a single electric purple used sparingly for primary actions. The product UI itself becomes the hero art—timeline panels, node graphs, and viewport chrome sit behind or beside marketing copy rather than being illustrated abstractly.
 
-Here is the visual system observed across **7 captured pages** from [cavalry.studio](https://cavalry.studio).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#6437ff",
-  "#ffff00",
-  "#fffeff",
-  "#4a4a4b",
-  "#f0f0f0",
-  "#33644c",
-  "#7a7a7a",
-  "#a7a9a8",
-  "#1b1b1b",
-  "#cccbcd",
-  "#949494",
-  "#ac94ed",
-  "#5c5c5c",
-  "#6337fd"
-]
-```
+- A **dark, high-contrast shell** where interface chrome stays quiet and type/CTA carry the brand.
+- **One vivid accent** (purple) reserved for primary downloads and key interactive moments.
+- **Product-screenshot-as-hero** composition: real tool surfaces, not stock metaphor imagery.
+- Soft, modern rounding on buttons and cards without going fully pill-shaped everywhere.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cavalry.studio",
-  "sampleText": "cavalry.studio",
-  "fonts": [
-    {
-      "family": "Canva Sans",
-      "familyId": 1664,
-      "pinId": 8899,
-      "domain": "cavalry.studio",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "22px",
-      "letterSpacing": "normal",
-      "frequency": 302
-    },
-    {
-      "family": "Arial",
-      "familyId": 2088,
-      "pinId": 8899,
-      "domain": "cavalry.studio",
-      "weight": "600",
-      "size": "18px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 7 |
-| Colors | 52 |
-| Spacing values | 37 |
-| Borders and radii | 16 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8899,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8899?format=jpg",
-      "colors": [
-        "#000000",
-        "#4a4a4b",
-        "#f0f0f0",
-        "#33644c",
-        "#7a7a7a",
-        "#a7a9a8",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Canva Sans",
-        "Arial"
-      ]
-    },
-    {
-      "pinId": 8898,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8898?format=jpg",
-      "colors": [
-        "#1b1b1b",
-        "#cccbcd",
-        "#000000",
-        "#949494",
-        "#ac94ed",
-        "#5c5c5c",
-        "#ffffff",
-        "#6337fd"
-      ],
-      "fonts": [
-        "Canva Sans"
-      ]
-    },
-    {
-      "pinId": 8897,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8897?format=jpg",
-      "colors": [
-        "#6437ff",
-        "#c7a7e6",
-        "#c3c3c2",
-        "#fffeff",
-        "#fdfd11",
-        "#6b45e3",
-        "#acc573",
-        "#4c504a"
-      ],
-      "fonts": [
-        "Canva Sans",
-        "Arial"
-      ]
-    },
-    {
-      "pinId": 8896,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8896?format=jpg",
-      "colors": [
-        "#ffffff",
-        "#bda8ee",
-        "#e4d5f9",
-        "#fefefe",
-        "#151515",
-        "#000000",
-        "#957cde",
-        "#6437ff"
-      ],
-      "fonts": [
-        "Canva Sans"
-      ]
-    },
-    {
-      "pinId": 8895,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8895?format=jpg",
-      "colors": [
-        "#c8c8c8",
-        "#a0a0a0",
-        "#484848",
-        "#6c6c6c",
-        "#f8f8f8",
-        "#ffffff",
-        "#000000"
-      ],
-      "fonts": [
-        "Canva Sans"
-      ]
-    },
-    {
-      "pinId": 8894,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8894?format=jpg",
-      "colors": [
-        "#6439fd",
-        "#fcfcfc",
-        "#c9c5d5",
-        "#aa97e0",
-        "#6437ff",
-        "#ceda37",
-        "#ffffff",
-        "#201842"
-      ],
-      "fonts": [
-        "Canva Sans",
-        "Arial"
-      ]
-    },
-    {
-      "pinId": 8893,
-      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
-      "domain": "cavalry.studio/en/",
-      "pageUrl": "cavalry.studio/en/",
-      "imageUrl": "https://pin.fontofweb.com/8893?format=jpg",
-      "colors": [
-        "#b47cea",
-        "#000000",
-        "#f1eef0",
-        "#ffff00",
-        "#ffffff",
-        "#6437ff",
-        "#f6f61c",
-        "#6337fc"
-      ],
-      "fonts": [
-        "Canva Sans",
-        "Arial"
-      ]
-    }
-  ]
-}
-```
+Measured roles and visual reading of the home captures:
 
-## Representative captures
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8899?format=jpg)](https://design.withfudge.com/pin/8899)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8899) — [source page](https://cavalry.studio/en/)
+| Role | Value | Notes |
+|------|-------|-------|
+| Canvas / page | near `#0a0a0a`–`#111111` | Continuous dark field |
+| Primary text | `#ffffff` | Headlines and key UI labels |
+| Accent / primary CTA | `#6437ff` | Solid filled buttons (“Download Free”) |
+| Secondary surfaces | charcoal panels slightly above canvas | Nested product chrome |
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8898?format=jpg)](https://design.withfudge.com/pin/8898)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8898) — [source page](https://cavalry.studio/en/)
+Secondary labels and muted body copy read as light gray on dark (visual). Do not invent a large rainbow palette—the system is essentially monochrome + one accent.
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8897?format=jpg)](https://design.withfudge.com/pin/8897)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8897) — [source page](https://cavalry.studio/en/)
+### Typography
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8896?format=jpg)](https://design.withfudge.com/pin/8896)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8896) — [source page](https://cavalry.studio/en/)
+Declared font families were not captured. Visually and by measured sizes, the hierarchy is a clean **geometric sans** stack:
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8895?format=jpg)](https://design.withfudge.com/pin/8895)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8895) — [source page](https://cavalry.studio/en/)
+- Display / hero: ~**64px**, weight 400, tight line-height (~70px) — short marketing lines
+- Section heads: ~**32px**, 400–600
+- Subheads / lead: ~**21–24px**
+- Body / UI: ~**14–16px**, 400–600, ~22–24px line-height
+- Small labels: ~**13–14px**
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8894?format=jpg)](https://design.withfudge.com/pin/8894)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8894) — [source page](https://cavalry.studio/en/)
+Weight jumps (400 → 600) matter more than size jumps for mid-level emphasis. Tracking stays neutral.
 
-[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8893?format=jpg)](https://design.withfudge.com/pin/8893)
-[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/pin/8893) — [source page](https://cavalry.studio/en/)
+### Spacing and layout
+
+Recurring measurements:
+
+- Section vertical padding often **80px**, with tighter **24–40px** blocks inside
+- Horizontal content padding ~**40px** (sometimes 16–24px in denser strips)
+- Side margins around **212px** on wide captures (centered content column)
+- Small stack gaps **8–16px** between label groups
+
+Layout is a classic marketing scroll: hero → feature sections → product proof, single column with full-width media.
+
+## Visual language
+
+- **Radii:** buttons and cards cluster around **16–22px** (occasional 24px). Friendly but still “tool,” not consumer-playful.
+- **Borders:** 1px solid edges appear on panels and chrome separators.
+- **Shadows:** not a defining layer; depth comes from value contrast and overlapping product screenshots.
+- **Imagery:** live product UI (timelines, graphs, 3D/2D viewports). Screenshots are large, slightly perspectival or layered, never cropped into tiny icons only.
+- **Motion:** not established from stills; the brand implies motion through tool content, not decorative UI animation claims.
+
+## Components and states
+
+Recurring UI:
+
+1. **Primary pill CTA** — solid `#6437ff`, white label, generous horizontal padding, ~16–22px radius.
+2. **Text nav** — small white/gray links in a slim top bar; logo left, actions right.
+3. **Hero stack** — eyebrow or short line → massive headline → supporting sentence → CTA row.
+4. **Feature sections** — large title + paragraph + product still; alternating emphasis.
+5. **Card grids** — rounded containers (~16px) for feature or template groups.
+
+Only resting/default states are visible; hover/focus were not captured.
+
+## Responsive behavior
+
+Captures span roughly **1425–1712px** widths on the same `/en/` path. The system stays single-column marketing with centered content; side margins shrink as width drops. No separate mobile breakpoint captures were in this set—do not invent phone layouts.
+
+## Practical guidance
+
+**Preserve**
+
+- Dark canvas + white type + single purple CTA
+- Product UI as primary imagery
+- Large display type with restrained body sizes
+- Soft 16–22px rounding on interactive chrome
+
+**Avoid**
+
+- Multi-color gradients as brand chrome
+- Light-mode default without a deliberate dual theme
+- Sharp zero-radius enterprise cards that fight the product’s softer UI
+- Crowding the hero with more than one strong accent color
+
+## Scope note
+
+Studied seven home captures of `https://cavalry.studio/en/` at desktop widths. Color roles, spacing, radii, and borders were measured; declared type families, palette swatches, and true multi-page IA were not available. Inner docs/pricing pages were not in the set.
+
+## Captured pages
+
+[![Home hero — purple CTA over tool UI](https://pin.fontofweb.com/8893?format=jpg)](https://design.withfudge.com/share/pin-8893)
+
+[Home hero — purple CTA over tool UI](https://design.withfudge.com/share/pin-8893)
+
+[![Home — mid-page features](https://pin.fontofweb.com/8894?format=jpg)](https://design.withfudge.com/share/pin-8894)
+
+[Home — mid-page features](https://design.withfudge.com/share/pin-8894)
+
+[![Home — capability strip](https://pin.fontofweb.com/8895?format=jpg)](https://design.withfudge.com/share/pin-8895)
+
+[Home — capability strip](https://design.withfudge.com/share/pin-8895)
+
+[![Home — rounded cards ~16px](https://pin.fontofweb.com/8896?format=jpg)](https://design.withfudge.com/share/pin-8896)
+
+[Home — rounded cards ~16px](https://design.withfudge.com/share/pin-8896)
+
+[![Home — wider section pad](https://pin.fontofweb.com/8897?format=jpg)](https://design.withfudge.com/share/pin-8897)
+
+[Home — wider section pad](https://design.withfudge.com/share/pin-8897)
+
+[![Home — product detail](https://pin.fontofweb.com/8898?format=jpg)](https://design.withfudge.com/share/pin-8898)
+
+[Home — product detail](https://design.withfudge.com/share/pin-8898)
+
+## Colors
+
+- `#0a0a0a`
+- `#111111`
+- `#ffffff`
+- `#6437ff`
+- `#1a1a1a`
+- `#2a2a2a`
