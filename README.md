@@ -772,6 +772,14 @@ Groq’s marketing site is **fast, airy, and hardware-confident**. It pairs a wa
 
 [Open guide](design-md/groq.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/groq.com-design)
 
+### hermes4.nousresearch.com
+
+[![How hermes4.nousresearch.com is designed](https://pin.fontofweb.com/7872?format=jpg)](design-md/hermes4.nousresearch.com.md)
+
+Hermes 4 (hermes4.nousresearch.com) is a **research-lab model showcase** staged as a split-screen observatory: left rail of monospace system-prompt documentation, right stage a **deep-space neural constellation** with floating chat theater. The mood is black-void, cinematic, and slightly hostile-intellectual — magenta or amber filament graphs, white role chips, and translucent message bubbles that read like intercepted transmissions.
+
+[Open guide](design-md/hermes4.nousresearch.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/hermes4.nousresearch.com-design)
+
 ### impeccable.style
 
 [![How impeccable.style is designed](https://pin.fontofweb.com/9917?format=jpg)](design-md/impeccable.style.md)
