@@ -60,6 +60,14 @@ Autogram presents as a **calm, airy personal-OS product**: a near-white stage, n
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
 
+### bengalturf.yolasite.com
+
+[![How bengalturf.yolasite.com is designed](https://pin.fontofweb.com/9475?format=jpg)](design-md/bengalturf.yolasite.com.md)
+
+Bengal Turf is a **local lawn-and-landscape brochure site** on a classic Yola template: one solid olive-green field, a light green “glass” title banner, a black strip of simple text tabs, and a centered two-column body that pairs one garden photo with short service copy. It reads like a neighborhood contractor card more than a modern marketing site—trust, phone-first CTA, and service list over polish.
+
+[Open guide](design-md/bengalturf.yolasite.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/bengalturf.yolasite.com-design)
+
 ### c82.net
 
 [![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)
