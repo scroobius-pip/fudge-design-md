@@ -20,6 +20,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
+### acoup.blog
+
+[![How acoup.blog is designed](https://pin.fontofweb.com/9511?format=jpg)](design-md/acoup.blog.md)
+
+A Collection of Unmitigated Pedantry is a long-form history blog that dresses like a quiet museum gallery after hours. The interface is almost entirely **dark charcoal** with **dusty rose / mauve** accents, so the eye rests on serif article titles and archival imagery rather than on chrome. The site feels scholarly, slightly old-world, and deliberately slow: large type, long line lengths, and a two-column reading frame that never hurries the reader.
+
+[Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
