@@ -6,6 +6,10 @@ Source domain: [elih.net](https://elih.net)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 10001
+-->
+
 Here is the visual system observed across **1 captured page** from [elih.net](https://elih.net).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [elih.net](ht
 }
 ```
 
-## References
-- [Eli Heuer | Eli Heuer](https://design.withfudge.com/pin/10001) — [source page](https://elih.net/)
+## Representative captures
+[![Eli Heuer | Eli Heuer](https://pin.fontofweb.com/10001?format=jpg)](https://design.withfudge.com/pin/10001)
+[Eli Heuer | Eli Heuer](https://design.withfudge.com/pin/10001) — [source page](https://elih.net/)

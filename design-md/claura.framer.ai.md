@@ -6,6 +6,10 @@ Source domain: [claura.framer.ai](https://claura.framer.ai)
 
 Last updated: 2026-03-16
 
+<!--
+coverPin: 8122
+-->
+
 Here is the visual system observed across **3 captured pages** from [claura.framer.ai](https://claura.framer.ai).
 
 ```fudge-colors
@@ -155,7 +159,12 @@ Here is the visual system observed across **3 captured pages** from [claura.fram
 }
 ```
 
-## References
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8122) — [source page](https://claura.framer.ai/)
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8121) — [source page](https://claura.framer.ai/)
-- [Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8120) — [source page](https://claura.framer.ai/)
+## Representative captures
+[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8122?format=jpg)](https://design.withfudge.com/pin/8122)
+[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8122) — [source page](https://claura.framer.ai/)
+
+[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8121?format=jpg)](https://design.withfudge.com/pin/8121)
+[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8121) — [source page](https://claura.framer.ai/)
+
+[![Claura - AI Agency Website Template for Framer](https://pin.fontofweb.com/8120?format=jpg)](https://design.withfudge.com/pin/8120)
+[Claura - AI Agency Website Template for Framer](https://design.withfudge.com/pin/8120) — [source page](https://claura.framer.ai/)

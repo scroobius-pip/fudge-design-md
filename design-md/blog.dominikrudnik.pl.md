@@ -6,6 +6,10 @@ Source domain: [blog.dominikrudnik.pl](https://blog.dominikrudnik.pl)
 
 Last updated: 2026-03-22
 
+<!--
+coverPin: 8232
+-->
+
 Here is the visual system observed across **1 captured page** from [blog.dominikrudnik.pl](https://blog.dominikrudnik.pl).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [blog.dominik
 }
 ```
 
-## References
-- [Qikcik Blog](https://design.withfudge.com/pin/8232) — [source page](https://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
+## Representative captures
+[![Qikcik Blog](https://pin.fontofweb.com/8232?format=jpg)](https://design.withfudge.com/pin/8232)
+[Qikcik Blog](https://design.withfudge.com/pin/8232) — [source page](https://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)

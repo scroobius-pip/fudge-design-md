@@ -6,6 +6,10 @@ Source domain: [stacks.co](https://stacks.co)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7976
+-->
+
 Here is the visual system observed across **3 captured pages** from [stacks.co](https://stacks.co).
 
 ```fudge-colors
@@ -154,7 +158,12 @@ Here is the visual system observed across **3 captured pages** from [stacks.co](
 }
 ```
 
-## References
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7976) — [source page](https://stacks.co/explore/ecosystem)
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7975) — [source page](https://stacks.co/explore/ecosystem)
-- [Stacks Ecosystem](https://design.withfudge.com/pin/7974) — [source page](https://stacks.co/explore/ecosystem)
+## Representative captures
+[![Stacks Ecosystem](https://pin.fontofweb.com/7976?format=jpg)](https://design.withfudge.com/pin/7976)
+[Stacks Ecosystem](https://design.withfudge.com/pin/7976) — [source page](https://stacks.co/explore/ecosystem)
+
+[![Stacks Ecosystem](https://pin.fontofweb.com/7975?format=jpg)](https://design.withfudge.com/pin/7975)
+[Stacks Ecosystem](https://design.withfudge.com/pin/7975) — [source page](https://stacks.co/explore/ecosystem)
+
+[![Stacks Ecosystem](https://pin.fontofweb.com/7974?format=jpg)](https://design.withfudge.com/pin/7974)
+[Stacks Ecosystem](https://design.withfudge.com/pin/7974) — [source page](https://stacks.co/explore/ecosystem)

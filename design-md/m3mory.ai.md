@@ -6,6 +6,10 @@ Source domain: [m3mory.ai](https://m3mory.ai)
 
 Last updated: 2026-04-28
 
+<!--
+coverPin: 9135
+-->
+
 Here is the visual system observed across **1 captured page** from [m3mory.ai](https://m3mory.ai).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [m3mory.ai](h
 }
 ```
 
-## References
-- [m3mory - Long-term memory for AI agents](https://design.withfudge.com/pin/9135) — [source page](https://m3mory.ai/)
+## Representative captures
+[![m3mory - Long-term memory for AI agents](https://pin.fontofweb.com/9135?format=jpg)](https://design.withfudge.com/pin/9135)
+[m3mory - Long-term memory for AI agents](https://design.withfudge.com/pin/9135) — [source page](https://m3mory.ai/)

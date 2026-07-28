@@ -6,6 +6,10 @@ Source domain: [domains.cloudflare.com](https://domains.cloudflare.com)
 
 Last updated: 2026-03-24
 
+<!--
+coverPin: 8323
+-->
+
 Here is the visual system observed across **1 captured page** from [domains.cloudflare.com](https://domains.cloudflare.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [domains.clou
 }
 ```
 
-## References
-- [Search and register available domain names | Cloudflare Registrar](https://design.withfudge.com/pin/8323) — [source page](https://domains.cloudflare.com/)
+## Representative captures
+[![Search and register available domain names | Cloudflare Registrar](https://pin.fontofweb.com/8323?format=jpg)](https://design.withfudge.com/pin/8323)
+[Search and register available domain names | Cloudflare Registrar](https://design.withfudge.com/pin/8323) — [source page](https://domains.cloudflare.com/)

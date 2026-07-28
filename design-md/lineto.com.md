@@ -6,6 +6,10 @@ Source domain: [lineto.com](https://lineto.com)
 
 Last updated: 2026-06-21
 
+<!--
+coverPin: 9731
+-->
+
 Here is the visual system observed across **4 captured pages** from [lineto.com](https://lineto.com).
 
 ```fudge-colors
@@ -204,8 +208,15 @@ Here is the visual system observed across **4 captured pages** from [lineto.com]
 }
 ```
 
-## References
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9731) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9730) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9729) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
-- [Moonbase Var — Lineto.com](https://design.withfudge.com/pin/9728) — [source page](https://lineto.com/login)
+## Representative captures
+[![Moonbase Var Alpha — Lineto.com](https://pin.fontofweb.com/9731?format=jpg)](https://design.withfudge.com/pin/9731)
+[Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9731) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+
+[![Moonbase Var Alpha — Lineto.com](https://pin.fontofweb.com/9730?format=jpg)](https://design.withfudge.com/pin/9730)
+[Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9730) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+
+[![Moonbase Var Alpha — Lineto.com](https://pin.fontofweb.com/9729?format=jpg)](https://design.withfudge.com/pin/9729)
+[Moonbase Var Alpha — Lineto.com](https://design.withfudge.com/pin/9729) — [source page](https://lineto.com/typefaces/moonbase-var/technical)
+
+[![Moonbase Var — Lineto.com](https://pin.fontofweb.com/9728?format=jpg)](https://design.withfudge.com/pin/9728)
+[Moonbase Var — Lineto.com](https://design.withfudge.com/pin/9728) — [source page](https://lineto.com/login)

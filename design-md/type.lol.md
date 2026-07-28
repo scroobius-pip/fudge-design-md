@@ -6,6 +6,10 @@ Source domain: [type.lol](https://type.lol)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7462
+-->
+
 Here is the visual system observed across **9 captured pages** from [type.lol](https://type.lol).
 
 ```fudge-colors
@@ -264,12 +268,27 @@ Here is the visual system observed across **9 captured pages** from [type.lol](h
 }
 ```
 
-## References
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7462) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7461) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7460) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7459) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7458) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7457) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7456) — [source page](https://type.lol/)
-- [Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7455) — [source page](https://type.lol/)
+## Representative captures
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7462?format=jpg)](https://design.withfudge.com/pin/7462)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7462) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7461?format=jpg)](https://design.withfudge.com/pin/7461)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7461) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7460?format=jpg)](https://design.withfudge.com/pin/7460)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7460) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7459?format=jpg)](https://design.withfudge.com/pin/7459)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7459) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7458?format=jpg)](https://design.withfudge.com/pin/7458)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7458) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7457?format=jpg)](https://design.withfudge.com/pin/7457)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7457) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7456?format=jpg)](https://design.withfudge.com/pin/7456)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7456) — [source page](https://type.lol/)
+
+[![Type.lol - Independent Type Foundry Index](https://pin.fontofweb.com/7455?format=jpg)](https://design.withfudge.com/pin/7455)
+[Type.lol - Independent Type Foundry Index](https://design.withfudge.com/pin/7455) — [source page](https://type.lol/)

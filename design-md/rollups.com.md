@@ -6,6 +6,10 @@ Source domain: [rollups.com](https://rollups.com)
 
 Last updated: 2026-01-20
 
+<!--
+coverPin: 5928
+-->
+
 Here is the visual system observed across **12 captured pages** from [rollups.com](https://rollups.com).
 
 ```fudge-colors
@@ -339,12 +343,27 @@ Here is the visual system observed across **12 captured pages** from [rollups.co
 }
 ```
 
-## References
-- [Rollups | RUV](https://design.withfudge.com/pin/5928) — [source page](https://rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5927) — [source page](https://rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5926) — [source page](https://rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5925) — [source page](https://rollups.com/ruv)
-- [Rollups | RUV](https://design.withfudge.com/pin/5924) — [source page](https://rollups.com/ruv)
-- [Rollups](https://design.withfudge.com/pin/5923) — [source page](https://rollups.com/)
-- [Rollups](https://design.withfudge.com/pin/5922) — [source page](https://rollups.com/)
-- [Rollups](https://design.withfudge.com/pin/5921) — [source page](https://rollups.com/)
+## Representative captures
+[![Rollups | RUV](https://pin.fontofweb.com/5928?format=jpg)](https://design.withfudge.com/pin/5928)
+[Rollups | RUV](https://design.withfudge.com/pin/5928) — [source page](https://rollups.com/ruv)
+
+[![Rollups | RUV](https://pin.fontofweb.com/5927?format=jpg)](https://design.withfudge.com/pin/5927)
+[Rollups | RUV](https://design.withfudge.com/pin/5927) — [source page](https://rollups.com/ruv)
+
+[![Rollups | RUV](https://pin.fontofweb.com/5926?format=jpg)](https://design.withfudge.com/pin/5926)
+[Rollups | RUV](https://design.withfudge.com/pin/5926) — [source page](https://rollups.com/ruv)
+
+[![Rollups | RUV](https://pin.fontofweb.com/5925?format=jpg)](https://design.withfudge.com/pin/5925)
+[Rollups | RUV](https://design.withfudge.com/pin/5925) — [source page](https://rollups.com/ruv)
+
+[![Rollups | RUV](https://pin.fontofweb.com/5924?format=jpg)](https://design.withfudge.com/pin/5924)
+[Rollups | RUV](https://design.withfudge.com/pin/5924) — [source page](https://rollups.com/ruv)
+
+[![Rollups](https://pin.fontofweb.com/5923?format=jpg)](https://design.withfudge.com/pin/5923)
+[Rollups](https://design.withfudge.com/pin/5923) — [source page](https://rollups.com/)
+
+[![Rollups](https://pin.fontofweb.com/5922?format=jpg)](https://design.withfudge.com/pin/5922)
+[Rollups](https://design.withfudge.com/pin/5922) — [source page](https://rollups.com/)
+
+[![Rollups](https://pin.fontofweb.com/5921?format=jpg)](https://design.withfudge.com/pin/5921)
+[Rollups](https://design.withfudge.com/pin/5921) — [source page](https://rollups.com/)

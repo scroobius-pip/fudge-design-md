@@ -6,6 +6,10 @@ Source domain: [warp.dev](https://warp.dev)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6774
+-->
+
 Here is the visual system observed across **25 captured pages** from [warp.dev](https://warp.dev).
 
 ```fudge-colors
@@ -339,12 +343,27 @@ Here is the visual system observed across **25 captured pages** from [warp.dev](
 }
 ```
 
-## References
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6774) — [source page](https://warp.dev/)
-- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6773) — [source page](https://warp.dev/pricing)
-- [Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6772) — [source page](https://warp.dev/pricing)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6771) — [source page](https://warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6770) — [source page](https://warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6769) — [source page](https://warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6768) — [source page](https://warp.dev/)
-- [Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6767) — [source page](https://warp.dev/)
+## Representative captures
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6774?format=jpg)](https://design.withfudge.com/pin/6774)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6774) — [source page](https://warp.dev/)
+
+[![Warp Pricing: Terminal, Agents & Cloud Platform](https://pin.fontofweb.com/6773?format=jpg)](https://design.withfudge.com/pin/6773)
+[Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6773) — [source page](https://warp.dev/pricing)
+
+[![Warp Pricing: Terminal, Agents & Cloud Platform](https://pin.fontofweb.com/6772?format=jpg)](https://design.withfudge.com/pin/6772)
+[Warp Pricing: Terminal, Agents & Cloud Platform](https://design.withfudge.com/pin/6772) — [source page](https://warp.dev/pricing)
+
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6771?format=jpg)](https://design.withfudge.com/pin/6771)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6771) — [source page](https://warp.dev/)
+
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6770?format=jpg)](https://design.withfudge.com/pin/6770)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6770) — [source page](https://warp.dev/)
+
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6769?format=jpg)](https://design.withfudge.com/pin/6769)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6769) — [source page](https://warp.dev/)
+
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6768?format=jpg)](https://design.withfudge.com/pin/6768)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6768) — [source page](https://warp.dev/)
+
+[![Warp: The Agentic Development Environment](https://pin.fontofweb.com/6767?format=jpg)](https://design.withfudge.com/pin/6767)
+[Warp: The Agentic Development Environment](https://design.withfudge.com/pin/6767) — [source page](https://warp.dev/)

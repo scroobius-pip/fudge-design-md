@@ -6,6 +6,10 @@ Source domain: [kit.com](https://kit.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7488
+-->
+
 Here is the visual system observed across **5 captured pages** from [kit.com](https://kit.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [kit.com](ht
 }
 ```
 
-## References
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7488) — [source page](https://kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7487) — [source page](https://kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7486) — [source page](https://kit.com/)
-- [Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7485) — [source page](https://kit.com/)
-- [Flexible Pricing Plans for Every Stage of Your Creator Business](https://design.withfudge.com/pin/5165) — [source page](https://kit.com/pricing)
+## Representative captures
+[![Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://pin.fontofweb.com/7488?format=jpg)](https://design.withfudge.com/pin/7488)
+[Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7488) — [source page](https://kit.com/)
+
+[![Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://pin.fontofweb.com/7487?format=jpg)](https://design.withfudge.com/pin/7487)
+[Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7487) — [source page](https://kit.com/)
+
+[![Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://pin.fontofweb.com/7486?format=jpg)](https://design.withfudge.com/pin/7486)
+[Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7486) — [source page](https://kit.com/)
+
+[![Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://pin.fontofweb.com/7485?format=jpg)](https://design.withfudge.com/pin/7485)
+[Kit: Automated Email Marketing & Newsletter Platform (formerly ConvertKit)](https://design.withfudge.com/pin/7485) — [source page](https://kit.com/)
+
+[![Flexible Pricing Plans for Every Stage of Your Creator Business](https://pin.fontofweb.com/5165?format=jpg)](https://design.withfudge.com/pin/5165)
+[Flexible Pricing Plans for Every Stage of Your Creator Business](https://design.withfudge.com/pin/5165) — [source page](https://kit.com/pricing)

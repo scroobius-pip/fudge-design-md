@@ -6,6 +6,10 @@ Source domain: [point.free](https://point.free)
 
 Last updated: 2026-06-01
 
+<!--
+coverPin: 9492
+-->
+
 Here is the visual system observed across **1 captured page** from [point.free](https://point.free).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [point.free](
 }
 ```
 
-## References
-- [A 10 year old Xeon is all you need - point.free](https://design.withfudge.com/pin/9492) — [source page](https://point.free/blog/gemma-4-on-a-2016-xeon/)
+## Representative captures
+[![A 10 year old Xeon is all you need - point.free](https://pin.fontofweb.com/9492?format=jpg)](https://design.withfudge.com/pin/9492)
+[A 10 year old Xeon is all you need - point.free](https://design.withfudge.com/pin/9492) — [source page](https://point.free/blog/gemma-4-on-a-2016-xeon/)

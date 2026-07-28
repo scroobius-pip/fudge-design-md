@@ -6,6 +6,10 @@ Source domain: [google.com](https://google.com)
 
 Last updated: 2026-04-07
 
+<!--
+coverPin: 8713
+-->
+
 Here is the visual system observed across **9 captured pages** from [google.com](https://google.com).
 
 ```fudge-colors
@@ -241,12 +245,27 @@ Here is the visual system observed across **9 captured pages** from [google.com]
 }
 ```
 
-## References
-- [Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed except one who jumped from the walls on his horse and fled :”D - Google Search](https://design.withfudge.com/pin/8713) — [source page](https://google.com/search)
-- [Google Search](https://design.withfudge.com/pin/6925) — [source page](https://google.com/search)
-- [Google Search](https://design.withfudge.com/pin/6604) — [source page](https://google.com/search)
-- [Google Search](https://design.withfudge.com/pin/5849) — [source page](https://google.com/search)
-- [images - Google Search](https://design.withfudge.com/pin/5375) — [source page](https://google.com/search)
-- [gradient pricing cards - Google Search](https://design.withfudge.com/pin/5177) — [source page](https://google.com/search)
-- [Google](https://design.withfudge.com/pin/3993) — [source page](https://google.com/webhp)
-- [navicate - Google Search](https://design.withfudge.com/pin/3247) — [source page](https://google.com/search)
+## Representative captures
+[![Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed except one who jumped from the walls on his horse and fled :”D - Google Search](https://pin.fontofweb.com/8713?format=jpg)](https://design.withfudge.com/pin/8713)
+[Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed except one who jumped from the walls on his horse and fled :”D - Google Search](https://design.withfudge.com/pin/8713) — [source page](https://google.com/search)
+
+[![Google Search](https://pin.fontofweb.com/6925?format=jpg)](https://design.withfudge.com/pin/6925)
+[Google Search](https://design.withfudge.com/pin/6925) — [source page](https://google.com/search)
+
+[![Google Search](https://pin.fontofweb.com/6604?format=jpg)](https://design.withfudge.com/pin/6604)
+[Google Search](https://design.withfudge.com/pin/6604) — [source page](https://google.com/search)
+
+[![Google Search](https://pin.fontofweb.com/5849?format=jpg)](https://design.withfudge.com/pin/5849)
+[Google Search](https://design.withfudge.com/pin/5849) — [source page](https://google.com/search)
+
+[![images - Google Search](https://pin.fontofweb.com/5375?format=jpg)](https://design.withfudge.com/pin/5375)
+[images - Google Search](https://design.withfudge.com/pin/5375) — [source page](https://google.com/search)
+
+[![gradient pricing cards - Google Search](https://pin.fontofweb.com/5177?format=jpg)](https://design.withfudge.com/pin/5177)
+[gradient pricing cards - Google Search](https://design.withfudge.com/pin/5177) — [source page](https://google.com/search)
+
+[![Google](https://pin.fontofweb.com/3993?format=jpg)](https://design.withfudge.com/pin/3993)
+[Google](https://design.withfudge.com/pin/3993) — [source page](https://google.com/webhp)
+
+[![navicate - Google Search](https://pin.fontofweb.com/3247?format=jpg)](https://design.withfudge.com/pin/3247)
+[navicate - Google Search](https://design.withfudge.com/pin/3247) — [source page](https://google.com/search)

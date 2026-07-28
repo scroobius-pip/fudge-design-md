@@ -1,4 +1,5 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
+import { isIP } from "node:net";
 import { basename, dirname } from "node:path";
 
 const origin = process.env.FUDGE_ORIGIN ?? "https://design.withfudge.com";
@@ -27,6 +28,9 @@ const safeDomain = (value) => {
     domain.includes("..")
   ) {
     throw new Error(`Invalid domain in sitemap: ${value}`);
+  }
+  if (isIP(domain) !== 0 || domain === "localhost" || domain.endsWith(".local")) {
+    throw new Error(`Non-public host in sitemap: ${value}`);
   }
   return domain;
 };
@@ -57,7 +61,13 @@ const domainsFromSitemap = (xml) => {
   for (const match of xml.matchAll(/<loc>([^<]+)<\/loc>/g)) {
     const url = new URL(decodeXml(match[1]));
     const canonical = url.pathname.match(/^\/conversation\/(.+)-design$/);
-    if (canonical) domains.add(safeDomain(decodeURIComponent(canonical[1])));
+    if (canonical) {
+      try {
+        domains.add(safeDomain(decodeURIComponent(canonical[1])));
+      } catch (error) {
+        if (!String(error.message).startsWith("Non-public host")) throw error;
+      }
+    }
   }
   return [...domains].sort((a, b) => a.localeCompare(b));
 };
@@ -73,12 +83,68 @@ const validateGuide = (markdown, domain) => {
   if (!markdown.includes(`${origin}/pin/`)) {
     throw new Error("missing captured-page reference");
   }
+  if (!markdown.includes("https://pin.fontofweb.com/")) {
+    throw new Error("missing representative capture image");
+  }
 };
 
 const titleFromGuide = (markdown, fallback) => {
   const title = markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
   return title || fallback;
 };
+
+const coverPinFromGuide = (markdown) => {
+  const explicit = markdown.match(
+    /^coverPin(?:Id)?:\s*["']?(\d+)["']?\s*$/m,
+  )?.[1];
+  const pinId = explicit ??
+    markdown.match(
+      /"pinId"\s*:\s*(\d+)[\s\S]*?"imageUrl"\s*:\s*"https:\/\/pin\.fontofweb\.com\/\1\?format=jpg"/,
+    )?.[1] ??
+    markdown.match(/https:\/\/pin\.fontofweb\.com\/(\d+)\?format=jpg/)?.[1];
+  if (!pinId) throw new Error("missing representative cover pin");
+  return {
+    pinId,
+    imageUrl: `https://pin.fontofweb.com/${pinId}?format=jpg`,
+    pinUrl: `${origin}/pin/${pinId}`,
+  };
+};
+
+const conversationUrlFromGuide = (markdown, domain) =>
+  markdown.match(
+    /\[Open the live Fudge conversation\]\((https:\/\/design\.withfudge\.com\/conversation\/[^)]+)\)/,
+  )?.[1] ?? `${origin}/conversation/${domain}-design`;
+
+const summaryFromGuide = (markdown, domain) => {
+  const explicit = markdown.match(/^summary:\s*["']?(.+?)["']?\s*$/m)?.[1];
+  if (explicit) return explicit;
+  const paragraphs = markdown
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+  const summary = paragraphs.find((paragraph) =>
+    !paragraph.startsWith("#") &&
+    !paragraph.startsWith("[Open the live") &&
+    !paragraph.startsWith("Source domain:") &&
+    !paragraph.startsWith("Last updated:") &&
+    !paragraph.startsWith("[![") &&
+    !paragraph.startsWith("|")
+  ) ?? `A visual design guide to ${domain}.`;
+  const plain = summary
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[*_`]/g, "")
+    .trim();
+  return plain.length > 180 ? `${plain.slice(0, 177).trimEnd()}…` : plain;
+};
+
+const escapeHtml = (value) =>
+  value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
 
 const updateReadmeIndex = async () => {
   const files = (await readdir(guideDir))
@@ -87,9 +153,19 @@ const updateReadmeIndex = async () => {
   const entries = [];
   for (const file of files) {
     const markdown = await readFile(new URL(file, guideDir), "utf8");
-    entries.push(
-      `- [${titleFromGuide(markdown, basename(file, ".md"))}](design-md/${file})`,
-    );
+    const domain = basename(file, ".md");
+    const title = titleFromGuide(markdown, domain);
+    const cover = coverPinFromGuide(markdown);
+    const summary = summaryFromGuide(markdown, domain);
+    const conversationUrl = conversationUrlFromGuide(markdown, domain);
+    entries.push({
+      html: [
+        `<a href="design-md/${file}"><img src="${cover.imageUrl}" alt="${escapeHtml(title)}" width="360"></a>`,
+        `<br><strong>${escapeHtml(domain)}</strong>`,
+        `<br>${escapeHtml(summary)}`,
+        `<br><a href="design-md/${file}">Open guide</a> · <a href="${conversationUrl}">Open Fudge conversation</a> · <a href="${cover.pinUrl}">View capture</a>`,
+      ].join(""),
+    });
   }
   const readme = await readFile(readmePath, "utf8");
   const start = readme.indexOf(indexStart);
@@ -98,7 +174,15 @@ const updateReadmeIndex = async () => {
     throw new Error("README guide index markers are missing");
   }
   const replacement = entries.length
-    ? entries.join("\n")
+    ? [
+        "<table>",
+        ...Array.from({ length: Math.ceil(entries.length / 2) }, (_, index) => {
+          const left = entries[index * 2]?.html ?? "";
+          const right = entries[index * 2 + 1]?.html ?? "";
+          return `<tr><td width="50%" valign="top">${left}</td><td width="50%" valign="top">${right}</td></tr>`;
+        }),
+        "</table>",
+      ].join("\n")
     : "The first guides will appear after the initial production sync.";
   const updated = `${readme.slice(0, start + indexStart.length)}\n${replacement}\n${readme.slice(end)}`;
   if (updated !== readme) await writeFile(readmePath, updated);

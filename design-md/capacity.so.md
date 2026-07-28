@@ -6,6 +6,10 @@ Source domain: [capacity.so](https://capacity.so)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7716
+-->
+
 Here is the visual system observed across **6 captured pages** from [capacity.so](https://capacity.so).
 
 ```fudge-colors
@@ -203,10 +207,21 @@ Here is the visual system observed across **6 captured pages** from [capacity.so
 }
 ```
 
-## References
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7716) — [source page](https://capacity.so/clone-website-ai)
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7715) — [source page](https://capacity.so/clone-website-ai)
-- [Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7714) — [source page](https://capacity.so/clone-website-ai)
-- [AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://design.withfudge.com/pin/7713) — [source page](https://capacity.so/mvp-builder)
-- [Pick the plan that fits your needs - Capacity](https://design.withfudge.com/pin/7712) — [source page](https://capacity.so/pricing)
-- [Capacity - Turn that idea you had in mind into a website](https://design.withfudge.com/pin/7415) — [source page](https://capacity.so/)
+## Representative captures
+[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7716?format=jpg)](https://design.withfudge.com/pin/7716)
+[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7716) — [source page](https://capacity.so/clone-website-ai)
+
+[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7715?format=jpg)](https://design.withfudge.com/pin/7715)
+[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7715) — [source page](https://capacity.so/clone-website-ai)
+
+[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7714?format=jpg)](https://design.withfudge.com/pin/7714)
+[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/pin/7714) — [source page](https://capacity.so/clone-website-ai)
+
+[![AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://pin.fontofweb.com/7713?format=jpg)](https://design.withfudge.com/pin/7713)
+[AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://design.withfudge.com/pin/7713) — [source page](https://capacity.so/mvp-builder)
+
+[![Pick the plan that fits your needs - Capacity](https://pin.fontofweb.com/7712?format=jpg)](https://design.withfudge.com/pin/7712)
+[Pick the plan that fits your needs - Capacity](https://design.withfudge.com/pin/7712) — [source page](https://capacity.so/pricing)
+
+[![Capacity - Turn that idea you had in mind into a website](https://pin.fontofweb.com/7415?format=jpg)](https://design.withfudge.com/pin/7415)
+[Capacity - Turn that idea you had in mind into a website](https://design.withfudge.com/pin/7415) — [source page](https://capacity.so/)

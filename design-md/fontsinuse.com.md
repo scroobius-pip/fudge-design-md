@@ -6,6 +6,10 @@ Source domain: [fontsinuse.com](https://fontsinuse.com)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6844
+-->
+
 Here is the visual system observed across **4 captured pages** from [fontsinuse.com](https://fontsinuse.com).
 
 ```fudge-colors
@@ -174,8 +178,15 @@ Here is the visual system observed across **4 captured pages** from [fontsinuse.
 }
 ```
 
-## References
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6844) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6843) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6842) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
-- [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6841) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+## Representative captures
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6844?format=jpg)](https://design.withfudge.com/pin/6844)
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6844) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6843?format=jpg)](https://design.withfudge.com/pin/6843)
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6843) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6842?format=jpg)](https://design.withfudge.com/pin/6842)
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6842) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)
+
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6841?format=jpg)](https://design.withfudge.com/pin/6841)
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/pin/6841) — [source page](https://fontsinuse.com/uses/75265/bruket-fjellhamar)

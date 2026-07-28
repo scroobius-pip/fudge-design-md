@@ -6,6 +6,10 @@ Source domain: [firecrawl.dev](https://firecrawl.dev)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7576
+-->
+
 Here is the visual system observed across **16 captured pages** from [firecrawl.dev](https://firecrawl.dev).
 
 ```fudge-colors
@@ -321,12 +325,27 @@ Here is the visual system observed across **16 captured pages** from [firecrawl.
 }
 ```
 
-## References
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7576) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7575) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7574) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7573) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7572) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7571) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7570) — [source page](https://firecrawl.dev/agent)
-- [Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7569) — [source page](https://firecrawl.dev/agent)
+## Representative captures
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7576?format=jpg)](https://design.withfudge.com/pin/7576)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7576) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7575?format=jpg)](https://design.withfudge.com/pin/7575)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7575) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7574?format=jpg)](https://design.withfudge.com/pin/7574)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7574) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7573?format=jpg)](https://design.withfudge.com/pin/7573)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7573) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7572?format=jpg)](https://design.withfudge.com/pin/7572)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7572) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7571?format=jpg)](https://design.withfudge.com/pin/7571)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7571) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7570?format=jpg)](https://design.withfudge.com/pin/7570)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7570) — [source page](https://firecrawl.dev/agent)
+
+[![Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://pin.fontofweb.com/7569?format=jpg)](https://design.withfudge.com/pin/7569)
+[Agent - Gather Data Wherever It Lives on the Web | Firecrawl](https://design.withfudge.com/pin/7569) — [source page](https://firecrawl.dev/agent)

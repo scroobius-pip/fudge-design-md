@@ -6,6 +6,10 @@ Source domain: [catala-lang.org](https://catala-lang.org)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 9003
+-->
+
 Here is the visual system observed across **3 captured pages** from [catala-lang.org](https://catala-lang.org).
 
 ```fudge-colors
@@ -165,7 +169,12 @@ Here is the visual system observed across **3 captured pages** from [catala-lang
 }
 ```
 
-## References
-- [Features - Catala](https://design.withfudge.com/pin/9003) — [source page](https://catala-lang.org/en/features)
-- [Catala - Law to Code](https://design.withfudge.com/pin/9002) — [source page](https://catala-lang.org/en/)
-- [Catala - Law to Code](https://design.withfudge.com/pin/9001) — [source page](https://catala-lang.org/en/)
+## Representative captures
+[![Features - Catala](https://pin.fontofweb.com/9003?format=jpg)](https://design.withfudge.com/pin/9003)
+[Features - Catala](https://design.withfudge.com/pin/9003) — [source page](https://catala-lang.org/en/features)
+
+[![Catala - Law to Code](https://pin.fontofweb.com/9002?format=jpg)](https://design.withfudge.com/pin/9002)
+[Catala - Law to Code](https://design.withfudge.com/pin/9002) — [source page](https://catala-lang.org/en/)
+
+[![Catala - Law to Code](https://pin.fontofweb.com/9001?format=jpg)](https://design.withfudge.com/pin/9001)
+[Catala - Law to Code](https://design.withfudge.com/pin/9001) — [source page](https://catala-lang.org/en/)

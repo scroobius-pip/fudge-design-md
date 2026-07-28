@@ -6,6 +6,10 @@ Source domain: [eff.org](https://eff.org)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6965
+-->
+
 Here is the visual system observed across **1 captured page** from [eff.org](https://eff.org).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [eff.org](htt
 }
 ```
 
-## References
-- [Electronic Frontier Foundation | Defending your rights in the digital world](https://design.withfudge.com/pin/6965) — [source page](https://eff.org/)
+## Representative captures
+[![Electronic Frontier Foundation | Defending your rights in the digital world](https://pin.fontofweb.com/6965?format=jpg)](https://design.withfudge.com/pin/6965)
+[Electronic Frontier Foundation | Defending your rights in the digital world](https://design.withfudge.com/pin/6965) — [source page](https://eff.org/)

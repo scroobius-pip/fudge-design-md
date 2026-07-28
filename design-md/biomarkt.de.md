@@ -6,6 +6,10 @@ Source domain: [biomarkt.de](https://biomarkt.de)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8788
+-->
+
 Here is the visual system observed across **1 captured page** from [biomarkt.de](https://biomarkt.de).
 
 ```fudge-colors
@@ -89,5 +93,6 @@ Here is the visual system observed across **1 captured page** from [biomarkt.de]
 }
 ```
 
-## References
-- [Lebensmittelkunde: Spargel: Saison, Lagerung & Zubereitung | Denns BioMarkt | biomarkt.de](https://design.withfudge.com/pin/8788) — [source page](https://biomarkt.de/bio-wissen/lebensmittelkunde/spargel/)
+## Representative captures
+[![Lebensmittelkunde: Spargel: Saison, Lagerung & Zubereitung | Denns BioMarkt | biomarkt.de](https://pin.fontofweb.com/8788?format=jpg)](https://design.withfudge.com/pin/8788)
+[Lebensmittelkunde: Spargel: Saison, Lagerung & Zubereitung | Denns BioMarkt | biomarkt.de](https://design.withfudge.com/pin/8788) — [source page](https://biomarkt.de/bio-wissen/lebensmittelkunde/spargel/)

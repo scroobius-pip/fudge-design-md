@@ -6,6 +6,10 @@ Source domain: [scenery.io](https://scenery.io)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9012
+-->
+
 Here is the visual system observed across **12 captured pages** from [scenery.io](https://scenery.io).
 
 ```fudge-colors
@@ -307,12 +311,27 @@ Here is the visual system observed across **12 captured pages** from [scenery.io
 }
 ```
 
-## References
-- [Scenery - Spin Me Around](https://design.withfudge.com/pin/9012) — [source page](https://scenery.io/scenes/spin-me-around-fmpMmxFfvFU/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9011) — [source page](https://scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/9010) — [source page](https://scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7139) — [source page](https://scenery.io/)
-- [Scenery - The community for Cavalry](https://design.withfudge.com/pin/7138) — [source page](https://scenery.io/)
-- [Login to Scenery](https://design.withfudge.com/pin/7137) — [source page](https://scenery.io/login)
-- [Scenery](https://design.withfudge.com/pin/7136) — [source page](https://scenery.io/scenes/)
-- [Scenery Patrons](https://design.withfudge.com/pin/7135) — [source page](https://scenery.io/patrons/)
+## Representative captures
+[![Scenery - Spin Me Around](https://pin.fontofweb.com/9012?format=jpg)](https://design.withfudge.com/pin/9012)
+[Scenery - Spin Me Around](https://design.withfudge.com/pin/9012) — [source page](https://scenery.io/scenes/spin-me-around-fmpMmxFfvFU/)
+
+[![Scenery - The community for Cavalry](https://pin.fontofweb.com/9011?format=jpg)](https://design.withfudge.com/pin/9011)
+[Scenery - The community for Cavalry](https://design.withfudge.com/pin/9011) — [source page](https://scenery.io/)
+
+[![Scenery - The community for Cavalry](https://pin.fontofweb.com/9010?format=jpg)](https://design.withfudge.com/pin/9010)
+[Scenery - The community for Cavalry](https://design.withfudge.com/pin/9010) — [source page](https://scenery.io/)
+
+[![Scenery - The community for Cavalry](https://pin.fontofweb.com/7139?format=jpg)](https://design.withfudge.com/pin/7139)
+[Scenery - The community for Cavalry](https://design.withfudge.com/pin/7139) — [source page](https://scenery.io/)
+
+[![Scenery - The community for Cavalry](https://pin.fontofweb.com/7138?format=jpg)](https://design.withfudge.com/pin/7138)
+[Scenery - The community for Cavalry](https://design.withfudge.com/pin/7138) — [source page](https://scenery.io/)
+
+[![Login to Scenery](https://pin.fontofweb.com/7137?format=jpg)](https://design.withfudge.com/pin/7137)
+[Login to Scenery](https://design.withfudge.com/pin/7137) — [source page](https://scenery.io/login)
+
+[![Scenery](https://pin.fontofweb.com/7136?format=jpg)](https://design.withfudge.com/pin/7136)
+[Scenery](https://design.withfudge.com/pin/7136) — [source page](https://scenery.io/scenes/)
+
+[![Scenery Patrons](https://pin.fontofweb.com/7135?format=jpg)](https://design.withfudge.com/pin/7135)
+[Scenery Patrons](https://design.withfudge.com/pin/7135) — [source page](https://scenery.io/patrons/)

@@ -6,6 +6,10 @@ Source domain: [polymarket.com](https://polymarket.com)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8585
+-->
+
 Here is the visual system observed across **3 captured pages** from [polymarket.com](https://polymarket.com).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [polymarket.
 }
 ```
 
-## References
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8585) — [source page](https://polymarket.com/)
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8584) — [source page](https://polymarket.com/)
-- [Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8583) — [source page](https://polymarket.com/)
+## Representative captures
+[![Polymarket | The World's Largest Prediction Market™](https://pin.fontofweb.com/8585?format=jpg)](https://design.withfudge.com/pin/8585)
+[Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8585) — [source page](https://polymarket.com/)
+
+[![Polymarket | The World's Largest Prediction Market™](https://pin.fontofweb.com/8584?format=jpg)](https://design.withfudge.com/pin/8584)
+[Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8584) — [source page](https://polymarket.com/)
+
+[![Polymarket | The World's Largest Prediction Market™](https://pin.fontofweb.com/8583?format=jpg)](https://design.withfudge.com/pin/8583)
+[Polymarket | The World's Largest Prediction Market™](https://design.withfudge.com/pin/8583) — [source page](https://polymarket.com/)

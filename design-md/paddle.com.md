@@ -6,6 +6,10 @@ Source domain: [paddle.com](https://paddle.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6765
+-->
+
 Here is the visual system observed across **7 captured pages** from [paddle.com](https://paddle.com).
 
 ```fudge-colors
@@ -222,11 +226,24 @@ Here is the visual system observed across **7 captured pages** from [paddle.com]
 }
 ```
 
-## References
-- [Pricing | Paddle](https://design.withfudge.com/pin/6765) — [source page](https://paddle.com/pricing)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6750) — [source page](https://paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6749) — [source page](https://paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6748) — [source page](https://paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6747) — [source page](https://paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6746) — [source page](https://paddle.com/)
-- [Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6745) — [source page](https://paddle.com/)
+## Representative captures
+[![Pricing | Paddle](https://pin.fontofweb.com/6765?format=jpg)](https://design.withfudge.com/pin/6765)
+[Pricing | Paddle](https://design.withfudge.com/pin/6765) — [source page](https://paddle.com/pricing)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6750?format=jpg)](https://design.withfudge.com/pin/6750)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6750) — [source page](https://paddle.com/)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6749?format=jpg)](https://design.withfudge.com/pin/6749)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6749) — [source page](https://paddle.com/)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6748?format=jpg)](https://design.withfudge.com/pin/6748)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6748) — [source page](https://paddle.com/)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6747?format=jpg)](https://design.withfudge.com/pin/6747)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6747) — [source page](https://paddle.com/)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6746?format=jpg)](https://design.withfudge.com/pin/6746)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6746) — [source page](https://paddle.com/)
+
+[![Paddle - Subscription Billing Software for SaaS & Apps](https://pin.fontofweb.com/6745?format=jpg)](https://design.withfudge.com/pin/6745)
+[Paddle - Subscription Billing Software for SaaS & Apps](https://design.withfudge.com/pin/6745) — [source page](https://paddle.com/)

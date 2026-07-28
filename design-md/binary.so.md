@@ -6,6 +6,10 @@ Source domain: [binary.so](https://binary.so)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7683
+-->
+
 Here is the visual system observed across **3 captured pages** from [binary.so](https://binary.so).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [binary.so](
 }
 ```
 
-## References
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7683) — [source page](https://binary.so/)
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7682) — [source page](https://binary.so/)
-- [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7681) — [source page](https://binary.so/)
+## Representative captures
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/pin/7683)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7683) — [source page](https://binary.so/)
+
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/pin/7682)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7682) — [source page](https://binary.so/)
+
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/pin/7681)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/pin/7681) — [source page](https://binary.so/)

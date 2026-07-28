@@ -6,6 +6,10 @@ Source domain: [demo.refero.design](https://demo.refero.design)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7786
+-->
+
 Here is the visual system observed across **2 captured pages** from [demo.refero.design](https://demo.refero.design).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [demo.refero
 }
 ```
 
-## References
-- [Refero Research](https://design.withfudge.com/pin/7786) — [source page](https://demo.refero.design/)
-- [Refero Research](https://design.withfudge.com/pin/7776) — [source page](https://demo.refero.design/)
+## Representative captures
+[![Refero Research](https://pin.fontofweb.com/7786?format=jpg)](https://design.withfudge.com/pin/7786)
+[Refero Research](https://design.withfudge.com/pin/7786) — [source page](https://demo.refero.design/)
+
+[![Refero Research](https://pin.fontofweb.com/7776?format=jpg)](https://design.withfudge.com/pin/7776)
+[Refero Research](https://design.withfudge.com/pin/7776) — [source page](https://demo.refero.design/)

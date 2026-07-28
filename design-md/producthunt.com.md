@@ -6,6 +6,10 @@ Source domain: [producthunt.com](https://producthunt.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10088
+-->
+
 Here is the visual system observed across **5 captured pages** from [producthunt.com](https://producthunt.com).
 
 ```fudge-colors
@@ -167,9 +171,18 @@ Here is the visual system observed across **5 captured pages** from [producthunt
 }
 ```
 
-## References
-- [Best of Product Hunt: July 14, 2026 | Product Hunt](https://design.withfudge.com/pin/10088) — [source page](https://producthunt.com/leaderboard/daily/2026/7/14)
-- [Work Email Verification](https://design.withfudge.com/pin/10047) — [source page](https://producthunt.com/my/work-email-verify)
-- [Product Hunt Advertising](https://design.withfudge.com/pin/7371) — [source page](https://producthunt.com/sponsor)
-- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7370) — [source page](https://producthunt.com/topics/developer-tools)
-- [Developer Tools | Product Hunt](https://design.withfudge.com/pin/7369) — [source page](https://producthunt.com/topics/developer-tools)
+## Representative captures
+[![Best of Product Hunt: July 14, 2026 | Product Hunt](https://pin.fontofweb.com/10088?format=jpg)](https://design.withfudge.com/pin/10088)
+[Best of Product Hunt: July 14, 2026 | Product Hunt](https://design.withfudge.com/pin/10088) — [source page](https://producthunt.com/leaderboard/daily/2026/7/14)
+
+[![Work Email Verification](https://pin.fontofweb.com/10047?format=jpg)](https://design.withfudge.com/pin/10047)
+[Work Email Verification](https://design.withfudge.com/pin/10047) — [source page](https://producthunt.com/my/work-email-verify)
+
+[![Product Hunt Advertising](https://pin.fontofweb.com/7371?format=jpg)](https://design.withfudge.com/pin/7371)
+[Product Hunt Advertising](https://design.withfudge.com/pin/7371) — [source page](https://producthunt.com/sponsor)
+
+[![Developer Tools | Product Hunt](https://pin.fontofweb.com/7370?format=jpg)](https://design.withfudge.com/pin/7370)
+[Developer Tools | Product Hunt](https://design.withfudge.com/pin/7370) — [source page](https://producthunt.com/topics/developer-tools)
+
+[![Developer Tools | Product Hunt](https://pin.fontofweb.com/7369?format=jpg)](https://design.withfudge.com/pin/7369)
+[Developer Tools | Product Hunt](https://design.withfudge.com/pin/7369) — [source page](https://producthunt.com/topics/developer-tools)

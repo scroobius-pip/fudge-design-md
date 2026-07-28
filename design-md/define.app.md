@@ -6,6 +6,10 @@ Source domain: [define.app](https://define.app)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8209
+-->
+
 Here is the visual system observed across **1 captured page** from [define.app](https://define.app).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [define.app](
 }
 ```
 
-## References
-- [Apply for early access - define](https://design.withfudge.com/pin/8209) — [source page](https://define.app/)
+## Representative captures
+[![Apply for early access - define](https://pin.fontofweb.com/8209?format=jpg)](https://design.withfudge.com/pin/8209)
+[Apply for early access - define](https://design.withfudge.com/pin/8209) — [source page](https://define.app/)

@@ -6,6 +6,10 @@ Source domain: [impeccable.style](https://impeccable.style)
 
 Last updated: 2026-07-07
 
+<!--
+coverPin: 9917
+-->
+
 Here is the visual system observed across **8 captured pages** from [impeccable.style](https://impeccable.style).
 
 ```fudge-colors
@@ -334,12 +338,27 @@ Here is the visual system observed across **8 captured pages** from [impeccable.
 }
 ```
 
-## References
-- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9917) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9916) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7738) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7737) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7736) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7735) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7734) — [source page](https://impeccable.style/)
-- [Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7733) — [source page](https://impeccable.style/)
+## Representative captures
+[![Impeccable: The missing upgrade to Anthropic's impeccable skill](https://pin.fontofweb.com/9917?format=jpg)](https://design.withfudge.com/pin/9917)
+[Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9917) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's impeccable skill](https://pin.fontofweb.com/9916?format=jpg)](https://design.withfudge.com/pin/9916)
+[Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/pin/9916) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7738?format=jpg)](https://design.withfudge.com/pin/7738)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7738) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7737?format=jpg)](https://design.withfudge.com/pin/7737)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7737) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7736?format=jpg)](https://design.withfudge.com/pin/7736)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7736) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7735?format=jpg)](https://design.withfudge.com/pin/7735)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7735) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7734?format=jpg)](https://design.withfudge.com/pin/7734)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7734) — [source page](https://impeccable.style/)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7733?format=jpg)](https://design.withfudge.com/pin/7733)
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/pin/7733) — [source page](https://impeccable.style/)

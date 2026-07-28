@@ -6,6 +6,10 @@ Source domain: [hel.io](https://hel.io)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7759
+-->
+
 Here is the visual system observed across **1 captured page** from [hel.io](https://hel.io).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [hel.io](http
 }
 ```
 
-## References
-- [MoonPay Commerce | Sell more with crypto⚡️](https://design.withfudge.com/pin/7759) — [source page](https://hel.io/)
+## Representative captures
+[![MoonPay Commerce | Sell more with crypto⚡️](https://pin.fontofweb.com/7759?format=jpg)](https://design.withfudge.com/pin/7759)
+[MoonPay Commerce | Sell more with crypto⚡️](https://design.withfudge.com/pin/7759) — [source page](https://hel.io/)

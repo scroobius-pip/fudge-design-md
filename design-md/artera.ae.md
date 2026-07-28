@@ -6,6 +6,10 @@ Source domain: [artera.ae](https://artera.ae)
 
 Last updated: 2026-02-14
 
+<!--
+coverPin: 6538
+-->
+
 Here is the visual system observed across **3 captured pages** from [artera.ae](https://artera.ae).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [artera.ae](
 }
 ```
 
-## References
-- [The Last Supper - Lucas Cranach the Elder | Artera](https://design.withfudge.com/pin/6538) — [source page](https://artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596)
-- [Captured page 6537](https://design.withfudge.com/pin/6537) — [source page](https://artera.ae/artworks)
-- [Artera – AI-Powered Art Discovery & Creative Community](https://design.withfudge.com/pin/6536) — [source page](https://artera.ae/)
+## Representative captures
+[![The Last Supper - Lucas Cranach the Elder | Artera](https://pin.fontofweb.com/6538?format=jpg)](https://design.withfudge.com/pin/6538)
+[The Last Supper - Lucas Cranach the Elder | Artera](https://design.withfudge.com/pin/6538) — [source page](https://artera.ae/artworks/935b0568-13dc-4b24-98f9-ea7712916596)
+
+[![Captured page 6537](https://pin.fontofweb.com/6537?format=jpg)](https://design.withfudge.com/pin/6537)
+[Captured page 6537](https://design.withfudge.com/pin/6537) — [source page](https://artera.ae/artworks)
+
+[![Artera – AI-Powered Art Discovery & Creative Community](https://pin.fontofweb.com/6536?format=jpg)](https://design.withfudge.com/pin/6536)
+[Artera – AI-Powered Art Discovery & Creative Community](https://design.withfudge.com/pin/6536) — [source page](https://artera.ae/)

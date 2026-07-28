@@ -6,6 +6,10 @@ Source domain: [30kstrategy.com](https://30kstrategy.com)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6698
+-->
+
 Here is the visual system observed across **1 captured page** from [30kstrategy.com](https://30kstrategy.com).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [30kstrategy.
 }
 ```
 
-## References
-- [End-to-end design for AI](https://design.withfudge.com/pin/6698) — [source page](https://30kstrategy.com/)
+## Representative captures
+[![End-to-end design for AI](https://pin.fontofweb.com/6698?format=jpg)](https://design.withfudge.com/pin/6698)
+[End-to-end design for AI](https://design.withfudge.com/pin/6698) — [source page](https://30kstrategy.com/)

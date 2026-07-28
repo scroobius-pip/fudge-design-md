@@ -6,6 +6,10 @@ Source domain: [quintoandar.com.br](https://quintoandar.com.br)
 
 Last updated: 2026-04-19
 
+<!--
+coverPin: 8977
+-->
+
 Here is the visual system observed across **1 captured page** from [quintoandar.com.br](https://quintoandar.com.br).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [quintoandar.
 }
 ```
 
-## References
-- [Abra as portas para um novo morar - QuintoAndar](https://design.withfudge.com/pin/8977) — [source page](https://quintoandar.com.br/)
+## Representative captures
+[![Abra as portas para um novo morar - QuintoAndar](https://pin.fontofweb.com/8977?format=jpg)](https://design.withfudge.com/pin/8977)
+[Abra as portas para um novo morar - QuintoAndar](https://design.withfudge.com/pin/8977) — [source page](https://quintoandar.com.br/)

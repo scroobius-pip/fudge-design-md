@@ -6,6 +6,10 @@ Source domain: [portfolio.adobe.com](https://portfolio.adobe.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7314
+-->
+
 Here is the visual system observed across **3 captured pages** from [portfolio.adobe.com](https://portfolio.adobe.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [portfolio.a
 }
 ```
 
-## References
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7314) — [source page](https://portfolio.adobe.com/)
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7313) — [source page](https://portfolio.adobe.com/)
-- [Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7312) — [source page](https://portfolio.adobe.com/)
+## Representative captures
+[![Adobe Portfolio | Build your own personalized website](https://pin.fontofweb.com/7314?format=jpg)](https://design.withfudge.com/pin/7314)
+[Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7314) — [source page](https://portfolio.adobe.com/)
+
+[![Adobe Portfolio | Build your own personalized website](https://pin.fontofweb.com/7313?format=jpg)](https://design.withfudge.com/pin/7313)
+[Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7313) — [source page](https://portfolio.adobe.com/)
+
+[![Adobe Portfolio | Build your own personalized website](https://pin.fontofweb.com/7312?format=jpg)](https://design.withfudge.com/pin/7312)
+[Adobe Portfolio | Build your own personalized website](https://design.withfudge.com/pin/7312) — [source page](https://portfolio.adobe.com/)

@@ -6,6 +6,10 @@ Source domain: [polsia.com](https://polsia.com)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7666
+-->
+
 Here is the visual system observed across **2 captured pages** from [polsia.com](https://polsia.com).
 
 ```fudge-colors
@@ -157,6 +161,9 @@ Here is the visual system observed across **2 captured pages** from [polsia.com]
 }
 ```
 
-## References
-- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7666) — [source page](https://polsia.com/live)
-- [Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7665) — [source page](https://polsia.com/)
+## Representative captures
+[![Polsia — AI That Runs Your Company While You Sleep](https://pin.fontofweb.com/7666?format=jpg)](https://design.withfudge.com/pin/7666)
+[Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7666) — [source page](https://polsia.com/live)
+
+[![Polsia — AI That Runs Your Company While You Sleep](https://pin.fontofweb.com/7665?format=jpg)](https://design.withfudge.com/pin/7665)
+[Polsia — AI That Runs Your Company While You Sleep](https://design.withfudge.com/pin/7665) — [source page](https://polsia.com/)

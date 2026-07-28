@@ -6,6 +6,10 @@ Source domain: [frame.work](https://frame.work)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9024
+-->
+
 Here is the visual system observed across **7 captured pages** from [frame.work](https://frame.work).
 
 ```fudge-colors
@@ -207,11 +211,24 @@ Here is the visual system observed across **7 captured pages** from [frame.work]
 }
 ```
 
-## References
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9024) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9023) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9022) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9021) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9020) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9019) — [source page](https://frame.work/laptop13pro)
-- [Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9018) — [source page](https://frame.work/laptop13pro)
+## Representative captures
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9024?format=jpg)](https://design.withfudge.com/pin/9024)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9024) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9023?format=jpg)](https://design.withfudge.com/pin/9023)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9023) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9022?format=jpg)](https://design.withfudge.com/pin/9022)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9022) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9021?format=jpg)](https://design.withfudge.com/pin/9021)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9021) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9020?format=jpg)](https://design.withfudge.com/pin/9020)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9020) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9019?format=jpg)](https://design.withfudge.com/pin/9019)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9019) — [source page](https://frame.work/laptop13pro)
+
+[![Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://pin.fontofweb.com/9018?format=jpg)](https://design.withfudge.com/pin/9018)
+[Framework | Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://design.withfudge.com/pin/9018) — [source page](https://frame.work/laptop13pro)

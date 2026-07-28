@@ -6,6 +6,10 @@ Source domain: [capy.ai](https://capy.ai)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7791
+-->
+
 Here is the visual system observed across **2 captured pages** from [capy.ai](https://capy.ai).
 
 ```fudge-colors
@@ -144,6 +148,9 @@ Here is the visual system observed across **2 captured pages** from [capy.ai](ht
 }
 ```
 
-## References
-- [Capy Pricing | Plans for Individuals and Teams](https://design.withfudge.com/pin/7791) — [source page](https://capy.ai/pricing)
-- [Capy - The IDE for the parallel age](https://design.withfudge.com/pin/7790) — [source page](https://capy.ai/)
+## Representative captures
+[![Capy Pricing | Plans for Individuals and Teams](https://pin.fontofweb.com/7791?format=jpg)](https://design.withfudge.com/pin/7791)
+[Capy Pricing | Plans for Individuals and Teams](https://design.withfudge.com/pin/7791) — [source page](https://capy.ai/pricing)
+
+[![Capy - The IDE for the parallel age](https://pin.fontofweb.com/7790?format=jpg)](https://design.withfudge.com/pin/7790)
+[Capy - The IDE for the parallel age](https://design.withfudge.com/pin/7790) — [source page](https://capy.ai/)

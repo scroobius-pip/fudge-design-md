@@ -6,6 +6,10 @@ Source domain: [brave.com](https://brave.com)
 
 Last updated: 2026-05-23
 
+<!--
+coverPin: 9441
+-->
+
 Here is the visual system observed across **6 captured pages** from [brave.com](https://brave.com).
 
 ```fudge-colors
@@ -252,10 +256,21 @@ Here is the visual system observed across **6 captured pages** from [brave.com](
 }
 ```
 
-## References
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9441) — [source page](https://brave.com/)
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9440) — [source page](https://brave.com/)
-- [The browser that puts you first | Brave](https://design.withfudge.com/pin/9439) — [source page](https://brave.com/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9438) — [source page](https://brave.com/search/api/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9437) — [source page](https://brave.com/search/api/)
-- [Brave Search API | Brave](https://design.withfudge.com/pin/9436) — [source page](https://brave.com/search/api/)
+## Representative captures
+[![The browser that puts you first | Brave](https://pin.fontofweb.com/9441?format=jpg)](https://design.withfudge.com/pin/9441)
+[The browser that puts you first | Brave](https://design.withfudge.com/pin/9441) — [source page](https://brave.com/)
+
+[![The browser that puts you first | Brave](https://pin.fontofweb.com/9440?format=jpg)](https://design.withfudge.com/pin/9440)
+[The browser that puts you first | Brave](https://design.withfudge.com/pin/9440) — [source page](https://brave.com/)
+
+[![The browser that puts you first | Brave](https://pin.fontofweb.com/9439?format=jpg)](https://design.withfudge.com/pin/9439)
+[The browser that puts you first | Brave](https://design.withfudge.com/pin/9439) — [source page](https://brave.com/)
+
+[![Brave Search API | Brave](https://pin.fontofweb.com/9438?format=jpg)](https://design.withfudge.com/pin/9438)
+[Brave Search API | Brave](https://design.withfudge.com/pin/9438) — [source page](https://brave.com/search/api/)
+
+[![Brave Search API | Brave](https://pin.fontofweb.com/9437?format=jpg)](https://design.withfudge.com/pin/9437)
+[Brave Search API | Brave](https://design.withfudge.com/pin/9437) — [source page](https://brave.com/search/api/)
+
+[![Brave Search API | Brave](https://pin.fontofweb.com/9436?format=jpg)](https://design.withfudge.com/pin/9436)
+[Brave Search API | Brave](https://design.withfudge.com/pin/9436) — [source page](https://brave.com/search/api/)

@@ -6,6 +6,10 @@ Source domain: [coda.co](https://coda.co)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6759
+-->
+
 Here is the visual system observed across **2 captured pages** from [coda.co](https://coda.co).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [coda.co](ht
 }
 ```
 
-## References
-- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6759) — [source page](https://coda.co/merchant-of-record/)
-- [Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6758) — [source page](https://coda.co/merchant-of-record/)
+## Representative captures
+[![Your MoR Solution for Global Expansion | Coda](https://pin.fontofweb.com/6759?format=jpg)](https://design.withfudge.com/pin/6759)
+[Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6759) — [source page](https://coda.co/merchant-of-record/)
+
+[![Your MoR Solution for Global Expansion | Coda](https://pin.fontofweb.com/6758?format=jpg)](https://design.withfudge.com/pin/6758)
+[Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/pin/6758) — [source page](https://coda.co/merchant-of-record/)

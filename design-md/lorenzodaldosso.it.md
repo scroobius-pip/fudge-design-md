@@ -6,6 +6,10 @@ Source domain: [lorenzodaldosso.it](https://lorenzodaldosso.it)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8343
+-->
+
 Here is the visual system observed across **1 captured page** from [lorenzodaldosso.it](https://lorenzodaldosso.it).
 
 ```fudge-colors
@@ -104,5 +108,6 @@ Here is the visual system observed across **1 captured page** from [lorenzodaldo
 }
 ```
 
-## References
-- [Lorenzo Dal Dosso — IT Specialist](https://design.withfudge.com/pin/8343) — [source page](https://lorenzodaldosso.it/)
+## Representative captures
+[![Lorenzo Dal Dosso — IT Specialist](https://pin.fontofweb.com/8343?format=jpg)](https://design.withfudge.com/pin/8343)
+[Lorenzo Dal Dosso — IT Specialist](https://design.withfudge.com/pin/8343) — [source page](https://lorenzodaldosso.it/)

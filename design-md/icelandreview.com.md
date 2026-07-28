@@ -6,6 +6,10 @@ Source domain: [icelandreview.com](https://icelandreview.com)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9129
+-->
+
 Here is the visual system observed across **5 captured pages** from [icelandreview.com](https://icelandreview.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [icelandrevi
 }
 ```
 
-## References
-- [Iceland Review Playlist | Summer Special](https://design.withfudge.com/pin/9129) — [source page](https://icelandreview.com/news/iceland-review-playlist-summer-special/)
-- [What to Do This Week | Folk Music, Gothic Horror Film and Other Events](https://design.withfudge.com/pin/9128) — [source page](https://icelandreview.com/news/what-to-do-this-week-folk-music-gothic-horror-film-and-other-events/)
-- [Reykjavík Residents Report Low Satisfaction with City Services](https://design.withfudge.com/pin/9127) — [source page](https://icelandreview.com/news/reykjavik-residents-report-low-satisfaction-with-city-services/)
-- [French Woman Charged in Reykjavík Hotel Death Case](https://design.withfudge.com/pin/9126) — [source page](https://icelandreview.com/news/french-woman-charged-in-reykjavik-hotel-death-case/)
-- [Earthquake Swarm Continues in Iceland’s Active Volcanic Zones](https://design.withfudge.com/pin/9125) — [source page](https://icelandreview.com/news/earthquake-swarm-continues-in-icelands-active-volcanic-zones/)
+## Representative captures
+[![Iceland Review Playlist | Summer Special](https://pin.fontofweb.com/9129?format=jpg)](https://design.withfudge.com/pin/9129)
+[Iceland Review Playlist | Summer Special](https://design.withfudge.com/pin/9129) — [source page](https://icelandreview.com/news/iceland-review-playlist-summer-special/)
+
+[![What to Do This Week | Folk Music, Gothic Horror Film and Other Events](https://pin.fontofweb.com/9128?format=jpg)](https://design.withfudge.com/pin/9128)
+[What to Do This Week | Folk Music, Gothic Horror Film and Other Events](https://design.withfudge.com/pin/9128) — [source page](https://icelandreview.com/news/what-to-do-this-week-folk-music-gothic-horror-film-and-other-events/)
+
+[![Reykjavík Residents Report Low Satisfaction with City Services](https://pin.fontofweb.com/9127?format=jpg)](https://design.withfudge.com/pin/9127)
+[Reykjavík Residents Report Low Satisfaction with City Services](https://design.withfudge.com/pin/9127) — [source page](https://icelandreview.com/news/reykjavik-residents-report-low-satisfaction-with-city-services/)
+
+[![French Woman Charged in Reykjavík Hotel Death Case](https://pin.fontofweb.com/9126?format=jpg)](https://design.withfudge.com/pin/9126)
+[French Woman Charged in Reykjavík Hotel Death Case](https://design.withfudge.com/pin/9126) — [source page](https://icelandreview.com/news/french-woman-charged-in-reykjavik-hotel-death-case/)
+
+[![Earthquake Swarm Continues in Iceland’s Active Volcanic Zones](https://pin.fontofweb.com/9125?format=jpg)](https://design.withfudge.com/pin/9125)
+[Earthquake Swarm Continues in Iceland’s Active Volcanic Zones](https://design.withfudge.com/pin/9125) — [source page](https://icelandreview.com/news/earthquake-swarm-continues-in-icelands-active-volcanic-zones/)

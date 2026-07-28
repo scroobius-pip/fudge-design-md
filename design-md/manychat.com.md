@@ -6,6 +6,10 @@ Source domain: [manychat.com](https://manychat.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7658
+-->
+
 Here is the visual system observed across **1 captured page** from [manychat.com](https://manychat.com).
 
 ```fudge-colors
@@ -108,5 +112,6 @@ Here is the visual system observed across **1 captured page** from [manychat.com
 }
 ```
 
-## References
-- [Chat Marketing Made Easy with Manychat](https://design.withfudge.com/pin/7658) — [source page](https://manychat.com/)
+## Representative captures
+[![Chat Marketing Made Easy with Manychat](https://pin.fontofweb.com/7658?format=jpg)](https://design.withfudge.com/pin/7658)
+[Chat Marketing Made Easy with Manychat](https://design.withfudge.com/pin/7658) — [source page](https://manychat.com/)

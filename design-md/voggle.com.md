@@ -6,6 +6,10 @@ Source domain: [voggle.com](https://voggle.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7292
+-->
+
 Here is the visual system observed across **1 captured page** from [voggle.com](https://voggle.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [voggle.com](
 }
 ```
 
-## References
-- [Voggle - find today's hidden theme](https://design.withfudge.com/pin/7292) — [source page](https://voggle.com/)
+## Representative captures
+[![Voggle - find today's hidden theme](https://pin.fontofweb.com/7292?format=jpg)](https://design.withfudge.com/pin/7292)
+[Voggle - find today's hidden theme](https://design.withfudge.com/pin/7292) — [source page](https://voggle.com/)

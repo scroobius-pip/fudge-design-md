@@ -6,6 +6,10 @@ Source domain: [boringbar.app](https://boringbar.app)
 
 Last updated: 2026-04-12
 
+<!--
+coverPin: 8813
+-->
+
 Here is the visual system observed across **1 captured page** from [boringbar.app](https://boringbar.app).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [boringbar.ap
 }
 ```
 
-## References
-- [boringBar - Taskbar Dock Replacement for macOS](https://design.withfudge.com/pin/8813) — [source page](https://boringbar.app/)
+## Representative captures
+[![boringBar - Taskbar Dock Replacement for macOS](https://pin.fontofweb.com/8813?format=jpg)](https://design.withfudge.com/pin/8813)
+[boringBar - Taskbar Dock Replacement for macOS](https://design.withfudge.com/pin/8813) — [source page](https://boringbar.app/)

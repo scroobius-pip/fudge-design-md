@@ -6,6 +6,10 @@ Source domain: [uneed.best](https://uneed.best)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6624
+-->
+
 Here is the visual system observed across **2 captured pages** from [uneed.best](https://uneed.best).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [uneed.best]
 }
 ```
 
-## References
-- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6624) — [source page](https://uneed.best/)
-- [Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6623) — [source page](https://uneed.best/)
+## Representative captures
+[![Uneed - Launch. Get seen. Grow. | Uneed](https://pin.fontofweb.com/6624?format=jpg)](https://design.withfudge.com/pin/6624)
+[Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6624) — [source page](https://uneed.best/)
+
+[![Uneed - Launch. Get seen. Grow. | Uneed](https://pin.fontofweb.com/6623?format=jpg)](https://design.withfudge.com/pin/6623)
+[Uneed - Launch. Get seen. Grow. | Uneed](https://design.withfudge.com/pin/6623) — [source page](https://uneed.best/)

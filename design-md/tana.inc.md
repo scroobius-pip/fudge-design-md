@@ -6,6 +6,10 @@ Source domain: [tana.inc](https://tana.inc)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8142
+-->
+
 Here is the visual system observed across **1 captured page** from [tana.inc](https://tana.inc).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [tana.inc](ht
 }
 ```
 
-## References
-- [Tana — Meetings that ship](https://design.withfudge.com/pin/8142) — [source page](https://tana.inc/)
+## Representative captures
+[![Tana — Meetings that ship](https://pin.fontofweb.com/8142?format=jpg)](https://design.withfudge.com/pin/8142)
+[Tana — Meetings that ship](https://design.withfudge.com/pin/8142) — [source page](https://tana.inc/)

@@ -6,6 +6,10 @@ Source domain: [playbit.app](https://playbit.app)
 
 Last updated: 2026-03-24
 
+<!--
+coverPin: 8286
+-->
+
 Here is the visual system observed across **4 captured pages** from [playbit.app](https://playbit.app).
 
 ```fudge-colors
@@ -161,8 +165,15 @@ Here is the visual system observed across **4 captured pages** from [playbit.app
 }
 ```
 
-## References
-- [playbit](https://design.withfudge.com/pin/8286) — [source page](https://playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8285) — [source page](https://playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8284) — [source page](https://playbit.app/)
-- [playbit](https://design.withfudge.com/pin/8283) — [source page](https://playbit.app/)
+## Representative captures
+[![playbit](https://pin.fontofweb.com/8286?format=jpg)](https://design.withfudge.com/pin/8286)
+[playbit](https://design.withfudge.com/pin/8286) — [source page](https://playbit.app/)
+
+[![playbit](https://pin.fontofweb.com/8285?format=jpg)](https://design.withfudge.com/pin/8285)
+[playbit](https://design.withfudge.com/pin/8285) — [source page](https://playbit.app/)
+
+[![playbit](https://pin.fontofweb.com/8284?format=jpg)](https://design.withfudge.com/pin/8284)
+[playbit](https://design.withfudge.com/pin/8284) — [source page](https://playbit.app/)
+
+[![playbit](https://pin.fontofweb.com/8283?format=jpg)](https://design.withfudge.com/pin/8283)
+[playbit](https://design.withfudge.com/pin/8283) — [source page](https://playbit.app/)

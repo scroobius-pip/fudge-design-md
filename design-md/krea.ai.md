@@ -6,6 +6,10 @@ Source domain: [krea.ai](https://krea.ai)
 
 Last updated: 2026-06-24
 
+<!--
+coverPin: 9749
+-->
+
 Here is the visual system observed across **5 captured pages** from [krea.ai](https://krea.ai).
 
 ```fudge-colors
@@ -183,9 +187,18 @@ Here is the visual system observed across **5 captured pages** from [krea.ai](ht
 }
 ```
 
-## References
-- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9749) — [source page](https://krea.ai/)
-- [Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9748) — [source page](https://krea.ai/)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9747) — [source page](https://krea.ai/krea-2)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9746) — [source page](https://krea.ai/krea-2)
-- [Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9745) — [source page](https://krea.ai/krea-2)
+## Representative captures
+[![Krea: AI Creative Suite for Images, Video & 3D](https://pin.fontofweb.com/9749?format=jpg)](https://design.withfudge.com/pin/9749)
+[Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9749) — [source page](https://krea.ai/)
+
+[![Krea: AI Creative Suite for Images, Video & 3D](https://pin.fontofweb.com/9748?format=jpg)](https://design.withfudge.com/pin/9748)
+[Krea: AI Creative Suite for Images, Video & 3D](https://design.withfudge.com/pin/9748) — [source page](https://krea.ai/)
+
+[![Krea 2: AI Image Foundation Model & Style Control](https://pin.fontofweb.com/9747?format=jpg)](https://design.withfudge.com/pin/9747)
+[Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9747) — [source page](https://krea.ai/krea-2)
+
+[![Krea 2: AI Image Foundation Model & Style Control](https://pin.fontofweb.com/9746?format=jpg)](https://design.withfudge.com/pin/9746)
+[Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9746) — [source page](https://krea.ai/krea-2)
+
+[![Krea 2: AI Image Foundation Model & Style Control](https://pin.fontofweb.com/9745?format=jpg)](https://design.withfudge.com/pin/9745)
+[Krea 2: AI Image Foundation Model & Style Control](https://design.withfudge.com/pin/9745) — [source page](https://krea.ai/krea-2)

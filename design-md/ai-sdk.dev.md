@@ -6,6 +6,10 @@ Source domain: [ai-sdk.dev](https://ai-sdk.dev)
 
 Last updated: 2026-03-26
 
+<!--
+coverPin: 8397
+-->
+
 Here is the visual system observed across **6 captured pages** from [ai-sdk.dev](https://ai-sdk.dev).
 
 ```fudge-colors
@@ -201,10 +205,21 @@ Here is the visual system observed across **6 captured pages** from [ai-sdk.dev]
 }
 ```
 
-## References
-- [AI SDK](https://design.withfudge.com/pin/8397) — [source page](https://ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8396) — [source page](https://ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8395) — [source page](https://ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8394) — [source page](https://ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8393) — [source page](https://ai-sdk.dev/)
-- [AI SDK](https://design.withfudge.com/pin/8392) — [source page](https://ai-sdk.dev/)
+## Representative captures
+[![AI SDK](https://pin.fontofweb.com/8397?format=jpg)](https://design.withfudge.com/pin/8397)
+[AI SDK](https://design.withfudge.com/pin/8397) — [source page](https://ai-sdk.dev/)
+
+[![AI SDK](https://pin.fontofweb.com/8396?format=jpg)](https://design.withfudge.com/pin/8396)
+[AI SDK](https://design.withfudge.com/pin/8396) — [source page](https://ai-sdk.dev/)
+
+[![AI SDK](https://pin.fontofweb.com/8395?format=jpg)](https://design.withfudge.com/pin/8395)
+[AI SDK](https://design.withfudge.com/pin/8395) — [source page](https://ai-sdk.dev/)
+
+[![AI SDK](https://pin.fontofweb.com/8394?format=jpg)](https://design.withfudge.com/pin/8394)
+[AI SDK](https://design.withfudge.com/pin/8394) — [source page](https://ai-sdk.dev/)
+
+[![AI SDK](https://pin.fontofweb.com/8393?format=jpg)](https://design.withfudge.com/pin/8393)
+[AI SDK](https://design.withfudge.com/pin/8393) — [source page](https://ai-sdk.dev/)
+
+[![AI SDK](https://pin.fontofweb.com/8392?format=jpg)](https://design.withfudge.com/pin/8392)
+[AI SDK](https://design.withfudge.com/pin/8392) — [source page](https://ai-sdk.dev/)

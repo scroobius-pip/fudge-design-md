@@ -6,6 +6,10 @@ Source domain: [deepwiki.com](https://deepwiki.com)
 
 Last updated: 2026-03-15
 
+<!--
+coverPin: 8114
+-->
+
 Here is the visual system observed across **3 captured pages** from [deepwiki.com](https://deepwiki.com).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [deepwiki.co
 }
 ```
 
-## References
-- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8114) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
-- [bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8113) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
-- [DeepWiki | AI documentation you can talk to, for every repo](https://design.withfudge.com/pin/8112) — [source page](https://deepwiki.com/)
+## Representative captures
+[![bagusindrayana/ews-concept-new | DeepWiki](https://pin.fontofweb.com/8114?format=jpg)](https://design.withfudge.com/pin/8114)
+[bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8114) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
+
+[![bagusindrayana/ews-concept-new | DeepWiki](https://pin.fontofweb.com/8113?format=jpg)](https://design.withfudge.com/pin/8113)
+[bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/pin/8113) — [source page](https://deepwiki.com/bagusindrayana/ews-concept-new)
+
+[![DeepWiki | AI documentation you can talk to, for every repo](https://pin.fontofweb.com/8112?format=jpg)](https://design.withfudge.com/pin/8112)
+[DeepWiki | AI documentation you can talk to, for every repo](https://design.withfudge.com/pin/8112) — [source page](https://deepwiki.com/)

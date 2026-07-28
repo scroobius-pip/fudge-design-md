@@ -6,6 +6,10 @@ Source domain: [mistral.ai](https://mistral.ai)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10276
+-->
+
 Here is the visual system observed across **30 captured pages** from [mistral.ai](https://mistral.ai).
 
 ```fudge-colors
@@ -425,12 +429,27 @@ Here is the visual system observed across **30 captured pages** from [mistral.ai
 }
 ```
 
-## References
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10276) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10275) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10274) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9786) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9774) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9773) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9772) — [source page](https://mistral.ai/)
-- [Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9771) — [source page](https://mistral.ai/)
+## Representative captures
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/10276?format=jpg)](https://design.withfudge.com/pin/10276)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10276) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/10275?format=jpg)](https://design.withfudge.com/pin/10275)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10275) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/10274?format=jpg)](https://design.withfudge.com/pin/10274)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/10274) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/9786?format=jpg)](https://design.withfudge.com/pin/9786)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9786) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/9774?format=jpg)](https://design.withfudge.com/pin/9774)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9774) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/9773?format=jpg)](https://design.withfudge.com/pin/9773)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9773) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/9772?format=jpg)](https://design.withfudge.com/pin/9772)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9772) — [source page](https://mistral.ai/)
+
+[![Frontier AI LLMs, assistants, agents, services | Mistral](https://pin.fontofweb.com/9771?format=jpg)](https://design.withfudge.com/pin/9771)
+[Frontier AI LLMs, assistants, agents, services | Mistral](https://design.withfudge.com/pin/9771) — [source page](https://mistral.ai/)

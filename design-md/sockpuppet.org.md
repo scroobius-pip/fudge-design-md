@@ -6,6 +6,10 @@ Source domain: [sockpuppet.org](https://sockpuppet.org)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9305
+-->
+
 Here is the visual system observed across **1 captured page** from [sockpuppet.org](https://sockpuppet.org).
 
 ```fudge-colors
@@ -106,5 +110,6 @@ Here is the visual system observed across **1 captured page** from [sockpuppet.o
 }
 ```
 
-## References
-- [The Emacsification of Software — Quarrelsome](https://design.withfudge.com/pin/9305) — [source page](https://sockpuppet.org/blog/2026/05/12/emacsification/)
+## Representative captures
+[![The Emacsification of Software — Quarrelsome](https://pin.fontofweb.com/9305?format=jpg)](https://design.withfudge.com/pin/9305)
+[The Emacsification of Software — Quarrelsome](https://design.withfudge.com/pin/9305) — [source page](https://sockpuppet.org/blog/2026/05/12/emacsification/)

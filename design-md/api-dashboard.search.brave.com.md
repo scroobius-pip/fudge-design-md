@@ -6,6 +6,10 @@ Source domain: [api-dashboard.search.brave.com](https://api-dashboard.search.bra
 
 Last updated: 2026-05-23
 
+<!--
+coverPin: 9446
+-->
+
 Here is the visual system observed across **5 captured pages** from [api-dashboard.search.brave.com](https://api-dashboard.search.brave.com).
 
 ```fudge-colors
@@ -182,9 +186,18 @@ Here is the visual system observed across **5 captured pages** from [api-dashboa
 }
 ```
 
-## References
-- [Brave Search - API](https://design.withfudge.com/pin/9446) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
-- [Brave Search - API](https://design.withfudge.com/pin/9445) — [source page](https://api-dashboard.search.brave.com/app/keys)
-- [Brave Search - API](https://design.withfudge.com/pin/9444) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
-- [Brave Search - API](https://design.withfudge.com/pin/9443) — [source page](https://api-dashboard.search.brave.com/app/dashboard)
-- [Brave Search - API](https://design.withfudge.com/pin/9442) — [source page](https://api-dashboard.search.brave.com/verify-account)
+## Representative captures
+[![Brave Search - API](https://pin.fontofweb.com/9446?format=jpg)](https://design.withfudge.com/pin/9446)
+[Brave Search - API](https://design.withfudge.com/pin/9446) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+
+[![Brave Search - API](https://pin.fontofweb.com/9445?format=jpg)](https://design.withfudge.com/pin/9445)
+[Brave Search - API](https://design.withfudge.com/pin/9445) — [source page](https://api-dashboard.search.brave.com/app/keys)
+
+[![Brave Search - API](https://pin.fontofweb.com/9444?format=jpg)](https://design.withfudge.com/pin/9444)
+[Brave Search - API](https://design.withfudge.com/pin/9444) — [source page](https://api-dashboard.search.brave.com/app/subscriptions/subscribe)
+
+[![Brave Search - API](https://pin.fontofweb.com/9443?format=jpg)](https://design.withfudge.com/pin/9443)
+[Brave Search - API](https://design.withfudge.com/pin/9443) — [source page](https://api-dashboard.search.brave.com/app/dashboard)
+
+[![Brave Search - API](https://pin.fontofweb.com/9442?format=jpg)](https://design.withfudge.com/pin/9442)
+[Brave Search - API](https://design.withfudge.com/pin/9442) — [source page](https://api-dashboard.search.brave.com/verify-account)

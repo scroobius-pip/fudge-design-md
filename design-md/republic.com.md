@@ -6,6 +6,10 @@ Source domain: [republic.com](https://republic.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 6984
+-->
+
 Here is the visual system observed across **4 captured pages** from [republic.com](https://republic.com).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [republic.co
 }
 ```
 
-## References
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6984) — [source page](https://republic.com/raise)
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6983) — [source page](https://republic.com/raise)
-- [Raise on Republic — Republic](https://design.withfudge.com/pin/6982) — [source page](https://republic.com/raise)
-- [Republic — Invest in Startups, Crypto and More](https://design.withfudge.com/pin/6981) — [source page](https://republic.com/)
+## Representative captures
+[![Raise on Republic — Republic](https://pin.fontofweb.com/6984?format=jpg)](https://design.withfudge.com/pin/6984)
+[Raise on Republic — Republic](https://design.withfudge.com/pin/6984) — [source page](https://republic.com/raise)
+
+[![Raise on Republic — Republic](https://pin.fontofweb.com/6983?format=jpg)](https://design.withfudge.com/pin/6983)
+[Raise on Republic — Republic](https://design.withfudge.com/pin/6983) — [source page](https://republic.com/raise)
+
+[![Raise on Republic — Republic](https://pin.fontofweb.com/6982?format=jpg)](https://design.withfudge.com/pin/6982)
+[Raise on Republic — Republic](https://design.withfudge.com/pin/6982) — [source page](https://republic.com/raise)
+
+[![Republic — Invest in Startups, Crypto and More](https://pin.fontofweb.com/6981?format=jpg)](https://design.withfudge.com/pin/6981)
+[Republic — Invest in Startups, Crypto and More](https://design.withfudge.com/pin/6981) — [source page](https://republic.com/)

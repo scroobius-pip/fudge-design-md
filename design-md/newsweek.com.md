@@ -6,6 +6,10 @@ Source domain: [newsweek.com](https://newsweek.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8994
+-->
+
 Here is the visual system observed across **1 captured page** from [newsweek.com](https://newsweek.com).
 
 ```fudge-colors
@@ -108,5 +112,6 @@ Here is the visual system observed across **1 captured page** from [newsweek.com
 }
 ```
 
-## References
-- [Newsweek - Latest Breaking News, US, World, Politics, Business, Tech and Videos.](https://design.withfudge.com/pin/8994) — [source page](https://newsweek.com/)
+## Representative captures
+[![Newsweek - Latest Breaking News, US, World, Politics, Business, Tech and Videos.](https://pin.fontofweb.com/8994?format=jpg)](https://design.withfudge.com/pin/8994)
+[Newsweek - Latest Breaking News, US, World, Politics, Business, Tech and Videos.](https://design.withfudge.com/pin/8994) — [source page](https://newsweek.com/)

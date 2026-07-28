@@ -6,6 +6,10 @@ Source domain: [supply.family](https://supply.family)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9536
+-->
+
 Here is the visual system observed across **3 captured pages** from [supply.family](https://supply.family).
 
 ```fudge-colors
@@ -165,7 +169,12 @@ Here is the visual system observed across **3 captured pages** from [supply.fami
 }
 ```
 
-## References
-- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9536) — [source page](https://supply.family/shop/403-mesapholic/)
-- [403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9535) — [source page](https://supply.family/shop/403-mesapholic/)
-- [Home | Premium Mockups, Fonts & Graphics for Designers | Supply Family](https://design.withfudge.com/pin/9534) — [source page](https://supply.family/)
+## Representative captures
+[![403 Mesapholic, Serif Font | Supply.Family](https://pin.fontofweb.com/9536?format=jpg)](https://design.withfudge.com/pin/9536)
+[403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9536) — [source page](https://supply.family/shop/403-mesapholic/)
+
+[![403 Mesapholic, Serif Font | Supply.Family](https://pin.fontofweb.com/9535?format=jpg)](https://design.withfudge.com/pin/9535)
+[403 Mesapholic, Serif Font | Supply.Family](https://design.withfudge.com/pin/9535) — [source page](https://supply.family/shop/403-mesapholic/)
+
+[![Home | Premium Mockups, Fonts & Graphics for Designers | Supply Family](https://pin.fontofweb.com/9534?format=jpg)](https://design.withfudge.com/pin/9534)
+[Home | Premium Mockups, Fonts & Graphics for Designers | Supply Family](https://design.withfudge.com/pin/9534) — [source page](https://supply.family/)

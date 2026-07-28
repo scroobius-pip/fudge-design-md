@@ -6,6 +6,10 @@ Source domain: [actualidea.com](https://actualidea.com)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8697
+-->
+
 Here is the visual system observed across **5 captured pages** from [actualidea.com](https://actualidea.com).
 
 ```fudge-colors
@@ -178,9 +182,18 @@ Here is the visual system observed across **5 captured pages** from [actualidea.
 }
 ```
 
-## References
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8697) — [source page](https://actualidea.com/26/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8696) — [source page](https://actualidea.com/nylon/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8695) — [source page](https://actualidea.com/nylon4/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8694) — [source page](https://actualidea.com/26/)
-- [Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8693) — [source page](https://actualidea.com/26/)
+## Representative captures
+[![Mickey Pangilinan - Creative Direction + Design — Nylon](https://pin.fontofweb.com/8697?format=jpg)](https://design.withfudge.com/pin/8697)
+[Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8697) — [source page](https://actualidea.com/26/)
+
+[![Mickey Pangilinan - Creative Direction + Design — Nylon](https://pin.fontofweb.com/8696?format=jpg)](https://design.withfudge.com/pin/8696)
+[Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8696) — [source page](https://actualidea.com/nylon/)
+
+[![Mickey Pangilinan - Creative Direction + Design — Nylon](https://pin.fontofweb.com/8695?format=jpg)](https://design.withfudge.com/pin/8695)
+[Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8695) — [source page](https://actualidea.com/nylon4/)
+
+[![Mickey Pangilinan - Creative Direction + Design — Nylon](https://pin.fontofweb.com/8694?format=jpg)](https://design.withfudge.com/pin/8694)
+[Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8694) — [source page](https://actualidea.com/26/)
+
+[![Mickey Pangilinan - Creative Direction + Design — Nylon](https://pin.fontofweb.com/8693?format=jpg)](https://design.withfudge.com/pin/8693)
+[Mickey Pangilinan - Creative Direction + Design — Nylon](https://design.withfudge.com/pin/8693) — [source page](https://actualidea.com/26/)

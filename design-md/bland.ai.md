@@ -6,6 +6,10 @@ Source domain: [bland.ai](https://bland.ai)
 
 Last updated: 2026-06-16
 
+<!--
+coverPin: 9670
+-->
+
 Here is the visual system observed across **6 captured pages** from [bland.ai](https://bland.ai).
 
 ```fudge-colors
@@ -204,10 +208,21 @@ Here is the visual system observed across **6 captured pages** from [bland.ai](h
 }
 ```
 
-## References
-- [Pricing | Bland AI](https://design.withfudge.com/pin/9670) — [source page](https://bland.ai/pricing)
-- [Pricing | Bland AI](https://design.withfudge.com/pin/9669) — [source page](https://bland.ai/pricing)
-- [Book a demo | Bland AI](https://design.withfudge.com/pin/9668) — [source page](https://bland.ai/book-a-demo)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9667) — [source page](https://bland.ai/)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9666) — [source page](https://bland.ai/)
-- [Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9665) — [source page](https://bland.ai/)
+## Representative captures
+[![Pricing | Bland AI](https://pin.fontofweb.com/9670?format=jpg)](https://design.withfudge.com/pin/9670)
+[Pricing | Bland AI](https://design.withfudge.com/pin/9670) — [source page](https://bland.ai/pricing)
+
+[![Pricing | Bland AI](https://pin.fontofweb.com/9669?format=jpg)](https://design.withfudge.com/pin/9669)
+[Pricing | Bland AI](https://design.withfudge.com/pin/9669) — [source page](https://bland.ai/pricing)
+
+[![Book a demo | Bland AI](https://pin.fontofweb.com/9668?format=jpg)](https://design.withfudge.com/pin/9668)
+[Book a demo | Bland AI](https://design.withfudge.com/pin/9668) — [source page](https://bland.ai/book-a-demo)
+
+[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9667?format=jpg)](https://design.withfudge.com/pin/9667)
+[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9667) — [source page](https://bland.ai/)
+
+[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9666?format=jpg)](https://design.withfudge.com/pin/9666)
+[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9666) — [source page](https://bland.ai/)
+
+[![Bland | Enterprise Voice AI Platform for Phone Agents](https://pin.fontofweb.com/9665?format=jpg)](https://design.withfudge.com/pin/9665)
+[Bland | Enterprise Voice AI Platform for Phone Agents](https://design.withfudge.com/pin/9665) — [source page](https://bland.ai/)

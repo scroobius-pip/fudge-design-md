@@ -6,6 +6,10 @@ Source domain: [braintrust.dev](https://braintrust.dev)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8909
+-->
+
 Here is the visual system observed across **44 captured pages** from [braintrust.dev](https://braintrust.dev).
 
 ```fudge-colors
@@ -340,12 +344,27 @@ Here is the visual system observed across **44 captured pages** from [braintrust
 }
 ```
 
-## References
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8909) — [source page](https://braintrust.dev/)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8908) — [source page](https://braintrust.dev/pricing)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8907) — [source page](https://braintrust.dev/pricing)
-- [Pricing - Braintrust](https://design.withfudge.com/pin/8906) — [source page](https://braintrust.dev/pricing)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8905) — [source page](https://braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8904) — [source page](https://braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8903) — [source page](https://braintrust.dev/)
-- [Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8902) — [source page](https://braintrust.dev/)
+## Representative captures
+[![Braintrust - The AI observability platform for building quality AI products](https://pin.fontofweb.com/8909?format=jpg)](https://design.withfudge.com/pin/8909)
+[Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8909) — [source page](https://braintrust.dev/)
+
+[![Pricing - Braintrust](https://pin.fontofweb.com/8908?format=jpg)](https://design.withfudge.com/pin/8908)
+[Pricing - Braintrust](https://design.withfudge.com/pin/8908) — [source page](https://braintrust.dev/pricing)
+
+[![Pricing - Braintrust](https://pin.fontofweb.com/8907?format=jpg)](https://design.withfudge.com/pin/8907)
+[Pricing - Braintrust](https://design.withfudge.com/pin/8907) — [source page](https://braintrust.dev/pricing)
+
+[![Pricing - Braintrust](https://pin.fontofweb.com/8906?format=jpg)](https://design.withfudge.com/pin/8906)
+[Pricing - Braintrust](https://design.withfudge.com/pin/8906) — [source page](https://braintrust.dev/pricing)
+
+[![Braintrust - The AI observability platform for building quality AI products](https://pin.fontofweb.com/8905?format=jpg)](https://design.withfudge.com/pin/8905)
+[Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8905) — [source page](https://braintrust.dev/)
+
+[![Braintrust - The AI observability platform for building quality AI products](https://pin.fontofweb.com/8904?format=jpg)](https://design.withfudge.com/pin/8904)
+[Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8904) — [source page](https://braintrust.dev/)
+
+[![Braintrust - The AI observability platform for building quality AI products](https://pin.fontofweb.com/8903?format=jpg)](https://design.withfudge.com/pin/8903)
+[Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8903) — [source page](https://braintrust.dev/)
+
+[![Braintrust - The AI observability platform for building quality AI products](https://pin.fontofweb.com/8902?format=jpg)](https://design.withfudge.com/pin/8902)
+[Braintrust - The AI observability platform for building quality AI products](https://design.withfudge.com/pin/8902) — [source page](https://braintrust.dev/)

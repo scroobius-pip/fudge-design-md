@@ -6,6 +6,10 @@ Source domain: [limitless.framer.photos](https://limitless.framer.photos)
 
 Last updated: 2026-06-05
 
+<!--
+coverPin: 9507
+-->
+
 Here is the visual system observed across **2 captured pages** from [limitless.framer.photos](https://limitless.framer.photos).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [limitless.f
 }
 ```
 
-## References
-- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9507) — [source page](https://limitless.framer.photos/)
-- [Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9506) — [source page](https://limitless.framer.photos/)
+## Representative captures
+[![Limitless - Framer Website Template for Agencies](https://pin.fontofweb.com/9507?format=jpg)](https://design.withfudge.com/pin/9507)
+[Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9507) — [source page](https://limitless.framer.photos/)
+
+[![Limitless - Framer Website Template for Agencies](https://pin.fontofweb.com/9506?format=jpg)](https://design.withfudge.com/pin/9506)
+[Limitless - Framer Website Template for Agencies](https://design.withfudge.com/pin/9506) — [source page](https://limitless.framer.photos/)

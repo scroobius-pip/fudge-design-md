@@ -6,6 +6,10 @@ Source domain: [instagram.com](https://instagram.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7159
+-->
+
 Here is the visual system observed across **2 captured pages** from [instagram.com](https://instagram.com).
 
 ```fudge-colors
@@ -105,6 +109,9 @@ Here is the visual system observed across **2 captured pages** from [instagram.c
 }
 ```
 
-## References
-- [Instagram](https://design.withfudge.com/pin/7159) — [source page](https://instagram.com/reels/DVJSDDsCOFT/)
-- [Instagram](https://design.withfudge.com/pin/5713) — [source page](https://instagram.com/p/DSI1F2Kkq71/)
+## Representative captures
+[![Instagram](https://pin.fontofweb.com/7159?format=jpg)](https://design.withfudge.com/pin/7159)
+[Instagram](https://design.withfudge.com/pin/7159) — [source page](https://instagram.com/reels/DVJSDDsCOFT/)
+
+[![Instagram](https://pin.fontofweb.com/5713?format=jpg)](https://design.withfudge.com/pin/5713)
+[Instagram](https://design.withfudge.com/pin/5713) — [source page](https://instagram.com/p/DSI1F2Kkq71/)

@@ -6,6 +6,10 @@ Source domain: [baselight.app](https://baselight.app)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7855
+-->
+
 Here is the visual system observed across **1 captured page** from [baselight.app](https://baselight.app).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [baselight.ap
 }
 ```
 
-## References
-- [Welcome to Baselight | Baselight](https://design.withfudge.com/pin/7855) — [source page](https://baselight.app/)
+## Representative captures
+[![Welcome to Baselight | Baselight](https://pin.fontofweb.com/7855?format=jpg)](https://design.withfudge.com/pin/7855)
+[Welcome to Baselight | Baselight](https://design.withfudge.com/pin/7855) — [source page](https://baselight.app/)

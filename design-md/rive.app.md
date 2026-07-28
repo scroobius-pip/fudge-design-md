@@ -6,6 +6,10 @@ Source domain: [rive.app](https://rive.app)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9764
+-->
+
 Here is the visual system observed across **4 captured pages** from [rive.app](https://rive.app).
 
 ```fudge-colors
@@ -215,8 +219,15 @@ Here is the visual system observed across **4 captured pages** from [rive.app](h
 }
 ```
 
-## References
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9764) — [source page](https://rive.app/)
-- [Rive - Log in](https://design.withfudge.com/pin/9763) — [source page](https://rive.app/login/)
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9762) — [source page](https://rive.app/)
-- [Rive — the interactive experience engine](https://design.withfudge.com/pin/9761) — [source page](https://rive.app/)
+## Representative captures
+[![Rive — the interactive experience engine](https://pin.fontofweb.com/9764?format=jpg)](https://design.withfudge.com/pin/9764)
+[Rive — the interactive experience engine](https://design.withfudge.com/pin/9764) — [source page](https://rive.app/)
+
+[![Rive - Log in](https://pin.fontofweb.com/9763?format=jpg)](https://design.withfudge.com/pin/9763)
+[Rive - Log in](https://design.withfudge.com/pin/9763) — [source page](https://rive.app/login/)
+
+[![Rive — the interactive experience engine](https://pin.fontofweb.com/9762?format=jpg)](https://design.withfudge.com/pin/9762)
+[Rive — the interactive experience engine](https://design.withfudge.com/pin/9762) — [source page](https://rive.app/)
+
+[![Rive — the interactive experience engine](https://pin.fontofweb.com/9761?format=jpg)](https://design.withfudge.com/pin/9761)
+[Rive — the interactive experience engine](https://design.withfudge.com/pin/9761) — [source page](https://rive.app/)

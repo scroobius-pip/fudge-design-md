@@ -6,6 +6,10 @@ Source domain: [mangle.readthedocs.io](https://mangle.readthedocs.io)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6083
+-->
+
 Here is the visual system observed across **2 captured pages** from [mangle.readthedocs.io](https://mangle.readthedocs.io).
 
 ```fudge-colors
@@ -83,6 +87,9 @@ Here is the visual system observed across **2 captured pages** from [mangle.read
 }
 ```
 
-## References
-- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6083) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)
-- [Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6082) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)
+## Representative captures
+[![Getting to know Datalog — Mangle Datalog documentation](https://pin.fontofweb.com/6083?format=jpg)](https://design.withfudge.com/pin/6083)
+[Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6083) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)
+
+[![Getting to know Datalog — Mangle Datalog documentation](https://pin.fontofweb.com/6082?format=jpg)](https://design.withfudge.com/pin/6082)
+[Getting to know Datalog — Mangle Datalog documentation](https://design.withfudge.com/pin/6082) — [source page](https://mangle.readthedocs.io/en/latest/datalog.html)

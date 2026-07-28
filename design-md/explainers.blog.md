@@ -6,6 +6,10 @@ Source domain: [explainers.blog](https://explainers.blog)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6337
+-->
+
 Here is the visual system observed across **3 captured pages** from [explainers.blog](https://explainers.blog).
 
 ```fudge-colors
@@ -152,7 +156,12 @@ Here is the visual system observed across **3 captured pages** from [explainers.
 }
 ```
 
-## References
-- [Why is the sky blue?](https://design.withfudge.com/pin/6337) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
-- [Why is the sky blue?](https://design.withfudge.com/pin/6336) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
-- [Why is the sky blue?](https://design.withfudge.com/pin/6335) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
+## Representative captures
+[![Why is the sky blue?](https://pin.fontofweb.com/6337?format=jpg)](https://design.withfudge.com/pin/6337)
+[Why is the sky blue?](https://design.withfudge.com/pin/6337) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
+
+[![Why is the sky blue?](https://pin.fontofweb.com/6336?format=jpg)](https://design.withfudge.com/pin/6336)
+[Why is the sky blue?](https://design.withfudge.com/pin/6336) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)
+
+[![Why is the sky blue?](https://pin.fontofweb.com/6335?format=jpg)](https://design.withfudge.com/pin/6335)
+[Why is the sky blue?](https://design.withfudge.com/pin/6335) — [source page](https://explainers.blog/posts/why-is-the-sky-blue/)

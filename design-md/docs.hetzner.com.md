@@ -6,6 +6,10 @@ Source domain: [docs.hetzner.com](https://docs.hetzner.com)
 
 Last updated: 2026-06-15
 
+<!--
+coverPin: 9658
+-->
+
 Here is the visual system observed across **1 captured page** from [docs.hetzner.com](https://docs.hetzner.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [docs.hetzner
 }
 ```
 
-## References
-- [Hetzner Price Adjustment - Hetzner Docs](https://design.withfudge.com/pin/9658) — [source page](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+## Representative captures
+[![Hetzner Price Adjustment - Hetzner Docs](https://pin.fontofweb.com/9658?format=jpg)](https://design.withfudge.com/pin/9658)
+[Hetzner Price Adjustment - Hetzner Docs](https://design.withfudge.com/pin/9658) — [source page](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)

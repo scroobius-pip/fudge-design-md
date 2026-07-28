@@ -6,6 +6,10 @@ Source domain: [console.groq.com](https://console.groq.com)
 
 Last updated: 2026-05-29
 
+<!--
+coverPin: 9484
+-->
+
 Here is the visual system observed across **2 captured pages** from [console.groq.com](https://console.groq.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [console.gro
 }
 ```
 
-## References
-- [GroqCloud](https://design.withfudge.com/pin/9484) — [source page](https://console.groq.com/home)
-- [GroqCloud](https://design.withfudge.com/pin/9483) — [source page](https://console.groq.com/home)
+## Representative captures
+[![GroqCloud](https://pin.fontofweb.com/9484?format=jpg)](https://design.withfudge.com/pin/9484)
+[GroqCloud](https://design.withfudge.com/pin/9484) — [source page](https://console.groq.com/home)
+
+[![GroqCloud](https://pin.fontofweb.com/9483?format=jpg)](https://design.withfudge.com/pin/9483)
+[GroqCloud](https://design.withfudge.com/pin/9483) — [source page](https://console.groq.com/home)

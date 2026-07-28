@@ -6,6 +6,10 @@ Source domain: [qntm.org](https://qntm.org)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6490
+-->
+
 Here is the visual system observed across **2 captured pages** from [qntm.org](https://qntm.org).
 
 ```fudge-colors
@@ -105,6 +109,9 @@ Here is the visual system observed across **2 captured pages** from [qntm.org](h
 }
 ```
 
-## References
-- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/6490) — [source page](https://qntm.org/)
-- [Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/5100) — [source page](https://qntm.org/)
+## Representative captures
+[![Things Of Interest @ Things Of Interest](https://pin.fontofweb.com/6490?format=jpg)](https://design.withfudge.com/pin/6490)
+[Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/6490) — [source page](https://qntm.org/)
+
+[![Things Of Interest @ Things Of Interest](https://pin.fontofweb.com/5100?format=jpg)](https://design.withfudge.com/pin/5100)
+[Things Of Interest @ Things Of Interest](https://design.withfudge.com/pin/5100) — [source page](https://qntm.org/)

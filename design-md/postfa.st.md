@@ -6,6 +6,10 @@ Source domain: [postfa.st](https://postfa.st)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7482
+-->
+
 Here is the visual system observed across **2 captured pages** from [postfa.st](https://postfa.st).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [postfa.st](
 }
 ```
 
-## References
-- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7482) — [source page](https://postfa.st/)
-- [Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7481) — [source page](https://postfa.st/)
+## Representative captures
+[![Schedule Social Media Posts Across All Platforms | PostFast](https://pin.fontofweb.com/7482?format=jpg)](https://design.withfudge.com/pin/7482)
+[Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7482) — [source page](https://postfa.st/)
+
+[![Schedule Social Media Posts Across All Platforms | PostFast](https://pin.fontofweb.com/7481?format=jpg)](https://design.withfudge.com/pin/7481)
+[Schedule Social Media Posts Across All Platforms | PostFast](https://design.withfudge.com/pin/7481) — [source page](https://postfa.st/)

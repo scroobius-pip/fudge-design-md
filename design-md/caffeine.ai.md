@@ -6,6 +6,10 @@ Source domain: [caffeine.ai](https://caffeine.ai)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8830
+-->
+
 Here is the visual system observed across **2 captured pages** from [caffeine.ai](https://caffeine.ai).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [caffeine.ai
 }
 ```
 
-## References
-- [Caffeine - A Self-Writing Internet Technology](https://design.withfudge.com/pin/8830) — [source page](https://caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings)
-- [About Caffeine](https://design.withfudge.com/pin/7229) — [source page](https://caffeine.ai/info)
+## Representative captures
+[![Caffeine - A Self-Writing Internet Technology](https://pin.fontofweb.com/8830?format=jpg)](https://design.withfudge.com/pin/8830)
+[Caffeine - A Self-Writing Internet Technology](https://design.withfudge.com/pin/8830) — [source page](https://caffeine.ai/chat/019d8e6f-a979-7168-a915-b75fefbf932e/settings)
+
+[![About Caffeine](https://pin.fontofweb.com/7229?format=jpg)](https://design.withfudge.com/pin/7229)
+[About Caffeine](https://design.withfudge.com/pin/7229) — [source page](https://caffeine.ai/info)

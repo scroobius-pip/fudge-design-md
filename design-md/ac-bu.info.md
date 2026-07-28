@@ -6,6 +6,10 @@ Source domain: [ac-bu.info](https://ac-bu.info)
 
 Last updated: 2026-03-14
 
+<!--
+coverPin: 8085
+-->
+
 Here is the visual system observed across **1 captured page** from [ac-bu.info](https://ac-bu.info).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [ac-bu.info](
 }
 ```
 
-## References
-- [Kindolphin : GIF Manga Reader by AC-bu](https://design.withfudge.com/pin/8085) — [source page](https://ac-bu.info/kindolphin/)
+## Representative captures
+[![Kindolphin : GIF Manga Reader by AC-bu](https://pin.fontofweb.com/8085?format=jpg)](https://design.withfudge.com/pin/8085)
+[Kindolphin : GIF Manga Reader by AC-bu](https://design.withfudge.com/pin/8085) — [source page](https://ac-bu.info/kindolphin/)

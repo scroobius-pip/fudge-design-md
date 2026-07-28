@@ -6,6 +6,10 @@ Source domain: [offmenu.design](https://offmenu.design)
 
 Last updated: 2026-04-12
 
+<!--
+coverPin: 8812
+-->
+
 Here is the visual system observed across **18 captured pages** from [offmenu.design](https://offmenu.design).
 
 ```fudge-colors
@@ -303,12 +307,27 @@ Here is the visual system observed across **18 captured pages** from [offmenu.de
 }
 ```
 
-## References
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8812) — [source page](https://offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8811) — [source page](https://offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8810) — [source page](https://offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8809) — [source page](https://offmenu.design/work/ditto)
-- [Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8808) — [source page](https://offmenu.design/work/ditto)
-- [Off Menu — AI-Native Studio for Agentic Interfaces](https://design.withfudge.com/pin/8807) — [source page](https://offmenu.design/)
-- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8554) — [source page](https://offmenu.design/work/resonant)
-- [Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8553) — [source page](https://offmenu.design/work/resonant)
+## Representative captures
+[![Ditto Case Study | Off Menu](https://pin.fontofweb.com/8812?format=jpg)](https://design.withfudge.com/pin/8812)
+[Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8812) — [source page](https://offmenu.design/work/ditto)
+
+[![Ditto Case Study | Off Menu](https://pin.fontofweb.com/8811?format=jpg)](https://design.withfudge.com/pin/8811)
+[Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8811) — [source page](https://offmenu.design/work/ditto)
+
+[![Ditto Case Study | Off Menu](https://pin.fontofweb.com/8810?format=jpg)](https://design.withfudge.com/pin/8810)
+[Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8810) — [source page](https://offmenu.design/work/ditto)
+
+[![Ditto Case Study | Off Menu](https://pin.fontofweb.com/8809?format=jpg)](https://design.withfudge.com/pin/8809)
+[Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8809) — [source page](https://offmenu.design/work/ditto)
+
+[![Ditto Case Study | Off Menu](https://pin.fontofweb.com/8808?format=jpg)](https://design.withfudge.com/pin/8808)
+[Ditto Case Study | Off Menu](https://design.withfudge.com/pin/8808) — [source page](https://offmenu.design/work/ditto)
+
+[![Off Menu — AI-Native Studio for Agentic Interfaces](https://pin.fontofweb.com/8807?format=jpg)](https://design.withfudge.com/pin/8807)
+[Off Menu — AI-Native Studio for Agentic Interfaces](https://design.withfudge.com/pin/8807) — [source page](https://offmenu.design/)
+
+[![Resonant Case Study | Off Menu](https://pin.fontofweb.com/8554?format=jpg)](https://design.withfudge.com/pin/8554)
+[Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8554) — [source page](https://offmenu.design/work/resonant)
+
+[![Resonant Case Study | Off Menu](https://pin.fontofweb.com/8553?format=jpg)](https://design.withfudge.com/pin/8553)
+[Resonant Case Study | Off Menu](https://design.withfudge.com/pin/8553) — [source page](https://offmenu.design/work/resonant)

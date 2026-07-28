@@ -6,6 +6,10 @@ Source domain: [airo-builder.godaddy.com](https://airo-builder.godaddy.com)
 
 Last updated: 2026-05-09
 
+<!--
+coverPin: 9208
+-->
+
 Here is the visual system observed across **1 captured page** from [airo-builder.godaddy.com](https://airo-builder.godaddy.com).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [airo-builder
 }
 ```
 
-## References
-- [GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9208) — [source page](https://airo-builder.godaddy.com/)
+## Representative captures
+[![GoDaddy Airo AI Builder](https://pin.fontofweb.com/9208?format=jpg)](https://design.withfudge.com/pin/9208)
+[GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9208) — [source page](https://airo-builder.godaddy.com/)

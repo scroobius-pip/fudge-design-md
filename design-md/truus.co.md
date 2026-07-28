@@ -6,6 +6,10 @@ Source domain: [truus.co](https://truus.co)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6924
+-->
+
 Here is the visual system observed across **10 captured pages** from [truus.co](https://truus.co).
 
 ```fudge-colors
@@ -300,12 +304,27 @@ Here is the visual system observed across **10 captured pages** from [truus.co](
 }
 ```
 
-## References
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6924) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6923) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6922) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6921) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6920) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6919) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6918) — [source page](https://truus.co/)
-- [Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6917) — [source page](https://truus.co/)
+## Representative captures
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6924?format=jpg)](https://design.withfudge.com/pin/6924)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6924) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6923?format=jpg)](https://design.withfudge.com/pin/6923)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6923) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6922?format=jpg)](https://design.withfudge.com/pin/6922)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6922) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6921?format=jpg)](https://design.withfudge.com/pin/6921)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6921) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6920?format=jpg)](https://design.withfudge.com/pin/6920)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6920) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6919?format=jpg)](https://design.withfudge.com/pin/6919)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6919) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6918?format=jpg)](https://design.withfudge.com/pin/6918)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6918) — [source page](https://truus.co/)
+
+[![Truus - We make advertising for the new mainstream](https://pin.fontofweb.com/6917?format=jpg)](https://design.withfudge.com/pin/6917)
+[Truus - We make advertising for the new mainstream](https://design.withfudge.com/pin/6917) — [source page](https://truus.co/)

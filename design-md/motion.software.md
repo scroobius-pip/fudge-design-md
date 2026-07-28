@@ -6,6 +6,10 @@ Source domain: [motion.software](https://motion.software)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7006
+-->
+
 Here is the visual system observed across **17 captured pages** from [motion.software](https://motion.software).
 
 ```fudge-colors
@@ -318,12 +322,27 @@ Here is the visual system observed across **17 captured pages** from [motion.sof
 }
 ```
 
-## References
-- [Motion – Changelog](https://design.withfudge.com/pin/7006) — [source page](https://motion.software/changelog)
-- [Motion – Log in](https://design.withfudge.com/pin/7005) — [source page](https://motion.software/login)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7004) — [source page](https://motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7003) — [source page](https://motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7002) — [source page](https://motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7001) — [source page](https://motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7000) — [source page](https://motion.software/)
-- [Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/6999) — [source page](https://motion.software/)
+## Representative captures
+[![Motion – Changelog](https://pin.fontofweb.com/7006?format=jpg)](https://design.withfudge.com/pin/7006)
+[Motion – Changelog](https://design.withfudge.com/pin/7006) — [source page](https://motion.software/changelog)
+
+[![Motion – Log in](https://pin.fontofweb.com/7005?format=jpg)](https://design.withfudge.com/pin/7005)
+[Motion – Log in](https://design.withfudge.com/pin/7005) — [source page](https://motion.software/login)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/7004?format=jpg)](https://design.withfudge.com/pin/7004)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7004) — [source page](https://motion.software/)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/7003?format=jpg)](https://design.withfudge.com/pin/7003)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7003) — [source page](https://motion.software/)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/7002?format=jpg)](https://design.withfudge.com/pin/7002)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7002) — [source page](https://motion.software/)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/7001?format=jpg)](https://design.withfudge.com/pin/7001)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7001) — [source page](https://motion.software/)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/7000?format=jpg)](https://design.withfudge.com/pin/7000)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/7000) — [source page](https://motion.software/)
+
+[![Motion – The modern screen recorder for Windows](https://pin.fontofweb.com/6999?format=jpg)](https://design.withfudge.com/pin/6999)
+[Motion – The modern screen recorder for Windows](https://design.withfudge.com/pin/6999) — [source page](https://motion.software/)

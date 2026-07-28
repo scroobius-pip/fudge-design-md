@@ -6,6 +6,10 @@ Source domain: [ledger.com](https://ledger.com)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7797
+-->
+
 Here is the visual system observed across **3 captured pages** from [ledger.com](https://ledger.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [ledger.com]
 }
 ```
 
-## References
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7797) — [source page](https://ledger.com/)
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7796) — [source page](https://ledger.com/)
-- [Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7795) — [source page](https://ledger.com/)
+## Representative captures
+[![Ledger Crypto Wallet - Security for DeFi & Web3](https://pin.fontofweb.com/7797?format=jpg)](https://design.withfudge.com/pin/7797)
+[Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7797) — [source page](https://ledger.com/)
+
+[![Ledger Crypto Wallet - Security for DeFi & Web3](https://pin.fontofweb.com/7796?format=jpg)](https://design.withfudge.com/pin/7796)
+[Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7796) — [source page](https://ledger.com/)
+
+[![Ledger Crypto Wallet - Security for DeFi & Web3](https://pin.fontofweb.com/7795?format=jpg)](https://design.withfudge.com/pin/7795)
+[Ledger Crypto Wallet - Security for DeFi & Web3](https://design.withfudge.com/pin/7795) — [source page](https://ledger.com/)

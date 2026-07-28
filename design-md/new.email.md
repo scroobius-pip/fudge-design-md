@@ -6,6 +6,10 @@ Source domain: [new.email](https://new.email)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7201
+-->
+
 Here is the visual system observed across **7 captured pages** from [new.email](https://new.email).
 
 ```fudge-colors
@@ -219,11 +223,24 @@ Here is the visual system observed across **7 captured pages** from [new.email](
 }
 ```
 
-## References
-- [Untitled | new.email by Resend](https://design.withfudge.com/pin/7201) — [source page](https://new.email/chat/f004f442-7aa4-47d0-be0c-252a1c079c19)
-- [new.email by Resend](https://design.withfudge.com/pin/7200) — [source page](https://new.email/)
-- [new.email by Resend](https://design.withfudge.com/pin/7199) — [source page](https://new.email/)
-- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7198) — [source page](https://new.email/brand-kits)
-- [Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7197) — [source page](https://new.email/brand-kits)
-- [new.email by Resend](https://design.withfudge.com/pin/7196) — [source page](https://new.email/)
-- [Sign up | new.email by Resend](https://design.withfudge.com/pin/7195) — [source page](https://new.email/sign-up)
+## Representative captures
+[![Untitled | new.email by Resend](https://pin.fontofweb.com/7201?format=jpg)](https://design.withfudge.com/pin/7201)
+[Untitled | new.email by Resend](https://design.withfudge.com/pin/7201) — [source page](https://new.email/chat/f004f442-7aa4-47d0-be0c-252a1c079c19)
+
+[![new.email by Resend](https://pin.fontofweb.com/7200?format=jpg)](https://design.withfudge.com/pin/7200)
+[new.email by Resend](https://design.withfudge.com/pin/7200) — [source page](https://new.email/)
+
+[![new.email by Resend](https://pin.fontofweb.com/7199?format=jpg)](https://design.withfudge.com/pin/7199)
+[new.email by Resend](https://design.withfudge.com/pin/7199) — [source page](https://new.email/)
+
+[![Brand Kits | new.email by Resend](https://pin.fontofweb.com/7198?format=jpg)](https://design.withfudge.com/pin/7198)
+[Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7198) — [source page](https://new.email/brand-kits)
+
+[![Brand Kits | new.email by Resend](https://pin.fontofweb.com/7197?format=jpg)](https://design.withfudge.com/pin/7197)
+[Brand Kits | new.email by Resend](https://design.withfudge.com/pin/7197) — [source page](https://new.email/brand-kits)
+
+[![new.email by Resend](https://pin.fontofweb.com/7196?format=jpg)](https://design.withfudge.com/pin/7196)
+[new.email by Resend](https://design.withfudge.com/pin/7196) — [source page](https://new.email/)
+
+[![Sign up | new.email by Resend](https://pin.fontofweb.com/7195?format=jpg)](https://design.withfudge.com/pin/7195)
+[Sign up | new.email by Resend](https://design.withfudge.com/pin/7195) — [source page](https://new.email/sign-up)

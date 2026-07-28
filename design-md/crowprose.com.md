@@ -6,6 +6,10 @@ Source domain: [crowprose.com](https://crowprose.com)
 
 Last updated: 2026-02-04
 
+<!--
+coverPin: 6283
+-->
+
 Here is the visual system observed across **2 captured pages** from [crowprose.com](https://crowprose.com).
 
 ```fudge-colors
@@ -101,6 +105,9 @@ Here is the visual system observed across **2 captured pages** from [crowprose.c
 }
 ```
 
-## References
-- [Writing | Joe McKenney](https://design.withfudge.com/pin/6283) — [source page](https://crowprose.com/blog/)
-- [Competence as Tragedy](https://design.withfudge.com/pin/6282) — [source page](https://crowprose.com/blog/competence-as-tragedy/)
+## Representative captures
+[![Writing | Joe McKenney](https://pin.fontofweb.com/6283?format=jpg)](https://design.withfudge.com/pin/6283)
+[Writing | Joe McKenney](https://design.withfudge.com/pin/6283) — [source page](https://crowprose.com/blog/)
+
+[![Competence as Tragedy](https://pin.fontofweb.com/6282?format=jpg)](https://design.withfudge.com/pin/6282)
+[Competence as Tragedy](https://design.withfudge.com/pin/6282) — [source page](https://crowprose.com/blog/competence-as-tragedy/)

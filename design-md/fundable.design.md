@@ -6,6 +6,10 @@ Source domain: [fundable.design](https://fundable.design)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6714
+-->
+
 Here is the visual system observed across **6 captured pages** from [fundable.design](https://fundable.design).
 
 ```fudge-colors
@@ -187,10 +191,21 @@ Here is the visual system observed across **6 captured pages** from [fundable.de
 }
 ```
 
-## References
-- [Fundable — Logo Design](https://design.withfudge.com/pin/6714) — [source page](https://fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5699) — [source page](https://fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5698) — [source page](https://fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5697) — [source page](https://fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5696) — [source page](https://fundable.design/)
-- [Fundable](https://design.withfudge.com/pin/5695) — [source page](https://fundable.design/)
+## Representative captures
+[![Fundable — Logo Design](https://pin.fontofweb.com/6714?format=jpg)](https://design.withfudge.com/pin/6714)
+[Fundable — Logo Design](https://design.withfudge.com/pin/6714) — [source page](https://fundable.design/)
+
+[![Fundable](https://pin.fontofweb.com/5699?format=jpg)](https://design.withfudge.com/pin/5699)
+[Fundable](https://design.withfudge.com/pin/5699) — [source page](https://fundable.design/)
+
+[![Fundable](https://pin.fontofweb.com/5698?format=jpg)](https://design.withfudge.com/pin/5698)
+[Fundable](https://design.withfudge.com/pin/5698) — [source page](https://fundable.design/)
+
+[![Fundable](https://pin.fontofweb.com/5697?format=jpg)](https://design.withfudge.com/pin/5697)
+[Fundable](https://design.withfudge.com/pin/5697) — [source page](https://fundable.design/)
+
+[![Fundable](https://pin.fontofweb.com/5696?format=jpg)](https://design.withfudge.com/pin/5696)
+[Fundable](https://design.withfudge.com/pin/5696) — [source page](https://fundable.design/)
+
+[![Fundable](https://pin.fontofweb.com/5695?format=jpg)](https://design.withfudge.com/pin/5695)
+[Fundable](https://design.withfudge.com/pin/5695) — [source page](https://fundable.design/)

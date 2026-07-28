@@ -6,6 +6,10 @@ Source domain: [hermes4.nousresearch.com](https://hermes4.nousresearch.com)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7872
+-->
+
 Here is the visual system observed across **4 captured pages** from [hermes4.nousresearch.com](https://hermes4.nousresearch.com).
 
 ```fudge-colors
@@ -197,8 +201,15 @@ Here is the visual system observed across **4 captured pages** from [hermes4.nou
 }
 ```
 
-## References
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7872) — [source page](https://hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7871) — [source page](https://hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7870) — [source page](https://hermes4.nousresearch.com/)
-- [Hermes 4 - Nous Research](https://design.withfudge.com/pin/7869) — [source page](https://hermes4.nousresearch.com/)
+## Representative captures
+[![Hermes 4 - Nous Research](https://pin.fontofweb.com/7872?format=jpg)](https://design.withfudge.com/pin/7872)
+[Hermes 4 - Nous Research](https://design.withfudge.com/pin/7872) — [source page](https://hermes4.nousresearch.com/)
+
+[![Hermes 4 - Nous Research](https://pin.fontofweb.com/7871?format=jpg)](https://design.withfudge.com/pin/7871)
+[Hermes 4 - Nous Research](https://design.withfudge.com/pin/7871) — [source page](https://hermes4.nousresearch.com/)
+
+[![Hermes 4 - Nous Research](https://pin.fontofweb.com/7870?format=jpg)](https://design.withfudge.com/pin/7870)
+[Hermes 4 - Nous Research](https://design.withfudge.com/pin/7870) — [source page](https://hermes4.nousresearch.com/)
+
+[![Hermes 4 - Nous Research](https://pin.fontofweb.com/7869?format=jpg)](https://design.withfudge.com/pin/7869)
+[Hermes 4 - Nous Research](https://design.withfudge.com/pin/7869) — [source page](https://hermes4.nousresearch.com/)

@@ -6,6 +6,10 @@ Source domain: [auth.twitch.tv](https://auth.twitch.tv)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8525
+-->
+
 Here is the visual system observed across **1 captured page** from [auth.twitch.tv](https://auth.twitch.tv).
 
 ```fudge-colors
@@ -96,5 +100,6 @@ Here is the visual system observed across **1 captured page** from [auth.twitch.
 }
 ```
 
-## References
-- [Twitch Auth](https://design.withfudge.com/pin/8525) — [source page](https://auth.twitch.tv/authorize)
+## Representative captures
+[![Twitch Auth](https://pin.fontofweb.com/8525?format=jpg)](https://design.withfudge.com/pin/8525)
+[Twitch Auth](https://design.withfudge.com/pin/8525) — [source page](https://auth.twitch.tv/authorize)

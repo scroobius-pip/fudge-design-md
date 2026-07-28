@@ -6,6 +6,10 @@ Source domain: [openinterpreter.com](https://openinterpreter.com)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6840
+-->
+
 Here is the visual system observed across **2 captured pages** from [openinterpreter.com](https://openinterpreter.com).
 
 ```fudge-colors
@@ -106,6 +110,9 @@ Here is the visual system observed across **2 captured pages** from [openinterpr
 }
 ```
 
-## References
-- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6840) — [source page](https://openinterpreter.com/)
-- [Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6839) — [source page](https://openinterpreter.com/)
+## Representative captures
+[![Interpreter: The Desktop Agent](https://pin.fontofweb.com/6840?format=jpg)](https://design.withfudge.com/pin/6840)
+[Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6840) — [source page](https://openinterpreter.com/)
+
+[![Interpreter: The Desktop Agent](https://pin.fontofweb.com/6839?format=jpg)](https://design.withfudge.com/pin/6839)
+[Interpreter: The Desktop Agent](https://design.withfudge.com/pin/6839) — [source page](https://openinterpreter.com/)

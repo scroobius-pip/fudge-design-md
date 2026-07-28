@@ -6,6 +6,10 @@ Source domain: [motherduck.com](https://motherduck.com)
 
 Last updated: 2026-05-17
 
+<!--
+coverPin: 9374
+-->
+
 Here is the visual system observed across **4 captured pages** from [motherduck.com](https://motherduck.com).
 
 ```fudge-colors
@@ -177,8 +181,15 @@ Here is the visual system observed across **4 captured pages** from [motherduck.
 }
 ```
 
-## References
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9374) — [source page](https://motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9373) — [source page](https://motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9372) — [source page](https://motherduck.com/)
-- [MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9371) — [source page](https://motherduck.com/)
+## Representative captures
+[![MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://pin.fontofweb.com/9374?format=jpg)](https://design.withfudge.com/pin/9374)
+[MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9374) — [source page](https://motherduck.com/)
+
+[![MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://pin.fontofweb.com/9373?format=jpg)](https://design.withfudge.com/pin/9373)
+[MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9373) — [source page](https://motherduck.com/)
+
+[![MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://pin.fontofweb.com/9372?format=jpg)](https://design.withfudge.com/pin/9372)
+[MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9372) — [source page](https://motherduck.com/)
+
+[![MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://pin.fontofweb.com/9371?format=jpg)](https://design.withfudge.com/pin/9371)
+[MotherDuck | The Cloud Data Warehouse Built on DuckDB](https://design.withfudge.com/pin/9371) — [source page](https://motherduck.com/)

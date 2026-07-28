@@ -6,6 +6,10 @@ Source domain: [app.endl.io](https://app.endl.io)
 
 Last updated: 2026-07-05
 
+<!--
+coverPin: 9906
+-->
+
 Here is the visual system observed across **1 captured page** from [app.endl.io](https://app.endl.io).
 
 ```fudge-colors
@@ -110,5 +114,6 @@ Here is the visual system observed across **1 captured page** from [app.endl.io]
 }
 ```
 
-## References
-- [endl](https://design.withfudge.com/pin/9906) — [source page](https://app.endl.io/signup)
+## Representative captures
+[![endl](https://pin.fontofweb.com/9906?format=jpg)](https://design.withfudge.com/pin/9906)
+[endl](https://design.withfudge.com/pin/9906) — [source page](https://app.endl.io/signup)

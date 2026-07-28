@@ -6,6 +6,10 @@ Source domain: [fonts.google.com](https://fonts.google.com)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10216
+-->
+
 Here is the visual system observed across **1 captured page** from [fonts.google.com](https://fonts.google.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [fonts.google
 }
 ```
 
-## References
-- [Mozilla Headline - Google Fonts](https://design.withfudge.com/pin/10216) — [source page](https://fonts.google.com/specimen/Mozilla+Headline)
+## Representative captures
+[![Mozilla Headline - Google Fonts](https://pin.fontofweb.com/10216?format=jpg)](https://design.withfudge.com/pin/10216)
+[Mozilla Headline - Google Fonts](https://design.withfudge.com/pin/10216) — [source page](https://fonts.google.com/specimen/Mozilla+Headline)

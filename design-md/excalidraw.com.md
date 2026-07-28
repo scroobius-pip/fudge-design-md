@@ -6,6 +6,10 @@ Source domain: [excalidraw.com](https://excalidraw.com)
 
 Last updated: 2026-03-16
 
+<!--
+coverPin: 8125
+-->
+
 Here is the visual system observed across **1 captured page** from [excalidraw.com](https://excalidraw.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [excalidraw.c
 }
 ```
 
-## References
-- [Excalidraw Whiteboard](https://design.withfudge.com/pin/8125) — [source page](https://excalidraw.com/)
+## Representative captures
+[![Excalidraw Whiteboard](https://pin.fontofweb.com/8125?format=jpg)](https://design.withfudge.com/pin/8125)
+[Excalidraw Whiteboard](https://design.withfudge.com/pin/8125) — [source page](https://excalidraw.com/)

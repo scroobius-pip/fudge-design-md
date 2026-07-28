@@ -6,6 +6,10 @@ Source domain: [research.google](https://research.google)
 
 Last updated: 2026-06-13
 
+<!--
+coverPin: 9578
+-->
+
 Here is the visual system observed across **14 captured pages** from [research.google](https://research.google).
 
 ```fudge-colors
@@ -362,12 +366,27 @@ Here is the visual system observed across **14 captured pages** from [research.g
 }
 ```
 
-## References
-- [People – Google Research](https://design.withfudge.com/pin/9578) — [source page](https://research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9577) — [source page](https://research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9576) — [source page](https://research.google/people/)
-- [People – Google Research](https://design.withfudge.com/pin/9575) — [source page](https://research.google/people/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9574) — [source page](https://research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9573) — [source page](https://research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9572) — [source page](https://research.google/resources/)
-- [Resources – Google Research](https://design.withfudge.com/pin/9571) — [source page](https://research.google/resources/)
+## Representative captures
+[![People – Google Research](https://pin.fontofweb.com/9578?format=jpg)](https://design.withfudge.com/pin/9578)
+[People – Google Research](https://design.withfudge.com/pin/9578) — [source page](https://research.google/people/)
+
+[![People – Google Research](https://pin.fontofweb.com/9577?format=jpg)](https://design.withfudge.com/pin/9577)
+[People – Google Research](https://design.withfudge.com/pin/9577) — [source page](https://research.google/people/)
+
+[![People – Google Research](https://pin.fontofweb.com/9576?format=jpg)](https://design.withfudge.com/pin/9576)
+[People – Google Research](https://design.withfudge.com/pin/9576) — [source page](https://research.google/people/)
+
+[![People – Google Research](https://pin.fontofweb.com/9575?format=jpg)](https://design.withfudge.com/pin/9575)
+[People – Google Research](https://design.withfudge.com/pin/9575) — [source page](https://research.google/people/)
+
+[![Resources – Google Research](https://pin.fontofweb.com/9574?format=jpg)](https://design.withfudge.com/pin/9574)
+[Resources – Google Research](https://design.withfudge.com/pin/9574) — [source page](https://research.google/resources/)
+
+[![Resources – Google Research](https://pin.fontofweb.com/9573?format=jpg)](https://design.withfudge.com/pin/9573)
+[Resources – Google Research](https://design.withfudge.com/pin/9573) — [source page](https://research.google/resources/)
+
+[![Resources – Google Research](https://pin.fontofweb.com/9572?format=jpg)](https://design.withfudge.com/pin/9572)
+[Resources – Google Research](https://design.withfudge.com/pin/9572) — [source page](https://research.google/resources/)
+
+[![Resources – Google Research](https://pin.fontofweb.com/9571?format=jpg)](https://design.withfudge.com/pin/9571)
+[Resources – Google Research](https://design.withfudge.com/pin/9571) — [source page](https://research.google/resources/)

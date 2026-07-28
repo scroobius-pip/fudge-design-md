@@ -6,6 +6,10 @@ Source domain: [celesteduffy.com](https://celesteduffy.com)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7863
+-->
+
 Here is the visual system observed across **8 captured pages** from [celesteduffy.com](https://celesteduffy.com).
 
 ```fudge-colors
@@ -244,12 +248,27 @@ Here is the visual system observed across **8 captured pages** from [celesteduff
 }
 ```
 
-## References
-- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7863) — [source page](https://celesteduffy.com/contact)
-- [About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7862) — [source page](https://celesteduffy.com/contact)
-- [Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7861) — [source page](https://celesteduffy.com/licensing-1)
-- [General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7860) — [source page](https://celesteduffy.com/portfolio)
-- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7859) — [source page](https://celesteduffy.com/prints)
-- [Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7858) — [source page](https://celesteduffy.com/prints)
-- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7857) — [source page](https://celesteduffy.com/)
-- [Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7856) — [source page](https://celesteduffy.com/)
+## Representative captures
+[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7863?format=jpg)](https://design.withfudge.com/pin/7863)
+[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7863) — [source page](https://celesteduffy.com/contact)
+
+[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7862?format=jpg)](https://design.withfudge.com/pin/7862)
+[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7862) — [source page](https://celesteduffy.com/contact)
+
+[![Licensing — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7861?format=jpg)](https://design.withfudge.com/pin/7861)
+[Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7861) — [source page](https://celesteduffy.com/licensing-1)
+
+[![General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7860?format=jpg)](https://design.withfudge.com/pin/7860)
+[General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7860) — [source page](https://celesteduffy.com/portfolio)
+
+[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7859?format=jpg)](https://design.withfudge.com/pin/7859)
+[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7859) — [source page](https://celesteduffy.com/prints)
+
+[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7858?format=jpg)](https://design.withfudge.com/pin/7858)
+[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/pin/7858) — [source page](https://celesteduffy.com/prints)
+
+[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7857?format=jpg)](https://design.withfudge.com/pin/7857)
+[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7857) — [source page](https://celesteduffy.com/)
+
+[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7856?format=jpg)](https://design.withfudge.com/pin/7856)
+[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/pin/7856) — [source page](https://celesteduffy.com/)

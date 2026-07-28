@@ -6,6 +6,10 @@ Source domain: [workspace.google.com](https://workspace.google.com)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6903
+-->
+
 Here is the visual system observed across **5 captured pages** from [workspace.google.com](https://workspace.google.com).
 
 ```fudge-colors
@@ -182,9 +186,18 @@ Here is the visual system observed across **5 captured pages** from [workspace.g
 }
 ```
 
-## References
-- [Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6903) — [source page](https://workspace.google.com/products/tasks/)
-- [Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6902) — [source page](https://workspace.google.com/products/tasks/)
-- [Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6901) — [source page](https://workspace.google.com/products/tasks/)
-- [Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6900) — [source page](https://workspace.google.com/products/tasks/)
-- [Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6899) — [source page](https://workspace.google.com/products/tasks/)
+## Representative captures
+[![Organize & Track To-Dos with Google Tasks | Google Workspace](https://pin.fontofweb.com/6903?format=jpg)](https://design.withfudge.com/pin/6903)
+[Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6903) — [source page](https://workspace.google.com/products/tasks/)
+
+[![Organize & Track To-Dos with Google Tasks | Google Workspace](https://pin.fontofweb.com/6902?format=jpg)](https://design.withfudge.com/pin/6902)
+[Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6902) — [source page](https://workspace.google.com/products/tasks/)
+
+[![Organize & Track To-Dos with Google Tasks | Google Workspace](https://pin.fontofweb.com/6901?format=jpg)](https://design.withfudge.com/pin/6901)
+[Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6901) — [source page](https://workspace.google.com/products/tasks/)
+
+[![Organize & Track To-Dos with Google Tasks | Google Workspace](https://pin.fontofweb.com/6900?format=jpg)](https://design.withfudge.com/pin/6900)
+[Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6900) — [source page](https://workspace.google.com/products/tasks/)
+
+[![Organize & Track To-Dos with Google Tasks | Google Workspace](https://pin.fontofweb.com/6899?format=jpg)](https://design.withfudge.com/pin/6899)
+[Organize & Track To-Dos with Google Tasks | Google Workspace](https://design.withfudge.com/pin/6899) — [source page](https://workspace.google.com/products/tasks/)

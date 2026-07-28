@@ -6,6 +6,10 @@ Source domain: [slash.com](https://slash.com)
 
 Last updated: 2026-07-21
 
+<!--
+coverPin: 10440
+-->
+
 Here is the visual system observed across **1 captured page** from [slash.com](https://slash.com).
 
 ```fudge-colors
@@ -105,5 +109,6 @@ Here is the visual system observed across **1 captured page** from [slash.com](h
 }
 ```
 
-## References
-- [Business Banking, Cards & Treasury | Slash](https://design.withfudge.com/pin/10440) — [source page](https://slash.com/)
+## Representative captures
+[![Business Banking, Cards & Treasury | Slash](https://pin.fontofweb.com/10440?format=jpg)](https://design.withfudge.com/pin/10440)
+[Business Banking, Cards & Treasury | Slash](https://design.withfudge.com/pin/10440) — [source page](https://slash.com/)

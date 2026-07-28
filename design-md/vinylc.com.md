@@ -6,6 +6,10 @@ Source domain: [vinylc.com](https://vinylc.com)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10281
+-->
+
 Here is the visual system observed across **14 captured pages** from [vinylc.com](https://vinylc.com).
 
 ```fudge-colors
@@ -353,12 +357,27 @@ Here is the visual system observed across **14 captured pages** from [vinylc.com
 }
 ```
 
-## References
-- [간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10281) — [source page](https://vinylc.com/ko/works/gw00000072)
-- [간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10280) — [source page](https://vinylc.com/ko/works/gw00000072)
-- [간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10279) — [source page](https://vinylc.com/ko/works/gw00000072)
-- [간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10278) — [source page](https://vinylc.com/ko/works/gw00000072)
-- [일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10277) — [source page](https://vinylc.com/ko/works/gw00000083)
-- [일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10273) — [source page](https://vinylc.com/ko/works/gw00000083)
-- [일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10272) — [source page](https://vinylc.com/ko/works/gw00000083)
-- [일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10271) — [source page](https://vinylc.com/ko/works/gw00000083)
+## Representative captures
+[![간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://pin.fontofweb.com/10281?format=jpg)](https://design.withfudge.com/pin/10281)
+[간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10281) — [source page](https://vinylc.com/ko/works/gw00000072)
+
+[![간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://pin.fontofweb.com/10280?format=jpg)](https://design.withfudge.com/pin/10280)
+[간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10280) — [source page](https://vinylc.com/ko/works/gw00000072)
+
+[![간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://pin.fontofweb.com/10279?format=jpg)](https://design.withfudge.com/pin/10279)
+[간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10279) — [source page](https://vinylc.com/ko/works/gw00000072)
+
+[![간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://pin.fontofweb.com/10278?format=jpg)](https://design.withfudge.com/pin/10278)
+[간결한 사용자의 동선과 함께 다양한 혜택을 경험하는 요금 안내서 Bill Letter | Works | Practical UX VinylC](https://design.withfudge.com/pin/10278) — [source page](https://vinylc.com/ko/works/gw00000072)
+
+[![일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://pin.fontofweb.com/10277?format=jpg)](https://design.withfudge.com/pin/10277)
+[일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10277) — [source page](https://vinylc.com/ko/works/gw00000083)
+
+[![일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://pin.fontofweb.com/10273?format=jpg)](https://design.withfudge.com/pin/10273)
+[일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10273) — [source page](https://vinylc.com/ko/works/gw00000083)
+
+[![일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://pin.fontofweb.com/10272?format=jpg)](https://design.withfudge.com/pin/10272)
+[일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10272) — [source page](https://vinylc.com/ko/works/gw00000083)
+
+[![일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://pin.fontofweb.com/10271?format=jpg)](https://design.withfudge.com/pin/10271)
+[일관된 브랜드 경험을 위한 NH농협금융의 모바일 UI/UX 표준을 수립하다 | Works | Practical UX VinylC](https://design.withfudge.com/pin/10271) — [source page](https://vinylc.com/ko/works/gw00000083)

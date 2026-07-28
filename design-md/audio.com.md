@@ -6,6 +6,10 @@ Source domain: [audio.com](https://audio.com)
 
 Last updated: 2026-02-02
 
+<!--
+coverPin: 6245
+-->
+
 Here is the visual system observed across **10 captured pages** from [audio.com](https://audio.com).
 
 ```fudge-colors
@@ -267,12 +271,27 @@ Here is the visual system observed across **10 captured pages** from [audio.com]
 }
 ```
 
-## References
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6245) — [source page](https://audio.com/subscriptions)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6244) — [source page](https://audio.com/subscriptions)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6243) — [source page](https://audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6242) — [source page](https://audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6241) — [source page](https://audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6240) — [source page](https://audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6239) — [source page](https://audio.com/)
-- [audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6238) — [source page](https://audio.com/)
+## Representative captures
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6245?format=jpg)](https://design.withfudge.com/pin/6245)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6245) — [source page](https://audio.com/subscriptions)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6244?format=jpg)](https://design.withfudge.com/pin/6244)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6244) — [source page](https://audio.com/subscriptions)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6243?format=jpg)](https://design.withfudge.com/pin/6243)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6243) — [source page](https://audio.com/)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6242?format=jpg)](https://design.withfudge.com/pin/6242)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6242) — [source page](https://audio.com/)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6241?format=jpg)](https://design.withfudge.com/pin/6241)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6241) — [source page](https://audio.com/)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6240?format=jpg)](https://design.withfudge.com/pin/6240)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6240) — [source page](https://audio.com/)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6239?format=jpg)](https://design.withfudge.com/pin/6239)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6239) — [source page](https://audio.com/)
+
+[![audio.com - a better way to upload and share audio online](https://pin.fontofweb.com/6238?format=jpg)](https://design.withfudge.com/pin/6238)
+[audio.com - a better way to upload and share audio online](https://design.withfudge.com/pin/6238) — [source page](https://audio.com/)

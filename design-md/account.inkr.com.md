@@ -6,6 +6,10 @@ Source domain: [account.inkr.com](https://account.inkr.com)
 
 Last updated: 2026-05-17
 
+<!--
+coverPin: 9366
+-->
+
 Here is the visual system observed across **1 captured page** from [account.inkr.com](https://account.inkr.com).
 
 ```fudge-colors
@@ -93,5 +97,6 @@ Here is the visual system observed across **1 captured page** from [account.inkr
 }
 ```
 
-## References
-- [Read The Latest Manga, Manhua, Webtoon and Comics on INKR!](https://design.withfudge.com/pin/9366) — [source page](https://account.inkr.com/login)
+## Representative captures
+[![Read The Latest Manga, Manhua, Webtoon and Comics on INKR!](https://pin.fontofweb.com/9366?format=jpg)](https://design.withfudge.com/pin/9366)
+[Read The Latest Manga, Manhua, Webtoon and Comics on INKR!](https://design.withfudge.com/pin/9366) — [source page](https://account.inkr.com/login)

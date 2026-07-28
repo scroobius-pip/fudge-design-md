@@ -6,6 +6,10 @@ Source domain: [campus.flutterflow.io](https://campus.flutterflow.io)
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10436
+-->
+
 Here is the visual system observed across **1 captured page** from [campus.flutterflow.io](https://campus.flutterflow.io).
 
 ```fudge-colors
@@ -147,5 +151,6 @@ Here is the visual system observed across **1 captured page** from [campus.flutt
 }
 ```
 
-## References
-- [Campus — the infinite canvas for your tools](https://design.withfudge.com/pin/10436) — [source page](https://campus.flutterflow.io/)
+## Representative captures
+[![Campus — the infinite canvas for your tools](https://pin.fontofweb.com/10436?format=jpg)](https://design.withfudge.com/pin/10436)
+[Campus — the infinite canvas for your tools](https://design.withfudge.com/pin/10436) — [source page](https://campus.flutterflow.io/)

@@ -6,6 +6,10 @@ Source domain: [mega.nz](https://mega.nz)
 
 Last updated: 2026-04-03
 
+<!--
+coverPin: 8651
+-->
+
 Here is the visual system observed across **7 captured pages** from [mega.nz](https://mega.nz).
 
 ```fudge-colors
@@ -238,11 +242,24 @@ Here is the visual system observed across **7 captured pages** from [mega.nz](ht
 }
 ```
 
-## References
-- [MEGA](https://design.withfudge.com/pin/8651) — [source page](https://mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8650) — [source page](https://mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8649) — [source page](https://mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8648) — [source page](https://mega.nz/fm/6k5h0KoQ)
-- [MEGA](https://design.withfudge.com/pin/8647) — [source page](https://mega.nz/fm/account)
-- [MEGA](https://design.withfudge.com/pin/8646) — [source page](https://mega.nz/fm)
-- [MEGA](https://design.withfudge.com/pin/8645) — [source page](https://mega.nz/fm)
+## Representative captures
+[![MEGA](https://pin.fontofweb.com/8651?format=jpg)](https://design.withfudge.com/pin/8651)
+[MEGA](https://design.withfudge.com/pin/8651) — [source page](https://mega.nz/fm/6k5h0KoQ)
+
+[![MEGA](https://pin.fontofweb.com/8650?format=jpg)](https://design.withfudge.com/pin/8650)
+[MEGA](https://design.withfudge.com/pin/8650) — [source page](https://mega.nz/fm/6k5h0KoQ)
+
+[![MEGA](https://pin.fontofweb.com/8649?format=jpg)](https://design.withfudge.com/pin/8649)
+[MEGA](https://design.withfudge.com/pin/8649) — [source page](https://mega.nz/fm/6k5h0KoQ)
+
+[![MEGA](https://pin.fontofweb.com/8648?format=jpg)](https://design.withfudge.com/pin/8648)
+[MEGA](https://design.withfudge.com/pin/8648) — [source page](https://mega.nz/fm/6k5h0KoQ)
+
+[![MEGA](https://pin.fontofweb.com/8647?format=jpg)](https://design.withfudge.com/pin/8647)
+[MEGA](https://design.withfudge.com/pin/8647) — [source page](https://mega.nz/fm/account)
+
+[![MEGA](https://pin.fontofweb.com/8646?format=jpg)](https://design.withfudge.com/pin/8646)
+[MEGA](https://design.withfudge.com/pin/8646) — [source page](https://mega.nz/fm)
+
+[![MEGA](https://pin.fontofweb.com/8645?format=jpg)](https://design.withfudge.com/pin/8645)
+[MEGA](https://design.withfudge.com/pin/8645) — [source page](https://mega.nz/fm)

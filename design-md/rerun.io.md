@@ -6,6 +6,10 @@ Source domain: [rerun.io](https://rerun.io)
 
 Last updated: 2026-05-19
 
+<!--
+coverPin: 9394
+-->
+
 Here is the visual system observed across **10 captured pages** from [rerun.io](https://rerun.io).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **10 captured pages** from [rerun.io](
 }
 ```
 
-## References
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9394) — [source page](https://rerun.io/viewer)
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9393) — [source page](https://rerun.io/viewer)
-- [Web Viewer — Rerun](https://design.withfudge.com/pin/9392) — [source page](https://rerun.io/viewer)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9391) — [source page](https://rerun.io/)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9390) — [source page](https://rerun.io/)
-- [Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9389) — [source page](https://rerun.io/)
-- [Careers — Rerun](https://design.withfudge.com/pin/9388) — [source page](https://rerun.io/careers)
-- [Careers — Rerun](https://design.withfudge.com/pin/9387) — [source page](https://rerun.io/careers)
+## Representative captures
+[![Web Viewer — Rerun](https://pin.fontofweb.com/9394?format=jpg)](https://design.withfudge.com/pin/9394)
+[Web Viewer — Rerun](https://design.withfudge.com/pin/9394) — [source page](https://rerun.io/viewer)
+
+[![Web Viewer — Rerun](https://pin.fontofweb.com/9393?format=jpg)](https://design.withfudge.com/pin/9393)
+[Web Viewer — Rerun](https://design.withfudge.com/pin/9393) — [source page](https://rerun.io/viewer)
+
+[![Web Viewer — Rerun](https://pin.fontofweb.com/9392?format=jpg)](https://design.withfudge.com/pin/9392)
+[Web Viewer — Rerun](https://design.withfudge.com/pin/9392) — [source page](https://rerun.io/viewer)
+
+[![Rerun — The Data Layer for Physical AI](https://pin.fontofweb.com/9391?format=jpg)](https://design.withfudge.com/pin/9391)
+[Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9391) — [source page](https://rerun.io/)
+
+[![Rerun — The Data Layer for Physical AI](https://pin.fontofweb.com/9390?format=jpg)](https://design.withfudge.com/pin/9390)
+[Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9390) — [source page](https://rerun.io/)
+
+[![Rerun — The Data Layer for Physical AI](https://pin.fontofweb.com/9389?format=jpg)](https://design.withfudge.com/pin/9389)
+[Rerun — The Data Layer for Physical AI](https://design.withfudge.com/pin/9389) — [source page](https://rerun.io/)
+
+[![Careers — Rerun](https://pin.fontofweb.com/9388?format=jpg)](https://design.withfudge.com/pin/9388)
+[Careers — Rerun](https://design.withfudge.com/pin/9388) — [source page](https://rerun.io/careers)
+
+[![Careers — Rerun](https://pin.fontofweb.com/9387?format=jpg)](https://design.withfudge.com/pin/9387)
+[Careers — Rerun](https://design.withfudge.com/pin/9387) — [source page](https://rerun.io/careers)

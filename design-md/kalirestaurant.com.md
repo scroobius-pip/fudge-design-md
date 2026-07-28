@@ -6,6 +6,10 @@ Source domain: [kalirestaurant.com](https://kalirestaurant.com)
 
 Last updated: 2026-05-26
 
+<!--
+coverPin: 9469
+-->
+
 Here is the visual system observed across **1 captured page** from [kalirestaurant.com](https://kalirestaurant.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [kalirestaura
 }
 ```
 
-## References
-- [Kali Restaurant - Hollywood, Los Angeles, CA](https://design.withfudge.com/pin/9469) — [source page](https://kalirestaurant.com/)
+## Representative captures
+[![Kali Restaurant - Hollywood, Los Angeles, CA](https://pin.fontofweb.com/9469?format=jpg)](https://design.withfudge.com/pin/9469)
+[Kali Restaurant - Hollywood, Los Angeles, CA](https://design.withfudge.com/pin/9469) — [source page](https://kalirestaurant.com/)

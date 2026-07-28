@@ -6,6 +6,10 @@ Source domain: [allbirds.com](https://allbirds.com)
 
 Last updated: 2026-04-18
 
+<!--
+coverPin: 8958
+-->
+
 Here is the visual system observed across **12 captured pages** from [allbirds.com](https://allbirds.com).
 
 ```fudge-colors
@@ -373,12 +377,27 @@ Here is the visual system observed across **12 captured pages** from [allbirds.c
 }
 ```
 
-## References
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8958) — [source page](https://allbirds.com/pages/our-story)
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8957) — [source page](https://allbirds.com/pages/our-story)
-- [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8956) — [source page](https://allbirds.com/pages/our-story)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8955) — [source page](https://allbirds.com/collections/mens-new-arrivals)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8954) — [source page](https://allbirds.com/collections/mens-new-arrivals)
-- [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8953) — [source page](https://allbirds.com/collections/mens-new-arrivals)
-- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8952) — [source page](https://allbirds.com/)
-- [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8951) — [source page](https://allbirds.com/)
+## Representative captures
+[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8958?format=jpg)](https://design.withfudge.com/pin/8958)
+[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8958) — [source page](https://allbirds.com/pages/our-story)
+
+[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8957?format=jpg)](https://design.withfudge.com/pin/8957)
+[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8957) — [source page](https://allbirds.com/pages/our-story)
+
+[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8956?format=jpg)](https://design.withfudge.com/pin/8956)
+[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/pin/8956) — [source page](https://allbirds.com/pages/our-story)
+
+[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8955?format=jpg)](https://design.withfudge.com/pin/8955)
+[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8955) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+
+[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8954?format=jpg)](https://design.withfudge.com/pin/8954)
+[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8954) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+
+[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8953?format=jpg)](https://design.withfudge.com/pin/8953)
+[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/pin/8953) — [source page](https://allbirds.com/collections/mens-new-arrivals)
+
+[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8952?format=jpg)](https://design.withfudge.com/pin/8952)
+[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8952) — [source page](https://allbirds.com/)
+
+[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8951?format=jpg)](https://design.withfudge.com/pin/8951)
+[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/pin/8951) — [source page](https://allbirds.com/)

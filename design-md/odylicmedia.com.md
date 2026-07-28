@@ -6,6 +6,10 @@ Source domain: [odylicmedia.com](https://odylicmedia.com)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8159
+-->
+
 Here is the visual system observed across **5 captured pages** from [odylicmedia.com](https://odylicmedia.com).
 
 ```fudge-colors
@@ -237,9 +241,18 @@ Here is the visual system observed across **5 captured pages** from [odylicmedia
 }
 ```
 
-## References
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8159) — [source page](https://odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8158) — [source page](https://odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8157) — [source page](https://odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8156) — [source page](https://odylicmedia.com/)
-- [Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8155) — [source page](https://odylicmedia.com/)
+## Representative captures
+[![Growth Partner for Premium & Luxury D2C Brands](https://pin.fontofweb.com/8159?format=jpg)](https://design.withfudge.com/pin/8159)
+[Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8159) — [source page](https://odylicmedia.com/)
+
+[![Growth Partner for Premium & Luxury D2C Brands](https://pin.fontofweb.com/8158?format=jpg)](https://design.withfudge.com/pin/8158)
+[Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8158) — [source page](https://odylicmedia.com/)
+
+[![Growth Partner for Premium & Luxury D2C Brands](https://pin.fontofweb.com/8157?format=jpg)](https://design.withfudge.com/pin/8157)
+[Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8157) — [source page](https://odylicmedia.com/)
+
+[![Growth Partner for Premium & Luxury D2C Brands](https://pin.fontofweb.com/8156?format=jpg)](https://design.withfudge.com/pin/8156)
+[Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8156) — [source page](https://odylicmedia.com/)
+
+[![Growth Partner for Premium & Luxury D2C Brands](https://pin.fontofweb.com/8155?format=jpg)](https://design.withfudge.com/pin/8155)
+[Growth Partner for Premium & Luxury D2C Brands](https://design.withfudge.com/pin/8155) — [source page](https://odylicmedia.com/)

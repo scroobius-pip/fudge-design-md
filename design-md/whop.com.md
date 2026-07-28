@@ -6,6 +6,10 @@ Source domain: [whop.com](https://whop.com)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10222
+-->
+
 Here is the visual system observed across **6 captured pages** from [whop.com](https://whop.com).
 
 ```fudge-colors
@@ -216,10 +220,21 @@ Here is the visual system observed across **6 captured pages** from [whop.com](h
 }
 ```
 
-## References
-- [Whop. The future of work. | Whop](https://design.withfudge.com/pin/10222) — [source page](https://whop.com/)
-- [Login to Whop 🔐 | Whop](https://design.withfudge.com/pin/6948) — [source page](https://whop.com/login/)
-- [Dashboard | Whop](https://design.withfudge.com/pin/6947) — [source page](https://whop.com/dashboard/start/)
-- [Finance | Whop](https://design.withfudge.com/pin/6946) — [source page](https://whop.com/finance/)
-- [Home | Whop](https://design.withfudge.com/pin/6945) — [source page](https://whop.com/home-feed/)
-- [Discover | Whop](https://design.withfudge.com/pin/6944) — [source page](https://whop.com/discover/)
+## Representative captures
+[![Whop. The future of work. | Whop](https://pin.fontofweb.com/10222?format=jpg)](https://design.withfudge.com/pin/10222)
+[Whop. The future of work. | Whop](https://design.withfudge.com/pin/10222) — [source page](https://whop.com/)
+
+[![Login to Whop 🔐 | Whop](https://pin.fontofweb.com/6948?format=jpg)](https://design.withfudge.com/pin/6948)
+[Login to Whop 🔐 | Whop](https://design.withfudge.com/pin/6948) — [source page](https://whop.com/login/)
+
+[![Dashboard | Whop](https://pin.fontofweb.com/6947?format=jpg)](https://design.withfudge.com/pin/6947)
+[Dashboard | Whop](https://design.withfudge.com/pin/6947) — [source page](https://whop.com/dashboard/start/)
+
+[![Finance | Whop](https://pin.fontofweb.com/6946?format=jpg)](https://design.withfudge.com/pin/6946)
+[Finance | Whop](https://design.withfudge.com/pin/6946) — [source page](https://whop.com/finance/)
+
+[![Home | Whop](https://pin.fontofweb.com/6945?format=jpg)](https://design.withfudge.com/pin/6945)
+[Home | Whop](https://design.withfudge.com/pin/6945) — [source page](https://whop.com/home-feed/)
+
+[![Discover | Whop](https://pin.fontofweb.com/6944?format=jpg)](https://design.withfudge.com/pin/6944)
+[Discover | Whop](https://design.withfudge.com/pin/6944) — [source page](https://whop.com/discover/)

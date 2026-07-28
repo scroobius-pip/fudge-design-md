@@ -6,6 +6,10 @@ Source domain: [ai.com](https://ai.com)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6338
+-->
+
 Here is the visual system observed across **1 captured page** from [ai.com](https://ai.com).
 
 ```fudge-colors
@@ -75,5 +79,6 @@ Here is the visual system observed across **1 captured page** from [ai.com](http
 }
 ```
 
-## References
-- [AI Agents That Can Do Anything You Can - ai.com](https://design.withfudge.com/pin/6338) — [source page](https://ai.com/start)
+## Representative captures
+[![AI Agents That Can Do Anything You Can - ai.com](https://pin.fontofweb.com/6338?format=jpg)](https://design.withfudge.com/pin/6338)
+[AI Agents That Can Do Anything You Can - ai.com](https://design.withfudge.com/pin/6338) — [source page](https://ai.com/start)

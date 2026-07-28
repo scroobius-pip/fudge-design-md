@@ -6,6 +6,10 @@ Source domain: [deezer.com](https://deezer.com)
 
 Last updated: 2026-03-09
 
+<!--
+coverPin: 7886
+-->
+
 Here is the visual system observed across **6 captured pages** from [deezer.com](https://deezer.com).
 
 ```fudge-colors
@@ -214,10 +218,21 @@ Here is the visual system observed across **6 captured pages** from [deezer.com]
 }
 ```
 
-## References
-- [Deezer](https://design.withfudge.com/pin/7886) — [source page](https://deezer.com/en/profile/6789862023/playlists)
-- [Deezer](https://design.withfudge.com/pin/7885) — [source page](https://deezer.com/account)
-- [Deezer | Subscriptions and offers | Music streaming](https://design.withfudge.com/pin/7884) — [source page](https://deezer.com/en/offers)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7883) — [source page](https://deezer.com/en/)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7882) — [source page](https://deezer.com/en/)
-- [Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7881) — [source page](https://deezer.com/en/)
+## Representative captures
+[![Deezer](https://pin.fontofweb.com/7886?format=jpg)](https://design.withfudge.com/pin/7886)
+[Deezer](https://design.withfudge.com/pin/7886) — [source page](https://deezer.com/en/profile/6789862023/playlists)
+
+[![Deezer](https://pin.fontofweb.com/7885?format=jpg)](https://design.withfudge.com/pin/7885)
+[Deezer](https://design.withfudge.com/pin/7885) — [source page](https://deezer.com/account)
+
+[![Deezer | Subscriptions and offers | Music streaming](https://pin.fontofweb.com/7884?format=jpg)](https://design.withfudge.com/pin/7884)
+[Deezer | Subscriptions and offers | Music streaming](https://design.withfudge.com/pin/7884) — [source page](https://deezer.com/en/offers)
+
+[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7883?format=jpg)](https://design.withfudge.com/pin/7883)
+[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7883) — [source page](https://deezer.com/en/)
+
+[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7882?format=jpg)](https://design.withfudge.com/pin/7882)
+[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7882) — [source page](https://deezer.com/en/)
+
+[![Deezer | Listen to music online | Music streaming app](https://pin.fontofweb.com/7881?format=jpg)](https://design.withfudge.com/pin/7881)
+[Deezer | Listen to music online | Music streaming app](https://design.withfudge.com/pin/7881) — [source page](https://deezer.com/en/)

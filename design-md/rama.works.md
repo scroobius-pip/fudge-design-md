@@ -6,6 +6,10 @@ Source domain: [rama.works](https://rama.works)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7933
+-->
+
 Here is the visual system observed across **2 captured pages** from [rama.works](https://rama.works).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [rama.works]
 }
 ```
 
-## References
-- [RAMA WORKS®](https://design.withfudge.com/pin/7933) — [source page](https://rama.works/)
-- [RAMA WORKS®](https://design.withfudge.com/pin/7932) — [source page](https://rama.works/)
+## Representative captures
+[![RAMA WORKS®](https://pin.fontofweb.com/7933?format=jpg)](https://design.withfudge.com/pin/7933)
+[RAMA WORKS®](https://design.withfudge.com/pin/7933) — [source page](https://rama.works/)
+
+[![RAMA WORKS®](https://pin.fontofweb.com/7932?format=jpg)](https://design.withfudge.com/pin/7932)
+[RAMA WORKS®](https://design.withfudge.com/pin/7932) — [source page](https://rama.works/)

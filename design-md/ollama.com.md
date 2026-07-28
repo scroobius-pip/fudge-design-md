@@ -6,6 +6,10 @@ Source domain: [ollama.com](https://ollama.com)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7508
+-->
+
 Here is the visual system observed across **4 captured pages** from [ollama.com](https://ollama.com).
 
 ```fudge-colors
@@ -161,8 +165,15 @@ Here is the visual system observed across **4 captured pages** from [ollama.com]
 }
 ```
 
-## References
-- [qwen3-vl](https://design.withfudge.com/pin/7508) — [source page](https://ollama.com/library/qwen3-vl)
-- [Pricing · Ollama](https://design.withfudge.com/pin/7507) — [source page](https://ollama.com/pricing)
-- [Ollama](https://design.withfudge.com/pin/7506) — [source page](https://ollama.com/)
-- [Ollama](https://design.withfudge.com/pin/7505) — [source page](https://ollama.com/)
+## Representative captures
+[![qwen3-vl](https://pin.fontofweb.com/7508?format=jpg)](https://design.withfudge.com/pin/7508)
+[qwen3-vl](https://design.withfudge.com/pin/7508) — [source page](https://ollama.com/library/qwen3-vl)
+
+[![Pricing · Ollama](https://pin.fontofweb.com/7507?format=jpg)](https://design.withfudge.com/pin/7507)
+[Pricing · Ollama](https://design.withfudge.com/pin/7507) — [source page](https://ollama.com/pricing)
+
+[![Ollama](https://pin.fontofweb.com/7506?format=jpg)](https://design.withfudge.com/pin/7506)
+[Ollama](https://design.withfudge.com/pin/7506) — [source page](https://ollama.com/)
+
+[![Ollama](https://pin.fontofweb.com/7505?format=jpg)](https://design.withfudge.com/pin/7505)
+[Ollama](https://design.withfudge.com/pin/7505) — [source page](https://ollama.com/)

@@ -6,6 +6,10 @@ Source domain: [klarlabs.ai](https://klarlabs.ai)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10086
+-->
+
 Here is the visual system observed across **7 captured pages** from [klarlabs.ai](https://klarlabs.ai).
 
 ```fudge-colors
@@ -240,11 +244,24 @@ Here is the visual system observed across **7 captured pages** from [klarlabs.ai
 }
 ```
 
-## References
-- [Pricing — Klar](https://design.withfudge.com/pin/10086) — [source page](https://klarlabs.ai/pricing)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10085) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10084) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10083) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10082) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10081) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
-- [Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10080) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+## Representative captures
+[![Pricing — Klar](https://pin.fontofweb.com/10086?format=jpg)](https://design.withfudge.com/pin/10086)
+[Pricing — Klar](https://design.withfudge.com/pin/10086) — [source page](https://klarlabs.ai/pricing)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10085?format=jpg)](https://design.withfudge.com/pin/10085)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10085) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10084?format=jpg)](https://design.withfudge.com/pin/10084)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10084) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10083?format=jpg)](https://design.withfudge.com/pin/10083)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10083) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10082?format=jpg)](https://design.withfudge.com/pin/10082)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10082) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10081?format=jpg)](https://design.withfudge.com/pin/10081)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10081) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)
+
+[![Klar vs Gemini for learning — Klar Labs](https://pin.fontofweb.com/10080?format=jpg)](https://design.withfudge.com/pin/10080)
+[Klar vs Gemini for learning — Klar Labs](https://design.withfudge.com/pin/10080) — [source page](https://klarlabs.ai/compare/klar-vs-gemini)

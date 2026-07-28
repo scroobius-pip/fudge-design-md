@@ -6,6 +6,10 @@ Source domain: [warbl.tw](https://warbl.tw)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7680
+-->
+
 Here is the visual system observed across **2 captured pages** from [warbl.tw](https://warbl.tw).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [warbl.tw](h
 }
 ```
 
-## References
-- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7680) — [source page](https://warbl.tw/)
-- [Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7679) — [source page](https://warbl.tw/)
+## Representative captures
+[![Warbl - Engage Faster on X/Twitter | Chrome Extension](https://pin.fontofweb.com/7680?format=jpg)](https://design.withfudge.com/pin/7680)
+[Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7680) — [source page](https://warbl.tw/)
+
+[![Warbl - Engage Faster on X/Twitter | Chrome Extension](https://pin.fontofweb.com/7679?format=jpg)](https://design.withfudge.com/pin/7679)
+[Warbl - Engage Faster on X/Twitter | Chrome Extension](https://design.withfudge.com/pin/7679) — [source page](https://warbl.tw/)

@@ -6,6 +6,10 @@ Source domain: [vectrfl.com](https://vectrfl.com)
 
 Last updated: 2026-06-13
 
+<!--
+coverPin: 9567
+-->
+
 Here is the visual system observed across **1 captured page** from [vectrfl.com](https://vectrfl.com).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [vectrfl.com]
 }
 ```
 
-## References
-- [Vectr](https://design.withfudge.com/pin/9567) — [source page](https://vectrfl.com/)
+## Representative captures
+[![Vectr](https://pin.fontofweb.com/9567?format=jpg)](https://design.withfudge.com/pin/9567)
+[Vectr](https://design.withfudge.com/pin/9567) — [source page](https://vectrfl.com/)

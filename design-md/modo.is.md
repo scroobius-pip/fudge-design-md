@@ -6,6 +6,10 @@ Source domain: [modo.is](https://modo.is)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7421
+-->
+
 Here is the visual system observed across **1 captured page** from [modo.is](https://modo.is).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [modo.is](htt
 }
 ```
 
-## References
-- [AI-Powered Hardware Design Platform | Modo](https://design.withfudge.com/pin/7421) — [source page](https://modo.is/)
+## Representative captures
+[![AI-Powered Hardware Design Platform | Modo](https://pin.fontofweb.com/7421?format=jpg)](https://design.withfudge.com/pin/7421)
+[AI-Powered Hardware Design Platform | Modo](https://design.withfudge.com/pin/7421) — [source page](https://modo.is/)

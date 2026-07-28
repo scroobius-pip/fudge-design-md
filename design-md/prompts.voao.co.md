@@ -6,6 +6,10 @@ Source domain: [prompts.voao.co](https://prompts.voao.co)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8541
+-->
+
 Here is the visual system observed across **2 captured pages** from [prompts.voao.co](https://prompts.voao.co).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [prompts.voa
 }
 ```
 
-## References
-- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8541) — [source page](https://prompts.voao.co/gallery)
-- [VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8540) — [source page](https://prompts.voao.co/)
+## Representative captures
+[![VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://pin.fontofweb.com/8541?format=jpg)](https://design.withfudge.com/pin/8541)
+[VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8541) — [source page](https://prompts.voao.co/gallery)
+
+[![VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://pin.fontofweb.com/8540?format=jpg)](https://design.withfudge.com/pin/8540)
+[VOAO/AI - Premium Midjourney Prompt & Sref Gallery](https://design.withfudge.com/pin/8540) — [source page](https://prompts.voao.co/)

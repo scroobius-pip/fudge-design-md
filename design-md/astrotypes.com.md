@@ -6,6 +6,10 @@ Source domain: [astrotypes.com](https://astrotypes.com)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8440
+-->
+
 Here is the visual system observed across **2 captured pages** from [astrotypes.com](https://astrotypes.com).
 
 ```fudge-colors
@@ -179,6 +183,9 @@ Here is the visual system observed across **2 captured pages** from [astrotypes.
 }
 ```
 
-## References
-- [Astrotypes](https://design.withfudge.com/pin/8440) — [source page](https://astrotypes.com/)
-- [Astrotypes](https://design.withfudge.com/pin/8439) — [source page](https://astrotypes.com/)
+## Representative captures
+[![Astrotypes](https://pin.fontofweb.com/8440?format=jpg)](https://design.withfudge.com/pin/8440)
+[Astrotypes](https://design.withfudge.com/pin/8440) — [source page](https://astrotypes.com/)
+
+[![Astrotypes](https://pin.fontofweb.com/8439?format=jpg)](https://design.withfudge.com/pin/8439)
+[Astrotypes](https://design.withfudge.com/pin/8439) — [source page](https://astrotypes.com/)

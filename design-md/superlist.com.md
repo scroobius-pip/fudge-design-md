@@ -6,6 +6,10 @@ Source domain: [superlist.com](https://superlist.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8890
+-->
+
 Here is the visual system observed across **12 captured pages** from [superlist.com](https://superlist.com).
 
 ```fudge-colors
@@ -381,12 +385,27 @@ Here is the visual system observed across **12 captured pages** from [superlist.
 }
 ```
 
-## References
-- [Open Source](https://design.withfudge.com/pin/8890) — [source page](https://superlist.com/open-source)
-- [Superlist Pricing: Free Plan & Team Plans for Task Management](https://design.withfudge.com/pin/8889) — [source page](https://superlist.com/pricing)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8888) — [source page](https://superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8887) — [source page](https://superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8886) — [source page](https://superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8885) — [source page](https://superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8884) — [source page](https://superlist.com/)
-- [Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8883) — [source page](https://superlist.com/)
+## Representative captures
+[![Open Source](https://pin.fontofweb.com/8890?format=jpg)](https://design.withfudge.com/pin/8890)
+[Open Source](https://design.withfudge.com/pin/8890) — [source page](https://superlist.com/open-source)
+
+[![Superlist Pricing: Free Plan & Team Plans for Task Management](https://pin.fontofweb.com/8889?format=jpg)](https://design.withfudge.com/pin/8889)
+[Superlist Pricing: Free Plan & Team Plans for Task Management](https://design.withfudge.com/pin/8889) — [source page](https://superlist.com/pricing)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8888?format=jpg)](https://design.withfudge.com/pin/8888)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8888) — [source page](https://superlist.com/)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8887?format=jpg)](https://design.withfudge.com/pin/8887)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8887) — [source page](https://superlist.com/)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8886?format=jpg)](https://design.withfudge.com/pin/8886)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8886) — [source page](https://superlist.com/)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8885?format=jpg)](https://design.withfudge.com/pin/8885)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8885) — [source page](https://superlist.com/)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8884?format=jpg)](https://design.withfudge.com/pin/8884)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8884) — [source page](https://superlist.com/)
+
+[![Superlist — Task Management & To-Do List App for Work and Life](https://pin.fontofweb.com/8883?format=jpg)](https://design.withfudge.com/pin/8883)
+[Superlist — Task Management & To-Do List App for Work and Life](https://design.withfudge.com/pin/8883) — [source page](https://superlist.com/)

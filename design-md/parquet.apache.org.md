@@ -6,6 +6,10 @@ Source domain: [parquet.apache.org](https://parquet.apache.org)
 
 Last updated: 2026-03-02
 
+<!--
+coverPin: 7599
+-->
+
 Here is the visual system observed across **1 captured page** from [parquet.apache.org](https://parquet.apache.org).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [parquet.apac
 }
 ```
 
-## References
-- [Parquet](https://design.withfudge.com/pin/7599) — [source page](https://parquet.apache.org/)
+## Representative captures
+[![Parquet](https://pin.fontofweb.com/7599?format=jpg)](https://design.withfudge.com/pin/7599)
+[Parquet](https://design.withfudge.com/pin/7599) — [source page](https://parquet.apache.org/)

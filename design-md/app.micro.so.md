@@ -6,6 +6,10 @@ Source domain: [app.micro.so](https://app.micro.so)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8734
+-->
+
 Here is the visual system observed across **1 captured page** from [app.micro.so](https://app.micro.so).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [app.micro.so
 }
 ```
 
-## References
-- [Captured page 8734](https://design.withfudge.com/pin/8734) — [source page](https://app.micro.so/login)
+## Representative captures
+[![Captured page 8734](https://pin.fontofweb.com/8734?format=jpg)](https://design.withfudge.com/pin/8734)
+[Captured page 8734](https://design.withfudge.com/pin/8734) — [source page](https://app.micro.so/login)

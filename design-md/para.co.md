@@ -6,6 +6,10 @@ Source domain: [para.co](https://para.co)
 
 Last updated: 2026-05-15
 
+<!--
+coverPin: 9322
+-->
+
 Here is the visual system observed across **10 captured pages** from [para.co](https://para.co).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **10 captured pages** from [para.co](h
 }
 ```
 
-## References
-- [Para](https://design.withfudge.com/pin/9322) — [source page](https://para.co/auth)
-- [Para](https://design.withfudge.com/pin/9315) — [source page](https://para.co/auth)
-- [Para](https://design.withfudge.com/pin/9314) — [source page](https://para.co/)
-- [Para](https://design.withfudge.com/pin/9313) — [source page](https://para.co/)
-- [Para](https://design.withfudge.com/pin/9312) — [source page](https://para.co/)
-- [Para](https://design.withfudge.com/pin/9311) — [source page](https://para.co/)
-- [Para](https://design.withfudge.com/pin/9310) — [source page](https://para.co/)
-- [Para](https://design.withfudge.com/pin/9309) — [source page](https://para.co/)
+## Representative captures
+[![Para](https://pin.fontofweb.com/9322?format=jpg)](https://design.withfudge.com/pin/9322)
+[Para](https://design.withfudge.com/pin/9322) — [source page](https://para.co/auth)
+
+[![Para](https://pin.fontofweb.com/9315?format=jpg)](https://design.withfudge.com/pin/9315)
+[Para](https://design.withfudge.com/pin/9315) — [source page](https://para.co/auth)
+
+[![Para](https://pin.fontofweb.com/9314?format=jpg)](https://design.withfudge.com/pin/9314)
+[Para](https://design.withfudge.com/pin/9314) — [source page](https://para.co/)
+
+[![Para](https://pin.fontofweb.com/9313?format=jpg)](https://design.withfudge.com/pin/9313)
+[Para](https://design.withfudge.com/pin/9313) — [source page](https://para.co/)
+
+[![Para](https://pin.fontofweb.com/9312?format=jpg)](https://design.withfudge.com/pin/9312)
+[Para](https://design.withfudge.com/pin/9312) — [source page](https://para.co/)
+
+[![Para](https://pin.fontofweb.com/9311?format=jpg)](https://design.withfudge.com/pin/9311)
+[Para](https://design.withfudge.com/pin/9311) — [source page](https://para.co/)
+
+[![Para](https://pin.fontofweb.com/9310?format=jpg)](https://design.withfudge.com/pin/9310)
+[Para](https://design.withfudge.com/pin/9310) — [source page](https://para.co/)
+
+[![Para](https://pin.fontofweb.com/9309?format=jpg)](https://design.withfudge.com/pin/9309)
+[Para](https://design.withfudge.com/pin/9309) — [source page](https://para.co/)

@@ -6,6 +6,10 @@ Source domain: [continue.dev](https://continue.dev)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8680
+-->
+
 Here is the visual system observed across **6 captured pages** from [continue.dev](https://continue.dev).
 
 ```fudge-colors
@@ -236,10 +240,21 @@ Here is the visual system observed across **6 captured pages** from [continue.de
 }
 ```
 
-## References
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8680) — [source page](https://continue.dev/)
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8679) — [source page](https://continue.dev/)
-- [Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8678) — [source page](https://continue.dev/)
-- [Continue • About Us](https://design.withfudge.com/pin/6709) — [source page](https://continue.dev/about-us)
-- [Continue • About Us](https://design.withfudge.com/pin/6708) — [source page](https://continue.dev/about-us)
-- [Continue • Ship as fast as you code](https://design.withfudge.com/pin/6707) — [source page](https://continue.dev/)
+## Representative captures
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8680?format=jpg)](https://design.withfudge.com/pin/8680)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8680) — [source page](https://continue.dev/)
+
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8679?format=jpg)](https://design.withfudge.com/pin/8679)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8679) — [source page](https://continue.dev/)
+
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8678?format=jpg)](https://design.withfudge.com/pin/8678)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/pin/8678) — [source page](https://continue.dev/)
+
+[![Continue • About Us](https://pin.fontofweb.com/6709?format=jpg)](https://design.withfudge.com/pin/6709)
+[Continue • About Us](https://design.withfudge.com/pin/6709) — [source page](https://continue.dev/about-us)
+
+[![Continue • About Us](https://pin.fontofweb.com/6708?format=jpg)](https://design.withfudge.com/pin/6708)
+[Continue • About Us](https://design.withfudge.com/pin/6708) — [source page](https://continue.dev/about-us)
+
+[![Continue • Ship as fast as you code](https://pin.fontofweb.com/6707?format=jpg)](https://design.withfudge.com/pin/6707)
+[Continue • Ship as fast as you code](https://design.withfudge.com/pin/6707) — [source page](https://continue.dev/)

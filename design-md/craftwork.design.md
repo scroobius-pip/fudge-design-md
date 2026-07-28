@@ -6,6 +6,10 @@ Source domain: [craftwork.design](https://craftwork.design)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7386
+-->
+
 Here is the visual system observed across **22 captured pages** from [craftwork.design](https://craftwork.design).
 
 ```fudge-colors
@@ -290,12 +294,27 @@ Here is the visual system observed across **22 captured pages** from [craftwork.
 }
 ```
 
-## References
-- [Curated Inspiration](https://design.withfudge.com/pin/7386) — [source page](https://craftwork.design/curated/sections)
-- [Curated Inspiration](https://design.withfudge.com/pin/3960) — [source page](https://craftwork.design/curated/sections)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2927) — [source page](https://craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2926) — [source page](https://craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2925) — [source page](https://craftwork.design/newsletter)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1875) — [source page](https://craftwork.design/pro)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1874) — [source page](https://craftwork.design/pro)
-- [Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1873) — [source page](https://craftwork.design/pro)
+## Representative captures
+[![Curated Inspiration](https://pin.fontofweb.com/7386?format=jpg)](https://design.withfudge.com/pin/7386)
+[Curated Inspiration](https://design.withfudge.com/pin/7386) — [source page](https://craftwork.design/curated/sections)
+
+[![Curated Inspiration](https://pin.fontofweb.com/3960?format=jpg)](https://design.withfudge.com/pin/3960)
+[Curated Inspiration](https://design.withfudge.com/pin/3960) — [source page](https://craftwork.design/curated/sections)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2927?format=jpg)](https://design.withfudge.com/pin/2927)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2927) — [source page](https://craftwork.design/newsletter)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2926?format=jpg)](https://design.withfudge.com/pin/2926)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2926) — [source page](https://craftwork.design/newsletter)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2925?format=jpg)](https://design.withfudge.com/pin/2925)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/2925) — [source page](https://craftwork.design/newsletter)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1875?format=jpg)](https://design.withfudge.com/pin/1875)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1875) — [source page](https://craftwork.design/pro)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1874?format=jpg)](https://design.withfudge.com/pin/1874)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1874) — [source page](https://craftwork.design/pro)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1873?format=jpg)](https://design.withfudge.com/pin/1873)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/pin/1873) — [source page](https://craftwork.design/pro)

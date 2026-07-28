@@ -6,6 +6,10 @@ Source domain: [meta.ai](https://meta.ai)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8745
+-->
+
 Here is the visual system observed across **1 captured page** from [meta.ai](https://meta.ai).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [meta.ai](htt
 }
 ```
 
-## References
-- [Meta AI](https://design.withfudge.com/pin/8745) — [source page](https://meta.ai/)
+## Representative captures
+[![Meta AI](https://pin.fontofweb.com/8745?format=jpg)](https://design.withfudge.com/pin/8745)
+[Meta AI](https://design.withfudge.com/pin/8745) — [source page](https://meta.ai/)

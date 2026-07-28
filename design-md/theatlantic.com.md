@@ -6,6 +6,10 @@ Source domain: [theatlantic.com](https://theatlantic.com)
 
 Last updated: 2026-05-23
 
+<!--
+coverPin: 9453
+-->
+
 Here is the visual system observed across **5 captured pages** from [theatlantic.com](https://theatlantic.com).
 
 ```fudge-colors
@@ -225,9 +229,18 @@ Here is the visual system observed across **5 captured pages** from [theatlantic
 }
 ```
 
-## References
-- [World Edition - The Atlantic](https://design.withfudge.com/pin/9453) — [source page](https://theatlantic.com/world/)
-- [World Edition - The Atlantic](https://design.withfudge.com/pin/8964) — [source page](https://theatlantic.com/world/)
-- [The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://design.withfudge.com/pin/6191) — [source page](https://theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
-- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2764) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-- [Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2763) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+## Representative captures
+[![World Edition - The Atlantic](https://pin.fontofweb.com/9453?format=jpg)](https://design.withfudge.com/pin/9453)
+[World Edition - The Atlantic](https://design.withfudge.com/pin/9453) — [source page](https://theatlantic.com/world/)
+
+[![World Edition - The Atlantic](https://pin.fontofweb.com/8964?format=jpg)](https://design.withfudge.com/pin/8964)
+[World Edition - The Atlantic](https://design.withfudge.com/pin/8964) — [source page](https://theatlantic.com/world/)
+
+[![The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://pin.fontofweb.com/6191?format=jpg)](https://design.withfudge.com/pin/6191)
+[The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://design.withfudge.com/pin/6191) — [source page](https://theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
+
+[![Vannevar Bush: As We May Think - The Atlantic](https://pin.fontofweb.com/2764?format=jpg)](https://design.withfudge.com/pin/2764)
+[Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2764) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+
+[![Vannevar Bush: As We May Think - The Atlantic](https://pin.fontofweb.com/2763?format=jpg)](https://design.withfudge.com/pin/2763)
+[Vannevar Bush: As We May Think - The Atlantic](https://design.withfudge.com/pin/2763) — [source page](https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)

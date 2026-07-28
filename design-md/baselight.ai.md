@@ -6,6 +6,10 @@ Source domain: [baselight.ai](https://baselight.ai)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7854
+-->
+
 Here is the visual system observed across **7 captured pages** from [baselight.ai](https://baselight.ai).
 
 ```fudge-colors
@@ -246,11 +250,24 @@ Here is the visual system observed across **7 captured pages** from [baselight.a
 }
 ```
 
-## References
-- [Baselight Data Catalog | Explore and Query Global Structured Datasets](https://design.withfudge.com/pin/7854) — [source page](https://baselight.ai/catalog/)
-- [Pricing - Baselight](https://design.withfudge.com/pin/7853) — [source page](https://baselight.ai/pricing/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7852) — [source page](https://baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7851) — [source page](https://baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7850) — [source page](https://baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7849) — [source page](https://baselight.ai/)
-- [Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7848) — [source page](https://baselight.ai/)
+## Representative captures
+[![Baselight Data Catalog | Explore and Query Global Structured Datasets](https://pin.fontofweb.com/7854?format=jpg)](https://design.withfudge.com/pin/7854)
+[Baselight Data Catalog | Explore and Query Global Structured Datasets](https://design.withfudge.com/pin/7854) — [source page](https://baselight.ai/catalog/)
+
+[![Pricing - Baselight](https://pin.fontofweb.com/7853?format=jpg)](https://design.withfudge.com/pin/7853)
+[Pricing - Baselight](https://design.withfudge.com/pin/7853) — [source page](https://baselight.ai/pricing/)
+
+[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7852?format=jpg)](https://design.withfudge.com/pin/7852)
+[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7852) — [source page](https://baselight.ai/)
+
+[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7851?format=jpg)](https://design.withfudge.com/pin/7851)
+[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7851) — [source page](https://baselight.ai/)
+
+[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7850?format=jpg)](https://design.withfudge.com/pin/7850)
+[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7850) — [source page](https://baselight.ai/)
+
+[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7849?format=jpg)](https://design.withfudge.com/pin/7849)
+[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7849) — [source page](https://baselight.ai/)
+
+[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7848?format=jpg)](https://design.withfudge.com/pin/7848)
+[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/pin/7848) — [source page](https://baselight.ai/)

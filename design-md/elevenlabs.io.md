@@ -6,6 +6,10 @@ Source domain: [elevenlabs.io](https://elevenlabs.io)
 
 Last updated: 2026-05-06
 
+<!--
+coverPin: 9196
+-->
+
 Here is the visual system observed across **36 captured pages** from [elevenlabs.io](https://elevenlabs.io).
 
 ```fudge-colors
@@ -344,12 +348,27 @@ Here is the visual system observed across **36 captured pages** from [elevenlabs
 }
 ```
 
-## References
-- [Studio | ElevenLabs](https://design.withfudge.com/pin/9196) — [source page](https://elevenlabs.io/app/studio)
-- [Home | ElevenLabs](https://design.withfudge.com/pin/9195) — [source page](https://elevenlabs.io/app/home)
-- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9194) — [source page](https://elevenlabs.io/)
-- [Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9193) — [source page](https://elevenlabs.io/)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9192) — [source page](https://elevenlabs.io/agents)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9191) — [source page](https://elevenlabs.io/agents)
-- [Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9190) — [source page](https://elevenlabs.io/agents)
-- [ElevenLabs Pricing for Creators & Businesses of All Sizes](https://design.withfudge.com/pin/4926) — [source page](https://elevenlabs.io/pricing)
+## Representative captures
+[![Studio | ElevenLabs](https://pin.fontofweb.com/9196?format=jpg)](https://design.withfudge.com/pin/9196)
+[Studio | ElevenLabs](https://design.withfudge.com/pin/9196) — [source page](https://elevenlabs.io/app/studio)
+
+[![Home | ElevenLabs](https://pin.fontofweb.com/9195?format=jpg)](https://design.withfudge.com/pin/9195)
+[Home | ElevenLabs](https://design.withfudge.com/pin/9195) — [source page](https://elevenlabs.io/app/home)
+
+[![Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://pin.fontofweb.com/9194?format=jpg)](https://design.withfudge.com/pin/9194)
+[Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9194) — [source page](https://elevenlabs.io/)
+
+[![Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://pin.fontofweb.com/9193?format=jpg)](https://design.withfudge.com/pin/9193)
+[Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/pin/9193) — [source page](https://elevenlabs.io/)
+
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9192?format=jpg)](https://design.withfudge.com/pin/9192)
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9192) — [source page](https://elevenlabs.io/agents)
+
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9191?format=jpg)](https://design.withfudge.com/pin/9191)
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9191) — [source page](https://elevenlabs.io/agents)
+
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9190?format=jpg)](https://design.withfudge.com/pin/9190)
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/pin/9190) — [source page](https://elevenlabs.io/agents)
+
+[![ElevenLabs Pricing for Creators & Businesses of All Sizes](https://pin.fontofweb.com/4926?format=jpg)](https://design.withfudge.com/pin/4926)
+[ElevenLabs Pricing for Creators & Businesses of All Sizes](https://design.withfudge.com/pin/4926) — [source page](https://elevenlabs.io/pricing)

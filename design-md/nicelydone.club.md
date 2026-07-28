@@ -6,6 +6,10 @@ Source domain: [nicelydone.club](https://nicelydone.club)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 7996
+-->
+
 Here is the visual system observed across **6 captured pages** from [nicelydone.club](https://nicelydone.club).
 
 ```fudge-colors
@@ -193,10 +197,21 @@ Here is the visual system observed across **6 captured pages** from [nicelydone.
 }
 ```
 
-## References
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7996) — [source page](https://nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7995) — [source page](https://nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7994) — [source page](https://nicelydone.club/)
-- [Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7993) — [source page](https://nicelydone.club/)
-- [Screens](https://design.withfudge.com/pin/4614) — [source page](https://nicelydone.club/n/pages)
-- [Screens](https://design.withfudge.com/pin/4613) — [source page](https://nicelydone.club/n/pages)
+## Representative captures
+[![Nicelydone — Web apps design inspiration (UX & UI)](https://pin.fontofweb.com/7996?format=jpg)](https://design.withfudge.com/pin/7996)
+[Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7996) — [source page](https://nicelydone.club/)
+
+[![Nicelydone — Web apps design inspiration (UX & UI)](https://pin.fontofweb.com/7995?format=jpg)](https://design.withfudge.com/pin/7995)
+[Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7995) — [source page](https://nicelydone.club/)
+
+[![Nicelydone — Web apps design inspiration (UX & UI)](https://pin.fontofweb.com/7994?format=jpg)](https://design.withfudge.com/pin/7994)
+[Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7994) — [source page](https://nicelydone.club/)
+
+[![Nicelydone — Web apps design inspiration (UX & UI)](https://pin.fontofweb.com/7993?format=jpg)](https://design.withfudge.com/pin/7993)
+[Nicelydone — Web apps design inspiration (UX & UI)](https://design.withfudge.com/pin/7993) — [source page](https://nicelydone.club/)
+
+[![Screens](https://pin.fontofweb.com/4614?format=jpg)](https://design.withfudge.com/pin/4614)
+[Screens](https://design.withfudge.com/pin/4614) — [source page](https://nicelydone.club/n/pages)
+
+[![Screens](https://pin.fontofweb.com/4613?format=jpg)](https://design.withfudge.com/pin/4613)
+[Screens](https://design.withfudge.com/pin/4613) — [source page](https://nicelydone.club/n/pages)

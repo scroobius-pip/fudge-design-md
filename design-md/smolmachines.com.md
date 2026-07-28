@@ -6,6 +6,10 @@ Source domain: [smolmachines.com](https://smolmachines.com)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9025
+-->
+
 Here is the visual system observed across **1 captured page** from [smolmachines.com](https://smolmachines.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [smolmachines
 }
 ```
 
-## References
-- [smol machines](https://design.withfudge.com/pin/9025) — [source page](https://smolmachines.com/)
+## Representative captures
+[![smol machines](https://pin.fontofweb.com/9025?format=jpg)](https://design.withfudge.com/pin/9025)
+[smol machines](https://design.withfudge.com/pin/9025) — [source page](https://smolmachines.com/)

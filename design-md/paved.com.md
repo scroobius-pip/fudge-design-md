@@ -6,6 +6,10 @@ Source domain: [paved.com](https://paved.com)
 
 Last updated: 2026-06-29
 
+<!--
+coverPin: 9852
+-->
+
 Here is the visual system observed across **9 captured pages** from [paved.com](https://paved.com).
 
 ```fudge-colors
@@ -355,12 +359,27 @@ Here is the visual system observed across **9 captured pages** from [paved.com](
 }
 ```
 
-## References
-- [Paved | All-in-one Platform For Newsletter Sponsorships](https://design.withfudge.com/pin/9852) — [source page](https://paved.com/users/sign_up)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9851) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9850) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9849) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9848) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9847) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9846) — [source page](https://paved.com/)
-- [The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9845) — [source page](https://paved.com/)
+## Representative captures
+[![Paved | All-in-one Platform For Newsletter Sponsorships](https://pin.fontofweb.com/9852?format=jpg)](https://design.withfudge.com/pin/9852)
+[Paved | All-in-one Platform For Newsletter Sponsorships](https://design.withfudge.com/pin/9852) — [source page](https://paved.com/users/sign_up)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9851?format=jpg)](https://design.withfudge.com/pin/9851)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9851) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9850?format=jpg)](https://design.withfudge.com/pin/9850)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9850) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9849?format=jpg)](https://design.withfudge.com/pin/9849)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9849) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9848?format=jpg)](https://design.withfudge.com/pin/9848)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9848) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9847?format=jpg)](https://design.withfudge.com/pin/9847)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9847) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9846?format=jpg)](https://design.withfudge.com/pin/9846)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9846) — [source page](https://paved.com/)
+
+[![The World’s Largest Newsletter Ad Network | Paved](https://pin.fontofweb.com/9845?format=jpg)](https://design.withfudge.com/pin/9845)
+[The World’s Largest Newsletter Ad Network | Paved](https://design.withfudge.com/pin/9845) — [source page](https://paved.com/)

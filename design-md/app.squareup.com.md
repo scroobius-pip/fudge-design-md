@@ -6,6 +6,10 @@ Source domain: [app.squareup.com](https://app.squareup.com)
 
 Last updated: 2026-06-19
 
+<!--
+coverPin: 9725
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.squareup.com](https://app.squareup.com).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [app.squareu
 }
 ```
 
-## References
-- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9725) — [source page](https://app.squareup.com/login)
-- [Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9724) — [source page](https://app.squareup.com/login)
+## Representative captures
+[![Square: Sign in to Your Dashboard & Manage your Business](https://pin.fontofweb.com/9725?format=jpg)](https://design.withfudge.com/pin/9725)
+[Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9725) — [source page](https://app.squareup.com/login)
+
+[![Square: Sign in to Your Dashboard & Manage your Business](https://pin.fontofweb.com/9724?format=jpg)](https://design.withfudge.com/pin/9724)
+[Square: Sign in to Your Dashboard & Manage your Business](https://design.withfudge.com/pin/9724) — [source page](https://app.squareup.com/login)

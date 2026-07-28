@@ -6,6 +6,10 @@ Source domain: [pangram.com](https://pangram.com)
 
 Last updated: 2026-06-17
 
+<!--
+coverPin: 9705
+-->
+
 Here is the visual system observed across **20 captured pages** from [pangram.com](https://pangram.com).
 
 ```fudge-colors
@@ -414,12 +418,27 @@ Here is the visual system observed across **20 captured pages** from [pangram.co
 }
 ```
 
-## References
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9705) — [source page](https://pangram.com/dashboard)
-- [AI Detection API | Pangram Labs](https://design.withfudge.com/pin/9704) — [source page](https://pangram.com/solutions/api)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9703) — [source page](https://pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9702) — [source page](https://pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9701) — [source page](https://pangram.com/plan)
-- [Plan | Pangram Labs](https://design.withfudge.com/pin/9700) — [source page](https://pangram.com/plan)
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9699) — [source page](https://pangram.com/dashboard)
-- [AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9698) — [source page](https://pangram.com/dashboard)
+## Representative captures
+[![AI Detection Dashboard | Pangram Labs](https://pin.fontofweb.com/9705?format=jpg)](https://design.withfudge.com/pin/9705)
+[AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9705) — [source page](https://pangram.com/dashboard)
+
+[![AI Detection API | Pangram Labs](https://pin.fontofweb.com/9704?format=jpg)](https://design.withfudge.com/pin/9704)
+[AI Detection API | Pangram Labs](https://design.withfudge.com/pin/9704) — [source page](https://pangram.com/solutions/api)
+
+[![Plan | Pangram Labs](https://pin.fontofweb.com/9703?format=jpg)](https://design.withfudge.com/pin/9703)
+[Plan | Pangram Labs](https://design.withfudge.com/pin/9703) — [source page](https://pangram.com/plan)
+
+[![Plan | Pangram Labs](https://pin.fontofweb.com/9702?format=jpg)](https://design.withfudge.com/pin/9702)
+[Plan | Pangram Labs](https://design.withfudge.com/pin/9702) — [source page](https://pangram.com/plan)
+
+[![Plan | Pangram Labs](https://pin.fontofweb.com/9701?format=jpg)](https://design.withfudge.com/pin/9701)
+[Plan | Pangram Labs](https://design.withfudge.com/pin/9701) — [source page](https://pangram.com/plan)
+
+[![Plan | Pangram Labs](https://pin.fontofweb.com/9700?format=jpg)](https://design.withfudge.com/pin/9700)
+[Plan | Pangram Labs](https://design.withfudge.com/pin/9700) — [source page](https://pangram.com/plan)
+
+[![AI Detection Dashboard | Pangram Labs](https://pin.fontofweb.com/9699?format=jpg)](https://design.withfudge.com/pin/9699)
+[AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9699) — [source page](https://pangram.com/dashboard)
+
+[![AI Detection Dashboard | Pangram Labs](https://pin.fontofweb.com/9698?format=jpg)](https://design.withfudge.com/pin/9698)
+[AI Detection Dashboard | Pangram Labs](https://design.withfudge.com/pin/9698) — [source page](https://pangram.com/dashboard)

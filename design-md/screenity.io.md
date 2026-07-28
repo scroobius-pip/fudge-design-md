@@ -6,6 +6,10 @@ Source domain: [screenity.io](https://screenity.io)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6744
+-->
+
 Here is the visual system observed across **4 captured pages** from [screenity.io](https://screenity.io).
 
 ```fudge-colors
@@ -145,8 +149,15 @@ Here is the visual system observed across **4 captured pages** from [screenity.i
 }
 ```
 
-## References
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6744) — [source page](https://screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6743) — [source page](https://screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6742) — [source page](https://screenity.io/)
-- [Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/5113) — [source page](https://screenity.io/)
+## Representative captures
+[![Screenity – The free and privacy-friendly screen recorder](https://pin.fontofweb.com/6744?format=jpg)](https://design.withfudge.com/pin/6744)
+[Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6744) — [source page](https://screenity.io/)
+
+[![Screenity – The free and privacy-friendly screen recorder](https://pin.fontofweb.com/6743?format=jpg)](https://design.withfudge.com/pin/6743)
+[Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6743) — [source page](https://screenity.io/)
+
+[![Screenity – The free and privacy-friendly screen recorder](https://pin.fontofweb.com/6742?format=jpg)](https://design.withfudge.com/pin/6742)
+[Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/6742) — [source page](https://screenity.io/)
+
+[![Screenity – The free and privacy-friendly screen recorder](https://pin.fontofweb.com/5113?format=jpg)](https://design.withfudge.com/pin/5113)
+[Screenity – The free and privacy-friendly screen recorder](https://design.withfudge.com/pin/5113) — [source page](https://screenity.io/)

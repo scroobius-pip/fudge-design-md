@@ -6,6 +6,10 @@ Source domain: [docs.apara.design](https://docs.apara.design)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7987
+-->
+
 Here is the visual system observed across **2 captured pages** from [docs.apara.design](https://docs.apara.design).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [docs.apara.
 }
 ```
 
-## References
-- [Apara Docs](https://design.withfudge.com/pin/7987) — [source page](https://docs.apara.design/terms-and-condition)
-- [Apara Docs](https://design.withfudge.com/pin/7986) — [source page](https://docs.apara.design/)
+## Representative captures
+[![Apara Docs](https://pin.fontofweb.com/7987?format=jpg)](https://design.withfudge.com/pin/7987)
+[Apara Docs](https://design.withfudge.com/pin/7987) — [source page](https://docs.apara.design/terms-and-condition)
+
+[![Apara Docs](https://pin.fontofweb.com/7986?format=jpg)](https://design.withfudge.com/pin/7986)
+[Apara Docs](https://design.withfudge.com/pin/7986) — [source page](https://docs.apara.design/)

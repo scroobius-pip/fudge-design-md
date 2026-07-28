@@ -6,6 +6,10 @@ Source domain: [app.superlist.com](https://app.superlist.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8892
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.superlist.com](https://app.superlist.com).
 
 ```fudge-colors
@@ -81,6 +85,9 @@ Here is the visual system observed across **2 captured pages** from [app.superli
 }
 ```
 
-## References
-- [Superlist](https://design.withfudge.com/pin/8892) — [source page](https://app.superlist.com/inbox)
-- [Superlist](https://design.withfudge.com/pin/8891) — [source page](https://app.superlist.com/inbox)
+## Representative captures
+[![Superlist](https://pin.fontofweb.com/8892?format=jpg)](https://design.withfudge.com/pin/8892)
+[Superlist](https://design.withfudge.com/pin/8892) — [source page](https://app.superlist.com/inbox)
+
+[![Superlist](https://pin.fontofweb.com/8891?format=jpg)](https://design.withfudge.com/pin/8891)
+[Superlist](https://design.withfudge.com/pin/8891) — [source page](https://app.superlist.com/inbox)

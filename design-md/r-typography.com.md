@@ -6,6 +6,10 @@ Source domain: [r-typography.com](https://r-typography.com)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6845
+-->
+
 Here is the visual system observed across **1 captured page** from [r-typography.com](https://r-typography.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [r-typography
 }
 ```
 
-## References
-- [ABOUT R-TYPOGRAPHY | R-Typography](https://design.withfudge.com/pin/6845) — [source page](https://r-typography.com/about)
+## Representative captures
+[![ABOUT R-TYPOGRAPHY | R-Typography](https://pin.fontofweb.com/6845?format=jpg)](https://design.withfudge.com/pin/6845)
+[ABOUT R-TYPOGRAPHY | R-Typography](https://design.withfudge.com/pin/6845) — [source page](https://r-typography.com/about)

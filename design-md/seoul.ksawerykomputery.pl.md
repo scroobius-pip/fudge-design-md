@@ -6,6 +6,10 @@ Source domain: [seoul.ksawerykomputery.pl](https://seoul.ksawerykomputery.pl)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7935
+-->
+
 Here is the visual system observed across **1 captured page** from [seoul.ksawerykomputery.pl](https://seoul.ksawerykomputery.pl).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [seoul.ksawer
 }
 ```
 
-## References
-- [SEOUL](https://design.withfudge.com/pin/7935) — [source page](https://seoul.ksawerykomputery.pl/)
+## Representative captures
+[![SEOUL](https://pin.fontofweb.com/7935?format=jpg)](https://design.withfudge.com/pin/7935)
+[SEOUL](https://design.withfudge.com/pin/7935) — [source page](https://seoul.ksawerykomputery.pl/)

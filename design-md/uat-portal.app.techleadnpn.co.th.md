@@ -6,6 +6,10 @@ Source domain: [uat-portal.app.techleadnpn.co.th](https://uat-portal.app.techlea
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10424
+-->
+
 Here is the visual system observed across **1 captured page** from [uat-portal.app.techleadnpn.co.th](https://uat-portal.app.techleadnpn.co.th).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [uat-portal.a
 }
 ```
 
-## References
-- [Requests](https://design.withfudge.com/pin/10424) — [source page](https://uat-portal.app.techleadnpn.co.th/v2/e-approval)
+## Representative captures
+[![Requests](https://pin.fontofweb.com/10424?format=jpg)](https://design.withfudge.com/pin/10424)
+[Requests](https://design.withfudge.com/pin/10424) — [source page](https://uat-portal.app.techleadnpn.co.th/v2/e-approval)

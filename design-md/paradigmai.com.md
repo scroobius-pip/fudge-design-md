@@ -6,6 +6,10 @@ Source domain: [paradigmai.com](https://paradigmai.com)
 
 Last updated: 2026-03-21
 
+<!--
+coverPin: 8217
+-->
+
 Here is the visual system observed across **5 captured pages** from [paradigmai.com](https://paradigmai.com).
 
 ```fudge-colors
@@ -183,9 +187,18 @@ Here is the visual system observed across **5 captured pages** from [paradigmai.
 }
 ```
 
-## References
-- [Paradigm - Recruiting](https://design.withfudge.com/pin/8217) — [source page](https://paradigmai.com/solutions/recruiting)
-- [Paradigm](https://design.withfudge.com/pin/8216) — [source page](https://paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8215) — [source page](https://paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8214) — [source page](https://paradigmai.com/)
-- [Paradigm](https://design.withfudge.com/pin/8213) — [source page](https://paradigmai.com/)
+## Representative captures
+[![Paradigm - Recruiting](https://pin.fontofweb.com/8217?format=jpg)](https://design.withfudge.com/pin/8217)
+[Paradigm - Recruiting](https://design.withfudge.com/pin/8217) — [source page](https://paradigmai.com/solutions/recruiting)
+
+[![Paradigm](https://pin.fontofweb.com/8216?format=jpg)](https://design.withfudge.com/pin/8216)
+[Paradigm](https://design.withfudge.com/pin/8216) — [source page](https://paradigmai.com/)
+
+[![Paradigm](https://pin.fontofweb.com/8215?format=jpg)](https://design.withfudge.com/pin/8215)
+[Paradigm](https://design.withfudge.com/pin/8215) — [source page](https://paradigmai.com/)
+
+[![Paradigm](https://pin.fontofweb.com/8214?format=jpg)](https://design.withfudge.com/pin/8214)
+[Paradigm](https://design.withfudge.com/pin/8214) — [source page](https://paradigmai.com/)
+
+[![Paradigm](https://pin.fontofweb.com/8213?format=jpg)](https://design.withfudge.com/pin/8213)
+[Paradigm](https://design.withfudge.com/pin/8213) — [source page](https://paradigmai.com/)

@@ -6,6 +6,10 @@ Source domain: [micro.so](https://micro.so)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8733
+-->
+
 Here is the visual system observed across **26 captured pages** from [micro.so](https://micro.so).
 
 ```fudge-colors
@@ -334,12 +338,27 @@ Here is the visual system observed across **26 captured pages** from [micro.so](
 }
 ```
 
-## References
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8733) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8732) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8731) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8730) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8729) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8728) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8727) — [source page](https://micro.so/)
-- [Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8726) — [source page](https://micro.so/)
+## Representative captures
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8733?format=jpg)](https://design.withfudge.com/pin/8733)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8733) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8732?format=jpg)](https://design.withfudge.com/pin/8732)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8732) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8731?format=jpg)](https://design.withfudge.com/pin/8731)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8731) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8730?format=jpg)](https://design.withfudge.com/pin/8730)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8730) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8729?format=jpg)](https://design.withfudge.com/pin/8729)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8729) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8728?format=jpg)](https://design.withfudge.com/pin/8728)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8728) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8727?format=jpg)](https://design.withfudge.com/pin/8727)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8727) — [source page](https://micro.so/)
+
+[![Micro — One place for email, CRM, meetings, tasks, and AI](https://pin.fontofweb.com/8726?format=jpg)](https://design.withfudge.com/pin/8726)
+[Micro — One place for email, CRM, meetings, tasks, and AI](https://design.withfudge.com/pin/8726) — [source page](https://micro.so/)

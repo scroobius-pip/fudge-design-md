@@ -6,6 +6,10 @@ Source domain: [posts.im](https://posts.im)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8537
+-->
+
 Here is the visual system observed across **2 captured pages** from [posts.im](https://posts.im).
 
 ```fudge-colors
@@ -103,6 +107,9 @@ Here is the visual system observed across **2 captured pages** from [posts.im](h
 }
 ```
 
-## References
-- [Posts](https://design.withfudge.com/pin/8537) — [source page](https://posts.im/)
-- [Posts](https://design.withfudge.com/pin/8536) — [source page](https://posts.im/)
+## Representative captures
+[![Posts](https://pin.fontofweb.com/8537?format=jpg)](https://design.withfudge.com/pin/8537)
+[Posts](https://design.withfudge.com/pin/8537) — [source page](https://posts.im/)
+
+[![Posts](https://pin.fontofweb.com/8536?format=jpg)](https://design.withfudge.com/pin/8536)
+[Posts](https://design.withfudge.com/pin/8536) — [source page](https://posts.im/)

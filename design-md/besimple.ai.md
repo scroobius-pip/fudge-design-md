@@ -6,6 +6,10 @@ Source domain: [besimple.ai](https://besimple.ai)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9802
+-->
+
 Here is the visual system observed across **5 captured pages** from [besimple.ai](https://besimple.ai).
 
 ```fudge-colors
@@ -211,9 +215,18 @@ Here is the visual system observed across **5 captured pages** from [besimple.ai
 }
 ```
 
-## References
-- [Besimple AI](https://design.withfudge.com/pin/9802) — [source page](https://besimple.ai/blogs/voice-code-bench)
-- [Besimple AI](https://design.withfudge.com/pin/9801) — [source page](https://besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9800) — [source page](https://besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9799) — [source page](https://besimple.ai/)
-- [Besimple AI](https://design.withfudge.com/pin/9798) — [source page](https://besimple.ai/)
+## Representative captures
+[![Besimple AI](https://pin.fontofweb.com/9802?format=jpg)](https://design.withfudge.com/pin/9802)
+[Besimple AI](https://design.withfudge.com/pin/9802) — [source page](https://besimple.ai/blogs/voice-code-bench)
+
+[![Besimple AI](https://pin.fontofweb.com/9801?format=jpg)](https://design.withfudge.com/pin/9801)
+[Besimple AI](https://design.withfudge.com/pin/9801) — [source page](https://besimple.ai/)
+
+[![Besimple AI](https://pin.fontofweb.com/9800?format=jpg)](https://design.withfudge.com/pin/9800)
+[Besimple AI](https://design.withfudge.com/pin/9800) — [source page](https://besimple.ai/)
+
+[![Besimple AI](https://pin.fontofweb.com/9799?format=jpg)](https://design.withfudge.com/pin/9799)
+[Besimple AI](https://design.withfudge.com/pin/9799) — [source page](https://besimple.ai/)
+
+[![Besimple AI](https://pin.fontofweb.com/9798?format=jpg)](https://design.withfudge.com/pin/9798)
+[Besimple AI](https://design.withfudge.com/pin/9798) — [source page](https://besimple.ai/)

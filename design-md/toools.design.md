@@ -6,6 +6,10 @@ Source domain: [toools.design](https://toools.design)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7452
+-->
+
 Here is the visual system observed across **3 captured pages** from [toools.design](https://toools.design).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [toools.desi
 }
 ```
 
-## References
-- [TOOOLS.design Sponsorships – Get More Reach For Your Product](https://design.withfudge.com/pin/7452) — [source page](https://toools.design/sponsor)
-- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7451) — [source page](https://toools.design/)
-- [Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7450) — [source page](https://toools.design/)
+## Representative captures
+[![TOOOLS.design Sponsorships – Get More Reach For Your Product](https://pin.fontofweb.com/7452?format=jpg)](https://design.withfudge.com/pin/7452)
+[TOOOLS.design Sponsorships – Get More Reach For Your Product](https://design.withfudge.com/pin/7452) — [source page](https://toools.design/sponsor)
+
+[![Design Resources & Tools for Designers | TOOOLS.design](https://pin.fontofweb.com/7451?format=jpg)](https://design.withfudge.com/pin/7451)
+[Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7451) — [source page](https://toools.design/)
+
+[![Design Resources & Tools for Designers | TOOOLS.design](https://pin.fontofweb.com/7450?format=jpg)](https://design.withfudge.com/pin/7450)
+[Design Resources & Tools for Designers | TOOOLS.design](https://design.withfudge.com/pin/7450) — [source page](https://toools.design/)

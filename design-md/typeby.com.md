@@ -6,6 +6,10 @@ Source domain: [typeby.com](https://typeby.com)
 
 Last updated: 2026-01-27
 
+<!--
+coverPin: 6004
+-->
+
 Here is the visual system observed across **1 captured page** from [typeby.com](https://typeby.com).
 
 ```fudge-colors
@@ -77,5 +81,6 @@ Here is the visual system observed across **1 captured page** from [typeby.com](
 }
 ```
 
-## References
-- [TYPE BY](https://design.withfudge.com/pin/6004) — [source page](https://typeby.com/)
+## Representative captures
+[![TYPE BY](https://pin.fontofweb.com/6004?format=jpg)](https://design.withfudge.com/pin/6004)
+[TYPE BY](https://design.withfudge.com/pin/6004) — [source page](https://typeby.com/)

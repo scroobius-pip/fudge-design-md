@@ -6,6 +6,10 @@ Source domain: [helium.computer](https://helium.computer)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6939
+-->
+
 Here is the visual system observed across **10 captured pages** from [helium.computer](https://helium.computer).
 
 ```fudge-colors
@@ -242,12 +246,27 @@ Here is the visual system observed across **10 captured pages** from [helium.com
 }
 ```
 
-## References
-- [Helium Browser](https://design.withfudge.com/pin/6939) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/6938) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/6937) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3806) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3805) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3804) — [source page](https://helium.computer/)
-- [Helium Browser](https://design.withfudge.com/pin/3803) — [source page](https://helium.computer/)
-- [Helium · Bangs](https://design.withfudge.com/pin/3802) — [source page](https://helium.computer/bangs)
+## Representative captures
+[![Helium Browser](https://pin.fontofweb.com/6939?format=jpg)](https://design.withfudge.com/pin/6939)
+[Helium Browser](https://design.withfudge.com/pin/6939) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/6938?format=jpg)](https://design.withfudge.com/pin/6938)
+[Helium Browser](https://design.withfudge.com/pin/6938) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/6937?format=jpg)](https://design.withfudge.com/pin/6937)
+[Helium Browser](https://design.withfudge.com/pin/6937) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/3806?format=jpg)](https://design.withfudge.com/pin/3806)
+[Helium Browser](https://design.withfudge.com/pin/3806) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/3805?format=jpg)](https://design.withfudge.com/pin/3805)
+[Helium Browser](https://design.withfudge.com/pin/3805) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/3804?format=jpg)](https://design.withfudge.com/pin/3804)
+[Helium Browser](https://design.withfudge.com/pin/3804) — [source page](https://helium.computer/)
+
+[![Helium Browser](https://pin.fontofweb.com/3803?format=jpg)](https://design.withfudge.com/pin/3803)
+[Helium Browser](https://design.withfudge.com/pin/3803) — [source page](https://helium.computer/)
+
+[![Helium · Bangs](https://pin.fontofweb.com/3802?format=jpg)](https://design.withfudge.com/pin/3802)
+[Helium · Bangs](https://design.withfudge.com/pin/3802) — [source page](https://helium.computer/bangs)

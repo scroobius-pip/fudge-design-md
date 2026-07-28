@@ -6,6 +6,10 @@ Source domain: [lettermatic.com](https://lettermatic.com)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5970
+-->
+
 Here is the visual system observed across **4 captured pages** from [lettermatic.com](https://lettermatic.com).
 
 ```fudge-colors
@@ -160,8 +164,15 @@ Here is the visual system observed across **4 captured pages** from [lettermatic
 }
 ```
 
-## References
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5970) — [source page](https://lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5969) — [source page](https://lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5968) — [source page](https://lettermatic.com/)
-- [Lettermatic | We make fonts](https://design.withfudge.com/pin/5967) — [source page](https://lettermatic.com/)
+## Representative captures
+[![Lettermatic | We make fonts](https://pin.fontofweb.com/5970?format=jpg)](https://design.withfudge.com/pin/5970)
+[Lettermatic | We make fonts](https://design.withfudge.com/pin/5970) — [source page](https://lettermatic.com/)
+
+[![Lettermatic | We make fonts](https://pin.fontofweb.com/5969?format=jpg)](https://design.withfudge.com/pin/5969)
+[Lettermatic | We make fonts](https://design.withfudge.com/pin/5969) — [source page](https://lettermatic.com/)
+
+[![Lettermatic | We make fonts](https://pin.fontofweb.com/5968?format=jpg)](https://design.withfudge.com/pin/5968)
+[Lettermatic | We make fonts](https://design.withfudge.com/pin/5968) — [source page](https://lettermatic.com/)
+
+[![Lettermatic | We make fonts](https://pin.fontofweb.com/5967?format=jpg)](https://design.withfudge.com/pin/5967)
+[Lettermatic | We make fonts](https://design.withfudge.com/pin/5967) — [source page](https://lettermatic.com/)

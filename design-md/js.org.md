@@ -6,6 +6,10 @@ Source domain: [js.org](https://js.org)
 
 Last updated: 2026-03-18
 
+<!--
+coverPin: 8164
+-->
+
 Here is the visual system observed across **1 captured page** from [js.org](https://js.org).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [js.org](http
 }
 ```
 
-## References
-- [JS.ORG - the JavaScript organization](https://design.withfudge.com/pin/8164) — [source page](https://js.org/)
+## Representative captures
+[![JS.ORG - the JavaScript organization](https://pin.fontofweb.com/8164?format=jpg)](https://design.withfudge.com/pin/8164)
+[JS.ORG - the JavaScript organization](https://design.withfudge.com/pin/8164) — [source page](https://js.org/)

@@ -6,6 +6,10 @@ Source domain: [annas-archive.li](https://annas-archive.li)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6697
+-->
+
 Here is the visual system observed across **1 captured page** from [annas-archive.li](https://annas-archive.li).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [annas-archiv
 }
 ```
 
-## References
-- [Anna’s Blog](https://design.withfudge.com/pin/6697) — [source page](https://annas-archive.li/blog/)
+## Representative captures
+[![Anna’s Blog](https://pin.fontofweb.com/6697?format=jpg)](https://design.withfudge.com/pin/6697)
+[Anna’s Blog](https://design.withfudge.com/pin/6697) — [source page](https://annas-archive.li/blog/)

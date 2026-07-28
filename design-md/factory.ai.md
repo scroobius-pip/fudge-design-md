@@ -6,6 +6,10 @@ Source domain: [factory.ai](https://factory.ai)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6823
+-->
+
 Here is the visual system observed across **22 captured pages** from [factory.ai](https://factory.ai).
 
 ```fudge-colors
@@ -328,12 +332,27 @@ Here is the visual system observed across **22 captured pages** from [factory.ai
 }
 ```
 
-## References
-- [Factory IDE | AI Coding Agents](https://design.withfudge.com/pin/6823) — [source page](https://factory.ai/product/ide)
-- [About Factory | Agent-Native Development](https://design.withfudge.com/pin/6822) — [source page](https://factory.ai/company)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6820) — [source page](https://factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6819) — [source page](https://factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6818) — [source page](https://factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6817) — [source page](https://factory.ai/enterprise)
-- [Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6816) — [source page](https://factory.ai/enterprise)
-- [Factory | Agent-Native Software Development](https://design.withfudge.com/pin/6815) — [source page](https://factory.ai/)
+## Representative captures
+[![Factory IDE | AI Coding Agents](https://pin.fontofweb.com/6823?format=jpg)](https://design.withfudge.com/pin/6823)
+[Factory IDE | AI Coding Agents](https://design.withfudge.com/pin/6823) — [source page](https://factory.ai/product/ide)
+
+[![About Factory | Agent-Native Development](https://pin.fontofweb.com/6822?format=jpg)](https://design.withfudge.com/pin/6822)
+[About Factory | Agent-Native Development](https://design.withfudge.com/pin/6822) — [source page](https://factory.ai/company)
+
+[![Factory Enterprise | Agent-Native Development](https://pin.fontofweb.com/6820?format=jpg)](https://design.withfudge.com/pin/6820)
+[Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6820) — [source page](https://factory.ai/enterprise)
+
+[![Factory Enterprise | Agent-Native Development](https://pin.fontofweb.com/6819?format=jpg)](https://design.withfudge.com/pin/6819)
+[Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6819) — [source page](https://factory.ai/enterprise)
+
+[![Factory Enterprise | Agent-Native Development](https://pin.fontofweb.com/6818?format=jpg)](https://design.withfudge.com/pin/6818)
+[Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6818) — [source page](https://factory.ai/enterprise)
+
+[![Factory Enterprise | Agent-Native Development](https://pin.fontofweb.com/6817?format=jpg)](https://design.withfudge.com/pin/6817)
+[Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6817) — [source page](https://factory.ai/enterprise)
+
+[![Factory Enterprise | Agent-Native Development](https://pin.fontofweb.com/6816?format=jpg)](https://design.withfudge.com/pin/6816)
+[Factory Enterprise | Agent-Native Development](https://design.withfudge.com/pin/6816) — [source page](https://factory.ai/enterprise)
+
+[![Factory | Agent-Native Software Development](https://pin.fontofweb.com/6815?format=jpg)](https://design.withfudge.com/pin/6815)
+[Factory | Agent-Native Software Development](https://design.withfudge.com/pin/6815) — [source page](https://factory.ai/)

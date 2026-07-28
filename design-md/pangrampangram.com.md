@@ -6,6 +6,10 @@ Source domain: [pangrampangram.com](https://pangrampangram.com)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9783
+-->
+
 Here is the visual system observed across **29 captured pages** from [pangrampangram.com](https://pangrampangram.com).
 
 ```fudge-colors
@@ -360,12 +364,27 @@ Here is the visual system observed across **29 captured pages** from [pangrampan
 }
 ```
 
-## References
-- [Eiko - An Elegant and Refined Serif - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/9783) — [source page](https://pangrampangram.com/products/eiko)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8534) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8533) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8532) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8531) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8530) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8529) — [source page](https://pangrampangram.com/products/neue-montreal)
-- [Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8528) — [source page](https://pangrampangram.com/products/neue-montreal)
+## Representative captures
+[![Eiko - An Elegant and Refined Serif - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/9783?format=jpg)](https://design.withfudge.com/pin/9783)
+[Eiko - An Elegant and Refined Serif - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/9783) — [source page](https://pangrampangram.com/products/eiko)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8534?format=jpg)](https://design.withfudge.com/pin/8534)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8534) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8533?format=jpg)](https://design.withfudge.com/pin/8533)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8533) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8532?format=jpg)](https://design.withfudge.com/pin/8532)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8532) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8531?format=jpg)](https://design.withfudge.com/pin/8531)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8531) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8530?format=jpg)](https://design.withfudge.com/pin/8530)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8530) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8529?format=jpg)](https://design.withfudge.com/pin/8529)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8529) — [source page](https://pangrampangram.com/products/neue-montreal)
+
+[![Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://pin.fontofweb.com/8528?format=jpg)](https://design.withfudge.com/pin/8528)
+[Neue Montreal - Free to Try Font – Pangram Pangram Foundry](https://design.withfudge.com/pin/8528) — [source page](https://pangrampangram.com/products/neue-montreal)

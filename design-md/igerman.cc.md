@@ -6,6 +6,10 @@ Source domain: [igerman.cc](https://igerman.cc)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9529
+-->
+
 Here is the visual system observed across **2 captured pages** from [igerman.cc](https://igerman.cc).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [igerman.cc]
 }
 ```
 
-## References
-- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9529) — [source page](https://igerman.cc/blog/dopamine-fracking/)
-- [Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9528) — [source page](https://igerman.cc/blog/dopamine-fracking/)
+## Representative captures
+[![Dopamine Fracking | beware, the german!](https://pin.fontofweb.com/9529?format=jpg)](https://design.withfudge.com/pin/9529)
+[Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9529) — [source page](https://igerman.cc/blog/dopamine-fracking/)
+
+[![Dopamine Fracking | beware, the german!](https://pin.fontofweb.com/9528?format=jpg)](https://design.withfudge.com/pin/9528)
+[Dopamine Fracking | beware, the german!](https://design.withfudge.com/pin/9528) — [source page](https://igerman.cc/blog/dopamine-fracking/)

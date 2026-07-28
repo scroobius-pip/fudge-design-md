@@ -6,6 +6,10 @@ Source domain: [shopify.design](https://shopify.design)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8597
+-->
+
 Here is the visual system observed across **6 captured pages** from [shopify.design](https://shopify.design).
 
 ```fudge-colors
@@ -218,10 +222,21 @@ Here is the visual system observed across **6 captured pages** from [shopify.des
 }
 ```
 
-## References
-- [Shopify Design](https://design.withfudge.com/pin/8597) — [source page](https://shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8590) — [source page](https://shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8589) — [source page](https://shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8588) — [source page](https://shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8587) — [source page](https://shopify.design/)
-- [Shopify Design](https://design.withfudge.com/pin/8586) — [source page](https://shopify.design/)
+## Representative captures
+[![Shopify Design](https://pin.fontofweb.com/8597?format=jpg)](https://design.withfudge.com/pin/8597)
+[Shopify Design](https://design.withfudge.com/pin/8597) — [source page](https://shopify.design/)
+
+[![Shopify Design](https://pin.fontofweb.com/8590?format=jpg)](https://design.withfudge.com/pin/8590)
+[Shopify Design](https://design.withfudge.com/pin/8590) — [source page](https://shopify.design/)
+
+[![Shopify Design](https://pin.fontofweb.com/8589?format=jpg)](https://design.withfudge.com/pin/8589)
+[Shopify Design](https://design.withfudge.com/pin/8589) — [source page](https://shopify.design/)
+
+[![Shopify Design](https://pin.fontofweb.com/8588?format=jpg)](https://design.withfudge.com/pin/8588)
+[Shopify Design](https://design.withfudge.com/pin/8588) — [source page](https://shopify.design/)
+
+[![Shopify Design](https://pin.fontofweb.com/8587?format=jpg)](https://design.withfudge.com/pin/8587)
+[Shopify Design](https://design.withfudge.com/pin/8587) — [source page](https://shopify.design/)
+
+[![Shopify Design](https://pin.fontofweb.com/8586?format=jpg)](https://design.withfudge.com/pin/8586)
+[Shopify Design](https://design.withfudge.com/pin/8586) — [source page](https://shopify.design/)

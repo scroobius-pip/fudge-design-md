@@ -6,6 +6,10 @@ Source domain: [mykc.cargo.site](https://mykc.cargo.site)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10403
+-->
+
 Here is the visual system observed across **7 captured pages** from [mykc.cargo.site](https://mykc.cargo.site).
 
 ```fudge-colors
@@ -238,11 +242,24 @@ Here is the visual system observed across **7 captured pages** from [mykc.cargo.
 }
 ```
 
-## References
-- [OSULLOC Brand Identity and Integrated Application Renewal - MYKC STUDIO](https://design.withfudge.com/pin/10403) — [source page](https://mykc.cargo.site/OSULLOC-Brand-Identity-and-Integrated-Application-Renewal)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10321) — [source page](https://mykc.cargo.site/Directory-Magazine)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10320) — [source page](https://mykc.cargo.site/Directory-Magazine)
-- [Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10319) — [source page](https://mykc.cargo.site/Directory-Magazine)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10318) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10317) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
-- [PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10316) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+## Representative captures
+[![OSULLOC Brand Identity and Integrated Application Renewal - MYKC STUDIO](https://pin.fontofweb.com/10403?format=jpg)](https://design.withfudge.com/pin/10403)
+[OSULLOC Brand Identity and Integrated Application Renewal - MYKC STUDIO](https://design.withfudge.com/pin/10403) — [source page](https://mykc.cargo.site/OSULLOC-Brand-Identity-and-Integrated-Application-Renewal)
+
+[![Directory Magazine  - MYKC STUDIO](https://pin.fontofweb.com/10321?format=jpg)](https://design.withfudge.com/pin/10321)
+[Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10321) — [source page](https://mykc.cargo.site/Directory-Magazine)
+
+[![Directory Magazine  - MYKC STUDIO](https://pin.fontofweb.com/10320?format=jpg)](https://design.withfudge.com/pin/10320)
+[Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10320) — [source page](https://mykc.cargo.site/Directory-Magazine)
+
+[![Directory Magazine  - MYKC STUDIO](https://pin.fontofweb.com/10319?format=jpg)](https://design.withfudge.com/pin/10319)
+[Directory Magazine  - MYKC STUDIO](https://design.withfudge.com/pin/10319) — [source page](https://mykc.cargo.site/Directory-Magazine)
+
+[![PRO-SPECS BRANDBOOK - MYKC STUDIO](https://pin.fontofweb.com/10318?format=jpg)](https://design.withfudge.com/pin/10318)
+[PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10318) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+
+[![PRO-SPECS BRANDBOOK - MYKC STUDIO](https://pin.fontofweb.com/10317?format=jpg)](https://design.withfudge.com/pin/10317)
+[PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10317) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)
+
+[![PRO-SPECS BRANDBOOK - MYKC STUDIO](https://pin.fontofweb.com/10316?format=jpg)](https://design.withfudge.com/pin/10316)
+[PRO-SPECS BRANDBOOK - MYKC STUDIO](https://design.withfudge.com/pin/10316) — [source page](https://mykc.cargo.site/PRO-SPECS-BRANDBOOK)

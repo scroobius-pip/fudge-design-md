@@ -6,6 +6,10 @@ Source domain: [properm.ru](https://properm.ru)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9166
+-->
+
 Here is the visual system observed across **2 captured pages** from [properm.ru](https://properm.ru).
 
 ```fudge-colors
@@ -98,6 +102,9 @@ Here is the visual system observed across **2 captured pages** from [properm.ru]
 }
 ```
 
-## References
-- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9166) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
-- [Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9165) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
+## Representative captures
+[![Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://pin.fontofweb.com/9166?format=jpg)](https://design.withfudge.com/pin/9166)
+[Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9166) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)
+
+[![Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://pin.fontofweb.com/9165?format=jpg)](https://design.withfudge.com/pin/9165)
+[Погода на майские праздники приготовила неприятный сюрприз для пермяков — Новости Перми и Пермского края - Properm](https://design.withfudge.com/pin/9165) — [source page](https://properm.ru/news/2026-04-29/meteorologi-yandeks-pogody-dali-permyakam-prognoz-na-mayskie-prazdniki-5589405)

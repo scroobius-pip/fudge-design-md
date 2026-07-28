@@ -6,6 +6,10 @@ Source domain: [drudgereport.com](https://drudgereport.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8999
+-->
+
 Here is the visual system observed across **1 captured page** from [drudgereport.com](https://drudgereport.com).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [drudgereport
 }
 ```
 
-## References
-- [DRUDGE REPORT 2026®](https://design.withfudge.com/pin/8999) — [source page](https://drudgereport.com/default.htm)
+## Representative captures
+[![DRUDGE REPORT 2026®](https://pin.fontofweb.com/8999?format=jpg)](https://design.withfudge.com/pin/8999)
+[DRUDGE REPORT 2026®](https://design.withfudge.com/pin/8999) — [source page](https://drudgereport.com/default.htm)

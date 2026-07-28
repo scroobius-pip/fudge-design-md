@@ -6,6 +6,10 @@ Source domain: [mixfont.com](https://mixfont.com)
 
 Last updated: 2026-05-22
 
+<!--
+coverPin: 9435
+-->
+
 Here is the visual system observed across **6 captured pages** from [mixfont.com](https://mixfont.com).
 
 ```fudge-colors
@@ -297,10 +301,21 @@ Here is the visual system observed across **6 captured pages** from [mixfont.com
 }
 ```
 
-## References
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9435) — [source page](https://mixfont.com/fonts/granite-echo-2)
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9434) — [source page](https://mixfont.com/fonts/granite-echo-2)
-- [Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9433) — [source page](https://mixfont.com/fonts/granite-echo-2)
-- [Fonts — Mixfont](https://design.withfudge.com/pin/9432) — [source page](https://mixfont.com/fonts)
-- [Sign In — Mixfont](https://design.withfudge.com/pin/9431) — [source page](https://mixfont.com/signin)
-- [Mixfont — Make Any Font You Can Imagine](https://design.withfudge.com/pin/9430) — [source page](https://mixfont.com/)
+## Representative captures
+[![Granite Echo Font | Mixfont](https://pin.fontofweb.com/9435?format=jpg)](https://design.withfudge.com/pin/9435)
+[Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9435) — [source page](https://mixfont.com/fonts/granite-echo-2)
+
+[![Granite Echo Font | Mixfont](https://pin.fontofweb.com/9434?format=jpg)](https://design.withfudge.com/pin/9434)
+[Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9434) — [source page](https://mixfont.com/fonts/granite-echo-2)
+
+[![Granite Echo Font | Mixfont](https://pin.fontofweb.com/9433?format=jpg)](https://design.withfudge.com/pin/9433)
+[Granite Echo Font | Mixfont](https://design.withfudge.com/pin/9433) — [source page](https://mixfont.com/fonts/granite-echo-2)
+
+[![Fonts — Mixfont](https://pin.fontofweb.com/9432?format=jpg)](https://design.withfudge.com/pin/9432)
+[Fonts — Mixfont](https://design.withfudge.com/pin/9432) — [source page](https://mixfont.com/fonts)
+
+[![Sign In — Mixfont](https://pin.fontofweb.com/9431?format=jpg)](https://design.withfudge.com/pin/9431)
+[Sign In — Mixfont](https://design.withfudge.com/pin/9431) — [source page](https://mixfont.com/signin)
+
+[![Mixfont — Make Any Font You Can Imagine](https://pin.fontofweb.com/9430?format=jpg)](https://design.withfudge.com/pin/9430)
+[Mixfont — Make Any Font You Can Imagine](https://design.withfudge.com/pin/9430) — [source page](https://mixfont.com/)

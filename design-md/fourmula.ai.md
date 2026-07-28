@@ -6,6 +6,10 @@ Source domain: [fourmula.ai](https://fourmula.ai)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8675
+-->
+
 Here is the visual system observed across **8 captured pages** from [fourmula.ai](https://fourmula.ai).
 
 ```fudge-colors
@@ -246,12 +250,27 @@ Here is the visual system observed across **8 captured pages** from [fourmula.ai
 }
 ```
 
-## References
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8675) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8674) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8673) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8672) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8671) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8670) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8669) — [source page](https://fourmula.ai/)
-- [AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8668) — [source page](https://fourmula.ai/)
+## Representative captures
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8675?format=jpg)](https://design.withfudge.com/pin/8675)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8675) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8674?format=jpg)](https://design.withfudge.com/pin/8674)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8674) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8673?format=jpg)](https://design.withfudge.com/pin/8673)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8673) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8672?format=jpg)](https://design.withfudge.com/pin/8672)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8672) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8671?format=jpg)](https://design.withfudge.com/pin/8671)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8671) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8670?format=jpg)](https://design.withfudge.com/pin/8670)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8670) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8669?format=jpg)](https://design.withfudge.com/pin/8669)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8669) — [source page](https://fourmula.ai/)
+
+[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8668?format=jpg)](https://design.withfudge.com/pin/8668)
+[AI Product Generation — Fourmula.ai](https://design.withfudge.com/pin/8668) — [source page](https://fourmula.ai/)

@@ -6,6 +6,10 @@ Source domain: [wonder.design](https://wonder.design)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8836
+-->
+
 Here is the visual system observed across **3 captured pages** from [wonder.design](https://wonder.design).
 
 ```fudge-colors
@@ -140,7 +144,12 @@ Here is the visual system observed across **3 captured pages** from [wonder.desi
 }
 ```
 
-## References
-- [Wonder](https://design.withfudge.com/pin/8836) — [source page](https://wonder.design/)
-- [Wonder](https://design.withfudge.com/pin/8835) — [source page](https://wonder.design/)
-- [Wonder](https://design.withfudge.com/pin/8834) — [source page](https://wonder.design/)
+## Representative captures
+[![Wonder](https://pin.fontofweb.com/8836?format=jpg)](https://design.withfudge.com/pin/8836)
+[Wonder](https://design.withfudge.com/pin/8836) — [source page](https://wonder.design/)
+
+[![Wonder](https://pin.fontofweb.com/8835?format=jpg)](https://design.withfudge.com/pin/8835)
+[Wonder](https://design.withfudge.com/pin/8835) — [source page](https://wonder.design/)
+
+[![Wonder](https://pin.fontofweb.com/8834?format=jpg)](https://design.withfudge.com/pin/8834)
+[Wonder](https://design.withfudge.com/pin/8834) — [source page](https://wonder.design/)

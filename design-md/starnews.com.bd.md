@@ -6,6 +6,10 @@ Source domain: [starnews.com.bd](https://starnews.com.bd)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6420
+-->
+
 Here is the visual system observed across **1 captured page** from [starnews.com.bd](https://starnews.com.bd).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [starnews.com
 }
 ```
 
-## References
-- [সারা দেশে ভোটকেন্দ্রে মৃত্যু ৫ | STAR NEWS](https://design.withfudge.com/pin/6420) — [source page](https://starnews.com.bd/election-26/3756/4-deaths-at-polling-stations-across-the-country.html)
+## Representative captures
+[![সারা দেশে ভোটকেন্দ্রে মৃত্যু ৫ | STAR NEWS](https://pin.fontofweb.com/6420?format=jpg)](https://design.withfudge.com/pin/6420)
+[সারা দেশে ভোটকেন্দ্রে মৃত্যু ৫ | STAR NEWS](https://design.withfudge.com/pin/6420) — [source page](https://starnews.com.bd/election-26/3756/4-deaths-at-polling-stations-across-the-country.html)

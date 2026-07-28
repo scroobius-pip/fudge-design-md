@@ -6,6 +6,10 @@ Source domain: [updates.paddle.com](https://updates.paddle.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7232
+-->
+
 Here is the visual system observed across **1 captured page** from [updates.paddle.com](https://updates.paddle.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [updates.padd
 }
 ```
 
-## References
-- [What's new on Paddle](https://design.withfudge.com/pin/7232) — [source page](https://updates.paddle.com/en)
+## Representative captures
+[![What's new on Paddle](https://pin.fontofweb.com/7232?format=jpg)](https://design.withfudge.com/pin/7232)
+[What's new on Paddle](https://design.withfudge.com/pin/7232) — [source page](https://updates.paddle.com/en)

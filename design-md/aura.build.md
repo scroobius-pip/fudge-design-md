@@ -6,6 +6,10 @@ Source domain: [aura.build](https://aura.build)
 
 Last updated: 2026-04-13
 
+<!--
+coverPin: 8824
+-->
+
 Here is the visual system observed across **14 captured pages** from [aura.build](https://aura.build).
 
 ```fudge-colors
@@ -307,12 +311,27 @@ Here is the visual system observed across **14 captured pages** from [aura.build
 }
 ```
 
-## References
-- [Brand Portfolio Website Template | Aura](https://design.withfudge.com/pin/8824) — [source page](https://aura.build/templates/brand-portfolio)
-- [React Generator | Aura](https://design.withfudge.com/pin/8823) — [source page](https://aura.build/react/048e2c2c-d679-4cf4-bbca-f9a9327db67a)
-- [Changelog | Aura](https://design.withfudge.com/pin/8663) — [source page](https://aura.build/changelog)
-- [Changelog | Aura](https://design.withfudge.com/pin/8662) — [source page](https://aura.build/changelog)
-- [Changelog | Aura](https://design.withfudge.com/pin/8661) — [source page](https://aura.build/changelog)
-- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8660) — [source page](https://aura.build/templates/futuristic-technology1)
-- [AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8659) — [source page](https://aura.build/templates/futuristic-technology1)
-- [Browse Paid Templates - Aura](https://design.withfudge.com/pin/8658) — [source page](https://aura.build/browse/components/paid-templates)
+## Representative captures
+[![Brand Portfolio Website Template | Aura](https://pin.fontofweb.com/8824?format=jpg)](https://design.withfudge.com/pin/8824)
+[Brand Portfolio Website Template | Aura](https://design.withfudge.com/pin/8824) — [source page](https://aura.build/templates/brand-portfolio)
+
+[![React Generator | Aura](https://pin.fontofweb.com/8823?format=jpg)](https://design.withfudge.com/pin/8823)
+[React Generator | Aura](https://design.withfudge.com/pin/8823) — [source page](https://aura.build/react/048e2c2c-d679-4cf4-bbca-f9a9327db67a)
+
+[![Changelog | Aura](https://pin.fontofweb.com/8663?format=jpg)](https://design.withfudge.com/pin/8663)
+[Changelog | Aura](https://design.withfudge.com/pin/8663) — [source page](https://aura.build/changelog)
+
+[![Changelog | Aura](https://pin.fontofweb.com/8662?format=jpg)](https://design.withfudge.com/pin/8662)
+[Changelog | Aura](https://design.withfudge.com/pin/8662) — [source page](https://aura.build/changelog)
+
+[![Changelog | Aura](https://pin.fontofweb.com/8661?format=jpg)](https://design.withfudge.com/pin/8661)
+[Changelog | Aura](https://design.withfudge.com/pin/8661) — [source page](https://aura.build/changelog)
+
+[![AI Infrastructure Landing Page Template | Aura](https://pin.fontofweb.com/8660?format=jpg)](https://design.withfudge.com/pin/8660)
+[AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8660) — [source page](https://aura.build/templates/futuristic-technology1)
+
+[![AI Infrastructure Landing Page Template | Aura](https://pin.fontofweb.com/8659?format=jpg)](https://design.withfudge.com/pin/8659)
+[AI Infrastructure Landing Page Template | Aura](https://design.withfudge.com/pin/8659) — [source page](https://aura.build/templates/futuristic-technology1)
+
+[![Browse Paid Templates - Aura](https://pin.fontofweb.com/8658?format=jpg)](https://design.withfudge.com/pin/8658)
+[Browse Paid Templates - Aura](https://design.withfudge.com/pin/8658) — [source page](https://aura.build/browse/components/paid-templates)

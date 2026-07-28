@@ -6,6 +6,10 @@ Source domain: [thinkingmachines.ai](https://thinkingmachines.ai)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10153
+-->
+
 Here is the visual system observed across **9 captured pages** from [thinkingmachines.ai](https://thinkingmachines.ai).
 
 ```fudge-colors
@@ -332,12 +336,27 @@ Here is the visual system observed across **9 captured pages** from [thinkingmac
 }
 ```
 
-## References
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10153) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10152) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10151) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10150) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10149) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10148) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10147) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
-- [Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10146) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+## Representative captures
+[![The Future Worth Building Is Human - Thinking Machines Lab](https://pin.fontofweb.com/10153?format=jpg)](https://design.withfudge.com/pin/10153)
+[The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10153) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+
+[![The Future Worth Building Is Human - Thinking Machines Lab](https://pin.fontofweb.com/10152?format=jpg)](https://design.withfudge.com/pin/10152)
+[The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10152) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+
+[![The Future Worth Building Is Human - Thinking Machines Lab](https://pin.fontofweb.com/10151?format=jpg)](https://design.withfudge.com/pin/10151)
+[The Future Worth Building Is Human - Thinking Machines Lab](https://design.withfudge.com/pin/10151) — [source page](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+
+[![Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://pin.fontofweb.com/10150?format=jpg)](https://design.withfudge.com/pin/10150)
+[Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10150) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+
+[![Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://pin.fontofweb.com/10149?format=jpg)](https://design.withfudge.com/pin/10149)
+[Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10149) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+
+[![Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://pin.fontofweb.com/10148?format=jpg)](https://design.withfudge.com/pin/10148)
+[Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10148) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+
+[![Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://pin.fontofweb.com/10147?format=jpg)](https://design.withfudge.com/pin/10147)
+[Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10147) — [source page](https://thinkingmachines.ai/blog/interaction-models/)
+
+[![Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://pin.fontofweb.com/10146?format=jpg)](https://design.withfudge.com/pin/10146)
+[Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines Lab](https://design.withfudge.com/pin/10146) — [source page](https://thinkingmachines.ai/blog/interaction-models/)

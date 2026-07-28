@@ -6,6 +6,10 @@ Source domain: [beta.stackoverflow.com](https://beta.stackoverflow.com)
 
 Last updated: 2026-03-03
 
+<!--
+coverPin: 7609
+-->
+
 Here is the visual system observed across **1 captured page** from [beta.stackoverflow.com](https://beta.stackoverflow.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [beta.stackov
 }
 ```
 
-## References
-- [Stack Overflow](https://design.withfudge.com/pin/7609) — [source page](https://beta.stackoverflow.com/)
+## Representative captures
+[![Stack Overflow](https://pin.fontofweb.com/7609?format=jpg)](https://design.withfudge.com/pin/7609)
+[Stack Overflow](https://design.withfudge.com/pin/7609) — [source page](https://beta.stackoverflow.com/)

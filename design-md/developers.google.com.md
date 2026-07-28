@@ -6,6 +6,10 @@ Source domain: [developers.google.com](https://developers.google.com)
 
 Last updated: 2026-02-08
 
+<!--
+coverPin: 6327
+-->
+
 Here is the visual system observed across **3 captured pages** from [developers.google.com](https://developers.google.com).
 
 ```fudge-colors
@@ -151,7 +155,12 @@ Here is the visual system observed across **3 captured pages** from [developers.
 }
 ```
 
-## References
-- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6327) — [source page](https://developers.google.com/program/plans-and-pricing)
-- [Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6326) — [source page](https://developers.google.com/program/plans-and-pricing)
-- [Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/5075) — [source page](https://developers.google.com/program)
+## Representative captures
+[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6327?format=jpg)](https://design.withfudge.com/pin/6327)
+[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6327) — [source page](https://developers.google.com/program/plans-and-pricing)
+
+[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6326?format=jpg)](https://design.withfudge.com/pin/6326)
+[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/6326) — [source page](https://developers.google.com/program/plans-and-pricing)
+
+[![Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/5075?format=jpg)](https://design.withfudge.com/pin/5075)
+[Google Developer Program  |  Google for Developers](https://design.withfudge.com/pin/5075) — [source page](https://developers.google.com/program)

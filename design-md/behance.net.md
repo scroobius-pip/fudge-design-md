@@ -6,6 +6,10 @@ Source domain: [behance.net](https://behance.net)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7320
+-->
+
 Here is the visual system observed across **10 captured pages** from [behance.net](https://behance.net).
 
 ```fudge-colors
@@ -289,12 +293,27 @@ Here is the visual system observed across **10 captured pages** from [behance.ne
 }
 ```
 
-## References
-- [For You :: Behance](https://design.withfudge.com/pin/7320) — [source page](https://behance.net/)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7319) — [source page](https://behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7318) — [source page](https://behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7317) — [source page](https://behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7316) — [source page](https://behance.net/pro)
-- [Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7315) — [source page](https://behance.net/pro)
-- [For You :: Behance](https://design.withfudge.com/pin/7311) — [source page](https://behance.net/)
-- [Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/pin/5277) — [source page](https://behance.net/gallery/238894041/Pricing-List-Practice-Work-01)
+## Representative captures
+[![For You :: Behance](https://pin.fontofweb.com/7320?format=jpg)](https://design.withfudge.com/pin/7320)
+[For You :: Behance](https://design.withfudge.com/pin/7320) — [source page](https://behance.net/)
+
+[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7319?format=jpg)](https://design.withfudge.com/pin/7319)
+[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7319) — [source page](https://behance.net/pro)
+
+[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7318?format=jpg)](https://design.withfudge.com/pin/7318)
+[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7318) — [source page](https://behance.net/pro)
+
+[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7317?format=jpg)](https://design.withfudge.com/pin/7317)
+[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7317) — [source page](https://behance.net/pro)
+
+[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7316?format=jpg)](https://design.withfudge.com/pin/7316)
+[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7316) — [source page](https://behance.net/pro)
+
+[![Accelerate Your Creative Career | Behance Pro :: Behance](https://pin.fontofweb.com/7315?format=jpg)](https://design.withfudge.com/pin/7315)
+[Accelerate Your Creative Career | Behance Pro :: Behance](https://design.withfudge.com/pin/7315) — [source page](https://behance.net/pro)
+
+[![For You :: Behance](https://pin.fontofweb.com/7311?format=jpg)](https://design.withfudge.com/pin/7311)
+[For You :: Behance](https://design.withfudge.com/pin/7311) — [source page](https://behance.net/)
+
+[![Pricing List | Practice Work 01 :: Behance](https://pin.fontofweb.com/5277?format=jpg)](https://design.withfudge.com/pin/5277)
+[Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/pin/5277) — [source page](https://behance.net/gallery/238894041/Pricing-List-Practice-Work-01)

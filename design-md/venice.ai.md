@@ -6,6 +6,10 @@ Source domain: [venice.ai](https://venice.ai)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8719
+-->
+
 Here is the visual system observed across **1 captured page** from [venice.ai](https://venice.ai).
 
 ```fudge-colors
@@ -89,5 +93,6 @@ Here is the visual system observed across **1 captured page** from [venice.ai](h
 }
 ```
 
-## References
-- [Venice | Private AI for Unlimited Creative Freedom](https://design.withfudge.com/pin/8719) — [source page](https://venice.ai/)
+## Representative captures
+[![Venice | Private AI for Unlimited Creative Freedom](https://pin.fontofweb.com/8719?format=jpg)](https://design.withfudge.com/pin/8719)
+[Venice | Private AI for Unlimited Creative Freedom](https://design.withfudge.com/pin/8719) — [source page](https://venice.ai/)

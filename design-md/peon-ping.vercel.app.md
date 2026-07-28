@@ -6,6 +6,10 @@ Source domain: [peon-ping.vercel.app](https://peon-ping.vercel.app)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6421
+-->
+
 Here is the visual system observed across **1 captured page** from [peon-ping.vercel.app](https://peon-ping.vercel.app).
 
 ```fudge-colors
@@ -110,5 +114,6 @@ Here is the visual system observed across **1 captured page** from [peon-ping.ve
 }
 ```
 
-## References
-- [peon-ping — Stop babysitting your terminal](https://design.withfudge.com/pin/6421) — [source page](https://peon-ping.vercel.app/)
+## Representative captures
+[![peon-ping — Stop babysitting your terminal](https://pin.fontofweb.com/6421?format=jpg)](https://design.withfudge.com/pin/6421)
+[peon-ping — Stop babysitting your terminal](https://design.withfudge.com/pin/6421) — [source page](https://peon-ping.vercel.app/)

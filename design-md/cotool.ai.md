@@ -6,6 +6,10 @@ Source domain: [cotool.ai](https://cotool.ai)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8608
+-->
+
 Here is the visual system observed across **11 captured pages** from [cotool.ai](https://cotool.ai).
 
 ```fudge-colors
@@ -309,12 +313,27 @@ Here is the visual system observed across **11 captured pages** from [cotool.ai]
 }
 ```
 
-## References
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8608) — [source page](https://cotool.ai/about)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8607) — [source page](https://cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8606) — [source page](https://cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8605) — [source page](https://cotool.ai/detect)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8604) — [source page](https://cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8603) — [source page](https://cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8602) — [source page](https://cotool.ai/)
-- [Cotool - AI for the blue team.](https://design.withfudge.com/pin/8601) — [source page](https://cotool.ai/)
+## Representative captures
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8608?format=jpg)](https://design.withfudge.com/pin/8608)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8608) — [source page](https://cotool.ai/about)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8607?format=jpg)](https://design.withfudge.com/pin/8607)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8607) — [source page](https://cotool.ai/detect)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8606?format=jpg)](https://design.withfudge.com/pin/8606)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8606) — [source page](https://cotool.ai/detect)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8605?format=jpg)](https://design.withfudge.com/pin/8605)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8605) — [source page](https://cotool.ai/detect)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8604?format=jpg)](https://design.withfudge.com/pin/8604)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8604) — [source page](https://cotool.ai/)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8603?format=jpg)](https://design.withfudge.com/pin/8603)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8603) — [source page](https://cotool.ai/)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8602?format=jpg)](https://design.withfudge.com/pin/8602)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8602) — [source page](https://cotool.ai/)
+
+[![Cotool - AI for the blue team.](https://pin.fontofweb.com/8601?format=jpg)](https://design.withfudge.com/pin/8601)
+[Cotool - AI for the blue team.](https://design.withfudge.com/pin/8601) — [source page](https://cotool.ai/)

@@ -6,6 +6,10 @@ Source domain: [christies.com](https://christies.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7384
+-->
+
 Here is the visual system observed across **8 captured pages** from [christies.com](https://christies.com).
 
 ```fudge-colors
@@ -256,12 +260,27 @@ Here is the visual system observed across **8 captured pages** from [christies.c
 }
 ```
 
-## References
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7384) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7383) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7382) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7381) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7376) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7375) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7374) — [source page](https://christies.com/)
-- [Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7373) — [source page](https://christies.com/)
+## Representative captures
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7384?format=jpg)](https://design.withfudge.com/pin/7384)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7384) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7383?format=jpg)](https://design.withfudge.com/pin/7383)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7383) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7382?format=jpg)](https://design.withfudge.com/pin/7382)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7382) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7381?format=jpg)](https://design.withfudge.com/pin/7381)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7381) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7376?format=jpg)](https://design.withfudge.com/pin/7376)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7376) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7375?format=jpg)](https://design.withfudge.com/pin/7375)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7375) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7374?format=jpg)](https://design.withfudge.com/pin/7374)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7374) — [source page](https://christies.com/)
+
+[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7373?format=jpg)](https://design.withfudge.com/pin/7373)
+[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/pin/7373) — [source page](https://christies.com/)

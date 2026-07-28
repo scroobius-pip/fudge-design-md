@@ -6,6 +6,10 @@ Source domain: [ethicalads.io](https://ethicalads.io)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6085
+-->
+
 Here is the visual system observed across **2 captured pages** from [ethicalads.io](https://ethicalads.io).
 
 ```fudge-colors
@@ -83,6 +87,9 @@ Here is the visual system observed across **2 captured pages** from [ethicalads.
 }
 ```
 
-## References
-- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6085) — [source page](https://ethicalads.io/advertisers/)
-- [Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6084) — [source page](https://ethicalads.io/advertisers/)
+## Representative captures
+[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6085?format=jpg)](https://design.withfudge.com/pin/6085)
+[Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6085) — [source page](https://ethicalads.io/advertisers/)
+
+[![Advertise with Us - EthicalAds](https://pin.fontofweb.com/6084?format=jpg)](https://design.withfudge.com/pin/6084)
+[Advertise with Us - EthicalAds](https://design.withfudge.com/pin/6084) — [source page](https://ethicalads.io/advertisers/)

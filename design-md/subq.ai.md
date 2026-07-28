@@ -6,6 +6,10 @@ Source domain: [subq.ai](https://subq.ai)
 
 Last updated: 2026-06-16
 
+<!--
+coverPin: 9662
+-->
+
 Here is the visual system observed across **2 captured pages** from [subq.ai](https://subq.ai).
 
 ```fudge-colors
@@ -145,6 +149,9 @@ Here is the visual system observed across **2 captured pages** from [subq.ai](ht
 }
 ```
 
-## References
-- [Subquadratic — Efficiency is Intelligence](https://design.withfudge.com/pin/9662) — [source page](https://subq.ai/)
-- [Request Early Access — Subquadratic](https://design.withfudge.com/pin/9659) — [source page](https://subq.ai/request-early-access)
+## Representative captures
+[![Subquadratic — Efficiency is Intelligence](https://pin.fontofweb.com/9662?format=jpg)](https://design.withfudge.com/pin/9662)
+[Subquadratic — Efficiency is Intelligence](https://design.withfudge.com/pin/9662) — [source page](https://subq.ai/)
+
+[![Request Early Access — Subquadratic](https://pin.fontofweb.com/9659?format=jpg)](https://design.withfudge.com/pin/9659)
+[Request Early Access — Subquadratic](https://design.withfudge.com/pin/9659) — [source page](https://subq.ai/request-early-access)

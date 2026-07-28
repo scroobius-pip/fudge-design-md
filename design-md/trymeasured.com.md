@@ -6,6 +6,10 @@ Source domain: [trymeasured.com](https://trymeasured.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 6994
+-->
+
 Here is the visual system observed across **10 captured pages** from [trymeasured.com](https://trymeasured.com).
 
 ```fudge-colors
@@ -302,12 +306,27 @@ Here is the visual system observed across **10 captured pages** from [trymeasure
 }
 ```
 
-## References
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6994) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6993) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6992) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6991) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6990) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6989) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6988) — [source page](https://trymeasured.com/)
-- [Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6987) — [source page](https://trymeasured.com/)
+## Representative captures
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6994?format=jpg)](https://design.withfudge.com/pin/6994)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6994) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6993?format=jpg)](https://design.withfudge.com/pin/6993)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6993) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6992?format=jpg)](https://design.withfudge.com/pin/6992)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6992) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6991?format=jpg)](https://design.withfudge.com/pin/6991)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6991) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6990?format=jpg)](https://design.withfudge.com/pin/6990)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6990) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6989?format=jpg)](https://design.withfudge.com/pin/6989)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6989) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6988?format=jpg)](https://design.withfudge.com/pin/6988)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6988) — [source page](https://trymeasured.com/)
+
+[![Measured - Your Home For Metabolic Health](https://pin.fontofweb.com/6987?format=jpg)](https://design.withfudge.com/pin/6987)
+[Measured - Your Home For Metabolic Health](https://design.withfudge.com/pin/6987) — [source page](https://trymeasured.com/)

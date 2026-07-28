@@ -6,6 +6,10 @@ Source domain: [tools.launchllama.co](https://tools.launchllama.co)
 
 Last updated: 2026-06-29
 
+<!--
+coverPin: 9853
+-->
+
 Here is the visual system observed across **1 captured page** from [tools.launchllama.co](https://tools.launchllama.co).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [tools.launch
 }
 ```
 
-## References
-- [Launch Llama Pricing | Free & Paid Plans for Founders](https://design.withfudge.com/pin/9853) — [source page](https://tools.launchllama.co/pricing)
+## Representative captures
+[![Launch Llama Pricing | Free & Paid Plans for Founders](https://pin.fontofweb.com/9853?format=jpg)](https://design.withfudge.com/pin/9853)
+[Launch Llama Pricing | Free & Paid Plans for Founders](https://design.withfudge.com/pin/9853) — [source page](https://tools.launchllama.co/pricing)

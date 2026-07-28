@@ -6,6 +6,10 @@ Source domain: [every.to](https://every.to)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8446
+-->
+
 Here is the visual system observed across **5 captured pages** from [every.to](https://every.to).
 
 ```fudge-colors
@@ -208,9 +212,18 @@ Here is the visual system observed across **5 captured pages** from [every.to](h
 }
 ```
 
-## References
-- [Every](https://design.withfudge.com/pin/8446) — [source page](https://every.to/)
-- [Every](https://design.withfudge.com/pin/8445) — [source page](https://every.to/)
-- [Every](https://design.withfudge.com/pin/8444) — [source page](https://every.to/)
-- [Every](https://design.withfudge.com/pin/8443) — [source page](https://every.to/)
-- [Every](https://design.withfudge.com/pin/8442) — [source page](https://every.to/)
+## Representative captures
+[![Every](https://pin.fontofweb.com/8446?format=jpg)](https://design.withfudge.com/pin/8446)
+[Every](https://design.withfudge.com/pin/8446) — [source page](https://every.to/)
+
+[![Every](https://pin.fontofweb.com/8445?format=jpg)](https://design.withfudge.com/pin/8445)
+[Every](https://design.withfudge.com/pin/8445) — [source page](https://every.to/)
+
+[![Every](https://pin.fontofweb.com/8444?format=jpg)](https://design.withfudge.com/pin/8444)
+[Every](https://design.withfudge.com/pin/8444) — [source page](https://every.to/)
+
+[![Every](https://pin.fontofweb.com/8443?format=jpg)](https://design.withfudge.com/pin/8443)
+[Every](https://design.withfudge.com/pin/8443) — [source page](https://every.to/)
+
+[![Every](https://pin.fontofweb.com/8442?format=jpg)](https://design.withfudge.com/pin/8442)
+[Every](https://design.withfudge.com/pin/8442) — [source page](https://every.to/)

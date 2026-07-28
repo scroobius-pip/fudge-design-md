@@ -6,6 +6,10 @@ Source domain: [workspaces.xyz](https://workspaces.xyz)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10221
+-->
+
 Here is the visual system observed across **4 captured pages** from [workspaces.xyz](https://workspaces.xyz).
 
 ```fudge-colors
@@ -192,8 +196,15 @@ Here is the visual system observed across **4 captured pages** from [workspaces.
 }
 ```
 
-## References
-- [About — Workspaces](https://design.withfudge.com/pin/10221) — [source page](https://workspaces.xyz/about)
-- [Workspaces](https://design.withfudge.com/pin/10220) — [source page](https://workspaces.xyz/)
-- [Workspaces](https://design.withfudge.com/pin/10219) — [source page](https://workspaces.xyz/)
-- [Workspaces](https://design.withfudge.com/pin/10218) — [source page](https://workspaces.xyz/)
+## Representative captures
+[![About — Workspaces](https://pin.fontofweb.com/10221?format=jpg)](https://design.withfudge.com/pin/10221)
+[About — Workspaces](https://design.withfudge.com/pin/10221) — [source page](https://workspaces.xyz/about)
+
+[![Workspaces](https://pin.fontofweb.com/10220?format=jpg)](https://design.withfudge.com/pin/10220)
+[Workspaces](https://design.withfudge.com/pin/10220) — [source page](https://workspaces.xyz/)
+
+[![Workspaces](https://pin.fontofweb.com/10219?format=jpg)](https://design.withfudge.com/pin/10219)
+[Workspaces](https://design.withfudge.com/pin/10219) — [source page](https://workspaces.xyz/)
+
+[![Workspaces](https://pin.fontofweb.com/10218?format=jpg)](https://design.withfudge.com/pin/10218)
+[Workspaces](https://design.withfudge.com/pin/10218) — [source page](https://workspaces.xyz/)

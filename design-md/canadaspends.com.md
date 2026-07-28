@@ -6,6 +6,10 @@ Source domain: [canadaspends.com](https://canadaspends.com)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6907
+-->
+
 Here is the visual system observed across **2 captured pages** from [canadaspends.com](https://canadaspends.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [canadaspend
 }
 ```
 
-## References
-- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6907) — [source page](https://canadaspends.com/en/federal/spending)
-- [Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6906) — [source page](https://canadaspends.com/en/federal/spending)
+## Representative captures
+[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6907?format=jpg)](https://design.withfudge.com/pin/6907)
+[Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6907) — [source page](https://canadaspends.com/en/federal/spending)
+
+[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6906?format=jpg)](https://design.withfudge.com/pin/6906)
+[Federal Government Spending | Canada Spends](https://design.withfudge.com/pin/6906) — [source page](https://canadaspends.com/en/federal/spending)

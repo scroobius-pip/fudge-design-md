@@ -6,6 +6,10 @@ Source domain: [gemini.google](https://gemini.google)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6640
+-->
+
 Here is the visual system observed across **12 captured pages** from [gemini.google](https://gemini.google).
 
 ```fudge-colors
@@ -280,12 +284,27 @@ Here is the visual system observed across **12 captured pages** from [gemini.goo
 }
 ```
 
-## References
-- [Google AI Pro and Ultra — get access to Gemini 3 Pro and more](https://design.withfudge.com/pin/6640) — [source page](https://gemini.google/subscriptions/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4978) — [source page](https://gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4977) — [source page](https://gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4976) — [source page](https://gemini.google/overview/image-generation/)
-- [Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4975) — [source page](https://gemini.google/overview/image-generation/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4442) — [source page](https://gemini.google/subscriptions/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4441) — [source page](https://gemini.google/subscriptions/)
-- [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4440) — [source page](https://gemini.google/subscriptions/)
+## Representative captures
+[![Google AI Pro and Ultra — get access to Gemini 3 Pro and more](https://pin.fontofweb.com/6640?format=jpg)](https://design.withfudge.com/pin/6640)
+[Google AI Pro and Ultra — get access to Gemini 3 Pro and more](https://design.withfudge.com/pin/6640) — [source page](https://gemini.google/subscriptions/)
+
+[![Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://pin.fontofweb.com/4978?format=jpg)](https://design.withfudge.com/pin/4978)
+[Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4978) — [source page](https://gemini.google/overview/image-generation/)
+
+[![Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://pin.fontofweb.com/4977?format=jpg)](https://design.withfudge.com/pin/4977)
+[Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4977) — [source page](https://gemini.google/overview/image-generation/)
+
+[![Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://pin.fontofweb.com/4976?format=jpg)](https://design.withfudge.com/pin/4976)
+[Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4976) — [source page](https://gemini.google/overview/image-generation/)
+
+[![Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://pin.fontofweb.com/4975?format=jpg)](https://design.withfudge.com/pin/4975)
+[Gemini AI Nano Banana Pro: Google's AI Image Generator & Photo Editor](https://design.withfudge.com/pin/4975) — [source page](https://gemini.google/overview/image-generation/)
+
+[![Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://pin.fontofweb.com/4442?format=jpg)](https://design.withfudge.com/pin/4442)
+[Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4442) — [source page](https://gemini.google/subscriptions/)
+
+[![Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://pin.fontofweb.com/4441?format=jpg)](https://design.withfudge.com/pin/4441)
+[Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4441) — [source page](https://gemini.google/subscriptions/)
+
+[![Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://pin.fontofweb.com/4440?format=jpg)](https://design.withfudge.com/pin/4440)
+[Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/pin/4440) — [source page](https://gemini.google/subscriptions/)

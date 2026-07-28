@@ -6,6 +6,10 @@ Source domain: [nodejs.medium.com](https://nodejs.medium.com)
 
 Last updated: 2026-06-18
 
+<!--
+coverPin: 9707
+-->
+
 Here is the visual system observed across **1 captured page** from [nodejs.medium.com](https://nodejs.medium.com).
 
 ```fudge-colors
@@ -170,5 +174,6 @@ Here is the visual system observed across **1 captured page** from [nodejs.mediu
 }
 ```
 
-## References
-- [What use cases exist for async_hooks? | by Node.js | Medium](https://design.withfudge.com/pin/9707) — [source page](https://nodejs.medium.com/what-use-cases-exist-for-async-hooks-6eab74d7eefd)
+## Representative captures
+[![What use cases exist for async_hooks? | by Node.js | Medium](https://pin.fontofweb.com/9707?format=jpg)](https://design.withfudge.com/pin/9707)
+[What use cases exist for async_hooks? | by Node.js | Medium](https://design.withfudge.com/pin/9707) — [source page](https://nodejs.medium.com/what-use-cases-exist-for-async-hooks-6eab74d7eefd)

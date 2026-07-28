@@ -6,6 +6,10 @@ Source domain: [machinelearning.apple.com](https://machinelearning.apple.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7368
+-->
+
 Here is the visual system observed across **1 captured page** from [machinelearning.apple.com](https://machinelearning.apple.com).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [machinelearn
 }
 ```
 
-## References
-- [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents - Apple Machine Learning Research](https://design.withfudge.com/pin/7368) — [source page](https://machinelearning.apple.com/research/ferret-ui)
+## Representative captures
+[![Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents - Apple Machine Learning Research](https://pin.fontofweb.com/7368?format=jpg)](https://design.withfudge.com/pin/7368)
+[Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents - Apple Machine Learning Research](https://design.withfudge.com/pin/7368) — [source page](https://machinelearning.apple.com/research/ferret-ui)

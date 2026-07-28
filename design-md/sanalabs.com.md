@@ -6,6 +6,10 @@ Source domain: [sanalabs.com](https://sanalabs.com)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10201
+-->
+
 Here is the visual system observed across **9 captured pages** from [sanalabs.com](https://sanalabs.com).
 
 ```fudge-colors
@@ -285,12 +289,27 @@ Here is the visual system observed across **9 captured pages** from [sanalabs.co
 }
 ```
 
-## References
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10201) — [source page](https://sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10200) — [source page](https://sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10199) — [source page](https://sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10198) — [source page](https://sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10197) — [source page](https://sanalabs.com/careers)
-- [Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10196) — [source page](https://sanalabs.com/careers)
-- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10195) — [source page](https://sanalabs.com/about)
-- [Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10194) — [source page](https://sanalabs.com/about)
+## Representative captures
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10201?format=jpg)](https://design.withfudge.com/pin/10201)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10201) — [source page](https://sanalabs.com/careers)
+
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10200?format=jpg)](https://design.withfudge.com/pin/10200)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10200) — [source page](https://sanalabs.com/careers)
+
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10199?format=jpg)](https://design.withfudge.com/pin/10199)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10199) — [source page](https://sanalabs.com/careers)
+
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10198?format=jpg)](https://design.withfudge.com/pin/10198)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10198) — [source page](https://sanalabs.com/careers)
+
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10197?format=jpg)](https://design.withfudge.com/pin/10197)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10197) — [source page](https://sanalabs.com/careers)
+
+[![Do your life's work advancing human knowledge | Sana](https://pin.fontofweb.com/10196?format=jpg)](https://design.withfudge.com/pin/10196)
+[Do your life's work advancing human knowledge | Sana](https://design.withfudge.com/pin/10196) — [source page](https://sanalabs.com/careers)
+
+[![Advancing knowledge to advance everything | Sana](https://pin.fontofweb.com/10195?format=jpg)](https://design.withfudge.com/pin/10195)
+[Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10195) — [source page](https://sanalabs.com/about)
+
+[![Advancing knowledge to advance everything | Sana](https://pin.fontofweb.com/10194?format=jpg)](https://design.withfudge.com/pin/10194)
+[Advancing knowledge to advance everything | Sana](https://design.withfudge.com/pin/10194) — [source page](https://sanalabs.com/about)

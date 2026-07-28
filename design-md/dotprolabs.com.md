@@ -6,6 +6,10 @@ Source domain: [dotprolabs.com](https://dotprolabs.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7494
+-->
+
 Here is the visual system observed across **5 captured pages** from [dotprolabs.com](https://dotprolabs.com).
 
 ```fudge-colors
@@ -210,9 +214,18 @@ Here is the visual system observed across **5 captured pages** from [dotprolabs.
 }
 ```
 
-## References
-- [DotPro Labs](https://design.withfudge.com/pin/7494) — [source page](https://dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7493) — [source page](https://dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7492) — [source page](https://dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7491) — [source page](https://dotprolabs.com/)
-- [DotPro Labs](https://design.withfudge.com/pin/7490) — [source page](https://dotprolabs.com/)
+## Representative captures
+[![DotPro Labs](https://pin.fontofweb.com/7494?format=jpg)](https://design.withfudge.com/pin/7494)
+[DotPro Labs](https://design.withfudge.com/pin/7494) — [source page](https://dotprolabs.com/)
+
+[![DotPro Labs](https://pin.fontofweb.com/7493?format=jpg)](https://design.withfudge.com/pin/7493)
+[DotPro Labs](https://design.withfudge.com/pin/7493) — [source page](https://dotprolabs.com/)
+
+[![DotPro Labs](https://pin.fontofweb.com/7492?format=jpg)](https://design.withfudge.com/pin/7492)
+[DotPro Labs](https://design.withfudge.com/pin/7492) — [source page](https://dotprolabs.com/)
+
+[![DotPro Labs](https://pin.fontofweb.com/7491?format=jpg)](https://design.withfudge.com/pin/7491)
+[DotPro Labs](https://design.withfudge.com/pin/7491) — [source page](https://dotprolabs.com/)
+
+[![DotPro Labs](https://pin.fontofweb.com/7490?format=jpg)](https://design.withfudge.com/pin/7490)
+[DotPro Labs](https://design.withfudge.com/pin/7490) — [source page](https://dotprolabs.com/)

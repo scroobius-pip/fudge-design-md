@@ -6,6 +6,10 @@ Source domain: [stunning.so](https://stunning.so)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6715
+-->
+
 Here is the visual system observed across **1 captured page** from [stunning.so](https://stunning.so).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [stunning.so]
 }
 ```
 
-## References
-- [Stunning - Build Full Stack Apps 10x faster with AI.](https://design.withfudge.com/pin/6715) — [source page](https://stunning.so/)
+## Representative captures
+[![Stunning - Build Full Stack Apps 10x faster with AI.](https://pin.fontofweb.com/6715?format=jpg)](https://design.withfudge.com/pin/6715)
+[Stunning - Build Full Stack Apps 10x faster with AI.](https://design.withfudge.com/pin/6715) — [source page](https://stunning.so/)

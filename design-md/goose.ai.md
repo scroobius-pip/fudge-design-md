@@ -6,6 +6,10 @@ Source domain: [goose.ai](https://goose.ai)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6494
+-->
+
 Here is the visual system observed across **4 captured pages** from [goose.ai](https://goose.ai).
 
 ```fudge-colors
@@ -173,8 +177,15 @@ Here is the visual system observed across **4 captured pages** from [goose.ai](h
 }
 ```
 
-## References
-- [GooseAI](https://design.withfudge.com/pin/6494) — [source page](https://goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6493) — [source page](https://goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6492) — [source page](https://goose.ai/)
-- [GooseAI](https://design.withfudge.com/pin/6491) — [source page](https://goose.ai/)
+## Representative captures
+[![GooseAI](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/pin/6494)
+[GooseAI](https://design.withfudge.com/pin/6494) — [source page](https://goose.ai/)
+
+[![GooseAI](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/pin/6493)
+[GooseAI](https://design.withfudge.com/pin/6493) — [source page](https://goose.ai/)
+
+[![GooseAI](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/pin/6492)
+[GooseAI](https://design.withfudge.com/pin/6492) — [source page](https://goose.ai/)
+
+[![GooseAI](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/pin/6491)
+[GooseAI](https://design.withfudge.com/pin/6491) — [source page](https://goose.ai/)

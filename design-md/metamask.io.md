@@ -6,6 +6,10 @@ Source domain: [metamask.io](https://metamask.io)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8860
+-->
+
 Here is the visual system observed across **15 captured pages** from [metamask.io](https://metamask.io).
 
 ```fudge-colors
@@ -342,12 +346,27 @@ Here is the visual system observed across **15 captured pages** from [metamask.i
 }
 ```
 
-## References
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8860) — [source page](https://metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8859) — [source page](https://metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8858) — [source page](https://metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8857) — [source page](https://metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8856) — [source page](https://metamask.io/)
-- [MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8855) — [source page](https://metamask.io/)
-- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8854) — [source page](https://metamask.io/card)
-- [Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8853) — [source page](https://metamask.io/card)
+## Representative captures
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8860?format=jpg)](https://design.withfudge.com/pin/8860)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8860) — [source page](https://metamask.io/)
+
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8859?format=jpg)](https://design.withfudge.com/pin/8859)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8859) — [source page](https://metamask.io/)
+
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8858?format=jpg)](https://design.withfudge.com/pin/8858)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8858) — [source page](https://metamask.io/)
+
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8857?format=jpg)](https://design.withfudge.com/pin/8857)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8857) — [source page](https://metamask.io/)
+
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8856?format=jpg)](https://design.withfudge.com/pin/8856)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8856) — [source page](https://metamask.io/)
+
+[![MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://pin.fontofweb.com/8855?format=jpg)](https://design.withfudge.com/pin/8855)
+[MetaMask Crypto Wallet. Buy and Sell Bitcoin, Ethereum, Solana](https://design.withfudge.com/pin/8855) — [source page](https://metamask.io/)
+
+[![Spend crypto for everyday purchases with MetaMask Card, crypto card](https://pin.fontofweb.com/8854?format=jpg)](https://design.withfudge.com/pin/8854)
+[Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8854) — [source page](https://metamask.io/card)
+
+[![Spend crypto for everyday purchases with MetaMask Card, crypto card](https://pin.fontofweb.com/8853?format=jpg)](https://design.withfudge.com/pin/8853)
+[Spend crypto for everyday purchases with MetaMask Card, crypto card](https://design.withfudge.com/pin/8853) — [source page](https://metamask.io/card)

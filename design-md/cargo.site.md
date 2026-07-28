@@ -6,6 +6,10 @@ Source domain: [cargo.site](https://cargo.site)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6371
+-->
+
 Here is the visual system observed across **5 captured pages** from [cargo.site](https://cargo.site).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [cargo.site]
 }
 ```
 
-## References
-- [Cargo](https://design.withfudge.com/pin/6371) — [source page](https://cargo.site/)
-- [Cargo: Templates](https://design.withfudge.com/pin/6370) — [source page](https://cargo.site/templates)
-- [Cargo: Templates](https://design.withfudge.com/pin/6369) — [source page](https://cargo.site/templates/preview/3225613)
-- [Cargo: Templates](https://design.withfudge.com/pin/6368) — [source page](https://cargo.site/templates)
-- [Cargo](https://design.withfudge.com/pin/6367) — [source page](https://cargo.site/)
+## Representative captures
+[![Cargo](https://pin.fontofweb.com/6371?format=jpg)](https://design.withfudge.com/pin/6371)
+[Cargo](https://design.withfudge.com/pin/6371) — [source page](https://cargo.site/)
+
+[![Cargo: Templates](https://pin.fontofweb.com/6370?format=jpg)](https://design.withfudge.com/pin/6370)
+[Cargo: Templates](https://design.withfudge.com/pin/6370) — [source page](https://cargo.site/templates)
+
+[![Cargo: Templates](https://pin.fontofweb.com/6369?format=jpg)](https://design.withfudge.com/pin/6369)
+[Cargo: Templates](https://design.withfudge.com/pin/6369) — [source page](https://cargo.site/templates/preview/3225613)
+
+[![Cargo: Templates](https://pin.fontofweb.com/6368?format=jpg)](https://design.withfudge.com/pin/6368)
+[Cargo: Templates](https://design.withfudge.com/pin/6368) — [source page](https://cargo.site/templates)
+
+[![Cargo](https://pin.fontofweb.com/6367?format=jpg)](https://design.withfudge.com/pin/6367)
+[Cargo](https://design.withfudge.com/pin/6367) — [source page](https://cargo.site/)

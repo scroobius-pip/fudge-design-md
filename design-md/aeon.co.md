@@ -6,6 +6,10 @@ Source domain: [aeon.co](https://aeon.co)
 
 Last updated: 2026-02-14
 
+<!--
+coverPin: 6526
+-->
+
 Here is the visual system observed across **6 captured pages** from [aeon.co](https://aeon.co).
 
 ```fudge-colors
@@ -216,10 +220,21 @@ Here is the visual system observed across **6 captured pages** from [aeon.co](ht
 }
 ```
 
-## References
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6526) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6525) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6524) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6523) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6522) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
-- [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6521) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+## Representative captures
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6526?format=jpg)](https://design.withfudge.com/pin/6526)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6526) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6525?format=jpg)](https://design.withfudge.com/pin/6525)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6525) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6524?format=jpg)](https://design.withfudge.com/pin/6524)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6524) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6523?format=jpg)](https://design.withfudge.com/pin/6523)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6523) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6522?format=jpg)](https://design.withfudge.com/pin/6522)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6522) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6521?format=jpg)](https://design.withfudge.com/pin/6521)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/pin/6521) — [source page](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)

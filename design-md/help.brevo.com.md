@@ -6,6 +6,10 @@ Source domain: [help.brevo.com](https://help.brevo.com)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10061
+-->
+
 Here is the visual system observed across **1 captured page** from [help.brevo.com](https://help.brevo.com).
 
 ```fudge-colors
@@ -147,5 +151,6 @@ Here is the visual system observed across **1 captured page** from [help.brevo.c
 }
 ```
 
-## References
-- [Submit a request – Home](https://design.withfudge.com/pin/10061) — [source page](https://help.brevo.com/hc/en-us/requests/new)
+## Representative captures
+[![Submit a request – Home](https://pin.fontofweb.com/10061?format=jpg)](https://design.withfudge.com/pin/10061)
+[Submit a request – Home](https://design.withfudge.com/pin/10061) — [source page](https://help.brevo.com/hc/en-us/requests/new)

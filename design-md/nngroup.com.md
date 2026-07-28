@@ -6,6 +6,10 @@ Source domain: [nngroup.com](https://nngroup.com)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10169
+-->
+
 Here is the visual system observed across **1 captured page** from [nngroup.com](https://nngroup.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [nngroup.com]
 }
 ```
 
-## References
-- [Nielsen Norman Group: UX Training, Consulting, & Research - NN/G](https://design.withfudge.com/pin/10169) — [source page](https://nngroup.com/)
+## Representative captures
+[![Nielsen Norman Group: UX Training, Consulting, & Research - NN/G](https://pin.fontofweb.com/10169?format=jpg)](https://design.withfudge.com/pin/10169)
+[Nielsen Norman Group: UX Training, Consulting, & Research - NN/G](https://design.withfudge.com/pin/10169) — [source page](https://nngroup.com/)

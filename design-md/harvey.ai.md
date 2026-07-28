@@ -6,6 +6,10 @@ Source domain: [harvey.ai](https://harvey.ai)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8744
+-->
+
 Here is the visual system observed across **10 captured pages** from [harvey.ai](https://harvey.ai).
 
 ```fudge-colors
@@ -287,12 +291,27 @@ Here is the visual system observed across **10 captured pages** from [harvey.ai]
 }
 ```
 
-## References
-- [Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/pin/8744) — [source page](https://harvey.ai/blog)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8743) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8742) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8741) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8740) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8739) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8738) — [source page](https://harvey.ai/)
-- [Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8737) — [source page](https://harvey.ai/)
+## Representative captures
+[![Harvey AI Blog: Learn about legal AI, Harvey, and more](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/pin/8744)
+[Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/pin/8744) — [source page](https://harvey.ai/blog)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/pin/8743)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8743) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8742?format=jpg)](https://design.withfudge.com/pin/8742)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8742) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/pin/8741)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8741) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8740?format=jpg)](https://design.withfudge.com/pin/8740)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8740) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8739?format=jpg)](https://design.withfudge.com/pin/8739)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8739) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8738?format=jpg)](https://design.withfudge.com/pin/8738)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8738) — [source page](https://harvey.ai/)
+
+[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8737?format=jpg)](https://design.withfudge.com/pin/8737)
+[Harvey | AI platform for legal and professional services](https://design.withfudge.com/pin/8737) — [source page](https://harvey.ai/)

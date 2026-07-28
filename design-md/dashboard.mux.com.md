@@ -6,6 +6,10 @@ Source domain: [dashboard.mux.com](https://dashboard.mux.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6451
+-->
+
 Here is the visual system observed across **2 captured pages** from [dashboard.mux.com](https://dashboard.mux.com).
 
 ```fudge-colors
@@ -117,6 +121,9 @@ Here is the visual system observed across **2 captured pages** from [dashboard.m
 }
 ```
 
-## References
-- [Sign Up | Mux](https://design.withfudge.com/pin/6451) — [source page](https://dashboard.mux.com/signup)
-- [Login | Mux](https://design.withfudge.com/pin/2001) — [source page](https://dashboard.mux.com/login)
+## Representative captures
+[![Sign Up | Mux](https://pin.fontofweb.com/6451?format=jpg)](https://design.withfudge.com/pin/6451)
+[Sign Up | Mux](https://design.withfudge.com/pin/6451) — [source page](https://dashboard.mux.com/signup)
+
+[![Login | Mux](https://pin.fontofweb.com/2001?format=jpg)](https://design.withfudge.com/pin/2001)
+[Login | Mux](https://design.withfudge.com/pin/2001) — [source page](https://dashboard.mux.com/login)

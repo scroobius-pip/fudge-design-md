@@ -6,6 +6,10 @@ Source domain: [tradingview.com](https://tradingview.com)
 
 Last updated: 2026-06-02
 
+<!--
+coverPin: 9494
+-->
+
 Here is the visual system observed across **2 captured pages** from [tradingview.com](https://tradingview.com).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [tradingview
 }
 ```
 
-## References
-- [Economic Calendar — World Economic Events — TradingView](https://design.withfudge.com/pin/9494) — [source page](https://tradingview.com/economic-calendar/)
-- [TradingView Subscriptions: Pricing and Features](https://design.withfudge.com/pin/9493) — [source page](https://tradingview.com/pricing/)
+## Representative captures
+[![Economic Calendar — World Economic Events — TradingView](https://pin.fontofweb.com/9494?format=jpg)](https://design.withfudge.com/pin/9494)
+[Economic Calendar — World Economic Events — TradingView](https://design.withfudge.com/pin/9494) — [source page](https://tradingview.com/economic-calendar/)
+
+[![TradingView Subscriptions: Pricing and Features](https://pin.fontofweb.com/9493?format=jpg)](https://design.withfudge.com/pin/9493)
+[TradingView Subscriptions: Pricing and Features](https://design.withfudge.com/pin/9493) — [source page](https://tradingview.com/pricing/)

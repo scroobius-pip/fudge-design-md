@@ -6,6 +6,10 @@ Source domain: [evefrontier.com](https://evefrontier.com)
 
 Last updated: 2026-07-08
 
+<!--
+coverPin: 9922
+-->
+
 Here is the visual system observed across **4 captured pages** from [evefrontier.com](https://evefrontier.com).
 
 ```fudge-colors
@@ -191,8 +195,15 @@ Here is the visual system observed across **4 captured pages** from [evefrontier
 }
 ```
 
-## References
-- [EVE Frontier](https://design.withfudge.com/pin/9922) — [source page](https://evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9921) — [source page](https://evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9920) — [source page](https://evefrontier.com/en)
-- [EVE Frontier](https://design.withfudge.com/pin/9919) — [source page](https://evefrontier.com/en)
+## Representative captures
+[![EVE Frontier](https://pin.fontofweb.com/9922?format=jpg)](https://design.withfudge.com/pin/9922)
+[EVE Frontier](https://design.withfudge.com/pin/9922) — [source page](https://evefrontier.com/en)
+
+[![EVE Frontier](https://pin.fontofweb.com/9921?format=jpg)](https://design.withfudge.com/pin/9921)
+[EVE Frontier](https://design.withfudge.com/pin/9921) — [source page](https://evefrontier.com/en)
+
+[![EVE Frontier](https://pin.fontofweb.com/9920?format=jpg)](https://design.withfudge.com/pin/9920)
+[EVE Frontier](https://design.withfudge.com/pin/9920) — [source page](https://evefrontier.com/en)
+
+[![EVE Frontier](https://pin.fontofweb.com/9919?format=jpg)](https://design.withfudge.com/pin/9919)
+[EVE Frontier](https://design.withfudge.com/pin/9919) — [source page](https://evefrontier.com/en)

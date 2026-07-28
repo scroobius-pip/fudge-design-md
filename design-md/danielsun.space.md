@@ -6,6 +6,10 @@ Source domain: [danielsun.space](https://danielsun.space)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8691
+-->
+
 Here is the visual system observed across **10 captured pages** from [danielsun.space](https://danielsun.space).
 
 ```fudge-colors
@@ -327,12 +331,27 @@ Here is the visual system observed across **10 captured pages** from [danielsun.
 }
 ```
 
-## References
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8691) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8690) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7972) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7971) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7970) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7969) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7968) — [source page](https://danielsun.space/)
-- [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7967) — [source page](https://danielsun.space/)
+## Representative captures
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8691?format=jpg)](https://design.withfudge.com/pin/8691)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8691) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/8690?format=jpg)](https://design.withfudge.com/pin/8690)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/8690) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7972?format=jpg)](https://design.withfudge.com/pin/7972)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7972) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7971?format=jpg)](https://design.withfudge.com/pin/7971)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7971) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7970?format=jpg)](https://design.withfudge.com/pin/7970)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7970) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7969?format=jpg)](https://design.withfudge.com/pin/7969)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7969) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7968?format=jpg)](https://design.withfudge.com/pin/7968)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7968) — [source page](https://danielsun.space/)
+
+[![Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://pin.fontofweb.com/7967?format=jpg)](https://design.withfudge.com/pin/7967)
+[Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/pin/7967) — [source page](https://danielsun.space/)

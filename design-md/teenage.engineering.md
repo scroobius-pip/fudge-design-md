@@ -6,6 +6,10 @@ Source domain: [teenage.engineering](https://teenage.engineering)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10227
+-->
+
 Here is the visual system observed across **19 captured pages** from [teenage.engineering](https://teenage.engineering).
 
 ```fudge-colors
@@ -339,12 +343,27 @@ Here is the visual system observed across **19 captured pages** from [teenage.en
 }
 ```
 
-## References
-- [now - teenage engineering](https://design.withfudge.com/pin/10227) — [source page](https://teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10226) — [source page](https://teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10225) — [source page](https://teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10224) — [source page](https://teenage.engineering/now)
-- [now - teenage engineering](https://design.withfudge.com/pin/10223) — [source page](https://teenage.engineering/now)
-- [teenage engineering](https://design.withfudge.com/pin/8706) — [source page](https://teenage.engineering/)
-- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8074) — [source page](https://teenage.engineering/products/op-1)
-- [OP–1 - teenage engineering](https://design.withfudge.com/pin/8073) — [source page](https://teenage.engineering/products/op-1)
+## Representative captures
+[![now - teenage engineering](https://pin.fontofweb.com/10227?format=jpg)](https://design.withfudge.com/pin/10227)
+[now - teenage engineering](https://design.withfudge.com/pin/10227) — [source page](https://teenage.engineering/now)
+
+[![now - teenage engineering](https://pin.fontofweb.com/10226?format=jpg)](https://design.withfudge.com/pin/10226)
+[now - teenage engineering](https://design.withfudge.com/pin/10226) — [source page](https://teenage.engineering/now)
+
+[![now - teenage engineering](https://pin.fontofweb.com/10225?format=jpg)](https://design.withfudge.com/pin/10225)
+[now - teenage engineering](https://design.withfudge.com/pin/10225) — [source page](https://teenage.engineering/now)
+
+[![now - teenage engineering](https://pin.fontofweb.com/10224?format=jpg)](https://design.withfudge.com/pin/10224)
+[now - teenage engineering](https://design.withfudge.com/pin/10224) — [source page](https://teenage.engineering/now)
+
+[![now - teenage engineering](https://pin.fontofweb.com/10223?format=jpg)](https://design.withfudge.com/pin/10223)
+[now - teenage engineering](https://design.withfudge.com/pin/10223) — [source page](https://teenage.engineering/now)
+
+[![teenage engineering](https://pin.fontofweb.com/8706?format=jpg)](https://design.withfudge.com/pin/8706)
+[teenage engineering](https://design.withfudge.com/pin/8706) — [source page](https://teenage.engineering/)
+
+[![OP–1 - teenage engineering](https://pin.fontofweb.com/8074?format=jpg)](https://design.withfudge.com/pin/8074)
+[OP–1 - teenage engineering](https://design.withfudge.com/pin/8074) — [source page](https://teenage.engineering/products/op-1)
+
+[![OP–1 - teenage engineering](https://pin.fontofweb.com/8073?format=jpg)](https://design.withfudge.com/pin/8073)
+[OP–1 - teenage engineering](https://design.withfudge.com/pin/8073) — [source page](https://teenage.engineering/products/op-1)

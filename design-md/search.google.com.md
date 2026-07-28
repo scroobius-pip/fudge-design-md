@@ -6,6 +6,10 @@ Source domain: [search.google.com](https://search.google.com)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6952
+-->
+
 Here is the visual system observed across **1 captured page** from [search.google.com](https://search.google.com).
 
 ```fudge-colors
@@ -93,5 +97,6 @@ Here is the visual system observed across **1 captured page** from [search.googl
 }
 ```
 
-## References
-- [Achievements](https://design.withfudge.com/pin/6952) — [source page](https://search.google.com/search-console/achievement)
+## Representative captures
+[![Achievements](https://pin.fontofweb.com/6952?format=jpg)](https://design.withfudge.com/pin/6952)
+[Achievements](https://design.withfudge.com/pin/6952) — [source page](https://search.google.com/search-console/achievement)

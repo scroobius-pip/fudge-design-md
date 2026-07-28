@@ -6,6 +6,10 @@ Source domain: [usepanda.com](https://usepanda.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7428
+-->
+
 Here is the visual system observed across **1 captured page** from [usepanda.com](https://usepanda.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [usepanda.com
 }
 ```
 
-## References
-- [Panda — The homepage for your favorite websites](https://design.withfudge.com/pin/7428) — [source page](https://usepanda.com/)
+## Representative captures
+[![Panda — The homepage for your favorite websites](https://pin.fontofweb.com/7428?format=jpg)](https://design.withfudge.com/pin/7428)
+[Panda — The homepage for your favorite websites](https://design.withfudge.com/pin/7428) — [source page](https://usepanda.com/)

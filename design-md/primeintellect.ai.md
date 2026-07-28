@@ -6,6 +6,10 @@ Source domain: [primeintellect.ai](https://primeintellect.ai)
 
 Last updated: 2026-07-10
 
+<!--
+coverPin: 9967
+-->
+
 Here is the visual system observed across **12 captured pages** from [primeintellect.ai](https://primeintellect.ai).
 
 ```fudge-colors
@@ -398,12 +402,27 @@ Here is the visual system observed across **12 captured pages** from [primeintel
 }
 ```
 
-## References
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9967) — [source page](https://primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9966) — [source page](https://primeintellect.ai/)
-- [How Zapier Turned AutomationBench Into a Continuous Agent Improvement Loop](https://design.withfudge.com/pin/9965) — [source page](https://primeintellect.ai/case-study/zapier)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9964) — [source page](https://primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9963) — [source page](https://primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9962) — [source page](https://primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9961) — [source page](https://primeintellect.ai/)
-- [Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9960) — [source page](https://primeintellect.ai/)
+## Representative captures
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9967?format=jpg)](https://design.withfudge.com/pin/9967)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9967) — [source page](https://primeintellect.ai/)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9966?format=jpg)](https://design.withfudge.com/pin/9966)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9966) — [source page](https://primeintellect.ai/)
+
+[![How Zapier Turned AutomationBench Into a Continuous Agent Improvement Loop](https://pin.fontofweb.com/9965?format=jpg)](https://design.withfudge.com/pin/9965)
+[How Zapier Turned AutomationBench Into a Continuous Agent Improvement Loop](https://design.withfudge.com/pin/9965) — [source page](https://primeintellect.ai/case-study/zapier)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9964?format=jpg)](https://design.withfudge.com/pin/9964)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9964) — [source page](https://primeintellect.ai/)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9963?format=jpg)](https://design.withfudge.com/pin/9963)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9963) — [source page](https://primeintellect.ai/)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9962?format=jpg)](https://design.withfudge.com/pin/9962)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9962) — [source page](https://primeintellect.ai/)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9961?format=jpg)](https://design.withfudge.com/pin/9961)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9961) — [source page](https://primeintellect.ai/)
+
+[![Prime Intellect - The Open Superintelligence Stack](https://pin.fontofweb.com/9960?format=jpg)](https://design.withfudge.com/pin/9960)
+[Prime Intellect - The Open Superintelligence Stack](https://design.withfudge.com/pin/9960) — [source page](https://primeintellect.ai/)

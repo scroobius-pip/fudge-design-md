@@ -6,6 +6,10 @@ Source domain: [thedailybeast.com](https://thedailybeast.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6787
+-->
+
 Here is the visual system observed across **1 captured page** from [thedailybeast.com](https://thedailybeast.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [thedailybeas
 }
 ```
 
-## References
-- [The Daily Beast: The Latest in Politics, Media & Entertainment News](https://design.withfudge.com/pin/6787) — [source page](https://thedailybeast.com/)
+## Representative captures
+[![The Daily Beast: The Latest in Politics, Media & Entertainment News](https://pin.fontofweb.com/6787?format=jpg)](https://design.withfudge.com/pin/6787)
+[The Daily Beast: The Latest in Politics, Media & Entertainment News](https://design.withfudge.com/pin/6787) — [source page](https://thedailybeast.com/)

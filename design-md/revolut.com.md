@@ -6,6 +6,10 @@ Source domain: [revolut.com](https://revolut.com)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7775
+-->
+
 Here is the visual system observed across **18 captured pages** from [revolut.com](https://revolut.com).
 
 ```fudge-colors
@@ -345,12 +349,27 @@ Here is the visual system observed across **18 captured pages** from [revolut.co
 }
 ```
 
-## References
-- [Convert 0.7 Internet Computer to USD | Internet Computer Price in US Dollars | Revolut Singapore](https://design.withfudge.com/pin/7775) — [source page](https://revolut.com/en-SG/crypto/price/icp/usd/)
-- [Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7748) — [source page](https://revolut.com/business/cards/)
-- [Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7747) — [source page](https://revolut.com/business/cards/)
-- [Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7746) — [source page](https://revolut.com/business/cards/)
-- [Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7533) — [source page](https://revolut.com/personal-account/)
-- [Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7532) — [source page](https://revolut.com/personal-account/)
-- [Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7531) — [source page](https://revolut.com/personal-account/)
-- [Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7530) — [source page](https://revolut.com/personal-account/)
+## Representative captures
+[![Convert 0.7 Internet Computer to USD | Internet Computer Price in US Dollars | Revolut Singapore](https://pin.fontofweb.com/7775?format=jpg)](https://design.withfudge.com/pin/7775)
+[Convert 0.7 Internet Computer to USD | Internet Computer Price in US Dollars | Revolut Singapore](https://design.withfudge.com/pin/7775) — [source page](https://revolut.com/en-SG/crypto/price/icp/usd/)
+
+[![Corporate Cards | Revolut Business](https://pin.fontofweb.com/7748?format=jpg)](https://design.withfudge.com/pin/7748)
+[Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7748) — [source page](https://revolut.com/business/cards/)
+
+[![Corporate Cards | Revolut Business](https://pin.fontofweb.com/7747?format=jpg)](https://design.withfudge.com/pin/7747)
+[Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7747) — [source page](https://revolut.com/business/cards/)
+
+[![Corporate Cards | Revolut Business](https://pin.fontofweb.com/7746?format=jpg)](https://design.withfudge.com/pin/7746)
+[Corporate Cards | Revolut Business](https://design.withfudge.com/pin/7746) — [source page](https://revolut.com/business/cards/)
+
+[![Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://pin.fontofweb.com/7533?format=jpg)](https://design.withfudge.com/pin/7533)
+[Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7533) — [source page](https://revolut.com/personal-account/)
+
+[![Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://pin.fontofweb.com/7532?format=jpg)](https://design.withfudge.com/pin/7532)
+[Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7532) — [source page](https://revolut.com/personal-account/)
+
+[![Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://pin.fontofweb.com/7531?format=jpg)](https://design.withfudge.com/pin/7531)
+[Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7531) — [source page](https://revolut.com/personal-account/)
+
+[![Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://pin.fontofweb.com/7530?format=jpg)](https://design.withfudge.com/pin/7530)
+[Revolut | All-in-one Finance App for your Money | Revolut United Kingdom](https://design.withfudge.com/pin/7530) — [source page](https://revolut.com/personal-account/)

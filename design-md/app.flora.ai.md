@@ -6,6 +6,10 @@ Source domain: [app.flora.ai](https://app.flora.ai)
 
 Last updated: 2026-03-09
 
+<!--
+coverPin: 7889
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.flora.ai](https://app.flora.ai).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [app.flora.a
 }
 ```
 
-## References
-- [FLORA - Untitled](https://design.withfudge.com/pin/7889) — [source page](https://app.flora.ai/projects/ns74n4f8n7ymn4y8xfc5z64k0n82kn9m)
-- [FLORA - Projects](https://design.withfudge.com/pin/7888) — [source page](https://app.flora.ai/projects)
+## Representative captures
+[![FLORA - Untitled](https://pin.fontofweb.com/7889?format=jpg)](https://design.withfudge.com/pin/7889)
+[FLORA - Untitled](https://design.withfudge.com/pin/7889) — [source page](https://app.flora.ai/projects/ns74n4f8n7ymn4y8xfc5z64k0n82kn9m)
+
+[![FLORA - Projects](https://pin.fontofweb.com/7888?format=jpg)](https://design.withfudge.com/pin/7888)
+[FLORA - Projects](https://design.withfudge.com/pin/7888) — [source page](https://app.flora.ai/projects)

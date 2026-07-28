@@ -6,6 +6,10 @@ Source domain: [yuskavage.com](https://yuskavage.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7296
+-->
+
 Here is the visual system observed across **4 captured pages** from [yuskavage.com](https://yuskavage.com).
 
 ```fudge-colors
@@ -177,8 +181,15 @@ Here is the visual system observed across **4 captured pages** from [yuskavage.c
 }
 ```
 
-## References
-- [Media - Yuskavage](https://design.withfudge.com/pin/7296) — [source page](https://yuskavage.com/media/)
-- [Exhibitions - Yuskavage](https://design.withfudge.com/pin/7295) — [source page](https://yuskavage.com/exhibitions/)
-- [Bio - Yuskavage](https://design.withfudge.com/pin/7294) — [source page](https://yuskavage.com/bio/)
-- [Home - Yuskavage](https://design.withfudge.com/pin/7293) — [source page](https://yuskavage.com/)
+## Representative captures
+[![Media - Yuskavage](https://pin.fontofweb.com/7296?format=jpg)](https://design.withfudge.com/pin/7296)
+[Media - Yuskavage](https://design.withfudge.com/pin/7296) — [source page](https://yuskavage.com/media/)
+
+[![Exhibitions - Yuskavage](https://pin.fontofweb.com/7295?format=jpg)](https://design.withfudge.com/pin/7295)
+[Exhibitions - Yuskavage](https://design.withfudge.com/pin/7295) — [source page](https://yuskavage.com/exhibitions/)
+
+[![Bio - Yuskavage](https://pin.fontofweb.com/7294?format=jpg)](https://design.withfudge.com/pin/7294)
+[Bio - Yuskavage](https://design.withfudge.com/pin/7294) — [source page](https://yuskavage.com/bio/)
+
+[![Home - Yuskavage](https://pin.fontofweb.com/7293?format=jpg)](https://design.withfudge.com/pin/7293)
+[Home - Yuskavage](https://design.withfudge.com/pin/7293) — [source page](https://yuskavage.com/)

@@ -6,6 +6,10 @@ Source domain: [opensource.googleblog.com](https://opensource.googleblog.com)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6039
+-->
+
 Here is the visual system observed across **2 captured pages** from [opensource.googleblog.com](https://opensource.googleblog.com).
 
 ```fudge-colors
@@ -131,6 +135,9 @@ Here is the visual system observed across **2 captured pages** from [opensource.
 }
 ```
 
-## References
-- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6039) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
-- [Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6038) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
+## Representative captures
+[![Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://pin.fontofweb.com/6039?format=jpg)](https://design.withfudge.com/pin/6039)
+[Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6039) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
+
+[![Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://pin.fontofweb.com/6038?format=jpg)](https://design.withfudge.com/pin/6038)
+[Logica: organizing your data queries, making them universally reusable and fun | Google Open Source Blog](https://design.withfudge.com/pin/6038) — [source page](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)

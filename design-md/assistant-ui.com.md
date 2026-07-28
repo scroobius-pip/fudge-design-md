@@ -6,6 +6,10 @@ Source domain: [assistant-ui.com](https://assistant-ui.com)
 
 Last updated: 2026-04-11
 
+<!--
+coverPin: 8806
+-->
+
 Here is the visual system observed across **2 captured pages** from [assistant-ui.com](https://assistant-ui.com).
 
 ```fudge-colors
@@ -118,6 +122,9 @@ Here is the visual system observed across **2 captured pages** from [assistant-u
 }
 ```
 
-## References
-- [Installation | assistant-ui](https://design.withfudge.com/pin/8806) — [source page](https://assistant-ui.com/docs/installation)
-- [Thread | assistant-ui](https://design.withfudge.com/pin/8754) — [source page](https://assistant-ui.com/docs/ui/thread)
+## Representative captures
+[![Installation | assistant-ui](https://pin.fontofweb.com/8806?format=jpg)](https://design.withfudge.com/pin/8806)
+[Installation | assistant-ui](https://design.withfudge.com/pin/8806) — [source page](https://assistant-ui.com/docs/installation)
+
+[![Thread | assistant-ui](https://pin.fontofweb.com/8754?format=jpg)](https://design.withfudge.com/pin/8754)
+[Thread | assistant-ui](https://design.withfudge.com/pin/8754) — [source page](https://assistant-ui.com/docs/ui/thread)

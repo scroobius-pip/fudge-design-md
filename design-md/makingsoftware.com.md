@@ -6,6 +6,10 @@ Source domain: [makingsoftware.com](https://makingsoftware.com)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6339
+-->
+
 Here is the visual system observed across **17 captured pages** from [makingsoftware.com](https://makingsoftware.com).
 
 ```fudge-colors
@@ -286,12 +290,27 @@ Here is the visual system observed across **17 captured pages** from [makingsoft
 }
 ```
 
-## References
-- [Making Software: How is data stored?](https://design.withfudge.com/pin/6339) — [source page](https://makingsoftware.com/chapters/how-is-data-stored)
-- [Making Software](https://design.withfudge.com/pin/5745) — [source page](https://makingsoftware.com/)
-- [Making Software: Shaders.](https://design.withfudge.com/pin/5744) — [source page](https://makingsoftware.com/chapters/shaders)
-- [Making Software](https://design.withfudge.com/pin/5077) — [source page](https://makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/572) — [source page](https://makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/559) — [source page](https://makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/451) — [source page](https://makingsoftware.com/)
-- [Making Software](https://design.withfudge.com/pin/450) — [source page](https://makingsoftware.com/)
+## Representative captures
+[![Making Software: How is data stored?](https://pin.fontofweb.com/6339?format=jpg)](https://design.withfudge.com/pin/6339)
+[Making Software: How is data stored?](https://design.withfudge.com/pin/6339) — [source page](https://makingsoftware.com/chapters/how-is-data-stored)
+
+[![Making Software](https://pin.fontofweb.com/5745?format=jpg)](https://design.withfudge.com/pin/5745)
+[Making Software](https://design.withfudge.com/pin/5745) — [source page](https://makingsoftware.com/)
+
+[![Making Software: Shaders.](https://pin.fontofweb.com/5744?format=jpg)](https://design.withfudge.com/pin/5744)
+[Making Software: Shaders.](https://design.withfudge.com/pin/5744) — [source page](https://makingsoftware.com/chapters/shaders)
+
+[![Making Software](https://pin.fontofweb.com/5077?format=jpg)](https://design.withfudge.com/pin/5077)
+[Making Software](https://design.withfudge.com/pin/5077) — [source page](https://makingsoftware.com/)
+
+[![Making Software](https://pin.fontofweb.com/572?format=jpg)](https://design.withfudge.com/pin/572)
+[Making Software](https://design.withfudge.com/pin/572) — [source page](https://makingsoftware.com/)
+
+[![Making Software](https://pin.fontofweb.com/559?format=jpg)](https://design.withfudge.com/pin/559)
+[Making Software](https://design.withfudge.com/pin/559) — [source page](https://makingsoftware.com/)
+
+[![Making Software](https://pin.fontofweb.com/451?format=jpg)](https://design.withfudge.com/pin/451)
+[Making Software](https://design.withfudge.com/pin/451) — [source page](https://makingsoftware.com/)
+
+[![Making Software](https://pin.fontofweb.com/450?format=jpg)](https://design.withfudge.com/pin/450)
+[Making Software](https://design.withfudge.com/pin/450) — [source page](https://makingsoftware.com/)

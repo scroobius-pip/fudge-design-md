@@ -6,6 +6,10 @@ Source domain: [good-fella.com](https://good-fella.com)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8198
+-->
+
 Here is the visual system observed across **7 captured pages** from [good-fella.com](https://good-fella.com).
 
 ```fudge-colors
@@ -225,11 +229,24 @@ Here is the visual system observed across **7 captured pages** from [good-fella.
 }
 ```
 
-## References
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8198) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8197) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8196) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8195) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8194) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8193) — [source page](https://good-fella.com/)
-- [Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8191) — [source page](https://good-fella.com/)
+## Representative captures
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8198?format=jpg)](https://design.withfudge.com/pin/8198)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8198) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8197?format=jpg)](https://design.withfudge.com/pin/8197)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8197) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8196?format=jpg)](https://design.withfudge.com/pin/8196)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8196) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8195?format=jpg)](https://design.withfudge.com/pin/8195)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8195) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8194?format=jpg)](https://design.withfudge.com/pin/8194)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8194) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8193?format=jpg)](https://design.withfudge.com/pin/8193)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8193) — [source page](https://good-fella.com/)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8191?format=jpg)](https://design.withfudge.com/pin/8191)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/pin/8191) — [source page](https://good-fella.com/)

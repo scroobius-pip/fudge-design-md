@@ -6,6 +6,10 @@ Source domain: [namecheap.com](https://namecheap.com)
 
 Last updated: 2026-06-29
 
+<!--
+coverPin: 9838
+-->
+
 Here is the visual system observed across **1 captured page** from [namecheap.com](https://namecheap.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [namecheap.co
 }
 ```
 
-## References
-- [Place Your Order](https://design.withfudge.com/pin/9838) — [source page](https://namecheap.com/cart/checkout/payment/payment.aspx)
+## Representative captures
+[![Place Your Order](https://pin.fontofweb.com/9838?format=jpg)](https://design.withfudge.com/pin/9838)
+[Place Your Order](https://design.withfudge.com/pin/9838) — [source page](https://namecheap.com/cart/checkout/payment/payment.aspx)

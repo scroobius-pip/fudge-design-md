@@ -6,6 +6,10 @@ Source domain: [minimax.io](https://minimax.io)
 
 Last updated: 2026-06-05
 
+<!--
+coverPin: 9509
+-->
+
 Here is the visual system observed across **2 captured pages** from [minimax.io](https://minimax.io).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [minimax.io]
 }
 ```
 
-## References
-- [MiniMax](https://design.withfudge.com/pin/9509) — [source page](https://minimax.io/)
-- [MiniMax](https://design.withfudge.com/pin/9508) — [source page](https://minimax.io/)
+## Representative captures
+[![MiniMax](https://pin.fontofweb.com/9509?format=jpg)](https://design.withfudge.com/pin/9509)
+[MiniMax](https://design.withfudge.com/pin/9509) — [source page](https://minimax.io/)
+
+[![MiniMax](https://pin.fontofweb.com/9508?format=jpg)](https://design.withfudge.com/pin/9508)
+[MiniMax](https://design.withfudge.com/pin/9508) — [source page](https://minimax.io/)

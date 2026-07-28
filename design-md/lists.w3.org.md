@@ -6,6 +6,10 @@ Source domain: [lists.w3.org](https://lists.w3.org)
 
 Last updated: 2026-03-03
 
+<!--
+coverPin: 7616
+-->
+
 Here is the visual system observed across **1 captured page** from [lists.w3.org](https://lists.w3.org).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [lists.w3.org
 }
 ```
 
-## References
-- [www-rdf-logic@w3.org from April 2001: by thread](https://design.withfudge.com/pin/7616) — [source page](https://lists.w3.org/Archives/Public/www-rdf-logic/2001Apr/thread.html)
+## Representative captures
+[![www-rdf-logic@w3.org from April 2001: by thread](https://pin.fontofweb.com/7616?format=jpg)](https://design.withfudge.com/pin/7616)
+[www-rdf-logic@w3.org from April 2001: by thread](https://design.withfudge.com/pin/7616) — [source page](https://lists.w3.org/Archives/Public/www-rdf-logic/2001Apr/thread.html)

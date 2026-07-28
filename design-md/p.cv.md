@@ -6,6 +6,10 @@ Source domain: [p.cv](https://p.cv)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8494
+-->
+
 Here is the visual system observed across **3 captured pages** from [p.cv](https://p.cv).
 
 ```fudge-colors
@@ -120,7 +124,12 @@ Here is the visual system observed across **3 captured pages** from [p.cv](https
 }
 ```
 
-## References
-- [P.CV](https://design.withfudge.com/pin/8494) — [source page](https://p.cv/)
-- [P.CV](https://design.withfudge.com/pin/8493) — [source page](https://p.cv/)
-- [P.CV](https://design.withfudge.com/pin/8492) — [source page](https://p.cv/)
+## Representative captures
+[![P.CV](https://pin.fontofweb.com/8494?format=jpg)](https://design.withfudge.com/pin/8494)
+[P.CV](https://design.withfudge.com/pin/8494) — [source page](https://p.cv/)
+
+[![P.CV](https://pin.fontofweb.com/8493?format=jpg)](https://design.withfudge.com/pin/8493)
+[P.CV](https://design.withfudge.com/pin/8493) — [source page](https://p.cv/)
+
+[![P.CV](https://pin.fontofweb.com/8492?format=jpg)](https://design.withfudge.com/pin/8492)
+[P.CV](https://design.withfudge.com/pin/8492) — [source page](https://p.cv/)

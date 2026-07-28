@@ -6,6 +6,10 @@ Source domain: [operaneon.com](https://operaneon.com)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6366
+-->
+
 Here is the visual system observed across **20 captured pages** from [operaneon.com](https://operaneon.com).
 
 ```fudge-colors
@@ -292,12 +296,27 @@ Here is the visual system observed across **20 captured pages** from [operaneon.
 }
 ```
 
-## References
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6366) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6365) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6364) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6363) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6362) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6361) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6360) — [source page](https://operaneon.com/)
-- [Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/3490) — [source page](https://operaneon.com/)
+## Representative captures
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6366?format=jpg)](https://design.withfudge.com/pin/6366)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6366) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6365?format=jpg)](https://design.withfudge.com/pin/6365)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6365) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6364?format=jpg)](https://design.withfudge.com/pin/6364)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6364) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6363?format=jpg)](https://design.withfudge.com/pin/6363)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6363) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6362?format=jpg)](https://design.withfudge.com/pin/6362)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6362) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6361?format=jpg)](https://design.withfudge.com/pin/6361)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6361) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/6360?format=jpg)](https://design.withfudge.com/pin/6360)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/6360) — [source page](https://operaneon.com/)
+
+[![Opera Neon. This browser is built to act.](https://pin.fontofweb.com/3490?format=jpg)](https://design.withfudge.com/pin/3490)
+[Opera Neon. This browser is built to act.](https://design.withfudge.com/pin/3490) — [source page](https://operaneon.com/)

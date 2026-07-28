@@ -6,6 +6,10 @@ Source domain: [git.law](https://git.law)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7688
+-->
+
 Here is the visual system observed across **5 captured pages** from [git.law](https://git.law).
 
 ```fudge-colors
@@ -217,9 +221,18 @@ Here is the visual system observed across **5 captured pages** from [git.law](ht
 }
 ```
 
-## References
-- [Sign In - GitLaw](https://design.withfudge.com/pin/7688) — [source page](https://git.law/sign-in)
-- [GitLaw Terms of Service](https://design.withfudge.com/pin/7687) — [source page](https://git.law/terms-of-service)
-- [Free eSign](https://design.withfudge.com/pin/7686) — [source page](https://git.law/esign)
-- [Free eSign](https://design.withfudge.com/pin/7685) — [source page](https://git.law/esign)
-- [Free eSign](https://design.withfudge.com/pin/7684) — [source page](https://git.law/esign)
+## Representative captures
+[![Sign In - GitLaw](https://pin.fontofweb.com/7688?format=jpg)](https://design.withfudge.com/pin/7688)
+[Sign In - GitLaw](https://design.withfudge.com/pin/7688) — [source page](https://git.law/sign-in)
+
+[![GitLaw Terms of Service](https://pin.fontofweb.com/7687?format=jpg)](https://design.withfudge.com/pin/7687)
+[GitLaw Terms of Service](https://design.withfudge.com/pin/7687) — [source page](https://git.law/terms-of-service)
+
+[![Free eSign](https://pin.fontofweb.com/7686?format=jpg)](https://design.withfudge.com/pin/7686)
+[Free eSign](https://design.withfudge.com/pin/7686) — [source page](https://git.law/esign)
+
+[![Free eSign](https://pin.fontofweb.com/7685?format=jpg)](https://design.withfudge.com/pin/7685)
+[Free eSign](https://design.withfudge.com/pin/7685) — [source page](https://git.law/esign)
+
+[![Free eSign](https://pin.fontofweb.com/7684?format=jpg)](https://design.withfudge.com/pin/7684)
+[Free eSign](https://design.withfudge.com/pin/7684) — [source page](https://git.law/esign)

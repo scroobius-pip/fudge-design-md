@@ -6,6 +6,10 @@ Source domain: [psyche.network](https://psyche.network)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7868
+-->
+
 Here is the visual system observed across **1 captured page** from [psyche.network](https://psyche.network).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [psyche.netwo
 }
 ```
 
-## References
-- [𝔫𝔬𝔲𝔰 𝔭𝔰𝛾𝔠𝔥𝔢](https://design.withfudge.com/pin/7868) — [source page](https://psyche.network/runs)
+## Representative captures
+[![𝔫𝔬𝔲𝔰 𝔭𝔰𝛾𝔠𝔥𝔢](https://pin.fontofweb.com/7868?format=jpg)](https://design.withfudge.com/pin/7868)
+[𝔫𝔬𝔲𝔰 𝔭𝔰𝛾𝔠𝔥𝔢](https://design.withfudge.com/pin/7868) — [source page](https://psyche.network/runs)

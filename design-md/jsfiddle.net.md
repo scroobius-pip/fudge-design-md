@@ -6,6 +6,10 @@ Source domain: [jsfiddle.net](https://jsfiddle.net)
 
 Last updated: 2026-03-18
 
+<!--
+coverPin: 8168
+-->
+
 Here is the visual system observed across **4 captured pages** from [jsfiddle.net](https://jsfiddle.net).
 
 ```fudge-colors
@@ -173,8 +177,15 @@ Here is the visual system observed across **4 captured pages** from [jsfiddle.ne
 }
 ```
 
-## References
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8168) — [source page](https://jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8167) — [source page](https://jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8166) — [source page](https://jsfiddle.net/)
-- [JSFiddle - Code Playground](https://design.withfudge.com/pin/8165) — [source page](https://jsfiddle.net/)
+## Representative captures
+[![JSFiddle - Code Playground](https://pin.fontofweb.com/8168?format=jpg)](https://design.withfudge.com/pin/8168)
+[JSFiddle - Code Playground](https://design.withfudge.com/pin/8168) — [source page](https://jsfiddle.net/)
+
+[![JSFiddle - Code Playground](https://pin.fontofweb.com/8167?format=jpg)](https://design.withfudge.com/pin/8167)
+[JSFiddle - Code Playground](https://design.withfudge.com/pin/8167) — [source page](https://jsfiddle.net/)
+
+[![JSFiddle - Code Playground](https://pin.fontofweb.com/8166?format=jpg)](https://design.withfudge.com/pin/8166)
+[JSFiddle - Code Playground](https://design.withfudge.com/pin/8166) — [source page](https://jsfiddle.net/)
+
+[![JSFiddle - Code Playground](https://pin.fontofweb.com/8165?format=jpg)](https://design.withfudge.com/pin/8165)
+[JSFiddle - Code Playground](https://design.withfudge.com/pin/8165) — [source page](https://jsfiddle.net/)

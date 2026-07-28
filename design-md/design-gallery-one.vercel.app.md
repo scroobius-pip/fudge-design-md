@@ -6,6 +6,10 @@ Source domain: [design-gallery-one.vercel.app](https://design-gallery-one.vercel
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6950
+-->
+
 Here is the visual system observed across **1 captured page** from [design-gallery-one.vercel.app](https://design-gallery-one.vercel.app).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [design-galle
 }
 ```
 
-## References
-- [Beautiful Redirect](https://design.withfudge.com/pin/6950) — [source page](https://design-gallery-one.vercel.app/)
+## Representative captures
+[![Beautiful Redirect](https://pin.fontofweb.com/6950?format=jpg)](https://design.withfudge.com/pin/6950)
+[Beautiful Redirect](https://design.withfudge.com/pin/6950) — [source page](https://design-gallery-one.vercel.app/)

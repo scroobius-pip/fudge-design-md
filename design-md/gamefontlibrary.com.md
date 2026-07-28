@@ -6,6 +6,10 @@ Source domain: [gamefontlibrary.com](https://gamefontlibrary.com)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8160
+-->
+
 Here is the visual system observed across **1 captured page** from [gamefontlibrary.com](https://gamefontlibrary.com).
 
 ```fudge-colors
@@ -118,5 +122,6 @@ Here is the visual system observed across **1 captured page** from [gamefontlibr
 }
 ```
 
-## References
-- [Marathon | GameFontLibrary](https://design.withfudge.com/pin/8160) — [source page](https://gamefontlibrary.com/games/marathon)
+## Representative captures
+[![Marathon | GameFontLibrary](https://pin.fontofweb.com/8160?format=jpg)](https://design.withfudge.com/pin/8160)
+[Marathon | GameFontLibrary](https://design.withfudge.com/pin/8160) — [source page](https://gamefontlibrary.com/games/marathon)

@@ -6,6 +6,10 @@ Source domain: [parallel.ai](https://parallel.ai)
 
 Last updated: 2026-07-21
 
+<!--
+coverPin: 10439
+-->
+
 Here is the visual system observed across **14 captured pages** from [parallel.ai](https://parallel.ai).
 
 ```fudge-colors
@@ -341,12 +345,27 @@ Here is the visual system observed across **14 captured pages** from [parallel.a
 }
 ```
 
-## References
-- [Parallel](https://design.withfudge.com/pin/10439) — [source page](https://parallel.ai/)
-- [Parallel Quality Benchmarks | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6126) — [source page](https://parallel.ai/benchmarks)
-- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6125) — [source page](https://parallel.ai/pricing)
-- [Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6124) — [source page](https://parallel.ai/pricing)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6123) — [source page](https://parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6122) — [source page](https://parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6121) — [source page](https://parallel.ai/)
-- [Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6120) — [source page](https://parallel.ai/)
+## Representative captures
+[![Parallel](https://pin.fontofweb.com/10439?format=jpg)](https://design.withfudge.com/pin/10439)
+[Parallel](https://design.withfudge.com/pin/10439) — [source page](https://parallel.ai/)
+
+[![Parallel Quality Benchmarks | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6126?format=jpg)](https://design.withfudge.com/pin/6126)
+[Parallel Quality Benchmarks | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6126) — [source page](https://parallel.ai/benchmarks)
+
+[![Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6125?format=jpg)](https://design.withfudge.com/pin/6125)
+[Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6125) — [source page](https://parallel.ai/pricing)
+
+[![Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6124?format=jpg)](https://design.withfudge.com/pin/6124)
+[Parallel Pricing – Pay-As-You-Go Web Search for AI Agents | Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6124) — [source page](https://parallel.ai/pricing)
+
+[![Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6123?format=jpg)](https://design.withfudge.com/pin/6123)
+[Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6123) — [source page](https://parallel.ai/)
+
+[![Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6122?format=jpg)](https://design.withfudge.com/pin/6122)
+[Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6122) — [source page](https://parallel.ai/)
+
+[![Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6121?format=jpg)](https://design.withfudge.com/pin/6121)
+[Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6121) — [source page](https://parallel.ai/)
+
+[![Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://pin.fontofweb.com/6120?format=jpg)](https://design.withfudge.com/pin/6120)
+[Parallel Web Systems | Web Search & Research APIs Built for AI Agents](https://design.withfudge.com/pin/6120) — [source page](https://parallel.ai/)

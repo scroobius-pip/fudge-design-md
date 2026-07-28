@@ -6,6 +6,10 @@ Source domain: [dash.cloudflare.com](https://dash.cloudflare.com)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10060
+-->
+
 Here is the visual system observed across **21 captured pages** from [dash.cloudflare.com](https://dash.cloudflare.com).
 
 ```fudge-colors
@@ -336,12 +340,27 @@ Here is the visual system observed across **21 captured pages** from [dash.cloud
 }
 ```
 
-## References
-- [fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10060) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/fontofweb.com)
-- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10039) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
-- [Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9843) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
-- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9840) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/checkout/payment)
-- [Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9839) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/checkout/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb21haW4iOiJpY29uaWNpdHkuY2MiLCJpYXQiOjE3ODI3NDI1MjF9.muJehkecD0tCTCrfV1N9znF69cWZWCGe14onv5V_2Rw)
-- [Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9664) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/billing/billable-usage)
-- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9239) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
-- [Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9238) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
+## Representative captures
+[![fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/10060?format=jpg)](https://design.withfudge.com/pin/10060)
+[fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10060) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/fontofweb.com)
+
+[![Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/10039?format=jpg)](https://design.withfudge.com/pin/10039)
+[Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/10039) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
+
+[![Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/9843?format=jpg)](https://design.withfudge.com/pin/9843)
+[Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9843) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/success)
+
+[![Domains | Registrations | Cloudflare](https://pin.fontofweb.com/9840?format=jpg)](https://design.withfudge.com/pin/9840)
+[Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9840) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/checkout/payment)
+
+[![Domains | Registrations | Cloudflare](https://pin.fontofweb.com/9839?format=jpg)](https://design.withfudge.com/pin/9839)
+[Domains | Registrations | Cloudflare](https://design.withfudge.com/pin/9839) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/domains/registrations/checkout/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb21haW4iOiJpY29uaWNpdHkuY2MiLCJpYXQiOjE3ODI3NDI1MjF9.muJehkecD0tCTCrfV1N9znF69cWZWCGe14onv5V_2Rw)
+
+[![Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/9664?format=jpg)](https://design.withfudge.com/pin/9664)
+[Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/pin/9664) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/billing/billable-usage)
+
+[![Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://pin.fontofweb.com/9239?format=jpg)](https://design.withfudge.com/pin/9239)
+[Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9239) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)
+
+[![Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://pin.fontofweb.com/9238?format=jpg)](https://design.withfudge.com/pin/9238)
+[Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/pin/9238) — [source page](https://dash.cloudflare.com/cb52b7ac4d5621ccd7701468cd239a74/api-tokens/create)

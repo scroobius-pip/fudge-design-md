@@ -6,6 +6,10 @@ Source domain: [mattstromawn.com](https://mattstromawn.com)
 
 Last updated: 2026-02-05
 
+<!--
+coverPin: 6300
+-->
+
 Here is the visual system observed across **2 captured pages** from [mattstromawn.com](https://mattstromawn.com).
 
 ```fudge-colors
@@ -101,6 +105,9 @@ Here is the visual system observed across **2 captured pages** from [mattstromaw
 }
 ```
 
-## References
-- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6300) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)
-- [How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6299) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)
+## Representative captures
+[![How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://pin.fontofweb.com/6300?format=jpg)](https://design.withfudge.com/pin/6300)
+[How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6300) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)
+
+[![How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://pin.fontofweb.com/6299?format=jpg)](https://design.withfudge.com/pin/6299)
+[How to generate color palettes for design systems || Matt Ström-Awn, designer-leader](https://design.withfudge.com/pin/6299) — [source page](https://mattstromawn.com/writing/generating-color-palettes/)

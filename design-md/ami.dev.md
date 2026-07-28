@@ -6,6 +6,10 @@ Source domain: [ami.dev](https://ami.dev)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6958
+-->
+
 Here is the visual system observed across **4 captured pages** from [ami.dev](https://ami.dev).
 
 ```fudge-colors
@@ -160,8 +164,15 @@ Here is the visual system observed across **4 captured pages** from [ami.dev](ht
 }
 ```
 
-## References
-- [Ami](https://design.withfudge.com/pin/6958) — [source page](https://ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6957) — [source page](https://ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6956) — [source page](https://ami.dev/)
-- [Ami](https://design.withfudge.com/pin/6955) — [source page](https://ami.dev/)
+## Representative captures
+[![Ami](https://pin.fontofweb.com/6958?format=jpg)](https://design.withfudge.com/pin/6958)
+[Ami](https://design.withfudge.com/pin/6958) — [source page](https://ami.dev/)
+
+[![Ami](https://pin.fontofweb.com/6957?format=jpg)](https://design.withfudge.com/pin/6957)
+[Ami](https://design.withfudge.com/pin/6957) — [source page](https://ami.dev/)
+
+[![Ami](https://pin.fontofweb.com/6956?format=jpg)](https://design.withfudge.com/pin/6956)
+[Ami](https://design.withfudge.com/pin/6956) — [source page](https://ami.dev/)
+
+[![Ami](https://pin.fontofweb.com/6955?format=jpg)](https://design.withfudge.com/pin/6955)
+[Ami](https://design.withfudge.com/pin/6955) — [source page](https://ami.dev/)

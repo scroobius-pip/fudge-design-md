@@ -6,6 +6,10 @@ Source domain: [masterselects.com](https://masterselects.com)
 
 Last updated: 2026-02-02
 
+<!--
+coverPin: 6252
+-->
+
 Here is the visual system observed across **4 captured pages** from [masterselects.com](https://masterselects.com).
 
 ```fudge-colors
@@ -143,8 +147,15 @@ Here is the visual system observed across **4 captured pages** from [masterselec
 }
 ```
 
-## References
-- [MASterSelects](https://design.withfudge.com/pin/6252) — [source page](https://masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6251) — [source page](https://masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6250) — [source page](https://masterselects.com/)
-- [MASterSelects](https://design.withfudge.com/pin/6248) — [source page](https://masterselects.com/)
+## Representative captures
+[![MASterSelects](https://pin.fontofweb.com/6252?format=jpg)](https://design.withfudge.com/pin/6252)
+[MASterSelects](https://design.withfudge.com/pin/6252) — [source page](https://masterselects.com/)
+
+[![MASterSelects](https://pin.fontofweb.com/6251?format=jpg)](https://design.withfudge.com/pin/6251)
+[MASterSelects](https://design.withfudge.com/pin/6251) — [source page](https://masterselects.com/)
+
+[![MASterSelects](https://pin.fontofweb.com/6250?format=jpg)](https://design.withfudge.com/pin/6250)
+[MASterSelects](https://design.withfudge.com/pin/6250) — [source page](https://masterselects.com/)
+
+[![MASterSelects](https://pin.fontofweb.com/6248?format=jpg)](https://design.withfudge.com/pin/6248)
+[MASterSelects](https://design.withfudge.com/pin/6248) — [source page](https://masterselects.com/)

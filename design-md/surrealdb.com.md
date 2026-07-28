@@ -6,6 +6,10 @@ Source domain: [surrealdb.com](https://surrealdb.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10110
+-->
+
 Here is the visual system observed across **2 captured pages** from [surrealdb.com](https://surrealdb.com).
 
 ```fudge-colors
@@ -146,6 +150,9 @@ Here is the visual system observed across **2 captured pages** from [surrealdb.c
 }
 ```
 
-## References
-- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10110) — [source page](https://surrealdb.com/platform/surrealdb)
-- [SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10109) — [source page](https://surrealdb.com/platform/surrealdb)
+## Representative captures
+[![SurrealDB | The Database That Makes Context Atomic](https://pin.fontofweb.com/10110?format=jpg)](https://design.withfudge.com/pin/10110)
+[SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10110) — [source page](https://surrealdb.com/platform/surrealdb)
+
+[![SurrealDB | The Database That Makes Context Atomic](https://pin.fontofweb.com/10109?format=jpg)](https://design.withfudge.com/pin/10109)
+[SurrealDB | The Database That Makes Context Atomic](https://design.withfudge.com/pin/10109) — [source page](https://surrealdb.com/platform/surrealdb)

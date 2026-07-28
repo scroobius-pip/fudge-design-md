@@ -6,6 +6,10 @@ Source domain: [samsm.ch](https://samsm.ch)
 
 Last updated: 2026-07-06
 
+<!--
+coverPin: 9914
+-->
+
 Here is the visual system observed across **2 captured pages** from [samsm.ch](https://samsm.ch).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [samsm.ch](h
 }
 ```
 
-## References
-- [Notes on a trip to China | Sam Smith](https://design.withfudge.com/pin/9914) — [source page](https://samsm.ch/china-trip-2025/)
-- [Why I Like Small Keyboards | Sam Smith](https://design.withfudge.com/pin/9913) — [source page](https://samsm.ch/small-keyboards/)
+## Representative captures
+[![Notes on a trip to China | Sam Smith](https://pin.fontofweb.com/9914?format=jpg)](https://design.withfudge.com/pin/9914)
+[Notes on a trip to China | Sam Smith](https://design.withfudge.com/pin/9914) — [source page](https://samsm.ch/china-trip-2025/)
+
+[![Why I Like Small Keyboards | Sam Smith](https://pin.fontofweb.com/9913?format=jpg)](https://design.withfudge.com/pin/9913)
+[Why I Like Small Keyboards | Sam Smith](https://design.withfudge.com/pin/9913) — [source page](https://samsm.ch/small-keyboards/)

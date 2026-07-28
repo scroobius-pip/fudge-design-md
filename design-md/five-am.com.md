@@ -6,6 +6,10 @@ Source domain: [five-am.com](https://five-am.com)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8238
+-->
+
 Here is the visual system observed across **2 captured pages** from [five-am.com](https://five-am.com).
 
 ```fudge-colors
@@ -106,6 +110,9 @@ Here is the visual system observed across **2 captured pages** from [five-am.com
 }
 ```
 
-## References
-- [Design & Technology | 5AM](https://design.withfudge.com/pin/8238) — [source page](https://five-am.com/)
-- [Design & Technology | 5AM](https://design.withfudge.com/pin/8237) — [source page](https://five-am.com/)
+## Representative captures
+[![Design & Technology | 5AM](https://pin.fontofweb.com/8238?format=jpg)](https://design.withfudge.com/pin/8238)
+[Design & Technology | 5AM](https://design.withfudge.com/pin/8238) — [source page](https://five-am.com/)
+
+[![Design & Technology | 5AM](https://pin.fontofweb.com/8237?format=jpg)](https://design.withfudge.com/pin/8237)
+[Design & Technology | 5AM](https://design.withfudge.com/pin/8237) — [source page](https://five-am.com/)

@@ -6,6 +6,10 @@ Source domain: [cora.computer](https://cora.computer)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8459
+-->
+
 Here is the visual system observed across **6 captured pages** from [cora.computer](https://cora.computer).
 
 ```fudge-colors
@@ -218,10 +222,21 @@ Here is the visual system observed across **6 captured pages** from [cora.comput
 }
 ```
 
-## References
-- [Cora](https://design.withfudge.com/pin/8459) — [source page](https://cora.computer/users/sign_up)
-- [Cora](https://design.withfudge.com/pin/8457) — [source page](https://cora.computer/users/sign_in)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8456) — [source page](https://cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8455) — [source page](https://cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8454) — [source page](https://cora.computer/)
-- [Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8453) — [source page](https://cora.computer/)
+## Representative captures
+[![Cora](https://pin.fontofweb.com/8459?format=jpg)](https://design.withfudge.com/pin/8459)
+[Cora](https://design.withfudge.com/pin/8459) — [source page](https://cora.computer/users/sign_up)
+
+[![Cora](https://pin.fontofweb.com/8457?format=jpg)](https://design.withfudge.com/pin/8457)
+[Cora](https://design.withfudge.com/pin/8457) — [source page](https://cora.computer/users/sign_in)
+
+[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8456?format=jpg)](https://design.withfudge.com/pin/8456)
+[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8456) — [source page](https://cora.computer/)
+
+[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8455?format=jpg)](https://design.withfudge.com/pin/8455)
+[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8455) — [source page](https://cora.computer/)
+
+[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8454?format=jpg)](https://design.withfudge.com/pin/8454)
+[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8454) — [source page](https://cora.computer/)
+
+[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8453?format=jpg)](https://design.withfudge.com/pin/8453)
+[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8453) — [source page](https://cora.computer/)

@@ -6,6 +6,10 @@ Source domain: [fontstand.com](https://fontstand.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6812
+-->
+
 Here is the visual system observed across **8 captured pages** from [fontstand.com](https://fontstand.com).
 
 ```fudge-colors
@@ -215,12 +219,27 @@ Here is the visual system observed across **8 captured pages** from [fontstand.c
 }
 ```
 
-## References
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6812) — [source page](https://fontstand.com/conference)
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6811) — [source page](https://fontstand.com/conference)
-- [Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6810) — [source page](https://fontstand.com/conference)
-- [Application — Fontstand](https://design.withfudge.com/pin/5506) — [source page](https://fontstand.com/apps)
-- [Application — Fontstand](https://design.withfudge.com/pin/5505) — [source page](https://fontstand.com/apps)
-- [Pricing — Fontstand](https://design.withfudge.com/pin/5493) — [source page](https://fontstand.com/pricing)
-- [Pricing — Fontstand](https://design.withfudge.com/pin/5492) — [source page](https://fontstand.com/pricing)
-- [Contact — Fontstand](https://design.withfudge.com/pin/5491) — [source page](https://fontstand.com/contact)
+## Representative captures
+[![Fontstand International Typography Conference 2026, Berlin, Germany](https://pin.fontofweb.com/6812?format=jpg)](https://design.withfudge.com/pin/6812)
+[Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6812) — [source page](https://fontstand.com/conference)
+
+[![Fontstand International Typography Conference 2026, Berlin, Germany](https://pin.fontofweb.com/6811?format=jpg)](https://design.withfudge.com/pin/6811)
+[Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6811) — [source page](https://fontstand.com/conference)
+
+[![Fontstand International Typography Conference 2026, Berlin, Germany](https://pin.fontofweb.com/6810?format=jpg)](https://design.withfudge.com/pin/6810)
+[Fontstand International Typography Conference 2026, Berlin, Germany](https://design.withfudge.com/pin/6810) — [source page](https://fontstand.com/conference)
+
+[![Application — Fontstand](https://pin.fontofweb.com/5506?format=jpg)](https://design.withfudge.com/pin/5506)
+[Application — Fontstand](https://design.withfudge.com/pin/5506) — [source page](https://fontstand.com/apps)
+
+[![Application — Fontstand](https://pin.fontofweb.com/5505?format=jpg)](https://design.withfudge.com/pin/5505)
+[Application — Fontstand](https://design.withfudge.com/pin/5505) — [source page](https://fontstand.com/apps)
+
+[![Pricing — Fontstand](https://pin.fontofweb.com/5493?format=jpg)](https://design.withfudge.com/pin/5493)
+[Pricing — Fontstand](https://design.withfudge.com/pin/5493) — [source page](https://fontstand.com/pricing)
+
+[![Pricing — Fontstand](https://pin.fontofweb.com/5492?format=jpg)](https://design.withfudge.com/pin/5492)
+[Pricing — Fontstand](https://design.withfudge.com/pin/5492) — [source page](https://fontstand.com/pricing)
+
+[![Contact — Fontstand](https://pin.fontofweb.com/5491?format=jpg)](https://design.withfudge.com/pin/5491)
+[Contact — Fontstand](https://design.withfudge.com/pin/5491) — [source page](https://fontstand.com/contact)

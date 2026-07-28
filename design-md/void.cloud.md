@@ -6,6 +6,10 @@ Source domain: [void.cloud](https://void.cloud)
 
 Last updated: 2026-03-14
 
+<!--
+coverPin: 8097
+-->
+
 Here is the visual system observed across **2 captured pages** from [void.cloud](https://void.cloud).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [void.cloud]
 }
 ```
 
-## References
-- [Void](https://design.withfudge.com/pin/8097) — [source page](https://void.cloud/)
-- [Void](https://design.withfudge.com/pin/8096) — [source page](https://void.cloud/)
+## Representative captures
+[![Void](https://pin.fontofweb.com/8097?format=jpg)](https://design.withfudge.com/pin/8097)
+[Void](https://design.withfudge.com/pin/8097) — [source page](https://void.cloud/)
+
+[![Void](https://pin.fontofweb.com/8096?format=jpg)](https://design.withfudge.com/pin/8096)
+[Void](https://design.withfudge.com/pin/8096) — [source page](https://void.cloud/)

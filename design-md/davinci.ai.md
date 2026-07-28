@@ -6,6 +6,10 @@ Source domain: [davinci.ai](https://davinci.ai)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7937
+-->
+
 Here is the visual system observed across **1 captured page** from [davinci.ai](https://davinci.ai).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [davinci.ai](
 }
 ```
 
-## References
-- [DaVinci - AI Art Generator](https://design.withfudge.com/pin/7937) — [source page](https://davinci.ai/app)
+## Representative captures
+[![DaVinci - AI Art Generator](https://pin.fontofweb.com/7937?format=jpg)](https://design.withfudge.com/pin/7937)
+[DaVinci - AI Art Generator](https://design.withfudge.com/pin/7937) — [source page](https://davinci.ai/app)

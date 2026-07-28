@@ -6,6 +6,10 @@ Source domain: [phia.app](https://phia.app)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7420
+-->
+
 Here is the visual system observed across **6 captured pages** from [phia.app](https://phia.app).
 
 ```fudge-colors
@@ -198,10 +202,21 @@ Here is the visual system observed across **6 captured pages** from [phia.app](h
 }
 ```
 
-## References
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7420) — [source page](https://phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7419) — [source page](https://phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7418) — [source page](https://phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7417) — [source page](https://phia.app/)
-- [Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7416) — [source page](https://phia.app/)
-- [Phia | Designed to be seen](https://design.withfudge.com/pin/3741) — [source page](https://phia.app/login)
+## Representative captures
+[![Phia — Beautiful Screen Recorder for macOS](https://pin.fontofweb.com/7420?format=jpg)](https://design.withfudge.com/pin/7420)
+[Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7420) — [source page](https://phia.app/)
+
+[![Phia — Beautiful Screen Recorder for macOS](https://pin.fontofweb.com/7419?format=jpg)](https://design.withfudge.com/pin/7419)
+[Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7419) — [source page](https://phia.app/)
+
+[![Phia — Beautiful Screen Recorder for macOS](https://pin.fontofweb.com/7418?format=jpg)](https://design.withfudge.com/pin/7418)
+[Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7418) — [source page](https://phia.app/)
+
+[![Phia — Beautiful Screen Recorder for macOS](https://pin.fontofweb.com/7417?format=jpg)](https://design.withfudge.com/pin/7417)
+[Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7417) — [source page](https://phia.app/)
+
+[![Phia — Beautiful Screen Recorder for macOS](https://pin.fontofweb.com/7416?format=jpg)](https://design.withfudge.com/pin/7416)
+[Phia — Beautiful Screen Recorder for macOS](https://design.withfudge.com/pin/7416) — [source page](https://phia.app/)
+
+[![Phia | Designed to be seen](https://pin.fontofweb.com/3741?format=jpg)](https://design.withfudge.com/pin/3741)
+[Phia | Designed to be seen](https://design.withfudge.com/pin/3741) — [source page](https://phia.app/login)

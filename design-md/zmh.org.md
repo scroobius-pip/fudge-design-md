@@ -6,6 +6,10 @@ Source domain: [zmh.org](https://zmh.org)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8689
+-->
+
 Here is the visual system observed across **1 captured page** from [zmh.org](https://zmh.org).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [zmh.org](htt
 }
 ```
 
-## References
-- [Zachary Hamed](https://design.withfudge.com/pin/8689) — [source page](https://zmh.org/)
+## Representative captures
+[![Zachary Hamed](https://pin.fontofweb.com/8689?format=jpg)](https://design.withfudge.com/pin/8689)
+[Zachary Hamed](https://design.withfudge.com/pin/8689) — [source page](https://zmh.org/)

@@ -6,6 +6,10 @@ Source domain: [npr.org](https://npr.org)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6788
+-->
+
 Here is the visual system observed across **1 captured page** from [npr.org](https://npr.org).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [npr.org](htt
 }
 ```
 
-## References
-- [NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR](https://design.withfudge.com/pin/6788) — [source page](https://npr.org/)
+## Representative captures
+[![NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR](https://pin.fontofweb.com/6788?format=jpg)](https://design.withfudge.com/pin/6788)
+[NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR](https://design.withfudge.com/pin/6788) — [source page](https://npr.org/)

@@ -6,6 +6,10 @@ Source domain: [agent.minimax.io](https://agent.minimax.io)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 7992
+-->
+
 Here is the visual system observed across **1 captured page** from [agent.minimax.io](https://agent.minimax.io).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [agent.minima
 }
 ```
 
-## References
-- [MiniMax Agent: Minimize Effort, Maximize Intelligence](https://design.withfudge.com/pin/7992) — [source page](https://agent.minimax.io/chat)
+## Representative captures
+[![MiniMax Agent: Minimize Effort, Maximize Intelligence](https://pin.fontofweb.com/7992?format=jpg)](https://design.withfudge.com/pin/7992)
+[MiniMax Agent: Minimize Effort, Maximize Intelligence](https://design.withfudge.com/pin/7992) — [source page](https://agent.minimax.io/chat)

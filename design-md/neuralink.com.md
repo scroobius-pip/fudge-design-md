@@ -6,6 +6,10 @@ Source domain: [neuralink.com](https://neuralink.com)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7923
+-->
+
 Here is the visual system observed across **3 captured pages** from [neuralink.com](https://neuralink.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [neuralink.c
 }
 ```
 
-## References
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7923) — [source page](https://neuralink.com/)
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7922) — [source page](https://neuralink.com/)
-- [Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7921) — [source page](https://neuralink.com/)
+## Representative captures
+[![Neuralink — Pioneering Brain Computer Interfaces](https://pin.fontofweb.com/7923?format=jpg)](https://design.withfudge.com/pin/7923)
+[Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7923) — [source page](https://neuralink.com/)
+
+[![Neuralink — Pioneering Brain Computer Interfaces](https://pin.fontofweb.com/7922?format=jpg)](https://design.withfudge.com/pin/7922)
+[Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7922) — [source page](https://neuralink.com/)
+
+[![Neuralink — Pioneering Brain Computer Interfaces](https://pin.fontofweb.com/7921?format=jpg)](https://design.withfudge.com/pin/7921)
+[Neuralink — Pioneering Brain Computer Interfaces](https://design.withfudge.com/pin/7921) — [source page](https://neuralink.com/)

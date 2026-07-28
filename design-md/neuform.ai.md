@@ -6,6 +6,10 @@ Source domain: [neuform.ai](https://neuform.ai)
 
 Last updated: 2026-04-13
 
+<!--
+coverPin: 8825
+-->
+
 Here is the visual system observed across **8 captured pages** from [neuform.ai](https://neuform.ai).
 
 ```fudge-colors
@@ -294,12 +298,27 @@ Here is the visual system observed across **8 captured pages** from [neuform.ai]
 }
 ```
 
-## References
-- [Neuform](https://design.withfudge.com/pin/8825) — [source page](https://neuform.ai/)
-- [Trending Community Pages | Neuform](https://design.withfudge.com/pin/8822) — [source page](https://neuform.ai/community/trending)
-- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8821) — [source page](https://neuform.ai/community/tag/dashboard)
-- [Dashboard Pages | Neuform](https://design.withfudge.com/pin/8820) — [source page](https://neuform.ai/community/tag/dashboard)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8819) — [source page](https://neuform.ai/page/autonomous-systems-engine)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8818) — [source page](https://neuform.ai/page/autonomous-systems-engine)
-- [Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8817) — [source page](https://neuform.ai/page/autonomous-systems-engine)
-- [Telemetry Interface Background Effect | Neuform](https://design.withfudge.com/pin/8816) — [source page](https://neuform.ai/page/telemetry-interface-5)
+## Representative captures
+[![Neuform](https://pin.fontofweb.com/8825?format=jpg)](https://design.withfudge.com/pin/8825)
+[Neuform](https://design.withfudge.com/pin/8825) — [source page](https://neuform.ai/)
+
+[![Trending Community Pages | Neuform](https://pin.fontofweb.com/8822?format=jpg)](https://design.withfudge.com/pin/8822)
+[Trending Community Pages | Neuform](https://design.withfudge.com/pin/8822) — [source page](https://neuform.ai/community/trending)
+
+[![Dashboard Pages | Neuform](https://pin.fontofweb.com/8821?format=jpg)](https://design.withfudge.com/pin/8821)
+[Dashboard Pages | Neuform](https://design.withfudge.com/pin/8821) — [source page](https://neuform.ai/community/tag/dashboard)
+
+[![Dashboard Pages | Neuform](https://pin.fontofweb.com/8820?format=jpg)](https://design.withfudge.com/pin/8820)
+[Dashboard Pages | Neuform](https://design.withfudge.com/pin/8820) — [source page](https://neuform.ai/community/tag/dashboard)
+
+[![Autonomous Systems Dashboard Section | Neuform](https://pin.fontofweb.com/8819?format=jpg)](https://design.withfudge.com/pin/8819)
+[Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8819) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+
+[![Autonomous Systems Dashboard Section | Neuform](https://pin.fontofweb.com/8818?format=jpg)](https://design.withfudge.com/pin/8818)
+[Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8818) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+
+[![Autonomous Systems Dashboard Section | Neuform](https://pin.fontofweb.com/8817?format=jpg)](https://design.withfudge.com/pin/8817)
+[Autonomous Systems Dashboard Section | Neuform](https://design.withfudge.com/pin/8817) — [source page](https://neuform.ai/page/autonomous-systems-engine)
+
+[![Telemetry Interface Background Effect | Neuform](https://pin.fontofweb.com/8816?format=jpg)](https://design.withfudge.com/pin/8816)
+[Telemetry Interface Background Effect | Neuform](https://design.withfudge.com/pin/8816) — [source page](https://neuform.ai/page/telemetry-interface-5)

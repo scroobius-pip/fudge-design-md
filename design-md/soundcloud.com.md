@@ -6,6 +6,10 @@ Source domain: [soundcloud.com](https://soundcloud.com)
 
 Last updated: 2026-04-06
 
+<!--
+coverPin: 8707
+-->
+
 Here is the visual system observed across **6 captured pages** from [soundcloud.com](https://soundcloud.com).
 
 ```fudge-colors
@@ -175,10 +179,21 @@ Here is the visual system observed across **6 captured pages** from [soundcloud.
 }
 ```
 
-## References
-- [ACID WAVES by CRAFTHOOL](https://design.withfudge.com/pin/8707) — [source page](https://soundcloud.com/crafthool/acid)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5215) — [source page](https://soundcloud.com/)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5214) — [source page](https://soundcloud.com/)
-- [Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5213) — [source page](https://soundcloud.com/)
-- [Stream Actual Source music | Listen to songs, albums, playlists for free on SoundCloud](https://design.withfudge.com/pin/5212) — [source page](https://soundcloud.com/actual-source)
-- [Your feed on SoundCloud](https://design.withfudge.com/pin/3003) — [source page](https://soundcloud.com/feed)
+## Representative captures
+[![ACID WAVES by CRAFTHOOL](https://pin.fontofweb.com/8707?format=jpg)](https://design.withfudge.com/pin/8707)
+[ACID WAVES by CRAFTHOOL](https://design.withfudge.com/pin/8707) — [source page](https://soundcloud.com/crafthool/acid)
+
+[![Stream and listen to music online for free with SoundCloud](https://pin.fontofweb.com/5215?format=jpg)](https://design.withfudge.com/pin/5215)
+[Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5215) — [source page](https://soundcloud.com/)
+
+[![Stream and listen to music online for free with SoundCloud](https://pin.fontofweb.com/5214?format=jpg)](https://design.withfudge.com/pin/5214)
+[Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5214) — [source page](https://soundcloud.com/)
+
+[![Stream and listen to music online for free with SoundCloud](https://pin.fontofweb.com/5213?format=jpg)](https://design.withfudge.com/pin/5213)
+[Stream and listen to music online for free with SoundCloud](https://design.withfudge.com/pin/5213) — [source page](https://soundcloud.com/)
+
+[![Stream Actual Source music | Listen to songs, albums, playlists for free on SoundCloud](https://pin.fontofweb.com/5212?format=jpg)](https://design.withfudge.com/pin/5212)
+[Stream Actual Source music | Listen to songs, albums, playlists for free on SoundCloud](https://design.withfudge.com/pin/5212) — [source page](https://soundcloud.com/actual-source)
+
+[![Your feed on SoundCloud](https://pin.fontofweb.com/3003?format=jpg)](https://design.withfudge.com/pin/3003)
+[Your feed on SoundCloud](https://design.withfudge.com/pin/3003) — [source page](https://soundcloud.com/feed)

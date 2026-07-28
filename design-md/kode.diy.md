@@ -6,6 +6,10 @@ Source domain: [kode.diy](https://kode.diy)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 9991
+-->
+
 Here is the visual system observed across **14 captured pages** from [kode.diy](https://kode.diy).
 
 ```fudge-colors
@@ -330,12 +334,27 @@ Here is the visual system observed across **14 captured pages** from [kode.diy](
 }
 ```
 
-## References
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9991) — [source page](https://kode.diy/shop)
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9990) — [source page](https://kode.diy/shop)
-- [Maker Module — Kode Dot](https://design.withfudge.com/pin/9989) — [source page](https://kode.diy/product/maker-module)
-- [Shop — Kode Dot](https://design.withfudge.com/pin/9988) — [source page](https://kode.diy/shop)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9987) — [source page](https://kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9986) — [source page](https://kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9985) — [source page](https://kode.diy/)
-- [Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9984) — [source page](https://kode.diy/)
+## Representative captures
+[![Shop — Kode Dot](https://pin.fontofweb.com/9991?format=jpg)](https://design.withfudge.com/pin/9991)
+[Shop — Kode Dot](https://design.withfudge.com/pin/9991) — [source page](https://kode.diy/shop)
+
+[![Shop — Kode Dot](https://pin.fontofweb.com/9990?format=jpg)](https://design.withfudge.com/pin/9990)
+[Shop — Kode Dot](https://design.withfudge.com/pin/9990) — [source page](https://kode.diy/shop)
+
+[![Maker Module — Kode Dot](https://pin.fontofweb.com/9989?format=jpg)](https://design.withfudge.com/pin/9989)
+[Maker Module — Kode Dot](https://design.withfudge.com/pin/9989) — [source page](https://kode.diy/product/maker-module)
+
+[![Shop — Kode Dot](https://pin.fontofweb.com/9988?format=jpg)](https://design.withfudge.com/pin/9988)
+[Shop — Kode Dot](https://design.withfudge.com/pin/9988) — [source page](https://kode.diy/shop)
+
+[![Kode Dot — The all-in-one pocket-size maker device](https://pin.fontofweb.com/9987?format=jpg)](https://design.withfudge.com/pin/9987)
+[Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9987) — [source page](https://kode.diy/)
+
+[![Kode Dot — The all-in-one pocket-size maker device](https://pin.fontofweb.com/9986?format=jpg)](https://design.withfudge.com/pin/9986)
+[Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9986) — [source page](https://kode.diy/)
+
+[![Kode Dot — The all-in-one pocket-size maker device](https://pin.fontofweb.com/9985?format=jpg)](https://design.withfudge.com/pin/9985)
+[Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9985) — [source page](https://kode.diy/)
+
+[![Kode Dot — The all-in-one pocket-size maker device](https://pin.fontofweb.com/9984?format=jpg)](https://design.withfudge.com/pin/9984)
+[Kode Dot — The all-in-one pocket-size maker device](https://design.withfudge.com/pin/9984) — [source page](https://kode.diy/)

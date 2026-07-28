@@ -6,6 +6,10 @@ Source domain: [windscribe.com](https://windscribe.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10079
+-->
+
 Here is the visual system observed across **19 captured pages** from [windscribe.com](https://windscribe.com).
 
 ```fudge-colors
@@ -360,12 +364,27 @@ Here is the visual system observed across **19 captured pages** from [windscribe
 }
 ```
 
-## References
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10079) — [source page](https://windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10078) — [source page](https://windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10077) — [source page](https://windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10076) — [source page](https://windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10075) — [source page](https://windscribe.com/signup)
-- [Sign Up | Windscribe](https://design.withfudge.com/pin/10074) — [source page](https://windscribe.com/signup)
-- [Login - Windscribe](https://design.withfudge.com/pin/5006) — [source page](https://windscribe.com/login)
-- [Windscribe | Turn your friend into a best friend](https://design.withfudge.com/pin/5005) — [source page](https://windscribe.com/referafriend/)
+## Representative captures
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10079?format=jpg)](https://design.withfudge.com/pin/10079)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10079) — [source page](https://windscribe.com/signup)
+
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10078?format=jpg)](https://design.withfudge.com/pin/10078)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10078) — [source page](https://windscribe.com/signup)
+
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10077?format=jpg)](https://design.withfudge.com/pin/10077)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10077) — [source page](https://windscribe.com/signup)
+
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10076?format=jpg)](https://design.withfudge.com/pin/10076)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10076) — [source page](https://windscribe.com/signup)
+
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10075?format=jpg)](https://design.withfudge.com/pin/10075)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10075) — [source page](https://windscribe.com/signup)
+
+[![Sign Up | Windscribe](https://pin.fontofweb.com/10074?format=jpg)](https://design.withfudge.com/pin/10074)
+[Sign Up | Windscribe](https://design.withfudge.com/pin/10074) — [source page](https://windscribe.com/signup)
+
+[![Login - Windscribe](https://pin.fontofweb.com/5006?format=jpg)](https://design.withfudge.com/pin/5006)
+[Login - Windscribe](https://design.withfudge.com/pin/5006) — [source page](https://windscribe.com/login)
+
+[![Windscribe | Turn your friend into a best friend](https://pin.fontofweb.com/5005?format=jpg)](https://design.withfudge.com/pin/5005)
+[Windscribe | Turn your friend into a best friend](https://design.withfudge.com/pin/5005) — [source page](https://windscribe.com/referafriend/)

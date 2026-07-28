@@ -6,6 +6,10 @@ Source domain: [upath.ai](https://upath.ai)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7936
+-->
+
 Here is the visual system observed across **1 captured page** from [upath.ai](https://upath.ai).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [upath.ai](ht
 }
 ```
 
-## References
-- [UPath - Career Intelligence Platform](https://design.withfudge.com/pin/7936) — [source page](https://upath.ai/)
+## Representative captures
+[![UPath - Career Intelligence Platform](https://pin.fontofweb.com/7936?format=jpg)](https://design.withfudge.com/pin/7936)
+[UPath - Career Intelligence Platform](https://design.withfudge.com/pin/7936) — [source page](https://upath.ai/)

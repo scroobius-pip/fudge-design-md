@@ -6,6 +6,10 @@ Source domain: [useforma.app](https://useforma.app)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6497
+-->
+
 Here is the visual system observed across **2 captured pages** from [useforma.app](https://useforma.app).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [useforma.ap
 }
 ```
 
-## References
-- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6497) — [source page](https://useforma.app/)
-- [Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6496) — [source page](https://useforma.app/)
+## Representative captures
+[![Forma – your canvas for notes, tasks and anything else](https://pin.fontofweb.com/6497?format=jpg)](https://design.withfudge.com/pin/6497)
+[Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6497) — [source page](https://useforma.app/)
+
+[![Forma – your canvas for notes, tasks and anything else](https://pin.fontofweb.com/6496?format=jpg)](https://design.withfudge.com/pin/6496)
+[Forma – your canvas for notes, tasks and anything else](https://design.withfudge.com/pin/6496) — [source page](https://useforma.app/)

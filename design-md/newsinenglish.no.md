@@ -6,6 +6,10 @@ Source domain: [newsinenglish.no](https://newsinenglish.no)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9143
+-->
+
 Here is the visual system observed across **2 captured pages** from [newsinenglish.no](https://newsinenglish.no).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [newsinengli
 }
 ```
 
-## References
-- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9143) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
-- [Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9142) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
+## Representative captures
+[![Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://pin.fontofweb.com/9143?format=jpg)](https://design.withfudge.com/pin/9143)
+[Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9143) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)
+
+[![Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://pin.fontofweb.com/9142?format=jpg)](https://design.withfudge.com/pin/9142)
+[Norway’s krone gains strength | Norway's News in English — www.newsinenglish.no](https://design.withfudge.com/pin/9142) — [source page](https://newsinenglish.no/2026/04/29/norways-krone-gains-strength/)

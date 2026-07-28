@@ -6,6 +6,10 @@ Source domain: [coolors.co](https://coolors.co)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6905
+-->
+
 Here is the visual system observed across **13 captured pages** from [coolors.co](https://coolors.co).
 
 ```fudge-colors
@@ -312,12 +316,27 @@ Here is the visual system observed across **13 captured pages** from [coolors.co
 }
 ```
 
-## References
-- [Color Bot - Coolors](https://design.withfudge.com/pin/6905) — [source page](https://coolors.co/color-bot)
-- [Color Bot - Coolors](https://design.withfudge.com/pin/6904) — [source page](https://coolors.co/color-bot)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6394) — [source page](https://coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6393) — [source page](https://coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6392) — [source page](https://coolors.co/)
-- [Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6391) — [source page](https://coolors.co/)
-- [Create a Palette - Coolors](https://design.withfudge.com/pin/6229) — [source page](https://coolors.co/565554-2e86ab-f6f5ae-f5f749-f24236)
-- [Create a Palette - Coolors](https://design.withfudge.com/pin/6228) — [source page](https://coolors.co/adeee3-86deb7-63b995-50723c-423e28)
+## Representative captures
+[![Color Bot - Coolors](https://pin.fontofweb.com/6905?format=jpg)](https://design.withfudge.com/pin/6905)
+[Color Bot - Coolors](https://design.withfudge.com/pin/6905) — [source page](https://coolors.co/color-bot)
+
+[![Color Bot - Coolors](https://pin.fontofweb.com/6904?format=jpg)](https://design.withfudge.com/pin/6904)
+[Color Bot - Coolors](https://design.withfudge.com/pin/6904) — [source page](https://coolors.co/color-bot)
+
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6394?format=jpg)](https://design.withfudge.com/pin/6394)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6394) — [source page](https://coolors.co/)
+
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6393?format=jpg)](https://design.withfudge.com/pin/6393)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6393) — [source page](https://coolors.co/)
+
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6392?format=jpg)](https://design.withfudge.com/pin/6392)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6392) — [source page](https://coolors.co/)
+
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6391?format=jpg)](https://design.withfudge.com/pin/6391)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/pin/6391) — [source page](https://coolors.co/)
+
+[![Create a Palette - Coolors](https://pin.fontofweb.com/6229?format=jpg)](https://design.withfudge.com/pin/6229)
+[Create a Palette - Coolors](https://design.withfudge.com/pin/6229) — [source page](https://coolors.co/565554-2e86ab-f6f5ae-f5f749-f24236)
+
+[![Create a Palette - Coolors](https://pin.fontofweb.com/6228?format=jpg)](https://design.withfudge.com/pin/6228)
+[Create a Palette - Coolors](https://design.withfudge.com/pin/6228) — [source page](https://coolors.co/adeee3-86deb7-63b995-50723c-423e28)

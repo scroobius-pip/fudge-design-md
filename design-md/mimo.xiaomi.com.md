@@ -6,6 +6,10 @@ Source domain: [mimo.xiaomi.com](https://mimo.xiaomi.com)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5935
+-->
+
 Here is the visual system observed across **2 captured pages** from [mimo.xiaomi.com](https://mimo.xiaomi.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [mimo.xiaomi
 }
 ```
 
-## References
-- [Xiaomi MiMo](https://design.withfudge.com/pin/5935) — [source page](https://mimo.xiaomi.com/)
-- [Xiaomi MiMo](https://design.withfudge.com/pin/5934) — [source page](https://mimo.xiaomi.com/)
+## Representative captures
+[![Xiaomi MiMo](https://pin.fontofweb.com/5935?format=jpg)](https://design.withfudge.com/pin/5935)
+[Xiaomi MiMo](https://design.withfudge.com/pin/5935) — [source page](https://mimo.xiaomi.com/)
+
+[![Xiaomi MiMo](https://pin.fontofweb.com/5934?format=jpg)](https://design.withfudge.com/pin/5934)
+[Xiaomi MiMo](https://design.withfudge.com/pin/5934) — [source page](https://mimo.xiaomi.com/)

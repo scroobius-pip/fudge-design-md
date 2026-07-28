@@ -6,6 +6,10 @@ Source domain: [svg.ertdfgcvb.xyz](https://svg.ertdfgcvb.xyz)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7094
+-->
+
 Here is the visual system observed across **1 captured page** from [svg.ertdfgcvb.xyz](https://svg.ertdfgcvb.xyz).
 
 ```fudge-colors
@@ -73,5 +77,6 @@ Here is the visual system observed across **1 captured page** from [svg.ertdfgcv
 }
 ```
 
-## References
-- [svg.svg](https://design.withfudge.com/pin/7094) — [source page](https://svg.ertdfgcvb.xyz/)
+## Representative captures
+[![svg.svg](https://pin.fontofweb.com/7094?format=jpg)](https://design.withfudge.com/pin/7094)
+[svg.svg](https://design.withfudge.com/pin/7094) — [source page](https://svg.ertdfgcvb.xyz/)

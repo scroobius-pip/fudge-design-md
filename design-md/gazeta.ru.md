@@ -6,6 +6,10 @@ Source domain: [gazeta.ru](https://gazeta.ru)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9101
+-->
+
 Here is the visual system observed across **2 captured pages** from [gazeta.ru](https://gazeta.ru).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [gazeta.ru](
 }
 ```
 
-## References
-- [Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://design.withfudge.com/pin/9101) — [source page](https://gazeta.ru/social/news/2026/04/27/28352593.shtml)
-- [Главные новости России и мира сегодня - Газета.Ru](https://design.withfudge.com/pin/9089) — [source page](https://gazeta.ru/)
+## Representative captures
+[![Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://pin.fontofweb.com/9101?format=jpg)](https://design.withfudge.com/pin/9101)
+[Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://design.withfudge.com/pin/9101) — [source page](https://gazeta.ru/social/news/2026/04/27/28352593.shtml)
+
+[![Главные новости России и мира сегодня - Газета.Ru](https://pin.fontofweb.com/9089?format=jpg)](https://design.withfudge.com/pin/9089)
+[Главные новости России и мира сегодня - Газета.Ru](https://design.withfudge.com/pin/9089) — [source page](https://gazeta.ru/)

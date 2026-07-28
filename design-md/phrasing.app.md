@@ -6,6 +6,10 @@ Source domain: [phrasing.app](https://phrasing.app)
 
 Last updated: 2026-01-31
 
+<!--
+coverPin: 6190
+-->
+
 Here is the visual system observed across **13 captured pages** from [phrasing.app](https://phrasing.app).
 
 ```fudge-colors
@@ -319,12 +323,27 @@ Here is the visual system observed across **13 captured pages** from [phrasing.a
 }
 ```
 
-## References
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6190) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6189) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6188) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6187) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6186) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6185) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6184) — [source page](https://phrasing.app/)
-- [Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6183) — [source page](https://phrasing.app/)
+## Representative captures
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6190?format=jpg)](https://design.withfudge.com/pin/6190)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6190) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6189?format=jpg)](https://design.withfudge.com/pin/6189)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6189) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6188?format=jpg)](https://design.withfudge.com/pin/6188)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6188) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6187?format=jpg)](https://design.withfudge.com/pin/6187)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6187) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6186?format=jpg)](https://design.withfudge.com/pin/6186)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6186) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6185?format=jpg)](https://design.withfudge.com/pin/6185)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6185) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6184?format=jpg)](https://design.withfudge.com/pin/6184)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6184) — [source page](https://phrasing.app/)
+
+[![Phrasing.app — to fluency, and beyond!](https://pin.fontofweb.com/6183?format=jpg)](https://design.withfudge.com/pin/6183)
+[Phrasing.app — to fluency, and beyond!](https://design.withfudge.com/pin/6183) — [source page](https://phrasing.app/)

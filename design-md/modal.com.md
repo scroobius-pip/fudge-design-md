@@ -6,6 +6,10 @@ Source domain: [modal.com](https://modal.com)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9044
+-->
+
 Here is the visual system observed across **26 captured pages** from [modal.com](https://modal.com).
 
 ```fudge-colors
@@ -312,12 +316,27 @@ Here is the visual system observed across **26 captured pages** from [modal.com]
 }
 ```
 
-## References
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9044) — [source page](https://modal.com/pricing)
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9043) — [source page](https://modal.com/pricing)
-- [Plan Pricing | Modal](https://design.withfudge.com/pin/9042) — [source page](https://modal.com/pricing)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9041) — [source page](https://modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9040) — [source page](https://modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9039) — [source page](https://modal.com/products/notebooks)
-- [Products - Notebooks | Modal](https://design.withfudge.com/pin/9038) — [source page](https://modal.com/products/notebooks)
-- [Blog | Modal](https://design.withfudge.com/pin/2502) — [source page](https://modal.com/blog)
+## Representative captures
+[![Plan Pricing | Modal](https://pin.fontofweb.com/9044?format=jpg)](https://design.withfudge.com/pin/9044)
+[Plan Pricing | Modal](https://design.withfudge.com/pin/9044) — [source page](https://modal.com/pricing)
+
+[![Plan Pricing | Modal](https://pin.fontofweb.com/9043?format=jpg)](https://design.withfudge.com/pin/9043)
+[Plan Pricing | Modal](https://design.withfudge.com/pin/9043) — [source page](https://modal.com/pricing)
+
+[![Plan Pricing | Modal](https://pin.fontofweb.com/9042?format=jpg)](https://design.withfudge.com/pin/9042)
+[Plan Pricing | Modal](https://design.withfudge.com/pin/9042) — [source page](https://modal.com/pricing)
+
+[![Products - Notebooks | Modal](https://pin.fontofweb.com/9041?format=jpg)](https://design.withfudge.com/pin/9041)
+[Products - Notebooks | Modal](https://design.withfudge.com/pin/9041) — [source page](https://modal.com/products/notebooks)
+
+[![Products - Notebooks | Modal](https://pin.fontofweb.com/9040?format=jpg)](https://design.withfudge.com/pin/9040)
+[Products - Notebooks | Modal](https://design.withfudge.com/pin/9040) — [source page](https://modal.com/products/notebooks)
+
+[![Products - Notebooks | Modal](https://pin.fontofweb.com/9039?format=jpg)](https://design.withfudge.com/pin/9039)
+[Products - Notebooks | Modal](https://design.withfudge.com/pin/9039) — [source page](https://modal.com/products/notebooks)
+
+[![Products - Notebooks | Modal](https://pin.fontofweb.com/9038?format=jpg)](https://design.withfudge.com/pin/9038)
+[Products - Notebooks | Modal](https://design.withfudge.com/pin/9038) — [source page](https://modal.com/products/notebooks)
+
+[![Blog | Modal](https://pin.fontofweb.com/2502?format=jpg)](https://design.withfudge.com/pin/2502)
+[Blog | Modal](https://design.withfudge.com/pin/2502) — [source page](https://modal.com/blog)

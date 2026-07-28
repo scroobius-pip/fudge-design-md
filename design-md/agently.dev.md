@@ -6,6 +6,10 @@ Source domain: [agently.dev](https://agently.dev)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6671
+-->
+
 Here is the visual system observed across **8 captured pages** from [agently.dev](https://agently.dev).
 
 ```fudge-colors
@@ -271,12 +275,27 @@ Here is the visual system observed across **8 captured pages** from [agently.dev
 }
 ```
 
-## References
-- [Agently](https://design.withfudge.com/pin/6671) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6670) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6669) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6668) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6667) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6666) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6665) — [source page](https://agently.dev/)
-- [Agently](https://design.withfudge.com/pin/6664) — [source page](https://agently.dev/)
+## Representative captures
+[![Agently](https://pin.fontofweb.com/6671?format=jpg)](https://design.withfudge.com/pin/6671)
+[Agently](https://design.withfudge.com/pin/6671) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6670?format=jpg)](https://design.withfudge.com/pin/6670)
+[Agently](https://design.withfudge.com/pin/6670) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6669?format=jpg)](https://design.withfudge.com/pin/6669)
+[Agently](https://design.withfudge.com/pin/6669) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6668?format=jpg)](https://design.withfudge.com/pin/6668)
+[Agently](https://design.withfudge.com/pin/6668) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6667?format=jpg)](https://design.withfudge.com/pin/6667)
+[Agently](https://design.withfudge.com/pin/6667) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6666?format=jpg)](https://design.withfudge.com/pin/6666)
+[Agently](https://design.withfudge.com/pin/6666) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6665?format=jpg)](https://design.withfudge.com/pin/6665)
+[Agently](https://design.withfudge.com/pin/6665) — [source page](https://agently.dev/)
+
+[![Agently](https://pin.fontofweb.com/6664?format=jpg)](https://design.withfudge.com/pin/6664)
+[Agently](https://design.withfudge.com/pin/6664) — [source page](https://agently.dev/)

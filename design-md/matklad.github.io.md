@@ -6,6 +6,10 @@ Source domain: [matklad.github.io](https://matklad.github.io)
 
 Last updated: 2026-02-09
 
+<!--
+coverPin: 6334
+-->
+
 Here is the visual system observed across **2 captured pages** from [matklad.github.io](https://matklad.github.io).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [matklad.git
 }
 ```
 
-## References
-- [matklad](https://design.withfudge.com/pin/6334) — [source page](https://matklad.github.io/)
-- [matklad](https://design.withfudge.com/pin/6333) — [source page](https://matklad.github.io/)
+## Representative captures
+[![matklad](https://pin.fontofweb.com/6334?format=jpg)](https://design.withfudge.com/pin/6334)
+[matklad](https://design.withfudge.com/pin/6334) — [source page](https://matklad.github.io/)
+
+[![matklad](https://pin.fontofweb.com/6333?format=jpg)](https://design.withfudge.com/pin/6333)
+[matklad](https://design.withfudge.com/pin/6333) — [source page](https://matklad.github.io/)

@@ -6,6 +6,10 @@ Source domain: [codepen.io](https://codepen.io)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8438
+-->
+
 Here is the visual system observed across **26 captured pages** from [codepen.io](https://codepen.io).
 
 ```fudge-colors
@@ -367,12 +371,27 @@ Here is the visual system observed across **26 captured pages** from [codepen.io
 }
 ```
 
-## References
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8438) — [source page](https://codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8437) — [source page](https://codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8436) — [source page](https://codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8435) — [source page](https://codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8434) — [source page](https://codepen.io/)
-- [CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8433) — [source page](https://codepen.io/)
-- [Settings - CodePen](https://design.withfudge.com/pin/8432) — [source page](https://codepen.io/settings/profile)
-- [Settings - CodePen](https://design.withfudge.com/pin/8431) — [source page](https://codepen.io/settings/profile)
+## Representative captures
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8438?format=jpg)](https://design.withfudge.com/pin/8438)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8438) — [source page](https://codepen.io/)
+
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8437?format=jpg)](https://design.withfudge.com/pin/8437)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8437) — [source page](https://codepen.io/)
+
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8436?format=jpg)](https://design.withfudge.com/pin/8436)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8436) — [source page](https://codepen.io/)
+
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8435?format=jpg)](https://design.withfudge.com/pin/8435)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8435) — [source page](https://codepen.io/)
+
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8434?format=jpg)](https://design.withfudge.com/pin/8434)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8434) — [source page](https://codepen.io/)
+
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8433?format=jpg)](https://design.withfudge.com/pin/8433)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/pin/8433) — [source page](https://codepen.io/)
+
+[![Settings - CodePen](https://pin.fontofweb.com/8432?format=jpg)](https://design.withfudge.com/pin/8432)
+[Settings - CodePen](https://design.withfudge.com/pin/8432) — [source page](https://codepen.io/settings/profile)
+
+[![Settings - CodePen](https://pin.fontofweb.com/8431?format=jpg)](https://design.withfudge.com/pin/8431)
+[Settings - CodePen](https://design.withfudge.com/pin/8431) — [source page](https://codepen.io/settings/profile)

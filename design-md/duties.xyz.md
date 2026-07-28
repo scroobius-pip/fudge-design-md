@@ -6,6 +6,10 @@ Source domain: [duties.xyz](https://duties.xyz)
 
 Last updated: 2026-06-12
 
+<!--
+coverPin: 9565
+-->
+
 Here is the visual system observed across **6 captured pages** from [duties.xyz](https://duties.xyz).
 
 ```fudge-colors
@@ -232,10 +236,21 @@ Here is the visual system observed across **6 captured pages** from [duties.xyz]
 }
 ```
 
-## References
-- [Duties.xyz](https://design.withfudge.com/pin/9565) — [source page](https://duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9564) — [source page](https://duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9563) — [source page](https://duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9562) — [source page](https://duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9561) — [source page](https://duties.xyz/)
-- [Duties.xyz](https://design.withfudge.com/pin/9560) — [source page](https://duties.xyz/)
+## Representative captures
+[![Duties.xyz](https://pin.fontofweb.com/9565?format=jpg)](https://design.withfudge.com/pin/9565)
+[Duties.xyz](https://design.withfudge.com/pin/9565) — [source page](https://duties.xyz/)
+
+[![Duties.xyz](https://pin.fontofweb.com/9564?format=jpg)](https://design.withfudge.com/pin/9564)
+[Duties.xyz](https://design.withfudge.com/pin/9564) — [source page](https://duties.xyz/)
+
+[![Duties.xyz](https://pin.fontofweb.com/9563?format=jpg)](https://design.withfudge.com/pin/9563)
+[Duties.xyz](https://design.withfudge.com/pin/9563) — [source page](https://duties.xyz/)
+
+[![Duties.xyz](https://pin.fontofweb.com/9562?format=jpg)](https://design.withfudge.com/pin/9562)
+[Duties.xyz](https://design.withfudge.com/pin/9562) — [source page](https://duties.xyz/)
+
+[![Duties.xyz](https://pin.fontofweb.com/9561?format=jpg)](https://design.withfudge.com/pin/9561)
+[Duties.xyz](https://design.withfudge.com/pin/9561) — [source page](https://duties.xyz/)
+
+[![Duties.xyz](https://pin.fontofweb.com/9560?format=jpg)](https://design.withfudge.com/pin/9560)
+[Duties.xyz](https://design.withfudge.com/pin/9560) — [source page](https://duties.xyz/)

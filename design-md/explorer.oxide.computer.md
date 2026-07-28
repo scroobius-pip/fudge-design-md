@@ -6,6 +6,10 @@ Source domain: [explorer.oxide.computer](https://explorer.oxide.computer)
 
 Last updated: 2026-06-26
 
+<!--
+coverPin: 9817
+-->
+
 Here is the visual system observed across **1 captured page** from [explorer.oxide.computer](https://explorer.oxide.computer).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [explorer.oxi
 }
 ```
 
-## References
-- [Oxide 3D Explorer](https://design.withfudge.com/pin/9817) — [source page](https://explorer.oxide.computer/)
+## Representative captures
+[![Oxide 3D Explorer](https://pin.fontofweb.com/9817?format=jpg)](https://design.withfudge.com/pin/9817)
+[Oxide 3D Explorer](https://design.withfudge.com/pin/9817) — [source page](https://explorer.oxide.computer/)

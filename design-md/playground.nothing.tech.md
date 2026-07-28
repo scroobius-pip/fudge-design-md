@@ -6,6 +6,10 @@ Source domain: [playground.nothing.tech](https://playground.nothing.tech)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8564
+-->
+
 Here is the visual system observed across **18 captured pages** from [playground.nothing.tech](https://playground.nothing.tech).
 
 ```fudge-colors
@@ -330,12 +334,27 @@ Here is the visual system observed across **18 captured pages** from [playground
 }
 ```
 
-## References
-- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8564) — [source page](https://playground.nothing.tech/apps)
-- [Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8563) — [source page](https://playground.nothing.tech/apps)
-- [Nothing Playground](https://design.withfudge.com/pin/8562) — [source page](https://playground.nothing.tech/builder)
-- [Nothing Playground](https://design.withfudge.com/pin/8560) — [source page](https://playground.nothing.tech/)
-- [HipRapHop Open by Charles TM - Nothing Playground](https://design.withfudge.com/pin/8559) — [source page](https://playground.nothing.tech/detail/eq/x8UeiIlHHUPm93qp)
-- [Nothing Playground](https://design.withfudge.com/pin/8558) — [source page](https://playground.nothing.tech/)
-- [Nothing Playground](https://design.withfudge.com/pin/8557) — [source page](https://playground.nothing.tech/)
-- [Nothing Playground](https://design.withfudge.com/pin/8556) — [source page](https://playground.nothing.tech/)
+## Representative captures
+[![Essential Apps - Nothing Playground](https://pin.fontofweb.com/8564?format=jpg)](https://design.withfudge.com/pin/8564)
+[Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8564) — [source page](https://playground.nothing.tech/apps)
+
+[![Essential Apps - Nothing Playground](https://pin.fontofweb.com/8563?format=jpg)](https://design.withfudge.com/pin/8563)
+[Essential Apps - Nothing Playground](https://design.withfudge.com/pin/8563) — [source page](https://playground.nothing.tech/apps)
+
+[![Nothing Playground](https://pin.fontofweb.com/8562?format=jpg)](https://design.withfudge.com/pin/8562)
+[Nothing Playground](https://design.withfudge.com/pin/8562) — [source page](https://playground.nothing.tech/builder)
+
+[![Nothing Playground](https://pin.fontofweb.com/8560?format=jpg)](https://design.withfudge.com/pin/8560)
+[Nothing Playground](https://design.withfudge.com/pin/8560) — [source page](https://playground.nothing.tech/)
+
+[![HipRapHop Open by Charles TM - Nothing Playground](https://pin.fontofweb.com/8559?format=jpg)](https://design.withfudge.com/pin/8559)
+[HipRapHop Open by Charles TM - Nothing Playground](https://design.withfudge.com/pin/8559) — [source page](https://playground.nothing.tech/detail/eq/x8UeiIlHHUPm93qp)
+
+[![Nothing Playground](https://pin.fontofweb.com/8558?format=jpg)](https://design.withfudge.com/pin/8558)
+[Nothing Playground](https://design.withfudge.com/pin/8558) — [source page](https://playground.nothing.tech/)
+
+[![Nothing Playground](https://pin.fontofweb.com/8557?format=jpg)](https://design.withfudge.com/pin/8557)
+[Nothing Playground](https://design.withfudge.com/pin/8557) — [source page](https://playground.nothing.tech/)
+
+[![Nothing Playground](https://pin.fontofweb.com/8556?format=jpg)](https://design.withfudge.com/pin/8556)
+[Nothing Playground](https://design.withfudge.com/pin/8556) — [source page](https://playground.nothing.tech/)

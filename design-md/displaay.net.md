@@ -6,6 +6,10 @@ Source domain: [displaay.net](https://displaay.net)
 
 Last updated: 2026-06-13
 
+<!--
+coverPin: 9585
+-->
+
 Here is the visual system observed across **2 captured pages** from [displaay.net](https://displaay.net).
 
 ```fudge-colors
@@ -117,6 +121,9 @@ Here is the visual system observed across **2 captured pages** from [displaay.ne
 }
 ```
 
-## References
-- [Season - Displaay Type Foundry](https://design.withfudge.com/pin/9585) — [source page](https://displaay.net/typeface/season)
-- [Matter - Displaay Type Foundry](https://design.withfudge.com/pin/3164) — [source page](https://displaay.net/typeface/matter)
+## Representative captures
+[![Season - Displaay Type Foundry](https://pin.fontofweb.com/9585?format=jpg)](https://design.withfudge.com/pin/9585)
+[Season - Displaay Type Foundry](https://design.withfudge.com/pin/9585) — [source page](https://displaay.net/typeface/season)
+
+[![Matter - Displaay Type Foundry](https://pin.fontofweb.com/3164?format=jpg)](https://design.withfudge.com/pin/3164)
+[Matter - Displaay Type Foundry](https://design.withfudge.com/pin/3164) — [source page](https://displaay.net/typeface/matter)

@@ -6,6 +6,10 @@ Source domain: [seriot.ch](https://seriot.ch)
 
 Last updated: 2026-05-25
 
+<!--
+coverPin: 9454
+-->
+
 Here is the visual system observed across **1 captured page** from [seriot.ch](https://seriot.ch).
 
 ```fudge-colors
@@ -133,5 +137,6 @@ Here is the visual system observed across **1 captured page** from [seriot.ch](h
 }
 ```
 
-## References
-- [Jira IS Turing-Complete](https://design.withfudge.com/pin/9454) — [source page](https://seriot.ch/computation/jira.html)
+## Representative captures
+[![Jira IS Turing-Complete](https://pin.fontofweb.com/9454?format=jpg)](https://design.withfudge.com/pin/9454)
+[Jira IS Turing-Complete](https://design.withfudge.com/pin/9454) — [source page](https://seriot.ch/computation/jira.html)

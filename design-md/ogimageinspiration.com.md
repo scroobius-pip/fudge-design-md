@@ -6,6 +6,10 @@ Source domain: [ogimageinspiration.com](https://ogimageinspiration.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7422
+-->
+
 Here is the visual system observed across **1 captured page** from [ogimageinspiration.com](https://ogimageinspiration.com).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [ogimageinspi
 }
 ```
 
-## References
-- [Open Graph Image Inspiration](https://design.withfudge.com/pin/7422) — [source page](https://ogimageinspiration.com/)
+## Representative captures
+[![Open Graph Image Inspiration](https://pin.fontofweb.com/7422?format=jpg)](https://design.withfudge.com/pin/7422)
+[Open Graph Image Inspiration](https://design.withfudge.com/pin/7422) — [source page](https://ogimageinspiration.com/)

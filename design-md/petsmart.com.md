@@ -6,6 +6,10 @@ Source domain: [petsmart.com](https://petsmart.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10073
+-->
+
 Here is the visual system observed across **2 captured pages** from [petsmart.com](https://petsmart.com).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [petsmart.co
 }
 ```
 
-## References
-- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10073) — [source page](https://petsmart.com/)
-- [Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10072) — [source page](https://petsmart.com/)
+## Representative captures
+[![Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://pin.fontofweb.com/10073?format=jpg)](https://design.withfudge.com/pin/10073)
+[Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10073) — [source page](https://petsmart.com/)
+
+[![Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://pin.fontofweb.com/10072?format=jpg)](https://design.withfudge.com/pin/10072)
+[Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart](https://design.withfudge.com/pin/10072) — [source page](https://petsmart.com/)

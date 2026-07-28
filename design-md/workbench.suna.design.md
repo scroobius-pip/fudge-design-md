@@ -6,6 +6,10 @@ Source domain: [workbench.suna.design](https://workbench.suna.design)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8419
+-->
+
 Here is the visual system observed across **2 captured pages** from [workbench.suna.design](https://workbench.suna.design).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [workbench.s
 }
 ```
 
-## References
-- [Workbench](https://design.withfudge.com/pin/8419) — [source page](https://workbench.suna.design/apps/particle)
-- [Workbench](https://design.withfudge.com/pin/8418) — [source page](https://workbench.suna.design/)
+## Representative captures
+[![Workbench](https://pin.fontofweb.com/8419?format=jpg)](https://design.withfudge.com/pin/8419)
+[Workbench](https://design.withfudge.com/pin/8419) — [source page](https://workbench.suna.design/apps/particle)
+
+[![Workbench](https://pin.fontofweb.com/8418?format=jpg)](https://design.withfudge.com/pin/8418)
+[Workbench](https://design.withfudge.com/pin/8418) — [source page](https://workbench.suna.design/)

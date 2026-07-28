@@ -6,6 +6,10 @@ Source domain: [fonts.floriankarsten.com](https://fonts.floriankarsten.com)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8359
+-->
+
 Here is the visual system observed across **3 captured pages** from [fonts.floriankarsten.com](https://fonts.floriankarsten.com).
 
 ```fudge-colors
@@ -126,7 +130,12 @@ Here is the visual system observed across **3 captured pages** from [fonts.flori
 }
 ```
 
-## References
-- [FAQ | Florian Karsten Typefaces](https://design.withfudge.com/pin/8359) — [source page](https://fonts.floriankarsten.com/faq)
-- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8358) — [source page](https://fonts.floriankarsten.com/)
-- [Florian Karsten Typefaces](https://design.withfudge.com/pin/8357) — [source page](https://fonts.floriankarsten.com/)
+## Representative captures
+[![FAQ | Florian Karsten Typefaces](https://pin.fontofweb.com/8359?format=jpg)](https://design.withfudge.com/pin/8359)
+[FAQ | Florian Karsten Typefaces](https://design.withfudge.com/pin/8359) — [source page](https://fonts.floriankarsten.com/faq)
+
+[![Florian Karsten Typefaces](https://pin.fontofweb.com/8358?format=jpg)](https://design.withfudge.com/pin/8358)
+[Florian Karsten Typefaces](https://design.withfudge.com/pin/8358) — [source page](https://fonts.floriankarsten.com/)
+
+[![Florian Karsten Typefaces](https://pin.fontofweb.com/8357?format=jpg)](https://design.withfudge.com/pin/8357)
+[Florian Karsten Typefaces](https://design.withfudge.com/pin/8357) — [source page](https://fonts.floriankarsten.com/)

@@ -6,6 +6,10 @@ Source domain: [porkbun.com](https://porkbun.com)
 
 Last updated: 2026-03-24
 
+<!--
+coverPin: 8324
+-->
+
 Here is the visual system observed across **5 captured pages** from [porkbun.com](https://porkbun.com).
 
 ```fudge-colors
@@ -181,9 +185,18 @@ Here is the visual system observed across **5 captured pages** from [porkbun.com
 }
 ```
 
-## References
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/8324) — [source page](https://porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5321) — [source page](https://porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5320) — [source page](https://porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5319) — [source page](https://porkbun.com/)
-- [porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5318) — [source page](https://porkbun.com/)
+## Representative captures
+[![porkbun.com | An oddly satisfying experience.](https://pin.fontofweb.com/8324?format=jpg)](https://design.withfudge.com/pin/8324)
+[porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/8324) — [source page](https://porkbun.com/)
+
+[![porkbun.com | An oddly satisfying experience.](https://pin.fontofweb.com/5321?format=jpg)](https://design.withfudge.com/pin/5321)
+[porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5321) — [source page](https://porkbun.com/)
+
+[![porkbun.com | An oddly satisfying experience.](https://pin.fontofweb.com/5320?format=jpg)](https://design.withfudge.com/pin/5320)
+[porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5320) — [source page](https://porkbun.com/)
+
+[![porkbun.com | An oddly satisfying experience.](https://pin.fontofweb.com/5319?format=jpg)](https://design.withfudge.com/pin/5319)
+[porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5319) — [source page](https://porkbun.com/)
+
+[![porkbun.com | An oddly satisfying experience.](https://pin.fontofweb.com/5318?format=jpg)](https://design.withfudge.com/pin/5318)
+[porkbun.com | An oddly satisfying experience.](https://design.withfudge.com/pin/5318) — [source page](https://porkbun.com/)

@@ -6,6 +6,10 @@ Source domain: [symbl.space](https://symbl.space)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8200
+-->
+
 Here is the visual system observed across **2 captured pages** from [symbl.space](https://symbl.space).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [symbl.space
 }
 ```
 
-## References
-- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8200) — [source page](https://symbl.space/)
-- [Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8199) — [source page](https://symbl.space/)
+## Representative captures
+[![Symbl — Test your logo before the world does](https://pin.fontofweb.com/8200?format=jpg)](https://design.withfudge.com/pin/8200)
+[Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8200) — [source page](https://symbl.space/)
+
+[![Symbl — Test your logo before the world does](https://pin.fontofweb.com/8199?format=jpg)](https://design.withfudge.com/pin/8199)
+[Symbl — Test your logo before the world does](https://design.withfudge.com/pin/8199) — [source page](https://symbl.space/)

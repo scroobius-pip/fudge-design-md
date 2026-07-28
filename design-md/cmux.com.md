@@ -6,6 +6,10 @@ Source domain: [cmux.com](https://cmux.com)
 
 Last updated: 2026-05-23
 
+<!--
+coverPin: 9450
+-->
+
 Here is the visual system observed across **4 captured pages** from [cmux.com](https://cmux.com).
 
 ```fudge-colors
@@ -177,8 +181,15 @@ Here is the visual system observed across **4 captured pages** from [cmux.com](h
 }
 ```
 
-## References
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9450) — [source page](https://cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9449) — [source page](https://cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9448) — [source page](https://cmux.com/)
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9447) — [source page](https://cmux.com/)
+## Representative captures
+[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9450?format=jpg)](https://design.withfudge.com/pin/9450)
+[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9450) — [source page](https://cmux.com/)
+
+[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9449?format=jpg)](https://design.withfudge.com/pin/9449)
+[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9449) — [source page](https://cmux.com/)
+
+[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9448?format=jpg)](https://design.withfudge.com/pin/9448)
+[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9448) — [source page](https://cmux.com/)
+
+[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/9447?format=jpg)](https://design.withfudge.com/pin/9447)
+[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/9447) — [source page](https://cmux.com/)

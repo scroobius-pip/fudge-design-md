@@ -6,6 +6,10 @@ Source domain: [openreview.net](https://openreview.net)
 
 Last updated: 2026-07-06
 
+<!--
+coverPin: 9915
+-->
+
 Here is the visual system observed across **1 captured page** from [openreview.net](https://openreview.net).
 
 ```fudge-colors
@@ -135,5 +139,6 @@ Here is the visual system observed across **1 captured page** from [openreview.n
 }
 ```
 
-## References
-- [Can Large Language Models Understand Symbolic Graphics Programs? | OpenReview](https://design.withfudge.com/pin/9915) — [source page](https://openreview.net/forum)
+## Representative captures
+[![Can Large Language Models Understand Symbolic Graphics Programs? | OpenReview](https://pin.fontofweb.com/9915?format=jpg)](https://design.withfudge.com/pin/9915)
+[Can Large Language Models Understand Symbolic Graphics Programs? | OpenReview](https://design.withfudge.com/pin/9915) — [source page](https://openreview.net/forum)

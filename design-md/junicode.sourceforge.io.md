@@ -6,6 +6,10 @@ Source domain: [junicode.sourceforge.io](https://junicode.sourceforge.io)
 
 Last updated: 2026-01-22
 
+<!--
+coverPin: 5992
+-->
+
 Here is the visual system observed across **1 captured page** from [junicode.sourceforge.io](https://junicode.sourceforge.io).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [junicode.sou
 }
 ```
 
-## References
-- [Junicode](https://design.withfudge.com/pin/5992) — [source page](https://junicode.sourceforge.io/)
+## Representative captures
+[![Junicode](https://pin.fontofweb.com/5992?format=jpg)](https://design.withfudge.com/pin/5992)
+[Junicode](https://design.withfudge.com/pin/5992) — [source page](https://junicode.sourceforge.io/)

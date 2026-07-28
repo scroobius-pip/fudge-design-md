@@ -6,6 +6,10 @@ Source domain: [triangle-studio.co.kr](https://triangle-studio.co.kr)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10305
+-->
+
 Here is the visual system observed across **15 captured pages** from [triangle-studio.co.kr](https://triangle-studio.co.kr).
 
 ```fudge-colors
@@ -353,12 +357,27 @@ Here is the visual system observed across **15 captured pages** from [triangle-s
 }
 ```
 
-## References
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10305) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10304) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10303) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10302) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10301) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10300) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10299) — [source page](https://triangle-studio.co.kr/)
-- [TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10298) — [source page](https://triangle-studio.co.kr/)
+## Representative captures
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10305?format=jpg)](https://design.withfudge.com/pin/10305)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10305) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10304?format=jpg)](https://design.withfudge.com/pin/10304)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10304) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10303?format=jpg)](https://design.withfudge.com/pin/10303)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10303) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10302?format=jpg)](https://design.withfudge.com/pin/10302)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10302) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10301?format=jpg)](https://design.withfudge.com/pin/10301)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10301) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://pin.fontofweb.com/10300?format=jpg)](https://design.withfudge.com/pin/10300)
+[TRIANGLE-STUDIO | 한국문화예술교육진흥원 팬더믹 대응과 창의적 선택 사이](https://design.withfudge.com/pin/10300) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://pin.fontofweb.com/10299?format=jpg)](https://design.withfudge.com/pin/10299)
+[TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10299) — [source page](https://triangle-studio.co.kr/)
+
+[![TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://pin.fontofweb.com/10298?format=jpg)](https://design.withfudge.com/pin/10298)
+[TRIANGLE-STUDIO | Unfold X 2024 Book Design](https://design.withfudge.com/pin/10298) — [source page](https://triangle-studio.co.kr/)

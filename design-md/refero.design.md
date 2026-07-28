@@ -6,6 +6,10 @@ Source domain: [refero.design](https://refero.design)
 
 Last updated: 2026-06-29
 
+<!--
+coverPin: 9837
+-->
+
 Here is the visual system observed across **14 captured pages** from [refero.design](https://refero.design).
 
 ```fudge-colors
@@ -396,12 +400,27 @@ Here is the visual system observed across **14 captured pages** from [refero.des
 }
 ```
 
-## References
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9837) — [source page](https://refero.design/)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9685) — [source page](https://refero.design/)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9684) — [source page](https://refero.design/research/389302d4-86d9-497e-b0ef-af9e6e1b618a)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9683) — [source page](https://refero.design/)
-- [Refero — Search](https://design.withfudge.com/pin/7625) — [source page](https://refero.design/search)
-- [Refero — Search](https://design.withfudge.com/pin/7624) — [source page](https://refero.design/search)
-- [Refero — Search | iOS | | Billing & Plans](https://design.withfudge.com/pin/7623) — [source page](https://refero.design/apps/search)
-- [Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/7622) — [source page](https://refero.design/)
+## Representative captures
+[![Refero — UI/UX Design Inspiration for Your Next Project](https://pin.fontofweb.com/9837?format=jpg)](https://design.withfudge.com/pin/9837)
+[Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9837) — [source page](https://refero.design/)
+
+[![Refero — UI/UX Design Inspiration for Your Next Project](https://pin.fontofweb.com/9685?format=jpg)](https://design.withfudge.com/pin/9685)
+[Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9685) — [source page](https://refero.design/)
+
+[![Refero — UI/UX Design Inspiration for Your Next Project](https://pin.fontofweb.com/9684?format=jpg)](https://design.withfudge.com/pin/9684)
+[Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9684) — [source page](https://refero.design/research/389302d4-86d9-497e-b0ef-af9e6e1b618a)
+
+[![Refero — UI/UX Design Inspiration for Your Next Project](https://pin.fontofweb.com/9683?format=jpg)](https://design.withfudge.com/pin/9683)
+[Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/9683) — [source page](https://refero.design/)
+
+[![Refero — Search](https://pin.fontofweb.com/7625?format=jpg)](https://design.withfudge.com/pin/7625)
+[Refero — Search](https://design.withfudge.com/pin/7625) — [source page](https://refero.design/search)
+
+[![Refero — Search](https://pin.fontofweb.com/7624?format=jpg)](https://design.withfudge.com/pin/7624)
+[Refero — Search](https://design.withfudge.com/pin/7624) — [source page](https://refero.design/search)
+
+[![Refero — Search | iOS | | Billing & Plans](https://pin.fontofweb.com/7623?format=jpg)](https://design.withfudge.com/pin/7623)
+[Refero — Search | iOS | | Billing & Plans](https://design.withfudge.com/pin/7623) — [source page](https://refero.design/apps/search)
+
+[![Refero — UI/UX Design Inspiration for Your Next Project](https://pin.fontofweb.com/7622?format=jpg)](https://design.withfudge.com/pin/7622)
+[Refero — UI/UX Design Inspiration for Your Next Project](https://design.withfudge.com/pin/7622) — [source page](https://refero.design/)

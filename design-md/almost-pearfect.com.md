@@ -6,6 +6,10 @@ Source domain: [almost-pearfect.com](https://almost-pearfect.com)
 
 Last updated: 2026-04-03
 
+<!--
+coverPin: 8639
+-->
+
 Here is the visual system observed across **11 captured pages** from [almost-pearfect.com](https://almost-pearfect.com).
 
 ```fudge-colors
@@ -329,12 +333,27 @@ Here is the visual system observed across **11 captured pages** from [almost-pea
 }
 ```
 
-## References
-- [PEARFECT](https://design.withfudge.com/pin/8639) — [source page](https://almost-pearfect.com/)
-- [PEARFECT — menu](https://design.withfudge.com/pin/8638) — [source page](https://almost-pearfect.com/menu/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8637) — [source page](https://almost-pearfect.com/shop/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8636) — [source page](https://almost-pearfect.com/shop/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8635) — [source page](https://almost-pearfect.com/shop/)
-- [PEARFECT](https://design.withfudge.com/pin/8634) — [source page](https://almost-pearfect.com/)
-- [PEARFECT](https://design.withfudge.com/pin/8626) — [source page](https://almost-pearfect.com/)
-- [PEARFECT — shop](https://design.withfudge.com/pin/8625) — [source page](https://almost-pearfect.com/shopen/)
+## Representative captures
+[![PEARFECT](https://pin.fontofweb.com/8639?format=jpg)](https://design.withfudge.com/pin/8639)
+[PEARFECT](https://design.withfudge.com/pin/8639) — [source page](https://almost-pearfect.com/)
+
+[![PEARFECT — menu](https://pin.fontofweb.com/8638?format=jpg)](https://design.withfudge.com/pin/8638)
+[PEARFECT — menu](https://design.withfudge.com/pin/8638) — [source page](https://almost-pearfect.com/menu/)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8637?format=jpg)](https://design.withfudge.com/pin/8637)
+[PEARFECT — shop](https://design.withfudge.com/pin/8637) — [source page](https://almost-pearfect.com/shop/)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8636?format=jpg)](https://design.withfudge.com/pin/8636)
+[PEARFECT — shop](https://design.withfudge.com/pin/8636) — [source page](https://almost-pearfect.com/shop/)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8635?format=jpg)](https://design.withfudge.com/pin/8635)
+[PEARFECT — shop](https://design.withfudge.com/pin/8635) — [source page](https://almost-pearfect.com/shop/)
+
+[![PEARFECT](https://pin.fontofweb.com/8634?format=jpg)](https://design.withfudge.com/pin/8634)
+[PEARFECT](https://design.withfudge.com/pin/8634) — [source page](https://almost-pearfect.com/)
+
+[![PEARFECT](https://pin.fontofweb.com/8626?format=jpg)](https://design.withfudge.com/pin/8626)
+[PEARFECT](https://design.withfudge.com/pin/8626) — [source page](https://almost-pearfect.com/)
+
+[![PEARFECT — shop](https://pin.fontofweb.com/8625?format=jpg)](https://design.withfudge.com/pin/8625)
+[PEARFECT — shop](https://design.withfudge.com/pin/8625) — [source page](https://almost-pearfect.com/shopen/)

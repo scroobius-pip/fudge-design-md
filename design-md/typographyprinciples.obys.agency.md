@@ -6,6 +6,10 @@ Source domain: [typographyprinciples.obys.agency](https://typographyprinciples.o
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7785
+-->
+
 Here is the visual system observed across **9 captured pages** from [typographyprinciples.obys.agency](https://typographyprinciples.obys.agency).
 
 ```fudge-colors
@@ -300,12 +304,27 @@ Here is the visual system observed across **9 captured pages** from [typographyp
 }
 ```
 
-## References
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7785) — [source page](https://typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7784) — [source page](https://typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7783) — [source page](https://typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Contrast](https://design.withfudge.com/pin/7782) — [source page](https://typographyprinciples.obys.agency/contrast/)
-- [Typography Principles — Intro_Alignments](https://design.withfudge.com/pin/7781) — [source page](https://typographyprinciples.obys.agency/intro_alignments/)
-- [Typography Principles](https://design.withfudge.com/pin/7780) — [source page](https://typographyprinciples.obys.agency/)
-- [Typography Principles — Fonts](https://design.withfudge.com/pin/7779) — [source page](https://typographyprinciples.obys.agency/fonts/)
-- [Typography Principles](https://design.withfudge.com/pin/7778) — [source page](https://typographyprinciples.obys.agency/)
+## Representative captures
+[![Typography Principles — Contrast](https://pin.fontofweb.com/7785?format=jpg)](https://design.withfudge.com/pin/7785)
+[Typography Principles — Contrast](https://design.withfudge.com/pin/7785) — [source page](https://typographyprinciples.obys.agency/contrast/)
+
+[![Typography Principles — Contrast](https://pin.fontofweb.com/7784?format=jpg)](https://design.withfudge.com/pin/7784)
+[Typography Principles — Contrast](https://design.withfudge.com/pin/7784) — [source page](https://typographyprinciples.obys.agency/contrast/)
+
+[![Typography Principles — Contrast](https://pin.fontofweb.com/7783?format=jpg)](https://design.withfudge.com/pin/7783)
+[Typography Principles — Contrast](https://design.withfudge.com/pin/7783) — [source page](https://typographyprinciples.obys.agency/contrast/)
+
+[![Typography Principles — Contrast](https://pin.fontofweb.com/7782?format=jpg)](https://design.withfudge.com/pin/7782)
+[Typography Principles — Contrast](https://design.withfudge.com/pin/7782) — [source page](https://typographyprinciples.obys.agency/contrast/)
+
+[![Typography Principles — Intro_Alignments](https://pin.fontofweb.com/7781?format=jpg)](https://design.withfudge.com/pin/7781)
+[Typography Principles — Intro_Alignments](https://design.withfudge.com/pin/7781) — [source page](https://typographyprinciples.obys.agency/intro_alignments/)
+
+[![Typography Principles](https://pin.fontofweb.com/7780?format=jpg)](https://design.withfudge.com/pin/7780)
+[Typography Principles](https://design.withfudge.com/pin/7780) — [source page](https://typographyprinciples.obys.agency/)
+
+[![Typography Principles — Fonts](https://pin.fontofweb.com/7779?format=jpg)](https://design.withfudge.com/pin/7779)
+[Typography Principles — Fonts](https://design.withfudge.com/pin/7779) — [source page](https://typographyprinciples.obys.agency/fonts/)
+
+[![Typography Principles](https://pin.fontofweb.com/7778?format=jpg)](https://design.withfudge.com/pin/7778)
+[Typography Principles](https://design.withfudge.com/pin/7778) — [source page](https://typographyprinciples.obys.agency/)

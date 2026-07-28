@@ -6,6 +6,10 @@ Source domain: [anthropic.com](https://anthropic.com)
 
 Last updated: 2026-06-04
 
+<!--
+coverPin: 9505
+-->
+
 Here is the visual system observed across **40 captured pages** from [anthropic.com](https://anthropic.com).
 
 ```fudge-colors
@@ -320,12 +324,27 @@ Here is the visual system observed across **40 captured pages** from [anthropic.
 }
 ```
 
-## References
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9505) — [source page](https://anthropic.com/institute/recursive-self-improvement)
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9504) — [source page](https://anthropic.com/institute/recursive-self-improvement)
-- [When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9503) — [source page](https://anthropic.com/institute/recursive-self-improvement)
-- [Harness design for long-running application development \ Anthropic](https://design.withfudge.com/pin/8483) — [source page](https://anthropic.com/engineering/harness-design-long-running-apps)
-- [Home \ Anthropic](https://design.withfudge.com/pin/6290) — [source page](https://anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5069) — [source page](https://anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5068) — [source page](https://anthropic.com/)
-- [Home \ Anthropic](https://design.withfudge.com/pin/5067) — [source page](https://anthropic.com/)
+## Representative captures
+[![When AI builds itself \ Anthropic](https://pin.fontofweb.com/9505?format=jpg)](https://design.withfudge.com/pin/9505)
+[When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9505) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+
+[![When AI builds itself \ Anthropic](https://pin.fontofweb.com/9504?format=jpg)](https://design.withfudge.com/pin/9504)
+[When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9504) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+
+[![When AI builds itself \ Anthropic](https://pin.fontofweb.com/9503?format=jpg)](https://design.withfudge.com/pin/9503)
+[When AI builds itself \ Anthropic](https://design.withfudge.com/pin/9503) — [source page](https://anthropic.com/institute/recursive-self-improvement)
+
+[![Harness design for long-running application development \ Anthropic](https://pin.fontofweb.com/8483?format=jpg)](https://design.withfudge.com/pin/8483)
+[Harness design for long-running application development \ Anthropic](https://design.withfudge.com/pin/8483) — [source page](https://anthropic.com/engineering/harness-design-long-running-apps)
+
+[![Home \ Anthropic](https://pin.fontofweb.com/6290?format=jpg)](https://design.withfudge.com/pin/6290)
+[Home \ Anthropic](https://design.withfudge.com/pin/6290) — [source page](https://anthropic.com/)
+
+[![Home \ Anthropic](https://pin.fontofweb.com/5069?format=jpg)](https://design.withfudge.com/pin/5069)
+[Home \ Anthropic](https://design.withfudge.com/pin/5069) — [source page](https://anthropic.com/)
+
+[![Home \ Anthropic](https://pin.fontofweb.com/5068?format=jpg)](https://design.withfudge.com/pin/5068)
+[Home \ Anthropic](https://design.withfudge.com/pin/5068) — [source page](https://anthropic.com/)
+
+[![Home \ Anthropic](https://pin.fontofweb.com/5067?format=jpg)](https://design.withfudge.com/pin/5067)
+[Home \ Anthropic](https://design.withfudge.com/pin/5067) — [source page](https://anthropic.com/)

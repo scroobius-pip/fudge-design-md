@@ -6,6 +6,10 @@ Source domain: [ls.graphics](https://ls.graphics)
 
 Last updated: 2026-07-01
 
+<!--
+coverPin: 9891
+-->
+
 Here is the visual system observed across **1 captured page** from [ls.graphics](https://ls.graphics).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [ls.graphics]
 }
 ```
 
-## References
-- [Highest quality mockups for graphic and UI designers](https://design.withfudge.com/pin/9891) — [source page](https://ls.graphics/)
+## Representative captures
+[![Highest quality mockups for graphic and UI designers](https://pin.fontofweb.com/9891?format=jpg)](https://design.withfudge.com/pin/9891)
+[Highest quality mockups for graphic and UI designers](https://design.withfudge.com/pin/9891) — [source page](https://ls.graphics/)

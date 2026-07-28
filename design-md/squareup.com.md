@@ -6,6 +6,10 @@ Source domain: [squareup.com](https://squareup.com)
 
 Last updated: 2026-06-19
 
+<!--
+coverPin: 9723
+-->
+
 Here is the visual system observed across **8 captured pages** from [squareup.com](https://squareup.com).
 
 ```fudge-colors
@@ -324,12 +328,27 @@ Here is the visual system observed across **8 captured pages** from [squareup.co
 }
 ```
 
-## References
-- [Power your entire business | Square](https://design.withfudge.com/pin/9723) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9722) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9721) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9720) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9719) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9718) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9717) — [source page](https://squareup.com/us/en)
-- [Power your entire business | Square](https://design.withfudge.com/pin/9716) — [source page](https://squareup.com/us/en)
+## Representative captures
+[![Power your entire business | Square](https://pin.fontofweb.com/9723?format=jpg)](https://design.withfudge.com/pin/9723)
+[Power your entire business | Square](https://design.withfudge.com/pin/9723) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9722?format=jpg)](https://design.withfudge.com/pin/9722)
+[Power your entire business | Square](https://design.withfudge.com/pin/9722) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9721?format=jpg)](https://design.withfudge.com/pin/9721)
+[Power your entire business | Square](https://design.withfudge.com/pin/9721) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9720?format=jpg)](https://design.withfudge.com/pin/9720)
+[Power your entire business | Square](https://design.withfudge.com/pin/9720) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9719?format=jpg)](https://design.withfudge.com/pin/9719)
+[Power your entire business | Square](https://design.withfudge.com/pin/9719) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9718?format=jpg)](https://design.withfudge.com/pin/9718)
+[Power your entire business | Square](https://design.withfudge.com/pin/9718) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9717?format=jpg)](https://design.withfudge.com/pin/9717)
+[Power your entire business | Square](https://design.withfudge.com/pin/9717) — [source page](https://squareup.com/us/en)
+
+[![Power your entire business | Square](https://pin.fontofweb.com/9716?format=jpg)](https://design.withfudge.com/pin/9716)
+[Power your entire business | Square](https://design.withfudge.com/pin/9716) — [source page](https://squareup.com/us/en)

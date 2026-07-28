@@ -6,6 +6,10 @@ Source domain: [warpstream.com](https://warpstream.com)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7592
+-->
+
 Here is the visual system observed across **1 captured page** from [warpstream.com](https://warpstream.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [warpstream.c
 }
 ```
 
-## References
-- [WarpStream - The Diskless, Kafka-Compatible Data Streaming Platform](https://design.withfudge.com/pin/7592) — [source page](https://warpstream.com/)
+## Representative captures
+[![WarpStream - The Diskless, Kafka-Compatible Data Streaming Platform](https://pin.fontofweb.com/7592?format=jpg)](https://design.withfudge.com/pin/7592)
+[WarpStream - The Diskless, Kafka-Compatible Data Streaming Platform](https://design.withfudge.com/pin/7592) — [source page](https://warpstream.com/)

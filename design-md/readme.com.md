@@ -6,6 +6,10 @@ Source domain: [readme.com](https://readme.com)
 
 Last updated: 2026-05-08
 
+<!--
+coverPin: 9199
+-->
+
 Here is the visual system observed across **1 captured page** from [readme.com](https://readme.com).
 
 ```fudge-colors
@@ -105,5 +109,6 @@ Here is the visual system observed across **1 captured page** from [readme.com](
 }
 ```
 
-## References
-- [ReadMe · Developer-friendly API documentation](https://design.withfudge.com/pin/9199) — [source page](https://readme.com/)
+## Representative captures
+[![ReadMe · Developer-friendly API documentation](https://pin.fontofweb.com/9199?format=jpg)](https://design.withfudge.com/pin/9199)
+[ReadMe · Developer-friendly API documentation](https://design.withfudge.com/pin/9199) — [source page](https://readme.com/)

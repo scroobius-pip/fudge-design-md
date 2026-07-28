@@ -6,6 +6,10 @@ Source domain: [interfacer.co](https://interfacer.co)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8542
+-->
+
 Here is the visual system observed across **1 captured page** from [interfacer.co](https://interfacer.co).
 
 ```fudge-colors
@@ -110,5 +114,6 @@ Here is the visual system observed across **1 captured page** from [interfacer.c
 }
 ```
 
-## References
-- [INTERFACER. the design studio.](https://design.withfudge.com/pin/8542) — [source page](https://interfacer.co/)
+## Representative captures
+[![INTERFACER. the design studio.](https://pin.fontofweb.com/8542?format=jpg)](https://design.withfudge.com/pin/8542)
+[INTERFACER. the design studio.](https://design.withfudge.com/pin/8542) — [source page](https://interfacer.co/)

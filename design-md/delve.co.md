@@ -6,6 +6,10 @@ Source domain: [delve.co](https://delve.co)
 
 Last updated: 2026-03-21
 
+<!--
+coverPin: 8219
+-->
+
 Here is the visual system observed across **2 captured pages** from [delve.co](https://delve.co).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [delve.co](h
 }
 ```
 
-## References
-- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8219) — [source page](https://delve.co/)
-- [Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8218) — [source page](https://delve.co/)
+## Representative captures
+[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8219?format=jpg)](https://design.withfudge.com/pin/8219)
+[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8219) — [source page](https://delve.co/)
+
+[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8218?format=jpg)](https://design.withfudge.com/pin/8218)
+[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/pin/8218) — [source page](https://delve.co/)

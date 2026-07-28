@@ -6,6 +6,10 @@ Source domain: [pentagram.com](https://pentagram.com)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8273
+-->
+
 Here is the visual system observed across **16 captured pages** from [pentagram.com](https://pentagram.com).
 
 ```fudge-colors
@@ -307,12 +311,27 @@ Here is the visual system observed across **16 captured pages** from [pentagram.
 }
 ```
 
-## References
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8273) — [source page](https://pentagram.com/)
-- [Contact](https://design.withfudge.com/pin/8272) — [source page](https://pentagram.com/contact)
-- [News](https://design.withfudge.com/pin/8271) — [source page](https://pentagram.com/news)
-- [About](https://design.withfudge.com/pin/8270) — [source page](https://pentagram.com/about)
-- [About](https://design.withfudge.com/pin/8269) — [source page](https://pentagram.com/about)
-- [Loka Chai Maker](https://design.withfudge.com/pin/8268) — [source page](https://pentagram.com/work/loka-chai-maker)
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8267) — [source page](https://pentagram.com/)
-- [Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8266) — [source page](https://pentagram.com/)
+## Representative captures
+[![Pentagram — The world’s largest independent design consultancy](https://pin.fontofweb.com/8273?format=jpg)](https://design.withfudge.com/pin/8273)
+[Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8273) — [source page](https://pentagram.com/)
+
+[![Contact](https://pin.fontofweb.com/8272?format=jpg)](https://design.withfudge.com/pin/8272)
+[Contact](https://design.withfudge.com/pin/8272) — [source page](https://pentagram.com/contact)
+
+[![News](https://pin.fontofweb.com/8271?format=jpg)](https://design.withfudge.com/pin/8271)
+[News](https://design.withfudge.com/pin/8271) — [source page](https://pentagram.com/news)
+
+[![About](https://pin.fontofweb.com/8270?format=jpg)](https://design.withfudge.com/pin/8270)
+[About](https://design.withfudge.com/pin/8270) — [source page](https://pentagram.com/about)
+
+[![About](https://pin.fontofweb.com/8269?format=jpg)](https://design.withfudge.com/pin/8269)
+[About](https://design.withfudge.com/pin/8269) — [source page](https://pentagram.com/about)
+
+[![Loka Chai Maker](https://pin.fontofweb.com/8268?format=jpg)](https://design.withfudge.com/pin/8268)
+[Loka Chai Maker](https://design.withfudge.com/pin/8268) — [source page](https://pentagram.com/work/loka-chai-maker)
+
+[![Pentagram — The world’s largest independent design consultancy](https://pin.fontofweb.com/8267?format=jpg)](https://design.withfudge.com/pin/8267)
+[Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8267) — [source page](https://pentagram.com/)
+
+[![Pentagram — The world’s largest independent design consultancy](https://pin.fontofweb.com/8266?format=jpg)](https://design.withfudge.com/pin/8266)
+[Pentagram — The world’s largest independent design consultancy](https://design.withfudge.com/pin/8266) — [source page](https://pentagram.com/)

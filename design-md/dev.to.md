@@ -6,6 +6,10 @@ Source domain: [dev.to](https://dev.to)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9944
+-->
+
 Here is the visual system observed across **1 captured page** from [dev.to](https://dev.to).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [dev.to](http
 }
 ```
 
-## References
-- [DEV Community](https://design.withfudge.com/pin/9944) — [source page](https://dev.to/)
+## Representative captures
+[![DEV Community](https://pin.fontofweb.com/9944?format=jpg)](https://design.withfudge.com/pin/9944)
+[DEV Community](https://design.withfudge.com/pin/9944) — [source page](https://dev.to/)

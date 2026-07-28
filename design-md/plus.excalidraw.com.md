@@ -6,6 +6,10 @@ Source domain: [plus.excalidraw.com](https://plus.excalidraw.com)
 
 Last updated: 2026-03-16
 
+<!--
+coverPin: 8131
+-->
+
 Here is the visual system observed across **6 captured pages** from [plus.excalidraw.com](https://plus.excalidraw.com).
 
 ```fudge-colors
@@ -204,10 +208,21 @@ Here is the visual system observed across **6 captured pages** from [plus.excali
 }
 ```
 
-## References
-- [Security at Excalidraw | Online collaborative whiteboard](https://design.withfudge.com/pin/8131) — [source page](https://plus.excalidraw.com/security-and-compliance)
-- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8130) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
-- [Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8129) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
-- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8128) — [source page](https://plus.excalidraw.com/pricing)
-- [Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8127) — [source page](https://plus.excalidraw.com/pricing)
-- [Excalidraw | Online whiteboard collaboration made easy](https://design.withfudge.com/pin/8126) — [source page](https://plus.excalidraw.com/)
+## Representative captures
+[![Security at Excalidraw | Online collaborative whiteboard](https://pin.fontofweb.com/8131?format=jpg)](https://design.withfudge.com/pin/8131)
+[Security at Excalidraw | Online collaborative whiteboard](https://design.withfudge.com/pin/8131) — [source page](https://plus.excalidraw.com/security-and-compliance)
+
+[![Excalidraw+ for teams | Collaborative workspace made simple](https://pin.fontofweb.com/8130?format=jpg)](https://design.withfudge.com/pin/8130)
+[Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8130) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
+
+[![Excalidraw+ for teams | Collaborative workspace made simple](https://pin.fontofweb.com/8129?format=jpg)](https://design.withfudge.com/pin/8129)
+[Excalidraw+ for teams | Collaborative workspace made simple](https://design.withfudge.com/pin/8129) — [source page](https://plus.excalidraw.com/excalidraw-for-teams)
+
+[![Excalidraw+ Pricing | Online collaborative workspace](https://pin.fontofweb.com/8128?format=jpg)](https://design.withfudge.com/pin/8128)
+[Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8128) — [source page](https://plus.excalidraw.com/pricing)
+
+[![Excalidraw+ Pricing | Online collaborative workspace](https://pin.fontofweb.com/8127?format=jpg)](https://design.withfudge.com/pin/8127)
+[Excalidraw+ Pricing | Online collaborative workspace](https://design.withfudge.com/pin/8127) — [source page](https://plus.excalidraw.com/pricing)
+
+[![Excalidraw | Online whiteboard collaboration made easy](https://pin.fontofweb.com/8126?format=jpg)](https://design.withfudge.com/pin/8126)
+[Excalidraw | Online whiteboard collaboration made easy](https://design.withfudge.com/pin/8126) — [source page](https://plus.excalidraw.com/)

@@ -6,6 +6,10 @@ Source domain: [figma.com](https://figma.com)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8790
+-->
+
 Here is the visual system observed across **48 captured pages** from [figma.com](https://figma.com).
 
 ```fudge-colors
@@ -318,12 +322,27 @@ Here is the visual system observed across **48 captured pages** from [figma.com]
 }
 ```
 
-## References
-- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8790) — [source page](https://figma.com/gallery/)
-- [Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8027) — [source page](https://figma.com/gallery/)
-- [What Is Human-Computer Interaction? | Figma](https://design.withfudge.com/pin/7973) — [source page](https://figma.com/resource-library/human-computer-interaction/)
-- [What is skeuomorphism? | Figma](https://design.withfudge.com/pin/7964) — [source page](https://figma.com/resource-library/what-is-skeuomorphism/)
-- [24 Best Fonts for Websites in 2026 | Figma](https://design.withfudge.com/pin/7963) — [source page](https://figma.com/resource-library/best-fonts-for-websites/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7962) — [source page](https://figma.com/fonts/inter/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7961) — [source page](https://figma.com/fonts/inter/)
-- [Inter Font | Figma](https://design.withfudge.com/pin/7960) — [source page](https://figma.com/fonts/inter/)
+## Representative captures
+[![Figma Make & Sites Gallery | Community AI Projects](https://pin.fontofweb.com/8790?format=jpg)](https://design.withfudge.com/pin/8790)
+[Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8790) — [source page](https://figma.com/gallery/)
+
+[![Figma Make & Sites Gallery | Community AI Projects](https://pin.fontofweb.com/8027?format=jpg)](https://design.withfudge.com/pin/8027)
+[Figma Make & Sites Gallery | Community AI Projects](https://design.withfudge.com/pin/8027) — [source page](https://figma.com/gallery/)
+
+[![What Is Human-Computer Interaction? | Figma](https://pin.fontofweb.com/7973?format=jpg)](https://design.withfudge.com/pin/7973)
+[What Is Human-Computer Interaction? | Figma](https://design.withfudge.com/pin/7973) — [source page](https://figma.com/resource-library/human-computer-interaction/)
+
+[![What is skeuomorphism? | Figma](https://pin.fontofweb.com/7964?format=jpg)](https://design.withfudge.com/pin/7964)
+[What is skeuomorphism? | Figma](https://design.withfudge.com/pin/7964) — [source page](https://figma.com/resource-library/what-is-skeuomorphism/)
+
+[![24 Best Fonts for Websites in 2026 | Figma](https://pin.fontofweb.com/7963?format=jpg)](https://design.withfudge.com/pin/7963)
+[24 Best Fonts for Websites in 2026 | Figma](https://design.withfudge.com/pin/7963) — [source page](https://figma.com/resource-library/best-fonts-for-websites/)
+
+[![Inter Font | Figma](https://pin.fontofweb.com/7962?format=jpg)](https://design.withfudge.com/pin/7962)
+[Inter Font | Figma](https://design.withfudge.com/pin/7962) — [source page](https://figma.com/fonts/inter/)
+
+[![Inter Font | Figma](https://pin.fontofweb.com/7961?format=jpg)](https://design.withfudge.com/pin/7961)
+[Inter Font | Figma](https://design.withfudge.com/pin/7961) — [source page](https://figma.com/fonts/inter/)
+
+[![Inter Font | Figma](https://pin.fontofweb.com/7960?format=jpg)](https://design.withfudge.com/pin/7960)
+[Inter Font | Figma](https://design.withfudge.com/pin/7960) — [source page](https://figma.com/fonts/inter/)

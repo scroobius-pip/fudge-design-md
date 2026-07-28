@@ -6,6 +6,10 @@ Source domain: [kilo.ai](https://kilo.ai)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6963
+-->
+
 Here is the visual system observed across **4 captured pages** from [kilo.ai](https://kilo.ai).
 
 ```fudge-colors
@@ -158,8 +162,15 @@ Here is the visual system observed across **4 captured pages** from [kilo.ai](ht
 }
 ```
 
-## References
-- [Kilo - Cline vs Kilo Code - Multi-Surface AI Orchestration Comparison](https://design.withfudge.com/pin/6963) — [source page](https://kilo.ai/cline)
-- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6432) — [source page](https://kilo.ai/)
-- [Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6431) — [source page](https://kilo.ai/)
-- [Kilo - Install Kilo Code](https://design.withfudge.com/pin/6430) — [source page](https://kilo.ai/install)
+## Representative captures
+[![Kilo - Cline vs Kilo Code - Multi-Surface AI Orchestration Comparison](https://pin.fontofweb.com/6963?format=jpg)](https://design.withfudge.com/pin/6963)
+[Kilo - Cline vs Kilo Code - Multi-Surface AI Orchestration Comparison](https://design.withfudge.com/pin/6963) — [source page](https://kilo.ai/cline)
+
+[![Kilo - Move at Kilo Speed](https://pin.fontofweb.com/6432?format=jpg)](https://design.withfudge.com/pin/6432)
+[Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6432) — [source page](https://kilo.ai/)
+
+[![Kilo - Move at Kilo Speed](https://pin.fontofweb.com/6431?format=jpg)](https://design.withfudge.com/pin/6431)
+[Kilo - Move at Kilo Speed](https://design.withfudge.com/pin/6431) — [source page](https://kilo.ai/)
+
+[![Kilo - Install Kilo Code](https://pin.fontofweb.com/6430?format=jpg)](https://design.withfudge.com/pin/6430)
+[Kilo - Install Kilo Code](https://design.withfudge.com/pin/6430) — [source page](https://kilo.ai/install)

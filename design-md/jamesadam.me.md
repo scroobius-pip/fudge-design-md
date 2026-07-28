@@ -6,6 +6,10 @@ Source domain: [jamesadam.me](https://jamesadam.me)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6344
+-->
+
 Here is the visual system observed across **2 captured pages** from [jamesadam.me](https://jamesadam.me).
 
 ```fudge-colors
@@ -98,6 +102,9 @@ Here is the visual system observed across **2 captured pages** from [jamesadam.m
 }
 ```
 
-## References
-- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6344) — [source page](https://jamesadam.me/blog/introducing-growl/)
-- [Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6343) — [source page](https://jamesadam.me/blog/introducing-growl/)
+## Representative captures
+[![Reasoning with SLOP - James Adam](https://pin.fontofweb.com/6344?format=jpg)](https://design.withfudge.com/pin/6344)
+[Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6344) — [source page](https://jamesadam.me/blog/introducing-growl/)
+
+[![Reasoning with SLOP - James Adam](https://pin.fontofweb.com/6343?format=jpg)](https://design.withfudge.com/pin/6343)
+[Reasoning with SLOP - James Adam](https://design.withfudge.com/pin/6343) — [source page](https://jamesadam.me/blog/introducing-growl/)

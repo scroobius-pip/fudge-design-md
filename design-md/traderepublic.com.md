@@ -6,6 +6,10 @@ Source domain: [traderepublic.com](https://traderepublic.com)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9943
+-->
+
 Here is the visual system observed across **6 captured pages** from [traderepublic.com](https://traderepublic.com).
 
 ```fudge-colors
@@ -221,10 +225,21 @@ Here is the visual system observed across **6 captured pages** from [traderepubl
 }
 ```
 
-## References
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9943) — [source page](https://traderepublic.com/en-de/about)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9942) — [source page](https://traderepublic.com/en-de/about)
-- [Support 24/7: Call and Chat](https://design.withfudge.com/pin/9941) — [source page](https://traderepublic.com/en-de/support)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9940) — [source page](https://traderepublic.com/en-de)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9939) — [source page](https://traderepublic.com/en-de)
-- [Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9938) — [source page](https://traderepublic.com/en-de)
+## Representative captures
+[![Trade Republic. Invest, spend and bank.](https://pin.fontofweb.com/9943?format=jpg)](https://design.withfudge.com/pin/9943)
+[Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9943) — [source page](https://traderepublic.com/en-de/about)
+
+[![Trade Republic. Invest, spend and bank.](https://pin.fontofweb.com/9942?format=jpg)](https://design.withfudge.com/pin/9942)
+[Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9942) — [source page](https://traderepublic.com/en-de/about)
+
+[![Support 24/7: Call and Chat](https://pin.fontofweb.com/9941?format=jpg)](https://design.withfudge.com/pin/9941)
+[Support 24/7: Call and Chat](https://design.withfudge.com/pin/9941) — [source page](https://traderepublic.com/en-de/support)
+
+[![Trade Republic. Invest, spend and bank.](https://pin.fontofweb.com/9940?format=jpg)](https://design.withfudge.com/pin/9940)
+[Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9940) — [source page](https://traderepublic.com/en-de)
+
+[![Trade Republic. Invest, spend and bank.](https://pin.fontofweb.com/9939?format=jpg)](https://design.withfudge.com/pin/9939)
+[Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9939) — [source page](https://traderepublic.com/en-de)
+
+[![Trade Republic. Invest, spend and bank.](https://pin.fontofweb.com/9938?format=jpg)](https://design.withfudge.com/pin/9938)
+[Trade Republic. Invest, spend and bank.](https://design.withfudge.com/pin/9938) — [source page](https://traderepublic.com/en-de)

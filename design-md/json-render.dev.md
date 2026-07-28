@@ -6,6 +6,10 @@ Source domain: [json-render.dev](https://json-render.dev)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7794
+-->
+
 Here is the visual system observed across **1 captured page** from [json-render.dev](https://json-render.dev).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [json-render.
 }
 ```
 
-## References
-- [json-render | The Generative UI Framework](https://design.withfudge.com/pin/7794) — [source page](https://json-render.dev/)
+## Representative captures
+[![json-render | The Generative UI Framework](https://pin.fontofweb.com/7794?format=jpg)](https://design.withfudge.com/pin/7794)
+[json-render | The Generative UI Framework](https://design.withfudge.com/pin/7794) — [source page](https://json-render.dev/)

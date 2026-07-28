@@ -6,6 +6,10 @@ Source domain: [youtube.com](https://youtube.com)
 
 Last updated: 2026-04-30
 
+<!--
+coverPin: 9175
+-->
+
 Here is the visual system observed across **5 captured pages** from [youtube.com](https://youtube.com).
 
 ```fudge-colors
@@ -155,9 +159,18 @@ Here is the visual system observed across **5 captured pages** from [youtube.com
 }
 ```
 
-## References
-- [¿Fue rentable invertir en paneles solares? - YouTube](https://design.withfudge.com/pin/9175) — [source page](https://youtube.com/watch)
-- [The Kidnapped Girl - YouTube](https://design.withfudge.com/pin/8865) — [source page](https://youtube.com/watch)
-- [INTERSTELLAR NO TIME FOR CAUTION THEME ONE HOUR LOOP - YouTube](https://design.withfudge.com/pin/5762) — [source page](https://youtube.com/watch)
-- [Checking Out THE FINALS Halloween Event - ARC Raiders Waiting Room - YouTube](https://design.withfudge.com/pin/3921) — [source page](https://youtube.com/watch)
-- [Font of Web Demo - YouTube](https://design.withfudge.com/pin/1748) — [source page](https://youtube.com/watch)
+## Representative captures
+[![¿Fue rentable invertir en paneles solares? - YouTube](https://pin.fontofweb.com/9175?format=jpg)](https://design.withfudge.com/pin/9175)
+[¿Fue rentable invertir en paneles solares? - YouTube](https://design.withfudge.com/pin/9175) — [source page](https://youtube.com/watch)
+
+[![The Kidnapped Girl - YouTube](https://pin.fontofweb.com/8865?format=jpg)](https://design.withfudge.com/pin/8865)
+[The Kidnapped Girl - YouTube](https://design.withfudge.com/pin/8865) — [source page](https://youtube.com/watch)
+
+[![INTERSTELLAR NO TIME FOR CAUTION THEME ONE HOUR LOOP - YouTube](https://pin.fontofweb.com/5762?format=jpg)](https://design.withfudge.com/pin/5762)
+[INTERSTELLAR NO TIME FOR CAUTION THEME ONE HOUR LOOP - YouTube](https://design.withfudge.com/pin/5762) — [source page](https://youtube.com/watch)
+
+[![Checking Out THE FINALS Halloween Event - ARC Raiders Waiting Room - YouTube](https://pin.fontofweb.com/3921?format=jpg)](https://design.withfudge.com/pin/3921)
+[Checking Out THE FINALS Halloween Event - ARC Raiders Waiting Room - YouTube](https://design.withfudge.com/pin/3921) — [source page](https://youtube.com/watch)
+
+[![Font of Web Demo - YouTube](https://pin.fontofweb.com/1748?format=jpg)](https://design.withfudge.com/pin/1748)
+[Font of Web Demo - YouTube](https://design.withfudge.com/pin/1748) — [source page](https://youtube.com/watch)

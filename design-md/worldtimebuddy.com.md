@@ -6,6 +6,10 @@ Source domain: [worldtimebuddy.com](https://worldtimebuddy.com)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8411
+-->
+
 Here is the visual system observed across **1 captured page** from [worldtimebuddy.com](https://worldtimebuddy.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [worldtimebud
 }
 ```
 
-## References
-- [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://design.withfudge.com/pin/8411) — [source page](https://worldtimebuddy.com/)
+## Representative captures
+[![Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://pin.fontofweb.com/8411?format=jpg)](https://design.withfudge.com/pin/8411)
+[Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://design.withfudge.com/pin/8411) — [source page](https://worldtimebuddy.com/)

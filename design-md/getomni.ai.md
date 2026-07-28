@@ -6,6 +6,10 @@ Source domain: [getomni.ai](https://getomni.ai)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6872
+-->
+
 Here is the visual system observed across **13 captured pages** from [getomni.ai](https://getomni.ai).
 
 ```fudge-colors
@@ -338,12 +342,27 @@ Here is the visual system observed across **13 captured pages** from [getomni.ai
 }
 ```
 
-## References
-- [AI Agents for Lending](https://design.withfudge.com/pin/6872) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6871) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6870) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6869) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6868) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/6867) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/5244) — [source page](https://getomni.ai/)
-- [AI Agents for Lending](https://design.withfudge.com/pin/5243) — [source page](https://getomni.ai/)
+## Representative captures
+[![AI Agents for Lending](https://pin.fontofweb.com/6872?format=jpg)](https://design.withfudge.com/pin/6872)
+[AI Agents for Lending](https://design.withfudge.com/pin/6872) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/6871?format=jpg)](https://design.withfudge.com/pin/6871)
+[AI Agents for Lending](https://design.withfudge.com/pin/6871) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/6870?format=jpg)](https://design.withfudge.com/pin/6870)
+[AI Agents for Lending](https://design.withfudge.com/pin/6870) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/6869?format=jpg)](https://design.withfudge.com/pin/6869)
+[AI Agents for Lending](https://design.withfudge.com/pin/6869) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/6868?format=jpg)](https://design.withfudge.com/pin/6868)
+[AI Agents for Lending](https://design.withfudge.com/pin/6868) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/6867?format=jpg)](https://design.withfudge.com/pin/6867)
+[AI Agents for Lending](https://design.withfudge.com/pin/6867) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/5244?format=jpg)](https://design.withfudge.com/pin/5244)
+[AI Agents for Lending](https://design.withfudge.com/pin/5244) — [source page](https://getomni.ai/)
+
+[![AI Agents for Lending](https://pin.fontofweb.com/5243?format=jpg)](https://design.withfudge.com/pin/5243)
+[AI Agents for Lending](https://design.withfudge.com/pin/5243) — [source page](https://getomni.ai/)

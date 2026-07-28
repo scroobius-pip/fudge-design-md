@@ -6,6 +6,10 @@ Source domain: [dany.works](https://dany.works)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8350
+-->
+
 Here is the visual system observed across **7 captured pages** from [dany.works](https://dany.works).
 
 ```fudge-colors
@@ -202,11 +206,24 @@ Here is the visual system observed across **7 captured pages** from [dany.works]
 }
 ```
 
-## References
-- [dany works on](https://design.withfudge.com/pin/8350) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8349) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8348) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8347) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8346) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8345) — [source page](https://dany.works/)
-- [dany works on](https://design.withfudge.com/pin/8344) — [source page](https://dany.works/)
+## Representative captures
+[![dany works on](https://pin.fontofweb.com/8350?format=jpg)](https://design.withfudge.com/pin/8350)
+[dany works on](https://design.withfudge.com/pin/8350) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8349?format=jpg)](https://design.withfudge.com/pin/8349)
+[dany works on](https://design.withfudge.com/pin/8349) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8348?format=jpg)](https://design.withfudge.com/pin/8348)
+[dany works on](https://design.withfudge.com/pin/8348) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8347?format=jpg)](https://design.withfudge.com/pin/8347)
+[dany works on](https://design.withfudge.com/pin/8347) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8346?format=jpg)](https://design.withfudge.com/pin/8346)
+[dany works on](https://design.withfudge.com/pin/8346) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8345?format=jpg)](https://design.withfudge.com/pin/8345)
+[dany works on](https://design.withfudge.com/pin/8345) — [source page](https://dany.works/)
+
+[![dany works on](https://pin.fontofweb.com/8344?format=jpg)](https://design.withfudge.com/pin/8344)
+[dany works on](https://design.withfudge.com/pin/8344) — [source page](https://dany.works/)

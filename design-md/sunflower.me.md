@@ -6,6 +6,10 @@ Source domain: [sunflower.me](https://sunflower.me)
 
 Last updated: 2026-01-27
 
+<!--
+coverPin: 6008
+-->
+
 Here is the visual system observed across **5 captured pages** from [sunflower.me](https://sunflower.me).
 
 ```fudge-colors
@@ -187,9 +191,18 @@ Here is the visual system observed across **5 captured pages** from [sunflower.m
 }
 ```
 
-## References
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6008) — [source page](https://sunflower.me/success)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6007) — [source page](https://sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6006) — [source page](https://sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6005) — [source page](https://sunflower.me/)
-- [Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6003) — [source page](https://sunflower.me/)
+## Representative captures
+[![Sunflower. An inbox that works, for you.](https://pin.fontofweb.com/6008?format=jpg)](https://design.withfudge.com/pin/6008)
+[Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6008) — [source page](https://sunflower.me/success)
+
+[![Sunflower. An inbox that works, for you.](https://pin.fontofweb.com/6007?format=jpg)](https://design.withfudge.com/pin/6007)
+[Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6007) — [source page](https://sunflower.me/)
+
+[![Sunflower. An inbox that works, for you.](https://pin.fontofweb.com/6006?format=jpg)](https://design.withfudge.com/pin/6006)
+[Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6006) — [source page](https://sunflower.me/)
+
+[![Sunflower. An inbox that works, for you.](https://pin.fontofweb.com/6005?format=jpg)](https://design.withfudge.com/pin/6005)
+[Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6005) — [source page](https://sunflower.me/)
+
+[![Sunflower. An inbox that works, for you.](https://pin.fontofweb.com/6003?format=jpg)](https://design.withfudge.com/pin/6003)
+[Sunflower. An inbox that works, for you.](https://design.withfudge.com/pin/6003) — [source page](https://sunflower.me/)

@@ -6,6 +6,10 @@ Source domain: [maxibestof.one](https://maxibestof.one)
 
 Last updated: 2026-02-01
 
+<!--
+coverPin: 6226
+-->
+
 Here is the visual system observed across **8 captured pages** from [maxibestof.one](https://maxibestof.one).
 
 ```fudge-colors
@@ -213,12 +217,27 @@ Here is the visual system observed across **8 captured pages** from [maxibestof.
 }
 ```
 
-## References
-- [Website design inspiration, layouts & similar websites](https://design.withfudge.com/pin/6226) — [source page](https://maxibestof.one/websites)
-- [Unlock Full Access](https://design.withfudge.com/pin/6225) — [source page](https://maxibestof.one/supporters)
-- [Unlock Full Access](https://design.withfudge.com/pin/6224) — [source page](https://maxibestof.one/supporters)
-- [Unlock Full Access](https://design.withfudge.com/pin/6223) — [source page](https://maxibestof.one/supporters)
-- [Become a Supporter](https://design.withfudge.com/pin/2811) — [source page](https://maxibestof.one/supporters)
-- [Become a Supporter](https://design.withfudge.com/pin/2810) — [source page](https://maxibestof.one/supporters)
-- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2809) — [source page](https://maxibestof.one/)
-- [Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2808) — [source page](https://maxibestof.one/)
+## Representative captures
+[![Website design inspiration, layouts & similar websites](https://pin.fontofweb.com/6226?format=jpg)](https://design.withfudge.com/pin/6226)
+[Website design inspiration, layouts & similar websites](https://design.withfudge.com/pin/6226) — [source page](https://maxibestof.one/websites)
+
+[![Unlock Full Access](https://pin.fontofweb.com/6225?format=jpg)](https://design.withfudge.com/pin/6225)
+[Unlock Full Access](https://design.withfudge.com/pin/6225) — [source page](https://maxibestof.one/supporters)
+
+[![Unlock Full Access](https://pin.fontofweb.com/6224?format=jpg)](https://design.withfudge.com/pin/6224)
+[Unlock Full Access](https://design.withfudge.com/pin/6224) — [source page](https://maxibestof.one/supporters)
+
+[![Unlock Full Access](https://pin.fontofweb.com/6223?format=jpg)](https://design.withfudge.com/pin/6223)
+[Unlock Full Access](https://design.withfudge.com/pin/6223) — [source page](https://maxibestof.one/supporters)
+
+[![Become a Supporter](https://pin.fontofweb.com/2811?format=jpg)](https://design.withfudge.com/pin/2811)
+[Become a Supporter](https://design.withfudge.com/pin/2811) — [source page](https://maxibestof.one/supporters)
+
+[![Become a Supporter](https://pin.fontofweb.com/2810?format=jpg)](https://design.withfudge.com/pin/2810)
+[Become a Supporter](https://design.withfudge.com/pin/2810) — [source page](https://maxibestof.one/supporters)
+
+[![Best website design & fonts inspiration feed](https://pin.fontofweb.com/2809?format=jpg)](https://design.withfudge.com/pin/2809)
+[Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2809) — [source page](https://maxibestof.one/)
+
+[![Best website design & fonts inspiration feed](https://pin.fontofweb.com/2808?format=jpg)](https://design.withfudge.com/pin/2808)
+[Best website design & fonts inspiration feed](https://design.withfudge.com/pin/2808) — [source page](https://maxibestof.one/)

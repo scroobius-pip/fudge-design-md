@@ -6,6 +6,10 @@ Source domain: [quiver.ai](https://quiver.ai)
 
 Last updated: 2026-03-03
 
+<!--
+coverPin: 7618
+-->
+
 Here is the visual system observed across **2 captured pages** from [quiver.ai](https://quiver.ai).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [quiver.ai](
 }
 ```
 
-## References
-- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7618) — [source page](https://quiver.ai/)
-- [QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7617) — [source page](https://quiver.ai/)
+## Representative captures
+[![QuiverAI – Building the Future of Vector Design](https://pin.fontofweb.com/7618?format=jpg)](https://design.withfudge.com/pin/7618)
+[QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7618) — [source page](https://quiver.ai/)
+
+[![QuiverAI – Building the Future of Vector Design](https://pin.fontofweb.com/7617?format=jpg)](https://design.withfudge.com/pin/7617)
+[QuiverAI – Building the Future of Vector Design](https://design.withfudge.com/pin/7617) — [source page](https://quiver.ai/)

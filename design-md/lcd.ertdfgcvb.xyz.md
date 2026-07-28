@@ -6,6 +6,10 @@ Source domain: [lcd.ertdfgcvb.xyz](https://lcd.ertdfgcvb.xyz)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7099
+-->
+
 Here is the visual system observed across **3 captured pages** from [lcd.ertdfgcvb.xyz](https://lcd.ertdfgcvb.xyz).
 
 ```fudge-colors
@@ -136,7 +140,12 @@ Here is the visual system observed across **3 captured pages** from [lcd.ertdfgc
 }
 ```
 
-## References
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7099) — [source page](https://lcd.ertdfgcvb.xyz/)
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7098) — [source page](https://lcd.ertdfgcvb.xyz/)
-- [LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7097) — [source page](https://lcd.ertdfgcvb.xyz/)
+## Representative captures
+[![LCD 1: Device for ASCII art](https://pin.fontofweb.com/7099?format=jpg)](https://design.withfudge.com/pin/7099)
+[LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7099) — [source page](https://lcd.ertdfgcvb.xyz/)
+
+[![LCD 1: Device for ASCII art](https://pin.fontofweb.com/7098?format=jpg)](https://design.withfudge.com/pin/7098)
+[LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7098) — [source page](https://lcd.ertdfgcvb.xyz/)
+
+[![LCD 1: Device for ASCII art](https://pin.fontofweb.com/7097?format=jpg)](https://design.withfudge.com/pin/7097)
+[LCD 1: Device for ASCII art](https://design.withfudge.com/pin/7097) — [source page](https://lcd.ertdfgcvb.xyz/)

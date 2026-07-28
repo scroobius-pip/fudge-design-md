@@ -6,6 +6,10 @@ Source domain: [instantdb.com](https://instantdb.com)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8779
+-->
+
 Here is the visual system observed across **8 captured pages** from [instantdb.com](https://instantdb.com).
 
 ```fudge-colors
@@ -224,12 +228,27 @@ Here is the visual system observed across **8 captured pages** from [instantdb.c
 }
 ```
 
-## References
-- [Instant Pricing](https://design.withfudge.com/pin/8779) — [source page](https://instantdb.com/pricing)
-- [Instant](https://design.withfudge.com/pin/8778) — [source page](https://instantdb.com/)
-- [Captured page 1705](https://design.withfudge.com/pin/1705) — [source page](https://instantdb.com/dash)
-- [Instant](https://design.withfudge.com/pin/1704) — [source page](https://instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1703) — [source page](https://instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1702) — [source page](https://instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1701) — [source page](https://instantdb.com/)
-- [Instant](https://design.withfudge.com/pin/1700) — [source page](https://instantdb.com/)
+## Representative captures
+[![Instant Pricing](https://pin.fontofweb.com/8779?format=jpg)](https://design.withfudge.com/pin/8779)
+[Instant Pricing](https://design.withfudge.com/pin/8779) — [source page](https://instantdb.com/pricing)
+
+[![Instant](https://pin.fontofweb.com/8778?format=jpg)](https://design.withfudge.com/pin/8778)
+[Instant](https://design.withfudge.com/pin/8778) — [source page](https://instantdb.com/)
+
+[![Captured page 1705](https://pin.fontofweb.com/1705?format=jpg)](https://design.withfudge.com/pin/1705)
+[Captured page 1705](https://design.withfudge.com/pin/1705) — [source page](https://instantdb.com/dash)
+
+[![Instant](https://pin.fontofweb.com/1704?format=jpg)](https://design.withfudge.com/pin/1704)
+[Instant](https://design.withfudge.com/pin/1704) — [source page](https://instantdb.com/)
+
+[![Instant](https://pin.fontofweb.com/1703?format=jpg)](https://design.withfudge.com/pin/1703)
+[Instant](https://design.withfudge.com/pin/1703) — [source page](https://instantdb.com/)
+
+[![Instant](https://pin.fontofweb.com/1702?format=jpg)](https://design.withfudge.com/pin/1702)
+[Instant](https://design.withfudge.com/pin/1702) — [source page](https://instantdb.com/)
+
+[![Instant](https://pin.fontofweb.com/1701?format=jpg)](https://design.withfudge.com/pin/1701)
+[Instant](https://design.withfudge.com/pin/1701) — [source page](https://instantdb.com/)
+
+[![Instant](https://pin.fontofweb.com/1700?format=jpg)](https://design.withfudge.com/pin/1700)
+[Instant](https://design.withfudge.com/pin/1700) — [source page](https://instantdb.com/)

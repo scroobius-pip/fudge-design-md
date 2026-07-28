@@ -6,6 +6,10 @@ Source domain: [platform.minimax.io](https://platform.minimax.io)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8277
+-->
+
 Here is the visual system observed across **4 captured pages** from [platform.minimax.io](https://platform.minimax.io).
 
 ```fudge-colors
@@ -160,8 +164,15 @@ Here is the visual system observed across **4 captured pages** from [platform.mi
 }
 ```
 
-## References
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8277) — [source page](https://platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8276) — [source page](https://platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8275) — [source page](https://platform.minimax.io/subscribe/token-plan)
-- [Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8274) — [source page](https://platform.minimax.io/subscribe/token-plan)
+## Representative captures
+[![Token Plan - MiniMax API Platform](https://pin.fontofweb.com/8277?format=jpg)](https://design.withfudge.com/pin/8277)
+[Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8277) — [source page](https://platform.minimax.io/subscribe/token-plan)
+
+[![Token Plan - MiniMax API Platform](https://pin.fontofweb.com/8276?format=jpg)](https://design.withfudge.com/pin/8276)
+[Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8276) — [source page](https://platform.minimax.io/subscribe/token-plan)
+
+[![Token Plan - MiniMax API Platform](https://pin.fontofweb.com/8275?format=jpg)](https://design.withfudge.com/pin/8275)
+[Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8275) — [source page](https://platform.minimax.io/subscribe/token-plan)
+
+[![Token Plan - MiniMax API Platform](https://pin.fontofweb.com/8274?format=jpg)](https://design.withfudge.com/pin/8274)
+[Token Plan - MiniMax API Platform](https://design.withfudge.com/pin/8274) — [source page](https://platform.minimax.io/subscribe/token-plan)

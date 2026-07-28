@@ -6,6 +6,10 @@ Source domain: [tenor.design](https://tenor.design)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9034
+-->
+
 Here is the visual system observed across **2 captured pages** from [tenor.design](https://tenor.design).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [tenor.desig
 }
 ```
 
-## References
-- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9034) — [source page](https://tenor.design/)
-- [Tenor — AI-native UI design](https://design.withfudge.com/pin/9033) — [source page](https://tenor.design/)
+## Representative captures
+[![Tenor — AI-native UI design](https://pin.fontofweb.com/9034?format=jpg)](https://design.withfudge.com/pin/9034)
+[Tenor — AI-native UI design](https://design.withfudge.com/pin/9034) — [source page](https://tenor.design/)
+
+[![Tenor — AI-native UI design](https://pin.fontofweb.com/9033?format=jpg)](https://design.withfudge.com/pin/9033)
+[Tenor — AI-native UI design](https://design.withfudge.com/pin/9033) — [source page](https://tenor.design/)

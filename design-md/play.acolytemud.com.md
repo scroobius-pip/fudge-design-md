@@ -6,6 +6,10 @@ Source domain: [play.acolytemud.com](https://play.acolytemud.com)
 
 Last updated: 2026-04-22
 
+<!--
+coverPin: 9030
+-->
+
 Here is the visual system observed across **1 captured page** from [play.acolytemud.com](https://play.acolytemud.com).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [play.acolyte
 }
 ```
 
-## References
-- [Play — Acolyte MUD](https://design.withfudge.com/pin/9030) — [source page](https://play.acolytemud.com/play.html)
+## Representative captures
+[![Play — Acolyte MUD](https://pin.fontofweb.com/9030?format=jpg)](https://design.withfudge.com/pin/9030)
+[Play — Acolyte MUD](https://design.withfudge.com/pin/9030) — [source page](https://play.acolytemud.com/play.html)

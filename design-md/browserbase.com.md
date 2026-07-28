@@ -6,6 +6,10 @@ Source domain: [browserbase.com](https://browserbase.com)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7920
+-->
+
 Here is the visual system observed across **10 captured pages** from [browserbase.com](https://browserbase.com).
 
 ```fudge-colors
@@ -297,12 +301,27 @@ Here is the visual system observed across **10 captured pages** from [browserbas
 }
 ```
 
-## References
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7920) — [source page](https://browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7919) — [source page](https://browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7918) — [source page](https://browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7917) — [source page](https://browserbase.com/pricing)
-- [Pricing | Browserbase](https://design.withfudge.com/pin/7916) — [source page](https://browserbase.com/pricing)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7915) — [source page](https://browserbase.com/)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7914) — [source page](https://browserbase.com/)
-- [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7913) — [source page](https://browserbase.com/)
+## Representative captures
+[![Pricing | Browserbase](https://pin.fontofweb.com/7920?format=jpg)](https://design.withfudge.com/pin/7920)
+[Pricing | Browserbase](https://design.withfudge.com/pin/7920) — [source page](https://browserbase.com/pricing)
+
+[![Pricing | Browserbase](https://pin.fontofweb.com/7919?format=jpg)](https://design.withfudge.com/pin/7919)
+[Pricing | Browserbase](https://design.withfudge.com/pin/7919) — [source page](https://browserbase.com/pricing)
+
+[![Pricing | Browserbase](https://pin.fontofweb.com/7918?format=jpg)](https://design.withfudge.com/pin/7918)
+[Pricing | Browserbase](https://design.withfudge.com/pin/7918) — [source page](https://browserbase.com/pricing)
+
+[![Pricing | Browserbase](https://pin.fontofweb.com/7917?format=jpg)](https://design.withfudge.com/pin/7917)
+[Pricing | Browserbase](https://design.withfudge.com/pin/7917) — [source page](https://browserbase.com/pricing)
+
+[![Pricing | Browserbase](https://pin.fontofweb.com/7916?format=jpg)](https://design.withfudge.com/pin/7916)
+[Pricing | Browserbase](https://design.withfudge.com/pin/7916) — [source page](https://browserbase.com/pricing)
+
+[![Browserbase: A web browser for AI agents & applications](https://pin.fontofweb.com/7915?format=jpg)](https://design.withfudge.com/pin/7915)
+[Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7915) — [source page](https://browserbase.com/)
+
+[![Browserbase: A web browser for AI agents & applications](https://pin.fontofweb.com/7914?format=jpg)](https://design.withfudge.com/pin/7914)
+[Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7914) — [source page](https://browserbase.com/)
+
+[![Browserbase: A web browser for AI agents & applications](https://pin.fontofweb.com/7913?format=jpg)](https://design.withfudge.com/pin/7913)
+[Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/pin/7913) — [source page](https://browserbase.com/)

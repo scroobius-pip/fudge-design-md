@@ -6,6 +6,10 @@ Source domain: [bengalturf.yolasite.com](https://bengalturf.yolasite.com)
 
 Last updated: 2026-05-28
 
+<!--
+coverPin: 9475
+-->
+
 Here is the visual system observed across **3 captured pages** from [bengalturf.yolasite.com](https://bengalturf.yolasite.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [bengalturf.
 }
 ```
 
-## References
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9475) — [source page](https://bengalturf.yolasite.com/)
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9474) — [source page](https://bengalturf.yolasite.com/)
-- [Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9473) — [source page](https://bengalturf.yolasite.com/)
+## Representative captures
+[![Bengal Turf: Ottawa Lawn and Landscape Specialist](https://pin.fontofweb.com/9475?format=jpg)](https://design.withfudge.com/pin/9475)
+[Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9475) — [source page](https://bengalturf.yolasite.com/)
+
+[![Bengal Turf: Ottawa Lawn and Landscape Specialist](https://pin.fontofweb.com/9474?format=jpg)](https://design.withfudge.com/pin/9474)
+[Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9474) — [source page](https://bengalturf.yolasite.com/)
+
+[![Bengal Turf: Ottawa Lawn and Landscape Specialist](https://pin.fontofweb.com/9473?format=jpg)](https://design.withfudge.com/pin/9473)
+[Bengal Turf: Ottawa Lawn and Landscape Specialist](https://design.withfudge.com/pin/9473) — [source page](https://bengalturf.yolasite.com/)

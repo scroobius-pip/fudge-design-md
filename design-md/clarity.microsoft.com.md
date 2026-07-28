@@ -6,6 +6,10 @@ Source domain: [clarity.microsoft.com](https://clarity.microsoft.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6784
+-->
+
 Here is the visual system observed across **5 captured pages** from [clarity.microsoft.com](https://clarity.microsoft.com).
 
 ```fudge-colors
@@ -167,9 +171,18 @@ Here is the visual system observed across **5 captured pages** from [clarity.mic
 }
 ```
 
-## References
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6784) — [source page](https://clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6783) — [source page](https://clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6782) — [source page](https://clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6781) — [source page](https://clarity.microsoft.com/)
-- [Font of Web - Clarity](https://design.withfudge.com/pin/6780) — [source page](https://clarity.microsoft.com/)
+## Representative captures
+[![Font of Web - Clarity](https://pin.fontofweb.com/6784?format=jpg)](https://design.withfudge.com/pin/6784)
+[Font of Web - Clarity](https://design.withfudge.com/pin/6784) — [source page](https://clarity.microsoft.com/)
+
+[![Font of Web - Clarity](https://pin.fontofweb.com/6783?format=jpg)](https://design.withfudge.com/pin/6783)
+[Font of Web - Clarity](https://design.withfudge.com/pin/6783) — [source page](https://clarity.microsoft.com/)
+
+[![Font of Web - Clarity](https://pin.fontofweb.com/6782?format=jpg)](https://design.withfudge.com/pin/6782)
+[Font of Web - Clarity](https://design.withfudge.com/pin/6782) — [source page](https://clarity.microsoft.com/)
+
+[![Font of Web - Clarity](https://pin.fontofweb.com/6781?format=jpg)](https://design.withfudge.com/pin/6781)
+[Font of Web - Clarity](https://design.withfudge.com/pin/6781) — [source page](https://clarity.microsoft.com/)
+
+[![Font of Web - Clarity](https://pin.fontofweb.com/6780?format=jpg)](https://design.withfudge.com/pin/6780)
+[Font of Web - Clarity](https://design.withfudge.com/pin/6780) — [source page](https://clarity.microsoft.com/)

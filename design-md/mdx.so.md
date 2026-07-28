@@ -6,6 +6,10 @@ Source domain: [mdx.so](https://mdx.so)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6342
+-->
+
 Here is the visual system observed across **3 captured pages** from [mdx.so](https://mdx.so).
 
 ```fudge-colors
@@ -154,7 +158,12 @@ Here is the visual system observed across **3 captured pages** from [mdx.so](htt
 }
 ```
 
-## References
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6342) — [source page](https://mdx.so/)
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6341) — [source page](https://mdx.so/)
-- [MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6340) — [source page](https://mdx.so/)
+## Representative captures
+[![MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://pin.fontofweb.com/6342?format=jpg)](https://design.withfudge.com/pin/6342)
+[MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6342) — [source page](https://mdx.so/)
+
+[![MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://pin.fontofweb.com/6341?format=jpg)](https://design.withfudge.com/pin/6341)
+[MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6341) — [source page](https://mdx.so/)
+
+[![MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://pin.fontofweb.com/6340?format=jpg)](https://design.withfudge.com/pin/6340)
+[MDX | UI/UX, Web/App Development, 3D & Branding Agency](https://design.withfudge.com/pin/6340) — [source page](https://mdx.so/)

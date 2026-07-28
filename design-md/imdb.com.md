@@ -6,6 +6,10 @@ Source domain: [imdb.com](https://imdb.com)
 
 Last updated: 2026-04-19
 
+<!--
+coverPin: 8978
+-->
+
 Here is the visual system observed across **1 captured page** from [imdb.com](https://imdb.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [imdb.com](ht
 }
 ```
 
-## References
-- [Monster (2003) - IMDb](https://design.withfudge.com/pin/8978) — [source page](https://imdb.com/title/tt0340855/)
+## Representative captures
+[![Monster (2003) - IMDb](https://pin.fontofweb.com/8978?format=jpg)](https://design.withfudge.com/pin/8978)
+[Monster (2003) - IMDb](https://design.withfudge.com/pin/8978) — [source page](https://imdb.com/title/tt0340855/)

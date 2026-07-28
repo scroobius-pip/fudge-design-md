@@ -6,6 +6,10 @@ Source domain: [antigravity.google](https://antigravity.google)
 
 Last updated: 2026-02-05
 
+<!--
+coverPin: 6298
+-->
+
 Here is the visual system observed across **20 captured pages** from [antigravity.google](https://antigravity.google).
 
 ```fudge-colors
@@ -284,12 +288,27 @@ Here is the visual system observed across **20 captured pages** from [antigravit
 }
 ```
 
-## References
-- [Google Antigravity Auth Success](https://design.withfudge.com/pin/6298) — [source page](https://antigravity.google/auth-success)
-- [Google Antigravity Use Cases](https://design.withfudge.com/pin/5658) — [source page](https://antigravity.google/use-cases)
-- [Google Antigravity Changelog](https://design.withfudge.com/pin/5616) — [source page](https://antigravity.google/changelog)
-- [Google Antigravity Changelog](https://design.withfudge.com/pin/5615) — [source page](https://antigravity.google/changelog)
-- [Google Antigravity Pricing](https://design.withfudge.com/pin/5033) — [source page](https://antigravity.google/pricing)
-- [Google Antigravity Product](https://design.withfudge.com/pin/4837) — [source page](https://antigravity.google/product)
-- [Google Antigravity Product](https://design.withfudge.com/pin/4836) — [source page](https://antigravity.google/product)
-- [Google Antigravity - Use Case: Professional](https://design.withfudge.com/pin/4835) — [source page](https://antigravity.google/use-cases/professional)
+## Representative captures
+[![Google Antigravity Auth Success](https://pin.fontofweb.com/6298?format=jpg)](https://design.withfudge.com/pin/6298)
+[Google Antigravity Auth Success](https://design.withfudge.com/pin/6298) — [source page](https://antigravity.google/auth-success)
+
+[![Google Antigravity Use Cases](https://pin.fontofweb.com/5658?format=jpg)](https://design.withfudge.com/pin/5658)
+[Google Antigravity Use Cases](https://design.withfudge.com/pin/5658) — [source page](https://antigravity.google/use-cases)
+
+[![Google Antigravity Changelog](https://pin.fontofweb.com/5616?format=jpg)](https://design.withfudge.com/pin/5616)
+[Google Antigravity Changelog](https://design.withfudge.com/pin/5616) — [source page](https://antigravity.google/changelog)
+
+[![Google Antigravity Changelog](https://pin.fontofweb.com/5615?format=jpg)](https://design.withfudge.com/pin/5615)
+[Google Antigravity Changelog](https://design.withfudge.com/pin/5615) — [source page](https://antigravity.google/changelog)
+
+[![Google Antigravity Pricing](https://pin.fontofweb.com/5033?format=jpg)](https://design.withfudge.com/pin/5033)
+[Google Antigravity Pricing](https://design.withfudge.com/pin/5033) — [source page](https://antigravity.google/pricing)
+
+[![Google Antigravity Product](https://pin.fontofweb.com/4837?format=jpg)](https://design.withfudge.com/pin/4837)
+[Google Antigravity Product](https://design.withfudge.com/pin/4837) — [source page](https://antigravity.google/product)
+
+[![Google Antigravity Product](https://pin.fontofweb.com/4836?format=jpg)](https://design.withfudge.com/pin/4836)
+[Google Antigravity Product](https://design.withfudge.com/pin/4836) — [source page](https://antigravity.google/product)
+
+[![Google Antigravity - Use Case: Professional](https://pin.fontofweb.com/4835?format=jpg)](https://design.withfudge.com/pin/4835)
+[Google Antigravity - Use Case: Professional](https://design.withfudge.com/pin/4835) — [source page](https://antigravity.google/use-cases/professional)

@@ -6,6 +6,10 @@ Source domain: [plus.nasa.gov](https://plus.nasa.gov)
 
 Last updated: 2026-04-01
 
+<!--
+coverPin: 8581
+-->
+
 Here is the visual system observed across **1 captured page** from [plus.nasa.gov](https://plus.nasa.gov).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [plus.nasa.go
 }
 ```
 
-## References
-- [NASA’s Artemis II Crew Launches to the Moon (Official Broadcast) | NASA+](https://design.withfudge.com/pin/8581) — [source page](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)
+## Representative captures
+[![NASA’s Artemis II Crew Launches to the Moon (Official Broadcast) | NASA+](https://pin.fontofweb.com/8581?format=jpg)](https://design.withfudge.com/pin/8581)
+[NASA’s Artemis II Crew Launches to the Moon (Official Broadcast) | NASA+](https://design.withfudge.com/pin/8581) — [source page](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)

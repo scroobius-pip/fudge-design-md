@@ -6,6 +6,10 @@ Source domain: [lovart.ai](https://lovart.ai)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8789
+-->
+
 Here is the visual system observed across **12 captured pages** from [lovart.ai](https://lovart.ai).
 
 ```fudge-colors
@@ -368,12 +372,27 @@ Here is the visual system observed across **12 captured pages** from [lovart.ai]
 }
 ```
 
-## References
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/8789) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6163) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6162) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6161) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6160) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6159) — [source page](https://lovart.ai/pricing)
-- [Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6158) — [source page](https://lovart.ai/pricing)
-- [Lovart: The World's First AI Design Agent | Automated Graphic Design Platform](https://design.withfudge.com/pin/6157) — [source page](https://lovart.ai/)
+## Representative captures
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/8789?format=jpg)](https://design.withfudge.com/pin/8789)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/8789) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6163?format=jpg)](https://design.withfudge.com/pin/6163)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6163) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6162?format=jpg)](https://design.withfudge.com/pin/6162)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6162) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6161?format=jpg)](https://design.withfudge.com/pin/6161)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6161) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6160?format=jpg)](https://design.withfudge.com/pin/6160)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6160) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6159?format=jpg)](https://design.withfudge.com/pin/6159)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6159) — [source page](https://lovart.ai/pricing)
+
+[![Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://pin.fontofweb.com/6158?format=jpg)](https://design.withfudge.com/pin/6158)
+[Lovart AI Pricing Plans 2026 | Free & Pro AI Design Agent](https://design.withfudge.com/pin/6158) — [source page](https://lovart.ai/pricing)
+
+[![Lovart: The World's First AI Design Agent | Automated Graphic Design Platform](https://pin.fontofweb.com/6157?format=jpg)](https://design.withfudge.com/pin/6157)
+[Lovart: The World's First AI Design Agent | Automated Graphic Design Platform](https://design.withfudge.com/pin/6157) — [source page](https://lovart.ai/)

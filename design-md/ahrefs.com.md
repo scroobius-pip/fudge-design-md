@@ -6,6 +6,10 @@ Source domain: [ahrefs.com](https://ahrefs.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7050
+-->
+
 Here is the visual system observed across **26 captured pages** from [ahrefs.com](https://ahrefs.com).
 
 ```fudge-colors
@@ -328,12 +332,27 @@ Here is the visual system observed across **26 captured pages** from [ahrefs.com
 }
 ```
 
-## References
-- [Plans & Pricing - Ahrefs](https://design.withfudge.com/pin/7050) — [source page](https://ahrefs.com/pricing)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7049) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7048) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7047) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7046) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7045) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7044) — [source page](https://ahrefs.com/)
-- [Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7043) — [source page](https://ahrefs.com/)
+## Representative captures
+[![Plans & Pricing - Ahrefs](https://pin.fontofweb.com/7050?format=jpg)](https://design.withfudge.com/pin/7050)
+[Plans & Pricing - Ahrefs](https://design.withfudge.com/pin/7050) — [source page](https://ahrefs.com/pricing)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7049?format=jpg)](https://design.withfudge.com/pin/7049)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7049) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7048?format=jpg)](https://design.withfudge.com/pin/7048)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7048) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7047?format=jpg)](https://design.withfudge.com/pin/7047)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7047) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7046?format=jpg)](https://design.withfudge.com/pin/7046)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7046) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7045?format=jpg)](https://design.withfudge.com/pin/7045)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7045) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7044?format=jpg)](https://design.withfudge.com/pin/7044)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7044) — [source page](https://ahrefs.com/)
+
+[![Ahrefs—AI Marketing Platform Powered by Big Data](https://pin.fontofweb.com/7043?format=jpg)](https://design.withfudge.com/pin/7043)
+[Ahrefs—AI Marketing Platform Powered by Big Data](https://design.withfudge.com/pin/7043) — [source page](https://ahrefs.com/)

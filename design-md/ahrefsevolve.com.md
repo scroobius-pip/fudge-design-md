@@ -6,6 +6,10 @@ Source domain: [ahrefsevolve.com](https://ahrefsevolve.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7037
+-->
+
 Here is the visual system observed across **9 captured pages** from [ahrefsevolve.com](https://ahrefsevolve.com).
 
 ```fudge-colors
@@ -284,12 +288,27 @@ Here is the visual system observed across **9 captured pages** from [ahrefsevolv
 }
 ```
 
-## References
-- [Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7037) — [source page](https://ahrefsevolve.com/singapore/)
-- [Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7036) — [source page](https://ahrefsevolve.com/singapore/)
-- [Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7035) — [source page](https://ahrefsevolve.com/singapore/)
-- [Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7034) — [source page](https://ahrefsevolve.com/singapore/)
-- [Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7033) — [source page](https://ahrefsevolve.com/singapore/)
-- [Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7032) — [source page](https://ahrefsevolve.com/)
-- [Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7031) — [source page](https://ahrefsevolve.com/)
-- [Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7030) — [source page](https://ahrefsevolve.com/)
+## Representative captures
+[![Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7037?format=jpg)](https://design.withfudge.com/pin/7037)
+[Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7037) — [source page](https://ahrefsevolve.com/singapore/)
+
+[![Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7036?format=jpg)](https://design.withfudge.com/pin/7036)
+[Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7036) — [source page](https://ahrefsevolve.com/singapore/)
+
+[![Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7035?format=jpg)](https://design.withfudge.com/pin/7035)
+[Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7035) — [source page](https://ahrefsevolve.com/singapore/)
+
+[![Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7034?format=jpg)](https://design.withfudge.com/pin/7034)
+[Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7034) — [source page](https://ahrefsevolve.com/singapore/)
+
+[![Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7033?format=jpg)](https://design.withfudge.com/pin/7033)
+[Ahrefs Evolve Singapore 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7033) — [source page](https://ahrefsevolve.com/singapore/)
+
+[![Ahrefs Evolve 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7032?format=jpg)](https://design.withfudge.com/pin/7032)
+[Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7032) — [source page](https://ahrefsevolve.com/)
+
+[![Ahrefs Evolve 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7031?format=jpg)](https://design.withfudge.com/pin/7031)
+[Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7031) — [source page](https://ahrefsevolve.com/)
+
+[![Ahrefs Evolve 2026 - SEO & Marketing Conference](https://pin.fontofweb.com/7030?format=jpg)](https://design.withfudge.com/pin/7030)
+[Ahrefs Evolve 2026 - SEO & Marketing Conference](https://design.withfudge.com/pin/7030) — [source page](https://ahrefsevolve.com/)

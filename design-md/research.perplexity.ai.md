@@ -6,6 +6,10 @@ Source domain: [research.perplexity.ai](https://research.perplexity.ai)
 
 Last updated: 2026-06-02
 
+<!--
+coverPin: 9495
+-->
+
 Here is the visual system observed across **2 captured pages** from [research.perplexity.ai](https://research.perplexity.ai).
 
 ```fudge-colors
@@ -144,6 +148,9 @@ Here is the visual system observed across **2 captured pages** from [research.pe
 }
 ```
 
-## References
-- [Rethinking Search as Code Generation](https://design.withfudge.com/pin/9495) — [source page](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
-- [Perplexity Research](https://design.withfudge.com/pin/7990) — [source page](https://research.perplexity.ai/)
+## Representative captures
+[![Rethinking Search as Code Generation](https://pin.fontofweb.com/9495?format=jpg)](https://design.withfudge.com/pin/9495)
+[Rethinking Search as Code Generation](https://design.withfudge.com/pin/9495) — [source page](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
+
+[![Perplexity Research](https://pin.fontofweb.com/7990?format=jpg)](https://design.withfudge.com/pin/7990)
+[Perplexity Research](https://design.withfudge.com/pin/7990) — [source page](https://research.perplexity.ai/)

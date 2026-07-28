@@ -6,6 +6,10 @@ Source domain: [stenciljs.com](https://stenciljs.com)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8510
+-->
+
 Here is the visual system observed across **1 captured page** from [stenciljs.com](https://stenciljs.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [stenciljs.co
 }
 ```
 
-## References
-- [Stencil](https://design.withfudge.com/pin/8510) — [source page](https://stenciljs.com/)
+## Representative captures
+[![Stencil](https://pin.fontofweb.com/8510?format=jpg)](https://design.withfudge.com/pin/8510)
+[Stencil](https://design.withfudge.com/pin/8510) — [source page](https://stenciljs.com/)

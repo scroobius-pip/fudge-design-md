@@ -6,6 +6,10 @@ Source domain: [gamma.io](https://gamma.io)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8485
+-->
+
 Here is the visual system observed across **2 captured pages** from [gamma.io](https://gamma.io).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [gamma.io](h
 }
 ```
 
-## References
-- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8485) — [source page](https://gamma.io/)
-- [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8484) — [source page](https://gamma.io/)
+## Representative captures
+[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/pin/8485)
+[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8485) — [source page](https://gamma.io/)
+
+[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/pin/8484)
+[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/pin/8484) — [source page](https://gamma.io/)

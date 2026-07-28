@@ -6,6 +6,10 @@ Source domain: [bkid.co](https://bkid.co)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10283
+-->
+
 Here is the visual system observed across **2 captured pages** from [bkid.co](https://bkid.co).
 
 ```fudge-colors
@@ -146,6 +150,9 @@ Here is the visual system observed across **2 captured pages** from [bkid.co](ht
 }
 ```
 
-## References
-- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10283) — [source page](https://bkid.co/work/10-hangul-unit/)
-- [10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10282) — [source page](https://bkid.co/work/10-hangul-unit/)
+## Representative captures
+[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10283?format=jpg)](https://design.withfudge.com/pin/10283)
+[10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10283) — [source page](https://bkid.co/work/10-hangul-unit/)
+
+[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10282?format=jpg)](https://design.withfudge.com/pin/10282)
+[10 Hangul Unit – B K I D](https://design.withfudge.com/pin/10282) — [source page](https://bkid.co/work/10-hangul-unit/)

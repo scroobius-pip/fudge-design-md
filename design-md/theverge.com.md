@@ -6,6 +6,10 @@ Source domain: [theverge.com](https://theverge.com)
 
 Last updated: 2026-05-19
 
+<!--
+coverPin: 9402
+-->
+
 Here is the visual system observed across **7 captured pages** from [theverge.com](https://theverge.com).
 
 ```fudge-colors
@@ -268,11 +272,24 @@ Here is the visual system observed across **7 captured pages** from [theverge.co
 }
 ```
 
-## References
-- [Login | The Verge](https://design.withfudge.com/pin/9402) — [source page](https://theverge.com/auth/login)
-- [Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9401) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
-- [Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9400) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
-- [Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9399) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
-- [Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9398) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
-- [Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9397) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
-- [The Verge](https://design.withfudge.com/pin/9396) — [source page](https://theverge.com/)
+## Representative captures
+[![Login | The Verge](https://pin.fontofweb.com/9402?format=jpg)](https://design.withfudge.com/pin/9402)
+[Login | The Verge](https://design.withfudge.com/pin/9402) — [source page](https://theverge.com/auth/login)
+
+[![Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://pin.fontofweb.com/9401?format=jpg)](https://design.withfudge.com/pin/9401)
+[Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9401) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
+
+[![Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://pin.fontofweb.com/9400?format=jpg)](https://design.withfudge.com/pin/9400)
+[Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9400) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
+
+[![Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://pin.fontofweb.com/9399?format=jpg)](https://design.withfudge.com/pin/9399)
+[Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9399) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
+
+[![Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://pin.fontofweb.com/9398?format=jpg)](https://design.withfudge.com/pin/9398)
+[Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9398) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
+
+[![Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://pin.fontofweb.com/9397?format=jpg)](https://design.withfudge.com/pin/9397)
+[Netflix has signed a multi-year deal with the directors of the recent Super Mario movies. | The Verge](https://design.withfudge.com/pin/9397) — [source page](https://theverge.com/streaming/934056/netflix-has-signed-a-multi-year-deal-with-the-directors-of-the-recent-super-mario-movies)
+
+[![The Verge](https://pin.fontofweb.com/9396?format=jpg)](https://design.withfudge.com/pin/9396)
+[The Verge](https://design.withfudge.com/pin/9396) — [source page](https://theverge.com/)

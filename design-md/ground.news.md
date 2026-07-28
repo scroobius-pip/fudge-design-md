@@ -6,6 +6,10 @@ Source domain: [ground.news](https://ground.news)
 
 Last updated: 2026-04-03
 
+<!--
+coverPin: 8644
+-->
+
 Here is the visual system observed across **5 captured pages** from [ground.news](https://ground.news).
 
 ```fudge-colors
@@ -193,9 +197,18 @@ Here is the visual system observed across **5 captured pages** from [ground.news
 }
 ```
 
-## References
-- [Ground News](https://design.withfudge.com/pin/8644) — [source page](https://ground.news/)
-- [Captured page 8643](https://design.withfudge.com/pin/8643) — [source page](https://ground.news/subscribe)
-- [Captured page 8642](https://design.withfudge.com/pin/8642) — [source page](https://ground.news/subscribe)
-- [Captured page 8641](https://design.withfudge.com/pin/8641) — [source page](https://ground.news/subscribe)
-- [Captured page 8640](https://design.withfudge.com/pin/8640) — [source page](https://ground.news/subscribe)
+## Representative captures
+[![Ground News](https://pin.fontofweb.com/8644?format=jpg)](https://design.withfudge.com/pin/8644)
+[Ground News](https://design.withfudge.com/pin/8644) — [source page](https://ground.news/)
+
+[![Captured page 8643](https://pin.fontofweb.com/8643?format=jpg)](https://design.withfudge.com/pin/8643)
+[Captured page 8643](https://design.withfudge.com/pin/8643) — [source page](https://ground.news/subscribe)
+
+[![Captured page 8642](https://pin.fontofweb.com/8642?format=jpg)](https://design.withfudge.com/pin/8642)
+[Captured page 8642](https://design.withfudge.com/pin/8642) — [source page](https://ground.news/subscribe)
+
+[![Captured page 8641](https://pin.fontofweb.com/8641?format=jpg)](https://design.withfudge.com/pin/8641)
+[Captured page 8641](https://design.withfudge.com/pin/8641) — [source page](https://ground.news/subscribe)
+
+[![Captured page 8640](https://pin.fontofweb.com/8640?format=jpg)](https://design.withfudge.com/pin/8640)
+[Captured page 8640](https://design.withfudge.com/pin/8640) — [source page](https://ground.news/subscribe)

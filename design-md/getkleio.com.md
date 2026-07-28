@@ -6,6 +6,10 @@ Source domain: [getkleio.com](https://getkleio.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7328
+-->
+
 Here is the visual system observed across **8 captured pages** from [getkleio.com](https://getkleio.com).
 
 ```fudge-colors
@@ -240,12 +244,27 @@ Here is the visual system observed across **8 captured pages** from [getkleio.co
 }
 ```
 
-## References
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7328) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7327) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7326) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7325) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7324) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7323) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7322) — [source page](https://getkleio.com/)
-- [Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7321) — [source page](https://getkleio.com/)
+## Representative captures
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7328?format=jpg)](https://design.withfudge.com/pin/7328)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7328) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7327?format=jpg)](https://design.withfudge.com/pin/7327)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7327) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7326?format=jpg)](https://design.withfudge.com/pin/7326)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7326) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7325?format=jpg)](https://design.withfudge.com/pin/7325)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7325) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7324?format=jpg)](https://design.withfudge.com/pin/7324)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7324) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7323?format=jpg)](https://design.withfudge.com/pin/7323)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7323) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7322?format=jpg)](https://design.withfudge.com/pin/7322)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7322) — [source page](https://getkleio.com/)
+
+[![Kleio — Stop Overpaying for Shopify Analytics](https://pin.fontofweb.com/7321?format=jpg)](https://design.withfudge.com/pin/7321)
+[Kleio — Stop Overpaying for Shopify Analytics](https://design.withfudge.com/pin/7321) — [source page](https://getkleio.com/)

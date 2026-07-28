@@ -6,6 +6,10 @@ Source domain: [cypherpunkbooks.com](https://cypherpunkbooks.com)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9527
+-->
+
 Here is the visual system observed across **6 captured pages** from [cypherpunkbooks.com](https://cypherpunkbooks.com).
 
 ```fudge-colors
@@ -235,10 +239,21 @@ Here is the visual system observed across **6 captured pages** from [cypherpunkb
 }
 ```
 
-## References
-- [The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9527) — [source page](https://cypherpunkbooks.com/book/the-crypto-anarchist-manifesto)
-- [A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9526) — [source page](https://cypherpunkbooks.com/book/a-cypherpunks-manifesto)
-- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9525) — [source page](https://cypherpunkbooks.com/collection)
-- [The Cypherpunk Library](https://design.withfudge.com/pin/9524) — [source page](https://cypherpunkbooks.com/)
-- [Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9523) — [source page](https://cypherpunkbooks.com/collection)
-- [The Cypherpunk Library](https://design.withfudge.com/pin/9522) — [source page](https://cypherpunkbooks.com/)
+## Representative captures
+[![The Crypto Anarchist Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/pin/9527)
+[The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9527) — [source page](https://cypherpunkbooks.com/book/the-crypto-anarchist-manifesto)
+
+[![A Cypherpunk's Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/pin/9526)
+[A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/pin/9526) — [source page](https://cypherpunkbooks.com/book/a-cypherpunks-manifesto)
+
+[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/pin/9525)
+[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9525) — [source page](https://cypherpunkbooks.com/collection)
+
+[![The Cypherpunk Library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/pin/9524)
+[The Cypherpunk Library](https://design.withfudge.com/pin/9524) — [source page](https://cypherpunkbooks.com/)
+
+[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/pin/9523)
+[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/pin/9523) — [source page](https://cypherpunkbooks.com/collection)
+
+[![The Cypherpunk Library](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/pin/9522)
+[The Cypherpunk Library](https://design.withfudge.com/pin/9522) — [source page](https://cypherpunkbooks.com/)

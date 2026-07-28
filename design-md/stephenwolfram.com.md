@@ -6,6 +6,10 @@ Source domain: [stephenwolfram.com](https://stephenwolfram.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7100
+-->
+
 Here is the visual system observed across **1 captured page** from [stephenwolfram.com](https://stephenwolfram.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [stephenwolfr
 }
 ```
 
-## References
-- [Stephen Wolfram: Official Website](https://design.withfudge.com/pin/7100) — [source page](https://stephenwolfram.com/)
+## Representative captures
+[![Stephen Wolfram: Official Website](https://pin.fontofweb.com/7100?format=jpg)](https://design.withfudge.com/pin/7100)
+[Stephen Wolfram: Official Website](https://design.withfudge.com/pin/7100) — [source page](https://stephenwolfram.com/)

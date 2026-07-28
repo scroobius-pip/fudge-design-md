@@ -6,6 +6,10 @@ Source domain: [fontofweb.com](https://fontofweb.com)
 
 Last updated: 2026-05-12
 
+<!--
+coverPin: 9262
+-->
+
 Here is the visual system observed across **27 captured pages** from [fontofweb.com](https://fontofweb.com).
 
 ```fudge-colors
@@ -324,12 +328,27 @@ Here is the visual system observed across **27 captured pages** from [fontofweb.
 }
 ```
 
-## References
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/9262) — [source page](https://fontofweb.com/search/pins)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8776) — [source page](https://fontofweb.com/pin/641)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8775) — [source page](https://fontofweb.com/pin/641)
-- [خط الويب: إلهام التصميم المدعوم بالذكاء الاصطناعي واكتشاف الخطوط](https://design.withfudge.com/pin/8577) — [source page](https://fontofweb.com/search/pins)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8535) — [source page](https://fontofweb.com/pin/7792)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8460) — [source page](https://fontofweb.com/)
-- [Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8224) — [source page](https://fontofweb.com/search/pins)
-- [Design Inspiration From thebutterinbetween.com/stories](https://design.withfudge.com/pin/8052) — [source page](https://fontofweb.com/search/pins)
+## Representative captures
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/9262?format=jpg)](https://design.withfudge.com/pin/9262)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/9262) — [source page](https://fontofweb.com/search/pins)
+
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/8776?format=jpg)](https://design.withfudge.com/pin/8776)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8776) — [source page](https://fontofweb.com/pin/641)
+
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/8775?format=jpg)](https://design.withfudge.com/pin/8775)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8775) — [source page](https://fontofweb.com/pin/641)
+
+[![خط الويب: إلهام التصميم المدعوم بالذكاء الاصطناعي واكتشاف الخطوط](https://pin.fontofweb.com/8577?format=jpg)](https://design.withfudge.com/pin/8577)
+[خط الويب: إلهام التصميم المدعوم بالذكاء الاصطناعي واكتشاف الخطوط](https://design.withfudge.com/pin/8577) — [source page](https://fontofweb.com/search/pins)
+
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/8535?format=jpg)](https://design.withfudge.com/pin/8535)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8535) — [source page](https://fontofweb.com/pin/7792)
+
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/8460?format=jpg)](https://design.withfudge.com/pin/8460)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8460) — [source page](https://fontofweb.com/)
+
+[![Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://pin.fontofweb.com/8224?format=jpg)](https://design.withfudge.com/pin/8224)
+[Font Of Web: AI-Powered Design Inspiration & Font Discovery](https://design.withfudge.com/pin/8224) — [source page](https://fontofweb.com/search/pins)
+
+[![Design Inspiration From thebutterinbetween.com/stories](https://pin.fontofweb.com/8052?format=jpg)](https://design.withfudge.com/pin/8052)
+[Design Inspiration From thebutterinbetween.com/stories](https://design.withfudge.com/pin/8052) — [source page](https://fontofweb.com/search/pins)

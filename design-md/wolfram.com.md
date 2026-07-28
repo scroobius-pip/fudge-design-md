@@ -6,6 +6,10 @@ Source domain: [wolfram.com](https://wolfram.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7112
+-->
+
 Here is the visual system observed across **11 captured pages** from [wolfram.com](https://wolfram.com).
 
 ```fudge-colors
@@ -300,12 +304,27 @@ Here is the visual system observed across **11 captured pages** from [wolfram.co
 }
 ```
 
-## References
-- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7112) — [source page](https://wolfram.com/products/)
-- [Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7111) — [source page](https://wolfram.com/products/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7110) — [source page](https://wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7109) — [source page](https://wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7108) — [source page](https://wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7107) — [source page](https://wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7106) — [source page](https://wolfram.com/)
-- [Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7105) — [source page](https://wolfram.com/)
+## Representative captures
+[![Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://pin.fontofweb.com/7112?format=jpg)](https://design.withfudge.com/pin/7112)
+[Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7112) — [source page](https://wolfram.com/products/)
+
+[![Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://pin.fontofweb.com/7111?format=jpg)](https://design.withfudge.com/pin/7111)
+[Wolfram Products & Services: Delivering Computation and Knowledge Technologies](https://design.withfudge.com/pin/7111) — [source page](https://wolfram.com/products/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7110?format=jpg)](https://design.withfudge.com/pin/7110)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7110) — [source page](https://wolfram.com/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7109?format=jpg)](https://design.withfudge.com/pin/7109)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7109) — [source page](https://wolfram.com/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7108?format=jpg)](https://design.withfudge.com/pin/7108)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7108) — [source page](https://wolfram.com/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7107?format=jpg)](https://design.withfudge.com/pin/7107)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7107) — [source page](https://wolfram.com/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7106?format=jpg)](https://design.withfudge.com/pin/7106)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7106) — [source page](https://wolfram.com/)
+
+[![Wolfram: Delivering the Computational Future](https://pin.fontofweb.com/7105?format=jpg)](https://design.withfudge.com/pin/7105)
+[Wolfram: Delivering the Computational Future](https://design.withfudge.com/pin/7105) — [source page](https://wolfram.com/)

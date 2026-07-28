@@ -6,6 +6,10 @@ Source domain: [lunagraph.com](https://lunagraph.com)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9017
+-->
+
 Here is the visual system observed across **4 captured pages** from [lunagraph.com](https://lunagraph.com).
 
 ```fudge-colors
@@ -257,8 +261,15 @@ Here is the visual system observed across **4 captured pages** from [lunagraph.c
 }
 ```
 
-## References
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9017) — [source page](https://lunagraph.com/)
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9016) — [source page](https://lunagraph.com/)
-- [Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9015) — [source page](https://lunagraph.com/)
-- [Lunagraph | Design Partner for Startups | Crafting Delightful Experiences](https://design.withfudge.com/pin/8714) — [source page](https://lunagraph.com/)
+## Representative captures
+[![Lunagraph: Design canvas that writes code, powered by Claude Code](https://pin.fontofweb.com/9017?format=jpg)](https://design.withfudge.com/pin/9017)
+[Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9017) — [source page](https://lunagraph.com/)
+
+[![Lunagraph: Design canvas that writes code, powered by Claude Code](https://pin.fontofweb.com/9016?format=jpg)](https://design.withfudge.com/pin/9016)
+[Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9016) — [source page](https://lunagraph.com/)
+
+[![Lunagraph: Design canvas that writes code, powered by Claude Code](https://pin.fontofweb.com/9015?format=jpg)](https://design.withfudge.com/pin/9015)
+[Lunagraph: Design canvas that writes code, powered by Claude Code](https://design.withfudge.com/pin/9015) — [source page](https://lunagraph.com/)
+
+[![Lunagraph | Design Partner for Startups | Crafting Delightful Experiences](https://pin.fontofweb.com/8714?format=jpg)](https://design.withfudge.com/pin/8714)
+[Lunagraph | Design Partner for Startups | Crafting Delightful Experiences](https://design.withfudge.com/pin/8714) — [source page](https://lunagraph.com/)

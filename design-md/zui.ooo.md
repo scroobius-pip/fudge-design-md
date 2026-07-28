@@ -6,6 +6,10 @@ Source domain: [zui.ooo](https://zui.ooo)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8863
+-->
+
 Here is the visual system observed across **1 captured page** from [zui.ooo](https://zui.ooo).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [zui.ooo](htt
 }
 ```
 
-## References
-- [ZUI.C // SYS.PORTFOLIO](https://design.withfudge.com/pin/8863) — [source page](https://zui.ooo/)
+## Representative captures
+[![ZUI.C // SYS.PORTFOLIO](https://pin.fontofweb.com/8863?format=jpg)](https://design.withfudge.com/pin/8863)
+[ZUI.C // SYS.PORTFOLIO](https://design.withfudge.com/pin/8863) — [source page](https://zui.ooo/)

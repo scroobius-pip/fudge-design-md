@@ -6,6 +6,10 @@ Source domain: [app.kilo.ai](https://app.kilo.ai)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6433
+-->
+
 Here is the visual system observed across **1 captured page** from [app.kilo.ai](https://app.kilo.ai).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [app.kilo.ai]
 }
 ```
 
-## References
-- [Kilo Code - Open source AI agent VS Code extension](https://design.withfudge.com/pin/6433) — [source page](https://app.kilo.ai/get-started)
+## Representative captures
+[![Kilo Code - Open source AI agent VS Code extension](https://pin.fontofweb.com/6433?format=jpg)](https://design.withfudge.com/pin/6433)
+[Kilo Code - Open source AI agent VS Code extension](https://design.withfudge.com/pin/6433) — [source page](https://app.kilo.ai/get-started)

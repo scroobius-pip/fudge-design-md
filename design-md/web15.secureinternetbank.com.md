@@ -6,6 +6,10 @@ Source domain: [web15.secureinternetbank.com](https://web15.secureinternetbank.c
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7258
+-->
+
 Here is the visual system observed across **1 captured page** from [web15.secureinternetbank.com](https://web15.secureinternetbank.com).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [web15.secure
 }
 ```
 
-## References
-- [Lead Bank | Log In](https://design.withfudge.com/pin/7258) — [source page](https://web15.secureinternetbank.com/PBI_PBI1151/Login/101206101)
+## Representative captures
+[![Lead Bank | Log In](https://pin.fontofweb.com/7258?format=jpg)](https://design.withfudge.com/pin/7258)
+[Lead Bank | Log In](https://design.withfudge.com/pin/7258) — [source page](https://web15.secureinternetbank.com/PBI_PBI1151/Login/101206101)

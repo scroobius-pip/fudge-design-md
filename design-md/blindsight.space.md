@@ -6,6 +6,10 @@ Source domain: [blindsight.space](https://blindsight.space)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6419
+-->
+
 Here is the visual system observed across **4 captured pages** from [blindsight.space](https://blindsight.space).
 
 ```fudge-colors
@@ -152,8 +156,15 @@ Here is the visual system observed across **4 captured pages** from [blindsight.
 }
 ```
 
-## References
-- [Blindsight](https://design.withfudge.com/pin/6419) — [source page](https://blindsight.space/)
-- [Blindsight](https://design.withfudge.com/pin/6418) — [source page](https://blindsight.space/)
-- [Blindsight](https://design.withfudge.com/pin/6407) — [source page](https://blindsight.space/)
-- [Memories](https://design.withfudge.com/pin/6406) — [source page](https://blindsight.space/memories/)
+## Representative captures
+[![Blindsight](https://pin.fontofweb.com/6419?format=jpg)](https://design.withfudge.com/pin/6419)
+[Blindsight](https://design.withfudge.com/pin/6419) — [source page](https://blindsight.space/)
+
+[![Blindsight](https://pin.fontofweb.com/6418?format=jpg)](https://design.withfudge.com/pin/6418)
+[Blindsight](https://design.withfudge.com/pin/6418) — [source page](https://blindsight.space/)
+
+[![Blindsight](https://pin.fontofweb.com/6407?format=jpg)](https://design.withfudge.com/pin/6407)
+[Blindsight](https://design.withfudge.com/pin/6407) — [source page](https://blindsight.space/)
+
+[![Memories](https://pin.fontofweb.com/6406?format=jpg)](https://design.withfudge.com/pin/6406)
+[Memories](https://design.withfudge.com/pin/6406) — [source page](https://blindsight.space/memories/)

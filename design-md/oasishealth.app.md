@@ -6,6 +6,10 @@ Source domain: [oasishealth.app](https://oasishealth.app)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8462
+-->
+
 Here is the visual system observed across **2 captured pages** from [oasishealth.app](https://oasishealth.app).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [oasishealth
 }
 ```
 
-## References
-- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8462) — [source page](https://oasishealth.app/)
-- [See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8461) — [source page](https://oasishealth.app/)
+## Representative captures
+[![See What's Really Inside Your Products | Water & Product Safety | Oasis](https://pin.fontofweb.com/8462?format=jpg)](https://design.withfudge.com/pin/8462)
+[See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8462) — [source page](https://oasishealth.app/)
+
+[![See What's Really Inside Your Products | Water & Product Safety | Oasis](https://pin.fontofweb.com/8461?format=jpg)](https://design.withfudge.com/pin/8461)
+[See What's Really Inside Your Products | Water & Product Safety | Oasis](https://design.withfudge.com/pin/8461) — [source page](https://oasishealth.app/)

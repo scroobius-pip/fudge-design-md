@@ -6,6 +6,10 @@ Source domain: [account.davidprotein.com](https://account.davidprotein.com)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7822
+-->
+
 Here is the visual system observed across **1 captured page** from [account.davidprotein.com](https://account.davidprotein.com).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [account.davi
 }
 ```
 
-## References
-- [Sign in - David Protein](https://design.withfudge.com/pin/7822) — [source page](https://account.davidprotein.com/authentication/login)
+## Representative captures
+[![Sign in - David Protein](https://pin.fontofweb.com/7822?format=jpg)](https://design.withfudge.com/pin/7822)
+[Sign in - David Protein](https://design.withfudge.com/pin/7822) — [source page](https://account.davidprotein.com/authentication/login)

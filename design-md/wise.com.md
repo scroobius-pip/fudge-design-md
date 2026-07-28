@@ -6,6 +6,10 @@ Source domain: [wise.com](https://wise.com)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6936
+-->
+
 Here is the visual system observed across **61 captured pages** from [wise.com](https://wise.com).
 
 ```fudge-colors
@@ -308,12 +312,27 @@ Here is the visual system observed across **61 captured pages** from [wise.com](
 }
 ```
 
-## References
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6936) — [source page](https://wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6935) — [source page](https://wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6934) — [source page](https://wise.com/gb/currency-converter/)
-- [Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6933) — [source page](https://wise.com/gb/currency-converter/)
-- [Wise: Online Money Transfers | International Banking Features](https://design.withfudge.com/pin/6932) — [source page](https://wise.com/accounts)
-- [Wise - Reset Password](https://design.withfudge.com/pin/6716) — [source page](https://wise.com/login/forgot-password)
-- [Wise account: Multi-currency account | Foreign currency account](https://design.withfudge.com/pin/5291) — [source page](https://wise.com/us/account/)
-- [Wise - Home](https://design.withfudge.com/pin/4968) — [source page](https://wise.com/home)
+## Representative captures
+[![Currency Converter | Foreign Exchange Rates | Wise](https://pin.fontofweb.com/6936?format=jpg)](https://design.withfudge.com/pin/6936)
+[Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6936) — [source page](https://wise.com/gb/currency-converter/)
+
+[![Currency Converter | Foreign Exchange Rates | Wise](https://pin.fontofweb.com/6935?format=jpg)](https://design.withfudge.com/pin/6935)
+[Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6935) — [source page](https://wise.com/gb/currency-converter/)
+
+[![Currency Converter | Foreign Exchange Rates | Wise](https://pin.fontofweb.com/6934?format=jpg)](https://design.withfudge.com/pin/6934)
+[Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6934) — [source page](https://wise.com/gb/currency-converter/)
+
+[![Currency Converter | Foreign Exchange Rates | Wise](https://pin.fontofweb.com/6933?format=jpg)](https://design.withfudge.com/pin/6933)
+[Currency Converter | Foreign Exchange Rates | Wise](https://design.withfudge.com/pin/6933) — [source page](https://wise.com/gb/currency-converter/)
+
+[![Wise: Online Money Transfers | International Banking Features](https://pin.fontofweb.com/6932?format=jpg)](https://design.withfudge.com/pin/6932)
+[Wise: Online Money Transfers | International Banking Features](https://design.withfudge.com/pin/6932) — [source page](https://wise.com/accounts)
+
+[![Wise - Reset Password](https://pin.fontofweb.com/6716?format=jpg)](https://design.withfudge.com/pin/6716)
+[Wise - Reset Password](https://design.withfudge.com/pin/6716) — [source page](https://wise.com/login/forgot-password)
+
+[![Wise account: Multi-currency account | Foreign currency account](https://pin.fontofweb.com/5291?format=jpg)](https://design.withfudge.com/pin/5291)
+[Wise account: Multi-currency account | Foreign currency account](https://design.withfudge.com/pin/5291) — [source page](https://wise.com/us/account/)
+
+[![Wise - Home](https://pin.fontofweb.com/4968?format=jpg)](https://design.withfudge.com/pin/4968)
+[Wise - Home](https://design.withfudge.com/pin/4968) — [source page](https://wise.com/home)

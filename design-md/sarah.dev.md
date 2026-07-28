@@ -6,6 +6,10 @@ Source domain: [sarah.dev](https://sarah.dev)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6642
+-->
+
 Here is the visual system observed across **2 captured pages** from [sarah.dev](https://sarah.dev).
 
 ```fudge-colors
@@ -144,6 +148,9 @@ Here is the visual system observed across **2 captured pages** from [sarah.dev](
 }
 ```
 
-## References
-- [Sarah Drasner's Site](https://design.withfudge.com/pin/6642) — [source page](https://sarah.dev/writing)
-- [Sarah Drasner's Site](https://design.withfudge.com/pin/6641) — [source page](https://sarah.dev/writing)
+## Representative captures
+[![Sarah Drasner's Site](https://pin.fontofweb.com/6642?format=jpg)](https://design.withfudge.com/pin/6642)
+[Sarah Drasner's Site](https://design.withfudge.com/pin/6642) — [source page](https://sarah.dev/writing)
+
+[![Sarah Drasner's Site](https://pin.fontofweb.com/6641?format=jpg)](https://design.withfudge.com/pin/6641)
+[Sarah Drasner's Site](https://design.withfudge.com/pin/6641) — [source page](https://sarah.dev/writing)

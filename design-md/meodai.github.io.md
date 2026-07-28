@@ -6,6 +6,10 @@ Source domain: [meodai.github.io](https://meodai.github.io)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8509
+-->
+
 Here is the visual system observed across **6 captured pages** from [meodai.github.io](https://meodai.github.io).
 
 ```fudge-colors
@@ -219,10 +223,21 @@ Here is the visual system observed across **6 captured pages** from [meodai.gith
 }
 ```
 
-## References
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8509) — [source page](https://meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8508) — [source page](https://meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8507) — [source page](https://meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8506) — [source page](https://meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8505) — [source page](https://meodai.github.io/heerich/)
-- [heerich.js — Interactive Guide](https://design.withfudge.com/pin/8504) — [source page](https://meodai.github.io/heerich/)
+## Representative captures
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8509?format=jpg)](https://design.withfudge.com/pin/8509)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8509) — [source page](https://meodai.github.io/heerich/)
+
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8508?format=jpg)](https://design.withfudge.com/pin/8508)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8508) — [source page](https://meodai.github.io/heerich/)
+
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8507?format=jpg)](https://design.withfudge.com/pin/8507)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8507) — [source page](https://meodai.github.io/heerich/)
+
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8506?format=jpg)](https://design.withfudge.com/pin/8506)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8506) — [source page](https://meodai.github.io/heerich/)
+
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8505?format=jpg)](https://design.withfudge.com/pin/8505)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8505) — [source page](https://meodai.github.io/heerich/)
+
+[![heerich.js — Interactive Guide](https://pin.fontofweb.com/8504?format=jpg)](https://design.withfudge.com/pin/8504)
+[heerich.js — Interactive Guide](https://design.withfudge.com/pin/8504) — [source page](https://meodai.github.io/heerich/)

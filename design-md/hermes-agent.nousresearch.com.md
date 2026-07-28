@@ -6,6 +6,10 @@ Source domain: [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8720
+-->
+
 Here is the visual system observed across **1 captured page** from [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com).
 
 ```fudge-colors
@@ -128,5 +132,6 @@ Here is the visual system observed across **1 captured page** from [hermes-agent
 }
 ```
 
-## References
-- [Hermes Agent — An Agent That Grows With You | Nous Research](https://design.withfudge.com/pin/8720) — [source page](https://hermes-agent.nousresearch.com/)
+## Representative captures
+[![Hermes Agent — An Agent That Grows With You | Nous Research](https://pin.fontofweb.com/8720?format=jpg)](https://design.withfudge.com/pin/8720)
+[Hermes Agent — An Agent That Grows With You | Nous Research](https://design.withfudge.com/pin/8720) — [source page](https://hermes-agent.nousresearch.com/)

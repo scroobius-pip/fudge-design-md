@@ -6,6 +6,10 @@ Source domain: [goodreads.com](https://goodreads.com)
 
 Last updated: 2026-01-30
 
+<!--
+coverPin: 6138
+-->
+
 Here is the visual system observed across **1 captured page** from [goodreads.com](https://goodreads.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [goodreads.co
 }
 ```
 
-## References
-- [Sabriel (Abhorsen, #1) by Garth Nix | Goodreads](https://design.withfudge.com/pin/6138) — [source page](https://goodreads.com/book/show/518848.Sabriel)
+## Representative captures
+[![Sabriel (Abhorsen, #1) by Garth Nix | Goodreads](https://pin.fontofweb.com/6138?format=jpg)](https://design.withfudge.com/pin/6138)
+[Sabriel (Abhorsen, #1) by Garth Nix | Goodreads](https://design.withfudge.com/pin/6138) — [source page](https://goodreads.com/book/show/518848.Sabriel)

@@ -6,6 +6,10 @@ Source domain: [variant.com](https://variant.com)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8763
+-->
+
 Here is the visual system observed across **5 captured pages** from [variant.com](https://variant.com).
 
 ```fudge-colors
@@ -180,9 +184,18 @@ Here is the visual system observed across **5 captured pages** from [variant.com
 }
 ```
 
-## References
-- [Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/8763) — [source page](https://variant.com/community)
-- [Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/8046) — [source page](https://variant.com/chat/d1523e00-0983-46ad-a64d-6e6b26479efa)
-- [Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/7234) — [source page](https://variant.com/community)
-- [Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/6386) — [source page](https://variant.com/chat/d451d30c-d5d0-4c0d-8e86-c50f6b119f40)
-- [Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/6385) — [source page](https://variant.com/community)
+## Representative captures
+[![Variant – Endless designs for your ideas, just scroll](https://pin.fontofweb.com/8763?format=jpg)](https://design.withfudge.com/pin/8763)
+[Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/8763) — [source page](https://variant.com/community)
+
+[![Variant – Endless designs for your ideas, just scroll](https://pin.fontofweb.com/8046?format=jpg)](https://design.withfudge.com/pin/8046)
+[Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/8046) — [source page](https://variant.com/chat/d1523e00-0983-46ad-a64d-6e6b26479efa)
+
+[![Variant – Endless designs for your ideas, just scroll](https://pin.fontofweb.com/7234?format=jpg)](https://design.withfudge.com/pin/7234)
+[Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/7234) — [source page](https://variant.com/community)
+
+[![Variant – Endless designs for your ideas, just scroll](https://pin.fontofweb.com/6386?format=jpg)](https://design.withfudge.com/pin/6386)
+[Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/6386) — [source page](https://variant.com/chat/d451d30c-d5d0-4c0d-8e86-c50f6b119f40)
+
+[![Variant – Endless designs for your ideas, just scroll](https://pin.fontofweb.com/6385?format=jpg)](https://design.withfudge.com/pin/6385)
+[Variant – Endless designs for your ideas, just scroll](https://design.withfudge.com/pin/6385) — [source page](https://variant.com/community)

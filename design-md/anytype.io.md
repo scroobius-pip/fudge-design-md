@@ -6,6 +6,10 @@ Source domain: [anytype.io](https://anytype.io)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8145
+-->
+
 Here is the visual system observed across **38 captured pages** from [anytype.io](https://anytype.io).
 
 ```fudge-colors
@@ -312,12 +316,27 @@ Here is the visual system observed across **38 captured pages** from [anytype.io
 }
 ```
 
-## References
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8145) — [source page](https://anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8022) — [source page](https://anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8021) — [source page](https://anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8020) — [source page](https://anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8019) — [source page](https://anytype.io/)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8018) — [source page](https://anytype.io/pricing)
-- [Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8017) — [source page](https://anytype.io/pricing)
-- [The Everything App](https://design.withfudge.com/pin/1980) — [source page](https://anytype.io/)
+## Representative captures
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8145?format=jpg)](https://design.withfudge.com/pin/8145)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8145) — [source page](https://anytype.io/)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8022?format=jpg)](https://design.withfudge.com/pin/8022)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8022) — [source page](https://anytype.io/)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8021?format=jpg)](https://design.withfudge.com/pin/8021)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8021) — [source page](https://anytype.io/)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8020?format=jpg)](https://design.withfudge.com/pin/8020)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8020) — [source page](https://anytype.io/)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8019?format=jpg)](https://design.withfudge.com/pin/8019)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8019) — [source page](https://anytype.io/)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8018?format=jpg)](https://design.withfudge.com/pin/8018)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8018) — [source page](https://anytype.io/pricing)
+
+[![Anytype — A safe haven for digital collaboration](https://pin.fontofweb.com/8017?format=jpg)](https://design.withfudge.com/pin/8017)
+[Anytype — A safe haven for digital collaboration](https://design.withfudge.com/pin/8017) — [source page](https://anytype.io/pricing)
+
+[![The Everything App](https://pin.fontofweb.com/1980?format=jpg)](https://design.withfudge.com/pin/1980)
+[The Everything App](https://design.withfudge.com/pin/1980) — [source page](https://anytype.io/)

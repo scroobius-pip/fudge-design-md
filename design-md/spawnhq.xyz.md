@@ -6,6 +6,10 @@ Source domain: [spawnhq.xyz](https://spawnhq.xyz)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6969
+-->
+
 Here is the visual system observed across **1 captured page** from [spawnhq.xyz](https://spawnhq.xyz).
 
 ```fudge-colors
@@ -96,5 +100,6 @@ Here is the visual system observed across **1 captured page** from [spawnhq.xyz]
 }
 ```
 
-## References
-- [SpawnHQ — AI Agents That Work So You Don't Have To](https://design.withfudge.com/pin/6969) — [source page](https://spawnhq.xyz/)
+## Representative captures
+[![SpawnHQ — AI Agents That Work So You Don't Have To](https://pin.fontofweb.com/6969?format=jpg)](https://design.withfudge.com/pin/6969)
+[SpawnHQ — AI Agents That Work So You Don't Have To](https://design.withfudge.com/pin/6969) — [source page](https://spawnhq.xyz/)

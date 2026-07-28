@@ -6,6 +6,10 @@ Source domain: [inngest.com](https://inngest.com)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7556
+-->
+
 Here is the visual system observed across **11 captured pages** from [inngest.com](https://inngest.com).
 
 ```fudge-colors
@@ -337,12 +341,27 @@ Here is the visual system observed across **11 captured pages** from [inngest.co
 }
 ```
 
-## References
-- [Pricing - Inngest](https://design.withfudge.com/pin/7556) — [source page](https://inngest.com/pricing)
-- [Pricing - Inngest](https://design.withfudge.com/pin/7555) — [source page](https://inngest.com/pricing)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7554) — [source page](https://inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7553) — [source page](https://inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7552) — [source page](https://inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7551) — [source page](https://inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7550) — [source page](https://inngest.com/)
-- [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7549) — [source page](https://inngest.com/)
+## Representative captures
+[![Pricing - Inngest](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/pin/7556)
+[Pricing - Inngest](https://design.withfudge.com/pin/7556) — [source page](https://inngest.com/pricing)
+
+[![Pricing - Inngest](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/pin/7555)
+[Pricing - Inngest](https://design.withfudge.com/pin/7555) — [source page](https://inngest.com/pricing)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/pin/7554)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7554) — [source page](https://inngest.com/)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/pin/7553)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7553) — [source page](https://inngest.com/)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7552?format=jpg)](https://design.withfudge.com/pin/7552)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7552) — [source page](https://inngest.com/)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7551?format=jpg)](https://design.withfudge.com/pin/7551)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7551) — [source page](https://inngest.com/)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7550?format=jpg)](https://design.withfudge.com/pin/7550)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7550) — [source page](https://inngest.com/)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7549?format=jpg)](https://design.withfudge.com/pin/7549)
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/pin/7549) — [source page](https://inngest.com/)

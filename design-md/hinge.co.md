@@ -6,6 +6,10 @@ Source domain: [hinge.co](https://hinge.co)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10070
+-->
+
 Here is the visual system observed across **3 captured pages** from [hinge.co](https://hinge.co).
 
 ```fudge-colors
@@ -154,7 +158,12 @@ Here is the visual system observed across **3 captured pages** from [hinge.co](h
 }
 ```
 
-## References
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10070) — [source page](https://hinge.co/)
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10069) — [source page](https://hinge.co/)
-- [Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10068) — [source page](https://hinge.co/)
+## Representative captures
+[![Download Hinge, the dating app designed to be deleted | Hinge](https://pin.fontofweb.com/10070?format=jpg)](https://design.withfudge.com/pin/10070)
+[Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10070) — [source page](https://hinge.co/)
+
+[![Download Hinge, the dating app designed to be deleted | Hinge](https://pin.fontofweb.com/10069?format=jpg)](https://design.withfudge.com/pin/10069)
+[Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10069) — [source page](https://hinge.co/)
+
+[![Download Hinge, the dating app designed to be deleted | Hinge](https://pin.fontofweb.com/10068?format=jpg)](https://design.withfudge.com/pin/10068)
+[Download Hinge, the dating app designed to be deleted | Hinge](https://design.withfudge.com/pin/10068) — [source page](https://hinge.co/)

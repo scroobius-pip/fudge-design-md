@@ -6,6 +6,10 @@ Source domain: [hatroid.com](https://hatroid.com)
 
 Last updated: 2026-05-19
 
+<!--
+coverPin: 9384
+-->
+
 Here is the visual system observed across **3 captured pages** from [hatroid.com](https://hatroid.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [hatroid.com
 }
 ```
 
-## References
-- [Dub Tailored Jacket / grey – HATRA OFFICIAL](https://design.withfudge.com/pin/9384) — [source page](https://hatroid.com/en/products/dub-tailored-jacket-grey)
-- [Outer – HATRA OFFICIAL](https://design.withfudge.com/pin/9383) — [source page](https://hatroid.com/en/collections/outer)
-- [HATRA OFFICIAL](https://design.withfudge.com/pin/9382) — [source page](https://hatroid.com/en)
+## Representative captures
+[![Dub Tailored Jacket / grey – HATRA OFFICIAL](https://pin.fontofweb.com/9384?format=jpg)](https://design.withfudge.com/pin/9384)
+[Dub Tailored Jacket / grey – HATRA OFFICIAL](https://design.withfudge.com/pin/9384) — [source page](https://hatroid.com/en/products/dub-tailored-jacket-grey)
+
+[![Outer – HATRA OFFICIAL](https://pin.fontofweb.com/9383?format=jpg)](https://design.withfudge.com/pin/9383)
+[Outer – HATRA OFFICIAL](https://design.withfudge.com/pin/9383) — [source page](https://hatroid.com/en/collections/outer)
+
+[![HATRA OFFICIAL](https://pin.fontofweb.com/9382?format=jpg)](https://design.withfudge.com/pin/9382)
+[HATRA OFFICIAL](https://design.withfudge.com/pin/9382) — [source page](https://hatroid.com/en)

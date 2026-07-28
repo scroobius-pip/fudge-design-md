@@ -6,6 +6,10 @@ Source domain: [science.org](https://science.org)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8192
+-->
+
 Here is the visual system observed across **1 captured page** from [science.org](https://science.org).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [science.org]
 }
 ```
 
-## References
-- [Science Advances | AAAS](https://design.withfudge.com/pin/8192) — [source page](https://science.org/journal/sciadv)
+## Representative captures
+[![Science Advances | AAAS](https://pin.fontofweb.com/8192?format=jpg)](https://design.withfudge.com/pin/8192)
+[Science Advances | AAAS](https://design.withfudge.com/pin/8192) — [source page](https://science.org/journal/sciadv)

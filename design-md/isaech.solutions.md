@@ -6,6 +6,10 @@ Source domain: [isaech.solutions](https://isaech.solutions)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6874
+-->
+
 Here is the visual system observed across **1 captured page** from [isaech.solutions](https://isaech.solutions).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [isaech.solut
 }
 ```
 
-## References
-- [404 - Page not found: /dsfa | Isaech Solutions](https://design.withfudge.com/pin/6874) — [source page](https://isaech.solutions/dsfa)
+## Representative captures
+[![404 - Page not found: /dsfa | Isaech Solutions](https://pin.fontofweb.com/6874?format=jpg)](https://design.withfudge.com/pin/6874)
+[404 - Page not found: /dsfa | Isaech Solutions](https://design.withfudge.com/pin/6874) — [source page](https://isaech.solutions/dsfa)

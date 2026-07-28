@@ -6,6 +6,10 @@ Source domain: [openrouter.ai](https://openrouter.ai)
 
 Last updated: 2026-05-26
 
+<!--
+coverPin: 9468
+-->
+
 Here is the visual system observed across **9 captured pages** from [openrouter.ai](https://openrouter.ai).
 
 ```fudge-colors
@@ -250,12 +254,27 @@ Here is the visual system observed across **9 captured pages** from [openrouter.
 }
 ```
 
-## References
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9468) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9467) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
-- [Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9466) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
-- [Logs | OpenRouter](https://design.withfudge.com/pin/6971) — [source page](https://openrouter.ai/logs)
-- [OpenRouter](https://design.withfudge.com/pin/4011) — [source page](https://openrouter.ai/activity)
-- [OpenRouter](https://design.withfudge.com/pin/4010) — [source page](https://openrouter.ai/activity)
-- [OpenRouter](https://design.withfudge.com/pin/3790) — [source page](https://openrouter.ai/)
-- [GLM 4.5 Air (free) - API, Providers, Stats | OpenRouter](https://design.withfudge.com/pin/3789) — [source page](https://openrouter.ai/z-ai/glm-4.5-air:free)
+## Representative captures
+[![Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://pin.fontofweb.com/9468?format=jpg)](https://design.withfudge.com/pin/9468)
+[Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9468) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+
+[![Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://pin.fontofweb.com/9467?format=jpg)](https://design.withfudge.com/pin/9467)
+[Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9467) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+
+[![Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://pin.fontofweb.com/9466?format=jpg)](https://design.withfudge.com/pin/9466)
+[Kimi K2.6 - API Pricing & Benchmarks | OpenRouter](https://design.withfudge.com/pin/9466) — [source page](https://openrouter.ai/moonshotai/kimi-k2.6)
+
+[![Logs | OpenRouter](https://pin.fontofweb.com/6971?format=jpg)](https://design.withfudge.com/pin/6971)
+[Logs | OpenRouter](https://design.withfudge.com/pin/6971) — [source page](https://openrouter.ai/logs)
+
+[![OpenRouter](https://pin.fontofweb.com/4011?format=jpg)](https://design.withfudge.com/pin/4011)
+[OpenRouter](https://design.withfudge.com/pin/4011) — [source page](https://openrouter.ai/activity)
+
+[![OpenRouter](https://pin.fontofweb.com/4010?format=jpg)](https://design.withfudge.com/pin/4010)
+[OpenRouter](https://design.withfudge.com/pin/4010) — [source page](https://openrouter.ai/activity)
+
+[![OpenRouter](https://pin.fontofweb.com/3790?format=jpg)](https://design.withfudge.com/pin/3790)
+[OpenRouter](https://design.withfudge.com/pin/3790) — [source page](https://openrouter.ai/)
+
+[![GLM 4.5 Air (free) - API, Providers, Stats | OpenRouter](https://pin.fontofweb.com/3789?format=jpg)](https://design.withfudge.com/pin/3789)
+[GLM 4.5 Air (free) - API, Providers, Stats | OpenRouter](https://design.withfudge.com/pin/3789) — [source page](https://openrouter.ai/z-ai/glm-4.5-air:free)

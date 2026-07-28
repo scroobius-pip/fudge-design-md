@@ -6,6 +6,10 @@ Source domain: [artificialanalysis.ai](https://artificialanalysis.ai)
 
 Last updated: 2026-06-20
 
+<!--
+coverPin: 9727
+-->
+
 Here is the visual system observed across **8 captured pages** from [artificialanalysis.ai](https://artificialanalysis.ai).
 
 ```fudge-colors
@@ -281,12 +285,27 @@ Here is the visual system observed across **8 captured pages** from [artificiala
 }
 ```
 
-## References
-- [AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9727) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
-- [AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9726) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
-- [AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9682) — [source page](https://artificialanalysis.ai/)
-- [AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9681) — [source page](https://artificialanalysis.ai/)
-- [Pricing | Artificial Analysis](https://design.withfudge.com/pin/9680) — [source page](https://artificialanalysis.ai/pricing)
-- [Pricing | Artificial Analysis](https://design.withfudge.com/pin/9679) — [source page](https://artificialanalysis.ai/pricing)
-- [AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://design.withfudge.com/pin/9676) — [source page](https://artificialanalysis.ai/agents/chatbots)
-- [General Work AI Agents Comparison](https://design.withfudge.com/pin/9675) — [source page](https://artificialanalysis.ai/agents)
+## Representative captures
+[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9727?format=jpg)](https://design.withfudge.com/pin/9727)
+[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9727) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
+
+[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9726?format=jpg)](https://design.withfudge.com/pin/9726)
+[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/pin/9726) — [source page](https://artificialanalysis.ai/evaluations/omniscience)
+
+[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9682?format=jpg)](https://design.withfudge.com/pin/9682)
+[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9682) — [source page](https://artificialanalysis.ai/)
+
+[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9681?format=jpg)](https://design.withfudge.com/pin/9681)
+[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/pin/9681) — [source page](https://artificialanalysis.ai/)
+
+[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9680?format=jpg)](https://design.withfudge.com/pin/9680)
+[Pricing | Artificial Analysis](https://design.withfudge.com/pin/9680) — [source page](https://artificialanalysis.ai/pricing)
+
+[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9679?format=jpg)](https://design.withfudge.com/pin/9679)
+[Pricing | Artificial Analysis](https://design.withfudge.com/pin/9679) — [source page](https://artificialanalysis.ai/pricing)
+
+[![AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://pin.fontofweb.com/9676?format=jpg)](https://design.withfudge.com/pin/9676)
+[AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://design.withfudge.com/pin/9676) — [source page](https://artificialanalysis.ai/agents/chatbots)
+
+[![General Work AI Agents Comparison](https://pin.fontofweb.com/9675?format=jpg)](https://design.withfudge.com/pin/9675)
+[General Work AI Agents Comparison](https://design.withfudge.com/pin/9675) — [source page](https://artificialanalysis.ai/agents)

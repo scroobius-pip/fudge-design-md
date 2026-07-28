@@ -6,6 +6,10 @@ Source domain: [mulerouter.ai](https://mulerouter.ai)
 
 Last updated: 2026-04-26
 
+<!--
+coverPin: 9057
+-->
+
 Here is the visual system observed across **3 captured pages** from [mulerouter.ai](https://mulerouter.ai).
 
 ```fudge-colors
@@ -151,7 +155,12 @@ Here is the visual system observed across **3 captured pages** from [mulerouter.
 }
 ```
 
-## References
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9057) — [source page](https://mulerouter.ai/)
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9056) — [source page](https://mulerouter.ai/)
-- [MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9055) — [source page](https://mulerouter.ai/)
+## Representative captures
+[![MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://pin.fontofweb.com/9057?format=jpg)](https://design.withfudge.com/pin/9057)
+[MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9057) — [source page](https://mulerouter.ai/)
+
+[![MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://pin.fontofweb.com/9056?format=jpg)](https://design.withfudge.com/pin/9056)
+[MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9056) — [source page](https://mulerouter.ai/)
+
+[![MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://pin.fontofweb.com/9055?format=jpg)](https://design.withfudge.com/pin/9055)
+[MuleRouter - Generative AI APIs for Images, Video (Wan), LLM (Qwen), and more!](https://design.withfudge.com/pin/9055) — [source page](https://mulerouter.ai/)

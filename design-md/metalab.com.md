@@ -6,6 +6,10 @@ Source domain: [metalab.com](https://metalab.com)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9785
+-->
+
 Here is the visual system observed across **2 captured pages** from [metalab.com](https://metalab.com).
 
 ```fudge-colors
@@ -106,6 +110,9 @@ Here is the visual system observed across **2 captured pages** from [metalab.com
 }
 ```
 
-## References
-- [Robinhood | Product design case study](https://design.withfudge.com/pin/9785) — [source page](https://metalab.com/work/robinhood)
-- [Robinhood | Product design case study](https://design.withfudge.com/pin/9784) — [source page](https://metalab.com/work/robinhood)
+## Representative captures
+[![Robinhood | Product design case study](https://pin.fontofweb.com/9785?format=jpg)](https://design.withfudge.com/pin/9785)
+[Robinhood | Product design case study](https://design.withfudge.com/pin/9785) — [source page](https://metalab.com/work/robinhood)
+
+[![Robinhood | Product design case study](https://pin.fontofweb.com/9784?format=jpg)](https://design.withfudge.com/pin/9784)
+[Robinhood | Product design case study](https://design.withfudge.com/pin/9784) — [source page](https://metalab.com/work/robinhood)

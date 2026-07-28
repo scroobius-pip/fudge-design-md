@@ -6,6 +6,10 @@ Source domain: [vim.org](https://vim.org)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6557
+-->
+
 Here is the visual system observed across **1 captured page** from [vim.org](https://vim.org).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [vim.org](htt
 }
 ```
 
-## References
-- [Vim 9.2 released : vim online](https://design.withfudge.com/pin/6557) — [source page](https://vim.org/vim-9.2-released.php)
+## Representative captures
+[![Vim 9.2 released : vim online](https://pin.fontofweb.com/6557?format=jpg)](https://design.withfudge.com/pin/6557)
+[Vim 9.2 released : vim online](https://design.withfudge.com/pin/6557) — [source page](https://vim.org/vim-9.2-released.php)

@@ -6,6 +6,10 @@ Source domain: [lead.bank](https://lead.bank)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7259
+-->
+
 Here is the visual system observed across **8 captured pages** from [lead.bank](https://lead.bank).
 
 ```fudge-colors
@@ -240,12 +244,27 @@ Here is the visual system observed across **8 captured pages** from [lead.bank](
 }
 ```
 
-## References
-- [Personal Lending](https://design.withfudge.com/pin/7259) — [source page](https://lead.bank/personal/lending-solutions)
-- [Personal Banking](https://design.withfudge.com/pin/7257) — [source page](https://lead.bank/personal)
-- [Personal Banking](https://design.withfudge.com/pin/7256) — [source page](https://lead.bank/personal)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7255) — [source page](https://lead.bank/baas-partner-platform)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7254) — [source page](https://lead.bank/baas-partner-platform)
-- [BaaS Partner Platform](https://design.withfudge.com/pin/7253) — [source page](https://lead.bank/baas-partner-platform)
-- [Lead Bank](https://design.withfudge.com/pin/7252) — [source page](https://lead.bank/)
-- [Lead Bank](https://design.withfudge.com/pin/7251) — [source page](https://lead.bank/)
+## Representative captures
+[![Personal Lending](https://pin.fontofweb.com/7259?format=jpg)](https://design.withfudge.com/pin/7259)
+[Personal Lending](https://design.withfudge.com/pin/7259) — [source page](https://lead.bank/personal/lending-solutions)
+
+[![Personal Banking](https://pin.fontofweb.com/7257?format=jpg)](https://design.withfudge.com/pin/7257)
+[Personal Banking](https://design.withfudge.com/pin/7257) — [source page](https://lead.bank/personal)
+
+[![Personal Banking](https://pin.fontofweb.com/7256?format=jpg)](https://design.withfudge.com/pin/7256)
+[Personal Banking](https://design.withfudge.com/pin/7256) — [source page](https://lead.bank/personal)
+
+[![BaaS Partner Platform](https://pin.fontofweb.com/7255?format=jpg)](https://design.withfudge.com/pin/7255)
+[BaaS Partner Platform](https://design.withfudge.com/pin/7255) — [source page](https://lead.bank/baas-partner-platform)
+
+[![BaaS Partner Platform](https://pin.fontofweb.com/7254?format=jpg)](https://design.withfudge.com/pin/7254)
+[BaaS Partner Platform](https://design.withfudge.com/pin/7254) — [source page](https://lead.bank/baas-partner-platform)
+
+[![BaaS Partner Platform](https://pin.fontofweb.com/7253?format=jpg)](https://design.withfudge.com/pin/7253)
+[BaaS Partner Platform](https://design.withfudge.com/pin/7253) — [source page](https://lead.bank/baas-partner-platform)
+
+[![Lead Bank](https://pin.fontofweb.com/7252?format=jpg)](https://design.withfudge.com/pin/7252)
+[Lead Bank](https://design.withfudge.com/pin/7252) — [source page](https://lead.bank/)
+
+[![Lead Bank](https://pin.fontofweb.com/7251?format=jpg)](https://design.withfudge.com/pin/7251)
+[Lead Bank](https://design.withfudge.com/pin/7251) — [source page](https://lead.bank/)

@@ -6,6 +6,10 @@ Source domain: [onboarding.leatherback.co](https://onboarding.leatherback.co)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7275
+-->
+
 Here is the visual system observed across **1 captured page** from [onboarding.leatherback.co](https://onboarding.leatherback.co).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [onboarding.l
 }
 ```
 
-## References
-- [Onboarding | Leatherback - Fastest Crossborder Payments.](https://design.withfudge.com/pin/7275) — [source page](https://onboarding.leatherback.co/get-started-individual)
+## Representative captures
+[![Onboarding | Leatherback - Fastest Crossborder Payments.](https://pin.fontofweb.com/7275?format=jpg)](https://design.withfudge.com/pin/7275)
+[Onboarding | Leatherback - Fastest Crossborder Payments.](https://design.withfudge.com/pin/7275) — [source page](https://onboarding.leatherback.co/get-started-individual)

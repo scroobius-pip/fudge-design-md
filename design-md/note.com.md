@@ -6,6 +6,10 @@ Source domain: [note.com](https://note.com)
 
 Last updated: 2026-03-14
 
+<!--
+coverPin: 8099
+-->
+
 Here is the visual system observed across **1 captured page** from [note.com](https://note.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [note.com](ht
 }
 ```
 
-## References
-- [note ――つくる、つながる、とどける。](https://design.withfudge.com/pin/8099) — [source page](https://note.com/)
+## Representative captures
+[![note ――つくる、つながる、とどける。](https://pin.fontofweb.com/8099?format=jpg)](https://design.withfudge.com/pin/8099)
+[note ――つくる、つながる、とどける。](https://design.withfudge.com/pin/8099) — [source page](https://note.com/)

@@ -6,6 +6,10 @@ Source domain: [uicapsule.com](https://uicapsule.com)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8762
+-->
+
 Here is the visual system observed across **3 captured pages** from [uicapsule.com](https://uicapsule.com).
 
 ```fudge-colors
@@ -140,7 +144,12 @@ Here is the visual system observed across **3 captured pages** from [uicapsule.c
 }
 ```
 
-## References
-- [UICapsule](https://design.withfudge.com/pin/8762) — [source page](https://uicapsule.com/)
-- [UICapsule](https://design.withfudge.com/pin/8761) — [source page](https://uicapsule.com/ui/ios-volume-slider)
-- [UICapsule](https://design.withfudge.com/pin/8760) — [source page](https://uicapsule.com/)
+## Representative captures
+[![UICapsule](https://pin.fontofweb.com/8762?format=jpg)](https://design.withfudge.com/pin/8762)
+[UICapsule](https://design.withfudge.com/pin/8762) — [source page](https://uicapsule.com/)
+
+[![UICapsule](https://pin.fontofweb.com/8761?format=jpg)](https://design.withfudge.com/pin/8761)
+[UICapsule](https://design.withfudge.com/pin/8761) — [source page](https://uicapsule.com/ui/ios-volume-slider)
+
+[![UICapsule](https://pin.fontofweb.com/8760?format=jpg)](https://design.withfudge.com/pin/8760)
+[UICapsule](https://design.withfudge.com/pin/8760) — [source page](https://uicapsule.com/)

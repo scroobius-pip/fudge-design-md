@@ -6,6 +6,10 @@ Source domain: [norre.framer.website](https://norre.framer.website)
 
 Last updated: 2026-03-13
 
+<!--
+coverPin: 8045
+-->
+
 Here is the visual system observed across **3 captured pages** from [norre.framer.website](https://norre.framer.website).
 
 ```fudge-colors
@@ -122,7 +126,12 @@ Here is the visual system observed across **3 captured pages** from [norre.frame
 }
 ```
 
-## References
-- [Norre](https://design.withfudge.com/pin/8045) — [source page](https://norre.framer.website/)
-- [Norre](https://design.withfudge.com/pin/5584) — [source page](https://norre.framer.website/)
-- [Norre](https://design.withfudge.com/pin/5583) — [source page](https://norre.framer.website/)
+## Representative captures
+[![Norre](https://pin.fontofweb.com/8045?format=jpg)](https://design.withfudge.com/pin/8045)
+[Norre](https://design.withfudge.com/pin/8045) — [source page](https://norre.framer.website/)
+
+[![Norre](https://pin.fontofweb.com/5584?format=jpg)](https://design.withfudge.com/pin/5584)
+[Norre](https://design.withfudge.com/pin/5584) — [source page](https://norre.framer.website/)
+
+[![Norre](https://pin.fontofweb.com/5583?format=jpg)](https://design.withfudge.com/pin/5583)
+[Norre](https://design.withfudge.com/pin/5583) — [source page](https://norre.framer.website/)

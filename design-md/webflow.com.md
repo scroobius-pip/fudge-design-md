@@ -6,6 +6,10 @@ Source domain: [webflow.com](https://webflow.com)
 
 Last updated: 2026-01-27
 
+<!--
+coverPin: 6023
+-->
+
 Here is the visual system observed across **26 captured pages** from [webflow.com](https://webflow.com).
 
 ```fudge-colors
@@ -306,12 +310,27 @@ Here is the visual system observed across **26 captured pages** from [webflow.co
 }
 ```
 
-## References
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6023) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6022) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6021) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6020) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6019) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6018) — [source page](https://webflow.com/pricing)
-- [Plans & pricing | Webflow](https://design.withfudge.com/pin/6017) — [source page](https://webflow.com/pricing)
-- [Webflow Ecommerce website builder | Webflow](https://design.withfudge.com/pin/6016) — [source page](https://webflow.com/feature/ecommerce)
+## Representative captures
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6023?format=jpg)](https://design.withfudge.com/pin/6023)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6023) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6022?format=jpg)](https://design.withfudge.com/pin/6022)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6022) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6021?format=jpg)](https://design.withfudge.com/pin/6021)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6021) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6020?format=jpg)](https://design.withfudge.com/pin/6020)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6020) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6019?format=jpg)](https://design.withfudge.com/pin/6019)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6019) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6018?format=jpg)](https://design.withfudge.com/pin/6018)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6018) — [source page](https://webflow.com/pricing)
+
+[![Plans & pricing | Webflow](https://pin.fontofweb.com/6017?format=jpg)](https://design.withfudge.com/pin/6017)
+[Plans & pricing | Webflow](https://design.withfudge.com/pin/6017) — [source page](https://webflow.com/pricing)
+
+[![Webflow Ecommerce website builder | Webflow](https://pin.fontofweb.com/6016?format=jpg)](https://design.withfudge.com/pin/6016)
+[Webflow Ecommerce website builder | Webflow](https://design.withfudge.com/pin/6016) — [source page](https://webflow.com/feature/ecommerce)

@@ -6,6 +6,10 @@ Source domain: [together.ai](https://together.ai)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6850
+-->
+
 Here is the visual system observed across **14 captured pages** from [together.ai](https://together.ai).
 
 ```fudge-colors
@@ -339,12 +343,27 @@ Here is the visual system observed across **14 captured pages** from [together.a
 }
 ```
 
-## References
-- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6850) — [source page](https://together.ai/code-interpreter)
-- [Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6849) — [source page](https://together.ai/code-interpreter)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6848) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6847) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
-- [Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6846) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6838) — [source page](https://together.ai/)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6837) — [source page](https://together.ai/)
-- [Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6836) — [source page](https://together.ai/)
+## Representative captures
+[![Together Code Interpreter | Together AI](https://pin.fontofweb.com/6850?format=jpg)](https://design.withfudge.com/pin/6850)
+[Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6850) — [source page](https://together.ai/code-interpreter)
+
+[![Together Code Interpreter | Together AI](https://pin.fontofweb.com/6849?format=jpg)](https://design.withfudge.com/pin/6849)
+[Together Code Interpreter | Together AI](https://design.withfudge.com/pin/6849) — [source page](https://together.ai/code-interpreter)
+
+[![Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://pin.fontofweb.com/6848?format=jpg)](https://design.withfudge.com/pin/6848)
+[Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6848) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+
+[![Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://pin.fontofweb.com/6847?format=jpg)](https://design.withfudge.com/pin/6847)
+[Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6847) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+
+[![Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://pin.fontofweb.com/6846?format=jpg)](https://design.withfudge.com/pin/6846)
+[Consistency diffusion language models: Up to 14x faster inference without sacrificing quality](https://design.withfudge.com/pin/6846) — [source page](https://together.ai/blog/consistency-diffusion-language-models)
+
+[![Together AI | The AI Native Cloud](https://pin.fontofweb.com/6838?format=jpg)](https://design.withfudge.com/pin/6838)
+[Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6838) — [source page](https://together.ai/)
+
+[![Together AI | The AI Native Cloud](https://pin.fontofweb.com/6837?format=jpg)](https://design.withfudge.com/pin/6837)
+[Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6837) — [source page](https://together.ai/)
+
+[![Together AI | The AI Native Cloud](https://pin.fontofweb.com/6836?format=jpg)](https://design.withfudge.com/pin/6836)
+[Together AI | The AI Native Cloud](https://design.withfudge.com/pin/6836) — [source page](https://together.ai/)

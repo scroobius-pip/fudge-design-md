@@ -6,6 +6,10 @@ Source domain: [internetcomputer.org](https://internetcomputer.org)
 
 Last updated: 2026-05-03
 
+<!--
+coverPin: 9184
+-->
+
 Here is the visual system observed across **8 captured pages** from [internetcomputer.org](https://internetcomputer.org).
 
 ```fudge-colors
@@ -218,12 +222,27 @@ Here is the visual system observed across **8 captured pages** from [internetcom
 }
 ```
 
-## References
-- [ICP quick start](https://design.withfudge.com/pin/9184) — [source page](https://internetcomputer.org/quick-start/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7605) — [source page](https://internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7604) — [source page](https://internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7603) — [source page](https://internetcomputer.org/)
-- [Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7535) — [source page](https://internetcomputer.org/)
-- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5767) — [source page](https://internetcomputer.org/)
-- [Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5766) — [source page](https://internetcomputer.org/)
-- [World Computer | Internet Computer](https://design.withfudge.com/pin/3431) — [source page](https://internetcomputer.org/)
+## Representative captures
+[![ICP quick start](https://pin.fontofweb.com/9184?format=jpg)](https://design.withfudge.com/pin/9184)
+[ICP quick start](https://design.withfudge.com/pin/9184) — [source page](https://internetcomputer.org/quick-start/)
+
+[![Internet Computer — The Network is The Cloud. Agents Build.](https://pin.fontofweb.com/7605?format=jpg)](https://design.withfudge.com/pin/7605)
+[Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7605) — [source page](https://internetcomputer.org/)
+
+[![Internet Computer — The Network is The Cloud. Agents Build.](https://pin.fontofweb.com/7604?format=jpg)](https://design.withfudge.com/pin/7604)
+[Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7604) — [source page](https://internetcomputer.org/)
+
+[![Internet Computer — The Network is The Cloud. Agents Build.](https://pin.fontofweb.com/7603?format=jpg)](https://design.withfudge.com/pin/7603)
+[Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7603) — [source page](https://internetcomputer.org/)
+
+[![Internet Computer — The Network is The Cloud. Agents Build.](https://pin.fontofweb.com/7535?format=jpg)](https://design.withfudge.com/pin/7535)
+[Internet Computer — The Network is The Cloud. Agents Build.](https://design.withfudge.com/pin/7535) — [source page](https://internetcomputer.org/)
+
+[![Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://pin.fontofweb.com/5767?format=jpg)](https://design.withfudge.com/pin/5767)
+[Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5767) — [source page](https://internetcomputer.org/)
+
+[![Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://pin.fontofweb.com/5766?format=jpg)](https://design.withfudge.com/pin/5766)
+[Internet Computer — The sovereign cloud where AI builds the web | Internet Computer](https://design.withfudge.com/pin/5766) — [source page](https://internetcomputer.org/)
+
+[![World Computer | Internet Computer](https://pin.fontofweb.com/3431?format=jpg)](https://design.withfudge.com/pin/3431)
+[World Computer | Internet Computer](https://design.withfudge.com/pin/3431) — [source page](https://internetcomputer.org/)

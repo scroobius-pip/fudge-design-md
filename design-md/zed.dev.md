@@ -6,6 +6,10 @@ Source domain: [zed.dev](https://zed.dev)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9154
+-->
+
 Here is the visual system observed across **14 captured pages** from [zed.dev](https://zed.dev).
 
 ```fudge-colors
@@ -356,12 +360,27 @@ Here is the visual system observed across **14 captured pages** from [zed.dev](h
 }
 ```
 
-## References
-- [Zed — Download](https://design.withfudge.com/pin/9154) — [source page](https://zed.dev/download)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9153) — [source page](https://zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9152) — [source page](https://zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9151) — [source page](https://zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9150) — [source page](https://zed.dev/)
-- [Zed — Your last next editor](https://design.withfudge.com/pin/9149) — [source page](https://zed.dev/)
-- [Zed — Love your editor again](https://design.withfudge.com/pin/5976) — [source page](https://zed.dev/)
-- [Zed — The editor for what's next](https://design.withfudge.com/pin/4625) — [source page](https://zed.dev/)
+## Representative captures
+[![Zed — Download](https://pin.fontofweb.com/9154?format=jpg)](https://design.withfudge.com/pin/9154)
+[Zed — Download](https://design.withfudge.com/pin/9154) — [source page](https://zed.dev/download)
+
+[![Zed — Your last next editor](https://pin.fontofweb.com/9153?format=jpg)](https://design.withfudge.com/pin/9153)
+[Zed — Your last next editor](https://design.withfudge.com/pin/9153) — [source page](https://zed.dev/)
+
+[![Zed — Your last next editor](https://pin.fontofweb.com/9152?format=jpg)](https://design.withfudge.com/pin/9152)
+[Zed — Your last next editor](https://design.withfudge.com/pin/9152) — [source page](https://zed.dev/)
+
+[![Zed — Your last next editor](https://pin.fontofweb.com/9151?format=jpg)](https://design.withfudge.com/pin/9151)
+[Zed — Your last next editor](https://design.withfudge.com/pin/9151) — [source page](https://zed.dev/)
+
+[![Zed — Your last next editor](https://pin.fontofweb.com/9150?format=jpg)](https://design.withfudge.com/pin/9150)
+[Zed — Your last next editor](https://design.withfudge.com/pin/9150) — [source page](https://zed.dev/)
+
+[![Zed — Your last next editor](https://pin.fontofweb.com/9149?format=jpg)](https://design.withfudge.com/pin/9149)
+[Zed — Your last next editor](https://design.withfudge.com/pin/9149) — [source page](https://zed.dev/)
+
+[![Zed — Love your editor again](https://pin.fontofweb.com/5976?format=jpg)](https://design.withfudge.com/pin/5976)
+[Zed — Love your editor again](https://design.withfudge.com/pin/5976) — [source page](https://zed.dev/)
+
+[![Zed — The editor for what's next](https://pin.fontofweb.com/4625?format=jpg)](https://design.withfudge.com/pin/4625)
+[Zed — The editor for what's next](https://design.withfudge.com/pin/4625) — [source page](https://zed.dev/)

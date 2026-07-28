@@ -6,6 +6,10 @@ Source domain: [postiz.com](https://postiz.com)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7538
+-->
+
 Here is the visual system observed across **3 captured pages** from [postiz.com](https://postiz.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [postiz.com]
 }
 ```
 
-## References
-- [Postiz: The All-in-One agentic social media scheduling tool](https://design.withfudge.com/pin/7538) — [source page](https://postiz.com/)
-- [Pricing - Postiz](https://design.withfudge.com/pin/7537) — [source page](https://postiz.com/pricing)
-- [Postiz: The All-in-One agentic social media scheduling tool](https://design.withfudge.com/pin/7536) — [source page](https://postiz.com/)
+## Representative captures
+[![Postiz: The All-in-One agentic social media scheduling tool](https://pin.fontofweb.com/7538?format=jpg)](https://design.withfudge.com/pin/7538)
+[Postiz: The All-in-One agentic social media scheduling tool](https://design.withfudge.com/pin/7538) — [source page](https://postiz.com/)
+
+[![Pricing - Postiz](https://pin.fontofweb.com/7537?format=jpg)](https://design.withfudge.com/pin/7537)
+[Pricing - Postiz](https://design.withfudge.com/pin/7537) — [source page](https://postiz.com/pricing)
+
+[![Postiz: The All-in-One agentic social media scheduling tool](https://pin.fontofweb.com/7536?format=jpg)](https://design.withfudge.com/pin/7536)
+[Postiz: The All-in-One agentic social media scheduling tool](https://design.withfudge.com/pin/7536) — [source page](https://postiz.com/)

@@ -6,6 +6,10 @@ Source domain: [sprouts.com](https://sprouts.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7053
+-->
+
 Here is the visual system observed across **1 captured page** from [sprouts.com](https://sprouts.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [sprouts.com]
 }
 ```
 
-## References
-- [Healthy Grocery, Organic Food & Supplements | Sprouts Farmers Market](https://design.withfudge.com/pin/7053) — [source page](https://sprouts.com/)
+## Representative captures
+[![Healthy Grocery, Organic Food & Supplements | Sprouts Farmers Market](https://pin.fontofweb.com/7053?format=jpg)](https://design.withfudge.com/pin/7053)
+[Healthy Grocery, Organic Food & Supplements | Sprouts Farmers Market](https://design.withfudge.com/pin/7053) — [source page](https://sprouts.com/)

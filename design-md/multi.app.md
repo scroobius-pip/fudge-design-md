@@ -6,6 +6,10 @@ Source domain: [multi.app](https://multi.app)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6081
+-->
+
 Here is the visual system observed across **8 captured pages** from [multi.app](https://multi.app).
 
 ```fudge-colors
@@ -301,12 +305,27 @@ Here is the visual system observed across **8 captured pages** from [multi.app](
 }
 ```
 
-## References
-- [Blog - Multi](https://design.withfudge.com/pin/6081) — [source page](https://multi.app/blog)
-- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6080) — [source page](https://multi.app/blog/multi-is-joining-openai)
-- [Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6079) — [source page](https://multi.app/blog/multi-is-joining-openai)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6078) — [source page](https://multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6077) — [source page](https://multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6076) — [source page](https://multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6075) — [source page](https://multi.app/)
-- [Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6074) — [source page](https://multi.app/)
+## Representative captures
+[![Blog - Multi](https://pin.fontofweb.com/6081?format=jpg)](https://design.withfudge.com/pin/6081)
+[Blog - Multi](https://design.withfudge.com/pin/6081) — [source page](https://multi.app/blog)
+
+[![Multi Blog – Multi is joining OpenAI](https://pin.fontofweb.com/6080?format=jpg)](https://design.withfudge.com/pin/6080)
+[Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6080) — [source page](https://multi.app/blog/multi-is-joining-openai)
+
+[![Multi Blog – Multi is joining OpenAI](https://pin.fontofweb.com/6079?format=jpg)](https://design.withfudge.com/pin/6079)
+[Multi Blog – Multi is joining OpenAI](https://design.withfudge.com/pin/6079) — [source page](https://multi.app/blog/multi-is-joining-openai)
+
+[![Multi— Multiplayer Collaboration for MacOS](https://pin.fontofweb.com/6078?format=jpg)](https://design.withfudge.com/pin/6078)
+[Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6078) — [source page](https://multi.app/)
+
+[![Multi— Multiplayer Collaboration for MacOS](https://pin.fontofweb.com/6077?format=jpg)](https://design.withfudge.com/pin/6077)
+[Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6077) — [source page](https://multi.app/)
+
+[![Multi— Multiplayer Collaboration for MacOS](https://pin.fontofweb.com/6076?format=jpg)](https://design.withfudge.com/pin/6076)
+[Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6076) — [source page](https://multi.app/)
+
+[![Multi— Multiplayer Collaboration for MacOS](https://pin.fontofweb.com/6075?format=jpg)](https://design.withfudge.com/pin/6075)
+[Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6075) — [source page](https://multi.app/)
+
+[![Multi— Multiplayer Collaboration for MacOS](https://pin.fontofweb.com/6074?format=jpg)](https://design.withfudge.com/pin/6074)
+[Multi— Multiplayer Collaboration for MacOS](https://design.withfudge.com/pin/6074) — [source page](https://multi.app/)

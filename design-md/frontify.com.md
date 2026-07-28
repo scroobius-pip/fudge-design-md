@@ -6,6 +6,10 @@ Source domain: [frontify.com](https://frontify.com)
 
 Last updated: 2026-01-29
 
+<!--
+coverPin: 6111
+-->
+
 Here is the visual system observed across **9 captured pages** from [frontify.com](https://frontify.com).
 
 ```fudge-colors
@@ -277,12 +281,27 @@ Here is the visual system observed across **9 captured pages** from [frontify.co
 }
 ```
 
-## References
-- [Pricing | Frontify](https://design.withfudge.com/pin/6111) — [source page](https://frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6110) — [source page](https://frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6109) — [source page](https://frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6108) — [source page](https://frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6107) — [source page](https://frontify.com/en/pricing)
-- [Pricing | Frontify](https://design.withfudge.com/pin/6106) — [source page](https://frontify.com/en/pricing)
-- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6105) — [source page](https://frontify.com/en)
-- [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6104) — [source page](https://frontify.com/en)
+## Representative captures
+[![Pricing | Frontify](https://pin.fontofweb.com/6111?format=jpg)](https://design.withfudge.com/pin/6111)
+[Pricing | Frontify](https://design.withfudge.com/pin/6111) — [source page](https://frontify.com/en/pricing)
+
+[![Pricing | Frontify](https://pin.fontofweb.com/6110?format=jpg)](https://design.withfudge.com/pin/6110)
+[Pricing | Frontify](https://design.withfudge.com/pin/6110) — [source page](https://frontify.com/en/pricing)
+
+[![Pricing | Frontify](https://pin.fontofweb.com/6109?format=jpg)](https://design.withfudge.com/pin/6109)
+[Pricing | Frontify](https://design.withfudge.com/pin/6109) — [source page](https://frontify.com/en/pricing)
+
+[![Pricing | Frontify](https://pin.fontofweb.com/6108?format=jpg)](https://design.withfudge.com/pin/6108)
+[Pricing | Frontify](https://design.withfudge.com/pin/6108) — [source page](https://frontify.com/en/pricing)
+
+[![Pricing | Frontify](https://pin.fontofweb.com/6107?format=jpg)](https://design.withfudge.com/pin/6107)
+[Pricing | Frontify](https://design.withfudge.com/pin/6107) — [source page](https://frontify.com/en/pricing)
+
+[![Pricing | Frontify](https://pin.fontofweb.com/6106?format=jpg)](https://design.withfudge.com/pin/6106)
+[Pricing | Frontify](https://design.withfudge.com/pin/6106) — [source page](https://frontify.com/en/pricing)
+
+[![Frontify: Where Brands Live - Brand Management Software](https://pin.fontofweb.com/6105?format=jpg)](https://design.withfudge.com/pin/6105)
+[Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6105) — [source page](https://frontify.com/en)
+
+[![Frontify: Where Brands Live - Brand Management Software](https://pin.fontofweb.com/6104?format=jpg)](https://design.withfudge.com/pin/6104)
+[Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/pin/6104) — [source page](https://frontify.com/en)

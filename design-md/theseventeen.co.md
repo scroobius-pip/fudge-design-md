@@ -6,6 +6,10 @@ Source domain: [theseventeen.co](https://theseventeen.co)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7306
+-->
+
 Here is the visual system observed across **3 captured pages** from [theseventeen.co](https://theseventeen.co).
 
 ```fudge-colors
@@ -153,7 +157,12 @@ Here is the visual system observed across **3 captured pages** from [theseventee
 }
 ```
 
-## References
-- [The Seventeen](https://design.withfudge.com/pin/7306) — [source page](https://theseventeen.co/)
-- [The Seventeen](https://design.withfudge.com/pin/7305) — [source page](https://theseventeen.co/)
-- [The Seventeen](https://design.withfudge.com/pin/7304) — [source page](https://theseventeen.co/)
+## Representative captures
+[![The Seventeen](https://pin.fontofweb.com/7306?format=jpg)](https://design.withfudge.com/pin/7306)
+[The Seventeen](https://design.withfudge.com/pin/7306) — [source page](https://theseventeen.co/)
+
+[![The Seventeen](https://pin.fontofweb.com/7305?format=jpg)](https://design.withfudge.com/pin/7305)
+[The Seventeen](https://design.withfudge.com/pin/7305) — [source page](https://theseventeen.co/)
+
+[![The Seventeen](https://pin.fontofweb.com/7304?format=jpg)](https://design.withfudge.com/pin/7304)
+[The Seventeen](https://design.withfudge.com/pin/7304) — [source page](https://theseventeen.co/)

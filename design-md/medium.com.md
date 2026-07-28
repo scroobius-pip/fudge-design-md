@@ -6,6 +6,10 @@ Source domain: [medium.com](https://medium.com)
 
 Last updated: 2026-06-18
 
+<!--
+coverPin: 9708
+-->
+
 Here is the visual system observed across **20 captured pages** from [medium.com](https://medium.com).
 
 ```fudge-colors
@@ -383,12 +387,27 @@ Here is the visual system observed across **20 captured pages** from [medium.com
 }
 ```
 
-## References
-- [Explore topics - Medium](https://design.withfudge.com/pin/9708) — [source page](https://medium.com/explore-topics)
-- [Medium: Read and write stories.](https://design.withfudge.com/pin/9706) — [source page](https://medium.com/)
-- [Why write on Medium?](https://design.withfudge.com/pin/9603) — [source page](https://medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9602) — [source page](https://medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9601) — [source page](https://medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9600) — [source page](https://medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9599) — [source page](https://medium.com/write)
-- [Why write on Medium?](https://design.withfudge.com/pin/9598) — [source page](https://medium.com/write)
+## Representative captures
+[![Explore topics - Medium](https://pin.fontofweb.com/9708?format=jpg)](https://design.withfudge.com/pin/9708)
+[Explore topics - Medium](https://design.withfudge.com/pin/9708) — [source page](https://medium.com/explore-topics)
+
+[![Medium: Read and write stories.](https://pin.fontofweb.com/9706?format=jpg)](https://design.withfudge.com/pin/9706)
+[Medium: Read and write stories.](https://design.withfudge.com/pin/9706) — [source page](https://medium.com/)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9603?format=jpg)](https://design.withfudge.com/pin/9603)
+[Why write on Medium?](https://design.withfudge.com/pin/9603) — [source page](https://medium.com/write)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9602?format=jpg)](https://design.withfudge.com/pin/9602)
+[Why write on Medium?](https://design.withfudge.com/pin/9602) — [source page](https://medium.com/write)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9601?format=jpg)](https://design.withfudge.com/pin/9601)
+[Why write on Medium?](https://design.withfudge.com/pin/9601) — [source page](https://medium.com/write)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9600?format=jpg)](https://design.withfudge.com/pin/9600)
+[Why write on Medium?](https://design.withfudge.com/pin/9600) — [source page](https://medium.com/write)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9599?format=jpg)](https://design.withfudge.com/pin/9599)
+[Why write on Medium?](https://design.withfudge.com/pin/9599) — [source page](https://medium.com/write)
+
+[![Why write on Medium?](https://pin.fontofweb.com/9598?format=jpg)](https://design.withfudge.com/pin/9598)
+[Why write on Medium?](https://design.withfudge.com/pin/9598) — [source page](https://medium.com/write)

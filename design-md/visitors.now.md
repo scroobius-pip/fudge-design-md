@@ -6,6 +6,10 @@ Source domain: [visitors.now](https://visitors.now)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7484
+-->
+
 Here is the visual system observed across **17 captured pages** from [visitors.now](https://visitors.now).
 
 ```fudge-colors
@@ -296,12 +300,27 @@ Here is the visual system observed across **17 captured pages** from [visitors.n
 }
 ```
 
-## References
-- [(36) Stats on Godly - Visitors](https://design.withfudge.com/pin/7484) — [source page](https://visitors.now/s/godly.website)
-- [(37) Stats on Godly - Visitors](https://design.withfudge.com/pin/7483) — [source page](https://visitors.now/s/godly.website)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7449) — [source page](https://visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7448) — [source page](https://visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7447) — [source page](https://visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7446) — [source page](https://visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7445) — [source page](https://visitors.now/)
-- [Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7444) — [source page](https://visitors.now/)
+## Representative captures
+[![(36) Stats on Godly - Visitors](https://pin.fontofweb.com/7484?format=jpg)](https://design.withfudge.com/pin/7484)
+[(36) Stats on Godly - Visitors](https://design.withfudge.com/pin/7484) — [source page](https://visitors.now/s/godly.website)
+
+[![(37) Stats on Godly - Visitors](https://pin.fontofweb.com/7483?format=jpg)](https://design.withfudge.com/pin/7483)
+[(37) Stats on Godly - Visitors](https://design.withfudge.com/pin/7483) — [source page](https://visitors.now/s/godly.website)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7449?format=jpg)](https://design.withfudge.com/pin/7449)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7449) — [source page](https://visitors.now/)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7448?format=jpg)](https://design.withfudge.com/pin/7448)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7448) — [source page](https://visitors.now/)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7447?format=jpg)](https://design.withfudge.com/pin/7447)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7447) — [source page](https://visitors.now/)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7446?format=jpg)](https://design.withfudge.com/pin/7446)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7446) — [source page](https://visitors.now/)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7445?format=jpg)](https://design.withfudge.com/pin/7445)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7445) — [source page](https://visitors.now/)
+
+[![Visitors - Privacy-friendly Google Analytics alternative](https://pin.fontofweb.com/7444?format=jpg)](https://design.withfudge.com/pin/7444)
+[Visitors - Privacy-friendly Google Analytics alternative](https://design.withfudge.com/pin/7444) — [source page](https://visitors.now/)

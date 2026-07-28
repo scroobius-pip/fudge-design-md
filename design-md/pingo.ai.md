@@ -6,6 +6,10 @@ Source domain: [pingo.ai](https://pingo.ai)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10067
+-->
+
 Here is the visual system observed across **6 captured pages** from [pingo.ai](https://pingo.ai).
 
 ```fudge-colors
@@ -221,10 +225,21 @@ Here is the visual system observed across **6 captured pages** from [pingo.ai](h
 }
 ```
 
-## References
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10067) — [source page](https://pingo.ai/)
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10066) — [source page](https://pingo.ai/)
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10065) — [source page](https://pingo.ai/)
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10064) — [source page](https://pingo.ai/)
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10063) — [source page](https://pingo.ai/)
-- [Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10062) — [source page](https://pingo.ai/)
+## Representative captures
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10067?format=jpg)](https://design.withfudge.com/pin/10067)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10067) — [source page](https://pingo.ai/)
+
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10066?format=jpg)](https://design.withfudge.com/pin/10066)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10066) — [source page](https://pingo.ai/)
+
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10065?format=jpg)](https://design.withfudge.com/pin/10065)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10065) — [source page](https://pingo.ai/)
+
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10064?format=jpg)](https://design.withfudge.com/pin/10064)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10064) — [source page](https://pingo.ai/)
+
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10063?format=jpg)](https://design.withfudge.com/pin/10063)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10063) — [source page](https://pingo.ai/)
+
+[![Learn a language by talking | Pingo AI](https://pin.fontofweb.com/10062?format=jpg)](https://design.withfudge.com/pin/10062)
+[Learn a language by talking | Pingo AI](https://design.withfudge.com/pin/10062) — [source page](https://pingo.ai/)

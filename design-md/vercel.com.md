@@ -6,6 +6,10 @@ Source domain: [vercel.com](https://vercel.com)
 
 Last updated: 2026-06-19
 
+<!--
+coverPin: 9715
+-->
+
 Here is the visual system observed across **50 captured pages** from [vercel.com](https://vercel.com).
 
 ```fudge-colors
@@ -341,12 +345,27 @@ Here is the visual system observed across **50 captured pages** from [vercel.com
 }
 ```
 
-## References
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9715) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9714) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
-- [fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9713) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb)
-- [Vercel](https://design.withfudge.com/pin/9712) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe)
-- [Login – Vercel](https://design.withfudge.com/pin/9711) — [source page](https://vercel.com/login)
-- [Agentic Infrastructure](https://design.withfudge.com/pin/9710) — [source page](https://vercel.com/)
-- [Agentic Infrastructure](https://design.withfudge.com/pin/9709) — [source page](https://vercel.com/)
-- [Migrate to Vercel from Cloudflare | Vercel Knowledge Base](https://design.withfudge.com/pin/7329) — [source page](https://vercel.com/kb/guide/migrate-to-vercel-from-cloudflare)
+## Representative captures
+[![fontofweb - Overview – Vercel](https://pin.fontofweb.com/9715?format=jpg)](https://design.withfudge.com/pin/9715)
+[fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9715) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
+
+[![fontofweb - Overview – Vercel](https://pin.fontofweb.com/9714?format=jpg)](https://design.withfudge.com/pin/9714)
+[fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9714) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb/settings)
+
+[![fontofweb - Overview – Vercel](https://pin.fontofweb.com/9713?format=jpg)](https://design.withfudge.com/pin/9713)
+[fontofweb - Overview – Vercel](https://design.withfudge.com/pin/9713) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe/fontofweb)
+
+[![Vercel](https://pin.fontofweb.com/9712?format=jpg)](https://design.withfudge.com/pin/9712)
+[Vercel](https://design.withfudge.com/pin/9712) — [source page](https://vercel.com/simdi-jinkins-projects-f83afebe)
+
+[![Login – Vercel](https://pin.fontofweb.com/9711?format=jpg)](https://design.withfudge.com/pin/9711)
+[Login – Vercel](https://design.withfudge.com/pin/9711) — [source page](https://vercel.com/login)
+
+[![Agentic Infrastructure](https://pin.fontofweb.com/9710?format=jpg)](https://design.withfudge.com/pin/9710)
+[Agentic Infrastructure](https://design.withfudge.com/pin/9710) — [source page](https://vercel.com/)
+
+[![Agentic Infrastructure](https://pin.fontofweb.com/9709?format=jpg)](https://design.withfudge.com/pin/9709)
+[Agentic Infrastructure](https://design.withfudge.com/pin/9709) — [source page](https://vercel.com/)
+
+[![Migrate to Vercel from Cloudflare | Vercel Knowledge Base](https://pin.fontofweb.com/7329?format=jpg)](https://design.withfudge.com/pin/7329)
+[Migrate to Vercel from Cloudflare | Vercel Knowledge Base](https://design.withfudge.com/pin/7329) — [source page](https://vercel.com/kb/guide/migrate-to-vercel-from-cloudflare)

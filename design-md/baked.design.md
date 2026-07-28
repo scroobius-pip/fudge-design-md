@@ -6,6 +6,10 @@ Source domain: [baked.design](https://baked.design)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6495
+-->
+
 Here is the visual system observed across **8 captured pages** from [baked.design](https://baked.design).
 
 ```fudge-colors
@@ -224,12 +228,27 @@ Here is the visual system observed across **8 captured pages** from [baked.desig
 }
 ```
 
-## References
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6495) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/6319) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5265) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5264) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5263) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5262) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5261) — [source page](https://baked.design/)
-- [Baked Design - Product Design Partner](https://design.withfudge.com/pin/5260) — [source page](https://baked.design/)
+## Representative captures
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/6495?format=jpg)](https://design.withfudge.com/pin/6495)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/6495) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/6319?format=jpg)](https://design.withfudge.com/pin/6319)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/6319) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5265?format=jpg)](https://design.withfudge.com/pin/5265)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5265) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5264?format=jpg)](https://design.withfudge.com/pin/5264)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5264) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5263?format=jpg)](https://design.withfudge.com/pin/5263)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5263) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5262?format=jpg)](https://design.withfudge.com/pin/5262)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5262) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5261?format=jpg)](https://design.withfudge.com/pin/5261)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5261) — [source page](https://baked.design/)
+
+[![Baked Design - Product Design Partner](https://pin.fontofweb.com/5260?format=jpg)](https://design.withfudge.com/pin/5260)
+[Baked Design - Product Design Partner](https://design.withfudge.com/pin/5260) — [source page](https://baked.design/)

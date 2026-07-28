@@ -6,6 +6,10 @@ Source domain: [mio.gg](https://mio.gg)
 
 Last updated: 2026-03-03
 
+<!--
+coverPin: 7627
+-->
+
 Here is the visual system observed across **2 captured pages** from [mio.gg](https://mio.gg).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [mio.gg](htt
 }
 ```
 
-## References
-- [Mio — Your AI Phone Assistant](https://design.withfudge.com/pin/7627) — [source page](https://mio.gg/)
-- [Mio — Your AI Phone Assistant](https://design.withfudge.com/pin/7626) — [source page](https://mio.gg/)
+## Representative captures
+[![Mio — Your AI Phone Assistant](https://pin.fontofweb.com/7627?format=jpg)](https://design.withfudge.com/pin/7627)
+[Mio — Your AI Phone Assistant](https://design.withfudge.com/pin/7627) — [source page](https://mio.gg/)
+
+[![Mio — Your AI Phone Assistant](https://pin.fontofweb.com/7626?format=jpg)](https://design.withfudge.com/pin/7626)
+[Mio — Your AI Phone Assistant](https://design.withfudge.com/pin/7626) — [source page](https://mio.gg/)

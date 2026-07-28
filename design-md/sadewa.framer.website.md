@@ -6,6 +6,10 @@ Source domain: [sadewa.framer.website](https://sadewa.framer.website)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5966
+-->
+
 Here is the visual system observed across **16 captured pages** from [sadewa.framer.website](https://sadewa.framer.website).
 
 ```fudge-colors
@@ -344,12 +348,27 @@ Here is the visual system observed across **16 captured pages** from [sadewa.fra
 }
 ```
 
-## References
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5966) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5965) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5964) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5963) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5962) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5961) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5960) — [source page](https://sadewa.framer.website/)
-- [Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5959) — [source page](https://sadewa.framer.website/)
+## Representative captures
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5966?format=jpg)](https://design.withfudge.com/pin/5966)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5966) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5965?format=jpg)](https://design.withfudge.com/pin/5965)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5965) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5964?format=jpg)](https://design.withfudge.com/pin/5964)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5964) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5963?format=jpg)](https://design.withfudge.com/pin/5963)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5963) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5962?format=jpg)](https://design.withfudge.com/pin/5962)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5962) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5961?format=jpg)](https://design.withfudge.com/pin/5961)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5961) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5960?format=jpg)](https://design.withfudge.com/pin/5960)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5960) — [source page](https://sadewa.framer.website/)
+
+[![Sadewa - AI Automation Agency Framer Template](https://pin.fontofweb.com/5959?format=jpg)](https://design.withfudge.com/pin/5959)
+[Sadewa - AI Automation Agency Framer Template](https://design.withfudge.com/pin/5959) — [source page](https://sadewa.framer.website/)

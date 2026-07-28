@@ -6,6 +6,10 @@ Source domain: [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6630
+-->
+
 Here is the visual system observed across **1 captured page** from [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [blog.tomaszd
 }
 ```
 
-## References
-- [Tomasz Dunia - Blog](https://design.withfudge.com/pin/6630) — [source page](https://blog.tomaszdunia.pl/)
+## Representative captures
+[![Tomasz Dunia - Blog](https://pin.fontofweb.com/6630?format=jpg)](https://design.withfudge.com/pin/6630)
+[Tomasz Dunia - Blog](https://design.withfudge.com/pin/6630) — [source page](https://blog.tomaszdunia.pl/)

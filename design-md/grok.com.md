@@ -6,6 +6,10 @@ Source domain: [grok.com](https://grok.com)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10170
+-->
+
 Here is the visual system observed across **21 captured pages** from [grok.com](https://grok.com).
 
 ```fudge-colors
@@ -346,12 +350,27 @@ Here is the visual system observed across **21 captured pages** from [grok.com](
 }
 ```
 
-## References
-- [Grok](https://design.withfudge.com/pin/10170) — [source page](https://grok.com/)
-- [Grok](https://design.withfudge.com/pin/9970) — [source page](https://grok.com/plans)
-- [Keyboard Size and Color Edit - Grok](https://design.withfudge.com/pin/7930) — [source page](https://grok.com/c/0053ccec-2e9c-4ce7-994b-807af3589f0d)
-- [Imagine - Grok](https://design.withfudge.com/pin/7925) — [source page](https://grok.com/imagine)
-- [Imagine - Grok](https://design.withfudge.com/pin/7924) — [source page](https://grok.com/imagine/post/e70e996b-b2c7-48d8-b1f0-10ca39c6e82c)
-- [ISS Grounding: Structure as Reference, Plasma Contactors - Grok](https://design.withfudge.com/pin/7233) — [source page](https://grok.com/c/25bcc7f5-8a29-40c5-b01e-8bad3f474bfc)
-- [Grok](https://design.withfudge.com/pin/6778) — [source page](https://grok.com/)
-- [Tasty AI & Design Word Puns - Grok](https://design.withfudge.com/pin/6255) — [source page](https://grok.com/c/eaba0b28-b859-486c-bc1f-5657a3ef3fb3)
+## Representative captures
+[![Grok](https://pin.fontofweb.com/10170?format=jpg)](https://design.withfudge.com/pin/10170)
+[Grok](https://design.withfudge.com/pin/10170) — [source page](https://grok.com/)
+
+[![Grok](https://pin.fontofweb.com/9970?format=jpg)](https://design.withfudge.com/pin/9970)
+[Grok](https://design.withfudge.com/pin/9970) — [source page](https://grok.com/plans)
+
+[![Keyboard Size and Color Edit - Grok](https://pin.fontofweb.com/7930?format=jpg)](https://design.withfudge.com/pin/7930)
+[Keyboard Size and Color Edit - Grok](https://design.withfudge.com/pin/7930) — [source page](https://grok.com/c/0053ccec-2e9c-4ce7-994b-807af3589f0d)
+
+[![Imagine - Grok](https://pin.fontofweb.com/7925?format=jpg)](https://design.withfudge.com/pin/7925)
+[Imagine - Grok](https://design.withfudge.com/pin/7925) — [source page](https://grok.com/imagine)
+
+[![Imagine - Grok](https://pin.fontofweb.com/7924?format=jpg)](https://design.withfudge.com/pin/7924)
+[Imagine - Grok](https://design.withfudge.com/pin/7924) — [source page](https://grok.com/imagine/post/e70e996b-b2c7-48d8-b1f0-10ca39c6e82c)
+
+[![ISS Grounding: Structure as Reference, Plasma Contactors - Grok](https://pin.fontofweb.com/7233?format=jpg)](https://design.withfudge.com/pin/7233)
+[ISS Grounding: Structure as Reference, Plasma Contactors - Grok](https://design.withfudge.com/pin/7233) — [source page](https://grok.com/c/25bcc7f5-8a29-40c5-b01e-8bad3f474bfc)
+
+[![Grok](https://pin.fontofweb.com/6778?format=jpg)](https://design.withfudge.com/pin/6778)
+[Grok](https://design.withfudge.com/pin/6778) — [source page](https://grok.com/)
+
+[![Tasty AI & Design Word Puns - Grok](https://pin.fontofweb.com/6255?format=jpg)](https://design.withfudge.com/pin/6255)
+[Tasty AI & Design Word Puns - Grok](https://design.withfudge.com/pin/6255) — [source page](https://grok.com/c/eaba0b28-b859-486c-bc1f-5657a3ef3fb3)

@@ -6,6 +6,10 @@ Source domain: [paper-demo-pearl.vercel.app](https://paper-demo-pearl.vercel.app
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7934
+-->
+
 Here is the visual system observed across **1 captured page** from [paper-demo-pearl.vercel.app](https://paper-demo-pearl.vercel.app).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [paper-demo-p
 }
 ```
 
-## References
-- [Dream Big Preview](https://design.withfudge.com/pin/7934) — [source page](https://paper-demo-pearl.vercel.app/)
+## Representative captures
+[![Dream Big Preview](https://pin.fontofweb.com/7934?format=jpg)](https://design.withfudge.com/pin/7934)
+[Dream Big Preview](https://design.withfudge.com/pin/7934) — [source page](https://paper-demo-pearl.vercel.app/)

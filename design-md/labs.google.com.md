@@ -6,6 +6,10 @@ Source domain: [labs.google.com](https://labs.google.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6802
+-->
+
 Here is the visual system observed across **1 captured page** from [labs.google.com](https://labs.google.com).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [labs.google.
 }
 ```
 
-## References
-- [Pomelli by Google Labs](https://design.withfudge.com/pin/6802) — [source page](https://labs.google.com/pomelli/about/)
+## Representative captures
+[![Pomelli by Google Labs](https://pin.fontofweb.com/6802?format=jpg)](https://design.withfudge.com/pin/6802)
+[Pomelli by Google Labs](https://design.withfudge.com/pin/6802) — [source page](https://labs.google.com/pomelli/about/)

@@ -6,6 +6,10 @@ Source domain: [wabi.ai](https://wabi.ai)
 
 Last updated: 2026-03-24
 
+<!--
+coverPin: 8287
+-->
+
 Here is the visual system observed across **7 captured pages** from [wabi.ai](https://wabi.ai).
 
 ```fudge-colors
@@ -194,11 +198,24 @@ Here is the visual system observed across **7 captured pages** from [wabi.ai](ht
 }
 ```
 
-## References
-- [Skia shader playground by @brock - Wabi](https://design.withfudge.com/pin/8287) — [source page](https://wabi.ai/@brock/skia-shader-playground-1023499)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8212) — [source page](https://wabi.ai/)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8211) — [source page](https://wabi.ai/)
-- [Wabi — The first personal software platform](https://design.withfudge.com/pin/8210) — [source page](https://wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4453) — [source page](https://wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4452) — [source page](https://wabi.ai/)
-- [Wabi](https://design.withfudge.com/pin/4451) — [source page](https://wabi.ai/)
+## Representative captures
+[![Skia shader playground by @brock - Wabi](https://pin.fontofweb.com/8287?format=jpg)](https://design.withfudge.com/pin/8287)
+[Skia shader playground by @brock - Wabi](https://design.withfudge.com/pin/8287) — [source page](https://wabi.ai/@brock/skia-shader-playground-1023499)
+
+[![Wabi — The first personal software platform](https://pin.fontofweb.com/8212?format=jpg)](https://design.withfudge.com/pin/8212)
+[Wabi — The first personal software platform](https://design.withfudge.com/pin/8212) — [source page](https://wabi.ai/)
+
+[![Wabi — The first personal software platform](https://pin.fontofweb.com/8211?format=jpg)](https://design.withfudge.com/pin/8211)
+[Wabi — The first personal software platform](https://design.withfudge.com/pin/8211) — [source page](https://wabi.ai/)
+
+[![Wabi — The first personal software platform](https://pin.fontofweb.com/8210?format=jpg)](https://design.withfudge.com/pin/8210)
+[Wabi — The first personal software platform](https://design.withfudge.com/pin/8210) — [source page](https://wabi.ai/)
+
+[![Wabi](https://pin.fontofweb.com/4453?format=jpg)](https://design.withfudge.com/pin/4453)
+[Wabi](https://design.withfudge.com/pin/4453) — [source page](https://wabi.ai/)
+
+[![Wabi](https://pin.fontofweb.com/4452?format=jpg)](https://design.withfudge.com/pin/4452)
+[Wabi](https://design.withfudge.com/pin/4452) — [source page](https://wabi.ai/)
+
+[![Wabi](https://pin.fontofweb.com/4451?format=jpg)](https://design.withfudge.com/pin/4451)
+[Wabi](https://design.withfudge.com/pin/4451) — [source page](https://wabi.ai/)

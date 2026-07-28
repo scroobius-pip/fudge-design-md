@@ -6,6 +6,10 @@ Source domain: [intl.nothing.tech](https://intl.nothing.tech)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7742
+-->
+
 Here is the visual system observed across **4 captured pages** from [intl.nothing.tech](https://intl.nothing.tech).
 
 ```fudge-colors
@@ -175,8 +179,15 @@ Here is the visual system observed across **4 captured pages** from [intl.nothin
 }
 ```
 
-## References
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7742) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7741) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7740) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
-- [Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7739) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+## Representative captures
+[![Phone (4a) Pro | Smartphones | Nothing | US](https://pin.fontofweb.com/7742?format=jpg)](https://design.withfudge.com/pin/7742)
+[Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7742) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+
+[![Phone (4a) Pro | Smartphones | Nothing | US](https://pin.fontofweb.com/7741?format=jpg)](https://design.withfudge.com/pin/7741)
+[Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7741) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+
+[![Phone (4a) Pro | Smartphones | Nothing | US](https://pin.fontofweb.com/7740?format=jpg)](https://design.withfudge.com/pin/7740)
+[Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7740) — [source page](https://intl.nothing.tech/products/phone-4a-pro)
+
+[![Phone (4a) Pro | Smartphones | Nothing | US](https://pin.fontofweb.com/7739?format=jpg)](https://design.withfudge.com/pin/7739)
+[Phone (4a) Pro | Smartphones | Nothing | US](https://design.withfudge.com/pin/7739) — [source page](https://intl.nothing.tech/products/phone-4a-pro)

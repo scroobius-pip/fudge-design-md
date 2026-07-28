@@ -6,6 +6,10 @@ Source domain: [mockdown.design](https://mockdown.design)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6673
+-->
+
 Here is the visual system observed across **2 captured pages** from [mockdown.design](https://mockdown.design).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [mockdown.de
 }
 ```
 
-## References
-- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6673) — [source page](https://mockdown.design/)
-- [Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6672) — [source page](https://mockdown.design/)
+## Representative captures
+[![Mockdown — ASCII Wireframe Editor](https://pin.fontofweb.com/6673?format=jpg)](https://design.withfudge.com/pin/6673)
+[Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6673) — [source page](https://mockdown.design/)
+
+[![Mockdown — ASCII Wireframe Editor](https://pin.fontofweb.com/6672?format=jpg)](https://design.withfudge.com/pin/6672)
+[Mockdown — ASCII Wireframe Editor](https://design.withfudge.com/pin/6672) — [source page](https://mockdown.design/)

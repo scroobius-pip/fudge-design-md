@@ -6,6 +6,10 @@ Source domain: [finance.yahoo.com](https://finance.yahoo.com)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7828
+-->
+
 Here is the visual system observed across **1 captured page** from [finance.yahoo.com](https://finance.yahoo.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [finance.yaho
 }
 ```
 
-## References
-- [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://design.withfudge.com/pin/7828) — [source page](https://finance.yahoo.com/)
+## Representative captures
+[![Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://pin.fontofweb.com/7828?format=jpg)](https://design.withfudge.com/pin/7828)
+[Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://design.withfudge.com/pin/7828) — [source page](https://finance.yahoo.com/)

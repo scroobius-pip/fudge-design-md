@@ -6,6 +6,10 @@ Source domain: [zoom.com](https://zoom.com)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9136
+-->
+
 Here is the visual system observed across **1 captured page** from [zoom.com](https://zoom.com).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [zoom.com](ht
 }
 ```
 
-## References
-- [One platform to connect | Zoom](https://design.withfudge.com/pin/9136) — [source page](https://zoom.com/)
+## Representative captures
+[![One platform to connect | Zoom](https://pin.fontofweb.com/9136?format=jpg)](https://design.withfudge.com/pin/9136)
+[One platform to connect | Zoom](https://design.withfudge.com/pin/9136) — [source page](https://zoom.com/)

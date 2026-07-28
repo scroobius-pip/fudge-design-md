@@ -6,6 +6,10 @@ Source domain: [creem.io](https://creem.io)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7119
+-->
+
 Here is the visual system observed across **6 captured pages** from [creem.io](https://creem.io).
 
 ```fudge-colors
@@ -212,10 +216,21 @@ Here is the visual system observed across **6 captured pages** from [creem.io](h
 }
 ```
 
-## References
-- [Creem](https://design.withfudge.com/pin/7119) — [source page](https://creem.io/)
-- [Creem](https://design.withfudge.com/pin/7118) — [source page](https://creem.io/)
-- [Creem](https://design.withfudge.com/pin/7117) — [source page](https://creem.io/)
-- [Creem](https://design.withfudge.com/pin/7116) — [source page](https://creem.io/)
-- [Creem](https://design.withfudge.com/pin/6201) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
-- [Creem](https://design.withfudge.com/pin/6200) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
+## Representative captures
+[![Creem](https://pin.fontofweb.com/7119?format=jpg)](https://design.withfudge.com/pin/7119)
+[Creem](https://design.withfudge.com/pin/7119) — [source page](https://creem.io/)
+
+[![Creem](https://pin.fontofweb.com/7118?format=jpg)](https://design.withfudge.com/pin/7118)
+[Creem](https://design.withfudge.com/pin/7118) — [source page](https://creem.io/)
+
+[![Creem](https://pin.fontofweb.com/7117?format=jpg)](https://design.withfudge.com/pin/7117)
+[Creem](https://design.withfudge.com/pin/7117) — [source page](https://creem.io/)
+
+[![Creem](https://pin.fontofweb.com/7116?format=jpg)](https://design.withfudge.com/pin/7116)
+[Creem](https://design.withfudge.com/pin/7116) — [source page](https://creem.io/)
+
+[![Creem](https://pin.fontofweb.com/6201?format=jpg)](https://design.withfudge.com/pin/6201)
+[Creem](https://design.withfudge.com/pin/6201) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)
+
+[![Creem](https://pin.fontofweb.com/6200?format=jpg)](https://design.withfudge.com/pin/6200)
+[Creem](https://design.withfudge.com/pin/6200) — [source page](https://creem.io/checkout/prod_4GWzcIFPubIXjTBvzo9pKA/ch_7lACOAL2TUYAmobnNtXWpy)

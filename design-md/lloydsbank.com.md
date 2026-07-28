@@ -6,6 +6,10 @@ Source domain: [lloydsbank.com](https://lloydsbank.com)
 
 Last updated: 2026-04-18
 
+<!--
+coverPin: 8963
+-->
+
 Here is the visual system observed across **5 captured pages** from [lloydsbank.com](https://lloydsbank.com).
 
 ```fudge-colors
@@ -183,9 +187,18 @@ Here is the visual system observed across **5 captured pages** from [lloydsbank.
 }
 ```
 
-## References
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8963) — [source page](https://lloydsbank.com/business/home.html)
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8962) — [source page](https://lloydsbank.com/business/home.html)
-- [Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8961) — [source page](https://lloydsbank.com/business/home.html)
-- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8960) — [source page](https://lloydsbank.com/)
-- [Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8959) — [source page](https://lloydsbank.com/)
+## Representative captures
+[![Business banking | Lloyds bank | Business](https://pin.fontofweb.com/8963?format=jpg)](https://design.withfudge.com/pin/8963)
+[Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8963) — [source page](https://lloydsbank.com/business/home.html)
+
+[![Business banking | Lloyds bank | Business](https://pin.fontofweb.com/8962?format=jpg)](https://design.withfudge.com/pin/8962)
+[Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8962) — [source page](https://lloydsbank.com/business/home.html)
+
+[![Business banking | Lloyds bank | Business](https://pin.fontofweb.com/8961?format=jpg)](https://design.withfudge.com/pin/8961)
+[Business banking | Lloyds bank | Business](https://design.withfudge.com/pin/8961) — [source page](https://lloydsbank.com/business/home.html)
+
+[![Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://pin.fontofweb.com/8960?format=jpg)](https://design.withfudge.com/pin/8960)
+[Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8960) — [source page](https://lloydsbank.com/)
+
+[![Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://pin.fontofweb.com/8959?format=jpg)](https://design.withfudge.com/pin/8959)
+[Lloyds Bank - Personal Banking, Personal Finances & Bank Accounts](https://design.withfudge.com/pin/8959) — [source page](https://lloydsbank.com/)

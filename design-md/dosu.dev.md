@@ -6,6 +6,10 @@ Source domain: [dosu.dev](https://dosu.dev)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10413
+-->
+
 Here is the visual system observed across **3 captured pages** from [dosu.dev](https://dosu.dev).
 
 ```fudge-colors
@@ -169,7 +173,12 @@ Here is the visual system observed across **3 captured pages** from [dosu.dev](h
 }
 ```
 
-## References
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10413) — [source page](https://dosu.dev/)
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10412) — [source page](https://dosu.dev/)
-- [Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10411) — [source page](https://dosu.dev/)
+## Representative captures
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10413?format=jpg)](https://design.withfudge.com/pin/10413)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10413) — [source page](https://dosu.dev/)
+
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10412?format=jpg)](https://design.withfudge.com/pin/10412)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10412) — [source page](https://dosu.dev/)
+
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10411?format=jpg)](https://design.withfudge.com/pin/10411)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/pin/10411) — [source page](https://dosu.dev/)

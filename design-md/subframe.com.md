@@ -6,6 +6,10 @@ Source domain: [subframe.com](https://subframe.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7662
+-->
+
 Here is the visual system observed across **27 captured pages** from [subframe.com](https://subframe.com).
 
 ```fudge-colors
@@ -345,12 +349,27 @@ Here is the visual system observed across **27 captured pages** from [subframe.c
 }
 ```
 
-## References
-- [Subframe - Tailwind CSS Components](https://design.withfudge.com/pin/7662) — [source page](https://subframe.com/library/overview)
-- [Subframe - Tailwind CSS Templates](https://design.withfudge.com/pin/7602) — [source page](https://subframe.com/templates)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6467) — [source page](https://subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6466) — [source page](https://subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6465) — [source page](https://subframe.com/design-systems)
-- [Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6464) — [source page](https://subframe.com/design-systems)
-- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6463) — [source page](https://subframe.com/)
-- [Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6462) — [source page](https://subframe.com/)
+## Representative captures
+[![Subframe - Tailwind CSS Components](https://pin.fontofweb.com/7662?format=jpg)](https://design.withfudge.com/pin/7662)
+[Subframe - Tailwind CSS Components](https://design.withfudge.com/pin/7662) — [source page](https://subframe.com/library/overview)
+
+[![Subframe - Tailwind CSS Templates](https://pin.fontofweb.com/7602?format=jpg)](https://design.withfudge.com/pin/7602)
+[Subframe - Tailwind CSS Templates](https://design.withfudge.com/pin/7602) — [source page](https://subframe.com/templates)
+
+[![Build a better design system with Subframe, from design to code](https://pin.fontofweb.com/6467?format=jpg)](https://design.withfudge.com/pin/6467)
+[Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6467) — [source page](https://subframe.com/design-systems)
+
+[![Build a better design system with Subframe, from design to code](https://pin.fontofweb.com/6466?format=jpg)](https://design.withfudge.com/pin/6466)
+[Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6466) — [source page](https://subframe.com/design-systems)
+
+[![Build a better design system with Subframe, from design to code](https://pin.fontofweb.com/6465?format=jpg)](https://design.withfudge.com/pin/6465)
+[Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6465) — [source page](https://subframe.com/design-systems)
+
+[![Build a better design system with Subframe, from design to code](https://pin.fontofweb.com/6464?format=jpg)](https://design.withfudge.com/pin/6464)
+[Build a better design system with Subframe, from design to code](https://design.withfudge.com/pin/6464) — [source page](https://subframe.com/design-systems)
+
+[![Subframe – The best way to build UI, fast.](https://pin.fontofweb.com/6463?format=jpg)](https://design.withfudge.com/pin/6463)
+[Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6463) — [source page](https://subframe.com/)
+
+[![Subframe – The best way to build UI, fast.](https://pin.fontofweb.com/6462?format=jpg)](https://design.withfudge.com/pin/6462)
+[Subframe – The best way to build UI, fast.](https://design.withfudge.com/pin/6462) — [source page](https://subframe.com/)

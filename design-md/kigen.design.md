@@ -6,6 +6,10 @@ Source domain: [kigen.design](https://kigen.design)
 
 Last updated: 2026-04-07
 
+<!--
+coverPin: 8718
+-->
+
 Here is the visual system observed across **8 captured pages** from [kigen.design](https://kigen.design).
 
 ```fudge-colors
@@ -230,12 +234,27 @@ Here is the visual system observed across **8 captured pages** from [kigen.desig
 }
 ```
 
-## References
-- [Kigen Design System](https://design.withfudge.com/pin/8718) — [source page](https://kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8717) — [source page](https://kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8716) — [source page](https://kigen.design/system)
-- [Kigen Design System](https://design.withfudge.com/pin/8715) — [source page](https://kigen.design/system)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5798) — [source page](https://kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5797) — [source page](https://kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5796) — [source page](https://kigen.design/)
-- [Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5795) — [source page](https://kigen.design/)
+## Representative captures
+[![Kigen Design System](https://pin.fontofweb.com/8718?format=jpg)](https://design.withfudge.com/pin/8718)
+[Kigen Design System](https://design.withfudge.com/pin/8718) — [source page](https://kigen.design/system)
+
+[![Kigen Design System](https://pin.fontofweb.com/8717?format=jpg)](https://design.withfudge.com/pin/8717)
+[Kigen Design System](https://design.withfudge.com/pin/8717) — [source page](https://kigen.design/system)
+
+[![Kigen Design System](https://pin.fontofweb.com/8716?format=jpg)](https://design.withfudge.com/pin/8716)
+[Kigen Design System](https://design.withfudge.com/pin/8716) — [source page](https://kigen.design/system)
+
+[![Kigen Design System](https://pin.fontofweb.com/8715?format=jpg)](https://design.withfudge.com/pin/8715)
+[Kigen Design System](https://design.withfudge.com/pin/8715) — [source page](https://kigen.design/system)
+
+[![Kigen - Figma Design System Generator](https://pin.fontofweb.com/5798?format=jpg)](https://design.withfudge.com/pin/5798)
+[Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5798) — [source page](https://kigen.design/)
+
+[![Kigen - Figma Design System Generator](https://pin.fontofweb.com/5797?format=jpg)](https://design.withfudge.com/pin/5797)
+[Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5797) — [source page](https://kigen.design/)
+
+[![Kigen - Figma Design System Generator](https://pin.fontofweb.com/5796?format=jpg)](https://design.withfudge.com/pin/5796)
+[Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5796) — [source page](https://kigen.design/)
+
+[![Kigen - Figma Design System Generator](https://pin.fontofweb.com/5795?format=jpg)](https://design.withfudge.com/pin/5795)
+[Kigen - Figma Design System Generator](https://design.withfudge.com/pin/5795) — [source page](https://kigen.design/)

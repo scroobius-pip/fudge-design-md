@@ -6,6 +6,10 @@ Source domain: [joshpuckett.me](https://joshpuckett.me)
 
 Last updated: 2026-03-26
 
+<!--
+coverPin: 8402
+-->
+
 Here is the visual system observed across **2 captured pages** from [joshpuckett.me](https://joshpuckett.me).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [joshpuckett
 }
 ```
 
-## References
-- [Josh Puckett](https://design.withfudge.com/pin/8402) — [source page](https://joshpuckett.me/)
-- [Josh Puckett](https://design.withfudge.com/pin/8401) — [source page](https://joshpuckett.me/dialkit/photostack)
+## Representative captures
+[![Josh Puckett](https://pin.fontofweb.com/8402?format=jpg)](https://design.withfudge.com/pin/8402)
+[Josh Puckett](https://design.withfudge.com/pin/8402) — [source page](https://joshpuckett.me/)
+
+[![Josh Puckett](https://pin.fontofweb.com/8401?format=jpg)](https://design.withfudge.com/pin/8401)
+[Josh Puckett](https://design.withfudge.com/pin/8401) — [source page](https://joshpuckett.me/dialkit/photostack)

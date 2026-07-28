@@ -6,6 +6,10 @@ Source domain: [hungryram.com](https://hungryram.com)
 
 Last updated: 2026-04-01
 
+<!--
+coverPin: 8578
+-->
+
 Here is the visual system observed across **1 captured page** from [hungryram.com](https://hungryram.com).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [hungryram.co
 }
 ```
 
-## References
-- [Custom Web Design and SEO Agency | Hungry Ram](https://design.withfudge.com/pin/8578) — [source page](https://hungryram.com/)
+## Representative captures
+[![Custom Web Design and SEO Agency | Hungry Ram](https://pin.fontofweb.com/8578?format=jpg)](https://design.withfudge.com/pin/8578)
+[Custom Web Design and SEO Agency | Hungry Ram](https://design.withfudge.com/pin/8578) — [source page](https://hungryram.com/)

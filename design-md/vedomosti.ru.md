@@ -6,6 +6,10 @@ Source domain: [vedomosti.ru](https://vedomosti.ru)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9137
+-->
+
 Here is the visual system observed across **2 captured pages** from [vedomosti.ru](https://vedomosti.ru).
 
 ```fudge-colors
@@ -106,6 +110,9 @@ Here is the visual system observed across **2 captured pages** from [vedomosti.r
 }
 ```
 
-## References
-- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9137) — [source page](https://vedomosti.ru/)
-- [«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9090) — [source page](https://vedomosti.ru/)
+## Representative captures
+[![«Ведомости» — ведущее деловое издание России](https://pin.fontofweb.com/9137?format=jpg)](https://design.withfudge.com/pin/9137)
+[«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9137) — [source page](https://vedomosti.ru/)
+
+[![«Ведомости» — ведущее деловое издание России](https://pin.fontofweb.com/9090?format=jpg)](https://design.withfudge.com/pin/9090)
+[«Ведомости» — ведущее деловое издание России](https://design.withfudge.com/pin/9090) — [source page](https://vedomosti.ru/)

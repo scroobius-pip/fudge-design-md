@@ -6,6 +6,10 @@ Source domain: [app.bitgo.com](https://app.bitgo.com)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10057
+-->
+
 Here is the visual system observed across **1 captured page** from [app.bitgo.com](https://app.bitgo.com).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [app.bitgo.co
 }
 ```
 
-## References
-- [Unknown IP Address - BitGo](https://design.withfudge.com/pin/10057) — [source page](https://app.bitgo.com/web/auth/unknown-request-source)
+## Representative captures
+[![Unknown IP Address - BitGo](https://pin.fontofweb.com/10057?format=jpg)](https://design.withfudge.com/pin/10057)
+[Unknown IP Address - BitGo](https://design.withfudge.com/pin/10057) — [source page](https://app.bitgo.com/web/auth/unknown-request-source)

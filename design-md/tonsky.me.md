@@ -6,6 +6,10 @@ Source domain: [tonsky.me](https://tonsky.me)
 
 Last updated: 2026-05-17
 
+<!--
+coverPin: 9370
+-->
+
 Here is the visual system observed across **1 captured page** from [tonsky.me](https://tonsky.me).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [tonsky.me](h
 }
 ```
 
-## References
-- [A shallow dive into DataScript internals @ tonsky.me](https://design.withfudge.com/pin/9370) — [source page](https://tonsky.me/blog/datascript-internals/)
+## Representative captures
+[![A shallow dive into DataScript internals @ tonsky.me](https://pin.fontofweb.com/9370?format=jpg)](https://design.withfudge.com/pin/9370)
+[A shallow dive into DataScript internals @ tonsky.me](https://design.withfudge.com/pin/9370) — [source page](https://tonsky.me/blog/datascript-internals/)

@@ -6,6 +6,10 @@ Source domain: [garriock.com](https://garriock.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7367
+-->
+
 Here is the visual system observed across **7 captured pages** from [garriock.com](https://garriock.com).
 
 ```fudge-colors
@@ -234,11 +238,24 @@ Here is the visual system observed across **7 captured pages** from [garriock.co
 }
 ```
 
-## References
-- [Garriock & Co.](https://design.withfudge.com/pin/7367) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7366) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7365) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7364) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7363) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7362) — [source page](https://garriock.com/)
-- [Garriock & Co.](https://design.withfudge.com/pin/7361) — [source page](https://garriock.com/)
+## Representative captures
+[![Garriock & Co.](https://pin.fontofweb.com/7367?format=jpg)](https://design.withfudge.com/pin/7367)
+[Garriock & Co.](https://design.withfudge.com/pin/7367) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7366?format=jpg)](https://design.withfudge.com/pin/7366)
+[Garriock & Co.](https://design.withfudge.com/pin/7366) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7365?format=jpg)](https://design.withfudge.com/pin/7365)
+[Garriock & Co.](https://design.withfudge.com/pin/7365) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7364?format=jpg)](https://design.withfudge.com/pin/7364)
+[Garriock & Co.](https://design.withfudge.com/pin/7364) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7363?format=jpg)](https://design.withfudge.com/pin/7363)
+[Garriock & Co.](https://design.withfudge.com/pin/7363) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7362?format=jpg)](https://design.withfudge.com/pin/7362)
+[Garriock & Co.](https://design.withfudge.com/pin/7362) — [source page](https://garriock.com/)
+
+[![Garriock & Co.](https://pin.fontofweb.com/7361?format=jpg)](https://design.withfudge.com/pin/7361)
+[Garriock & Co.](https://design.withfudge.com/pin/7361) — [source page](https://garriock.com/)

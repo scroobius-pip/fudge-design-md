@@ -6,6 +6,10 @@ Source domain: [land-book.com](https://land-book.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10108
+-->
+
 Here is the visual system observed across **7 captured pages** from [land-book.com](https://land-book.com).
 
 ```fudge-colors
@@ -238,11 +242,24 @@ Here is the visual system observed across **7 captured pages** from [land-book.c
 }
 ```
 
-## References
-- [PRO | Landbook](https://design.withfudge.com/pin/10108) — [source page](https://land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10107) — [source page](https://land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10106) — [source page](https://land-book.com/pro)
-- [PRO | Landbook](https://design.withfudge.com/pin/10105) — [source page](https://land-book.com/pro)
-- [The best section design examples](https://design.withfudge.com/pin/10104) — [source page](https://land-book.com/sections)
-- [The best section design examples](https://design.withfudge.com/pin/10103) — [source page](https://land-book.com/sections)
-- [The best serif website design inspiration | Landbook](https://design.withfudge.com/pin/4492) — [source page](https://land-book.com/)
+## Representative captures
+[![PRO | Landbook](https://pin.fontofweb.com/10108?format=jpg)](https://design.withfudge.com/pin/10108)
+[PRO | Landbook](https://design.withfudge.com/pin/10108) — [source page](https://land-book.com/pro)
+
+[![PRO | Landbook](https://pin.fontofweb.com/10107?format=jpg)](https://design.withfudge.com/pin/10107)
+[PRO | Landbook](https://design.withfudge.com/pin/10107) — [source page](https://land-book.com/pro)
+
+[![PRO | Landbook](https://pin.fontofweb.com/10106?format=jpg)](https://design.withfudge.com/pin/10106)
+[PRO | Landbook](https://design.withfudge.com/pin/10106) — [source page](https://land-book.com/pro)
+
+[![PRO | Landbook](https://pin.fontofweb.com/10105?format=jpg)](https://design.withfudge.com/pin/10105)
+[PRO | Landbook](https://design.withfudge.com/pin/10105) — [source page](https://land-book.com/pro)
+
+[![The best section design examples](https://pin.fontofweb.com/10104?format=jpg)](https://design.withfudge.com/pin/10104)
+[The best section design examples](https://design.withfudge.com/pin/10104) — [source page](https://land-book.com/sections)
+
+[![The best section design examples](https://pin.fontofweb.com/10103?format=jpg)](https://design.withfudge.com/pin/10103)
+[The best section design examples](https://design.withfudge.com/pin/10103) — [source page](https://land-book.com/sections)
+
+[![The best serif website design inspiration | Landbook](https://pin.fontofweb.com/4492?format=jpg)](https://design.withfudge.com/pin/4492)
+[The best serif website design inspiration | Landbook](https://design.withfudge.com/pin/4492) — [source page](https://land-book.com/)

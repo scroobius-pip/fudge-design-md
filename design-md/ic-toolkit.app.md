@@ -6,6 +6,10 @@ Source domain: [ic-toolkit.app](https://ic-toolkit.app)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7239
+-->
+
 Here is the visual system observed across **2 captured pages** from [ic-toolkit.app](https://ic-toolkit.app).
 
 ```fudge-colors
@@ -157,6 +161,9 @@ Here is the visual system observed across **2 captured pages** from [ic-toolkit.
 }
 ```
 
-## References
-- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7239) — [source page](https://ic-toolkit.app/)
-- [Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7238) — [source page](https://ic-toolkit.app/)
+## Representative captures
+[![Powering the decentralized future | Toolkit](https://pin.fontofweb.com/7239?format=jpg)](https://design.withfudge.com/pin/7239)
+[Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7239) — [source page](https://ic-toolkit.app/)
+
+[![Powering the decentralized future | Toolkit](https://pin.fontofweb.com/7238?format=jpg)](https://design.withfudge.com/pin/7238)
+[Powering the decentralized future | Toolkit](https://design.withfudge.com/pin/7238) — [source page](https://ic-toolkit.app/)

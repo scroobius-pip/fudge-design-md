@@ -6,6 +6,10 @@ Source domain: [daisyui.com](https://daisyui.com)
 
 Last updated: 2026-02-01
 
+<!--
+coverPin: 6207
+-->
+
 Here is the visual system observed across **5 captured pages** from [daisyui.com](https://daisyui.com).
 
 ```fudge-colors
@@ -193,9 +197,18 @@ Here is the visual system observed across **5 captured pages** from [daisyui.com
 }
 ```
 
-## References
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6207) — [source page](https://daisyui.com/theme-generator/)
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6206) — [source page](https://daisyui.com/theme-generator/)
-- [daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6205) — [source page](https://daisyui.com/theme-generator/)
-- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5972) — [source page](https://daisyui.com/)
-- [Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5971) — [source page](https://daisyui.com/)
+## Representative captures
+[![daisyUI and Tailwind CSS theme generator](https://pin.fontofweb.com/6207?format=jpg)](https://design.withfudge.com/pin/6207)
+[daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6207) — [source page](https://daisyui.com/theme-generator/)
+
+[![daisyUI and Tailwind CSS theme generator](https://pin.fontofweb.com/6206?format=jpg)](https://design.withfudge.com/pin/6206)
+[daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6206) — [source page](https://daisyui.com/theme-generator/)
+
+[![daisyUI and Tailwind CSS theme generator](https://pin.fontofweb.com/6205?format=jpg)](https://design.withfudge.com/pin/6205)
+[daisyUI and Tailwind CSS theme generator](https://design.withfudge.com/pin/6205) — [source page](https://daisyui.com/theme-generator/)
+
+[![Tailwind CSS Component Library ⸺ daisyUI](https://pin.fontofweb.com/5972?format=jpg)](https://design.withfudge.com/pin/5972)
+[Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5972) — [source page](https://daisyui.com/)
+
+[![Tailwind CSS Component Library ⸺ daisyUI](https://pin.fontofweb.com/5971?format=jpg)](https://design.withfudge.com/pin/5971)
+[Tailwind CSS Component Library ⸺ daisyUI](https://design.withfudge.com/pin/5971) — [source page](https://daisyui.com/)

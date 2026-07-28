@@ -6,6 +6,10 @@ Source domain: [deepmind.google](https://deepmind.google)
 
 Last updated: 2026-06-07
 
+<!--
+coverPin: 9520
+-->
+
 Here is the visual system observed across **25 captured pages** from [deepmind.google](https://deepmind.google).
 
 ```fudge-colors
@@ -359,12 +363,27 @@ Here is the visual system observed across **25 captured pages** from [deepmind.g
 }
 ```
 
-## References
-- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9520) — [source page](https://deepmind.google/models/gemini/pro/)
-- [Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9519) — [source page](https://deepmind.google/models/gemini/pro/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8705) — [source page](https://deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8704) — [source page](https://deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8703) — [source page](https://deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8702) — [source page](https://deepmind.google/models/gemma/gemma-4/)
-- [Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8701) — [source page](https://deepmind.google/models/gemma/gemma-4/)
-- [Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/pin/6854) — [source page](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+## Representative captures
+[![Gemini 3.1 Pro — Google DeepMind](https://pin.fontofweb.com/9520?format=jpg)](https://design.withfudge.com/pin/9520)
+[Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9520) — [source page](https://deepmind.google/models/gemini/pro/)
+
+[![Gemini 3.1 Pro — Google DeepMind](https://pin.fontofweb.com/9519?format=jpg)](https://design.withfudge.com/pin/9519)
+[Gemini 3.1 Pro — Google DeepMind](https://design.withfudge.com/pin/9519) — [source page](https://deepmind.google/models/gemini/pro/)
+
+[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8705?format=jpg)](https://design.withfudge.com/pin/8705)
+[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8705) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+
+[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8704?format=jpg)](https://design.withfudge.com/pin/8704)
+[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8704) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+
+[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8703?format=jpg)](https://design.withfudge.com/pin/8703)
+[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8703) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+
+[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8702?format=jpg)](https://design.withfudge.com/pin/8702)
+[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8702) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+
+[![Gemma 4 — Google DeepMind](https://pin.fontofweb.com/8701?format=jpg)](https://design.withfudge.com/pin/8701)
+[Gemma 4 — Google DeepMind](https://design.withfudge.com/pin/8701) — [source page](https://deepmind.google/models/gemma/gemma-4/)
+
+[![Gemini 3.1 Pro - Model Card — Google DeepMind](https://pin.fontofweb.com/6854?format=jpg)](https://design.withfudge.com/pin/6854)
+[Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/pin/6854) — [source page](https://deepmind.google/models/model-cards/gemini-3-1-pro/)

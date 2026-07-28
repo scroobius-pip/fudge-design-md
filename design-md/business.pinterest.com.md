@@ -6,6 +6,10 @@ Source domain: [business.pinterest.com](https://business.pinterest.com)
 
 Last updated: 2026-03-03
 
+<!--
+coverPin: 7628
+-->
+
 Here is the visual system observed across **1 captured page** from [business.pinterest.com](https://business.pinterest.com).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [business.pin
 }
 ```
 
-## References
-- [Marketing on Pinterest | Pinterest Business](https://design.withfudge.com/pin/7628) — [source page](https://business.pinterest.com/)
+## Representative captures
+[![Marketing on Pinterest | Pinterest Business](https://pin.fontofweb.com/7628?format=jpg)](https://design.withfudge.com/pin/7628)
+[Marketing on Pinterest | Pinterest Business](https://design.withfudge.com/pin/7628) — [source page](https://business.pinterest.com/)

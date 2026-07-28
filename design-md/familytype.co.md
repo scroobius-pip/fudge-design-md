@@ -6,6 +6,10 @@ Source domain: [familytype.co](https://familytype.co)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9796
+-->
+
 Here is the visual system observed across **8 captured pages** from [familytype.co](https://familytype.co).
 
 ```fudge-colors
@@ -232,12 +236,27 @@ Here is the visual system observed across **8 captured pages** from [familytype.
 }
 ```
 
-## References
-- [Captured page 9796](https://design.withfudge.com/pin/9796) — [source page](https://familytype.co/typefaces/universal-sans)
-- [Captured page 9791](https://design.withfudge.com/pin/9791) — [source page](https://familytype.co/typefaces/universal-sans)
-- [Captured page 9790](https://design.withfudge.com/pin/9790) — [source page](https://familytype.co/typefaces/universal-sans)
-- [Captured page 9789](https://design.withfudge.com/pin/9789) — [source page](https://familytype.co/typefaces/universal-sans)
-- [Captured page 9788](https://design.withfudge.com/pin/9788) — [source page](https://familytype.co/typefaces/universal-sans)
-- [Family Type](https://design.withfudge.com/pin/5474) — [source page](https://familytype.co/)
-- [Family Type](https://design.withfudge.com/pin/5473) — [source page](https://familytype.co/)
-- [Family Type](https://design.withfudge.com/pin/5472) — [source page](https://familytype.co/)
+## Representative captures
+[![Captured page 9796](https://pin.fontofweb.com/9796?format=jpg)](https://design.withfudge.com/pin/9796)
+[Captured page 9796](https://design.withfudge.com/pin/9796) — [source page](https://familytype.co/typefaces/universal-sans)
+
+[![Captured page 9791](https://pin.fontofweb.com/9791?format=jpg)](https://design.withfudge.com/pin/9791)
+[Captured page 9791](https://design.withfudge.com/pin/9791) — [source page](https://familytype.co/typefaces/universal-sans)
+
+[![Captured page 9790](https://pin.fontofweb.com/9790?format=jpg)](https://design.withfudge.com/pin/9790)
+[Captured page 9790](https://design.withfudge.com/pin/9790) — [source page](https://familytype.co/typefaces/universal-sans)
+
+[![Captured page 9789](https://pin.fontofweb.com/9789?format=jpg)](https://design.withfudge.com/pin/9789)
+[Captured page 9789](https://design.withfudge.com/pin/9789) — [source page](https://familytype.co/typefaces/universal-sans)
+
+[![Captured page 9788](https://pin.fontofweb.com/9788?format=jpg)](https://design.withfudge.com/pin/9788)
+[Captured page 9788](https://design.withfudge.com/pin/9788) — [source page](https://familytype.co/typefaces/universal-sans)
+
+[![Family Type](https://pin.fontofweb.com/5474?format=jpg)](https://design.withfudge.com/pin/5474)
+[Family Type](https://design.withfudge.com/pin/5474) — [source page](https://familytype.co/)
+
+[![Family Type](https://pin.fontofweb.com/5473?format=jpg)](https://design.withfudge.com/pin/5473)
+[Family Type](https://design.withfudge.com/pin/5473) — [source page](https://familytype.co/)
+
+[![Family Type](https://pin.fontofweb.com/5472?format=jpg)](https://design.withfudge.com/pin/5472)
+[Family Type](https://design.withfudge.com/pin/5472) — [source page](https://familytype.co/)

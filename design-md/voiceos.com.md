@@ -6,6 +6,10 @@ Source domain: [voiceos.com](https://voiceos.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6414
+-->
+
 Here is the visual system observed across **5 captured pages** from [voiceos.com](https://voiceos.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [voiceos.com
 }
 ```
 
-## References
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6414) — [source page](https://voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6413) — [source page](https://voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6412) — [source page](https://voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6411) — [source page](https://voiceos.com/)
-- [VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6410) — [source page](https://voiceos.com/)
+## Representative captures
+[![VoiceOS - Instant writing in all your apps](https://pin.fontofweb.com/6414?format=jpg)](https://design.withfudge.com/pin/6414)
+[VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6414) — [source page](https://voiceos.com/)
+
+[![VoiceOS - Instant writing in all your apps](https://pin.fontofweb.com/6413?format=jpg)](https://design.withfudge.com/pin/6413)
+[VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6413) — [source page](https://voiceos.com/)
+
+[![VoiceOS - Instant writing in all your apps](https://pin.fontofweb.com/6412?format=jpg)](https://design.withfudge.com/pin/6412)
+[VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6412) — [source page](https://voiceos.com/)
+
+[![VoiceOS - Instant writing in all your apps](https://pin.fontofweb.com/6411?format=jpg)](https://design.withfudge.com/pin/6411)
+[VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6411) — [source page](https://voiceos.com/)
+
+[![VoiceOS - Instant writing in all your apps](https://pin.fontofweb.com/6410?format=jpg)](https://design.withfudge.com/pin/6410)
+[VoiceOS - Instant writing in all your apps](https://design.withfudge.com/pin/6410) — [source page](https://voiceos.com/)

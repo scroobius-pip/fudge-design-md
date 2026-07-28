@@ -6,6 +6,10 @@ Source domain: [works.pm](https://works.pm)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8498
+-->
+
 Here is the visual system observed across **4 captured pages** from [works.pm](https://works.pm).
 
 ```fudge-colors
@@ -159,8 +163,15 @@ Here is the visual system observed across **4 captured pages** from [works.pm](h
 }
 ```
 
-## References
-- [Works - About](https://design.withfudge.com/pin/8498) — [source page](https://works.pm/about)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8497) — [source page](https://works.pm/)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8496) — [source page](https://works.pm/)
-- [Works - Paul Macgregor](https://design.withfudge.com/pin/8495) — [source page](https://works.pm/)
+## Representative captures
+[![Works - About](https://pin.fontofweb.com/8498?format=jpg)](https://design.withfudge.com/pin/8498)
+[Works - About](https://design.withfudge.com/pin/8498) — [source page](https://works.pm/about)
+
+[![Works - Paul Macgregor](https://pin.fontofweb.com/8497?format=jpg)](https://design.withfudge.com/pin/8497)
+[Works - Paul Macgregor](https://design.withfudge.com/pin/8497) — [source page](https://works.pm/)
+
+[![Works - Paul Macgregor](https://pin.fontofweb.com/8496?format=jpg)](https://design.withfudge.com/pin/8496)
+[Works - Paul Macgregor](https://design.withfudge.com/pin/8496) — [source page](https://works.pm/)
+
+[![Works - Paul Macgregor](https://pin.fontofweb.com/8495?format=jpg)](https://design.withfudge.com/pin/8495)
+[Works - Paul Macgregor](https://design.withfudge.com/pin/8495) — [source page](https://works.pm/)

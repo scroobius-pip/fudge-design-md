@@ -6,6 +6,10 @@ Source domain: [witharc.co](https://witharc.co)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6764
+-->
+
 Here is the visual system observed across **3 captured pages** from [witharc.co](https://witharc.co).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [witharc.co]
 }
 ```
 
-## References
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6764) — [source page](https://witharc.co/)
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6763) — [source page](https://witharc.co/)
-- [Arc • Creative Studio](https://design.withfudge.com/pin/6762) — [source page](https://witharc.co/)
+## Representative captures
+[![Arc • Creative Studio](https://pin.fontofweb.com/6764?format=jpg)](https://design.withfudge.com/pin/6764)
+[Arc • Creative Studio](https://design.withfudge.com/pin/6764) — [source page](https://witharc.co/)
+
+[![Arc • Creative Studio](https://pin.fontofweb.com/6763?format=jpg)](https://design.withfudge.com/pin/6763)
+[Arc • Creative Studio](https://design.withfudge.com/pin/6763) — [source page](https://witharc.co/)
+
+[![Arc • Creative Studio](https://pin.fontofweb.com/6762?format=jpg)](https://design.withfudge.com/pin/6762)
+[Arc • Creative Studio](https://design.withfudge.com/pin/6762) — [source page](https://witharc.co/)

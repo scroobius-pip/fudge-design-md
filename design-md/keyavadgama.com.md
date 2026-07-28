@@ -6,6 +6,10 @@ Source domain: [keyavadgama.com](https://keyavadgama.com)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8028
+-->
+
 Here is the visual system observed across **4 captured pages** from [keyavadgama.com](https://keyavadgama.com).
 
 ```fudge-colors
@@ -162,8 +166,15 @@ Here is the visual system observed across **4 captured pages** from [keyavadgama
 }
 ```
 
-## References
-- [Home](https://design.withfudge.com/pin/8028) — [source page](https://keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3625) — [source page](https://keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3624) — [source page](https://keyavadgama.com/)
-- [Home](https://design.withfudge.com/pin/3623) — [source page](https://keyavadgama.com/)
+## Representative captures
+[![Home](https://pin.fontofweb.com/8028?format=jpg)](https://design.withfudge.com/pin/8028)
+[Home](https://design.withfudge.com/pin/8028) — [source page](https://keyavadgama.com/)
+
+[![Home](https://pin.fontofweb.com/3625?format=jpg)](https://design.withfudge.com/pin/3625)
+[Home](https://design.withfudge.com/pin/3625) — [source page](https://keyavadgama.com/)
+
+[![Home](https://pin.fontofweb.com/3624?format=jpg)](https://design.withfudge.com/pin/3624)
+[Home](https://design.withfudge.com/pin/3624) — [source page](https://keyavadgama.com/)
+
+[![Home](https://pin.fontofweb.com/3623?format=jpg)](https://design.withfudge.com/pin/3623)
+[Home](https://design.withfudge.com/pin/3623) — [source page](https://keyavadgama.com/)

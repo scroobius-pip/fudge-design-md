@@ -6,6 +6,10 @@ Source domain: [agentation.dev](https://agentation.dev)
 
 Last updated: 2026-02-02
 
+<!--
+coverPin: 6235
+-->
+
 Here is the visual system observed across **2 captured pages** from [agentation.dev](https://agentation.dev).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [agentation.
 }
 ```
 
-## References
-- [Agentation](https://design.withfudge.com/pin/6235) — [source page](https://agentation.dev/)
-- [Agentation](https://design.withfudge.com/pin/6234) — [source page](https://agentation.dev/)
+## Representative captures
+[![Agentation](https://pin.fontofweb.com/6235?format=jpg)](https://design.withfudge.com/pin/6235)
+[Agentation](https://design.withfudge.com/pin/6235) — [source page](https://agentation.dev/)
+
+[![Agentation](https://pin.fontofweb.com/6234?format=jpg)](https://design.withfudge.com/pin/6234)
+[Agentation](https://design.withfudge.com/pin/6234) — [source page](https://agentation.dev/)

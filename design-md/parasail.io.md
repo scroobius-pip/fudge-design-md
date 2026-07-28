@@ -6,6 +6,10 @@ Source domain: [parasail.io](https://parasail.io)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8500
+-->
+
 Here is the visual system observed across **1 captured page** from [parasail.io](https://parasail.io).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [parasail.io]
 }
 ```
 
-## References
-- [Parasail - No limits. No contracts. Priced Right.](https://design.withfudge.com/pin/8500) — [source page](https://parasail.io/)
+## Representative captures
+[![Parasail - No limits. No contracts. Priced Right.](https://pin.fontofweb.com/8500?format=jpg)](https://design.withfudge.com/pin/8500)
+[Parasail - No limits. No contracts. Priced Right.](https://design.withfudge.com/pin/8500) — [source page](https://parasail.io/)

@@ -6,6 +6,10 @@ Source domain: [plexui.com](https://plexui.com)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8772
+-->
+
 Here is the visual system observed across **7 captured pages** from [plexui.com](https://plexui.com).
 
 ```fudge-colors
@@ -207,11 +211,24 @@ Here is the visual system observed across **7 captured pages** from [plexui.com]
 }
 ```
 
-## References
-- [Colors](https://design.withfudge.com/pin/8772) — [source page](https://plexui.com/docs/foundations/colors)
-- [Typography](https://design.withfudge.com/pin/8771) — [source page](https://plexui.com/docs/foundations/typography)
-- [Design Tokens](https://design.withfudge.com/pin/8340) — [source page](https://plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8339) — [source page](https://plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8338) — [source page](https://plexui.com/docs/foundations/design-tokens)
-- [Design Tokens](https://design.withfudge.com/pin/8337) — [source page](https://plexui.com/docs/foundations/design-tokens)
-- [Button](https://design.withfudge.com/pin/8336) — [source page](https://plexui.com/docs/components/button)
+## Representative captures
+[![Colors](https://pin.fontofweb.com/8772?format=jpg)](https://design.withfudge.com/pin/8772)
+[Colors](https://design.withfudge.com/pin/8772) — [source page](https://plexui.com/docs/foundations/colors)
+
+[![Typography](https://pin.fontofweb.com/8771?format=jpg)](https://design.withfudge.com/pin/8771)
+[Typography](https://design.withfudge.com/pin/8771) — [source page](https://plexui.com/docs/foundations/typography)
+
+[![Design Tokens](https://pin.fontofweb.com/8340?format=jpg)](https://design.withfudge.com/pin/8340)
+[Design Tokens](https://design.withfudge.com/pin/8340) — [source page](https://plexui.com/docs/foundations/design-tokens)
+
+[![Design Tokens](https://pin.fontofweb.com/8339?format=jpg)](https://design.withfudge.com/pin/8339)
+[Design Tokens](https://design.withfudge.com/pin/8339) — [source page](https://plexui.com/docs/foundations/design-tokens)
+
+[![Design Tokens](https://pin.fontofweb.com/8338?format=jpg)](https://design.withfudge.com/pin/8338)
+[Design Tokens](https://design.withfudge.com/pin/8338) — [source page](https://plexui.com/docs/foundations/design-tokens)
+
+[![Design Tokens](https://pin.fontofweb.com/8337?format=jpg)](https://design.withfudge.com/pin/8337)
+[Design Tokens](https://design.withfudge.com/pin/8337) — [source page](https://plexui.com/docs/foundations/design-tokens)
+
+[![Button](https://pin.fontofweb.com/8336?format=jpg)](https://design.withfudge.com/pin/8336)
+[Button](https://design.withfudge.com/pin/8336) — [source page](https://plexui.com/docs/components/button)

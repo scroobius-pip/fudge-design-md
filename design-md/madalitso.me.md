@@ -6,6 +6,10 @@ Source domain: [madalitso.me](https://madalitso.me)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7874
+-->
+
 Here is the visual system observed across **1 captured page** from [madalitso.me](https://madalitso.me).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [madalitso.me
 }
 ```
 
-## References
-- [digital-garden](https://design.withfudge.com/pin/7874) — [source page](https://madalitso.me/)
+## Representative captures
+[![digital-garden](https://pin.fontofweb.com/7874?format=jpg)](https://design.withfudge.com/pin/7874)
+[digital-garden](https://design.withfudge.com/pin/7874) — [source page](https://madalitso.me/)

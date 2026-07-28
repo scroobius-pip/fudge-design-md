@@ -6,6 +6,10 @@ Source domain: [contentformcontext.com](https://contentformcontext.com)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10405
+-->
+
 Here is the visual system observed across **2 captured pages** from [contentformcontext.com](https://contentformcontext.com).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [contentform
 }
 ```
 
-## References
-- [CFC - SBS 8 News](https://design.withfudge.com/pin/10405) — [source page](https://contentformcontext.com/sbs-8-news)
-- [CFC - SBS 8 News](https://design.withfudge.com/pin/10404) — [source page](https://contentformcontext.com/sbs-8-news)
+## Representative captures
+[![CFC - SBS 8 News](https://pin.fontofweb.com/10405?format=jpg)](https://design.withfudge.com/pin/10405)
+[CFC - SBS 8 News](https://design.withfudge.com/pin/10405) — [source page](https://contentformcontext.com/sbs-8-news)
+
+[![CFC - SBS 8 News](https://pin.fontofweb.com/10404?format=jpg)](https://design.withfudge.com/pin/10404)
+[CFC - SBS 8 News](https://design.withfudge.com/pin/10404) — [source page](https://contentformcontext.com/sbs-8-news)

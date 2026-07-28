@@ -6,6 +6,10 @@ Source domain: [rselbach.com](https://rselbach.com)
 
 Last updated: 2026-01-22
 
+<!--
+coverPin: 5985
+-->
+
 Here is the visual system observed across **1 captured page** from [rselbach.com](https://rselbach.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [rselbach.com
 }
 ```
 
-## References
-- [Roberto Selbach](https://design.withfudge.com/pin/5985) — [source page](https://rselbach.com/)
+## Representative captures
+[![Roberto Selbach](https://pin.fontofweb.com/5985?format=jpg)](https://design.withfudge.com/pin/5985)
+[Roberto Selbach](https://design.withfudge.com/pin/5985) — [source page](https://rselbach.com/)

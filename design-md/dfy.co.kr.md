@@ -6,6 +6,10 @@ Source domain: [dfy.co.kr](https://dfy.co.kr)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10393
+-->
+
 Here is the visual system observed across **72 captured pages** from [dfy.co.kr](https://dfy.co.kr).
 
 ```fudge-colors
@@ -410,12 +414,27 @@ Here is the visual system observed across **72 captured pages** from [dfy.co.kr]
 }
 ```
 
-## References
-- [DFY® | blip](https://design.withfudge.com/pin/10393) — [source page](https://dfy.co.kr/work/blip/)
-- [DFY® | blip](https://design.withfudge.com/pin/10392) — [source page](https://dfy.co.kr/work/blip/)
-- [DFY® | blip](https://design.withfudge.com/pin/10391) — [source page](https://dfy.co.kr/work/blip/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10369) — [source page](https://dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10368) — [source page](https://dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10367) — [source page](https://dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10366) — [source page](https://dfy.co.kr/work/naver-1784/)
-- [DFY® | NAVER 1784](https://design.withfudge.com/pin/10365) — [source page](https://dfy.co.kr/work/naver-1784/)
+## Representative captures
+[![DFY® | blip](https://pin.fontofweb.com/10393?format=jpg)](https://design.withfudge.com/pin/10393)
+[DFY® | blip](https://design.withfudge.com/pin/10393) — [source page](https://dfy.co.kr/work/blip/)
+
+[![DFY® | blip](https://pin.fontofweb.com/10392?format=jpg)](https://design.withfudge.com/pin/10392)
+[DFY® | blip](https://design.withfudge.com/pin/10392) — [source page](https://dfy.co.kr/work/blip/)
+
+[![DFY® | blip](https://pin.fontofweb.com/10391?format=jpg)](https://design.withfudge.com/pin/10391)
+[DFY® | blip](https://design.withfudge.com/pin/10391) — [source page](https://dfy.co.kr/work/blip/)
+
+[![DFY® | NAVER 1784](https://pin.fontofweb.com/10369?format=jpg)](https://design.withfudge.com/pin/10369)
+[DFY® | NAVER 1784](https://design.withfudge.com/pin/10369) — [source page](https://dfy.co.kr/work/naver-1784/)
+
+[![DFY® | NAVER 1784](https://pin.fontofweb.com/10368?format=jpg)](https://design.withfudge.com/pin/10368)
+[DFY® | NAVER 1784](https://design.withfudge.com/pin/10368) — [source page](https://dfy.co.kr/work/naver-1784/)
+
+[![DFY® | NAVER 1784](https://pin.fontofweb.com/10367?format=jpg)](https://design.withfudge.com/pin/10367)
+[DFY® | NAVER 1784](https://design.withfudge.com/pin/10367) — [source page](https://dfy.co.kr/work/naver-1784/)
+
+[![DFY® | NAVER 1784](https://pin.fontofweb.com/10366?format=jpg)](https://design.withfudge.com/pin/10366)
+[DFY® | NAVER 1784](https://design.withfudge.com/pin/10366) — [source page](https://dfy.co.kr/work/naver-1784/)
+
+[![DFY® | NAVER 1784](https://pin.fontofweb.com/10365?format=jpg)](https://design.withfudge.com/pin/10365)
+[DFY® | NAVER 1784](https://design.withfudge.com/pin/10365) — [source page](https://dfy.co.kr/work/naver-1784/)

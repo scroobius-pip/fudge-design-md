@@ -6,6 +6,10 @@ Source domain: [worksinprogress.news](https://worksinprogress.news)
 
 Last updated: 2026-03-15
 
+<!--
+coverPin: 8111
+-->
+
 Here is the visual system observed across **1 captured page** from [worksinprogress.news](https://worksinprogress.news).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [worksinprogr
 }
 ```
 
-## References
-- [The Works in Progress Newsletter | Substack](https://design.withfudge.com/pin/8111) — [source page](https://worksinprogress.news/)
+## Representative captures
+[![The Works in Progress Newsletter | Substack](https://pin.fontofweb.com/8111?format=jpg)](https://design.withfudge.com/pin/8111)
+[The Works in Progress Newsletter | Substack](https://design.withfudge.com/pin/8111) — [source page](https://worksinprogress.news/)

@@ -6,6 +6,10 @@ Source domain: [typotheque.com](https://typotheque.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6828
+-->
+
 Here is the visual system observed across **3 captured pages** from [typotheque.com](https://typotheque.com).
 
 ```fudge-colors
@@ -133,7 +137,12 @@ Here is the visual system observed across **3 captured pages** from [typotheque.
 }
 ```
 
-## References
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6828) — [source page](https://typotheque.com/blog/improving-zed-display)
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6827) — [source page](https://typotheque.com/blog/improving-zed-display)
-- [Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6826) — [source page](https://typotheque.com/blog/improving-zed-display)
+## Representative captures
+[![Typotheque: Improving Zed Display](https://pin.fontofweb.com/6828?format=jpg)](https://design.withfudge.com/pin/6828)
+[Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6828) — [source page](https://typotheque.com/blog/improving-zed-display)
+
+[![Typotheque: Improving Zed Display](https://pin.fontofweb.com/6827?format=jpg)](https://design.withfudge.com/pin/6827)
+[Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6827) — [source page](https://typotheque.com/blog/improving-zed-display)
+
+[![Typotheque: Improving Zed Display](https://pin.fontofweb.com/6826?format=jpg)](https://design.withfudge.com/pin/6826)
+[Typotheque: Improving Zed Display](https://design.withfudge.com/pin/6826) — [source page](https://typotheque.com/blog/improving-zed-display)

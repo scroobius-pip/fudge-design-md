@@ -6,6 +6,10 @@ Source domain: [theguardian.com](https://theguardian.com)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9146
+-->
+
 Here is the visual system observed across **5 captured pages** from [theguardian.com](https://theguardian.com).
 
 ```fudge-colors
@@ -222,9 +226,18 @@ Here is the visual system observed across **5 captured pages** from [theguardian
 }
 ```
 
-## References
-- [Norwegian group in talks to buy former Liberty Steel works in South Yorkshire | Steel industry | The Guardian](https://design.withfudge.com/pin/9146) — [source page](https://theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge)
-- [Schofield's First Law of Computing | Jack Schofield | The Guardian](https://design.withfudge.com/pin/7065) — [source page](https://theguardian.com/technology/2003/jul/24/onlinesupplement.columnists)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6618) — [source page](https://theguardian.com/international)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6617) — [source page](https://theguardian.com/international)
-- [Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6616) — [source page](https://theguardian.com/international)
+## Representative captures
+[![Norwegian group in talks to buy former Liberty Steel works in South Yorkshire | Steel industry | The Guardian](https://pin.fontofweb.com/9146?format=jpg)](https://design.withfudge.com/pin/9146)
+[Norwegian group in talks to buy former Liberty Steel works in South Yorkshire | Steel industry | The Guardian](https://design.withfudge.com/pin/9146) — [source page](https://theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge)
+
+[![Schofield's First Law of Computing | Jack Schofield | The Guardian](https://pin.fontofweb.com/7065?format=jpg)](https://design.withfudge.com/pin/7065)
+[Schofield's First Law of Computing | Jack Schofield | The Guardian](https://design.withfudge.com/pin/7065) — [source page](https://theguardian.com/technology/2003/jul/24/onlinesupplement.columnists)
+
+[![Latest news, sport and opinion from the Guardian](https://pin.fontofweb.com/6618?format=jpg)](https://design.withfudge.com/pin/6618)
+[Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6618) — [source page](https://theguardian.com/international)
+
+[![Latest news, sport and opinion from the Guardian](https://pin.fontofweb.com/6617?format=jpg)](https://design.withfudge.com/pin/6617)
+[Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6617) — [source page](https://theguardian.com/international)
+
+[![Latest news, sport and opinion from the Guardian](https://pin.fontofweb.com/6616?format=jpg)](https://design.withfudge.com/pin/6616)
+[Latest news, sport and opinion from the Guardian](https://design.withfudge.com/pin/6616) — [source page](https://theguardian.com/international)

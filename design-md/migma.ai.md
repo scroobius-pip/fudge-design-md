@@ -6,6 +6,10 @@ Source domain: [migma.ai](https://migma.ai)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7385
+-->
+
 Here is the visual system observed across **1 captured page** from [migma.ai](https://migma.ai).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [migma.ai](ht
 }
 ```
 
-## References
-- [Contact Us | MigmaAI](https://design.withfudge.com/pin/7385) — [source page](https://migma.ai/contact)
+## Representative captures
+[![Contact Us | MigmaAI](https://pin.fontofweb.com/7385?format=jpg)](https://design.withfudge.com/pin/7385)
+[Contact Us | MigmaAI](https://design.withfudge.com/pin/7385) — [source page](https://migma.ai/contact)

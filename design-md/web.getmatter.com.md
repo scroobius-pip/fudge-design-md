@@ -6,6 +6,10 @@ Source domain: [web.getmatter.com](https://web.getmatter.com)
 
 Last updated: 2026-05-11
 
+<!--
+coverPin: 9227
+-->
+
 Here is the visual system observed across **3 captured pages** from [web.getmatter.com](https://web.getmatter.com).
 
 ```fudge-colors
@@ -153,7 +157,12 @@ Here is the visual system observed across **3 captured pages** from [web.getmatt
 }
 ```
 
-## References
-- [Queue | Matter](https://design.withfudge.com/pin/9227) — [source page](https://web.getmatter.com/list/queue)
-- [Queue | Matter](https://design.withfudge.com/pin/9226) — [source page](https://web.getmatter.com/list/queue)
-- [Matter](https://design.withfudge.com/pin/9225) — [source page](https://web.getmatter.com/)
+## Representative captures
+[![Queue | Matter](https://pin.fontofweb.com/9227?format=jpg)](https://design.withfudge.com/pin/9227)
+[Queue | Matter](https://design.withfudge.com/pin/9227) — [source page](https://web.getmatter.com/list/queue)
+
+[![Queue | Matter](https://pin.fontofweb.com/9226?format=jpg)](https://design.withfudge.com/pin/9226)
+[Queue | Matter](https://design.withfudge.com/pin/9226) — [source page](https://web.getmatter.com/list/queue)
+
+[![Matter](https://pin.fontofweb.com/9225?format=jpg)](https://design.withfudge.com/pin/9225)
+[Matter](https://design.withfudge.com/pin/9225) — [source page](https://web.getmatter.com/)

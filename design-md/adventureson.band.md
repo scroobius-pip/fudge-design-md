@@ -6,6 +6,10 @@ Source domain: [adventureson.band](https://adventureson.band)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6741
+-->
+
 Here is the visual system observed across **3 captured pages** from [adventureson.band](https://adventureson.band).
 
 ```fudge-colors
@@ -151,7 +155,12 @@ Here is the visual system observed across **3 captured pages** from [adventureso
 }
 ```
 
-## References
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6741) — [source page](https://adventureson.band/)
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6740) — [source page](https://adventureson.band/)
-- [Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6739) — [source page](https://adventureson.band/)
+## Representative captures
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6741?format=jpg)](https://design.withfudge.com/pin/6741)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6741) — [source page](https://adventureson.band/)
+
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6740?format=jpg)](https://design.withfudge.com/pin/6740)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6740) — [source page](https://adventureson.band/)
+
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6739?format=jpg)](https://design.withfudge.com/pin/6739)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/pin/6739) — [source page](https://adventureson.band/)

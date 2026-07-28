@@ -6,6 +6,10 @@ Source domain: [cobe.vercel.app](https://cobe.vercel.app)
 
 Last updated: 2026-03-18
 
+<!--
+coverPin: 8181
+-->
+
 Here is the visual system observed across **8 captured pages** from [cobe.vercel.app](https://cobe.vercel.app).
 
 ```fudge-colors
@@ -245,12 +249,27 @@ Here is the visual system observed across **8 captured pages** from [cobe.vercel
 }
 ```
 
-## References
-- [COBE](https://design.withfudge.com/pin/8181) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8180) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8179) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8178) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8177) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8176) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8175) — [source page](https://cobe.vercel.app/)
-- [COBE](https://design.withfudge.com/pin/8174) — [source page](https://cobe.vercel.app/)
+## Representative captures
+[![COBE](https://pin.fontofweb.com/8181?format=jpg)](https://design.withfudge.com/pin/8181)
+[COBE](https://design.withfudge.com/pin/8181) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8180?format=jpg)](https://design.withfudge.com/pin/8180)
+[COBE](https://design.withfudge.com/pin/8180) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8179?format=jpg)](https://design.withfudge.com/pin/8179)
+[COBE](https://design.withfudge.com/pin/8179) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8178?format=jpg)](https://design.withfudge.com/pin/8178)
+[COBE](https://design.withfudge.com/pin/8178) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8177?format=jpg)](https://design.withfudge.com/pin/8177)
+[COBE](https://design.withfudge.com/pin/8177) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8176?format=jpg)](https://design.withfudge.com/pin/8176)
+[COBE](https://design.withfudge.com/pin/8176) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8175?format=jpg)](https://design.withfudge.com/pin/8175)
+[COBE](https://design.withfudge.com/pin/8175) — [source page](https://cobe.vercel.app/)
+
+[![COBE](https://pin.fontofweb.com/8174?format=jpg)](https://design.withfudge.com/pin/8174)
+[COBE](https://design.withfudge.com/pin/8174) — [source page](https://cobe.vercel.app/)

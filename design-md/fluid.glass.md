@@ -6,6 +6,10 @@ Source domain: [fluid.glass](https://fluid.glass)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9032
+-->
+
 Here is the visual system observed across **1 captured page** from [fluid.glass](https://fluid.glass).
 
 ```fudge-colors
@@ -75,5 +79,6 @@ Here is the visual system observed across **1 captured page** from [fluid.glass]
 }
 ```
 
-## References
-- [Fluid Glass - Collection](https://design.withfudge.com/pin/9032) — [source page](https://fluid.glass/collection)
+## Representative captures
+[![Fluid Glass - Collection](https://pin.fontofweb.com/9032?format=jpg)](https://design.withfudge.com/pin/9032)
+[Fluid Glass - Collection](https://design.withfudge.com/pin/9032) — [source page](https://fluid.glass/collection)

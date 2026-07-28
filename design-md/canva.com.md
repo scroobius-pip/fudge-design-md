@@ -6,6 +6,10 @@ Source domain: [canva.com](https://canva.com)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8043
+-->
+
 Here is the visual system observed across **1 captured page** from [canva.com](https://canva.com).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [canva.com](h
 }
 ```
 
-## References
-- [Brand Kit - All assets - Canva](https://design.withfudge.com/pin/8043) — [source page](https://canva.com/brand/kAHDv9A3tp4)
+## Representative captures
+[![Brand Kit - All assets - Canva](https://pin.fontofweb.com/8043?format=jpg)](https://design.withfudge.com/pin/8043)
+[Brand Kit - All assets - Canva](https://design.withfudge.com/pin/8043) — [source page](https://canva.com/brand/kAHDv9A3tp4)

@@ -6,6 +6,10 @@ Source domain: [mixedbread.com](https://mixedbread.com)
 
 Last updated: 2026-01-30
 
+<!--
+coverPin: 6177
+-->
+
 Here is the visual system observed across **1 captured page** from [mixedbread.com](https://mixedbread.com).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [mixedbread.c
 }
 ```
 
-## References
-- [Mixedbread](https://design.withfudge.com/pin/6177) — [source page](https://mixedbread.com/)
+## Representative captures
+[![Mixedbread](https://pin.fontofweb.com/6177?format=jpg)](https://design.withfudge.com/pin/6177)
+[Mixedbread](https://design.withfudge.com/pin/6177) — [source page](https://mixedbread.com/)

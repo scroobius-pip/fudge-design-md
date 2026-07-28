@@ -6,6 +6,10 @@ Source domain: [glazeapp.com](https://glazeapp.com)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7788
+-->
+
 Here is the visual system observed across **4 captured pages** from [glazeapp.com](https://glazeapp.com).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [glazeapp.co
 }
 ```
 
-## References
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7788) — [source page](https://glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7787) — [source page](https://glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7661) — [source page](https://glazeapp.com/)
-- [Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7660) — [source page](https://glazeapp.com/)
+## Representative captures
+[![Glaze by Raycast. Desktop apps, reimagined by you.](https://pin.fontofweb.com/7788?format=jpg)](https://design.withfudge.com/pin/7788)
+[Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7788) — [source page](https://glazeapp.com/)
+
+[![Glaze by Raycast. Desktop apps, reimagined by you.](https://pin.fontofweb.com/7787?format=jpg)](https://design.withfudge.com/pin/7787)
+[Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7787) — [source page](https://glazeapp.com/)
+
+[![Glaze by Raycast. Desktop apps, reimagined by you.](https://pin.fontofweb.com/7661?format=jpg)](https://design.withfudge.com/pin/7661)
+[Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7661) — [source page](https://glazeapp.com/)
+
+[![Glaze by Raycast. Desktop apps, reimagined by you.](https://pin.fontofweb.com/7660?format=jpg)](https://design.withfudge.com/pin/7660)
+[Glaze by Raycast. Desktop apps, reimagined by you.](https://design.withfudge.com/pin/7660) — [source page](https://glazeapp.com/)

@@ -6,6 +6,10 @@ Source domain: [fireworks.ai](https://fireworks.ai)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8502
+-->
+
 Here is the visual system observed across **7 captured pages** from [fireworks.ai](https://fireworks.ai).
 
 ```fudge-colors
@@ -212,11 +216,24 @@ Here is the visual system observed across **7 captured pages** from [fireworks.a
 }
 ```
 
-## References
-- [Kimi K2.5 API & Playground](https://design.withfudge.com/pin/8502) — [source page](https://fireworks.ai/models/fireworks/kimi-k2p5)
-- [GLM-5](https://design.withfudge.com/pin/6964) — [source page](https://fireworks.ai/models/fireworks/glm-5)
-- [Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6961) — [source page](https://fireworks.ai/)
-- [Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6960) — [source page](https://fireworks.ai/)
-- [Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6959) — [source page](https://fireworks.ai/)
-- [Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6954) — [source page](https://fireworks.ai/)
-- [Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6953) — [source page](https://fireworks.ai/)
+## Representative captures
+[![Kimi K2.5 API & Playground](https://pin.fontofweb.com/8502?format=jpg)](https://design.withfudge.com/pin/8502)
+[Kimi K2.5 API & Playground](https://design.withfudge.com/pin/8502) — [source page](https://fireworks.ai/models/fireworks/kimi-k2p5)
+
+[![GLM-5](https://pin.fontofweb.com/6964?format=jpg)](https://design.withfudge.com/pin/6964)
+[GLM-5](https://design.withfudge.com/pin/6964) — [source page](https://fireworks.ai/models/fireworks/glm-5)
+
+[![Fireworks AI - Fastest Inference for Generative AI](https://pin.fontofweb.com/6961?format=jpg)](https://design.withfudge.com/pin/6961)
+[Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6961) — [source page](https://fireworks.ai/)
+
+[![Fireworks AI - Fastest Inference for Generative AI](https://pin.fontofweb.com/6960?format=jpg)](https://design.withfudge.com/pin/6960)
+[Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6960) — [source page](https://fireworks.ai/)
+
+[![Fireworks AI - Fastest Inference for Generative AI](https://pin.fontofweb.com/6959?format=jpg)](https://design.withfudge.com/pin/6959)
+[Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6959) — [source page](https://fireworks.ai/)
+
+[![Fireworks AI - Fastest Inference for Generative AI](https://pin.fontofweb.com/6954?format=jpg)](https://design.withfudge.com/pin/6954)
+[Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6954) — [source page](https://fireworks.ai/)
+
+[![Fireworks AI - Fastest Inference for Generative AI](https://pin.fontofweb.com/6953?format=jpg)](https://design.withfudge.com/pin/6953)
+[Fireworks AI - Fastest Inference for Generative AI](https://design.withfudge.com/pin/6953) — [source page](https://fireworks.ai/)

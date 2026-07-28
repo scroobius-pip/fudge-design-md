@@ -6,6 +6,10 @@ Source domain: [predictions.paradigm.xyz](https://predictions.paradigm.xyz)
 
 Last updated: 2026-02-05
 
+<!--
+coverPin: 6296
+-->
+
 Here is the visual system observed across **3 captured pages** from [predictions.paradigm.xyz](https://predictions.paradigm.xyz).
 
 ```fudge-colors
@@ -146,7 +150,12 @@ Here is the visual system observed across **3 captured pages** from [predictions
 }
 ```
 
-## References
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6296) — [source page](https://predictions.paradigm.xyz/)
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6295) — [source page](https://predictions.paradigm.xyz/)
-- [Paradigm Prediction Markets](https://design.withfudge.com/pin/6294) — [source page](https://predictions.paradigm.xyz/)
+## Representative captures
+[![Paradigm Prediction Markets](https://pin.fontofweb.com/6296?format=jpg)](https://design.withfudge.com/pin/6296)
+[Paradigm Prediction Markets](https://design.withfudge.com/pin/6296) — [source page](https://predictions.paradigm.xyz/)
+
+[![Paradigm Prediction Markets](https://pin.fontofweb.com/6295?format=jpg)](https://design.withfudge.com/pin/6295)
+[Paradigm Prediction Markets](https://design.withfudge.com/pin/6295) — [source page](https://predictions.paradigm.xyz/)
+
+[![Paradigm Prediction Markets](https://pin.fontofweb.com/6294?format=jpg)](https://design.withfudge.com/pin/6294)
+[Paradigm Prediction Markets](https://design.withfudge.com/pin/6294) — [source page](https://predictions.paradigm.xyz/)

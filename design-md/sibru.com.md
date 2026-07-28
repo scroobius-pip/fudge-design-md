@@ -6,6 +6,10 @@ Source domain: [sibru.com](https://sibru.com)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9095
+-->
+
 Here is the visual system observed across **5 captured pages** from [sibru.com](https://sibru.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [sibru.com](
 }
 ```
 
-## References
-- [В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://design.withfudge.com/pin/9095) — [source page](https://sibru.com/2026/04/26/v-novosibirske-otkryli-rechnuju-navigaciju-2026/)
-- [В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://design.withfudge.com/pin/9094) — [source page](https://sibru.com/2026/04/26/v-novosibirske-otkryli-rechnuju-navigaciju-2026/)
-- [Саудовская Аравия требует от США остановить блокаду Ормуза - Новости Сибири](https://design.withfudge.com/pin/9093) — [source page](https://sibru.com/2026/04/14/saudovskaja-aravija-trebuet-ot-ssha-ostanovit-blokadu-ormuza/)
-- [Индонезийские власти показали русским, как надо бороться с мигрантами - Новости Сибири](https://design.withfudge.com/pin/9092) — [source page](https://sibru.com/2026/04/11/indonezijskie-vlasti-pokazali-russkim-kak-nado-borotsja-s-migrantami/)
-- [Ученые НГУ создали вирус против рака - Новости Сибири](https://design.withfudge.com/pin/9091) — [source page](https://sibru.com/2026/04/27/uchenye-ngu-sozdali-virus-protiv-raka/)
+## Representative captures
+[![В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://pin.fontofweb.com/9095?format=jpg)](https://design.withfudge.com/pin/9095)
+[В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://design.withfudge.com/pin/9095) — [source page](https://sibru.com/2026/04/26/v-novosibirske-otkryli-rechnuju-navigaciju-2026/)
+
+[![В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://pin.fontofweb.com/9094?format=jpg)](https://design.withfudge.com/pin/9094)
+[В Новосибирске открыли речную навигацию -2026 - Новости Сибири](https://design.withfudge.com/pin/9094) — [source page](https://sibru.com/2026/04/26/v-novosibirske-otkryli-rechnuju-navigaciju-2026/)
+
+[![Саудовская Аравия требует от США остановить блокаду Ормуза - Новости Сибири](https://pin.fontofweb.com/9093?format=jpg)](https://design.withfudge.com/pin/9093)
+[Саудовская Аравия требует от США остановить блокаду Ормуза - Новости Сибири](https://design.withfudge.com/pin/9093) — [source page](https://sibru.com/2026/04/14/saudovskaja-aravija-trebuet-ot-ssha-ostanovit-blokadu-ormuza/)
+
+[![Индонезийские власти показали русским, как надо бороться с мигрантами - Новости Сибири](https://pin.fontofweb.com/9092?format=jpg)](https://design.withfudge.com/pin/9092)
+[Индонезийские власти показали русским, как надо бороться с мигрантами - Новости Сибири](https://design.withfudge.com/pin/9092) — [source page](https://sibru.com/2026/04/11/indonezijskie-vlasti-pokazali-russkim-kak-nado-borotsja-s-migrantami/)
+
+[![Ученые НГУ создали вирус против рака - Новости Сибири](https://pin.fontofweb.com/9091?format=jpg)](https://design.withfudge.com/pin/9091)
+[Ученые НГУ создали вирус против рака - Новости Сибири](https://design.withfudge.com/pin/9091) — [source page](https://sibru.com/2026/04/27/uchenye-ngu-sozdali-virus-protiv-raka/)

@@ -6,6 +6,10 @@ Source domain: [fergusfinn.com](https://fergusfinn.com)
 
 Last updated: 2026-06-11
 
+<!--
+coverPin: 9550
+-->
+
 Here is the visual system observed across **1 captured page** from [fergusfinn.com](https://fergusfinn.com).
 
 ```fudge-colors
@@ -130,5 +134,6 @@ Here is the visual system observed across **1 captured page** from [fergusfinn.c
 }
 ```
 
-## References
-- [The economics of speculative decoding](https://design.withfudge.com/pin/9550) — [source page](https://fergusfinn.com/blog/economics-of-speculative-decoding/)
+## Representative captures
+[![The economics of speculative decoding](https://pin.fontofweb.com/9550?format=jpg)](https://design.withfudge.com/pin/9550)
+[The economics of speculative decoding](https://design.withfudge.com/pin/9550) — [source page](https://fergusfinn.com/blog/economics-of-speculative-decoding/)

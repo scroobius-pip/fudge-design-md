@@ -6,6 +6,10 @@ Source domain: [invideo.io](https://invideo.io)
 
 Last updated: 2026-01-31
 
+<!--
+coverPin: 6199
+-->
+
 Here is the visual system observed across **8 captured pages** from [invideo.io](https://invideo.io).
 
 ```fudge-colors
@@ -227,12 +231,27 @@ Here is the visual system observed across **8 captured pages** from [invideo.io]
 }
 ```
 
-## References
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6199) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6198) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6197) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6196) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6195) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6194) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6193) — [source page](https://invideo.io/)
-- [Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6192) — [source page](https://invideo.io/)
+## Representative captures
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6199?format=jpg)](https://design.withfudge.com/pin/6199)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6199) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6198?format=jpg)](https://design.withfudge.com/pin/6198)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6198) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6197?format=jpg)](https://design.withfudge.com/pin/6197)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6197) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6196?format=jpg)](https://design.withfudge.com/pin/6196)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6196) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6195?format=jpg)](https://design.withfudge.com/pin/6195)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6195) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6194?format=jpg)](https://design.withfudge.com/pin/6194)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6194) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6193?format=jpg)](https://design.withfudge.com/pin/6193)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6193) — [source page](https://invideo.io/)
+
+[![Invideo AI - Create videos without limits](https://pin.fontofweb.com/6192?format=jpg)](https://design.withfudge.com/pin/6192)
+[Invideo AI - Create videos without limits](https://design.withfudge.com/pin/6192) — [source page](https://invideo.io/)

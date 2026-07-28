@@ -6,6 +6,10 @@ Source domain: [npmjs.com](https://npmjs.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7646
+-->
+
 Here is the visual system observed across **1 captured page** from [npmjs.com](https://npmjs.com).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [npmjs.com](h
 }
 ```
 
-## References
-- [npm | Create New Organization](https://design.withfudge.com/pin/7646) — [source page](https://npmjs.com/org/create)
+## Representative captures
+[![npm | Create New Organization](https://pin.fontofweb.com/7646?format=jpg)](https://design.withfudge.com/pin/7646)
+[npm | Create New Organization](https://design.withfudge.com/pin/7646) — [source page](https://npmjs.com/org/create)

@@ -6,6 +6,10 @@ Source domain: [mercury.com](https://mercury.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8862
+-->
+
 Here is the visual system observed across **18 captured pages** from [mercury.com](https://mercury.com).
 
 ```fudge-colors
@@ -297,12 +301,27 @@ Here is the visual system observed across **18 captured pages** from [mercury.co
 }
 ```
 
-## References
-- [Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8862) — [source page](https://mercury.com/)
-- [Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8253) — [source page](https://mercury.com/)
-- [Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8252) — [source page](https://mercury.com/)
-- [Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8251) — [source page](https://mercury.com/)
-- [Explore Pricing | Mercury](https://design.withfudge.com/pin/7845) — [source page](https://mercury.com/pricing)
-- [Explore Pricing | Mercury](https://design.withfudge.com/pin/7844) — [source page](https://mercury.com/pricing)
-- [Explore Pricing | Mercury](https://design.withfudge.com/pin/7843) — [source page](https://mercury.com/pricing)
-- [Explore Pricing | Mercury](https://design.withfudge.com/pin/7842) — [source page](https://mercury.com/pricing)
+## Representative captures
+[![Online Business Banking For Startups, Small Businesses & Scaling Companies](https://pin.fontofweb.com/8862?format=jpg)](https://design.withfudge.com/pin/8862)
+[Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8862) — [source page](https://mercury.com/)
+
+[![Online Business Banking For Startups, Small Businesses & Scaling Companies](https://pin.fontofweb.com/8253?format=jpg)](https://design.withfudge.com/pin/8253)
+[Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8253) — [source page](https://mercury.com/)
+
+[![Online Business Banking For Startups, Small Businesses & Scaling Companies](https://pin.fontofweb.com/8252?format=jpg)](https://design.withfudge.com/pin/8252)
+[Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8252) — [source page](https://mercury.com/)
+
+[![Online Business Banking For Startups, Small Businesses & Scaling Companies](https://pin.fontofweb.com/8251?format=jpg)](https://design.withfudge.com/pin/8251)
+[Online Business Banking For Startups, Small Businesses & Scaling Companies](https://design.withfudge.com/pin/8251) — [source page](https://mercury.com/)
+
+[![Explore Pricing | Mercury](https://pin.fontofweb.com/7845?format=jpg)](https://design.withfudge.com/pin/7845)
+[Explore Pricing | Mercury](https://design.withfudge.com/pin/7845) — [source page](https://mercury.com/pricing)
+
+[![Explore Pricing | Mercury](https://pin.fontofweb.com/7844?format=jpg)](https://design.withfudge.com/pin/7844)
+[Explore Pricing | Mercury](https://design.withfudge.com/pin/7844) — [source page](https://mercury.com/pricing)
+
+[![Explore Pricing | Mercury](https://pin.fontofweb.com/7843?format=jpg)](https://design.withfudge.com/pin/7843)
+[Explore Pricing | Mercury](https://design.withfudge.com/pin/7843) — [source page](https://mercury.com/pricing)
+
+[![Explore Pricing | Mercury](https://pin.fontofweb.com/7842?format=jpg)](https://design.withfudge.com/pin/7842)
+[Explore Pricing | Mercury](https://design.withfudge.com/pin/7842) — [source page](https://mercury.com/pricing)

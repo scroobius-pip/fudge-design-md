@@ -6,6 +6,10 @@ Source domain: [ia.net](https://ia.net)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8143
+-->
+
 Here is the visual system observed across **1 captured page** from [ia.net](https://ia.net).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [ia.net](http
 }
 ```
 
-## References
-- [iA Writer: The Benchmark of Markdown Writing Apps](https://design.withfudge.com/pin/8143) — [source page](https://ia.net/writer)
+## Representative captures
+[![iA Writer: The Benchmark of Markdown Writing Apps](https://pin.fontofweb.com/8143?format=jpg)](https://design.withfudge.com/pin/8143)
+[iA Writer: The Benchmark of Markdown Writing Apps](https://design.withfudge.com/pin/8143) — [source page](https://ia.net/writer)

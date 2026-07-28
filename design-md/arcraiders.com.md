@@ -6,6 +6,10 @@ Source domain: [arcraiders.com](https://arcraiders.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7115
+-->
+
 Here is the visual system observed across **12 captured pages** from [arcraiders.com](https://arcraiders.com).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **12 captured pages** from [arcraiders
 }
 ```
 
-## References
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7115) — [source page](https://arcraiders.com/creator-program)
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7114) — [source page](https://arcraiders.com/creator-program)
-- [Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7113) — [source page](https://arcraiders.com/creator-program)
-- [December Update 1.7.0 | ARC Raiders](https://design.withfudge.com/pin/5606) — [source page](https://arcraiders.com/news/cold-snap-patch-notes)
-- [ARC Raiders](https://design.withfudge.com/pin/4471) — [source page](https://arcraiders.com/en/)
-- [ARC Raiders](https://design.withfudge.com/pin/2057) — [source page](https://arcraiders.com/)
-- [ARC Raiders](https://design.withfudge.com/pin/2056) — [source page](https://arcraiders.com/)
-- [ARC Raiders](https://design.withfudge.com/pin/2055) — [source page](https://arcraiders.com/)
+## Representative captures
+[![Embark Creator Program | ARC Raiders](https://pin.fontofweb.com/7115?format=jpg)](https://design.withfudge.com/pin/7115)
+[Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7115) — [source page](https://arcraiders.com/creator-program)
+
+[![Embark Creator Program | ARC Raiders](https://pin.fontofweb.com/7114?format=jpg)](https://design.withfudge.com/pin/7114)
+[Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7114) — [source page](https://arcraiders.com/creator-program)
+
+[![Embark Creator Program | ARC Raiders](https://pin.fontofweb.com/7113?format=jpg)](https://design.withfudge.com/pin/7113)
+[Embark Creator Program | ARC Raiders](https://design.withfudge.com/pin/7113) — [source page](https://arcraiders.com/creator-program)
+
+[![December Update 1.7.0 | ARC Raiders](https://pin.fontofweb.com/5606?format=jpg)](https://design.withfudge.com/pin/5606)
+[December Update 1.7.0 | ARC Raiders](https://design.withfudge.com/pin/5606) — [source page](https://arcraiders.com/news/cold-snap-patch-notes)
+
+[![ARC Raiders](https://pin.fontofweb.com/4471?format=jpg)](https://design.withfudge.com/pin/4471)
+[ARC Raiders](https://design.withfudge.com/pin/4471) — [source page](https://arcraiders.com/en/)
+
+[![ARC Raiders](https://pin.fontofweb.com/2057?format=jpg)](https://design.withfudge.com/pin/2057)
+[ARC Raiders](https://design.withfudge.com/pin/2057) — [source page](https://arcraiders.com/)
+
+[![ARC Raiders](https://pin.fontofweb.com/2056?format=jpg)](https://design.withfudge.com/pin/2056)
+[ARC Raiders](https://design.withfudge.com/pin/2056) — [source page](https://arcraiders.com/)
+
+[![ARC Raiders](https://pin.fontofweb.com/2055?format=jpg)](https://design.withfudge.com/pin/2055)
+[ARC Raiders](https://design.withfudge.com/pin/2055) — [source page](https://arcraiders.com/)

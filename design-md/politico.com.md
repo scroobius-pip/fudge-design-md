@@ -6,6 +6,10 @@ Source domain: [politico.com](https://politico.com)
 
 Last updated: 2026-04-08
 
+<!--
+coverPin: 8721
+-->
+
 Here is the visual system observed across **1 captured page** from [politico.com](https://politico.com).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [politico.com
 }
 ```
 
-## References
-- [How the military helped spin a tragedy into a hero story - POLITICO](https://design.withfudge.com/pin/8721) — [source page](https://politico.com/newsletters/politico-weekend/2026/03/21/how-the-military-helped-spin-a-tragedy-into-a-hero-story-00839221)
+## Representative captures
+[![How the military helped spin a tragedy into a hero story - POLITICO](https://pin.fontofweb.com/8721?format=jpg)](https://design.withfudge.com/pin/8721)
+[How the military helped spin a tragedy into a hero story - POLITICO](https://design.withfudge.com/pin/8721) — [source page](https://politico.com/newsletters/politico-weekend/2026/03/21/how-the-military-helped-spin-a-tragedy-into-a-hero-story-00839221)

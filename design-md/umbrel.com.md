@@ -6,6 +6,10 @@ Source domain: [umbrel.com](https://umbrel.com)
 
 Last updated: 2026-03-14
 
+<!--
+coverPin: 8095
+-->
+
 Here is the visual system observed across **10 captured pages** from [umbrel.com](https://umbrel.com).
 
 ```fudge-colors
@@ -309,12 +313,27 @@ Here is the visual system observed across **10 captured pages** from [umbrel.com
 }
 ```
 
-## References
-- [Umbrel Pro | Home Cloud with up to 32TB storage](https://design.withfudge.com/pin/8095) — [source page](https://umbrel.com/umbrel-pro)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8094) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8093) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8092) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8091) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8090) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8089) — [source page](https://umbrel.com/umbrelos)
-- [umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8088) — [source page](https://umbrel.com/umbrelos)
+## Representative captures
+[![Umbrel Pro | Home Cloud with up to 32TB storage](https://pin.fontofweb.com/8095?format=jpg)](https://design.withfudge.com/pin/8095)
+[Umbrel Pro | Home Cloud with up to 32TB storage](https://design.withfudge.com/pin/8095) — [source page](https://umbrel.com/umbrel-pro)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8094?format=jpg)](https://design.withfudge.com/pin/8094)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8094) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8093?format=jpg)](https://design.withfudge.com/pin/8093)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8093) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8092?format=jpg)](https://design.withfudge.com/pin/8092)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8092) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8091?format=jpg)](https://design.withfudge.com/pin/8091)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8091) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8090?format=jpg)](https://design.withfudge.com/pin/8090)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8090) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8089?format=jpg)](https://design.withfudge.com/pin/8089)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8089) — [source page](https://umbrel.com/umbrelos)
+
+[![umbrelOS - An elegant OS for your home server](https://pin.fontofweb.com/8088?format=jpg)](https://design.withfudge.com/pin/8088)
+[umbrelOS - An elegant OS for your home server](https://design.withfudge.com/pin/8088) — [source page](https://umbrel.com/umbrelos)

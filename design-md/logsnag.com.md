@@ -6,6 +6,10 @@ Source domain: [logsnag.com](https://logsnag.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 6974
+-->
+
 Here is the visual system observed across **3 captured pages** from [logsnag.com](https://logsnag.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [logsnag.com
 }
 ```
 
-## References
-- [Pricing | LogSnag](https://design.withfudge.com/pin/6974) — [source page](https://logsnag.com/pricing)
-- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6973) — [source page](https://logsnag.com/)
-- [LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6972) — [source page](https://logsnag.com/)
+## Representative captures
+[![Pricing | LogSnag](https://pin.fontofweb.com/6974?format=jpg)](https://design.withfudge.com/pin/6974)
+[Pricing | LogSnag](https://design.withfudge.com/pin/6974) — [source page](https://logsnag.com/pricing)
+
+[![LogSnag - The event tracking tool you've been wanting](https://pin.fontofweb.com/6973?format=jpg)](https://design.withfudge.com/pin/6973)
+[LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6973) — [source page](https://logsnag.com/)
+
+[![LogSnag - The event tracking tool you've been wanting](https://pin.fontofweb.com/6972?format=jpg)](https://design.withfudge.com/pin/6972)
+[LogSnag - The event tracking tool you've been wanting](https://design.withfudge.com/pin/6972) — [source page](https://logsnag.com/)

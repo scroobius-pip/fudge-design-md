@@ -6,6 +6,10 @@ Source domain: [opncd.ai](https://opncd.ai)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8464
+-->
+
 Here is the visual system observed across **1 captured page** from [opncd.ai](https://opncd.ai).
 
 ```fudge-colors
@@ -94,5 +98,6 @@ Here is the visual system observed across **1 captured page** from [opncd.ai](ht
 }
 ```
 
-## References
-- [OpenCode](https://design.withfudge.com/pin/8464) — [source page](https://opncd.ai/share/KCEeEWe4)
+## Representative captures
+[![OpenCode](https://pin.fontofweb.com/8464?format=jpg)](https://design.withfudge.com/pin/8464)
+[OpenCode](https://design.withfudge.com/pin/8464) — [source page](https://opncd.ai/share/KCEeEWe4)

@@ -6,6 +6,10 @@ Source domain: [builtwith.kit.com](https://builtwith.kit.com)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6376
+-->
+
 Here is the visual system observed across **3 captured pages** from [builtwith.kit.com](https://builtwith.kit.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [builtwith.k
 }
 ```
 
-## References
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6376) — [source page](https://builtwith.kit.com/)
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6375) — [source page](https://builtwith.kit.com/)
-- [Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6374) — [source page](https://builtwith.kit.com/)
+## Representative captures
+[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6376?format=jpg)](https://design.withfudge.com/pin/6376)
+[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6376) — [source page](https://builtwith.kit.com/)
+
+[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6375?format=jpg)](https://design.withfudge.com/pin/6375)
+[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6375) — [source page](https://builtwith.kit.com/)
+
+[![Email Platform for Creators – Launch & Grow with Kit](https://pin.fontofweb.com/6374?format=jpg)](https://design.withfudge.com/pin/6374)
+[Email Platform for Creators – Launch & Grow with Kit](https://design.withfudge.com/pin/6374) — [source page](https://builtwith.kit.com/)

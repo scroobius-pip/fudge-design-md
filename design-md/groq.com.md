@@ -6,6 +6,10 @@ Source domain: [groq.com](https://groq.com)
 
 Last updated: 2026-05-29
 
+<!--
+coverPin: 9482
+-->
+
 Here is the visual system observed across **5 captured pages** from [groq.com](https://groq.com).
 
 ```fudge-colors
@@ -181,9 +185,18 @@ Here is the visual system observed across **5 captured pages** from [groq.com](h
 }
 ```
 
-## References
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9482) — [source page](https://groq.com/pricing)
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9481) — [source page](https://groq.com/pricing)
-- [Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9480) — [source page](https://groq.com/pricing)
-- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9479) — [source page](https://groq.com/)
-- [Groq is fast, low cost inference.](https://design.withfudge.com/pin/9478) — [source page](https://groq.com/)
+## Representative captures
+[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9482?format=jpg)](https://design.withfudge.com/pin/9482)
+[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9482) — [source page](https://groq.com/pricing)
+
+[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9481?format=jpg)](https://design.withfudge.com/pin/9481)
+[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9481) — [source page](https://groq.com/pricing)
+
+[![Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://pin.fontofweb.com/9480?format=jpg)](https://design.withfudge.com/pin/9480)
+[Groq On-Demand Pricing for Tokens-as-a-Service | Groq is fast, low cost inference.](https://design.withfudge.com/pin/9480) — [source page](https://groq.com/pricing)
+
+[![Groq is fast, low cost inference.](https://pin.fontofweb.com/9479?format=jpg)](https://design.withfudge.com/pin/9479)
+[Groq is fast, low cost inference.](https://design.withfudge.com/pin/9479) — [source page](https://groq.com/)
+
+[![Groq is fast, low cost inference.](https://pin.fontofweb.com/9478?format=jpg)](https://design.withfudge.com/pin/9478)
+[Groq is fast, low cost inference.](https://design.withfudge.com/pin/9478) — [source page](https://groq.com/)

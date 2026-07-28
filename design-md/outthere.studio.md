@@ -6,6 +6,10 @@ Source domain: [outthere.studio](https://outthere.studio)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7360
+-->
+
 Here is the visual system observed across **6 captured pages** from [outthere.studio](https://outthere.studio).
 
 ```fudge-colors
@@ -198,10 +202,21 @@ Here is the visual system observed across **6 captured pages** from [outthere.st
 }
 ```
 
-## References
-- [OutThere](https://design.withfudge.com/pin/7360) — [source page](https://outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7359) — [source page](https://outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7358) — [source page](https://outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7357) — [source page](https://outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7356) — [source page](https://outthere.studio/)
-- [OutThere](https://design.withfudge.com/pin/7355) — [source page](https://outthere.studio/)
+## Representative captures
+[![OutThere](https://pin.fontofweb.com/7360?format=jpg)](https://design.withfudge.com/pin/7360)
+[OutThere](https://design.withfudge.com/pin/7360) — [source page](https://outthere.studio/)
+
+[![OutThere](https://pin.fontofweb.com/7359?format=jpg)](https://design.withfudge.com/pin/7359)
+[OutThere](https://design.withfudge.com/pin/7359) — [source page](https://outthere.studio/)
+
+[![OutThere](https://pin.fontofweb.com/7358?format=jpg)](https://design.withfudge.com/pin/7358)
+[OutThere](https://design.withfudge.com/pin/7358) — [source page](https://outthere.studio/)
+
+[![OutThere](https://pin.fontofweb.com/7357?format=jpg)](https://design.withfudge.com/pin/7357)
+[OutThere](https://design.withfudge.com/pin/7357) — [source page](https://outthere.studio/)
+
+[![OutThere](https://pin.fontofweb.com/7356?format=jpg)](https://design.withfudge.com/pin/7356)
+[OutThere](https://design.withfudge.com/pin/7356) — [source page](https://outthere.studio/)
+
+[![OutThere](https://pin.fontofweb.com/7355?format=jpg)](https://design.withfudge.com/pin/7355)
+[OutThere](https://design.withfudge.com/pin/7355) — [source page](https://outthere.studio/)

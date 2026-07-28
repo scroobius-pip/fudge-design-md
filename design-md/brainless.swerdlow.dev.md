@@ -6,6 +6,10 @@ Source domain: [brainless.swerdlow.dev](https://brainless.swerdlow.dev)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10164
+-->
+
 Here is the visual system observed across **1 captured page** from [brainless.swerdlow.dev](https://brainless.swerdlow.dev).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [brainless.sw
 }
 ```
 
-## References
-- [brainless](https://design.withfudge.com/pin/10164) — [source page](https://brainless.swerdlow.dev/)
+## Representative captures
+[![brainless](https://pin.fontofweb.com/10164?format=jpg)](https://design.withfudge.com/pin/10164)
+[brainless](https://design.withfudge.com/pin/10164) — [source page](https://brainless.swerdlow.dev/)

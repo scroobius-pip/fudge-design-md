@@ -6,6 +6,10 @@ Source domain: [acoup.blog](https://acoup.blog)
 
 Last updated: 2026-06-06
 
+<!--
+coverPin: 9512
+-->
+
 Here is the visual system observed across **3 captured pages** from [acoup.blog](https://acoup.blog).
 
 ```fudge-colors
@@ -169,7 +173,12 @@ Here is the visual system observed across **3 captured pages** from [acoup.blog]
 }
 ```
 
-## References
-- [Collections: Raising Carthaginian Armies, Part V: How a Carthaginian Army Fights – A Collection of Unmitigated Pedantry](https://design.withfudge.com/pin/9512) — [source page](https://acoup.blog/2026/05/22/collections-raising-carthaginian-armies-part-v-how-a-carthaginian-army-fights/)
-- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9511) — [source page](https://acoup.blog/)
-- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9510) — [source page](https://acoup.blog/)
+## Representative captures
+[![Collections: Raising Carthaginian Armies, Part V: How a Carthaginian Army Fights – A Collection of Unmitigated Pedantry](https://pin.fontofweb.com/9512?format=jpg)](https://design.withfudge.com/pin/9512)
+[Collections: Raising Carthaginian Armies, Part V: How a Carthaginian Army Fights – A Collection of Unmitigated Pedantry](https://design.withfudge.com/pin/9512) — [source page](https://acoup.blog/2026/05/22/collections-raising-carthaginian-armies-part-v-how-a-carthaginian-army-fights/)
+
+[![A Collection of Unmitigated Pedantry – A look at history and popular culture](https://pin.fontofweb.com/9511?format=jpg)](https://design.withfudge.com/pin/9511)
+[A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9511) — [source page](https://acoup.blog/)
+
+[![A Collection of Unmitigated Pedantry – A look at history and popular culture](https://pin.fontofweb.com/9510?format=jpg)](https://design.withfudge.com/pin/9510)
+[A Collection of Unmitigated Pedantry – A look at history and popular culture](https://design.withfudge.com/pin/9510) — [source page](https://acoup.blog/)

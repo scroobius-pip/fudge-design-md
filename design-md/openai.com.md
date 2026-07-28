@@ -6,6 +6,10 @@ Source domain: [openai.com](https://openai.com)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10128
+-->
+
 Here is the visual system observed across **33 captured pages** from [openai.com](https://openai.com).
 
 ```fudge-colors
@@ -348,12 +352,27 @@ Here is the visual system observed across **33 captured pages** from [openai.com
 }
 ```
 
-## References
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10128) — [source page](https://openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10127) — [source page](https://openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10126) — [source page](https://openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10125) — [source page](https://openai.com/supply/co-lab/work-louder/)
-- [Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10124) — [source page](https://openai.com/supply/co-lab/work-louder/)
-- [Codex in ChatGPT | AI Coding Agents for Software Engineering | OpenAI](https://design.withfudge.com/pin/10002) — [source page](https://openai.com/codex/)
-- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/9656) — [source page](https://openai.com/codex/)
-- [Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/7664) — [source page](https://openai.com/codex/)
+## Representative captures
+[![Supply Co. x Work Louder | OpenAI](https://pin.fontofweb.com/10128?format=jpg)](https://design.withfudge.com/pin/10128)
+[Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10128) — [source page](https://openai.com/supply/co-lab/work-louder/)
+
+[![Supply Co. x Work Louder | OpenAI](https://pin.fontofweb.com/10127?format=jpg)](https://design.withfudge.com/pin/10127)
+[Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10127) — [source page](https://openai.com/supply/co-lab/work-louder/)
+
+[![Supply Co. x Work Louder | OpenAI](https://pin.fontofweb.com/10126?format=jpg)](https://design.withfudge.com/pin/10126)
+[Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10126) — [source page](https://openai.com/supply/co-lab/work-louder/)
+
+[![Supply Co. x Work Louder | OpenAI](https://pin.fontofweb.com/10125?format=jpg)](https://design.withfudge.com/pin/10125)
+[Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10125) — [source page](https://openai.com/supply/co-lab/work-louder/)
+
+[![Supply Co. x Work Louder | OpenAI](https://pin.fontofweb.com/10124?format=jpg)](https://design.withfudge.com/pin/10124)
+[Supply Co. x Work Louder | OpenAI](https://design.withfudge.com/pin/10124) — [source page](https://openai.com/supply/co-lab/work-louder/)
+
+[![Codex in ChatGPT | AI Coding Agents for Software Engineering | OpenAI](https://pin.fontofweb.com/10002?format=jpg)](https://design.withfudge.com/pin/10002)
+[Codex in ChatGPT | AI Coding Agents for Software Engineering | OpenAI](https://design.withfudge.com/pin/10002) — [source page](https://openai.com/codex/)
+
+[![Codex | AI Coding Partner from OpenAI | OpenAI](https://pin.fontofweb.com/9656?format=jpg)](https://design.withfudge.com/pin/9656)
+[Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/9656) — [source page](https://openai.com/codex/)
+
+[![Codex | AI Coding Partner from OpenAI | OpenAI](https://pin.fontofweb.com/7664?format=jpg)](https://design.withfudge.com/pin/7664)
+[Codex | AI Coding Partner from OpenAI | OpenAI](https://design.withfudge.com/pin/7664) — [source page](https://openai.com/codex/)

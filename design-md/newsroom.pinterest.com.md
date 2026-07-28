@@ -6,6 +6,10 @@ Source domain: [newsroom.pinterest.com](https://newsroom.pinterest.com)
 
 Last updated: 2026-03-13
 
+<!--
+coverPin: 8044
+-->
+
 Here is the visual system observed across **1 captured page** from [newsroom.pinterest.com](https://newsroom.pinterest.com).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [newsroom.pin
 }
 ```
 
-## References
-- [Company | Pinterest Newsroom](https://design.withfudge.com/pin/8044) — [source page](https://newsroom.pinterest.com/company/)
+## Representative captures
+[![Company | Pinterest Newsroom](https://pin.fontofweb.com/8044?format=jpg)](https://design.withfudge.com/pin/8044)
+[Company | Pinterest Newsroom](https://design.withfudge.com/pin/8044) — [source page](https://newsroom.pinterest.com/company/)

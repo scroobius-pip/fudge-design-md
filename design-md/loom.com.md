@@ -6,6 +6,10 @@ Source domain: [loom.com](https://loom.com)
 
 Last updated: 2026-07-05
 
+<!--
+coverPin: 9907
+-->
+
 Here is the visual system observed across **8 captured pages** from [loom.com](https://loom.com).
 
 ```fudge-colors
@@ -236,12 +240,27 @@ Here is the visual system observed across **8 captured pages** from [loom.com](h
 }
 ```
 
-## References
-- [Videos | Library | Loom - 5 July 2026](https://design.withfudge.com/pin/9907) — [source page](https://loom.com/share/c6903db110e44596b7b043d59201f653)
-- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/6646) — [source page](https://loom.com/c680c0fe-b23c-42d7-9f89-fb342dbefb72)
-- [Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/4576) — [source page](https://loom.com/incentives)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4575) — [source page](https://loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4574) — [source page](https://loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4573) — [source page](https://loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4572) — [source page](https://loom.com/looms/videos)
-- [Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4571) — [source page](https://loom.com/looms/videos)
+## Representative captures
+[![Videos | Library | Loom - 5 July 2026](https://pin.fontofweb.com/9907?format=jpg)](https://design.withfudge.com/pin/9907)
+[Videos | Library | Loom - 5 July 2026](https://design.withfudge.com/pin/9907) — [source page](https://loom.com/share/c6903db110e44596b7b043d59201f653)
+
+[![Loom | Free Screen & Video Recording Software | Loom](https://pin.fontofweb.com/6646?format=jpg)](https://design.withfudge.com/pin/6646)
+[Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/6646) — [source page](https://loom.com/c680c0fe-b23c-42d7-9f89-fb342dbefb72)
+
+[![Loom | Free Screen & Video Recording Software | Loom](https://pin.fontofweb.com/4576?format=jpg)](https://design.withfudge.com/pin/4576)
+[Loom | Free Screen & Video Recording Software | Loom](https://design.withfudge.com/pin/4576) — [source page](https://loom.com/incentives)
+
+[![Loom | Free Screen & Video Recording Software](https://pin.fontofweb.com/4575?format=jpg)](https://design.withfudge.com/pin/4575)
+[Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4575) — [source page](https://loom.com/looms/videos)
+
+[![Loom | Free Screen & Video Recording Software](https://pin.fontofweb.com/4574?format=jpg)](https://design.withfudge.com/pin/4574)
+[Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4574) — [source page](https://loom.com/looms/videos)
+
+[![Loom | Free Screen & Video Recording Software](https://pin.fontofweb.com/4573?format=jpg)](https://design.withfudge.com/pin/4573)
+[Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4573) — [source page](https://loom.com/looms/videos)
+
+[![Loom | Free Screen & Video Recording Software](https://pin.fontofweb.com/4572?format=jpg)](https://design.withfudge.com/pin/4572)
+[Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4572) — [source page](https://loom.com/looms/videos)
+
+[![Loom | Free Screen & Video Recording Software](https://pin.fontofweb.com/4571?format=jpg)](https://design.withfudge.com/pin/4571)
+[Loom | Free Screen & Video Recording Software](https://design.withfudge.com/pin/4571) — [source page](https://loom.com/looms/videos)

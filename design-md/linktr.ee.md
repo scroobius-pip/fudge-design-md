@@ -6,6 +6,10 @@ Source domain: [linktr.ee](https://linktr.ee)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6798
+-->
+
 Here is the visual system observed across **10 captured pages** from [linktr.ee](https://linktr.ee).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **10 captured pages** from [linktr.ee]
 }
 ```
 
-## References
-- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6798) — [source page](https://linktr.ee/s/pricing)
-- [Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6797) — [source page](https://linktr.ee/s/pricing)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6796) — [source page](https://linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6795) — [source page](https://linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6794) — [source page](https://linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6793) — [source page](https://linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6792) — [source page](https://linktr.ee/)
-- [Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6791) — [source page](https://linktr.ee/)
+## Representative captures
+[![Linktree Free, Starter, Pro and Premium Pricing](https://pin.fontofweb.com/6798?format=jpg)](https://design.withfudge.com/pin/6798)
+[Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6798) — [source page](https://linktr.ee/s/pricing)
+
+[![Linktree Free, Starter, Pro and Premium Pricing](https://pin.fontofweb.com/6797?format=jpg)](https://design.withfudge.com/pin/6797)
+[Linktree Free, Starter, Pro and Premium Pricing](https://design.withfudge.com/pin/6797) — [source page](https://linktr.ee/s/pricing)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6796?format=jpg)](https://design.withfudge.com/pin/6796)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6796) — [source page](https://linktr.ee/)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6795?format=jpg)](https://design.withfudge.com/pin/6795)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6795) — [source page](https://linktr.ee/)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6794?format=jpg)](https://design.withfudge.com/pin/6794)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6794) — [source page](https://linktr.ee/)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6793?format=jpg)](https://design.withfudge.com/pin/6793)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6793) — [source page](https://linktr.ee/)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6792?format=jpg)](https://design.withfudge.com/pin/6792)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6792) — [source page](https://linktr.ee/)
+
+[![Link in bio tool: Everything you are, in one simple link | Linktree](https://pin.fontofweb.com/6791?format=jpg)](https://design.withfudge.com/pin/6791)
+[Link in bio tool: Everything you are, in one simple link | Linktree](https://design.withfudge.com/pin/6791) — [source page](https://linktr.ee/)

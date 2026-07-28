@@ -6,6 +6,10 @@ Source domain: [trendingcustom.com](https://trendingcustom.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6417
+-->
+
 Here is the visual system observed across **1 captured page** from [trendingcustom.com](https://trendingcustom.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [trendingcust
 }
 ```
 
-## References
-- [Cat Mom Sparkly Pattern Personalized Shirt, Gift For Cat Mom - TrendingCustom](https://design.withfudge.com/pin/6417) — [source page](https://trendingcustom.com/products/cat-mom-4th-of-july-america-sparkly-pattern-psnl-shirt-independence-day-0501152)
+## Representative captures
+[![Cat Mom Sparkly Pattern Personalized Shirt, Gift For Cat Mom - TrendingCustom](https://pin.fontofweb.com/6417?format=jpg)](https://design.withfudge.com/pin/6417)
+[Cat Mom Sparkly Pattern Personalized Shirt, Gift For Cat Mom - TrendingCustom](https://design.withfudge.com/pin/6417) — [source page](https://trendingcustom.com/products/cat-mom-4th-of-july-america-sparkly-pattern-psnl-shirt-independence-day-0501152)

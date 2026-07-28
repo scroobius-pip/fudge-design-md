@@ -6,6 +6,10 @@ Source domain: [min.io](https://min.io)
 
 Last updated: 2026-02-07
 
+<!--
+coverPin: 6314
+-->
+
 Here is the visual system observed across **3 captured pages** from [min.io](https://min.io).
 
 ```fudge-colors
@@ -138,7 +142,12 @@ Here is the visual system observed across **3 captured pages** from [min.io](htt
 }
 ```
 
-## References
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6314) — [source page](https://min.io/)
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6313) — [source page](https://min.io/)
-- [S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6312) — [source page](https://min.io/)
+## Representative captures
+[![S3 Compatible, Exascale Object Store for AI | MinIO](https://pin.fontofweb.com/6314?format=jpg)](https://design.withfudge.com/pin/6314)
+[S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6314) — [source page](https://min.io/)
+
+[![S3 Compatible, Exascale Object Store for AI | MinIO](https://pin.fontofweb.com/6313?format=jpg)](https://design.withfudge.com/pin/6313)
+[S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6313) — [source page](https://min.io/)
+
+[![S3 Compatible, Exascale Object Store for AI | MinIO](https://pin.fontofweb.com/6312?format=jpg)](https://design.withfudge.com/pin/6312)
+[S3 Compatible, Exascale Object Store for AI | MinIO](https://design.withfudge.com/pin/6312) — [source page](https://min.io/)

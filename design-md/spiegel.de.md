@@ -6,6 +6,10 @@ Source domain: [spiegel.de](https://spiegel.de)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9148
+-->
+
 Here is the visual system observed across **1 captured page** from [spiegel.de](https://spiegel.de).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [spiegel.de](
 }
 ```
 
-## References
-- [German Chancellor Friedrich Merz: "I Am Dissatisfied with the Prevailing Atmosphere in Germany" - DER SPIEGEL](https://design.withfudge.com/pin/9148) — [source page](https://spiegel.de/international/germany/an-interview-with-german-chancellor-friedrich-merz-i-am-dissatisfied-with-the-prevailing-atmosphere-in-germany-a-1d4346f0-4635-4925-bab0-dc9b057bc25c)
+## Representative captures
+[![German Chancellor Friedrich Merz: "I Am Dissatisfied with the Prevailing Atmosphere in Germany" - DER SPIEGEL](https://pin.fontofweb.com/9148?format=jpg)](https://design.withfudge.com/pin/9148)
+[German Chancellor Friedrich Merz: "I Am Dissatisfied with the Prevailing Atmosphere in Germany" - DER SPIEGEL](https://design.withfudge.com/pin/9148) — [source page](https://spiegel.de/international/germany/an-interview-with-german-chancellor-friedrich-merz-i-am-dissatisfied-with-the-prevailing-atmosphere-in-germany-a-1d4346f0-4635-4925-bab0-dc9b057bc25c)

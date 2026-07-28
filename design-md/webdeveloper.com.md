@@ -6,6 +6,10 @@ Source domain: [webdeveloper.com](https://webdeveloper.com)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8582
+-->
+
 Here is the visual system observed across **1 captured page** from [webdeveloper.com](https://webdeveloper.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [webdeveloper
 }
 ```
 
-## References
-- [Skills — Front-end AI Coding Skills — Web Developer](https://design.withfudge.com/pin/8582) — [source page](https://webdeveloper.com/skills/)
+## Representative captures
+[![Skills — Front-end AI Coding Skills — Web Developer](https://pin.fontofweb.com/8582?format=jpg)](https://design.withfudge.com/pin/8582)
+[Skills — Front-end AI Coding Skills — Web Developer](https://design.withfudge.com/pin/8582) — [source page](https://webdeveloper.com/skills/)

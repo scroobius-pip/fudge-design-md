@@ -6,6 +6,10 @@ Source domain: [jam.dev](https://jam.dev)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8002
+-->
+
 Here is the visual system observed across **9 captured pages** from [jam.dev](https://jam.dev).
 
 ```fudge-colors
@@ -306,12 +310,27 @@ Here is the visual system observed across **9 captured pages** from [jam.dev](ht
 }
 ```
 
-## References
-- [Jam - Pricing](https://design.withfudge.com/pin/8002) — [source page](https://jam.dev/pricing)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8001) — [source page](https://jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/8000) — [source page](https://jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7999) — [source page](https://jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7998) — [source page](https://jam.dev/)
-- [Jam | Build a bug-free product.](https://design.withfudge.com/pin/7997) — [source page](https://jam.dev/)
-- [Pls fix](https://design.withfudge.com/pin/6645) — [source page](https://jam.dev/plsfix)
-- [Pls fix](https://design.withfudge.com/pin/6644) — [source page](https://jam.dev/plsfix)
+## Representative captures
+[![Jam - Pricing](https://pin.fontofweb.com/8002?format=jpg)](https://design.withfudge.com/pin/8002)
+[Jam - Pricing](https://design.withfudge.com/pin/8002) — [source page](https://jam.dev/pricing)
+
+[![Jam | Build a bug-free product.](https://pin.fontofweb.com/8001?format=jpg)](https://design.withfudge.com/pin/8001)
+[Jam | Build a bug-free product.](https://design.withfudge.com/pin/8001) — [source page](https://jam.dev/)
+
+[![Jam | Build a bug-free product.](https://pin.fontofweb.com/8000?format=jpg)](https://design.withfudge.com/pin/8000)
+[Jam | Build a bug-free product.](https://design.withfudge.com/pin/8000) — [source page](https://jam.dev/)
+
+[![Jam | Build a bug-free product.](https://pin.fontofweb.com/7999?format=jpg)](https://design.withfudge.com/pin/7999)
+[Jam | Build a bug-free product.](https://design.withfudge.com/pin/7999) — [source page](https://jam.dev/)
+
+[![Jam | Build a bug-free product.](https://pin.fontofweb.com/7998?format=jpg)](https://design.withfudge.com/pin/7998)
+[Jam | Build a bug-free product.](https://design.withfudge.com/pin/7998) — [source page](https://jam.dev/)
+
+[![Jam | Build a bug-free product.](https://pin.fontofweb.com/7997?format=jpg)](https://design.withfudge.com/pin/7997)
+[Jam | Build a bug-free product.](https://design.withfudge.com/pin/7997) — [source page](https://jam.dev/)
+
+[![Pls fix](https://pin.fontofweb.com/6645?format=jpg)](https://design.withfudge.com/pin/6645)
+[Pls fix](https://design.withfudge.com/pin/6645) — [source page](https://jam.dev/plsfix)
+
+[![Pls fix](https://pin.fontofweb.com/6644?format=jpg)](https://design.withfudge.com/pin/6644)
+[Pls fix](https://design.withfudge.com/pin/6644) — [source page](https://jam.dev/plsfix)

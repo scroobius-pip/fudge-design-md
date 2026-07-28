@@ -6,6 +6,10 @@ Source domain: [wonder.so](https://wonder.so)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8335
+-->
+
 Here is the visual system observed across **1 captured page** from [wonder.so](https://wonder.so).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [wonder.so](h
 }
 ```
 
-## References
-- [Wonder - Design like Magic](https://design.withfudge.com/pin/8335) — [source page](https://wonder.so/)
+## Representative captures
+[![Wonder - Design like Magic](https://pin.fontofweb.com/8335?format=jpg)](https://design.withfudge.com/pin/8335)
+[Wonder - Design like Magic](https://design.withfudge.com/pin/8335) — [source page](https://wonder.so/)

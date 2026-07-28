@@ -6,6 +6,10 @@ Source domain: [thehog.ai](https://thehog.ai)
 
 Last updated: 2026-02-08
 
+<!--
+coverPin: 6324
+-->
+
 Here is the visual system observed across **5 captured pages** from [thehog.ai](https://thehog.ai).
 
 ```fudge-colors
@@ -195,9 +199,18 @@ Here is the visual system observed across **5 captured pages** from [thehog.ai](
 }
 ```
 
-## References
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6324) — [source page](https://thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6323) — [source page](https://thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6322) — [source page](https://thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6321) — [source page](https://thehog.ai/)
-- [The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6320) — [source page](https://thehog.ai/)
+## Representative captures
+[![The Hog gives you GaaS (Growth as a Service)](https://pin.fontofweb.com/6324?format=jpg)](https://design.withfudge.com/pin/6324)
+[The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6324) — [source page](https://thehog.ai/)
+
+[![The Hog gives you GaaS (Growth as a Service)](https://pin.fontofweb.com/6323?format=jpg)](https://design.withfudge.com/pin/6323)
+[The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6323) — [source page](https://thehog.ai/)
+
+[![The Hog gives you GaaS (Growth as a Service)](https://pin.fontofweb.com/6322?format=jpg)](https://design.withfudge.com/pin/6322)
+[The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6322) — [source page](https://thehog.ai/)
+
+[![The Hog gives you GaaS (Growth as a Service)](https://pin.fontofweb.com/6321?format=jpg)](https://design.withfudge.com/pin/6321)
+[The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6321) — [source page](https://thehog.ai/)
+
+[![The Hog gives you GaaS (Growth as a Service)](https://pin.fontofweb.com/6320?format=jpg)](https://design.withfudge.com/pin/6320)
+[The Hog gives you GaaS (Growth as a Service)](https://design.withfudge.com/pin/6320) — [source page](https://thehog.ai/)

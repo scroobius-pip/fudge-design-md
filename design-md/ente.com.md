@@ -6,6 +6,10 @@ Source domain: [ente.com](https://ente.com)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8463
+-->
+
 Here is the visual system observed across **11 captured pages** from [ente.com](https://ente.com).
 
 ```fudge-colors
@@ -307,12 +311,27 @@ Here is the visual system observed across **11 captured pages** from [ente.com](
 }
 ```
 
-## References
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8463) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8385) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8384) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8383) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8382) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8381) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8380) — [source page](https://ente.com/)
-- [Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8379) — [source page](https://ente.com/)
+## Representative captures
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8463?format=jpg)](https://design.withfudge.com/pin/8463)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8463) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8385?format=jpg)](https://design.withfudge.com/pin/8385)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8385) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8384?format=jpg)](https://design.withfudge.com/pin/8384)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8384) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8383?format=jpg)](https://design.withfudge.com/pin/8383)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8383) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8382?format=jpg)](https://design.withfudge.com/pin/8382)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8382) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8381?format=jpg)](https://design.withfudge.com/pin/8381)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8381) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8380?format=jpg)](https://design.withfudge.com/pin/8380)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8380) — [source page](https://ente.com/)
+
+[![Ente Photos: Store and share your photos with absolute privacy](https://pin.fontofweb.com/8379?format=jpg)](https://design.withfudge.com/pin/8379)
+[Ente Photos: Store and share your photos with absolute privacy](https://design.withfudge.com/pin/8379) — [source page](https://ente.com/)

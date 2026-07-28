@@ -6,6 +6,10 @@ Source domain: [jenwagner.co](https://jenwagner.co)
 
 Last updated: 2026-04-11
 
+<!--
+coverPin: 8802
+-->
+
 Here is the visual system observed across **4 captured pages** from [jenwagner.co](https://jenwagner.co).
 
 ```fudge-colors
@@ -160,8 +164,15 @@ Here is the visual system observed across **4 captured pages** from [jenwagner.c
 }
 ```
 
-## References
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8802) — [source page](https://jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8801) — [source page](https://jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8800) — [source page](https://jenwagner.co/affiliate)
-- [Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8799) — [source page](https://jenwagner.co/affiliate)
+## Representative captures
+[![Jen Wagner Co. Affiliate](https://pin.fontofweb.com/8802?format=jpg)](https://design.withfudge.com/pin/8802)
+[Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8802) — [source page](https://jenwagner.co/affiliate)
+
+[![Jen Wagner Co. Affiliate](https://pin.fontofweb.com/8801?format=jpg)](https://design.withfudge.com/pin/8801)
+[Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8801) — [source page](https://jenwagner.co/affiliate)
+
+[![Jen Wagner Co. Affiliate](https://pin.fontofweb.com/8800?format=jpg)](https://design.withfudge.com/pin/8800)
+[Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8800) — [source page](https://jenwagner.co/affiliate)
+
+[![Jen Wagner Co. Affiliate](https://pin.fontofweb.com/8799?format=jpg)](https://design.withfudge.com/pin/8799)
+[Jen Wagner Co. Affiliate](https://design.withfudge.com/pin/8799) — [source page](https://jenwagner.co/affiliate)

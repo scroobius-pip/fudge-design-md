@@ -6,6 +6,10 @@ Source domain: [fullsource.com](https://fullsource.com)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9937
+-->
+
 Here is the visual system observed across **1 captured page** from [fullsource.com](https://fullsource.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [fullsource.c
 }
 ```
 
-## References
-- [Full Source® | Safety Supplies, Workwear & Apparel](https://design.withfudge.com/pin/9937) — [source page](https://fullsource.com/)
+## Representative captures
+[![Full Source® | Safety Supplies, Workwear & Apparel](https://pin.fontofweb.com/9937?format=jpg)](https://design.withfudge.com/pin/9937)
+[Full Source® | Safety Supplies, Workwear & Apparel](https://design.withfudge.com/pin/9937) — [source page](https://fullsource.com/)

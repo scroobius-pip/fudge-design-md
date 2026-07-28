@@ -6,6 +6,10 @@ Source domain: [phoenix.new](https://phoenix.new)
 
 Last updated: 2026-01-29
 
+<!--
+coverPin: 6101
+-->
+
 Here is the visual system observed across **1 captured page** from [phoenix.new](https://phoenix.new).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [phoenix.new]
 }
 ```
 
-## References
-- [Home · Phoenix.new](https://design.withfudge.com/pin/6101) — [source page](https://phoenix.new/)
+## Representative captures
+[![Home · Phoenix.new](https://pin.fontofweb.com/6101?format=jpg)](https://design.withfudge.com/pin/6101)
+[Home · Phoenix.new](https://design.withfudge.com/pin/6101) — [source page](https://phoenix.new/)

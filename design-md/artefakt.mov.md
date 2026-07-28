@@ -6,6 +6,10 @@ Source domain: [artefakt.mov](https://artefakt.mov)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8539
+-->
+
 Here is the visual system observed across **2 captured pages** from [artefakt.mov](https://artefakt.mov).
 
 ```fudge-colors
@@ -102,6 +106,9 @@ Here is the visual system observed across **2 captured pages** from [artefakt.mo
 }
 ```
 
-## References
-- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8539) — [source page](https://artefakt.mov/)
-- [Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8538) — [source page](https://artefakt.mov/)
+## Representative captures
+[![Artefakt — Hybrid Production Frankfurt](https://pin.fontofweb.com/8539?format=jpg)](https://design.withfudge.com/pin/8539)
+[Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8539) — [source page](https://artefakt.mov/)
+
+[![Artefakt — Hybrid Production Frankfurt](https://pin.fontofweb.com/8538?format=jpg)](https://design.withfudge.com/pin/8538)
+[Artefakt — Hybrid Production Frankfurt](https://design.withfudge.com/pin/8538) — [source page](https://artefakt.mov/)

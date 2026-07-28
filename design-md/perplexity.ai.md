@@ -6,6 +6,10 @@ Source domain: [perplexity.ai](https://perplexity.ai)
 
 Last updated: 2026-06-09
 
+<!--
+coverPin: 9541
+-->
+
 Here is the visual system observed across **44 captured pages** from [perplexity.ai](https://perplexity.ai).
 
 ```fudge-colors
@@ -443,12 +447,27 @@ Here is the visual system observed across **44 captured pages** from [perplexity
 }
 ```
 
-## References
-- [Home | Perplexity Help Center](https://design.withfudge.com/pin/9541) — [source page](https://perplexity.ai/help-center/en/)
-- [Perplexity](https://design.withfudge.com/pin/9496) — [source page](https://perplexity.ai/)
-- [Perplexity Account](https://design.withfudge.com/pin/9459) — [source page](https://perplexity.ai/account/details)
-- [Perplexity](https://design.withfudge.com/pin/9458) — [source page](https://perplexity.ai/)
-- [Perplexity](https://design.withfudge.com/pin/9457) — [source page](https://perplexity.ai/)
-- [Perplexity](https://design.withfudge.com/pin/9456) — [source page](https://perplexity.ai/)
-- [find font pairings with inter](https://design.withfudge.com/pin/9429) — [source page](https://perplexity.ai/search/06a40471-2249-4ecd-bf27-9114021bf5a6)
-- [find font pairings with inter](https://design.withfudge.com/pin/9428) — [source page](https://perplexity.ai/search/06a40471-2249-4ecd-bf27-9114021bf5a6)
+## Representative captures
+[![Home | Perplexity Help Center](https://pin.fontofweb.com/9541?format=jpg)](https://design.withfudge.com/pin/9541)
+[Home | Perplexity Help Center](https://design.withfudge.com/pin/9541) — [source page](https://perplexity.ai/help-center/en/)
+
+[![Perplexity](https://pin.fontofweb.com/9496?format=jpg)](https://design.withfudge.com/pin/9496)
+[Perplexity](https://design.withfudge.com/pin/9496) — [source page](https://perplexity.ai/)
+
+[![Perplexity Account](https://pin.fontofweb.com/9459?format=jpg)](https://design.withfudge.com/pin/9459)
+[Perplexity Account](https://design.withfudge.com/pin/9459) — [source page](https://perplexity.ai/account/details)
+
+[![Perplexity](https://pin.fontofweb.com/9458?format=jpg)](https://design.withfudge.com/pin/9458)
+[Perplexity](https://design.withfudge.com/pin/9458) — [source page](https://perplexity.ai/)
+
+[![Perplexity](https://pin.fontofweb.com/9457?format=jpg)](https://design.withfudge.com/pin/9457)
+[Perplexity](https://design.withfudge.com/pin/9457) — [source page](https://perplexity.ai/)
+
+[![Perplexity](https://pin.fontofweb.com/9456?format=jpg)](https://design.withfudge.com/pin/9456)
+[Perplexity](https://design.withfudge.com/pin/9456) — [source page](https://perplexity.ai/)
+
+[![find font pairings with inter](https://pin.fontofweb.com/9429?format=jpg)](https://design.withfudge.com/pin/9429)
+[find font pairings with inter](https://design.withfudge.com/pin/9429) — [source page](https://perplexity.ai/search/06a40471-2249-4ecd-bf27-9114021bf5a6)
+
+[![find font pairings with inter](https://pin.fontofweb.com/9428?format=jpg)](https://design.withfudge.com/pin/9428)
+[find font pairings with inter](https://design.withfudge.com/pin/9428) — [source page](https://perplexity.ai/search/06a40471-2249-4ecd-bf27-9114021bf5a6)

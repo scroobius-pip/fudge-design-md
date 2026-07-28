@@ -6,6 +6,10 @@ Source domain: [photon.codes](https://photon.codes)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6515
+-->
+
 Here is the visual system observed across **14 captured pages** from [photon.codes](https://photon.codes).
 
 ```fudge-colors
@@ -406,12 +410,27 @@ Here is the visual system observed across **14 captured pages** from [photon.cod
 }
 ```
 
-## References
-- [Photon Residency](https://design.withfudge.com/pin/6515) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6514) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6513) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6512) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6511) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6510) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6509) — [source page](https://photon.codes/residency)
-- [Photon Residency](https://design.withfudge.com/pin/6508) — [source page](https://photon.codes/residency)
+## Representative captures
+[![Photon Residency](https://pin.fontofweb.com/6515?format=jpg)](https://design.withfudge.com/pin/6515)
+[Photon Residency](https://design.withfudge.com/pin/6515) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6514?format=jpg)](https://design.withfudge.com/pin/6514)
+[Photon Residency](https://design.withfudge.com/pin/6514) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6513?format=jpg)](https://design.withfudge.com/pin/6513)
+[Photon Residency](https://design.withfudge.com/pin/6513) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6512?format=jpg)](https://design.withfudge.com/pin/6512)
+[Photon Residency](https://design.withfudge.com/pin/6512) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6511?format=jpg)](https://design.withfudge.com/pin/6511)
+[Photon Residency](https://design.withfudge.com/pin/6511) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6510?format=jpg)](https://design.withfudge.com/pin/6510)
+[Photon Residency](https://design.withfudge.com/pin/6510) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6509?format=jpg)](https://design.withfudge.com/pin/6509)
+[Photon Residency](https://design.withfudge.com/pin/6509) — [source page](https://photon.codes/residency)
+
+[![Photon Residency](https://pin.fontofweb.com/6508?format=jpg)](https://design.withfudge.com/pin/6508)
+[Photon Residency](https://design.withfudge.com/pin/6508) — [source page](https://photon.codes/residency)

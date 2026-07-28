@@ -6,6 +6,10 @@ Source domain: [vogue.maitch.ai](https://vogue.maitch.ai)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8011
+-->
+
 Here is the visual system observed across **4 captured pages** from [vogue.maitch.ai](https://vogue.maitch.ai).
 
 ```fudge-colors
@@ -172,8 +176,15 @@ Here is the visual system observed across **4 captured pages** from [vogue.maitc
 }
 ```
 
-## References
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/8011) — [source page](https://vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7946) — [source page](https://vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7945) — [source page](https://vogue.maitch.ai/)
-- [vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7941) — [source page](https://vogue.maitch.ai/)
+## Representative captures
+[![vogue@maitch — AI Fashion Discovery](https://pin.fontofweb.com/8011?format=jpg)](https://design.withfudge.com/pin/8011)
+[vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/8011) — [source page](https://vogue.maitch.ai/)
+
+[![vogue@maitch — AI Fashion Discovery](https://pin.fontofweb.com/7946?format=jpg)](https://design.withfudge.com/pin/7946)
+[vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7946) — [source page](https://vogue.maitch.ai/)
+
+[![vogue@maitch — AI Fashion Discovery](https://pin.fontofweb.com/7945?format=jpg)](https://design.withfudge.com/pin/7945)
+[vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7945) — [source page](https://vogue.maitch.ai/)
+
+[![vogue@maitch — AI Fashion Discovery](https://pin.fontofweb.com/7941?format=jpg)](https://design.withfudge.com/pin/7941)
+[vogue@maitch — AI Fashion Discovery](https://design.withfudge.com/pin/7941) — [source page](https://vogue.maitch.ai/)

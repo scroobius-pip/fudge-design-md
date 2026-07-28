@@ -6,6 +6,10 @@ Source domain: [moonpay.com](https://moonpay.com)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7768
+-->
+
 Here is the visual system observed across **8 captured pages** from [moonpay.com](https://moonpay.com).
 
 ```fudge-colors
@@ -227,12 +231,27 @@ Here is the visual system observed across **8 captured pages** from [moonpay.com
 }
 ```
 
-## References
-- [Crypto for Business: Payments, Ramps & Stablecoins | MoonPay](https://design.withfudge.com/pin/7768) — [source page](https://moonpay.com/business)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7767) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7766) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7765) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7764) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7763) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7762) — [source page](https://moonpay.com/)
-- [MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7761) — [source page](https://moonpay.com/)
+## Representative captures
+[![Crypto for Business: Payments, Ramps & Stablecoins | MoonPay](https://pin.fontofweb.com/7768?format=jpg)](https://design.withfudge.com/pin/7768)
+[Crypto for Business: Payments, Ramps & Stablecoins | MoonPay](https://design.withfudge.com/pin/7768) — [source page](https://moonpay.com/business)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7767?format=jpg)](https://design.withfudge.com/pin/7767)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7767) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7766?format=jpg)](https://design.withfudge.com/pin/7766)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7766) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7765?format=jpg)](https://design.withfudge.com/pin/7765)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7765) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7764?format=jpg)](https://design.withfudge.com/pin/7764)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7764) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7763?format=jpg)](https://design.withfudge.com/pin/7763)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7763) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7762?format=jpg)](https://design.withfudge.com/pin/7762)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7762) — [source page](https://moonpay.com/)
+
+[![MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://pin.fontofweb.com/7761?format=jpg)](https://design.withfudge.com/pin/7761)
+[MoonPay: Buy and sell Bitcoin, Ethereum, and other cryptos](https://design.withfudge.com/pin/7761) — [source page](https://moonpay.com/)

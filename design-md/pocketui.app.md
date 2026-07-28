@@ -6,6 +6,10 @@ Source domain: [pocketui.app](https://pocketui.app)
 
 Last updated: 2026-06-30
 
+<!--
+coverPin: 9860
+-->
+
 Here is the visual system observed across **2 captured pages** from [pocketui.app](https://pocketui.app).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [pocketui.ap
 }
 ```
 
-## References
-- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9860) — [source page](https://pocketui.app/)
-- [Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9859) — [source page](https://pocketui.app/)
+## Representative captures
+[![Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://pin.fontofweb.com/9860?format=jpg)](https://design.withfudge.com/pin/9860)
+[Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9860) — [source page](https://pocketui.app/)
+
+[![Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://pin.fontofweb.com/9859?format=jpg)](https://design.withfudge.com/pin/9859)
+[Save Design Inspiration from Any Website | Export to Figma & Code | PocketUI](https://design.withfudge.com/pin/9859) — [source page](https://pocketui.app/)

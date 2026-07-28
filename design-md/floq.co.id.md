@@ -6,6 +6,10 @@ Source domain: [floq.co.id](https://floq.co.id)
 
 Last updated: 2026-07-08
 
+<!--
+coverPin: 9923
+-->
+
 Here is the visual system observed across **1 captured page** from [floq.co.id](https://floq.co.id).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [floq.co.id](
 }
 ```
 
-## References
-- [Platform Investasi Aset Kripto Terpercaya di Indonesia](https://design.withfudge.com/pin/9923) — [source page](https://floq.co.id/)
+## Representative captures
+[![Platform Investasi Aset Kripto Terpercaya di Indonesia](https://pin.fontofweb.com/9923?format=jpg)](https://design.withfudge.com/pin/9923)
+[Platform Investasi Aset Kripto Terpercaya di Indonesia](https://design.withfudge.com/pin/9923) — [source page](https://floq.co.id/)

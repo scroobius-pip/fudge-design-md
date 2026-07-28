@@ -6,6 +6,10 @@ Source domain: [stripe.com](https://stripe.com)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10046
+-->
+
 Here is the visual system observed across **40 captured pages** from [stripe.com](https://stripe.com).
 
 ```fudge-colors
@@ -348,12 +352,27 @@ Here is the visual system observed across **40 captured pages** from [stripe.com
 }
 ```
 
-## References
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10046) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10045) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10044) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10043) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10042) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10041) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7596) — [source page](https://stripe.com/)
-- [Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7595) — [source page](https://stripe.com/)
+## Representative captures
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10046?format=jpg)](https://design.withfudge.com/pin/10046)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10046) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10045?format=jpg)](https://design.withfudge.com/pin/10045)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10045) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10044?format=jpg)](https://design.withfudge.com/pin/10044)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10044) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10043?format=jpg)](https://design.withfudge.com/pin/10043)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10043) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10042?format=jpg)](https://design.withfudge.com/pin/10042)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10042) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/10041?format=jpg)](https://design.withfudge.com/pin/10041)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/10041) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/7596?format=jpg)](https://design.withfudge.com/pin/7596)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7596) — [source page](https://stripe.com/)
+
+[![Stripe | Financial Infrastructure to Grow Your Revenue](https://pin.fontofweb.com/7595?format=jpg)](https://design.withfudge.com/pin/7595)
+[Stripe | Financial Infrastructure to Grow Your Revenue](https://design.withfudge.com/pin/7595) — [source page](https://stripe.com/)

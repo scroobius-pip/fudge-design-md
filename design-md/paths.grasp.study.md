@@ -6,6 +6,10 @@ Source domain: [paths.grasp.study](https://paths.grasp.study)
 
 Last updated: 2026-02-16
 
+<!--
+coverPin: 6586
+-->
+
 Here is the visual system observed across **5 captured pages** from [paths.grasp.study](https://paths.grasp.study).
 
 ```fudge-colors
@@ -194,9 +198,18 @@ Here is the visual system observed across **5 captured pages** from [paths.grasp
 }
 ```
 
-## References
-- [Grasp - Sign up](https://design.withfudge.com/pin/6586) — [source page](https://paths.grasp.study/sign-up)
-- [Grasp - Sign in](https://design.withfudge.com/pin/6585) — [source page](https://paths.grasp.study/sign-in)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6584) — [source page](https://paths.grasp.study/login)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6583) — [source page](https://paths.grasp.study/login)
-- [Grasp - Learning Made Personal](https://design.withfudge.com/pin/6582) — [source page](https://paths.grasp.study/login)
+## Representative captures
+[![Grasp - Sign up](https://pin.fontofweb.com/6586?format=jpg)](https://design.withfudge.com/pin/6586)
+[Grasp - Sign up](https://design.withfudge.com/pin/6586) — [source page](https://paths.grasp.study/sign-up)
+
+[![Grasp - Sign in](https://pin.fontofweb.com/6585?format=jpg)](https://design.withfudge.com/pin/6585)
+[Grasp - Sign in](https://design.withfudge.com/pin/6585) — [source page](https://paths.grasp.study/sign-in)
+
+[![Grasp - Learning Made Personal](https://pin.fontofweb.com/6584?format=jpg)](https://design.withfudge.com/pin/6584)
+[Grasp - Learning Made Personal](https://design.withfudge.com/pin/6584) — [source page](https://paths.grasp.study/login)
+
+[![Grasp - Learning Made Personal](https://pin.fontofweb.com/6583?format=jpg)](https://design.withfudge.com/pin/6583)
+[Grasp - Learning Made Personal](https://design.withfudge.com/pin/6583) — [source page](https://paths.grasp.study/login)
+
+[![Grasp - Learning Made Personal](https://pin.fontofweb.com/6582?format=jpg)](https://design.withfudge.com/pin/6582)
+[Grasp - Learning Made Personal](https://design.withfudge.com/pin/6582) — [source page](https://paths.grasp.study/login)

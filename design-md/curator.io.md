@@ -6,6 +6,10 @@ Source domain: [curator.io](https://curator.io)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7656
+-->
+
 Here is the visual system observed across **5 captured pages** from [curator.io](https://curator.io).
 
 ```fudge-colors
@@ -183,9 +187,18 @@ Here is the visual system observed across **5 captured pages** from [curator.io]
 }
 ```
 
-## References
-- [Social Media Aggregator Tips, Guides & News | Curator Blog](https://design.withfudge.com/pin/7656) — [source page](https://curator.io/blog)
-- [Pricing – Curator Social Media Aggregator](https://design.withfudge.com/pin/7654) — [source page](https://curator.io/pricing)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7653) — [source page](https://curator.io/)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7652) — [source page](https://curator.io/)
-- [The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7651) — [source page](https://curator.io/)
+## Representative captures
+[![Social Media Aggregator Tips, Guides & News | Curator Blog](https://pin.fontofweb.com/7656?format=jpg)](https://design.withfudge.com/pin/7656)
+[Social Media Aggregator Tips, Guides & News | Curator Blog](https://design.withfudge.com/pin/7656) — [source page](https://curator.io/blog)
+
+[![Pricing – Curator Social Media Aggregator](https://pin.fontofweb.com/7654?format=jpg)](https://design.withfudge.com/pin/7654)
+[Pricing – Curator Social Media Aggregator](https://design.withfudge.com/pin/7654) — [source page](https://curator.io/pricing)
+
+[![The Free Social Media Aggregator - Curator](https://pin.fontofweb.com/7653?format=jpg)](https://design.withfudge.com/pin/7653)
+[The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7653) — [source page](https://curator.io/)
+
+[![The Free Social Media Aggregator - Curator](https://pin.fontofweb.com/7652?format=jpg)](https://design.withfudge.com/pin/7652)
+[The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7652) — [source page](https://curator.io/)
+
+[![The Free Social Media Aggregator - Curator](https://pin.fontofweb.com/7651?format=jpg)](https://design.withfudge.com/pin/7651)
+[The Free Social Media Aggregator - Curator](https://design.withfudge.com/pin/7651) — [source page](https://curator.io/)

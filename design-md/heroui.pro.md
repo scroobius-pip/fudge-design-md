@@ -6,6 +6,10 @@ Source domain: [heroui.pro](https://heroui.pro)
 
 Last updated: 2026-04-11
 
+<!--
+coverPin: 8798
+-->
+
 Here is the visual system observed across **16 captured pages** from [heroui.pro](https://heroui.pro).
 
 ```fudge-colors
@@ -299,12 +303,27 @@ Here is the visual system observed across **16 captured pages** from [heroui.pro
 }
 ```
 
-## References
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8798) — [source page](https://heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8797) — [source page](https://heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8796) — [source page](https://heroui.pro/)
-- [HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8795) — [source page](https://heroui.pro/)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/834) — [source page](https://heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/833) — [source page](https://heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/832) — [source page](https://heroui.pro/components/marketing/pricing)
-- [Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/831) — [source page](https://heroui.pro/components/marketing/pricing)
+## Representative captures
+[![HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://pin.fontofweb.com/8798?format=jpg)](https://design.withfudge.com/pin/8798)
+[HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8798) — [source page](https://heroui.pro/)
+
+[![HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://pin.fontofweb.com/8797?format=jpg)](https://design.withfudge.com/pin/8797)
+[HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8797) — [source page](https://heroui.pro/)
+
+[![HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://pin.fontofweb.com/8796?format=jpg)](https://design.withfudge.com/pin/8796)
+[HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8796) — [source page](https://heroui.pro/)
+
+[![HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://pin.fontofweb.com/8795?format=jpg)](https://design.withfudge.com/pin/8795)
+[HeroUI Pro — Premium React & React Native UI Components, Templates & AI Tooling | HeroUI Pro](https://design.withfudge.com/pin/8795) — [source page](https://heroui.pro/)
+
+[![Pricing | HeroUI Pro - Ship faster](https://pin.fontofweb.com/834?format=jpg)](https://design.withfudge.com/pin/834)
+[Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/834) — [source page](https://heroui.pro/components/marketing/pricing)
+
+[![Pricing | HeroUI Pro - Ship faster](https://pin.fontofweb.com/833?format=jpg)](https://design.withfudge.com/pin/833)
+[Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/833) — [source page](https://heroui.pro/components/marketing/pricing)
+
+[![Pricing | HeroUI Pro - Ship faster](https://pin.fontofweb.com/832?format=jpg)](https://design.withfudge.com/pin/832)
+[Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/832) — [source page](https://heroui.pro/components/marketing/pricing)
+
+[![Pricing | HeroUI Pro - Ship faster](https://pin.fontofweb.com/831?format=jpg)](https://design.withfudge.com/pin/831)
+[Pricing | HeroUI Pro - Ship faster](https://design.withfudge.com/pin/831) — [source page](https://heroui.pro/components/marketing/pricing)

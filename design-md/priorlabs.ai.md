@@ -6,6 +6,10 @@ Source domain: [priorlabs.ai](https://priorlabs.ai)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6866
+-->
+
 Here is the visual system observed across **26 captured pages** from [priorlabs.ai](https://priorlabs.ai).
 
 ```fudge-colors
@@ -339,12 +343,27 @@ Here is the visual system observed across **26 captured pages** from [priorlabs.
 }
 ```
 
-## References
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6866) — [source page](https://priorlabs.ai/careers)
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6865) — [source page](https://priorlabs.ai/careers)
-- [Careers | Prior Labs](https://design.withfudge.com/pin/6864) — [source page](https://priorlabs.ai/careers)
-- [About | Prior Labs](https://design.withfudge.com/pin/6863) — [source page](https://priorlabs.ai/about)
-- [About | Prior Labs](https://design.withfudge.com/pin/6862) — [source page](https://priorlabs.ai/about)
-- [About | Prior Labs](https://design.withfudge.com/pin/6861) — [source page](https://priorlabs.ai/about)
-- [Prior Labs](https://design.withfudge.com/pin/6860) — [source page](https://priorlabs.ai/deployment/model-context-protocol)
-- [Prior Labs](https://design.withfudge.com/pin/6859) — [source page](https://priorlabs.ai/deployment/model-context-protocol)
+## Representative captures
+[![Careers | Prior Labs](https://pin.fontofweb.com/6866?format=jpg)](https://design.withfudge.com/pin/6866)
+[Careers | Prior Labs](https://design.withfudge.com/pin/6866) — [source page](https://priorlabs.ai/careers)
+
+[![Careers | Prior Labs](https://pin.fontofweb.com/6865?format=jpg)](https://design.withfudge.com/pin/6865)
+[Careers | Prior Labs](https://design.withfudge.com/pin/6865) — [source page](https://priorlabs.ai/careers)
+
+[![Careers | Prior Labs](https://pin.fontofweb.com/6864?format=jpg)](https://design.withfudge.com/pin/6864)
+[Careers | Prior Labs](https://design.withfudge.com/pin/6864) — [source page](https://priorlabs.ai/careers)
+
+[![About | Prior Labs](https://pin.fontofweb.com/6863?format=jpg)](https://design.withfudge.com/pin/6863)
+[About | Prior Labs](https://design.withfudge.com/pin/6863) — [source page](https://priorlabs.ai/about)
+
+[![About | Prior Labs](https://pin.fontofweb.com/6862?format=jpg)](https://design.withfudge.com/pin/6862)
+[About | Prior Labs](https://design.withfudge.com/pin/6862) — [source page](https://priorlabs.ai/about)
+
+[![About | Prior Labs](https://pin.fontofweb.com/6861?format=jpg)](https://design.withfudge.com/pin/6861)
+[About | Prior Labs](https://design.withfudge.com/pin/6861) — [source page](https://priorlabs.ai/about)
+
+[![Prior Labs](https://pin.fontofweb.com/6860?format=jpg)](https://design.withfudge.com/pin/6860)
+[Prior Labs](https://design.withfudge.com/pin/6860) — [source page](https://priorlabs.ai/deployment/model-context-protocol)
+
+[![Prior Labs](https://pin.fontofweb.com/6859?format=jpg)](https://design.withfudge.com/pin/6859)
+[Prior Labs](https://design.withfudge.com/pin/6859) — [source page](https://priorlabs.ai/deployment/model-context-protocol)

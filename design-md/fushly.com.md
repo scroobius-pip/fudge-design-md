@@ -6,6 +6,10 @@ Source domain: [fushly.com](https://fushly.com)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7720
+-->
+
 Here is the visual system observed across **4 captured pages** from [fushly.com](https://fushly.com).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [fushly.com]
 }
 ```
 
-## References
-- [Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://design.withfudge.com/pin/7720) — [source page](https://fushly.com/login)
-- [Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://design.withfudge.com/pin/7719) — [source page](https://fushly.com/login)
-- [Free startup credits : Free Cloud Credits, Free AI credits](https://design.withfudge.com/pin/7718) — [source page](https://fushly.com/)
-- [Free startup credits : Free Cloud Credits, Free AI credits](https://design.withfudge.com/pin/7717) — [source page](https://fushly.com/)
+## Representative captures
+[![Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://pin.fontofweb.com/7720?format=jpg)](https://design.withfudge.com/pin/7720)
+[Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://design.withfudge.com/pin/7720) — [source page](https://fushly.com/login)
+
+[![Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://pin.fontofweb.com/7719?format=jpg)](https://design.withfudge.com/pin/7719)
+[Fushly — Unlock up to $5.5M+ in tech credits for your startup](https://design.withfudge.com/pin/7719) — [source page](https://fushly.com/login)
+
+[![Free startup credits : Free Cloud Credits, Free AI credits](https://pin.fontofweb.com/7718?format=jpg)](https://design.withfudge.com/pin/7718)
+[Free startup credits : Free Cloud Credits, Free AI credits](https://design.withfudge.com/pin/7718) — [source page](https://fushly.com/)
+
+[![Free startup credits : Free Cloud Credits, Free AI credits](https://pin.fontofweb.com/7717?format=jpg)](https://design.withfudge.com/pin/7717)
+[Free startup credits : Free Cloud Credits, Free AI credits](https://design.withfudge.com/pin/7717) — [source page](https://fushly.com/)

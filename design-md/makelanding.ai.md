@@ -6,6 +6,10 @@ Source domain: [makelanding.ai](https://makelanding.ai)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6713
+-->
+
 Here is the visual system observed across **1 captured page** from [makelanding.ai](https://makelanding.ai).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [makelanding.
 }
 ```
 
-## References
-- [Build Beautiful Landing Pages Instantly With AI | Makelanding](https://design.withfudge.com/pin/6713) — [source page](https://makelanding.ai/)
+## Representative captures
+[![Build Beautiful Landing Pages Instantly With AI | Makelanding](https://pin.fontofweb.com/6713?format=jpg)](https://design.withfudge.com/pin/6713)
+[Build Beautiful Landing Pages Instantly With AI | Makelanding](https://design.withfudge.com/pin/6713) — [source page](https://makelanding.ai/)

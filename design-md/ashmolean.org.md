@@ -6,6 +6,10 @@ Source domain: [ashmolean.org](https://ashmolean.org)
 
 Last updated: 2026-02-16
 
+<!--
+coverPin: 6603
+-->
+
 Here is the visual system observed across **14 captured pages** from [ashmolean.org](https://ashmolean.org).
 
 ```fudge-colors
@@ -341,12 +345,27 @@ Here is the visual system observed across **14 captured pages** from [ashmolean.
 }
 ```
 
-## References
-- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6603) — [source page](https://ashmolean.org/working-ashmolean)
-- [WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6602) — [source page](https://ashmolean.org/working-ashmolean)
-- [BRINGING HISTORY TO LIFE | 2025 ANNUAL APPEAL | Ashmolean Museum](https://design.withfudge.com/pin/6601) — [source page](https://ashmolean.org/bringing-history-to-life-2025-appeal)
-- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6600) — [source page](https://ashmolean.org/plan-your-visit)
-- [Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6599) — [source page](https://ashmolean.org/plan-your-visit)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6598) — [source page](https://ashmolean.org/)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6597) — [source page](https://ashmolean.org/)
-- [Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6596) — [source page](https://ashmolean.org/)
+## Representative captures
+[![WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://pin.fontofweb.com/6603?format=jpg)](https://design.withfudge.com/pin/6603)
+[WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6603) — [source page](https://ashmolean.org/working-ashmolean)
+
+[![WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://pin.fontofweb.com/6602?format=jpg)](https://design.withfudge.com/pin/6602)
+[WORKING AT THE ASHMOLEAN | Ashmolean Museum](https://design.withfudge.com/pin/6602) — [source page](https://ashmolean.org/working-ashmolean)
+
+[![BRINGING HISTORY TO LIFE | 2025 ANNUAL APPEAL | Ashmolean Museum](https://pin.fontofweb.com/6601?format=jpg)](https://design.withfudge.com/pin/6601)
+[BRINGING HISTORY TO LIFE | 2025 ANNUAL APPEAL | Ashmolean Museum](https://design.withfudge.com/pin/6601) — [source page](https://ashmolean.org/bringing-history-to-life-2025-appeal)
+
+[![Plan Your Visit | Ashmolean Museum](https://pin.fontofweb.com/6600?format=jpg)](https://design.withfudge.com/pin/6600)
+[Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6600) — [source page](https://ashmolean.org/plan-your-visit)
+
+[![Plan Your Visit | Ashmolean Museum](https://pin.fontofweb.com/6599?format=jpg)](https://design.withfudge.com/pin/6599)
+[Plan Your Visit | Ashmolean Museum](https://design.withfudge.com/pin/6599) — [source page](https://ashmolean.org/plan-your-visit)
+
+[![Welcome | Ashmolean Museum](https://pin.fontofweb.com/6598?format=jpg)](https://design.withfudge.com/pin/6598)
+[Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6598) — [source page](https://ashmolean.org/)
+
+[![Welcome | Ashmolean Museum](https://pin.fontofweb.com/6597?format=jpg)](https://design.withfudge.com/pin/6597)
+[Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6597) — [source page](https://ashmolean.org/)
+
+[![Welcome | Ashmolean Museum](https://pin.fontofweb.com/6596?format=jpg)](https://design.withfudge.com/pin/6596)
+[Welcome | Ashmolean Museum](https://design.withfudge.com/pin/6596) — [source page](https://ashmolean.org/)

@@ -6,6 +6,10 @@ Source domain: [plutio.com](https://plutio.com)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8367
+-->
+
 Here is the visual system observed across **8 captured pages** from [plutio.com](https://plutio.com).
 
 ```fudge-colors
@@ -244,12 +248,27 @@ Here is the visual system observed across **8 captured pages** from [plutio.com]
 }
 ```
 
-## References
-- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8367) — [source page](https://plutio.com/pricing)
-- [Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8366) — [source page](https://plutio.com/pricing)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8365) — [source page](https://plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8364) — [source page](https://plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8363) — [source page](https://plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8362) — [source page](https://plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8361) — [source page](https://plutio.com/)
-- [Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8360) — [source page](https://plutio.com/)
+## Representative captures
+[![Pricing - Plutio | All-in-one business management](https://pin.fontofweb.com/8367?format=jpg)](https://design.withfudge.com/pin/8367)
+[Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8367) — [source page](https://plutio.com/pricing)
+
+[![Pricing - Plutio | All-in-one business management](https://pin.fontofweb.com/8366?format=jpg)](https://design.withfudge.com/pin/8366)
+[Pricing - Plutio | All-in-one business management](https://design.withfudge.com/pin/8366) — [source page](https://plutio.com/pricing)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8365?format=jpg)](https://design.withfudge.com/pin/8365)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8365) — [source page](https://plutio.com/)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8364?format=jpg)](https://design.withfudge.com/pin/8364)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8364) — [source page](https://plutio.com/)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8363?format=jpg)](https://design.withfudge.com/pin/8363)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8363) — [source page](https://plutio.com/)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8362?format=jpg)](https://design.withfudge.com/pin/8362)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8362) — [source page](https://plutio.com/)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8361?format=jpg)](https://design.withfudge.com/pin/8361)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8361) — [source page](https://plutio.com/)
+
+[![Plutio - One app to run, grow, and automate your business](https://pin.fontofweb.com/8360?format=jpg)](https://design.withfudge.com/pin/8360)
+[Plutio - One app to run, grow, and automate your business](https://design.withfudge.com/pin/8360) — [source page](https://plutio.com/)

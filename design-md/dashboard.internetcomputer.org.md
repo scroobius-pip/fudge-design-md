@@ -6,6 +6,10 @@ Source domain: [dashboard.internetcomputer.org](https://dashboard.internetcomput
 
 Last updated: 2026-04-26
 
+<!--
+coverPin: 9061
+-->
+
 Here is the visual system observed across **4 captured pages** from [dashboard.internetcomputer.org](https://dashboard.internetcomputer.org).
 
 ```fudge-colors
@@ -173,8 +177,15 @@ Here is the visual system observed across **4 captured pages** from [dashboard.i
 }
 ```
 
-## References
-- [Subnets - ICP Dashboard](https://design.withfudge.com/pin/9061) — [source page](https://dashboard.internetcomputer.org/network/subnets)
-- [ICP Dashboard](https://design.withfudge.com/pin/9060) — [source page](https://dashboard.internetcomputer.org/)
-- [ICP Dashboard](https://design.withfudge.com/pin/9059) — [source page](https://dashboard.internetcomputer.org/)
-- [ICP Dashboard](https://design.withfudge.com/pin/9058) — [source page](https://dashboard.internetcomputer.org/)
+## Representative captures
+[![Subnets - ICP Dashboard](https://pin.fontofweb.com/9061?format=jpg)](https://design.withfudge.com/pin/9061)
+[Subnets - ICP Dashboard](https://design.withfudge.com/pin/9061) — [source page](https://dashboard.internetcomputer.org/network/subnets)
+
+[![ICP Dashboard](https://pin.fontofweb.com/9060?format=jpg)](https://design.withfudge.com/pin/9060)
+[ICP Dashboard](https://design.withfudge.com/pin/9060) — [source page](https://dashboard.internetcomputer.org/)
+
+[![ICP Dashboard](https://pin.fontofweb.com/9059?format=jpg)](https://design.withfudge.com/pin/9059)
+[ICP Dashboard](https://design.withfudge.com/pin/9059) — [source page](https://dashboard.internetcomputer.org/)
+
+[![ICP Dashboard](https://pin.fontofweb.com/9058?format=jpg)](https://design.withfudge.com/pin/9058)
+[ICP Dashboard](https://design.withfudge.com/pin/9058) — [source page](https://dashboard.internetcomputer.org/)

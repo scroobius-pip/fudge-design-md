@@ -6,6 +6,10 @@ Source domain: [ramp.com](https://ramp.com)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9052
+-->
+
 Here is the visual system observed across **8 captured pages** from [ramp.com](https://ramp.com).
 
 ```fudge-colors
@@ -224,12 +228,27 @@ Here is the visual system observed across **8 captured pages** from [ramp.com](h
 }
 ```
 
-## References
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9052) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9051) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9050) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9049) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9048) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9047) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9046) — [source page](https://ramp.com/)
-- [Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9045) — [source page](https://ramp.com/)
+## Representative captures
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9052?format=jpg)](https://design.withfudge.com/pin/9052)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9052) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9051?format=jpg)](https://design.withfudge.com/pin/9051)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9051) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9050?format=jpg)](https://design.withfudge.com/pin/9050)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9050) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9049?format=jpg)](https://design.withfudge.com/pin/9049)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9049) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9048?format=jpg)](https://design.withfudge.com/pin/9048)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9048) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9047?format=jpg)](https://design.withfudge.com/pin/9047)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9047) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9046?format=jpg)](https://design.withfudge.com/pin/9046)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9046) — [source page](https://ramp.com/)
+
+[![Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://pin.fontofweb.com/9045?format=jpg)](https://design.withfudge.com/pin/9045)
+[Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp](https://design.withfudge.com/pin/9045) — [source page](https://ramp.com/)

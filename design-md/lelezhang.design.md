@@ -6,6 +6,10 @@ Source domain: [lelezhang.design](https://lelezhang.design)
 
 Last updated: 2026-02-11
 
+<!--
+coverPin: 6396
+-->
+
 Here is the visual system observed across **8 captured pages** from [lelezhang.design](https://lelezhang.design).
 
 ```fudge-colors
@@ -224,12 +228,27 @@ Here is the visual system observed across **8 captured pages** from [lelezhang.d
 }
 ```
 
-## References
-- [lele's website](https://design.withfudge.com/pin/6396) — [source page](https://lelezhang.design/chat-explorations)
-- [lele's website](https://design.withfudge.com/pin/5815) — [source page](https://lelezhang.design/)
-- [lele's website](https://design.withfudge.com/pin/5814) — [source page](https://lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4822) — [source page](https://lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4821) — [source page](https://lelezhang.design/)
-- [lele's portfolio](https://design.withfudge.com/pin/4820) — [source page](https://lelezhang.design/chat-explorations)
-- [lele's portfolio](https://design.withfudge.com/pin/4819) — [source page](https://lelezhang.design/chat-explorations)
-- [lele's portfolio](https://design.withfudge.com/pin/4818) — [source page](https://lelezhang.design/chat-explorations)
+## Representative captures
+[![lele's website](https://pin.fontofweb.com/6396?format=jpg)](https://design.withfudge.com/pin/6396)
+[lele's website](https://design.withfudge.com/pin/6396) — [source page](https://lelezhang.design/chat-explorations)
+
+[![lele's website](https://pin.fontofweb.com/5815?format=jpg)](https://design.withfudge.com/pin/5815)
+[lele's website](https://design.withfudge.com/pin/5815) — [source page](https://lelezhang.design/)
+
+[![lele's website](https://pin.fontofweb.com/5814?format=jpg)](https://design.withfudge.com/pin/5814)
+[lele's website](https://design.withfudge.com/pin/5814) — [source page](https://lelezhang.design/)
+
+[![lele's portfolio](https://pin.fontofweb.com/4822?format=jpg)](https://design.withfudge.com/pin/4822)
+[lele's portfolio](https://design.withfudge.com/pin/4822) — [source page](https://lelezhang.design/)
+
+[![lele's portfolio](https://pin.fontofweb.com/4821?format=jpg)](https://design.withfudge.com/pin/4821)
+[lele's portfolio](https://design.withfudge.com/pin/4821) — [source page](https://lelezhang.design/)
+
+[![lele's portfolio](https://pin.fontofweb.com/4820?format=jpg)](https://design.withfudge.com/pin/4820)
+[lele's portfolio](https://design.withfudge.com/pin/4820) — [source page](https://lelezhang.design/chat-explorations)
+
+[![lele's portfolio](https://pin.fontofweb.com/4819?format=jpg)](https://design.withfudge.com/pin/4819)
+[lele's portfolio](https://design.withfudge.com/pin/4819) — [source page](https://lelezhang.design/chat-explorations)
+
+[![lele's portfolio](https://pin.fontofweb.com/4818?format=jpg)](https://design.withfudge.com/pin/4818)
+[lele's portfolio](https://design.withfudge.com/pin/4818) — [source page](https://lelezhang.design/chat-explorations)

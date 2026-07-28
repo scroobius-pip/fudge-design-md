@@ -6,6 +6,10 @@ Source domain: [developer.chrome.com](https://developer.chrome.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6427
+-->
+
 Here is the visual system observed across **5 captured pages** from [developer.chrome.com](https://developer.chrome.com).
 
 ```fudge-colors
@@ -165,9 +169,18 @@ Here is the visual system observed across **5 captured pages** from [developer.c
 }
 ```
 
-## References
-- [Documentation  |  Docs  |  Chrome for Developers](https://design.withfudge.com/pin/6427) — [source page](https://developer.chrome.com/docs)
-- [Chrome for Developers](https://design.withfudge.com/pin/6426) — [source page](https://developer.chrome.com/)
-- [Chrome for Developers](https://design.withfudge.com/pin/6425) — [source page](https://developer.chrome.com/)
-- [Chrome for Developers](https://design.withfudge.com/pin/6424) — [source page](https://developer.chrome.com/)
-- [404  |  Page Not Found  |  Chrome for Developers](https://design.withfudge.com/pin/5809) — [source page](https://developer.chrome.com/extensions/experimental_devtools_console)
+## Representative captures
+[![Documentation  |  Docs  |  Chrome for Developers](https://pin.fontofweb.com/6427?format=jpg)](https://design.withfudge.com/pin/6427)
+[Documentation  |  Docs  |  Chrome for Developers](https://design.withfudge.com/pin/6427) — [source page](https://developer.chrome.com/docs)
+
+[![Chrome for Developers](https://pin.fontofweb.com/6426?format=jpg)](https://design.withfudge.com/pin/6426)
+[Chrome for Developers](https://design.withfudge.com/pin/6426) — [source page](https://developer.chrome.com/)
+
+[![Chrome for Developers](https://pin.fontofweb.com/6425?format=jpg)](https://design.withfudge.com/pin/6425)
+[Chrome for Developers](https://design.withfudge.com/pin/6425) — [source page](https://developer.chrome.com/)
+
+[![Chrome for Developers](https://pin.fontofweb.com/6424?format=jpg)](https://design.withfudge.com/pin/6424)
+[Chrome for Developers](https://design.withfudge.com/pin/6424) — [source page](https://developer.chrome.com/)
+
+[![404  |  Page Not Found  |  Chrome for Developers](https://pin.fontofweb.com/5809?format=jpg)](https://design.withfudge.com/pin/5809)
+[404  |  Page Not Found  |  Chrome for Developers](https://design.withfudge.com/pin/5809) — [source page](https://developer.chrome.com/extensions/experimental_devtools_console)

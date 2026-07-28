@@ -6,6 +6,10 @@ Source domain: [app.primeintellect.ai](https://app.primeintellect.ai)
 
 Last updated: 2026-07-10
 
+<!--
+coverPin: 9968
+-->
+
 Here is the visual system observed across **1 captured page** from [app.primeintellect.ai](https://app.primeintellect.ai).
 
 ```fudge-colors
@@ -122,5 +126,6 @@ Here is the visual system observed across **1 captured page** from [app.primeint
 }
 ```
 
-## References
-- [Prime Intellect | The Open Superintelligence Stack](https://design.withfudge.com/pin/9968) — [source page](https://app.primeintellect.ai/dashboard/home)
+## Representative captures
+[![Prime Intellect | The Open Superintelligence Stack](https://pin.fontofweb.com/9968?format=jpg)](https://design.withfudge.com/pin/9968)
+[Prime Intellect | The Open Superintelligence Stack](https://design.withfudge.com/pin/9968) — [source page](https://app.primeintellect.ai/dashboard/home)

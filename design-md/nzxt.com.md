@@ -6,6 +6,10 @@ Source domain: [nzxt.com](https://nzxt.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7092
+-->
+
 Here is the visual system observed across **4 captured pages** from [nzxt.com](https://nzxt.com).
 
 ```fudge-colors
@@ -173,8 +177,15 @@ Here is the visual system observed across **4 captured pages** from [nzxt.com](h
 }
 ```
 
-## References
-- [Small Form Factor](https://design.withfudge.com/pin/7092) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
-- [Small Form Factor](https://design.withfudge.com/pin/7091) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
-- [Small Form Factor](https://design.withfudge.com/pin/7090) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
-- [NZXT | H2 Flow | Mini-ITX Airflow Case](https://design.withfudge.com/pin/7089) — [source page](https://nzxt.com/en-intl/products/h2-flow)
+## Representative captures
+[![Small Form Factor](https://pin.fontofweb.com/7092?format=jpg)](https://design.withfudge.com/pin/7092)
+[Small Form Factor](https://design.withfudge.com/pin/7092) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+
+[![Small Form Factor](https://pin.fontofweb.com/7091?format=jpg)](https://design.withfudge.com/pin/7091)
+[Small Form Factor](https://design.withfudge.com/pin/7091) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+
+[![Small Form Factor](https://pin.fontofweb.com/7090?format=jpg)](https://design.withfudge.com/pin/7090)
+[Small Form Factor](https://design.withfudge.com/pin/7090) — [source page](https://nzxt.com/en-intl/collections/small-form-factor)
+
+[![NZXT | H2 Flow | Mini-ITX Airflow Case](https://pin.fontofweb.com/7089?format=jpg)](https://design.withfudge.com/pin/7089)
+[NZXT | H2 Flow | Mini-ITX Airflow Case](https://design.withfudge.com/pin/7089) — [source page](https://nzxt.com/en-intl/products/h2-flow)

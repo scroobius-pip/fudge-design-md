@@ -6,6 +6,10 @@ Source domain: [thelocal.no](https://thelocal.no)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9147
+-->
+
 Here is the visual system observed across **3 captured pages** from [thelocal.no](https://thelocal.no).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [thelocal.no
 }
 ```
 
-## References
-- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9147) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
-- [EXPLAINED: Why Oslo experiences earthquakes and what the risk is](https://design.withfudge.com/pin/9145) — [source page](https://thelocal.no/20260428/explained-why-oslo-experiences-earthquakes-and-what-the-risk-is)
-- [Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9144) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
+## Representative captures
+[![Can you really be fined for skipping 'dugnad' in Norway?](https://pin.fontofweb.com/9147?format=jpg)](https://design.withfudge.com/pin/9147)
+[Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9147) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)
+
+[![EXPLAINED: Why Oslo experiences earthquakes and what the risk is](https://pin.fontofweb.com/9145?format=jpg)](https://design.withfudge.com/pin/9145)
+[EXPLAINED: Why Oslo experiences earthquakes and what the risk is](https://design.withfudge.com/pin/9145) — [source page](https://thelocal.no/20260428/explained-why-oslo-experiences-earthquakes-and-what-the-risk-is)
+
+[![Can you really be fined for skipping 'dugnad' in Norway?](https://pin.fontofweb.com/9144?format=jpg)](https://design.withfudge.com/pin/9144)
+[Can you really be fined for skipping 'dugnad' in Norway?](https://design.withfudge.com/pin/9144) — [source page](https://thelocal.no/20240412/can-you-really-be-fined-for-skipping-dugnad-in-norway)

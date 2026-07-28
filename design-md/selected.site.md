@@ -6,6 +6,10 @@ Source domain: [selected.site](https://selected.site)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8205
+-->
+
 Here is the visual system observed across **5 captured pages** from [selected.site](https://selected.site).
 
 ```fudge-colors
@@ -167,9 +171,18 @@ Here is the visual system observed across **5 captured pages** from [selected.si
 }
 ```
 
-## References
-- [Explore — Selected Site](https://design.withfudge.com/pin/8205) — [source page](https://selected.site/explore)
-- [Selected Site — Curated Tools & Resources](https://design.withfudge.com/pin/8204) — [source page](https://selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8203) — [source page](https://selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8202) — [source page](https://selected.site/)
-- [Home — Selected Site](https://design.withfudge.com/pin/8201) — [source page](https://selected.site/)
+## Representative captures
+[![Explore — Selected Site](https://pin.fontofweb.com/8205?format=jpg)](https://design.withfudge.com/pin/8205)
+[Explore — Selected Site](https://design.withfudge.com/pin/8205) — [source page](https://selected.site/explore)
+
+[![Selected Site — Curated Tools & Resources](https://pin.fontofweb.com/8204?format=jpg)](https://design.withfudge.com/pin/8204)
+[Selected Site — Curated Tools & Resources](https://design.withfudge.com/pin/8204) — [source page](https://selected.site/)
+
+[![Home — Selected Site](https://pin.fontofweb.com/8203?format=jpg)](https://design.withfudge.com/pin/8203)
+[Home — Selected Site](https://design.withfudge.com/pin/8203) — [source page](https://selected.site/)
+
+[![Home — Selected Site](https://pin.fontofweb.com/8202?format=jpg)](https://design.withfudge.com/pin/8202)
+[Home — Selected Site](https://design.withfudge.com/pin/8202) — [source page](https://selected.site/)
+
+[![Home — Selected Site](https://pin.fontofweb.com/8201?format=jpg)](https://design.withfudge.com/pin/8201)
+[Home — Selected Site](https://design.withfudge.com/pin/8201) — [source page](https://selected.site/)

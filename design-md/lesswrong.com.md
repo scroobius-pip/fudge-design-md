@@ -6,6 +6,10 @@ Source domain: [lesswrong.com](https://lesswrong.com)
 
 Last updated: 2026-06-16
 
+<!--
+coverPin: 9674
+-->
+
 Here is the visual system observed across **5 captured pages** from [lesswrong.com](https://lesswrong.com).
 
 ```fudge-colors
@@ -250,9 +254,18 @@ Here is the visual system observed across **5 captured pages** from [lesswrong.c
 }
 ```
 
-## References
-- [31 Laws of Fun — LessWrong](https://design.withfudge.com/pin/9674) — [source page](https://lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
-- [Eutopia is Scary — LessWrong](https://design.withfudge.com/pin/9663) — [source page](https://lesswrong.com/posts/hQSaMafoizBSa3gFR/eutopia-is-scary)
-- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9661) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
-- [Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9660) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
-- [LessWrong](https://design.withfudge.com/pin/5693) — [source page](https://lesswrong.com/)
+## Representative captures
+[![31 Laws of Fun — LessWrong](https://pin.fontofweb.com/9674?format=jpg)](https://design.withfudge.com/pin/9674)
+[31 Laws of Fun — LessWrong](https://design.withfudge.com/pin/9674) — [source page](https://lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
+
+[![Eutopia is Scary — LessWrong](https://pin.fontofweb.com/9663?format=jpg)](https://design.withfudge.com/pin/9663)
+[Eutopia is Scary — LessWrong](https://design.withfudge.com/pin/9663) — [source page](https://lesswrong.com/posts/hQSaMafoizBSa3gFR/eutopia-is-scary)
+
+[![Eliezer Yudkowsky — LessWrong](https://pin.fontofweb.com/9661?format=jpg)](https://design.withfudge.com/pin/9661)
+[Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9661) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
+
+[![Eliezer Yudkowsky — LessWrong](https://pin.fontofweb.com/9660?format=jpg)](https://design.withfudge.com/pin/9660)
+[Eliezer Yudkowsky — LessWrong](https://design.withfudge.com/pin/9660) — [source page](https://lesswrong.com/users/eliezer_yudkowsky)
+
+[![LessWrong](https://pin.fontofweb.com/5693?format=jpg)](https://design.withfudge.com/pin/5693)
+[LessWrong](https://design.withfudge.com/pin/5693) — [source page](https://lesswrong.com/)

@@ -6,6 +6,10 @@ Source domain: [chat.inceptionlabs.ai](https://chat.inceptionlabs.ai)
 
 Last updated: 2026-06-07
 
+<!--
+coverPin: 9518
+-->
+
 Here is the visual system observed across **1 captured page** from [chat.inceptionlabs.ai](https://chat.inceptionlabs.ai).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [chat.incepti
 }
 ```
 
-## References
-- [Inception Chat](https://design.withfudge.com/pin/9518) — [source page](https://chat.inceptionlabs.ai/)
+## Representative captures
+[![Inception Chat](https://pin.fontofweb.com/9518?format=jpg)](https://design.withfudge.com/pin/9518)
+[Inception Chat](https://design.withfudge.com/pin/9518) — [source page](https://chat.inceptionlabs.ai/)

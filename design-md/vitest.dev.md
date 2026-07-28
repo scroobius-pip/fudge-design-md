@@ -6,6 +6,10 @@ Source domain: [vitest.dev](https://vitest.dev)
 
 Last updated: 2026-03-19
 
+<!--
+coverPin: 8186
+-->
+
 Here is the visual system observed across **5 captured pages** from [vitest.dev](https://vitest.dev).
 
 ```fudge-colors
@@ -195,9 +199,18 @@ Here is the visual system observed across **5 captured pages** from [vitest.dev]
 }
 ```
 
-## References
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8186) — [source page](https://vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8185) — [source page](https://vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8184) — [source page](https://vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8183) — [source page](https://vitest.dev/)
-- [Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8182) — [source page](https://vitest.dev/)
+## Representative captures
+[![Vitest | Next Generation testing framework](https://pin.fontofweb.com/8186?format=jpg)](https://design.withfudge.com/pin/8186)
+[Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8186) — [source page](https://vitest.dev/)
+
+[![Vitest | Next Generation testing framework](https://pin.fontofweb.com/8185?format=jpg)](https://design.withfudge.com/pin/8185)
+[Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8185) — [source page](https://vitest.dev/)
+
+[![Vitest | Next Generation testing framework](https://pin.fontofweb.com/8184?format=jpg)](https://design.withfudge.com/pin/8184)
+[Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8184) — [source page](https://vitest.dev/)
+
+[![Vitest | Next Generation testing framework](https://pin.fontofweb.com/8183?format=jpg)](https://design.withfudge.com/pin/8183)
+[Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8183) — [source page](https://vitest.dev/)
+
+[![Vitest | Next Generation testing framework](https://pin.fontofweb.com/8182?format=jpg)](https://design.withfudge.com/pin/8182)
+[Vitest | Next Generation testing framework](https://design.withfudge.com/pin/8182) — [source page](https://vitest.dev/)

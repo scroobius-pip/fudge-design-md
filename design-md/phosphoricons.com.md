@@ -6,6 +6,10 @@ Source domain: [phosphoricons.com](https://phosphoricons.com)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8753
+-->
+
 Here is the visual system observed across **1 captured page** from [phosphoricons.com](https://phosphoricons.com).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [phosphoricon
 }
 ```
 
-## References
-- [Phosphor Icons](https://design.withfudge.com/pin/8753) — [source page](https://phosphoricons.com/)
+## Representative captures
+[![Phosphor Icons](https://pin.fontofweb.com/8753?format=jpg)](https://design.withfudge.com/pin/8753)
+[Phosphor Icons](https://design.withfudge.com/pin/8753) — [source page](https://phosphoricons.com/)

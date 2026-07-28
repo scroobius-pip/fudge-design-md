@@ -6,6 +6,10 @@ Source domain: [clerk.com](https://clerk.com)
 
 Last updated: 2026-07-21
 
+<!--
+coverPin: 10442
+-->
+
 Here is the visual system observed across **1 captured page** from [clerk.com](https://clerk.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [clerk.com](h
 }
 ```
 
-## References
-- [Clerk | Authentication and User Management](https://design.withfudge.com/pin/10442) — [source page](https://clerk.com/)
+## Representative captures
+[![Clerk | Authentication and User Management](https://pin.fontofweb.com/10442?format=jpg)](https://design.withfudge.com/pin/10442)
+[Clerk | Authentication and User Management](https://design.withfudge.com/pin/10442) — [source page](https://clerk.com/)

@@ -6,6 +6,10 @@ Source domain: [qoves.com](https://qoves.com)
 
 Last updated: 2026-05-12
 
+<!--
+coverPin: 9258
+-->
+
 Here is the visual system observed across **19 captured pages** from [qoves.com](https://qoves.com).
 
 ```fudge-colors
@@ -319,12 +323,27 @@ Here is the visual system observed across **19 captured pages** from [qoves.com]
 }
 ```
 
-## References
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9258) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9257) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9256) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9255) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9254) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9253) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9252) — [source page](https://qoves.com/)
-- [QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9251) — [source page](https://qoves.com/)
+## Representative captures
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9258?format=jpg)](https://design.withfudge.com/pin/9258)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9258) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9257?format=jpg)](https://design.withfudge.com/pin/9257)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9257) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9256?format=jpg)](https://design.withfudge.com/pin/9256)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9256) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9255?format=jpg)](https://design.withfudge.com/pin/9255)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9255) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9254?format=jpg)](https://design.withfudge.com/pin/9254)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9254) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9253?format=jpg)](https://design.withfudge.com/pin/9253)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9253) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9252?format=jpg)](https://design.withfudge.com/pin/9252)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9252) — [source page](https://qoves.com/)
+
+[![QOVES - Start Your Glow Up Without Surgery](https://pin.fontofweb.com/9251?format=jpg)](https://design.withfudge.com/pin/9251)
+[QOVES - Start Your Glow Up Without Surgery](https://design.withfudge.com/pin/9251) — [source page](https://qoves.com/)

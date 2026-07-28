@@ -6,6 +6,10 @@ Source domain: [ghostty.org](https://ghostty.org)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7560
+-->
+
 Here is the visual system observed across **1 captured page** from [ghostty.org](https://ghostty.org).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [ghostty.org]
 }
 ```
 
-## References
-- [Ghostty](https://design.withfudge.com/pin/7560) — [source page](https://ghostty.org/)
+## Representative captures
+[![Ghostty](https://pin.fontofweb.com/7560?format=jpg)](https://design.withfudge.com/pin/7560)
+[Ghostty](https://design.withfudge.com/pin/7560) — [source page](https://ghostty.org/)

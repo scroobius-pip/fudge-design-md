@@ -6,6 +6,10 @@ Source domain: [palantir.com](https://palantir.com)
 
 Last updated: 2026-05-17
 
+<!--
+coverPin: 9369
+-->
+
 Here is the visual system observed across **10 captured pages** from [palantir.com](https://palantir.com).
 
 ```fudge-colors
@@ -276,12 +280,27 @@ Here is the visual system observed across **10 captured pages** from [palantir.c
 }
 ```
 
-## References
-- [Captured page 9369](https://design.withfudge.com/pin/9369) — [source page](https://palantir.com/)
-- [Palantir | Page Not Found](https://design.withfudge.com/pin/9368) — [source page](https://palantir.com/404)
-- [Palantir | Page Not Found](https://design.withfudge.com/pin/9367) — [source page](https://palantir.com/404)
-- [Home | Palantir](https://design.withfudge.com/pin/2345) — [source page](https://palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2344) — [source page](https://palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2343) — [source page](https://palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2342) — [source page](https://palantir.com/)
-- [Home | Palantir](https://design.withfudge.com/pin/2341) — [source page](https://palantir.com/)
+## Representative captures
+[![Captured page 9369](https://pin.fontofweb.com/9369?format=jpg)](https://design.withfudge.com/pin/9369)
+[Captured page 9369](https://design.withfudge.com/pin/9369) — [source page](https://palantir.com/)
+
+[![Palantir | Page Not Found](https://pin.fontofweb.com/9368?format=jpg)](https://design.withfudge.com/pin/9368)
+[Palantir | Page Not Found](https://design.withfudge.com/pin/9368) — [source page](https://palantir.com/404)
+
+[![Palantir | Page Not Found](https://pin.fontofweb.com/9367?format=jpg)](https://design.withfudge.com/pin/9367)
+[Palantir | Page Not Found](https://design.withfudge.com/pin/9367) — [source page](https://palantir.com/404)
+
+[![Home | Palantir](https://pin.fontofweb.com/2345?format=jpg)](https://design.withfudge.com/pin/2345)
+[Home | Palantir](https://design.withfudge.com/pin/2345) — [source page](https://palantir.com/)
+
+[![Home | Palantir](https://pin.fontofweb.com/2344?format=jpg)](https://design.withfudge.com/pin/2344)
+[Home | Palantir](https://design.withfudge.com/pin/2344) — [source page](https://palantir.com/)
+
+[![Home | Palantir](https://pin.fontofweb.com/2343?format=jpg)](https://design.withfudge.com/pin/2343)
+[Home | Palantir](https://design.withfudge.com/pin/2343) — [source page](https://palantir.com/)
+
+[![Home | Palantir](https://pin.fontofweb.com/2342?format=jpg)](https://design.withfudge.com/pin/2342)
+[Home | Palantir](https://design.withfudge.com/pin/2342) — [source page](https://palantir.com/)
+
+[![Home | Palantir](https://pin.fontofweb.com/2341?format=jpg)](https://design.withfudge.com/pin/2341)
+[Home | Palantir](https://design.withfudge.com/pin/2341) — [source page](https://palantir.com/)

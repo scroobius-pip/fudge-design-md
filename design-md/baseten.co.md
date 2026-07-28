@@ -6,6 +6,10 @@ Source domain: [baseten.co](https://baseten.co)
 
 Last updated: 2026-05-15
 
+<!--
+coverPin: 9328
+-->
+
 Here is the visual system observed across **7 captured pages** from [baseten.co](https://baseten.co).
 
 ```fudge-colors
@@ -243,11 +247,24 @@ Here is the visual system observed across **7 captured pages** from [baseten.co]
 }
 ```
 
-## References
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9328) — [source page](https://baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9327) — [source page](https://baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9326) — [source page](https://baseten.co/products/dedicated-inference/)
-- [Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9325) — [source page](https://baseten.co/products/dedicated-inference/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9324) — [source page](https://baseten.co/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9323) — [source page](https://baseten.co/)
-- [Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9008) — [source page](https://baseten.co/)
+## Representative captures
+[![Inference at Scale with Dedicated Deployments | Baseten](https://pin.fontofweb.com/9328?format=jpg)](https://design.withfudge.com/pin/9328)
+[Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9328) — [source page](https://baseten.co/products/dedicated-inference/)
+
+[![Inference at Scale with Dedicated Deployments | Baseten](https://pin.fontofweb.com/9327?format=jpg)](https://design.withfudge.com/pin/9327)
+[Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9327) — [source page](https://baseten.co/products/dedicated-inference/)
+
+[![Inference at Scale with Dedicated Deployments | Baseten](https://pin.fontofweb.com/9326?format=jpg)](https://design.withfudge.com/pin/9326)
+[Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9326) — [source page](https://baseten.co/products/dedicated-inference/)
+
+[![Inference at Scale with Dedicated Deployments | Baseten](https://pin.fontofweb.com/9325?format=jpg)](https://design.withfudge.com/pin/9325)
+[Inference at Scale with Dedicated Deployments | Baseten](https://design.withfudge.com/pin/9325) — [source page](https://baseten.co/products/dedicated-inference/)
+
+[![Inference Platform: Deploy AI models in production | Baseten](https://pin.fontofweb.com/9324?format=jpg)](https://design.withfudge.com/pin/9324)
+[Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9324) — [source page](https://baseten.co/)
+
+[![Inference Platform: Deploy AI models in production | Baseten](https://pin.fontofweb.com/9323?format=jpg)](https://design.withfudge.com/pin/9323)
+[Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9323) — [source page](https://baseten.co/)
+
+[![Inference Platform: Deploy AI models in production | Baseten](https://pin.fontofweb.com/9008?format=jpg)](https://design.withfudge.com/pin/9008)
+[Inference Platform: Deploy AI models in production | Baseten](https://design.withfudge.com/pin/9008) — [source page](https://baseten.co/)

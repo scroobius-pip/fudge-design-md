@@ -6,6 +6,10 @@ Source domain: [minoradventures.co](https://minoradventures.co)
 
 Last updated: 2026-04-07
 
+<!--
+coverPin: 8712
+-->
+
 Here is the visual system observed across **5 captured pages** from [minoradventures.co](https://minoradventures.co).
 
 ```fudge-colors
@@ -196,9 +200,18 @@ Here is the visual system observed across **5 captured pages** from [minoradvent
 }
 ```
 
-## References
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8712) — [source page](https://minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8711) — [source page](https://minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8710) — [source page](https://minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8709) — [source page](https://minoradventures.co/)
-- [Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8708) — [source page](https://minoradventures.co/)
+## Representative captures
+[![Minor Adventures – Icon Foundry](https://pin.fontofweb.com/8712?format=jpg)](https://design.withfudge.com/pin/8712)
+[Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8712) — [source page](https://minoradventures.co/)
+
+[![Minor Adventures – Icon Foundry](https://pin.fontofweb.com/8711?format=jpg)](https://design.withfudge.com/pin/8711)
+[Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8711) — [source page](https://minoradventures.co/)
+
+[![Minor Adventures – Icon Foundry](https://pin.fontofweb.com/8710?format=jpg)](https://design.withfudge.com/pin/8710)
+[Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8710) — [source page](https://minoradventures.co/)
+
+[![Minor Adventures – Icon Foundry](https://pin.fontofweb.com/8709?format=jpg)](https://design.withfudge.com/pin/8709)
+[Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8709) — [source page](https://minoradventures.co/)
+
+[![Minor Adventures – Icon Foundry](https://pin.fontofweb.com/8708?format=jpg)](https://design.withfudge.com/pin/8708)
+[Minor Adventures – Icon Foundry](https://design.withfudge.com/pin/8708) — [source page](https://minoradventures.co/)

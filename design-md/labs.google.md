@@ -6,6 +6,10 @@ Source domain: [labs.google](https://labs.google)
 
 Last updated: 2026-05-20
 
+<!--
+coverPin: 9426
+-->
+
 Here is the visual system observed across **12 captured pages** from [labs.google](https://labs.google).
 
 ```fudge-colors
@@ -297,12 +301,27 @@ Here is the visual system observed across **12 captured pages** from [labs.googl
 }
 ```
 
-## References
-- [Flow - See what Flow can do](https://design.withfudge.com/pin/9426) — [source page](https://labs.google/fx/tools/flow/project/c8b4110d-7897-4bc7-9cab-379fecfbed20)
-- [Flow - See what Flow can do](https://design.withfudge.com/pin/9425) — [source page](https://labs.google/fx/tools/flow/project/c8b4110d-7897-4bc7-9cab-379fecfbed20/tools)
-- [Flow](https://design.withfudge.com/pin/9424) — [source page](https://labs.google/fx/tools/flow)
-- [Shared Tool: Shader Effects](https://design.withfudge.com/pin/9423) — [source page](https://labs.google/fx/tools/flow/shared/tool/63ca3af5-0058-4c7f-b104-dfc417db2e22)
-- [Flow](https://design.withfudge.com/pin/4450) — [source page](https://labs.google/flow/about)
-- [Flow - Nov 05 - 21:36](https://design.withfudge.com/pin/4449) — [source page](https://labs.google/fx/tools/flow/project/0b3f9546-709e-4b4f-a5ce-04f14d60f8cc)
-- [Flow - Nov 05 - 21:36](https://design.withfudge.com/pin/4448) — [source page](https://labs.google/fx/tools/flow/project/0b3f9546-709e-4b4f-a5ce-04f14d60f8cc)
-- [Flow](https://design.withfudge.com/pin/4447) — [source page](https://labs.google/fx/tools/flow)
+## Representative captures
+[![Flow - See what Flow can do](https://pin.fontofweb.com/9426?format=jpg)](https://design.withfudge.com/pin/9426)
+[Flow - See what Flow can do](https://design.withfudge.com/pin/9426) — [source page](https://labs.google/fx/tools/flow/project/c8b4110d-7897-4bc7-9cab-379fecfbed20)
+
+[![Flow - See what Flow can do](https://pin.fontofweb.com/9425?format=jpg)](https://design.withfudge.com/pin/9425)
+[Flow - See what Flow can do](https://design.withfudge.com/pin/9425) — [source page](https://labs.google/fx/tools/flow/project/c8b4110d-7897-4bc7-9cab-379fecfbed20/tools)
+
+[![Flow](https://pin.fontofweb.com/9424?format=jpg)](https://design.withfudge.com/pin/9424)
+[Flow](https://design.withfudge.com/pin/9424) — [source page](https://labs.google/fx/tools/flow)
+
+[![Shared Tool: Shader Effects](https://pin.fontofweb.com/9423?format=jpg)](https://design.withfudge.com/pin/9423)
+[Shared Tool: Shader Effects](https://design.withfudge.com/pin/9423) — [source page](https://labs.google/fx/tools/flow/shared/tool/63ca3af5-0058-4c7f-b104-dfc417db2e22)
+
+[![Flow](https://pin.fontofweb.com/4450?format=jpg)](https://design.withfudge.com/pin/4450)
+[Flow](https://design.withfudge.com/pin/4450) — [source page](https://labs.google/flow/about)
+
+[![Flow - Nov 05 - 21:36](https://pin.fontofweb.com/4449?format=jpg)](https://design.withfudge.com/pin/4449)
+[Flow - Nov 05 - 21:36](https://design.withfudge.com/pin/4449) — [source page](https://labs.google/fx/tools/flow/project/0b3f9546-709e-4b4f-a5ce-04f14d60f8cc)
+
+[![Flow - Nov 05 - 21:36](https://pin.fontofweb.com/4448?format=jpg)](https://design.withfudge.com/pin/4448)
+[Flow - Nov 05 - 21:36](https://design.withfudge.com/pin/4448) — [source page](https://labs.google/fx/tools/flow/project/0b3f9546-709e-4b4f-a5ce-04f14d60f8cc)
+
+[![Flow](https://pin.fontofweb.com/4447?format=jpg)](https://design.withfudge.com/pin/4447)
+[Flow](https://design.withfudge.com/pin/4447) — [source page](https://labs.google/fx/tools/flow)

@@ -6,6 +6,10 @@ Source domain: [tinygrad.org](https://tinygrad.org)
 
 Last updated: 2026-03-21
 
+<!--
+coverPin: 8223
+-->
+
 Here is the visual system observed across **4 captured pages** from [tinygrad.org](https://tinygrad.org).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [tinygrad.or
 }
 ```
 
-## References
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8223) — [source page](https://tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8222) — [source page](https://tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8221) — [source page](https://tinygrad.org/)
-- [tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8220) — [source page](https://tinygrad.org/)
+## Representative captures
+[![tinygrad: A simple and powerful neural network framework](https://pin.fontofweb.com/8223?format=jpg)](https://design.withfudge.com/pin/8223)
+[tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8223) — [source page](https://tinygrad.org/)
+
+[![tinygrad: A simple and powerful neural network framework](https://pin.fontofweb.com/8222?format=jpg)](https://design.withfudge.com/pin/8222)
+[tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8222) — [source page](https://tinygrad.org/)
+
+[![tinygrad: A simple and powerful neural network framework](https://pin.fontofweb.com/8221?format=jpg)](https://design.withfudge.com/pin/8221)
+[tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8221) — [source page](https://tinygrad.org/)
+
+[![tinygrad: A simple and powerful neural network framework](https://pin.fontofweb.com/8220?format=jpg)](https://design.withfudge.com/pin/8220)
+[tinygrad: A simple and powerful neural network framework](https://design.withfudge.com/pin/8220) — [source page](https://tinygrad.org/)

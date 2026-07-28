@@ -6,6 +6,10 @@ Source domain: [fiverr.com](https://fiverr.com)
 
 Last updated: 2026-07-01
 
+<!--
+coverPin: 9890
+-->
+
 Here is the visual system observed across **2 captured pages** from [fiverr.com](https://fiverr.com).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [fiverr.com]
 }
 ```
 
-## References
-- [Design a modern, timeless logo for your saas, tech, ai, or software startup by Issam1t | Fiverr](https://design.withfudge.com/pin/9890) — [source page](https://fiverr.com/issam1t/create-retro-wavy-groovy-hippie-70s-typography-striped-t-shirt-design)
-- [Design a professional brand logo for your business by Nooraaiin | Fiverr](https://design.withfudge.com/pin/9889) — [source page](https://fiverr.com/nooraaiin/do-3d-timeless-modern-business-logo-design-in-24-hours)
+## Representative captures
+[![Design a modern, timeless logo for your saas, tech, ai, or software startup by Issam1t | Fiverr](https://pin.fontofweb.com/9890?format=jpg)](https://design.withfudge.com/pin/9890)
+[Design a modern, timeless logo for your saas, tech, ai, or software startup by Issam1t | Fiverr](https://design.withfudge.com/pin/9890) — [source page](https://fiverr.com/issam1t/create-retro-wavy-groovy-hippie-70s-typography-striped-t-shirt-design)
+
+[![Design a professional brand logo for your business by Nooraaiin | Fiverr](https://pin.fontofweb.com/9889?format=jpg)](https://design.withfudge.com/pin/9889)
+[Design a professional brand logo for your business by Nooraaiin | Fiverr](https://design.withfudge.com/pin/9889) — [source page](https://fiverr.com/nooraaiin/do-3d-timeless-modern-business-logo-design-in-24-hours)

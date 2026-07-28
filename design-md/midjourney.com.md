@@ -6,6 +6,10 @@ Source domain: [midjourney.com](https://midjourney.com)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7958
+-->
+
 Here is the visual system observed across **12 captured pages** from [midjourney.com](https://midjourney.com).
 
 ```fudge-colors
@@ -293,12 +297,27 @@ Here is the visual system observed across **12 captured pages** from [midjourney
 }
 ```
 
-## References
-- [Explore](https://design.withfudge.com/pin/7958) — [source page](https://midjourney.com/explore)
-- [Explore](https://design.withfudge.com/pin/7957) — [source page](https://midjourney.com/jobs/de658947-01a7-4458-a4d9-9b895c53b39c)
-- [Midjourney](https://design.withfudge.com/pin/7956) — [source page](https://midjourney.com/home)
-- [Updates](https://design.withfudge.com/pin/4939) — [source page](https://midjourney.com/updates)
-- [Updates](https://design.withfudge.com/pin/4938) — [source page](https://midjourney.com/updates)
-- [Explore](https://design.withfudge.com/pin/4937) — [source page](https://midjourney.com/@simdi)
-- [Explore](https://design.withfudge.com/pin/4936) — [source page](https://midjourney.com/@simdi)
-- [Explore](https://design.withfudge.com/pin/4935) — [source page](https://midjourney.com/@u5682978487)
+## Representative captures
+[![Explore](https://pin.fontofweb.com/7958?format=jpg)](https://design.withfudge.com/pin/7958)
+[Explore](https://design.withfudge.com/pin/7958) — [source page](https://midjourney.com/explore)
+
+[![Explore](https://pin.fontofweb.com/7957?format=jpg)](https://design.withfudge.com/pin/7957)
+[Explore](https://design.withfudge.com/pin/7957) — [source page](https://midjourney.com/jobs/de658947-01a7-4458-a4d9-9b895c53b39c)
+
+[![Midjourney](https://pin.fontofweb.com/7956?format=jpg)](https://design.withfudge.com/pin/7956)
+[Midjourney](https://design.withfudge.com/pin/7956) — [source page](https://midjourney.com/home)
+
+[![Updates](https://pin.fontofweb.com/4939?format=jpg)](https://design.withfudge.com/pin/4939)
+[Updates](https://design.withfudge.com/pin/4939) — [source page](https://midjourney.com/updates)
+
+[![Updates](https://pin.fontofweb.com/4938?format=jpg)](https://design.withfudge.com/pin/4938)
+[Updates](https://design.withfudge.com/pin/4938) — [source page](https://midjourney.com/updates)
+
+[![Explore](https://pin.fontofweb.com/4937?format=jpg)](https://design.withfudge.com/pin/4937)
+[Explore](https://design.withfudge.com/pin/4937) — [source page](https://midjourney.com/@simdi)
+
+[![Explore](https://pin.fontofweb.com/4936?format=jpg)](https://design.withfudge.com/pin/4936)
+[Explore](https://design.withfudge.com/pin/4936) — [source page](https://midjourney.com/@simdi)
+
+[![Explore](https://pin.fontofweb.com/4935?format=jpg)](https://design.withfudge.com/pin/4935)
+[Explore](https://design.withfudge.com/pin/4935) — [source page](https://midjourney.com/@u5682978487)

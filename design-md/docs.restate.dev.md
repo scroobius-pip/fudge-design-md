@@ -6,6 +6,10 @@ Source domain: [docs.restate.dev](https://docs.restate.dev)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7597
+-->
+
 Here is the visual system observed across **1 captured page** from [docs.restate.dev](https://docs.restate.dev).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [docs.restate
 }
 ```
 
-## References
-- [Quickstart - Restate](https://design.withfudge.com/pin/7597) — [source page](https://docs.restate.dev/quickstart)
+## Representative captures
+[![Quickstart - Restate](https://pin.fontofweb.com/7597?format=jpg)](https://design.withfudge.com/pin/7597)
+[Quickstart - Restate](https://design.withfudge.com/pin/7597) — [source page](https://docs.restate.dev/quickstart)

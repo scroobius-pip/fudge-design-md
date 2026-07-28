@@ -6,6 +6,10 @@ Source domain: [adject.ai](https://adject.ai)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7678
+-->
+
 Here is the visual system observed across **4 captured pages** from [adject.ai](https://adject.ai).
 
 ```fudge-colors
@@ -186,8 +190,15 @@ Here is the visual system observed across **4 captured pages** from [adject.ai](
 }
 ```
 
-## References
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7678) — [source page](https://adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7677) — [source page](https://adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7676) — [source page](https://adject.ai/)
-- [Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7675) — [source page](https://adject.ai/)
+## Representative captures
+[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7678?format=jpg)](https://design.withfudge.com/pin/7678)
+[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7678) — [source page](https://adject.ai/)
+
+[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7677?format=jpg)](https://design.withfudge.com/pin/7677)
+[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7677) — [source page](https://adject.ai/)
+
+[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7676?format=jpg)](https://design.withfudge.com/pin/7676)
+[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7676) — [source page](https://adject.ai/)
+
+[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7675?format=jpg)](https://design.withfudge.com/pin/7675)
+[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/pin/7675) — [source page](https://adject.ai/)

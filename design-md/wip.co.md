@@ -6,6 +6,10 @@ Source domain: [wip.co](https://wip.co)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7067
+-->
+
 Here is the visual system observed across **2 captured pages** from [wip.co](https://wip.co).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [wip.co](htt
 }
 ```
 
-## References
-- [WIP](https://design.withfudge.com/pin/7067) — [source page](https://wip.co/)
-- [WIP](https://design.withfudge.com/pin/7066) — [source page](https://wip.co/)
+## Representative captures
+[![WIP](https://pin.fontofweb.com/7067?format=jpg)](https://design.withfudge.com/pin/7067)
+[WIP](https://design.withfudge.com/pin/7067) — [source page](https://wip.co/)
+
+[![WIP](https://pin.fontofweb.com/7066?format=jpg)](https://design.withfudge.com/pin/7066)
+[WIP](https://design.withfudge.com/pin/7066) — [source page](https://wip.co/)

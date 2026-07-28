@@ -6,6 +6,10 @@ Source domain: [base44.com](https://base44.com)
 
 Last updated: 2026-06-11
 
+<!--
+coverPin: 9559
+-->
+
 Here is the visual system observed across **7 captured pages** from [base44.com](https://base44.com).
 
 ```fudge-colors
@@ -303,11 +307,24 @@ Here is the visual system observed across **7 captured pages** from [base44.com]
 }
 ```
 
-## References
-- [Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/pin/9559) — [source page](https://base44.com/pricing)
-- [404 Error: Page Not Found | Base44](https://design.withfudge.com/pin/9558) — [source page](https://base44.com/l)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7409) — [source page](https://base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7408) — [source page](https://base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7407) — [source page](https://base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7406) — [source page](https://base44.com/)
-- [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7405) — [source page](https://base44.com/)
+## Representative captures
+[![Plans to Fit Every Interest | Base44 Pricing](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/pin/9559)
+[Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/pin/9559) — [source page](https://base44.com/pricing)
+
+[![404 Error: Page Not Found | Base44](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/pin/9558)
+[404 Error: Page Not Found | Base44](https://design.withfudge.com/pin/9558) — [source page](https://base44.com/l)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/pin/7409)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7409) — [source page](https://base44.com/)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7408?format=jpg)](https://design.withfudge.com/pin/7408)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7408) — [source page](https://base44.com/)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7407?format=jpg)](https://design.withfudge.com/pin/7407)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7407) — [source page](https://base44.com/)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/pin/7406)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7406) — [source page](https://base44.com/)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/pin/7405)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/pin/7405) — [source page](https://base44.com/)

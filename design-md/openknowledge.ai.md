@@ -6,6 +6,10 @@ Source domain: [openknowledge.ai](https://openknowledge.ai)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9812
+-->
+
 Here is the visual system observed across **9 captured pages** from [openknowledge.ai](https://openknowledge.ai).
 
 ```fudge-colors
@@ -314,12 +318,27 @@ Here is the visual system observed across **9 captured pages** from [openknowled
 }
 ```
 
-## References
-- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9812) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
-- [Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9811) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9810) — [source page](https://openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9809) — [source page](https://openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9808) — [source page](https://openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9807) — [source page](https://openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9806) — [source page](https://openknowledge.ai/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9805) — [source page](https://openknowledge.ai/)
+## Representative captures
+[![Quickstart · OpenKnowledge](https://pin.fontofweb.com/9812?format=jpg)](https://design.withfudge.com/pin/9812)
+[Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9812) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
+
+[![Quickstart · OpenKnowledge](https://pin.fontofweb.com/9811?format=jpg)](https://design.withfudge.com/pin/9811)
+[Quickstart · OpenKnowledge](https://design.withfudge.com/pin/9811) — [source page](https://openknowledge.ai/docs/get-started/quickstart)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9810?format=jpg)](https://design.withfudge.com/pin/9810)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9810) — [source page](https://openknowledge.ai/)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9809?format=jpg)](https://design.withfudge.com/pin/9809)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9809) — [source page](https://openknowledge.ai/)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9808?format=jpg)](https://design.withfudge.com/pin/9808)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9808) — [source page](https://openknowledge.ai/)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9807?format=jpg)](https://design.withfudge.com/pin/9807)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9807) — [source page](https://openknowledge.ai/)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9806?format=jpg)](https://design.withfudge.com/pin/9806)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9806) — [source page](https://openknowledge.ai/)
+
+[![OpenKnowledge — Beautiful, AI-native markdown editor.](https://pin.fontofweb.com/9805?format=jpg)](https://design.withfudge.com/pin/9805)
+[OpenKnowledge — Beautiful, AI-native markdown editor.](https://design.withfudge.com/pin/9805) — [source page](https://openknowledge.ai/)

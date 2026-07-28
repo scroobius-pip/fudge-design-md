@@ -6,6 +6,10 @@ Source domain: [insforge.dev](https://insforge.dev)
 
 Last updated: 2026-04-13
 
+<!--
+coverPin: 8815
+-->
+
 Here is the visual system observed across **2 captured pages** from [insforge.dev](https://insforge.dev).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [insforge.de
 }
 ```
 
-## References
-- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8815) — [source page](https://insforge.dev/)
-- [InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8814) — [source page](https://insforge.dev/)
+## Representative captures
+[![InsForge - Give agents everything they need to ship fullstack apps](https://pin.fontofweb.com/8815?format=jpg)](https://design.withfudge.com/pin/8815)
+[InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8815) — [source page](https://insforge.dev/)
+
+[![InsForge - Give agents everything they need to ship fullstack apps](https://pin.fontofweb.com/8814?format=jpg)](https://design.withfudge.com/pin/8814)
+[InsForge - Give agents everything they need to ship fullstack apps](https://design.withfudge.com/pin/8814) — [source page](https://insforge.dev/)

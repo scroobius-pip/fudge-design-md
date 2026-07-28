@@ -6,6 +6,10 @@ Source domain: [claude.com](https://claude.com)
 
 Last updated: 2026-07-12
 
+<!--
+coverPin: 10038
+-->
+
 Here is the visual system observed across **39 captured pages** from [claude.com](https://claude.com).
 
 ```fudge-colors
@@ -383,12 +387,27 @@ Here is the visual system observed across **39 captured pages** from [claude.com
 }
 ```
 
-## References
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10038) — [source page](https://claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10037) — [source page](https://claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10036) — [source page](https://claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10035) — [source page](https://claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10034) — [source page](https://claude.com/programs/startups)
-- [Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10033) — [source page](https://claude.com/programs/startups)
-- [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://design.withfudge.com/pin/9222) — [source page](https://claude.com/product/claude-code)
-- [Download Claude | Claude](https://design.withfudge.com/pin/6390) — [source page](https://claude.com/download)
+## Representative captures
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10038?format=jpg)](https://design.withfudge.com/pin/10038)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10038) — [source page](https://claude.com/programs/startups)
+
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10037?format=jpg)](https://design.withfudge.com/pin/10037)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10037) — [source page](https://claude.com/programs/startups)
+
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10036?format=jpg)](https://design.withfudge.com/pin/10036)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10036) — [source page](https://claude.com/programs/startups)
+
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10035?format=jpg)](https://design.withfudge.com/pin/10035)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10035) — [source page](https://claude.com/programs/startups)
+
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10034?format=jpg)](https://design.withfudge.com/pin/10034)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10034) — [source page](https://claude.com/programs/startups)
+
+[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10033?format=jpg)](https://design.withfudge.com/pin/10033)
+[Claude for startups | Claude by Anthropic](https://design.withfudge.com/pin/10033) — [source page](https://claude.com/programs/startups)
+
+[![Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://pin.fontofweb.com/9222?format=jpg)](https://design.withfudge.com/pin/9222)
+[Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://design.withfudge.com/pin/9222) — [source page](https://claude.com/product/claude-code)
+
+[![Download Claude | Claude](https://pin.fontofweb.com/6390?format=jpg)](https://design.withfudge.com/pin/6390)
+[Download Claude | Claude](https://design.withfudge.com/pin/6390) — [source page](https://claude.com/download)

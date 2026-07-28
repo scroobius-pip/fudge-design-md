@@ -6,6 +6,10 @@ Source domain: [cavalry.scenegroup.co](https://cavalry.scenegroup.co)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7158
+-->
+
 Here is the visual system observed across **19 captured pages** from [cavalry.scenegroup.co](https://cavalry.scenegroup.co).
 
 ```fudge-colors
@@ -329,12 +333,27 @@ Here is the visual system observed across **19 captured pages** from [cavalry.sc
 }
 ```
 
-## References
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7158) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7157) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7156) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7155) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7154) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7153) — [source page](https://cavalry.scenegroup.co/teams/)
-- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7152) — [source page](https://cavalry.scenegroup.co/pricing/)
-- [Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7151) — [source page](https://cavalry.scenegroup.co/pricing/)
+## Representative captures
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7158?format=jpg)](https://design.withfudge.com/pin/7158)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7158) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7157?format=jpg)](https://design.withfudge.com/pin/7157)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7157) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7156?format=jpg)](https://design.withfudge.com/pin/7156)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7156) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7155?format=jpg)](https://design.withfudge.com/pin/7155)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7155) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7154?format=jpg)](https://design.withfudge.com/pin/7154)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7154) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://pin.fontofweb.com/7153?format=jpg)](https://design.withfudge.com/pin/7153)
+[Cavalry for Teams. Volume licencing and unified billing for your entire organisation.](https://design.withfudge.com/pin/7153) — [source page](https://cavalry.scenegroup.co/teams/)
+
+[![Cavalry – Pricing. Explore powerful Cavalry features.](https://pin.fontofweb.com/7152?format=jpg)](https://design.withfudge.com/pin/7152)
+[Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7152) — [source page](https://cavalry.scenegroup.co/pricing/)
+
+[![Cavalry – Pricing. Explore powerful Cavalry features.](https://pin.fontofweb.com/7151?format=jpg)](https://design.withfudge.com/pin/7151)
+[Cavalry – Pricing. Explore powerful Cavalry features.](https://design.withfudge.com/pin/7151) — [source page](https://cavalry.scenegroup.co/pricing/)

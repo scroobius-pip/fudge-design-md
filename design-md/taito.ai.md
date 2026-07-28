@@ -6,6 +6,10 @@ Source domain: [taito.ai](https://taito.ai)
 
 Last updated: 2026-06-06
 
+<!--
+coverPin: 9517
+-->
+
 Here is the visual system observed across **4 captured pages** from [taito.ai](https://taito.ai).
 
 ```fudge-colors
@@ -162,8 +166,15 @@ Here is the visual system observed across **4 captured pages** from [taito.ai](h
 }
 ```
 
-## References
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9517) — [source page](https://taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9516) — [source page](https://taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9515) — [source page](https://taito.ai/)
-- [Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9514) — [source page](https://taito.ai/)
+## Representative captures
+[![Taito.ai — Run people ops on autopilot](https://pin.fontofweb.com/9517?format=jpg)](https://design.withfudge.com/pin/9517)
+[Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9517) — [source page](https://taito.ai/)
+
+[![Taito.ai — Run people ops on autopilot](https://pin.fontofweb.com/9516?format=jpg)](https://design.withfudge.com/pin/9516)
+[Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9516) — [source page](https://taito.ai/)
+
+[![Taito.ai — Run people ops on autopilot](https://pin.fontofweb.com/9515?format=jpg)](https://design.withfudge.com/pin/9515)
+[Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9515) — [source page](https://taito.ai/)
+
+[![Taito.ai — Run people ops on autopilot](https://pin.fontofweb.com/9514?format=jpg)](https://design.withfudge.com/pin/9514)
+[Taito.ai — Run people ops on autopilot](https://design.withfudge.com/pin/9514) — [source page](https://taito.ai/)

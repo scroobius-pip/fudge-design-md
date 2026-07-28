@@ -6,6 +6,10 @@ Source domain: [lofree.co](https://lofree.co)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7927
+-->
+
 Here is the visual system observed across **2 captured pages** from [lofree.co](https://lofree.co).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [lofree.co](
 }
 ```
 
-## References
-- [Lofree | Fun 2㎡ Designer for Mechanical Keyboard](https://design.withfudge.com/pin/7927) — [source page](https://lofree.co/)
-- [Flow84, the Smoothest Mechanical Keyboard](https://design.withfudge.com/pin/7926) — [source page](https://lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)
+## Representative captures
+[![Lofree | Fun 2㎡ Designer for Mechanical Keyboard](https://pin.fontofweb.com/7927?format=jpg)](https://design.withfudge.com/pin/7927)
+[Lofree | Fun 2㎡ Designer for Mechanical Keyboard](https://design.withfudge.com/pin/7927) — [source page](https://lofree.co/)
+
+[![Flow84, the Smoothest Mechanical Keyboard](https://pin.fontofweb.com/7926?format=jpg)](https://design.withfudge.com/pin/7926)
+[Flow84, the Smoothest Mechanical Keyboard](https://design.withfudge.com/pin/7926) — [source page](https://lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard)

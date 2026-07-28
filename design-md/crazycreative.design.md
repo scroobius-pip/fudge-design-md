@@ -6,6 +6,10 @@ Source domain: [crazycreative.design](https://crazycreative.design)
 
 Last updated: 2026-04-28
 
+<!--
+coverPin: 9130
+-->
+
 Here is the visual system observed across **35 captured pages** from [crazycreative.design](https://crazycreative.design).
 
 ```fudge-colors
@@ -316,12 +320,27 @@ Here is the visual system observed across **35 captured pages** from [crazycreat
 }
 ```
 
-## References
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/9130) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/8777) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6968) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6967) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/670) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/669) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/668) — [source page](https://crazycreative.design/)
-- [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/667) — [source page](https://crazycreative.design/)
+## Representative captures
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/9130?format=jpg)](https://design.withfudge.com/pin/9130)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/9130) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/8777?format=jpg)](https://design.withfudge.com/pin/8777)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/8777) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6968?format=jpg)](https://design.withfudge.com/pin/6968)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6968) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6967?format=jpg)](https://design.withfudge.com/pin/6967)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/pin/6967) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/670?format=jpg)](https://design.withfudge.com/pin/670)
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/670) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/669?format=jpg)](https://design.withfudge.com/pin/669)
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/669) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/668?format=jpg)](https://design.withfudge.com/pin/668)
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/668) — [source page](https://crazycreative.design/)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/667?format=jpg)](https://design.withfudge.com/pin/667)
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/pin/667) — [source page](https://crazycreative.design/)

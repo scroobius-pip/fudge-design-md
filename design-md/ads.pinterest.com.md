@@ -6,6 +6,10 @@ Source domain: [ads.pinterest.com](https://ads.pinterest.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7070
+-->
+
 Here is the visual system observed across **3 captured pages** from [ads.pinterest.com](https://ads.pinterest.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [ads.pintere
 }
 ```
 
-## References
-- [(2) Pinterest](https://design.withfudge.com/pin/7070) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7069) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7068) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
+## Representative captures
+[![(2) Pinterest](https://pin.fontofweb.com/7070?format=jpg)](https://design.withfudge.com/pin/7070)
+[(2) Pinterest](https://design.withfudge.com/pin/7070) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
+
+[![(2) Pinterest](https://pin.fontofweb.com/7069?format=jpg)](https://design.withfudge.com/pin/7069)
+[(2) Pinterest](https://design.withfudge.com/pin/7069) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)
+
+[![(2) Pinterest](https://pin.fontofweb.com/7068?format=jpg)](https://design.withfudge.com/pin/7068)
+[(2) Pinterest](https://design.withfudge.com/pin/7068) — [source page](https://ads.pinterest.com/advertiser/549769598879/ads/create/)

@@ -6,6 +6,10 @@ Source domain: [godly.website](https://godly.website)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7443
+-->
+
 Here is the visual system observed across **2 captured pages** from [godly.website](https://godly.website).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [godly.websi
 }
 ```
 
-## References
-- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7443) — [source page](https://godly.website/)
-- [Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7432) — [source page](https://godly.website/)
+## Representative captures
+[![Godly - Astronomically good web design inspiration](https://pin.fontofweb.com/7443?format=jpg)](https://design.withfudge.com/pin/7443)
+[Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7443) — [source page](https://godly.website/)
+
+[![Godly - Astronomically good web design inspiration](https://pin.fontofweb.com/7432?format=jpg)](https://design.withfudge.com/pin/7432)
+[Godly - Astronomically good web design inspiration](https://design.withfudge.com/pin/7432) — [source page](https://godly.website/)

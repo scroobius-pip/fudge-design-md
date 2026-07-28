@@ -6,6 +6,10 @@ Source domain: [riavrn.ru](https://riavrn.ru)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9103
+-->
+
 Here is the visual system observed across **1 captured page** from [riavrn.ru](https://riavrn.ru).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [riavrn.ru](h
 }
 ```
 
-## References
-- [Воронежские памятники Великой Отечественной войны: «Три самолета»](https://design.withfudge.com/pin/9103) — [source page](https://riavrn.ru/districts/semiluksky/voronezhskie-pamyatniki-velikoj-otechestvennoj-vojny-tri-samoleta/)
+## Representative captures
+[![Воронежские памятники Великой Отечественной войны: «Три самолета»](https://pin.fontofweb.com/9103?format=jpg)](https://design.withfudge.com/pin/9103)
+[Воронежские памятники Великой Отечественной войны: «Три самолета»](https://design.withfudge.com/pin/9103) — [source page](https://riavrn.ru/districts/semiluksky/voronezhskie-pamyatniki-velikoj-otechestvennoj-vojny-tri-samoleta/)

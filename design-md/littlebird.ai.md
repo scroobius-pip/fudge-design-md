@@ -6,6 +6,10 @@ Source domain: [littlebird.ai](https://littlebird.ai)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9537
+-->
+
 Here is the visual system observed across **1 captured page** from [littlebird.ai](https://littlebird.ai).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [littlebird.a
 }
 ```
 
-## References
-- [Home | Littlebird](https://design.withfudge.com/pin/9537) — [source page](https://littlebird.ai/)
+## Representative captures
+[![Home | Littlebird](https://pin.fontofweb.com/9537?format=jpg)](https://design.withfudge.com/pin/9537)
+[Home | Littlebird](https://design.withfudge.com/pin/9537) — [source page](https://littlebird.ai/)

@@ -6,6 +6,10 @@ Source domain: [tella.com](https://tella.com)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6354
+-->
+
 Here is the visual system observed across **7 captured pages** from [tella.com](https://tella.com).
 
 ```fudge-colors
@@ -242,11 +246,24 @@ Here is the visual system observed across **7 captured pages** from [tella.com](
 }
 ```
 
-## References
-- [Tella — Pricing](https://design.withfudge.com/pin/6354) — [source page](https://tella.com/pricing)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6353) — [source page](https://tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6352) — [source page](https://tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6351) — [source page](https://tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6350) — [source page](https://tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6349) — [source page](https://tella.com/)
-- [Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6348) — [source page](https://tella.com/)
+## Representative captures
+[![Tella — Pricing](https://pin.fontofweb.com/6354?format=jpg)](https://design.withfudge.com/pin/6354)
+[Tella — Pricing](https://design.withfudge.com/pin/6354) — [source page](https://tella.com/pricing)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6353?format=jpg)](https://design.withfudge.com/pin/6353)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6353) — [source page](https://tella.com/)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6352?format=jpg)](https://design.withfudge.com/pin/6352)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6352) — [source page](https://tella.com/)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6351?format=jpg)](https://design.withfudge.com/pin/6351)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6351) — [source page](https://tella.com/)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6350?format=jpg)](https://design.withfudge.com/pin/6350)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6350) — [source page](https://tella.com/)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6349?format=jpg)](https://design.withfudge.com/pin/6349)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6349) — [source page](https://tella.com/)
+
+[![Tella — Online Screen Recorder for Mac & Windows](https://pin.fontofweb.com/6348?format=jpg)](https://design.withfudge.com/pin/6348)
+[Tella — Online Screen Recorder for Mac & Windows](https://design.withfudge.com/pin/6348) — [source page](https://tella.com/)

@@ -6,6 +6,10 @@ Source domain: [youworkforthem.com](https://youworkforthem.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7437
+-->
+
 Here is the visual system observed across **5 captured pages** from [youworkforthem.com](https://youworkforthem.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [youworkfort
 }
 ```
 
-## References
-- [Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://design.withfudge.com/pin/7437) — [source page](https://youworkforthem.com/fonts/free)
-- [Bebas Neue Font Alternatives - YouWorkForThem](https://design.withfudge.com/pin/7436) — [source page](https://youworkforthem.com/collection/bebas-neue-font-alternatives)
-- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7435) — [source page](https://youworkforthem.com/)
-- [High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7434) — [source page](https://youworkforthem.com/)
-- [Picual Font - YouWorkForThem](https://design.withfudge.com/pin/7433) — [source page](https://youworkforthem.com/font/T32673/picual)
+## Representative captures
+[![Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://pin.fontofweb.com/7437?format=jpg)](https://design.withfudge.com/pin/7437)
+[Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://design.withfudge.com/pin/7437) — [source page](https://youworkforthem.com/fonts/free)
+
+[![Bebas Neue Font Alternatives - YouWorkForThem](https://pin.fontofweb.com/7436?format=jpg)](https://design.withfudge.com/pin/7436)
+[Bebas Neue Font Alternatives - YouWorkForThem](https://design.withfudge.com/pin/7436) — [source page](https://youworkforthem.com/collection/bebas-neue-font-alternatives)
+
+[![High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://pin.fontofweb.com/7435?format=jpg)](https://design.withfudge.com/pin/7435)
+[High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7435) — [source page](https://youworkforthem.com/)
+
+[![High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://pin.fontofweb.com/7434?format=jpg)](https://design.withfudge.com/pin/7434)
+[High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/pin/7434) — [source page](https://youworkforthem.com/)
+
+[![Picual Font - YouWorkForThem](https://pin.fontofweb.com/7433?format=jpg)](https://design.withfudge.com/pin/7433)
+[Picual Font - YouWorkForThem](https://design.withfudge.com/pin/7433) — [source page](https://youworkforthem.com/font/T32673/picual)

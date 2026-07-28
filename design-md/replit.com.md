@@ -6,6 +6,10 @@ Source domain: [replit.com](https://replit.com)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8012
+-->
+
 Here is the visual system observed across **28 captured pages** from [replit.com](https://replit.com).
 
 ```fudge-colors
@@ -336,12 +340,27 @@ Here is the visual system observed across **28 captured pages** from [replit.com
 }
 ```
 
-## References
-- [Mandarin Reader - Replit](https://design.withfudge.com/pin/8012) — [source page](https://replit.com/@scroobius_pip/Mandarin-Reader)
-- [Replit Pro – Software creation for modern teams](https://design.withfudge.com/pin/8010) — [source page](https://replit.com/pro)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8009) — [source page](https://replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8008) — [source page](https://replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8007) — [source page](https://replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8006) — [source page](https://replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8005) — [source page](https://replit.com/)
-- [Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8004) — [source page](https://replit.com/)
+## Representative captures
+[![Mandarin Reader - Replit](https://pin.fontofweb.com/8012?format=jpg)](https://design.withfudge.com/pin/8012)
+[Mandarin Reader - Replit](https://design.withfudge.com/pin/8012) — [source page](https://replit.com/@scroobius_pip/Mandarin-Reader)
+
+[![Replit Pro – Software creation for modern teams](https://pin.fontofweb.com/8010?format=jpg)](https://design.withfudge.com/pin/8010)
+[Replit Pro – Software creation for modern teams](https://design.withfudge.com/pin/8010) — [source page](https://replit.com/pro)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8009?format=jpg)](https://design.withfudge.com/pin/8009)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8009) — [source page](https://replit.com/)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8008?format=jpg)](https://design.withfudge.com/pin/8008)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8008) — [source page](https://replit.com/)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8007?format=jpg)](https://design.withfudge.com/pin/8007)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8007) — [source page](https://replit.com/)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8006?format=jpg)](https://design.withfudge.com/pin/8006)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8006) — [source page](https://replit.com/)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8005?format=jpg)](https://design.withfudge.com/pin/8005)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8005) — [source page](https://replit.com/)
+
+[![Replit – Build apps and sites with AI - Replit](https://pin.fontofweb.com/8004?format=jpg)](https://design.withfudge.com/pin/8004)
+[Replit – Build apps and sites with AI - Replit](https://design.withfudge.com/pin/8004) — [source page](https://replit.com/)

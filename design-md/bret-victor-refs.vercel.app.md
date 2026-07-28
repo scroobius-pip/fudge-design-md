@@ -6,6 +6,10 @@ Source domain: [bret-victor-refs.vercel.app](https://bret-victor-refs.vercel.app
 
 Last updated: 2026-02-05
 
+<!--
+coverPin: 6293
+-->
+
 Here is the visual system observed across **1 captured page** from [bret-victor-refs.vercel.app](https://bret-victor-refs.vercel.app).
 
 ```fudge-colors
@@ -105,5 +109,6 @@ Here is the visual system observed across **1 captured page** from [bret-victor-
 }
 ```
 
-## References
-- [Bret Victor's References](https://design.withfudge.com/pin/6293) — [source page](https://bret-victor-refs.vercel.app/)
+## Representative captures
+[![Bret Victor's References](https://pin.fontofweb.com/6293?format=jpg)](https://design.withfudge.com/pin/6293)
+[Bret Victor's References](https://design.withfudge.com/pin/6293) — [source page](https://bret-victor-refs.vercel.app/)

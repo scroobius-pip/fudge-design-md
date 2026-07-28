@@ -6,6 +6,10 @@ Source domain: [getflowy.app](https://getflowy.app)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6489
+-->
+
 Here is the visual system observed across **1 captured page** from [getflowy.app](https://getflowy.app).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [getflowy.app
 }
 ```
 
-## References
-- [flowy - automatically animated Mac screen recordings](https://design.withfudge.com/pin/6489) — [source page](https://getflowy.app/)
+## Representative captures
+[![flowy - automatically animated Mac screen recordings](https://pin.fontofweb.com/6489?format=jpg)](https://design.withfudge.com/pin/6489)
+[flowy - automatically animated Mac screen recordings](https://design.withfudge.com/pin/6489) — [source page](https://getflowy.app/)

@@ -6,6 +6,10 @@ Source domain: [galaxybrain.com](https://galaxybrain.com)
 
 Last updated: 2026-05-02
 
+<!--
+coverPin: 9183
+-->
+
 Here is the visual system observed across **1 captured page** from [galaxybrain.com](https://galaxybrain.com).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [galaxybrain.
 }
 ```
 
-## References
-- [GalaxyBrain — An information operating system powered by local files](https://design.withfudge.com/pin/9183) — [source page](https://galaxybrain.com/)
+## Representative captures
+[![GalaxyBrain — An information operating system powered by local files](https://pin.fontofweb.com/9183?format=jpg)](https://design.withfudge.com/pin/9183)
+[GalaxyBrain — An information operating system powered by local files](https://design.withfudge.com/pin/9183) — [source page](https://galaxybrain.com/)

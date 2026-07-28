@@ -6,6 +6,10 @@ Source domain: [motion.dev](https://motion.dev)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8759
+-->
+
 Here is the visual system observed across **1 captured page** from [motion.dev](https://motion.dev).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [motion.dev](
 }
 ```
 
-## References
-- [Motion — JavaScript & React animation library](https://design.withfudge.com/pin/8759) — [source page](https://motion.dev/)
+## Representative captures
+[![Motion — JavaScript & React animation library](https://pin.fontofweb.com/8759?format=jpg)](https://design.withfudge.com/pin/8759)
+[Motion — JavaScript & React animation library](https://design.withfudge.com/pin/8759) — [source page](https://motion.dev/)

@@ -6,6 +6,10 @@ Source domain: [ampcode.com](https://ampcode.com)
 
 Last updated: 2026-05-01
 
+<!--
+coverPin: 9180
+-->
+
 Here is the visual system observed across **3 captured pages** from [ampcode.com](https://ampcode.com).
 
 ```fudge-colors
@@ -201,7 +205,12 @@ Here is the visual system observed across **3 captured pages** from [ampcode.com
 }
 ```
 
-## References
-- [Owner’s Manual - Amp](https://design.withfudge.com/pin/9180) — [source page](https://ampcode.com/manual)
-- [Amp](https://design.withfudge.com/pin/9179) — [source page](https://ampcode.com/)
-- [Amp](https://design.withfudge.com/pin/9178) — [source page](https://ampcode.com/)
+## Representative captures
+[![Owner’s Manual - Amp](https://pin.fontofweb.com/9180?format=jpg)](https://design.withfudge.com/pin/9180)
+[Owner’s Manual - Amp](https://design.withfudge.com/pin/9180) — [source page](https://ampcode.com/manual)
+
+[![Amp](https://pin.fontofweb.com/9179?format=jpg)](https://design.withfudge.com/pin/9179)
+[Amp](https://design.withfudge.com/pin/9179) — [source page](https://ampcode.com/)
+
+[![Amp](https://pin.fontofweb.com/9178?format=jpg)](https://design.withfudge.com/pin/9178)
+[Amp](https://design.withfudge.com/pin/9178) — [source page](https://ampcode.com/)

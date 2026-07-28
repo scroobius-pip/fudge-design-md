@@ -6,6 +6,10 @@ Source domain: [tryinspector.com](https://tryinspector.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7647
+-->
+
 Here is the visual system observed across **1 captured page** from [tryinspector.com](https://tryinspector.com).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [tryinspector
 }
 ```
 
-## References
-- [Inspector - Edit your front-end, visually](https://design.withfudge.com/pin/7647) — [source page](https://tryinspector.com/)
+## Representative captures
+[![Inspector - Edit your front-end, visually](https://pin.fontofweb.com/7647?format=jpg)](https://design.withfudge.com/pin/7647)
+[Inspector - Edit your front-end, visually](https://design.withfudge.com/pin/7647) — [source page](https://tryinspector.com/)

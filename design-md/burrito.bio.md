@@ -6,6 +6,10 @@ Source domain: [burrito.bio](https://burrito.bio)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9532
+-->
+
 Here is the visual system observed across **1 captured page** from [burrito.bio](https://burrito.bio).
 
 ```fudge-colors
@@ -121,5 +125,6 @@ Here is the visual system observed across **1 captured page** from [burrito.bio]
 }
 ```
 
-## References
-- [Biology is a Burrito (& Other Essays)](https://design.withfudge.com/pin/9532) — [source page](https://burrito.bio/)
+## Representative captures
+[![Biology is a Burrito (& Other Essays)](https://pin.fontofweb.com/9532?format=jpg)](https://design.withfudge.com/pin/9532)
+[Biology is a Burrito (& Other Essays)](https://design.withfudge.com/pin/9532) — [source page](https://burrito.bio/)

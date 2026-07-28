@@ -6,6 +6,10 @@ Source domain: [ogilvy.com](https://ogilvy.com)
 
 Last updated: 2026-05-12
 
+<!--
+coverPin: 9237
+-->
+
 Here is the visual system observed across **10 captured pages** from [ogilvy.com](https://ogilvy.com).
 
 ```fudge-colors
@@ -284,12 +288,27 @@ Here is the visual system observed across **10 captured pages** from [ogilvy.com
 }
 ```
 
-## References
-- [Influence Business Director |Ogilvy](https://design.withfudge.com/pin/9237) — [source page](https://ogilvy.com/careers/4676726005)
-- [About | Ogilvy](https://design.withfudge.com/pin/9236) — [source page](https://ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9235) — [source page](https://ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9234) — [source page](https://ogilvy.com/careers)
-- [About | Ogilvy](https://design.withfudge.com/pin/9233) — [source page](https://ogilvy.com/ideas)
-- [About | Ogilvy](https://design.withfudge.com/pin/9232) — [source page](https://ogilvy.com/team)
-- [Contact | Ogilvy](https://design.withfudge.com/pin/9231) — [source page](https://ogilvy.com/contact)
-- [Cost of Beauty - Dove | Our Work | Ogilvy](https://design.withfudge.com/pin/9230) — [source page](https://ogilvy.com/work/cost-beauty)
+## Representative captures
+[![Influence Business Director |Ogilvy](https://pin.fontofweb.com/9237?format=jpg)](https://design.withfudge.com/pin/9237)
+[Influence Business Director |Ogilvy](https://design.withfudge.com/pin/9237) — [source page](https://ogilvy.com/careers/4676726005)
+
+[![About | Ogilvy](https://pin.fontofweb.com/9236?format=jpg)](https://design.withfudge.com/pin/9236)
+[About | Ogilvy](https://design.withfudge.com/pin/9236) — [source page](https://ogilvy.com/careers)
+
+[![About | Ogilvy](https://pin.fontofweb.com/9235?format=jpg)](https://design.withfudge.com/pin/9235)
+[About | Ogilvy](https://design.withfudge.com/pin/9235) — [source page](https://ogilvy.com/careers)
+
+[![About | Ogilvy](https://pin.fontofweb.com/9234?format=jpg)](https://design.withfudge.com/pin/9234)
+[About | Ogilvy](https://design.withfudge.com/pin/9234) — [source page](https://ogilvy.com/careers)
+
+[![About | Ogilvy](https://pin.fontofweb.com/9233?format=jpg)](https://design.withfudge.com/pin/9233)
+[About | Ogilvy](https://design.withfudge.com/pin/9233) — [source page](https://ogilvy.com/ideas)
+
+[![About | Ogilvy](https://pin.fontofweb.com/9232?format=jpg)](https://design.withfudge.com/pin/9232)
+[About | Ogilvy](https://design.withfudge.com/pin/9232) — [source page](https://ogilvy.com/team)
+
+[![Contact | Ogilvy](https://pin.fontofweb.com/9231?format=jpg)](https://design.withfudge.com/pin/9231)
+[Contact | Ogilvy](https://design.withfudge.com/pin/9231) — [source page](https://ogilvy.com/contact)
+
+[![Cost of Beauty - Dove | Our Work | Ogilvy](https://pin.fontofweb.com/9230?format=jpg)](https://design.withfudge.com/pin/9230)
+[Cost of Beauty - Dove | Our Work | Ogilvy](https://design.withfudge.com/pin/9230) — [source page](https://ogilvy.com/work/cost-beauty)

@@ -6,6 +6,10 @@ Source domain: [drinkag1.com](https://drinkag1.com)
 
 Last updated: 2026-02-01
 
+<!--
+coverPin: 6222
+-->
+
 Here is the visual system observed across **15 captured pages** from [drinkag1.com](https://drinkag1.com).
 
 ```fudge-colors
@@ -319,12 +323,27 @@ Here is the visual system observed across **15 captured pages** from [drinkag1.c
 }
 ```
 
-## References
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6222) — [source page](https://drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6221) — [source page](https://drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6220) — [source page](https://drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6219) — [source page](https://drinkag1.com/)
-- [AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6218) — [source page](https://drinkag1.com/)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6217) — [source page](https://drinkag1.com/partner/general-partnerships)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6216) — [source page](https://drinkag1.com/partner/general-partnerships)
-- [AG1 | Get Started](https://design.withfudge.com/pin/6215) — [source page](https://drinkag1.com/partner/general-partnerships)
+## Representative captures
+[![AG1 Official | More Than A Greens Powder | Best Price](https://pin.fontofweb.com/6222?format=jpg)](https://design.withfudge.com/pin/6222)
+[AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6222) — [source page](https://drinkag1.com/)
+
+[![AG1 Official | More Than A Greens Powder | Best Price](https://pin.fontofweb.com/6221?format=jpg)](https://design.withfudge.com/pin/6221)
+[AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6221) — [source page](https://drinkag1.com/)
+
+[![AG1 Official | More Than A Greens Powder | Best Price](https://pin.fontofweb.com/6220?format=jpg)](https://design.withfudge.com/pin/6220)
+[AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6220) — [source page](https://drinkag1.com/)
+
+[![AG1 Official | More Than A Greens Powder | Best Price](https://pin.fontofweb.com/6219?format=jpg)](https://design.withfudge.com/pin/6219)
+[AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6219) — [source page](https://drinkag1.com/)
+
+[![AG1 Official | More Than A Greens Powder | Best Price](https://pin.fontofweb.com/6218?format=jpg)](https://design.withfudge.com/pin/6218)
+[AG1 Official | More Than A Greens Powder | Best Price](https://design.withfudge.com/pin/6218) — [source page](https://drinkag1.com/)
+
+[![AG1 | Get Started](https://pin.fontofweb.com/6217?format=jpg)](https://design.withfudge.com/pin/6217)
+[AG1 | Get Started](https://design.withfudge.com/pin/6217) — [source page](https://drinkag1.com/partner/general-partnerships)
+
+[![AG1 | Get Started](https://pin.fontofweb.com/6216?format=jpg)](https://design.withfudge.com/pin/6216)
+[AG1 | Get Started](https://design.withfudge.com/pin/6216) — [source page](https://drinkag1.com/partner/general-partnerships)
+
+[![AG1 | Get Started](https://pin.fontofweb.com/6215?format=jpg)](https://design.withfudge.com/pin/6215)
+[AG1 | Get Started](https://design.withfudge.com/pin/6215) — [source page](https://drinkag1.com/partner/general-partnerships)

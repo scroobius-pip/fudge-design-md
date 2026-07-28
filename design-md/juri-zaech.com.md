@@ -6,6 +6,10 @@ Source domain: [juri-zaech.com](https://juri-zaech.com)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6951
+-->
+
 Here is the visual system observed across **1 captured page** from [juri-zaech.com](https://juri-zaech.com).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [juri-zaech.c
 }
 ```
 
-## References
-- [JURI ZÆCH](https://design.withfudge.com/pin/6951) — [source page](https://juri-zaech.com/)
+## Representative captures
+[![JURI ZÆCH](https://pin.fontofweb.com/6951?format=jpg)](https://design.withfudge.com/pin/6951)
+[JURI ZÆCH](https://design.withfudge.com/pin/6951) — [source page](https://juri-zaech.com/)

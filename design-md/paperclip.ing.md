@@ -6,6 +6,10 @@ Source domain: [paperclip.ing](https://paperclip.ing)
 
 Last updated: 2026-03-26
 
+<!--
+coverPin: 8405
+-->
+
 Here is the visual system observed across **3 captured pages** from [paperclip.ing](https://paperclip.ing).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [paperclip.i
 }
 ```
 
-## References
-- [Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8405) — [source page](https://paperclip.ing/)
-- [Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8404) — [source page](https://paperclip.ing/)
-- [Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8403) — [source page](https://paperclip.ing/)
+## Representative captures
+[![Paperclip — Open-source orchestration for zero-human companies](https://pin.fontofweb.com/8405?format=jpg)](https://design.withfudge.com/pin/8405)
+[Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8405) — [source page](https://paperclip.ing/)
+
+[![Paperclip — Open-source orchestration for zero-human companies](https://pin.fontofweb.com/8404?format=jpg)](https://design.withfudge.com/pin/8404)
+[Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8404) — [source page](https://paperclip.ing/)
+
+[![Paperclip — Open-source orchestration for zero-human companies](https://pin.fontofweb.com/8403?format=jpg)](https://design.withfudge.com/pin/8403)
+[Paperclip — Open-source orchestration for zero-human companies](https://design.withfudge.com/pin/8403) — [source page](https://paperclip.ing/)

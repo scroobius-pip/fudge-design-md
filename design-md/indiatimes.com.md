@@ -6,6 +6,10 @@ Source domain: [indiatimes.com](https://indiatimes.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 9000
+-->
+
 Here is the visual system observed across **1 captured page** from [indiatimes.com](https://indiatimes.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [indiatimes.c
 }
 ```
 
-## References
-- [Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness](https://design.withfudge.com/pin/9000) — [source page](https://indiatimes.com/)
+## Representative captures
+[![Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness](https://pin.fontofweb.com/9000?format=jpg)](https://design.withfudge.com/pin/9000)
+[Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness](https://design.withfudge.com/pin/9000) — [source page](https://indiatimes.com/)

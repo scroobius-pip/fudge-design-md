@@ -6,6 +6,10 @@ Source domain: [app.factory.ai](https://app.factory.ai)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6821
+-->
+
 Here is the visual system observed across **1 captured page** from [app.factory.ai](https://app.factory.ai).
 
 ```fudge-colors
@@ -75,5 +79,6 @@ Here is the visual system observed across **1 captured page** from [app.factory.
 }
 ```
 
-## References
-- [Factory](https://design.withfudge.com/pin/6821) — [source page](https://app.factory.ai/)
+## Representative captures
+[![Factory](https://pin.fontofweb.com/6821?format=jpg)](https://design.withfudge.com/pin/6821)
+[Factory](https://design.withfudge.com/pin/6821) — [source page](https://app.factory.ai/)

@@ -6,6 +6,10 @@ Source domain: [samspratt.com](https://samspratt.com)
 
 Last updated: 2026-05-02
 
+<!--
+coverPin: 9182
+-->
+
 Here is the visual system observed across **2 captured pages** from [samspratt.com](https://samspratt.com).
 
 ```fudge-colors
@@ -111,6 +115,9 @@ Here is the visual system observed across **2 captured pages** from [samspratt.c
 }
 ```
 
-## References
-- [Sam Spratt Archive](https://design.withfudge.com/pin/9182) — [source page](https://samspratt.com/story)
-- [Sam Spratt Archive](https://design.withfudge.com/pin/9181) — [source page](https://samspratt.com/story)
+## Representative captures
+[![Sam Spratt Archive](https://pin.fontofweb.com/9182?format=jpg)](https://design.withfudge.com/pin/9182)
+[Sam Spratt Archive](https://design.withfudge.com/pin/9182) — [source page](https://samspratt.com/story)
+
+[![Sam Spratt Archive](https://pin.fontofweb.com/9181?format=jpg)](https://design.withfudge.com/pin/9181)
+[Sam Spratt Archive](https://design.withfudge.com/pin/9181) — [source page](https://samspratt.com/story)

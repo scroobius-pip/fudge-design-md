@@ -6,6 +6,10 @@ Source domain: [unrealengine.com](https://unrealengine.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7650
+-->
+
 Here is the visual system observed across **3 captured pages** from [unrealengine.com](https://unrealengine.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [unrealengin
 }
 ```
 
-## References
-- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7650) — [source page](https://unrealengine.com/en-US)
-- [The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7649) — [source page](https://unrealengine.com/en-US)
-- [Embark Studios build the award-winning ARC Raiders with Unreal Engine - Unreal Engine](https://design.withfudge.com/pin/7648) — [source page](https://unrealengine.com/en-US/developer-interviews/embark-studios-build-the-award-winning-arc-raiders-with-unreal-engine)
+## Representative captures
+[![The most powerful real-time 3D creation tool - Unreal Engine](https://pin.fontofweb.com/7650?format=jpg)](https://design.withfudge.com/pin/7650)
+[The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7650) — [source page](https://unrealengine.com/en-US)
+
+[![The most powerful real-time 3D creation tool - Unreal Engine](https://pin.fontofweb.com/7649?format=jpg)](https://design.withfudge.com/pin/7649)
+[The most powerful real-time 3D creation tool - Unreal Engine](https://design.withfudge.com/pin/7649) — [source page](https://unrealengine.com/en-US)
+
+[![Embark Studios build the award-winning ARC Raiders with Unreal Engine - Unreal Engine](https://pin.fontofweb.com/7648?format=jpg)](https://design.withfudge.com/pin/7648)
+[Embark Studios build the award-winning ARC Raiders with Unreal Engine - Unreal Engine](https://design.withfudge.com/pin/7648) — [source page](https://unrealengine.com/en-US/developer-interviews/embark-studios-build-the-award-winning-arc-raiders-with-unreal-engine)

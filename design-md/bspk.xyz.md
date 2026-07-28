@@ -6,6 +6,10 @@ Source domain: [bspk.xyz](https://bspk.xyz)
 
 Last updated: 2026-05-17
 
+<!--
+coverPin: 9365
+-->
+
 Here is the visual system observed across **3 captured pages** from [bspk.xyz](https://bspk.xyz).
 
 ```fudge-colors
@@ -135,7 +139,12 @@ Here is the visual system observed across **3 captured pages** from [bspk.xyz](h
 }
 ```
 
-## References
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9365) — [source page](https://bspk.xyz/anthropic)
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9364) — [source page](https://bspk.xyz/anthropic)
-- [Anthropic — BSPK](https://design.withfudge.com/pin/9363) — [source page](https://bspk.xyz/anthropic)
+## Representative captures
+[![Anthropic — BSPK](https://pin.fontofweb.com/9365?format=jpg)](https://design.withfudge.com/pin/9365)
+[Anthropic — BSPK](https://design.withfudge.com/pin/9365) — [source page](https://bspk.xyz/anthropic)
+
+[![Anthropic — BSPK](https://pin.fontofweb.com/9364?format=jpg)](https://design.withfudge.com/pin/9364)
+[Anthropic — BSPK](https://design.withfudge.com/pin/9364) — [source page](https://bspk.xyz/anthropic)
+
+[![Anthropic — BSPK](https://pin.fontofweb.com/9363?format=jpg)](https://design.withfudge.com/pin/9363)
+[Anthropic — BSPK](https://design.withfudge.com/pin/9363) — [source page](https://bspk.xyz/anthropic)

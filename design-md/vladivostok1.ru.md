@@ -6,6 +6,10 @@ Source domain: [vladivostok1.ru](https://vladivostok1.ru)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9171
+-->
+
 Here is the visual system observed across **1 captured page** from [vladivostok1.ru](https://vladivostok1.ru).
 
 ```fudge-colors
@@ -96,5 +100,6 @@ Here is the visual system observed across **1 captured page** from [vladivostok1
 }
 ```
 
-## References
-- [График работы поликлиник на майские праздники изменят в Приморье - 29 апреля 2026 | ВЛАДИВОСТОК1.ру](https://design.withfudge.com/pin/9171) — [source page](https://vladivostok1.ru/text/health/2026/04/29/76392456/)
+## Representative captures
+[![График работы поликлиник на майские праздники изменят в Приморье - 29 апреля 2026 | ВЛАДИВОСТОК1.ру](https://pin.fontofweb.com/9171?format=jpg)](https://design.withfudge.com/pin/9171)
+[График работы поликлиник на майские праздники изменят в Приморье - 29 апреля 2026 | ВЛАДИВОСТОК1.ру](https://design.withfudge.com/pin/9171) — [source page](https://vladivostok1.ru/text/health/2026/04/29/76392456/)

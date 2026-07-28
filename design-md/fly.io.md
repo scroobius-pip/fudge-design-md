@@ -6,6 +6,10 @@ Source domain: [fly.io](https://fly.io)
 
 Last updated: 2026-01-29
 
+<!--
+coverPin: 6102
+-->
+
 Here is the visual system observed across **7 captured pages** from [fly.io](https://fly.io).
 
 ```fudge-colors
@@ -221,11 +225,24 @@ Here is the visual system observed across **7 captured pages** from [fly.io](htt
 }
 ```
 
-## References
-- [Sign in to Your Account · Fly](https://design.withfudge.com/pin/6102) — [source page](https://fly.io/app/sign-in)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6100) — [source page](https://fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6099) — [source page](https://fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6098) — [source page](https://fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6097) — [source page](https://fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6096) — [source page](https://fly.io/)
-- [Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6095) — [source page](https://fly.io/)
+## Representative captures
+[![Sign in to Your Account · Fly](https://pin.fontofweb.com/6102?format=jpg)](https://design.withfudge.com/pin/6102)
+[Sign in to Your Account · Fly](https://design.withfudge.com/pin/6102) — [source page](https://fly.io/app/sign-in)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6100?format=jpg)](https://design.withfudge.com/pin/6100)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6100) — [source page](https://fly.io/)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6099?format=jpg)](https://design.withfudge.com/pin/6099)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6099) — [source page](https://fly.io/)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6098?format=jpg)](https://design.withfudge.com/pin/6098)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6098) — [source page](https://fly.io/)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6097?format=jpg)](https://design.withfudge.com/pin/6097)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6097) — [source page](https://fly.io/)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6096?format=jpg)](https://design.withfudge.com/pin/6096)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6096) — [source page](https://fly.io/)
+
+[![Deploy app servers close to your users · Fly](https://pin.fontofweb.com/6095?format=jpg)](https://design.withfudge.com/pin/6095)
+[Deploy app servers close to your users · Fly](https://design.withfudge.com/pin/6095) — [source page](https://fly.io/)

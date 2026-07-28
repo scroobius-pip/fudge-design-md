@@ -6,6 +6,10 @@ Source domain: [gog.com](https://gog.com)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6569
+-->
+
 Here is the visual system observed across **1 captured page** from [gog.com](https://gog.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [gog.com](htt
 }
 ```
 
-## References
-- [GOG.com](https://design.withfudge.com/pin/6569) — [source page](https://gog.com/account)
+## Representative captures
+[![GOG.com](https://pin.fontofweb.com/6569?format=jpg)](https://design.withfudge.com/pin/6569)
+[GOG.com](https://design.withfudge.com/pin/6569) — [source page](https://gog.com/account)

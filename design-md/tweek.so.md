@@ -6,6 +6,10 @@ Source domain: [tweek.so](https://tweek.so)
 
 Last updated: 2026-02-11
 
+<!--
+coverPin: 6395
+-->
+
 Here is the visual system observed across **13 captured pages** from [tweek.so](https://tweek.so).
 
 ```fudge-colors
@@ -300,12 +304,27 @@ Here is the visual system observed across **13 captured pages** from [tweek.so](
 }
 ```
 
-## References
-- [Tweek Calendar — Minimal To Do list and Weekly Task Planner App](https://design.withfudge.com/pin/6395) — [source page](https://tweek.so/)
-- [My calendar — Tweek](https://design.withfudge.com/pin/5127) — [source page](https://tweek.so/)
-- [Tweek — Features](https://design.withfudge.com/pin/3558) — [source page](https://tweek.so/calendar/features)
-- [Tweek — Features](https://design.withfudge.com/pin/3557) — [source page](https://tweek.so/calendar/features)
-- [Tweek — Features](https://design.withfudge.com/pin/3556) — [source page](https://tweek.so/calendar/features)
-- [Tweek — Friendly Pricing](https://design.withfudge.com/pin/3555) — [source page](https://tweek.so/calendar/pricing)
-- [Tweek — Friendly Pricing](https://design.withfudge.com/pin/3554) — [source page](https://tweek.so/calendar/pricing)
-- [Tweek — Friendly Pricing](https://design.withfudge.com/pin/3553) — [source page](https://tweek.so/calendar/pricing)
+## Representative captures
+[![Tweek Calendar — Minimal To Do list and Weekly Task Planner App](https://pin.fontofweb.com/6395?format=jpg)](https://design.withfudge.com/pin/6395)
+[Tweek Calendar — Minimal To Do list and Weekly Task Planner App](https://design.withfudge.com/pin/6395) — [source page](https://tweek.so/)
+
+[![My calendar — Tweek](https://pin.fontofweb.com/5127?format=jpg)](https://design.withfudge.com/pin/5127)
+[My calendar — Tweek](https://design.withfudge.com/pin/5127) — [source page](https://tweek.so/)
+
+[![Tweek — Features](https://pin.fontofweb.com/3558?format=jpg)](https://design.withfudge.com/pin/3558)
+[Tweek — Features](https://design.withfudge.com/pin/3558) — [source page](https://tweek.so/calendar/features)
+
+[![Tweek — Features](https://pin.fontofweb.com/3557?format=jpg)](https://design.withfudge.com/pin/3557)
+[Tweek — Features](https://design.withfudge.com/pin/3557) — [source page](https://tweek.so/calendar/features)
+
+[![Tweek — Features](https://pin.fontofweb.com/3556?format=jpg)](https://design.withfudge.com/pin/3556)
+[Tweek — Features](https://design.withfudge.com/pin/3556) — [source page](https://tweek.so/calendar/features)
+
+[![Tweek — Friendly Pricing](https://pin.fontofweb.com/3555?format=jpg)](https://design.withfudge.com/pin/3555)
+[Tweek — Friendly Pricing](https://design.withfudge.com/pin/3555) — [source page](https://tweek.so/calendar/pricing)
+
+[![Tweek — Friendly Pricing](https://pin.fontofweb.com/3554?format=jpg)](https://design.withfudge.com/pin/3554)
+[Tweek — Friendly Pricing](https://design.withfudge.com/pin/3554) — [source page](https://tweek.so/calendar/pricing)
+
+[![Tweek — Friendly Pricing](https://pin.fontofweb.com/3553?format=jpg)](https://design.withfudge.com/pin/3553)
+[Tweek — Friendly Pricing](https://design.withfudge.com/pin/3553) — [source page](https://tweek.so/calendar/pricing)

@@ -6,6 +6,10 @@ Source domain: [liveblocks.io](https://liveblocks.io)
 
 Last updated: 2026-03-14
 
+<!--
+coverPin: 8084
+-->
+
 Here is the visual system observed across **5 captured pages** from [liveblocks.io](https://liveblocks.io).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [liveblocks.
 }
 ```
 
-## References
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8084) — [source page](https://liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8083) — [source page](https://liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8082) — [source page](https://liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8081) — [source page](https://liveblocks.io/)
-- [Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8080) — [source page](https://liveblocks.io/)
+## Representative captures
+[![Liveblocks | Ready-made collaboration for your product](https://pin.fontofweb.com/8084?format=jpg)](https://design.withfudge.com/pin/8084)
+[Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8084) — [source page](https://liveblocks.io/)
+
+[![Liveblocks | Ready-made collaboration for your product](https://pin.fontofweb.com/8083?format=jpg)](https://design.withfudge.com/pin/8083)
+[Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8083) — [source page](https://liveblocks.io/)
+
+[![Liveblocks | Ready-made collaboration for your product](https://pin.fontofweb.com/8082?format=jpg)](https://design.withfudge.com/pin/8082)
+[Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8082) — [source page](https://liveblocks.io/)
+
+[![Liveblocks | Ready-made collaboration for your product](https://pin.fontofweb.com/8081?format=jpg)](https://design.withfudge.com/pin/8081)
+[Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8081) — [source page](https://liveblocks.io/)
+
+[![Liveblocks | Ready-made collaboration for your product](https://pin.fontofweb.com/8080?format=jpg)](https://design.withfudge.com/pin/8080)
+[Liveblocks | Ready-made collaboration for your product](https://design.withfudge.com/pin/8080) — [source page](https://liveblocks.io/)

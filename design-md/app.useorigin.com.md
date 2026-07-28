@@ -6,6 +6,10 @@ Source domain: [app.useorigin.com](https://app.useorigin.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8926
+-->
+
 Here is the visual system observed across **3 captured pages** from [app.useorigin.com](https://app.useorigin.com).
 
 ```fudge-colors
@@ -154,7 +158,12 @@ Here is the visual system observed across **3 captured pages** from [app.useorig
 }
 ```
 
-## References
-- [Origin Financial](https://design.withfudge.com/pin/8926) — [source page](https://app.useorigin.com/home/preview)
-- [Origin Financial](https://design.withfudge.com/pin/8925) — [source page](https://app.useorigin.com/onboarding/free-trial)
-- [Origin Financial](https://design.withfudge.com/pin/8924) — [source page](https://app.useorigin.com/sign-up/dtc)
+## Representative captures
+[![Origin Financial](https://pin.fontofweb.com/8926?format=jpg)](https://design.withfudge.com/pin/8926)
+[Origin Financial](https://design.withfudge.com/pin/8926) — [source page](https://app.useorigin.com/home/preview)
+
+[![Origin Financial](https://pin.fontofweb.com/8925?format=jpg)](https://design.withfudge.com/pin/8925)
+[Origin Financial](https://design.withfudge.com/pin/8925) — [source page](https://app.useorigin.com/onboarding/free-trial)
+
+[![Origin Financial](https://pin.fontofweb.com/8924?format=jpg)](https://design.withfudge.com/pin/8924)
+[Origin Financial](https://design.withfudge.com/pin/8924) — [source page](https://app.useorigin.com/sign-up/dtc)

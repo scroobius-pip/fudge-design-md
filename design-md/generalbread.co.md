@@ -6,6 +6,10 @@ Source domain: [generalbread.co](https://generalbread.co)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8328
+-->
+
 Here is the visual system observed across **2 captured pages** from [generalbread.co](https://generalbread.co).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [generalbrea
 }
 ```
 
-## References
-- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8328) — [source page](https://generalbread.co/)
-- [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8327) — [source page](https://generalbread.co/)
+## Representative captures
+[![Bread — The Only Modern Bitcoin App](https://pin.fontofweb.com/8328?format=jpg)](https://design.withfudge.com/pin/8328)
+[Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8328) — [source page](https://generalbread.co/)
+
+[![Bread — The Only Modern Bitcoin App](https://pin.fontofweb.com/8327?format=jpg)](https://design.withfudge.com/pin/8327)
+[Bread — The Only Modern Bitcoin App](https://design.withfudge.com/pin/8327) — [source page](https://generalbread.co/)

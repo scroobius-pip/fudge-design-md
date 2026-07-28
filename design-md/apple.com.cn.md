@@ -6,6 +6,10 @@ Source domain: [apple.com.cn](https://apple.com.cn)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8526
+-->
+
 Here is the visual system observed across **1 captured page** from [apple.com.cn](https://apple.com.cn).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [apple.com.cn
 }
 ```
 
-## References
-- [购买 MacBook Pro - Apple (中国大陆)](https://design.withfudge.com/pin/8526) — [source page](https://apple.com.cn/shop/buy-mac/macbook-pro)
+## Representative captures
+[![购买 MacBook Pro - Apple (中国大陆)](https://pin.fontofweb.com/8526?format=jpg)](https://design.withfudge.com/pin/8526)
+[购买 MacBook Pro - Apple (中国大陆)](https://design.withfudge.com/pin/8526) — [source page](https://apple.com.cn/shop/buy-mac/macbook-pro)

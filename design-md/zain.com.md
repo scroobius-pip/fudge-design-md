@@ -6,6 +6,10 @@ Source domain: [zain.com](https://zain.com)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8334
+-->
+
 Here is the visual system observed across **1 captured page** from [zain.com](https://zain.com).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [zain.com](ht
 }
 ```
 
-## References
-- [Home](https://design.withfudge.com/pin/8334) — [source page](https://zain.com/en)
+## Representative captures
+[![Home](https://pin.fontofweb.com/8334?format=jpg)](https://design.withfudge.com/pin/8334)
+[Home](https://design.withfudge.com/pin/8334) — [source page](https://zain.com/en)

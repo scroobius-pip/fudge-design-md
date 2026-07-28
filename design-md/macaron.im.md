@@ -6,6 +6,10 @@ Source domain: [macaron.im](https://macaron.im)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6575
+-->
+
 Here is the visual system observed across **9 captured pages** from [macaron.im](https://macaron.im).
 
 ```fudge-colors
@@ -251,12 +255,27 @@ Here is the visual system observed across **9 captured pages** from [macaron.im]
 }
 ```
 
-## References
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6575) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6574) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6573) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6572) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6571) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5464) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5463) — [source page](https://macaron.im/)
-- [Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5462) — [source page](https://macaron.im/)
+## Representative captures
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/6575?format=jpg)](https://design.withfudge.com/pin/6575)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6575) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/6574?format=jpg)](https://design.withfudge.com/pin/6574)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6574) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/6573?format=jpg)](https://design.withfudge.com/pin/6573)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6573) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/6572?format=jpg)](https://design.withfudge.com/pin/6572)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6572) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/6571?format=jpg)](https://design.withfudge.com/pin/6571)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/6571) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/5464?format=jpg)](https://design.withfudge.com/pin/5464)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5464) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/5463?format=jpg)](https://design.withfudge.com/pin/5463)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5463) — [source page](https://macaron.im/)
+
+[![Macaron – World's First Personal AI Agent](https://pin.fontofweb.com/5462?format=jpg)](https://design.withfudge.com/pin/5462)
+[Macaron – World's First Personal AI Agent](https://design.withfudge.com/pin/5462) — [source page](https://macaron.im/)

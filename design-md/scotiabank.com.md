@@ -6,6 +6,10 @@ Source domain: [scotiabank.com](https://scotiabank.com)
 
 Last updated: 2026-07-01
 
+<!--
+coverPin: 9875
+-->
+
 Here is the visual system observed across **1 captured page** from [scotiabank.com](https://scotiabank.com).
 
 ```fudge-colors
@@ -108,5 +112,6 @@ Here is the visual system observed across **1 captured page** from [scotiabank.c
 }
 ```
 
-## References
-- [Scotiabank Global Site](https://design.withfudge.com/pin/9875) — [source page](https://scotiabank.com/global/en/global-site.html)
+## Representative captures
+[![Scotiabank Global Site](https://pin.fontofweb.com/9875?format=jpg)](https://design.withfudge.com/pin/9875)
+[Scotiabank Global Site](https://design.withfudge.com/pin/9875) — [source page](https://scotiabank.com/global/en/global-site.html)

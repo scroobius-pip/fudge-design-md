@@ -6,6 +6,10 @@ Source domain: [aino.agency](https://aino.agency)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7074
+-->
+
 Here is the visual system observed across **17 captured pages** from [aino.agency](https://aino.agency).
 
 ```fudge-colors
@@ -273,12 +277,27 @@ Here is the visual system observed across **17 captured pages** from [aino.agenc
 }
 ```
 
-## References
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7074) — [source page](https://aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7073) — [source page](https://aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/7072) — [source page](https://aino.agency/)
-- [Aino — Design and Technology Agency](https://design.withfudge.com/pin/4463) — [source page](https://aino.agency/)
-- [Internships — Aino](https://design.withfudge.com/pin/4432) — [source page](https://aino.agency/careers/internships)
-- [Internships — Aino](https://design.withfudge.com/pin/4431) — [source page](https://aino.agency/careers/internships)
-- [Careers — Aino](https://design.withfudge.com/pin/4430) — [source page](https://aino.agency/careers)
-- [Careers — Aino](https://design.withfudge.com/pin/4429) — [source page](https://aino.agency/careers)
+## Representative captures
+[![Aino — Design and Technology Agency](https://pin.fontofweb.com/7074?format=jpg)](https://design.withfudge.com/pin/7074)
+[Aino — Design and Technology Agency](https://design.withfudge.com/pin/7074) — [source page](https://aino.agency/)
+
+[![Aino — Design and Technology Agency](https://pin.fontofweb.com/7073?format=jpg)](https://design.withfudge.com/pin/7073)
+[Aino — Design and Technology Agency](https://design.withfudge.com/pin/7073) — [source page](https://aino.agency/)
+
+[![Aino — Design and Technology Agency](https://pin.fontofweb.com/7072?format=jpg)](https://design.withfudge.com/pin/7072)
+[Aino — Design and Technology Agency](https://design.withfudge.com/pin/7072) — [source page](https://aino.agency/)
+
+[![Aino — Design and Technology Agency](https://pin.fontofweb.com/4463?format=jpg)](https://design.withfudge.com/pin/4463)
+[Aino — Design and Technology Agency](https://design.withfudge.com/pin/4463) — [source page](https://aino.agency/)
+
+[![Internships — Aino](https://pin.fontofweb.com/4432?format=jpg)](https://design.withfudge.com/pin/4432)
+[Internships — Aino](https://design.withfudge.com/pin/4432) — [source page](https://aino.agency/careers/internships)
+
+[![Internships — Aino](https://pin.fontofweb.com/4431?format=jpg)](https://design.withfudge.com/pin/4431)
+[Internships — Aino](https://design.withfudge.com/pin/4431) — [source page](https://aino.agency/careers/internships)
+
+[![Careers — Aino](https://pin.fontofweb.com/4430?format=jpg)](https://design.withfudge.com/pin/4430)
+[Careers — Aino](https://design.withfudge.com/pin/4430) — [source page](https://aino.agency/careers)
+
+[![Careers — Aino](https://pin.fontofweb.com/4429?format=jpg)](https://design.withfudge.com/pin/4429)
+[Careers — Aino](https://design.withfudge.com/pin/4429) — [source page](https://aino.agency/careers)

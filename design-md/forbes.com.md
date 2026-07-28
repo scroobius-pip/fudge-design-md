@@ -6,6 +6,10 @@ Source domain: [forbes.com](https://forbes.com)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9036
+-->
+
 Here is the visual system observed across **2 captured pages** from [forbes.com](https://forbes.com).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [forbes.com]
 }
 ```
 
-## References
-- [Innovation](https://design.withfudge.com/pin/9036) — [source page](https://forbes.com/innovation/)
-- [Forbes](https://design.withfudge.com/pin/9035) — [source page](https://forbes.com/)
+## Representative captures
+[![Innovation](https://pin.fontofweb.com/9036?format=jpg)](https://design.withfudge.com/pin/9036)
+[Innovation](https://design.withfudge.com/pin/9036) — [source page](https://forbes.com/innovation/)
+
+[![Forbes](https://pin.fontofweb.com/9035?format=jpg)](https://design.withfudge.com/pin/9035)
+[Forbes](https://design.withfudge.com/pin/9035) — [source page](https://forbes.com/)

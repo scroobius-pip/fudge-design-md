@@ -6,6 +6,10 @@ Source domain: [guardbase.ai](https://guardbase.ai)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6501
+-->
+
 Here is the visual system observed across **1 captured page** from [guardbase.ai](https://guardbase.ai).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [guardbase.ai
 }
 ```
 
-## References
-- [Guardbase](https://design.withfudge.com/pin/6501) — [source page](https://guardbase.ai/)
+## Representative captures
+[![Guardbase](https://pin.fontofweb.com/6501?format=jpg)](https://design.withfudge.com/pin/6501)
+[Guardbase](https://design.withfudge.com/pin/6501) — [source page](https://guardbase.ai/)

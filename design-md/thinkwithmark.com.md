@@ -6,6 +6,10 @@ Source domain: [thinkwithmark.com](https://thinkwithmark.com)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9358
+-->
+
 Here is the visual system observed across **14 captured pages** from [thinkwithmark.com](https://thinkwithmark.com).
 
 ```fudge-colors
@@ -372,12 +376,27 @@ Here is the visual system observed across **14 captured pages** from [thinkwithm
 }
 ```
 
-## References
-- [Mark | About](https://design.withfudge.com/pin/9358) — [source page](https://thinkwithmark.com/pages/about)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9357) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9356) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9355) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9354) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9353) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9352) — [source page](https://thinkwithmark.com/preorder)
-- [The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9351) — [source page](https://thinkwithmark.com/)
+## Representative captures
+[![Mark | About](https://pin.fontofweb.com/9358?format=jpg)](https://design.withfudge.com/pin/9358)
+[Mark | About](https://design.withfudge.com/pin/9358) — [source page](https://thinkwithmark.com/pages/about)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9357?format=jpg)](https://design.withfudge.com/pin/9357)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9357) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9356?format=jpg)](https://design.withfudge.com/pin/9356)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9356) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9355?format=jpg)](https://design.withfudge.com/pin/9355)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9355) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9354?format=jpg)](https://design.withfudge.com/pin/9354)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9354) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9353?format=jpg)](https://design.withfudge.com/pin/9353)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9353) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9352?format=jpg)](https://design.withfudge.com/pin/9352)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9352) — [source page](https://thinkwithmark.com/preorder)
+
+[![The Smart Bookmark for Physical Books | Mark II](https://pin.fontofweb.com/9351?format=jpg)](https://design.withfudge.com/pin/9351)
+[The Smart Bookmark for Physical Books | Mark II](https://design.withfudge.com/pin/9351) — [source page](https://thinkwithmark.com/)

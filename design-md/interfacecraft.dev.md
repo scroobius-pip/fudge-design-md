@@ -6,6 +6,10 @@ Source domain: [interfacecraft.dev](https://interfacecraft.dev)
 
 Last updated: 2026-02-06
 
+<!--
+coverPin: 6302
+-->
+
 Here is the visual system observed across **4 captured pages** from [interfacecraft.dev](https://interfacecraft.dev).
 
 ```fudge-colors
@@ -161,8 +165,15 @@ Here is the visual system observed across **4 captured pages** from [interfacecr
 }
 ```
 
-## References
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6302) — [source page](https://interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6233) — [source page](https://interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6232) — [source page](https://interfacecraft.dev/)
-- [Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6231) — [source page](https://interfacecraft.dev/)
+## Representative captures
+[![Interface Craft: a working library for those committed to designing with uncommon care.](https://pin.fontofweb.com/6302?format=jpg)](https://design.withfudge.com/pin/6302)
+[Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6302) — [source page](https://interfacecraft.dev/)
+
+[![Interface Craft: a working library for those committed to designing with uncommon care.](https://pin.fontofweb.com/6233?format=jpg)](https://design.withfudge.com/pin/6233)
+[Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6233) — [source page](https://interfacecraft.dev/)
+
+[![Interface Craft: a working library for those committed to designing with uncommon care.](https://pin.fontofweb.com/6232?format=jpg)](https://design.withfudge.com/pin/6232)
+[Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6232) — [source page](https://interfacecraft.dev/)
+
+[![Interface Craft: a working library for those committed to designing with uncommon care.](https://pin.fontofweb.com/6231?format=jpg)](https://design.withfudge.com/pin/6231)
+[Interface Craft: a working library for those committed to designing with uncommon care.](https://design.withfudge.com/pin/6231) — [source page](https://interfacecraft.dev/)

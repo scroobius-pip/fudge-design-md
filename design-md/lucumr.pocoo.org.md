@@ -6,6 +6,10 @@ Source domain: [lucumr.pocoo.org](https://lucumr.pocoo.org)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7057
+-->
+
 Here is the visual system observed across **2 captured pages** from [lucumr.pocoo.org](https://lucumr.pocoo.org).
 
 ```fudge-colors
@@ -118,6 +122,9 @@ Here is the visual system observed across **2 captured pages** from [lucumr.poco
 }
 ```
 
-## References
-- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7057) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
-- [The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7056) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
+## Representative captures
+[![The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://pin.fontofweb.com/7057?format=jpg)](https://design.withfudge.com/pin/7057)
+[The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7057) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
+
+[![The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://pin.fontofweb.com/7056?format=jpg)](https://design.withfudge.com/pin/7056)
+[The Final Bottleneck | Armin Ronacher's Thoughts and Writings](https://design.withfudge.com/pin/7056) — [source page](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)

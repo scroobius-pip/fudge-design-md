@@ -6,6 +6,10 @@ Source domain: [dataforseo.com](https://dataforseo.com)
 
 Last updated: 2026-07-06
 
+<!--
+coverPin: 9912
+-->
+
 Here is the visual system observed across **1 captured page** from [dataforseo.com](https://dataforseo.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [dataforseo.c
 }
 ```
 
-## References
-- [Powerful API Stack For Data-Driven SEO Tools – DataForSEO](https://design.withfudge.com/pin/9912) — [source page](https://dataforseo.com/)
+## Representative captures
+[![Powerful API Stack For Data-Driven SEO Tools – DataForSEO](https://pin.fontofweb.com/9912?format=jpg)](https://design.withfudge.com/pin/9912)
+[Powerful API Stack For Data-Driven SEO Tools – DataForSEO](https://design.withfudge.com/pin/9912) — [source page](https://dataforseo.com/)

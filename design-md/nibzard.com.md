@@ -6,6 +6,10 @@ Source domain: [nibzard.com](https://nibzard.com)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5950
+-->
+
 Here is the visual system observed across **2 captured pages** from [nibzard.com](https://nibzard.com).
 
 ```fudge-colors
@@ -130,6 +134,9 @@ Here is the visual system observed across **2 captured pages** from [nibzard.com
 }
 ```
 
-## References
-- [nibzard - Home](https://design.withfudge.com/pin/5950) — [source page](https://nibzard.com/)
-- [nibzard - Home](https://design.withfudge.com/pin/5949) — [source page](https://nibzard.com/)
+## Representative captures
+[![nibzard - Home](https://pin.fontofweb.com/5950?format=jpg)](https://design.withfudge.com/pin/5950)
+[nibzard - Home](https://design.withfudge.com/pin/5950) — [source page](https://nibzard.com/)
+
+[![nibzard - Home](https://pin.fontofweb.com/5949?format=jpg)](https://design.withfudge.com/pin/5949)
+[nibzard - Home](https://design.withfudge.com/pin/5949) — [source page](https://nibzard.com/)

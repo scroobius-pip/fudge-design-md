@@ -6,6 +6,10 @@ Source domain: [unconv.ai](https://unconv.ai)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9803
+-->
+
 Here is the visual system observed across **1 captured page** from [unconv.ai](https://unconv.ai).
 
 ```fudge-colors
@@ -147,5 +151,6 @@ Here is the visual system observed across **1 captured page** from [unconv.ai](h
 }
 ```
 
-## References
-- [Unconventional AI](https://design.withfudge.com/pin/9803) — [source page](https://unconv.ai/)
+## Representative captures
+[![Unconventional AI](https://pin.fontofweb.com/9803?format=jpg)](https://design.withfudge.com/pin/9803)
+[Unconventional AI](https://design.withfudge.com/pin/9803) — [source page](https://unconv.ai/)

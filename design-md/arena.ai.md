@@ -6,6 +6,10 @@ Source domain: [arena.ai](https://arena.ai)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9344
+-->
+
 Here is the visual system observed across **3 captured pages** from [arena.ai](https://arena.ai).
 
 ```fudge-colors
@@ -179,7 +183,12 @@ Here is the visual system observed across **3 captured pages** from [arena.ai](h
 }
 ```
 
-## References
-- [LLM Leaderboard - Best Text & Chat AI Models Compared](https://design.withfudge.com/pin/9344) — [source page](https://arena.ai/leaderboard/text)
-- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8747) — [source page](https://arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595)
-- [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8746) — [source page](https://arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702)
+## Representative captures
+[![LLM Leaderboard - Best Text & Chat AI Models Compared](https://pin.fontofweb.com/9344?format=jpg)](https://design.withfudge.com/pin/9344)
+[LLM Leaderboard - Best Text & Chat AI Models Compared](https://design.withfudge.com/pin/9344) — [source page](https://arena.ai/leaderboard/text)
+
+[![Arena | Benchmark & Compare the Best AI Models](https://pin.fontofweb.com/8747?format=jpg)](https://design.withfudge.com/pin/8747)
+[Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8747) — [source page](https://arena.ai/c/019d6f3d-5993-774e-b950-0085565c4595)
+
+[![Arena | Benchmark & Compare the Best AI Models](https://pin.fontofweb.com/8746?format=jpg)](https://design.withfudge.com/pin/8746)
+[Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/pin/8746) — [source page](https://arena.ai/c/019d6f45-9a72-73a7-955e-6b8b31795702)

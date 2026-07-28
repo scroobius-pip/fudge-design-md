@@ -6,6 +6,10 @@ Source domain: [app.brevo.com](https://app.brevo.com)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10111
+-->
+
 Here is the visual system observed across **6 captured pages** from [app.brevo.com](https://app.brevo.com).
 
 ```fudge-colors
@@ -217,10 +221,21 @@ Here is the visual system observed across **6 captured pages** from [app.brevo.c
 }
 ```
 
-## References
-- [Campaigns - Brevo](https://design.withfudge.com/pin/10111) — [source page](https://app.brevo.com/campaigns/listing)
-- [Hello Simdi - Brevo](https://design.withfudge.com/pin/10059) — [source page](https://app.brevo.com/)
-- [API keys & MCP - Brevo](https://design.withfudge.com/pin/10058) — [source page](https://app.brevo.com/settings/keys/api)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5148) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5147) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
-- [Customize Starter plan - Brevo](https://design.withfudge.com/pin/5146) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+## Representative captures
+[![Campaigns - Brevo](https://pin.fontofweb.com/10111?format=jpg)](https://design.withfudge.com/pin/10111)
+[Campaigns - Brevo](https://design.withfudge.com/pin/10111) — [source page](https://app.brevo.com/campaigns/listing)
+
+[![Hello Simdi - Brevo](https://pin.fontofweb.com/10059?format=jpg)](https://design.withfudge.com/pin/10059)
+[Hello Simdi - Brevo](https://design.withfudge.com/pin/10059) — [source page](https://app.brevo.com/)
+
+[![API keys & MCP - Brevo](https://pin.fontofweb.com/10058?format=jpg)](https://design.withfudge.com/pin/10058)
+[API keys & MCP - Brevo](https://design.withfudge.com/pin/10058) — [source page](https://app.brevo.com/settings/keys/api)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5148?format=jpg)](https://design.withfudge.com/pin/5148)
+[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5148) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5147?format=jpg)](https://design.withfudge.com/pin/5147)
+[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5147) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)
+
+[![Customize Starter plan - Brevo](https://pin.fontofweb.com/5146?format=jpg)](https://design.withfudge.com/pin/5146)
+[Customize Starter plan - Brevo](https://design.withfudge.com/pin/5146) — [source page](https://app.brevo.com/billing/account/plans/customize/starter)

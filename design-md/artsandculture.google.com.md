@@ -6,6 +6,10 @@ Source domain: [artsandculture.google.com](https://artsandculture.google.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7274
+-->
+
 Here is the visual system observed across **15 captured pages** from [artsandculture.google.com](https://artsandculture.google.com).
 
 ```fudge-colors
@@ -370,12 +374,27 @@ Here is the visual system observed across **15 captured pages** from [artsandcul
 }
 ```
 
-## References
-- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7274) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
-- [Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7273) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7272) — [source page](https://artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7271) — [source page](https://artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7270) — [source page](https://artsandculture.google.com/)
-- [Google Arts & Culture](https://design.withfudge.com/pin/7269) — [source page](https://artsandculture.google.com/)
-- [Captured page 7268](https://design.withfudge.com/pin/7268) — [source page](https://artsandculture.google.com/recommended)
-- [Explore — Google Arts & Culture](https://design.withfudge.com/pin/7267) — [source page](https://artsandculture.google.com/explore)
+## Representative captures
+[![Art Remix — Google Arts & Culture](https://pin.fontofweb.com/7274?format=jpg)](https://design.withfudge.com/pin/7274)
+[Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7274) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
+
+[![Art Remix — Google Arts & Culture](https://pin.fontofweb.com/7273?format=jpg)](https://design.withfudge.com/pin/7273)
+[Art Remix — Google Arts & Culture](https://design.withfudge.com/pin/7273) — [source page](https://artsandculture.google.com/experiment/2gFc5DkygEURfw)
+
+[![Google Arts & Culture](https://pin.fontofweb.com/7272?format=jpg)](https://design.withfudge.com/pin/7272)
+[Google Arts & Culture](https://design.withfudge.com/pin/7272) — [source page](https://artsandculture.google.com/)
+
+[![Google Arts & Culture](https://pin.fontofweb.com/7271?format=jpg)](https://design.withfudge.com/pin/7271)
+[Google Arts & Culture](https://design.withfudge.com/pin/7271) — [source page](https://artsandculture.google.com/)
+
+[![Google Arts & Culture](https://pin.fontofweb.com/7270?format=jpg)](https://design.withfudge.com/pin/7270)
+[Google Arts & Culture](https://design.withfudge.com/pin/7270) — [source page](https://artsandculture.google.com/)
+
+[![Google Arts & Culture](https://pin.fontofweb.com/7269?format=jpg)](https://design.withfudge.com/pin/7269)
+[Google Arts & Culture](https://design.withfudge.com/pin/7269) — [source page](https://artsandculture.google.com/)
+
+[![Captured page 7268](https://pin.fontofweb.com/7268?format=jpg)](https://design.withfudge.com/pin/7268)
+[Captured page 7268](https://design.withfudge.com/pin/7268) — [source page](https://artsandculture.google.com/recommended)
+
+[![Explore — Google Arts & Culture](https://pin.fontofweb.com/7267?format=jpg)](https://design.withfudge.com/pin/7267)
+[Explore — Google Arts & Culture](https://design.withfudge.com/pin/7267) — [source page](https://artsandculture.google.com/explore)

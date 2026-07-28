@@ -6,6 +6,10 @@ Source domain: [streamlinehq.com](https://streamlinehq.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7453
+-->
+
 Here is the visual system observed across **1 captured page** from [streamlinehq.com](https://streamlinehq.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [streamlinehq
 }
 ```
 
-## References
-- [Download PNG & SVG Icons: Your Ultimate Icon Library](https://design.withfudge.com/pin/7453) — [source page](https://streamlinehq.com/)
+## Representative captures
+[![Download PNG & SVG Icons: Your Ultimate Icon Library](https://pin.fontofweb.com/7453?format=jpg)](https://design.withfudge.com/pin/7453)
+[Download PNG & SVG Icons: Your Ultimate Icon Library](https://design.withfudge.com/pin/7453) — [source page](https://streamlinehq.com/)

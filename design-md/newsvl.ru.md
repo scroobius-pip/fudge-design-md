@@ -6,6 +6,10 @@ Source domain: [newsvl.ru](https://newsvl.ru)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9170
+-->
+
 Here is the visual system observed across **1 captured page** from [newsvl.ru](https://newsvl.ru).
 
 ```fudge-colors
@@ -77,5 +81,6 @@ Here is the visual system observed across **1 captured page** from [newsvl.ru](h
 }
 ```
 
-## References
-- [Ни одного поражения: школьники из Лесозаводска стали лучшими волейболистами на международном «Кубке Дружбы» – Новости Владивостока на VL.ru](https://design.withfudge.com/pin/9170) — [source page](https://newsvl.ru/sport/2026/04/29/238098/)
+## Representative captures
+[![Ни одного поражения: школьники из Лесозаводска стали лучшими волейболистами на международном «Кубке Дружбы» – Новости Владивостока на VL.ru](https://pin.fontofweb.com/9170?format=jpg)](https://design.withfudge.com/pin/9170)
+[Ни одного поражения: школьники из Лесозаводска стали лучшими волейболистами на международном «Кубке Дружбы» – Новости Владивостока на VL.ru](https://design.withfudge.com/pin/9170) — [source page](https://newsvl.ru/sport/2026/04/29/238098/)

@@ -6,6 +6,10 @@ Source domain: [epsteinexposed.com](https://epsteinexposed.com)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6931
+-->
+
 Here is the visual system observed across **6 captured pages** from [epsteinexposed.com](https://epsteinexposed.com).
 
 ```fudge-colors
@@ -204,10 +208,21 @@ Here is the visual system observed across **6 captured pages** from [epsteinexpo
 }
 ```
 
-## References
-- [Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://design.withfudge.com/pin/6931) — [source page](https://epsteinexposed.com/emails)
-- [Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://design.withfudge.com/pin/6930) — [source page](https://epsteinexposed.com/chat)
-- [Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://design.withfudge.com/pin/6929) — [source page](https://epsteinexposed.com/documents)
-- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6928) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
-- [Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6927) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
-- [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://design.withfudge.com/pin/6926) — [source page](https://epsteinexposed.com/)
+## Representative captures
+[![Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://pin.fontofweb.com/6931?format=jpg)](https://design.withfudge.com/pin/6931)
+[Epstein Emails: 10,000+ Messages Between Key Figures | Epstein Exposed](https://design.withfudge.com/pin/6931) — [source page](https://epsteinexposed.com/emails)
+
+[![Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://pin.fontofweb.com/6930?format=jpg)](https://design.withfudge.com/pin/6930)
+[Ask About the Epstein Files - AI Research Assistant | Epstein Exposed](https://design.withfudge.com/pin/6930) — [source page](https://epsteinexposed.com/chat)
+
+[![Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://pin.fontofweb.com/6929?format=jpg)](https://design.withfudge.com/pin/6929)
+[Epstein Documents: 1.6M+ Court Filings & DOJ Releases | Epstein Exposed](https://design.withfudge.com/pin/6929) — [source page](https://epsteinexposed.com/documents)
+
+[![Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://pin.fontofweb.com/6928?format=jpg)](https://design.withfudge.com/pin/6928)
+[Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6928) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+
+[![Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://pin.fontofweb.com/6927?format=jpg)](https://design.withfudge.com/pin/6927)
+[Ghislaine Maxwell - Epstein Files Connection | Epstein Exposed](https://design.withfudge.com/pin/6927) — [source page](https://epsteinexposed.com/persons/ghislaine-maxwell)
+
+[![Epstein Exposed - The Most Comprehensive Epstein Files Database](https://pin.fontofweb.com/6926?format=jpg)](https://design.withfudge.com/pin/6926)
+[Epstein Exposed - The Most Comprehensive Epstein Files Database](https://design.withfudge.com/pin/6926) — [source page](https://epsteinexposed.com/)

@@ -6,6 +6,10 @@ Source domain: [fastino.ai](https://fastino.ai)
 
 Last updated: 2026-06-22
 
+<!--
+coverPin: 9738
+-->
+
 Here is the visual system observed across **6 captured pages** from [fastino.ai](https://fastino.ai).
 
 ```fudge-colors
@@ -252,10 +256,21 @@ Here is the visual system observed across **6 captured pages** from [fastino.ai]
 }
 ```
 
-## References
-- [Fastino Labs](https://design.withfudge.com/pin/9738) — [source page](https://fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9737) — [source page](https://fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9736) — [source page](https://fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9735) — [source page](https://fastino.ai/models/gliner2)
-- [Fastino Labs](https://design.withfudge.com/pin/9734) — [source page](https://fastino.ai/)
-- [Fastino Labs](https://design.withfudge.com/pin/9733) — [source page](https://fastino.ai/)
+## Representative captures
+[![Fastino Labs](https://pin.fontofweb.com/9738?format=jpg)](https://design.withfudge.com/pin/9738)
+[Fastino Labs](https://design.withfudge.com/pin/9738) — [source page](https://fastino.ai/models/gliner2)
+
+[![Fastino Labs](https://pin.fontofweb.com/9737?format=jpg)](https://design.withfudge.com/pin/9737)
+[Fastino Labs](https://design.withfudge.com/pin/9737) — [source page](https://fastino.ai/models/gliner2)
+
+[![Fastino Labs](https://pin.fontofweb.com/9736?format=jpg)](https://design.withfudge.com/pin/9736)
+[Fastino Labs](https://design.withfudge.com/pin/9736) — [source page](https://fastino.ai/models/gliner2)
+
+[![Fastino Labs](https://pin.fontofweb.com/9735?format=jpg)](https://design.withfudge.com/pin/9735)
+[Fastino Labs](https://design.withfudge.com/pin/9735) — [source page](https://fastino.ai/models/gliner2)
+
+[![Fastino Labs](https://pin.fontofweb.com/9734?format=jpg)](https://design.withfudge.com/pin/9734)
+[Fastino Labs](https://design.withfudge.com/pin/9734) — [source page](https://fastino.ai/)
+
+[![Fastino Labs](https://pin.fontofweb.com/9733?format=jpg)](https://design.withfudge.com/pin/9733)
+[Fastino Labs](https://design.withfudge.com/pin/9733) — [source page](https://fastino.ai/)

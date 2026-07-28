@@ -6,6 +6,10 @@ Source domain: [taalas.com](https://taalas.com)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9797
+-->
+
 Here is the visual system observed across **1 captured page** from [taalas.com](https://taalas.com).
 
 ```fudge-colors
@@ -122,5 +126,6 @@ Here is the visual system observed across **1 captured page** from [taalas.com](
 }
 ```
 
-## References
-- [Taalas | The model is The Computer](https://design.withfudge.com/pin/9797) — [source page](https://taalas.com/)
+## Representative captures
+[![Taalas | The model is The Computer](https://pin.fontofweb.com/9797?format=jpg)](https://design.withfudge.com/pin/9797)
+[Taalas | The model is The Computer](https://design.withfudge.com/pin/9797) — [source page](https://taalas.com/)

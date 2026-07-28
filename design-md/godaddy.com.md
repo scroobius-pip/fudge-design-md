@@ -6,6 +6,10 @@ Source domain: [godaddy.com](https://godaddy.com)
 
 Last updated: 2026-05-09
 
+<!--
+coverPin: 9215
+-->
+
 Here is the visual system observed across **15 captured pages** from [godaddy.com](https://godaddy.com).
 
 ```fudge-colors
@@ -307,12 +311,27 @@ Here is the visual system observed across **15 captured pages** from [godaddy.co
 }
 ```
 
-## References
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9215) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9214) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9213) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9212) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9211) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9210) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9209) — [source page](https://godaddy.com/en-ph/offers/godaddy)
-- [Build No Code Web Apps & More with AI - GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9207) — [source page](https://godaddy.com/en/airo/ai-builder)
+## Representative captures
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9215?format=jpg)](https://design.withfudge.com/pin/9215)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9215) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9214?format=jpg)](https://design.withfudge.com/pin/9214)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9214) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9213?format=jpg)](https://design.withfudge.com/pin/9213)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9213) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9212?format=jpg)](https://design.withfudge.com/pin/9212)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9212) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9211?format=jpg)](https://design.withfudge.com/pin/9211)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9211) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9210?format=jpg)](https://design.withfudge.com/pin/9210)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9210) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://pin.fontofweb.com/9209?format=jpg)](https://design.withfudge.com/pin/9209)
+[Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy PH](https://design.withfudge.com/pin/9209) — [source page](https://godaddy.com/en-ph/offers/godaddy)
+
+[![Build No Code Web Apps & More with AI - GoDaddy Airo AI Builder](https://pin.fontofweb.com/9207?format=jpg)](https://design.withfudge.com/pin/9207)
+[Build No Code Web Apps & More with AI - GoDaddy Airo AI Builder](https://design.withfudge.com/pin/9207) — [source page](https://godaddy.com/en/airo/ai-builder)

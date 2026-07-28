@@ -6,6 +6,10 @@ Source domain: [tokens.studio](https://tokens.studio)
 
 Last updated: 2026-01-20
 
+<!--
+coverPin: 5915
+-->
+
 Here is the visual system observed across **2 captured pages** from [tokens.studio](https://tokens.studio).
 
 ```fudge-colors
@@ -105,6 +109,9 @@ Here is the visual system observed across **2 captured pages** from [tokens.stud
 }
 ```
 
-## References
-- [Design systems, fully automated | Tokens Studio](https://design.withfudge.com/pin/5915) — [source page](https://tokens.studio/)
-- [Logic-first tokens for scalable design systems | Tokens Studio](https://design.withfudge.com/pin/5913) — [source page](https://tokens.studio/studio-platform)
+## Representative captures
+[![Design systems, fully automated | Tokens Studio](https://pin.fontofweb.com/5915?format=jpg)](https://design.withfudge.com/pin/5915)
+[Design systems, fully automated | Tokens Studio](https://design.withfudge.com/pin/5915) — [source page](https://tokens.studio/)
+
+[![Logic-first tokens for scalable design systems | Tokens Studio](https://pin.fontofweb.com/5913?format=jpg)](https://design.withfudge.com/pin/5913)
+[Logic-first tokens for scalable design systems | Tokens Studio](https://design.withfudge.com/pin/5913) — [source page](https://tokens.studio/studio-platform)

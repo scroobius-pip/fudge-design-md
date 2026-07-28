@@ -6,6 +6,10 @@ Source domain: [sohnne.com](https://sohnne.com)
 
 Last updated: 2026-04-11
 
+<!--
+coverPin: 8805
+-->
+
 Here is the visual system observed across **3 captured pages** from [sohnne.com](https://sohnne.com).
 
 ```fudge-colors
@@ -165,7 +169,12 @@ Here is the visual system observed across **3 captured pages** from [sohnne.com]
 }
 ```
 
-## References
-- [Sohnne® Official Site | Mid-Century Modern Furniture, Iconic Designs](https://design.withfudge.com/pin/8805) — [source page](https://sohnne.com/)
-- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8804) — [source page](https://sohnne.com/product/the-ball-chair-replica/)
-- [The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8803) — [source page](https://sohnne.com/product/the-ball-chair-replica/)
+## Representative captures
+[![Sohnne® Official Site | Mid-Century Modern Furniture, Iconic Designs](https://pin.fontofweb.com/8805?format=jpg)](https://design.withfudge.com/pin/8805)
+[Sohnne® Official Site | Mid-Century Modern Furniture, Iconic Designs](https://design.withfudge.com/pin/8805) — [source page](https://sohnne.com/)
+
+[![The Ball Chair | Sohnne®](https://pin.fontofweb.com/8804?format=jpg)](https://design.withfudge.com/pin/8804)
+[The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8804) — [source page](https://sohnne.com/product/the-ball-chair-replica/)
+
+[![The Ball Chair | Sohnne®](https://pin.fontofweb.com/8803?format=jpg)](https://design.withfudge.com/pin/8803)
+[The Ball Chair | Sohnne®](https://design.withfudge.com/pin/8803) — [source page](https://sohnne.com/product/the-ball-chair-replica/)

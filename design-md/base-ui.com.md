@@ -6,6 +6,10 @@ Source domain: [base-ui.com](https://base-ui.com)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8041
+-->
+
 Here is the visual system observed across **5 captured pages** from [base-ui.com](https://base-ui.com).
 
 ```fudge-colors
@@ -186,9 +190,18 @@ Here is the visual system observed across **5 captured pages** from [base-ui.com
 }
 ```
 
-## References
-- [Base UI](https://design.withfudge.com/pin/8041) — [source page](https://base-ui.com/)
-- [Base UI](https://design.withfudge.com/pin/8040) — [source page](https://base-ui.com/)
-- [Base UI](https://design.withfudge.com/pin/8039) — [source page](https://base-ui.com/)
-- [Quick start · Base UI](https://design.withfudge.com/pin/3865) — [source page](https://base-ui.com/react/overview/quick-start)
-- [Base UI](https://design.withfudge.com/pin/3864) — [source page](https://base-ui.com/)
+## Representative captures
+[![Base UI](https://pin.fontofweb.com/8041?format=jpg)](https://design.withfudge.com/pin/8041)
+[Base UI](https://design.withfudge.com/pin/8041) — [source page](https://base-ui.com/)
+
+[![Base UI](https://pin.fontofweb.com/8040?format=jpg)](https://design.withfudge.com/pin/8040)
+[Base UI](https://design.withfudge.com/pin/8040) — [source page](https://base-ui.com/)
+
+[![Base UI](https://pin.fontofweb.com/8039?format=jpg)](https://design.withfudge.com/pin/8039)
+[Base UI](https://design.withfudge.com/pin/8039) — [source page](https://base-ui.com/)
+
+[![Quick start · Base UI](https://pin.fontofweb.com/3865?format=jpg)](https://design.withfudge.com/pin/3865)
+[Quick start · Base UI](https://design.withfudge.com/pin/3865) — [source page](https://base-ui.com/react/overview/quick-start)
+
+[![Base UI](https://pin.fontofweb.com/3864?format=jpg)](https://design.withfudge.com/pin/3864)
+[Base UI](https://design.withfudge.com/pin/3864) — [source page](https://base-ui.com/)

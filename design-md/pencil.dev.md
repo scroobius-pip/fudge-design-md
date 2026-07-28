@@ -6,6 +6,10 @@ Source domain: [pencil.dev](https://pencil.dev)
 
 Last updated: 2026-01-22
 
+<!--
+coverPin: 5984
+-->
+
 Here is the visual system observed across **8 captured pages** from [pencil.dev](https://pencil.dev).
 
 ```fudge-colors
@@ -245,12 +249,27 @@ Here is the visual system observed across **8 captured pages** from [pencil.dev]
 }
 ```
 
-## References
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5984) — [source page](https://pencil.dev/downloads)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5983) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5982) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5981) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5980) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5979) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5978) — [source page](https://pencil.dev/)
-- [Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5977) — [source page](https://pencil.dev/)
+## Representative captures
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5984?format=jpg)](https://design.withfudge.com/pin/5984)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5984) — [source page](https://pencil.dev/downloads)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5983?format=jpg)](https://design.withfudge.com/pin/5983)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5983) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5982?format=jpg)](https://design.withfudge.com/pin/5982)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5982) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5981?format=jpg)](https://design.withfudge.com/pin/5981)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5981) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5980?format=jpg)](https://design.withfudge.com/pin/5980)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5980) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5979?format=jpg)](https://design.withfudge.com/pin/5979)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5979) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5978?format=jpg)](https://design.withfudge.com/pin/5978)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5978) — [source page](https://pencil.dev/)
+
+[![Pencil – Design on canvas. Land in code.](https://pin.fontofweb.com/5977?format=jpg)](https://design.withfudge.com/pin/5977)
+[Pencil – Design on canvas. Land in code.](https://design.withfudge.com/pin/5977) — [source page](https://pencil.dev/)

@@ -6,6 +6,10 @@ Source domain: [jonyablonski.bigcartel.com](https://jonyablonski.bigcartel.com)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9162
+-->
+
 Here is the visual system observed across **1 captured page** from [jonyablonski.bigcartel.com](https://jonyablonski.bigcartel.com).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [jonyablonski
 }
 ```
 
-## References
-- [Laws of UX Index Poster | The Online Store of Jon Yablonski](https://design.withfudge.com/pin/9162) — [source page](https://jonyablonski.bigcartel.com/product/laws-of-ux-index-poster)
+## Representative captures
+[![Laws of UX Index Poster | The Online Store of Jon Yablonski](https://pin.fontofweb.com/9162?format=jpg)](https://design.withfudge.com/pin/9162)
+[Laws of UX Index Poster | The Online Store of Jon Yablonski](https://design.withfudge.com/pin/9162) — [source page](https://jonyablonski.bigcartel.com/product/laws-of-ux-index-poster)

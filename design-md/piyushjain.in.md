@@ -6,6 +6,10 @@ Source domain: [piyushjain.in](https://piyushjain.in)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8341
+-->
+
 Here is the visual system observed across **1 captured page** from [piyushjain.in](https://piyushjain.in).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [piyushjain.i
 }
 ```
 
-## References
-- [Piyush Jain | Designer](https://design.withfudge.com/pin/8341) — [source page](https://piyushjain.in/)
+## Representative captures
+[![Piyush Jain | Designer](https://pin.fontofweb.com/8341?format=jpg)](https://design.withfudge.com/pin/8341)
+[Piyush Jain | Designer](https://design.withfudge.com/pin/8341) — [source page](https://piyushjain.in/)

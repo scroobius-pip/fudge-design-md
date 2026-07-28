@@ -6,6 +6,10 @@ Source domain: [seesaw.website](https://seesaw.website)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10229
+-->
+
 Here is the visual system observed across **2 captured pages** from [seesaw.website](https://seesaw.website).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [seesaw.webs
 }
 ```
 
-## References
-- [Aileen Luo — SEESAW](https://design.withfudge.com/pin/10229) — [source page](https://seesaw.website/websites/aileenland)
-- [SEESAW ✦ Design Inspiration](https://design.withfudge.com/pin/10228) — [source page](https://seesaw.website/)
+## Representative captures
+[![Aileen Luo — SEESAW](https://pin.fontofweb.com/10229?format=jpg)](https://design.withfudge.com/pin/10229)
+[Aileen Luo — SEESAW](https://design.withfudge.com/pin/10229) — [source page](https://seesaw.website/websites/aileenland)
+
+[![SEESAW ✦ Design Inspiration](https://pin.fontofweb.com/10228?format=jpg)](https://design.withfudge.com/pin/10228)
+[SEESAW ✦ Design Inspiration](https://design.withfudge.com/pin/10228) — [source page](https://seesaw.website/)

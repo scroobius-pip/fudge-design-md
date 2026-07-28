@@ -6,6 +6,10 @@ Source domain: [mangalasserypavilion.com](https://mangalasserypavilion.com)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8136
+-->
+
 Here is the visual system observed across **1 captured page** from [mangalasserypavilion.com](https://mangalasserypavilion.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [mangalassery
 }
 ```
 
-## References
-- [Services – Mangalassery Pavilion](https://design.withfudge.com/pin/8136) — [source page](https://mangalasserypavilion.com/services/)
+## Representative captures
+[![Services – Mangalassery Pavilion](https://pin.fontofweb.com/8136?format=jpg)](https://design.withfudge.com/pin/8136)
+[Services – Mangalassery Pavilion](https://design.withfudge.com/pin/8136) — [source page](https://mangalasserypavilion.com/services/)

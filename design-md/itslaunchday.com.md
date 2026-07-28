@@ -6,6 +6,10 @@ Source domain: [itslaunchday.com](https://itslaunchday.com)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10187
+-->
+
 Here is the visual system observed across **1 captured page** from [itslaunchday.com](https://itslaunchday.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [itslaunchday
 }
 ```
 
-## References
-- [LaunchDay](https://design.withfudge.com/pin/10187) — [source page](https://itslaunchday.com/)
+## Representative captures
+[![LaunchDay](https://pin.fontofweb.com/10187?format=jpg)](https://design.withfudge.com/pin/10187)
+[LaunchDay](https://design.withfudge.com/pin/10187) — [source page](https://itslaunchday.com/)

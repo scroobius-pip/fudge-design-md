@@ -6,6 +6,10 @@ Source domain: [api.scira.ai](https://api.scira.ai)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5945
+-->
+
 Here is the visual system observed across **5 captured pages** from [api.scira.ai](https://api.scira.ai).
 
 ```fudge-colors
@@ -128,9 +132,18 @@ Here is the visual system observed across **5 captured pages** from [api.scira.a
 }
 ```
 
-## References
-- [Scira API Platform](https://design.withfudge.com/pin/5945) — [source page](https://api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5944) — [source page](https://api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5943) — [source page](https://api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5942) — [source page](https://api.scira.ai/)
-- [Scira API Platform](https://design.withfudge.com/pin/5941) — [source page](https://api.scira.ai/)
+## Representative captures
+[![Scira API Platform](https://pin.fontofweb.com/5945?format=jpg)](https://design.withfudge.com/pin/5945)
+[Scira API Platform](https://design.withfudge.com/pin/5945) — [source page](https://api.scira.ai/)
+
+[![Scira API Platform](https://pin.fontofweb.com/5944?format=jpg)](https://design.withfudge.com/pin/5944)
+[Scira API Platform](https://design.withfudge.com/pin/5944) — [source page](https://api.scira.ai/)
+
+[![Scira API Platform](https://pin.fontofweb.com/5943?format=jpg)](https://design.withfudge.com/pin/5943)
+[Scira API Platform](https://design.withfudge.com/pin/5943) — [source page](https://api.scira.ai/)
+
+[![Scira API Platform](https://pin.fontofweb.com/5942?format=jpg)](https://design.withfudge.com/pin/5942)
+[Scira API Platform](https://design.withfudge.com/pin/5942) — [source page](https://api.scira.ai/)
+
+[![Scira API Platform](https://pin.fontofweb.com/5941?format=jpg)](https://design.withfudge.com/pin/5941)
+[Scira API Platform](https://design.withfudge.com/pin/5941) — [source page](https://api.scira.ai/)

@@ -6,6 +6,10 @@ Source domain: [neubrutalism.com](https://neubrutalism.com)
 
 Last updated: 2026-07-10
 
+<!--
+coverPin: 9977
+-->
+
 Here is the visual system observed across **3 captured pages** from [neubrutalism.com](https://neubrutalism.com).
 
 ```fudge-colors
@@ -211,7 +215,12 @@ Here is the visual system observed across **3 captured pages** from [neubrutalis
 }
 ```
 
-## References
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9977) — [source page](https://neubrutalism.com/)
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9976) — [source page](https://neubrutalism.com/)
-- [Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9975) — [source page](https://neubrutalism.com/)
+## Representative captures
+[![Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://pin.fontofweb.com/9977?format=jpg)](https://design.withfudge.com/pin/9977)
+[Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9977) — [source page](https://neubrutalism.com/)
+
+[![Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://pin.fontofweb.com/9976?format=jpg)](https://design.withfudge.com/pin/9976)
+[Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9976) — [source page](https://neubrutalism.com/)
+
+[![Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://pin.fontofweb.com/9975?format=jpg)](https://design.withfudge.com/pin/9975)
+[Neubrutalism — The Definitive Guide to Neubrutalist Web Design](https://design.withfudge.com/pin/9975) — [source page](https://neubrutalism.com/)

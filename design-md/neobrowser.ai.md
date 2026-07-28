@@ -6,6 +6,10 @@ Source domain: [neobrowser.ai](https://neobrowser.ai)
 
 Last updated: 2026-04-03
 
+<!--
+coverPin: 8667
+-->
+
 Here is the visual system observed across **4 captured pages** from [neobrowser.ai](https://neobrowser.ai).
 
 ```fudge-colors
@@ -162,8 +166,15 @@ Here is the visual system observed across **4 captured pages** from [neobrowser.
 }
 ```
 
-## References
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8667) — [source page](https://neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8666) — [source page](https://neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8665) — [source page](https://neobrowser.ai/)
-- [Official Norton Neo AI Browser](https://design.withfudge.com/pin/8664) — [source page](https://neobrowser.ai/)
+## Representative captures
+[![Official Norton Neo AI Browser](https://pin.fontofweb.com/8667?format=jpg)](https://design.withfudge.com/pin/8667)
+[Official Norton Neo AI Browser](https://design.withfudge.com/pin/8667) — [source page](https://neobrowser.ai/)
+
+[![Official Norton Neo AI Browser](https://pin.fontofweb.com/8666?format=jpg)](https://design.withfudge.com/pin/8666)
+[Official Norton Neo AI Browser](https://design.withfudge.com/pin/8666) — [source page](https://neobrowser.ai/)
+
+[![Official Norton Neo AI Browser](https://pin.fontofweb.com/8665?format=jpg)](https://design.withfudge.com/pin/8665)
+[Official Norton Neo AI Browser](https://design.withfudge.com/pin/8665) — [source page](https://neobrowser.ai/)
+
+[![Official Norton Neo AI Browser](https://pin.fontofweb.com/8664?format=jpg)](https://design.withfudge.com/pin/8664)
+[Official Norton Neo AI Browser](https://design.withfudge.com/pin/8664) — [source page](https://neobrowser.ai/)

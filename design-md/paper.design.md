@@ -6,6 +6,10 @@ Source domain: [paper.design](https://paper.design)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7126
+-->
+
 Here is the visual system observed across **13 captured pages** from [paper.design](https://paper.design).
 
 ```fudge-colors
@@ -329,12 +333,27 @@ Here is the visual system observed across **13 captured pages** from [paper.desi
 }
 ```
 
-## References
-- [Paper MCP server · Paper](https://design.withfudge.com/pin/7126) — [source page](https://paper.design/docs/mcp)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7125) — [source page](https://paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7124) — [source page](https://paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7123) — [source page](https://paper.design/)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7122) — [source page](https://paper.design/)
-- [Pricing • Paper](https://design.withfudge.com/pin/7121) — [source page](https://paper.design/pricing)
-- [Paper – design, share, ship](https://design.withfudge.com/pin/7120) — [source page](https://paper.design/)
-- [Announcing Paper’s $4.2M seed round, led by Accel · Paper](https://design.withfudge.com/pin/3163) — [source page](https://paper.design/blog/seed)
+## Representative captures
+[![Paper MCP server · Paper](https://pin.fontofweb.com/7126?format=jpg)](https://design.withfudge.com/pin/7126)
+[Paper MCP server · Paper](https://design.withfudge.com/pin/7126) — [source page](https://paper.design/docs/mcp)
+
+[![Paper – design, share, ship](https://pin.fontofweb.com/7125?format=jpg)](https://design.withfudge.com/pin/7125)
+[Paper – design, share, ship](https://design.withfudge.com/pin/7125) — [source page](https://paper.design/)
+
+[![Paper – design, share, ship](https://pin.fontofweb.com/7124?format=jpg)](https://design.withfudge.com/pin/7124)
+[Paper – design, share, ship](https://design.withfudge.com/pin/7124) — [source page](https://paper.design/)
+
+[![Paper – design, share, ship](https://pin.fontofweb.com/7123?format=jpg)](https://design.withfudge.com/pin/7123)
+[Paper – design, share, ship](https://design.withfudge.com/pin/7123) — [source page](https://paper.design/)
+
+[![Paper – design, share, ship](https://pin.fontofweb.com/7122?format=jpg)](https://design.withfudge.com/pin/7122)
+[Paper – design, share, ship](https://design.withfudge.com/pin/7122) — [source page](https://paper.design/)
+
+[![Pricing • Paper](https://pin.fontofweb.com/7121?format=jpg)](https://design.withfudge.com/pin/7121)
+[Pricing • Paper](https://design.withfudge.com/pin/7121) — [source page](https://paper.design/pricing)
+
+[![Paper – design, share, ship](https://pin.fontofweb.com/7120?format=jpg)](https://design.withfudge.com/pin/7120)
+[Paper – design, share, ship](https://design.withfudge.com/pin/7120) — [source page](https://paper.design/)
+
+[![Announcing Paper’s $4.2M seed round, led by Accel · Paper](https://pin.fontofweb.com/3163?format=jpg)](https://design.withfudge.com/pin/3163)
+[Announcing Paper’s $4.2M seed round, led by Accel · Paper](https://design.withfudge.com/pin/3163) — [source page](https://paper.design/blog/seed)

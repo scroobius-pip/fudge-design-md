@@ -6,6 +6,10 @@ Source domain: [giga.ai](https://giga.ai)
 
 Last updated: 2026-04-18
 
+<!--
+coverPin: 8976
+-->
+
 Here is the visual system observed across **12 captured pages** from [giga.ai](https://giga.ai).
 
 ```fudge-colors
@@ -389,12 +393,27 @@ Here is the visual system observed across **12 captured pages** from [giga.ai](h
 }
 ```
 
-## References
-- [Voice Experience - Giga](https://design.withfudge.com/pin/8976) — [source page](https://giga.ai/voice-experience)
-- [Voice Experience - Giga](https://design.withfudge.com/pin/8975) — [source page](https://giga.ai/voice-experience)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8974) — [source page](https://giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8973) — [source page](https://giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8972) — [source page](https://giga.ai/agent-canvas)
-- [Agent Canvas - Giga](https://design.withfudge.com/pin/8971) — [source page](https://giga.ai/agent-canvas)
-- [Giga](https://design.withfudge.com/pin/8970) — [source page](https://giga.ai/)
-- [Giga](https://design.withfudge.com/pin/8969) — [source page](https://giga.ai/)
+## Representative captures
+[![Voice Experience - Giga](https://pin.fontofweb.com/8976?format=jpg)](https://design.withfudge.com/pin/8976)
+[Voice Experience - Giga](https://design.withfudge.com/pin/8976) — [source page](https://giga.ai/voice-experience)
+
+[![Voice Experience - Giga](https://pin.fontofweb.com/8975?format=jpg)](https://design.withfudge.com/pin/8975)
+[Voice Experience - Giga](https://design.withfudge.com/pin/8975) — [source page](https://giga.ai/voice-experience)
+
+[![Agent Canvas - Giga](https://pin.fontofweb.com/8974?format=jpg)](https://design.withfudge.com/pin/8974)
+[Agent Canvas - Giga](https://design.withfudge.com/pin/8974) — [source page](https://giga.ai/agent-canvas)
+
+[![Agent Canvas - Giga](https://pin.fontofweb.com/8973?format=jpg)](https://design.withfudge.com/pin/8973)
+[Agent Canvas - Giga](https://design.withfudge.com/pin/8973) — [source page](https://giga.ai/agent-canvas)
+
+[![Agent Canvas - Giga](https://pin.fontofweb.com/8972?format=jpg)](https://design.withfudge.com/pin/8972)
+[Agent Canvas - Giga](https://design.withfudge.com/pin/8972) — [source page](https://giga.ai/agent-canvas)
+
+[![Agent Canvas - Giga](https://pin.fontofweb.com/8971?format=jpg)](https://design.withfudge.com/pin/8971)
+[Agent Canvas - Giga](https://design.withfudge.com/pin/8971) — [source page](https://giga.ai/agent-canvas)
+
+[![Giga](https://pin.fontofweb.com/8970?format=jpg)](https://design.withfudge.com/pin/8970)
+[Giga](https://design.withfudge.com/pin/8970) — [source page](https://giga.ai/)
+
+[![Giga](https://pin.fontofweb.com/8969?format=jpg)](https://design.withfudge.com/pin/8969)
+[Giga](https://design.withfudge.com/pin/8969) — [source page](https://giga.ai/)

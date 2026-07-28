@@ -6,6 +6,10 @@ Source domain: [keebsforall.com](https://keebsforall.com)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9521
+-->
+
 Here is the visual system observed across **1 captured page** from [keebsforall.com](https://keebsforall.com).
 
 ```fudge-colors
@@ -93,5 +97,6 @@ Here is the visual system observed across **1 captured page** from [keebsforall.
 }
 ```
 
-## References
-- [MKC75 Keyboard by MyKeyClub | Custom Mechanical Keyboards – KeebsForAll](https://design.withfudge.com/pin/9521) — [source page](https://keebsforall.com/collections/keyboards/products/mkc75-by-mykeyclub)
+## Representative captures
+[![MKC75 Keyboard by MyKeyClub | Custom Mechanical Keyboards – KeebsForAll](https://pin.fontofweb.com/9521?format=jpg)](https://design.withfudge.com/pin/9521)
+[MKC75 Keyboard by MyKeyClub | Custom Mechanical Keyboards – KeebsForAll](https://design.withfudge.com/pin/9521) — [source page](https://keebsforall.com/collections/keyboards/products/mkc75-by-mykeyclub)

@@ -6,6 +6,10 @@ Source domain: [demo.define.app](https://demo.define.app)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8208
+-->
+
 Here is the visual system observed across **1 captured page** from [demo.define.app](https://demo.define.app).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [demo.define.
 }
 ```
 
-## References
-- [Modern work email for the new generation | define](https://design.withfudge.com/pin/8208) — [source page](https://demo.define.app/)
+## Representative captures
+[![Modern work email for the new generation | define](https://pin.fontofweb.com/8208?format=jpg)](https://design.withfudge.com/pin/8208)
+[Modern work email for the new generation | define](https://design.withfudge.com/pin/8208) — [source page](https://demo.define.app/)

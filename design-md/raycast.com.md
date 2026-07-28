@@ -6,6 +6,10 @@ Source domain: [raycast.com](https://raycast.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7307
+-->
+
 Here is the visual system observed across **8 captured pages** from [raycast.com](https://raycast.com).
 
 ```fudge-colors
@@ -201,12 +205,27 @@ Here is the visual system observed across **8 captured pages** from [raycast.com
 }
 ```
 
-## References
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/7307) — [source page](https://raycast.com/)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4918) — [source page](https://raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4917) — [source page](https://raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4916) — [source page](https://raycast.com/pricing)
-- [Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4915) — [source page](https://raycast.com/pricing)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4675) — [source page](https://raycast.com/)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4674) — [source page](https://raycast.com/)
-- [Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4673) — [source page](https://raycast.com/)
+## Representative captures
+[![Raycast - Your shortcut to everything](https://pin.fontofweb.com/7307?format=jpg)](https://design.withfudge.com/pin/7307)
+[Raycast - Your shortcut to everything](https://design.withfudge.com/pin/7307) — [source page](https://raycast.com/)
+
+[![Raycast Pricing: Free Forever or Pro with AI for $8/month](https://pin.fontofweb.com/4918?format=jpg)](https://design.withfudge.com/pin/4918)
+[Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4918) — [source page](https://raycast.com/pricing)
+
+[![Raycast Pricing: Free Forever or Pro with AI for $8/month](https://pin.fontofweb.com/4917?format=jpg)](https://design.withfudge.com/pin/4917)
+[Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4917) — [source page](https://raycast.com/pricing)
+
+[![Raycast Pricing: Free Forever or Pro with AI for $8/month](https://pin.fontofweb.com/4916?format=jpg)](https://design.withfudge.com/pin/4916)
+[Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4916) — [source page](https://raycast.com/pricing)
+
+[![Raycast Pricing: Free Forever or Pro with AI for $8/month](https://pin.fontofweb.com/4915?format=jpg)](https://design.withfudge.com/pin/4915)
+[Raycast Pricing: Free Forever or Pro with AI for $8/month](https://design.withfudge.com/pin/4915) — [source page](https://raycast.com/pricing)
+
+[![Raycast - Your shortcut to everything](https://pin.fontofweb.com/4675?format=jpg)](https://design.withfudge.com/pin/4675)
+[Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4675) — [source page](https://raycast.com/)
+
+[![Raycast - Your shortcut to everything](https://pin.fontofweb.com/4674?format=jpg)](https://design.withfudge.com/pin/4674)
+[Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4674) — [source page](https://raycast.com/)
+
+[![Raycast - Your shortcut to everything](https://pin.fontofweb.com/4673?format=jpg)](https://design.withfudge.com/pin/4673)
+[Raycast - Your shortcut to everything](https://design.withfudge.com/pin/4673) — [source page](https://raycast.com/)

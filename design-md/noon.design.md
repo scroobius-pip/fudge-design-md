@@ -6,6 +6,10 @@ Source domain: [noon.design](https://noon.design)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8620
+-->
+
 Here is the visual system observed across **6 captured pages** from [noon.design](https://noon.design).
 
 ```fudge-colors
@@ -230,10 +234,21 @@ Here is the visual system observed across **6 captured pages** from [noon.design
 }
 ```
 
-## References
-- [Noon](https://design.withfudge.com/pin/8620) — [source page](https://noon.design/)
-- [Noon](https://design.withfudge.com/pin/8619) — [source page](https://noon.design/)
-- [Noon](https://design.withfudge.com/pin/8618) — [source page](https://noon.design/)
-- [Noon](https://design.withfudge.com/pin/8617) — [source page](https://noon.design/)
-- [Noon](https://design.withfudge.com/pin/8616) — [source page](https://noon.design/)
-- [Noon](https://design.withfudge.com/pin/8615) — [source page](https://noon.design/)
+## Representative captures
+[![Noon](https://pin.fontofweb.com/8620?format=jpg)](https://design.withfudge.com/pin/8620)
+[Noon](https://design.withfudge.com/pin/8620) — [source page](https://noon.design/)
+
+[![Noon](https://pin.fontofweb.com/8619?format=jpg)](https://design.withfudge.com/pin/8619)
+[Noon](https://design.withfudge.com/pin/8619) — [source page](https://noon.design/)
+
+[![Noon](https://pin.fontofweb.com/8618?format=jpg)](https://design.withfudge.com/pin/8618)
+[Noon](https://design.withfudge.com/pin/8618) — [source page](https://noon.design/)
+
+[![Noon](https://pin.fontofweb.com/8617?format=jpg)](https://design.withfudge.com/pin/8617)
+[Noon](https://design.withfudge.com/pin/8617) — [source page](https://noon.design/)
+
+[![Noon](https://pin.fontofweb.com/8616?format=jpg)](https://design.withfudge.com/pin/8616)
+[Noon](https://design.withfudge.com/pin/8616) — [source page](https://noon.design/)
+
+[![Noon](https://pin.fontofweb.com/8615?format=jpg)](https://design.withfudge.com/pin/8615)
+[Noon](https://design.withfudge.com/pin/8615) — [source page](https://noon.design/)

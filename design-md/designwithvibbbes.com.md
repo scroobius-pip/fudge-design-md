@@ -6,6 +6,10 @@ Source domain: [designwithvibbbes.com](https://designwithvibbbes.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7194
+-->
+
 Here is the visual system observed across **7 captured pages** from [designwithvibbbes.com](https://designwithvibbbes.com).
 
 ```fudge-colors
@@ -239,11 +243,24 @@ Here is the visual system observed across **7 captured pages** from [designwithv
 }
 ```
 
-## References
-- [Captured page 7194](https://design.withfudge.com/pin/7194) — [source page](https://designwithvibbbes.com/pricing)
-- [Captured page 7193](https://design.withfudge.com/pin/7193) — [source page](https://designwithvibbbes.com/pricing)
-- [Captured page 7192](https://design.withfudge.com/pin/7192) — [source page](https://designwithvibbbes.com/docs)
-- [Captured page 7191](https://design.withfudge.com/pin/7191) — [source page](https://designwithvibbbes.com/docs)
-- [Captured page 7190](https://design.withfudge.com/pin/7190) — [source page](https://designwithvibbbes.com/docs)
-- [Captured page 7189](https://design.withfudge.com/pin/7189) — [source page](https://designwithvibbbes.com/)
-- [Captured page 7188](https://design.withfudge.com/pin/7188) — [source page](https://designwithvibbbes.com/)
+## Representative captures
+[![Captured page 7194](https://pin.fontofweb.com/7194?format=jpg)](https://design.withfudge.com/pin/7194)
+[Captured page 7194](https://design.withfudge.com/pin/7194) — [source page](https://designwithvibbbes.com/pricing)
+
+[![Captured page 7193](https://pin.fontofweb.com/7193?format=jpg)](https://design.withfudge.com/pin/7193)
+[Captured page 7193](https://design.withfudge.com/pin/7193) — [source page](https://designwithvibbbes.com/pricing)
+
+[![Captured page 7192](https://pin.fontofweb.com/7192?format=jpg)](https://design.withfudge.com/pin/7192)
+[Captured page 7192](https://design.withfudge.com/pin/7192) — [source page](https://designwithvibbbes.com/docs)
+
+[![Captured page 7191](https://pin.fontofweb.com/7191?format=jpg)](https://design.withfudge.com/pin/7191)
+[Captured page 7191](https://design.withfudge.com/pin/7191) — [source page](https://designwithvibbbes.com/docs)
+
+[![Captured page 7190](https://pin.fontofweb.com/7190?format=jpg)](https://design.withfudge.com/pin/7190)
+[Captured page 7190](https://design.withfudge.com/pin/7190) — [source page](https://designwithvibbbes.com/docs)
+
+[![Captured page 7189](https://pin.fontofweb.com/7189?format=jpg)](https://design.withfudge.com/pin/7189)
+[Captured page 7189](https://design.withfudge.com/pin/7189) — [source page](https://designwithvibbbes.com/)
+
+[![Captured page 7188](https://pin.fontofweb.com/7188?format=jpg)](https://design.withfudge.com/pin/7188)
+[Captured page 7188](https://design.withfudge.com/pin/7188) — [source page](https://designwithvibbbes.com/)

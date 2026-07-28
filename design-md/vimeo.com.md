@@ -6,6 +6,10 @@ Source domain: [vimeo.com](https://vimeo.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6442
+-->
+
 Here is the visual system observed across **5 captured pages** from [vimeo.com](https://vimeo.com).
 
 ```fudge-colors
@@ -190,9 +194,18 @@ Here is the visual system observed across **5 captured pages** from [vimeo.com](
 }
 ```
 
-## References
-- [Vimeo](https://design.withfudge.com/pin/6442) — [source page](https://vimeo.com/survey/join)
-- [Join Vimeo](https://design.withfudge.com/pin/6441) — [source page](https://vimeo.com/join)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6440) — [source page](https://vimeo.com/)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6439) — [source page](https://vimeo.com/)
-- [Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6438) — [source page](https://vimeo.com/)
+## Representative captures
+[![Vimeo](https://pin.fontofweb.com/6442?format=jpg)](https://design.withfudge.com/pin/6442)
+[Vimeo](https://design.withfudge.com/pin/6442) — [source page](https://vimeo.com/survey/join)
+
+[![Join Vimeo](https://pin.fontofweb.com/6441?format=jpg)](https://design.withfudge.com/pin/6441)
+[Join Vimeo](https://design.withfudge.com/pin/6441) — [source page](https://vimeo.com/join)
+
+[![Vimeo - All-in-One Video Platform](https://pin.fontofweb.com/6440?format=jpg)](https://design.withfudge.com/pin/6440)
+[Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6440) — [source page](https://vimeo.com/)
+
+[![Vimeo - All-in-One Video Platform](https://pin.fontofweb.com/6439?format=jpg)](https://design.withfudge.com/pin/6439)
+[Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6439) — [source page](https://vimeo.com/)
+
+[![Vimeo - All-in-One Video Platform](https://pin.fontofweb.com/6438?format=jpg)](https://design.withfudge.com/pin/6438)
+[Vimeo - All-in-One Video Platform](https://design.withfudge.com/pin/6438) — [source page](https://vimeo.com/)

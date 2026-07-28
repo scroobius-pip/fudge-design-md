@@ -6,6 +6,10 @@ Source domain: [kapwing.com](https://kapwing.com)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7907
+-->
+
 Here is the visual system observed across **8 captured pages** from [kapwing.com](https://kapwing.com).
 
 ```fudge-colors
@@ -227,12 +231,27 @@ Here is the visual system observed across **8 captured pages** from [kapwing.com
 }
 ```
 
-## References
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7907) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7906) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7905) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7904) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7903) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7902) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7901) — [source page](https://kapwing.com/)
-- [Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7900) — [source page](https://kapwing.com/)
+## Representative captures
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7907?format=jpg)](https://design.withfudge.com/pin/7907)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7907) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7906?format=jpg)](https://design.withfudge.com/pin/7906)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7906) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7905?format=jpg)](https://design.withfudge.com/pin/7905)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7905) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7904?format=jpg)](https://design.withfudge.com/pin/7904)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7904) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7903?format=jpg)](https://design.withfudge.com/pin/7903)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7903) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7902?format=jpg)](https://design.withfudge.com/pin/7902)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7902) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7901?format=jpg)](https://design.withfudge.com/pin/7901)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7901) — [source page](https://kapwing.com/)
+
+[![Kapwing: Make a Video About Anything](https://pin.fontofweb.com/7900?format=jpg)](https://design.withfudge.com/pin/7900)
+[Kapwing: Make a Video About Anything](https://design.withfudge.com/pin/7900) — [source page](https://kapwing.com/)

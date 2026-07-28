@@ -6,6 +6,10 @@ Source domain: [threads.com](https://threads.com)
 
 Last updated: 2026-06-10
 
+<!--
+coverPin: 9543
+-->
+
 Here is the visual system observed across **9 captured pages** from [threads.com](https://threads.com).
 
 ```fudge-colors
@@ -233,12 +237,27 @@ Here is the visual system observed across **9 captured pages** from [threads.com
 }
 ```
 
-## References
-- [Home • Threads](https://design.withfudge.com/pin/9543) — [source page](https://threads.com/)
-- [(9+) We built Pinterest for Vibe Coders.](https://design.withfudge.com/pin/8486) — [source page](https://threads.com/@fontsofweb/post/DWZISYljEiV)
-- [Settings • Threads](https://design.withfudge.com/pin/4470) — [source page](https://threads.com/settings/account/)
-- [Settings • Threads](https://design.withfudge.com/pin/4469) — [source page](https://threads.com/settings/privacy)
-- [(1) Threads](https://design.withfudge.com/pin/3947) — [source page](https://threads.com/custom_feed/create)
-- [Threads • Log in](https://design.withfudge.com/pin/3165) — [source page](https://threads.com/login/)
-- [Home • Threads](https://design.withfudge.com/pin/3126) — [source page](https://threads.com/)
-- [Home • Threads](https://design.withfudge.com/pin/3125) — [source page](https://threads.com/)
+## Representative captures
+[![Home • Threads](https://pin.fontofweb.com/9543?format=jpg)](https://design.withfudge.com/pin/9543)
+[Home • Threads](https://design.withfudge.com/pin/9543) — [source page](https://threads.com/)
+
+[![(9+) We built Pinterest for Vibe Coders.](https://pin.fontofweb.com/8486?format=jpg)](https://design.withfudge.com/pin/8486)
+[(9+) We built Pinterest for Vibe Coders.](https://design.withfudge.com/pin/8486) — [source page](https://threads.com/@fontsofweb/post/DWZISYljEiV)
+
+[![Settings • Threads](https://pin.fontofweb.com/4470?format=jpg)](https://design.withfudge.com/pin/4470)
+[Settings • Threads](https://design.withfudge.com/pin/4470) — [source page](https://threads.com/settings/account/)
+
+[![Settings • Threads](https://pin.fontofweb.com/4469?format=jpg)](https://design.withfudge.com/pin/4469)
+[Settings • Threads](https://design.withfudge.com/pin/4469) — [source page](https://threads.com/settings/privacy)
+
+[![(1) Threads](https://pin.fontofweb.com/3947?format=jpg)](https://design.withfudge.com/pin/3947)
+[(1) Threads](https://design.withfudge.com/pin/3947) — [source page](https://threads.com/custom_feed/create)
+
+[![Threads • Log in](https://pin.fontofweb.com/3165?format=jpg)](https://design.withfudge.com/pin/3165)
+[Threads • Log in](https://design.withfudge.com/pin/3165) — [source page](https://threads.com/login/)
+
+[![Home • Threads](https://pin.fontofweb.com/3126?format=jpg)](https://design.withfudge.com/pin/3126)
+[Home • Threads](https://design.withfudge.com/pin/3126) — [source page](https://threads.com/)
+
+[![Home • Threads](https://pin.fontofweb.com/3125?format=jpg)](https://design.withfudge.com/pin/3125)
+[Home • Threads](https://design.withfudge.com/pin/3125) — [source page](https://threads.com/)

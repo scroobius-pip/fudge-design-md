@@ -6,6 +6,10 @@ Source domain: [worklouder.cc](https://worklouder.cc)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10144
+-->
+
 Here is the visual system observed across **16 captured pages** from [worklouder.cc](https://worklouder.cc).
 
 ```fudge-colors
@@ -427,12 +431,27 @@ Here is the visual system observed across **16 captured pages** from [worklouder
 }
 ```
 
-## References
-- [WORK LOUDER®](https://design.withfudge.com/pin/10144) — [source page](https://worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10143) — [source page](https://worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10142) — [source page](https://worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10141) — [source page](https://worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10140) — [source page](https://worklouder.cc/nomad-e-2)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10139) — [source page](https://worklouder.cc/)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10138) — [source page](https://worklouder.cc/)
-- [WORK LOUDER®](https://design.withfudge.com/pin/10137) — [source page](https://worklouder.cc/nomad-e-2)
+## Representative captures
+[![WORK LOUDER®](https://pin.fontofweb.com/10144?format=jpg)](https://design.withfudge.com/pin/10144)
+[WORK LOUDER®](https://design.withfudge.com/pin/10144) — [source page](https://worklouder.cc/nomad-e-2)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10143?format=jpg)](https://design.withfudge.com/pin/10143)
+[WORK LOUDER®](https://design.withfudge.com/pin/10143) — [source page](https://worklouder.cc/nomad-e-2)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10142?format=jpg)](https://design.withfudge.com/pin/10142)
+[WORK LOUDER®](https://design.withfudge.com/pin/10142) — [source page](https://worklouder.cc/nomad-e-2)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10141?format=jpg)](https://design.withfudge.com/pin/10141)
+[WORK LOUDER®](https://design.withfudge.com/pin/10141) — [source page](https://worklouder.cc/nomad-e-2)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10140?format=jpg)](https://design.withfudge.com/pin/10140)
+[WORK LOUDER®](https://design.withfudge.com/pin/10140) — [source page](https://worklouder.cc/nomad-e-2)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10139?format=jpg)](https://design.withfudge.com/pin/10139)
+[WORK LOUDER®](https://design.withfudge.com/pin/10139) — [source page](https://worklouder.cc/)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10138?format=jpg)](https://design.withfudge.com/pin/10138)
+[WORK LOUDER®](https://design.withfudge.com/pin/10138) — [source page](https://worklouder.cc/)
+
+[![WORK LOUDER®](https://pin.fontofweb.com/10137?format=jpg)](https://design.withfudge.com/pin/10137)
+[WORK LOUDER®](https://design.withfudge.com/pin/10137) — [source page](https://worklouder.cc/nomad-e-2)

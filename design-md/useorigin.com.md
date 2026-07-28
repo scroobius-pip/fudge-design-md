@@ -6,6 +6,10 @@ Source domain: [useorigin.com](https://useorigin.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8923
+-->
+
 Here is the visual system observed across **9 captured pages** from [useorigin.com](https://useorigin.com).
 
 ```fudge-colors
@@ -283,12 +287,27 @@ Here is the visual system observed across **9 captured pages** from [useorigin.c
 }
 ```
 
-## References
-- [Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8923) — [source page](https://useorigin.com/products/investing)
-- [Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8922) — [source page](https://useorigin.com/products/investing)
-- [Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8921) — [source page](https://useorigin.com/products/investing)
-- [Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8920) — [source page](https://useorigin.com/)
-- [Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8919) — [source page](https://useorigin.com/)
-- [Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8918) — [source page](https://useorigin.com/)
-- [Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8917) — [source page](https://useorigin.com/)
-- [Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8916) — [source page](https://useorigin.com/)
+## Representative captures
+[![Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://pin.fontofweb.com/8923?format=jpg)](https://design.withfudge.com/pin/8923)
+[Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8923) — [source page](https://useorigin.com/products/investing)
+
+[![Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://pin.fontofweb.com/8922?format=jpg)](https://design.withfudge.com/pin/8922)
+[Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8922) — [source page](https://useorigin.com/products/investing)
+
+[![Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://pin.fontofweb.com/8921?format=jpg)](https://design.withfudge.com/pin/8921)
+[Investment Tracking, High-Yield Cash Account & AI Insights | Origin Financial](https://design.withfudge.com/pin/8921) — [source page](https://useorigin.com/products/investing)
+
+[![Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://pin.fontofweb.com/8920?format=jpg)](https://design.withfudge.com/pin/8920)
+[Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8920) — [source page](https://useorigin.com/)
+
+[![Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://pin.fontofweb.com/8919?format=jpg)](https://design.withfudge.com/pin/8919)
+[Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8919) — [source page](https://useorigin.com/)
+
+[![Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://pin.fontofweb.com/8918?format=jpg)](https://design.withfudge.com/pin/8918)
+[Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8918) — [source page](https://useorigin.com/)
+
+[![Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://pin.fontofweb.com/8917?format=jpg)](https://design.withfudge.com/pin/8917)
+[Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8917) — [source page](https://useorigin.com/)
+
+[![Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://pin.fontofweb.com/8916?format=jpg)](https://design.withfudge.com/pin/8916)
+[Origin Financial | All‑in‑One Financial Platform for Budgeting, Investing & AI Planning](https://design.withfudge.com/pin/8916) — [source page](https://useorigin.com/)

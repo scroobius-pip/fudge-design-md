@@ -6,6 +6,10 @@ Source domain: [roomfive.net](https://roomfive.net)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8698
+-->
+
 Here is the visual system observed across **1 captured page** from [roomfive.net](https://roomfive.net).
 
 ```fudge-colors
@@ -95,5 +99,6 @@ Here is the visual system observed across **1 captured page** from [roomfive.net
 }
 ```
 
-## References
-- [Freelance Web Designer and Developer in Los Angeles — Andrew Couldwell](https://design.withfudge.com/pin/8698) — [source page](https://roomfive.net/)
+## Representative captures
+[![Freelance Web Designer and Developer in Los Angeles — Andrew Couldwell](https://pin.fontofweb.com/8698?format=jpg)](https://design.withfudge.com/pin/8698)
+[Freelance Web Designer and Developer in Los Angeles — Andrew Couldwell](https://design.withfudge.com/pin/8698) — [source page](https://roomfive.net/)

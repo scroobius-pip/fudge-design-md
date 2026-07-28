@@ -6,6 +6,10 @@ Source domain: [app.standards.site](https://app.standards.site)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8524
+-->
+
 Here is the visual system observed across **14 captured pages** from [app.standards.site](https://app.standards.site).
 
 ```fudge-colors
@@ -361,12 +365,27 @@ Here is the visual system observed across **14 captured pages** from [app.standa
 }
 ```
 
-## References
-- [Standards - FontofWeb](https://design.withfudge.com/pin/8524) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8523) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8522) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8521) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8520) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8519) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8518) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
-- [Standards - Project Setup](https://design.withfudge.com/pin/8517) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+## Representative captures
+[![Standards - FontofWeb](https://pin.fontofweb.com/8524?format=jpg)](https://design.withfudge.com/pin/8524)
+[Standards - FontofWeb](https://design.withfudge.com/pin/8524) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/edit)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8523?format=jpg)](https://design.withfudge.com/pin/8523)
+[Standards - Project Setup](https://design.withfudge.com/pin/8523) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8522?format=jpg)](https://design.withfudge.com/pin/8522)
+[Standards - Project Setup](https://design.withfudge.com/pin/8522) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8521?format=jpg)](https://design.withfudge.com/pin/8521)
+[Standards - Project Setup](https://design.withfudge.com/pin/8521) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8520?format=jpg)](https://design.withfudge.com/pin/8520)
+[Standards - Project Setup](https://design.withfudge.com/pin/8520) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8519?format=jpg)](https://design.withfudge.com/pin/8519)
+[Standards - Project Setup](https://design.withfudge.com/pin/8519) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8518?format=jpg)](https://design.withfudge.com/pin/8518)
+[Standards - Project Setup](https://design.withfudge.com/pin/8518) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)
+
+[![Standards - Project Setup](https://pin.fontofweb.com/8517?format=jpg)](https://design.withfudge.com/pin/8517)
+[Standards - Project Setup](https://design.withfudge.com/pin/8517) — [source page](https://app.standards.site/g/92e6788f43e/d/e6788f43ede/v/2e6788f43ed/setup)

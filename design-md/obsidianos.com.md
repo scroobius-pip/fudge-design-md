@@ -6,6 +6,10 @@ Source domain: [obsidianos.com](https://obsidianos.com)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8843
+-->
+
 Here is the visual system observed across **7 captured pages** from [obsidianos.com](https://obsidianos.com).
 
 ```fudge-colors
@@ -262,11 +266,24 @@ Here is the visual system observed across **7 captured pages** from [obsidianos.
 }
 ```
 
-## References
-- [Obsidian](https://design.withfudge.com/pin/8843) — [source page](https://obsidianos.com/pricing)
-- [Obsidian](https://design.withfudge.com/pin/8842) — [source page](https://obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8841) — [source page](https://obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8840) — [source page](https://obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8839) — [source page](https://obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8838) — [source page](https://obsidianos.com/)
-- [Obsidian](https://design.withfudge.com/pin/8837) — [source page](https://obsidianos.com/)
+## Representative captures
+[![Obsidian](https://pin.fontofweb.com/8843?format=jpg)](https://design.withfudge.com/pin/8843)
+[Obsidian](https://design.withfudge.com/pin/8843) — [source page](https://obsidianos.com/pricing)
+
+[![Obsidian](https://pin.fontofweb.com/8842?format=jpg)](https://design.withfudge.com/pin/8842)
+[Obsidian](https://design.withfudge.com/pin/8842) — [source page](https://obsidianos.com/)
+
+[![Obsidian](https://pin.fontofweb.com/8841?format=jpg)](https://design.withfudge.com/pin/8841)
+[Obsidian](https://design.withfudge.com/pin/8841) — [source page](https://obsidianos.com/)
+
+[![Obsidian](https://pin.fontofweb.com/8840?format=jpg)](https://design.withfudge.com/pin/8840)
+[Obsidian](https://design.withfudge.com/pin/8840) — [source page](https://obsidianos.com/)
+
+[![Obsidian](https://pin.fontofweb.com/8839?format=jpg)](https://design.withfudge.com/pin/8839)
+[Obsidian](https://design.withfudge.com/pin/8839) — [source page](https://obsidianos.com/)
+
+[![Obsidian](https://pin.fontofweb.com/8838?format=jpg)](https://design.withfudge.com/pin/8838)
+[Obsidian](https://design.withfudge.com/pin/8838) — [source page](https://obsidianos.com/)
+
+[![Obsidian](https://pin.fontofweb.com/8837?format=jpg)](https://design.withfudge.com/pin/8837)
+[Obsidian](https://design.withfudge.com/pin/8837) — [source page](https://obsidianos.com/)

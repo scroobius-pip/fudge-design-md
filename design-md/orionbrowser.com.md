@@ -6,6 +6,10 @@ Source domain: [orionbrowser.com](https://orionbrowser.com)
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10434
+-->
+
 Here is the visual system observed across **3 captured pages** from [orionbrowser.com](https://orionbrowser.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [orionbrowse
 }
 ```
 
-## References
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10434) — [source page](https://orionbrowser.com/)
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10433) — [source page](https://orionbrowser.com/)
-- [Orion Browser by Kagi](https://design.withfudge.com/pin/10432) — [source page](https://orionbrowser.com/)
+## Representative captures
+[![Orion Browser by Kagi](https://pin.fontofweb.com/10434?format=jpg)](https://design.withfudge.com/pin/10434)
+[Orion Browser by Kagi](https://design.withfudge.com/pin/10434) — [source page](https://orionbrowser.com/)
+
+[![Orion Browser by Kagi](https://pin.fontofweb.com/10433?format=jpg)](https://design.withfudge.com/pin/10433)
+[Orion Browser by Kagi](https://design.withfudge.com/pin/10433) — [source page](https://orionbrowser.com/)
+
+[![Orion Browser by Kagi](https://pin.fontofweb.com/10432?format=jpg)](https://design.withfudge.com/pin/10432)
+[Orion Browser by Kagi](https://design.withfudge.com/pin/10432) — [source page](https://orionbrowser.com/)

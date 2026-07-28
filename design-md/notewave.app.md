@@ -6,6 +6,10 @@ Source domain: [notewave.app](https://notewave.app)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6359
+-->
+
 Here is the visual system observed across **3 captured pages** from [notewave.app](https://notewave.app).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [notewave.ap
 }
 ```
 
-## References
-- [Feynman AI](https://design.withfudge.com/pin/6359) — [source page](https://notewave.app/)
-- [Feynman AI](https://design.withfudge.com/pin/6358) — [source page](https://notewave.app/)
-- [Feynman AI](https://design.withfudge.com/pin/6357) — [source page](https://notewave.app/)
+## Representative captures
+[![Feynman AI](https://pin.fontofweb.com/6359?format=jpg)](https://design.withfudge.com/pin/6359)
+[Feynman AI](https://design.withfudge.com/pin/6359) — [source page](https://notewave.app/)
+
+[![Feynman AI](https://pin.fontofweb.com/6358?format=jpg)](https://design.withfudge.com/pin/6358)
+[Feynman AI](https://design.withfudge.com/pin/6358) — [source page](https://notewave.app/)
+
+[![Feynman AI](https://pin.fontofweb.com/6357?format=jpg)](https://design.withfudge.com/pin/6357)
+[Feynman AI](https://design.withfudge.com/pin/6357) — [source page](https://notewave.app/)

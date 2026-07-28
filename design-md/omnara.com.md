@@ -6,6 +6,10 @@ Source domain: [omnara.com](https://omnara.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6453
+-->
+
 Here is the visual system observed across **1 captured page** from [omnara.com](https://omnara.com).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [omnara.com](
 }
 ```
 
-## References
-- [Omnara - Claude Code & Codex Mobile & Web Client](https://design.withfudge.com/pin/6453) — [source page](https://omnara.com/)
+## Representative captures
+[![Omnara - Claude Code & Codex Mobile & Web Client](https://pin.fontofweb.com/6453?format=jpg)](https://design.withfudge.com/pin/6453)
+[Omnara - Claude Code & Codex Mobile & Web Client](https://design.withfudge.com/pin/6453) — [source page](https://omnara.com/)

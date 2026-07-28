@@ -6,6 +6,10 @@ Source domain: [departuremono.com](https://departuremono.com)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9531
+-->
+
 Here is the visual system observed across **11 captured pages** from [departuremono.com](https://departuremono.com).
 
 ```fudge-colors
@@ -260,12 +264,27 @@ Here is the visual system observed across **11 captured pages** from [departurem
 }
 ```
 
-## References
-- [Departure Mono](https://design.withfudge.com/pin/9531) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/9530) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5064) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5063) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5062) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5061) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5060) — [source page](https://departuremono.com/)
-- [Departure Mono](https://design.withfudge.com/pin/5059) — [source page](https://departuremono.com/)
+## Representative captures
+[![Departure Mono](https://pin.fontofweb.com/9531?format=jpg)](https://design.withfudge.com/pin/9531)
+[Departure Mono](https://design.withfudge.com/pin/9531) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/9530?format=jpg)](https://design.withfudge.com/pin/9530)
+[Departure Mono](https://design.withfudge.com/pin/9530) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5064?format=jpg)](https://design.withfudge.com/pin/5064)
+[Departure Mono](https://design.withfudge.com/pin/5064) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5063?format=jpg)](https://design.withfudge.com/pin/5063)
+[Departure Mono](https://design.withfudge.com/pin/5063) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5062?format=jpg)](https://design.withfudge.com/pin/5062)
+[Departure Mono](https://design.withfudge.com/pin/5062) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5061?format=jpg)](https://design.withfudge.com/pin/5061)
+[Departure Mono](https://design.withfudge.com/pin/5061) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5060?format=jpg)](https://design.withfudge.com/pin/5060)
+[Departure Mono](https://design.withfudge.com/pin/5060) — [source page](https://departuremono.com/)
+
+[![Departure Mono](https://pin.fontofweb.com/5059?format=jpg)](https://design.withfudge.com/pin/5059)
+[Departure Mono](https://design.withfudge.com/pin/5059) — [source page](https://departuremono.com/)

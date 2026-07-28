@@ -6,6 +6,10 @@ Source domain: [pulsemcp.com](https://pulsemcp.com)
 
 Last updated: 2026-02-16
 
+<!--
+coverPin: 6606
+-->
+
 Here is the visual system observed across **2 captured pages** from [pulsemcp.com](https://pulsemcp.com).
 
 ```fudge-colors
@@ -131,6 +135,9 @@ Here is the visual system observed across **2 captured pages** from [pulsemcp.co
 }
 ```
 
-## References
-- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6606) — [source page](https://pulsemcp.com/clients)
-- [512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6605) — [source page](https://pulsemcp.com/clients)
+## Representative captures
+[![512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://pin.fontofweb.com/6606?format=jpg)](https://design.withfudge.com/pin/6606)
+[512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6606) — [source page](https://pulsemcp.com/clients)
+
+[![512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://pin.fontofweb.com/6605?format=jpg)](https://design.withfudge.com/pin/6605)
+[512 MCP Clients: AI-powered apps for MCP | PulseMCP](https://design.withfudge.com/pin/6605) — [source page](https://pulsemcp.com/clients)

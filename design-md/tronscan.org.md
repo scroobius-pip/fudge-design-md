@@ -6,6 +6,10 @@ Source domain: [tronscan.org](https://tronscan.org)
 
 Last updated: 2026-05-04
 
+<!--
+coverPin: 9186
+-->
+
 Here is the visual system observed across **2 captured pages** from [tronscan.org](https://tronscan.org).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [tronscan.or
 }
 ```
 
-## References
-- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9186) — [source page](https://tronscan.org/)
-- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9185) — [source page](https://tronscan.org/)
+## Representative captures
+[![TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://pin.fontofweb.com/9186?format=jpg)](https://design.withfudge.com/pin/9186)
+[TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9186) — [source page](https://tronscan.org/)
+
+[![TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://pin.fontofweb.com/9185?format=jpg)](https://design.withfudge.com/pin/9185)
+[TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://design.withfudge.com/pin/9185) — [source page](https://tronscan.org/)

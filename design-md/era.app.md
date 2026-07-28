@@ -6,6 +6,10 @@ Source domain: [era.app](https://era.app)
 
 Last updated: 2026-06-24
 
+<!--
+coverPin: 9760
+-->
+
 Here is the visual system observed across **14 captured pages** from [era.app](https://era.app).
 
 ```fudge-colors
@@ -349,12 +353,27 @@ Here is the visual system observed across **14 captured pages** from [era.app](h
 }
 ```
 
-## References
-- [Referrals — Era](https://design.withfudge.com/pin/9760) — [source page](https://era.app/en-US/app/referrals)
-- [Support — Era](https://design.withfudge.com/pin/9759) — [source page](https://era.app/en-US/app/support)
-- [MCP setup — Era](https://design.withfudge.com/pin/9758) — [source page](https://era.app/en-US/app/mcp-setup)
-- [Transactions — Era](https://design.withfudge.com/pin/9757) — [source page](https://era.app/en-US/app/transactions)
-- [Get started — Era](https://design.withfudge.com/pin/9756) — [source page](https://era.app/en-US/app)
-- [Get started — Era](https://design.withfudge.com/pin/9755) — [source page](https://era.app/en-US/app)
-- [Sign in — Era](https://design.withfudge.com/pin/9754) — [source page](https://era.app/en-US/sign-in)
-- [Pricing — Era](https://design.withfudge.com/pin/9753) — [source page](https://era.app/pricing)
+## Representative captures
+[![Referrals — Era](https://pin.fontofweb.com/9760?format=jpg)](https://design.withfudge.com/pin/9760)
+[Referrals — Era](https://design.withfudge.com/pin/9760) — [source page](https://era.app/en-US/app/referrals)
+
+[![Support — Era](https://pin.fontofweb.com/9759?format=jpg)](https://design.withfudge.com/pin/9759)
+[Support — Era](https://design.withfudge.com/pin/9759) — [source page](https://era.app/en-US/app/support)
+
+[![MCP setup — Era](https://pin.fontofweb.com/9758?format=jpg)](https://design.withfudge.com/pin/9758)
+[MCP setup — Era](https://design.withfudge.com/pin/9758) — [source page](https://era.app/en-US/app/mcp-setup)
+
+[![Transactions — Era](https://pin.fontofweb.com/9757?format=jpg)](https://design.withfudge.com/pin/9757)
+[Transactions — Era](https://design.withfudge.com/pin/9757) — [source page](https://era.app/en-US/app/transactions)
+
+[![Get started — Era](https://pin.fontofweb.com/9756?format=jpg)](https://design.withfudge.com/pin/9756)
+[Get started — Era](https://design.withfudge.com/pin/9756) — [source page](https://era.app/en-US/app)
+
+[![Get started — Era](https://pin.fontofweb.com/9755?format=jpg)](https://design.withfudge.com/pin/9755)
+[Get started — Era](https://design.withfudge.com/pin/9755) — [source page](https://era.app/en-US/app)
+
+[![Sign in — Era](https://pin.fontofweb.com/9754?format=jpg)](https://design.withfudge.com/pin/9754)
+[Sign in — Era](https://design.withfudge.com/pin/9754) — [source page](https://era.app/en-US/sign-in)
+
+[![Pricing — Era](https://pin.fontofweb.com/9753?format=jpg)](https://design.withfudge.com/pin/9753)
+[Pricing — Era](https://design.withfudge.com/pin/9753) — [source page](https://era.app/pricing)

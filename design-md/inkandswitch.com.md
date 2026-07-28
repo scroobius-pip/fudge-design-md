@@ -6,6 +6,10 @@ Source domain: [inkandswitch.com](https://inkandswitch.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8991
+-->
+
 Here is the visual system observed across **1 captured page** from [inkandswitch.com](https://inkandswitch.com).
 
 ```fudge-colors
@@ -89,5 +93,6 @@ Here is the visual system observed across **1 captured page** from [inkandswitch
 }
 ```
 
-## References
-- [Ink & Switch](https://design.withfudge.com/pin/8991) — [source page](https://inkandswitch.com/)
+## Representative captures
+[![Ink & Switch](https://pin.fontofweb.com/8991?format=jpg)](https://design.withfudge.com/pin/8991)
+[Ink & Switch](https://design.withfudge.com/pin/8991) — [source page](https://inkandswitch.com/)

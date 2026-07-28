@@ -6,6 +6,10 @@ Source domain: [chainlift.io](https://chainlift.io)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6347
+-->
+
 Here is the visual system observed across **3 captured pages** from [chainlift.io](https://chainlift.io).
 
 ```fudge-colors
@@ -138,7 +142,12 @@ Here is the visual system observed across **3 captured pages** from [chainlift.i
 }
 ```
 
-## References
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6347) — [source page](https://chainlift.io/liftkit)
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6346) — [source page](https://chainlift.io/liftkit)
-- [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6345) — [source page](https://chainlift.io/liftkit)
+## Representative captures
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6347?format=jpg)](https://design.withfudge.com/pin/6347)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6347) — [source page](https://chainlift.io/liftkit)
+
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6346?format=jpg)](https://design.withfudge.com/pin/6346)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6346) — [source page](https://chainlift.io/liftkit)
+
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6345?format=jpg)](https://design.withfudge.com/pin/6345)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/pin/6345) — [source page](https://chainlift.io/liftkit)

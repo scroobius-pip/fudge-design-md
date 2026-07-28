@@ -6,6 +6,10 @@ Source domain: [writewithspiral.com](https://writewithspiral.com)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8452
+-->
+
 Here is the visual system observed across **6 captured pages** from [writewithspiral.com](https://writewithspiral.com).
 
 ```fudge-colors
@@ -228,10 +232,21 @@ Here is the visual system observed across **6 captured pages** from [writewithsp
 }
 ```
 
-## References
-- [Spiral](https://design.withfudge.com/pin/8452) — [source page](https://writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8451) — [source page](https://writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8450) — [source page](https://writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8449) — [source page](https://writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8448) — [source page](https://writewithspiral.com/)
-- [Spiral](https://design.withfudge.com/pin/8447) — [source page](https://writewithspiral.com/)
+## Representative captures
+[![Spiral](https://pin.fontofweb.com/8452?format=jpg)](https://design.withfudge.com/pin/8452)
+[Spiral](https://design.withfudge.com/pin/8452) — [source page](https://writewithspiral.com/)
+
+[![Spiral](https://pin.fontofweb.com/8451?format=jpg)](https://design.withfudge.com/pin/8451)
+[Spiral](https://design.withfudge.com/pin/8451) — [source page](https://writewithspiral.com/)
+
+[![Spiral](https://pin.fontofweb.com/8450?format=jpg)](https://design.withfudge.com/pin/8450)
+[Spiral](https://design.withfudge.com/pin/8450) — [source page](https://writewithspiral.com/)
+
+[![Spiral](https://pin.fontofweb.com/8449?format=jpg)](https://design.withfudge.com/pin/8449)
+[Spiral](https://design.withfudge.com/pin/8449) — [source page](https://writewithspiral.com/)
+
+[![Spiral](https://pin.fontofweb.com/8448?format=jpg)](https://design.withfudge.com/pin/8448)
+[Spiral](https://design.withfudge.com/pin/8448) — [source page](https://writewithspiral.com/)
+
+[![Spiral](https://pin.fontofweb.com/8447?format=jpg)](https://design.withfudge.com/pin/8447)
+[Spiral](https://design.withfudge.com/pin/8447) — [source page](https://writewithspiral.com/)

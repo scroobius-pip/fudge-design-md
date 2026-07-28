@@ -6,6 +6,10 @@ Source domain: [modedesigns.com](https://modedesigns.com)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9123
+-->
+
 Here is the visual system observed across **14 captured pages** from [modedesigns.com](https://modedesigns.com).
 
 ```fudge-colors
@@ -362,12 +366,27 @@ Here is the visual system observed across **14 captured pages** from [modedesign
 }
 ```
 
-## References
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9123) — [source page](https://modedesigns.com/products/envoy)
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9122) — [source page](https://modedesigns.com/products/envoy)
-- [Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9121) — [source page](https://modedesigns.com/products/envoy)
-- [All – Mode Designs](https://design.withfudge.com/pin/9120) — [source page](https://modedesigns.com/collections/all)
-- [All – Mode Designs](https://design.withfudge.com/pin/9119) — [source page](https://modedesigns.com/collections/all)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9118) — [source page](https://modedesigns.com/)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9117) — [source page](https://modedesigns.com/)
-- [Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9116) — [source page](https://modedesigns.com/)
+## Representative captures
+[![Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://pin.fontofweb.com/9123?format=jpg)](https://design.withfudge.com/pin/9123)
+[Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9123) — [source page](https://modedesigns.com/products/envoy)
+
+[![Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://pin.fontofweb.com/9122?format=jpg)](https://design.withfudge.com/pin/9122)
+[Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9122) — [source page](https://modedesigns.com/products/envoy)
+
+[![Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://pin.fontofweb.com/9121?format=jpg)](https://design.withfudge.com/pin/9121)
+[Configure Your Envoy — 65% Mechanical Keyboard – Mode Designs](https://design.withfudge.com/pin/9121) — [source page](https://modedesigns.com/products/envoy)
+
+[![All – Mode Designs](https://pin.fontofweb.com/9120?format=jpg)](https://design.withfudge.com/pin/9120)
+[All – Mode Designs](https://design.withfudge.com/pin/9120) — [source page](https://modedesigns.com/collections/all)
+
+[![All – Mode Designs](https://pin.fontofweb.com/9119?format=jpg)](https://design.withfudge.com/pin/9119)
+[All – Mode Designs](https://design.withfudge.com/pin/9119) — [source page](https://modedesigns.com/collections/all)
+
+[![Mode Designs | Makers of mechanical keyboards](https://pin.fontofweb.com/9118?format=jpg)](https://design.withfudge.com/pin/9118)
+[Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9118) — [source page](https://modedesigns.com/)
+
+[![Mode Designs | Makers of mechanical keyboards](https://pin.fontofweb.com/9117?format=jpg)](https://design.withfudge.com/pin/9117)
+[Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9117) — [source page](https://modedesigns.com/)
+
+[![Mode Designs | Makers of mechanical keyboards](https://pin.fontofweb.com/9116?format=jpg)](https://design.withfudge.com/pin/9116)
+[Mode Designs | Makers of mechanical keyboards](https://design.withfudge.com/pin/9116) — [source page](https://modedesigns.com/)

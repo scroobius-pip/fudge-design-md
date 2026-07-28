@@ -6,6 +6,10 @@ Source domain: [windsurf.com](https://windsurf.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8877
+-->
+
 Here is the visual system observed across **13 captured pages** from [windsurf.com](https://windsurf.com).
 
 ```fudge-colors
@@ -371,12 +375,27 @@ Here is the visual system observed across **13 captured pages** from [windsurf.c
 }
 ```
 
-## References
-- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8877) — [source page](https://windsurf.com/download)
-- [Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8876) — [source page](https://windsurf.com/download)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8875) — [source page](https://windsurf.com/pricing)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8874) — [source page](https://windsurf.com/pricing)
-- [Pricing | Windsurf](https://design.withfudge.com/pin/8873) — [source page](https://windsurf.com/pricing)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8872) — [source page](https://windsurf.com/)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8871) — [source page](https://windsurf.com/)
-- [Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8870) — [source page](https://windsurf.com/)
+## Representative captures
+[![Download Windsurf Editor and Plugins | Windsurf](https://pin.fontofweb.com/8877?format=jpg)](https://design.withfudge.com/pin/8877)
+[Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8877) — [source page](https://windsurf.com/download)
+
+[![Download Windsurf Editor and Plugins | Windsurf](https://pin.fontofweb.com/8876?format=jpg)](https://design.withfudge.com/pin/8876)
+[Download Windsurf Editor and Plugins | Windsurf](https://design.withfudge.com/pin/8876) — [source page](https://windsurf.com/download)
+
+[![Pricing | Windsurf](https://pin.fontofweb.com/8875?format=jpg)](https://design.withfudge.com/pin/8875)
+[Pricing | Windsurf](https://design.withfudge.com/pin/8875) — [source page](https://windsurf.com/pricing)
+
+[![Pricing | Windsurf](https://pin.fontofweb.com/8874?format=jpg)](https://design.withfudge.com/pin/8874)
+[Pricing | Windsurf](https://design.withfudge.com/pin/8874) — [source page](https://windsurf.com/pricing)
+
+[![Pricing | Windsurf](https://pin.fontofweb.com/8873?format=jpg)](https://design.withfudge.com/pin/8873)
+[Pricing | Windsurf](https://design.withfudge.com/pin/8873) — [source page](https://windsurf.com/pricing)
+
+[![Windsurf - The best AI for Coding](https://pin.fontofweb.com/8872?format=jpg)](https://design.withfudge.com/pin/8872)
+[Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8872) — [source page](https://windsurf.com/)
+
+[![Windsurf - The best AI for Coding](https://pin.fontofweb.com/8871?format=jpg)](https://design.withfudge.com/pin/8871)
+[Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8871) — [source page](https://windsurf.com/)
+
+[![Windsurf - The best AI for Coding](https://pin.fontofweb.com/8870?format=jpg)](https://design.withfudge.com/pin/8870)
+[Windsurf - The best AI for Coding](https://design.withfudge.com/pin/8870) — [source page](https://windsurf.com/)

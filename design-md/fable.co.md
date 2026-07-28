@@ -6,6 +6,10 @@ Source domain: [fable.co](https://fable.co)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6898
+-->
+
 Here is the visual system observed across **14 captured pages** from [fable.co](https://fable.co).
 
 ```fudge-colors
@@ -315,12 +319,27 @@ Here is the visual system observed across **14 captured pages** from [fable.co](
 }
 ```
 
-## References
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6898) — [source page](https://fable.co/store)
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6896) — [source page](https://fable.co/store)
-- [Fable | Stories for everyone](https://design.withfudge.com/pin/6895) — [source page](https://fable.co/store)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6894) — [source page](https://fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6893) — [source page](https://fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6892) — [source page](https://fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6891) — [source page](https://fable.co/)
-- [Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/2208) — [source page](https://fable.co/)
+## Representative captures
+[![Fable | Stories for everyone](https://pin.fontofweb.com/6898?format=jpg)](https://design.withfudge.com/pin/6898)
+[Fable | Stories for everyone](https://design.withfudge.com/pin/6898) — [source page](https://fable.co/store)
+
+[![Fable | Stories for everyone](https://pin.fontofweb.com/6896?format=jpg)](https://design.withfudge.com/pin/6896)
+[Fable | Stories for everyone](https://design.withfudge.com/pin/6896) — [source page](https://fable.co/store)
+
+[![Fable | Stories for everyone](https://pin.fontofweb.com/6895?format=jpg)](https://design.withfudge.com/pin/6895)
+[Fable | Stories for everyone](https://design.withfudge.com/pin/6895) — [source page](https://fable.co/store)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6894?format=jpg)](https://design.withfudge.com/pin/6894)
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6894) — [source page](https://fable.co/)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6893?format=jpg)](https://design.withfudge.com/pin/6893)
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6893) — [source page](https://fable.co/)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6892?format=jpg)](https://design.withfudge.com/pin/6892)
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6892) — [source page](https://fable.co/)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6891?format=jpg)](https://design.withfudge.com/pin/6891)
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6891) — [source page](https://fable.co/)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/2208?format=jpg)](https://design.withfudge.com/pin/2208)
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/2208) — [source page](https://fable.co/)

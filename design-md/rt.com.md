@@ -6,6 +6,10 @@ Source domain: [rt.com](https://rt.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8998
+-->
+
 Here is the visual system observed across **2 captured pages** from [rt.com](https://rt.com).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [rt.com](htt
 }
 ```
 
-## References
-- [Trump announces new Iran talks, warns ‘no more Mr. Nice Guy’ — RT World News](https://design.withfudge.com/pin/8998) — [source page](https://rt.com/news/638713-trump-second-round-iran-talks/)
-- [RT - Breaking News, Russia News, World News and Video](https://design.withfudge.com/pin/8997) — [source page](https://rt.com/)
+## Representative captures
+[![Trump announces new Iran talks, warns ‘no more Mr. Nice Guy’ — RT World News](https://pin.fontofweb.com/8998?format=jpg)](https://design.withfudge.com/pin/8998)
+[Trump announces new Iran talks, warns ‘no more Mr. Nice Guy’ — RT World News](https://design.withfudge.com/pin/8998) — [source page](https://rt.com/news/638713-trump-second-round-iran-talks/)
+
+[![RT - Breaking News, Russia News, World News and Video](https://pin.fontofweb.com/8997?format=jpg)](https://design.withfudge.com/pin/8997)
+[RT - Breaking News, Russia News, World News and Video](https://design.withfudge.com/pin/8997) — [source page](https://rt.com/)

@@ -6,6 +6,10 @@ Source domain: [domoai.app](https://domoai.app)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7939
+-->
+
 Here is the visual system observed across **1 captured page** from [domoai.app](https://domoai.app).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [domoai.app](
 }
 ```
 
-## References
-- [Nano Banana Image Editor | Now on DomoAI](https://design.withfudge.com/pin/7939) — [source page](https://domoai.app/create/image-editing)
+## Representative captures
+[![Nano Banana Image Editor | Now on DomoAI](https://pin.fontofweb.com/7939?format=jpg)](https://design.withfudge.com/pin/7939)
+[Nano Banana Image Editor | Now on DomoAI](https://design.withfudge.com/pin/7939) — [source page](https://domoai.app/create/image-editing)

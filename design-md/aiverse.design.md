@@ -6,6 +6,10 @@ Source domain: [aiverse.design](https://aiverse.design)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8555
+-->
+
 Here is the visual system observed across **8 captured pages** from [aiverse.design](https://aiverse.design).
 
 ```fudge-colors
@@ -241,12 +245,27 @@ Here is the visual system observed across **8 captured pages** from [aiverse.des
 }
 ```
 
-## References
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/8555) — [source page](https://aiverse.design/)
-- [Patterns](https://design.withfudge.com/pin/7291) — [source page](https://aiverse.design/patterns)
-- [Patterns](https://design.withfudge.com/pin/7290) — [source page](https://aiverse.design/patterns)
-- [Patterns](https://design.withfudge.com/pin/7289) — [source page](https://aiverse.design/patterns)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7288) — [source page](https://aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7287) — [source page](https://aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7286) — [source page](https://aiverse.design/)
-- [aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7285) — [source page](https://aiverse.design/)
+## Representative captures
+[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/8555?format=jpg)](https://design.withfudge.com/pin/8555)
+[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/8555) — [source page](https://aiverse.design/)
+
+[![Patterns](https://pin.fontofweb.com/7291?format=jpg)](https://design.withfudge.com/pin/7291)
+[Patterns](https://design.withfudge.com/pin/7291) — [source page](https://aiverse.design/patterns)
+
+[![Patterns](https://pin.fontofweb.com/7290?format=jpg)](https://design.withfudge.com/pin/7290)
+[Patterns](https://design.withfudge.com/pin/7290) — [source page](https://aiverse.design/patterns)
+
+[![Patterns](https://pin.fontofweb.com/7289?format=jpg)](https://design.withfudge.com/pin/7289)
+[Patterns](https://design.withfudge.com/pin/7289) — [source page](https://aiverse.design/patterns)
+
+[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7288?format=jpg)](https://design.withfudge.com/pin/7288)
+[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7288) — [source page](https://aiverse.design/)
+
+[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7287?format=jpg)](https://design.withfudge.com/pin/7287)
+[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7287) — [source page](https://aiverse.design/)
+
+[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7286?format=jpg)](https://design.withfudge.com/pin/7286)
+[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7286) — [source page](https://aiverse.design/)
+
+[![aiverse • Playbook for designing AI products](https://pin.fontofweb.com/7285?format=jpg)](https://design.withfudge.com/pin/7285)
+[aiverse • Playbook for designing AI products](https://design.withfudge.com/pin/7285) — [source page](https://aiverse.design/)

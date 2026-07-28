@@ -6,6 +6,10 @@ Source domain: [archive.ph](https://archive.ph)
 
 Last updated: 2026-05-09
 
+<!--
+coverPin: 9216
+-->
+
 Here is the visual system observed across **1 captured page** from [archive.ph](https://archive.ph).
 
 ```fudge-colors
@@ -104,5 +108,6 @@ Here is the visual system observed across **1 captured page** from [archive.ph](
 }
 ```
 
-## References
-- [When Dawkins met Claude - UnHerd](https://design.withfudge.com/pin/9216) — [source page](https://archive.ph/2026.05.03-112644/https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/)
+## Representative captures
+[![When Dawkins met Claude - UnHerd](https://pin.fontofweb.com/9216?format=jpg)](https://design.withfudge.com/pin/9216)
+[When Dawkins met Claude - UnHerd](https://design.withfudge.com/pin/9216) — [source page](https://archive.ph/2026.05.03-112644/https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/)

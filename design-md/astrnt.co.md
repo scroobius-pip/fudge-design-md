@@ -6,6 +6,10 @@ Source domain: [astrnt.co](https://astrnt.co)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8774
+-->
+
 Here is the visual system observed across **2 captured pages** from [astrnt.co](https://astrnt.co).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [astrnt.co](
 }
 ```
 
-## References
-- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8774) — [source page](https://astrnt.co/)
-- [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8773) — [source page](https://astrnt.co/)
+## Representative captures
+[![ASTRNT – Transforming Hiring and Admissions](https://pin.fontofweb.com/8774?format=jpg)](https://design.withfudge.com/pin/8774)
+[ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8774) — [source page](https://astrnt.co/)
+
+[![ASTRNT – Transforming Hiring and Admissions](https://pin.fontofweb.com/8773?format=jpg)](https://design.withfudge.com/pin/8773)
+[ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/pin/8773) — [source page](https://astrnt.co/)

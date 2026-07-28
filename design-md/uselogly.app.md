@@ -6,6 +6,10 @@ Source domain: [uselogly.app](https://uselogly.app)
 
 Last updated: 2026-02-21
 
+<!--
+coverPin: 6915
+-->
+
 Here is the visual system observed across **7 captured pages** from [uselogly.app](https://uselogly.app).
 
 ```fudge-colors
@@ -224,11 +228,24 @@ Here is the visual system observed across **7 captured pages** from [uselogly.ap
 }
 ```
 
-## References
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6915) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6914) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6913) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6912) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6911) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6910) — [source page](https://uselogly.app/)
-- [Logly - The effortless food journal.](https://design.withfudge.com/pin/6909) — [source page](https://uselogly.app/)
+## Representative captures
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6915?format=jpg)](https://design.withfudge.com/pin/6915)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6915) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6914?format=jpg)](https://design.withfudge.com/pin/6914)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6914) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6913?format=jpg)](https://design.withfudge.com/pin/6913)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6913) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6912?format=jpg)](https://design.withfudge.com/pin/6912)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6912) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6911?format=jpg)](https://design.withfudge.com/pin/6911)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6911) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6910?format=jpg)](https://design.withfudge.com/pin/6910)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6910) — [source page](https://uselogly.app/)
+
+[![Logly - The effortless food journal.](https://pin.fontofweb.com/6909?format=jpg)](https://design.withfudge.com/pin/6909)
+[Logly - The effortless food journal.](https://design.withfudge.com/pin/6909) — [source page](https://uselogly.app/)

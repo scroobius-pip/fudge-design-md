@@ -6,6 +6,10 @@ Source domain: [llmrefs.com](https://llmrefs.com)
 
 Last updated: 2026-02-04
 
+<!--
+coverPin: 6281
+-->
+
 Here is the visual system observed across **3 captured pages** from [llmrefs.com](https://llmrefs.com).
 
 ```fudge-colors
@@ -125,7 +129,12 @@ Here is the visual system observed across **3 captured pages** from [llmrefs.com
 }
 ```
 
-## References
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6281) — [source page](https://llmrefs.com/)
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6280) — [source page](https://llmrefs.com/)
-- [Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6279) — [source page](https://llmrefs.com/)
+## Representative captures
+[![Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://pin.fontofweb.com/6281?format=jpg)](https://design.withfudge.com/pin/6281)
+[Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6281) — [source page](https://llmrefs.com/)
+
+[![Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://pin.fontofweb.com/6280?format=jpg)](https://design.withfudge.com/pin/6280)
+[Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6280) — [source page](https://llmrefs.com/)
+
+[![Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://pin.fontofweb.com/6279?format=jpg)](https://design.withfudge.com/pin/6279)
+[Free LLMs.txt Generator Online - AI SEO Tool - LLMrefs](https://design.withfudge.com/pin/6279) — [source page](https://llmrefs.com/)

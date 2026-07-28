@@ -6,6 +6,10 @@ Source domain: [app.cofounder.co](https://app.cofounder.co)
 
 Last updated: 2026-03-18
 
+<!--
+coverPin: 8172
+-->
+
 Here is the visual system observed across **1 captured page** from [app.cofounder.co](https://app.cofounder.co).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [app.cofounde
 }
 ```
 
-## References
-- [Cofounder](https://design.withfudge.com/pin/8172) — [source page](https://app.cofounder.co/login)
+## Representative captures
+[![Cofounder](https://pin.fontofweb.com/8172?format=jpg)](https://design.withfudge.com/pin/8172)
+[Cofounder](https://design.withfudge.com/pin/8172) — [source page](https://app.cofounder.co/login)

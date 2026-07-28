@@ -6,6 +6,10 @@ Source domain: [reader.sparx-learning.com](https://reader.sparx-learning.com)
 
 Last updated: 2026-03-02
 
+<!--
+coverPin: 7606
+-->
+
 Here is the visual system observed across **1 captured page** from [reader.sparx-learning.com](https://reader.sparx-learning.com).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [reader.sparx
 }
 ```
 
-## References
-- [Love & Gelato - Sparx Reader](https://design.withfudge.com/pin/7606) — [source page](https://reader.sparx-learning.com/task)
+## Representative captures
+[![Love & Gelato - Sparx Reader](https://pin.fontofweb.com/7606?format=jpg)](https://design.withfudge.com/pin/7606)
+[Love & Gelato - Sparx Reader](https://design.withfudge.com/pin/7606) — [source page](https://reader.sparx-learning.com/task)

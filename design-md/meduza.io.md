@@ -6,6 +6,10 @@ Source domain: [meduza.io](https://meduza.io)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9073
+-->
+
 Here is the visual system observed across **4 captured pages** from [meduza.io](https://meduza.io).
 
 ```fudge-colors
@@ -175,8 +179,15 @@ Here is the visual system observed across **4 captured pages** from [meduza.io](
 }
 ```
 
-## References
-- [У меня не работает VPN на телефоне. Что делать? Не паникуйте: есть много способов это починить. А иногда нужно просто подождать! — Meduza](https://design.withfudge.com/pin/9073) — [source page](https://meduza.io/feature/2026/04/11/u-menya-ne-rabotaet-vpn-na-telefone-chto-delat)
-- [«Майкл» Антуана Фукуа — байопик Майкла Джексона, больше похожий на житие святого. Авторы не собирались замалчивать обвинения против певца, но вмешались наследники — Meduza](https://design.withfudge.com/pin/9072) — [source page](https://meduza.io/feature/2026/04/25/maykl-antuana-fukua-bayopik-maykla-dzheksona-bolshe-pohozhiy-na-zhitie-svyatogo)
-- [Каждый раз, когда «Медуза» была в одном шаге от закрытия, нас спасали читатели. Нам снова нужна ваша помощь! — Meduza](https://design.withfudge.com/pin/9071) — [source page](https://meduza.io/feature/2026/04/24/kazhdyy-raz-kogda-meduza-byla-v-odnom-shage-ot-zakrytiya-nas-spasali-chitateli-nam-snova-nuzhna-vasha-pomosch)
-- [На юге России опять экологическая катастрофа, на этот раз — из-за войны. Нефтяной дождь покрыл сажей весь Туапсе. В городе трудно дышать. Вот что там происходит — Meduza](https://design.withfudge.com/pin/9070) — [source page](https://meduza.io/feature/2026/04/26/na-yuge-rossii-ocherednaya-ekologicheskaya-katastrofa-na-etot-raz-iz-za-voyny-neftyanoy-dozhd-posle-ataki-dronov-na-port-ispachkal-sazhey-ves-tuapse-plyazhi-v-nefti-v-gorode-trudno-dyshat)
+## Representative captures
+[![У меня не работает VPN на телефоне. Что делать? Не паникуйте: есть много способов это починить. А иногда нужно просто подождать! — Meduza](https://pin.fontofweb.com/9073?format=jpg)](https://design.withfudge.com/pin/9073)
+[У меня не работает VPN на телефоне. Что делать? Не паникуйте: есть много способов это починить. А иногда нужно просто подождать! — Meduza](https://design.withfudge.com/pin/9073) — [source page](https://meduza.io/feature/2026/04/11/u-menya-ne-rabotaet-vpn-na-telefone-chto-delat)
+
+[![«Майкл» Антуана Фукуа — байопик Майкла Джексона, больше похожий на житие святого. Авторы не собирались замалчивать обвинения против певца, но вмешались наследники — Meduza](https://pin.fontofweb.com/9072?format=jpg)](https://design.withfudge.com/pin/9072)
+[«Майкл» Антуана Фукуа — байопик Майкла Джексона, больше похожий на житие святого. Авторы не собирались замалчивать обвинения против певца, но вмешались наследники — Meduza](https://design.withfudge.com/pin/9072) — [source page](https://meduza.io/feature/2026/04/25/maykl-antuana-fukua-bayopik-maykla-dzheksona-bolshe-pohozhiy-na-zhitie-svyatogo)
+
+[![Каждый раз, когда «Медуза» была в одном шаге от закрытия, нас спасали читатели. Нам снова нужна ваша помощь! — Meduza](https://pin.fontofweb.com/9071?format=jpg)](https://design.withfudge.com/pin/9071)
+[Каждый раз, когда «Медуза» была в одном шаге от закрытия, нас спасали читатели. Нам снова нужна ваша помощь! — Meduza](https://design.withfudge.com/pin/9071) — [source page](https://meduza.io/feature/2026/04/24/kazhdyy-raz-kogda-meduza-byla-v-odnom-shage-ot-zakrytiya-nas-spasali-chitateli-nam-snova-nuzhna-vasha-pomosch)
+
+[![На юге России опять экологическая катастрофа, на этот раз — из-за войны. Нефтяной дождь покрыл сажей весь Туапсе. В городе трудно дышать. Вот что там происходит — Meduza](https://pin.fontofweb.com/9070?format=jpg)](https://design.withfudge.com/pin/9070)
+[На юге России опять экологическая катастрофа, на этот раз — из-за войны. Нефтяной дождь покрыл сажей весь Туапсе. В городе трудно дышать. Вот что там происходит — Meduza](https://design.withfudge.com/pin/9070) — [source page](https://meduza.io/feature/2026/04/26/na-yuge-rossii-ocherednaya-ekologicheskaya-katastrofa-na-etot-raz-iz-za-voyny-neftyanoy-dozhd-posle-ataki-dronov-na-port-ispachkal-sazhey-ves-tuapse-plyazhi-v-nefti-v-gorode-trudno-dyshat)

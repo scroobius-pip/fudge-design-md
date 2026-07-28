@@ -6,6 +6,10 @@ Source domain: [nvg8.io](https://nvg8.io)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8491
+-->
+
 Here is the visual system observed across **37 captured pages** from [nvg8.io](https://nvg8.io).
 
 ```fudge-colors
@@ -328,12 +332,27 @@ Here is the visual system observed across **37 captured pages** from [nvg8.io](h
 }
 ```
 
-## References
-- [Navigate](https://design.withfudge.com/pin/8491) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8490) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8489) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8488) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/8487) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6542) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6541) — [source page](https://nvg8.io/)
-- [Navigate](https://design.withfudge.com/pin/6540) — [source page](https://nvg8.io/)
+## Representative captures
+[![Navigate](https://pin.fontofweb.com/8491?format=jpg)](https://design.withfudge.com/pin/8491)
+[Navigate](https://design.withfudge.com/pin/8491) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/8490?format=jpg)](https://design.withfudge.com/pin/8490)
+[Navigate](https://design.withfudge.com/pin/8490) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/8489?format=jpg)](https://design.withfudge.com/pin/8489)
+[Navigate](https://design.withfudge.com/pin/8489) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/8488?format=jpg)](https://design.withfudge.com/pin/8488)
+[Navigate](https://design.withfudge.com/pin/8488) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/8487?format=jpg)](https://design.withfudge.com/pin/8487)
+[Navigate](https://design.withfudge.com/pin/8487) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/6542?format=jpg)](https://design.withfudge.com/pin/6542)
+[Navigate](https://design.withfudge.com/pin/6542) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/6541?format=jpg)](https://design.withfudge.com/pin/6541)
+[Navigate](https://design.withfudge.com/pin/6541) — [source page](https://nvg8.io/)
+
+[![Navigate](https://pin.fontofweb.com/6540?format=jpg)](https://design.withfudge.com/pin/6540)
+[Navigate](https://design.withfudge.com/pin/6540) — [source page](https://nvg8.io/)

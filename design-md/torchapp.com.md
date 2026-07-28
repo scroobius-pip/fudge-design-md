@@ -6,6 +6,10 @@ Source domain: [torchapp.com](https://torchapp.com)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6949
+-->
+
 Here is the visual system observed across **1 captured page** from [torchapp.com](https://torchapp.com).
 
 ```fudge-colors
@@ -118,5 +122,6 @@ Here is the visual system observed across **1 captured page** from [torchapp.com
 }
 ```
 
-## References
-- [Torch - Track Medical Records](https://design.withfudge.com/pin/6949) — [source page](https://torchapp.com/)
+## Representative captures
+[![Torch - Track Medical Records](https://pin.fontofweb.com/6949?format=jpg)](https://design.withfudge.com/pin/6949)
+[Torch - Track Medical Records](https://design.withfudge.com/pin/6949) — [source page](https://torchapp.com/)

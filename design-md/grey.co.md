@@ -6,6 +6,10 @@ Source domain: [grey.co](https://grey.co)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6725
+-->
+
 Here is the visual system observed across **7 captured pages** from [grey.co](https://grey.co).
 
 ```fudge-colors
@@ -207,11 +211,24 @@ Here is the visual system observed across **7 captured pages** from [grey.co](ht
 }
 ```
 
-## References
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6725) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6724) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6723) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6722) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6721) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6720) — [source page](https://grey.co/)
-- [Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6719) — [source page](https://grey.co/)
+## Representative captures
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6725?format=jpg)](https://design.withfudge.com/pin/6725)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6725) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6724?format=jpg)](https://design.withfudge.com/pin/6724)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6724) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6723?format=jpg)](https://design.withfudge.com/pin/6723)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6723) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6722?format=jpg)](https://design.withfudge.com/pin/6722)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6722) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6721?format=jpg)](https://design.withfudge.com/pin/6721)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6721) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6720?format=jpg)](https://design.withfudge.com/pin/6720)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6720) — [source page](https://grey.co/)
+
+[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6719?format=jpg)](https://design.withfudge.com/pin/6719)
+[Inclusive global banking designed just for you.](https://design.withfudge.com/pin/6719) — [source page](https://grey.co/)

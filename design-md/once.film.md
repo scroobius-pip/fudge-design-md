@@ -6,6 +6,10 @@ Source domain: [once.film](https://once.film)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9340
+-->
+
 Here is the visual system observed across **11 captured pages** from [once.film](https://once.film).
 
 ```fudge-colors
@@ -364,12 +368,27 @@ Here is the visual system observed across **11 captured pages** from [once.film]
 }
 ```
 
-## References
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9340) — [source page](https://once.film/wedding)
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9339) — [source page](https://once.film/wedding)
-- [Wedding Disposable Camera App](https://design.withfudge.com/pin/9338) — [source page](https://once.film/wedding)
-- [Simple One Time Pricing](https://design.withfudge.com/pin/9337) — [source page](https://once.film/pricing)
-- [Simple One Time Pricing](https://design.withfudge.com/pin/9336) — [source page](https://once.film/pricing)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9335) — [source page](https://once.film/)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9334) — [source page](https://once.film/)
-- [Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9333) — [source page](https://once.film/)
+## Representative captures
+[![Wedding Disposable Camera App](https://pin.fontofweb.com/9340?format=jpg)](https://design.withfudge.com/pin/9340)
+[Wedding Disposable Camera App](https://design.withfudge.com/pin/9340) — [source page](https://once.film/wedding)
+
+[![Wedding Disposable Camera App](https://pin.fontofweb.com/9339?format=jpg)](https://design.withfudge.com/pin/9339)
+[Wedding Disposable Camera App](https://design.withfudge.com/pin/9339) — [source page](https://once.film/wedding)
+
+[![Wedding Disposable Camera App](https://pin.fontofweb.com/9338?format=jpg)](https://design.withfudge.com/pin/9338)
+[Wedding Disposable Camera App](https://design.withfudge.com/pin/9338) — [source page](https://once.film/wedding)
+
+[![Simple One Time Pricing](https://pin.fontofweb.com/9337?format=jpg)](https://design.withfudge.com/pin/9337)
+[Simple One Time Pricing](https://design.withfudge.com/pin/9337) — [source page](https://once.film/pricing)
+
+[![Simple One Time Pricing](https://pin.fontofweb.com/9336?format=jpg)](https://design.withfudge.com/pin/9336)
+[Simple One Time Pricing](https://design.withfudge.com/pin/9336) — [source page](https://once.film/pricing)
+
+[![Once: Disposable Camera for Your Precious Moment](https://pin.fontofweb.com/9335?format=jpg)](https://design.withfudge.com/pin/9335)
+[Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9335) — [source page](https://once.film/)
+
+[![Once: Disposable Camera for Your Precious Moment](https://pin.fontofweb.com/9334?format=jpg)](https://design.withfudge.com/pin/9334)
+[Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9334) — [source page](https://once.film/)
+
+[![Once: Disposable Camera for Your Precious Moment](https://pin.fontofweb.com/9333?format=jpg)](https://design.withfudge.com/pin/9333)
+[Once: Disposable Camera for Your Precious Moment](https://design.withfudge.com/pin/9333) — [source page](https://once.film/)

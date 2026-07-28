@@ -6,6 +6,10 @@ Source domain: [cognee.ai](https://cognee.ai)
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10429
+-->
+
 Here is the visual system observed across **5 captured pages** from [cognee.ai](https://cognee.ai).
 
 ```fudge-colors
@@ -195,9 +199,18 @@ Here is the visual system observed across **5 captured pages** from [cognee.ai](
 }
 ```
 
-## References
-- [Pricing | Cognee - AI Memory Engine Plans](https://design.withfudge.com/pin/10429) — [source page](https://cognee.ai/pricing)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10428) — [source page](https://cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10427) — [source page](https://cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10426) — [source page](https://cognee.ai/)
-- [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10425) — [source page](https://cognee.ai/)
+## Representative captures
+[![Pricing | Cognee - AI Memory Engine Plans](https://pin.fontofweb.com/10429?format=jpg)](https://design.withfudge.com/pin/10429)
+[Pricing | Cognee - AI Memory Engine Plans](https://design.withfudge.com/pin/10429) — [source page](https://cognee.ai/pricing)
+
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10428?format=jpg)](https://design.withfudge.com/pin/10428)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10428) — [source page](https://cognee.ai/)
+
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10427?format=jpg)](https://design.withfudge.com/pin/10427)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10427) — [source page](https://cognee.ai/)
+
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10426?format=jpg)](https://design.withfudge.com/pin/10426)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10426) — [source page](https://cognee.ai/)
+
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10425?format=jpg)](https://design.withfudge.com/pin/10425)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/pin/10425) — [source page](https://cognee.ai/)

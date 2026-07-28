@@ -6,6 +6,10 @@ Source domain: [juno.build](https://juno.build)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7237
+-->
+
 Here is the visual system observed across **8 captured pages** from [juno.build](https://juno.build).
 
 ```fudge-colors
@@ -228,12 +232,27 @@ Here is the visual system observed across **8 captured pages** from [juno.build]
 }
 ```
 
-## References
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7237) — [source page](https://juno.build/)
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7236) — [source page](https://juno.build/)
-- [Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7235) — [source page](https://juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3436) — [source page](https://juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3435) — [source page](https://juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3434) — [source page](https://juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3433) — [source page](https://juno.build/)
-- [Juno | Run ideas in your container](https://design.withfudge.com/pin/3432) — [source page](https://juno.build/)
+## Representative captures
+[![Juno | Build serverless apps with self-hosting control](https://pin.fontofweb.com/7237?format=jpg)](https://design.withfudge.com/pin/7237)
+[Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7237) — [source page](https://juno.build/)
+
+[![Juno | Build serverless apps with self-hosting control](https://pin.fontofweb.com/7236?format=jpg)](https://design.withfudge.com/pin/7236)
+[Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7236) — [source page](https://juno.build/)
+
+[![Juno | Build serverless apps with self-hosting control](https://pin.fontofweb.com/7235?format=jpg)](https://design.withfudge.com/pin/7235)
+[Juno | Build serverless apps with self-hosting control](https://design.withfudge.com/pin/7235) — [source page](https://juno.build/)
+
+[![Juno | Run ideas in your container](https://pin.fontofweb.com/3436?format=jpg)](https://design.withfudge.com/pin/3436)
+[Juno | Run ideas in your container](https://design.withfudge.com/pin/3436) — [source page](https://juno.build/)
+
+[![Juno | Run ideas in your container](https://pin.fontofweb.com/3435?format=jpg)](https://design.withfudge.com/pin/3435)
+[Juno | Run ideas in your container](https://design.withfudge.com/pin/3435) — [source page](https://juno.build/)
+
+[![Juno | Run ideas in your container](https://pin.fontofweb.com/3434?format=jpg)](https://design.withfudge.com/pin/3434)
+[Juno | Run ideas in your container](https://design.withfudge.com/pin/3434) — [source page](https://juno.build/)
+
+[![Juno | Run ideas in your container](https://pin.fontofweb.com/3433?format=jpg)](https://design.withfudge.com/pin/3433)
+[Juno | Run ideas in your container](https://design.withfudge.com/pin/3433) — [source page](https://juno.build/)
+
+[![Juno | Run ideas in your container](https://pin.fontofweb.com/3432?format=jpg)](https://design.withfudge.com/pin/3432)
+[Juno | Run ideas in your container](https://design.withfudge.com/pin/3432) — [source page](https://juno.build/)

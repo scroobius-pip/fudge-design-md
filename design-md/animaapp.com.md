@@ -6,6 +6,10 @@ Source domain: [animaapp.com](https://animaapp.com)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5953
+-->
+
 Here is the visual system observed across **2 captured pages** from [animaapp.com](https://animaapp.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [animaapp.co
 }
 ```
 
-## References
-- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5953) — [source page](https://animaapp.com/)
-- [Anima: the UX Design Agent](https://design.withfudge.com/pin/5951) — [source page](https://animaapp.com/)
+## Representative captures
+[![Anima: the UX Design Agent](https://pin.fontofweb.com/5953?format=jpg)](https://design.withfudge.com/pin/5953)
+[Anima: the UX Design Agent](https://design.withfudge.com/pin/5953) — [source page](https://animaapp.com/)
+
+[![Anima: the UX Design Agent](https://pin.fontofweb.com/5951?format=jpg)](https://design.withfudge.com/pin/5951)
+[Anima: the UX Design Agent](https://design.withfudge.com/pin/5951) — [source page](https://animaapp.com/)

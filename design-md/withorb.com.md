@@ -6,6 +6,10 @@ Source domain: [withorb.com](https://withorb.com)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7991
+-->
+
 Here is the visual system observed across **1 captured page** from [withorb.com](https://withorb.com).
 
 ```fudge-colors
@@ -103,5 +107,6 @@ Here is the visual system observed across **1 captured page** from [withorb.com]
 }
 ```
 
-## References
-- [Orb | The revenue design company](https://design.withfudge.com/pin/7991) — [source page](https://withorb.com/)
+## Representative captures
+[![Orb | The revenue design company](https://pin.fontofweb.com/7991?format=jpg)](https://design.withfudge.com/pin/7991)
+[Orb | The revenue design company](https://design.withfudge.com/pin/7991) — [source page](https://withorb.com/)

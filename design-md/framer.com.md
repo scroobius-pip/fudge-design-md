@@ -6,6 +6,10 @@ Source domain: [framer.com](https://framer.com)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10163
+-->
+
 Here is the visual system observed across **57 captured pages** from [framer.com](https://framer.com).
 
 ```fudge-colors
@@ -415,12 +419,27 @@ Here is the visual system observed across **57 captured pages** from [framer.com
 }
 ```
 
-## References
-- [Framer: AI website editor for site updates](https://design.withfudge.com/pin/10163) — [source page](https://framer.com/agents/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10162) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10161) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10160) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10159) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10158) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10157) — [source page](https://framer.com/)
-- [Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10156) — [source page](https://framer.com/)
+## Representative captures
+[![Framer: AI website editor for site updates](https://pin.fontofweb.com/10163?format=jpg)](https://design.withfudge.com/pin/10163)
+[Framer: AI website editor for site updates](https://design.withfudge.com/pin/10163) — [source page](https://framer.com/agents/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10162?format=jpg)](https://design.withfudge.com/pin/10162)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10162) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10161?format=jpg)](https://design.withfudge.com/pin/10161)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10161) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10160?format=jpg)](https://design.withfudge.com/pin/10160)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10160) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10159?format=jpg)](https://design.withfudge.com/pin/10159)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10159) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10158?format=jpg)](https://design.withfudge.com/pin/10158)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10158) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10157?format=jpg)](https://design.withfudge.com/pin/10157)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10157) — [source page](https://framer.com/)
+
+[![Framer: AI website builder for professional sites](https://pin.fontofweb.com/10156?format=jpg)](https://design.withfudge.com/pin/10156)
+[Framer: AI website builder for professional sites](https://design.withfudge.com/pin/10156) — [source page](https://framer.com/)

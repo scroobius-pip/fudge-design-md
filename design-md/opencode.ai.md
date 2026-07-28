@@ -6,6 +6,10 @@ Source domain: [opencode.ai](https://opencode.ai)
 
 Last updated: 2026-02-03
 
+<!--
+coverPin: 6260
+-->
+
 Here is the visual system observed across **8 captured pages** from [opencode.ai](https://opencode.ai).
 
 ```fudge-colors
@@ -221,12 +225,27 @@ Here is the visual system observed across **8 captured pages** from [opencode.ai
 }
 ```
 
-## References
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6260) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6176) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6175) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6174) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6173) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6172) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6171) — [source page](https://opencode.ai/)
-- [OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6170) — [source page](https://opencode.ai/)
+## Representative captures
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6260?format=jpg)](https://design.withfudge.com/pin/6260)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6260) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6176?format=jpg)](https://design.withfudge.com/pin/6176)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6176) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6175?format=jpg)](https://design.withfudge.com/pin/6175)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6175) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6174?format=jpg)](https://design.withfudge.com/pin/6174)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6174) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6173?format=jpg)](https://design.withfudge.com/pin/6173)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6173) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6172?format=jpg)](https://design.withfudge.com/pin/6172)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6172) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6171?format=jpg)](https://design.withfudge.com/pin/6171)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6171) — [source page](https://opencode.ai/)
+
+[![OpenCode | The open source AI coding agent](https://pin.fontofweb.com/6170?format=jpg)](https://design.withfudge.com/pin/6170)
+[OpenCode | The open source AI coding agent](https://design.withfudge.com/pin/6170) — [source page](https://opencode.ai/)

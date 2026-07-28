@@ -6,6 +6,10 @@ Source domain: [kapa.ai](https://kapa.ai)
 
 Last updated: 2026-06-04
 
+<!--
+coverPin: 9502
+-->
+
 Here is the visual system observed across **6 captured pages** from [kapa.ai](https://kapa.ai).
 
 ```fudge-colors
@@ -233,10 +237,21 @@ Here is the visual system observed across **6 captured pages** from [kapa.ai](ht
 }
 ```
 
-## References
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9502) — [source page](https://kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9501) — [source page](https://kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9500) — [source page](https://kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9499) — [source page](https://kapa.ai/)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9498) — [source page](https://kapa.ai/request-demo)
-- [kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9497) — [source page](https://kapa.ai/)
+## Representative captures
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9502?format=jpg)](https://design.withfudge.com/pin/9502)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9502) — [source page](https://kapa.ai/)
+
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9501?format=jpg)](https://design.withfudge.com/pin/9501)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9501) — [source page](https://kapa.ai/)
+
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9500?format=jpg)](https://design.withfudge.com/pin/9500)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9500) — [source page](https://kapa.ai/)
+
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9499?format=jpg)](https://design.withfudge.com/pin/9499)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9499) — [source page](https://kapa.ai/)
+
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9498?format=jpg)](https://design.withfudge.com/pin/9498)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9498) — [source page](https://kapa.ai/request-demo)
+
+[![kapa.ai - AI Assistant for Technical Documentation](https://pin.fontofweb.com/9497?format=jpg)](https://design.withfudge.com/pin/9497)
+[kapa.ai - AI Assistant for Technical Documentation](https://design.withfudge.com/pin/9497) — [source page](https://kapa.ai/)

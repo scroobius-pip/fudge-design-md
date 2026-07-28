@@ -6,6 +6,10 @@ Source domain: [dashboard.exa.ai](https://dashboard.exa.ai)
 
 Last updated: 2026-05-23
 
+<!--
+coverPin: 9452
+-->
+
 Here is the visual system observed across **2 captured pages** from [dashboard.exa.ai](https://dashboard.exa.ai).
 
 ```fudge-colors
@@ -157,6 +161,9 @@ Here is the visual system observed across **2 captured pages** from [dashboard.e
 }
 ```
 
-## References
-- [Home | Exa API](https://design.withfudge.com/pin/9452) — [source page](https://dashboard.exa.ai/home)
-- [API Keys | Exa API](https://design.withfudge.com/pin/9451) — [source page](https://dashboard.exa.ai/api-keys)
+## Representative captures
+[![Home | Exa API](https://pin.fontofweb.com/9452?format=jpg)](https://design.withfudge.com/pin/9452)
+[Home | Exa API](https://design.withfudge.com/pin/9452) — [source page](https://dashboard.exa.ai/home)
+
+[![API Keys | Exa API](https://pin.fontofweb.com/9451?format=jpg)](https://design.withfudge.com/pin/9451)
+[API Keys | Exa API](https://design.withfudge.com/pin/9451) — [source page](https://dashboard.exa.ai/api-keys)

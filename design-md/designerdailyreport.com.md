@@ -6,6 +6,10 @@ Source domain: [designerdailyreport.com](https://designerdailyreport.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7431
+-->
+
 Here is the visual system observed across **3 captured pages** from [designerdailyreport.com](https://designerdailyreport.com).
 
 ```fudge-colors
@@ -164,7 +168,12 @@ Here is the visual system observed across **3 captured pages** from [designerdai
 }
 ```
 
-## References
-- [Designer Daily Report](https://design.withfudge.com/pin/7431) — [source page](https://designerdailyreport.com/)
-- [Designer Daily Report](https://design.withfudge.com/pin/7430) — [source page](https://designerdailyreport.com/)
-- [Designer Daily Report](https://design.withfudge.com/pin/7429) — [source page](https://designerdailyreport.com/)
+## Representative captures
+[![Designer Daily Report](https://pin.fontofweb.com/7431?format=jpg)](https://design.withfudge.com/pin/7431)
+[Designer Daily Report](https://design.withfudge.com/pin/7431) — [source page](https://designerdailyreport.com/)
+
+[![Designer Daily Report](https://pin.fontofweb.com/7430?format=jpg)](https://design.withfudge.com/pin/7430)
+[Designer Daily Report](https://design.withfudge.com/pin/7430) — [source page](https://designerdailyreport.com/)
+
+[![Designer Daily Report](https://pin.fontofweb.com/7429?format=jpg)](https://design.withfudge.com/pin/7429)
+[Designer Daily Report](https://design.withfudge.com/pin/7429) — [source page](https://designerdailyreport.com/)

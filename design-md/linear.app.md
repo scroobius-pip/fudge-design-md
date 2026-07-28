@@ -6,6 +6,10 @@ Source domain: [linear.app](https://linear.app)
 
 Last updated: 2026-07-21
 
+<!--
+coverPin: 10441
+-->
+
 Here is the visual system observed across **24 captured pages** from [linear.app](https://linear.app).
 
 ```fudge-colors
@@ -321,12 +325,27 @@ Here is the visual system observed across **24 captured pages** from [linear.app
 }
 ```
 
-## References
-- [Linear – The system for product development](https://design.withfudge.com/pin/10441) — [source page](https://linear.app/)
-- [Inbox](https://design.withfudge.com/pin/8257) — [source page](https://linear.app/raulnech/inbox)
-- [Raulnech › d](https://design.withfudge.com/pin/8256) — [source page](https://linear.app/raulnech/team/RAU/view/d-a43819140ab0)
-- [TEST › Overview](https://design.withfudge.com/pin/8255) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8254) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8250) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8249) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
-- [TEST › Overview](https://design.withfudge.com/pin/8248) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+## Representative captures
+[![Linear – The system for product development](https://pin.fontofweb.com/10441?format=jpg)](https://design.withfudge.com/pin/10441)
+[Linear – The system for product development](https://design.withfudge.com/pin/10441) — [source page](https://linear.app/)
+
+[![Inbox](https://pin.fontofweb.com/8257?format=jpg)](https://design.withfudge.com/pin/8257)
+[Inbox](https://design.withfudge.com/pin/8257) — [source page](https://linear.app/raulnech/inbox)
+
+[![Raulnech › d](https://pin.fontofweb.com/8256?format=jpg)](https://design.withfudge.com/pin/8256)
+[Raulnech › d](https://design.withfudge.com/pin/8256) — [source page](https://linear.app/raulnech/team/RAU/view/d-a43819140ab0)
+
+[![TEST › Overview](https://pin.fontofweb.com/8255?format=jpg)](https://design.withfudge.com/pin/8255)
+[TEST › Overview](https://design.withfudge.com/pin/8255) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+
+[![TEST › Overview](https://pin.fontofweb.com/8254?format=jpg)](https://design.withfudge.com/pin/8254)
+[TEST › Overview](https://design.withfudge.com/pin/8254) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+
+[![TEST › Overview](https://pin.fontofweb.com/8250?format=jpg)](https://design.withfudge.com/pin/8250)
+[TEST › Overview](https://design.withfudge.com/pin/8250) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+
+[![TEST › Overview](https://pin.fontofweb.com/8249?format=jpg)](https://design.withfudge.com/pin/8249)
+[TEST › Overview](https://design.withfudge.com/pin/8249) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)
+
+[![TEST › Overview](https://pin.fontofweb.com/8248?format=jpg)](https://design.withfudge.com/pin/8248)
+[TEST › Overview](https://design.withfudge.com/pin/8248) — [source page](https://linear.app/raulnech/project/test-5c8bd22de24f/overview)

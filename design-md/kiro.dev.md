@@ -6,6 +6,10 @@ Source domain: [kiro.dev](https://kiro.dev)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8141
+-->
+
 Here is the visual system observed across **3 captured pages** from [kiro.dev](https://kiro.dev).
 
 ```fudge-colors
@@ -138,7 +142,12 @@ Here is the visual system observed across **3 captured pages** from [kiro.dev](h
 }
 ```
 
-## References
-- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8141) — [source page](https://kiro.dev/)
-- [Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8140) — [source page](https://kiro.dev/)
-- [Pricing - Kiro](https://design.withfudge.com/pin/8139) — [source page](https://kiro.dev/pricing/)
+## Representative captures
+[![Kiro: Agentic AI development from prototype to production](https://pin.fontofweb.com/8141?format=jpg)](https://design.withfudge.com/pin/8141)
+[Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8141) — [source page](https://kiro.dev/)
+
+[![Kiro: Agentic AI development from prototype to production](https://pin.fontofweb.com/8140?format=jpg)](https://design.withfudge.com/pin/8140)
+[Kiro: Agentic AI development from prototype to production](https://design.withfudge.com/pin/8140) — [source page](https://kiro.dev/)
+
+[![Pricing - Kiro](https://pin.fontofweb.com/8139?format=jpg)](https://design.withfudge.com/pin/8139)
+[Pricing - Kiro](https://design.withfudge.com/pin/8139) — [source page](https://kiro.dev/pricing/)

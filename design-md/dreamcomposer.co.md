@@ -6,6 +6,10 @@ Source domain: [dreamcomposer.co](https://dreamcomposer.co)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8792
+-->
+
 Here is the visual system observed across **2 captured pages** from [dreamcomposer.co](https://dreamcomposer.co).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [dreamcompos
 }
 ```
 
-## References
-- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8792) — [source page](https://dreamcomposer.co/)
-- [DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8791) — [source page](https://dreamcomposer.co/)
+## Representative captures
+[![DreamComposer - A collaborative platform for sharing dreams and ideas](https://pin.fontofweb.com/8792?format=jpg)](https://design.withfudge.com/pin/8792)
+[DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8792) — [source page](https://dreamcomposer.co/)
+
+[![DreamComposer - A collaborative platform for sharing dreams and ideas](https://pin.fontofweb.com/8791?format=jpg)](https://design.withfudge.com/pin/8791)
+[DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8791) — [source page](https://dreamcomposer.co/)

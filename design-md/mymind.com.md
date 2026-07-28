@@ -6,6 +6,10 @@ Source domain: [mymind.com](https://mymind.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8990
+-->
+
 Here is the visual system observed across **19 captured pages** from [mymind.com](https://mymind.com).
 
 ```fudge-colors
@@ -384,12 +388,27 @@ Here is the visual system observed across **19 captured pages** from [mymind.com
 }
 ```
 
-## References
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8990) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8989) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8988) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8987) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8986) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8985) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8984) — [source page](https://mymind.com/)
-- [mymind is the extension for your mind.](https://design.withfudge.com/pin/8983) — [source page](https://mymind.com/)
+## Representative captures
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8990?format=jpg)](https://design.withfudge.com/pin/8990)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8990) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8989?format=jpg)](https://design.withfudge.com/pin/8989)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8989) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8988?format=jpg)](https://design.withfudge.com/pin/8988)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8988) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8987?format=jpg)](https://design.withfudge.com/pin/8987)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8987) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8986?format=jpg)](https://design.withfudge.com/pin/8986)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8986) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8985?format=jpg)](https://design.withfudge.com/pin/8985)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8985) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8984?format=jpg)](https://design.withfudge.com/pin/8984)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8984) — [source page](https://mymind.com/)
+
+[![mymind is the extension for your mind.](https://pin.fontofweb.com/8983?format=jpg)](https://design.withfudge.com/pin/8983)
+[mymind is the extension for your mind.](https://design.withfudge.com/pin/8983) — [source page](https://mymind.com/)

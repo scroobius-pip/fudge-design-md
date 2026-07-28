@@ -6,6 +6,10 @@ Source domain: [spaceforce.com](https://spaceforce.com)
 
 Last updated: 2026-04-14
 
+<!--
+coverPin: 8826
+-->
+
 Here is the visual system observed across **1 captured page** from [spaceforce.com](https://spaceforce.com).
 
 ```fudge-colors
@@ -108,5 +112,6 @@ Here is the visual system observed across **1 captured page** from [spaceforce.c
 }
 ```
 
-## References
-- [Discover Space Force Careers | U.S. Space Force](https://design.withfudge.com/pin/8826) — [source page](https://spaceforce.com/careers)
+## Representative captures
+[![Discover Space Force Careers | U.S. Space Force](https://pin.fontofweb.com/8826?format=jpg)](https://design.withfudge.com/pin/8826)
+[Discover Space Force Careers | U.S. Space Force](https://design.withfudge.com/pin/8826) — [source page](https://spaceforce.com/careers)

@@ -6,6 +6,10 @@ Source domain: [kobbe.io](https://kobbe.io)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10175
+-->
+
 Here is the visual system observed across **12 captured pages** from [kobbe.io](https://kobbe.io).
 
 ```fudge-colors
@@ -352,12 +356,27 @@ Here is the visual system observed across **12 captured pages** from [kobbe.io](
 }
 ```
 
-## References
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10175) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10123) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10122) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10121) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10120) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10119) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10118) — [source page](https://kobbe.io/)
-- [Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10117) — [source page](https://kobbe.io/)
+## Representative captures
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10175?format=jpg)](https://design.withfudge.com/pin/10175)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10175) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10123?format=jpg)](https://design.withfudge.com/pin/10123)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10123) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10122?format=jpg)](https://design.withfudge.com/pin/10122)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10122) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10121?format=jpg)](https://design.withfudge.com/pin/10121)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10121) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10120?format=jpg)](https://design.withfudge.com/pin/10120)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10120) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10119?format=jpg)](https://design.withfudge.com/pin/10119)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10119) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10118?format=jpg)](https://design.withfudge.com/pin/10118)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10118) — [source page](https://kobbe.io/)
+
+[![Kobbe — Web analytics that respect your visitors](https://pin.fontofweb.com/10117?format=jpg)](https://design.withfudge.com/pin/10117)
+[Kobbe — Web analytics that respect your visitors](https://design.withfudge.com/pin/10117) — [source page](https://kobbe.io/)

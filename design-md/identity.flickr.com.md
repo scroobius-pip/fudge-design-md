@@ -6,6 +6,10 @@ Source domain: [identity.flickr.com](https://identity.flickr.com)
 
 Last updated: 2026-03-22
 
+<!--
+coverPin: 8231
+-->
+
 Here is the visual system observed across **1 captured page** from [identity.flickr.com](https://identity.flickr.com).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [identity.fli
 }
 ```
 
-## References
-- [Flickr Login](https://design.withfudge.com/pin/8231) — [source page](https://identity.flickr.com/login)
+## Representative captures
+[![Flickr Login](https://pin.fontofweb.com/8231?format=jpg)](https://design.withfudge.com/pin/8231)
+[Flickr Login](https://design.withfudge.com/pin/8231) — [source page](https://identity.flickr.com/login)

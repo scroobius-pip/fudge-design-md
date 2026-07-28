@@ -6,6 +6,10 @@ Source domain: [thisispenny.com](https://thisispenny.com)
 
 Last updated: 2026-07-12
 
+<!--
+coverPin: 10006
+-->
+
 Here is the visual system observed across **12 captured pages** from [thisispenny.com](https://thisispenny.com).
 
 ```fudge-colors
@@ -347,12 +351,27 @@ Here is the visual system observed across **12 captured pages** from [thisispenn
 }
 ```
 
-## References
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10006) — [source page](https://thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10005) — [source page](https://thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10004) — [source page](https://thisispenny.com/)
-- [Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10003) — [source page](https://thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3658) — [source page](https://thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3657) — [source page](https://thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3656) — [source page](https://thisispenny.com/)
-- [Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3655) — [source page](https://thisispenny.com/)
+## Representative captures
+[![Penny | Pensions Designed for Women | B Corp Certified](https://pin.fontofweb.com/10006?format=jpg)](https://design.withfudge.com/pin/10006)
+[Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10006) — [source page](https://thisispenny.com/)
+
+[![Penny | Pensions Designed for Women | B Corp Certified](https://pin.fontofweb.com/10005?format=jpg)](https://design.withfudge.com/pin/10005)
+[Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10005) — [source page](https://thisispenny.com/)
+
+[![Penny | Pensions Designed for Women | B Corp Certified](https://pin.fontofweb.com/10004?format=jpg)](https://design.withfudge.com/pin/10004)
+[Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10004) — [source page](https://thisispenny.com/)
+
+[![Penny | Pensions Designed for Women | B Corp Certified](https://pin.fontofweb.com/10003?format=jpg)](https://design.withfudge.com/pin/10003)
+[Penny | Pensions Designed for Women | B Corp Certified](https://design.withfudge.com/pin/10003) — [source page](https://thisispenny.com/)
+
+[![Penny | The Pension You Actually Asked For | Women's Pension Solution](https://pin.fontofweb.com/3658?format=jpg)](https://design.withfudge.com/pin/3658)
+[Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3658) — [source page](https://thisispenny.com/)
+
+[![Penny | The Pension You Actually Asked For | Women's Pension Solution](https://pin.fontofweb.com/3657?format=jpg)](https://design.withfudge.com/pin/3657)
+[Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3657) — [source page](https://thisispenny.com/)
+
+[![Penny | The Pension You Actually Asked For | Women's Pension Solution](https://pin.fontofweb.com/3656?format=jpg)](https://design.withfudge.com/pin/3656)
+[Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3656) — [source page](https://thisispenny.com/)
+
+[![Penny | The Pension You Actually Asked For | Women's Pension Solution](https://pin.fontofweb.com/3655?format=jpg)](https://design.withfudge.com/pin/3655)
+[Penny | The Pension You Actually Asked For | Women's Pension Solution](https://design.withfudge.com/pin/3655) — [source page](https://thisispenny.com/)

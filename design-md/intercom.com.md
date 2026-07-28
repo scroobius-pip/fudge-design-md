@@ -6,6 +6,10 @@ Source domain: [intercom.com](https://intercom.com)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9303
+-->
+
 Here is the visual system observed across **18 captured pages** from [intercom.com](https://intercom.com).
 
 ```fudge-colors
@@ -364,12 +368,27 @@ Here is the visual system observed across **18 captured pages** from [intercom.c
 }
 ```
 
-## References
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9303) — [source page](https://intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9302) — [source page](https://intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9301) — [source page](https://intercom.com/customers)
-- [Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9300) — [source page](https://intercom.com/customers)
-- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9299) — [source page](https://intercom.com/pricing)
-- [Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9298) — [source page](https://intercom.com/pricing)
-- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9297) — [source page](https://intercom.com/)
-- [Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9296) — [source page](https://intercom.com/)
+## Representative captures
+[![Intercom Customers | See who trusts Intercom](https://pin.fontofweb.com/9303?format=jpg)](https://design.withfudge.com/pin/9303)
+[Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9303) — [source page](https://intercom.com/customers)
+
+[![Intercom Customers | See who trusts Intercom](https://pin.fontofweb.com/9302?format=jpg)](https://design.withfudge.com/pin/9302)
+[Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9302) — [source page](https://intercom.com/customers)
+
+[![Intercom Customers | See who trusts Intercom](https://pin.fontofweb.com/9301?format=jpg)](https://design.withfudge.com/pin/9301)
+[Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9301) — [source page](https://intercom.com/customers)
+
+[![Intercom Customers | See who trusts Intercom](https://pin.fontofweb.com/9300?format=jpg)](https://design.withfudge.com/pin/9300)
+[Intercom Customers | See who trusts Intercom](https://design.withfudge.com/pin/9300) — [source page](https://intercom.com/customers)
+
+[![Intercom Pricing | Plans for every team size](https://pin.fontofweb.com/9299?format=jpg)](https://design.withfudge.com/pin/9299)
+[Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9299) — [source page](https://intercom.com/pricing)
+
+[![Intercom Pricing | Plans for every team size](https://pin.fontofweb.com/9298?format=jpg)](https://design.withfudge.com/pin/9298)
+[Intercom Pricing | Plans for every team size](https://design.withfudge.com/pin/9298) — [source page](https://intercom.com/pricing)
+
+[![Intercom | The only helpdesk designed for the AI Agent era](https://pin.fontofweb.com/9297?format=jpg)](https://design.withfudge.com/pin/9297)
+[Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9297) — [source page](https://intercom.com/)
+
+[![Intercom | The only helpdesk designed for the AI Agent era](https://pin.fontofweb.com/9296?format=jpg)](https://design.withfudge.com/pin/9296)
+[Intercom | The only helpdesk designed for the AI Agent era](https://design.withfudge.com/pin/9296) — [source page](https://intercom.com/)

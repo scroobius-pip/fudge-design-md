@@ -6,6 +6,10 @@ Source domain: [restate.dev](https://restate.dev)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7559
+-->
+
 Here is the visual system observed across **3 captured pages** from [restate.dev](https://restate.dev).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [restate.dev
 }
 ```
 
-## References
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7559) — [source page](https://restate.dev/)
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7558) — [source page](https://restate.dev/)
-- [Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7557) — [source page](https://restate.dev/)
+## Representative captures
+[![Restate - Build innately resilient distributed apps](https://pin.fontofweb.com/7559?format=jpg)](https://design.withfudge.com/pin/7559)
+[Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7559) — [source page](https://restate.dev/)
+
+[![Restate - Build innately resilient distributed apps](https://pin.fontofweb.com/7558?format=jpg)](https://design.withfudge.com/pin/7558)
+[Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7558) — [source page](https://restate.dev/)
+
+[![Restate - Build innately resilient distributed apps](https://pin.fontofweb.com/7557?format=jpg)](https://design.withfudge.com/pin/7557)
+[Restate - Build innately resilient distributed apps](https://design.withfudge.com/pin/7557) — [source page](https://restate.dev/)

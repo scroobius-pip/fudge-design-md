@@ -6,6 +6,10 @@ Source domain: [opper.ai](https://opper.ai)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7023
+-->
+
 Here is the visual system observed across **6 captured pages** from [opper.ai](https://opper.ai).
 
 ```fudge-colors
@@ -203,10 +207,21 @@ Here is the visual system observed across **6 captured pages** from [opper.ai](h
 }
 ```
 
-## References
-- [Car Wash Test on 53 leading AI models: "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?"](https://design.withfudge.com/pin/7023) — [source page](https://opper.ai/blog/car-wash-test)
-- [Opper](https://design.withfudge.com/pin/7022) — [source page](https://opper.ai/pricing)
-- [Opper](https://design.withfudge.com/pin/7021) — [source page](https://opper.ai/pricing)
-- [Opper](https://design.withfudge.com/pin/7020) — [source page](https://opper.ai/)
-- [Opper](https://design.withfudge.com/pin/7019) — [source page](https://opper.ai/)
-- [Opper](https://design.withfudge.com/pin/7018) — [source page](https://opper.ai/)
+## Representative captures
+[![Car Wash Test on 53 leading AI models: "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?"](https://pin.fontofweb.com/7023?format=jpg)](https://design.withfudge.com/pin/7023)
+[Car Wash Test on 53 leading AI models: "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?"](https://design.withfudge.com/pin/7023) — [source page](https://opper.ai/blog/car-wash-test)
+
+[![Opper](https://pin.fontofweb.com/7022?format=jpg)](https://design.withfudge.com/pin/7022)
+[Opper](https://design.withfudge.com/pin/7022) — [source page](https://opper.ai/pricing)
+
+[![Opper](https://pin.fontofweb.com/7021?format=jpg)](https://design.withfudge.com/pin/7021)
+[Opper](https://design.withfudge.com/pin/7021) — [source page](https://opper.ai/pricing)
+
+[![Opper](https://pin.fontofweb.com/7020?format=jpg)](https://design.withfudge.com/pin/7020)
+[Opper](https://design.withfudge.com/pin/7020) — [source page](https://opper.ai/)
+
+[![Opper](https://pin.fontofweb.com/7019?format=jpg)](https://design.withfudge.com/pin/7019)
+[Opper](https://design.withfudge.com/pin/7019) — [source page](https://opper.ai/)
+
+[![Opper](https://pin.fontofweb.com/7018?format=jpg)](https://design.withfudge.com/pin/7018)
+[Opper](https://design.withfudge.com/pin/7018) — [source page](https://opper.ai/)

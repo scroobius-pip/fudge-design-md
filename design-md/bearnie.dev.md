@@ -6,6 +6,10 @@ Source domain: [bearnie.dev](https://bearnie.dev)
 
 Last updated: 2026-01-30
 
+<!--
+coverPin: 6152
+-->
+
 Here is the visual system observed across **1 captured page** from [bearnie.dev](https://bearnie.dev).
 
 ```fudge-colors
@@ -75,5 +79,6 @@ Here is the visual system observed across **1 captured page** from [bearnie.dev]
 }
 ```
 
-## References
-- [Bearnie - Build Your Own Component Library](https://design.withfudge.com/pin/6152) — [source page](https://bearnie.dev/)
+## Representative captures
+[![Bearnie - Build Your Own Component Library](https://pin.fontofweb.com/6152?format=jpg)](https://design.withfudge.com/pin/6152)
+[Bearnie - Build Your Own Component Library](https://design.withfudge.com/pin/6152) — [source page](https://bearnie.dev/)

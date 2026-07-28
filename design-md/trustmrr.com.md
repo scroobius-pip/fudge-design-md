@@ -6,6 +6,10 @@ Source domain: [trustmrr.com](https://trustmrr.com)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7519
+-->
+
 Here is the visual system observed across **5 captured pages** from [trustmrr.com](https://trustmrr.com).
 
 ```fudge-colors
@@ -192,9 +196,18 @@ Here is the visual system observed across **5 captured pages** from [trustmrr.co
 }
 ```
 
-## References
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7519) — [source page](https://trustmrr.com/dashboard)
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7518) — [source page](https://trustmrr.com/dashboard)
-- [Dashboard | TrustMRR](https://design.withfudge.com/pin/7517) — [source page](https://trustmrr.com/dashboard)
-- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7516) — [source page](https://trustmrr.com/)
-- [TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7515) — [source page](https://trustmrr.com/)
+## Representative captures
+[![Dashboard | TrustMRR](https://pin.fontofweb.com/7519?format=jpg)](https://design.withfudge.com/pin/7519)
+[Dashboard | TrustMRR](https://design.withfudge.com/pin/7519) — [source page](https://trustmrr.com/dashboard)
+
+[![Dashboard | TrustMRR](https://pin.fontofweb.com/7518?format=jpg)](https://design.withfudge.com/pin/7518)
+[Dashboard | TrustMRR](https://design.withfudge.com/pin/7518) — [source page](https://trustmrr.com/dashboard)
+
+[![Dashboard | TrustMRR](https://pin.fontofweb.com/7517?format=jpg)](https://design.withfudge.com/pin/7517)
+[Dashboard | TrustMRR](https://design.withfudge.com/pin/7517) — [source page](https://trustmrr.com/dashboard)
+
+[![TrustMRR - Verified startup revenue database](https://pin.fontofweb.com/7516?format=jpg)](https://design.withfudge.com/pin/7516)
+[TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7516) — [source page](https://trustmrr.com/)
+
+[![TrustMRR - Verified startup revenue database](https://pin.fontofweb.com/7515?format=jpg)](https://design.withfudge.com/pin/7515)
+[TrustMRR - Verified startup revenue database](https://design.withfudge.com/pin/7515) — [source page](https://trustmrr.com/)

@@ -6,6 +6,10 @@ Source domain: [mn.ru](https://mn.ru)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9102
+-->
+
 Here is the visual system observed across **1 captured page** from [mn.ru](https://mn.ru).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [mn.ru](https
 }
 ```
 
-## References
-- [Турпоток на курорт «Термы» вырастет](https://design.withfudge.com/pin/9102) — [source page](https://mn.ru/smart/turpotok-na-kurort-termy-vyrastet)
+## Representative captures
+[![Турпоток на курорт «Термы» вырастет](https://pin.fontofweb.com/9102?format=jpg)](https://design.withfudge.com/pin/9102)
+[Турпоток на курорт «Термы» вырастет](https://design.withfudge.com/pin/9102) — [source page](https://mn.ru/smart/turpotok-na-kurort-termy-vyrastet)

@@ -6,6 +6,10 @@ Source domain: [gatheros.co](https://gatheros.co)
 
 Last updated: 2026-05-27
 
+<!--
+coverPin: 9472
+-->
+
 Here is the visual system observed across **1 captured page** from [gatheros.co](https://gatheros.co).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [gatheros.co]
 }
 ```
 
-## References
-- [GatherOS](https://design.withfudge.com/pin/9472) — [source page](https://gatheros.co/)
+## Representative captures
+[![GatherOS](https://pin.fontofweb.com/9472?format=jpg)](https://design.withfudge.com/pin/9472)
+[GatherOS](https://design.withfudge.com/pin/9472) — [source page](https://gatheros.co/)

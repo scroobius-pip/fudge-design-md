@@ -6,6 +6,10 @@ Source domain: [hellotiana.framer.website](https://hellotiana.framer.website)
 
 Last updated: 2026-04-25
 
+<!--
+coverPin: 9054
+-->
+
 Here is the visual system observed across **2 captured pages** from [hellotiana.framer.website](https://hellotiana.framer.website).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [hellotiana.
 }
 ```
 
-## References
-- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9054) — [source page](https://hellotiana.framer.website/)
-- [Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9053) — [source page](https://hellotiana.framer.website/)
+## Representative captures
+[![Christiana Uzonwanne - Senior product designer](https://pin.fontofweb.com/9054?format=jpg)](https://design.withfudge.com/pin/9054)
+[Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9054) — [source page](https://hellotiana.framer.website/)
+
+[![Christiana Uzonwanne - Senior product designer](https://pin.fontofweb.com/9053?format=jpg)](https://design.withfudge.com/pin/9053)
+[Christiana Uzonwanne - Senior product designer](https://design.withfudge.com/pin/9053) — [source page](https://hellotiana.framer.website/)

@@ -6,6 +6,10 @@ Source domain: [correresmidestino.com](https://correresmidestino.com)
 
 Last updated: 2026-06-12
 
+<!--
+coverPin: 9566
+-->
+
 Here is the visual system observed across **1 captured page** from [correresmidestino.com](https://correresmidestino.com).
 
 ```fudge-colors
@@ -108,5 +112,6 @@ Here is the visual system observed across **1 captured page** from [correresmide
 }
 ```
 
-## References
-- [“Don’t You Just Upload It to ChatGPT?”](https://design.withfudge.com/pin/9566) — [source page](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
+## Representative captures
+[![“Don’t You Just Upload It to ChatGPT?”](https://pin.fontofweb.com/9566?format=jpg)](https://design.withfudge.com/pin/9566)
+[“Don’t You Just Upload It to ChatGPT?”](https://design.withfudge.com/pin/9566) — [source page](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)

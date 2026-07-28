@@ -6,6 +6,10 @@ Source domain: [sochi-bloknot.ru](https://sochi-bloknot.ru)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9168
+-->
+
 Here is the visual system observed across **1 captured page** from [sochi-bloknot.ru](https://sochi-bloknot.ru).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [sochi-blokno
 }
 ```
 
-## References
-- [Мэр Сочи заявил, что последствий для курорта от разлива мазута в Черном море нет](https://design.withfudge.com/pin/9168) — [source page](https://sochi-bloknot.ru/news/mer-sochi-zayavil-chto-posledstviy-dlya-kurorta-ot-1970253)
+## Representative captures
+[![Мэр Сочи заявил, что последствий для курорта от разлива мазута в Черном море нет](https://pin.fontofweb.com/9168?format=jpg)](https://design.withfudge.com/pin/9168)
+[Мэр Сочи заявил, что последствий для курорта от разлива мазута в Черном море нет](https://design.withfudge.com/pin/9168) — [source page](https://sochi-bloknot.ru/news/mer-sochi-zayavil-chto-posledstviy-dlya-kurorta-ot-1970253)

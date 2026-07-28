@@ -6,6 +6,10 @@ Source domain: [wisprflow.ai](https://wisprflow.ai)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7402
+-->
+
 Here is the visual system observed across **16 captured pages** from [wisprflow.ai](https://wisprflow.ai).
 
 ```fudge-colors
@@ -330,12 +334,27 @@ Here is the visual system observed across **16 captured pages** from [wisprflow.
 }
 ```
 
-## References
-- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7402) — [source page](https://wisprflow.ai/pricing)
-- [Pricing | Wispr Flow](https://design.withfudge.com/pin/7401) — [source page](https://wisprflow.ai/pricing)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7400) — [source page](https://wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7399) — [source page](https://wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7398) — [source page](https://wisprflow.ai/about)
-- [About | Wispr Flow](https://design.withfudge.com/pin/7397) — [source page](https://wisprflow.ai/about)
-- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7396) — [source page](https://wisprflow.ai/)
-- [Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7395) — [source page](https://wisprflow.ai/)
+## Representative captures
+[![Pricing | Wispr Flow](https://pin.fontofweb.com/7402?format=jpg)](https://design.withfudge.com/pin/7402)
+[Pricing | Wispr Flow](https://design.withfudge.com/pin/7402) — [source page](https://wisprflow.ai/pricing)
+
+[![Pricing | Wispr Flow](https://pin.fontofweb.com/7401?format=jpg)](https://design.withfudge.com/pin/7401)
+[Pricing | Wispr Flow](https://design.withfudge.com/pin/7401) — [source page](https://wisprflow.ai/pricing)
+
+[![About | Wispr Flow](https://pin.fontofweb.com/7400?format=jpg)](https://design.withfudge.com/pin/7400)
+[About | Wispr Flow](https://design.withfudge.com/pin/7400) — [source page](https://wisprflow.ai/about)
+
+[![About | Wispr Flow](https://pin.fontofweb.com/7399?format=jpg)](https://design.withfudge.com/pin/7399)
+[About | Wispr Flow](https://design.withfudge.com/pin/7399) — [source page](https://wisprflow.ai/about)
+
+[![About | Wispr Flow](https://pin.fontofweb.com/7398?format=jpg)](https://design.withfudge.com/pin/7398)
+[About | Wispr Flow](https://design.withfudge.com/pin/7398) — [source page](https://wisprflow.ai/about)
+
+[![About | Wispr Flow](https://pin.fontofweb.com/7397?format=jpg)](https://design.withfudge.com/pin/7397)
+[About | Wispr Flow](https://design.withfudge.com/pin/7397) — [source page](https://wisprflow.ai/about)
+
+[![Wispr Flow | Effortless Voice Dictation](https://pin.fontofweb.com/7396?format=jpg)](https://design.withfudge.com/pin/7396)
+[Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7396) — [source page](https://wisprflow.ai/)
+
+[![Wispr Flow | Effortless Voice Dictation](https://pin.fontofweb.com/7395?format=jpg)](https://design.withfudge.com/pin/7395)
+[Wispr Flow | Effortless Voice Dictation](https://design.withfudge.com/pin/7395) — [source page](https://wisprflow.ai/)

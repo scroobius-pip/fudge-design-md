@@ -6,6 +6,10 @@ Source domain: [1community.com](https://1community.com)
 
 Last updated: 2026-04-14
 
+<!--
+coverPin: 8829
+-->
+
 Here is the visual system observed across **1 captured page** from [1community.com](https://1community.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [1community.c
 }
 ```
 
-## References
-- [About - 1Community](https://design.withfudge.com/pin/8829) — [source page](https://1community.com/about/)
+## Representative captures
+[![About - 1Community](https://pin.fontofweb.com/8829?format=jpg)](https://design.withfudge.com/pin/8829)
+[About - 1Community](https://design.withfudge.com/pin/8829) — [source page](https://1community.com/about/)

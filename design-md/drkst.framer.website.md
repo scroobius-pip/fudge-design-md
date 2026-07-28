@@ -6,6 +6,10 @@ Source domain: [drkst.framer.website](https://drkst.framer.website)
 
 Last updated: 2026-04-22
 
+<!--
+coverPin: 9029
+-->
+
 Here is the visual system observed across **2 captured pages** from [drkst.framer.website](https://drkst.framer.website).
 
 ```fudge-colors
@@ -116,6 +120,9 @@ Here is the visual system observed across **2 captured pages** from [drkst.frame
 }
 ```
 
-## References
-- [Drkst®](https://design.withfudge.com/pin/9029) — [source page](https://drkst.framer.website/)
-- [Drkst®](https://design.withfudge.com/pin/5589) — [source page](https://drkst.framer.website/)
+## Representative captures
+[![Drkst®](https://pin.fontofweb.com/9029?format=jpg)](https://design.withfudge.com/pin/9029)
+[Drkst®](https://design.withfudge.com/pin/9029) — [source page](https://drkst.framer.website/)
+
+[![Drkst®](https://pin.fontofweb.com/5589?format=jpg)](https://design.withfudge.com/pin/5589)
+[Drkst®](https://design.withfudge.com/pin/5589) — [source page](https://drkst.framer.website/)

@@ -6,6 +6,10 @@ Source domain: [workers.cloudflare.com](https://workers.cloudflare.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7645
+-->
+
 Here is the visual system observed across **22 captured pages** from [workers.cloudflare.com](https://workers.cloudflare.com).
 
 ```fudge-colors
@@ -316,12 +320,27 @@ Here is the visual system observed across **22 captured pages** from [workers.cl
 }
 ```
 
-## References
-- [Pricing](https://design.withfudge.com/pin/7645) — [source page](https://workers.cloudflare.com/pricing)
-- [Pricing](https://design.withfudge.com/pin/7644) — [source page](https://workers.cloudflare.com/pricing)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7643) — [source page](https://workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7642) — [source page](https://workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7641) — [source page](https://workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7640) — [source page](https://workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7639) — [source page](https://workers.cloudflare.com/)
-- [Cloudflare Workers](https://design.withfudge.com/pin/7638) — [source page](https://workers.cloudflare.com/)
+## Representative captures
+[![Pricing](https://pin.fontofweb.com/7645?format=jpg)](https://design.withfudge.com/pin/7645)
+[Pricing](https://design.withfudge.com/pin/7645) — [source page](https://workers.cloudflare.com/pricing)
+
+[![Pricing](https://pin.fontofweb.com/7644?format=jpg)](https://design.withfudge.com/pin/7644)
+[Pricing](https://design.withfudge.com/pin/7644) — [source page](https://workers.cloudflare.com/pricing)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7643?format=jpg)](https://design.withfudge.com/pin/7643)
+[Cloudflare Workers](https://design.withfudge.com/pin/7643) — [source page](https://workers.cloudflare.com/)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7642?format=jpg)](https://design.withfudge.com/pin/7642)
+[Cloudflare Workers](https://design.withfudge.com/pin/7642) — [source page](https://workers.cloudflare.com/)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7641?format=jpg)](https://design.withfudge.com/pin/7641)
+[Cloudflare Workers](https://design.withfudge.com/pin/7641) — [source page](https://workers.cloudflare.com/)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7640?format=jpg)](https://design.withfudge.com/pin/7640)
+[Cloudflare Workers](https://design.withfudge.com/pin/7640) — [source page](https://workers.cloudflare.com/)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7639?format=jpg)](https://design.withfudge.com/pin/7639)
+[Cloudflare Workers](https://design.withfudge.com/pin/7639) — [source page](https://workers.cloudflare.com/)
+
+[![Cloudflare Workers](https://pin.fontofweb.com/7638?format=jpg)](https://design.withfudge.com/pin/7638)
+[Cloudflare Workers](https://design.withfudge.com/pin/7638) — [source page](https://workers.cloudflare.com/)

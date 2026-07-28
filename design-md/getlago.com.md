@@ -6,6 +6,10 @@ Source domain: [getlago.com](https://getlago.com)
 
 Last updated: 2026-06-24
 
+<!--
+coverPin: 9750
+-->
+
 Here is the visual system observed across **1 captured page** from [getlago.com](https://getlago.com).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [getlago.com]
 }
 ```
 
-## References
-- [Lago | Open-Source Billing Infrastructure](https://design.withfudge.com/pin/9750) — [source page](https://getlago.com/)
+## Representative captures
+[![Lago | Open-Source Billing Infrastructure](https://pin.fontofweb.com/9750?format=jpg)](https://design.withfudge.com/pin/9750)
+[Lago | Open-Source Billing Infrastructure](https://design.withfudge.com/pin/9750) — [source page](https://getlago.com/)

@@ -6,6 +6,10 @@ Source domain: [stateof.mozilla.org](https://stateof.mozilla.org)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6056
+-->
+
 Here is the visual system observed across **15 captured pages** from [stateof.mozilla.org](https://stateof.mozilla.org).
 
 ```fudge-colors
@@ -341,12 +345,27 @@ Here is the visual system observed across **15 captured pages** from [stateof.mo
 }
 ```
 
-## References
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6056) — [source page](https://stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6055) — [source page](https://stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6054) — [source page](https://stateof.mozilla.org/roadmap/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6053) — [source page](https://stateof.mozilla.org/tools/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6052) — [source page](https://stateof.mozilla.org/tools/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6051) — [source page](https://stateof.mozilla.org/manifesto/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6050) — [source page](https://stateof.mozilla.org/stakes/)
-- [State of Mozilla 2025](https://design.withfudge.com/pin/6049) — [source page](https://stateof.mozilla.org/)
+## Representative captures
+[![State of Mozilla 2025](https://pin.fontofweb.com/6056?format=jpg)](https://design.withfudge.com/pin/6056)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6056) — [source page](https://stateof.mozilla.org/roadmap/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6055?format=jpg)](https://design.withfudge.com/pin/6055)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6055) — [source page](https://stateof.mozilla.org/roadmap/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6054?format=jpg)](https://design.withfudge.com/pin/6054)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6054) — [source page](https://stateof.mozilla.org/roadmap/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6053?format=jpg)](https://design.withfudge.com/pin/6053)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6053) — [source page](https://stateof.mozilla.org/tools/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6052?format=jpg)](https://design.withfudge.com/pin/6052)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6052) — [source page](https://stateof.mozilla.org/tools/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6051?format=jpg)](https://design.withfudge.com/pin/6051)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6051) — [source page](https://stateof.mozilla.org/manifesto/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6050?format=jpg)](https://design.withfudge.com/pin/6050)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6050) — [source page](https://stateof.mozilla.org/stakes/)
+
+[![State of Mozilla 2025](https://pin.fontofweb.com/6049?format=jpg)](https://design.withfudge.com/pin/6049)
+[State of Mozilla 2025](https://design.withfudge.com/pin/6049) — [source page](https://stateof.mozilla.org/)

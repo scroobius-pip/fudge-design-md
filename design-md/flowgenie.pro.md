@@ -6,6 +6,10 @@ Source domain: [flowgenie.pro](https://flowgenie.pro)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7692
+-->
+
 Here is the visual system observed across **4 captured pages** from [flowgenie.pro](https://flowgenie.pro).
 
 ```fudge-colors
@@ -171,8 +175,15 @@ Here is the visual system observed across **4 captured pages** from [flowgenie.p
 }
 ```
 
-## References
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7692) — [source page](https://flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7691) — [source page](https://flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7690) — [source page](https://flowgenie.pro/)
-- [FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7689) — [source page](https://flowgenie.pro/)
+## Representative captures
+[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7692?format=jpg)](https://design.withfudge.com/pin/7692)
+[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7692) — [source page](https://flowgenie.pro/)
+
+[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7691?format=jpg)](https://design.withfudge.com/pin/7691)
+[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7691) — [source page](https://flowgenie.pro/)
+
+[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7690?format=jpg)](https://design.withfudge.com/pin/7690)
+[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7690) — [source page](https://flowgenie.pro/)
+
+[![FlowGenie | Create logic and forms without any code. | FlowGenie](https://pin.fontofweb.com/7689?format=jpg)](https://design.withfudge.com/pin/7689)
+[FlowGenie | Create logic and forms without any code. | FlowGenie](https://design.withfudge.com/pin/7689) — [source page](https://flowgenie.pro/)

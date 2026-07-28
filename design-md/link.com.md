@@ -6,6 +6,10 @@ Source domain: [link.com](https://link.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7250
+-->
+
 Here is the visual system observed across **10 captured pages** from [link.com](https://link.com).
 
 ```fudge-colors
@@ -254,12 +258,27 @@ Here is the visual system observed across **10 captured pages** from [link.com](
 }
 ```
 
-## References
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7250) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7249) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7248) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/7247) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4681) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4680) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4679) — [source page](https://link.com/)
-- [Link: The wallet designed for the internet](https://design.withfudge.com/pin/4678) — [source page](https://link.com/)
+## Representative captures
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/7250?format=jpg)](https://design.withfudge.com/pin/7250)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/7250) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/7249?format=jpg)](https://design.withfudge.com/pin/7249)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/7249) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/7248?format=jpg)](https://design.withfudge.com/pin/7248)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/7248) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/7247?format=jpg)](https://design.withfudge.com/pin/7247)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/7247) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/4681?format=jpg)](https://design.withfudge.com/pin/4681)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/4681) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/4680?format=jpg)](https://design.withfudge.com/pin/4680)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/4680) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/4679?format=jpg)](https://design.withfudge.com/pin/4679)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/4679) — [source page](https://link.com/)
+
+[![Link: The wallet designed for the internet](https://pin.fontofweb.com/4678?format=jpg)](https://design.withfudge.com/pin/4678)
+[Link: The wallet designed for the internet](https://design.withfudge.com/pin/4678) — [source page](https://link.com/)

@@ -6,6 +6,10 @@ Source domain: [natoma.run](https://natoma.run)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7708
+-->
+
 Here is the visual system observed across **4 captured pages** from [natoma.run](https://natoma.run).
 
 ```fudge-colors
@@ -146,8 +150,15 @@ Here is the visual system observed across **4 captured pages** from [natoma.run]
 }
 ```
 
-## References
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7708) — [source page](https://natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7707) — [source page](https://natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7404) — [source page](https://natoma.run/)
-- [Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7403) — [source page](https://natoma.run/)
+## Representative captures
+[![Playground by Natoma | Find & Try MCP Servers](https://pin.fontofweb.com/7708?format=jpg)](https://design.withfudge.com/pin/7708)
+[Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7708) — [source page](https://natoma.run/)
+
+[![Playground by Natoma | Find & Try MCP Servers](https://pin.fontofweb.com/7707?format=jpg)](https://design.withfudge.com/pin/7707)
+[Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7707) — [source page](https://natoma.run/)
+
+[![Playground by Natoma | Find & Try MCP Servers](https://pin.fontofweb.com/7404?format=jpg)](https://design.withfudge.com/pin/7404)
+[Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7404) — [source page](https://natoma.run/)
+
+[![Playground by Natoma | Find & Try MCP Servers](https://pin.fontofweb.com/7403?format=jpg)](https://design.withfudge.com/pin/7403)
+[Playground by Natoma | Find & Try MCP Servers](https://design.withfudge.com/pin/7403) — [source page](https://natoma.run/)

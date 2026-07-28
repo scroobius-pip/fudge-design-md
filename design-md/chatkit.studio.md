@@ -6,6 +6,10 @@ Source domain: [chatkit.studio](https://chatkit.studio)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8910
+-->
+
 Here is the visual system observed across **1 captured page** from [chatkit.studio](https://chatkit.studio).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [chatkit.stud
 }
 ```
 
-## References
-- [Playground — ChatKit Studio](https://design.withfudge.com/pin/8910) — [source page](https://chatkit.studio/playground)
+## Representative captures
+[![Playground — ChatKit Studio](https://pin.fontofweb.com/8910?format=jpg)](https://design.withfudge.com/pin/8910)
+[Playground — ChatKit Studio](https://design.withfudge.com/pin/8910) — [source page](https://chatkit.studio/playground)

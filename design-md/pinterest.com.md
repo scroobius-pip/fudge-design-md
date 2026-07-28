@@ -6,6 +6,10 @@ Source domain: [pinterest.com](https://pinterest.com)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7928
+-->
+
 Here is the visual system observed across **18 captured pages** from [pinterest.com](https://pinterest.com).
 
 ```fudge-colors
@@ -283,12 +287,27 @@ Here is the visual system observed across **18 captured pages** from [pinterest.
 }
 ```
 
-## References
-- [Lofree Flow84](https://design.withfudge.com/pin/7928) — [source page](https://pinterest.com/pin/202873158210924306/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7175) — [source page](https://pinterest.com/business/hub/)
-- [(2) Pinterest](https://design.withfudge.com/pin/7071) — [source page](https://pinterest.com/homefeed/)
-- [Pinterest](https://design.withfudge.com/pin/5912) — [source page](https://pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5911) — [source page](https://pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5910) — [source page](https://pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5909) — [source page](https://pinterest.com/business/hub/)
-- [Pinterest](https://design.withfudge.com/pin/5379) — [source page](https://pinterest.com/search/pins/)
+## Representative captures
+[![Lofree Flow84](https://pin.fontofweb.com/7928?format=jpg)](https://design.withfudge.com/pin/7928)
+[Lofree Flow84](https://design.withfudge.com/pin/7928) — [source page](https://pinterest.com/pin/202873158210924306/)
+
+[![(2) Pinterest](https://pin.fontofweb.com/7175?format=jpg)](https://design.withfudge.com/pin/7175)
+[(2) Pinterest](https://design.withfudge.com/pin/7175) — [source page](https://pinterest.com/business/hub/)
+
+[![(2) Pinterest](https://pin.fontofweb.com/7071?format=jpg)](https://design.withfudge.com/pin/7071)
+[(2) Pinterest](https://design.withfudge.com/pin/7071) — [source page](https://pinterest.com/homefeed/)
+
+[![Pinterest](https://pin.fontofweb.com/5912?format=jpg)](https://design.withfudge.com/pin/5912)
+[Pinterest](https://design.withfudge.com/pin/5912) — [source page](https://pinterest.com/business/hub/)
+
+[![Pinterest](https://pin.fontofweb.com/5911?format=jpg)](https://design.withfudge.com/pin/5911)
+[Pinterest](https://design.withfudge.com/pin/5911) — [source page](https://pinterest.com/business/hub/)
+
+[![Pinterest](https://pin.fontofweb.com/5910?format=jpg)](https://design.withfudge.com/pin/5910)
+[Pinterest](https://design.withfudge.com/pin/5910) — [source page](https://pinterest.com/business/hub/)
+
+[![Pinterest](https://pin.fontofweb.com/5909?format=jpg)](https://design.withfudge.com/pin/5909)
+[Pinterest](https://design.withfudge.com/pin/5909) — [source page](https://pinterest.com/business/hub/)
+
+[![Pinterest](https://pin.fontofweb.com/5379?format=jpg)](https://design.withfudge.com/pin/5379)
+[Pinterest](https://design.withfudge.com/pin/5379) — [source page](https://pinterest.com/search/pins/)

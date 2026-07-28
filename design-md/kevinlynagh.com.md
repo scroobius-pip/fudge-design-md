@@ -6,6 +6,10 @@ Source domain: [kevinlynagh.com](https://kevinlynagh.com)
 
 Last updated: 2026-04-24
 
+<!--
+coverPin: 9037
+-->
+
 Here is the visual system observed across **1 captured page** from [kevinlynagh.com](https://kevinlynagh.com).
 
 ```fudge-colors
@@ -80,5 +84,6 @@ Here is the visual system observed across **1 captured page** from [kevinlynagh.
 }
 ```
 
-## References
-- [Kevin's Newsletter](https://design.withfudge.com/pin/9037) — [source page](https://kevinlynagh.com/newsletter/)
+## Representative captures
+[![Kevin's Newsletter](https://pin.fontofweb.com/9037?format=jpg)](https://design.withfudge.com/pin/9037)
+[Kevin's Newsletter](https://design.withfudge.com/pin/9037) — [source page](https://kevinlynagh.com/newsletter/)

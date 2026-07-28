@@ -6,6 +6,10 @@ Source domain: [smithsonianmag.com](https://smithsonianmag.com)
 
 Last updated: 2026-06-11
 
+<!--
+coverPin: 9548
+-->
+
 Here is the visual system observed across **5 captured pages** from [smithsonianmag.com](https://smithsonianmag.com).
 
 ```fudge-colors
@@ -229,9 +233,18 @@ Here is the visual system observed across **5 captured pages** from [smithsonian
 }
 ```
 
-## References
-- [The Man Who Created a Written Language for the Cherokee Did It So Efficiently and Elegantly, His Peers Thought It Was Magic](https://design.withfudge.com/pin/9548) — [source page](https://smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9547) — [source page](https://smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9546) — [source page](https://smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9545) — [source page](https://smithsonianmag.com/)
-- [Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9544) — [source page](https://smithsonianmag.com/)
+## Representative captures
+[![The Man Who Created a Written Language for the Cherokee Did It So Efficiently and Elegantly, His Peers Thought It Was Magic](https://pin.fontofweb.com/9548?format=jpg)](https://design.withfudge.com/pin/9548)
+[The Man Who Created a Written Language for the Cherokee Did It So Efficiently and Elegantly, His Peers Thought It Was Magic](https://design.withfudge.com/pin/9548) — [source page](https://smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
+
+[![Smithsonian Magazine: Explore History, Science, Arts & Culture](https://pin.fontofweb.com/9547?format=jpg)](https://design.withfudge.com/pin/9547)
+[Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9547) — [source page](https://smithsonianmag.com/)
+
+[![Smithsonian Magazine: Explore History, Science, Arts & Culture](https://pin.fontofweb.com/9546?format=jpg)](https://design.withfudge.com/pin/9546)
+[Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9546) — [source page](https://smithsonianmag.com/)
+
+[![Smithsonian Magazine: Explore History, Science, Arts & Culture](https://pin.fontofweb.com/9545?format=jpg)](https://design.withfudge.com/pin/9545)
+[Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9545) — [source page](https://smithsonianmag.com/)
+
+[![Smithsonian Magazine: Explore History, Science, Arts & Culture](https://pin.fontofweb.com/9544?format=jpg)](https://design.withfudge.com/pin/9544)
+[Smithsonian Magazine: Explore History, Science, Arts & Culture](https://design.withfudge.com/pin/9544) — [source page](https://smithsonianmag.com/)

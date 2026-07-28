@@ -6,6 +6,10 @@ Source domain: [expedition33.com](https://expedition33.com)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7539
+-->
+
 Here is the visual system observed across **1 captured page** from [expedition33.com](https://expedition33.com).
 
 ```fudge-colors
@@ -94,5 +98,6 @@ Here is the visual system observed across **1 captured page** from [expedition33
 }
 ```
 
-## References
-- [Clair Obscur: Expedition 33 - Tomorrow comes](https://design.withfudge.com/pin/7539) — [source page](https://expedition33.com/)
+## Representative captures
+[![Clair Obscur: Expedition 33 - Tomorrow comes](https://pin.fontofweb.com/7539?format=jpg)](https://design.withfudge.com/pin/7539)
+[Clair Obscur: Expedition 33 - Tomorrow comes](https://design.withfudge.com/pin/7539) — [source page](https://expedition33.com/)

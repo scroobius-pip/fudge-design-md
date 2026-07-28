@@ -6,6 +6,10 @@ Source domain: [cerebras.ai](https://cerebras.ai)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9329
+-->
+
 Here is the visual system observed across **26 captured pages** from [cerebras.ai](https://cerebras.ai).
 
 ```fudge-colors
@@ -289,12 +293,27 @@ Here is the visual system observed across **26 captured pages** from [cerebras.a
 }
 ```
 
-## References
-- [Cerebras](https://design.withfudge.com/pin/9329) — [source page](https://cerebras.ai/)
-- [Careers](https://design.withfudge.com/pin/3203) — [source page](https://cerebras.ai/open-positions)
-- [Cerebras](https://design.withfudge.com/pin/3202) — [source page](https://cerebras.ai/join-us)
-- [Cerebras](https://design.withfudge.com/pin/3201) — [source page](https://cerebras.ai/join-us)
-- [Cerebras](https://design.withfudge.com/pin/3200) — [source page](https://cerebras.ai/build-with-us)
-- [Cerebras](https://design.withfudge.com/pin/3199) — [source page](https://cerebras.ai/build-with-us)
-- [Cerebras](https://design.withfudge.com/pin/3198) — [source page](https://cerebras.ai/company)
-- [Cerebras](https://design.withfudge.com/pin/3197) — [source page](https://cerebras.ai/company)
+## Representative captures
+[![Cerebras](https://pin.fontofweb.com/9329?format=jpg)](https://design.withfudge.com/pin/9329)
+[Cerebras](https://design.withfudge.com/pin/9329) — [source page](https://cerebras.ai/)
+
+[![Careers](https://pin.fontofweb.com/3203?format=jpg)](https://design.withfudge.com/pin/3203)
+[Careers](https://design.withfudge.com/pin/3203) — [source page](https://cerebras.ai/open-positions)
+
+[![Cerebras](https://pin.fontofweb.com/3202?format=jpg)](https://design.withfudge.com/pin/3202)
+[Cerebras](https://design.withfudge.com/pin/3202) — [source page](https://cerebras.ai/join-us)
+
+[![Cerebras](https://pin.fontofweb.com/3201?format=jpg)](https://design.withfudge.com/pin/3201)
+[Cerebras](https://design.withfudge.com/pin/3201) — [source page](https://cerebras.ai/join-us)
+
+[![Cerebras](https://pin.fontofweb.com/3200?format=jpg)](https://design.withfudge.com/pin/3200)
+[Cerebras](https://design.withfudge.com/pin/3200) — [source page](https://cerebras.ai/build-with-us)
+
+[![Cerebras](https://pin.fontofweb.com/3199?format=jpg)](https://design.withfudge.com/pin/3199)
+[Cerebras](https://design.withfudge.com/pin/3199) — [source page](https://cerebras.ai/build-with-us)
+
+[![Cerebras](https://pin.fontofweb.com/3198?format=jpg)](https://design.withfudge.com/pin/3198)
+[Cerebras](https://design.withfudge.com/pin/3198) — [source page](https://cerebras.ai/company)
+
+[![Cerebras](https://pin.fontofweb.com/3197?format=jpg)](https://design.withfudge.com/pin/3197)
+[Cerebras](https://design.withfudge.com/pin/3197) — [source page](https://cerebras.ai/company)

@@ -6,6 +6,10 @@ Source domain: [laylo.com](https://laylo.com)
 
 Last updated: 2026-07-12
 
+<!--
+coverPin: 10031
+-->
+
 Here is the visual system observed across **18 captured pages** from [laylo.com](https://laylo.com).
 
 ```fudge-colors
@@ -509,12 +513,27 @@ Here is the visual system observed across **18 captured pages** from [laylo.com]
 }
 ```
 
-## References
-- [Settings • Laylo](https://design.withfudge.com/pin/10031) — [source page](https://laylo.com/settings)
-- [Agents • Laylo](https://design.withfudge.com/pin/10030) — [source page](https://laylo.com/agents)
-- [Messages • Laylo](https://design.withfudge.com/pin/10029) — [source page](https://laylo.com/messages)
-- [Profile • Laylo](https://design.withfudge.com/pin/10028) — [source page](https://laylo.com/profile)
-- [Home • Laylo](https://design.withfudge.com/pin/10027) — [source page](https://laylo.com/drops)
-- [Laylo](https://design.withfudge.com/pin/10026) — [source page](https://laylo.com/onboarding/ownYourBranding)
-- [Laylo](https://design.withfudge.com/pin/10025) — [source page](https://laylo.com/onboarding/verify)
-- [Laylo](https://design.withfudge.com/pin/10024) — [source page](https://laylo.com/onboarding/introduceYourself)
+## Representative captures
+[![Settings • Laylo](https://pin.fontofweb.com/10031?format=jpg)](https://design.withfudge.com/pin/10031)
+[Settings • Laylo](https://design.withfudge.com/pin/10031) — [source page](https://laylo.com/settings)
+
+[![Agents • Laylo](https://pin.fontofweb.com/10030?format=jpg)](https://design.withfudge.com/pin/10030)
+[Agents • Laylo](https://design.withfudge.com/pin/10030) — [source page](https://laylo.com/agents)
+
+[![Messages • Laylo](https://pin.fontofweb.com/10029?format=jpg)](https://design.withfudge.com/pin/10029)
+[Messages • Laylo](https://design.withfudge.com/pin/10029) — [source page](https://laylo.com/messages)
+
+[![Profile • Laylo](https://pin.fontofweb.com/10028?format=jpg)](https://design.withfudge.com/pin/10028)
+[Profile • Laylo](https://design.withfudge.com/pin/10028) — [source page](https://laylo.com/profile)
+
+[![Home • Laylo](https://pin.fontofweb.com/10027?format=jpg)](https://design.withfudge.com/pin/10027)
+[Home • Laylo](https://design.withfudge.com/pin/10027) — [source page](https://laylo.com/drops)
+
+[![Laylo](https://pin.fontofweb.com/10026?format=jpg)](https://design.withfudge.com/pin/10026)
+[Laylo](https://design.withfudge.com/pin/10026) — [source page](https://laylo.com/onboarding/ownYourBranding)
+
+[![Laylo](https://pin.fontofweb.com/10025?format=jpg)](https://design.withfudge.com/pin/10025)
+[Laylo](https://design.withfudge.com/pin/10025) — [source page](https://laylo.com/onboarding/verify)
+
+[![Laylo](https://pin.fontofweb.com/10024?format=jpg)](https://design.withfudge.com/pin/10024)
+[Laylo](https://design.withfudge.com/pin/10024) — [source page](https://laylo.com/onboarding/introduceYourself)

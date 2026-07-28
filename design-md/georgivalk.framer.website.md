@@ -6,6 +6,10 @@ Source domain: [georgivalk.framer.website](https://georgivalk.framer.website)
 
 Last updated: 2026-02-14
 
+<!--
+coverPin: 6534
+-->
+
 Here is the visual system observed across **3 captured pages** from [georgivalk.framer.website](https://georgivalk.framer.website).
 
 ```fudge-colors
@@ -166,7 +170,12 @@ Here is the visual system observed across **3 captured pages** from [georgivalk.
 }
 ```
 
-## References
-- [Georgi Valkov](https://design.withfudge.com/pin/6534) — [source page](https://georgivalk.framer.website/)
-- [Georgi Valkov](https://design.withfudge.com/pin/6533) — [source page](https://georgivalk.framer.website/)
-- [Georgi Valkov](https://design.withfudge.com/pin/6532) — [source page](https://georgivalk.framer.website/)
+## Representative captures
+[![Georgi Valkov](https://pin.fontofweb.com/6534?format=jpg)](https://design.withfudge.com/pin/6534)
+[Georgi Valkov](https://design.withfudge.com/pin/6534) — [source page](https://georgivalk.framer.website/)
+
+[![Georgi Valkov](https://pin.fontofweb.com/6533?format=jpg)](https://design.withfudge.com/pin/6533)
+[Georgi Valkov](https://design.withfudge.com/pin/6533) — [source page](https://georgivalk.framer.website/)
+
+[![Georgi Valkov](https://pin.fontofweb.com/6532?format=jpg)](https://design.withfudge.com/pin/6532)
+[Georgi Valkov](https://design.withfudge.com/pin/6532) — [source page](https://georgivalk.framer.website/)

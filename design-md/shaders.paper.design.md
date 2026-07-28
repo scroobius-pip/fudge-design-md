@@ -6,6 +6,10 @@ Source domain: [shaders.paper.design](https://shaders.paper.design)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8567
+-->
+
 Here is the visual system observed across **7 captured pages** from [shaders.paper.design](https://shaders.paper.design).
 
 ```fudge-colors
@@ -222,11 +226,24 @@ Here is the visual system observed across **7 captured pages** from [shaders.pap
 }
 ```
 
-## References
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8567) — [source page](https://shaders.paper.design/fluted-glass)
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8566) — [source page](https://shaders.paper.design/fluted-glass)
-- [Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8565) — [source page](https://shaders.paper.design/fluted-glass)
-- [Paper Shaders – Ultra-fast zero-dependency shaders](https://design.withfudge.com/pin/7130) — [source page](https://shaders.paper.design/)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7129) — [source page](https://shaders.paper.design/grain-gradient)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7128) — [source page](https://shaders.paper.design/grain-gradient)
-- [Grain Gradient • Paper](https://design.withfudge.com/pin/7127) — [source page](https://shaders.paper.design/grain-gradient)
+## Representative captures
+[![Fluted Glass Filter • Paper](https://pin.fontofweb.com/8567?format=jpg)](https://design.withfudge.com/pin/8567)
+[Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8567) — [source page](https://shaders.paper.design/fluted-glass)
+
+[![Fluted Glass Filter • Paper](https://pin.fontofweb.com/8566?format=jpg)](https://design.withfudge.com/pin/8566)
+[Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8566) — [source page](https://shaders.paper.design/fluted-glass)
+
+[![Fluted Glass Filter • Paper](https://pin.fontofweb.com/8565?format=jpg)](https://design.withfudge.com/pin/8565)
+[Fluted Glass Filter • Paper](https://design.withfudge.com/pin/8565) — [source page](https://shaders.paper.design/fluted-glass)
+
+[![Paper Shaders – Ultra-fast zero-dependency shaders](https://pin.fontofweb.com/7130?format=jpg)](https://design.withfudge.com/pin/7130)
+[Paper Shaders – Ultra-fast zero-dependency shaders](https://design.withfudge.com/pin/7130) — [source page](https://shaders.paper.design/)
+
+[![Grain Gradient • Paper](https://pin.fontofweb.com/7129?format=jpg)](https://design.withfudge.com/pin/7129)
+[Grain Gradient • Paper](https://design.withfudge.com/pin/7129) — [source page](https://shaders.paper.design/grain-gradient)
+
+[![Grain Gradient • Paper](https://pin.fontofweb.com/7128?format=jpg)](https://design.withfudge.com/pin/7128)
+[Grain Gradient • Paper](https://design.withfudge.com/pin/7128) — [source page](https://shaders.paper.design/grain-gradient)
+
+[![Grain Gradient • Paper](https://pin.fontofweb.com/7127?format=jpg)](https://design.withfudge.com/pin/7127)
+[Grain Gradient • Paper](https://design.withfudge.com/pin/7127) — [source page](https://shaders.paper.design/grain-gradient)

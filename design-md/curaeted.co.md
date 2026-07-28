@@ -6,6 +6,10 @@ Source domain: [curaeted.co](https://curaeted.co)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9288
+-->
+
 Here is the visual system observed across **1 captured page** from [curaeted.co](https://curaeted.co).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [curaeted.co]
 }
 ```
 
-## References
-- [Curaeted.co](https://design.withfudge.com/pin/9288) — [source page](https://curaeted.co/)
+## Representative captures
+[![Curaeted.co](https://pin.fontofweb.com/9288?format=jpg)](https://design.withfudge.com/pin/9288)
+[Curaeted.co](https://design.withfudge.com/pin/9288) — [source page](https://curaeted.co/)

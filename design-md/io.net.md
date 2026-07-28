@@ -6,6 +6,10 @@ Source domain: [io.net](https://io.net)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8501
+-->
+
 Here is the visual system observed across **1 captured page** from [io.net](https://io.net).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [io.net](http
 }
 ```
 
-## References
-- [io.net | The Open Source AI Infrastructure Platform - io.net](https://design.withfudge.com/pin/8501) — [source page](https://io.net/)
+## Representative captures
+[![io.net | The Open Source AI Infrastructure Platform - io.net](https://pin.fontofweb.com/8501?format=jpg)](https://design.withfudge.com/pin/8501)
+[io.net | The Open Source AI Infrastructure Platform - io.net](https://design.withfudge.com/pin/8501) — [source page](https://io.net/)

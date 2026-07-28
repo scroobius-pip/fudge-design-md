@@ -6,6 +6,10 @@ Source domain: [ventionteams.com](https://ventionteams.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7354
+-->
+
 Here is the visual system observed across **16 captured pages** from [ventionteams.com](https://ventionteams.com).
 
 ```fudge-colors
@@ -337,12 +341,27 @@ Here is the visual system observed across **16 captured pages** from [ventiontea
 }
 ```
 
-## References
-- [Our work: software projects portfolio | Vention](https://design.withfudge.com/pin/7354) — [source page](https://ventionteams.com/our-work)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7353) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7352) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7351) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7350) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7349) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7348) — [source page](https://ventionteams.com/)
-- [Software Development Company | Vention](https://design.withfudge.com/pin/7347) — [source page](https://ventionteams.com/)
+## Representative captures
+[![Our work: software projects portfolio | Vention](https://pin.fontofweb.com/7354?format=jpg)](https://design.withfudge.com/pin/7354)
+[Our work: software projects portfolio | Vention](https://design.withfudge.com/pin/7354) — [source page](https://ventionteams.com/our-work)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7353?format=jpg)](https://design.withfudge.com/pin/7353)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7353) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7352?format=jpg)](https://design.withfudge.com/pin/7352)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7352) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7351?format=jpg)](https://design.withfudge.com/pin/7351)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7351) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7350?format=jpg)](https://design.withfudge.com/pin/7350)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7350) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7349?format=jpg)](https://design.withfudge.com/pin/7349)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7349) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7348?format=jpg)](https://design.withfudge.com/pin/7348)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7348) — [source page](https://ventionteams.com/)
+
+[![Software Development Company | Vention](https://pin.fontofweb.com/7347?format=jpg)](https://design.withfudge.com/pin/7347)
+[Software Development Company | Vention](https://design.withfudge.com/pin/7347) — [source page](https://ventionteams.com/)

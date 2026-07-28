@@ -6,6 +6,10 @@ Source domain: [styles.refero.design](https://styles.refero.design)
 
 Last updated: 2026-06-30
 
+<!--
+coverPin: 9858
+-->
+
 Here is the visual system observed across **5 captured pages** from [styles.refero.design](https://styles.refero.design).
 
 ```fudge-colors
@@ -223,9 +227,18 @@ Here is the visual system observed across **5 captured pages** from [styles.refe
 }
 ```
 
-## References
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9858) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9857) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9856) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9855) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
-- [Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9854) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+## Representative captures
+[![Awesomic design system | Refero Styles](https://pin.fontofweb.com/9858?format=jpg)](https://design.withfudge.com/pin/9858)
+[Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9858) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+
+[![Awesomic design system | Refero Styles](https://pin.fontofweb.com/9857?format=jpg)](https://design.withfudge.com/pin/9857)
+[Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9857) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+
+[![Awesomic design system | Refero Styles](https://pin.fontofweb.com/9856?format=jpg)](https://design.withfudge.com/pin/9856)
+[Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9856) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+
+[![Awesomic design system | Refero Styles](https://pin.fontofweb.com/9855?format=jpg)](https://design.withfudge.com/pin/9855)
+[Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9855) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)
+
+[![Awesomic design system | Refero Styles](https://pin.fontofweb.com/9854?format=jpg)](https://design.withfudge.com/pin/9854)
+[Awesomic design system | Refero Styles](https://design.withfudge.com/pin/9854) — [source page](https://styles.refero.design/style/8512e28d-5385-4c20-a336-214568c4370c)

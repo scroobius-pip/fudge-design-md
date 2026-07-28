@@ -6,6 +6,10 @@ Source domain: [heroui.chat](https://heroui.chat)
 
 Last updated: 2026-01-20
 
+<!--
+coverPin: 5916
+-->
+
 Here is the visual system observed across **1 captured page** from [heroui.chat](https://heroui.chat).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [heroui.chat]
 }
 ```
 
-## References
-- [HeroUI Chat](https://design.withfudge.com/pin/5916) — [source page](https://heroui.chat/)
+## Representative captures
+[![HeroUI Chat](https://pin.fontofweb.com/5916?format=jpg)](https://design.withfudge.com/pin/5916)
+[HeroUI Chat](https://design.withfudge.com/pin/5916) — [source page](https://heroui.chat/)

@@ -6,6 +6,10 @@ Source domain: [hyperagent.com](https://hyperagent.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8945
+-->
+
 Here is the visual system observed across **2 captured pages** from [hyperagent.com](https://hyperagent.com).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [hyperagent.
 }
 ```
 
-## References
-- [Hyperagent](https://design.withfudge.com/pin/8945) — [source page](https://hyperagent.com/)
-- [Hyperagent](https://design.withfudge.com/pin/8944) — [source page](https://hyperagent.com/)
+## Representative captures
+[![Hyperagent](https://pin.fontofweb.com/8945?format=jpg)](https://design.withfudge.com/pin/8945)
+[Hyperagent](https://design.withfudge.com/pin/8945) — [source page](https://hyperagent.com/)
+
+[![Hyperagent](https://pin.fontofweb.com/8944?format=jpg)](https://design.withfudge.com/pin/8944)
+[Hyperagent](https://design.withfudge.com/pin/8944) — [source page](https://hyperagent.com/)

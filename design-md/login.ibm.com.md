@@ -6,6 +6,10 @@ Source domain: [login.ibm.com](https://login.ibm.com)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6556
+-->
+
 Here is the visual system observed across **1 captured page** from [login.ibm.com](https://login.ibm.com).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [login.ibm.co
 }
 ```
 
-## References
-- [IBMid - Sign in or create an IBMid](https://design.withfudge.com/pin/6556) — [source page](https://login.ibm.com/authsvc/mtfim/sps/authsvc)
+## Representative captures
+[![IBMid - Sign in or create an IBMid](https://pin.fontofweb.com/6556?format=jpg)](https://design.withfudge.com/pin/6556)
+[IBMid - Sign in or create an IBMid](https://design.withfudge.com/pin/6556) — [source page](https://login.ibm.com/authsvc/mtfim/sps/authsvc)

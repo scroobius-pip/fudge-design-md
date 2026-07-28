@@ -6,6 +6,10 @@ Source domain: [kylechayka.com](https://kylechayka.com)
 
 Last updated: 2026-02-14
 
+<!--
+coverPin: 6531
+-->
+
 Here is the visual system observed across **3 captured pages** from [kylechayka.com](https://kylechayka.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [kylechayka.
 }
 ```
 
-## References
-- [Kyle Chayka](https://design.withfudge.com/pin/6531) — [source page](https://kylechayka.com/)
-- [Kyle Chayka](https://design.withfudge.com/pin/6530) — [source page](https://kylechayka.com/)
-- [Kyle Chayka](https://design.withfudge.com/pin/6529) — [source page](https://kylechayka.com/)
+## Representative captures
+[![Kyle Chayka](https://pin.fontofweb.com/6531?format=jpg)](https://design.withfudge.com/pin/6531)
+[Kyle Chayka](https://design.withfudge.com/pin/6531) — [source page](https://kylechayka.com/)
+
+[![Kyle Chayka](https://pin.fontofweb.com/6530?format=jpg)](https://design.withfudge.com/pin/6530)
+[Kyle Chayka](https://design.withfudge.com/pin/6530) — [source page](https://kylechayka.com/)
+
+[![Kyle Chayka](https://pin.fontofweb.com/6529?format=jpg)](https://design.withfudge.com/pin/6529)
+[Kyle Chayka](https://design.withfudge.com/pin/6529) — [source page](https://kylechayka.com/)

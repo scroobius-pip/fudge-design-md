@@ -6,6 +6,10 @@ Source domain: [link2.gysin-vanetti.com](https://link2.gysin-vanetti.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7096
+-->
+
 Here is the visual system observed across **2 captured pages** from [link2.gysin-vanetti.com](https://link2.gysin-vanetti.com).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [link2.gysin
 }
 ```
 
-## References
-- [Link 2](https://design.withfudge.com/pin/7096) — [source page](https://link2.gysin-vanetti.com/)
-- [Link 2](https://design.withfudge.com/pin/7095) — [source page](https://link2.gysin-vanetti.com/)
+## Representative captures
+[![Link 2](https://pin.fontofweb.com/7096?format=jpg)](https://design.withfudge.com/pin/7096)
+[Link 2](https://design.withfudge.com/pin/7096) — [source page](https://link2.gysin-vanetti.com/)
+
+[![Link 2](https://pin.fontofweb.com/7095?format=jpg)](https://design.withfudge.com/pin/7095)
+[Link 2](https://design.withfudge.com/pin/7095) — [source page](https://link2.gysin-vanetti.com/)

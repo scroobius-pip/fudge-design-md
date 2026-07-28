@@ -6,6 +6,10 @@ Source domain: [cinepolis.com](https://cinepolis.com)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8441
+-->
+
 Here is the visual system observed across **1 captured page** from [cinepolis.com](https://cinepolis.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [cinepolis.co
 }
 ```
 
-## References
-- [Cinépolis | Entra](https://design.withfudge.com/pin/8441) — [source page](https://cinepolis.com/mx)
+## Representative captures
+[![Cinépolis | Entra](https://pin.fontofweb.com/8441?format=jpg)](https://design.withfudge.com/pin/8441)
+[Cinépolis | Entra](https://design.withfudge.com/pin/8441) — [source page](https://cinepolis.com/mx)

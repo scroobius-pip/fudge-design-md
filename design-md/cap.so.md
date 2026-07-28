@@ -6,6 +6,10 @@ Source domain: [cap.so](https://cap.so)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6479
+-->
+
 Here is the visual system observed across **19 captured pages** from [cap.so](https://cap.so).
 
 ```fudge-colors
@@ -296,12 +300,27 @@ Here is the visual system observed across **19 captured pages** from [cap.so](ht
 }
 ```
 
-## References
-- [Pricing — Cap](https://design.withfudge.com/pin/6479) — [source page](https://cap.so/pricing)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6478) — [source page](https://cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6477) — [source page](https://cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6476) — [source page](https://cap.so/home)
-- [Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6475) — [source page](https://cap.so/home)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4342) — [source page](https://cap.so/pricing)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4341) — [source page](https://cap.so/pricing)
-- [Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4340) — [source page](https://cap.so/pricing)
+## Representative captures
+[![Pricing — Cap](https://pin.fontofweb.com/6479?format=jpg)](https://design.withfudge.com/pin/6479)
+[Pricing — Cap](https://design.withfudge.com/pin/6479) — [source page](https://cap.so/pricing)
+
+[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6478?format=jpg)](https://design.withfudge.com/pin/6478)
+[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6478) — [source page](https://cap.so/home)
+
+[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6477?format=jpg)](https://design.withfudge.com/pin/6477)
+[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6477) — [source page](https://cap.so/home)
+
+[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6476?format=jpg)](https://design.withfudge.com/pin/6476)
+[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6476) — [source page](https://cap.so/home)
+
+[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6475?format=jpg)](https://design.withfudge.com/pin/6475)
+[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/pin/6475) — [source page](https://cap.so/home)
+
+[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4342?format=jpg)](https://design.withfudge.com/pin/4342)
+[Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4342) — [source page](https://cap.so/pricing)
+
+[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4341?format=jpg)](https://design.withfudge.com/pin/4341)
+[Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4341) — [source page](https://cap.so/pricing)
+
+[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4340?format=jpg)](https://design.withfudge.com/pin/4340)
+[Early Adopter Pricing — Cap](https://design.withfudge.com/pin/4340) — [source page](https://cap.so/pricing)

@@ -6,6 +6,10 @@ Source domain: [diabrowser.com](https://diabrowser.com)
 
 Last updated: 2026-06-08
 
+<!--
+coverPin: 9533
+-->
+
 Here is the visual system observed across **9 captured pages** from [diabrowser.com](https://diabrowser.com).
 
 ```fudge-colors
@@ -252,12 +256,27 @@ Here is the visual system observed across **9 captured pages** from [diabrowser.
 }
 ```
 
-## References
-- [Dia Browser | Latest Release Notes](https://design.withfudge.com/pin/9533) — [source page](https://diabrowser.com/release-notes/latest)
-- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3816) — [source page](https://diabrowser.com/getting-started)
-- [Getting Started | Dia Browser](https://design.withfudge.com/pin/3815) — [source page](https://diabrowser.com/getting-started)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3814) — [source page](https://diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3813) — [source page](https://diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3812) — [source page](https://diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3811) — [source page](https://diabrowser.com/)
-- [Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3810) — [source page](https://diabrowser.com/)
+## Representative captures
+[![Dia Browser | Latest Release Notes](https://pin.fontofweb.com/9533?format=jpg)](https://design.withfudge.com/pin/9533)
+[Dia Browser | Latest Release Notes](https://design.withfudge.com/pin/9533) — [source page](https://diabrowser.com/release-notes/latest)
+
+[![Getting Started | Dia Browser](https://pin.fontofweb.com/3816?format=jpg)](https://design.withfudge.com/pin/3816)
+[Getting Started | Dia Browser](https://design.withfudge.com/pin/3816) — [source page](https://diabrowser.com/getting-started)
+
+[![Getting Started | Dia Browser](https://pin.fontofweb.com/3815?format=jpg)](https://design.withfudge.com/pin/3815)
+[Getting Started | Dia Browser](https://design.withfudge.com/pin/3815) — [source page](https://diabrowser.com/getting-started)
+
+[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3814?format=jpg)](https://design.withfudge.com/pin/3814)
+[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3814) — [source page](https://diabrowser.com/)
+
+[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3813?format=jpg)](https://design.withfudge.com/pin/3813)
+[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3813) — [source page](https://diabrowser.com/)
+
+[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3812?format=jpg)](https://design.withfudge.com/pin/3812)
+[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3812) — [source page](https://diabrowser.com/)
+
+[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3811?format=jpg)](https://design.withfudge.com/pin/3811)
+[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3811) — [source page](https://diabrowser.com/)
+
+[![Dia Browser | AI Chat With Your Tabs](https://pin.fontofweb.com/3810?format=jpg)](https://design.withfudge.com/pin/3810)
+[Dia Browser | AI Chat With Your Tabs](https://design.withfudge.com/pin/3810) — [source page](https://diabrowser.com/)

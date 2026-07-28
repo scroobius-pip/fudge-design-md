@@ -6,6 +6,10 @@ Source domain: [plus-ex.com](https://plus-ex.com)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10243
+-->
+
 Here is the visual system observed across **22 captured pages** from [plus-ex.com](https://plus-ex.com).
 
 ```fudge-colors
@@ -404,12 +408,27 @@ Here is the visual system observed across **22 captured pages** from [plus-ex.co
 }
 ```
 
-## References
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10243) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10242) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10241) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10240) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10239) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10238) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10237) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
-- [Plus X Creative Partner](https://design.withfudge.com/pin/10236) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+## Representative captures
+[![Plus X Creative Partner](https://pin.fontofweb.com/10243?format=jpg)](https://design.withfudge.com/pin/10243)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10243) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10242?format=jpg)](https://design.withfudge.com/pin/10242)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10242) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10241?format=jpg)](https://design.withfudge.com/pin/10241)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10241) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10240?format=jpg)](https://design.withfudge.com/pin/10240)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10240) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10239?format=jpg)](https://design.withfudge.com/pin/10239)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10239) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10238?format=jpg)](https://design.withfudge.com/pin/10238)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10238) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10237?format=jpg)](https://design.withfudge.com/pin/10237)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10237) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)
+
+[![Plus X Creative Partner](https://pin.fontofweb.com/10236?format=jpg)](https://design.withfudge.com/pin/10236)
+[Plus X Creative Partner](https://design.withfudge.com/pin/10236) — [source page](https://plus-ex.com/source/iframe/portfolio/sf_annualreport.html)

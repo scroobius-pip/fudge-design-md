@@ -6,6 +6,10 @@ Source domain: [moondream.ai](https://moondream.ai)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7955
+-->
+
 Here is the visual system observed across **3 captured pages** from [moondream.ai](https://moondream.ai).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [moondream.a
 }
 ```
 
-## References
-- [Moondream](https://design.withfudge.com/pin/7955) — [source page](https://moondream.ai/login)
-- [Moondream](https://design.withfudge.com/pin/7954) — [source page](https://moondream.ai/)
-- [Moondream](https://design.withfudge.com/pin/7953) — [source page](https://moondream.ai/)
+## Representative captures
+[![Moondream](https://pin.fontofweb.com/7955?format=jpg)](https://design.withfudge.com/pin/7955)
+[Moondream](https://design.withfudge.com/pin/7955) — [source page](https://moondream.ai/login)
+
+[![Moondream](https://pin.fontofweb.com/7954?format=jpg)](https://design.withfudge.com/pin/7954)
+[Moondream](https://design.withfudge.com/pin/7954) — [source page](https://moondream.ai/)
+
+[![Moondream](https://pin.fontofweb.com/7953?format=jpg)](https://design.withfudge.com/pin/7953)
+[Moondream](https://design.withfudge.com/pin/7953) — [source page](https://moondream.ai/)

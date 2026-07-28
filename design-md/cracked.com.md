@@ -6,6 +6,10 @@ Source domain: [cracked.com](https://cracked.com)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8242
+-->
+
 Here is the visual system observed across **2 captured pages** from [cracked.com](https://cracked.com).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [cracked.com
 }
 ```
 
-## References
-- [Movies & TV | Cracked.com](https://design.withfudge.com/pin/8242) — [source page](https://cracked.com/humor-movies-tv.html)
-- [Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/pin/8241) — [source page](https://cracked.com/)
+## Representative captures
+[![Movies & TV | Cracked.com](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/pin/8242)
+[Movies & TV | Cracked.com](https://design.withfudge.com/pin/8242) — [source page](https://cracked.com/humor-movies-tv.html)
+
+[![Cracked.com - America's Only Humor Site | Cracked.com](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/pin/8241)
+[Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/pin/8241) — [source page](https://cracked.com/)

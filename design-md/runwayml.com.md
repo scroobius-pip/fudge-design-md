@@ -6,6 +6,10 @@ Source domain: [runwayml.com](https://runwayml.com)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7635
+-->
+
 Here is the visual system observed across **6 captured pages** from [runwayml.com](https://runwayml.com).
 
 ```fudge-colors
@@ -187,10 +191,21 @@ Here is the visual system observed across **6 captured pages** from [runwayml.co
 }
 ```
 
-## References
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7635) — [source page](https://runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7634) — [source page](https://runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7633) — [source page](https://runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7632) — [source page](https://runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7631) — [source page](https://runwayml.com/)
-- [Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7630) — [source page](https://runwayml.com/)
+## Representative captures
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7635?format=jpg)](https://design.withfudge.com/pin/7635)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7635) — [source page](https://runwayml.com/)
+
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7634?format=jpg)](https://design.withfudge.com/pin/7634)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7634) — [source page](https://runwayml.com/)
+
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7633?format=jpg)](https://design.withfudge.com/pin/7633)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7633) — [source page](https://runwayml.com/)
+
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7632?format=jpg)](https://design.withfudge.com/pin/7632)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7632) — [source page](https://runwayml.com/)
+
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7631?format=jpg)](https://design.withfudge.com/pin/7631)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7631) — [source page](https://runwayml.com/)
+
+[![Runway | Building AI to Simulate the World](https://pin.fontofweb.com/7630?format=jpg)](https://design.withfudge.com/pin/7630)
+[Runway | Building AI to Simulate the World](https://design.withfudge.com/pin/7630) — [source page](https://runwayml.com/)

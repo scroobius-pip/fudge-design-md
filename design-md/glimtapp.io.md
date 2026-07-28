@@ -6,6 +6,10 @@ Source domain: [glimtapp.io](https://glimtapp.io)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8333
+-->
+
 Here is the visual system observed across **1 captured page** from [glimtapp.io](https://glimtapp.io).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [glimtapp.io]
 }
 ```
 
-## References
-- [Glimt — Mindful Breathing Reminders](https://design.withfudge.com/pin/8333) — [source page](https://glimtapp.io/)
+## Representative captures
+[![Glimt — Mindful Breathing Reminders](https://pin.fontofweb.com/8333?format=jpg)](https://design.withfudge.com/pin/8333)
+[Glimt — Mindful Breathing Reminders](https://design.withfudge.com/pin/8333) — [source page](https://glimtapp.io/)

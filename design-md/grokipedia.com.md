@@ -6,6 +6,10 @@ Source domain: [grokipedia.com](https://grokipedia.com)
 
 Last updated: 2026-06-17
 
+<!--
+coverPin: 9678
+-->
+
 Here is the visual system observed across **9 captured pages** from [grokipedia.com](https://grokipedia.com).
 
 ```fudge-colors
@@ -273,12 +277,27 @@ Here is the visual system observed across **9 captured pages** from [grokipedia.
 }
 ```
 
-## References
-- [Search — Grokipedia](https://design.withfudge.com/pin/9678) — [source page](https://grokipedia.com/search)
-- [Grokipedia](https://design.withfudge.com/pin/9677) — [source page](https://grokipedia.com/)
-- [Robert Kowalski — Grokipedia](https://design.withfudge.com/pin/9649) — [source page](https://grokipedia.com/page/Robert_Kowalski)
-- [Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9343) — [source page](https://grokipedia.com/page/Homoiconicity)
-- [Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9342) — [source page](https://grokipedia.com/page/Homoiconicity)
-- [Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9341) — [source page](https://grokipedia.com/page/Homoiconicity)
-- [Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8828) — [source page](https://grokipedia.com/page/Quine_(computing))
-- [Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8827) — [source page](https://grokipedia.com/page/Quine_(computing))
+## Representative captures
+[![Search — Grokipedia](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/pin/9678)
+[Search — Grokipedia](https://design.withfudge.com/pin/9678) — [source page](https://grokipedia.com/search)
+
+[![Grokipedia](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/pin/9677)
+[Grokipedia](https://design.withfudge.com/pin/9677) — [source page](https://grokipedia.com/)
+
+[![Robert Kowalski — Grokipedia](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/pin/9649)
+[Robert Kowalski — Grokipedia](https://design.withfudge.com/pin/9649) — [source page](https://grokipedia.com/page/Robert_Kowalski)
+
+[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/pin/9343)
+[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9343) — [source page](https://grokipedia.com/page/Homoiconicity)
+
+[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9342?format=jpg)](https://design.withfudge.com/pin/9342)
+[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9342) — [source page](https://grokipedia.com/page/Homoiconicity)
+
+[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9341?format=jpg)](https://design.withfudge.com/pin/9341)
+[Homoiconicity — Grokipedia](https://design.withfudge.com/pin/9341) — [source page](https://grokipedia.com/page/Homoiconicity)
+
+[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8828?format=jpg)](https://design.withfudge.com/pin/8828)
+[Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8828) — [source page](https://grokipedia.com/page/Quine_(computing))
+
+[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8827?format=jpg)](https://design.withfudge.com/pin/8827)
+[Quine (computing) — Grokipedia](https://design.withfudge.com/pin/8827) — [source page](https://grokipedia.com/page/Quine_(computing))

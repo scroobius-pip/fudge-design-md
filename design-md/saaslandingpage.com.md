@@ -6,6 +6,10 @@ Source domain: [saaslandingpage.com](https://saaslandingpage.com)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8832
+-->
+
 Here is the visual system observed across **3 captured pages** from [saaslandingpage.com](https://saaslandingpage.com).
 
 ```fudge-colors
@@ -131,7 +135,12 @@ Here is the visual system observed across **3 captured pages** from [saaslanding
 }
 ```
 
-## References
-- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8832) — [source page](https://saaslandingpage.com/claude/)
-- [Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8831) — [source page](https://saaslandingpage.com/claude/)
-- [14 Best Resources And Tools for Creating SaaS Landing Pages - SaaS Landing Page](https://design.withfudge.com/pin/7309) — [source page](https://saaslandingpage.com/resources/)
+## Representative captures
+[![Claude page - SaaS Landing Page](https://pin.fontofweb.com/8832?format=jpg)](https://design.withfudge.com/pin/8832)
+[Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8832) — [source page](https://saaslandingpage.com/claude/)
+
+[![Claude page - SaaS Landing Page](https://pin.fontofweb.com/8831?format=jpg)](https://design.withfudge.com/pin/8831)
+[Claude page - SaaS Landing Page](https://design.withfudge.com/pin/8831) — [source page](https://saaslandingpage.com/claude/)
+
+[![14 Best Resources And Tools for Creating SaaS Landing Pages - SaaS Landing Page](https://pin.fontofweb.com/7309?format=jpg)](https://design.withfudge.com/pin/7309)
+[14 Best Resources And Tools for Creating SaaS Landing Pages - SaaS Landing Page](https://design.withfudge.com/pin/7309) — [source page](https://saaslandingpage.com/resources/)

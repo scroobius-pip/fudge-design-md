@@ -6,6 +6,10 @@ Source domain: [squarespace.com](https://squarespace.com)
 
 Last updated: 2026-03-18
 
+<!--
+coverPin: 8161
+-->
+
 Here is the visual system observed across **1 captured page** from [squarespace.com](https://squarespace.com).
 
 ```fudge-colors
@@ -79,5 +83,6 @@ Here is the visual system observed across **1 captured page** from [squarespace.
 }
 ```
 
-## References
-- [Website Builder – Easily Create Your Own Website — Squarespace](https://design.withfudge.com/pin/8161) — [source page](https://squarespace.com/)
+## Representative captures
+[![Website Builder – Easily Create Your Own Website — Squarespace](https://pin.fontofweb.com/8161?format=jpg)](https://design.withfudge.com/pin/8161)
+[Website Builder – Easily Create Your Own Website — Squarespace](https://design.withfudge.com/pin/8161) — [source page](https://squarespace.com/)

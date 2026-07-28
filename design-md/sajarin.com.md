@@ -6,6 +6,10 @@ Source domain: [sajarin.com](https://sajarin.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7026
+-->
+
 Here is the visual system observed across **3 captured pages** from [sajarin.com](https://sajarin.com).
 
 ```fudge-colors
@@ -134,7 +138,12 @@ Here is the visual system observed across **3 captured pages** from [sajarin.com
 }
 ```
 
-## References
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7026) — [source page](https://sajarin.com/blog/modeltree/)
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7025) — [source page](https://sajarin.com/blog/modeltree/)
-- [A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7024) — [source page](https://sajarin.com/blog/modeltree/)
+## Representative captures
+[![A Tree of AI Model Names | Sajarin Dider](https://pin.fontofweb.com/7026?format=jpg)](https://design.withfudge.com/pin/7026)
+[A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7026) — [source page](https://sajarin.com/blog/modeltree/)
+
+[![A Tree of AI Model Names | Sajarin Dider](https://pin.fontofweb.com/7025?format=jpg)](https://design.withfudge.com/pin/7025)
+[A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7025) — [source page](https://sajarin.com/blog/modeltree/)
+
+[![A Tree of AI Model Names | Sajarin Dider](https://pin.fontofweb.com/7024?format=jpg)](https://design.withfudge.com/pin/7024)
+[A Tree of AI Model Names | Sajarin Dider](https://design.withfudge.com/pin/7024) — [source page](https://sajarin.com/blog/modeltree/)

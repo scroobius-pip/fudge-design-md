@@ -6,6 +6,10 @@ Source domain: [signup.criterionchannel.com](https://signup.criterionchannel.com
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7909
+-->
+
 Here is the visual system observed across **2 captured pages** from [signup.criterionchannel.com](https://signup.criterionchannel.com).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [signup.crit
 }
 ```
 
-## References
-- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7909) — [source page](https://signup.criterionchannel.com/)
-- [Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7908) — [source page](https://signup.criterionchannel.com/)
+## Representative captures
+[![Criterion Channel: Stream the world's best movies](https://pin.fontofweb.com/7909?format=jpg)](https://design.withfudge.com/pin/7909)
+[Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7909) — [source page](https://signup.criterionchannel.com/)
+
+[![Criterion Channel: Stream the world's best movies](https://pin.fontofweb.com/7908?format=jpg)](https://design.withfudge.com/pin/7908)
+[Criterion Channel: Stream the world's best movies](https://design.withfudge.com/pin/7908) — [source page](https://signup.criterionchannel.com/)

@@ -6,6 +6,10 @@ Source domain: [dash.dropbox.com](https://dash.dropbox.com)
 
 Last updated: 2026-01-20
 
+<!--
+coverPin: 5914
+-->
+
 Here is the visual system observed across **8 captured pages** from [dash.dropbox.com](https://dash.dropbox.com).
 
 ```fudge-colors
@@ -223,12 +227,27 @@ Here is the visual system observed across **8 captured pages** from [dash.dropbo
 }
 ```
 
-## References
-- [Dropbox Dash: Find anything. Protect everything.](https://design.withfudge.com/pin/5914) — [source page](https://dash.dropbox.com/)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3565) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3564) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3563) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3562) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3561) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3560) — [source page](https://dash.dropbox.com/mclarenf1)
-- [Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3559) — [source page](https://dash.dropbox.com/mclarenf1)
+## Representative captures
+[![Dropbox Dash: Find anything. Protect everything.](https://pin.fontofweb.com/5914?format=jpg)](https://design.withfudge.com/pin/5914)
+[Dropbox Dash: Find anything. Protect everything.](https://design.withfudge.com/pin/5914) — [source page](https://dash.dropbox.com/)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3565?format=jpg)](https://design.withfudge.com/pin/3565)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3565) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3564?format=jpg)](https://design.withfudge.com/pin/3564)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3564) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3563?format=jpg)](https://design.withfudge.com/pin/3563)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3563) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3562?format=jpg)](https://design.withfudge.com/pin/3562)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3562) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3561?format=jpg)](https://design.withfudge.com/pin/3561)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3561) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3560?format=jpg)](https://design.withfudge.com/pin/3560)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3560) — [source page](https://dash.dropbox.com/mclarenf1)
+
+[![Dropbox Dash x McLaren F1 Team](https://pin.fontofweb.com/3559?format=jpg)](https://design.withfudge.com/pin/3559)
+[Dropbox Dash x McLaren F1 Team](https://design.withfudge.com/pin/3559) — [source page](https://dash.dropbox.com/mclarenf1)

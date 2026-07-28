@@ -6,6 +6,10 @@ Source domain: [screensmooth.com](https://screensmooth.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7332
+-->
+
 Here is the visual system observed across **3 captured pages** from [screensmooth.com](https://screensmooth.com).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [screensmoot
 }
 ```
 
-## References
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7332) — [source page](https://screensmooth.com/)
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7331) — [source page](https://screensmooth.com/)
-- [ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7330) — [source page](https://screensmooth.com/)
+## Representative captures
+[![ScreenSmooth - AI Screen Recorder](https://pin.fontofweb.com/7332?format=jpg)](https://design.withfudge.com/pin/7332)
+[ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7332) — [source page](https://screensmooth.com/)
+
+[![ScreenSmooth - AI Screen Recorder](https://pin.fontofweb.com/7331?format=jpg)](https://design.withfudge.com/pin/7331)
+[ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7331) — [source page](https://screensmooth.com/)
+
+[![ScreenSmooth - AI Screen Recorder](https://pin.fontofweb.com/7330?format=jpg)](https://design.withfudge.com/pin/7330)
+[ScreenSmooth - AI Screen Recorder](https://design.withfudge.com/pin/7330) — [source page](https://screensmooth.com/)

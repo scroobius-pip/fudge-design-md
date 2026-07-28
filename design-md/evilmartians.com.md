@@ -6,6 +6,10 @@ Source domain: [evilmartians.com](https://evilmartians.com)
 
 Last updated: 2026-03-16
 
+<!--
+coverPin: 8135
+-->
+
 Here is the visual system observed across **4 captured pages** from [evilmartians.com](https://evilmartians.com).
 
 ```fudge-colors
@@ -158,8 +162,15 @@ Here is the visual system observed across **4 captured pages** from [evilmartian
 }
 ```
 
-## References
-- [OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8135) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
-- [OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8134) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
-- [OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8133) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
-- [Evil Martians design and develop high performance developer tools that scale](https://design.withfudge.com/pin/8132) — [source page](https://evilmartians.com/)
+## Representative captures
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8135?format=jpg)](https://design.withfudge.com/pin/8135)
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8135) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8134?format=jpg)](https://design.withfudge.com/pin/8134)
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8134) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8133?format=jpg)](https://design.withfudge.com/pin/8133)
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/pin/8133) — [source page](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+[![Evil Martians design and develop high performance developer tools that scale](https://pin.fontofweb.com/8132?format=jpg)](https://design.withfudge.com/pin/8132)
+[Evil Martians design and develop high performance developer tools that scale](https://design.withfudge.com/pin/8132) — [source page](https://evilmartians.com/)

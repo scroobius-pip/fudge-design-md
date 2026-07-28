@@ -6,6 +6,10 @@ Source domain: [auth.exa.ai](https://auth.exa.ai)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6647
+-->
+
 Here is the visual system observed across **1 captured page** from [auth.exa.ai](https://auth.exa.ai).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [auth.exa.ai]
 }
 ```
 
-## References
-- [Exa Login](https://design.withfudge.com/pin/6647) — [source page](https://auth.exa.ai/)
+## Representative captures
+[![Exa Login](https://pin.fontofweb.com/6647?format=jpg)](https://design.withfudge.com/pin/6647)
+[Exa Login](https://design.withfudge.com/pin/6647) — [source page](https://auth.exa.ai/)

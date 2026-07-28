@@ -6,6 +6,10 @@ Source domain: [jace.ai](https://jace.ai)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8614
+-->
+
 Here is the visual system observed across **6 captured pages** from [jace.ai](https://jace.ai).
 
 ```fudge-colors
@@ -204,10 +208,21 @@ Here is the visual system observed across **6 captured pages** from [jace.ai](ht
 }
 ```
 
-## References
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8614) — [source page](https://jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8613) — [source page](https://jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8612) — [source page](https://jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8611) — [source page](https://jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8610) — [source page](https://jace.ai/)
-- [Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8609) — [source page](https://jace.ai/)
+## Representative captures
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8614?format=jpg)](https://design.withfudge.com/pin/8614)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8614) — [source page](https://jace.ai/)
+
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8613?format=jpg)](https://design.withfudge.com/pin/8613)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8613) — [source page](https://jace.ai/)
+
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8612?format=jpg)](https://design.withfudge.com/pin/8612)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8612) — [source page](https://jace.ai/)
+
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8611?format=jpg)](https://design.withfudge.com/pin/8611)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8611) — [source page](https://jace.ai/)
+
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8610?format=jpg)](https://design.withfudge.com/pin/8610)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8610) — [source page](https://jace.ai/)
+
+[![Jace AI | Your AI Executive Assistant](https://pin.fontofweb.com/8609?format=jpg)](https://design.withfudge.com/pin/8609)
+[Jace AI | Your AI Executive Assistant](https://design.withfudge.com/pin/8609) — [source page](https://jace.ai/)

@@ -6,6 +6,10 @@ Source domain: [kiwijo.com](https://kiwijo.com)
 
 Last updated: 2026-03-13
 
+<!--
+coverPin: 8049
+-->
+
 Here is the visual system observed across **3 captured pages** from [kiwijo.com](https://kiwijo.com).
 
 ```fudge-colors
@@ -165,7 +169,12 @@ Here is the visual system observed across **3 captured pages** from [kiwijo.com]
 }
 ```
 
-## References
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8049) — [source page](https://kiwijo.com/)
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8048) — [source page](https://kiwijo.com/)
-- [Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8047) — [source page](https://kiwijo.com/)
+## Representative captures
+[![Kiwi Made — Kyuhee Jo](https://pin.fontofweb.com/8049?format=jpg)](https://design.withfudge.com/pin/8049)
+[Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8049) — [source page](https://kiwijo.com/)
+
+[![Kiwi Made — Kyuhee Jo](https://pin.fontofweb.com/8048?format=jpg)](https://design.withfudge.com/pin/8048)
+[Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8048) — [source page](https://kiwijo.com/)
+
+[![Kiwi Made — Kyuhee Jo](https://pin.fontofweb.com/8047?format=jpg)](https://design.withfudge.com/pin/8047)
+[Kiwi Made — Kyuhee Jo](https://design.withfudge.com/pin/8047) — [source page](https://kiwijo.com/)

@@ -6,6 +6,10 @@ Source domain: [shaders.com](https://shaders.com)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9009
+-->
+
 Here is the visual system observed across **1 captured page** from [shaders.com](https://shaders.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [shaders.com]
 }
 ```
 
-## References
-- [Smokescreen - Shaders](https://design.withfudge.com/pin/9009) — [source page](https://shaders.com/collection/smokescreen)
+## Representative captures
+[![Smokescreen - Shaders](https://pin.fontofweb.com/9009?format=jpg)](https://design.withfudge.com/pin/9009)
+[Smokescreen - Shaders](https://design.withfudge.com/pin/9009) — [source page](https://shaders.com/collection/smokescreen)

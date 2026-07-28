@@ -6,6 +6,10 @@ Source domain: [accounts.theatlantic.com](https://accounts.theatlantic.com)
 
 Last updated: 2026-05-11
 
+<!--
+coverPin: 9224
+-->
+
 Here is the visual system observed across **2 captured pages** from [accounts.theatlantic.com](https://accounts.theatlantic.com).
 
 ```fudge-colors
@@ -145,6 +149,9 @@ Here is the visual system observed across **2 captured pages** from [accounts.th
 }
 ```
 
-## References
-- [The Atlantic Magazine & Digital Subscriptions - The Atlantic](https://design.withfudge.com/pin/9224) — [source page](https://accounts.theatlantic.com/products/)
-- [The Atlantic](https://design.withfudge.com/pin/9223) — [source page](https://accounts.theatlantic.com/products/free-trial/)
+## Representative captures
+[![The Atlantic Magazine & Digital Subscriptions - The Atlantic](https://pin.fontofweb.com/9224?format=jpg)](https://design.withfudge.com/pin/9224)
+[The Atlantic Magazine & Digital Subscriptions - The Atlantic](https://design.withfudge.com/pin/9224) — [source page](https://accounts.theatlantic.com/products/)
+
+[![The Atlantic](https://pin.fontofweb.com/9223?format=jpg)](https://design.withfudge.com/pin/9223)
+[The Atlantic](https://design.withfudge.com/pin/9223) — [source page](https://accounts.theatlantic.com/products/free-trial/)

@@ -6,6 +6,10 @@ Source domain: [my.10web.io](https://my.10web.io)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6702
+-->
+
 Here is the visual system observed across **2 captured pages** from [my.10web.io](https://my.10web.io).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [my.10web.io
 }
 ```
 
-## References
-- [Websites - Dashboard](https://design.withfudge.com/pin/6702) — [source page](https://my.10web.io/websites)
-- [Convert With AI Builder - Dashboard](https://design.withfudge.com/pin/6701) — [source page](https://my.10web.io/setup/ai-convert)
+## Representative captures
+[![Websites - Dashboard](https://pin.fontofweb.com/6702?format=jpg)](https://design.withfudge.com/pin/6702)
+[Websites - Dashboard](https://design.withfudge.com/pin/6702) — [source page](https://my.10web.io/websites)
+
+[![Convert With AI Builder - Dashboard](https://pin.fontofweb.com/6701?format=jpg)](https://design.withfudge.com/pin/6701)
+[Convert With AI Builder - Dashboard](https://design.withfudge.com/pin/6701) — [source page](https://my.10web.io/setup/ai-convert)

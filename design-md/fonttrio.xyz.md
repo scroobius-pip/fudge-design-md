@@ -6,6 +6,10 @@ Source domain: [fonttrio.xyz](https://fonttrio.xyz)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7847
+-->
+
 Here is the visual system observed across **2 captured pages** from [fonttrio.xyz](https://fonttrio.xyz).
 
 ```fudge-colors
@@ -323,6 +327,9 @@ Here is the visual system observed across **2 captured pages** from [fonttrio.xy
 }
 ```
 
-## References
-- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7847) — [source page](https://fonttrio.xyz/)
-- [Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7846) — [source page](https://fonttrio.xyz/)
+## Representative captures
+[![Fonttrio - Font Pairings for shadcn](https://pin.fontofweb.com/7847?format=jpg)](https://design.withfudge.com/pin/7847)
+[Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7847) — [source page](https://fonttrio.xyz/)
+
+[![Fonttrio - Font Pairings for shadcn](https://pin.fontofweb.com/7846?format=jpg)](https://design.withfudge.com/pin/7846)
+[Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/pin/7846) — [source page](https://fonttrio.xyz/)

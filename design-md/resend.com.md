@@ -6,6 +6,10 @@ Source domain: [resend.com](https://resend.com)
 
 Last updated: 2026-05-15
 
+<!--
+coverPin: 9321
+-->
+
 Here is the visual system observed across **10 captured pages** from [resend.com](https://resend.com).
 
 ```fudge-colors
@@ -262,12 +266,27 @@ Here is the visual system observed across **10 captured pages** from [resend.com
 }
 ```
 
-## References
-- [Resend](https://design.withfudge.com/pin/9321) — [source page](https://resend.com/login)
-- [Contacts · Resend](https://design.withfudge.com/pin/6941) — [source page](https://resend.com/audience)
-- [Domains · Resend](https://design.withfudge.com/pin/6940) — [source page](https://resend.com/domains)
-- [Pricing · Resend](https://design.withfudge.com/pin/5164) — [source page](https://resend.com/pricing)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5163) — [source page](https://resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5162) — [source page](https://resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5161) — [source page](https://resend.com/)
-- [Resend · Email for developers](https://design.withfudge.com/pin/5160) — [source page](https://resend.com/)
+## Representative captures
+[![Resend](https://pin.fontofweb.com/9321?format=jpg)](https://design.withfudge.com/pin/9321)
+[Resend](https://design.withfudge.com/pin/9321) — [source page](https://resend.com/login)
+
+[![Contacts · Resend](https://pin.fontofweb.com/6941?format=jpg)](https://design.withfudge.com/pin/6941)
+[Contacts · Resend](https://design.withfudge.com/pin/6941) — [source page](https://resend.com/audience)
+
+[![Domains · Resend](https://pin.fontofweb.com/6940?format=jpg)](https://design.withfudge.com/pin/6940)
+[Domains · Resend](https://design.withfudge.com/pin/6940) — [source page](https://resend.com/domains)
+
+[![Pricing · Resend](https://pin.fontofweb.com/5164?format=jpg)](https://design.withfudge.com/pin/5164)
+[Pricing · Resend](https://design.withfudge.com/pin/5164) — [source page](https://resend.com/pricing)
+
+[![Resend · Email for developers](https://pin.fontofweb.com/5163?format=jpg)](https://design.withfudge.com/pin/5163)
+[Resend · Email for developers](https://design.withfudge.com/pin/5163) — [source page](https://resend.com/)
+
+[![Resend · Email for developers](https://pin.fontofweb.com/5162?format=jpg)](https://design.withfudge.com/pin/5162)
+[Resend · Email for developers](https://design.withfudge.com/pin/5162) — [source page](https://resend.com/)
+
+[![Resend · Email for developers](https://pin.fontofweb.com/5161?format=jpg)](https://design.withfudge.com/pin/5161)
+[Resend · Email for developers](https://design.withfudge.com/pin/5161) — [source page](https://resend.com/)
+
+[![Resend · Email for developers](https://pin.fontofweb.com/5160?format=jpg)](https://design.withfudge.com/pin/5160)
+[Resend · Email for developers](https://design.withfudge.com/pin/5160) — [source page](https://resend.com/)

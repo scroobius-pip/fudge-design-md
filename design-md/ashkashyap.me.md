@@ -6,6 +6,10 @@ Source domain: [ashkashyap.me](https://ashkashyap.me)
 
 Last updated: 2026-02-14
 
+<!--
+coverPin: 6535
+-->
+
 Here is the visual system observed across **1 captured page** from [ashkashyap.me](https://ashkashyap.me).
 
 ```fudge-colors
@@ -94,5 +98,6 @@ Here is the visual system observed across **1 captured page** from [ashkashyap.m
 }
 ```
 
-## References
-- [Ashish Kashyap - Product Designer](https://design.withfudge.com/pin/6535) — [source page](https://ashkashyap.me/)
+## Representative captures
+[![Ashish Kashyap - Product Designer](https://pin.fontofweb.com/6535?format=jpg)](https://design.withfudge.com/pin/6535)
+[Ashish Kashyap - Product Designer](https://design.withfudge.com/pin/6535) — [source page](https://ashkashyap.me/)

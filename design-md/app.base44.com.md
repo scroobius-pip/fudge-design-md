@@ -6,6 +6,10 @@ Source domain: [app.base44.com](https://app.base44.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7412
+-->
+
 Here is the visual system observed across **3 captured pages** from [app.base44.com](https://app.base44.com).
 
 ```fudge-colors
@@ -155,7 +159,12 @@ Here is the visual system observed across **3 captured pages** from [app.base44.
 }
 ```
 
-## References
-- [Curated | Base44](https://design.withfudge.com/pin/7412) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
-- [Curated | Base44](https://design.withfudge.com/pin/7411) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
-- [untitled | Base44](https://design.withfudge.com/pin/7410) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+## Representative captures
+[![Curated | Base44](https://pin.fontofweb.com/7412?format=jpg)](https://design.withfudge.com/pin/7412)
+[Curated | Base44](https://design.withfudge.com/pin/7412) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+
+[![Curated | Base44](https://pin.fontofweb.com/7411?format=jpg)](https://design.withfudge.com/pin/7411)
+[Curated | Base44](https://design.withfudge.com/pin/7411) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)
+
+[![untitled | Base44](https://pin.fontofweb.com/7410?format=jpg)](https://design.withfudge.com/pin/7410)
+[untitled | Base44](https://design.withfudge.com/pin/7410) — [source page](https://app.base44.com/apps/69a0c0c2e9e84046e13cb675/editor/preview)

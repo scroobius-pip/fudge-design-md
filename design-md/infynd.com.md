@@ -6,6 +6,10 @@ Source domain: [infynd.com](https://infynd.com)
 
 Last updated: 2026-06-01
 
+<!--
+coverPin: 9491
+-->
+
 Here is the visual system observed across **1 captured page** from [infynd.com](https://infynd.com).
 
 ```fudge-colors
@@ -94,5 +98,6 @@ Here is the visual system observed across **1 captured page** from [infynd.com](
 }
 ```
 
-## References
-- [InFynd | B2B Data & Sales Intelligence Platform UK](https://design.withfudge.com/pin/9491) — [source page](https://infynd.com/)
+## Representative captures
+[![InFynd | B2B Data & Sales Intelligence Platform UK](https://pin.fontofweb.com/9491?format=jpg)](https://design.withfudge.com/pin/9491)
+[InFynd | B2B Data & Sales Intelligence Platform UK](https://design.withfudge.com/pin/9491) — [source page](https://infynd.com/)

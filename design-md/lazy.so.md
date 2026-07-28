@@ -6,6 +6,10 @@ Source domain: [lazy.so](https://lazy.so)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8144
+-->
+
 Here is the visual system observed across **1 captured page** from [lazy.so](https://lazy.so).
 
 ```fudge-colors
@@ -94,5 +98,6 @@ Here is the visual system observed across **1 captured page** from [lazy.so](htt
 }
 ```
 
-## References
-- [Lazy • A capture tool for knowledge](https://design.withfudge.com/pin/8144) — [source page](https://lazy.so/)
+## Representative captures
+[![Lazy • A capture tool for knowledge](https://pin.fontofweb.com/8144?format=jpg)](https://design.withfudge.com/pin/8144)
+[Lazy • A capture tool for knowledge](https://design.withfudge.com/pin/8144) — [source page](https://lazy.so/)

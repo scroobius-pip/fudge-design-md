@@ -6,6 +6,10 @@ Source domain: [bpowell.co](https://bpowell.co)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7277
+-->
+
 Here is the visual system observed across **1 captured page** from [bpowell.co](https://bpowell.co).
 
 ```fudge-colors
@@ -101,5 +105,6 @@ Here is the visual system observed across **1 captured page** from [bpowell.co](
 }
 ```
 
-## References
-- [Ben Powell Independent Designer + Filmmaker](https://design.withfudge.com/pin/7277) — [source page](https://bpowell.co/)
+## Representative captures
+[![Ben Powell Independent Designer + Filmmaker](https://pin.fontofweb.com/7277?format=jpg)](https://design.withfudge.com/pin/7277)
+[Ben Powell Independent Designer + Filmmaker](https://design.withfudge.com/pin/7277) — [source page](https://bpowell.co/)

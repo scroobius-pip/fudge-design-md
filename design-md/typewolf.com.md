@@ -6,6 +6,10 @@ Source domain: [typewolf.com](https://typewolf.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6455
+-->
+
 Here is the visual system observed across **2 captured pages** from [typewolf.com](https://typewolf.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [typewolf.co
 }
 ```
 
-## References
-- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6455) — [source page](https://typewolf.com/)
-- [What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6454) — [source page](https://typewolf.com/)
+## Representative captures
+[![What’s Trending in Type · Typewolf](https://pin.fontofweb.com/6455?format=jpg)](https://design.withfudge.com/pin/6455)
+[What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6455) — [source page](https://typewolf.com/)
+
+[![What’s Trending in Type · Typewolf](https://pin.fontofweb.com/6454?format=jpg)](https://design.withfudge.com/pin/6454)
+[What’s Trending in Type · Typewolf](https://design.withfudge.com/pin/6454) — [source page](https://typewolf.com/)

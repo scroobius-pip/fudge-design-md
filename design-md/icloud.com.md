@@ -6,6 +6,10 @@ Source domain: [icloud.com](https://icloud.com)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6567
+-->
+
 Here is the visual system observed across **3 captured pages** from [icloud.com](https://icloud.com).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [icloud.com]
 }
 ```
 
-## References
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6567) — [source page](https://icloud.com/mail/)
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6566) — [source page](https://icloud.com/mail/)
-- [iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6565) — [source page](https://icloud.com/mail/)
+## Representative captures
+[![iCloud Mail - Apple iCloud](https://pin.fontofweb.com/6567?format=jpg)](https://design.withfudge.com/pin/6567)
+[iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6567) — [source page](https://icloud.com/mail/)
+
+[![iCloud Mail - Apple iCloud](https://pin.fontofweb.com/6566?format=jpg)](https://design.withfudge.com/pin/6566)
+[iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6566) — [source page](https://icloud.com/mail/)
+
+[![iCloud Mail - Apple iCloud](https://pin.fontofweb.com/6565?format=jpg)](https://design.withfudge.com/pin/6565)
+[iCloud Mail - Apple iCloud](https://design.withfudge.com/pin/6565) — [source page](https://icloud.com/mail/)

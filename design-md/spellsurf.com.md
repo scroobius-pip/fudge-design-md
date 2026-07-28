@@ -6,6 +6,10 @@ Source domain: [spellsurf.com](https://spellsurf.com)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10166
+-->
+
 Here is the visual system observed across **2 captured pages** from [spellsurf.com](https://spellsurf.com).
 
 ```fudge-colors
@@ -158,6 +162,9 @@ Here is the visual system observed across **2 captured pages** from [spellsurf.c
 }
 ```
 
-## References
-- [Spellsurf](https://design.withfudge.com/pin/10166) — [source page](https://spellsurf.com/)
-- [Spellsurf](https://design.withfudge.com/pin/10165) — [source page](https://spellsurf.com/)
+## Representative captures
+[![Spellsurf](https://pin.fontofweb.com/10166?format=jpg)](https://design.withfudge.com/pin/10166)
+[Spellsurf](https://design.withfudge.com/pin/10166) — [source page](https://spellsurf.com/)
+
+[![Spellsurf](https://pin.fontofweb.com/10165?format=jpg)](https://design.withfudge.com/pin/10165)
+[Spellsurf](https://design.withfudge.com/pin/10165) — [source page](https://spellsurf.com/)

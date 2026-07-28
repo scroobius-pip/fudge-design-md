@@ -6,6 +6,10 @@ Source domain: [icpay.org](https://icpay.org)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7760
+-->
+
 Here is the visual system observed across **11 captured pages** from [icpay.org](https://icpay.org).
 
 ```fudge-colors
@@ -299,12 +303,27 @@ Here is the visual system observed across **11 captured pages** from [icpay.org]
 }
 ```
 
-## References
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7760) — [source page](https://icpay.org/en-US/explore)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7758) — [source page](https://icpay.org/en-US/auth/signup)
-- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7757) — [source page](https://icpay.org/en-US/onboarding)
-- [Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7756) — [source page](https://icpay.org/en-US/onboarding)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7755) — [source page](https://icpay.org/en-US/features)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7754) — [source page](https://icpay.org/en-US)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7753) — [source page](https://icpay.org/en-US)
-- [icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7752) — [source page](https://icpay.org/en-US)
+## Representative captures
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7760?format=jpg)](https://design.withfudge.com/pin/7760)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7760) — [source page](https://icpay.org/en-US/explore)
+
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7758?format=jpg)](https://design.withfudge.com/pin/7758)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7758) — [source page](https://icpay.org/en-US/auth/signup)
+
+[![Get Started with icpay - Personalized Onboarding | icpay](https://pin.fontofweb.com/7757?format=jpg)](https://design.withfudge.com/pin/7757)
+[Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7757) — [source page](https://icpay.org/en-US/onboarding)
+
+[![Get Started with icpay - Personalized Onboarding | icpay](https://pin.fontofweb.com/7756?format=jpg)](https://design.withfudge.com/pin/7756)
+[Get Started with icpay - Personalized Onboarding | icpay](https://design.withfudge.com/pin/7756) — [source page](https://icpay.org/en-US/onboarding)
+
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7755?format=jpg)](https://design.withfudge.com/pin/7755)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7755) — [source page](https://icpay.org/en-US/features)
+
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7754?format=jpg)](https://design.withfudge.com/pin/7754)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7754) — [source page](https://icpay.org/en-US)
+
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7753?format=jpg)](https://design.withfudge.com/pin/7753)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7753) — [source page](https://icpay.org/en-US)
+
+[![icpay - Instant crypto payments. | icpay](https://pin.fontofweb.com/7752?format=jpg)](https://design.withfudge.com/pin/7752)
+[icpay - Instant crypto payments. | icpay](https://design.withfudge.com/pin/7752) — [source page](https://icpay.org/en-US)

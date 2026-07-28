@@ -6,6 +6,10 @@ Source domain: [footer.design](https://footer.design)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7029
+-->
+
 Here is the visual system observed across **3 captured pages** from [footer.design](https://footer.design).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [footer.desi
 }
 ```
 
-## References
-- [Footer | Inversa](https://design.withfudge.com/pin/7029) — [source page](https://footer.design/sites/inversa)
-- [Footer | Grid Footers — The only footer gallery on earth.](https://design.withfudge.com/pin/7028) — [source page](https://footer.design/styles/grid)
-- [Footer | Mesh Optical](https://design.withfudge.com/pin/7027) — [source page](https://footer.design/sites/mesh-optical)
+## Representative captures
+[![Footer | Inversa](https://pin.fontofweb.com/7029?format=jpg)](https://design.withfudge.com/pin/7029)
+[Footer | Inversa](https://design.withfudge.com/pin/7029) — [source page](https://footer.design/sites/inversa)
+
+[![Footer | Grid Footers — The only footer gallery on earth.](https://pin.fontofweb.com/7028?format=jpg)](https://design.withfudge.com/pin/7028)
+[Footer | Grid Footers — The only footer gallery on earth.](https://design.withfudge.com/pin/7028) — [source page](https://footer.design/styles/grid)
+
+[![Footer | Mesh Optical](https://pin.fontofweb.com/7027?format=jpg)](https://design.withfudge.com/pin/7027)
+[Footer | Mesh Optical](https://design.withfudge.com/pin/7027) — [source page](https://footer.design/sites/mesh-optical)

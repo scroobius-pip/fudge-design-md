@@ -6,6 +6,10 @@ Source domain: [betterstack.com](https://betterstack.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 7017
+-->
+
 Here is the visual system observed across **11 captured pages** from [betterstack.com](https://betterstack.com).
 
 ```fudge-colors
@@ -287,12 +291,27 @@ Here is the visual system observed across **11 captured pages** from [betterstac
 }
 ```
 
-## References
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7017) — [source page](https://betterstack.com/enterprise)
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7016) — [source page](https://betterstack.com/enterprise)
-- [Enterprise | Better Stack](https://design.withfudge.com/pin/7015) — [source page](https://betterstack.com/enterprise)
-- [Sign up | Better Stack](https://design.withfudge.com/pin/7014) — [source page](https://betterstack.com/users/sign-up)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7013) — [source page](https://betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7012) — [source page](https://betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7011) — [source page](https://betterstack.com/)
-- [Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7010) — [source page](https://betterstack.com/)
+## Representative captures
+[![Enterprise | Better Stack](https://pin.fontofweb.com/7017?format=jpg)](https://design.withfudge.com/pin/7017)
+[Enterprise | Better Stack](https://design.withfudge.com/pin/7017) — [source page](https://betterstack.com/enterprise)
+
+[![Enterprise | Better Stack](https://pin.fontofweb.com/7016?format=jpg)](https://design.withfudge.com/pin/7016)
+[Enterprise | Better Stack](https://design.withfudge.com/pin/7016) — [source page](https://betterstack.com/enterprise)
+
+[![Enterprise | Better Stack](https://pin.fontofweb.com/7015?format=jpg)](https://design.withfudge.com/pin/7015)
+[Enterprise | Better Stack](https://design.withfudge.com/pin/7015) — [source page](https://betterstack.com/enterprise)
+
+[![Sign up | Better Stack](https://pin.fontofweb.com/7014?format=jpg)](https://design.withfudge.com/pin/7014)
+[Sign up | Better Stack](https://design.withfudge.com/pin/7014) — [source page](https://betterstack.com/users/sign-up)
+
+[![Better Stack - 30x cheaper than Datadog, Exceptional support](https://pin.fontofweb.com/7013?format=jpg)](https://design.withfudge.com/pin/7013)
+[Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7013) — [source page](https://betterstack.com/)
+
+[![Better Stack - 30x cheaper than Datadog, Exceptional support](https://pin.fontofweb.com/7012?format=jpg)](https://design.withfudge.com/pin/7012)
+[Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7012) — [source page](https://betterstack.com/)
+
+[![Better Stack - 30x cheaper than Datadog, Exceptional support](https://pin.fontofweb.com/7011?format=jpg)](https://design.withfudge.com/pin/7011)
+[Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7011) — [source page](https://betterstack.com/)
+
+[![Better Stack - 30x cheaper than Datadog, Exceptional support](https://pin.fontofweb.com/7010?format=jpg)](https://design.withfudge.com/pin/7010)
+[Better Stack - 30x cheaper than Datadog, Exceptional support](https://design.withfudge.com/pin/7010) — [source page](https://betterstack.com/)

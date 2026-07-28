@@ -6,6 +6,10 @@ Source domain: [unicorn.studio](https://unicorn.studio)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8332
+-->
+
 Here is the visual system observed across **8 captured pages** from [unicorn.studio](https://unicorn.studio).
 
 ```fudge-colors
@@ -245,12 +249,27 @@ Here is the visual system observed across **8 captured pages** from [unicorn.stu
 }
 ```
 
-## References
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8332) — [source page](https://unicorn.studio/inspiration)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8331) — [source page](https://unicorn.studio/)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8330) — [source page](https://unicorn.studio/)
-- [Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8329) — [source page](https://unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3970) — [source page](https://unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3969) — [source page](https://unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3968) — [source page](https://unicorn.studio/)
-- [unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3967) — [source page](https://unicorn.studio/)
+## Representative captures
+[![Unicorn Studio — No-code WebGL Tool](https://pin.fontofweb.com/8332?format=jpg)](https://design.withfudge.com/pin/8332)
+[Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8332) — [source page](https://unicorn.studio/inspiration)
+
+[![Unicorn Studio — No-code WebGL Tool](https://pin.fontofweb.com/8331?format=jpg)](https://design.withfudge.com/pin/8331)
+[Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8331) — [source page](https://unicorn.studio/)
+
+[![Unicorn Studio — No-code WebGL Tool](https://pin.fontofweb.com/8330?format=jpg)](https://design.withfudge.com/pin/8330)
+[Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8330) — [source page](https://unicorn.studio/)
+
+[![Unicorn Studio — No-code WebGL Tool](https://pin.fontofweb.com/8329?format=jpg)](https://design.withfudge.com/pin/8329)
+[Unicorn Studio — No-code WebGL Tool](https://design.withfudge.com/pin/8329) — [source page](https://unicorn.studio/)
+
+[![unicorn.studio — No-code WebGL Tool](https://pin.fontofweb.com/3970?format=jpg)](https://design.withfudge.com/pin/3970)
+[unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3970) — [source page](https://unicorn.studio/)
+
+[![unicorn.studio — No-code WebGL Tool](https://pin.fontofweb.com/3969?format=jpg)](https://design.withfudge.com/pin/3969)
+[unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3969) — [source page](https://unicorn.studio/)
+
+[![unicorn.studio — No-code WebGL Tool](https://pin.fontofweb.com/3968?format=jpg)](https://design.withfudge.com/pin/3968)
+[unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3968) — [source page](https://unicorn.studio/)
+
+[![unicorn.studio — No-code WebGL Tool](https://pin.fontofweb.com/3967?format=jpg)](https://design.withfudge.com/pin/3967)
+[unicorn.studio — No-code WebGL Tool](https://design.withfudge.com/pin/3967) — [source page](https://unicorn.studio/)

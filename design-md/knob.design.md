@@ -6,6 +6,10 @@ Source domain: [knob.design](https://knob.design)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6656
+-->
+
 Here is the visual system observed across **19 captured pages** from [knob.design](https://knob.design).
 
 ```fudge-colors
@@ -334,12 +338,27 @@ Here is the visual system observed across **19 captured pages** from [knob.desig
 }
 ```
 
-## References
-- [KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://design.withfudge.com/pin/6656) — [source page](https://knob.design/)
-- [KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://design.withfudge.com/pin/6655) — [source page](https://knob.design/)
-- [KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6654) — [source page](https://knob.design/numpad)
-- [KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6653) — [source page](https://knob.design/numpad)
-- [KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6652) — [source page](https://knob.design/numpad)
-- [KNOB / knobsidian•sans / low-profile keyset](https://design.withfudge.com/pin/6651) — [source page](https://knob.design/keyset/dark)
-- [KNOB / knobsidian•sans / low-profile keyset](https://design.withfudge.com/pin/6650) — [source page](https://knob.design/keyset/dark)
-- [KNOB / k•no•b•sans / low-profile keyset](https://design.withfudge.com/pin/6649) — [source page](https://knob.design/keyset)
+## Representative captures
+[![KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://pin.fontofweb.com/6656?format=jpg)](https://design.withfudge.com/pin/6656)
+[KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://design.withfudge.com/pin/6656) — [source page](https://knob.design/)
+
+[![KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://pin.fontofweb.com/6655?format=jpg)](https://design.withfudge.com/pin/6655)
+[KNOB / k.no.b.1 / Low Profile Mechanical Keyboard](https://design.withfudge.com/pin/6655) — [source page](https://knob.design/)
+
+[![KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://pin.fontofweb.com/6654?format=jpg)](https://design.withfudge.com/pin/6654)
+[KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6654) — [source page](https://knob.design/numpad)
+
+[![KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://pin.fontofweb.com/6653?format=jpg)](https://design.withfudge.com/pin/6653)
+[KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6653) — [source page](https://knob.design/numpad)
+
+[![KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://pin.fontofweb.com/6652?format=jpg)](https://design.withfudge.com/pin/6652)
+[KNOB / k.no.b.less / numpad peripheral with magnetic attachments](https://design.withfudge.com/pin/6652) — [source page](https://knob.design/numpad)
+
+[![KNOB / knobsidian•sans / low-profile keyset](https://pin.fontofweb.com/6651?format=jpg)](https://design.withfudge.com/pin/6651)
+[KNOB / knobsidian•sans / low-profile keyset](https://design.withfudge.com/pin/6651) — [source page](https://knob.design/keyset/dark)
+
+[![KNOB / knobsidian•sans / low-profile keyset](https://pin.fontofweb.com/6650?format=jpg)](https://design.withfudge.com/pin/6650)
+[KNOB / knobsidian•sans / low-profile keyset](https://design.withfudge.com/pin/6650) — [source page](https://knob.design/keyset/dark)
+
+[![KNOB / k•no•b•sans / low-profile keyset](https://pin.fontofweb.com/6649?format=jpg)](https://design.withfudge.com/pin/6649)
+[KNOB / k•no•b•sans / low-profile keyset](https://design.withfudge.com/pin/6649) — [source page](https://knob.design/keyset)

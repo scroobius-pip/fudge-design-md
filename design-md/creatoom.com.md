@@ -6,6 +6,10 @@ Source domain: [creatoom.com](https://creatoom.com)
 
 Last updated: 2026-07-04
 
+<!--
+coverPin: 9901
+-->
+
 Here is the visual system observed across **1 captured page** from [creatoom.com](https://creatoom.com).
 
 ```fudge-colors
@@ -135,5 +139,6 @@ Here is the visual system observed across **1 captured page** from [creatoom.com
 }
 ```
 
-## References
-- [Premium and free mockups psd - Creatoom](https://design.withfudge.com/pin/9901) — [source page](https://creatoom.com/)
+## Representative captures
+[![Premium and free mockups psd - Creatoom](https://pin.fontofweb.com/9901?format=jpg)](https://design.withfudge.com/pin/9901)
+[Premium and free mockups psd - Creatoom](https://design.withfudge.com/pin/9901) — [source page](https://creatoom.com/)

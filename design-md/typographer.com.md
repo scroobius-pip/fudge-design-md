@@ -6,6 +6,10 @@ Source domain: [typographer.com](https://typographer.com)
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10430
+-->
+
 Here is the visual system observed across **12 captured pages** from [typographer.com](https://typographer.com).
 
 ```fudge-colors
@@ -347,12 +351,27 @@ Here is the visual system observed across **12 captured pages** from [typographe
 }
 ```
 
-## References
-- [Sign Up | Typographer](https://design.withfudge.com/pin/10430) — [source page](https://typographer.com/sign-up/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10423) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10422) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10421) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10420) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10419) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10418) — [source page](https://typographer.com/)
-- [Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10417) — [source page](https://typographer.com/)
+## Representative captures
+[![Sign Up | Typographer](https://pin.fontofweb.com/10430?format=jpg)](https://design.withfudge.com/pin/10430)
+[Sign Up | Typographer](https://design.withfudge.com/pin/10430) — [source page](https://typographer.com/sign-up/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10423?format=jpg)](https://design.withfudge.com/pin/10423)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10423) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10422?format=jpg)](https://design.withfudge.com/pin/10422)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10422) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10421?format=jpg)](https://design.withfudge.com/pin/10421)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10421) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10420?format=jpg)](https://design.withfudge.com/pin/10420)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10420) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10419?format=jpg)](https://design.withfudge.com/pin/10419)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10419) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10418?format=jpg)](https://design.withfudge.com/pin/10418)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10418) — [source page](https://typographer.com/)
+
+[![Find, sync, and test fonts | Typographer](https://pin.fontofweb.com/10417?format=jpg)](https://design.withfudge.com/pin/10417)
+[Find, sync, and test fonts | Typographer](https://design.withfudge.com/pin/10417) — [source page](https://typographer.com/)

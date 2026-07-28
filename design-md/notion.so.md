@@ -6,6 +6,10 @@ Source domain: [notion.so](https://notion.so)
 
 Last updated: 2026-05-10
 
+<!--
+coverPin: 9217
+-->
+
 Here is the visual system observed across **9 captured pages** from [notion.so](https://notion.so).
 
 ```fudge-colors
@@ -230,12 +234,27 @@ Here is the visual system observed across **9 captured pages** from [notion.so](
 }
 ```
 
-## References
-- [Font of Web | Notion](https://design.withfudge.com/pin/9217) — [source page](https://notion.so/fontofwebsponsorship/Font-of-Web-875c921acd8d419488899ddb29f5850a)
-- [Whisp OS | Notion](https://design.withfudge.com/pin/9062) — [source page](https://notion.so/fontofwebsponsorship/Whisp-OS-1b45348bcddb80eba7bfdbe7b087d8d5)
-- [Home | Notion](https://design.withfudge.com/pin/6779) — [source page](https://notion.so/a531cadad9ca4cf49ca63ecdd60357a5)
-- [Onboarding](https://design.withfudge.com/pin/5254) — [source page](https://notion.so/onboarding)
-- [Onboarding](https://design.withfudge.com/pin/5253) — [source page](https://notion.so/onboarding)
-- [Onboarding](https://design.withfudge.com/pin/5252) — [source page](https://notion.so/onboarding)
-- [Font of Web](https://design.withfudge.com/pin/4090) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
-- [Font of Web](https://design.withfudge.com/pin/4089) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+## Representative captures
+[![Font of Web | Notion](https://pin.fontofweb.com/9217?format=jpg)](https://design.withfudge.com/pin/9217)
+[Font of Web | Notion](https://design.withfudge.com/pin/9217) — [source page](https://notion.so/fontofwebsponsorship/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+
+[![Whisp OS | Notion](https://pin.fontofweb.com/9062?format=jpg)](https://design.withfudge.com/pin/9062)
+[Whisp OS | Notion](https://design.withfudge.com/pin/9062) — [source page](https://notion.so/fontofwebsponsorship/Whisp-OS-1b45348bcddb80eba7bfdbe7b087d8d5)
+
+[![Home | Notion](https://pin.fontofweb.com/6779?format=jpg)](https://design.withfudge.com/pin/6779)
+[Home | Notion](https://design.withfudge.com/pin/6779) — [source page](https://notion.so/a531cadad9ca4cf49ca63ecdd60357a5)
+
+[![Onboarding](https://pin.fontofweb.com/5254?format=jpg)](https://design.withfudge.com/pin/5254)
+[Onboarding](https://design.withfudge.com/pin/5254) — [source page](https://notion.so/onboarding)
+
+[![Onboarding](https://pin.fontofweb.com/5253?format=jpg)](https://design.withfudge.com/pin/5253)
+[Onboarding](https://design.withfudge.com/pin/5253) — [source page](https://notion.so/onboarding)
+
+[![Onboarding](https://pin.fontofweb.com/5252?format=jpg)](https://design.withfudge.com/pin/5252)
+[Onboarding](https://design.withfudge.com/pin/5252) — [source page](https://notion.so/onboarding)
+
+[![Font of Web](https://pin.fontofweb.com/4090?format=jpg)](https://design.withfudge.com/pin/4090)
+[Font of Web](https://design.withfudge.com/pin/4090) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)
+
+[![Font of Web](https://pin.fontofweb.com/4089?format=jpg)](https://design.withfudge.com/pin/4089)
+[Font of Web](https://design.withfudge.com/pin/4089) — [source page](https://notion.so/Font-of-Web-875c921acd8d419488899ddb29f5850a)

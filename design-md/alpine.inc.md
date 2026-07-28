@@ -6,6 +6,10 @@ Source domain: [alpine.inc](https://alpine.inc)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7702
+-->
+
 Here is the visual system observed across **10 captured pages** from [alpine.inc](https://alpine.inc).
 
 ```fudge-colors
@@ -299,12 +303,27 @@ Here is the visual system observed across **10 captured pages** from [alpine.inc
 }
 ```
 
-## References
-- [Alpine](https://design.withfudge.com/pin/7702) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7701) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7700) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7699) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7698) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7697) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7696) — [source page](https://alpine.inc/)
-- [Alpine](https://design.withfudge.com/pin/7695) — [source page](https://alpine.inc/)
+## Representative captures
+[![Alpine](https://pin.fontofweb.com/7702?format=jpg)](https://design.withfudge.com/pin/7702)
+[Alpine](https://design.withfudge.com/pin/7702) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7701?format=jpg)](https://design.withfudge.com/pin/7701)
+[Alpine](https://design.withfudge.com/pin/7701) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7700?format=jpg)](https://design.withfudge.com/pin/7700)
+[Alpine](https://design.withfudge.com/pin/7700) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7699?format=jpg)](https://design.withfudge.com/pin/7699)
+[Alpine](https://design.withfudge.com/pin/7699) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7698?format=jpg)](https://design.withfudge.com/pin/7698)
+[Alpine](https://design.withfudge.com/pin/7698) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7697?format=jpg)](https://design.withfudge.com/pin/7697)
+[Alpine](https://design.withfudge.com/pin/7697) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7696?format=jpg)](https://design.withfudge.com/pin/7696)
+[Alpine](https://design.withfudge.com/pin/7696) — [source page](https://alpine.inc/)
+
+[![Alpine](https://pin.fontofweb.com/7695?format=jpg)](https://design.withfudge.com/pin/7695)
+[Alpine](https://design.withfudge.com/pin/7695) — [source page](https://alpine.inc/)

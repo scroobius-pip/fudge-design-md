@@ -6,6 +6,10 @@ Source domain: [redis.io](https://redis.io)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7591
+-->
+
 Here is the visual system observed across **6 captured pages** from [redis.io](https://redis.io).
 
 ```fudge-colors
@@ -240,10 +244,21 @@ Here is the visual system observed across **6 captured pages** from [redis.io](h
 }
 ```
 
-## References
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7591) — [source page](https://redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7590) — [source page](https://redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7589) — [source page](https://redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7588) — [source page](https://redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7587) — [source page](https://redis.io/)
-- [Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7586) — [source page](https://redis.io/)
+## Representative captures
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7591?format=jpg)](https://design.withfudge.com/pin/7591)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7591) — [source page](https://redis.io/)
+
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7590?format=jpg)](https://design.withfudge.com/pin/7590)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7590) — [source page](https://redis.io/)
+
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7589?format=jpg)](https://design.withfudge.com/pin/7589)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7589) — [source page](https://redis.io/)
+
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7588?format=jpg)](https://design.withfudge.com/pin/7588)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7588) — [source page](https://redis.io/)
+
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7587?format=jpg)](https://design.withfudge.com/pin/7587)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7587) — [source page](https://redis.io/)
+
+[![Redis - The Real-time Data Platform](https://pin.fontofweb.com/7586?format=jpg)](https://design.withfudge.com/pin/7586)
+[Redis - The Real-time Data Platform](https://design.withfudge.com/pin/7586) — [source page](https://redis.io/)

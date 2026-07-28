@@ -6,6 +6,10 @@ Source domain: [getmesa.dev](https://getmesa.dev)
 
 Last updated: 2026-03-13
 
+<!--
+coverPin: 8058
+-->
+
 Here is the visual system observed across **6 captured pages** from [getmesa.dev](https://getmesa.dev).
 
 ```fudge-colors
@@ -215,10 +219,21 @@ Here is the visual system observed across **6 captured pages** from [getmesa.dev
 }
 ```
 
-## References
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8058) — [source page](https://getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8057) — [source page](https://getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8056) — [source page](https://getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8055) — [source page](https://getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8054) — [source page](https://getmesa.dev/)
-- [Mesa — The canvas for code](https://design.withfudge.com/pin/8053) — [source page](https://getmesa.dev/)
+## Representative captures
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8058?format=jpg)](https://design.withfudge.com/pin/8058)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8058) — [source page](https://getmesa.dev/)
+
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8057?format=jpg)](https://design.withfudge.com/pin/8057)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8057) — [source page](https://getmesa.dev/)
+
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8056?format=jpg)](https://design.withfudge.com/pin/8056)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8056) — [source page](https://getmesa.dev/)
+
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8055?format=jpg)](https://design.withfudge.com/pin/8055)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8055) — [source page](https://getmesa.dev/)
+
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8054?format=jpg)](https://design.withfudge.com/pin/8054)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8054) — [source page](https://getmesa.dev/)
+
+[![Mesa — The canvas for code](https://pin.fontofweb.com/8053?format=jpg)](https://design.withfudge.com/pin/8053)
+[Mesa — The canvas for code](https://design.withfudge.com/pin/8053) — [source page](https://getmesa.dev/)

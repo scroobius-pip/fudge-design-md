@@ -6,6 +6,10 @@ Source domain: [app.setapp.com](https://app.setapp.com)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7674
+-->
+
 Here is the visual system observed across **1 captured page** from [app.setapp.com](https://app.setapp.com).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [app.setapp.c
 }
 ```
 
-## References
-- [Use GPT5, DALL-E 3, and other AI models within the Setapp AI+ toolkit](https://design.withfudge.com/pin/7674) — [source page](https://app.setapp.com/ai-plus)
+## Representative captures
+[![Use GPT5, DALL-E 3, and other AI models within the Setapp AI+ toolkit](https://pin.fontofweb.com/7674?format=jpg)](https://design.withfudge.com/pin/7674)
+[Use GPT5, DALL-E 3, and other AI models within the Setapp AI+ toolkit](https://design.withfudge.com/pin/7674) — [source page](https://app.setapp.com/ai-plus)

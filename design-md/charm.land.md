@@ -6,6 +6,10 @@ Source domain: [charm.land](https://charm.land)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8833
+-->
+
 Here is the visual system observed across **1 captured page** from [charm.land](https://charm.land).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [charm.land](
 }
 ```
 
-## References
-- [Charm](https://design.withfudge.com/pin/8833) — [source page](https://charm.land/)
+## Representative captures
+[![Charm](https://pin.fontofweb.com/8833?format=jpg)](https://design.withfudge.com/pin/8833)
+[Charm](https://design.withfudge.com/pin/8833) — [source page](https://charm.land/)

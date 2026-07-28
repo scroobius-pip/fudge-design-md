@@ -6,6 +6,10 @@ Source domain: [ignytlabs.com](https://ignytlabs.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7064
+-->
+
 Here is the visual system observed across **10 captured pages** from [ignytlabs.com](https://ignytlabs.com).
 
 ```fudge-colors
@@ -272,12 +276,27 @@ Here is the visual system observed across **10 captured pages** from [ignytlabs.
 }
 ```
 
-## References
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7064) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7063) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7062) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7061) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7060) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7059) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4972) — [source page](https://ignytlabs.com/)
-- [IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4971) — [source page](https://ignytlabs.com/)
+## Representative captures
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7064?format=jpg)](https://design.withfudge.com/pin/7064)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7064) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7063?format=jpg)](https://design.withfudge.com/pin/7063)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7063) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7062?format=jpg)](https://design.withfudge.com/pin/7062)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7062) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7061?format=jpg)](https://design.withfudge.com/pin/7061)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7061) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7060?format=jpg)](https://design.withfudge.com/pin/7060)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7060) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/7059?format=jpg)](https://design.withfudge.com/pin/7059)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/7059) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/4972?format=jpg)](https://design.withfudge.com/pin/4972)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4972) — [source page](https://ignytlabs.com/)
+
+[![IgnytLabs-Build and Validate in 21 days](https://pin.fontofweb.com/4971?format=jpg)](https://design.withfudge.com/pin/4971)
+[IgnytLabs-Build and Validate in 21 days](https://design.withfudge.com/pin/4971) — [source page](https://ignytlabs.com/)

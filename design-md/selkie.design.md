@@ -6,6 +6,10 @@ Source domain: [selkie.design](https://selkie.design)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8748
+-->
+
 Here is the visual system observed across **2 captured pages** from [selkie.design](https://selkie.design).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [selkie.desi
 }
 ```
 
-## References
-- [Substage: A natural language command bar for your Finder windows.](https://design.withfudge.com/pin/8748) — [source page](https://selkie.design/substage/)
-- [Selkie Design](https://design.withfudge.com/pin/8700) — [source page](https://selkie.design/)
+## Representative captures
+[![Substage: A natural language command bar for your Finder windows.](https://pin.fontofweb.com/8748?format=jpg)](https://design.withfudge.com/pin/8748)
+[Substage: A natural language command bar for your Finder windows.](https://design.withfudge.com/pin/8748) — [source page](https://selkie.design/substage/)
+
+[![Selkie Design](https://pin.fontofweb.com/8700?format=jpg)](https://design.withfudge.com/pin/8700)
+[Selkie Design](https://design.withfudge.com/pin/8700) — [source page](https://selkie.design/)

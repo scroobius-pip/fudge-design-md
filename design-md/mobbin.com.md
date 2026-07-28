@@ -6,6 +6,10 @@ Source domain: [mobbin.com](https://mobbin.com)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10087
+-->
+
 Here is the visual system observed across **12 captured pages** from [mobbin.com](https://mobbin.com).
 
 ```fudge-colors
@@ -303,12 +307,27 @@ Here is the visual system observed across **12 captured pages** from [mobbin.com
 }
 ```
 
-## References
-- [Sign up | Mobbin](https://design.withfudge.com/pin/10087) — [source page](https://mobbin.com/signup)
-- [Pricing | Mobbin](https://design.withfudge.com/pin/6761) — [source page](https://mobbin.com/pricing)
-- [Pricing | Mobbin](https://design.withfudge.com/pin/6760) — [source page](https://mobbin.com/pricing)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6581) — [source page](https://mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6580) — [source page](https://mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6579) — [source page](https://mobbin.com/)
-- [Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6578) — [source page](https://mobbin.com/)
-- [Attio Web Onboarding Flow | Mobbin](https://design.withfudge.com/pin/5624) — [source page](https://mobbin.com/flows/4373fd95-c2f6-4361-9c2d-34ce151bcee9)
+## Representative captures
+[![Sign up | Mobbin](https://pin.fontofweb.com/10087?format=jpg)](https://design.withfudge.com/pin/10087)
+[Sign up | Mobbin](https://design.withfudge.com/pin/10087) — [source page](https://mobbin.com/signup)
+
+[![Pricing | Mobbin](https://pin.fontofweb.com/6761?format=jpg)](https://design.withfudge.com/pin/6761)
+[Pricing | Mobbin](https://design.withfudge.com/pin/6761) — [source page](https://mobbin.com/pricing)
+
+[![Pricing | Mobbin](https://pin.fontofweb.com/6760?format=jpg)](https://design.withfudge.com/pin/6760)
+[Pricing | Mobbin](https://design.withfudge.com/pin/6760) — [source page](https://mobbin.com/pricing)
+
+[![Mobbin — UI & UX design inspiration for mobile & web apps](https://pin.fontofweb.com/6581?format=jpg)](https://design.withfudge.com/pin/6581)
+[Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6581) — [source page](https://mobbin.com/)
+
+[![Mobbin — UI & UX design inspiration for mobile & web apps](https://pin.fontofweb.com/6580?format=jpg)](https://design.withfudge.com/pin/6580)
+[Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6580) — [source page](https://mobbin.com/)
+
+[![Mobbin — UI & UX design inspiration for mobile & web apps](https://pin.fontofweb.com/6579?format=jpg)](https://design.withfudge.com/pin/6579)
+[Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6579) — [source page](https://mobbin.com/)
+
+[![Mobbin — UI & UX design inspiration for mobile & web apps](https://pin.fontofweb.com/6578?format=jpg)](https://design.withfudge.com/pin/6578)
+[Mobbin — UI & UX design inspiration for mobile & web apps](https://design.withfudge.com/pin/6578) — [source page](https://mobbin.com/)
+
+[![Attio Web Onboarding Flow | Mobbin](https://pin.fontofweb.com/5624?format=jpg)](https://design.withfudge.com/pin/5624)
+[Attio Web Onboarding Flow | Mobbin](https://design.withfudge.com/pin/5624) — [source page](https://mobbin.com/flows/4373fd95-c2f6-4361-9c2d-34ce151bcee9)

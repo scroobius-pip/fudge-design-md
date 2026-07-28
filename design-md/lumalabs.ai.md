@@ -6,6 +6,10 @@ Source domain: [lumalabs.ai](https://lumalabs.ai)
 
 Last updated: 2026-04-01
 
+<!--
+coverPin: 8580
+-->
+
 Here is the visual system observed across **2 captured pages** from [lumalabs.ai](https://lumalabs.ai).
 
 ```fudge-colors
@@ -103,6 +107,9 @@ Here is the visual system observed across **2 captured pages** from [lumalabs.ai
 }
 ```
 
-## References
-- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8580) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
-- [Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8579) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
+## Representative captures
+[![Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://pin.fontofweb.com/8580?format=jpg)](https://design.withfudge.com/pin/8580)
+[Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8580) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)
+
+[![Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://pin.fontofweb.com/8579?format=jpg)](https://design.withfudge.com/pin/8579)
+[Luma AI To Open Riyadh Office To Accelerate Humain Create And Partner With Publicis Groupe | Luma](https://design.withfudge.com/pin/8579) — [source page](https://lumalabs.ai/news/serviceplan-group-deploys-creative-ai-across-global-operations-in-partnership-with-luma-ai)

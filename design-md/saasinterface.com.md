@@ -6,6 +6,10 @@ Source domain: [saasinterface.com](https://saasinterface.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7310
+-->
+
 Here is the visual system observed across **1 captured page** from [saasinterface.com](https://saasinterface.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [saasinterfac
 }
 ```
 
-## References
-- [Pricing - Saas Interface](https://design.withfudge.com/pin/7310) — [source page](https://saasinterface.com/pricing/)
+## Representative captures
+[![Pricing - Saas Interface](https://pin.fontofweb.com/7310?format=jpg)](https://design.withfudge.com/pin/7310)
+[Pricing - Saas Interface](https://design.withfudge.com/pin/7310) — [source page](https://saasinterface.com/pricing/)

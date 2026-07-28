@@ -6,6 +6,10 @@ Source domain: [browseros.com](https://browseros.com)
 
 Last updated: 2026-01-22
 
+<!--
+coverPin: 5991
+-->
+
 Here is the visual system observed across **10 captured pages** from [browseros.com](https://browseros.com).
 
 ```fudge-colors
@@ -271,12 +275,27 @@ Here is the visual system observed across **10 captured pages** from [browseros.
 }
 ```
 
-## References
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5991) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5990) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5989) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5988) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5987) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5986) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5176) — [source page](https://browseros.com/)
-- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5175) — [source page](https://browseros.com/)
+## Representative captures
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5991?format=jpg)](https://design.withfudge.com/pin/5991)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5991) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5990?format=jpg)](https://design.withfudge.com/pin/5990)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5990) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5989?format=jpg)](https://design.withfudge.com/pin/5989)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5989) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5988?format=jpg)](https://design.withfudge.com/pin/5988)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5988) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5987?format=jpg)](https://design.withfudge.com/pin/5987)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5987) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5986?format=jpg)](https://design.withfudge.com/pin/5986)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5986) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5176?format=jpg)](https://design.withfudge.com/pin/5176)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5176) — [source page](https://browseros.com/)
+
+[![BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://pin.fontofweb.com/5175?format=jpg)](https://design.withfudge.com/pin/5175)
+[BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://design.withfudge.com/pin/5175) — [source page](https://browseros.com/)

@@ -6,6 +6,10 @@ Source domain: [modular.com](https://modular.com)
 
 Last updated: 2026-04-03
 
+<!--
+coverPin: 8630
+-->
+
 Here is the visual system observed across **4 captured pages** from [modular.com](https://modular.com).
 
 ```fudge-colors
@@ -162,8 +166,15 @@ Here is the visual system observed across **4 captured pages** from [modular.com
 }
 ```
 
-## References
-- [Modular: Editions & Pricing](https://design.withfudge.com/pin/8630) — [source page](https://modular.com/pricing)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8629) — [source page](https://modular.com/)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8628) — [source page](https://modular.com/)
-- [Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8627) — [source page](https://modular.com/)
+## Representative captures
+[![Modular: Editions & Pricing](https://pin.fontofweb.com/8630?format=jpg)](https://design.withfudge.com/pin/8630)
+[Modular: Editions & Pricing](https://design.withfudge.com/pin/8630) — [source page](https://modular.com/pricing)
+
+[![Modular: Inference from Kernel to Cloud](https://pin.fontofweb.com/8629?format=jpg)](https://design.withfudge.com/pin/8629)
+[Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8629) — [source page](https://modular.com/)
+
+[![Modular: Inference from Kernel to Cloud](https://pin.fontofweb.com/8628?format=jpg)](https://design.withfudge.com/pin/8628)
+[Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8628) — [source page](https://modular.com/)
+
+[![Modular: Inference from Kernel to Cloud](https://pin.fontofweb.com/8627?format=jpg)](https://design.withfudge.com/pin/8627)
+[Modular: Inference from Kernel to Cloud](https://design.withfudge.com/pin/8627) — [source page](https://modular.com/)

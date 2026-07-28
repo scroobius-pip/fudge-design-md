@@ -6,6 +6,10 @@ Source domain: [developer.puter.com](https://developer.puter.com)
 
 Last updated: 2026-04-21
 
+<!--
+coverPin: 9013
+-->
+
 Here is the visual system observed across **1 captured page** from [developer.puter.com](https://developer.puter.com).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [developer.pu
 }
 ```
 
-## References
-- [Puter.js - Free, Serverless, Cloud and AI](https://design.withfudge.com/pin/9013) — [source page](https://developer.puter.com/)
+## Representative captures
+[![Puter.js - Free, Serverless, Cloud and AI](https://pin.fontofweb.com/9013?format=jpg)](https://design.withfudge.com/pin/9013)
+[Puter.js - Free, Serverless, Cloud and AI](https://design.withfudge.com/pin/9013) — [source page](https://developer.puter.com/)

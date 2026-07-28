@@ -6,6 +6,10 @@ Source domain: [nousresearch.com](https://nousresearch.com)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7867
+-->
+
 Here is the visual system observed across **1 captured page** from [nousresearch.com](https://nousresearch.com).
 
 ```fudge-colors
@@ -106,5 +110,6 @@ Here is the visual system observed across **1 captured page** from [nousresearch
 }
 ```
 
-## References
-- [NOUS RESEARCH - Open Source AI](https://design.withfudge.com/pin/7867) — [source page](https://nousresearch.com/)
+## Representative captures
+[![NOUS RESEARCH - Open Source AI](https://pin.fontofweb.com/7867?format=jpg)](https://design.withfudge.com/pin/7867)
+[NOUS RESEARCH - Open Source AI](https://design.withfudge.com/pin/7867) — [source page](https://nousresearch.com/)

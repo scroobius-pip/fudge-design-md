@@ -6,6 +6,10 @@ Source domain: [lit.dev](https://lit.dev)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7865
+-->
+
 Here is the visual system observed across **11 captured pages** from [lit.dev](https://lit.dev).
 
 ```fudge-colors
@@ -276,12 +280,27 @@ Here is the visual system observed across **11 captured pages** from [lit.dev](h
 }
 ```
 
-## References
-- [Lit](https://design.withfudge.com/pin/7865) — [source page](https://lit.dev/)
-- [Lit](https://design.withfudge.com/pin/7864) — [source page](https://lit.dev/)
-- [What is Lit? – Lit](https://design.withfudge.com/pin/1679) — [source page](https://lit.dev/docs/)
-- [Lit](https://design.withfudge.com/pin/1678) — [source page](https://lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1677) — [source page](https://lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1676) — [source page](https://lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1675) — [source page](https://lit.dev/)
-- [Lit](https://design.withfudge.com/pin/1674) — [source page](https://lit.dev/)
+## Representative captures
+[![Lit](https://pin.fontofweb.com/7865?format=jpg)](https://design.withfudge.com/pin/7865)
+[Lit](https://design.withfudge.com/pin/7865) — [source page](https://lit.dev/)
+
+[![Lit](https://pin.fontofweb.com/7864?format=jpg)](https://design.withfudge.com/pin/7864)
+[Lit](https://design.withfudge.com/pin/7864) — [source page](https://lit.dev/)
+
+[![What is Lit? – Lit](https://pin.fontofweb.com/1679?format=jpg)](https://design.withfudge.com/pin/1679)
+[What is Lit? – Lit](https://design.withfudge.com/pin/1679) — [source page](https://lit.dev/docs/)
+
+[![Lit](https://pin.fontofweb.com/1678?format=jpg)](https://design.withfudge.com/pin/1678)
+[Lit](https://design.withfudge.com/pin/1678) — [source page](https://lit.dev/)
+
+[![Lit](https://pin.fontofweb.com/1677?format=jpg)](https://design.withfudge.com/pin/1677)
+[Lit](https://design.withfudge.com/pin/1677) — [source page](https://lit.dev/)
+
+[![Lit](https://pin.fontofweb.com/1676?format=jpg)](https://design.withfudge.com/pin/1676)
+[Lit](https://design.withfudge.com/pin/1676) — [source page](https://lit.dev/)
+
+[![Lit](https://pin.fontofweb.com/1675?format=jpg)](https://design.withfudge.com/pin/1675)
+[Lit](https://design.withfudge.com/pin/1675) — [source page](https://lit.dev/)
+
+[![Lit](https://pin.fontofweb.com/1674?format=jpg)](https://design.withfudge.com/pin/1674)
+[Lit](https://design.withfudge.com/pin/1674) — [source page](https://lit.dev/)

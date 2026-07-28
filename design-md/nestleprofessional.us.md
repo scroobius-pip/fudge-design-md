@@ -6,6 +6,10 @@ Source domain: [nestleprofessional.us](https://nestleprofessional.us)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7657
+-->
+
 Here is the visual system observed across **1 captured page** from [nestleprofessional.us](https://nestleprofessional.us).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [nestleprofes
 }
 ```
 
-## References
-- [10 Street Food Ideas | Nestlé Professional](https://design.withfudge.com/pin/7657) — [source page](https://nestleprofessional.us/trends-insights/10-street-food-ideas)
+## Representative captures
+[![10 Street Food Ideas | Nestlé Professional](https://pin.fontofweb.com/7657?format=jpg)](https://design.withfudge.com/pin/7657)
+[10 Street Food Ideas | Nestlé Professional](https://design.withfudge.com/pin/7657) — [source page](https://nestleprofessional.us/trends-insights/10-street-food-ideas)

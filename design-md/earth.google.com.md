@@ -6,6 +6,10 @@ Source domain: [earth.google.com](https://earth.google.com)
 
 Last updated: 2026-06-15
 
+<!--
+coverPin: 9655
+-->
+
 Here is the visual system observed across **3 captured pages** from [earth.google.com](https://earth.google.com).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [earth.googl
 }
 ```
 
-## References
-- [Google Earth](https://design.withfudge.com/pin/9655) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA)
-- [Google Earth](https://design.withfudge.com/pin/9654) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)
-- [Google Earth](https://design.withfudge.com/pin/9653) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)
+## Representative captures
+[![Google Earth](https://pin.fontofweb.com/9655?format=jpg)](https://design.withfudge.com/pin/9655)
+[Google Earth](https://design.withfudge.com/pin/9655) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA)
+
+[![Google Earth](https://pin.fontofweb.com/9654?format=jpg)](https://design.withfudge.com/pin/9654)
+[Google Earth](https://design.withfudge.com/pin/9654) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)
+
+[![Google Earth](https://pin.fontofweb.com/9653?format=jpg)](https://design.withfudge.com/pin/9653)
+[Google Earth](https://design.withfudge.com/pin/9653) — [source page](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA)

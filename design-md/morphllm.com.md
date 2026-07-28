@@ -6,6 +6,10 @@ Source domain: [morphllm.com](https://morphllm.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7228
+-->
+
 Here is the visual system observed across **13 captured pages** from [morphllm.com](https://morphllm.com).
 
 ```fudge-colors
@@ -363,12 +367,27 @@ Here is the visual system observed across **13 captured pages** from [morphllm.c
 }
 ```
 
-## References
-- [Dashboard | Morph](https://design.withfudge.com/pin/7228) — [source page](https://morphllm.com/dashboard/api-keys)
-- [Morph MCP - Supercharge Your Coding Agent | Morph](https://design.withfudge.com/pin/7227) — [source page](https://morphllm.com/mcp)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7226) — [source page](https://morphllm.com/onboarding/6)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7225) — [source page](https://morphllm.com/onboarding/3)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7224) — [source page](https://morphllm.com/onboarding)
-- [Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7223) — [source page](https://morphllm.com/sign-up)
-- [Pricing | Morph](https://design.withfudge.com/pin/7222) — [source page](https://morphllm.com/pricing)
-- [Pricing | Morph](https://design.withfudge.com/pin/7221) — [source page](https://morphllm.com/pricing)
+## Representative captures
+[![Dashboard | Morph](https://pin.fontofweb.com/7228?format=jpg)](https://design.withfudge.com/pin/7228)
+[Dashboard | Morph](https://design.withfudge.com/pin/7228) — [source page](https://morphllm.com/dashboard/api-keys)
+
+[![Morph MCP - Supercharge Your Coding Agent | Morph](https://pin.fontofweb.com/7227?format=jpg)](https://design.withfudge.com/pin/7227)
+[Morph MCP - Supercharge Your Coding Agent | Morph](https://design.withfudge.com/pin/7227) — [source page](https://morphllm.com/mcp)
+
+[![Morph - Subagents That Improve Coding Agents](https://pin.fontofweb.com/7226?format=jpg)](https://design.withfudge.com/pin/7226)
+[Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7226) — [source page](https://morphllm.com/onboarding/6)
+
+[![Morph - Subagents That Improve Coding Agents](https://pin.fontofweb.com/7225?format=jpg)](https://design.withfudge.com/pin/7225)
+[Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7225) — [source page](https://morphllm.com/onboarding/3)
+
+[![Morph - Subagents That Improve Coding Agents](https://pin.fontofweb.com/7224?format=jpg)](https://design.withfudge.com/pin/7224)
+[Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7224) — [source page](https://morphllm.com/onboarding)
+
+[![Morph - Subagents That Improve Coding Agents](https://pin.fontofweb.com/7223?format=jpg)](https://design.withfudge.com/pin/7223)
+[Morph - Subagents That Improve Coding Agents](https://design.withfudge.com/pin/7223) — [source page](https://morphllm.com/sign-up)
+
+[![Pricing | Morph](https://pin.fontofweb.com/7222?format=jpg)](https://design.withfudge.com/pin/7222)
+[Pricing | Morph](https://design.withfudge.com/pin/7222) — [source page](https://morphllm.com/pricing)
+
+[![Pricing | Morph](https://pin.fontofweb.com/7221?format=jpg)](https://design.withfudge.com/pin/7221)
+[Pricing | Morph](https://design.withfudge.com/pin/7221) — [source page](https://morphllm.com/pricing)

@@ -6,6 +6,10 @@ Source domain: [bud.app](https://bud.app)
 
 Last updated: 2026-04-28
 
+<!--
+coverPin: 9134
+-->
+
 Here is the visual system observed across **4 captured pages** from [bud.app](https://bud.app).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [bud.app](ht
 }
 ```
 
-## References
-- [Bud | The AI Agent With Its Own Computer](https://design.withfudge.com/pin/9134) — [source page](https://bud.app/replays/c1920c6c-6e6b-4cd2-9553-e8861e6097ef)
-- [Pricing - Bud](https://design.withfudge.com/pin/9133) — [source page](https://bud.app/pricing)
-- [Pricing - Bud](https://design.withfudge.com/pin/9132) — [source page](https://bud.app/pricing)
-- [Bud - Your AI Worker](https://design.withfudge.com/pin/9131) — [source page](https://bud.app/)
+## Representative captures
+[![Bud | The AI Agent With Its Own Computer](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/pin/9134)
+[Bud | The AI Agent With Its Own Computer](https://design.withfudge.com/pin/9134) — [source page](https://bud.app/replays/c1920c6c-6e6b-4cd2-9553-e8861e6097ef)
+
+[![Pricing - Bud](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/pin/9133)
+[Pricing - Bud](https://design.withfudge.com/pin/9133) — [source page](https://bud.app/pricing)
+
+[![Pricing - Bud](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/pin/9132)
+[Pricing - Bud](https://design.withfudge.com/pin/9132) — [source page](https://bud.app/pricing)
+
+[![Bud - Your AI Worker](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/pin/9131)
+[Bud - Your AI Worker](https://design.withfudge.com/pin/9131) — [source page](https://bud.app/)

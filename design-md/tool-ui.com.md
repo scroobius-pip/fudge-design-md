@@ -6,6 +6,10 @@ Source domain: [tool-ui.com](https://tool-ui.com)
 
 Last updated: 2026-02-02
 
+<!--
+coverPin: 6249
+-->
+
 Here is the visual system observed across **1 captured page** from [tool-ui.com](https://tool-ui.com).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [tool-ui.com]
 }
 ```
 
-## References
-- [Tool UI](https://design.withfudge.com/pin/6249) — [source page](https://tool-ui.com/)
+## Representative captures
+[![Tool UI](https://pin.fontofweb.com/6249?format=jpg)](https://design.withfudge.com/pin/6249)
+[Tool UI](https://design.withfudge.com/pin/6249) — [source page](https://tool-ui.com/)

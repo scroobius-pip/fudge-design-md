@@ -6,6 +6,10 @@ Source domain: [cmux.dev](https://cmux.dev)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6897
+-->
+
 Here is the visual system observed across **1 captured page** from [cmux.dev](https://cmux.dev).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [cmux.dev](ht
 }
 ```
 
-## References
-- [cmux — The terminal built for multitasking](https://design.withfudge.com/pin/6897) — [source page](https://cmux.dev/)
+## Representative captures
+[![cmux — The terminal built for multitasking](https://pin.fontofweb.com/6897?format=jpg)](https://design.withfudge.com/pin/6897)
+[cmux — The terminal built for multitasking](https://design.withfudge.com/pin/6897) — [source page](https://cmux.dev/)

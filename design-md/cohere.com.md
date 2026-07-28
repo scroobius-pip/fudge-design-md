@@ -6,6 +6,10 @@ Source domain: [cohere.com](https://cohere.com)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9953
+-->
+
 Here is the visual system observed across **9 captured pages** from [cohere.com](https://cohere.com).
 
 ```fudge-colors
@@ -313,12 +317,27 @@ Here is the visual system observed across **9 captured pages** from [cohere.com]
 }
 ```
 
-## References
-- [About Our Company | Cohere](https://design.withfudge.com/pin/9953) — [source page](https://cohere.com/about)
-- [About Our Company | Cohere](https://design.withfudge.com/pin/9952) — [source page](https://cohere.com/about)
-- [Contact Sales | Secure and Scalable AI | Cohere](https://design.withfudge.com/pin/9951) — [source page](https://cohere.com/contact-sales)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9950) — [source page](https://cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9949) — [source page](https://cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9948) — [source page](https://cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9947) — [source page](https://cohere.com/)
-- [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9946) — [source page](https://cohere.com/)
+## Representative captures
+[![About Our Company | Cohere](https://pin.fontofweb.com/9953?format=jpg)](https://design.withfudge.com/pin/9953)
+[About Our Company | Cohere](https://design.withfudge.com/pin/9953) — [source page](https://cohere.com/about)
+
+[![About Our Company | Cohere](https://pin.fontofweb.com/9952?format=jpg)](https://design.withfudge.com/pin/9952)
+[About Our Company | Cohere](https://design.withfudge.com/pin/9952) — [source page](https://cohere.com/about)
+
+[![Contact Sales | Secure and Scalable AI | Cohere](https://pin.fontofweb.com/9951?format=jpg)](https://design.withfudge.com/pin/9951)
+[Contact Sales | Secure and Scalable AI | Cohere](https://design.withfudge.com/pin/9951) — [source page](https://cohere.com/contact-sales)
+
+[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9950?format=jpg)](https://design.withfudge.com/pin/9950)
+[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9950) — [source page](https://cohere.com/)
+
+[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9949?format=jpg)](https://design.withfudge.com/pin/9949)
+[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9949) — [source page](https://cohere.com/)
+
+[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9948?format=jpg)](https://design.withfudge.com/pin/9948)
+[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9948) — [source page](https://cohere.com/)
+
+[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9947?format=jpg)](https://design.withfudge.com/pin/9947)
+[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9947) — [source page](https://cohere.com/)
+
+[![Enterprise AI: Private, Secure, Customizable | Cohere](https://pin.fontofweb.com/9946?format=jpg)](https://design.withfudge.com/pin/9946)
+[Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/pin/9946) — [source page](https://cohere.com/)

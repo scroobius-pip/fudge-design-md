@@ -6,6 +6,10 @@ Source domain: [dtai.cs.kuleuven.be](https://dtai.cs.kuleuven.be)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9362
+-->
+
 Here is the visual system observed across **1 captured page** from [dtai.cs.kuleuven.be](https://dtai.cs.kuleuven.be).
 
 ```fudge-colors
@@ -104,5 +108,6 @@ Here is the visual system observed across **1 captured page** from [dtai.cs.kule
 }
 ```
 
-## References
-- [How I tried not to become a logic programmer](https://design.withfudge.com/pin/9362) — [source page](https://dtai.cs.kuleuven.be/projects/ALP/newsletter/aug08/content/Historical/content.html)
+## Representative captures
+[![How I tried not to become a logic programmer](https://pin.fontofweb.com/9362?format=jpg)](https://design.withfudge.com/pin/9362)
+[How I tried not to become a logic programmer](https://design.withfudge.com/pin/9362) — [source page](https://dtai.cs.kuleuven.be/projects/ALP/newsletter/aug08/content/Historical/content.html)

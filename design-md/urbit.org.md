@@ -6,6 +6,10 @@ Source domain: [urbit.org](https://urbit.org)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8845
+-->
+
 Here is the visual system observed across **4 captured pages** from [urbit.org](https://urbit.org).
 
 ```fudge-colors
@@ -166,8 +170,15 @@ Here is the visual system observed across **4 captured pages** from [urbit.org](
 }
 ```
 
-## References
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8845) — [source page](https://urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/8844) — [source page](https://urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4839) — [source page](https://urbit.org/)
-- [Urbit — Leave the internet behind](https://design.withfudge.com/pin/4838) — [source page](https://urbit.org/)
+## Representative captures
+[![Urbit — Leave the internet behind](https://pin.fontofweb.com/8845?format=jpg)](https://design.withfudge.com/pin/8845)
+[Urbit — Leave the internet behind](https://design.withfudge.com/pin/8845) — [source page](https://urbit.org/)
+
+[![Urbit — Leave the internet behind](https://pin.fontofweb.com/8844?format=jpg)](https://design.withfudge.com/pin/8844)
+[Urbit — Leave the internet behind](https://design.withfudge.com/pin/8844) — [source page](https://urbit.org/)
+
+[![Urbit — Leave the internet behind](https://pin.fontofweb.com/4839?format=jpg)](https://design.withfudge.com/pin/4839)
+[Urbit — Leave the internet behind](https://design.withfudge.com/pin/4839) — [source page](https://urbit.org/)
+
+[![Urbit — Leave the internet behind](https://pin.fontofweb.com/4838?format=jpg)](https://design.withfudge.com/pin/4838)
+[Urbit — Leave the internet behind](https://design.withfudge.com/pin/4838) — [source page](https://urbit.org/)

@@ -6,6 +6,10 @@ Source domain: [boltai.com](https://boltai.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8878
+-->
+
 Here is the visual system observed across **1 captured page** from [boltai.com](https://boltai.com).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [boltai.com](
 }
 ```
 
-## References
-- [BoltAI (Bolt AI): AI App for Mac](https://design.withfudge.com/pin/8878) — [source page](https://boltai.com/)
+## Representative captures
+[![BoltAI (Bolt AI): AI App for Mac](https://pin.fontofweb.com/8878?format=jpg)](https://design.withfudge.com/pin/8878)
+[BoltAI (Bolt AI): AI App for Mac](https://design.withfudge.com/pin/8878) — [source page](https://boltai.com/)

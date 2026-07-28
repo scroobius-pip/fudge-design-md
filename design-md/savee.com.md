@@ -6,6 +6,10 @@ Source domain: [savee.com](https://savee.com)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8688
+-->
+
 Here is the visual system observed across **18 captured pages** from [savee.com](https://savee.com).
 
 ```fudge-colors
@@ -298,12 +302,27 @@ Here is the visual system observed across **18 captured pages** from [savee.com]
 }
 ```
 
-## References
-- [Andre do Amaral - Изображение – Savee](https://design.withfudge.com/pin/8688) — [source page](https://savee.com/i/z_1gP5Q/)
-- [Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8687) — [source page](https://savee.com/i/CQDovnH/)
-- [Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8686) — [source page](https://savee.com/i/CQDovnH/)
-- [Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8685) — [source page](https://savee.com/i/CQDovnH/)
-- [Savee](https://design.withfudge.com/pin/8684) — [source page](https://savee.com/)
-- [Savee](https://design.withfudge.com/pin/8683) — [source page](https://savee.com/)
-- [Upgrade to Pro – Savee](https://design.withfudge.com/pin/8682) — [source page](https://savee.com/)
-- [Savee](https://design.withfudge.com/pin/8681) — [source page](https://savee.com/)
+## Representative captures
+[![Andre do Amaral - Изображение – Savee](https://pin.fontofweb.com/8688?format=jpg)](https://design.withfudge.com/pin/8688)
+[Andre do Amaral - Изображение – Savee](https://design.withfudge.com/pin/8688) — [source page](https://savee.com/i/z_1gP5Q/)
+
+[![Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://pin.fontofweb.com/8687?format=jpg)](https://design.withfudge.com/pin/8687)
+[Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8687) — [source page](https://savee.com/i/CQDovnH/)
+
+[![Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://pin.fontofweb.com/8686?format=jpg)](https://design.withfudge.com/pin/8686)
+[Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8686) — [source page](https://savee.com/i/CQDovnH/)
+
+[![Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://pin.fontofweb.com/8685?format=jpg)](https://design.withfudge.com/pin/8685)
+[Manoel do Amaral - 1,664 likes, 11 comments - illotv on March 17, 2026: "Welcome to dillo — say it! Our new newsletter about how our work actually happens — the ideas, the experiments, the methods, and the people shaping them ⁠ ⁠ With dillo (literally “say it!” in Italian), we are sharing what happens inside the studio! ⁂ ⁠ ⁠ Subscribe on illo.tv/newsletter⁠ ⁠ #illotv #DesignNewsletter #MotionDesign #creativestudio". – Savee](https://design.withfudge.com/pin/8685) — [source page](https://savee.com/i/CQDovnH/)
+
+[![Savee](https://pin.fontofweb.com/8684?format=jpg)](https://design.withfudge.com/pin/8684)
+[Savee](https://design.withfudge.com/pin/8684) — [source page](https://savee.com/)
+
+[![Savee](https://pin.fontofweb.com/8683?format=jpg)](https://design.withfudge.com/pin/8683)
+[Savee](https://design.withfudge.com/pin/8683) — [source page](https://savee.com/)
+
+[![Upgrade to Pro – Savee](https://pin.fontofweb.com/8682?format=jpg)](https://design.withfudge.com/pin/8682)
+[Upgrade to Pro – Savee](https://design.withfudge.com/pin/8682) — [source page](https://savee.com/)
+
+[![Savee](https://pin.fontofweb.com/8681?format=jpg)](https://design.withfudge.com/pin/8681)
+[Savee](https://design.withfudge.com/pin/8681) — [source page](https://savee.com/)

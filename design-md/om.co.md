@@ -6,6 +6,10 @@ Source domain: [om.co](https://om.co)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9814
+-->
+
 Here is the visual system observed across **2 captured pages** from [om.co](https://om.co).
 
 ```fudge-colors
@@ -146,6 +150,9 @@ Here is the visual system observed across **2 captured pages** from [om.co](http
 }
 ```
 
-## References
-- [Taking a Few Days Off – On my Om](https://design.withfudge.com/pin/9814) — [source page](https://om.co/2026/06/08/taking-a-few-days-off/)
-- [On my Om – Technology & Change: Field Notes From The Present Future](https://design.withfudge.com/pin/9813) — [source page](https://om.co/)
+## Representative captures
+[![Taking a Few Days Off – On my Om](https://pin.fontofweb.com/9814?format=jpg)](https://design.withfudge.com/pin/9814)
+[Taking a Few Days Off – On my Om](https://design.withfudge.com/pin/9814) — [source page](https://om.co/2026/06/08/taking-a-few-days-off/)
+
+[![On my Om – Technology & Change: Field Notes From The Present Future](https://pin.fontofweb.com/9813?format=jpg)](https://design.withfudge.com/pin/9813)
+[On my Om – Technology & Change: Field Notes From The Present Future](https://design.withfudge.com/pin/9813) — [source page](https://om.co/)

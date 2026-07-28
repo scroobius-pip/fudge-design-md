@@ -6,6 +6,10 @@ Source domain: [designme.agency](https://designme.agency)
 
 Last updated: 2026-02-11
 
+<!--
+coverPin: 6409
+-->
+
 Here is the visual system observed across **3 captured pages** from [designme.agency](https://designme.agency).
 
 ```fudge-colors
@@ -149,7 +153,12 @@ Here is the visual system observed across **3 captured pages** from [designme.ag
 }
 ```
 
-## References
-- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6409) — [source page](https://designme.agency/)
-- [Full-stack product partner for funded startups](https://design.withfudge.com/pin/6408) — [source page](https://designme.agency/)
-- [DesignMe - Your design partner for when average isn’t enough.](https://design.withfudge.com/pin/4899) — [source page](https://designme.agency/)
+## Representative captures
+[![Full-stack product partner for funded startups](https://pin.fontofweb.com/6409?format=jpg)](https://design.withfudge.com/pin/6409)
+[Full-stack product partner for funded startups](https://design.withfudge.com/pin/6409) — [source page](https://designme.agency/)
+
+[![Full-stack product partner for funded startups](https://pin.fontofweb.com/6408?format=jpg)](https://design.withfudge.com/pin/6408)
+[Full-stack product partner for funded startups](https://design.withfudge.com/pin/6408) — [source page](https://designme.agency/)
+
+[![DesignMe - Your design partner for when average isn’t enough.](https://pin.fontofweb.com/4899?format=jpg)](https://design.withfudge.com/pin/4899)
+[DesignMe - Your design partner for when average isn’t enough.](https://design.withfudge.com/pin/4899) — [source page](https://designme.agency/)

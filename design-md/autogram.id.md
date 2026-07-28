@@ -6,6 +6,10 @@ Source domain: [autogram.id](https://autogram.id)
 
 Last updated: 2026-07-15
 
+<!--
+coverPin: 10168
+-->
+
 Here is the visual system observed across **2 captured pages** from [autogram.id](https://autogram.id).
 
 ```fudge-colors
@@ -146,6 +150,9 @@ Here is the visual system observed across **2 captured pages** from [autogram.id
 }
 ```
 
-## References
-- [Autogram](https://design.withfudge.com/pin/10168) — [source page](https://autogram.id/companies)
-- [Autogram](https://design.withfudge.com/pin/10167) — [source page](https://autogram.id/)
+## Representative captures
+[![Autogram](https://pin.fontofweb.com/10168?format=jpg)](https://design.withfudge.com/pin/10168)
+[Autogram](https://design.withfudge.com/pin/10168) — [source page](https://autogram.id/companies)
+
+[![Autogram](https://pin.fontofweb.com/10167?format=jpg)](https://design.withfudge.com/pin/10167)
+[Autogram](https://design.withfudge.com/pin/10167) — [source page](https://autogram.id/)

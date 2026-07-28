@@ -6,6 +6,10 @@ Source domain: [looka.com](https://looka.com)
 
 Last updated: 2026-06-29
 
+<!--
+coverPin: 9841
+-->
+
 Here is the visual system observed across **1 captured page** from [looka.com](https://looka.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [looka.com](h
 }
 ```
 
-## References
-- [Logo Design Pricing, Packages & Add-Ons - Looka](https://design.withfudge.com/pin/9841) — [source page](https://looka.com/pricing/)
+## Representative captures
+[![Logo Design Pricing, Packages & Add-Ons - Looka](https://pin.fontofweb.com/9841?format=jpg)](https://design.withfudge.com/pin/9841)
+[Logo Design Pricing, Packages & Add-Ons - Looka](https://design.withfudge.com/pin/9841) — [source page](https://looka.com/pricing/)

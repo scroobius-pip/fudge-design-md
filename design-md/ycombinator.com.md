@@ -6,6 +6,10 @@ Source domain: [ycombinator.com](https://ycombinator.com)
 
 Last updated: 2026-07-12
 
+<!--
+coverPin: 10032
+-->
+
 Here is the visual system observed across **7 captured pages** from [ycombinator.com](https://ycombinator.com).
 
 ```fudge-colors
@@ -236,11 +240,24 @@ Here is the visual system observed across **7 captured pages** from [ycombinator
 }
 ```
 
-## References
-- [Operations Associate – Data Samples & Customer Success at Sixtyfour | Y Combinator](https://design.withfudge.com/pin/10032) — [source page](https://ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
-- [Y Combinator](https://design.withfudge.com/pin/6679) — [source page](https://ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6678) — [source page](https://ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6677) — [source page](https://ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6676) — [source page](https://ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6675) — [source page](https://ycombinator.com/)
-- [Y Combinator](https://design.withfudge.com/pin/6674) — [source page](https://ycombinator.com/)
+## Representative captures
+[![Operations Associate – Data Samples & Customer Success at Sixtyfour | Y Combinator](https://pin.fontofweb.com/10032?format=jpg)](https://design.withfudge.com/pin/10032)
+[Operations Associate – Data Samples & Customer Success at Sixtyfour | Y Combinator](https://design.withfudge.com/pin/10032) — [source page](https://ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
+
+[![Y Combinator](https://pin.fontofweb.com/6679?format=jpg)](https://design.withfudge.com/pin/6679)
+[Y Combinator](https://design.withfudge.com/pin/6679) — [source page](https://ycombinator.com/)
+
+[![Y Combinator](https://pin.fontofweb.com/6678?format=jpg)](https://design.withfudge.com/pin/6678)
+[Y Combinator](https://design.withfudge.com/pin/6678) — [source page](https://ycombinator.com/)
+
+[![Y Combinator](https://pin.fontofweb.com/6677?format=jpg)](https://design.withfudge.com/pin/6677)
+[Y Combinator](https://design.withfudge.com/pin/6677) — [source page](https://ycombinator.com/)
+
+[![Y Combinator](https://pin.fontofweb.com/6676?format=jpg)](https://design.withfudge.com/pin/6676)
+[Y Combinator](https://design.withfudge.com/pin/6676) — [source page](https://ycombinator.com/)
+
+[![Y Combinator](https://pin.fontofweb.com/6675?format=jpg)](https://design.withfudge.com/pin/6675)
+[Y Combinator](https://design.withfudge.com/pin/6675) — [source page](https://ycombinator.com/)
+
+[![Y Combinator](https://pin.fontofweb.com/6674?format=jpg)](https://design.withfudge.com/pin/6674)
+[Y Combinator](https://design.withfudge.com/pin/6674) — [source page](https://ycombinator.com/)

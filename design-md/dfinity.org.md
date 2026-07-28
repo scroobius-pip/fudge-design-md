@@ -6,6 +6,10 @@ Source domain: [dfinity.org](https://dfinity.org)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7231
+-->
+
 Here is the visual system observed across **2 captured pages** from [dfinity.org](https://dfinity.org).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [dfinity.org
 }
 ```
 
-## References
-- [The DFINITY Foundation](https://design.withfudge.com/pin/7231) — [source page](https://dfinity.org/)
-- [The DFINITY Foundation](https://design.withfudge.com/pin/7230) — [source page](https://dfinity.org/)
+## Representative captures
+[![The DFINITY Foundation](https://pin.fontofweb.com/7231?format=jpg)](https://design.withfudge.com/pin/7231)
+[The DFINITY Foundation](https://design.withfudge.com/pin/7231) — [source page](https://dfinity.org/)
+
+[![The DFINITY Foundation](https://pin.fontofweb.com/7230?format=jpg)](https://design.withfudge.com/pin/7230)
+[The DFINITY Foundation](https://design.withfudge.com/pin/7230) — [source page](https://dfinity.org/)

@@ -6,6 +6,10 @@ Source domain: [digg.com](https://digg.com)
 
 Last updated: 2026-06-16
 
+<!--
+coverPin: 9673
+-->
+
 Here is the visual system observed across **9 captured pages** from [digg.com](https://digg.com).
 
 ```fudge-colors
@@ -282,12 +286,27 @@ Here is the visual system observed across **9 captured pages** from [digg.com](h
 }
 ```
 
-## References
-- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9673) — [source page](https://digg.com/tech/hlgaxkg1)
-- [SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9672) — [source page](https://digg.com/tech/hlgaxkg1)
-- [Tech News · Digg](https://design.withfudge.com/pin/9671) — [source page](https://digg.com/tech)
-- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9584) — [source page](https://digg.com/tech/ii9xibgn)
-- [Tech News · Digg](https://design.withfudge.com/pin/9583) — [source page](https://digg.com/tech)
-- [Tech News · Digg](https://design.withfudge.com/pin/9582) — [source page](https://digg.com/tech)
-- [Tech News · Digg](https://design.withfudge.com/pin/9581) — [source page](https://digg.com/tech)
-- [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9580) — [source page](https://digg.com/tech/ii9xibgn)
+## Representative captures
+[![SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://pin.fontofweb.com/9673?format=jpg)](https://design.withfudge.com/pin/9673)
+[SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9673) — [source page](https://digg.com/tech/hlgaxkg1)
+
+[![SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://pin.fontofweb.com/9672?format=jpg)](https://design.withfudge.com/pin/9672)
+[SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/pin/9672) — [source page](https://digg.com/tech/hlgaxkg1)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9671?format=jpg)](https://design.withfudge.com/pin/9671)
+[Tech News · Digg](https://design.withfudge.com/pin/9671) — [source page](https://digg.com/tech)
+
+[![Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://pin.fontofweb.com/9584?format=jpg)](https://design.withfudge.com/pin/9584)
+[Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9584) — [source page](https://digg.com/tech/ii9xibgn)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9583?format=jpg)](https://design.withfudge.com/pin/9583)
+[Tech News · Digg](https://design.withfudge.com/pin/9583) — [source page](https://digg.com/tech)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9582?format=jpg)](https://design.withfudge.com/pin/9582)
+[Tech News · Digg](https://design.withfudge.com/pin/9582) — [source page](https://digg.com/tech)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9581?format=jpg)](https://design.withfudge.com/pin/9581)
+[Tech News · Digg](https://design.withfudge.com/pin/9581) — [source page](https://digg.com/tech)
+
+[![Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://pin.fontofweb.com/9580?format=jpg)](https://design.withfudge.com/pin/9580)
+[Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/pin/9580) — [source page](https://digg.com/tech/ii9xibgn)

@@ -6,6 +6,10 @@ Source domain: [exa.ai](https://exa.ai)
 
 Last updated: 2026-06-14
 
+<!--
+coverPin: 9597
+-->
+
 Here is the visual system observed across **32 captured pages** from [exa.ai](https://exa.ai).
 
 ```fudge-colors
@@ -434,12 +438,27 @@ Here is the visual system observed across **32 captured pages** from [exa.ai](ht
 }
 ```
 
-## References
-- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9597) — [source page](https://exa.ai/customers/monday)
-- [monday.com x Exa Case Study](https://design.withfudge.com/pin/9596) — [source page](https://exa.ai/customers/monday)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9595) — [source page](https://exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9594) — [source page](https://exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9593) — [source page](https://exa.ai/)
-- [Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9592) — [source page](https://exa.ai/)
-- [Exa AI Research Blog](https://design.withfudge.com/pin/6589) — [source page](https://exa.ai/blog/exa-instant)
-- [Exa AI Research Blog](https://design.withfudge.com/pin/6588) — [source page](https://exa.ai/blog)
+## Representative captures
+[![monday.com x Exa Case Study](https://pin.fontofweb.com/9597?format=jpg)](https://design.withfudge.com/pin/9597)
+[monday.com x Exa Case Study](https://design.withfudge.com/pin/9597) — [source page](https://exa.ai/customers/monday)
+
+[![monday.com x Exa Case Study](https://pin.fontofweb.com/9596?format=jpg)](https://design.withfudge.com/pin/9596)
+[monday.com x Exa Case Study](https://design.withfudge.com/pin/9596) — [source page](https://exa.ai/customers/monday)
+
+[![Exa | Web Search API, AI Search Engine, & Website Crawler](https://pin.fontofweb.com/9595?format=jpg)](https://design.withfudge.com/pin/9595)
+[Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9595) — [source page](https://exa.ai/)
+
+[![Exa | Web Search API, AI Search Engine, & Website Crawler](https://pin.fontofweb.com/9594?format=jpg)](https://design.withfudge.com/pin/9594)
+[Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9594) — [source page](https://exa.ai/)
+
+[![Exa | Web Search API, AI Search Engine, & Website Crawler](https://pin.fontofweb.com/9593?format=jpg)](https://design.withfudge.com/pin/9593)
+[Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9593) — [source page](https://exa.ai/)
+
+[![Exa | Web Search API, AI Search Engine, & Website Crawler](https://pin.fontofweb.com/9592?format=jpg)](https://design.withfudge.com/pin/9592)
+[Exa | Web Search API, AI Search Engine, & Website Crawler](https://design.withfudge.com/pin/9592) — [source page](https://exa.ai/)
+
+[![Exa AI Research Blog](https://pin.fontofweb.com/6589?format=jpg)](https://design.withfudge.com/pin/6589)
+[Exa AI Research Blog](https://design.withfudge.com/pin/6589) — [source page](https://exa.ai/blog/exa-instant)
+
+[![Exa AI Research Blog](https://pin.fontofweb.com/6588?format=jpg)](https://design.withfudge.com/pin/6588)
+[Exa AI Research Blog](https://design.withfudge.com/pin/6588) — [source page](https://exa.ai/blog)

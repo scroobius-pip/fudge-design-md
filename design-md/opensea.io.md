@@ -6,6 +6,10 @@ Source domain: [opensea.io](https://opensea.io)
 
 Last updated: 2026-03-28
 
+<!--
+coverPin: 8465
+-->
+
 Here is the visual system observed across **1 captured page** from [opensea.io](https://opensea.io).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [opensea.io](
 }
 ```
 
-## References
-- [OpenSea, exchange everything — token trading and NFT marketplace](https://design.withfudge.com/pin/8465) — [source page](https://opensea.io/)
+## Representative captures
+[![OpenSea, exchange everything — token trading and NFT marketplace](https://pin.fontofweb.com/8465?format=jpg)](https://design.withfudge.com/pin/8465)
+[OpenSea, exchange everything — token trading and NFT marketplace](https://design.withfudge.com/pin/8465) — [source page](https://opensea.io/)

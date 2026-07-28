@@ -6,6 +6,10 @@ Source domain: [classy.md](https://classy.md)
 
 Last updated: 2026-07-14
 
+<!--
+coverPin: 10090
+-->
+
 Here is the visual system observed across **2 captured pages** from [classy.md](https://classy.md).
 
 ```fudge-colors
@@ -133,6 +137,9 @@ Here is the visual system observed across **2 captured pages** from [classy.md](
 }
 ```
 
-## References
-- [Classy](https://design.withfudge.com/pin/10090) — [source page](https://classy.md/)
-- [Classy](https://design.withfudge.com/pin/10089) — [source page](https://classy.md/)
+## Representative captures
+[![Classy](https://pin.fontofweb.com/10090?format=jpg)](https://design.withfudge.com/pin/10090)
+[Classy](https://design.withfudge.com/pin/10090) — [source page](https://classy.md/)
+
+[![Classy](https://pin.fontofweb.com/10089?format=jpg)](https://design.withfudge.com/pin/10089)
+[Classy](https://design.withfudge.com/pin/10089) — [source page](https://classy.md/)

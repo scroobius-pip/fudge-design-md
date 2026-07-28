@@ -6,6 +6,10 @@ Source domain: [eu-inc.org](https://eu-inc.org)
 
 Last updated: 2026-03-20
 
+<!--
+coverPin: 8207
+-->
+
 Here is the visual system observed across **2 captured pages** from [eu-inc.org](https://eu-inc.org).
 
 ```fudge-colors
@@ -158,6 +162,9 @@ Here is the visual system observed across **2 captured pages** from [eu-inc.org]
 }
 ```
 
-## References
-- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8207) — [source page](https://eu-inc.org/)
-- [EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8206) — [source page](https://eu-inc.org/)
+## Representative captures
+[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8207?format=jpg)](https://design.withfudge.com/pin/8207)
+[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8207) — [source page](https://eu-inc.org/)
+
+[![EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://pin.fontofweb.com/8206?format=jpg)](https://design.withfudge.com/pin/8206)
+[EU–INC — One Europe. One Standard. — Pan-European legal entity.](https://design.withfudge.com/pin/8206) — [source page](https://eu-inc.org/)

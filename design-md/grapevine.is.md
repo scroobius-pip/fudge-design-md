@@ -6,6 +6,10 @@ Source domain: [grapevine.is](https://grapevine.is)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9141
+-->
+
 Here is the visual system observed across **1 captured page** from [grapevine.is](https://grapevine.is).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [grapevine.is
 }
 ```
 
-## References
-- [Man Found Dead Near Háifoss](https://design.withfudge.com/pin/9141) — [source page](https://grapevine.is/news/2026/04/27/man-found-dead-near-haifoss/)
+## Representative captures
+[![Man Found Dead Near Háifoss](https://pin.fontofweb.com/9141?format=jpg)](https://design.withfudge.com/pin/9141)
+[Man Found Dead Near Háifoss](https://design.withfudge.com/pin/9141) — [source page](https://grapevine.is/news/2026/04/27/man-found-dead-near-haifoss/)

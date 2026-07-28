@@ -6,6 +6,10 @@ Source domain: [getviktor.com](https://getviktor.com)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6488
+-->
+
 Here is the visual system observed across **8 captured pages** from [getviktor.com](https://getviktor.com).
 
 ```fudge-colors
@@ -241,12 +245,27 @@ Here is the visual system observed across **8 captured pages** from [getviktor.c
 }
 ```
 
-## References
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6488) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6487) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6486) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6485) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6484) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6483) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6482) — [source page](https://getviktor.com/)
-- [Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6481) — [source page](https://getviktor.com/)
+## Representative captures
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6488?format=jpg)](https://design.withfudge.com/pin/6488)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6488) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6487?format=jpg)](https://design.withfudge.com/pin/6487)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6487) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6486?format=jpg)](https://design.withfudge.com/pin/6486)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6486) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6485?format=jpg)](https://design.withfudge.com/pin/6485)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6485) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6484?format=jpg)](https://design.withfudge.com/pin/6484)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6484) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6483?format=jpg)](https://design.withfudge.com/pin/6483)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6483) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6482?format=jpg)](https://design.withfudge.com/pin/6482)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6482) — [source page](https://getviktor.com/)
+
+[![Viktor | Persistent agent in your Slack workspace.](https://pin.fontofweb.com/6481?format=jpg)](https://design.withfudge.com/pin/6481)
+[Viktor | Persistent agent in your Slack workspace.](https://design.withfudge.com/pin/6481) — [source page](https://getviktor.com/)

@@ -6,6 +6,10 @@ Source domain: [wired.com](https://wired.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6786
+-->
+
 Here is the visual system observed across **2 captured pages** from [wired.com](https://wired.com).
 
 ```fudge-colors
@@ -143,6 +147,9 @@ Here is the visual system observed across **2 captured pages** from [wired.com](
 }
 ```
 
-## References
-- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6786) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)
-- [Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6785) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)
+## Representative captures
+[![Inside the Gay Tech Mafia | WIRED](https://pin.fontofweb.com/6786?format=jpg)](https://design.withfudge.com/pin/6786)
+[Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6786) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)
+
+[![Inside the Gay Tech Mafia | WIRED](https://pin.fontofweb.com/6785?format=jpg)](https://design.withfudge.com/pin/6785)
+[Inside the Gay Tech Mafia | WIRED](https://design.withfudge.com/pin/6785) — [source page](https://wired.com/story/inside-the-gay-tech-mafia/)

@@ -6,6 +6,10 @@ Source domain: [app.quiver.ai](https://app.quiver.ai)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9928
+-->
+
 Here is the visual system observed across **3 captured pages** from [app.quiver.ai](https://app.quiver.ai).
 
 ```fudge-colors
@@ -153,7 +157,12 @@ Here is the visual system observed across **3 captured pages** from [app.quiver.
 }
 ```
 
-## References
-- [QuiverAI public beta](https://design.withfudge.com/pin/9928) — [source page](https://app.quiver.ai/explore)
-- [QuiverAI public beta](https://design.withfudge.com/pin/9927) — [source page](https://app.quiver.ai/onboarding)
-- [QuiverAI public beta](https://design.withfudge.com/pin/9926) — [source page](https://app.quiver.ai/onboarding)
+## Representative captures
+[![QuiverAI public beta](https://pin.fontofweb.com/9928?format=jpg)](https://design.withfudge.com/pin/9928)
+[QuiverAI public beta](https://design.withfudge.com/pin/9928) — [source page](https://app.quiver.ai/explore)
+
+[![QuiverAI public beta](https://pin.fontofweb.com/9927?format=jpg)](https://design.withfudge.com/pin/9927)
+[QuiverAI public beta](https://design.withfudge.com/pin/9927) — [source page](https://app.quiver.ai/onboarding)
+
+[![QuiverAI public beta](https://pin.fontofweb.com/9926?format=jpg)](https://design.withfudge.com/pin/9926)
+[QuiverAI public beta](https://design.withfudge.com/pin/9926) — [source page](https://app.quiver.ai/onboarding)

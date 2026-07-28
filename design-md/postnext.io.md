@@ -6,6 +6,10 @@ Source domain: [postnext.io](https://postnext.io)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7498
+-->
+
 Here is the visual system observed across **4 captured pages** from [postnext.io](https://postnext.io).
 
 ```fudge-colors
@@ -221,8 +225,15 @@ Here is the visual system observed across **4 captured pages** from [postnext.io
 }
 ```
 
-## References
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7498) — [source page](https://postnext.io/)
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7497) — [source page](https://postnext.io/)
-- [PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7496) — [source page](https://postnext.io/)
-- [PostNext: Flexible Pricing Plans](https://design.withfudge.com/pin/7495) — [source page](https://postnext.io/pricing)
+## Representative captures
+[![PostNext: AI-Powered Social Media Scheduler & Calendar App](https://pin.fontofweb.com/7498?format=jpg)](https://design.withfudge.com/pin/7498)
+[PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7498) — [source page](https://postnext.io/)
+
+[![PostNext: AI-Powered Social Media Scheduler & Calendar App](https://pin.fontofweb.com/7497?format=jpg)](https://design.withfudge.com/pin/7497)
+[PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7497) — [source page](https://postnext.io/)
+
+[![PostNext: AI-Powered Social Media Scheduler & Calendar App](https://pin.fontofweb.com/7496?format=jpg)](https://design.withfudge.com/pin/7496)
+[PostNext: AI-Powered Social Media Scheduler & Calendar App](https://design.withfudge.com/pin/7496) — [source page](https://postnext.io/)
+
+[![PostNext: Flexible Pricing Plans](https://pin.fontofweb.com/7495?format=jpg)](https://design.withfudge.com/pin/7495)
+[PostNext: Flexible Pricing Plans](https://design.withfudge.com/pin/7495) — [source page](https://postnext.io/pricing)

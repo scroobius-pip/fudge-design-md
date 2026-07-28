@@ -6,6 +6,10 @@ Source domain: [palse.gr](https://palse.gr)
 
 Last updated: 2026-02-16
 
+<!--
+coverPin: 6615
+-->
+
 Here is the visual system observed across **11 captured pages** from [palse.gr](https://palse.gr).
 
 ```fudge-colors
@@ -277,12 +281,27 @@ Here is the visual system observed across **11 captured pages** from [palse.gr](
 }
 ```
 
-## References
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6615) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6614) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6613) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6612) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6611) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6610) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6609) — [source page](https://palse.gr/)
-- [Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6608) — [source page](https://palse.gr/)
+## Representative captures
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6615?format=jpg)](https://design.withfudge.com/pin/6615)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6615) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6614?format=jpg)](https://design.withfudge.com/pin/6614)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6614) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6613?format=jpg)](https://design.withfudge.com/pin/6613)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6613) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6612?format=jpg)](https://design.withfudge.com/pin/6612)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6612) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6611?format=jpg)](https://design.withfudge.com/pin/6611)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6611) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6610?format=jpg)](https://design.withfudge.com/pin/6610)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6610) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6609?format=jpg)](https://design.withfudge.com/pin/6609)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6609) — [source page](https://palse.gr/)
+
+[![Καλωσορίσατε! | PALSE SNACKS](https://pin.fontofweb.com/6608?format=jpg)](https://design.withfudge.com/pin/6608)
+[Καλωσορίσατε! | PALSE SNACKS](https://design.withfudge.com/pin/6608) — [source page](https://palse.gr/)

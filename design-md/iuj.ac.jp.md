@@ -6,6 +6,10 @@ Source domain: [iuj.ac.jp](https://iuj.ac.jp)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6829
+-->
+
 Here is the visual system observed across **1 captured page** from [iuj.ac.jp](https://iuj.ac.jp).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [iuj.ac.jp](h
 }
 ```
 
-## References
-- [International University of Japan](https://design.withfudge.com/pin/6829) — [source page](https://iuj.ac.jp/)
+## Representative captures
+[![International University of Japan](https://pin.fontofweb.com/6829?format=jpg)](https://design.withfudge.com/pin/6829)
+[International University of Japan](https://design.withfudge.com/pin/6829) — [source page](https://iuj.ac.jp/)

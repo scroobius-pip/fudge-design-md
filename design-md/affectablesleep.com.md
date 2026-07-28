@@ -6,6 +6,10 @@ Source domain: [affectablesleep.com](https://affectablesleep.com)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6890
+-->
+
 Here is the visual system observed across **21 captured pages** from [affectablesleep.com](https://affectablesleep.com).
 
 ```fudge-colors
@@ -294,12 +298,27 @@ Here is the visual system observed across **21 captured pages** from [affectable
 }
 ```
 
-## References
-- [The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/pin/6890) — [source page](https://affectablesleep.com/product-purchase)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6889) — [source page](https://affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6888) — [source page](https://affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6887) — [source page](https://affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6886) — [source page](https://affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6885) — [source page](https://affectablesleep.com/)
-- [Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6884) — [source page](https://affectablesleep.com/)
-- [Blog](https://design.withfudge.com/pin/3360) — [source page](https://affectablesleep.com/blog)
+## Representative captures
+[![The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://pin.fontofweb.com/6890?format=jpg)](https://design.withfudge.com/pin/6890)
+[The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/pin/6890) — [source page](https://affectablesleep.com/product-purchase)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6889?format=jpg)](https://design.withfudge.com/pin/6889)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6889) — [source page](https://affectablesleep.com/)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6888?format=jpg)](https://design.withfudge.com/pin/6888)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6888) — [source page](https://affectablesleep.com/)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6887?format=jpg)](https://design.withfudge.com/pin/6887)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6887) — [source page](https://affectablesleep.com/)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6886?format=jpg)](https://design.withfudge.com/pin/6886)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6886) — [source page](https://affectablesleep.com/)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6885?format=jpg)](https://design.withfudge.com/pin/6885)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6885) — [source page](https://affectablesleep.com/)
+
+[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6884?format=jpg)](https://design.withfudge.com/pin/6884)
+[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/pin/6884) — [source page](https://affectablesleep.com/)
+
+[![Blog](https://pin.fontofweb.com/3360?format=jpg)](https://design.withfudge.com/pin/3360)
+[Blog](https://design.withfudge.com/pin/3360) — [source page](https://affectablesleep.com/blog)

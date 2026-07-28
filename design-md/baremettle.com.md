@@ -6,6 +6,10 @@ Source domain: [baremettle.com](https://baremettle.com)
 
 Last updated: 2026-02-02
 
+<!--
+coverPin: 6254
+-->
+
 Here is the visual system observed across **2 captured pages** from [baremettle.com](https://baremettle.com).
 
 ```fudge-colors
@@ -83,6 +87,9 @@ Here is the visual system observed across **2 captured pages** from [baremettle.
 }
 ```
 
-## References
-- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6254) — [source page](https://baremettle.com/forums/index.php)
-- [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6253) — [source page](https://baremettle.com/forums/index.php)
+## Representative captures
+[![Coffee Diary | Bare Mettle Forums](https://pin.fontofweb.com/6254?format=jpg)](https://design.withfudge.com/pin/6254)
+[Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6254) — [source page](https://baremettle.com/forums/index.php)
+
+[![Coffee Diary | Bare Mettle Forums](https://pin.fontofweb.com/6253?format=jpg)](https://design.withfudge.com/pin/6253)
+[Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/pin/6253) — [source page](https://baremettle.com/forums/index.php)

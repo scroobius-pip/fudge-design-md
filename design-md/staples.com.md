@@ -6,6 +6,10 @@ Source domain: [staples.com](https://staples.com)
 
 Last updated: 2026-06-26
 
+<!--
+coverPin: 9816
+-->
+
 Here is the visual system observed across **2 captured pages** from [staples.com](https://staples.com).
 
 ```fudge-colors
@@ -159,6 +163,9 @@ Here is the visual system observed across **2 captured pages** from [staples.com
 }
 ```
 
-## References
-- [Staples® Official Online Store](https://design.withfudge.com/pin/9816) — [source page](https://staples.com/)
-- [Staples® Official Online Store](https://design.withfudge.com/pin/9815) — [source page](https://staples.com/)
+## Representative captures
+[![Staples® Official Online Store](https://pin.fontofweb.com/9816?format=jpg)](https://design.withfudge.com/pin/9816)
+[Staples® Official Online Store](https://design.withfudge.com/pin/9816) — [source page](https://staples.com/)
+
+[![Staples® Official Online Store](https://pin.fontofweb.com/9815?format=jpg)](https://design.withfudge.com/pin/9815)
+[Staples® Official Online Store](https://design.withfudge.com/pin/9815) — [source page](https://staples.com/)

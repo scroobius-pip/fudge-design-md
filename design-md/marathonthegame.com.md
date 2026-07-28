@@ -6,6 +6,10 @@ Source domain: [marathonthegame.com](https://marathonthegame.com)
 
 Last updated: 2026-03-07
 
+<!--
+coverPin: 7792
+-->
+
 Here is the visual system observed across **8 captured pages** from [marathonthegame.com](https://marathonthegame.com).
 
 ```fudge-colors
@@ -305,12 +309,27 @@ Here is the visual system observed across **8 captured pages** from [marathonthe
 }
 ```
 
-## References
-- [Marathon | Homepage](https://design.withfudge.com/pin/7792) — [source page](https://marathonthegame.com/it-it)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6564) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6563) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6562) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6561) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6560) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6559) — [source page](https://marathonthegame.com/)
-- [Marathon | Homepage](https://design.withfudge.com/pin/6558) — [source page](https://marathonthegame.com/)
+## Representative captures
+[![Marathon | Homepage](https://pin.fontofweb.com/7792?format=jpg)](https://design.withfudge.com/pin/7792)
+[Marathon | Homepage](https://design.withfudge.com/pin/7792) — [source page](https://marathonthegame.com/it-it)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6564?format=jpg)](https://design.withfudge.com/pin/6564)
+[Marathon | Homepage](https://design.withfudge.com/pin/6564) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6563?format=jpg)](https://design.withfudge.com/pin/6563)
+[Marathon | Homepage](https://design.withfudge.com/pin/6563) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6562?format=jpg)](https://design.withfudge.com/pin/6562)
+[Marathon | Homepage](https://design.withfudge.com/pin/6562) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6561?format=jpg)](https://design.withfudge.com/pin/6561)
+[Marathon | Homepage](https://design.withfudge.com/pin/6561) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6560?format=jpg)](https://design.withfudge.com/pin/6560)
+[Marathon | Homepage](https://design.withfudge.com/pin/6560) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6559?format=jpg)](https://design.withfudge.com/pin/6559)
+[Marathon | Homepage](https://design.withfudge.com/pin/6559) — [source page](https://marathonthegame.com/)
+
+[![Marathon | Homepage](https://pin.fontofweb.com/6558?format=jpg)](https://design.withfudge.com/pin/6558)
+[Marathon | Homepage](https://design.withfudge.com/pin/6558) — [source page](https://marathonthegame.com/)

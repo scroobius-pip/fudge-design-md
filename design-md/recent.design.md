@@ -6,6 +6,10 @@ Source domain: [recent.design](https://recent.design)
 
 Last updated: 2026-06-13
 
+<!--
+coverPin: 9586
+-->
+
 Here is the visual system observed across **1 captured page** from [recent.design](https://recent.design).
 
 ```fudge-colors
@@ -98,5 +102,6 @@ Here is the visual system observed across **1 captured page** from [recent.desig
 }
 ```
 
-## References
-- [Recent Design](https://design.withfudge.com/pin/9586) — [source page](https://recent.design/)
+## Representative captures
+[![Recent Design](https://pin.fontofweb.com/9586?format=jpg)](https://design.withfudge.com/pin/9586)
+[Recent Design](https://design.withfudge.com/pin/9586) — [source page](https://recent.design/)

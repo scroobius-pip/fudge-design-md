@@ -6,6 +6,10 @@ Source domain: [ilyagreben.com](https://ilyagreben.com)
 
 Last updated: 2026-03-15
 
+<!--
+coverPin: 8110
+-->
+
 Here is the visual system observed across **1 captured page** from [ilyagreben.com](https://ilyagreben.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [ilyagreben.c
 }
 ```
 
-## References
-- [Ilya Greben](https://design.withfudge.com/pin/8110) — [source page](https://ilyagreben.com/)
+## Representative captures
+[![Ilya Greben](https://pin.fontofweb.com/8110?format=jpg)](https://design.withfudge.com/pin/8110)
+[Ilya Greben](https://design.withfudge.com/pin/8110) — [source page](https://ilyagreben.com/)

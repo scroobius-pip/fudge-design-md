@@ -6,6 +6,10 @@ Source domain: [cssstudio.ai](https://cssstudio.ai)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8764
+-->
+
 Here is the visual system observed across **1 captured page** from [cssstudio.ai](https://cssstudio.ai).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [cssstudio.ai
 }
 ```
 
-## References
-- [Getting started | CSS Studio](https://design.withfudge.com/pin/8764) — [source page](https://cssstudio.ai/learn/getting-started)
+## Representative captures
+[![Getting started | CSS Studio](https://pin.fontofweb.com/8764?format=jpg)](https://design.withfudge.com/pin/8764)
+[Getting started | CSS Studio](https://design.withfudge.com/pin/8764) — [source page](https://cssstudio.ai/learn/getting-started)

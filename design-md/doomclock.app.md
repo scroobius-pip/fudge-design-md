@@ -6,6 +6,10 @@ Source domain: [doomclock.app](https://doomclock.app)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7938
+-->
+
 Here is the visual system observed across **1 captured page** from [doomclock.app](https://doomclock.app).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [doomclock.ap
 }
 ```
 
-## References
-- [DOOMCLOCK — Every crisis. Every outcome. Ranked by probability.](https://design.withfudge.com/pin/7938) — [source page](https://doomclock.app/)
+## Representative captures
+[![DOOMCLOCK — Every crisis. Every outcome. Ranked by probability.](https://pin.fontofweb.com/7938?format=jpg)](https://design.withfudge.com/pin/7938)
+[DOOMCLOCK — Every crisis. Every outcome. Ranked by probability.](https://design.withfudge.com/pin/7938) — [source page](https://doomclock.app/)

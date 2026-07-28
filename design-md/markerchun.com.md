@@ -6,6 +6,10 @@ Source domain: [markerchun.com](https://markerchun.com)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9124
+-->
+
 Here is the visual system observed across **1 captured page** from [markerchun.com](https://markerchun.com).
 
 ```fudge-colors
@@ -93,5 +97,6 @@ Here is the visual system observed across **1 captured page** from [markerchun.c
 }
 ```
 
-## References
-- [markerchun - NEO80](https://design.withfudge.com/pin/9124) — [source page](https://markerchun.com/neo80)
+## Representative captures
+[![markerchun - NEO80](https://pin.fontofweb.com/9124?format=jpg)](https://design.withfudge.com/pin/9124)
+[markerchun - NEO80](https://design.withfudge.com/pin/9124) — [source page](https://markerchun.com/neo80)

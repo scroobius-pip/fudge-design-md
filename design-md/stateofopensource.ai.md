@@ -6,6 +6,10 @@ Source domain: [stateofopensource.ai](https://stateofopensource.ai)
 
 Last updated: 2026-07-17
 
+<!--
+coverPin: 10215
+-->
+
 Here is the visual system observed across **11 captured pages** from [stateofopensource.ai](https://stateofopensource.ai).
 
 ```fudge-colors
@@ -369,12 +373,27 @@ Here is the visual system observed across **11 captured pages** from [stateofope
 }
 ```
 
-## References
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10215) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10214) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10213) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10212) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10211) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10210) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10209) — [source page](https://stateofopensource.ai/)
-- [The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10208) — [source page](https://stateofopensource.ai/)
+## Representative captures
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10215?format=jpg)](https://design.withfudge.com/pin/10215)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10215) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10214?format=jpg)](https://design.withfudge.com/pin/10214)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10214) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10213?format=jpg)](https://design.withfudge.com/pin/10213)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10213) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10212?format=jpg)](https://design.withfudge.com/pin/10212)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10212) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10211?format=jpg)](https://design.withfudge.com/pin/10211)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10211) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10210?format=jpg)](https://design.withfudge.com/pin/10210)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10210) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10209?format=jpg)](https://design.withfudge.com/pin/10209)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10209) — [source page](https://stateofopensource.ai/)
+
+[![The State of Open Source AI — V1.0 · July 2026](https://pin.fontofweb.com/10208?format=jpg)](https://design.withfudge.com/pin/10208)
+[The State of Open Source AI — V1.0 · July 2026](https://design.withfudge.com/pin/10208) — [source page](https://stateofopensource.ai/)

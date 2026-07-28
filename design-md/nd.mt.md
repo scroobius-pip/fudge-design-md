@@ -6,6 +6,10 @@ Source domain: [nd.mt](https://nd.mt)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7054
+-->
+
 Here is the visual system observed across **1 captured page** from [nd.mt](https://nd.mt).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [nd.mt](https
 }
 ```
 
-## References
-- [nd.mt](https://design.withfudge.com/pin/7054) — [source page](https://nd.mt/)
+## Representative captures
+[![nd.mt](https://pin.fontofweb.com/7054?format=jpg)](https://design.withfudge.com/pin/7054)
+[nd.mt](https://design.withfudge.com/pin/7054) — [source page](https://nd.mt/)

@@ -6,6 +6,10 @@ Source domain: [hermesatlas.com](https://hermesatlas.com)
 
 Last updated: 2026-04-19
 
+<!--
+coverPin: 8982
+-->
+
 Here is the visual system observed across **4 captured pages** from [hermesatlas.com](https://hermesatlas.com).
 
 ```fudge-colors
@@ -162,8 +166,15 @@ Here is the visual system observed across **4 captured pages** from [hermesatlas
 }
 ```
 
-## References
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8982) — [source page](https://hermesatlas.com/)
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8981) — [source page](https://hermesatlas.com/)
-- [litprog-skill — Hermes Agent Skills & Skill Registries | Hermes Atlas](https://design.withfudge.com/pin/8980) — [source page](https://hermesatlas.com/projects/tlehman/litprog-skill)
-- [Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8979) — [source page](https://hermesatlas.com/)
+## Representative captures
+[![Hermes Atlas — The community map for Hermes Agent](https://pin.fontofweb.com/8982?format=jpg)](https://design.withfudge.com/pin/8982)
+[Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8982) — [source page](https://hermesatlas.com/)
+
+[![Hermes Atlas — The community map for Hermes Agent](https://pin.fontofweb.com/8981?format=jpg)](https://design.withfudge.com/pin/8981)
+[Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8981) — [source page](https://hermesatlas.com/)
+
+[![litprog-skill — Hermes Agent Skills & Skill Registries | Hermes Atlas](https://pin.fontofweb.com/8980?format=jpg)](https://design.withfudge.com/pin/8980)
+[litprog-skill — Hermes Agent Skills & Skill Registries | Hermes Atlas](https://design.withfudge.com/pin/8980) — [source page](https://hermesatlas.com/projects/tlehman/litprog-skill)
+
+[![Hermes Atlas — The community map for Hermes Agent](https://pin.fontofweb.com/8979?format=jpg)](https://design.withfudge.com/pin/8979)
+[Hermes Atlas — The community map for Hermes Agent](https://design.withfudge.com/pin/8979) — [source page](https://hermesatlas.com/)

@@ -6,6 +6,10 @@ Source domain: [arcee.ai](https://arcee.ai)
 
 Last updated: 2026-02-10
 
+<!--
+coverPin: 6373
+-->
+
 Here is the visual system observed across **2 captured pages** from [arcee.ai](https://arcee.ai).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [arcee.ai](h
 }
 ```
 
-## References
-- [Arcee AI](https://design.withfudge.com/pin/6373) — [source page](https://arcee.ai/)
-- [Arcee AI](https://design.withfudge.com/pin/6372) — [source page](https://arcee.ai/)
+## Representative captures
+[![Arcee AI](https://pin.fontofweb.com/6373?format=jpg)](https://design.withfudge.com/pin/6373)
+[Arcee AI](https://design.withfudge.com/pin/6373) — [source page](https://arcee.ai/)
+
+[![Arcee AI](https://pin.fontofweb.com/6372?format=jpg)](https://design.withfudge.com/pin/6372)
+[Arcee AI](https://design.withfudge.com/pin/6372) — [source page](https://arcee.ai/)

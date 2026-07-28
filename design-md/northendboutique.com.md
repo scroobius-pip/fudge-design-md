@@ -6,6 +6,10 @@ Source domain: [northendboutique.com](https://northendboutique.com)
 
 Last updated: 2026-07-09
 
+<!--
+coverPin: 9936
+-->
+
 Here is the visual system observed across **8 captured pages** from [northendboutique.com](https://northendboutique.com).
 
 ```fudge-colors
@@ -300,12 +304,27 @@ Here is the visual system observed across **8 captured pages** from [northendbou
 }
 ```
 
-## References
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9936) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9935) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9934) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9933) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9932) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9931) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9930) — [source page](https://northendboutique.com/)
-- [North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9929) — [source page](https://northendboutique.com/)
+## Representative captures
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9936?format=jpg)](https://design.withfudge.com/pin/9936)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9936) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9935?format=jpg)](https://design.withfudge.com/pin/9935)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9935) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9934?format=jpg)](https://design.withfudge.com/pin/9934)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9934) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9933?format=jpg)](https://design.withfudge.com/pin/9933)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9933) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9932?format=jpg)](https://design.withfudge.com/pin/9932)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9932) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9931?format=jpg)](https://design.withfudge.com/pin/9931)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9931) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9930?format=jpg)](https://design.withfudge.com/pin/9930)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9930) — [source page](https://northendboutique.com/)
+
+[![North End Boutique - Women's Clothing & Accessories Boutique](https://pin.fontofweb.com/9929?format=jpg)](https://design.withfudge.com/pin/9929)
+[North End Boutique - Women's Clothing & Accessories Boutique](https://design.withfudge.com/pin/9929) — [source page](https://northendboutique.com/)

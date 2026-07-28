@@ -6,6 +6,10 @@ Source domain: [skill-shrek.vercel.app](https://skill-shrek.vercel.app)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6625
+-->
+
 Here is the visual system observed across **5 captured pages** from [skill-shrek.vercel.app](https://skill-shrek.vercel.app).
 
 ```fudge-colors
@@ -209,9 +213,18 @@ Here is the visual system observed across **5 captured pages** from [skill-shrek
 }
 ```
 
-## References
-- [Skill Shrek](https://design.withfudge.com/pin/6625) — [source page](https://skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6622) — [source page](https://skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6621) — [source page](https://skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6620) — [source page](https://skill-shrek.vercel.app/)
-- [Skill Shrek](https://design.withfudge.com/pin/6619) — [source page](https://skill-shrek.vercel.app/)
+## Representative captures
+[![Skill Shrek](https://pin.fontofweb.com/6625?format=jpg)](https://design.withfudge.com/pin/6625)
+[Skill Shrek](https://design.withfudge.com/pin/6625) — [source page](https://skill-shrek.vercel.app/)
+
+[![Skill Shrek](https://pin.fontofweb.com/6622?format=jpg)](https://design.withfudge.com/pin/6622)
+[Skill Shrek](https://design.withfudge.com/pin/6622) — [source page](https://skill-shrek.vercel.app/)
+
+[![Skill Shrek](https://pin.fontofweb.com/6621?format=jpg)](https://design.withfudge.com/pin/6621)
+[Skill Shrek](https://design.withfudge.com/pin/6621) — [source page](https://skill-shrek.vercel.app/)
+
+[![Skill Shrek](https://pin.fontofweb.com/6620?format=jpg)](https://design.withfudge.com/pin/6620)
+[Skill Shrek](https://design.withfudge.com/pin/6620) — [source page](https://skill-shrek.vercel.app/)
+
+[![Skill Shrek](https://pin.fontofweb.com/6619?format=jpg)](https://design.withfudge.com/pin/6619)
+[Skill Shrek](https://design.withfudge.com/pin/6619) — [source page](https://skill-shrek.vercel.app/)

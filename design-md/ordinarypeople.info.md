@@ -6,6 +6,10 @@ Source domain: [ordinarypeople.info](https://ordinarypeople.info)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10410
+-->
+
 Here is the visual system observed across **15 captured pages** from [ordinarypeople.info](https://ordinarypeople.info).
 
 ```fudge-colors
@@ -400,12 +404,27 @@ Here is the visual system observed across **15 captured pages** from [ordinarype
 }
 ```
 
-## References
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10410) — [source page](https://ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10409) — [source page](https://ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10408) — [source page](https://ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10407) — [source page](https://ordinarypeople.info/work/netflixk-content)
-- [Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10406) — [source page](https://ordinarypeople.info/work/netflixk-content)
-- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10315) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
-- [Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10314) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
-- [Design Trend Report — Ordinary People](https://design.withfudge.com/pin/10313) — [source page](https://ordinarypeople.info/work/design-trend-report)
+## Representative captures
+[![Netflix K-Content — Ordinary People](https://pin.fontofweb.com/10410?format=jpg)](https://design.withfudge.com/pin/10410)
+[Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10410) — [source page](https://ordinarypeople.info/work/netflixk-content)
+
+[![Netflix K-Content — Ordinary People](https://pin.fontofweb.com/10409?format=jpg)](https://design.withfudge.com/pin/10409)
+[Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10409) — [source page](https://ordinarypeople.info/work/netflixk-content)
+
+[![Netflix K-Content — Ordinary People](https://pin.fontofweb.com/10408?format=jpg)](https://design.withfudge.com/pin/10408)
+[Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10408) — [source page](https://ordinarypeople.info/work/netflixk-content)
+
+[![Netflix K-Content — Ordinary People](https://pin.fontofweb.com/10407?format=jpg)](https://design.withfudge.com/pin/10407)
+[Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10407) — [source page](https://ordinarypeople.info/work/netflixk-content)
+
+[![Netflix K-Content — Ordinary People](https://pin.fontofweb.com/10406?format=jpg)](https://design.withfudge.com/pin/10406)
+[Netflix K-Content — Ordinary People](https://design.withfudge.com/pin/10406) — [source page](https://ordinarypeople.info/work/netflixk-content)
+
+[![Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://pin.fontofweb.com/10315?format=jpg)](https://design.withfudge.com/pin/10315)
+[Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10315) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
+
+[![Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://pin.fontofweb.com/10314?format=jpg)](https://design.withfudge.com/pin/10314)
+[Philo Electro Ray — Current Status of Ethical Discussion on Animal Rights by Heo Nam-Kyeol — Ordinary People](https://design.withfudge.com/pin/10314) — [source page](https://ordinarypeople.info/work/current-status-of-ethical-discussion-on-animal-rights)
+
+[![Design Trend Report — Ordinary People](https://pin.fontofweb.com/10313?format=jpg)](https://design.withfudge.com/pin/10313)
+[Design Trend Report — Ordinary People](https://design.withfudge.com/pin/10313) — [source page](https://ordinarypeople.info/work/design-trend-report)

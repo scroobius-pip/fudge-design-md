@@ -6,6 +6,10 @@ Source domain: [frankchimero.com](https://frankchimero.com)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7427
+-->
+
 Here is the visual system observed across **5 captured pages** from [frankchimero.com](https://frankchimero.com).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [frankchimer
 }
 ```
 
-## References
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7427) — [source page](https://frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7426) — [source page](https://frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7425) — [source page](https://frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7424) — [source page](https://frankchimero.com/)
-- [Frank Chimero · Home](https://design.withfudge.com/pin/7423) — [source page](https://frankchimero.com/)
+## Representative captures
+[![Frank Chimero · Home](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/pin/7427)
+[Frank Chimero · Home](https://design.withfudge.com/pin/7427) — [source page](https://frankchimero.com/)
+
+[![Frank Chimero · Home](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/pin/7426)
+[Frank Chimero · Home](https://design.withfudge.com/pin/7426) — [source page](https://frankchimero.com/)
+
+[![Frank Chimero · Home](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/pin/7425)
+[Frank Chimero · Home](https://design.withfudge.com/pin/7425) — [source page](https://frankchimero.com/)
+
+[![Frank Chimero · Home](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/pin/7424)
+[Frank Chimero · Home](https://design.withfudge.com/pin/7424) — [source page](https://frankchimero.com/)
+
+[![Frank Chimero · Home](https://pin.fontofweb.com/7423?format=jpg)](https://design.withfudge.com/pin/7423)
+[Frank Chimero · Home](https://design.withfudge.com/pin/7423) — [source page](https://frankchimero.com/)

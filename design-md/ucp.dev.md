@@ -6,6 +6,10 @@ Source domain: [ucp.dev](https://ucp.dev)
 
 Last updated: 2026-05-16
 
+<!--
+coverPin: 9361
+-->
+
 Here is the visual system observed across **3 captured pages** from [ucp.dev](https://ucp.dev).
 
 ```fudge-colors
@@ -165,7 +169,12 @@ Here is the visual system observed across **3 captured pages** from [ucp.dev](ht
 }
 ```
 
-## References
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9361) — [source page](https://ucp.dev/)
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9360) — [source page](https://ucp.dev/)
-- [Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9359) — [source page](https://ucp.dev/)
+## Representative captures
+[![Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://pin.fontofweb.com/9361?format=jpg)](https://design.withfudge.com/pin/9361)
+[Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9361) — [source page](https://ucp.dev/)
+
+[![Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://pin.fontofweb.com/9360?format=jpg)](https://design.withfudge.com/pin/9360)
+[Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9360) — [source page](https://ucp.dev/)
+
+[![Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://pin.fontofweb.com/9359?format=jpg)](https://design.withfudge.com/pin/9359)
+[Universal Commerce Protocol - Universal Commerce Protocol (UCP)](https://design.withfudge.com/pin/9359) — [source page](https://ucp.dev/)

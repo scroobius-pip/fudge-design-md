@@ -6,6 +6,10 @@ Source domain: [ocoya.com](https://ocoya.com)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7673
+-->
+
 Here is the visual system observed across **4 captured pages** from [ocoya.com](https://ocoya.com).
 
 ```fudge-colors
@@ -177,8 +181,15 @@ Here is the visual system observed across **4 captured pages** from [ocoya.com](
 }
 ```
 
-## References
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7673) — [source page](https://ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7672) — [source page](https://ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7671) — [source page](https://ocoya.com/)
-- [Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7670) — [source page](https://ocoya.com/)
+## Representative captures
+[![Social media management. Using AI. | Ocoya](https://pin.fontofweb.com/7673?format=jpg)](https://design.withfudge.com/pin/7673)
+[Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7673) — [source page](https://ocoya.com/)
+
+[![Social media management. Using AI. | Ocoya](https://pin.fontofweb.com/7672?format=jpg)](https://design.withfudge.com/pin/7672)
+[Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7672) — [source page](https://ocoya.com/)
+
+[![Social media management. Using AI. | Ocoya](https://pin.fontofweb.com/7671?format=jpg)](https://design.withfudge.com/pin/7671)
+[Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7671) — [source page](https://ocoya.com/)
+
+[![Social media management. Using AI. | Ocoya](https://pin.fontofweb.com/7670?format=jpg)](https://design.withfudge.com/pin/7670)
+[Social media management. Using AI. | Ocoya](https://design.withfudge.com/pin/7670) — [source page](https://ocoya.com/)

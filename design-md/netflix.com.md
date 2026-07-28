@@ -6,6 +6,10 @@ Source domain: [netflix.com](https://netflix.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6423
+-->
+
 Here is the visual system observed across **8 captured pages** from [netflix.com](https://netflix.com).
 
 ```fudge-colors
@@ -214,12 +218,27 @@ Here is the visual system observed across **8 captured pages** from [netflix.com
 }
 ```
 
-## References
-- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6423) — [source page](https://netflix.com/ng/title/624420)
-- [Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6422) — [source page](https://netflix.com/ng/title/624420)
-- [Netflix](https://design.withfudge.com/pin/3807) — [source page](https://netflix.com/NotFound)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2338) — [source page](https://netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2337) — [source page](https://netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2336) — [source page](https://netflix.com/)
-- [Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2335) — [source page](https://netflix.com/)
-- [Netflix Nigeria - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2334) — [source page](https://netflix.com/ng/)
+## Representative captures
+[![Watch In the Line of Fire | Netflix](https://pin.fontofweb.com/6423?format=jpg)](https://design.withfudge.com/pin/6423)
+[Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6423) — [source page](https://netflix.com/ng/title/624420)
+
+[![Watch In the Line of Fire | Netflix](https://pin.fontofweb.com/6422?format=jpg)](https://design.withfudge.com/pin/6422)
+[Watch In the Line of Fire | Netflix](https://design.withfudge.com/pin/6422) — [source page](https://netflix.com/ng/title/624420)
+
+[![Netflix](https://pin.fontofweb.com/3807?format=jpg)](https://design.withfudge.com/pin/3807)
+[Netflix](https://design.withfudge.com/pin/3807) — [source page](https://netflix.com/NotFound)
+
+[![Netflix - Watch TV Shows Online, Watch Movies Online](https://pin.fontofweb.com/2338?format=jpg)](https://design.withfudge.com/pin/2338)
+[Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2338) — [source page](https://netflix.com/)
+
+[![Netflix - Watch TV Shows Online, Watch Movies Online](https://pin.fontofweb.com/2337?format=jpg)](https://design.withfudge.com/pin/2337)
+[Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2337) — [source page](https://netflix.com/)
+
+[![Netflix - Watch TV Shows Online, Watch Movies Online](https://pin.fontofweb.com/2336?format=jpg)](https://design.withfudge.com/pin/2336)
+[Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2336) — [source page](https://netflix.com/)
+
+[![Netflix - Watch TV Shows Online, Watch Movies Online](https://pin.fontofweb.com/2335?format=jpg)](https://design.withfudge.com/pin/2335)
+[Netflix - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2335) — [source page](https://netflix.com/)
+
+[![Netflix Nigeria - Watch TV Shows Online, Watch Movies Online](https://pin.fontofweb.com/2334?format=jpg)](https://design.withfudge.com/pin/2334)
+[Netflix Nigeria - Watch TV Shows Online, Watch Movies Online](https://design.withfudge.com/pin/2334) — [source page](https://netflix.com/ng/)

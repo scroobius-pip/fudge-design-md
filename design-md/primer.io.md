@@ -6,6 +6,10 @@ Source domain: [primer.io](https://primer.io)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 9992
+-->
+
 Here is the visual system observed across **1 captured page** from [primer.io](https://primer.io).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [primer.io](h
 }
 ```
 
-## References
-- [Unified intelligence for payments | Primer](https://design.withfudge.com/pin/9992) — [source page](https://primer.io/)
+## Representative captures
+[![Unified intelligence for payments | Primer](https://pin.fontofweb.com/9992?format=jpg)](https://design.withfudge.com/pin/9992)
+[Unified intelligence for payments | Primer](https://design.withfudge.com/pin/9992) — [source page](https://primer.io/)

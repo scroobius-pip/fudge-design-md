@@ -6,6 +6,10 @@ Source domain: [demo-basket.onmy.land](https://demo-basket.onmy.land)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 9996
+-->
+
 Here is the visual system observed across **1 captured page** from [demo-basket.onmy.land](https://demo-basket.onmy.land).
 
 ```fudge-colors
@@ -118,5 +122,6 @@ Here is the visual system observed across **1 captured page** from [demo-basket.
 }
 ```
 
-## References
-- [demo](https://design.withfudge.com/pin/9996) — [source page](https://demo-basket.onmy.land/)
+## Representative captures
+[![demo](https://pin.fontofweb.com/9996?format=jpg)](https://design.withfudge.com/pin/9996)
+[demo](https://design.withfudge.com/pin/9996) — [source page](https://demo-basket.onmy.land/)

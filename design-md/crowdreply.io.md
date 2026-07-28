@@ -6,6 +6,10 @@ Source domain: [crowdreply.io](https://crowdreply.io)
 
 Last updated: 2026-03-17
 
+<!--
+coverPin: 8154
+-->
+
 Here is the visual system observed across **9 captured pages** from [crowdreply.io](https://crowdreply.io).
 
 ```fudge-colors
@@ -294,12 +298,27 @@ Here is the visual system observed across **9 captured pages** from [crowdreply.
 }
 ```
 
-## References
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8154) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8153) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8152) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8151) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8150) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8149) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8148) — [source page](https://crowdreply.io/)
-- [CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8147) — [source page](https://crowdreply.io/)
+## Representative captures
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8154?format=jpg)](https://design.withfudge.com/pin/8154)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8154) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8153?format=jpg)](https://design.withfudge.com/pin/8153)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8153) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8152?format=jpg)](https://design.withfudge.com/pin/8152)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8152) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8151?format=jpg)](https://design.withfudge.com/pin/8151)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8151) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8150?format=jpg)](https://design.withfudge.com/pin/8150)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8150) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8149?format=jpg)](https://design.withfudge.com/pin/8149)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8149) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8148?format=jpg)](https://design.withfudge.com/pin/8148)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8148) — [source page](https://crowdreply.io/)
+
+[![CrowdReply: The #1 AI Search Visibility Tool](https://pin.fontofweb.com/8147?format=jpg)](https://design.withfudge.com/pin/8147)
+[CrowdReply: The #1 AI Search Visibility Tool](https://design.withfudge.com/pin/8147) — [source page](https://crowdreply.io/)

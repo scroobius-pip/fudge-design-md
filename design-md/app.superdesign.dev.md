@@ -6,6 +6,10 @@ Source domain: [app.superdesign.dev](https://app.superdesign.dev)
 
 Last updated: 2026-01-29
 
+<!--
+coverPin: 6128
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.superdesign.dev](https://app.superdesign.dev).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [app.superde
 }
 ```
 
-## References
-- [Superdesign](https://design.withfudge.com/pin/6128) — [source page](https://app.superdesign.dev/)
-- [Disruptor Beta Launch | Superdesign Prompts](https://design.withfudge.com/pin/6127) — [source page](https://app.superdesign.dev/)
+## Representative captures
+[![Superdesign](https://pin.fontofweb.com/6128?format=jpg)](https://design.withfudge.com/pin/6128)
+[Superdesign](https://design.withfudge.com/pin/6128) — [source page](https://app.superdesign.dev/)
+
+[![Disruptor Beta Launch | Superdesign Prompts](https://pin.fontofweb.com/6127?format=jpg)](https://design.withfudge.com/pin/6127)
+[Disruptor Beta Launch | Superdesign Prompts](https://design.withfudge.com/pin/6127) — [source page](https://app.superdesign.dev/)

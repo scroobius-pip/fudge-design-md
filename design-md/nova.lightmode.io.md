@@ -6,6 +6,10 @@ Source domain: [nova.lightmode.io](https://nova.lightmode.io)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6696
+-->
+
 Here is the visual system observed across **5 captured pages** from [nova.lightmode.io](https://nova.lightmode.io).
 
 ```fudge-colors
@@ -167,9 +171,18 @@ Here is the visual system observed across **5 captured pages** from [nova.lightm
 }
 ```
 
-## References
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6696) — [source page](https://nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6695) — [source page](https://nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6694) — [source page](https://nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6693) — [source page](https://nova.lightmode.io/)
-- [Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6692) — [source page](https://nova.lightmode.io/)
+## Representative captures
+[![Nova — A futuristic canvas for your personal development](https://pin.fontofweb.com/6696?format=jpg)](https://design.withfudge.com/pin/6696)
+[Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6696) — [source page](https://nova.lightmode.io/)
+
+[![Nova — A futuristic canvas for your personal development](https://pin.fontofweb.com/6695?format=jpg)](https://design.withfudge.com/pin/6695)
+[Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6695) — [source page](https://nova.lightmode.io/)
+
+[![Nova — A futuristic canvas for your personal development](https://pin.fontofweb.com/6694?format=jpg)](https://design.withfudge.com/pin/6694)
+[Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6694) — [source page](https://nova.lightmode.io/)
+
+[![Nova — A futuristic canvas for your personal development](https://pin.fontofweb.com/6693?format=jpg)](https://design.withfudge.com/pin/6693)
+[Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6693) — [source page](https://nova.lightmode.io/)
+
+[![Nova — A futuristic canvas for your personal development](https://pin.fontofweb.com/6692?format=jpg)](https://design.withfudge.com/pin/6692)
+[Nova — A futuristic canvas for your personal development](https://design.withfudge.com/pin/6692) — [source page](https://nova.lightmode.io/)

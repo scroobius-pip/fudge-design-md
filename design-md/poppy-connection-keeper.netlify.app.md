@@ -6,6 +6,10 @@ Source domain: [poppy-connection-keeper.netlify.app](https://poppy-connection-ke
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7669
+-->
+
 Here is the visual system observed across **2 captured pages** from [poppy-connection-keeper.netlify.app](https://poppy-connection-keeper.netlify.app).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [poppy-conne
 }
 ```
 
-## References
-- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7669) — [source page](https://poppy-connection-keeper.netlify.app/)
-- [Poppy — Connection Keeper](https://design.withfudge.com/pin/7668) — [source page](https://poppy-connection-keeper.netlify.app/)
+## Representative captures
+[![Poppy — Connection Keeper](https://pin.fontofweb.com/7669?format=jpg)](https://design.withfudge.com/pin/7669)
+[Poppy — Connection Keeper](https://design.withfudge.com/pin/7669) — [source page](https://poppy-connection-keeper.netlify.app/)
+
+[![Poppy — Connection Keeper](https://pin.fontofweb.com/7668?format=jpg)](https://design.withfudge.com/pin/7668)
+[Poppy — Connection Keeper](https://design.withfudge.com/pin/7668) — [source page](https://poppy-connection-keeper.netlify.app/)

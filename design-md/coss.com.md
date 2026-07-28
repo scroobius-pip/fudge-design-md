@@ -6,6 +6,10 @@ Source domain: [coss.com](https://coss.com)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7977
+-->
+
 Here is the visual system observed across **1 captured page** from [coss.com](https://coss.com).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [coss.com](ht
 }
 ```
 
-## References
-- [A new, modern UI component library built on top of Base UI - coss ui](https://design.withfudge.com/pin/7977) — [source page](https://coss.com/ui)
+## Representative captures
+[![A new, modern UI component library built on top of Base UI - coss ui](https://pin.fontofweb.com/7977?format=jpg)](https://design.withfudge.com/pin/7977)
+[A new, modern UI component library built on top of Base UI - coss ui](https://design.withfudge.com/pin/7977) — [source page](https://coss.com/ui)

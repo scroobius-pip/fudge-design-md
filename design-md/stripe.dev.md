@@ -6,6 +6,10 @@ Source domain: [stripe.dev](https://stripe.dev)
 
 Last updated: 2026-02-20
 
+<!--
+coverPin: 6883
+-->
+
 Here is the visual system observed across **16 captured pages** from [stripe.dev](https://stripe.dev).
 
 ```fudge-colors
@@ -325,12 +329,27 @@ Here is the visual system observed across **16 captured pages** from [stripe.dev
 }
 ```
 
-## References
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6883) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6882) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6881) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6880) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6879) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6878) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6877) — [source page](https://stripe.dev/)
-- [Stripe Dot Dev](https://design.withfudge.com/pin/6876) — [source page](https://stripe.dev/)
+## Representative captures
+[![Stripe Dot Dev](https://pin.fontofweb.com/6883?format=jpg)](https://design.withfudge.com/pin/6883)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6883) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6882?format=jpg)](https://design.withfudge.com/pin/6882)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6882) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6881?format=jpg)](https://design.withfudge.com/pin/6881)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6881) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6880?format=jpg)](https://design.withfudge.com/pin/6880)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6880) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6879?format=jpg)](https://design.withfudge.com/pin/6879)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6879) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6878?format=jpg)](https://design.withfudge.com/pin/6878)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6878) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6877?format=jpg)](https://design.withfudge.com/pin/6877)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6877) — [source page](https://stripe.dev/)
+
+[![Stripe Dot Dev](https://pin.fontofweb.com/6876?format=jpg)](https://design.withfudge.com/pin/6876)
+[Stripe Dot Dev](https://design.withfudge.com/pin/6876) — [source page](https://stripe.dev/)

@@ -6,6 +6,10 @@ Source domain: [shop.a24films.com](https://shop.a24films.com)
 
 Last updated: 2026-02-11
 
+<!--
+coverPin: 6382
+-->
+
 Here is the visual system observed across **3 captured pages** from [shop.a24films.com](https://shop.a24films.com).
 
 ```fudge-colors
@@ -138,7 +142,12 @@ Here is the visual system observed across **3 captured pages** from [shop.a24fil
 }
 ```
 
-## References
-- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6382) — [source page](https://shop.a24films.com/products/a24-stones-tee)
-- [Stones Tee – A24 Shop](https://design.withfudge.com/pin/6381) — [source page](https://shop.a24films.com/products/a24-stones-tee)
-- [Members Only – A24 Shop](https://design.withfudge.com/pin/6380) — [source page](https://shop.a24films.com/collections/members-only)
+## Representative captures
+[![Stones Tee – A24 Shop](https://pin.fontofweb.com/6382?format=jpg)](https://design.withfudge.com/pin/6382)
+[Stones Tee – A24 Shop](https://design.withfudge.com/pin/6382) — [source page](https://shop.a24films.com/products/a24-stones-tee)
+
+[![Stones Tee – A24 Shop](https://pin.fontofweb.com/6381?format=jpg)](https://design.withfudge.com/pin/6381)
+[Stones Tee – A24 Shop](https://design.withfudge.com/pin/6381) — [source page](https://shop.a24films.com/products/a24-stones-tee)
+
+[![Members Only – A24 Shop](https://pin.fontofweb.com/6380?format=jpg)](https://design.withfudge.com/pin/6380)
+[Members Only – A24 Shop](https://design.withfudge.com/pin/6380) — [source page](https://shop.a24films.com/collections/members-only)

@@ -6,6 +6,10 @@ Source domain: [myaccount.payoneer.com](https://myaccount.payoneer.com)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6718
+-->
+
 Here is the visual system observed across **2 captured pages** from [myaccount.payoneer.com](https://myaccount.payoneer.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [myaccount.p
 }
 ```
 
-## References
-- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6718) — [source page](https://myaccount.payoneer.com/setupmyaccount)
-- [Payoneer: ShowRoom](https://design.withfudge.com/pin/6717) — [source page](https://myaccount.payoneer.com/setupmyaccount)
+## Representative captures
+[![Payoneer: ShowRoom](https://pin.fontofweb.com/6718?format=jpg)](https://design.withfudge.com/pin/6718)
+[Payoneer: ShowRoom](https://design.withfudge.com/pin/6718) — [source page](https://myaccount.payoneer.com/setupmyaccount)
+
+[![Payoneer: ShowRoom](https://pin.fontofweb.com/6717?format=jpg)](https://design.withfudge.com/pin/6717)
+[Payoneer: ShowRoom](https://design.withfudge.com/pin/6717) — [source page](https://myaccount.payoneer.com/setupmyaccount)

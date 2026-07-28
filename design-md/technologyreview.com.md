@@ -6,6 +6,10 @@ Source domain: [technologyreview.com](https://technologyreview.com)
 
 Last updated: 2026-04-30
 
+<!--
+coverPin: 9174
+-->
+
 Here is the visual system observed across **3 captured pages** from [technologyreview.com](https://technologyreview.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [technologyr
 }
 ```
 
-## References
-- [MIT Technology Review](https://design.withfudge.com/pin/9174) — [source page](https://technologyreview.com/)
-- [MIT Technology Review](https://design.withfudge.com/pin/9173) — [source page](https://technologyreview.com/)
-- [MIT Technology Review](https://design.withfudge.com/pin/9172) — [source page](https://technologyreview.com/)
+## Representative captures
+[![MIT Technology Review](https://pin.fontofweb.com/9174?format=jpg)](https://design.withfudge.com/pin/9174)
+[MIT Technology Review](https://design.withfudge.com/pin/9174) — [source page](https://technologyreview.com/)
+
+[![MIT Technology Review](https://pin.fontofweb.com/9173?format=jpg)](https://design.withfudge.com/pin/9173)
+[MIT Technology Review](https://design.withfudge.com/pin/9173) — [source page](https://technologyreview.com/)
+
+[![MIT Technology Review](https://pin.fontofweb.com/9172?format=jpg)](https://design.withfudge.com/pin/9172)
+[MIT Technology Review](https://design.withfudge.com/pin/9172) — [source page](https://technologyreview.com/)

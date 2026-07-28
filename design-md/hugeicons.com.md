@@ -6,6 +6,10 @@ Source domain: [hugeicons.com](https://hugeicons.com)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6629
+-->
+
 Here is the visual system observed across **4 captured pages** from [hugeicons.com](https://hugeicons.com).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [hugeicons.c
 }
 ```
 
-## References
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6629) — [source page](https://hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6628) — [source page](https://hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6627) — [source page](https://hugeicons.com/)
-- [Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6626) — [source page](https://hugeicons.com/)
+## Representative captures
+[![Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://pin.fontofweb.com/6629?format=jpg)](https://design.withfudge.com/pin/6629)
+[Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6629) — [source page](https://hugeicons.com/)
+
+[![Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://pin.fontofweb.com/6628?format=jpg)](https://design.withfudge.com/pin/6628)
+[Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6628) — [source page](https://hugeicons.com/)
+
+[![Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://pin.fontofweb.com/6627?format=jpg)](https://design.withfudge.com/pin/6627)
+[Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6627) — [source page](https://hugeicons.com/)
+
+[![Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://pin.fontofweb.com/6626?format=jpg)](https://design.withfudge.com/pin/6626)
+[Hugeicons – 46,000+ Free & Pro Icons for Designers & Developers](https://design.withfudge.com/pin/6626) — [source page](https://hugeicons.com/)

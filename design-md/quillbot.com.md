@@ -6,6 +6,10 @@ Source domain: [quillbot.com](https://quillbot.com)
 
 Last updated: 2026-06-10
 
+<!--
+coverPin: 9542
+-->
+
 Here is the visual system observed across **1 captured page** from [quillbot.com](https://quillbot.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [quillbot.com
 }
 ```
 
-## References
-- [Quillbot: Write, Design & Create](https://design.withfudge.com/pin/9542) — [source page](https://quillbot.com/)
+## Representative captures
+[![Quillbot: Write, Design & Create](https://pin.fontofweb.com/9542?format=jpg)](https://design.withfudge.com/pin/9542)
+[Quillbot: Write, Design & Create](https://design.withfudge.com/pin/9542) — [source page](https://quillbot.com/)

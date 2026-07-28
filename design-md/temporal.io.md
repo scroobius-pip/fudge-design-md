@@ -6,6 +6,10 @@ Source domain: [temporal.io](https://temporal.io)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7545
+-->
+
 Here is the visual system observed across **5 captured pages** from [temporal.io](https://temporal.io).
 
 ```fudge-colors
@@ -182,9 +186,18 @@ Here is the visual system observed across **5 captured pages** from [temporal.io
 }
 ```
 
-## References
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7545) — [source page](https://temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7544) — [source page](https://temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7543) — [source page](https://temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7542) — [source page](https://temporal.io/)
-- [Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7541) — [source page](https://temporal.io/)
+## Representative captures
+[![Durable Execution Solutions | Temporal](https://pin.fontofweb.com/7545?format=jpg)](https://design.withfudge.com/pin/7545)
+[Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7545) — [source page](https://temporal.io/)
+
+[![Durable Execution Solutions | Temporal](https://pin.fontofweb.com/7544?format=jpg)](https://design.withfudge.com/pin/7544)
+[Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7544) — [source page](https://temporal.io/)
+
+[![Durable Execution Solutions | Temporal](https://pin.fontofweb.com/7543?format=jpg)](https://design.withfudge.com/pin/7543)
+[Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7543) — [source page](https://temporal.io/)
+
+[![Durable Execution Solutions | Temporal](https://pin.fontofweb.com/7542?format=jpg)](https://design.withfudge.com/pin/7542)
+[Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7542) — [source page](https://temporal.io/)
+
+[![Durable Execution Solutions | Temporal](https://pin.fontofweb.com/7541?format=jpg)](https://design.withfudge.com/pin/7541)
+[Durable Execution Solutions | Temporal](https://design.withfudge.com/pin/7541) — [source page](https://temporal.io/)

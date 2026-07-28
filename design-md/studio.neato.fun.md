@@ -6,6 +6,10 @@ Source domain: [studio.neato.fun](https://studio.neato.fun)
 
 Last updated: 2026-03-16
 
+<!--
+coverPin: 8124
+-->
+
 Here is the visual system observed across **1 captured page** from [studio.neato.fun](https://studio.neato.fun).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [studio.neato
 }
 ```
 
-## References
-- [Gradients - Studio](https://design.withfudge.com/pin/8124) — [source page](https://studio.neato.fun/gradients)
+## Representative captures
+[![Gradients - Studio](https://pin.fontofweb.com/8124?format=jpg)](https://design.withfudge.com/pin/8124)
+[Gradients - Studio](https://design.withfudge.com/pin/8124) — [source page](https://studio.neato.fun/gradients)

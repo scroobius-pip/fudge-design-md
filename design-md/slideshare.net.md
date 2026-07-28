@@ -6,6 +6,10 @@ Source domain: [slideshare.net](https://slideshare.net)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7163
+-->
+
 Here is the visual system observed across **3 captured pages** from [slideshare.net](https://slideshare.net).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [slideshare.
 }
 ```
 
-## References
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7163) — [source page](https://slideshare.net/)
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7162) — [source page](https://slideshare.net/)
-- [Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7161) — [source page](https://slideshare.net/)
+## Representative captures
+[![Share & Discover Presentations | Slideshare](https://pin.fontofweb.com/7163?format=jpg)](https://design.withfudge.com/pin/7163)
+[Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7163) — [source page](https://slideshare.net/)
+
+[![Share & Discover Presentations | Slideshare](https://pin.fontofweb.com/7162?format=jpg)](https://design.withfudge.com/pin/7162)
+[Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7162) — [source page](https://slideshare.net/)
+
+[![Share & Discover Presentations | Slideshare](https://pin.fontofweb.com/7161?format=jpg)](https://design.withfudge.com/pin/7161)
+[Share & Discover Presentations | Slideshare](https://design.withfudge.com/pin/7161) — [source page](https://slideshare.net/)

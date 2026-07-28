@@ -6,6 +6,10 @@ Source domain: [opencollective.com](https://opencollective.com)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6777
+-->
+
 Here is the visual system observed across **3 captured pages** from [opencollective.com](https://opencollective.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [opencollect
 }
 ```
 
-## References
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6777) — [source page](https://opencollective.com/)
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6776) — [source page](https://opencollective.com/)
-- [Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6775) — [source page](https://opencollective.com/)
+## Representative captures
+[![Raise, manage and disburse money with full transparency. - Open Collective](https://pin.fontofweb.com/6777?format=jpg)](https://design.withfudge.com/pin/6777)
+[Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6777) — [source page](https://opencollective.com/)
+
+[![Raise, manage and disburse money with full transparency. - Open Collective](https://pin.fontofweb.com/6776?format=jpg)](https://design.withfudge.com/pin/6776)
+[Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6776) — [source page](https://opencollective.com/)
+
+[![Raise, manage and disburse money with full transparency. - Open Collective](https://pin.fontofweb.com/6775?format=jpg)](https://design.withfudge.com/pin/6775)
+[Raise, manage and disburse money with full transparency. - Open Collective](https://design.withfudge.com/pin/6775) — [source page](https://opencollective.com/)

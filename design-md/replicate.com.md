@@ -6,6 +6,10 @@ Source domain: [replicate.com](https://replicate.com)
 
 Last updated: 2026-03-02
 
+<!--
+coverPin: 7601
+-->
+
 Here is the visual system observed across **6 captured pages** from [replicate.com](https://replicate.com).
 
 ```fudge-colors
@@ -176,10 +180,21 @@ Here is the visual system observed across **6 captured pages** from [replicate.c
 }
 ```
 
-## References
-- [mattsays/sam3-image | Run with an API on Replicate](https://design.withfudge.com/pin/7601) — [source page](https://replicate.com/mattsays/sam3-image)
-- [Playground - Run and compare models.](https://design.withfudge.com/pin/5689) — [source page](https://replicate.com/playground)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5292) — [source page](https://replicate.com/home)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5188) — [source page](https://replicate.com/)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5187) — [source page](https://replicate.com/)
-- [Replicate - Run AI with an API](https://design.withfudge.com/pin/5186) — [source page](https://replicate.com/)
+## Representative captures
+[![mattsays/sam3-image | Run with an API on Replicate](https://pin.fontofweb.com/7601?format=jpg)](https://design.withfudge.com/pin/7601)
+[mattsays/sam3-image | Run with an API on Replicate](https://design.withfudge.com/pin/7601) — [source page](https://replicate.com/mattsays/sam3-image)
+
+[![Playground - Run and compare models.](https://pin.fontofweb.com/5689?format=jpg)](https://design.withfudge.com/pin/5689)
+[Playground - Run and compare models.](https://design.withfudge.com/pin/5689) — [source page](https://replicate.com/playground)
+
+[![Replicate - Run AI with an API](https://pin.fontofweb.com/5292?format=jpg)](https://design.withfudge.com/pin/5292)
+[Replicate - Run AI with an API](https://design.withfudge.com/pin/5292) — [source page](https://replicate.com/home)
+
+[![Replicate - Run AI with an API](https://pin.fontofweb.com/5188?format=jpg)](https://design.withfudge.com/pin/5188)
+[Replicate - Run AI with an API](https://design.withfudge.com/pin/5188) — [source page](https://replicate.com/)
+
+[![Replicate - Run AI with an API](https://pin.fontofweb.com/5187?format=jpg)](https://design.withfudge.com/pin/5187)
+[Replicate - Run AI with an API](https://design.withfudge.com/pin/5187) — [source page](https://replicate.com/)
+
+[![Replicate - Run AI with an API](https://pin.fontofweb.com/5186?format=jpg)](https://design.withfudge.com/pin/5186)
+[Replicate - Run AI with an API](https://design.withfudge.com/pin/5186) — [source page](https://replicate.com/)

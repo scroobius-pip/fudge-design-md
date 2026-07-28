@@ -6,6 +6,10 @@ Source domain: [fortune.com](https://fortune.com)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7866
+-->
+
 Here is the visual system observed across **1 captured page** from [fortune.com](https://fortune.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [fortune.com]
 }
 ```
 
-## References
-- [Fortune](https://design.withfudge.com/pin/7866) — [source page](https://fortune.com/checkout/mo_1_mo_29/)
+## Representative captures
+[![Fortune](https://pin.fontofweb.com/7866?format=jpg)](https://design.withfudge.com/pin/7866)
+[Fortune](https://design.withfudge.com/pin/7866) — [source page](https://fortune.com/checkout/mo_1_mo_29/)

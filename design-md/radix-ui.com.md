@@ -6,6 +6,10 @@ Source domain: [radix-ui.com](https://radix-ui.com)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8038
+-->
+
 Here is the visual system observed across **10 captured pages** from [radix-ui.com](https://radix-ui.com).
 
 ```fudge-colors
@@ -314,12 +318,27 @@ Here is the visual system observed across **10 captured pages** from [radix-ui.c
 }
 ```
 
-## References
-- [Radix UI](https://design.withfudge.com/pin/8038) — [source page](https://radix-ui.com/)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8037) — [source page](https://radix-ui.com/themes/playground)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8036) — [source page](https://radix-ui.com/themes/playground)
-- [Playground – Radix Themes](https://design.withfudge.com/pin/8035) — [source page](https://radix-ui.com/themes/playground)
-- [Create a custom palette – Radix Colors](https://design.withfudge.com/pin/8034) — [source page](https://radix-ui.com/colors/custom)
-- [Radix Colors](https://design.withfudge.com/pin/8033) — [source page](https://radix-ui.com/colors)
-- [Radix Icons](https://design.withfudge.com/pin/8032) — [source page](https://radix-ui.com/icons)
-- [Radix Primitives](https://design.withfudge.com/pin/8031) — [source page](https://radix-ui.com/primitives)
+## Representative captures
+[![Radix UI](https://pin.fontofweb.com/8038?format=jpg)](https://design.withfudge.com/pin/8038)
+[Radix UI](https://design.withfudge.com/pin/8038) — [source page](https://radix-ui.com/)
+
+[![Playground – Radix Themes](https://pin.fontofweb.com/8037?format=jpg)](https://design.withfudge.com/pin/8037)
+[Playground – Radix Themes](https://design.withfudge.com/pin/8037) — [source page](https://radix-ui.com/themes/playground)
+
+[![Playground – Radix Themes](https://pin.fontofweb.com/8036?format=jpg)](https://design.withfudge.com/pin/8036)
+[Playground – Radix Themes](https://design.withfudge.com/pin/8036) — [source page](https://radix-ui.com/themes/playground)
+
+[![Playground – Radix Themes](https://pin.fontofweb.com/8035?format=jpg)](https://design.withfudge.com/pin/8035)
+[Playground – Radix Themes](https://design.withfudge.com/pin/8035) — [source page](https://radix-ui.com/themes/playground)
+
+[![Create a custom palette – Radix Colors](https://pin.fontofweb.com/8034?format=jpg)](https://design.withfudge.com/pin/8034)
+[Create a custom palette – Radix Colors](https://design.withfudge.com/pin/8034) — [source page](https://radix-ui.com/colors/custom)
+
+[![Radix Colors](https://pin.fontofweb.com/8033?format=jpg)](https://design.withfudge.com/pin/8033)
+[Radix Colors](https://design.withfudge.com/pin/8033) — [source page](https://radix-ui.com/colors)
+
+[![Radix Icons](https://pin.fontofweb.com/8032?format=jpg)](https://design.withfudge.com/pin/8032)
+[Radix Icons](https://design.withfudge.com/pin/8032) — [source page](https://radix-ui.com/icons)
+
+[![Radix Primitives](https://pin.fontofweb.com/8031?format=jpg)](https://design.withfudge.com/pin/8031)
+[Radix Primitives](https://design.withfudge.com/pin/8031) — [source page](https://radix-ui.com/primitives)

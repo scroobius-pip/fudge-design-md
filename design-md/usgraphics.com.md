@@ -6,6 +6,10 @@ Source domain: [usgraphics.com](https://usgraphics.com)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6712
+-->
+
 Here is the visual system observed across **6 captured pages** from [usgraphics.com](https://usgraphics.com).
 
 ```fudge-colors
@@ -193,10 +197,21 @@ Here is the visual system observed across **6 captured pages** from [usgraphics.
 }
 ```
 
-## References
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6712) — [source page](https://usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6711) — [source page](https://usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/6710) — [source page](https://usgraphics.com/)
-- [U.S. Graphics Company - General Catalog](https://design.withfudge.com/pin/5523) — [source page](https://usgraphics.com/catalog)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5522) — [source page](https://usgraphics.com/)
-- [U.S. Graphics Company - Office](https://design.withfudge.com/pin/5521) — [source page](https://usgraphics.com/)
+## Representative captures
+[![U.S. Graphics Company - Office](https://pin.fontofweb.com/6712?format=jpg)](https://design.withfudge.com/pin/6712)
+[U.S. Graphics Company - Office](https://design.withfudge.com/pin/6712) — [source page](https://usgraphics.com/)
+
+[![U.S. Graphics Company - Office](https://pin.fontofweb.com/6711?format=jpg)](https://design.withfudge.com/pin/6711)
+[U.S. Graphics Company - Office](https://design.withfudge.com/pin/6711) — [source page](https://usgraphics.com/)
+
+[![U.S. Graphics Company - Office](https://pin.fontofweb.com/6710?format=jpg)](https://design.withfudge.com/pin/6710)
+[U.S. Graphics Company - Office](https://design.withfudge.com/pin/6710) — [source page](https://usgraphics.com/)
+
+[![U.S. Graphics Company - General Catalog](https://pin.fontofweb.com/5523?format=jpg)](https://design.withfudge.com/pin/5523)
+[U.S. Graphics Company - General Catalog](https://design.withfudge.com/pin/5523) — [source page](https://usgraphics.com/catalog)
+
+[![U.S. Graphics Company - Office](https://pin.fontofweb.com/5522?format=jpg)](https://design.withfudge.com/pin/5522)
+[U.S. Graphics Company - Office](https://design.withfudge.com/pin/5522) — [source page](https://usgraphics.com/)
+
+[![U.S. Graphics Company - Office](https://pin.fontofweb.com/5521?format=jpg)](https://design.withfudge.com/pin/5521)
+[U.S. Graphics Company - Office](https://design.withfudge.com/pin/5521) — [source page](https://usgraphics.com/)

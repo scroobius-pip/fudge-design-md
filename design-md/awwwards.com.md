@@ -6,6 +6,10 @@ Source domain: [awwwards.com](https://awwwards.com)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 6996
+-->
+
 Here is the visual system observed across **34 captured pages** from [awwwards.com](https://awwwards.com).
 
 ```fudge-colors
@@ -277,12 +281,27 @@ Here is the visual system observed across **34 captured pages** from [awwwards.c
 }
 ```
 
-## References
-- [OceanX 2025 - Awwwards SOTD](https://design.withfudge.com/pin/6996) — [source page](https://awwwards.com/sites/oceanx-2025)
-- [Jobs for Web Designers and Developers](https://design.withfudge.com/pin/6995) — [source page](https://awwwards.com/jobs/)
-- [Actbe Inc. - Awwwards Honorable Mention](https://design.withfudge.com/pin/5789) — [source page](https://awwwards.com/sites/actbe-inc)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5788) — [source page](https://awwwards.com/sites/herve-baillargeon)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5787) — [source page](https://awwwards.com/sites/stenger-bike)
-- [Locomotive - Awwwards](https://design.withfudge.com/pin/5786) — [source page](https://awwwards.com/sites/lowes-innovation-labs)
-- [Awwwards - Website Awards - Best Web Design Trends](https://design.withfudge.com/pin/3078) — [source page](https://awwwards.com/)
-- [Awwwards](https://design.withfudge.com/pin/243) — [source page](https://awwwards.com/faqs/)
+## Representative captures
+[![OceanX 2025 - Awwwards SOTD](https://pin.fontofweb.com/6996?format=jpg)](https://design.withfudge.com/pin/6996)
+[OceanX 2025 - Awwwards SOTD](https://design.withfudge.com/pin/6996) — [source page](https://awwwards.com/sites/oceanx-2025)
+
+[![Jobs for Web Designers and Developers](https://pin.fontofweb.com/6995?format=jpg)](https://design.withfudge.com/pin/6995)
+[Jobs for Web Designers and Developers](https://design.withfudge.com/pin/6995) — [source page](https://awwwards.com/jobs/)
+
+[![Actbe Inc. - Awwwards Honorable Mention](https://pin.fontofweb.com/5789?format=jpg)](https://design.withfudge.com/pin/5789)
+[Actbe Inc. - Awwwards Honorable Mention](https://design.withfudge.com/pin/5789) — [source page](https://awwwards.com/sites/actbe-inc)
+
+[![Locomotive - Awwwards](https://pin.fontofweb.com/5788?format=jpg)](https://design.withfudge.com/pin/5788)
+[Locomotive - Awwwards](https://design.withfudge.com/pin/5788) — [source page](https://awwwards.com/sites/herve-baillargeon)
+
+[![Locomotive - Awwwards](https://pin.fontofweb.com/5787?format=jpg)](https://design.withfudge.com/pin/5787)
+[Locomotive - Awwwards](https://design.withfudge.com/pin/5787) — [source page](https://awwwards.com/sites/stenger-bike)
+
+[![Locomotive - Awwwards](https://pin.fontofweb.com/5786?format=jpg)](https://design.withfudge.com/pin/5786)
+[Locomotive - Awwwards](https://design.withfudge.com/pin/5786) — [source page](https://awwwards.com/sites/lowes-innovation-labs)
+
+[![Awwwards - Website Awards - Best Web Design Trends](https://pin.fontofweb.com/3078?format=jpg)](https://design.withfudge.com/pin/3078)
+[Awwwards - Website Awards - Best Web Design Trends](https://design.withfudge.com/pin/3078) — [source page](https://awwwards.com/)
+
+[![Awwwards](https://pin.fontofweb.com/243?format=jpg)](https://design.withfudge.com/pin/243)
+[Awwwards](https://design.withfudge.com/pin/243) — [source page](https://awwwards.com/faqs/)

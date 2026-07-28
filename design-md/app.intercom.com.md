@@ -6,6 +6,10 @@ Source domain: [app.intercom.com](https://app.intercom.com)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9304
+-->
+
 Here is the visual system observed across **1 captured page** from [app.intercom.com](https://app.intercom.com).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [app.intercom
 }
 ```
 
-## References
-- [Intercom | The easiest way to see and talk to your users](https://design.withfudge.com/pin/9304) — [source page](https://app.intercom.com/admins/sign_up/email)
+## Representative captures
+[![Intercom | The easiest way to see and talk to your users](https://pin.fontofweb.com/9304?format=jpg)](https://design.withfudge.com/pin/9304)
+[Intercom | The easiest way to see and talk to your users](https://design.withfudge.com/pin/9304) — [source page](https://app.intercom.com/admins/sign_up/email)

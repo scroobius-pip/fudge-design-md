@@ -6,6 +6,10 @@ Source domain: [app.paper.design](https://app.paper.design)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8569
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.paper.design](https://app.paper.design).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [app.paper.d
 }
 ```
 
-## References
-- [Files · Paper](https://design.withfudge.com/pin/8569) — [source page](https://app.paper.design/)
-- [Files · Paper](https://design.withfudge.com/pin/8568) — [source page](https://app.paper.design/)
+## Representative captures
+[![Files · Paper](https://pin.fontofweb.com/8569?format=jpg)](https://design.withfudge.com/pin/8569)
+[Files · Paper](https://design.withfudge.com/pin/8569) — [source page](https://app.paper.design/)
+
+[![Files · Paper](https://pin.fontofweb.com/8568?format=jpg)](https://design.withfudge.com/pin/8568)
+[Files · Paper](https://design.withfudge.com/pin/8568) — [source page](https://app.paper.design/)

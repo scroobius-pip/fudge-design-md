@@ -6,6 +6,10 @@ Source domain: [207ouest.com](https://207ouest.com)
 
 Last updated: 2026-06-22
 
+<!--
+coverPin: 9732
+-->
+
 Here is the visual system observed across **1 captured page** from [207ouest.com](https://207ouest.com).
 
 ```fudge-colors
@@ -83,5 +87,6 @@ Here is the visual system observed across **1 captured page** from [207ouest.com
 }
 ```
 
-## References
-- [Fashion and Design Concept Store in the Heart of Mile End | 207ouest – 207 Ouest](https://design.withfudge.com/pin/9732) — [source page](https://207ouest.com/)
+## Representative captures
+[![Fashion and Design Concept Store in the Heart of Mile End | 207ouest – 207 Ouest](https://pin.fontofweb.com/9732?format=jpg)](https://design.withfudge.com/pin/9732)
+[Fashion and Design Concept Store in the Heart of Mile End | 207ouest – 207 Ouest](https://design.withfudge.com/pin/9732) — [source page](https://207ouest.com/)

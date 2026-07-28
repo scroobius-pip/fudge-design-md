@@ -6,6 +6,10 @@ Source domain: [professional.bloomberg.com](https://professional.bloomberg.com)
 
 Last updated: 2026-07-20
 
+<!--
+coverPin: 10435
+-->
+
 Here is the visual system observed across **1 captured page** from [professional.bloomberg.com](https://professional.bloomberg.com).
 
 ```fudge-colors
@@ -111,5 +115,6 @@ Here is the visual system observed across **1 captured page** from [professional
 }
 ```
 
-## References
-- [Bloomberg Terminal | Bloomberg Professional Services](https://design.withfudge.com/pin/10435) — [source page](https://professional.bloomberg.com/products/bloomberg-terminal/)
+## Representative captures
+[![Bloomberg Terminal | Bloomberg Professional Services](https://pin.fontofweb.com/10435?format=jpg)](https://design.withfudge.com/pin/10435)
+[Bloomberg Terminal | Bloomberg Professional Services](https://design.withfudge.com/pin/10435) — [source page](https://professional.bloomberg.com/products/bloomberg-terminal/)

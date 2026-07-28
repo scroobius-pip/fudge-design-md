@@ -6,6 +6,10 @@ Source domain: [deepjudge.ai](https://deepjudge.ai)
 
 Last updated: 2026-02-06
 
+<!--
+coverPin: 6301
+-->
+
 Here is the visual system observed across **20 captured pages** from [deepjudge.ai](https://deepjudge.ai).
 
 ```fudge-colors
@@ -267,12 +271,27 @@ Here is the visual system observed across **20 captured pages** from [deepjudge.
 }
 ```
 
-## References
-- [DeepJudge - Precision AI Search for legal teams](https://design.withfudge.com/pin/6301) — [source page](https://deepjudge.ai/)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3424) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3423) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3422) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3421) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3420) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3419) — [source page](https://deepjudge.ai/product)
-- [Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3418) — [source page](https://deepjudge.ai/product)
+## Representative captures
+[![DeepJudge - Precision AI Search for legal teams](https://pin.fontofweb.com/6301?format=jpg)](https://design.withfudge.com/pin/6301)
+[DeepJudge - Precision AI Search for legal teams](https://design.withfudge.com/pin/6301) — [source page](https://deepjudge.ai/)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3424?format=jpg)](https://design.withfudge.com/pin/3424)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3424) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3423?format=jpg)](https://design.withfudge.com/pin/3423)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3423) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3422?format=jpg)](https://design.withfudge.com/pin/3422)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3422) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3421?format=jpg)](https://design.withfudge.com/pin/3421)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3421) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3420?format=jpg)](https://design.withfudge.com/pin/3420)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3420) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3419?format=jpg)](https://design.withfudge.com/pin/3419)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3419) — [source page](https://deepjudge.ai/product)
+
+[![Product - Precision AI Search for legal teams](https://pin.fontofweb.com/3418?format=jpg)](https://design.withfudge.com/pin/3418)
+[Product - Precision AI Search for legal teams](https://design.withfudge.com/pin/3418) — [source page](https://deepjudge.ai/product)

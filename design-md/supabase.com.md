@@ -6,6 +6,10 @@ Source domain: [supabase.com](https://supabase.com)
 
 Last updated: 2026-02-17
 
+<!--
+coverPin: 6639
+-->
+
 Here is the visual system observed across **12 captured pages** from [supabase.com](https://supabase.com).
 
 ```fudge-colors
@@ -310,12 +314,27 @@ Here is the visual system observed across **12 captured pages** from [supabase.c
 }
 ```
 
-## References
-- [Supabase](https://design.withfudge.com/pin/6639) — [source page](https://supabase.com/dashboard/sign-in)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6638) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6637) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6636) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6635) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6634) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6633) — [source page](https://supabase.com/)
-- [Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6632) — [source page](https://supabase.com/)
+## Representative captures
+[![Supabase](https://pin.fontofweb.com/6639?format=jpg)](https://design.withfudge.com/pin/6639)
+[Supabase](https://design.withfudge.com/pin/6639) — [source page](https://supabase.com/dashboard/sign-in)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6638?format=jpg)](https://design.withfudge.com/pin/6638)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6638) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6637?format=jpg)](https://design.withfudge.com/pin/6637)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6637) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6636?format=jpg)](https://design.withfudge.com/pin/6636)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6636) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6635?format=jpg)](https://design.withfudge.com/pin/6635)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6635) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6634?format=jpg)](https://design.withfudge.com/pin/6634)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6634) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6633?format=jpg)](https://design.withfudge.com/pin/6633)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6633) — [source page](https://supabase.com/)
+
+[![Supabase | The Postgres Development Platform.](https://pin.fontofweb.com/6632?format=jpg)](https://design.withfudge.com/pin/6632)
+[Supabase | The Postgres Development Platform.](https://design.withfudge.com/pin/6632) — [source page](https://supabase.com/)

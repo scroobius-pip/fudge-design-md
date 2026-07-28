@@ -6,6 +6,10 @@ Source domain: [natoma.ai](https://natoma.ai)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7711
+-->
+
 Here is the visual system observed across **3 captured pages** from [natoma.ai](https://natoma.ai).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [natoma.ai](
 }
 ```
 
-## References
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7711) — [source page](https://natoma.ai/)
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7710) — [source page](https://natoma.ai/)
-- [Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7709) — [source page](https://natoma.ai/)
+## Representative captures
+[![Enterprise MCP Gateway for AI Agents | Natoma](https://pin.fontofweb.com/7711?format=jpg)](https://design.withfudge.com/pin/7711)
+[Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7711) — [source page](https://natoma.ai/)
+
+[![Enterprise MCP Gateway for AI Agents | Natoma](https://pin.fontofweb.com/7710?format=jpg)](https://design.withfudge.com/pin/7710)
+[Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7710) — [source page](https://natoma.ai/)
+
+[![Enterprise MCP Gateway for AI Agents | Natoma](https://pin.fontofweb.com/7709?format=jpg)](https://design.withfudge.com/pin/7709)
+[Enterprise MCP Gateway for AI Agents | Natoma](https://design.withfudge.com/pin/7709) — [source page](https://natoma.ai/)

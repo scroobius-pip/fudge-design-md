@@ -6,6 +6,10 @@ Source domain: [nature.com](https://nature.com)
 
 Last updated: 2026-07-06
 
+<!--
+coverPin: 9911
+-->
+
 Here is the visual system observed across **3 captured pages** from [nature.com](https://nature.com).
 
 ```fudge-colors
@@ -154,7 +158,12 @@ Here is the visual system observed across **3 captured pages** from [nature.com]
 }
 ```
 
-## References
-- [Nature Aging](https://design.withfudge.com/pin/9911) — [source page](https://nature.com/nataging)
-- [Nature Aging](https://design.withfudge.com/pin/9910) — [source page](https://nature.com/nataging)
-- [Nature Aging](https://design.withfudge.com/pin/9909) — [source page](https://nature.com/nataging)
+## Representative captures
+[![Nature Aging](https://pin.fontofweb.com/9911?format=jpg)](https://design.withfudge.com/pin/9911)
+[Nature Aging](https://design.withfudge.com/pin/9911) — [source page](https://nature.com/nataging)
+
+[![Nature Aging](https://pin.fontofweb.com/9910?format=jpg)](https://design.withfudge.com/pin/9910)
+[Nature Aging](https://design.withfudge.com/pin/9910) — [source page](https://nature.com/nataging)
+
+[![Nature Aging](https://pin.fontofweb.com/9909?format=jpg)](https://design.withfudge.com/pin/9909)
+[Nature Aging](https://design.withfudge.com/pin/9909) — [source page](https://nature.com/nataging)

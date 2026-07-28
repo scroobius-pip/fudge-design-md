@@ -6,6 +6,10 @@ Source domain: [app.reve.com](https://app.reve.com)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8375
+-->
+
 Here is the visual system observed across **8 captured pages** from [app.reve.com](https://app.reve.com).
 
 ```fudge-colors
@@ -185,12 +189,27 @@ Here is the visual system observed across **8 captured pages** from [app.reve.co
 }
 ```
 
-## References
-- [Account](https://design.withfudge.com/pin/8375) — [source page](https://app.reve.com/account)
-- [Reve](https://design.withfudge.com/pin/8374) — [source page](https://app.reve.com/home)
-- [Inspiration - Reve](https://design.withfudge.com/pin/8373) — [source page](https://app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients)
-- [Inspiration - Reve](https://design.withfudge.com/pin/8372) — [source page](https://app.reve.com/inspiration)
-- [Reve](https://design.withfudge.com/pin/8371) — [source page](https://app.reve.com/home)
-- [Reve Image - Pricing](https://design.withfudge.com/pin/8370) — [source page](https://app.reve.com/pricing)
-- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8369) — [source page](https://app.reve.com/)
-- [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8368) — [source page](https://app.reve.com/)
+## Representative captures
+[![Account](https://pin.fontofweb.com/8375?format=jpg)](https://design.withfudge.com/pin/8375)
+[Account](https://design.withfudge.com/pin/8375) — [source page](https://app.reve.com/account)
+
+[![Reve](https://pin.fontofweb.com/8374?format=jpg)](https://design.withfudge.com/pin/8374)
+[Reve](https://design.withfudge.com/pin/8374) — [source page](https://app.reve.com/home)
+
+[![Inspiration - Reve](https://pin.fontofweb.com/8373?format=jpg)](https://design.withfudge.com/pin/8373)
+[Inspiration - Reve](https://design.withfudge.com/pin/8373) — [source page](https://app.reve.com/inspiration/1be28b3b-3f20-4115-a4a1-4a36f118f28d/ingredients)
+
+[![Inspiration - Reve](https://pin.fontofweb.com/8372?format=jpg)](https://design.withfudge.com/pin/8372)
+[Inspiration - Reve](https://design.withfudge.com/pin/8372) — [source page](https://app.reve.com/inspiration)
+
+[![Reve](https://pin.fontofweb.com/8371?format=jpg)](https://design.withfudge.com/pin/8371)
+[Reve](https://design.withfudge.com/pin/8371) — [source page](https://app.reve.com/home)
+
+[![Reve Image - Pricing](https://pin.fontofweb.com/8370?format=jpg)](https://design.withfudge.com/pin/8370)
+[Reve Image - Pricing](https://design.withfudge.com/pin/8370) — [source page](https://app.reve.com/pricing)
+
+[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8369?format=jpg)](https://design.withfudge.com/pin/8369)
+[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8369) — [source page](https://app.reve.com/)
+
+[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8368?format=jpg)](https://design.withfudge.com/pin/8368)
+[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/pin/8368) — [source page](https://app.reve.com/)

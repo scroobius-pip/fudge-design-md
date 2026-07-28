@@ -6,6 +6,10 @@ Source domain: [discord.com](https://discord.com)
 
 Last updated: 2026-03-08
 
+<!--
+coverPin: 7873
+-->
+
 Here is the visual system observed across **27 captured pages** from [discord.com](https://discord.com).
 
 ```fudge-colors
@@ -274,12 +278,27 @@ Here is the visual system observed across **27 captured pages** from [discord.co
 }
 ```
 
-## References
-- [What brings you to the Developer Portal? | Discord Developer Portal](https://design.withfudge.com/pin/7873) — [source page](https://discord.com/developers/applications)
-- [(15473) Discord | Friends](https://design.withfudge.com/pin/3822) — [source page](https://discord.com/channels/@me)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/793) — [source page](https://discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/792) — [source page](https://discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/791) — [source page](https://discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/790) — [source page](https://discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/789) — [source page](https://discord.com/nitro)
-- [Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/788) — [source page](https://discord.com/nitro)
+## Representative captures
+[![What brings you to the Developer Portal? | Discord Developer Portal](https://pin.fontofweb.com/7873?format=jpg)](https://design.withfudge.com/pin/7873)
+[What brings you to the Developer Portal? | Discord Developer Portal](https://design.withfudge.com/pin/7873) — [source page](https://discord.com/developers/applications)
+
+[![(15473) Discord | Friends](https://pin.fontofweb.com/3822?format=jpg)](https://design.withfudge.com/pin/3822)
+[(15473) Discord | Friends](https://design.withfudge.com/pin/3822) — [source page](https://discord.com/channels/@me)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/793?format=jpg)](https://design.withfudge.com/pin/793)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/793) — [source page](https://discord.com/nitro)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/792?format=jpg)](https://design.withfudge.com/pin/792)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/792) — [source page](https://discord.com/nitro)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/791?format=jpg)](https://design.withfudge.com/pin/791)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/791) — [source page](https://discord.com/nitro)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/790?format=jpg)](https://design.withfudge.com/pin/790)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/790) — [source page](https://discord.com/nitro)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/789?format=jpg)](https://design.withfudge.com/pin/789)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/789) — [source page](https://discord.com/nitro)
+
+[![Nitro Benefits and Features | Discord](https://pin.fontofweb.com/788?format=jpg)](https://design.withfudge.com/pin/788)
+[Nitro Benefits and Features | Discord](https://design.withfudge.com/pin/788) — [source page](https://discord.com/nitro)

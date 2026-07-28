@@ -6,6 +6,10 @@ Source domain: [cofounder.co](https://cofounder.co)
 
 Last updated: 2026-05-26
 
+<!--
+coverPin: 9471
+-->
+
 Here is the visual system observed across **6 captured pages** from [cofounder.co](https://cofounder.co).
 
 ```fudge-colors
@@ -224,10 +228,21 @@ Here is the visual system observed across **6 captured pages** from [cofounder.c
 }
 ```
 
-## References
-- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9471) — [source page](https://cofounder.co/)
-- [Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9470) — [source page](https://cofounder.co/)
-- [Cofounder](https://design.withfudge.com/pin/8173) — [source page](https://cofounder.co/)
-- [Cofounder | Pricing](https://design.withfudge.com/pin/8171) — [source page](https://cofounder.co/pricing)
-- [Cofounder](https://design.withfudge.com/pin/8170) — [source page](https://cofounder.co/)
-- [Cofounder](https://design.withfudge.com/pin/8169) — [source page](https://cofounder.co/)
+## Representative captures
+[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9471?format=jpg)](https://design.withfudge.com/pin/9471)
+[Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9471) — [source page](https://cofounder.co/)
+
+[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9470?format=jpg)](https://design.withfudge.com/pin/9470)
+[Cofounder lets you run an entire company with agents](https://design.withfudge.com/pin/9470) — [source page](https://cofounder.co/)
+
+[![Cofounder](https://pin.fontofweb.com/8173?format=jpg)](https://design.withfudge.com/pin/8173)
+[Cofounder](https://design.withfudge.com/pin/8173) — [source page](https://cofounder.co/)
+
+[![Cofounder | Pricing](https://pin.fontofweb.com/8171?format=jpg)](https://design.withfudge.com/pin/8171)
+[Cofounder | Pricing](https://design.withfudge.com/pin/8171) — [source page](https://cofounder.co/pricing)
+
+[![Cofounder](https://pin.fontofweb.com/8170?format=jpg)](https://design.withfudge.com/pin/8170)
+[Cofounder](https://design.withfudge.com/pin/8170) — [source page](https://cofounder.co/)
+
+[![Cofounder](https://pin.fontofweb.com/8169?format=jpg)](https://design.withfudge.com/pin/8169)
+[Cofounder](https://design.withfudge.com/pin/8169) — [source page](https://cofounder.co/)

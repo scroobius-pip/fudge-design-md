@@ -6,6 +6,10 @@ Source domain: [mojolang.org](https://mojolang.org)
 
 Last updated: 2026-05-08
 
+<!--
+coverPin: 9198
+-->
+
 Here is the visual system observed across **2 captured pages** from [mojolang.org](https://mojolang.org).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [mojolang.or
 }
 ```
 
-## References
-- [Mojo](https://design.withfudge.com/pin/9198) — [source page](https://mojolang.org/)
-- [Mojo](https://design.withfudge.com/pin/9197) — [source page](https://mojolang.org/)
+## Representative captures
+[![Mojo](https://pin.fontofweb.com/9198?format=jpg)](https://design.withfudge.com/pin/9198)
+[Mojo](https://design.withfudge.com/pin/9198) — [source page](https://mojolang.org/)
+
+[![Mojo](https://pin.fontofweb.com/9197?format=jpg)](https://design.withfudge.com/pin/9197)
+[Mojo](https://design.withfudge.com/pin/9197) — [source page](https://mojolang.org/)

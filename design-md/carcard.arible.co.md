@@ -6,6 +6,10 @@ Source domain: [carcard.arible.co](https://carcard.arible.co)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7745
+-->
+
 Here is the visual system observed across **2 captured pages** from [carcard.arible.co](https://carcard.arible.co).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [carcard.ari
 }
 ```
 
-## References
-- [CarCard — Digitize your business cards](https://design.withfudge.com/pin/7745) — [source page](https://carcard.arible.co/)
-- [CardScanner — Digitize your business cards](https://design.withfudge.com/pin/7743) — [source page](https://carcard.arible.co/)
+## Representative captures
+[![CarCard — Digitize your business cards](https://pin.fontofweb.com/7745?format=jpg)](https://design.withfudge.com/pin/7745)
+[CarCard — Digitize your business cards](https://design.withfudge.com/pin/7745) — [source page](https://carcard.arible.co/)
+
+[![CardScanner — Digitize your business cards](https://pin.fontofweb.com/7743?format=jpg)](https://design.withfudge.com/pin/7743)
+[CardScanner — Digitize your business cards](https://design.withfudge.com/pin/7743) — [source page](https://carcard.arible.co/)

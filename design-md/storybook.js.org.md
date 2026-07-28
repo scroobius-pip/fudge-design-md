@@ -6,6 +6,10 @@ Source domain: [storybook.js.org](https://storybook.js.org)
 
 Last updated: 2026-03-12
 
+<!--
+coverPin: 8026
+-->
+
 Here is the visual system observed across **4 captured pages** from [storybook.js.org](https://storybook.js.org).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [storybook.j
 }
 ```
 
-## References
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8026) — [source page](https://storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8025) — [source page](https://storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8024) — [source page](https://storybook.js.org/)
-- [Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8023) — [source page](https://storybook.js.org/)
+## Representative captures
+[![Storybook: Frontend workshop for UI development](https://pin.fontofweb.com/8026?format=jpg)](https://design.withfudge.com/pin/8026)
+[Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8026) — [source page](https://storybook.js.org/)
+
+[![Storybook: Frontend workshop for UI development](https://pin.fontofweb.com/8025?format=jpg)](https://design.withfudge.com/pin/8025)
+[Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8025) — [source page](https://storybook.js.org/)
+
+[![Storybook: Frontend workshop for UI development](https://pin.fontofweb.com/8024?format=jpg)](https://design.withfudge.com/pin/8024)
+[Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8024) — [source page](https://storybook.js.org/)
+
+[![Storybook: Frontend workshop for UI development](https://pin.fontofweb.com/8023?format=jpg)](https://design.withfudge.com/pin/8023)
+[Storybook: Frontend workshop for UI development](https://design.withfudge.com/pin/8023) — [source page](https://storybook.js.org/)

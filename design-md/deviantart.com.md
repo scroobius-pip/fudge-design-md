@@ -6,6 +6,10 @@ Source domain: [deviantart.com](https://deviantart.com)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7789
+-->
+
 Here is the visual system observed across **1 captured page** from [deviantart.com](https://deviantart.com).
 
 ```fudge-colors
@@ -123,5 +127,6 @@ Here is the visual system observed across **1 captured page** from [deviantart.c
 }
 ```
 
-## References
-- [Log In | DeviantArt](https://design.withfudge.com/pin/7789) — [source page](https://deviantart.com/users/login)
+## Representative captures
+[![Log In | DeviantArt](https://pin.fontofweb.com/7789?format=jpg)](https://design.withfudge.com/pin/7789)
+[Log In | DeviantArt](https://design.withfudge.com/pin/7789) — [source page](https://deviantart.com/users/login)

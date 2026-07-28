@@ -6,6 +6,10 @@ Source domain: [ergo.org](https://ergo.org)
 
 Last updated: 2026-07-10
 
+<!--
+coverPin: 9974
+-->
+
 Here is the visual system observed across **4 captured pages** from [ergo.org](https://ergo.org).
 
 ```fudge-colors
@@ -189,8 +193,15 @@ Here is the visual system observed across **4 captured pages** from [ergo.org](h
 }
 ```
 
-## References
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9974) — [source page](https://ergo.org/)
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9973) — [source page](https://ergo.org/)
-- [Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9972) — [source page](https://ergo.org/)
-- [Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/pin/9969) — [source page](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
+## Representative captures
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9974?format=jpg)](https://design.withfudge.com/pin/9974)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9974) — [source page](https://ergo.org/)
+
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9973?format=jpg)](https://design.withfudge.com/pin/9973)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9973) — [source page](https://ergo.org/)
+
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9972?format=jpg)](https://design.withfudge.com/pin/9972)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/pin/9972) — [source page](https://ergo.org/)
+
+[![Computation as a Universal and Fundamental Concept — Ergo](https://pin.fontofweb.com/9969?format=jpg)](https://design.withfudge.com/pin/9969)
+[Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/pin/9969) — [source page](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)

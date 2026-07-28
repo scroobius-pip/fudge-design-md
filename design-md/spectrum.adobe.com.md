@@ -6,6 +6,10 @@ Source domain: [spectrum.adobe.com](https://spectrum.adobe.com)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7988
+-->
+
 Here is the visual system observed across **1 captured page** from [spectrum.adobe.com](https://spectrum.adobe.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [spectrum.ado
 }
 ```
 
-## References
-- [What's new - Spectrum](https://design.withfudge.com/pin/7988) — [source page](https://spectrum.adobe.com/page/whats-new/)
+## Representative captures
+[![What's new - Spectrum](https://pin.fontofweb.com/7988?format=jpg)](https://design.withfudge.com/pin/7988)
+[What's new - Spectrum](https://design.withfudge.com/pin/7988) — [source page](https://spectrum.adobe.com/page/whats-new/)

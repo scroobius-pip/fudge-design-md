@@ -6,6 +6,10 @@ Source domain: [snorkel.ai](https://snorkel.ai)
 
 Last updated: 2026-06-14
 
+<!--
+coverPin: 9591
+-->
+
 Here is the visual system observed across **5 captured pages** from [snorkel.ai](https://snorkel.ai).
 
 ```fudge-colors
@@ -195,9 +199,18 @@ Here is the visual system observed across **5 captured pages** from [snorkel.ai]
 }
 ```
 
-## References
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9591) — [source page](https://snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9590) — [source page](https://snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9589) — [source page](https://snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9588) — [source page](https://snorkel.ai/)
-- [Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9587) — [source page](https://snorkel.ai/)
+## Representative captures
+[![Expert data development for frontier AI | Snorkel AI](https://pin.fontofweb.com/9591?format=jpg)](https://design.withfudge.com/pin/9591)
+[Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9591) — [source page](https://snorkel.ai/)
+
+[![Expert data development for frontier AI | Snorkel AI](https://pin.fontofweb.com/9590?format=jpg)](https://design.withfudge.com/pin/9590)
+[Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9590) — [source page](https://snorkel.ai/)
+
+[![Expert data development for frontier AI | Snorkel AI](https://pin.fontofweb.com/9589?format=jpg)](https://design.withfudge.com/pin/9589)
+[Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9589) — [source page](https://snorkel.ai/)
+
+[![Expert data development for frontier AI | Snorkel AI](https://pin.fontofweb.com/9588?format=jpg)](https://design.withfudge.com/pin/9588)
+[Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9588) — [source page](https://snorkel.ai/)
+
+[![Expert data development for frontier AI | Snorkel AI](https://pin.fontofweb.com/9587?format=jpg)](https://design.withfudge.com/pin/9587)
+[Expert data development for frontier AI | Snorkel AI](https://design.withfudge.com/pin/9587) — [source page](https://snorkel.ai/)

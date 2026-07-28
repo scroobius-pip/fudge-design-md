@@ -6,6 +6,10 @@ Source domain: [neil.computer](https://neil.computer)
 
 Last updated: 2026-06-06
 
+<!--
+coverPin: 9513
+-->
+
 Here is the visual system observed across **1 captured page** from [neil.computer](https://neil.computer).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [neil.compute
 }
 ```
 
-## References
-- [Neil Panchal](https://design.withfudge.com/pin/9513) — [source page](https://neil.computer/)
+## Representative captures
+[![Neil Panchal](https://pin.fontofweb.com/9513?format=jpg)](https://design.withfudge.com/pin/9513)
+[Neil Panchal](https://design.withfudge.com/pin/9513) — [source page](https://neil.computer/)

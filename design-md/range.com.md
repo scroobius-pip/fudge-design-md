@@ -6,6 +6,10 @@ Source domain: [range.com](https://range.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8933
+-->
+
 Here is the visual system observed across **7 captured pages** from [range.com](https://range.com).
 
 ```fudge-colors
@@ -207,11 +211,24 @@ Here is the visual system observed across **7 captured pages** from [range.com](
 }
 ```
 
-## References
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8933) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8932) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8931) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8930) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8929) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8928) — [source page](https://range.com/)
-- [Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8927) — [source page](https://range.com/)
+## Representative captures
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8933?format=jpg)](https://design.withfudge.com/pin/8933)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8933) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8932?format=jpg)](https://design.withfudge.com/pin/8932)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8932) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8931?format=jpg)](https://design.withfudge.com/pin/8931)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8931) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8930?format=jpg)](https://design.withfudge.com/pin/8930)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8930) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8929?format=jpg)](https://design.withfudge.com/pin/8929)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8929) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8928?format=jpg)](https://design.withfudge.com/pin/8928)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8928) — [source page](https://range.com/)
+
+[![Range.com - All-in-one Wealth Management AI.](https://pin.fontofweb.com/8927?format=jpg)](https://design.withfudge.com/pin/8927)
+[Range.com - All-in-one Wealth Management AI.](https://design.withfudge.com/pin/8927) — [source page](https://range.com/)

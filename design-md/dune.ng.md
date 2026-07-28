@@ -6,6 +6,10 @@ Source domain: [dune.ng](https://dune.ng)
 
 Last updated: 2026-02-07
 
+<!--
+coverPin: 6315
+-->
+
 Here is the visual system observed across **1 captured page** from [dune.ng](https://dune.ng).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [dune.ng](htt
 }
 ```
 
-## References
-- [Where to Buy – DÙNE](https://design.withfudge.com/pin/6315) — [source page](https://dune.ng/where-to-buy)
+## Representative captures
+[![Where to Buy – DÙNE](https://pin.fontofweb.com/6315?format=jpg)](https://design.withfudge.com/pin/6315)
+[Where to Buy – DÙNE](https://design.withfudge.com/pin/6315) — [source page](https://dune.ng/where-to-buy)

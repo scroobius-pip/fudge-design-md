@@ -6,6 +6,10 @@ Source domain: [metr.org](https://metr.org)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7185
+-->
+
 Here is the visual system observed across **7 captured pages** from [metr.org](https://metr.org).
 
 ```fudge-colors
@@ -249,11 +253,24 @@ Here is the visual system observed across **7 captured pages** from [metr.org](h
 }
 ```
 
-## References
-- [Donate to METR](https://design.withfudge.com/pin/7185) — [source page](https://metr.org/donate)
-- [Donate to METR](https://design.withfudge.com/pin/7184) — [source page](https://metr.org/donate)
-- [METR](https://design.withfudge.com/pin/7183) — [source page](https://metr.org/)
-- [METR](https://design.withfudge.com/pin/7182) — [source page](https://metr.org/)
-- [METR](https://design.withfudge.com/pin/7181) — [source page](https://metr.org/)
-- [METR](https://design.withfudge.com/pin/7180) — [source page](https://metr.org/)
-- [METR](https://design.withfudge.com/pin/7179) — [source page](https://metr.org/)
+## Representative captures
+[![Donate to METR](https://pin.fontofweb.com/7185?format=jpg)](https://design.withfudge.com/pin/7185)
+[Donate to METR](https://design.withfudge.com/pin/7185) — [source page](https://metr.org/donate)
+
+[![Donate to METR](https://pin.fontofweb.com/7184?format=jpg)](https://design.withfudge.com/pin/7184)
+[Donate to METR](https://design.withfudge.com/pin/7184) — [source page](https://metr.org/donate)
+
+[![METR](https://pin.fontofweb.com/7183?format=jpg)](https://design.withfudge.com/pin/7183)
+[METR](https://design.withfudge.com/pin/7183) — [source page](https://metr.org/)
+
+[![METR](https://pin.fontofweb.com/7182?format=jpg)](https://design.withfudge.com/pin/7182)
+[METR](https://design.withfudge.com/pin/7182) — [source page](https://metr.org/)
+
+[![METR](https://pin.fontofweb.com/7181?format=jpg)](https://design.withfudge.com/pin/7181)
+[METR](https://design.withfudge.com/pin/7181) — [source page](https://metr.org/)
+
+[![METR](https://pin.fontofweb.com/7180?format=jpg)](https://design.withfudge.com/pin/7180)
+[METR](https://design.withfudge.com/pin/7180) — [source page](https://metr.org/)
+
+[![METR](https://pin.fontofweb.com/7179?format=jpg)](https://design.withfudge.com/pin/7179)
+[METR](https://design.withfudge.com/pin/7179) — [source page](https://metr.org/)

@@ -6,6 +6,10 @@ Source domain: [mux.com](https://mux.com)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6450
+-->
+
 Here is the visual system observed across **30 captured pages** from [mux.com](https://mux.com).
 
 ```fudge-colors
@@ -330,12 +334,27 @@ Here is the visual system observed across **30 captured pages** from [mux.com](h
 }
 ```
 
-## References
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6450) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6449) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6448) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6447) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6446) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6445) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6444) — [source page](https://mux.com/pricing)
-- [Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6443) — [source page](https://mux.com/pricing)
+## Representative captures
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6450?format=jpg)](https://design.withfudge.com/pin/6450)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6450) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6449?format=jpg)](https://design.withfudge.com/pin/6449)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6449) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6448?format=jpg)](https://design.withfudge.com/pin/6448)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6448) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6447?format=jpg)](https://design.withfudge.com/pin/6447)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6447) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6446?format=jpg)](https://design.withfudge.com/pin/6446)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6446) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6445?format=jpg)](https://design.withfudge.com/pin/6445)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6445) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6444?format=jpg)](https://design.withfudge.com/pin/6444)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6444) — [source page](https://mux.com/pricing)
+
+[![Scalable and affordable video streaming and storage | Pricing | Mux](https://pin.fontofweb.com/6443?format=jpg)](https://design.withfudge.com/pin/6443)
+[Scalable and affordable video streaming and storage | Pricing | Mux](https://design.withfudge.com/pin/6443) — [source page](https://mux.com/pricing)

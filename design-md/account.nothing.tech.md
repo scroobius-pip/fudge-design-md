@@ -6,6 +6,10 @@ Source domain: [account.nothing.tech](https://account.nothing.tech)
 
 Last updated: 2026-03-30
 
+<!--
+coverPin: 8561
+-->
+
 Here is the visual system observed across **2 captured pages** from [account.nothing.tech](https://account.nothing.tech).
 
 ```fudge-colors
@@ -116,6 +120,9 @@ Here is the visual system observed across **2 captured pages** from [account.not
 }
 ```
 
-## References
-- [Nothing Account - Login](https://design.withfudge.com/pin/8561) — [source page](https://account.nothing.tech/login/)
-- [Nothing Account - Login](https://design.withfudge.com/pin/3303) — [source page](https://account.nothing.tech/login/)
+## Representative captures
+[![Nothing Account - Login](https://pin.fontofweb.com/8561?format=jpg)](https://design.withfudge.com/pin/8561)
+[Nothing Account - Login](https://design.withfudge.com/pin/8561) — [source page](https://account.nothing.tech/login/)
+
+[![Nothing Account - Login](https://pin.fontofweb.com/3303?format=jpg)](https://design.withfudge.com/pin/3303)
+[Nothing Account - Login](https://design.withfudge.com/pin/3303) — [source page](https://account.nothing.tech/login/)

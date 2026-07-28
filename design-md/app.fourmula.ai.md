@@ -6,6 +6,10 @@ Source domain: [app.fourmula.ai](https://app.fourmula.ai)
 
 Last updated: 2026-04-04
 
+<!--
+coverPin: 8677
+-->
+
 Here is the visual system observed across **2 captured pages** from [app.fourmula.ai](https://app.fourmula.ai).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [app.fourmul
 }
 ```
 
-## References
-- [Formula AI | Create Assets](https://design.withfudge.com/pin/8677) — [source page](https://app.fourmula.ai/project/create-pdp)
-- [Formula AI | Start](https://design.withfudge.com/pin/8676) — [source page](https://app.fourmula.ai/start)
+## Representative captures
+[![Formula AI | Create Assets](https://pin.fontofweb.com/8677?format=jpg)](https://design.withfudge.com/pin/8677)
+[Formula AI | Create Assets](https://design.withfudge.com/pin/8677) — [source page](https://app.fourmula.ai/project/create-pdp)
+
+[![Formula AI | Start](https://pin.fontofweb.com/8676?format=jpg)](https://design.withfudge.com/pin/8676)
+[Formula AI | Start](https://design.withfudge.com/pin/8676) — [source page](https://app.fourmula.ai/start)

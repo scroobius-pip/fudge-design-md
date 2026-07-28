@@ -6,6 +6,10 @@ Source domain: [cursor.com](https://cursor.com)
 
 Last updated: 2026-04-15
 
+<!--
+coverPin: 8861
+-->
+
 Here is the visual system observed across **45 captured pages** from [cursor.com](https://cursor.com).
 
 ```fudge-colors
@@ -342,12 +346,27 @@ Here is the visual system observed across **45 captured pages** from [cursor.com
 }
 ```
 
-## References
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/8861) — [source page](https://cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6663) — [source page](https://cursor.com/marketplace/publish)
-- [Cursor - Marketplace](https://design.withfudge.com/pin/6662) — [source page](https://cursor.com/marketplace)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6661) — [source page](https://cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6660) — [source page](https://cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6659) — [source page](https://cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6658) — [source page](https://cursor.com/dashboard)
-- [Cursor - The best way to code with AI](https://design.withfudge.com/pin/6657) — [source page](https://cursor.com/marketplace/publish)
+## Representative captures
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/8861?format=jpg)](https://design.withfudge.com/pin/8861)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/8861) — [source page](https://cursor.com/dashboard)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6663?format=jpg)](https://design.withfudge.com/pin/6663)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6663) — [source page](https://cursor.com/marketplace/publish)
+
+[![Cursor - Marketplace](https://pin.fontofweb.com/6662?format=jpg)](https://design.withfudge.com/pin/6662)
+[Cursor - Marketplace](https://design.withfudge.com/pin/6662) — [source page](https://cursor.com/marketplace)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6661?format=jpg)](https://design.withfudge.com/pin/6661)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6661) — [source page](https://cursor.com/dashboard)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6660?format=jpg)](https://design.withfudge.com/pin/6660)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6660) — [source page](https://cursor.com/dashboard)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6659?format=jpg)](https://design.withfudge.com/pin/6659)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6659) — [source page](https://cursor.com/dashboard)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6658?format=jpg)](https://design.withfudge.com/pin/6658)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6658) — [source page](https://cursor.com/dashboard)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6657?format=jpg)](https://design.withfudge.com/pin/6657)
+[Cursor - The best way to code with AI](https://design.withfudge.com/pin/6657) — [source page](https://cursor.com/marketplace/publish)

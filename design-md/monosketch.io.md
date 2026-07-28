@@ -6,6 +6,10 @@ Source domain: [monosketch.io](https://monosketch.io)
 
 Last updated: 2026-02-13
 
+<!--
+coverPin: 6500
+-->
+
 Here is the visual system observed across **3 captured pages** from [monosketch.io](https://monosketch.io).
 
 ```fudge-colors
@@ -125,7 +129,12 @@ Here is the visual system observed across **3 captured pages** from [monosketch.
 }
 ```
 
-## References
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6500) — [source page](https://monosketch.io/)
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6499) — [source page](https://monosketch.io/)
-- [MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6498) — [source page](https://monosketch.io/)
+## Representative captures
+[![MonoSketch - Unleash your ideas with ASCII](https://pin.fontofweb.com/6500?format=jpg)](https://design.withfudge.com/pin/6500)
+[MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6500) — [source page](https://monosketch.io/)
+
+[![MonoSketch - Unleash your ideas with ASCII](https://pin.fontofweb.com/6499?format=jpg)](https://design.withfudge.com/pin/6499)
+[MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6499) — [source page](https://monosketch.io/)
+
+[![MonoSketch - Unleash your ideas with ASCII](https://pin.fontofweb.com/6498?format=jpg)](https://design.withfudge.com/pin/6498)
+[MonoSketch - Unleash your ideas with ASCII](https://design.withfudge.com/pin/6498) — [source page](https://monosketch.io/)

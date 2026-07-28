@@ -6,6 +6,10 @@ Source domain: [tryholo.ai](https://tryholo.ai)
 
 Last updated: 2026-02-27
 
+<!--
+coverPin: 7480
+-->
+
 Here is the visual system observed across **18 captured pages** from [tryholo.ai](https://tryholo.ai).
 
 ```fudge-colors
@@ -374,12 +378,27 @@ Here is the visual system observed across **18 captured pages** from [tryholo.ai
 }
 ```
 
-## References
-- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7480) — [source page](https://tryholo.ai/pricing)
-- [Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7479) — [source page](https://tryholo.ai/pricing)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7478) — [source page](https://tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7477) — [source page](https://tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7476) — [source page](https://tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7475) — [source page](https://tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7474) — [source page](https://tryholo.ai/)
-- [Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7473) — [source page](https://tryholo.ai/)
+## Representative captures
+[![Holo | Create 100's of ads, emails and social posts.](https://pin.fontofweb.com/7480?format=jpg)](https://design.withfudge.com/pin/7480)
+[Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7480) — [source page](https://tryholo.ai/pricing)
+
+[![Holo | Create 100's of ads, emails and social posts.](https://pin.fontofweb.com/7479?format=jpg)](https://design.withfudge.com/pin/7479)
+[Holo | Create 100's of ads, emails and social posts.](https://design.withfudge.com/pin/7479) — [source page](https://tryholo.ai/pricing)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7478?format=jpg)](https://design.withfudge.com/pin/7478)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7478) — [source page](https://tryholo.ai/)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7477?format=jpg)](https://design.withfudge.com/pin/7477)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7477) — [source page](https://tryholo.ai/)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7476?format=jpg)](https://design.withfudge.com/pin/7476)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7476) — [source page](https://tryholo.ai/)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7475?format=jpg)](https://design.withfudge.com/pin/7475)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7475) — [source page](https://tryholo.ai/)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7474?format=jpg)](https://design.withfudge.com/pin/7474)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7474) — [source page](https://tryholo.ai/)
+
+[![Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://pin.fontofweb.com/7473?format=jpg)](https://design.withfudge.com/pin/7473)
+[Holo | AI Marketing Tool for Ads, Social Posts & Emails](https://design.withfudge.com/pin/7473) — [source page](https://tryholo.ai/)

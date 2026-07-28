@@ -6,6 +6,10 @@ Source domain: [apara.design](https://apara.design)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7985
+-->
+
 Here is the visual system observed across **8 captured pages** from [apara.design](https://apara.design).
 
 ```fudge-colors
@@ -270,12 +274,27 @@ Here is the visual system observed across **8 captured pages** from [apara.desig
 }
 ```
 
-## References
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7985) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7984) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7983) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7982) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7981) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7980) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7979) — [source page](https://apara.design/)
-- [Apara - Limitless Possibilities](https://design.withfudge.com/pin/7978) — [source page](https://apara.design/)
+## Representative captures
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7985?format=jpg)](https://design.withfudge.com/pin/7985)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7985) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7984?format=jpg)](https://design.withfudge.com/pin/7984)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7984) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7983?format=jpg)](https://design.withfudge.com/pin/7983)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7983) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7982?format=jpg)](https://design.withfudge.com/pin/7982)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7982) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7981?format=jpg)](https://design.withfudge.com/pin/7981)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7981) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7980?format=jpg)](https://design.withfudge.com/pin/7980)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7980) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7979?format=jpg)](https://design.withfudge.com/pin/7979)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7979) — [source page](https://apara.design/)
+
+[![Apara - Limitless Possibilities](https://pin.fontofweb.com/7978?format=jpg)](https://design.withfudge.com/pin/7978)
+[Apara - Limitless Possibilities](https://design.withfudge.com/pin/7978) — [source page](https://apara.design/)

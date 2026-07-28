@@ -6,6 +6,10 @@ Source domain: [algebrica.org](https://algebrica.org)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8752
+-->
+
 Here is the visual system observed across **4 captured pages** from [algebrica.org](https://algebrica.org).
 
 ```fudge-colors
@@ -147,8 +151,15 @@ Here is the visual system observed across **4 captured pages** from [algebrica.o
 }
 ```
 
-## References
-- [Cauchy’s Convergence Criterion for Series | Algebrica](https://design.withfudge.com/pin/8752) — [source page](https://algebrica.org/cauchy-convergence-criterion-series/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8751) — [source page](https://algebrica.org/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8750) — [source page](https://algebrica.org/)
-- [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8749) — [source page](https://algebrica.org/)
+## Representative captures
+[![Cauchy’s Convergence Criterion for Series | Algebrica](https://pin.fontofweb.com/8752?format=jpg)](https://design.withfudge.com/pin/8752)
+[Cauchy’s Convergence Criterion for Series | Algebrica](https://design.withfudge.com/pin/8752) — [source page](https://algebrica.org/cauchy-convergence-criterion-series/)
+
+[![Algebrica | A Mathematical Knowledge Base](https://pin.fontofweb.com/8751?format=jpg)](https://design.withfudge.com/pin/8751)
+[Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8751) — [source page](https://algebrica.org/)
+
+[![Algebrica | A Mathematical Knowledge Base](https://pin.fontofweb.com/8750?format=jpg)](https://design.withfudge.com/pin/8750)
+[Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8750) — [source page](https://algebrica.org/)
+
+[![Algebrica | A Mathematical Knowledge Base](https://pin.fontofweb.com/8749?format=jpg)](https://design.withfudge.com/pin/8749)
+[Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/pin/8749) — [source page](https://algebrica.org/)

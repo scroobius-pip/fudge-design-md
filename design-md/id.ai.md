@@ -6,6 +6,10 @@ Source domain: [id.ai](https://id.ai)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7534
+-->
+
 Here is the visual system observed across **1 captured page** from [id.ai](https://id.ai).
 
 ```fudge-colors
@@ -86,5 +90,6 @@ Here is the visual system observed across **1 captured page** from [id.ai](https
 }
 ```
 
-## References
-- [Internet Identity](https://design.withfudge.com/pin/7534) — [source page](https://id.ai/)
+## Representative captures
+[![Internet Identity](https://pin.fontofweb.com/7534?format=jpg)](https://design.withfudge.com/pin/7534)
+[Internet Identity](https://design.withfudge.com/pin/7534) — [source page](https://id.ai/)

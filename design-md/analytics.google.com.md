@@ -6,6 +6,10 @@ Source domain: [analytics.google.com](https://analytics.google.com)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6041
+-->
+
 Here is the visual system observed across **2 captured pages** from [analytics.google.com](https://analytics.google.com).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [analytics.g
 }
 ```
 
-## References
-- [Analytics | Home](https://design.withfudge.com/pin/6041) — [source page](https://analytics.google.com/analytics/web/)
-- [Analytics | Home](https://design.withfudge.com/pin/6040) — [source page](https://analytics.google.com/analytics/web/)
+## Representative captures
+[![Analytics | Home](https://pin.fontofweb.com/6041?format=jpg)](https://design.withfudge.com/pin/6041)
+[Analytics | Home](https://design.withfudge.com/pin/6041) — [source page](https://analytics.google.com/analytics/web/)
+
+[![Analytics | Home](https://pin.fontofweb.com/6040?format=jpg)](https://design.withfudge.com/pin/6040)
+[Analytics | Home](https://design.withfudge.com/pin/6040) — [source page](https://analytics.google.com/analytics/web/)

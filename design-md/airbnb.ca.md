@@ -6,6 +6,10 @@ Source domain: [airbnb.ca](https://airbnb.ca)
 
 Last updated: 2026-07-13
 
+<!--
+coverPin: 10056
+-->
+
 Here is the visual system observed across **9 captured pages** from [airbnb.ca](https://airbnb.ca).
 
 ```fudge-colors
@@ -298,12 +302,27 @@ Here is the visual system observed across **9 captured pages** from [airbnb.ca](
 }
 ```
 
-## References
-- [Pittsburgh, PA Vacation Rentals – Airbnb](https://design.withfudge.com/pin/10056) — [source page](https://airbnb.ca/pittsburgh-pa/stays)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10055) — [source page](https://airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10054) — [source page](https://airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10053) — [source page](https://airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10052) — [source page](https://airbnb.ca/rooms/1674567715400534990)
-- [Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10051) — [source page](https://airbnb.ca/rooms/1674567715400534990)
-- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10050) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
-- [Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10049) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
+## Representative captures
+[![Pittsburgh, PA Vacation Rentals – Airbnb](https://pin.fontofweb.com/10056?format=jpg)](https://design.withfudge.com/pin/10056)
+[Pittsburgh, PA Vacation Rentals – Airbnb](https://design.withfudge.com/pin/10056) — [source page](https://airbnb.ca/pittsburgh-pa/stays)
+
+[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10055?format=jpg)](https://design.withfudge.com/pin/10055)
+[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10055) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+
+[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10054?format=jpg)](https://design.withfudge.com/pin/10054)
+[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10054) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+
+[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10053?format=jpg)](https://design.withfudge.com/pin/10053)
+[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10053) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+
+[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10052?format=jpg)](https://design.withfudge.com/pin/10052)
+[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10052) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+
+[![Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://pin.fontofweb.com/10051?format=jpg)](https://design.withfudge.com/pin/10051)
+[Pittsburgh • Guitar Décor• Sports • Events • Movie - Houses for Rent in Pittsburgh, Pennsylvania, United States - Airbnb](https://design.withfudge.com/pin/10051) — [source page](https://airbnb.ca/rooms/1674567715400534990)
+
+[![Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://pin.fontofweb.com/10050?format=jpg)](https://design.withfudge.com/pin/10050)
+[Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10050) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)
+
+[![Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://pin.fontofweb.com/10049?format=jpg)](https://design.withfudge.com/pin/10049)
+[Airbnb | Pittsburgh – Vacation Rentals & Places to Stay - Pennsylvania](https://design.withfudge.com/pin/10049) — [source page](https://airbnb.ca/s/Pittsburgh--PA/homes)

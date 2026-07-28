@@ -6,6 +6,10 @@ Source domain: [ui.shadcn.com](https://ui.shadcn.com)
 
 Last updated: 2026-01-30
 
+<!--
+coverPin: 6141
+-->
+
 Here is the visual system observed across **3 captured pages** from [ui.shadcn.com](https://ui.shadcn.com).
 
 ```fudge-colors
@@ -125,7 +129,12 @@ Here is the visual system observed across **3 captured pages** from [ui.shadcn.c
 }
 ```
 
-## References
-- [New Project - shadcn/ui](https://design.withfudge.com/pin/6141) — [source page](https://ui.shadcn.com/create)
-- [New Project - shadcn/ui](https://design.withfudge.com/pin/6140) — [source page](https://ui.shadcn.com/create)
-- [Theming - shadcn/ui](https://design.withfudge.com/pin/5948) — [source page](https://ui.shadcn.com/docs/theming)
+## Representative captures
+[![New Project - shadcn/ui](https://pin.fontofweb.com/6141?format=jpg)](https://design.withfudge.com/pin/6141)
+[New Project - shadcn/ui](https://design.withfudge.com/pin/6141) — [source page](https://ui.shadcn.com/create)
+
+[![New Project - shadcn/ui](https://pin.fontofweb.com/6140?format=jpg)](https://design.withfudge.com/pin/6140)
+[New Project - shadcn/ui](https://design.withfudge.com/pin/6140) — [source page](https://ui.shadcn.com/create)
+
+[![Theming - shadcn/ui](https://pin.fontofweb.com/5948?format=jpg)](https://design.withfudge.com/pin/5948)
+[Theming - shadcn/ui](https://design.withfudge.com/pin/5948) — [source page](https://ui.shadcn.com/docs/theming)

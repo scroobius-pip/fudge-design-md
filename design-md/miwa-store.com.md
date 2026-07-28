@@ -6,6 +6,10 @@ Source domain: [miwa-store.com](https://miwa-store.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8914
+-->
+
 Here is the visual system observed across **1 captured page** from [miwa-store.com](https://miwa-store.com).
 
 ```fudge-colors
@@ -81,5 +85,6 @@ Here is the visual system observed across **1 captured page** from [miwa-store.c
 }
 ```
 
-## References
-- [Aspirateur sans fil Miwa](https://design.withfudge.com/pin/8914) — [source page](https://miwa-store.com/products/akku-staubsauger)
+## Representative captures
+[![Aspirateur sans fil Miwa](https://pin.fontofweb.com/8914?format=jpg)](https://design.withfudge.com/pin/8914)
+[Aspirateur sans fil Miwa](https://design.withfudge.com/pin/8914) — [source page](https://miwa-store.com/products/akku-staubsauger)

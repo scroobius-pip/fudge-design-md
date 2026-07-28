@@ -6,6 +6,10 @@ Source domain: [rediff.com](https://rediff.com)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8993
+-->
+
 Here is the visual system observed across **2 captured pages** from [rediff.com](https://rediff.com).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [rediff.com]
 }
 ```
 
-## References
-- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8993) — [source page](https://rediff.com/)
-- [Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8992) — [source page](https://rediff.com/)
+## Representative captures
+[![Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://pin.fontofweb.com/8993?format=jpg)](https://design.withfudge.com/pin/8993)
+[Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8993) — [source page](https://rediff.com/)
+
+[![Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://pin.fontofweb.com/8992?format=jpg)](https://design.withfudge.com/pin/8992)
+[Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus](https://design.withfudge.com/pin/8992) — [source page](https://rediff.com/)

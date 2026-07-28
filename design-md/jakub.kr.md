@@ -6,6 +6,10 @@ Source domain: [jakub.kr](https://jakub.kr)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8758
+-->
+
 Here is the visual system observed across **5 captured pages** from [jakub.kr](https://jakub.kr).
 
 ```fudge-colors
@@ -174,9 +178,18 @@ Here is the visual system observed across **5 captured pages** from [jakub.kr](h
 }
 ```
 
-## References
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8758) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8757) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8756) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8755) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
-- [Jakub Krehel](https://design.withfudge.com/pin/7940) — [source page](https://jakub.kr/)
+## Representative captures
+[![Details That Make Interfaces Feel Better](https://pin.fontofweb.com/8758?format=jpg)](https://design.withfudge.com/pin/8758)
+[Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8758) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+
+[![Details That Make Interfaces Feel Better](https://pin.fontofweb.com/8757?format=jpg)](https://design.withfudge.com/pin/8757)
+[Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8757) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+
+[![Details That Make Interfaces Feel Better](https://pin.fontofweb.com/8756?format=jpg)](https://design.withfudge.com/pin/8756)
+[Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8756) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+
+[![Details That Make Interfaces Feel Better](https://pin.fontofweb.com/8755?format=jpg)](https://design.withfudge.com/pin/8755)
+[Details That Make Interfaces Feel Better](https://design.withfudge.com/pin/8755) — [source page](https://jakub.kr/writing/details-that-make-interfaces-feel-better)
+
+[![Jakub Krehel](https://pin.fontofweb.com/7940?format=jpg)](https://design.withfudge.com/pin/7940)
+[Jakub Krehel](https://design.withfudge.com/pin/7940) — [source page](https://jakub.kr/)

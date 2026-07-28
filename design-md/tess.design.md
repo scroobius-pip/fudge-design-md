@@ -6,6 +6,10 @@ Source domain: [tess.design](https://tess.design)
 
 Last updated: 2026-03-10
 
+<!--
+coverPin: 7899
+-->
+
 Here is the visual system observed across **5 captured pages** from [tess.design](https://tess.design).
 
 ```fudge-colors
@@ -167,9 +171,18 @@ Here is the visual system observed across **5 captured pages** from [tess.design
 }
 ```
 
-## References
-- [Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7899) — [source page](https://tess.design/)
-- [Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7898) — [source page](https://tess.design/)
-- [Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7897) — [source page](https://tess.design/)
-- [Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7896) — [source page](https://tess.design/)
-- [Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7895) — [source page](https://tess.design/)
+## Representative captures
+[![Tess — The First AI Image Generator that Pays Artists](https://pin.fontofweb.com/7899?format=jpg)](https://design.withfudge.com/pin/7899)
+[Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7899) — [source page](https://tess.design/)
+
+[![Tess — The First AI Image Generator that Pays Artists](https://pin.fontofweb.com/7898?format=jpg)](https://design.withfudge.com/pin/7898)
+[Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7898) — [source page](https://tess.design/)
+
+[![Tess — The First AI Image Generator that Pays Artists](https://pin.fontofweb.com/7897?format=jpg)](https://design.withfudge.com/pin/7897)
+[Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7897) — [source page](https://tess.design/)
+
+[![Tess — The First AI Image Generator that Pays Artists](https://pin.fontofweb.com/7896?format=jpg)](https://design.withfudge.com/pin/7896)
+[Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7896) — [source page](https://tess.design/)
+
+[![Tess — The First AI Image Generator that Pays Artists](https://pin.fontofweb.com/7895?format=jpg)](https://design.withfudge.com/pin/7895)
+[Tess — The First AI Image Generator that Pays Artists](https://design.withfudge.com/pin/7895) — [source page](https://tess.design/)

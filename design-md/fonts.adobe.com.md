@@ -6,6 +6,10 @@ Source domain: [fonts.adobe.com](https://fonts.adobe.com)
 
 Last updated: 2026-07-06
 
+<!--
+coverPin: 9908
+-->
+
 Here is the visual system observed across **1 captured page** from [fonts.adobe.com](https://fonts.adobe.com).
 
 ```fudge-colors
@@ -101,5 +105,6 @@ Here is the visual system observed across **1 captured page** from [fonts.adobe.
 }
 ```
 
-## References
-- [Molan | Adobe Fonts](https://design.withfudge.com/pin/9908) — [source page](https://fonts.adobe.com/fonts/molan)
+## Representative captures
+[![Molan | Adobe Fonts](https://pin.fontofweb.com/9908?format=jpg)](https://design.withfudge.com/pin/9908)
+[Molan | Adobe Fonts](https://design.withfudge.com/pin/9908) — [source page](https://fonts.adobe.com/fonts/molan)

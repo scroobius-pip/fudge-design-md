@@ -6,6 +6,10 @@ Source domain: [stephendiehl.com](https://stephendiehl.com)
 
 Last updated: 2026-06-23
 
+<!--
+coverPin: 9740
+-->
+
 Here is the visual system observed across **1 captured page** from [stephendiehl.com](https://stephendiehl.com).
 
 ```fudge-colors
@@ -107,5 +111,6 @@ Here is the visual system observed across **1 captured page** from [stephendiehl
 }
 ```
 
-## References
-- [Crypto in 2026: Oh, This is the Bad Place](https://design.withfudge.com/pin/9740) — [source page](https://stephendiehl.com/posts/bad_place_2026/)
+## Representative captures
+[![Crypto in 2026: Oh, This is the Bad Place](https://pin.fontofweb.com/9740?format=jpg)](https://design.withfudge.com/pin/9740)
+[Crypto in 2026: Oh, This is the Bad Place](https://design.withfudge.com/pin/9740) — [source page](https://stephendiehl.com/posts/bad_place_2026/)

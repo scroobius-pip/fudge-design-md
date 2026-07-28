@@ -6,6 +6,10 @@ Source domain: [dub.co](https://dub.co)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7583
+-->
+
 Here is the visual system observed across **9 captured pages** from [dub.co](https://dub.co).
 
 ```fudge-colors
@@ -272,12 +276,27 @@ Here is the visual system observed across **9 captured pages** from [dub.co](htt
 }
 ```
 
-## References
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7583) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7582) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7581) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7580) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7579) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7578) — [source page](https://dub.co/)
-- [Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7577) — [source page](https://dub.co/)
-- [Pricing | Dub](https://design.withfudge.com/pin/3066) — [source page](https://dub.co/pricing/partners)
+## Representative captures
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7583?format=jpg)](https://design.withfudge.com/pin/7583)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7583) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7582?format=jpg)](https://design.withfudge.com/pin/7582)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7582) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7581?format=jpg)](https://design.withfudge.com/pin/7581)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7581) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7580?format=jpg)](https://design.withfudge.com/pin/7580)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7580) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7579?format=jpg)](https://design.withfudge.com/pin/7579)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7579) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7578?format=jpg)](https://design.withfudge.com/pin/7578)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7578) — [source page](https://dub.co/)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7577?format=jpg)](https://design.withfudge.com/pin/7577)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/pin/7577) — [source page](https://dub.co/)
+
+[![Pricing | Dub](https://pin.fontofweb.com/3066?format=jpg)](https://design.withfudge.com/pin/3066)
+[Pricing | Dub](https://design.withfudge.com/pin/3066) — [source page](https://dub.co/pricing/partners)

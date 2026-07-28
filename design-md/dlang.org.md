@@ -6,6 +6,10 @@ Source domain: [dlang.org](https://dlang.org)
 
 Last updated: 2026-02-12
 
+<!--
+coverPin: 6416
+-->
+
 Here is the visual system observed across **2 captured pages** from [dlang.org](https://dlang.org).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [dlang.org](
 }
 ```
 
-## References
-- [Table of Contents - D Programming Language](https://design.withfudge.com/pin/6416) — [source page](https://dlang.org/spec/spec.html)
-- [Home - D Programming Language](https://design.withfudge.com/pin/6415) — [source page](https://dlang.org/)
+## Representative captures
+[![Table of Contents - D Programming Language](https://pin.fontofweb.com/6416?format=jpg)](https://design.withfudge.com/pin/6416)
+[Table of Contents - D Programming Language](https://design.withfudge.com/pin/6416) — [source page](https://dlang.org/spec/spec.html)
+
+[![Home - D Programming Language](https://pin.fontofweb.com/6415?format=jpg)](https://design.withfudge.com/pin/6415)
+[Home - D Programming Language](https://design.withfudge.com/pin/6415) — [source page](https://dlang.org/)

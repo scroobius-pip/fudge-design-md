@@ -6,6 +6,10 @@ Source domain: [dandad.org](https://dandad.org)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9795
+-->
+
 Here is the visual system observed across **5 captured pages** from [dandad.org](https://dandad.org).
 
 ```fudge-colors
@@ -181,9 +185,18 @@ Here is the visual system observed across **5 captured pages** from [dandad.org]
 }
 ```
 
-## References
-- [Search results for cinematography | D&AD](https://design.withfudge.com/pin/9795) — [source page](https://dandad.org/search)
-- [D&AD](https://design.withfudge.com/pin/9794) — [source page](https://dandad.org/)
-- [D&AD](https://design.withfudge.com/pin/9793) — [source page](https://dandad.org/)
-- [D&AD](https://design.withfudge.com/pin/9792) — [source page](https://dandad.org/)
-- [D&AD New Blood Awards archive](https://design.withfudge.com/pin/9787) — [source page](https://dandad.org/work/new-blood-archive)
+## Representative captures
+[![Search results for cinematography | D&AD](https://pin.fontofweb.com/9795?format=jpg)](https://design.withfudge.com/pin/9795)
+[Search results for cinematography | D&AD](https://design.withfudge.com/pin/9795) — [source page](https://dandad.org/search)
+
+[![D&AD](https://pin.fontofweb.com/9794?format=jpg)](https://design.withfudge.com/pin/9794)
+[D&AD](https://design.withfudge.com/pin/9794) — [source page](https://dandad.org/)
+
+[![D&AD](https://pin.fontofweb.com/9793?format=jpg)](https://design.withfudge.com/pin/9793)
+[D&AD](https://design.withfudge.com/pin/9793) — [source page](https://dandad.org/)
+
+[![D&AD](https://pin.fontofweb.com/9792?format=jpg)](https://design.withfudge.com/pin/9792)
+[D&AD](https://design.withfudge.com/pin/9792) — [source page](https://dandad.org/)
+
+[![D&AD New Blood Awards archive](https://pin.fontofweb.com/9787?format=jpg)](https://design.withfudge.com/pin/9787)
+[D&AD New Blood Awards archive](https://design.withfudge.com/pin/9787) — [source page](https://dandad.org/work/new-blood-archive)

@@ -6,6 +6,10 @@ Source domain: [jan.ai](https://jan.ai)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8282
+-->
+
 Here is the visual system observed across **5 captured pages** from [jan.ai](https://jan.ai).
 
 ```fudge-colors
@@ -179,9 +183,18 @@ Here is the visual system observed across **5 captured pages** from [jan.ai](htt
 }
 ```
 
-## References
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8282) — [source page](https://jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8281) — [source page](https://jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8280) — [source page](https://jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8279) — [source page](https://jan.ai/)
-- [Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8278) — [source page](https://jan.ai/)
+## Representative captures
+[![Jan - Open-Source ChatGPT Replacement](https://pin.fontofweb.com/8282?format=jpg)](https://design.withfudge.com/pin/8282)
+[Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8282) — [source page](https://jan.ai/)
+
+[![Jan - Open-Source ChatGPT Replacement](https://pin.fontofweb.com/8281?format=jpg)](https://design.withfudge.com/pin/8281)
+[Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8281) — [source page](https://jan.ai/)
+
+[![Jan - Open-Source ChatGPT Replacement](https://pin.fontofweb.com/8280?format=jpg)](https://design.withfudge.com/pin/8280)
+[Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8280) — [source page](https://jan.ai/)
+
+[![Jan - Open-Source ChatGPT Replacement](https://pin.fontofweb.com/8279?format=jpg)](https://design.withfudge.com/pin/8279)
+[Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8279) — [source page](https://jan.ai/)
+
+[![Jan - Open-Source ChatGPT Replacement](https://pin.fontofweb.com/8278?format=jpg)](https://design.withfudge.com/pin/8278)
+[Jan - Open-Source ChatGPT Replacement](https://design.withfudge.com/pin/8278) — [source page](https://jan.ai/)

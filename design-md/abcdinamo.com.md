@@ -6,6 +6,10 @@ Source domain: [abcdinamo.com](https://abcdinamo.com)
 
 Last updated: 2026-04-02
 
+<!--
+coverPin: 8621
+-->
+
 Here is the visual system observed across **22 captured pages** from [abcdinamo.com](https://abcdinamo.com).
 
 ```fudge-colors
@@ -291,12 +295,27 @@ Here is the visual system observed across **22 captured pages** from [abcdinamo.
 }
 ```
 
-## References
-- [Dinamo Typefaces](https://design.withfudge.com/pin/8621) — [source page](https://abcdinamo.com/buy/diatype)
-- [Home — Dinamo Typefaces](https://design.withfudge.com/pin/40) — [source page](https://abcdinamo.com/)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/39) — [source page](https://abcdinamo.com/news)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/38) — [source page](https://abcdinamo.com/news)
-- [Blog — Dinamo Typefaces](https://design.withfudge.com/pin/37) — [source page](https://abcdinamo.com/news)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/36) — [source page](https://abcdinamo.com/hardware)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/35) — [source page](https://abcdinamo.com/hardware)
-- [Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/34) — [source page](https://abcdinamo.com/hardware)
+## Representative captures
+[![Dinamo Typefaces](https://pin.fontofweb.com/8621?format=jpg)](https://design.withfudge.com/pin/8621)
+[Dinamo Typefaces](https://design.withfudge.com/pin/8621) — [source page](https://abcdinamo.com/buy/diatype)
+
+[![Home — Dinamo Typefaces](https://pin.fontofweb.com/40?format=jpg)](https://design.withfudge.com/pin/40)
+[Home — Dinamo Typefaces](https://design.withfudge.com/pin/40) — [source page](https://abcdinamo.com/)
+
+[![Blog — Dinamo Typefaces](https://pin.fontofweb.com/39?format=jpg)](https://design.withfudge.com/pin/39)
+[Blog — Dinamo Typefaces](https://design.withfudge.com/pin/39) — [source page](https://abcdinamo.com/news)
+
+[![Blog — Dinamo Typefaces](https://pin.fontofweb.com/38?format=jpg)](https://design.withfudge.com/pin/38)
+[Blog — Dinamo Typefaces](https://design.withfudge.com/pin/38) — [source page](https://abcdinamo.com/news)
+
+[![Blog — Dinamo Typefaces](https://pin.fontofweb.com/37?format=jpg)](https://design.withfudge.com/pin/37)
+[Blog — Dinamo Typefaces](https://design.withfudge.com/pin/37) — [source page](https://abcdinamo.com/news)
+
+[![Hardware — Dinamo Typefaces](https://pin.fontofweb.com/36?format=jpg)](https://design.withfudge.com/pin/36)
+[Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/36) — [source page](https://abcdinamo.com/hardware)
+
+[![Hardware — Dinamo Typefaces](https://pin.fontofweb.com/35?format=jpg)](https://design.withfudge.com/pin/35)
+[Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/35) — [source page](https://abcdinamo.com/hardware)
+
+[![Hardware — Dinamo Typefaces](https://pin.fontofweb.com/34?format=jpg)](https://design.withfudge.com/pin/34)
+[Hardware — Dinamo Typefaces](https://design.withfudge.com/pin/34) — [source page](https://abcdinamo.com/hardware)

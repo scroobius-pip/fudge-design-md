@@ -6,6 +6,10 @@ Source domain: [moda.app](https://moda.app)
 
 Last updated: 2026-03-24
 
+<!--
+coverPin: 8322
+-->
+
 Here is the visual system observed across **24 captured pages** from [moda.app](https://moda.app).
 
 ```fudge-colors
@@ -354,12 +358,27 @@ Here is the visual system observed across **24 captured pages** from [moda.app](
 }
 ```
 
-## References
-- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8322) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
-- [SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8321) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
-- [Moda | Moda](https://design.withfudge.com/pin/8320) — [source page](https://moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8319) — [source page](https://moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8318) — [source page](https://moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8317) — [source page](https://moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8316) — [source page](https://moda.app/)
-- [Moda | Moda](https://design.withfudge.com/pin/8315) — [source page](https://moda.app/)
+## Representative captures
+[![SaaS Product Analytics Dashboard - Moda](https://pin.fontofweb.com/8322?format=jpg)](https://design.withfudge.com/pin/8322)
+[SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8322) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
+
+[![SaaS Product Analytics Dashboard - Moda](https://pin.fontofweb.com/8321?format=jpg)](https://design.withfudge.com/pin/8321)
+[SaaS Product Analytics Dashboard - Moda](https://design.withfudge.com/pin/8321) — [source page](https://moda.app/canvas/b99b2352-f0ff-417d-a043-fab336700eaf)
+
+[![Moda | Moda](https://pin.fontofweb.com/8320?format=jpg)](https://design.withfudge.com/pin/8320)
+[Moda | Moda](https://design.withfudge.com/pin/8320) — [source page](https://moda.app/)
+
+[![Moda | Moda](https://pin.fontofweb.com/8319?format=jpg)](https://design.withfudge.com/pin/8319)
+[Moda | Moda](https://design.withfudge.com/pin/8319) — [source page](https://moda.app/)
+
+[![Moda | Moda](https://pin.fontofweb.com/8318?format=jpg)](https://design.withfudge.com/pin/8318)
+[Moda | Moda](https://design.withfudge.com/pin/8318) — [source page](https://moda.app/)
+
+[![Moda | Moda](https://pin.fontofweb.com/8317?format=jpg)](https://design.withfudge.com/pin/8317)
+[Moda | Moda](https://design.withfudge.com/pin/8317) — [source page](https://moda.app/)
+
+[![Moda | Moda](https://pin.fontofweb.com/8316?format=jpg)](https://design.withfudge.com/pin/8316)
+[Moda | Moda](https://design.withfudge.com/pin/8316) — [source page](https://moda.app/)
+
+[![Moda | Moda](https://pin.fontofweb.com/8315?format=jpg)](https://design.withfudge.com/pin/8315)
+[Moda | Moda](https://design.withfudge.com/pin/8315) — [source page](https://moda.app/)

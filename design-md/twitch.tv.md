@@ -6,6 +6,10 @@ Source domain: [twitch.tv](https://twitch.tv)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6568
+-->
+
 Here is the visual system observed across **2 captured pages** from [twitch.tv](https://twitch.tv).
 
 ```fudge-colors
@@ -105,6 +109,9 @@ Here is the visual system observed across **2 captured pages** from [twitch.tv](
 }
 ```
 
-## References
-- [(1) carnifexGG - Twitch](https://design.withfudge.com/pin/6568) — [source page](https://twitch.tv/carnifexgg)
-- [THiiXY - Twitch](https://design.withfudge.com/pin/3694) — [source page](https://twitch.tv/thiixy)
+## Representative captures
+[![(1) carnifexGG - Twitch](https://pin.fontofweb.com/6568?format=jpg)](https://design.withfudge.com/pin/6568)
+[(1) carnifexGG - Twitch](https://design.withfudge.com/pin/6568) — [source page](https://twitch.tv/carnifexgg)
+
+[![THiiXY - Twitch](https://pin.fontofweb.com/3694?format=jpg)](https://design.withfudge.com/pin/3694)
+[THiiXY - Twitch](https://design.withfudge.com/pin/3694) — [source page](https://twitch.tv/thiixy)

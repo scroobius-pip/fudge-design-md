@@ -6,6 +6,10 @@ Source domain: [monogram.ai](https://monogram.ai)
 
 Last updated: 2026-07-10
 
+<!--
+coverPin: 9955
+-->
+
 Here is the visual system observed across **2 captured pages** from [monogram.ai](https://monogram.ai).
 
 ```fudge-colors
@@ -120,6 +124,9 @@ Here is the visual system observed across **2 captured pages** from [monogram.ai
 }
 ```
 
-## References
-- [Monogram](https://design.withfudge.com/pin/9955) — [source page](https://monogram.ai/)
-- [Monogram](https://design.withfudge.com/pin/9954) — [source page](https://monogram.ai/)
+## Representative captures
+[![Monogram](https://pin.fontofweb.com/9955?format=jpg)](https://design.withfudge.com/pin/9955)
+[Monogram](https://design.withfudge.com/pin/9955) — [source page](https://monogram.ai/)
+
+[![Monogram](https://pin.fontofweb.com/9954?format=jpg)](https://design.withfudge.com/pin/9954)
+[Monogram](https://design.withfudge.com/pin/9954) — [source page](https://monogram.ai/)

@@ -6,6 +6,10 @@ Source domain: [agenticui.net](https://agenticui.net)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5933
+-->
+
 Here is the visual system observed across **4 captured pages** from [agenticui.net](https://agenticui.net).
 
 ```fudge-colors
@@ -172,8 +176,15 @@ Here is the visual system observed across **4 captured pages** from [agenticui.n
 }
 ```
 
-## References
-- [Agentic Design System](https://design.withfudge.com/pin/5933) — [source page](https://agenticui.net/)
-- [Agentic Design System](https://design.withfudge.com/pin/5932) — [source page](https://agenticui.net/)
-- [Preorder Agentic UI](https://design.withfudge.com/pin/5931) — [source page](https://agenticui.net/preorder)
-- [Preorder Agentic UI](https://design.withfudge.com/pin/5930) — [source page](https://agenticui.net/preorder)
+## Representative captures
+[![Agentic Design System](https://pin.fontofweb.com/5933?format=jpg)](https://design.withfudge.com/pin/5933)
+[Agentic Design System](https://design.withfudge.com/pin/5933) — [source page](https://agenticui.net/)
+
+[![Agentic Design System](https://pin.fontofweb.com/5932?format=jpg)](https://design.withfudge.com/pin/5932)
+[Agentic Design System](https://design.withfudge.com/pin/5932) — [source page](https://agenticui.net/)
+
+[![Preorder Agentic UI](https://pin.fontofweb.com/5931?format=jpg)](https://design.withfudge.com/pin/5931)
+[Preorder Agentic UI](https://design.withfudge.com/pin/5931) — [source page](https://agenticui.net/preorder)
+
+[![Preorder Agentic UI](https://pin.fontofweb.com/5930?format=jpg)](https://design.withfudge.com/pin/5930)
+[Preorder Agentic UI](https://design.withfudge.com/pin/5930) — [source page](https://agenticui.net/preorder)

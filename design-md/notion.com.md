@@ -6,6 +6,10 @@ Source domain: [notion.com](https://notion.com)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9284
+-->
+
 Here is the visual system observed across **24 captured pages** from [notion.com](https://notion.com).
 
 ```fudge-colors
@@ -352,12 +356,27 @@ Here is the visual system observed across **24 captured pages** from [notion.com
 }
 ```
 
-## References
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9284) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9283) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9282) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9281) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9280) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9279) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9278) — [source page](https://notion.com/product/dev)
-- [Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9277) — [source page](https://notion.com/product/dev)
+## Representative captures
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9284?format=jpg)](https://design.withfudge.com/pin/9284)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9284) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9283?format=jpg)](https://design.withfudge.com/pin/9283)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9283) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9282?format=jpg)](https://design.withfudge.com/pin/9282)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9282) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9281?format=jpg)](https://design.withfudge.com/pin/9281)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9281) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9280?format=jpg)](https://design.withfudge.com/pin/9280)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9280) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9279?format=jpg)](https://design.withfudge.com/pin/9279)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9279) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9278?format=jpg)](https://design.withfudge.com/pin/9278)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9278) — [source page](https://notion.com/product/dev)
+
+[![Build with Notion’s Developer Platform – Notion](https://pin.fontofweb.com/9277?format=jpg)](https://design.withfudge.com/pin/9277)
+[Build with Notion’s Developer Platform – Notion](https://design.withfudge.com/pin/9277) — [source page](https://notion.com/product/dev)

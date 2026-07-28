@@ -6,6 +6,10 @@ Source domain: [zcode.z.ai](https://zcode.z.ai)
 
 Last updated: 2026-07-01
 
+<!--
+coverPin: 9893
+-->
+
 Here is the visual system observed across **2 captured pages** from [zcode.z.ai](https://zcode.z.ai).
 
 ```fudge-colors
@@ -132,6 +136,9 @@ Here is the visual system observed across **2 captured pages** from [zcode.z.ai]
 }
 ```
 
-## References
-- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9893) — [source page](https://zcode.z.ai/en)
-- [ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9892) — [source page](https://zcode.z.ai/en)
+## Representative captures
+[![ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://pin.fontofweb.com/9893?format=jpg)](https://design.withfudge.com/pin/9893)
+[ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9893) — [source page](https://zcode.z.ai/en)
+
+[![ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://pin.fontofweb.com/9892?format=jpg)](https://design.withfudge.com/pin/9892)
+[ZCode - Simple, Fast, Vibe‑Ready | Official Harness for GLM-5.2](https://design.withfudge.com/pin/9892) — [source page](https://zcode.z.ai/en)

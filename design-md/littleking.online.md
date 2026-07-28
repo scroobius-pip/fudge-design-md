@@ -6,6 +6,10 @@ Source domain: [littleking.online](https://littleking.online)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8342
+-->
+
 Here is the visual system observed across **1 captured page** from [littleking.online](https://littleking.online).
 
 ```fudge-colors
@@ -93,5 +97,6 @@ Here is the visual system observed across **1 captured page** from [littleking.o
 }
 ```
 
-## References
-- [About – Little King](https://design.withfudge.com/pin/8342) — [source page](https://littleking.online/pages/about-us)
+## Representative captures
+[![About – Little King](https://pin.fontofweb.com/8342?format=jpg)](https://design.withfudge.com/pin/8342)
+[About – Little King](https://design.withfudge.com/pin/8342) — [source page](https://littleking.online/pages/about-us)

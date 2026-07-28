@@ -6,6 +6,10 @@ Source domain: [paulstamatiou.com](https://paulstamatiou.com)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6705
+-->
+
 Here is the visual system observed across **10 captured pages** from [paulstamatiou.com](https://paulstamatiou.com).
 
 ```fudge-colors
@@ -281,12 +285,27 @@ Here is the visual system observed across **10 captured pages** from [paulstamat
 }
 ```
 
-## References
-- [Paul Stamatiou](https://design.withfudge.com/pin/6705) — [source page](https://paulstamatiou.com/)
-- [2025 | Paul Stamatiou](https://design.withfudge.com/pin/6704) — [source page](https://paulstamatiou.com/2025-year-in-review)
-- [Paul Stamatiou](https://design.withfudge.com/pin/6703) — [source page](https://paulstamatiou.com/)
-- [Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3515) — [source page](https://paulstamatiou.com/browse-no-more)
-- [Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3514) — [source page](https://paulstamatiou.com/browse-no-more)
-- [Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3513) — [source page](https://paulstamatiou.com/browse-no-more)
-- [Paul Stamatiou](https://design.withfudge.com/pin/3512) — [source page](https://paulstamatiou.com/)
-- [Paul Stamatiou](https://design.withfudge.com/pin/3511) — [source page](https://paulstamatiou.com/)
+## Representative captures
+[![Paul Stamatiou](https://pin.fontofweb.com/6705?format=jpg)](https://design.withfudge.com/pin/6705)
+[Paul Stamatiou](https://design.withfudge.com/pin/6705) — [source page](https://paulstamatiou.com/)
+
+[![2025 | Paul Stamatiou](https://pin.fontofweb.com/6704?format=jpg)](https://design.withfudge.com/pin/6704)
+[2025 | Paul Stamatiou](https://design.withfudge.com/pin/6704) — [source page](https://paulstamatiou.com/2025-year-in-review)
+
+[![Paul Stamatiou](https://pin.fontofweb.com/6703?format=jpg)](https://design.withfudge.com/pin/6703)
+[Paul Stamatiou](https://design.withfudge.com/pin/6703) — [source page](https://paulstamatiou.com/)
+
+[![Browse No More | Paul Stamatiou](https://pin.fontofweb.com/3515?format=jpg)](https://design.withfudge.com/pin/3515)
+[Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3515) — [source page](https://paulstamatiou.com/browse-no-more)
+
+[![Browse No More | Paul Stamatiou](https://pin.fontofweb.com/3514?format=jpg)](https://design.withfudge.com/pin/3514)
+[Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3514) — [source page](https://paulstamatiou.com/browse-no-more)
+
+[![Browse No More | Paul Stamatiou](https://pin.fontofweb.com/3513?format=jpg)](https://design.withfudge.com/pin/3513)
+[Browse No More | Paul Stamatiou](https://design.withfudge.com/pin/3513) — [source page](https://paulstamatiou.com/browse-no-more)
+
+[![Paul Stamatiou](https://pin.fontofweb.com/3512?format=jpg)](https://design.withfudge.com/pin/3512)
+[Paul Stamatiou](https://design.withfudge.com/pin/3512) — [source page](https://paulstamatiou.com/)
+
+[![Paul Stamatiou](https://pin.fontofweb.com/3511?format=jpg)](https://design.withfudge.com/pin/3511)
+[Paul Stamatiou](https://design.withfudge.com/pin/3511) — [source page](https://paulstamatiou.com/)

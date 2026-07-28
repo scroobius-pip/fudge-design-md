@@ -6,6 +6,10 @@ Source domain: [hypen.space](https://hypen.space)
 
 Last updated: 2026-05-18
 
+<!--
+coverPin: 9381
+-->
+
 Here is the visual system observed across **7 captured pages** from [hypen.space](https://hypen.space).
 
 ```fudge-colors
@@ -315,11 +319,24 @@ Here is the visual system observed across **7 captured pages** from [hypen.space
 }
 ```
 
-## References
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9381) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9380) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9379) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9378) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9377) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9376) — [source page](https://hypen.space/)
-- [Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9375) — [source page](https://hypen.space/)
+## Representative captures
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9381?format=jpg)](https://design.withfudge.com/pin/9381)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9381) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9380?format=jpg)](https://design.withfudge.com/pin/9380)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9380) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9379?format=jpg)](https://design.withfudge.com/pin/9379)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9379) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9378?format=jpg)](https://design.withfudge.com/pin/9378)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9378) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9377?format=jpg)](https://design.withfudge.com/pin/9377)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9377) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9376?format=jpg)](https://design.withfudge.com/pin/9376)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9376) — [source page](https://hypen.space/)
+
+[![Hypen - Declarative UI Language for Cross-Platform Development](https://pin.fontofweb.com/9375?format=jpg)](https://design.withfudge.com/pin/9375)
+[Hypen - Declarative UI Language for Cross-Platform Development](https://design.withfudge.com/pin/9375) — [source page](https://hypen.space/)

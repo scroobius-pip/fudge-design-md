@@ -6,6 +6,10 @@ Source domain: [cosmos.so](https://cosmos.so)
 
 Last updated: 2026-05-28
 
+<!--
+coverPin: 9477
+-->
+
 Here is the visual system observed across **40 captured pages** from [cosmos.so](https://cosmos.so).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **40 captured pages** from [cosmos.so]
 }
 ```
 
-## References
-- [Explore / Cosmos](https://design.withfudge.com/pin/9477) — [source page](https://cosmos.so/explore)
-- [Cosmos](https://design.withfudge.com/pin/8596) — [source page](https://cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8595) — [source page](https://cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8594) — [source page](https://cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8593) — [source page](https://cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8592) — [source page](https://cosmos.so/)
-- [Cosmos](https://design.withfudge.com/pin/8591) — [source page](https://cosmos.so/)
-- [Welcome to Cosmos](https://design.withfudge.com/pin/4489) — [source page](https://cosmos.so/)
+## Representative captures
+[![Explore / Cosmos](https://pin.fontofweb.com/9477?format=jpg)](https://design.withfudge.com/pin/9477)
+[Explore / Cosmos](https://design.withfudge.com/pin/9477) — [source page](https://cosmos.so/explore)
+
+[![Cosmos](https://pin.fontofweb.com/8596?format=jpg)](https://design.withfudge.com/pin/8596)
+[Cosmos](https://design.withfudge.com/pin/8596) — [source page](https://cosmos.so/)
+
+[![Cosmos](https://pin.fontofweb.com/8595?format=jpg)](https://design.withfudge.com/pin/8595)
+[Cosmos](https://design.withfudge.com/pin/8595) — [source page](https://cosmos.so/)
+
+[![Cosmos](https://pin.fontofweb.com/8594?format=jpg)](https://design.withfudge.com/pin/8594)
+[Cosmos](https://design.withfudge.com/pin/8594) — [source page](https://cosmos.so/)
+
+[![Cosmos](https://pin.fontofweb.com/8593?format=jpg)](https://design.withfudge.com/pin/8593)
+[Cosmos](https://design.withfudge.com/pin/8593) — [source page](https://cosmos.so/)
+
+[![Cosmos](https://pin.fontofweb.com/8592?format=jpg)](https://design.withfudge.com/pin/8592)
+[Cosmos](https://design.withfudge.com/pin/8592) — [source page](https://cosmos.so/)
+
+[![Cosmos](https://pin.fontofweb.com/8591?format=jpg)](https://design.withfudge.com/pin/8591)
+[Cosmos](https://design.withfudge.com/pin/8591) — [source page](https://cosmos.so/)
+
+[![Welcome to Cosmos](https://pin.fontofweb.com/4489?format=jpg)](https://design.withfudge.com/pin/4489)
+[Welcome to Cosmos](https://design.withfudge.com/pin/4489) — [source page](https://cosmos.so/)

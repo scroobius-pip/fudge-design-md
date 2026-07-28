@@ -6,6 +6,10 @@ Source domain: [us-east-2.console.aws.amazon.com](https://us-east-2.console.aws.
 
 Last updated: 2026-03-02
 
+<!--
+coverPin: 7598
+-->
+
 Here is the visual system observed across **1 captured page** from [us-east-2.console.aws.amazon.com](https://us-east-2.console.aws.amazon.com).
 
 ```fudge-colors
@@ -99,5 +103,6 @@ Here is the visual system observed across **1 captured page** from [us-east-2.co
 }
 ```
 
-## References
-- [Console Home | Console Home | us-east-2](https://design.withfudge.com/pin/7598) — [source page](https://us-east-2.console.aws.amazon.com/console/home)
+## Representative captures
+[![Console Home | Console Home | us-east-2](https://pin.fontofweb.com/7598?format=jpg)](https://design.withfudge.com/pin/7598)
+[Console Home | Console Home | us-east-2](https://design.withfudge.com/pin/7598) — [source page](https://us-east-2.console.aws.amazon.com/console/home)

@@ -6,6 +6,10 @@ Source domain: [standards.site](https://standards.site)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7284
+-->
+
 Here is the visual system observed across **7 captured pages** from [standards.site](https://standards.site).
 
 ```fudge-colors
@@ -218,11 +222,24 @@ Here is the visual system observed across **7 captured pages** from [standards.s
 }
 ```
 
-## References
-- [Enterprise Features — Scalable Brand Management — Standards](https://design.withfudge.com/pin/7284) — [source page](https://standards.site/for-enterprise/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7283) — [source page](https://standards.site/for-agencies/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7282) — [source page](https://standards.site/for-agencies/)
-- [Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7281) — [source page](https://standards.site/for-agencies/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7280) — [source page](https://standards.site/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7279) — [source page](https://standards.site/)
-- [Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7278) — [source page](https://standards.site/)
+## Representative captures
+[![Enterprise Features — Scalable Brand Management — Standards](https://pin.fontofweb.com/7284?format=jpg)](https://design.withfudge.com/pin/7284)
+[Enterprise Features — Scalable Brand Management — Standards](https://design.withfudge.com/pin/7284) — [source page](https://standards.site/for-enterprise/)
+
+[![Features for Agencies — Build Brand Systems Faster — Standards](https://pin.fontofweb.com/7283?format=jpg)](https://design.withfudge.com/pin/7283)
+[Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7283) — [source page](https://standards.site/for-agencies/)
+
+[![Features for Agencies — Build Brand Systems Faster — Standards](https://pin.fontofweb.com/7282?format=jpg)](https://design.withfudge.com/pin/7282)
+[Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7282) — [source page](https://standards.site/for-agencies/)
+
+[![Features for Agencies — Build Brand Systems Faster — Standards](https://pin.fontofweb.com/7281?format=jpg)](https://design.withfudge.com/pin/7281)
+[Features for Agencies — Build Brand Systems Faster — Standards](https://design.withfudge.com/pin/7281) — [source page](https://standards.site/for-agencies/)
+
+[![Standards — Build stunning brand guidelines online.](https://pin.fontofweb.com/7280?format=jpg)](https://design.withfudge.com/pin/7280)
+[Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7280) — [source page](https://standards.site/)
+
+[![Standards — Build stunning brand guidelines online.](https://pin.fontofweb.com/7279?format=jpg)](https://design.withfudge.com/pin/7279)
+[Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7279) — [source page](https://standards.site/)
+
+[![Standards — Build stunning brand guidelines online.](https://pin.fontofweb.com/7278?format=jpg)](https://design.withfudge.com/pin/7278)
+[Standards — Build stunning brand guidelines online.](https://design.withfudge.com/pin/7278) — [source page](https://standards.site/)

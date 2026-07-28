@@ -6,6 +6,10 @@ Source domain: [twilio.com](https://twilio.com)
 
 Last updated: 2026-05-26
 
+<!--
+coverPin: 9465
+-->
+
 Here is the visual system observed across **6 captured pages** from [twilio.com](https://twilio.com).
 
 ```fudge-colors
@@ -203,10 +207,21 @@ Here is the visual system observed across **6 captured pages** from [twilio.com]
 }
 ```
 
-## References
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9465) — [source page](https://twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9464) — [source page](https://twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9463) — [source page](https://twilio.com/en-us/customer-engagement-platform)
-- [Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9462) — [source page](https://twilio.com/en-us/customer-engagement-platform)
-- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9461) — [source page](https://twilio.com/en-us)
-- [Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9460) — [source page](https://twilio.com/en-us)
+## Representative captures
+[![Customer Engagement Platform | Twilio](https://pin.fontofweb.com/9465?format=jpg)](https://design.withfudge.com/pin/9465)
+[Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9465) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+
+[![Customer Engagement Platform | Twilio](https://pin.fontofweb.com/9464?format=jpg)](https://design.withfudge.com/pin/9464)
+[Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9464) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+
+[![Customer Engagement Platform | Twilio](https://pin.fontofweb.com/9463?format=jpg)](https://design.withfudge.com/pin/9463)
+[Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9463) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+
+[![Customer Engagement Platform | Twilio](https://pin.fontofweb.com/9462?format=jpg)](https://design.withfudge.com/pin/9462)
+[Customer Engagement Platform | Twilio](https://design.withfudge.com/pin/9462) — [source page](https://twilio.com/en-us/customer-engagement-platform)
+
+[![Conversational AI and APIs for SMS, Email, Voice | Twilio](https://pin.fontofweb.com/9461?format=jpg)](https://design.withfudge.com/pin/9461)
+[Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9461) — [source page](https://twilio.com/en-us)
+
+[![Conversational AI and APIs for SMS, Email, Voice | Twilio](https://pin.fontofweb.com/9460?format=jpg)](https://design.withfudge.com/pin/9460)
+[Conversational AI and APIs for SMS, Email, Voice | Twilio](https://design.withfudge.com/pin/9460) — [source page](https://twilio.com/en-us)

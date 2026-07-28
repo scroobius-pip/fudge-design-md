@@ -6,6 +6,10 @@ Source domain: [app.curator.io](https://app.curator.io)
 
 Last updated: 2026-03-04
 
+<!--
+coverPin: 7655
+-->
+
 Here is the visual system observed across **1 captured page** from [app.curator.io](https://app.curator.io).
 
 ```fudge-colors
@@ -85,5 +89,6 @@ Here is the visual system observed across **1 captured page** from [app.curator.
 }
 ```
 
-## References
-- [Curator Dashboard](https://design.withfudge.com/pin/7655) — [source page](https://app.curator.io/onboarding/network)
+## Representative captures
+[![Curator Dashboard](https://pin.fontofweb.com/7655?format=jpg)](https://design.withfudge.com/pin/7655)
+[Curator Dashboard](https://design.withfudge.com/pin/7655) — [source page](https://app.curator.io/onboarding/network)

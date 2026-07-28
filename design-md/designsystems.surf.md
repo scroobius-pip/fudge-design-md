@@ -6,6 +6,10 @@ Source domain: [designsystems.surf](https://designsystems.surf)
 
 Last updated: 2026-03-15
 
+<!--
+coverPin: 8109
+-->
+
 Here is the visual system observed across **10 captured pages** from [designsystems.surf](https://designsystems.surf).
 
 ```fudge-colors
@@ -304,12 +308,27 @@ Here is the visual system observed across **10 captured pages** from [designsyst
 }
 ```
 
-## References
-- [Accordion UI Component in Design Systems](https://design.withfudge.com/pin/8109) — [source page](https://designsystems.surf/components/accordion)
-- [AI DS Starter Stack](https://design.withfudge.com/pin/8108) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
-- [AI DS Starter Stack](https://design.withfudge.com/pin/8107) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
-- [AI DS Starter Stack](https://design.withfudge.com/pin/8106) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
-- [Apple HIG (Human Interface Guidelines) Design System](https://design.withfudge.com/pin/8105) — [source page](https://designsystems.surf/design-systems/apple)
-- [Typography Foundation Operating Kit](https://design.withfudge.com/pin/8104) — [source page](https://designsystems.surf/products/typography-foundation)
-- [Typography Foundation Operating Kit](https://design.withfudge.com/pin/8103) — [source page](https://designsystems.surf/products/typography-foundation)
-- [Typography Foundation Operating Kit](https://design.withfudge.com/pin/8102) — [source page](https://designsystems.surf/products/typography-foundation)
+## Representative captures
+[![Accordion UI Component in Design Systems](https://pin.fontofweb.com/8109?format=jpg)](https://design.withfudge.com/pin/8109)
+[Accordion UI Component in Design Systems](https://design.withfudge.com/pin/8109) — [source page](https://designsystems.surf/components/accordion)
+
+[![AI DS Starter Stack](https://pin.fontofweb.com/8108?format=jpg)](https://design.withfudge.com/pin/8108)
+[AI DS Starter Stack](https://design.withfudge.com/pin/8108) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
+
+[![AI DS Starter Stack](https://pin.fontofweb.com/8107?format=jpg)](https://design.withfudge.com/pin/8107)
+[AI DS Starter Stack](https://design.withfudge.com/pin/8107) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
+
+[![AI DS Starter Stack](https://pin.fontofweb.com/8106?format=jpg)](https://design.withfudge.com/pin/8106)
+[AI DS Starter Stack](https://design.withfudge.com/pin/8106) — [source page](https://designsystems.surf/products/ai-ds-starter-stack)
+
+[![Apple HIG (Human Interface Guidelines) Design System](https://pin.fontofweb.com/8105?format=jpg)](https://design.withfudge.com/pin/8105)
+[Apple HIG (Human Interface Guidelines) Design System](https://design.withfudge.com/pin/8105) — [source page](https://designsystems.surf/design-systems/apple)
+
+[![Typography Foundation Operating Kit](https://pin.fontofweb.com/8104?format=jpg)](https://design.withfudge.com/pin/8104)
+[Typography Foundation Operating Kit](https://design.withfudge.com/pin/8104) — [source page](https://designsystems.surf/products/typography-foundation)
+
+[![Typography Foundation Operating Kit](https://pin.fontofweb.com/8103?format=jpg)](https://design.withfudge.com/pin/8103)
+[Typography Foundation Operating Kit](https://design.withfudge.com/pin/8103) — [source page](https://designsystems.surf/products/typography-foundation)
+
+[![Typography Foundation Operating Kit](https://pin.fontofweb.com/8102?format=jpg)](https://design.withfudge.com/pin/8102)
+[Typography Foundation Operating Kit](https://design.withfudge.com/pin/8102) — [source page](https://designsystems.surf/products/typography-foundation)

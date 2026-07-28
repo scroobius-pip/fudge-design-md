@@ -6,6 +6,10 @@ Source domain: [skills.sh](https://skills.sh)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7055
+-->
+
 Here is the visual system observed across **1 captured page** from [skills.sh](https://skills.sh).
 
 ```fudge-colors
@@ -91,5 +95,6 @@ Here is the visual system observed across **1 captured page** from [skills.sh](h
 }
 ```
 
-## References
-- [The Agent Skills Directory](https://design.withfudge.com/pin/7055) — [source page](https://skills.sh/)
+## Representative captures
+[![The Agent Skills Directory](https://pin.fontofweb.com/7055?format=jpg)](https://design.withfudge.com/pin/7055)
+[The Agent Skills Directory](https://design.withfudge.com/pin/7055) — [source page](https://skills.sh/)

@@ -6,6 +6,10 @@ Source domain: [trustpilot.com](https://trustpilot.com)
 
 Last updated: 2026-03-06
 
+<!--
+coverPin: 7774
+-->
+
 Here is the visual system observed across **6 captured pages** from [trustpilot.com](https://trustpilot.com).
 
 ```fudge-colors
@@ -203,10 +207,21 @@ Here is the visual system observed across **6 captured pages** from [trustpilot.
 }
 ```
 
-## References
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7774) — [source page](https://trustpilot.com/)
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7773) — [source page](https://trustpilot.com/)
-- [Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7772) — [source page](https://trustpilot.com/)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7771) — [source page](https://trustpilot.com/review/moonpay.com)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7770) — [source page](https://trustpilot.com/review/moonpay.com)
-- [MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7769) — [source page](https://trustpilot.com/review/moonpay.com)
+## Representative captures
+[![Trustpilot Reviews: Experience the power of customer reviews](https://pin.fontofweb.com/7774?format=jpg)](https://design.withfudge.com/pin/7774)
+[Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7774) — [source page](https://trustpilot.com/)
+
+[![Trustpilot Reviews: Experience the power of customer reviews](https://pin.fontofweb.com/7773?format=jpg)](https://design.withfudge.com/pin/7773)
+[Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7773) — [source page](https://trustpilot.com/)
+
+[![Trustpilot Reviews: Experience the power of customer reviews](https://pin.fontofweb.com/7772?format=jpg)](https://design.withfudge.com/pin/7772)
+[Trustpilot Reviews: Experience the power of customer reviews](https://design.withfudge.com/pin/7772) — [source page](https://trustpilot.com/)
+
+[![MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://pin.fontofweb.com/7771?format=jpg)](https://design.withfudge.com/pin/7771)
+[MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7771) — [source page](https://trustpilot.com/review/moonpay.com)
+
+[![MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://pin.fontofweb.com/7770?format=jpg)](https://design.withfudge.com/pin/7770)
+[MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7770) — [source page](https://trustpilot.com/review/moonpay.com)
+
+[![MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://pin.fontofweb.com/7769?format=jpg)](https://design.withfudge.com/pin/7769)
+[MoonPay Reviews | Read Customer Service Reviews of moonpay.com](https://design.withfudge.com/pin/7769) — [source page](https://trustpilot.com/review/moonpay.com)

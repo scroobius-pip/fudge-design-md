@@ -6,6 +6,10 @@ Source domain: [endl.io](https://endl.io)
 
 Last updated: 2026-07-05
 
+<!--
+coverPin: 9905
+-->
+
 Here is the visual system observed across **4 captured pages** from [endl.io](https://endl.io).
 
 ```fudge-colors
@@ -190,8 +194,15 @@ Here is the visual system observed across **4 captured pages** from [endl.io](ht
 }
 ```
 
-## References
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9905) — [source page](https://endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9904) — [source page](https://endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9903) — [source page](https://endl.io/)
-- [Endl - Global team spend, done right](https://design.withfudge.com/pin/9902) — [source page](https://endl.io/)
+## Representative captures
+[![Endl - Global team spend, done right](https://pin.fontofweb.com/9905?format=jpg)](https://design.withfudge.com/pin/9905)
+[Endl - Global team spend, done right](https://design.withfudge.com/pin/9905) — [source page](https://endl.io/)
+
+[![Endl - Global team spend, done right](https://pin.fontofweb.com/9904?format=jpg)](https://design.withfudge.com/pin/9904)
+[Endl - Global team spend, done right](https://design.withfudge.com/pin/9904) — [source page](https://endl.io/)
+
+[![Endl - Global team spend, done right](https://pin.fontofweb.com/9903?format=jpg)](https://design.withfudge.com/pin/9903)
+[Endl - Global team spend, done right](https://design.withfudge.com/pin/9903) — [source page](https://endl.io/)
+
+[![Endl - Global team spend, done right](https://pin.fontofweb.com/9902?format=jpg)](https://design.withfudge.com/pin/9902)
+[Endl - Global team spend, done right](https://design.withfudge.com/pin/9902) — [source page](https://endl.io/)

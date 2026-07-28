@@ -6,6 +6,10 @@ Source domain: [joinloops.org](https://joinloops.org)
 
 Last updated: 2026-02-22
 
+<!--
+coverPin: 6970
+-->
+
 Here is the visual system observed across **1 captured page** from [joinloops.org](https://joinloops.org).
 
 ```fudge-colors
@@ -87,5 +91,6 @@ Here is the visual system observed across **1 captured page** from [joinloops.or
 }
 ```
 
-## References
-- [Loops - Short videos. Your community. Your rules.](https://design.withfudge.com/pin/6970) — [source page](https://joinloops.org/)
+## Representative captures
+[![Loops - Short videos. Your community. Your rules.](https://pin.fontofweb.com/6970?format=jpg)](https://design.withfudge.com/pin/6970)
+[Loops - Short videos. Your community. Your rules.](https://design.withfudge.com/pin/6970) — [source page](https://joinloops.org/)

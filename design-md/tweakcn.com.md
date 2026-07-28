@@ -6,6 +6,10 @@ Source domain: [tweakcn.com](https://tweakcn.com)
 
 Last updated: 2026-02-01
 
+<!--
+coverPin: 6204
+-->
+
 Here is the visual system observed across **3 captured pages** from [tweakcn.com](https://tweakcn.com).
 
 ```fudge-colors
@@ -139,7 +143,12 @@ Here is the visual system observed across **3 captured pages** from [tweakcn.com
 }
 ```
 
-## References
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6204) — [source page](https://tweakcn.com/editor/theme)
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6203) — [source page](https://tweakcn.com/editor/theme)
-- [tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6202) — [source page](https://tweakcn.com/editor/theme)
+## Representative captures
+[![tweakcn — Theme Generator for shadcn/ui](https://pin.fontofweb.com/6204?format=jpg)](https://design.withfudge.com/pin/6204)
+[tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6204) — [source page](https://tweakcn.com/editor/theme)
+
+[![tweakcn — Theme Generator for shadcn/ui](https://pin.fontofweb.com/6203?format=jpg)](https://design.withfudge.com/pin/6203)
+[tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6203) — [source page](https://tweakcn.com/editor/theme)
+
+[![tweakcn — Theme Generator for shadcn/ui](https://pin.fontofweb.com/6202?format=jpg)](https://design.withfudge.com/pin/6202)
+[tweakcn — Theme Generator for shadcn/ui](https://design.withfudge.com/pin/6202) — [source page](https://tweakcn.com/editor/theme)

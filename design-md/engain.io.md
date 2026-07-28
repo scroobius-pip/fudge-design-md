@@ -6,6 +6,10 @@ Source domain: [engain.io](https://engain.io)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10191
+-->
+
 Here is the visual system observed across **1 captured page** from [engain.io](https://engain.io).
 
 ```fudge-colors
@@ -109,5 +113,6 @@ Here is the visual system observed across **1 captured page** from [engain.io](h
 }
 ```
 
-## References
-- [Engain - The AI-Powered Reddit Organic Marketing Software](https://design.withfudge.com/pin/10191) — [source page](https://engain.io/)
+## Representative captures
+[![Engain - The AI-Powered Reddit Organic Marketing Software](https://pin.fontofweb.com/10191?format=jpg)](https://design.withfudge.com/pin/10191)
+[Engain - The AI-Powered Reddit Organic Marketing Software](https://design.withfudge.com/pin/10191) — [source page](https://engain.io/)

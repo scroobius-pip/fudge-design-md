@@ -6,6 +6,10 @@ Source domain: [gemini.google.com](https://gemini.google.com)
 
 Last updated: 2026-04-10
 
+<!--
+coverPin: 8794
+-->
+
 Here is the visual system observed across **2 captured pages** from [gemini.google.com](https://gemini.google.com).
 
 ```fudge-colors
@@ -153,6 +157,9 @@ Here is the visual system observed across **2 captured pages** from [gemini.goog
 }
 ```
 
-## References
-- [Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/pin/8794) — [source page](https://gemini.google.com/app/bbc718fe23109ab6)
-- [Google Gemini](https://design.withfudge.com/pin/5688) — [source page](https://gemini.google.com/u/1/app)
+## Representative captures
+[![Replicating Semantic UI Design - Google Gemini](https://pin.fontofweb.com/8794?format=jpg)](https://design.withfudge.com/pin/8794)
+[Replicating Semantic UI Design - Google Gemini](https://design.withfudge.com/pin/8794) — [source page](https://gemini.google.com/app/bbc718fe23109ab6)
+
+[![Google Gemini](https://pin.fontofweb.com/5688?format=jpg)](https://design.withfudge.com/pin/5688)
+[Google Gemini](https://design.withfudge.com/pin/5688) — [source page](https://gemini.google.com/u/1/app)

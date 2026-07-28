@@ -6,6 +6,10 @@ Source domain: [openwebui.com](https://openwebui.com)
 
 Last updated: 2026-02-28
 
+<!--
+coverPin: 7514
+-->
+
 Here is the visual system observed across **11 captured pages** from [openwebui.com](https://openwebui.com).
 
 ```fudge-colors
@@ -328,12 +332,27 @@ Here is the visual system observed across **11 captured pages** from [openwebui.
 }
 ```
 
-## References
-- [Open WebUI Community](https://design.withfudge.com/pin/7514) — [source page](https://openwebui.com/home)
-- [Best AI Models 2026 - 100+ LLMs Leaderboard Ranked by Real Usage • Open WebUI](https://design.withfudge.com/pin/7513) — [source page](https://openwebui.com/leaderboard)
-- [Models • Open WebUI](https://design.withfudge.com/pin/7512) — [source page](https://openwebui.com/models)
-- [中文 – AI Community • Open WebUI](https://design.withfudge.com/pin/7511) — [source page](https://openwebui.com/o/chinese)
-- [Explore AI Resources – Models, Prompts, Tools & Communities • Open WebUI](https://design.withfudge.com/pin/7510) — [source page](https://openwebui.com/explore)
-- [Open WebUI Community](https://design.withfudge.com/pin/7509) — [source page](https://openwebui.com/home)
-- [Log in • Open WebUI Community](https://design.withfudge.com/pin/7504) — [source page](https://openwebui.com/auth)
-- [Open WebUI: Self-Hosted AI Platform](https://design.withfudge.com/pin/7503) — [source page](https://openwebui.com/)
+## Representative captures
+[![Open WebUI Community](https://pin.fontofweb.com/7514?format=jpg)](https://design.withfudge.com/pin/7514)
+[Open WebUI Community](https://design.withfudge.com/pin/7514) — [source page](https://openwebui.com/home)
+
+[![Best AI Models 2026 - 100+ LLMs Leaderboard Ranked by Real Usage • Open WebUI](https://pin.fontofweb.com/7513?format=jpg)](https://design.withfudge.com/pin/7513)
+[Best AI Models 2026 - 100+ LLMs Leaderboard Ranked by Real Usage • Open WebUI](https://design.withfudge.com/pin/7513) — [source page](https://openwebui.com/leaderboard)
+
+[![Models • Open WebUI](https://pin.fontofweb.com/7512?format=jpg)](https://design.withfudge.com/pin/7512)
+[Models • Open WebUI](https://design.withfudge.com/pin/7512) — [source page](https://openwebui.com/models)
+
+[![中文 – AI Community • Open WebUI](https://pin.fontofweb.com/7511?format=jpg)](https://design.withfudge.com/pin/7511)
+[中文 – AI Community • Open WebUI](https://design.withfudge.com/pin/7511) — [source page](https://openwebui.com/o/chinese)
+
+[![Explore AI Resources – Models, Prompts, Tools & Communities • Open WebUI](https://pin.fontofweb.com/7510?format=jpg)](https://design.withfudge.com/pin/7510)
+[Explore AI Resources – Models, Prompts, Tools & Communities • Open WebUI](https://design.withfudge.com/pin/7510) — [source page](https://openwebui.com/explore)
+
+[![Open WebUI Community](https://pin.fontofweb.com/7509?format=jpg)](https://design.withfudge.com/pin/7509)
+[Open WebUI Community](https://design.withfudge.com/pin/7509) — [source page](https://openwebui.com/home)
+
+[![Log in • Open WebUI Community](https://pin.fontofweb.com/7504?format=jpg)](https://design.withfudge.com/pin/7504)
+[Log in • Open WebUI Community](https://design.withfudge.com/pin/7504) — [source page](https://openwebui.com/auth)
+
+[![Open WebUI: Self-Hosted AI Platform](https://pin.fontofweb.com/7503?format=jpg)](https://design.withfudge.com/pin/7503)
+[Open WebUI: Self-Hosted AI Platform](https://design.withfudge.com/pin/7503) — [source page](https://openwebui.com/)

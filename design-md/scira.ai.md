@@ -6,6 +6,10 @@ Source domain: [scira.ai](https://scira.ai)
 
 Last updated: 2026-01-21
 
+<!--
+coverPin: 5947
+-->
+
 Here is the visual system observed across **7 captured pages** from [scira.ai](https://scira.ai).
 
 ```fudge-colors
@@ -213,11 +217,24 @@ Here is the visual system observed across **7 captured pages** from [scira.ai](h
 }
 ```
 
-## References
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5947) — [source page](https://scira.ai/)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5946) — [source page](https://scira.ai/sign-in)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5940) — [source page](https://scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5939) — [source page](https://scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5938) — [source page](https://scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5937) — [source page](https://scira.ai/about)
-- [Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5936) — [source page](https://scira.ai/about)
+## Representative captures
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5947?format=jpg)](https://design.withfudge.com/pin/5947)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5947) — [source page](https://scira.ai/)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5946?format=jpg)](https://design.withfudge.com/pin/5946)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5946) — [source page](https://scira.ai/sign-in)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5940?format=jpg)](https://design.withfudge.com/pin/5940)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5940) — [source page](https://scira.ai/about)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5939?format=jpg)](https://design.withfudge.com/pin/5939)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5939) — [source page](https://scira.ai/about)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5938?format=jpg)](https://design.withfudge.com/pin/5938)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5938) — [source page](https://scira.ai/about)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5937?format=jpg)](https://design.withfudge.com/pin/5937)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5937) — [source page](https://scira.ai/about)
+
+[![Scira AI - Research in speed of thought.](https://pin.fontofweb.com/5936?format=jpg)](https://design.withfudge.com/pin/5936)
+[Scira AI - Research in speed of thought.](https://design.withfudge.com/pin/5936) — [source page](https://scira.ai/about)

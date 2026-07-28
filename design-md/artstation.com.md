@@ -6,6 +6,10 @@ Source domain: [artstation.com](https://artstation.com)
 
 Last updated: 2026-04-16
 
+<!--
+coverPin: 8864
+-->
+
 Here is the visual system observed across **2 captured pages** from [artstation.com](https://artstation.com).
 
 ```fudge-colors
@@ -105,6 +109,9 @@ Here is the visual system observed across **2 captured pages** from [artstation.
 }
 ```
 
-## References
-- [ArtStation - Daniel Reid](https://design.withfudge.com/pin/8864) — [source page](https://artstation.com/danielcannata)
-- [ArtStation - All Channels](https://design.withfudge.com/pin/2253) — [source page](https://artstation.com/)
+## Representative captures
+[![ArtStation - Daniel Reid](https://pin.fontofweb.com/8864?format=jpg)](https://design.withfudge.com/pin/8864)
+[ArtStation - Daniel Reid](https://design.withfudge.com/pin/8864) — [source page](https://artstation.com/danielcannata)
+
+[![ArtStation - All Channels](https://pin.fontofweb.com/2253?format=jpg)](https://design.withfudge.com/pin/2253)
+[ArtStation - All Channels](https://design.withfudge.com/pin/2253) — [source page](https://artstation.com/)

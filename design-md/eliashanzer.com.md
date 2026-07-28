@@ -6,6 +6,10 @@ Source domain: [eliashanzer.com](https://eliashanzer.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7372
+-->
+
 Here is the visual system observed across **1 captured page** from [eliashanzer.com](https://eliashanzer.com).
 
 ```fudge-colors
@@ -103,5 +107,6 @@ Here is the visual system observed across **1 captured page** from [eliashanzer.
 }
 ```
 
-## References
-- [Elias Hanzer](https://design.withfudge.com/pin/7372) — [source page](https://eliashanzer.com/)
+## Representative captures
+[![Elias Hanzer](https://pin.fontofweb.com/7372?format=jpg)](https://design.withfudge.com/pin/7372)
+[Elias Hanzer](https://design.withfudge.com/pin/7372) — [source page](https://eliashanzer.com/)

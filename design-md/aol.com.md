@@ -6,6 +6,10 @@ Source domain: [aol.com](https://aol.com)
 
 Last updated: 2026-03-27
 
+<!--
+coverPin: 8410
+-->
+
 Here is the visual system observed across **2 captured pages** from [aol.com](https://aol.com).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [aol.com](ht
 }
 ```
 
-## References
-- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8410) — [source page](https://aol.com/)
-- [News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8409) — [source page](https://aol.com/)
+## Representative captures
+[![News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://pin.fontofweb.com/8410?format=jpg)](https://design.withfudge.com/pin/8410)
+[News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8410) — [source page](https://aol.com/)
+
+[![News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://pin.fontofweb.com/8409?format=jpg)](https://design.withfudge.com/pin/8409)
+[News, Politics, Sports, Mail & Latest Headlines - AOL.com](https://design.withfudge.com/pin/8409) — [source page](https://aol.com/)

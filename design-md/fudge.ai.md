@@ -6,6 +6,10 @@ Source domain: [fudge.ai](https://fudge.ai)
 
 Last updated: 2026-03-23
 
+<!--
+coverPin: 8235
+-->
+
 Here is the visual system observed across **3 captured pages** from [fudge.ai](https://fudge.ai).
 
 ```fudge-colors
@@ -141,7 +145,12 @@ Here is the visual system observed across **3 captured pages** from [fudge.ai](h
 }
 ```
 
-## References
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8235) — [source page](https://fudge.ai/)
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8234) — [source page](https://fudge.ai/)
-- [AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8233) — [source page](https://fudge.ai/)
+## Representative captures
+[![AI Shopify Page Builder & Site Editor | Fudge](https://pin.fontofweb.com/8235?format=jpg)](https://design.withfudge.com/pin/8235)
+[AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8235) — [source page](https://fudge.ai/)
+
+[![AI Shopify Page Builder & Site Editor | Fudge](https://pin.fontofweb.com/8234?format=jpg)](https://design.withfudge.com/pin/8234)
+[AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8234) — [source page](https://fudge.ai/)
+
+[![AI Shopify Page Builder & Site Editor | Fudge](https://pin.fontofweb.com/8233?format=jpg)](https://design.withfudge.com/pin/8233)
+[AI Shopify Page Builder & Site Editor | Fudge](https://design.withfudge.com/pin/8233) — [source page](https://fudge.ai/)

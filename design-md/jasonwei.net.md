@@ -6,6 +6,10 @@ Source domain: [jasonwei.net](https://jasonwei.net)
 
 Last updated: 2026-05-10
 
+<!--
+coverPin: 9221
+-->
+
 Here is the visual system observed across **4 captured pages** from [jasonwei.net](https://jasonwei.net).
 
 ```fudge-colors
@@ -172,8 +176,15 @@ Here is the visual system observed across **4 captured pages** from [jasonwei.ne
 }
 ```
 
-## References
-- [Thoughts — Jason Wei](https://design.withfudge.com/pin/9221) — [source page](https://jasonwei.net/thoughts)
-- [Jason Wei](https://design.withfudge.com/pin/9220) — [source page](https://jasonwei.net/)
-- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9219) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
-- [Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9218) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+## Representative captures
+[![Thoughts — Jason Wei](https://pin.fontofweb.com/9221?format=jpg)](https://design.withfudge.com/pin/9221)
+[Thoughts — Jason Wei](https://design.withfudge.com/pin/9221) — [source page](https://jasonwei.net/thoughts)
+
+[![Jason Wei](https://pin.fontofweb.com/9220?format=jpg)](https://design.withfudge.com/pin/9220)
+[Jason Wei](https://design.withfudge.com/pin/9220) — [source page](https://jasonwei.net/)
+
+[![Asymmetry of verification and verifier’s rule — Jason Wei](https://pin.fontofweb.com/9219?format=jpg)](https://design.withfudge.com/pin/9219)
+[Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9219) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+
+[![Asymmetry of verification and verifier’s rule — Jason Wei](https://pin.fontofweb.com/9218?format=jpg)](https://design.withfudge.com/pin/9218)
+[Asymmetry of verification and verifier’s rule — Jason Wei](https://design.withfudge.com/pin/9218) — [source page](https://jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)

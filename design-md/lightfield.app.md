@@ -6,6 +6,10 @@ Source domain: [lightfield.app](https://lightfield.app)
 
 Last updated: 2026-05-15
 
+<!--
+coverPin: 9320
+-->
+
 Here is the visual system observed across **5 captured pages** from [lightfield.app](https://lightfield.app).
 
 ```fudge-colors
@@ -159,9 +163,18 @@ Here is the visual system observed across **5 captured pages** from [lightfield.
 }
 ```
 
-## References
-- [Pricing](https://design.withfudge.com/pin/9320) — [source page](https://lightfield.app/pricing)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9319) — [source page](https://lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9318) — [source page](https://lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9317) — [source page](https://lightfield.app/clp/default-1)
-- [Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9316) — [source page](https://lightfield.app/clp/default-1)
+## Representative captures
+[![Pricing](https://pin.fontofweb.com/9320?format=jpg)](https://design.withfudge.com/pin/9320)
+[Pricing](https://design.withfudge.com/pin/9320) — [source page](https://lightfield.app/pricing)
+
+[![Lightfield — The CRM that updates itself](https://pin.fontofweb.com/9319?format=jpg)](https://design.withfudge.com/pin/9319)
+[Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9319) — [source page](https://lightfield.app/clp/default-1)
+
+[![Lightfield — The CRM that updates itself](https://pin.fontofweb.com/9318?format=jpg)](https://design.withfudge.com/pin/9318)
+[Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9318) — [source page](https://lightfield.app/clp/default-1)
+
+[![Lightfield — The CRM that updates itself](https://pin.fontofweb.com/9317?format=jpg)](https://design.withfudge.com/pin/9317)
+[Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9317) — [source page](https://lightfield.app/clp/default-1)
+
+[![Lightfield — The CRM that updates itself](https://pin.fontofweb.com/9316?format=jpg)](https://design.withfudge.com/pin/9316)
+[Lightfield — The CRM that updates itself](https://design.withfudge.com/pin/9316) — [source page](https://lightfield.app/clp/default-1)

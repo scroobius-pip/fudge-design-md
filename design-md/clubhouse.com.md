@@ -6,6 +6,10 @@ Source domain: [clubhouse.com](https://clubhouse.com)
 
 Last updated: 2026-03-01
 
+<!--
+coverPin: 7585
+-->
+
 Here is the visual system observed across **2 captured pages** from [clubhouse.com](https://clubhouse.com).
 
 ```fudge-colors
@@ -119,6 +123,9 @@ Here is the visual system observed across **2 captured pages** from [clubhouse.c
 }
 ```
 
-## References
-- [Clubhouse](https://design.withfudge.com/pin/7585) — [source page](https://clubhouse.com/)
-- [Clubhouse](https://design.withfudge.com/pin/7584) — [source page](https://clubhouse.com/)
+## Representative captures
+[![Clubhouse](https://pin.fontofweb.com/7585?format=jpg)](https://design.withfudge.com/pin/7585)
+[Clubhouse](https://design.withfudge.com/pin/7585) — [source page](https://clubhouse.com/)
+
+[![Clubhouse](https://pin.fontofweb.com/7584?format=jpg)](https://design.withfudge.com/pin/7584)
+[Clubhouse](https://design.withfudge.com/pin/7584) — [source page](https://clubhouse.com/)

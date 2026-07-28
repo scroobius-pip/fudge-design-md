@@ -6,6 +6,10 @@ Source domain: [ren.tv](https://ren.tv)
 
 Last updated: 2026-04-27
 
+<!--
+coverPin: 9069
+-->
+
 Here is the visual system observed across **7 captured pages** from [ren.tv](https://ren.tv).
 
 ```fudge-colors
@@ -225,11 +229,24 @@ Here is the visual system observed across **7 captured pages** from [ren.tv](htt
 }
 ```
 
-## References
-- [Россиянам напомнили о 12 выходных в мае — 27.04.2026 — В России на РЕН ТВ](https://design.withfudge.com/pin/9069) — [source page](https://ren.tv/news/v-rossii/1423416-v-mae-sotrudniki-s-piatidnevnym-grafikom-otdokhnut-12-dnei-rii)
-- [Апрельский снегопад парализовал движение в Москве — 27.04.2026 — Происшествия на РЕН ТВ](https://design.withfudge.com/pin/9068) — [source page](https://ren.tv/news/proisshestviia/1423399-aprelskii-snegopad-paralizoval-dvizhenie-v-moskve)
-- [Землетрясение магнитудой 6,8 произошло в Монголии — 27.04.2026 — Срочные новости на РЕН ТВ](https://design.withfudge.com/pin/9067) — [source page](https://ren.tv/news/x/1423415-zemletriasenie-magnitudoi-6-8-proizoshlo-v-mongolii)
-- [Каждый четвертый иранский танкер с нефтью прошел через блокаду США в Ормузе — 27.04.2026 — В мире на РЕН ТВ](https://design.withfudge.com/pin/9066) — [source page](https://ren.tv/news/v-mire/1423422-kazhdyi-chetvertyi-iranskii-tanker-smog-proiti-cherez-liniiu-blokady-ssha)
-- [Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://design.withfudge.com/pin/9065) — [source page](https://ren.tv/news/kriminal/1423414-dva-diversanta-likvidirovany-pri-popytke-atakovat-npz-v-komi)
-- [Иранские Lego‑ролики стали мощным оружием в информационной войне против США — 27.04.2026 — В мире на РЕН ТВ](https://design.withfudge.com/pin/9064) — [source page](https://ren.tv/news/v-mire/1423392-iranskie-lego-roliki-stali-moshchnym-oruzhiem-v-informatsionnoi-voine-protiv-ssha)
-- [Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://design.withfudge.com/pin/9063) — [source page](https://ren.tv/news/kriminal/1423414-dva-diversanta-likvidirovany-pri-popytke-atakovat-npz-v-komi)
+## Representative captures
+[![Россиянам напомнили о 12 выходных в мае — 27.04.2026 — В России на РЕН ТВ](https://pin.fontofweb.com/9069?format=jpg)](https://design.withfudge.com/pin/9069)
+[Россиянам напомнили о 12 выходных в мае — 27.04.2026 — В России на РЕН ТВ](https://design.withfudge.com/pin/9069) — [source page](https://ren.tv/news/v-rossii/1423416-v-mae-sotrudniki-s-piatidnevnym-grafikom-otdokhnut-12-dnei-rii)
+
+[![Апрельский снегопад парализовал движение в Москве — 27.04.2026 — Происшествия на РЕН ТВ](https://pin.fontofweb.com/9068?format=jpg)](https://design.withfudge.com/pin/9068)
+[Апрельский снегопад парализовал движение в Москве — 27.04.2026 — Происшествия на РЕН ТВ](https://design.withfudge.com/pin/9068) — [source page](https://ren.tv/news/proisshestviia/1423399-aprelskii-snegopad-paralizoval-dvizhenie-v-moskve)
+
+[![Землетрясение магнитудой 6,8 произошло в Монголии — 27.04.2026 — Срочные новости на РЕН ТВ](https://pin.fontofweb.com/9067?format=jpg)](https://design.withfudge.com/pin/9067)
+[Землетрясение магнитудой 6,8 произошло в Монголии — 27.04.2026 — Срочные новости на РЕН ТВ](https://design.withfudge.com/pin/9067) — [source page](https://ren.tv/news/x/1423415-zemletriasenie-magnitudoi-6-8-proizoshlo-v-mongolii)
+
+[![Каждый четвертый иранский танкер с нефтью прошел через блокаду США в Ормузе — 27.04.2026 — В мире на РЕН ТВ](https://pin.fontofweb.com/9066?format=jpg)](https://design.withfudge.com/pin/9066)
+[Каждый четвертый иранский танкер с нефтью прошел через блокаду США в Ормузе — 27.04.2026 — В мире на РЕН ТВ](https://design.withfudge.com/pin/9066) — [source page](https://ren.tv/news/v-mire/1423422-kazhdyi-chetvertyi-iranskii-tanker-smog-proiti-cherez-liniiu-blokady-ssha)
+
+[![Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://pin.fontofweb.com/9065?format=jpg)](https://design.withfudge.com/pin/9065)
+[Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://design.withfudge.com/pin/9065) — [source page](https://ren.tv/news/kriminal/1423414-dva-diversanta-likvidirovany-pri-popytke-atakovat-npz-v-komi)
+
+[![Иранские Lego‑ролики стали мощным оружием в информационной войне против США — 27.04.2026 — В мире на РЕН ТВ](https://pin.fontofweb.com/9064?format=jpg)](https://design.withfudge.com/pin/9064)
+[Иранские Lego‑ролики стали мощным оружием в информационной войне против США — 27.04.2026 — В мире на РЕН ТВ](https://design.withfudge.com/pin/9064) — [source page](https://ren.tv/news/v-mire/1423392-iranskie-lego-roliki-stali-moshchnym-oruzhiem-v-informatsionnoi-voine-protiv-ssha)
+
+[![Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://pin.fontofweb.com/9063?format=jpg)](https://design.withfudge.com/pin/9063)
+[Два агента Киева хотели устроить взрыв на нефтяном предприятии в Коми — 27.04.2026 — Криминал на РЕН ТВ](https://design.withfudge.com/pin/9063) — [source page](https://ren.tv/news/kriminal/1423414-dva-diversanta-likvidirovany-pri-popytke-atakovat-npz-v-komi)

@@ -6,6 +6,10 @@ Source domain: [dzen.ru](https://dzen.ru)
 
 Last updated: 2026-04-20
 
+<!--
+coverPin: 8996
+-->
+
 Here is the visual system observed across **2 captured pages** from [dzen.ru](https://dzen.ru).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [dzen.ru](ht
 }
 ```
 
-## References
-- [В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/pin/8996) — [source page](https://dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6)
-- [Дзен: последние новости России и мира сегодня](https://design.withfudge.com/pin/8995) — [source page](https://dzen.ru/news)
+## Representative captures
+[![В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/pin/8996)
+[В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/pin/8996) — [source page](https://dzen.ru/news/story/a4f7eeef-eff3-5f27-ae7e-67ae8a18e9b6)
+
+[![Дзен: последние новости России и мира сегодня](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/pin/8995)
+[Дзен: последние новости России и мира сегодня](https://design.withfudge.com/pin/8995) — [source page](https://dzen.ru/news)

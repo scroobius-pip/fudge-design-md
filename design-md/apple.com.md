@@ -6,6 +6,10 @@ Source domain: [apple.com](https://apple.com)
 
 Last updated: 2026-07-01
 
+<!--
+coverPin: 9888
+-->
+
 Here is the visual system observed across **119 captured pages** from [apple.com](https://apple.com).
 
 ```fudge-colors
@@ -330,12 +334,27 @@ Here is the visual system observed across **119 captured pages** from [apple.com
 }
 ```
 
-## References
-- [Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9888) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
-- [Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9887) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
-- [Bag - Apple](https://design.withfudge.com/pin/9886) — [source page](https://apple.com/shop/bag)
-- [Bag - Apple](https://design.withfudge.com/pin/9885) — [source page](https://apple.com/shop/bag)
-- [Buy MacBook Pro - Apple](https://design.withfudge.com/pin/9884) — [source page](https://apple.com/shop/buy-mac/macbook-pro)
-- [Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9883) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
-- [Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9882) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
-- [Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9881) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
+## Representative captures
+[![Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://pin.fontofweb.com/9888?format=jpg)](https://design.withfudge.com/pin/9888)
+[Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9888) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
+
+[![Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://pin.fontofweb.com/9887?format=jpg)](https://design.withfudge.com/pin/9887)
+[Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9887) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
+
+[![Bag - Apple](https://pin.fontofweb.com/9886?format=jpg)](https://design.withfudge.com/pin/9886)
+[Bag - Apple](https://design.withfudge.com/pin/9886) — [source page](https://apple.com/shop/bag)
+
+[![Bag - Apple](https://pin.fontofweb.com/9885?format=jpg)](https://design.withfudge.com/pin/9885)
+[Bag - Apple](https://design.withfudge.com/pin/9885) — [source page](https://apple.com/shop/bag)
+
+[![Buy MacBook Pro - Apple](https://pin.fontofweb.com/9884?format=jpg)](https://design.withfudge.com/pin/9884)
+[Buy MacBook Pro - Apple](https://design.withfudge.com/pin/9884) — [source page](https://apple.com/shop/buy-mac/macbook-pro)
+
+[![Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://pin.fontofweb.com/9883?format=jpg)](https://design.withfudge.com/pin/9883)
+[Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9883) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
+
+[![Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://pin.fontofweb.com/9882?format=jpg)](https://design.withfudge.com/pin/9882)
+[Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9882) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)
+
+[![Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://pin.fontofweb.com/9881?format=jpg)](https://design.withfudge.com/pin/9881)
+[Buy MacBook Pro, 16-inch, M5 Max Chip, 18-core CPU, 40-core GPU, Space Black, Nano-texture display, 48GB memory, 4TB storage - Apple](https://design.withfudge.com/pin/9881) — [source page](https://apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-nano-texture-display-apple-m5-max-chip-18-core-cpu-40-core-gpu-48gb-memory-4tb-storage)

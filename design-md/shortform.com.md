@@ -6,6 +6,10 @@ Source domain: [shortform.com](https://shortform.com)
 
 Last updated: 2026-05-05
 
+<!--
+coverPin: 9189
+-->
+
 Here is the visual system observed across **3 captured pages** from [shortform.com](https://shortform.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [shortform.c
 }
 ```
 
-## References
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9189) — [source page](https://shortform.com/app/onboarding)
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9188) — [source page](https://shortform.com/app/onboarding)
-- [Shortform | Onboarding](https://design.withfudge.com/pin/9187) — [source page](https://shortform.com/app/onboarding)
+## Representative captures
+[![Shortform | Onboarding](https://pin.fontofweb.com/9189?format=jpg)](https://design.withfudge.com/pin/9189)
+[Shortform | Onboarding](https://design.withfudge.com/pin/9189) — [source page](https://shortform.com/app/onboarding)
+
+[![Shortform | Onboarding](https://pin.fontofweb.com/9188?format=jpg)](https://design.withfudge.com/pin/9188)
+[Shortform | Onboarding](https://design.withfudge.com/pin/9188) — [source page](https://shortform.com/app/onboarding)
+
+[![Shortform | Onboarding](https://pin.fontofweb.com/9187?format=jpg)](https://design.withfudge.com/pin/9187)
+[Shortform | Onboarding](https://design.withfudge.com/pin/9187) — [source page](https://shortform.com/app/onboarding)

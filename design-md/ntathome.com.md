@@ -6,6 +6,10 @@ Source domain: [ntathome.com](https://ntathome.com)
 
 Last updated: 2026-04-17
 
+<!--
+coverPin: 8913
+-->
+
 Here is the visual system observed across **3 captured pages** from [ntathome.com](https://ntathome.com).
 
 ```fudge-colors
@@ -127,7 +131,12 @@ Here is the visual system observed across **3 captured pages** from [ntathome.co
 }
 ```
 
-## References
-- [Captured page 8913](https://design.withfudge.com/pin/8913) — [source page](https://ntathome.com/checkout/subscribe/purchase)
-- [National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8912) — [source page](https://ntathome.com/)
-- [Red - National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8911) — [source page](https://ntathome.com/)
+## Representative captures
+[![Captured page 8913](https://pin.fontofweb.com/8913?format=jpg)](https://design.withfudge.com/pin/8913)
+[Captured page 8913](https://design.withfudge.com/pin/8913) — [source page](https://ntathome.com/checkout/subscribe/purchase)
+
+[![National Theatre at Home | Watch Theatre Online](https://pin.fontofweb.com/8912?format=jpg)](https://design.withfudge.com/pin/8912)
+[National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8912) — [source page](https://ntathome.com/)
+
+[![Red - National Theatre at Home | Watch Theatre Online](https://pin.fontofweb.com/8911?format=jpg)](https://design.withfudge.com/pin/8911)
+[Red - National Theatre at Home | Watch Theatre Online](https://design.withfudge.com/pin/8911) — [source page](https://ntathome.com/)

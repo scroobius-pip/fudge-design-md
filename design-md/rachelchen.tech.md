@@ -6,6 +6,10 @@ Source domain: [rachelchen.tech](https://rachelchen.tech)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7303
+-->
+
 Here is the visual system observed across **4 captured pages** from [rachelchen.tech](https://rachelchen.tech).
 
 ```fudge-colors
@@ -192,8 +196,15 @@ Here is the visual system observed across **4 captured pages** from [rachelchen.
 }
 ```
 
-## References
-- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7303) — [source page](https://rachelchen.tech/fun)
-- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7302) — [source page](https://rachelchen.tech/projects/openai)
-- [OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7301) — [source page](https://rachelchen.tech/projects/openai)
-- [Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7300) — [source page](https://rachelchen.tech/)
+## Representative captures
+[![Rachel Chen | Product Designer + Engineer](https://pin.fontofweb.com/7303?format=jpg)](https://design.withfudge.com/pin/7303)
+[Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7303) — [source page](https://rachelchen.tech/fun)
+
+[![OpenAI x Hardware | Rachel Chen](https://pin.fontofweb.com/7302?format=jpg)](https://design.withfudge.com/pin/7302)
+[OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7302) — [source page](https://rachelchen.tech/projects/openai)
+
+[![OpenAI x Hardware | Rachel Chen](https://pin.fontofweb.com/7301?format=jpg)](https://design.withfudge.com/pin/7301)
+[OpenAI x Hardware | Rachel Chen](https://design.withfudge.com/pin/7301) — [source page](https://rachelchen.tech/projects/openai)
+
+[![Rachel Chen | Product Designer + Engineer](https://pin.fontofweb.com/7300?format=jpg)](https://design.withfudge.com/pin/7300)
+[Rachel Chen | Product Designer + Engineer](https://design.withfudge.com/pin/7300) — [source page](https://rachelchen.tech/)

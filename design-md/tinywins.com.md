@@ -6,6 +6,10 @@ Source domain: [tinywins.com](https://tinywins.com)
 
 Last updated: 2026-06-25
 
+<!--
+coverPin: 9782
+-->
+
 Here is the visual system observed across **8 captured pages** from [tinywins.com](https://tinywins.com).
 
 ```fudge-colors
@@ -259,12 +263,27 @@ Here is the visual system observed across **8 captured pages** from [tinywins.co
 }
 ```
 
-## References
-- [Our Approach | TinyWins | TinyWins](https://design.withfudge.com/pin/9782) — [source page](https://tinywins.com/approach)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9781) — [source page](https://tinywins.com/about)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9780) — [source page](https://tinywins.com/about)
-- [About | TinyWins | TinyWins](https://design.withfudge.com/pin/9779) — [source page](https://tinywins.com/about)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9778) — [source page](https://tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9777) — [source page](https://tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9776) — [source page](https://tinywins.com/)
-- [TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9775) — [source page](https://tinywins.com/)
+## Representative captures
+[![Our Approach | TinyWins | TinyWins](https://pin.fontofweb.com/9782?format=jpg)](https://design.withfudge.com/pin/9782)
+[Our Approach | TinyWins | TinyWins](https://design.withfudge.com/pin/9782) — [source page](https://tinywins.com/approach)
+
+[![About | TinyWins | TinyWins](https://pin.fontofweb.com/9781?format=jpg)](https://design.withfudge.com/pin/9781)
+[About | TinyWins | TinyWins](https://design.withfudge.com/pin/9781) — [source page](https://tinywins.com/about)
+
+[![About | TinyWins | TinyWins](https://pin.fontofweb.com/9780?format=jpg)](https://design.withfudge.com/pin/9780)
+[About | TinyWins | TinyWins](https://design.withfudge.com/pin/9780) — [source page](https://tinywins.com/about)
+
+[![About | TinyWins | TinyWins](https://pin.fontofweb.com/9779?format=jpg)](https://design.withfudge.com/pin/9779)
+[About | TinyWins | TinyWins](https://design.withfudge.com/pin/9779) — [source page](https://tinywins.com/about)
+
+[![TinyWins | Emotion-Led Brand & Digital Agency](https://pin.fontofweb.com/9778?format=jpg)](https://design.withfudge.com/pin/9778)
+[TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9778) — [source page](https://tinywins.com/)
+
+[![TinyWins | Emotion-Led Brand & Digital Agency](https://pin.fontofweb.com/9777?format=jpg)](https://design.withfudge.com/pin/9777)
+[TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9777) — [source page](https://tinywins.com/)
+
+[![TinyWins | Emotion-Led Brand & Digital Agency](https://pin.fontofweb.com/9776?format=jpg)](https://design.withfudge.com/pin/9776)
+[TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9776) — [source page](https://tinywins.com/)
+
+[![TinyWins | Emotion-Led Brand & Digital Agency](https://pin.fontofweb.com/9775?format=jpg)](https://design.withfudge.com/pin/9775)
+[TinyWins | Emotion-Led Brand & Digital Agency](https://design.withfudge.com/pin/9775) — [source page](https://tinywins.com/)

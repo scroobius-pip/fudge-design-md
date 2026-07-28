@@ -6,6 +6,10 @@ Source domain: [etched.com](https://etched.com)
 
 Last updated: 2026-06-30
 
+<!--
+coverPin: 9873
+-->
+
 Here is the visual system observed across **8 captured pages** from [etched.com](https://etched.com).
 
 ```fudge-colors
@@ -256,12 +260,27 @@ Here is the visual system observed across **8 captured pages** from [etched.com]
 }
 ```
 
-## References
-- [Join Us | Etched](https://design.withfudge.com/pin/9873) — [source page](https://etched.com/join)
-- [Join Us | Etched](https://design.withfudge.com/pin/9872) — [source page](https://etched.com/join)
-- [Etched](https://design.withfudge.com/pin/9871) — [source page](https://etched.com/)
-- [Etched](https://design.withfudge.com/pin/9870) — [source page](https://etched.com/)
-- [Etched](https://design.withfudge.com/pin/9869) — [source page](https://etched.com/)
-- [Etched](https://design.withfudge.com/pin/9868) — [source page](https://etched.com/)
-- [Etched](https://design.withfudge.com/pin/9867) — [source page](https://etched.com/)
-- [Etched](https://design.withfudge.com/pin/9866) — [source page](https://etched.com/)
+## Representative captures
+[![Join Us | Etched](https://pin.fontofweb.com/9873?format=jpg)](https://design.withfudge.com/pin/9873)
+[Join Us | Etched](https://design.withfudge.com/pin/9873) — [source page](https://etched.com/join)
+
+[![Join Us | Etched](https://pin.fontofweb.com/9872?format=jpg)](https://design.withfudge.com/pin/9872)
+[Join Us | Etched](https://design.withfudge.com/pin/9872) — [source page](https://etched.com/join)
+
+[![Etched](https://pin.fontofweb.com/9871?format=jpg)](https://design.withfudge.com/pin/9871)
+[Etched](https://design.withfudge.com/pin/9871) — [source page](https://etched.com/)
+
+[![Etched](https://pin.fontofweb.com/9870?format=jpg)](https://design.withfudge.com/pin/9870)
+[Etched](https://design.withfudge.com/pin/9870) — [source page](https://etched.com/)
+
+[![Etched](https://pin.fontofweb.com/9869?format=jpg)](https://design.withfudge.com/pin/9869)
+[Etched](https://design.withfudge.com/pin/9869) — [source page](https://etched.com/)
+
+[![Etched](https://pin.fontofweb.com/9868?format=jpg)](https://design.withfudge.com/pin/9868)
+[Etched](https://design.withfudge.com/pin/9868) — [source page](https://etched.com/)
+
+[![Etched](https://pin.fontofweb.com/9867?format=jpg)](https://design.withfudge.com/pin/9867)
+[Etched](https://design.withfudge.com/pin/9867) — [source page](https://etched.com/)
+
+[![Etched](https://pin.fontofweb.com/9866?format=jpg)](https://design.withfudge.com/pin/9866)
+[Etched](https://design.withfudge.com/pin/9866) — [source page](https://etched.com/)

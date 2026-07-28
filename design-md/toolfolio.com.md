@@ -6,6 +6,10 @@ Source domain: [toolfolio.com](https://toolfolio.com)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 10000
+-->
+
 Here is the visual system observed across **4 captured pages** from [toolfolio.com](https://toolfolio.com).
 
 ```fudge-colors
@@ -177,8 +181,15 @@ Here is the visual system observed across **4 captured pages** from [toolfolio.c
 }
 ```
 
-## References
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/10000) — [source page](https://toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9999) — [source page](https://toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9998) — [source page](https://toolfolio.com/boosted-listing)
-- [Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9997) — [source page](https://toolfolio.com/boosted-listing)
+## Representative captures
+[![Toolfolio - All the Tools You Need in One Place](https://pin.fontofweb.com/10000?format=jpg)](https://design.withfudge.com/pin/10000)
+[Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/10000) — [source page](https://toolfolio.com/boosted-listing)
+
+[![Toolfolio - All the Tools You Need in One Place](https://pin.fontofweb.com/9999?format=jpg)](https://design.withfudge.com/pin/9999)
+[Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9999) — [source page](https://toolfolio.com/boosted-listing)
+
+[![Toolfolio - All the Tools You Need in One Place](https://pin.fontofweb.com/9998?format=jpg)](https://design.withfudge.com/pin/9998)
+[Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9998) — [source page](https://toolfolio.com/boosted-listing)
+
+[![Toolfolio - All the Tools You Need in One Place](https://pin.fontofweb.com/9997?format=jpg)](https://design.withfudge.com/pin/9997)
+[Toolfolio - All the Tools You Need in One Place](https://design.withfudge.com/pin/9997) — [source page](https://toolfolio.com/boosted-listing)

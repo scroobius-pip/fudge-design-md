@@ -6,6 +6,10 @@ Source domain: [bfl.ai](https://bfl.ai)
 
 Last updated: 2026-01-30
 
+<!--
+coverPin: 6151
+-->
+
 Here is the visual system observed across **19 captured pages** from [bfl.ai](https://bfl.ai).
 
 ```fudge-colors
@@ -315,12 +319,27 @@ Here is the visual system observed across **19 captured pages** from [bfl.ai](ht
 }
 ```
 
-## References
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6151) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6150) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6149) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6148) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6147) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6146) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6145) — [source page](https://bfl.ai/)
-- [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6144) — [source page](https://bfl.ai/)
+## Representative captures
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6151?format=jpg)](https://design.withfudge.com/pin/6151)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6151) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6150?format=jpg)](https://design.withfudge.com/pin/6150)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6150) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6149?format=jpg)](https://design.withfudge.com/pin/6149)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6149) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6148?format=jpg)](https://design.withfudge.com/pin/6148)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6148) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6147?format=jpg)](https://design.withfudge.com/pin/6147)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6147) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6146?format=jpg)](https://design.withfudge.com/pin/6146)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6146) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6145?format=jpg)](https://design.withfudge.com/pin/6145)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6145) — [source page](https://bfl.ai/)
+
+[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6144?format=jpg)](https://design.withfudge.com/pin/6144)
+[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/pin/6144) — [source page](https://bfl.ai/)

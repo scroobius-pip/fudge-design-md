@@ -6,6 +6,10 @@ Source domain: [jamm.co](https://jamm.co)
 
 Last updated: 2026-02-19
 
+<!--
+coverPin: 6809
+-->
+
 Here is the visual system observed across **7 captured pages** from [jamm.co](https://jamm.co).
 
 ```fudge-colors
@@ -237,11 +241,24 @@ Here is the visual system observed across **7 captured pages** from [jamm.co](ht
 }
 ```
 
-## References
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6809) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6808) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6807) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6806) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6805) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6804) — [source page](https://jamm.co/)
-- [Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6803) — [source page](https://jamm.co/)
+## Representative captures
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6809?format=jpg)](https://design.withfudge.com/pin/6809)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6809) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6808?format=jpg)](https://design.withfudge.com/pin/6808)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6808) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6807?format=jpg)](https://design.withfudge.com/pin/6807)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6807) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6806?format=jpg)](https://design.withfudge.com/pin/6806)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6806) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6805?format=jpg)](https://design.withfudge.com/pin/6805)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6805) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6804?format=jpg)](https://design.withfudge.com/pin/6804)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6804) — [source page](https://jamm.co/)
+
+[![Jamm | Premium Design as a Subscription](https://pin.fontofweb.com/6803?format=jpg)](https://design.withfudge.com/pin/6803)
+[Jamm | Premium Design as a Subscription](https://design.withfudge.com/pin/6803) — [source page](https://jamm.co/)

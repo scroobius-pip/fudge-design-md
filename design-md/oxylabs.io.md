@@ -6,6 +6,10 @@ Source domain: [oxylabs.io](https://oxylabs.io)
 
 Last updated: 2026-06-30
 
+<!--
+coverPin: 9865
+-->
+
 Here is the visual system observed across **2 captured pages** from [oxylabs.io](https://oxylabs.io).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [oxylabs.io]
 }
 ```
 
-## References
-- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9865) — [source page](https://oxylabs.io/)
-- [Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9864) — [source page](https://oxylabs.io/)
+## Representative captures
+[![Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://pin.fontofweb.com/9865?format=jpg)](https://design.withfudge.com/pin/9865)
+[Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9865) — [source page](https://oxylabs.io/)
+
+[![Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://pin.fontofweb.com/9864?format=jpg)](https://design.withfudge.com/pin/9864)
+[Oxylabs - High Quality Proxy Service to Gather Data at Scale](https://design.withfudge.com/pin/9864) — [source page](https://oxylabs.io/)

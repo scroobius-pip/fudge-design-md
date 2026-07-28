@@ -6,6 +6,10 @@ Source domain: [firstpromoter.com](https://firstpromoter.com)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7706
+-->
+
 Here is the visual system observed across **4 captured pages** from [firstpromoter.com](https://firstpromoter.com).
 
 ```fudge-colors
@@ -174,8 +178,15 @@ Here is the visual system observed across **4 captured pages** from [firstpromot
 }
 ```
 
-## References
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7706) — [source page](https://firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7705) — [source page](https://firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7704) — [source page](https://firstpromoter.com/)
-- [FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7703) — [source page](https://firstpromoter.com/)
+## Representative captures
+[![FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://pin.fontofweb.com/7706?format=jpg)](https://design.withfudge.com/pin/7706)
+[FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7706) — [source page](https://firstpromoter.com/)
+
+[![FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://pin.fontofweb.com/7705?format=jpg)](https://design.withfudge.com/pin/7705)
+[FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7705) — [source page](https://firstpromoter.com/)
+
+[![FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://pin.fontofweb.com/7704?format=jpg)](https://design.withfudge.com/pin/7704)
+[FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7704) — [source page](https://firstpromoter.com/)
+
+[![FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://pin.fontofweb.com/7703?format=jpg)](https://design.withfudge.com/pin/7703)
+[FirstPromoter: Affiliate Marketing Software for Subscription Businesses](https://design.withfudge.com/pin/7703) — [source page](https://firstpromoter.com/)

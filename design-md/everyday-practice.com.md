@@ -6,6 +6,10 @@ Source domain: [everyday-practice.com](https://everyday-practice.com)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10374
+-->
+
 Here is the visual system observed across **5 captured pages** from [everyday-practice.com](https://everyday-practice.com).
 
 ```fudge-colors
@@ -199,9 +203,18 @@ Here is the visual system observed across **5 captured pages** from [everyday-pr
 }
 ```
 
-## References
-- [일상의실천](https://design.withfudge.com/pin/10374) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
-- [일상의실천](https://design.withfudge.com/pin/10373) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
-- [일상의실천](https://design.withfudge.com/pin/10372) — [source page](https://everyday-practice.com/)
-- [일상의실천](https://design.withfudge.com/pin/10371) — [source page](https://everyday-practice.com/)
-- [일상의실천](https://design.withfudge.com/pin/10370) — [source page](https://everyday-practice.com/)
+## Representative captures
+[![일상의실천](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/pin/10374)
+[일상의실천](https://design.withfudge.com/pin/10374) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+
+[![일상의실천](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/pin/10373)
+[일상의실천](https://design.withfudge.com/pin/10373) — [source page](https://everyday-practice.com/poseuteo-poster-victionary/)
+
+[![일상의실천](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/pin/10372)
+[일상의실천](https://design.withfudge.com/pin/10372) — [source page](https://everyday-practice.com/)
+
+[![일상의실천](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/pin/10371)
+[일상의실천](https://design.withfudge.com/pin/10371) — [source page](https://everyday-practice.com/)
+
+[![일상의실천](https://pin.fontofweb.com/10370?format=jpg)](https://design.withfudge.com/pin/10370)
+[일상의실천](https://design.withfudge.com/pin/10370) — [source page](https://everyday-practice.com/)

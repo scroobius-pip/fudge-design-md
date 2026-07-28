@@ -6,6 +6,10 @@ Source domain: [claude.ai](https://claude.ai)
 
 Last updated: 2026-06-11
 
+<!--
+coverPin: 9549
+-->
+
 Here is the visual system observed across **42 captured pages** from [claude.ai](https://claude.ai).
 
 ```fudge-colors
@@ -403,12 +407,27 @@ Here is the visual system observed across **42 captured pages** from [claude.ai]
 }
 ```
 
-## References
-- [Sign in - Claude](https://design.withfudge.com/pin/9549) — [source page](https://claude.ai/login)
-- [Sign in - Claude](https://design.withfudge.com/pin/9266) — [source page](https://claude.ai/login)
-- [Axya Design System](https://design.withfudge.com/pin/8942) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8941) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8940) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8939) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8938) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
-- [Axya Design System](https://design.withfudge.com/pin/8937) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+## Representative captures
+[![Sign in - Claude](https://pin.fontofweb.com/9549?format=jpg)](https://design.withfudge.com/pin/9549)
+[Sign in - Claude](https://design.withfudge.com/pin/9549) — [source page](https://claude.ai/login)
+
+[![Sign in - Claude](https://pin.fontofweb.com/9266?format=jpg)](https://design.withfudge.com/pin/9266)
+[Sign in - Claude](https://design.withfudge.com/pin/9266) — [source page](https://claude.ai/login)
+
+[![Axya Design System](https://pin.fontofweb.com/8942?format=jpg)](https://design.withfudge.com/pin/8942)
+[Axya Design System](https://design.withfudge.com/pin/8942) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+
+[![Axya Design System](https://pin.fontofweb.com/8941?format=jpg)](https://design.withfudge.com/pin/8941)
+[Axya Design System](https://design.withfudge.com/pin/8941) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+
+[![Axya Design System](https://pin.fontofweb.com/8940?format=jpg)](https://design.withfudge.com/pin/8940)
+[Axya Design System](https://design.withfudge.com/pin/8940) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+
+[![Axya Design System](https://pin.fontofweb.com/8939?format=jpg)](https://design.withfudge.com/pin/8939)
+[Axya Design System](https://design.withfudge.com/pin/8939) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+
+[![Axya Design System](https://pin.fontofweb.com/8938?format=jpg)](https://design.withfudge.com/pin/8938)
+[Axya Design System](https://design.withfudge.com/pin/8938) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)
+
+[![Axya Design System](https://pin.fontofweb.com/8937?format=jpg)](https://design.withfudge.com/pin/8937)
+[Axya Design System](https://design.withfudge.com/pin/8937) — [source page](https://claude.ai/design/p/c973a449-4b83-4673-ae4f-318658426d8a)

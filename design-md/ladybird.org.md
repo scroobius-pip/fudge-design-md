@@ -6,6 +6,10 @@ Source domain: [ladybird.org](https://ladybird.org)
 
 Last updated: 2026-02-23
 
+<!--
+coverPin: 6980
+-->
+
 Here is the visual system observed across **6 captured pages** from [ladybird.org](https://ladybird.org).
 
 ```fudge-colors
@@ -201,10 +205,21 @@ Here is the visual system observed across **6 captured pages** from [ladybird.or
 }
 ```
 
-## References
-- [Ladybird](https://design.withfudge.com/pin/6980) — [source page](https://ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6979) — [source page](https://ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6978) — [source page](https://ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6977) — [source page](https://ladybird.org/)
-- [Ladybird](https://design.withfudge.com/pin/6976) — [source page](https://ladybird.org/)
-- [Ladybird adopts Rust, with help from AI - Ladybird](https://design.withfudge.com/pin/6975) — [source page](https://ladybird.org/posts/adopting-rust/)
+## Representative captures
+[![Ladybird](https://pin.fontofweb.com/6980?format=jpg)](https://design.withfudge.com/pin/6980)
+[Ladybird](https://design.withfudge.com/pin/6980) — [source page](https://ladybird.org/)
+
+[![Ladybird](https://pin.fontofweb.com/6979?format=jpg)](https://design.withfudge.com/pin/6979)
+[Ladybird](https://design.withfudge.com/pin/6979) — [source page](https://ladybird.org/)
+
+[![Ladybird](https://pin.fontofweb.com/6978?format=jpg)](https://design.withfudge.com/pin/6978)
+[Ladybird](https://design.withfudge.com/pin/6978) — [source page](https://ladybird.org/)
+
+[![Ladybird](https://pin.fontofweb.com/6977?format=jpg)](https://design.withfudge.com/pin/6977)
+[Ladybird](https://design.withfudge.com/pin/6977) — [source page](https://ladybird.org/)
+
+[![Ladybird](https://pin.fontofweb.com/6976?format=jpg)](https://design.withfudge.com/pin/6976)
+[Ladybird](https://design.withfudge.com/pin/6976) — [source page](https://ladybird.org/)
+
+[![Ladybird adopts Rust, with help from AI - Ladybird](https://pin.fontofweb.com/6975?format=jpg)](https://design.withfudge.com/pin/6975)
+[Ladybird adopts Rust, with help from AI - Ladybird](https://design.withfudge.com/pin/6975) — [source page](https://ladybird.org/posts/adopting-rust/)

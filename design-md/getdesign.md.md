@@ -6,6 +6,10 @@ Source domain: [getdesign.md](https://getdesign.md)
 
 Last updated: 2026-06-30
 
+<!--
+coverPin: 9863
+-->
+
 Here is the visual system observed across **3 captured pages** from [getdesign.md](https://getdesign.md).
 
 ```fudge-colors
@@ -168,7 +172,12 @@ Here is the visual system observed across **3 captured pages** from [getdesign.m
 }
 ```
 
-## References
-- [Design System Analysis: Apple](https://design.withfudge.com/pin/9863) — [source page](https://getdesign.md/apple/design-md)
-- [Design System Analysis: Apple](https://design.withfudge.com/pin/9862) — [source page](https://getdesign.md/apple/design-md)
-- [getdesign.md — DESIGN.md collection for AI coding agents](https://design.withfudge.com/pin/9861) — [source page](https://getdesign.md/)
+## Representative captures
+[![Design System Analysis: Apple](https://pin.fontofweb.com/9863?format=jpg)](https://design.withfudge.com/pin/9863)
+[Design System Analysis: Apple](https://design.withfudge.com/pin/9863) — [source page](https://getdesign.md/apple/design-md)
+
+[![Design System Analysis: Apple](https://pin.fontofweb.com/9862?format=jpg)](https://design.withfudge.com/pin/9862)
+[Design System Analysis: Apple](https://design.withfudge.com/pin/9862) — [source page](https://getdesign.md/apple/design-md)
+
+[![getdesign.md — DESIGN.md collection for AI coding agents](https://pin.fontofweb.com/9861?format=jpg)](https://design.withfudge.com/pin/9861)
+[getdesign.md — DESIGN.md collection for AI coding agents](https://design.withfudge.com/pin/9861) — [source page](https://getdesign.md/)

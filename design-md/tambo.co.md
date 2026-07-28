@@ -6,6 +6,10 @@ Source domain: [tambo.co](https://tambo.co)
 
 Last updated: 2026-02-18
 
+<!--
+coverPin: 6691
+-->
+
 Here is the visual system observed across **12 captured pages** from [tambo.co](https://tambo.co).
 
 ```fudge-colors
@@ -368,12 +372,27 @@ Here is the visual system observed across **12 captured pages** from [tambo.co](
 }
 ```
 
-## References
-- [Tambo](https://design.withfudge.com/pin/6691) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6690) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6689) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6688) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6687) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6686) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6685) — [source page](https://tambo.co/)
-- [Tambo](https://design.withfudge.com/pin/6684) — [source page](https://tambo.co/)
+## Representative captures
+[![Tambo](https://pin.fontofweb.com/6691?format=jpg)](https://design.withfudge.com/pin/6691)
+[Tambo](https://design.withfudge.com/pin/6691) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6690?format=jpg)](https://design.withfudge.com/pin/6690)
+[Tambo](https://design.withfudge.com/pin/6690) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6689?format=jpg)](https://design.withfudge.com/pin/6689)
+[Tambo](https://design.withfudge.com/pin/6689) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6688?format=jpg)](https://design.withfudge.com/pin/6688)
+[Tambo](https://design.withfudge.com/pin/6688) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6687?format=jpg)](https://design.withfudge.com/pin/6687)
+[Tambo](https://design.withfudge.com/pin/6687) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6686?format=jpg)](https://design.withfudge.com/pin/6686)
+[Tambo](https://design.withfudge.com/pin/6686) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6685?format=jpg)](https://design.withfudge.com/pin/6685)
+[Tambo](https://design.withfudge.com/pin/6685) — [source page](https://tambo.co/)
+
+[![Tambo](https://pin.fontofweb.com/6684?format=jpg)](https://design.withfudge.com/pin/6684)
+[Tambo](https://design.withfudge.com/pin/6684) — [source page](https://tambo.co/)

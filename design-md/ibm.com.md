@@ -6,6 +6,10 @@ Source domain: [ibm.com](https://ibm.com)
 
 Last updated: 2026-02-15
 
+<!--
+coverPin: 6555
+-->
+
 Here is the visual system observed across **33 captured pages** from [ibm.com](https://ibm.com).
 
 ```fudge-colors
@@ -314,12 +318,27 @@ Here is the visual system observed across **33 captured pages** from [ibm.com](h
 }
 ```
 
-## References
-- [Services from IBM](https://design.withfudge.com/pin/6555) — [source page](https://ibm.com/services)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6554) — [source page](https://ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6553) — [source page](https://ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6552) — [source page](https://ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6551) — [source page](https://ibm.com/consulting)
-- [Business Consulting Services | IBM](https://design.withfudge.com/pin/6550) — [source page](https://ibm.com/consulting)
-- [IBM](https://design.withfudge.com/pin/6549) — [source page](https://ibm.com/us-en)
-- [IBM](https://design.withfudge.com/pin/6548) — [source page](https://ibm.com/us-en)
+## Representative captures
+[![Services from IBM](https://pin.fontofweb.com/6555?format=jpg)](https://design.withfudge.com/pin/6555)
+[Services from IBM](https://design.withfudge.com/pin/6555) — [source page](https://ibm.com/services)
+
+[![Business Consulting Services | IBM](https://pin.fontofweb.com/6554?format=jpg)](https://design.withfudge.com/pin/6554)
+[Business Consulting Services | IBM](https://design.withfudge.com/pin/6554) — [source page](https://ibm.com/consulting)
+
+[![Business Consulting Services | IBM](https://pin.fontofweb.com/6553?format=jpg)](https://design.withfudge.com/pin/6553)
+[Business Consulting Services | IBM](https://design.withfudge.com/pin/6553) — [source page](https://ibm.com/consulting)
+
+[![Business Consulting Services | IBM](https://pin.fontofweb.com/6552?format=jpg)](https://design.withfudge.com/pin/6552)
+[Business Consulting Services | IBM](https://design.withfudge.com/pin/6552) — [source page](https://ibm.com/consulting)
+
+[![Business Consulting Services | IBM](https://pin.fontofweb.com/6551?format=jpg)](https://design.withfudge.com/pin/6551)
+[Business Consulting Services | IBM](https://design.withfudge.com/pin/6551) — [source page](https://ibm.com/consulting)
+
+[![Business Consulting Services | IBM](https://pin.fontofweb.com/6550?format=jpg)](https://design.withfudge.com/pin/6550)
+[Business Consulting Services | IBM](https://design.withfudge.com/pin/6550) — [source page](https://ibm.com/consulting)
+
+[![IBM](https://pin.fontofweb.com/6549?format=jpg)](https://design.withfudge.com/pin/6549)
+[IBM](https://design.withfudge.com/pin/6549) — [source page](https://ibm.com/us-en)
+
+[![IBM](https://pin.fontofweb.com/6548?format=jpg)](https://design.withfudge.com/pin/6548)
+[IBM](https://design.withfudge.com/pin/6548) — [source page](https://ibm.com/us-en)

@@ -6,6 +6,10 @@ Source domain: [nga.gov](https://nga.gov)
 
 Last updated: 2026-05-14
 
+<!--
+coverPin: 9275
+-->
+
 Here is the visual system observed across **9 captured pages** from [nga.gov](https://nga.gov).
 
 ```fudge-colors
@@ -264,12 +268,27 @@ Here is the visual system observed across **9 captured pages** from [nga.gov](ht
 }
 ```
 
-## References
-- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9275) — [source page](https://nga.gov/about-us)
-- [About Us | National Gallery of Art](https://design.withfudge.com/pin/9274) — [source page](https://nga.gov/about-us)
-- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9273) — [source page](https://nga.gov/visit/visiting-kids)
-- [Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9272) — [source page](https://nga.gov/visit/visiting-kids)
-- [National Gallery of Art](https://design.withfudge.com/pin/9271) — [source page](https://nga.gov/)
-- [National Gallery of Art](https://design.withfudge.com/pin/9270) — [source page](https://nga.gov/)
-- [National Gallery of Art](https://design.withfudge.com/pin/9269) — [source page](https://nga.gov/)
-- [The Art of Looking: Ambrogio de Predis, Bianca Maria Sforza | National Gallery of Art](https://design.withfudge.com/pin/9268) — [source page](https://nga.gov/calendar/art-looking-ambrogio-de-predis-bianca-maria-sforza)
+## Representative captures
+[![About Us | National Gallery of Art](https://pin.fontofweb.com/9275?format=jpg)](https://design.withfudge.com/pin/9275)
+[About Us | National Gallery of Art](https://design.withfudge.com/pin/9275) — [source page](https://nga.gov/about-us)
+
+[![About Us | National Gallery of Art](https://pin.fontofweb.com/9274?format=jpg)](https://design.withfudge.com/pin/9274)
+[About Us | National Gallery of Art](https://design.withfudge.com/pin/9274) — [source page](https://nga.gov/about-us)
+
+[![Visiting with Kids | National Gallery of Art](https://pin.fontofweb.com/9273?format=jpg)](https://design.withfudge.com/pin/9273)
+[Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9273) — [source page](https://nga.gov/visit/visiting-kids)
+
+[![Visiting with Kids | National Gallery of Art](https://pin.fontofweb.com/9272?format=jpg)](https://design.withfudge.com/pin/9272)
+[Visiting with Kids | National Gallery of Art](https://design.withfudge.com/pin/9272) — [source page](https://nga.gov/visit/visiting-kids)
+
+[![National Gallery of Art](https://pin.fontofweb.com/9271?format=jpg)](https://design.withfudge.com/pin/9271)
+[National Gallery of Art](https://design.withfudge.com/pin/9271) — [source page](https://nga.gov/)
+
+[![National Gallery of Art](https://pin.fontofweb.com/9270?format=jpg)](https://design.withfudge.com/pin/9270)
+[National Gallery of Art](https://design.withfudge.com/pin/9270) — [source page](https://nga.gov/)
+
+[![National Gallery of Art](https://pin.fontofweb.com/9269?format=jpg)](https://design.withfudge.com/pin/9269)
+[National Gallery of Art](https://design.withfudge.com/pin/9269) — [source page](https://nga.gov/)
+
+[![The Art of Looking: Ambrogio de Predis, Bianca Maria Sforza | National Gallery of Art](https://pin.fontofweb.com/9268?format=jpg)](https://design.withfudge.com/pin/9268)
+[The Art of Looking: Ambrogio de Predis, Bianca Maria Sforza | National Gallery of Art](https://design.withfudge.com/pin/9268) — [source page](https://nga.gov/calendar/art-looking-ambrogio-de-predis-bianca-maria-sforza)

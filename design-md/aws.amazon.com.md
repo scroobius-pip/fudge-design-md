@@ -6,6 +6,10 @@ Source domain: [aws.amazon.com](https://aws.amazon.com)
 
 Last updated: 2026-03-02
 
+<!--
+coverPin: 7600
+-->
+
 Here is the visual system observed across **1 captured page** from [aws.amazon.com](https://aws.amazon.com).
 
 ```fudge-colors
@@ -97,5 +101,6 @@ Here is the visual system observed across **1 captured page** from [aws.amazon.c
 }
 ```
 
-## References
-- [Free Cloud Computing Services - AWS Free Tier](https://design.withfudge.com/pin/7600) — [source page](https://aws.amazon.com/free/)
+## Representative captures
+[![Free Cloud Computing Services - AWS Free Tier](https://pin.fontofweb.com/7600?format=jpg)](https://design.withfudge.com/pin/7600)
+[Free Cloud Computing Services - AWS Free Tier](https://design.withfudge.com/pin/7600) — [source page](https://aws.amazon.com/free/)

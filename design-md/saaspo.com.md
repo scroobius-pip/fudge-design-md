@@ -6,6 +6,10 @@ Source domain: [saaspo.com](https://saaspo.com)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7093
+-->
+
 Here is the visual system observed across **5 captured pages** from [saaspo.com](https://saaspo.com).
 
 ```fudge-colors
@@ -181,9 +185,18 @@ Here is the visual system observed across **5 captured pages** from [saaspo.com]
 }
 ```
 
-## References
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7093) — [source page](https://saaspo.com/)
-- [Saaspo | Flint Landing Page](https://design.withfudge.com/pin/7087) — [source page](https://saaspo.com/pages/flint-landing-page-v2)
-- [Advertise on Saaspo | Saaspo](https://design.withfudge.com/pin/7086) — [source page](https://saaspo.com/advertise)
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7085) — [source page](https://saaspo.com/)
-- [The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7084) — [source page](https://saaspo.com/)
+## Representative captures
+[![The best SaaS Web Design Inspiration | Saaspo](https://pin.fontofweb.com/7093?format=jpg)](https://design.withfudge.com/pin/7093)
+[The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7093) — [source page](https://saaspo.com/)
+
+[![Saaspo | Flint Landing Page](https://pin.fontofweb.com/7087?format=jpg)](https://design.withfudge.com/pin/7087)
+[Saaspo | Flint Landing Page](https://design.withfudge.com/pin/7087) — [source page](https://saaspo.com/pages/flint-landing-page-v2)
+
+[![Advertise on Saaspo | Saaspo](https://pin.fontofweb.com/7086?format=jpg)](https://design.withfudge.com/pin/7086)
+[Advertise on Saaspo | Saaspo](https://design.withfudge.com/pin/7086) — [source page](https://saaspo.com/advertise)
+
+[![The best SaaS Web Design Inspiration | Saaspo](https://pin.fontofweb.com/7085?format=jpg)](https://design.withfudge.com/pin/7085)
+[The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7085) — [source page](https://saaspo.com/)
+
+[![The best SaaS Web Design Inspiration | Saaspo](https://pin.fontofweb.com/7084?format=jpg)](https://design.withfudge.com/pin/7084)
+[The best SaaS Web Design Inspiration | Saaspo](https://design.withfudge.com/pin/7084) — [source page](https://saaspo.com/)

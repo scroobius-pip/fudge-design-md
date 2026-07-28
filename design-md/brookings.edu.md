@@ -6,6 +6,10 @@ Source domain: [brookings.edu](https://brookings.edu)
 
 Last updated: 2026-06-11
 
+<!--
+coverPin: 9557
+-->
+
 Here is the visual system observed across **7 captured pages** from [brookings.edu](https://brookings.edu).
 
 ```fudge-colors
@@ -225,11 +229,24 @@ Here is the visual system observed across **7 captured pages** from [brookings.e
 }
 ```
 
-## References
-- [Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9557) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
-- [Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9556) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
-- [Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9555) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
-- [Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9554) — [source page](https://brookings.edu/)
-- [Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9553) — [source page](https://brookings.edu/)
-- [Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9552) — [source page](https://brookings.edu/)
-- [Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9551) — [source page](https://brookings.edu/)
+## Representative captures
+[![Why China is winning in tech—and what the US is overlooking | Brookings](https://pin.fontofweb.com/9557?format=jpg)](https://design.withfudge.com/pin/9557)
+[Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9557) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
+
+[![Why China is winning in tech—and what the US is overlooking | Brookings](https://pin.fontofweb.com/9556?format=jpg)](https://design.withfudge.com/pin/9556)
+[Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9556) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
+
+[![Why China is winning in tech—and what the US is overlooking | Brookings](https://pin.fontofweb.com/9555?format=jpg)](https://design.withfudge.com/pin/9555)
+[Why China is winning in tech—and what the US is overlooking | Brookings](https://design.withfudge.com/pin/9555) — [source page](https://brookings.edu/articles/why-china-is-winning-in-tech-and-what-the-us-is-overlooking/)
+
+[![Brookings - Quality. Independence. Impact.](https://pin.fontofweb.com/9554?format=jpg)](https://design.withfudge.com/pin/9554)
+[Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9554) — [source page](https://brookings.edu/)
+
+[![Brookings - Quality. Independence. Impact.](https://pin.fontofweb.com/9553?format=jpg)](https://design.withfudge.com/pin/9553)
+[Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9553) — [source page](https://brookings.edu/)
+
+[![Brookings - Quality. Independence. Impact.](https://pin.fontofweb.com/9552?format=jpg)](https://design.withfudge.com/pin/9552)
+[Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9552) — [source page](https://brookings.edu/)
+
+[![Brookings - Quality. Independence. Impact.](https://pin.fontofweb.com/9551?format=jpg)](https://design.withfudge.com/pin/9551)
+[Brookings - Quality. Independence. Impact.](https://design.withfudge.com/pin/9551) — [source page](https://brookings.edu/)

@@ -6,6 +6,10 @@ Source domain: [percival.ink](https://percival.ink)
 
 Last updated: 2026-01-28
 
+<!--
+coverPin: 6093
+-->
+
 Here is the visual system observed across **2 captured pages** from [percival.ink](https://percival.ink).
 
 ```fudge-colors
@@ -107,6 +111,9 @@ Here is the visual system observed across **2 captured pages** from [percival.in
 }
 ```
 
-## References
-- [Percival](https://design.withfudge.com/pin/6093) — [source page](https://percival.ink/)
-- [Percival](https://design.withfudge.com/pin/6092) — [source page](https://percival.ink/)
+## Representative captures
+[![Percival](https://pin.fontofweb.com/6093?format=jpg)](https://design.withfudge.com/pin/6093)
+[Percival](https://design.withfudge.com/pin/6093) — [source page](https://percival.ink/)
+
+[![Percival](https://pin.fontofweb.com/6092?format=jpg)](https://design.withfudge.com/pin/6092)
+[Percival](https://design.withfudge.com/pin/6092) — [source page](https://percival.ink/)

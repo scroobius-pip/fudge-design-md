@@ -6,6 +6,10 @@ Source domain: [polar.sh](https://polar.sh)
 
 Last updated: 2026-06-27
 
+<!--
+coverPin: 9828
+-->
+
 Here is the visual system observed across **33 captured pages** from [polar.sh](https://polar.sh).
 
 ```fudge-colors
@@ -341,12 +345,27 @@ Here is the visual system observed across **33 captured pages** from [polar.sh](
 }
 ```
 
-## References
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9828) — [source page](https://polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9827) — [source page](https://polar.sh/)
-- [Pricing | Polar](https://design.withfudge.com/pin/9826) — [source page](https://polar.sh/resources/pricing)
-- [Pricing | Polar](https://design.withfudge.com/pin/9825) — [source page](https://polar.sh/resources/pricing)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9824) — [source page](https://polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9823) — [source page](https://polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9822) — [source page](https://polar.sh/)
-- [Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9821) — [source page](https://polar.sh/)
+## Representative captures
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9828?format=jpg)](https://design.withfudge.com/pin/9828)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9828) — [source page](https://polar.sh/)
+
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9827?format=jpg)](https://design.withfudge.com/pin/9827)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9827) — [source page](https://polar.sh/)
+
+[![Pricing | Polar](https://pin.fontofweb.com/9826?format=jpg)](https://design.withfudge.com/pin/9826)
+[Pricing | Polar](https://design.withfudge.com/pin/9826) — [source page](https://polar.sh/resources/pricing)
+
+[![Pricing | Polar](https://pin.fontofweb.com/9825?format=jpg)](https://design.withfudge.com/pin/9825)
+[Pricing | Polar](https://design.withfudge.com/pin/9825) — [source page](https://polar.sh/resources/pricing)
+
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9824?format=jpg)](https://design.withfudge.com/pin/9824)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9824) — [source page](https://polar.sh/)
+
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9823?format=jpg)](https://design.withfudge.com/pin/9823)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9823) — [source page](https://polar.sh/)
+
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9822?format=jpg)](https://design.withfudge.com/pin/9822)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9822) — [source page](https://polar.sh/)
+
+[![Polar — A billing platform for the intelligence era | Polar](https://pin.fontofweb.com/9821?format=jpg)](https://design.withfudge.com/pin/9821)
+[Polar — A billing platform for the intelligence era | Polar](https://design.withfudge.com/pin/9821) — [source page](https://polar.sh/)

@@ -6,6 +6,10 @@ Source domain: [studiofnt.com](https://studiofnt.com)
 
 Last updated: 2026-07-19
 
+<!--
+coverPin: 10399
+-->
+
 Here is the visual system observed across **9 captured pages** from [studiofnt.com](https://studiofnt.com).
 
 ```fudge-colors
@@ -288,12 +292,27 @@ Here is the visual system observed across **9 captured pages** from [studiofnt.c
 }
 ```
 
-## References
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10399) — [source page](https://studiofnt.com/Naver-Blog)
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10398) — [source page](https://studiofnt.com/Naver-Blog)
-- [Naver Blog - studio fnt](https://design.withfudge.com/pin/10397) — [source page](https://studiofnt.com/Naver-Blog)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10396) — [source page](https://studiofnt.com/WISDOM-HOUSE)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10395) — [source page](https://studiofnt.com/WISDOM-HOUSE)
-- [WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10394) — [source page](https://studiofnt.com/WISDOM-HOUSE)
-- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10290) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
-- [Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10289) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
+## Representative captures
+[![Naver Blog - studio fnt](https://pin.fontofweb.com/10399?format=jpg)](https://design.withfudge.com/pin/10399)
+[Naver Blog - studio fnt](https://design.withfudge.com/pin/10399) — [source page](https://studiofnt.com/Naver-Blog)
+
+[![Naver Blog - studio fnt](https://pin.fontofweb.com/10398?format=jpg)](https://design.withfudge.com/pin/10398)
+[Naver Blog - studio fnt](https://design.withfudge.com/pin/10398) — [source page](https://studiofnt.com/Naver-Blog)
+
+[![Naver Blog - studio fnt](https://pin.fontofweb.com/10397?format=jpg)](https://design.withfudge.com/pin/10397)
+[Naver Blog - studio fnt](https://design.withfudge.com/pin/10397) — [source page](https://studiofnt.com/Naver-Blog)
+
+[![WISDOM HOUSE - studio fnt](https://pin.fontofweb.com/10396?format=jpg)](https://design.withfudge.com/pin/10396)
+[WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10396) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+
+[![WISDOM HOUSE - studio fnt](https://pin.fontofweb.com/10395?format=jpg)](https://design.withfudge.com/pin/10395)
+[WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10395) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+
+[![WISDOM HOUSE - studio fnt](https://pin.fontofweb.com/10394?format=jpg)](https://design.withfudge.com/pin/10394)
+[WISDOM HOUSE - studio fnt](https://design.withfudge.com/pin/10394) — [source page](https://studiofnt.com/WISDOM-HOUSE)
+
+[![Kakaopay Insurance Onboarding Kit - studio fnt](https://pin.fontofweb.com/10290?format=jpg)](https://design.withfudge.com/pin/10290)
+[Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10290) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)
+
+[![Kakaopay Insurance Onboarding Kit - studio fnt](https://pin.fontofweb.com/10289?format=jpg)](https://design.withfudge.com/pin/10289)
+[Kakaopay Insurance Onboarding Kit - studio fnt](https://design.withfudge.com/pin/10289) — [source page](https://studiofnt.com/Kakaopay-Insurance-Onboarding-Kit)

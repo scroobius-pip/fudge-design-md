@@ -6,6 +6,10 @@ Source domain: [app.fireworks.ai](https://app.fireworks.ai)
 
 Last updated: 2026-03-29
 
+<!--
+coverPin: 8503
+-->
+
 Here is the visual system observed across **1 captured page** from [app.fireworks.ai](https://app.fireworks.ai).
 
 ```fudge-colors
@@ -84,5 +88,6 @@ Here is the visual system observed across **1 captured page** from [app.firework
 }
 ```
 
-## References
-- [Log In - Fireworks AI](https://design.withfudge.com/pin/8503) — [source page](https://app.fireworks.ai/login)
+## Representative captures
+[![Log In - Fireworks AI](https://pin.fontofweb.com/8503?format=jpg)](https://design.withfudge.com/pin/8503)
+[Log In - Fireworks AI](https://design.withfudge.com/pin/8503) — [source page](https://app.fireworks.ai/login)

@@ -6,6 +6,10 @@ Source domain: [vendors.paddle.com](https://vendors.paddle.com)
 
 Last updated: 2026-02-25
 
+<!--
+coverPin: 7187
+-->
+
 Here is the visual system observed across **9 captured pages** from [vendors.paddle.com](https://vendors.paddle.com).
 
 ```fudge-colors
@@ -273,12 +277,27 @@ Here is the visual system observed across **9 captured pages** from [vendors.pad
 }
 ```
 
-## References
-- [Paddle Dashboard](https://design.withfudge.com/pin/7187) — [source page](https://vendors.paddle.com/overview/subscriptions)
-- [Paddle Dashboard](https://design.withfudge.com/pin/7186) — [source page](https://vendors.paddle.com/overview/subscriptions)
-- [Overview](https://design.withfudge.com/pin/6757) — [source page](https://vendors.paddle.com/invoicing-v2)
-- [Overview](https://design.withfudge.com/pin/6756) — [source page](https://vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6755) — [source page](https://vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6754) — [source page](https://vendors.paddle.com/onboarding/get-started)
-- [Overview](https://design.withfudge.com/pin/6753) — [source page](https://vendors.paddle.com/overview)
-- [Overview](https://design.withfudge.com/pin/6752) — [source page](https://vendors.paddle.com/overview)
+## Representative captures
+[![Paddle Dashboard](https://pin.fontofweb.com/7187?format=jpg)](https://design.withfudge.com/pin/7187)
+[Paddle Dashboard](https://design.withfudge.com/pin/7187) — [source page](https://vendors.paddle.com/overview/subscriptions)
+
+[![Paddle Dashboard](https://pin.fontofweb.com/7186?format=jpg)](https://design.withfudge.com/pin/7186)
+[Paddle Dashboard](https://design.withfudge.com/pin/7186) — [source page](https://vendors.paddle.com/overview/subscriptions)
+
+[![Overview](https://pin.fontofweb.com/6757?format=jpg)](https://design.withfudge.com/pin/6757)
+[Overview](https://design.withfudge.com/pin/6757) — [source page](https://vendors.paddle.com/invoicing-v2)
+
+[![Overview](https://pin.fontofweb.com/6756?format=jpg)](https://design.withfudge.com/pin/6756)
+[Overview](https://design.withfudge.com/pin/6756) — [source page](https://vendors.paddle.com/onboarding/get-started)
+
+[![Overview](https://pin.fontofweb.com/6755?format=jpg)](https://design.withfudge.com/pin/6755)
+[Overview](https://design.withfudge.com/pin/6755) — [source page](https://vendors.paddle.com/onboarding/get-started)
+
+[![Overview](https://pin.fontofweb.com/6754?format=jpg)](https://design.withfudge.com/pin/6754)
+[Overview](https://design.withfudge.com/pin/6754) — [source page](https://vendors.paddle.com/onboarding/get-started)
+
+[![Overview](https://pin.fontofweb.com/6753?format=jpg)](https://design.withfudge.com/pin/6753)
+[Overview](https://design.withfudge.com/pin/6753) — [source page](https://vendors.paddle.com/overview)
+
+[![Overview](https://pin.fontofweb.com/6752?format=jpg)](https://design.withfudge.com/pin/6752)
+[Overview](https://design.withfudge.com/pin/6752) — [source page](https://vendors.paddle.com/overview)

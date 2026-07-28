@@ -6,6 +6,10 @@ Source domain: [www2.hm.com](https://www2.hm.com)
 
 Last updated: 2026-03-11
 
+<!--
+coverPin: 7952
+-->
+
 Here is the visual system observed across **9 captured pages** from [www2.hm.com](https://www2.hm.com).
 
 ```fudge-colors
@@ -271,12 +275,27 @@ Here is the visual system observed across **9 captured pages** from [www2.hm.com
 }
 ```
 
-## References
-- [Men's Graphic Tees | Long & Short Sleeve T-Shirts | H&M US](https://design.withfudge.com/pin/7952) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops/graphic-printed-t-shirts.html)
-- [Men's T-Shirts & Tops | Polo Shirts, Tanks & Graphics | H&M US](https://design.withfudge.com/pin/7951) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops.html)
-- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7950) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
-- [The perfect T-shirt | H&M](https://design.withfudge.com/pin/7949) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
-- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7948) — [source page](https://www2.hm.com/en_us/men.html)
-- [Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7947) — [source page](https://www2.hm.com/en_us/men.html)
-- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7944) — [source page](https://www2.hm.com/en_us/index.html)
-- [H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7943) — [source page](https://www2.hm.com/en_us/index.html)
+## Representative captures
+[![Men's Graphic Tees | Long & Short Sleeve T-Shirts | H&M US](https://pin.fontofweb.com/7952?format=jpg)](https://design.withfudge.com/pin/7952)
+[Men's Graphic Tees | Long & Short Sleeve T-Shirts | H&M US](https://design.withfudge.com/pin/7952) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops/graphic-printed-t-shirts.html)
+
+[![Men's T-Shirts & Tops | Polo Shirts, Tanks & Graphics | H&M US](https://pin.fontofweb.com/7951?format=jpg)](https://design.withfudge.com/pin/7951)
+[Men's T-Shirts & Tops | Polo Shirts, Tanks & Graphics | H&M US](https://design.withfudge.com/pin/7951) — [source page](https://www2.hm.com/en_us/men/products/t-shirts-tank-tops.html)
+
+[![The perfect T-shirt | H&M](https://pin.fontofweb.com/7950?format=jpg)](https://design.withfudge.com/pin/7950)
+[The perfect T-shirt | H&M](https://design.withfudge.com/pin/7950) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
+
+[![The perfect T-shirt | H&M](https://pin.fontofweb.com/7949?format=jpg)](https://design.withfudge.com/pin/7949)
+[The perfect T-shirt | H&M](https://design.withfudge.com/pin/7949) — [source page](https://www2.hm.com/en_us/men/campaigns/mf15262p01-the-perfect-t-shirt.html)
+
+[![Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://pin.fontofweb.com/7948?format=jpg)](https://design.withfudge.com/pin/7948)
+[Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7948) — [source page](https://www2.hm.com/en_us/men.html)
+
+[![Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://pin.fontofweb.com/7947?format=jpg)](https://design.withfudge.com/pin/7947)
+[Men's Clothing | Men's Fashion | Men's Clothes | H&M US](https://design.withfudge.com/pin/7947) — [source page](https://www2.hm.com/en_us/men.html)
+
+[![H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://pin.fontofweb.com/7944?format=jpg)](https://design.withfudge.com/pin/7944)
+[H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7944) — [source page](https://www2.hm.com/en_us/index.html)
+
+[![H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://pin.fontofweb.com/7943?format=jpg)](https://design.withfudge.com/pin/7943)
+[H&M | Online Fashion, Homeware & Kids Clothes | H&M US](https://design.withfudge.com/pin/7943) — [source page](https://www2.hm.com/en_us/index.html)

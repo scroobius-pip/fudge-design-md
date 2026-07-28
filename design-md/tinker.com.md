@@ -6,6 +6,10 @@ Source domain: [tinker.com](https://tinker.com)
 
 Last updated: 2026-03-31
 
+<!--
+coverPin: 8576
+-->
+
 Here is the visual system observed across **7 captured pages** from [tinker.com](https://tinker.com).
 
 ```fudge-colors
@@ -207,11 +211,24 @@ Here is the visual system observed across **7 captured pages** from [tinker.com]
 }
 ```
 
-## References
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8576) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8575) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8574) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8573) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8572) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8571) — [source page](https://tinker.com/ng)
-- [Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8570) — [source page](https://tinker.com/ng)
+## Representative captures
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8576?format=jpg)](https://design.withfudge.com/pin/8576)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8576) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8575?format=jpg)](https://design.withfudge.com/pin/8575)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8575) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8574?format=jpg)](https://design.withfudge.com/pin/8574)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8574) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8573?format=jpg)](https://design.withfudge.com/pin/8573)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8573) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8572?format=jpg)](https://design.withfudge.com/pin/8572)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8572) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8571?format=jpg)](https://design.withfudge.com/pin/8571)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8571) — [source page](https://tinker.com/ng)
+
+[![Tinker — free AI creative tools by Shopify](https://pin.fontofweb.com/8570?format=jpg)](https://design.withfudge.com/pin/8570)
+[Tinker — free AI creative tools by Shopify](https://design.withfudge.com/pin/8570) — [source page](https://tinker.com/ng)

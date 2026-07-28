@@ -6,6 +6,10 @@ Source domain: [pageloop.ai](https://pageloop.ai)
 
 Last updated: 2026-02-24
 
+<!--
+coverPin: 7083
+-->
+
 Here is the visual system observed across **7 captured pages** from [pageloop.ai](https://pageloop.ai).
 
 ```fudge-colors
@@ -254,11 +258,24 @@ Here is the visual system observed across **7 captured pages** from [pageloop.ai
 }
 ```
 
-## References
-- [Pageloop | Blog](https://design.withfudge.com/pin/7083) — [source page](https://pageloop.ai/blog)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7082) — [source page](https://pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7081) — [source page](https://pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7080) — [source page](https://pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7079) — [source page](https://pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7078) — [source page](https://pageloop.ai/)
-- [Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7077) — [source page](https://pageloop.ai/)
+## Representative captures
+[![Pageloop | Blog](https://pin.fontofweb.com/7083?format=jpg)](https://design.withfudge.com/pin/7083)
+[Pageloop | Blog](https://design.withfudge.com/pin/7083) — [source page](https://pageloop.ai/blog)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7082?format=jpg)](https://design.withfudge.com/pin/7082)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7082) — [source page](https://pageloop.ai/)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7081?format=jpg)](https://design.withfudge.com/pin/7081)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7081) — [source page](https://pageloop.ai/)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7080?format=jpg)](https://design.withfudge.com/pin/7080)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7080) — [source page](https://pageloop.ai/)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7079?format=jpg)](https://design.withfudge.com/pin/7079)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7079) — [source page](https://pageloop.ai/)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7078?format=jpg)](https://design.withfudge.com/pin/7078)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7078) — [source page](https://pageloop.ai/)
+
+[![Pageloop | AI Agents for Help Center Ops](https://pin.fontofweb.com/7077?format=jpg)](https://design.withfudge.com/pin/7077)
+[Pageloop | AI Agents for Help Center Ops](https://design.withfudge.com/pin/7077) — [source page](https://pageloop.ai/)

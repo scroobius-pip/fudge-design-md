@@ -6,6 +6,10 @@ Source domain: [of.domains](https://of.domains)
 
 Last updated: 2026-03-25
 
+<!--
+coverPin: 8356
+-->
+
 Here is the visual system observed across **6 captured pages** from [of.domains](https://of.domains).
 
 ```fudge-colors
@@ -211,10 +215,21 @@ Here is the visual system observed across **6 captured pages** from [of.domains]
 }
 ```
 
-## References
-- [Captured page 8356](https://design.withfudge.com/pin/8356) — [source page](https://of.domains/)
-- [Captured page 8355](https://design.withfudge.com/pin/8355) — [source page](https://of.domains/)
-- [Captured page 8354](https://design.withfudge.com/pin/8354) — [source page](https://of.domains/)
-- [Captured page 8353](https://design.withfudge.com/pin/8353) — [source page](https://of.domains/)
-- [Captured page 8352](https://design.withfudge.com/pin/8352) — [source page](https://of.domains/)
-- [Captured page 8351](https://design.withfudge.com/pin/8351) — [source page](https://of.domains/)
+## Representative captures
+[![Captured page 8356](https://pin.fontofweb.com/8356?format=jpg)](https://design.withfudge.com/pin/8356)
+[Captured page 8356](https://design.withfudge.com/pin/8356) — [source page](https://of.domains/)
+
+[![Captured page 8355](https://pin.fontofweb.com/8355?format=jpg)](https://design.withfudge.com/pin/8355)
+[Captured page 8355](https://design.withfudge.com/pin/8355) — [source page](https://of.domains/)
+
+[![Captured page 8354](https://pin.fontofweb.com/8354?format=jpg)](https://design.withfudge.com/pin/8354)
+[Captured page 8354](https://design.withfudge.com/pin/8354) — [source page](https://of.domains/)
+
+[![Captured page 8353](https://pin.fontofweb.com/8353?format=jpg)](https://design.withfudge.com/pin/8353)
+[Captured page 8353](https://design.withfudge.com/pin/8353) — [source page](https://of.domains/)
+
+[![Captured page 8352](https://pin.fontofweb.com/8352?format=jpg)](https://design.withfudge.com/pin/8352)
+[Captured page 8352](https://design.withfudge.com/pin/8352) — [source page](https://of.domains/)
+
+[![Captured page 8351](https://pin.fontofweb.com/8351?format=jpg)](https://design.withfudge.com/pin/8351)
+[Captured page 8351](https://design.withfudge.com/pin/8351) — [source page](https://of.domains/)

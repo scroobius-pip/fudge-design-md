@@ -6,6 +6,10 @@ Source domain: [shop.heavymetal.com](https://shop.heavymetal.com)
 
 Last updated: 2026-07-12
 
+<!--
+coverPin: 10013
+-->
+
 Here is the visual system observed across **7 captured pages** from [shop.heavymetal.com](https://shop.heavymetal.com).
 
 ```fudge-colors
@@ -256,11 +260,24 @@ Here is the visual system observed across **7 captured pages** from [shop.heavym
 }
 ```
 
-## References
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10013) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10012) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10011) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10010) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10009) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10008) — [source page](https://shop.heavymetal.com/)
-- [Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10007) — [source page](https://shop.heavymetal.com/)
+## Representative captures
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10013?format=jpg)](https://design.withfudge.com/pin/10013)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10013) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10012?format=jpg)](https://design.withfudge.com/pin/10012)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10012) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10011?format=jpg)](https://design.withfudge.com/pin/10011)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10011) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10010?format=jpg)](https://design.withfudge.com/pin/10010)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10010) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10009?format=jpg)](https://design.withfudge.com/pin/10009)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10009) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10008?format=jpg)](https://design.withfudge.com/pin/10008)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10008) — [source page](https://shop.heavymetal.com/)
+
+[![Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://pin.fontofweb.com/10007?format=jpg)](https://design.withfudge.com/pin/10007)
+[Heavy Metal Magazine - The World's Greatest Illustrated Magazine](https://design.withfudge.com/pin/10007) — [source page](https://shop.heavymetal.com/)

@@ -6,6 +6,10 @@ Source domain: [kagi.com](https://kagi.com)
 
 Last updated: 2026-05-19
 
+<!--
+coverPin: 9413
+-->
+
 Here is the visual system observed across **11 captured pages** from [kagi.com](https://kagi.com).
 
 ```fudge-colors
@@ -353,12 +357,27 @@ Here is the visual system observed across **11 captured pages** from [kagi.com](
 }
 ```
 
-## References
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9413) — [source page](https://kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9412) — [source page](https://kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9411) — [source page](https://kagi.com/pricing)
-- [Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9410) — [source page](https://kagi.com/pricing)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9409) — [source page](https://kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9408) — [source page](https://kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9407) — [source page](https://kagi.com/)
-- [Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9406) — [source page](https://kagi.com/)
+## Representative captures
+[![Kagi Search Pricing and Plans - Kagi Search](https://pin.fontofweb.com/9413?format=jpg)](https://design.withfudge.com/pin/9413)
+[Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9413) — [source page](https://kagi.com/pricing)
+
+[![Kagi Search Pricing and Plans - Kagi Search](https://pin.fontofweb.com/9412?format=jpg)](https://design.withfudge.com/pin/9412)
+[Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9412) — [source page](https://kagi.com/pricing)
+
+[![Kagi Search Pricing and Plans - Kagi Search](https://pin.fontofweb.com/9411?format=jpg)](https://design.withfudge.com/pin/9411)
+[Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9411) — [source page](https://kagi.com/pricing)
+
+[![Kagi Search Pricing and Plans - Kagi Search](https://pin.fontofweb.com/9410?format=jpg)](https://design.withfudge.com/pin/9410)
+[Kagi Search Pricing and Plans - Kagi Search](https://design.withfudge.com/pin/9410) — [source page](https://kagi.com/pricing)
+
+[![Kagi - Reclaim the Web & Restore Your Privacy](https://pin.fontofweb.com/9409?format=jpg)](https://design.withfudge.com/pin/9409)
+[Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9409) — [source page](https://kagi.com/)
+
+[![Kagi - Reclaim the Web & Restore Your Privacy](https://pin.fontofweb.com/9408?format=jpg)](https://design.withfudge.com/pin/9408)
+[Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9408) — [source page](https://kagi.com/)
+
+[![Kagi - Reclaim the Web & Restore Your Privacy](https://pin.fontofweb.com/9407?format=jpg)](https://design.withfudge.com/pin/9407)
+[Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9407) — [source page](https://kagi.com/)
+
+[![Kagi - Reclaim the Web & Restore Your Privacy](https://pin.fontofweb.com/9406?format=jpg)](https://design.withfudge.com/pin/9406)
+[Kagi - Reclaim the Web & Restore Your Privacy](https://design.withfudge.com/pin/9406) — [source page](https://kagi.com/)

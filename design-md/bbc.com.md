@@ -6,6 +6,10 @@ Source domain: [bbc.com](https://bbc.com)
 
 Last updated: 2026-04-29
 
+<!--
+coverPin: 9169
+-->
+
 Here is the visual system observed across **3 captured pages** from [bbc.com](https://bbc.com).
 
 ```fudge-colors
@@ -152,7 +156,12 @@ Here is the visual system observed across **3 captured pages** from [bbc.com](ht
 }
 ```
 
-## References
-- [Наступление повстанцев в Мали: три сценария развития событий для военного правительства, которое поддерживает Россия - BBC News Русская служба](https://design.withfudge.com/pin/9169) — [source page](https://bbc.com/russian/articles/cn4py93xjn2o)
-- [When Attenborough met the gorillas - the story behind his iconic TV moment](https://design.withfudge.com/pin/9109) — [source page](https://bbc.com/news/articles/ce9n794g42zo)
-- [BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://design.withfudge.com/pin/6962) — [source page](https://bbc.com/)
+## Representative captures
+[![Наступление повстанцев в Мали: три сценария развития событий для военного правительства, которое поддерживает Россия - BBC News Русская служба](https://pin.fontofweb.com/9169?format=jpg)](https://design.withfudge.com/pin/9169)
+[Наступление повстанцев в Мали: три сценария развития событий для военного правительства, которое поддерживает Россия - BBC News Русская служба](https://design.withfudge.com/pin/9169) — [source page](https://bbc.com/russian/articles/cn4py93xjn2o)
+
+[![When Attenborough met the gorillas - the story behind his iconic TV moment](https://pin.fontofweb.com/9109?format=jpg)](https://design.withfudge.com/pin/9109)
+[When Attenborough met the gorillas - the story behind his iconic TV moment](https://design.withfudge.com/pin/9109) — [source page](https://bbc.com/news/articles/ce9n794g42zo)
+
+[![BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://pin.fontofweb.com/6962?format=jpg)](https://design.withfudge.com/pin/6962)
+[BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://design.withfudge.com/pin/6962) — [source page](https://bbc.com/)

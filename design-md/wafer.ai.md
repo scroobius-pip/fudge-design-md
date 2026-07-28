@@ -6,6 +6,10 @@ Source domain: [wafer.ai](https://wafer.ai)
 
 Last updated: 2026-07-04
 
+<!--
+coverPin: 9900
+-->
+
 Here is the visual system observed across **7 captured pages** from [wafer.ai](https://wafer.ai).
 
 ```fudge-colors
@@ -225,11 +229,24 @@ Here is the visual system observed across **7 captured pages** from [wafer.ai](h
 }
 ```
 
-## References
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9900) — [source page](https://wafer.ai/blog/glm52-amd)
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9899) — [source page](https://wafer.ai/blog/glm52-amd)
-- [Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9898) — [source page](https://wafer.ai/blog/glm52-amd)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9897) — [source page](https://wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9896) — [source page](https://wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9895) — [source page](https://wafer.ai/)
-- [Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9894) — [source page](https://wafer.ai/)
+## Representative captures
+[![Performance per dollar is getting faster and cheaper | Wafer](https://pin.fontofweb.com/9900?format=jpg)](https://design.withfudge.com/pin/9900)
+[Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9900) — [source page](https://wafer.ai/blog/glm52-amd)
+
+[![Performance per dollar is getting faster and cheaper | Wafer](https://pin.fontofweb.com/9899?format=jpg)](https://design.withfudge.com/pin/9899)
+[Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9899) — [source page](https://wafer.ai/blog/glm52-amd)
+
+[![Performance per dollar is getting faster and cheaper | Wafer](https://pin.fontofweb.com/9898?format=jpg)](https://design.withfudge.com/pin/9898)
+[Performance per dollar is getting faster and cheaper | Wafer](https://design.withfudge.com/pin/9898) — [source page](https://wafer.ai/blog/glm52-amd)
+
+[![Wafer | LLMs for enterprise](https://pin.fontofweb.com/9897?format=jpg)](https://design.withfudge.com/pin/9897)
+[Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9897) — [source page](https://wafer.ai/)
+
+[![Wafer | LLMs for enterprise](https://pin.fontofweb.com/9896?format=jpg)](https://design.withfudge.com/pin/9896)
+[Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9896) — [source page](https://wafer.ai/)
+
+[![Wafer | LLMs for enterprise](https://pin.fontofweb.com/9895?format=jpg)](https://design.withfudge.com/pin/9895)
+[Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9895) — [source page](https://wafer.ai/)
+
+[![Wafer | LLMs for enterprise](https://pin.fontofweb.com/9894?format=jpg)](https://design.withfudge.com/pin/9894)
+[Wafer | LLMs for enterprise](https://design.withfudge.com/pin/9894) — [source page](https://wafer.ai/)

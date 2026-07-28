@@ -6,6 +6,10 @@ Source domain: [miromiro.app](https://miromiro.app)
 
 Last updated: 2026-07-16
 
+<!--
+coverPin: 10190
+-->
+
 Here is the visual system observed across **3 captured pages** from [miromiro.app](https://miromiro.app).
 
 ```fudge-colors
@@ -135,7 +139,12 @@ Here is the visual system observed across **3 captured pages** from [miromiro.ap
 }
 ```
 
-## References
-- [Website to Tailwind — Export Any Section as Clean HTML & Tailwind CSS | MiroMiro](https://design.withfudge.com/pin/10190) — [source page](https://miromiro.app/features/inspect-export)
-- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4857) — [source page](https://miromiro.app/)
-- [MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4856) — [source page](https://miromiro.app/)
+## Representative captures
+[![Website to Tailwind — Export Any Section as Clean HTML & Tailwind CSS | MiroMiro](https://pin.fontofweb.com/10190?format=jpg)](https://design.withfudge.com/pin/10190)
+[Website to Tailwind — Export Any Section as Clean HTML & Tailwind CSS | MiroMiro](https://design.withfudge.com/pin/10190) — [source page](https://miromiro.app/features/inspect-export)
+
+[![MiroMiro – Chrome Extension for Designers & Developers](https://pin.fontofweb.com/4857?format=jpg)](https://design.withfudge.com/pin/4857)
+[MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4857) — [source page](https://miromiro.app/)
+
+[![MiroMiro – Chrome Extension for Designers & Developers](https://pin.fontofweb.com/4856?format=jpg)](https://design.withfudge.com/pin/4856)
+[MiroMiro – Chrome Extension for Designers & Developers](https://design.withfudge.com/pin/4856) — [source page](https://miromiro.app/)

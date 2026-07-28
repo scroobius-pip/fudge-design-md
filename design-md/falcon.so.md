@@ -6,6 +6,10 @@ Source domain: [falcon.so](https://falcon.so)
 
 Last updated: 2026-03-05
 
+<!--
+coverPin: 7667
+-->
+
 Here is the visual system observed across **1 captured page** from [falcon.so](https://falcon.so).
 
 ```fudge-colors
@@ -82,5 +86,6 @@ Here is the visual system observed across **1 captured page** from [falcon.so](h
 }
 ```
 
-## References
-- [Falcon - Design Different](https://design.withfudge.com/pin/7667) — [source page](https://falcon.so/)
+## Representative captures
+[![Falcon - Design Different](https://pin.fontofweb.com/7667?format=jpg)](https://design.withfudge.com/pin/7667)
+[Falcon - Design Different](https://design.withfudge.com/pin/7667) — [source page](https://falcon.so/)

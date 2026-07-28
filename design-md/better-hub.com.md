@@ -6,6 +6,10 @@ Source domain: [better-hub.com](https://better-hub.com)
 
 Last updated: 2026-02-26
 
+<!--
+coverPin: 7308
+-->
+
 Here is the visual system observed across **1 captured page** from [better-hub.com](https://better-hub.com).
 
 ```fudge-colors
@@ -92,5 +96,6 @@ Here is the visual system observed across **1 captured page** from [better-hub.c
 }
 ```
 
-## References
-- [Better Hub](https://design.withfudge.com/pin/7308) — [source page](https://better-hub.com/)
+## Representative captures
+[![Better Hub](https://pin.fontofweb.com/7308?format=jpg)](https://design.withfudge.com/pin/7308)
+[Better Hub](https://design.withfudge.com/pin/7308) — [source page](https://better-hub.com/)

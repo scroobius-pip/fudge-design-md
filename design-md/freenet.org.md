@@ -6,6 +6,10 @@ Source domain: [freenet.org](https://freenet.org)
 
 Last updated: 2026-05-22
 
+<!--
+coverPin: 9427
+-->
+
 Here is the visual system observed across **1 captured page** from [freenet.org](https://freenet.org).
 
 ```fudge-colors
@@ -135,5 +139,6 @@ Here is the visual system observed across **1 captured page** from [freenet.org]
 }
 ```
 
-## References
-- [Freenet](https://design.withfudge.com/pin/9427) — [source page](https://freenet.org/)
+## Representative captures
+[![Freenet](https://pin.fontofweb.com/9427?format=jpg)](https://design.withfudge.com/pin/9427)
+[Freenet](https://design.withfudge.com/pin/9427) — [source page](https://freenet.org/)

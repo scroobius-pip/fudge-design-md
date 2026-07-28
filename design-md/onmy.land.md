@@ -6,6 +6,10 @@ Source domain: [onmy.land](https://onmy.land)
 
 Last updated: 2026-07-11
 
+<!--
+coverPin: 9995
+-->
+
 Here is the visual system observed across **3 captured pages** from [onmy.land](https://onmy.land).
 
 ```fudge-colors
@@ -155,7 +159,12 @@ Here is the visual system observed across **3 captured pages** from [onmy.land](
 }
 ```
 
-## References
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9995) — [source page](https://onmy.land/)
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9994) — [source page](https://onmy.land/)
-- [onmy — Your page, on your land](https://design.withfudge.com/pin/9993) — [source page](https://onmy.land/)
+## Representative captures
+[![onmy — Your page, on your land](https://pin.fontofweb.com/9995?format=jpg)](https://design.withfudge.com/pin/9995)
+[onmy — Your page, on your land](https://design.withfudge.com/pin/9995) — [source page](https://onmy.land/)
+
+[![onmy — Your page, on your land](https://pin.fontofweb.com/9994?format=jpg)](https://design.withfudge.com/pin/9994)
+[onmy — Your page, on your land](https://design.withfudge.com/pin/9994) — [source page](https://onmy.land/)
+
+[![onmy — Your page, on your land](https://pin.fontofweb.com/9993?format=jpg)](https://design.withfudge.com/pin/9993)
+[onmy — Your page, on your land](https://design.withfudge.com/pin/9993) — [source page](https://onmy.land/)

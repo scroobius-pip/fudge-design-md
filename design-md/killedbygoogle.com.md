@@ -6,6 +6,10 @@ Source domain: [killedbygoogle.com](https://killedbygoogle.com)
 
 Last updated: 2026-04-09
 
+<!--
+coverPin: 8770
+-->
+
 Here is the visual system observed across **1 captured page** from [killedbygoogle.com](https://killedbygoogle.com).
 
 ```fudge-colors
@@ -79,5 +83,6 @@ Here is the visual system observed across **1 captured page** from [killedbygoog
 }
 ```
 
-## References
-- [Google Graveyard - Killed by Google](https://design.withfudge.com/pin/8770) — [source page](https://killedbygoogle.com/)
+## Representative captures
+[![Google Graveyard - Killed by Google](https://pin.fontofweb.com/8770?format=jpg)](https://design.withfudge.com/pin/8770)
+[Google Graveyard - Killed by Google](https://design.withfudge.com/pin/8770) — [source page](https://killedbygoogle.com/)
