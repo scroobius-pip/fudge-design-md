@@ -1,181 +1,84 @@
 # How georgivalk.framer.website is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/georgivalk.framer.website-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/georgivalk.framer.website-design)
 
-Source domain: [georgivalk.framer.website](https://georgivalk.framer.website)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-14
+## Design character
 
-<!--
-coverPin: 6534
--->
+Georgi Valk’s Framer site is a maximalist personal/portfolio billboard: enormous heavy display type (measured up to ~92–140px bold), playful scale jumps, and Framer-smooth marketing sections. It feels like a designer’s self-promo—typography as illustration—more than a restrained corp site.
 
-Here is the visual system observed across **3 captured pages** from [georgivalk.framer.website](https://georgivalk.framer.website).
+## Foundations
 
-```fudge-colors
-[
-  "#000000",
-  "#0c0c0c",
-  "#0000ee",
-  "#ffffff",
-  "#bababa",
-  "#b8b8b8",
-  "#b8ff1f",
-  "#e6ffb4",
-  "#b2fe23",
-  "#0d0d0d",
-  "#fefefe",
-  "#817c73",
-  "#f8ffe5",
-  "#455c1d",
-  "#adaeab",
-  "#0b0c09"
-]
-```
+### Color
 
-```fudge-font-usage
-{
-  "title": "Typography captured from georgivalk.framer.website",
-  "sampleText": "georgivalk.framer.website",
-  "fonts": [
-    {
-      "family": "False",
-      "familyId": 2136,
-      "pinId": 6534,
-      "domain": "georgivalk.framer.website",
-      "weight": "700",
-      "size": "140px",
-      "lineHeight": "154px",
-      "letterSpacing": "normal",
-      "frequency": 80
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 6534,
-      "domain": "georgivalk.framer.website",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 64
-    },
-    {
-      "family": "Instrument Sans",
-      "familyId": 1118,
-      "pinId": 6534,
-      "domain": "georgivalk.framer.website",
-      "weight": "600",
-      "size": "24px",
-      "lineHeight": "21.6px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    },
-    {
-      "family": "Cabinet Grotesk",
-      "familyId": 2137,
-      "pinId": 6533,
-      "domain": "georgivalk.framer.website",
-      "weight": "500",
-      "size": "20px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 23
-    }
-  ]
-}
-```
+Roles not structured. Visual read: clean light or high-contrast fields with type doing the expressive work; accents appear in UI chips and portfolio thumbnails rather than a rigid enterprise palette.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 3 |
-| Colors | 26 |
-| Spacing values | 7 |
-| Borders and radii | 3 |
-| Shadows | 1 |
-| Gradients | 4 |
+### Typography
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6534,
-      "title": "Georgi Valkov",
-      "domain": "georgivalk.framer.website/",
-      "pageUrl": "georgivalk.framer.website/",
-      "imageUrl": "https://pin.fontofweb.com/6534?format=jpg",
-      "colors": [
-        "#e6ffb4",
-        "#0000ee",
-        "#b2fe23",
-        "#0d0d0d",
-        "#fefefe",
-        "#817c73",
-        "#000000",
-        "#b8ff1f"
-      ],
-      "fonts": [
-        "False",
-        "System",
-        "Instrument Sans"
-      ]
-    },
-    {
-      "pinId": 6533,
-      "title": "Georgi Valkov",
-      "domain": "georgivalk.framer.website/",
-      "pageUrl": "georgivalk.framer.website/",
-      "imageUrl": "https://pin.fontofweb.com/6533?format=jpg",
-      "colors": [
-        "#adaeab",
-        "#0b0c09",
-        "#182102",
-        "#a7e71b",
-        "#000000",
-        "#787b72",
-        "#bababa",
-        "#b8ff1f"
-      ],
-      "fonts": [
-        "System",
-        "False",
-        "Cabinet Grotesk",
-        "Instrument Sans"
-      ]
-    },
-    {
-      "pinId": 6532,
-      "title": "Georgi Valkov",
-      "domain": "georgivalk.framer.website/",
-      "pageUrl": "georgivalk.framer.website/",
-      "imageUrl": "https://pin.fontofweb.com/6532?format=jpg",
-      "colors": [
-        "#0c0d0c",
-        "#000000",
-        "#f6ffe1",
-        "#687947",
-        "#0000ee",
-        "#dbff8e",
-        "#fcfcfc",
-        "#0c0c0c"
-      ],
-      "fonts": [
-        "System",
-        "False"
-      ]
-    }
-  ]
-}
-```
+- 12px / weight 400 (undeclared UI sans) — seen ~2103 times
+- 92px / weight 700 (undeclared UI sans, line-height 101px) — seen ~88 times
+- 140px / weight 700 (undeclared UI sans, line-height 154px) — seen ~80 times
+- 42px / weight 700 (undeclared UI sans, line-height 50px) — seen ~48 times
+- 24px / weight 400 (undeclared UI sans, line-height 38px) — seen ~32 times
+- 32px / weight 700 (undeclared UI sans, line-height 38px) — seen ~23 times
 
-## Representative captures
-[![Georgi Valkov](https://pin.fontofweb.com/6534?format=jpg)](https://design.withfudge.com/pin/6534)
-[Georgi Valkov](https://design.withfudge.com/pin/6534) — [source page](https://georgivalk.framer.website/)
+The signature is extreme display: 92px and 140px bold headlines against tiny 12px supporting UI copy and mid 24–42px subheads. Weight 700 on display vs 400 on micro copy creates a billboard hierarchy.
 
-[![Georgi Valkov](https://pin.fontofweb.com/6533?format=jpg)](https://design.withfudge.com/pin/6533)
-[Georgi Valkov](https://design.withfudge.com/pin/6533) — [source page](https://georgivalk.framer.website/)
+### Spacing and layout
 
-[![Georgi Valkov](https://pin.fontofweb.com/6532?format=jpg)](https://design.withfudge.com/pin/6532)
-[Georgi Valkov](https://design.withfudge.com/pin/6532) — [source page](https://georgivalk.framer.website/)
+- padding-top: 180px (×422)
+- padding-bottom: 180px (×231)
+- padding-top: 12px (×175)
+- padding-left: 42px (×167)
+- padding-right: 42px (×167)
+- padding-bottom: 42px (×165)
+- padding-bottom: 12px (×10)
+- padding-left: 12px (×10)
+
+Large section stages with centered or dramatically offset type blocks. Portfolio grids and case strips interrupt pure type posters. Captures are wide desktop artboards (~1680–2048px).
+
+## Visual language
+
+- 12px (×181)
+- 44px (×10)
+- 84px (×2)
+
+12px cards, plus large 44–84px rounding for pill/blob controls or avatars—soft contemporary Framer language. Motion is implied by the Framer medium but not measured here.
+
+## Components and states
+
+- **Oversized name/hero type**
+- **Work grid / case thumbnails**
+- **Pill buttons and tags**
+- **About/contact strips**
+
+## Practical guidance
+
+**Preserve**
+- Extreme display scale as the brand move
+- Micro 12px UI against huge bold headlines
+- Soft large radii on interactive chips
+
+**Avoid**
+- Flattening everything to 16/24/32 corporate type
+- Dense paragraph walls in the hero
+- Tiny conservative logos competing with display type
+
+## Scope note
+
+Three home captures only. Case study interiors were not separate paths in this set.
+
+## Captured pages
+
+[![Georgi Valkov](https://pin.fontofweb.com/6534?format=jpg)](https://design.withfudge.com/share/pin-6534)
+
+[Georgi Valkov](https://design.withfudge.com/share/pin-6534)
+
+[![Georgi Valkov](https://pin.fontofweb.com/6533?format=jpg)](https://design.withfudge.com/share/pin-6533)
+
+[Georgi Valkov](https://design.withfudge.com/share/pin-6533)
+
+[![Georgi Valkov](https://pin.fontofweb.com/6532?format=jpg)](https://design.withfudge.com/share/pin-6532)
+
+[Georgi Valkov](https://design.withfudge.com/share/pin-6532)

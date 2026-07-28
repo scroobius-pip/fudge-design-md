@@ -732,6 +732,14 @@ Garriock & Co. is an **ultra-minimal luxury studio/brand site**: vast whitespace
 
 [Open guide](design-md/garriock.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/garriock.com-design)
 
+### georgivalk.framer.website
+
+[![How georgivalk.framer.website is designed](https://pin.fontofweb.com/6534?format=jpg)](design-md/georgivalk.framer.website.md)
+
+Georgi Valk’s Framer site is a maximalist personal/portfolio billboard: enormous heavy display type (measured up to ~92–140px bold), playful scale jumps, and Framer-smooth marketing sections. It feels like a designer’s self-promo—typography as illustration—more than a restrained corp site.
+
+[Open guide](design-md/georgivalk.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/georgivalk.framer.website-design)
+
 ### google.com
 
 [![How google.com is designed](https://pin.fontofweb.com/6925?format=jpg)](design-md/google.com.md)
