@@ -276,6 +276,14 @@ footer.design is a **dark gallery of website footers** — a reference product t
 
 [Open guide](design-md/footer.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/footer.design-design)
 
+### google.com
+
+[![How google.com is designed](https://pin.fontofweb.com/6925?format=jpg)](design-md/google.com.md)
+
+Google Search in **AI Mode** is a dark, conversation-first shell: near-black canvas, a single centered prompt capsule, and quiet suggestion lines. It reads less like classic blue-link SERP chrome and more like a calm assistant stage—with the familiar multicolor account avatar and product grid still anchoring “this is Google.”
+
+[Open guide](design-md/google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/google.com-design)
+
 ### grey.co
 
 [![How grey.co is designed](https://pin.fontofweb.com/6723?format=jpg)](design-md/grey.co.md)
