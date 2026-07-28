@@ -724,6 +724,14 @@ Fundable is a **dark, logo-studio landing** aimed at founders who need an invest
 
 [Open guide](design-md/fundable.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/fundable.design-design)
 
+### garriock.com
+
+[![How garriock.com is designed](https://pin.fontofweb.com/7365?format=jpg)](design-md/garriock.com.md)
+
+Garriock & Co. is an **ultra-minimal luxury studio/brand site**: vast whitespace or quiet neutral fields, enormous light display (~72–78px weight 300), micro labels at 12px, and side padding locked around **60px**. It feels couture and architectural — more brand film titles than website chrome. Photography or large typographic statements occupy the stage; UI is nearly absent.
+
+[Open guide](design-md/garriock.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/garriock.com-design)
+
 ### google.com
 
 [![How google.com is designed](https://pin.fontofweb.com/6925?format=jpg)](design-md/google.com.md)

@@ -1,261 +1,95 @@
 # How garriock.com is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/garriock.com-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/garriock.com-design)
 
-Source domain: [garriock.com](https://garriock.com)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-26
+## Design character
 
-<!--
-coverPin: 7367
--->
+Garriock & Co. is an **ultra-minimal luxury studio/brand site**: vast whitespace or quiet neutral fields, enormous light display (~72–78px weight 300), micro labels at 12px, and side padding locked around **60px**. It feels couture and architectural — more brand film titles than website chrome. Photography or large typographic statements occupy the stage; UI is nearly absent.
 
-Here is the visual system observed across **7 captured pages** from [garriock.com](https://garriock.com).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#0000ee",
-  "#fefefe",
-  "#adadad",
-  "#878787",
-  "#fcfcfc",
-  "#646464",
-  "#313131",
-  "#717171",
-  "#b9b9b9",
-  "#484848",
-  "#585858",
-  "#fafafa",
-  "#989898",
-  "#c5c5c5"
-]
-```
+- Extreme type contrast: **12px micro vs ~78px light display**.
+- Horizontal inset ~**60px** as a steady frame.
+- Minimal color, minimal components.
+- Editorial pacing; one idea per viewport.
+- Weight 300 display for elegance, not bold impact fonts.
 
-```fudge-font-usage
-{
-  "title": "Typography captured from garriock.com",
-  "sampleText": "garriock.com",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 7367,
-      "domain": "garriock.com",
-      "weight": "400",
-      "size": "12px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 1483
-    },
-    {
-      "family": "Serrif Condensed",
-      "familyId": 2249,
-      "pinId": 7367,
-      "domain": "garriock.com",
-      "weight": "300",
-      "size": "20px",
-      "lineHeight": "25px",
-      "letterSpacing": "normal",
-      "frequency": 2
-    },
-    {
-      "family": "Es Allianz",
-      "familyId": 2250,
-      "pinId": 7365,
-      "domain": "garriock.com",
-      "weight": "400",
-      "size": "72px",
-      "lineHeight": "83px",
-      "letterSpacing": "-1.44px",
-      "frequency": 29
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 7 |
-| Colors | 33 |
-| Spacing values | 25 |
-| Borders and radii | 0 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 7367,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7367?format=jpg",
-      "colors": [
-        "#adadad",
-        "#878787",
-        "#0000ee",
-        "#fcfcfc",
-        "#646464",
-        "#ffffff",
-        "#000000",
-        "#313131"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed"
-      ]
-    },
-    {
-      "pinId": 7366,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7366?format=jpg",
-      "colors": [
-        "#717171",
-        "#fefefe",
-        "#b9b9b9",
-        "#ffffff",
-        "#0000ee",
-        "#000000",
-        "#484848"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed"
-      ]
-    },
-    {
-      "pinId": 7365,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7365?format=jpg",
-      "colors": [
-        "#585858",
-        "#000000",
-        "#fafafa",
-        "#989898",
-        "#ffffff",
-        "#c5c5c5",
-        "#2b2b2b",
-        "#0000ee"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed",
-        "Es Allianz"
-      ]
-    },
-    {
-      "pinId": 7364,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7364?format=jpg",
-      "colors": [
-        "#f6f6f6",
-        "#4a4a4a",
-        "#0000ee",
-        "#a8a8a8",
-        "#ffffff",
-        "#797979",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed"
-      ]
-    },
-    {
-      "pinId": 7363,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7363?format=jpg",
-      "colors": [
-        "#9c9c9c",
-        "#000000",
-        "#e4e4e4",
-        "#0000ee",
-        "#676767",
-        "#343434",
-        "#ffffff"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed",
-        "Es Allianz"
-      ]
-    },
-    {
-      "pinId": 7362,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7362?format=jpg",
-      "colors": [
-        "#434343",
-        "#ffffff",
-        "#fefefe",
-        "#737373",
-        "#000000",
-        "#c2c2c2",
-        "#949494"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed"
-      ]
-    },
-    {
-      "pinId": 7361,
-      "title": "Garriock & Co.",
-      "domain": "garriock.com/",
-      "pageUrl": "garriock.com/",
-      "imageUrl": "https://pin.fontofweb.com/7361?format=jpg",
-      "colors": [
-        "#767676",
-        "#fefefe",
-        "#0000ee",
-        "#ffffff",
-        "#a5a5a5",
-        "#4c4c4c",
-        "#cdcdcd",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Serrif Condensed"
-      ]
-    }
-  ]
-}
-```
+No structured roles. Visual monochrome:
 
-## Representative captures
-[![Garriock & Co.](https://pin.fontofweb.com/7367?format=jpg)](https://design.withfudge.com/pin/7367)
-[Garriock & Co.](https://design.withfudge.com/pin/7367) — [source page](https://garriock.com/)
+| Role | Approx | Use |
+|------|--------|-----|
+| Canvas | `#f5f5f5` / `#ffffff` / soft black depending on chapter | Stages |
+| Ink | `#111111` or white on dark chapters | Display |
+| Micro | muted gray | Labels |
 
-[![Garriock & Co.](https://pin.fontofweb.com/7366?format=jpg)](https://design.withfudge.com/pin/7366)
-[Garriock & Co.](https://design.withfudge.com/pin/7366) — [source page](https://garriock.com/)
+### Typography
 
-[![Garriock & Co.](https://pin.fontofweb.com/7365?format=jpg)](https://design.withfudge.com/pin/7365)
-[Garriock & Co.](https://design.withfudge.com/pin/7365) — [source page](https://garriock.com/)
+| Role | Size | Weight | LH |
+|------|------|--------|-----|
+| Micro | 12px | 400 | tight |
+| Mid | 20–36px | 300 | ~25–43px |
+| Display | 72–78px | 300 | ~83px |
 
-[![Garriock & Co.](https://pin.fontofweb.com/7364?format=jpg)](https://design.withfudge.com/pin/7364)
-[Garriock & Co.](https://design.withfudge.com/pin/7364) — [source page](https://garriock.com/)
+### Spacing and layout
 
-[![Garriock & Co.](https://pin.fontofweb.com/7363?format=jpg)](https://design.withfudge.com/pin/7363)
-[Garriock & Co.](https://design.withfudge.com/pin/7363) — [source page](https://garriock.com/)
+- Persistent **60px** left/right padding.
+- Tiny 2px bottom paddings on some micro rows; larger 20–52px on editorial blocks.
+- Full-viewport chapters rather than card grids.
 
-[![Garriock & Co.](https://pin.fontofweb.com/7362?format=jpg)](https://design.withfudge.com/pin/7362)
-[Garriock & Co.](https://design.withfudge.com/pin/7362) — [source page](https://garriock.com/)
+## Visual language
 
-[![Garriock & Co.](https://pin.fontofweb.com/7361?format=jpg)](https://design.withfudge.com/pin/7361)
-[Garriock & Co.](https://design.withfudge.com/pin/7361) — [source page](https://garriock.com/)
+- No meaningful radius language (square, image-led).
+- Hairline or no borders.
+- Photography and giant type only.
+
+## Components and states
+
+1. Barely-there identity/nav.
+2. Full-bleed or large-type hero chapters.
+3. Project/story sequences.
+4. Micro captions.
+
+## Responsive behavior
+
+All primary captures 2048×1194. The 60px frame and light display should scale fluidly; avoid introducing cards when narrowing.
+
+## Practical guidance
+
+**Preserve** 12 vs 78 type polarity, 60px frame, weight 300 elegance, chapter pacing.  
+**Avoid** SaaS nav megamenus, colored button stacks, dense marketing sections.
+
+## Scope note
+
+Seven home captures at wide desktop. Structured colors/radii unsupported; system is type and padding first. Inner project templates not separately captured.
+
+## Captured pages
+
+[![Display chapter](https://pin.fontofweb.com/7365?format=jpg)](https://design.withfudge.com/share/pin-7365)
+
+[Display chapter](https://design.withfudge.com/share/pin-7365)
+
+[![Wide home frame A](https://pin.fontofweb.com/7367?format=jpg)](https://design.withfudge.com/share/pin-7367)
+
+[Wide home frame A](https://design.withfudge.com/share/pin-7367)
+
+[![Wide home frame B](https://pin.fontofweb.com/7366?format=jpg)](https://design.withfudge.com/share/pin-7366)
+
+[Wide home frame B](https://design.withfudge.com/share/pin-7366)
+
+[![Display + mid type](https://pin.fontofweb.com/7364?format=jpg)](https://design.withfudge.com/share/pin-7364)
+
+[Display + mid type](https://design.withfudge.com/share/pin-7364)
+
+## Colors
+
+- `#ffffff`
+- `#f5f5f5`
+- `#111111`
+- `#888888`
+- `#000000`
