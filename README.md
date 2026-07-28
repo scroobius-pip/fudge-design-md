@@ -324,6 +324,14 @@ The Keyword (blog.google) is Google’s product/technology news surface: clean w
 
 [Open guide](design-md/blog.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/blog.google-design)
 
+### brookings.edu
+
+[![How brookings.edu is designed](https://pin.fontofweb.com/9553?format=jpg)](design-md/brookings.edu.md)
+
+Brookings reads as a **think-tank newsroom**: authoritative blue (`#00649f`), near-black body ink (`#191919`), gray meta (`#666666` / `#b3b3b3`), photography-led cards, and article pages with clear scholarly hierarchy. The home page is a curated content index; articles are long-form with strong titles and restrained chrome.
+
+[Open guide](design-md/brookings.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/brookings.edu-design)
+
 ### c82.net
 
 [![How c82.net is designed](https://pin.fontofweb.com/10171?format=jpg)](design-md/c82.net.md)
