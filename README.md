@@ -28,6 +28,14 @@ A Collection of Unmitigated Pedantry is a long-form history blog that dresses li
 
 [Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
 
+### arcee.ai
+
+[![How arcee.ai is designed](https://pin.fontofweb.com/6372?format=jpg)](design-md/arcee.ai.md)
+
+Arcee AI presents as a **cinematic dark brand landing**: near-black full-bleed atmosphere, a restrained sans wordmark, and almost no UI chrome. The site sells intelligence through void, glow, and typography rather than dashboards or illustrations clutter.
+
+[Open guide](design-md/arcee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcee.ai-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10167?format=jpg)](design-md/autogram.id.md)
