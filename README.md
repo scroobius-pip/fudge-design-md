@@ -428,6 +428,14 @@ Content for Context’s case-study page (SBS 8 News) reads as a **editorial port
 
 [Open guide](design-md/contentformcontext.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/contentformcontext.com-design)
 
+### cora.computer
+
+[![How cora.computer is designed](https://pin.fontofweb.com/8453?format=jpg)](design-md/cora.computer.md)
+
+Cora is a **calm, high-craft consumer product brand**: soft off-white canvas, near-black type, and a single black pill CTA. The marketing site feels editorial—generous whitespace, light display headlines, and product photography (laptop inbox mock, iPhone lock-screen widgets) floating in open space. Auth screens keep the same quiet system: white field, simple form stack, black primary button.
+
+[Open guide](design-md/cora.computer.md) · [View the Fudge conversation](https://design.withfudge.com/share/cora.computer-design)
+
 ### cracked.com
 
 [![How cracked.com is designed](https://pin.fontofweb.com/8241?format=jpg)](design-md/cracked.com.md)

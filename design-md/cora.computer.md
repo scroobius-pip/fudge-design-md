@@ -1,242 +1,124 @@
 # How cora.computer is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cora.computer-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cora.computer-design)
 
-Source domain: [cora.computer](https://cora.computer)
+Last updated: 2026-07-28
 
-Last updated: 2026-03-27
+## Design character
 
-<!--
-coverPin: 8459
--->
+Cora is a **calm, high-craft consumer product brand**: soft off-white canvas, near-black type, and a single black pill CTA. The marketing site feels editorial—generous whitespace, light display headlines, and product photography (laptop inbox mock, iPhone lock-screen widgets) floating in open space. Auth screens keep the same quiet system: white field, simple form stack, black primary button.
 
-Here is the visual system observed across **6 captured pages** from [cora.computer](https://cora.computer).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#ffffff",
-  "#117bc8",
-  "#38bdf8",
-  "#0ea5e9",
-  "#7dd3fc",
-  "#7d7d7d",
-  "#dadada",
-  "#ebebeb",
-  "#1d1b20",
-  "#a1a1a1",
-  "#373433",
-  "#36abe2",
-  "#e4e8e0",
-  "#b5dbe8",
-  "#0874cd"
-]
-```
+- **Off-white / paper canvas** with pure black text and CTAs
+- **Pill-shaped primary actions** (full black fill, white label)
+- **Large light display type** (~55px weight 300) for emotional claims
+- **Soft product photography** as the only rich media—no loud illustration system
+- Rounded surfaces (10–35px) and occasional deep soft shadows on device mockups
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cora.computer",
-  "sampleText": "cora.computer",
-  "fonts": [
-    {
-      "family": "Switzer",
-      "familyId": 36,
-      "pinId": 8459,
-      "domain": "cora.computer",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1209
-    },
-    {
-      "family": "Signifier",
-      "familyId": 2081,
-      "pinId": 8457,
-      "domain": "cora.computer",
-      "weight": "600",
-      "size": "24px",
-      "lineHeight": "32px",
-      "letterSpacing": "normal",
-      "frequency": 4
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 8456,
-      "domain": "cora.computer",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 298
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 6 |
-| Colors | 48 |
-| Spacing values | 46 |
-| Borders and radii | 21 |
-| Shadows | 7 |
-| Gradients | 1 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8459,
-      "title": "Cora",
-      "domain": "cora.computer/users/sign_up",
-      "pageUrl": "cora.computer/users/sign_up",
-      "imageUrl": "https://pin.fontofweb.com/8459?format=jpg",
-      "colors": [
-        "#000000",
-        "#373433",
-        "#36abe2",
-        "#38bdf8",
-        "#0ea5e9",
-        "#7dd3fc",
-        "#e4e8e0",
-        "#b5dbe8"
-      ],
-      "fonts": [
-        "Switzer"
-      ]
-    },
-    {
-      "pinId": 8457,
-      "title": "Cora",
-      "domain": "cora.computer/users/sign_in",
-      "pageUrl": "cora.computer/users/sign_in",
-      "imageUrl": "https://pin.fontofweb.com/8457?format=jpg",
-      "colors": [
-        "#0ea5e9",
-        "#ffffff",
-        "#4f4240",
-        "#0873cc",
-        "#e6eae2",
-        "#b9d8e5",
-        "#000000",
-        "#38aae0"
-      ],
-      "fonts": [
-        "Switzer",
-        "Signifier"
-      ]
-    },
-    {
-      "pinId": 8456,
-      "title": "Give Cora your inbox. Take back your life.",
-      "domain": "cora.computer/",
-      "pageUrl": "cora.computer/",
-      "imageUrl": "https://pin.fontofweb.com/8456?format=jpg",
-      "colors": [
-        "#a9a197",
-        "#fcfcfb",
-        "#ffffff",
-        "#000000",
-        "#33230f",
-        "#ebebeb",
-        "#7d7d7d",
-        "#b8842f"
-      ],
-      "fonts": [
-        "Times",
-        "Switzer",
-        "Signifier"
-      ]
-    },
-    {
-      "pinId": 8455,
-      "title": "Give Cora your inbox. Take back your life.",
-      "domain": "cora.computer/",
-      "pageUrl": "cora.computer/",
-      "imageUrl": "https://pin.fontofweb.com/8455?format=jpg",
-      "colors": [
-        "#046bc9",
-        "#0b2e50",
-        "#f77915",
-        "#e1a342",
-        "#36ace1",
-        "#000000",
-        "#ffffff",
-        "#1d1b20"
-      ],
-      "fonts": [
-        "Times",
-        "Switzer",
-        "Signifier"
-      ]
-    },
-    {
-      "pinId": 8454,
-      "title": "Give Cora your inbox. Take back your life.",
-      "domain": "cora.computer/",
-      "pageUrl": "cora.computer/",
-      "imageUrl": "https://pin.fontofweb.com/8454?format=jpg",
-      "colors": [
-        "#938979",
-        "#ffffff",
-        "#3b280d",
-        "#edefef",
-        "#117bc8",
-        "#78511b",
-        "#41403a",
-        "#000000"
-      ],
-      "fonts": [
-        "Times",
-        "Signifier",
-        "Switzer"
-      ]
-    },
-    {
-      "pinId": 8453,
-      "title": "Give Cora your inbox. Take back your life.",
-      "domain": "cora.computer/",
-      "pageUrl": "cora.computer/",
-      "imageUrl": "https://pin.fontofweb.com/8453?format=jpg",
-      "colors": [
-        "#eef3f8",
-        "#dadada",
-        "#000000",
-        "#9bbfde",
-        "#055fab",
-        "#243f2c",
-        "#ffffff",
-        "#26535a"
-      ],
-      "fonts": [
-        "Times",
-        "Signifier",
-        "Switzer"
-      ]
-    }
-  ]
-}
-```
+Measured roles on home:
 
-## Representative captures
-[![Cora](https://pin.fontofweb.com/8459?format=jpg)](https://design.withfudge.com/pin/8459)
-[Cora](https://design.withfudge.com/pin/8459) — [source page](https://cora.computer/users/sign_up)
+| Role | Hex | Use |
+|------|-----|-----|
+| Accent / primary action | `#000000` | Pill CTAs, key marks |
+| Text primary | `#000000` | Headlines and body |
+| Text secondary | `#7d7d7d` | Supporting lines, meta |
 
-[![Cora](https://pin.fontofweb.com/8457?format=jpg)](https://design.withfudge.com/pin/8457)
-[Cora](https://design.withfudge.com/pin/8457) — [source page](https://cora.computer/users/sign_in)
+Visual reading of screenshots: canvas is warm off-white / light gray paper, not pure billboard white; device chrome and inbox UI introduce soft neutrals and subtle blues inside mock photography. Keep brand UI monochrome; let product shots carry secondary color.
 
-[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8456?format=jpg)](https://design.withfudge.com/pin/8456)
-[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8456) — [source page](https://cora.computer/)
+### Typography
 
-[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8455?format=jpg)](https://design.withfudge.com/pin/8455)
-[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8455) — [source page](https://cora.computer/)
+No declared families recorded. Observed hierarchy:
 
-[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8454?format=jpg)](https://design.withfudge.com/pin/8454)
-[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8454) — [source page](https://cora.computer/)
+- **Hero display**: ~55px weight 300, ~65px line-height — airy, almost magazine
+- **Section titles**: ~36px regular, ~43px leading
+- **Subheads / emphasis**: 20–24px weight 500–600
+- **Body**: 16px (sometimes without fixed line-height), 18px supporting
+- **UI / labels**: 12–14px weight 500–600; auth titles ~24px weight 600
+- Sign-up long-form stays on a 16/24 body rhythm with 14/20 secondary
 
-[![Give Cora your inbox. Take back your life.](https://pin.fontofweb.com/8453?format=jpg)](https://design.withfudge.com/pin/8453)
-[Give Cora your inbox. Take back your life.](https://design.withfudge.com/pin/8453) — [source page](https://cora.computer/)
+Prefer a humanist or neutral grotesque with a true light cut for heroes.
+
+### Spacing and layout
+
+- Hero and major sections: **100px** vertical padding; large bottom margins (~72px)
+- Marketing cards / media frames: **75–98px** padding on spacious tiles; **14–16px** on denser chips
+- Auth: **16px** horizontal padding dominance; form cards **32–48px** padding; **64px** vertical padding on tall sign-up stacks
+- Side margins on centered heroes can be large (~247px) to keep a narrow reading column
+- Negative margin tricks appear on layered product shots (~−91px) for overlap
+
+## Visual language
+
+- **Radii**: full pills (`9999`) for CTAs and tags; media/cards ~10–35px; auth cards ~16px; smaller controls ~8–12px
+- **Borders**: 1px solid frames on cards; some 2px outlines on chips; thicker ~5px frames on select media tiles
+- **Shadows**: soft device lift — e.g. y:8 blur:10 spread:−6 and y:20 blur:25 spread:−5; asymmetric photo shadows (±4x, blur ~8)
+- **Imagery**: realistic laptop + phone product shots, inbox UI, lock-screen widgets; no heavy illustration language
+- **Motion**: not established
+
+## Components and states
+
+- **Nav**: minimal wordmark + text links + black pill “Get started”
+- **Hero**: light multi-line claim, short gray subcopy, single black CTA, oversized device photo
+- **Feature bands**: short bold titles over soft product crops; spacious vertical rhythm
+- **Auth (sign-in / sign-up)**: centered card or open form on white; 16px inputs; black submit pill; fine 1px card borders; elevated card shadow
+- Interaction states beyond default were not separately captured
+
+## Responsive behavior
+
+Home appears in wide (~1712) and mid (~1018–1101) widths with the same monochrome system; auth is wide desktop. Exact mobile breakpoints were not measured—expect the pill CTA and light display type to hold while device photography stacks.
+
+## Practical guidance
+
+**Preserve**
+
+- Black-on-cream calm; one solid black pill as the only hard UI accent
+- Light, oversized display type with generous leading
+- Product photography as proof, not decorative pattern fills
+- Soft elevation on devices; quiet 1px card borders on forms
+- Airy section padding (often 75–100px)
+
+**Avoid**
+
+- Bright multi-color marketing accents
+- Dense SaaS dashboards on the marketing surface
+- Hard pure-white sterile lab aesthetic if the warm paper feel is the brand
+- Inventing font names—families were not declared in capture
+
+## Scope note
+
+Studied Cora home (`/`) in multiple viewports plus `/users/sign_in` and `/users/sign_up` (six captures). Color roles are sparse but consistent black/gray; canvas warmth and photo color come from visual inspection. Declared typefaces unavailable.
+
+## Captured pages
+
+[![Home — hero claim and device](https://pin.fontofweb.com/8453?format=jpg)](https://design.withfudge.com/share/pin-8453)
+
+[Home — hero claim and device](https://design.withfudge.com/share/pin-8453)
+
+[![Home — spacious feature band](https://pin.fontofweb.com/8454?format=jpg)](https://design.withfudge.com/share/pin-8454)
+
+[Home — spacious feature band](https://design.withfudge.com/share/pin-8454)
+
+[![Home — mid viewport](https://pin.fontofweb.com/8456?format=jpg)](https://design.withfudge.com/share/pin-8456)
+
+[Home — mid viewport](https://design.withfudge.com/share/pin-8456)
+
+[![Home — compact crop](https://pin.fontofweb.com/8455?format=jpg)](https://design.withfudge.com/share/pin-8455)
+
+[Home — compact crop](https://design.withfudge.com/share/pin-8455)
+
+[![Sign in](https://pin.fontofweb.com/8457?format=jpg)](https://design.withfudge.com/share/pin-8457)
+
+[Sign in](https://design.withfudge.com/share/pin-8457)
+
+[![Sign up](https://pin.fontofweb.com/8459?format=jpg)](https://design.withfudge.com/share/pin-8459)
+
+[Sign up](https://design.withfudge.com/share/pin-8459)
+
+## Colors
+
+- `#000000`
+- `#7d7d7d`
