@@ -28,6 +28,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 
 [Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
 
+### a16z.com
+
+[![How a16z.com is designed](https://pin.fontofweb.com/7299?format=jpg)](design-md/a16z.com.md)
+
+a16z.com opens like a **dark, confident manifesto**. The home system is cinematic and spare: near-black ground, large display headlines, cool gray secondary type, and just enough gold/blue accent to feel institutional without looking like a consumer SaaS gradient site. Photography and filmic stills carry emotion; UI chrome stays almost invisible.
+
+[Open guide](design-md/a16z.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/a16z.com-design)
+
 ### acoup.blog
 
 [![How acoup.blog is designed](https://pin.fontofweb.com/9511?format=jpg)](design-md/acoup.blog.md)
