@@ -636,6 +636,14 @@ Era is a soft fintech/consumer app system: warm paper grays, mint-teal accents, 
 
 [Open guide](design-md/era.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/era.app-design)
 
+### evefrontier.com
+
+[![How evefrontier.com is designed](https://pin.fontofweb.com/9920?format=jpg)](design-md/evefrontier.com.md)
+
+EVE Frontier is dark, cinematic, and game-native. The canvas is near-black space; type sits in bone cream (`#fafae5`); the only hot accent is a searing orange-red (`#ff4700`). Layouts are vast — huge section padding, wide gaps, and media that feels like key art rather than UI chrome.
+
+[Open guide](design-md/evefrontier.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/evefrontier.com-design)
+
 ### fastino.ai
 
 [![How fastino.ai is designed](https://pin.fontofweb.com/9733?format=jpg)](design-md/fastino.ai.md)
