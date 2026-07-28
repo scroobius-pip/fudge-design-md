@@ -244,6 +244,14 @@ Endl is a confident fintech marketing site built on white space, vivid blue bran
 
 [Open guide](design-md/endl.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/endl.io-design)
 
+### fastino.ai
+
+[![How fastino.ai is designed](https://pin.fontofweb.com/9733?format=jpg)](design-md/fastino.ai.md)
+
+Fastino Labs is a dark, compact AI research/marketing surface. The canvas is near-black (`#0c0608`), type is light, and cards soften with ~20px radii. Blue links (`#0000ee`) appear as classic link color against the dark system. Density is higher than cinematic game sites — card grids and model pages with tight 10–20px gaps.
+
+[Open guide](design-md/fastino.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/fastino.ai-design)
+
 ### fontsinuse.com
 
 [![How fontsinuse.com is designed](https://pin.fontofweb.com/6841?format=jpg)](design-md/fontsinuse.com.md)
