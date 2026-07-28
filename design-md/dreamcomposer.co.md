@@ -1,145 +1,67 @@
 # How dreamcomposer.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/dreamcomposer.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/dreamcomposer.co-design)
 
-Source domain: [dreamcomposer.co](https://dreamcomposer.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-04-10
+## Design character
 
-<!--
-coverPin: 8792
--->
+DreamComposer presents as a **collaborative, imaginative consumer product**—a place for sharing dreams—rather than a sharp B2B tool. Captures show large rounded geometry (pill radii approaching full capsule) and a marketing home that prioritizes friendly entry over dense information architecture.
 
-Here is the visual system observed across **2 captured pages** from [dreamcomposer.co](https://dreamcomposer.co).
+What should survive adaptation:
 
-```fudge-colors
-[
-  "#000000",
-  "#fafcf6",
-  "#fafdf6",
-  "#282826",
-  "#a3a19d",
-  "#500d08",
-  "#d6d1cb",
-  "#76736f",
-  "#db5dc4",
-  "#51504c",
-  "#8f315d",
-  "#a7c2a4",
-  "#cdcfc9",
-  "#666763",
-  "#d2fcd0",
-  "#50604b"
-]
-```
+- Soft, highly rounded interactive geometry
+- Approachable consumer marketing tone
+- Uncluttered home entry rather than dashboard-first visuals
 
-```fudge-font-usage
-{
-  "title": "Typography captured from dreamcomposer.co",
-  "sampleText": "dreamcomposer.co",
-  "fonts": [
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 8792,
-      "domain": "dreamcomposer.co",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "21px",
-      "letterSpacing": "normal",
-      "frequency": 529
-    },
-    {
-      "family": "Geist",
-      "familyId": 135,
-      "pinId": 8792,
-      "domain": "dreamcomposer.co",
-      "weight": "400",
-      "size": "46px",
-      "lineHeight": "44px",
-      "letterSpacing": "-0.96px",
-      "frequency": 54
-    },
-    {
-      "family": "Ibm Plex Mono",
-      "familyId": 75,
-      "pinId": 8792,
-      "domain": "dreamcomposer.co",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "-0.12px",
-      "frequency": 206
-    }
-  ]
-}
-```
+## Foundations
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 2 |
-| Colors | 18 |
-| Spacing values | 10 |
-| Borders and radii | 2 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Color
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 8792,
-      "title": "DreamComposer - A collaborative platform for sharing dreams and ideas",
-      "domain": "dreamcomposer.co/",
-      "pageUrl": "dreamcomposer.co/",
-      "imageUrl": "https://pin.fontofweb.com/8792?format=jpg",
-      "colors": [
-        "#fafdf6",
-        "#282826",
-        "#a3a19d",
-        "#500d08",
-        "#d6d1cb",
-        "#76736f",
-        "#fafcf6",
-        "#db5dc4"
-      ],
-      "fonts": [
-        "System",
-        "Geist",
-        "Ibm Plex Mono"
-      ]
-    },
-    {
-      "pinId": 8791,
-      "title": "DreamComposer - A collaborative platform for sharing dreams and ideas",
-      "domain": "dreamcomposer.co/",
-      "pageUrl": "dreamcomposer.co/",
-      "imageUrl": "https://pin.fontofweb.com/8791?format=jpg",
-      "colors": [
-        "#a7c2a4",
-        "#cdcfc9",
-        "#666763",
-        "#d2fcd0",
-        "#50604b",
-        "#fafdf6",
-        "#fafcf6",
-        "#000000"
-      ],
-      "fonts": [
-        "System",
-        "Geist",
-        "Ibm Plex Mono"
-      ]
-    }
-  ]
-}
-```
+Structured role colors were not returned. Treat palette claims cautiously: lean on the screenshots for canvas/accent reads rather than inventing a brand deck. Keep contrast accessible on whatever light/dark field the frames show.
 
-## Representative captures
-[![DreamComposer - A collaborative platform for sharing dreams and ideas](https://pin.fontofweb.com/8792?format=jpg)](https://design.withfudge.com/pin/8792)
-[DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8792) — [source page](https://dreamcomposer.co/)
+### Typography
 
-[![DreamComposer - A collaborative platform for sharing dreams and ideas](https://pin.fontofweb.com/8791?format=jpg)](https://design.withfudge.com/pin/8791)
-[DreamComposer - A collaborative platform for sharing dreams and ideas](https://design.withfudge.com/pin/8791) — [source page](https://dreamcomposer.co/)
+Declared families unknown. Observed sizes in the packet span UI-small through marketing display; weights include regular and medium. Hierarchy should stay simple: one clear hero line, short supporting copy, pill CTAs.
+
+### Spacing and layout
+
+Spacing steps include  common 8–24px rhythms. The standout token is extreme rounding (~87px observed), which reads as **fully pill buttons/avatars/chips**. Layout is home-marketing centered.
+
+## Visual language
+
+- Capsule buttons and soft chips
+- Minimal hard corners
+- Product story told with friendly marketing sections rather than dense tables
+
+## Components and states
+
+- Pill primary actions
+- Soft marketing sections on the home canvas
+- Likely avatar/community cues given the collaborative positioning (do not invent interaction details beyond stills)
+
+## Practical guidance
+
+**Preserve**
+
+- Soft pill geometry as the signature
+- Calm consumer marketing pacing
+
+**Avoid**
+
+- Sharp 2px enterprise chrome
+- Overloading the home with developer docs patterns
+
+## Scope note
+
+Two home captures (pins 8791, 8792). Measured color roles and declared fonts were not available; rounding is the strongest structural signal in the set.
+
+## Captured pages
+
+[![Home marketing view A](https://pin.fontofweb.com/8791?format=jpg)](https://design.withfudge.com/share/pin-8791)
+
+[Home marketing view A](https://design.withfudge.com/share/pin-8791)
+
+[![Home marketing view B](https://pin.fontofweb.com/8792?format=jpg)](https://design.withfudge.com/share/pin-8792)
+
+[Home marketing view B](https://design.withfudge.com/share/pin-8792)

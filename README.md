@@ -580,6 +580,14 @@ Dosu sells **knowledge infrastructure for agents and humans** with a distinctive
 
 [Open guide](design-md/dosu.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/dosu.dev-design)
 
+### dreamcomposer.co
+
+[![How dreamcomposer.co is designed](https://pin.fontofweb.com/8791?format=jpg)](design-md/dreamcomposer.co.md)
+
+DreamComposer presents as a **collaborative, imaginative consumer product**—a place for sharing dreams—rather than a sharp B2B tool. Captures show large rounded geometry (pill radii approaching full capsule) and a marketing home that prioritizes friendly entry over dense information architecture.
+
+[Open guide](design-md/dreamcomposer.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/dreamcomposer.co-design)
+
 ### drkst.framer.website
 
 [![How drkst.framer.website is designed](https://pin.fontofweb.com/9029?format=jpg)](design-md/drkst.framer.website.md)
