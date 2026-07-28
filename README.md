@@ -268,6 +268,14 @@ footer.design is a **dark gallery of website footers** — a reference product t
 
 [Open guide](design-md/footer.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/footer.design-design)
 
+### grey.co
+
+[![How grey.co is designed](https://pin.fontofweb.com/6719?format=jpg)](design-md/grey.co.md)
+
+Grey is a **calm, photography-led neobank brand**: soft blue studio gradients, oversized white display type, and lifestyle portraits that feel fashion-editorial more than fintech-dashboard. The product promise (inclusive global banking) is told through people and space—open sky-blue sets, tailored casual wardrobe, phone-in-hand product glimpses—while UI chrome stays minimal: light nav, one solid blue CTA, and dark testimonial stages as contrast bands.
+
+[Open guide](design-md/grey.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/grey.co-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
