@@ -228,6 +228,14 @@ Google Earth Web is a full-bleed globe product: the planet is the interface, and
 
 [Open guide](design-md/earth.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/earth.google.com-design)
 
+### endl.io
+
+[![How endl.io is designed](https://pin.fontofweb.com/9905?format=jpg)](design-md/endl.io.md)
+
+Endl is a confident fintech marketing site built on white space, vivid blue brand blocks, and very large rounded geometry. It feels contemporary payments: friendly radii, strong wordmark moments, and product proof through clean sections rather than dense dashboards.
+
+[Open guide](design-md/endl.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/endl.io-design)
+
 ### fontstand.com
 
 [![How fontstand.com is designed](https://pin.fontofweb.com/6811?format=jpg)](design-md/fontstand.com.md)

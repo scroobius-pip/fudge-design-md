@@ -1,208 +1,108 @@
 # How endl.io is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/endl.io-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/endl.io-design)
 
-Source domain: [endl.io](https://endl.io)
+Last updated: 2026-07-28
 
-Last updated: 2026-07-05
+# How endl.io is designed
 
-<!--
-coverPin: 9905
--->
+## Design character
 
-Here is the visual system observed across **4 captured pages** from [endl.io](https://endl.io).
+Endl is a confident fintech marketing site built on white space, vivid blue brand blocks, and very large rounded geometry. It feels contemporary payments: friendly radii, strong wordmark moments, and product proof through clean sections rather than dense dashboards.
 
-```fudge-colors
-[
-  "#ffffff",
-  "#f4f4f5",
-  "#245fff",
-  "#2c3a30",
-  "#000000",
-  "#34343a",
-  "#dcf1ff",
-  "#181719",
-  "#e2f5ee",
-  "#0f172a",
-  "#969696",
-  "#2e66f1",
-  "#232325",
-  "#f7f7f7",
-  "#78777a",
-  "#b7b7b9"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from endl.io",
-  "sampleText": "endl.io",
-  "fonts": [
-    {
-      "family": "Applesystem",
-      "familyId": 2115,
-      "pinId": 9905,
-      "domain": "endl.io",
-      "weight": "400",
-      "size": "14px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Times",
-      "familyId": 2103,
-      "pinId": 9905,
-      "domain": "endl.io",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 30
-    },
-    {
-      "family": "Dm Sans 9 Pt",
-      "familyId": 674,
-      "pinId": 9905,
-      "domain": "endl.io",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1221
-    },
-    {
-      "family": "System",
-      "familyId": 2079,
-      "pinId": 9905,
-      "domain": "endl.io",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "normal",
-      "letterSpacing": "normal",
-      "frequency": 34
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 4 |
-| Colors | 41 |
-| Spacing values | 189 |
-| Borders and radii | 15 |
-| Shadows | 6 |
-| Gradients | 0 |
+Measured:
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 9905,
-      "title": "Endl - Global team spend, done right",
-      "domain": "endl.io/",
-      "pageUrl": "endl.io/",
-      "imageUrl": "https://pin.fontofweb.com/9905?format=jpg",
-      "colors": [
-        "#78777a",
-        "#b7b7b9",
-        "#f7f7f7",
-        "#2962fd",
-        "#2a2a2e",
-        "#a8c2f4",
-        "#000000",
-        "#ffffff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Dm Sans 9 Pt",
-        "System"
-      ]
-    },
-    {
-      "pinId": 9904,
-      "title": "Endl - Global team spend, done right",
-      "domain": "endl.io/",
-      "pageUrl": "endl.io/",
-      "imageUrl": "https://pin.fontofweb.com/9904?format=jpg",
-      "colors": [
-        "#1c1d1f",
-        "#a0a4a9",
-        "#707377",
-        "#46484c",
-        "#c8ced4",
-        "#3465f4",
-        "#839ee0",
-        "#fbfdff"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Dm Sans 9 Pt"
-      ]
-    },
-    {
-      "pinId": 9903,
-      "title": "Endl - Global team spend, done right",
-      "domain": "endl.io/",
-      "pageUrl": "endl.io/",
-      "imageUrl": "https://pin.fontofweb.com/9903?format=jpg",
-      "colors": [
-        "#8093bf",
-        "#9ca286",
-        "#2958e2",
-        "#030303",
-        "#d6d9d6",
-        "#212f26",
-        "#495341",
-        "#6a735c"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Dm Sans 9 Pt"
-      ]
-    },
-    {
-      "pinId": 9902,
-      "title": "Endl - Global team spend, done right",
-      "domain": "endl.io/",
-      "pageUrl": "endl.io/",
-      "imageUrl": "https://pin.fontofweb.com/9902?format=jpg",
-      "colors": [
-        "#6283dc",
-        "#f7f7f7",
-        "#2762fe",
-        "#b9b9bb",
-        "#909093",
-        "#252529",
-        "#656568",
-        "#000000"
-      ],
-      "fonts": [
-        "Applesystem",
-        "Times",
-        "Dm Sans 9 Pt",
-        "System"
-      ]
-    }
-  ]
-}
-```
+- **Brand blue:** `#245fff` — hero panels, key fills, logo mark energy
+- **Ink:** `#000000` and `#34343a` for text
+- **Canvas:** white / light gray footers
+- **Inverse type:** white on blue CTAs and banners
+- **Secondary buttons:** black pills beside white/blue pairs
 
-## Representative captures
-[![Endl - Global team spend, done right](https://pin.fontofweb.com/9905?format=jpg)](https://design.withfudge.com/pin/9905)
-[Endl - Global team spend, done right](https://design.withfudge.com/pin/9905) — [source page](https://endl.io/)
+Blue is the hero surface color, not merely a link accent.
 
-[![Endl - Global team spend, done right](https://pin.fontofweb.com/9904?format=jpg)](https://design.withfudge.com/pin/9904)
-[Endl - Global team spend, done right](https://design.withfudge.com/pin/9904) — [source page](https://endl.io/)
+### Typography
 
-[![Endl - Global team spend, done right](https://pin.fontofweb.com/9903?format=jpg)](https://design.withfudge.com/pin/9903)
-[Endl - Global team spend, done right](https://design.withfudge.com/pin/9903) — [source page](https://endl.io/)
+- Display ~60px weight 600 / ~66px line-height on major claims
+- Body 16/24 weight 400
+- Small print 12/20
+- UI labels 14/20 weight 500
 
-[![Endl - Global team spend, done right](https://pin.fontofweb.com/9902?format=jpg)](https://design.withfudge.com/pin/9902)
-[Endl - Global team spend, done right](https://design.withfudge.com/pin/9902) — [source page](https://endl.io/)
+Heavy display weight + simple sans structure sells trust quickly.
+
+### Spacing and layout
+
+- Large horizontal padding ~80px; vertical section padding 80–153px
+- Side margins ~52px on some bands
+- Radii are a signature: **48px** and **64px** on big shells, 10–16px on smaller controls, plus fully pill-like values
+- Footer on light gray with multi-column link lists
+- CTA banner as a giant blue rounded stadium shape
+
+## Visual language
+
+- Oversized rounded rectangles / stadiums as brand shapes
+- Pair buttons (light + dark) on blue fields
+- Soft gray page breaks between white sections
+- Chat/help bubble in the corner on marketing pages
+- Minimal illustration; geometry and type lead
+
+## Components and states
+
+- Top nav with product links + auth actions
+- Hero claim + dual CTA
+- Feature rows / proof sections
+- Giant blue closing CTA band (“Ready to simplify…”)
+- Multi-column footer with legal density
+- Floating help entry point
+
+## Responsive behavior
+
+Four home captures at wide desktop widths. Large radii and 80px padding imply careful collapse on mobile (not captured).
+
+## Practical guidance
+
+**Preserve**
+
+- `#245fff` big-shape branding on white
+- 48–64px super-radii on hero shells
+- 60px-class semibold display claims
+- Dual CTA pattern (use product vs contact sales)
+
+**Avoid**
+
+- Tiny radii that make it feel like a generic form app
+- Introducing greens/purples that dilute the blue system
+- Dark-mode marketing that hides the blue stadium moments
+
+## Scope note
+
+Four home captures. Blue/black measured; radii and spacing strongly evidenced. Font families not declared in data.
+
+## Captured pages
+
+[![Home hero system](https://pin.fontofweb.com/9905?format=jpg)](https://design.withfudge.com/share/pin-9905)
+
+[Home hero system](https://design.withfudge.com/share/pin-9905)
+
+[![Closing CTA + footer](https://pin.fontofweb.com/9902?format=jpg)](https://design.withfudge.com/share/pin-9902)
+
+[Closing CTA + footer](https://design.withfudge.com/share/pin-9902)
+
+[![Mid-page crop](https://pin.fontofweb.com/9904?format=jpg)](https://design.withfudge.com/share/pin-9904)
+
+[Mid-page crop](https://design.withfudge.com/share/pin-9904)
+
+[![Alternate home crop](https://pin.fontofweb.com/9903?format=jpg)](https://design.withfudge.com/share/pin-9903)
+
+[Alternate home crop](https://design.withfudge.com/share/pin-9903)
+
+## Colors
+
+- `#245fff`
+- `#000000`
+- `#34343a`
+- `#ffffff`
+- `#f3f4f6`
