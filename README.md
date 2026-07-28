@@ -356,6 +356,14 @@ Cap is a **crisp monochrome SaaS** for screen recording: white canvas, black pri
 
 [Open guide](design-md/cap.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/cap.so-design)
 
+### cargo.site
+
+[![How cargo.site is designed](https://pin.fontofweb.com/6367?format=jpg)](design-md/cargo.site.md)
+
+Cargo is **extreme minimal chrome for maximal creative work**. The marketing home is a near-empty black field with huge white grotesk headlines (“Cargo Site Builder”, “Explore Sites / Start”), tiny sparse nav, and almost no decoration—plus a single vivid green partner/mark moment. The templates index stays black, with a grid of site thumbnails carrying all color and texture.
+
+[Open guide](design-md/cargo.site.md) · [View the Fudge conversation](https://design.withfudge.com/share/cargo.site-design)
+
 ### cavalry.studio
 
 [![How cavalry.studio is designed](https://pin.fontofweb.com/8893?format=jpg)](design-md/cavalry.studio.md)

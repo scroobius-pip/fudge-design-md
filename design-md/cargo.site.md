@@ -1,200 +1,77 @@
 # How cargo.site is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/cargo.site-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/cargo.site-design)
 
-Source domain: [cargo.site](https://cargo.site)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-10
+## Design character
 
-<!--
-coverPin: 6371
--->
+Cargo is **extreme minimal chrome for maximal creative work**. The marketing home is a near-empty black field with huge white grotesk headlines (“Cargo Site Builder”, “Explore Sites / Start”), tiny sparse nav, and almost no decoration—plus a single vivid green partner/mark moment. The templates index stays black, with a grid of site thumbnails carrying all color and texture.
 
-Here is the visual system observed across **5 captured pages** from [cargo.site](https://cargo.site).
+What should survive adaptation:
+- Black void canvas + white type
+- Monumental, simple sans display
+- Navigation as whisper-weight text
+- Template/work previews as the only busy surfaces
 
-```fudge-colors
-[
-  "#ffffff",
-  "#000000",
-  "#111111",
-  "#030303",
-  "#141414",
-  "#dcdcdc",
-  "#d9d9d9",
-  "#0000ee",
-  "#707070",
-  "#a1a1a1",
-  "#298234",
-  "#5c5c5c",
-  "#1b4620",
-  "#121212",
-  "#7db2e8",
-  "#858585"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from cargo.site",
-  "sampleText": "cargo.site",
-  "fonts": [
-    {
-      "family": "Cargo Diatype Plus",
-      "familyId": 2108,
-      "pinId": 6371,
-      "domain": "cargo.site",
-      "weight": "400",
-      "size": "14.5px",
-      "lineHeight": "23.925px",
-      "letterSpacing": "normal",
-      "frequency": 267
-    },
-    {
-      "family": "Sf Pro",
-      "familyId": 69,
-      "pinId": 6371,
-      "domain": "cargo.site",
-      "weight": "400",
-      "size": "14.5px",
-      "lineHeight": "14.5px",
-      "letterSpacing": "normal",
-      "frequency": 7
-    }
-  ]
-}
-```
+### Color
+Structured roles unsupported. Visually: `#000000` ground, `#ffffff` type, muted gray meta, occasional **vivid green** badge/logo (e.g. DINAMO mark). Do not build a pastel secondary palette into the chrome.
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 5 |
-| Colors | 47 |
-| Spacing values | 28 |
-| Borders and radii | 3 |
-| Shadows | 0 |
-| Gradients | 0 |
+### Typography
+Weights 300–500. Body/UI ~12–17px; display jumps to **~60px**. Light-to-regular large type on black is the signature—not ultra-black heavy posters.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6371,
-      "title": "Cargo",
-      "domain": "cargo.site/",
-      "pageUrl": "cargo.site/",
-      "imageUrl": "https://pin.fontofweb.com/6371?format=jpg",
-      "colors": [
-        "#141414",
-        "#111111",
-        "#a1a1a1",
-        "#ffffff",
-        "#298234",
-        "#5c5c5c",
-        "#1b4620",
-        "#121212"
-      ],
-      "fonts": [
-        "Cargo Diatype Plus",
-        "Sf Pro"
-      ]
-    },
-    {
-      "pinId": 6370,
-      "title": "Cargo: Templates",
-      "domain": "cargo.site/templates",
-      "pageUrl": "cargo.site/templates",
-      "imageUrl": "https://pin.fontofweb.com/6370?format=jpg",
-      "colors": [
-        "#989898",
-        "#8f7b27",
-        "#5d564b",
-        "#1d308a",
-        "#0479fb",
-        "#000000",
-        "#ffffff",
-        "#747370"
-      ],
-      "fonts": [
-        "Sf Pro"
-      ]
-    },
-    {
-      "pinId": 6369,
-      "title": "Cargo: Templates",
-      "domain": "cargo.site/templates/preview/3225613",
-      "pageUrl": "cargo.site/templates/preview/3225613",
-      "imageUrl": "https://pin.fontofweb.com/6369?format=jpg",
-      "colors": [
-        "#5e5e5e",
-        "#3a3a3a",
-        "#ffffff",
-        "#030303",
-        "#141414",
-        "#0000ee",
-        "#b8b8b8",
-        "#f7f7f7"
-      ],
-      "fonts": [
-        "Cargo Diatype Plus"
-      ]
-    },
-    {
-      "pinId": 6368,
-      "title": "Cargo: Templates",
-      "domain": "cargo.site/templates",
-      "pageUrl": "cargo.site/templates",
-      "imageUrl": "https://pin.fontofweb.com/6368?format=jpg",
-      "colors": [
-        "#161515",
-        "#ffffff",
-        "#f7f7f2",
-        "#111111",
-        "#c2bfbe",
-        "#707070",
-        "#995526",
-        "#617ca6"
-      ],
-      "fonts": [
-        "Cargo Diatype Plus"
-      ]
-    },
-    {
-      "pinId": 6367,
-      "title": "Cargo",
-      "domain": "cargo.site/",
-      "pageUrl": "cargo.site/",
-      "imageUrl": "https://pin.fontofweb.com/6367?format=jpg",
-      "colors": [
-        "#676767",
-        "#1fa333",
-        "#141414",
-        "#d9d9d9",
-        "#dcdcdc",
-        "#363636",
-        "#929292",
-        "#094515"
-      ],
-      "fonts": [
-        "Cargo Diatype Plus"
-      ]
-    }
-  ]
-}
-```
+### Spacing and layout
+Unusual optical spacing including negative tracking-related values; macro layout is vast empty regions with type anchored left/right. Templates: multi-column square-ish preview grid with labels beneath.
 
-## Representative captures
-[![Cargo](https://pin.fontofweb.com/6371?format=jpg)](https://design.withfudge.com/pin/6371)
-[Cargo](https://design.withfudge.com/pin/6371) — [source page](https://cargo.site/)
+## Visual language
+- Almost no radius language in chrome (thumbnails may have slight 5px)
+- No shadows on marketing void
+- Grid hairlines on template index
+- Color lives inside embedded site previews
 
-[![Cargo: Templates](https://pin.fontofweb.com/6370?format=jpg)](https://design.withfudge.com/pin/6370)
-[Cargo: Templates](https://design.withfudge.com/pin/6370) — [source page](https://cargo.site/templates)
+## Components and states
+- Text-only nav (Templates, Community, Information, Start, Login)
+- Giant headline pairs
+- Template cards: preview + name + variant count chip
+- Minimal footer blurbs
 
-[![Cargo: Templates](https://pin.fontofweb.com/6369?format=jpg)](https://design.withfudge.com/pin/6369)
-[Cargo: Templates](https://design.withfudge.com/pin/6369) — [source page](https://cargo.site/templates/preview/3225613)
+## Responsive behavior
+Home/templates at 1712 and 2048. Grid column count is the main flex; black minimal system unchanged.
 
-[![Cargo: Templates](https://pin.fontofweb.com/6368?format=jpg)](https://design.withfudge.com/pin/6368)
-[Cargo: Templates](https://design.withfudge.com/pin/6368) — [source page](https://cargo.site/templates)
+## Practical guidance
+**Preserve** black void, huge light grotesk, gallery-as-color.
+**Avoid** filling the home with feature cards, gradients, or stock illustration that competes with templates.
 
-[![Cargo](https://pin.fontofweb.com/6367?format=jpg)](https://design.withfudge.com/pin/6367)
-[Cargo](https://design.withfudge.com/pin/6367) — [source page](https://cargo.site/)
+## Scope note
+`/`, `/templates`, and one template preview. Editor UI not studied.
+
+## Captured pages
+
+[![Home — black minimal hero](https://pin.fontofweb.com/6367?format=jpg)](https://design.withfudge.com/share/pin-6367)
+
+[Home — black minimal hero](https://design.withfudge.com/share/pin-6367)
+
+[![Templates gallery](https://pin.fontofweb.com/6368?format=jpg)](https://design.withfudge.com/share/pin-6368)
+
+[Templates gallery](https://design.withfudge.com/share/pin-6368)
+
+[![Templates — wide](https://pin.fontofweb.com/6370?format=jpg)](https://design.withfudge.com/share/pin-6370)
+
+[Templates — wide](https://design.withfudge.com/share/pin-6370)
+
+[![Template preview](https://pin.fontofweb.com/6369?format=jpg)](https://design.withfudge.com/share/pin-6369)
+
+[Template preview](https://design.withfudge.com/share/pin-6369)
+
+[![Home — wide](https://pin.fontofweb.com/6371?format=jpg)](https://design.withfudge.com/share/pin-6371)
+
+[Home — wide](https://design.withfudge.com/share/pin-6371)
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#1a1a1a`
+- `#22c55e`
