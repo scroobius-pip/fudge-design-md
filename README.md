@@ -644,6 +644,14 @@ EVE Frontier is dark, cinematic, and game-native. The canvas is near-black space
 
 [Open guide](design-md/evefrontier.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/evefrontier.com-design)
 
+### fable.co
+
+[![How fable.co is designed](https://pin.fontofweb.com/6894?format=jpg)](design-md/fable.co.md)
+
+Fable is a warm consumer social-reading product. Marketing and store surfaces use pill-dominant corners (often 48–60px), friendly mid-size type, and clear card/store modules. It feels approachable and app-like rather than literary-austere — community and discovery first.
+
+[Open guide](design-md/fable.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/fable.co-design)
+
 ### fastino.ai
 
 [![How fastino.ai is designed](https://pin.fontofweb.com/9733?format=jpg)](design-md/fastino.ai.md)

@@ -1,345 +1,76 @@
 # How fable.co is designed
 
-[Open the live Fudge conversation](https://design.withfudge.com/conversation/fable.co-design)
+[Open the live Fudge conversation](https://design.withfudge.com/share/fable.co-design)
 
-Source domain: [fable.co](https://fable.co)
+Last updated: 2026-07-28
 
-Last updated: 2026-02-21
+## Design character
 
-<!--
-coverPin: 6898
--->
+Fable is a warm consumer social-reading product. Marketing and store surfaces use pill-dominant corners (often 48–60px), friendly mid-size type, and clear card/store modules. It feels approachable and app-like rather than literary-austere — community and discovery first.
 
-Here is the visual system observed across **14 captured pages** from [fable.co](https://fable.co).
+What should survive adaptation:
+- Pill-heavy geometry (44–60px common, 12–24px secondary)
+- 24px page padding and 60–100px section padding
+- Friendly weight contrast (400 body, 600 labels)
+- Store/home as browsable content grids, not dense admin UI
 
-```fudge-colors
-[
-  "#000000",
-  "#161015",
-  "#ffffff",
-  "#070607",
-  "#f7f4ee",
-  "#292229",
-  "#064c37",
-  "#f8f8f8",
-  "#847f7c",
-  "#bcbcbc",
-  "#116ecd",
-  "#060606",
-  "#fefefe",
-  "#44a1d6",
-  "#084230",
-  "#697466"
-]
-```
+## Foundations
 
-```fudge-font-usage
-{
-  "title": "Typography captured from fable.co",
-  "sampleText": "fable.co",
-  "fonts": [
-    {
-      "family": "Inter",
-      "familyId": 2029,
-      "pinId": 6898,
-      "domain": "fable.co",
-      "weight": "400",
-      "size": "16px",
-      "lineHeight": "24px",
-      "letterSpacing": "normal",
-      "frequency": 1296
-    },
-    {
-      "family": "Test Heldane",
-      "familyId": 2196,
-      "pinId": 6898,
-      "domain": "fable.co",
-      "weight": "400",
-      "size": "26px",
-      "lineHeight": "28px",
-      "letterSpacing": "normal",
-      "frequency": 15
-    }
-  ]
-}
-```
+### Color
 
-## Captured details
-| Detail | Observed |
-| --- | ---: |
-| Captured pages | 14 |
-| Colors | 137 |
-| Spacing values | 68 |
-| Borders and radii | 17 |
-| Shadows | 3 |
-| Gradients | 0 |
+Structured color roles unsupported in this set. Visually expect light marketing surfaces with brand accents carried in illustration and buttons (confirm per screenshot when implementing). Do not invent a palette token list beyond what you see in pins.
 
-```fudge-pins
-{
-  "layout": "compact-card-grid",
-  "pins": [
-    {
-      "pinId": 6898,
-      "title": "Fable | Stories for everyone",
-      "domain": "fable.co/store",
-      "pageUrl": "fable.co/store",
-      "imageUrl": "https://pin.fontofweb.com/6898?format=jpg",
-      "colors": [
-        "#697466",
-        "#7e9bd4",
-        "#a5a3a5",
-        "#161211",
-        "#504128",
-        "#da8b37",
-        "#070607",
-        "#9f3427"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6896,
-      "title": "Fable | Stories for everyone",
-      "domain": "fable.co/store",
-      "pageUrl": "fable.co/store",
-      "imageUrl": "https://pin.fontofweb.com/6896?format=jpg",
-      "colors": [
-        "#161015",
-        "#2c4745",
-        "#3a8876",
-        "#843c71",
-        "#5aa5c8",
-        "#181619",
-        "#c94c41",
-        "#6b5b48"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6895,
-      "title": "Fable | Stories for everyone",
-      "domain": "fable.co/store",
-      "pageUrl": "fable.co/store",
-      "imageUrl": "https://pin.fontofweb.com/6895?format=jpg",
-      "colors": [
-        "#6dea1f",
-        "#bbbdc0",
-        "#a6c170",
-        "#000000",
-        "#faf9f6",
-        "#e13146",
-        "#ffffff",
-        "#292229"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6894,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/6894?format=jpg",
-      "colors": [
-        "#555351",
-        "#211b1c",
-        "#292229",
-        "#2b5873",
-        "#7f3022",
-        "#000000",
-        "#786226",
-        "#fdfdfe"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6893,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/6893?format=jpg",
-      "colors": [
-        "#44a1d5",
-        "#161015",
-        "#ffffff",
-        "#011023",
-        "#060606",
-        "#2c2b2b",
-        "#f7f4ee",
-        "#000000"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6892,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/6892?format=jpg",
-      "colors": [
-        "#4662a5",
-        "#161015",
-        "#ffffff",
-        "#2b2a33",
-        "#919296",
-        "#f9f7f3",
-        "#292229",
-        "#f3c730"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 6891,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/6891?format=jpg",
-      "colors": [
-        "#211d1d",
-        "#000000",
-        "#a0bb66",
-        "#f2c32e",
-        "#e3a8a2",
-        "#794e35",
-        "#2c6fe8",
-        "#084230"
-      ],
-      "fonts": [
-        "Inter",
-        "Test Heldane"
-      ]
-    },
-    {
-      "pinId": 2208,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/2208?format=jpg",
-      "colors": [
-        "#060606",
-        "#434342",
-        "#6a6969",
-        "#e6e5e4",
-        "#052119",
-        "#adaca8",
-        "#47b4c0",
-        "#2e645f"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 2207,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/2207?format=jpg",
-      "colors": [
-        "#060606",
-        "#fefefe",
-        "#333231",
-        "#9c9a9b",
-        "#c8c5c5",
-        "#656364",
-        "#a07d6a",
-        "#4a9fa7"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 2206,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/2206?format=jpg",
-      "colors": [
-        "#f1d640",
-        "#b7a69e",
-        "#0e0c0a",
-        "#4d3320",
-        "#8e6e56",
-        "#3b4041",
-        "#c6dfe9",
-        "#c9ab57"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 2205,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/2205?format=jpg",
-      "colors": [
-        "#f1d63f",
-        "#f9f8f3",
-        "#083829",
-        "#2b2324",
-        "#8b948a",
-        "#bec45a",
-        "#884f36",
-        "#726826"
-      ],
-      "fonts": []
-    },
-    {
-      "pinId": 2204,
-      "title": "Fable: The social app for bookworms and bingewatchers",
-      "domain": "fable.co/",
-      "pageUrl": "fable.co/",
-      "imageUrl": "https://pin.fontofweb.com/2204?format=jpg",
-      "colors": [
-        "#83bb6d",
-        "#f5f2eb",
-        "#1f2426",
-        "#29523e",
-        "#2a3ec7",
-        "#a8674a",
-        "#f7c732",
-        "#f25d17"
-      ],
-      "fonts": []
-    }
-  ]
-}
-```
+### Typography
 
-## Representative captures
-[![Fable | Stories for everyone](https://pin.fontofweb.com/6898?format=jpg)](https://design.withfudge.com/pin/6898)
-[Fable | Stories for everyone](https://design.withfudge.com/pin/6898) — [source page](https://fable.co/store)
+Families unsupported. Observed:
+- Body ~16/24
+- Titles ~26/28
+- Labels ~12–14/16 weight 600
 
-[![Fable | Stories for everyone](https://pin.fontofweb.com/6896?format=jpg)](https://design.withfudge.com/pin/6896)
-[Fable | Stories for everyone](https://design.withfudge.com/pin/6896) — [source page](https://fable.co/store)
+### Spacing and layout
 
-[![Fable | Stories for everyone](https://pin.fontofweb.com/6895?format=jpg)](https://design.withfudge.com/pin/6895)
-[Fable | Stories for everyone](https://design.withfudge.com/pin/6895) — [source page](https://fable.co/store)
+- Padding top ~60px common; 100px on larger bands
+- Horizontal 24px
+- Margin bottom ~24px stacks
+- Home + `/store` share the consumer system
 
-[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6894?format=jpg)](https://design.withfudge.com/pin/6894)
-[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6894) — [source page](https://fable.co/)
+Radii: 48px and 60px prominent (pills), 12px cards, 24px medium.
 
-[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6893?format=jpg)](https://design.withfudge.com/pin/6893)
-[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6893) — [source page](https://fable.co/)
+## Visual language
 
-[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6892?format=jpg)](https://design.withfudge.com/pin/6892)
-[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6892) — [source page](https://fable.co/)
+Border-separated surfaces, pill CTAs/chips, book-cover imagery as primary media. Taxonomy: software SaaS, pill-dominant corners, moderate density.
 
-[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6891?format=jpg)](https://design.withfudge.com/pin/6891)
-[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/6891) — [source page](https://fable.co/)
+## Components and states
 
-[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/2208?format=jpg)](https://design.withfudge.com/pin/2208)
-[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/pin/2208) — [source page](https://fable.co/)
+- App-style top nav
+- Hero with soft CTA pills
+- Book/store grids
+- Feature rows with rounded media
+
+## Practical guidance
+
+**Preserve** pill language and friendly consumer spacing.  
+**Avoid** sharp enterprise dashboards and tiny 2px radii everywhere.  
+**Adaptation** for social consumer apps and media storefronts.
+
+## Scope note
+
+Eight captures on `/` and `/store`. Color roles unsupported — rely on pins for hue. Font families unsupported.
+
+## Captured pages
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6894?format=jpg)](https://design.withfudge.com/share/pin-6894)
+
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/share/pin-6894)
+
+[![Fable | Stories for everyone](https://pin.fontofweb.com/6895?format=jpg)](https://design.withfudge.com/share/pin-6895)
+
+[Fable | Stories for everyone](https://design.withfudge.com/share/pin-6895)
+
+[![Fable | Stories for everyone](https://pin.fontofweb.com/6898?format=jpg)](https://design.withfudge.com/share/pin-6898)
+
+[Fable | Stories for everyone](https://design.withfudge.com/share/pin-6898)
+
+[![Fable: The social app for bookworms and bingewatchers](https://pin.fontofweb.com/6892?format=jpg)](https://design.withfudge.com/share/pin-6892)
+
+[Fable: The social app for bookworms and bingewatchers](https://design.withfudge.com/share/pin-6892)
