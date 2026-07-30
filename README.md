@@ -30,9 +30,9 @@ published through Fudge. Thin generated drafts are not listed as guides.
 
 ### 10er.com
 
-[![How 10er.com is designed](https://pin.fontofweb.com/7380?format=jpg)](design-md/10er.com.md)
+[![How 10er.com is designed](https://pin.fontofweb.com/7378?format=jpg)](design-md/10er.com.md)
 
-10er presents creator funding as friendly, direct, and visually confident. Its foundation is a deep charcoal field, but the identity is not purely monochrome: the primary action is a vivid blue, the pricing label introduces a warm orange, and the home page is energized by a row of colorful podcast and project covers. The result feels like a focused creator platform rather than a conventional financial dashboard.
+10er makes creator funding feel direct rather than financial. A near-black field, oversized centered language, one saturated blue action, and a small yellow circular mark create the shell. Creator work—podcast covers, portraits, expressive type, and vivid artwork—provides the personality. The product chrome remains spare.
 
 [Open guide](design-md/10er.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/10er.com-design)
 
