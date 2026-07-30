@@ -486,9 +486,9 @@ Origin Financial pairs a **premium dark brand moment** with a **clean light prod
 
 ### apple.com
 
-[![How apple.com is designed](https://pin.fontofweb.com/9884?format=jpg)](design-md/apple.com.md)
+[![How apple.com is designed](https://pin.fontofweb.com/9883?format=jpg)](design-md/apple.com.md)
 
-The captured Apple shop pages are quiet, light, and product-led. The interface keeps the visual field neutral and lets product information, large imagery, and a small number of actions carry emphasis. The strongest recurring qualities are centered content, generous horizontal margins on wide screens, fine rules, and a restrained neutral palette with blue reserved for interactive text.
+Apple Store commerce is precise, spacious, neutral, and conversion-focused. A broad white canvas gives product imagery and purchase information room to breathe; near-black and cool-gray type create hierarchy; blue is reserved for links and decisive actions. Softly rounded pale panels frame the hardware, while one-pixel dividers organize configuration, checkout, FAQ, and legal information without turning the interface into a field of cards.
 
 [Open guide](design-md/apple.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/apple.com-design)
 
