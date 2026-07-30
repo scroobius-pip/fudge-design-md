@@ -32,7 +32,7 @@ published through Fudge. Thin generated drafts are not listed as guides.
 
 [![How 10er.com is designed](https://pin.fontofweb.com/7380?format=jpg)](design-md/10er.com.md)
 
-10er is a dark, product-marketing surface for fan-funded creator payments. The system is **high-contrast monochrome SaaS**: near-black canvas, soft zinc grays for secondary text, and white as the only hard accent on primary actions. Layouts are centered and sparse — one big claim, a short proof line, then a single path to act. The vibe is calm confidence rather than flashy fintech.
+10er presents creator funding as friendly, direct, and visually confident. Its foundation is a deep charcoal field, but the identity is not purely monochrome: the primary action is a vivid blue, the pricing label introduces a warm orange, and the home page is energized by a row of colorful podcast and project covers. The result feels like a focused creator platform rather than a conventional financial dashboard.
 
 [Open guide](design-md/10er.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/10er.com-design)
 
