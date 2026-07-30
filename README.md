@@ -1824,7 +1824,7 @@ frame.work (Framework) sells modular laptops with a **clean hardware-brand syste
 
 [![How framer.com is designed](https://pin.fontofweb.com/10162?format=jpg)](design-md/framer.com.md)
 
-Framer’s marketing site is a **black-canvas product theater** for a visual website builder and AI agents. High-contrast and cinematic: pure black fields, white grotesque display, soft 18–25px rounded cards, electric blue accent (`#0099ff`), and lush product/video imagery in rounded stages. Density is intentional — capability grids, logo walls, stacked demos — always on dark velvet rather than gray SaaS chrome.
+Framer’s captured marketing pages are a high-contrast product stage: a visually black field, broad white statements, subdued gray detail, and product demonstrations that supply the texture. The interface is deliberately quiet around the demonstrations. Thin dividers, rounded dark panels, and modest pill actions create order without turning the page into conventional light SaaS chrome.
 
 [Open guide](design-md/framer.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/framer.com-design)
 
