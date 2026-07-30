@@ -20,6 +20,14 @@ published through Fudge. Thin generated drafts are not listed as guides.
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
+### 100x.bot
+
+[![How 100x.bot is designed](https://pin.fontofweb.com/3649?format=jpg)](design-md/100x.bot.md)
+
+100x.bot presents automation as a calm editorial product rather than a technical dashboard. The shell is light, spacious, and easy to scan; the expressive work happens in oversized claims, softly colored feature cards, monochrome portraits, and occasional hand-drawn illustrations. Near-black sections and a few saturated actions create punctuation without turning the whole page into a high-energy SaaS gradient.
+
+[Open guide](design-md/100x.bot.md) · [View the Fudge conversation](https://design.withfudge.com/share/100x.bot-design)
+
 ### 10er.com
 
 [![How 10er.com is designed](https://pin.fontofweb.com/7380?format=jpg)](design-md/10er.com.md)
