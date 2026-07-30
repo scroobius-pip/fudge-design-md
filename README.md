@@ -2036,6 +2036,14 @@ Inngest is a **dark developer-infrastructure** brand. The site feels like a poli
 
 [Open guide](design-md/inngest.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
 
+### linear.app
+
+[![How linear.app is designed](https://pin.fontofweb.com/10441?format=jpg)](design-md/linear.app.md)
+
+Linear combines an editorially spare product pitch with an operational workspace. The marketing capture is a near-black stage: a short navigation bar, a large white proposition, muted supporting copy, and a product frame that becomes the proof. The application is quieter and denser. It makes project work legible through persistent chrome, shallow layers, compact metadata, hairline separators, and purposeful empty space rather than through large cards or decorative color.
+
+[Open guide](design-md/linear.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/linear.app-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
