@@ -1960,7 +1960,7 @@ Grey is a **calm, photography-led neobank brand**: soft blue studio gradients, o
 
 [![How grok.com is designed](https://pin.fontofweb.com/10170?format=jpg)](design-md/grok.com.md)
 
-Grok is a **void-black AI chat product**: pure black canvas, monochrome wordmark + orbital glyph, and a single centered **full-pill prompt bar**. Marketing and product share the same darkness; the only warm fleck is a small **orange** “Try Free” chip on promo cards. It feels closer to a terminal stage than a colorful consumer assistant.
+Grok is a deliberately quiet AI interface: large fields of near-black or near-white space, one centered task, and carefully contained utility. It feels more like a focused instrument than a dashboard. The strongest visual contrast comes from surface mode, not from a large color palette.
 
 [Open guide](design-md/grok.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/grok.com-design)
 
