@@ -2,7 +2,29 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/youworkforthem.com-design)
 
-Last updated: 2026-07-28
+Last updated: 2026-07-30
+
+## Captured pages
+
+[![Home — catalog hero, alternatives row, footer](https://pin.fontofweb.com/7435?format=jpg)](https://design.withfudge.com/share/pin-7435)
+
+[Home — catalog hero, alternatives row, footer](https://design.withfudge.com/share/pin-7435)
+
+[![Home — ultra-wide densified grid](https://pin.fontofweb.com/7434?format=jpg)](https://design.withfudge.com/share/pin-7434)
+
+[Home — ultra-wide densified grid](https://design.withfudge.com/share/pin-7434)
+
+[![Free fonts listing](https://pin.fontofweb.com/7437?format=jpg)](https://design.withfudge.com/share/pin-7437)
+
+[Free fonts listing](https://design.withfudge.com/share/pin-7437)
+
+[![Bebas Neue Font Alternatives collection](https://pin.fontofweb.com/7436?format=jpg)](https://design.withfudge.com/share/pin-7436)
+
+[Bebas Neue Font Alternatives collection](https://design.withfudge.com/share/pin-7436)
+
+[![Registration gate on a font page](https://pin.fontofweb.com/7433?format=jpg)](https://design.withfudge.com/share/pin-7433)
+
+[Registration gate on a font page](https://design.withfudge.com/share/pin-7433)
 
 ## Design character
 
@@ -202,28 +224,6 @@ Studied from five desktop captures on `youworkforthem.com`:
 Supported well: marketplace chrome, catalog density, card anatomy, free-price accent, collection header, registration split modal, wide-grid densification.
 
 Not established here: exact UI font family/licence, full spacing scale beyond the retained samples, mobile/tablet navigation, motion, and a complete semantic color system beyond black / white / free-green (plus the visually obvious blue registration treatment).
-
-## Captured pages
-
-[![Home — catalog hero, alternatives row, footer](https://pin.fontofweb.com/7435?format=jpg)](https://design.withfudge.com/share/pin-7435)
-
-[Home — catalog hero, alternatives row, footer](https://design.withfudge.com/share/pin-7435)
-
-[![Home — ultra-wide densified grid](https://pin.fontofweb.com/7434?format=jpg)](https://design.withfudge.com/share/pin-7434)
-
-[Home — ultra-wide densified grid](https://design.withfudge.com/share/pin-7434)
-
-[![Free fonts listing](https://pin.fontofweb.com/7437?format=jpg)](https://design.withfudge.com/share/pin-7437)
-
-[Free fonts listing](https://design.withfudge.com/share/pin-7437)
-
-[![Bebas Neue Font Alternatives collection](https://pin.fontofweb.com/7436?format=jpg)](https://design.withfudge.com/share/pin-7436)
-
-[Bebas Neue Font Alternatives collection](https://design.withfudge.com/share/pin-7436)
-
-[![Registration gate on a font page](https://pin.fontofweb.com/7433?format=jpg)](https://design.withfudge.com/share/pin-7433)
-
-[Registration gate on a font page](https://design.withfudge.com/share/pin-7433)
 
 ## Colors
 
