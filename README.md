@@ -2044,6 +2044,14 @@ Linear combines an editorially spare product pitch with an operational workspace
 
 [Open guide](design-md/linear.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/linear.app-design)
 
+### stripe.com
+
+[![How stripe.com is designed](https://pin.fontofweb.com/7595?format=jpg)](design-md/stripe.com.md)
+
+Stripe's captured homepage is a calm editorial product interface: a pale canvas, dense dark-blue type, restrained lilac controls, fine dividers, and product imagery that participates in the layout rather than sitting apart from it.
+
+[Open guide](design-md/stripe.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/stripe.com-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
