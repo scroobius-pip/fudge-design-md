@@ -488,7 +488,7 @@ Origin Financial pairs a **premium dark brand moment** with a **clean light prod
 
 [![How apple.com is designed](https://pin.fontofweb.com/9884?format=jpg)](design-md/apple.com.md)
 
-Apple’s storefront is the textbook of **restrained premium commerce**: vast white space, near-black SF-like sans, one blue interactive accent, and photography that does the selling. UI chrome is almost invisible—thin utility bars, frosted controls, hairline rules—so product finishes and typography carry the brand.
+The captured Apple shop pages are quiet, light, and product-led. The interface keeps the visual field neutral and lets product information, large imagery, and a small number of actions carry emphasis. The strongest recurring qualities are centered content, generous horizontal margins on wide screens, fine rules, and a restrained neutral palette with blue reserved for interactive text.
 
 [Open guide](design-md/apple.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/apple.com-design)
 
