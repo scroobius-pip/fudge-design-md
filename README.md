@@ -504,7 +504,7 @@ Arcee AI presents as a **cinematic dark brand landing**: near-black full-bleed a
 
 [![How arcraiders.com is designed](https://pin.fontofweb.com/7113?format=jpg)](design-md/arcraiders.com.md)
 
-ARC Raiders is **AAA game marketing chrome**: dark metallic environments, cream/off-white body type, and a hot gold accent (`#f1aa1c`) for CTAs and highlights. Type is loud—condensed or heavy display at 64–80px—set against cinematic key art. The UI feels tactical and industrial rather than friendly SaaS.
+ARC Raiders pairs a utilitarian game-world identity with unusually disciplined editorial structure. It alternates between cinematic, character-led dark campaign surfaces and a warm paper-like reading surface for news. The signature is not a generic sci-fi dashboard: it is bold black type, cream stock, gold action color, and a repeated stack of bright signal stripes.
 
 [Open guide](design-md/arcraiders.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcraiders.com-design)
 
