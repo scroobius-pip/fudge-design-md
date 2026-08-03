@@ -6,157 +6,156 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![The Crypto Anarchist Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/share/pin-9527)
+[![Light homepage hero with oversized split title and book-spine shelf](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/share/pin-9524)
 
-[The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/share/pin-9527)
+[Light homepage hero with oversized split title and book-spine shelf](https://design.withfudge.com/share/pin-9524)
 
-[![A Cypherpunk's Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/share/pin-9526)
+[![Dark homepage hero with the same split title over a near-black stage](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/share/pin-9522)
 
-[A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/share/pin-9526)
+[Dark homepage hero with the same split title over a near-black stage](https://design.withfudge.com/share/pin-9522)
 
-[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/share/pin-9525)
+[![Light collection view with search field, filter pills, and dense cover grid](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/share/pin-9525)
 
-[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/share/pin-9525)
+[Light collection view with search field, filter pills, and dense cover grid](https://design.withfudge.com/share/pin-9525)
 
-[![The Cypherpunk Library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/share/pin-9524)
+[![Dark collection view with inverted chrome and the same dense cover grid](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/share/pin-9523)
 
-[The Cypherpunk Library](https://design.withfudge.com/share/pin-9524)
+[Dark collection view with inverted chrome and the same dense cover grid](https://design.withfudge.com/share/pin-9523)
 
-[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/share/pin-9523)
+[![Book detail page with a tall maroon cover beside title and summary](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/share/pin-9526)
 
-[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/share/pin-9523)
+[Book detail page with a tall maroon cover beside title and summary](https://design.withfudge.com/share/pin-9526)
 
-[![The Cypherpunk Library](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/share/pin-9522)
+[![Reading-page excerpt card under long body text and a centered note](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/share/pin-9527)
 
-[The Cypherpunk Library](https://design.withfudge.com/share/pin-9522)
+[Reading-page excerpt card under long body text and a centered note](https://design.withfudge.com/share/pin-9527)
 
 ## Overview
 
-cypherpunkbooks.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#1c1b12`, `#f1ecd9`, and `#ffffe1`, with typography led by **Inter**, **Times**, **Alpha Lyrae**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Cypherpunkbooks.com is a quiet archive built around the feeling of a serious reading room rather than a product dashboard. The page uses a warm paper field, near-black ink, and restrained chrome so the books stay central. The most memorable brand move is the display type: Alpha Lyrae has a geometric, slightly fractured rhythm that makes the hero and collection titles feel encoded without turning playful or loud. Inter handles the reading copy, Applesystem appears in tiny platform notes, and Times stays only as a fallback serif layer.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The site changes scale more than style. The home page opens with an oversized title and a low row of book spines. The collection page replaces the hero with a search bar, category pills, and a tightly packed grid. The book page shifts into a two-column reading layout with a tall cover, a title block, and a long article column below. The same visual grammar holds in light and dark modes: cream paper and dark ink on one side, deep olive-black and cream text on the other.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#1c1b12` | text on page content |
-| color.text | `#f1ecd9` | text on page content |
-| color.surface | `#ffffe1` | surface on page content |
-| color.surface | `#14130c` | surface on page content |
-| color.shadow | `#282412` | shadow on page content in the header |
-| color.text | `#000000` | text on page content |
-| color.text | `#ffffff` | text on page content in the header |
-| color.surface | `#7a1f2b` | surface on page content in the header |
-| color.surface | `#14532d` | surface on page content in the main |
-| color.surface | `#c2410c` | surface on page content in the main |
-| color.surface | `#1a1a1a` | surface on page content in the main |
-| color.surface | `#b51d22` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Inter** | 16px | 400 | normal | normal | <body>, <div>, <main> in the main, <header> in the header, <div> in the header, <nav> in the nav, <button> in the button, <div> in the main, <a> in the main, <span> in the main, and <svg> in the button |
-| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
-| type.body-19px | **Inter** | 19px | 400 | 33.25px | normal | <p> in the main and <article> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.display-56px | **Alpha Lyrae** | 56px | 500 | 56px | -1.4px | <h1> in the header |
-| type.body-19.2px | **Alpha Lyrae** | 19.2px | 500 | 21.12px | -0.192px | <span> in the main |
-| type.body-15px | **Alpha Lyrae** | 15px | 500 | 18px | -0.15px | <h3> in the main |
-| type.body-15px | **Inter** | 15px | 400 | normal | normal | <input> in the main |
-| type.utility-13px | **Inter** | 13px | 400 | normal | normal | <p> in the main and <button> in the button |
-| type.display-64px | **Alpha Lyrae** | 64px | 500 | 64px | -1.28px | <h1> in the header |
-| type.utility-11px | **Inter** | 11px | 400 | normal | normal | <span> in the main |
-| type.body-22px | **Alpha Lyrae** | 22px | 500 | 20.24px | -0.22px | <span> in the header and <a> in the header |
-| type.body-20px | **Alpha Lyrae** | 20px | 500 | 23.2px | 0.2px | <span> in the main |
-| type.utility-8.5px | **Inter** | 8.5px | 500 | normal | 1.36px | <span> in the main |
-| type.utility-13px | **Inter** | 13px | 400 | 20.8px | normal | <footer> in the footer, <a> in the footer, <a> in the main, and <p> in the main |
-| type.body-16px | **Inter** | 16px | 400 | 26.88px | normal | <p> in the header |
-| type.body-17px | **Inter** | 17px | 400 | 27.2px | normal | <p> in the header |
-| type.display-35.2px | **Alpha Lyrae** | 35.2px | 500 | 37.312px | -0.352px | <span> in the header |
-| type.body-18px | **Inter** | 18px | 400 | normal | normal | <p> in the header |
-| type.utility-12px | **Inter** | 12px | 500 | normal | 2.16px | <a> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `56px` | padding-right | page content |
-| `56px` | padding-left | page content |
-| `26.44px 56px 140px` | padding | page content |
-| `26.44px` | padding-top | page content |
-| `140px` | padding-bottom | page content |
-| `0px 262.5px` | margin | page content |
-| `262.5px` | margin-right | page content |
-| `262.5px` | margin-left | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 2px 6px 6px 2px`, `0px none 2px 5px 5px 2px`, `0px none 2px 7px 7px 2px`, `0px none 0px 2px 2px 0px`, `1px solid 8px`, `1px solid 8px`, `1px 0px 0px solid none none 0px`, and `1px solid 999px` border treatments. Recorded gradients include `radial-gradient(125% 70% at 78% -4%, rgb(255, 255, 242) 0%, rgb(255, 255, 225) 52%)`, `radial-gradient(125% 92% at 72% -6%, rgb(255, 255, 242) 0%, rgb(255, 255, 225) 56%)`, `radial-gradient(125% 92% at 72% -6%, rgb(33, 31, 21) 0%, rgb(20, 19, 12) 56%)`, `radial-gradient(125% 70% at 78% -4%, rgb(33, 31, 21) 0%, rgb(20, 19, 12) 52%)`, `linear-gradient(rgba(8, 7, 3, 0) 0%, rgba(8, 7, 3, 0.34) 52%, rgba(8, 7, 3, 0.74) 100%)`, `linear-gradient(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0) 12%)`, `linear-gradient(90deg, rgb(239, 233, 218) 0px, rgb(239, 233, 218) 1px, rgb(207, 198, 176) 1px, rgb(207, 198, 176) 2.2px)`, and `linear-gradient(rgb(239, 233, 218), rgb(212, 204, 182))`. Recorded shadows include `rgba(40, 36, 18, 0.16) 0px 1px 1px 0px, rgba(40, 36, 18, 0.2) 0px 14px 30px 0px`, `rgba(0, 0, 0, 0.28) 7px 0px 16px 0px inset, rgba(255, 255, 255, 0.08) -3px 0px 8px 0px inset, rgba(0, 0, 0, 0.14) 0px 0px 0px 1px inset, rgba(40, 36, 18, 0.3) 0px 13px 20px 0px, rgba(40, 36, 18, 0) 0px 0px 0px 0px`, `rgba(40, 36, 18, 0.16) 0px 1px 1px 0px, rgba(40, 36, 18, 0.26) 0px 26px 56px 0px, rgba(0, 0, 0, 0.2) 7px 0px 16px 0px inset`, `rgba(255, 255, 255, 0.14) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px 0px inset, rgba(40, 36, 18, 0.2) 0px 1px 1px 0px, rgba(40, 36, 18, 0.24) 0px 6px 14px 0px, rgba(40, 36, 18, 0.16) 0px 14px 28px 0px`, and `rgba(40, 36, 18, 0.16) 0px 1px 2px 0px`.
+The system feels archival because it is sparse. Color comes from the covers, not from the interface. Depth comes from soft shadow and slight surface shifts, not from heavy cards or bright borders. The result is a page that treats each book like a physical object on a shelf.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#ffffe1`, `#14130c`, and `#7a1f2b`. Text colors include `#1c1b12`, `#f1ecd9`, and `#000000`. Keep image-derived colors separate from interface colors.
+The interface is built from a small warm-neutral range. On light pages, the canvas sits between `#FFFFF2` and `#FFFFE1`, with raised surfaces closer to `#FBF7E6` and `#EFE9D0`. Those cream tones keep the page soft and paper-like without drifting into pure white. The main ink is `#1C1B12`, which reads as black-brown rather than true black, and the muted copy color `#6B6856` carries metadata, labels, and secondary notes.
+
+Dark mode inverts the same system rather than replacing it. `#14130C` becomes the stage color, while the text switches to `#FBF7E6`. That keeps the contrast strong but still warm. Borders stay soft at `#CFC6B0` or `#E4DDC0`, so the structure never hardens into a grid of gray lines. The accent surface is not a bright brand color; the strongest action treatment is the dark button fill itself, with the page sometimes reversing that button to cream in dark mode.
+
+The book covers introduce the color story. Maroon, navy, green, orange, violet, red, and teal appear as solid cover blocks, but the chrome stays neutral. That separation matters: the shelf should look like a collection of objects, not a neon interface. The page also uses gentle radial background transitions, from `#FFFFF2` toward `#FFFFE1` in light mode and from `#211F15` toward `#14130C` in dark mode, which keeps the field soft at the edges.
 
 ## Typography
 
-The captured type system uses **Inter**, **Times**, **Applesystem**, and **Alpha Lyrae**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+No licensing details were supplied for these families.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Alpha Lyrae | 4rem | 500 | 1 | -0.02em | Home hero and large archival title |
+| section-display | Alpha Lyrae | 3.5rem | 500 | 1 | -0.025em | Collection headline and other large section titles |
+| book-title | Alpha Lyrae | 1.25rem | 500 | 1.1 | -0.01em | Cover text and strong page titles |
+| body-large | Inter | 1.1875rem | 400 | 1.75 | 0em | Intro paragraphs and long reading copy |
+| body | Inter | 1rem | 400 | 1.5 | 0em | General explanatory text |
+| meta | Inter | 0.8125rem | 400 | 1.6 | 0em | Author, year, and supporting notes |
+| label | Inter | 0.75rem | 500 | 1 | 0.16em | Filters, categories, and eyebrow text |
+| micro | Inter | 0.53125rem | 500 | 1 | 0.16em | Tiny cover labels and sparse UI detail |
+| platform-note | Applesystem | 0.875rem | 400 | 1 | 0em | Small utility notes and platform-style labels |
+| fallback-serif | Times | 1rem | 400 | 1 | 0em | Serif fallback layer when the page needs one |
+
+Alpha Lyrae gives the site its sharp editorial edge. The letters are tall, clean, and slightly mechanical, with a few blocky interruptions that make the title feel encoded rather than decorative. Inter is deliberately neutral. It keeps the titles from becoming theatrical and lets the reading pages stretch out comfortably. The hierarchy relies on size, weight, and generous line-height rather than on many font families. On the long reading page, the larger body size and open leading are crucial; they create the measured pace of a text archive instead of a marketing landing page. Applesystem only appears in small utility-scale text, so it should stay visually subordinate. Times should stay inert and rare, used only when the page needs a plain serif fallback.
 
 ## Layout
 
-The captured pages use values such as `56px`, `56px`, `26.44px 56px 140px`, `26.44px`, and `140px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The desktop layout is wide and centered, but not boxed. Large side gutters give the page a reading-room feeling, while the content itself moves between full-bleed stages and narrow reading columns. The home page uses the broadest composition: a large title sits in the upper left, a short explanatory block sits to the right, and a row of book spines anchors the lower edge. That bottom row is important because it makes the archive feel physical from the first screen.
+
+The collection page is denser and more utilitarian. A search field stretches across the content width, then small count pills and a compact view switch sit beside it. The shelf grid below is tightly aligned in columns, with each book card keeping its own vertical rhythm. Captions sit directly beneath covers so the eye can move from image to title without losing the shelf structure. The dark collection version keeps the same layout, only changing the canvas and text inversion.
+
+The book detail page narrows the field again. A tall cover on the left balances a title stack on the right, and the article continues below with a readable line length that leaves generous empty margins. The reading excerpt panel is centered and slightly inset, like a clipped sheet resting on the page. Across all views, spacing is intentionally spacious: 56px side gutters, strong chapter gaps, and 28–36px grid separations keep the page calm even when many books are present.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffe1`, `#14130c`, `#7a1f2b`, and `#14532d`. Depth is supported by the returned gradients and shadows.
+The page speaks in paper, spines, and shadows. The background is warm enough to feel printed, not digital. The interface pieces are quiet and almost shy, so the books can take the lead. Shapes are mostly rectangular, with only light rounding on inputs, pills, covers, and the small action button. That restraint gives the page a disciplined archival tone.
 
-## Components and states
+Depth is soft rather than glossy. Book covers lift through layered shadow, and the shadows are especially important on the collection grid where the cards need to read as physical objects. The darker shells deepen the contrast without introducing a glossy night mode. The result is a visual language that changes atmosphere but keeps the same structure.
 
-The captured pages include repeated styling on <div>, <body>, <html>, <main>, <p>, <article>, <footer>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The strongest texture comes from contrast between the encoded title style and the plain reading text. Alpha Lyrae feels modular and slightly broken at the edges, while Inter stays matter-of-fact. That pairing makes the site feel like a library with a secret signal inside it: the titles have personality, but the copy remains steady and direct. Chrome never competes with the covers. The system prefers low, steady tones, thin rules, small controls, and long blocks of reading space.
+
+## Components
+
+### Masthead
+- **Anatomy:** stacked wordmark at top left, small collection link at top right, and a compact circular mode control.
+- **Surface:** transparent over the page field, with no heavy container around it.
+- **Typography:** the wordmark and hero share the same display family logic; the small controls stay in Inter.
+- **Composition:** keep the masthead light and subordinate. It should frame the page, not become a second headline.
+
+### Hero statement
+- **Anatomy:** oversized multiline title, short supporting sentence, and a small action block or shelf illustration depending on the page.
+- **Typography:** Alpha Lyrae at the largest scale in the system, with crisp leading and tight negative tracking.
+- **Visible states:** selected letters break into blocky cuts, which gives the title a coded rhythm.
+- **Composition:** the title needs room. It should sit high and left, with the rest of the page breathing around it.
+
+### Search and filter bar
+- **Anatomy:** rounded search field, category count pills, and a compact grid/list toggle.
+- **Shape:** shallow rectangles and capsule shapes, all kept small and tidy.
+- **Surface:** light fill on cream pages, dark fill on dark pages, with soft outlines rather than harsh borders.
+- **Visible states:** one toggle state appears filled while the other stays quiet, so the active mode reads immediately without extra ornament.
+
+### Book cover card
+- **Anatomy:** tall cover block, small series label, title, author, and year.
+- **Surface:** saturated cover color with a subtle lift from the page.
+- **Typography:** Alpha Lyrae on the cover text, Inter for metadata underneath.
+- **Variants:** maroon, navy, green, orange, violet, teal, and red covers all sit comfortably in the same grid.
+- **Hierarchy:** the cover color does the heavy lifting; the title just needs to be legible enough to invite a click.
+
+### Book detail layout
+- **Anatomy:** cover on the left, title and summary on the right, then a long article column below.
+- **Spacing:** wide side margins and a generous break before the reading text begins.
+- **Composition:** this is a reading page, not a landing page. The layout should feel like an open book with margin space around it.
+- **Visible states:** the dark theme keeps the same structure but flips the canvas and text values cleanly.
+
+### Excerpt panel
+- **Anatomy:** centered inset panel with a thin border and a soft shadow.
+- **Surface:** slightly raised against the paper background so the excerpt reads as a separate inserted object.
+- **Typography:** quiet Inter text with small supporting copy beneath.
+- **Composition:** use the panel for a short note or archival aside, not for dense content blocks.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower widths, the layout should keep the same reading order: title first, supporting copy next, then covers or article text. The hero should stack before the shelf grid, and the book detail page should put the cover above the reading column when horizontal space runs out. The search bar and filter pills should compress before the content loses its rhythm. The dark and light themes should remain structurally identical so the page does not need a second layout language for smaller screens.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- Keep the cream-and-ink pairing as the default reading mood.
+- Preserve the Alpha Lyrae / Inter split: one expressive display family, one steady reading family.
+- Keep the book covers as the primary source of color.
+- Leave plenty of empty space around the hero, the collection grid, and the long reading column.
+- Retain the soft shadow language on covers and inset panels.
+
+### Avoid
+- Avoid bright SaaS blues, glossy gradients, and glassy card treatments.
+- Avoid making every surface a card; the page works because most of it is open canvas.
+- Avoid over-rounding the controls. The system is firmer than a chat app.
+- Avoid adding extra font families or ornamental type treatments.
+- Avoid heavy borders that would make the shelf feel boxed in.
+
+### Recommended build order
+1. Set the canvas, ink, and dark inversion colors.
+2. Build the masthead and hero title scale.
+3. Add the book cover card and shadow treatment.
+4. Assemble the search bar, filter pills, and view toggle.
+5. Build the collection grid and caption rhythm.
+6. Add the book detail layout and excerpt panel.
+7. Confirm the dark theme and the narrow-width stacking behavior.
+
+### Accessibility
+- Keep contrast strong on both the cream and dark canvases.
+- Make every icon control and mode switch clearly labeled.
+- Preserve readable line length on the long article pages.
+- Use a visible focus style on the search field, pills, toggle, and any cover link.
+- Do not rely on color alone to show active state; pair it with fill, outline, or position.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#1c1b12`
-- `#f1ecd9`
-- `#ffffe1`
-- `#14130c`
-- `#282412`
-- `#000000`
-- `#ffffff`
-- `#7a1f2b`
-- `#14532d`
-- `#c2410c`
-- `#1a1a1a`
-- `#b51d22`
-- `#0f3d3e`
-- `#16243f`
-- `#0b1f3a`
-- `#3a1d52`
-
-## Typography captured from cypherpunkbooks.com
-
-- **Inter** — weight 400 · size 16px
-- **Times** — weight 400 · size 16px
-- **Alpha Lyrae** — weight 500 · size 22px
-- **Applesystem** — weight 400 · size 14px
+This guide covers the home hero, the collection grid, the book detail page, the reading excerpt panel, and the shared header chrome in light and dark modes. Mobile-specific spacing, motion, hover transitions, and exact focus or disabled treatments are not supplied here.

@@ -1209,9 +1209,9 @@ Cursor’s visual language is a dark developer workspace, not a bright consumer 
 
 ### cypherpunkbooks.com
 
-[![How cypherpunkbooks.com is designed](https://pin.fontofweb.com/9527?format=jpg)](design-md/cypherpunkbooks.com.md)
+[![How cypherpunkbooks.com is designed](https://pin.fontofweb.com/9524?format=jpg)](design-md/cypherpunkbooks.com.md)
 
-cypherpunkbooks.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#1c1b12`, `#f1ecd9`, and `#ffffe1`, with typography led by **Inter**, **Times**, **Alpha Lyrae**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Cypherpunkbooks.com is a quiet archive built around the feeling of a serious reading room rather than a product dashboard. The page uses a warm paper field, near-black ink, and restrained chrome so the books stay central. The most memorable brand move is the display type: Alpha Lyrae has a geometric, slightly fractured rhythm that makes the hero and collection titles feel encoded without turning playful or loud. Inter handles the reading copy, Applesystem appears in tiny platform notes, and Times stays only as a fallback serif layer.
 
 [Open guide](design-md/cypherpunkbooks.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cypherpunkbooks.com-design)
 
