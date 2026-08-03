@@ -291,7 +291,7 @@ almost-pearfect.com presents a mixed light and dark surface treatment in the cap
 
 [![How alpine.inc is designed](https://pin.fontofweb.com/7702?format=jpg)](design-md/alpine.inc.md)
 
-alpine.inc presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#16161a`, and `#2c2338`, with typography led by **System**, **Inter**, and **Dm Serif**. The guide below names reusable design roles only where the captured evidence supports them.
+Alpine.inc uses a strict two-mode language: bright white paper sections with faint mountain linework, then near-black product stages that feel like a quiet showroom. The page avoids busy ornament and lets contrast do most of the work. On white surfaces, black serif headlines, muted gray support text, and small line icons carry the message. On dark surfaces, the same hierarchy flips to white copy with a single cool blue action color and soft glowing accents around the product cards.
 
 [Open guide](design-md/alpine.inc.md) · [View the Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
 
