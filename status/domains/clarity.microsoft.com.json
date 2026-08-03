@@ -1,13 +1,65 @@
 {
   "schemaVersion": 1,
   "domain": "clarity.microsoft.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "validating",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:12:32.931Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:04:25.889Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:04:29.638Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:07:03.591Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:08:34.508Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:08:34.571Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:12:32.931Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-04-26-691Z-a1",
+    "imageCount": 5,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "clarity.microsoft.com-design"
   },
@@ -20,7 +72,13 @@
       "originCount": 1,
       "captureCount": 5,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T18:54:08.941Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.14705882352941177,
+    "maximumResidual": 1,
+    "valuesConsidered": 17
   }
 }

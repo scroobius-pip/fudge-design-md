@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "hauntii.com",
-  "state": "needs_collection",
+  "state": "needs_reprocessing",
   "attempt": 0,
   "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
@@ -13,7 +13,7 @@
       "to": "blocked"
     },
     {
-      "at": "2026-08-03T18:53:51.301Z",
+      "at": "2026-08-03T18:54:08.941Z",
       "attempt": 0,
       "from": "blocked",
       "to": "unpublished"
@@ -23,6 +23,18 @@
       "attempt": 0,
       "from": "unpublished",
       "to": "needs_collection"
+    },
+    {
+      "at": "2026-08-03T19:12:36.929Z",
+      "attempt": 0,
+      "from": "needs_collection",
+      "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 0,
+      "from": "unpublished",
+      "to": "needs_reprocessing"
     }
   ],
   "checks": {},
@@ -37,7 +49,7 @@
       "originCount": 1,
       "captureCount": 2,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T19:12:36.929Z"
     },
     "projection": {
       "isLegacy": true,

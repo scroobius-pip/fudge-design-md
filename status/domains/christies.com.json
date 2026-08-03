@@ -1,15 +1,130 @@
 {
   "schemaVersion": 1,
   "domain": "christies.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:12:53.984Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:02:56.695Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:03:11.010Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:06:17.322Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:07:00.094Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:07:00.160Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:11:29.989Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:12:13.571Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:12:13.646Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T19:12:13.712Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T19:12:18.203Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T19:12:18.261Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T19:12:53.913Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T19:12:53.984Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/christies.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/christies.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/christies.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/7374?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-02-57-804Z-a1",
+    "imageCount": 6,
+    "guideSha256": "443e4efff543a452f664d726603226c9b9350d39e4967b6a425363751db7e3ad"
+  },
   "publication": {
-    "key": "christies.com-design"
+    "key": "christies.com-design",
+    "url": "https://design.withfudge.com/share/christies.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/christies.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/christies.com.md"
   },
   "blocker": null,
   "inventory": {
@@ -20,7 +135,13 @@
       "originCount": 1,
       "captureCount": 8,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T18:54:08.941Z"
     }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0.1111111111111111,
+    "maximumResidual": 1,
+    "valuesConsidered": 9
   }
 }

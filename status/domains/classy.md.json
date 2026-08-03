@@ -1,13 +1,87 @@
 {
   "schemaVersion": 1,
   "domain": "classy.md",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:12:46.495Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:07:07.292Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:07:09.985Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:09:35.241Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:10:31.851Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:10:31.926Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:11:49.045Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:12:46.442Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:12:46.495Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Layout",
+          "problem": "The centered content measure is not exact-value grounded. The guide says the column is \"roughly 707px,\" but the packet's authoritative value is `content-measure: 31.40625rem` (`502.5px`).",
+          "requiredChange": "Replace the approximate column width with the packet value and describe the layout using that exact centered content measure."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-07-08-588Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "classy.md-design"
   },
@@ -20,7 +94,13 @@
       "originCount": 1,
       "captureCount": 2,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T18:54:08.941Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.08333333333333333,
+    "maximumResidual": 0.5,
+    "valuesConsidered": 6
   }
 }

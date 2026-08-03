@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "firstpromoter.com",
-  "state": "syncing",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:50:08.982Z",
+  "updatedAt": "2026-08-03T18:56:12.348Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -57,6 +57,12 @@
       "attempt": 1,
       "from": "share_published",
       "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T18:56:12.348Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -99,5 +105,6 @@
     "meanAbsoluteError": 0.06666666666666667,
     "maximumResidual": 1,
     "valuesConsidered": 15
-  }
+  },
+  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
 }

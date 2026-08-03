@@ -1,13 +1,65 @@
 {
   "schemaVersion": 1,
   "domain": "chatgpt.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "validating",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:11:40.134Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:02:20.906Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:02:28.974Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:05:13.220Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:07:47.566Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:07:47.630Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:11:40.134Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-02-22-424Z-a1",
+    "imageCount": 7,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "chatgpt.com-design"
   },
@@ -20,7 +72,13 @@
       "originCount": 1,
       "captureCount": 25,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T18:54:08.941Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.3831025641025639,
+    "maximumResidual": 1,
+    "valuesConsidered": 39
   }
 }

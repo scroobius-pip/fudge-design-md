@@ -1,13 +1,65 @@
 {
   "schemaVersion": 1,
   "domain": "fontofweb.com",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "validating",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:13:03.918Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:03:02.233Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:03:13.782Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:08:47.584Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:10:33.865Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:10:33.922Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:13:03.918Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-03-03-468Z-a1",
+    "imageCount": 6,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "fontofweb.com-design"
   },
@@ -18,7 +70,13 @@
       "originCount": 1,
       "captureCount": 24,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T18:54:08.941Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.04095238095238093,
+    "maximumResidual": 0.40619999999999834,
+    "valuesConsidered": 21
   }
 }

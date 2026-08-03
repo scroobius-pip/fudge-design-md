@@ -1,13 +1,34 @@
 {
   "schemaVersion": 1,
   "domain": "claude.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:53:51.301Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:13:00.599Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:12:54.149Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:13:00.599Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T19-12-55-452Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "claude.ai-design"
   },
@@ -20,7 +41,13 @@
       "originCount": 1,
       "captureCount": 42,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:53:51.301Z"
+      "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.17633333333333348,
+    "maximumResidual": 1,
+    "valuesConsidered": 42
   }
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "cavalry.studio",
-  "state": "drafting",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:52:08.641Z",
+  "updatedAt": "2026-08-03T19:02:20.738Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -21,9 +21,80 @@
       "attempt": 1,
       "from": "preparing",
       "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:55:00.943Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:56:00.708Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:56:00.771Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:57:33.427Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:59:29.453Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:59:29.523Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:01:21.925Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:02:20.681Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:02:20.738Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
-  "checks": {},
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Reference views",
+          "problem": "The guide includes seven selected images, but the writing contract allows only two to six reference views.",
+          "requiredChange": "Reduce the selection to two to six images and keep only the most distinct views that cover the page's visual story; retain labels that are at least 20 characters long."
+        }
+      ]
+    }
+  },
   "artifacts": {
     "runId": "2026-08-03T18-52-03-238Z-a1",
     "imageCount": 7,
@@ -49,5 +120,6 @@
     "meanAbsoluteError": 0.22783333333333644,
     "maximumResidual": 1,
     "valuesConsidered": 12
-  }
+  },
+  "error": "The repaired cavalry.studio guide did not pass the publication gate after two repairs."
 }
