@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "aura.build",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:27:23.542Z",
+  "updatedAt": "2026-08-03T18:34:10.606Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -39,6 +39,42 @@
       "attempt": 1,
       "from": "reviewing",
       "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:29:12.134Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:30:26.050Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:30:26.139Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:32:12.628Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:34:05.593Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:34:10.606Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -52,14 +88,9 @@
       "verdict": "revise",
       "issues": [
         {
-          "section": "Front matter",
-          "problem": "The `preview-frame` component assigns white text to the white paper surface (`textColor: \"{colors.ink}\"`). That conflicts with the screenshot, where the white preview stage carries dark content while the dark shell carries the light text.",
-          "requiredChange": "Change `components.preview-frame.textColor` to a dark neutral token that matches the white preview stage, and keep `colors.ink` for text on dark surfaces."
-        },
-        {
-          "section": "Visual language",
-          "problem": "The writeup describes pills and tags as “small, rectangular,” but the screenshots show rounded chips and pills with 6px to fully rounded corners, not rectangular geometry.",
-          "requiredChange": "Revise that description to match the rounded chip/pill shapes shown in the images and avoid calling them rectangular."
+          "section": "Layout",
+          "problem": "The section rounds the header outer margin to \"104px-ish\" instead of using the exact value supplied in the packet. That is an invented approximation, not a grounded measurement.",
+          "requiredChange": "Replace the approximate margin description with the exact `104.5px` value from `_harness.exactValues` and keep layout measurements exact rather than rounded from the image."
         }
       ]
     }
@@ -89,5 +120,6 @@
     "meanAbsoluteError": 0.15789473684210525,
     "maximumResidual": 1,
     "valuesConsidered": 19
-  }
+  },
+  "error": "The repaired aura.build guide did not pass the publication gate after two repairs."
 }

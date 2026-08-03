@@ -1,15 +1,88 @@
 {
   "schemaVersion": 1,
   "domain": "firstpromoter.com",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "syncing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:50:08.982Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:46:13.608Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:46:17.267Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:49:00.573Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:50:03.203Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:50:03.258Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T18:50:03.304Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T18:50:08.921Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T18:50:08.982Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-46-14-555Z-a1",
+    "imageCount": 4,
+    "guideSha256": "8bb7d9b6c866b086a4f7143d6fb9d6016782388f2b8300fb91bfd95d53dafebf"
+  },
   "publication": {
-    "key": "firstpromoter.com-design"
+    "key": "firstpromoter.com-design",
+    "url": "https://design.withfudge.com/share/firstpromoter.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/firstpromoter.com-design.md"
   },
   "blocker": null,
   "inventory": {
@@ -20,5 +93,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.06666666666666667,
+    "maximumResidual": 1,
+    "valuesConsidered": 15
   }
 }

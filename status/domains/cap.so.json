@@ -1,15 +1,112 @@
 {
   "schemaVersion": 1,
   "domain": "cap.so",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:51:20.572Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:33:06.839Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:33:14.297Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:38:10.120Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:40:00.183Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:40:00.248Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:42:41.848Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:45:08.950Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:45:09.008Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T18:45:09.055Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T18:45:14.163Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T18:45:14.213Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T18:51:20.572Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-33-07-846Z-a1",
+    "imageCount": 5,
+    "guideSha256": "8b9e482162510e5be2b69880be947f14736893fdcdbaafdfd936c9155c9fdc68"
+  },
   "publication": {
-    "key": "cap.so-design"
+    "key": "cap.so-design",
+    "url": "https://design.withfudge.com/share/cap.so-design",
+    "markdownUrl": "https://design.withfudge.com/share/cap.so-design.md"
   },
   "blocker": null,
   "inventory": {
@@ -22,5 +119,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.037037037037037035,
+    "maximumResidual": 1,
+    "valuesConsidered": 27
+  },
+  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
 }

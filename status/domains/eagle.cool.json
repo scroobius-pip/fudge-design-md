@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "eagle.cool",
-  "state": "blocked",
+  "state": "needs_collection",
   "attempt": 0,
   "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
@@ -11,6 +11,12 @@
       "attempt": 0,
       "from": "unpublished",
       "to": "blocked"
+    },
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 0,
+      "from": "blocked",
+      "to": "needs_collection"
     }
   ],
   "checks": {},
@@ -25,7 +31,7 @@
       "originCount": 1,
       "captureCount": 4,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+      "inventoriedAt": "2026-08-03T18:53:51.301Z"
     },
     "projection": {
       "isLegacy": true,

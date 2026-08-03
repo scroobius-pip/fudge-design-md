@@ -1,11 +1,18 @@
 {
   "schemaVersion": 1,
   "domain": "usepanda.com",
-  "state": "blocked",
+  "state": "needs_collection",
   "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "updatedAt": "2026-08-03T18:53:51.301Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:53:51.301Z",
+      "attempt": 0,
+      "from": "blocked",
+      "to": "needs_collection"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
@@ -18,7 +25,7 @@
       "originCount": 1,
       "captureCount": 1,
       "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+      "inventoriedAt": "2026-08-03T18:53:51.301Z"
     }
   }
 }

@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
   "domain": "blog.google",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:29:06.983Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:29:02.368Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:29:05.471Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:29:06.983Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-29-03-348Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "blog.google-design"
   },
@@ -22,5 +49,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 5
+  },
+  "error": "author lane exited 1."
 }

@@ -1,13 +1,48 @@
 {
   "schemaVersion": 1,
   "domain": "firecrawl.dev",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:40:48.118Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:36:12.369Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:36:18.011Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:39:31.234Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:40:48.118Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "agentOutputRetry": "Agent selected unavailable pin 7567."
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-36-13-355Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "firecrawl.dev-design"
   },
@@ -20,5 +55,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.3332999999999998,
+    "maximumResidual": 1,
+    "valuesConsidered": 60
+  },
+  "error": "Agent selected unavailable pin 7567."
 }

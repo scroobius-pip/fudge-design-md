@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
   "domain": "bkid.co",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:28:46.295Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:28:42.387Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:28:44.892Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:28:46.295Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-28-43-377Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "bkid.co-design"
   },
@@ -22,5 +49,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.21111111111111114,
+    "maximumResidual": 1,
+    "valuesConsidered": 9
+  },
+  "error": "author lane exited 1."
 }

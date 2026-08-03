@@ -1,13 +1,34 @@
 {
   "schemaVersion": 1,
   "domain": "cerebras.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:52:39.096Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:52:30.773Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:52:39.096Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-52-31-799Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "cerebras.ai-design"
   },
@@ -22,5 +43,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 4
   }
 }

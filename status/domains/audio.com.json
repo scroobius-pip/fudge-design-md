@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "audio.com",
-  "state": "validating",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:28:23.970Z",
+  "updatedAt": "2026-08-03T18:34:12.904Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -45,6 +45,36 @@
       "attempt": 1,
       "from": "repairing",
       "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:28:59.561Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:28:59.612Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:32:45.786Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:34:08.893Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:34:12.904Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -53,6 +83,21 @@
       "passed": 112,
       "total": 112,
       "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The guide does not include the required short licensing sentence for the font treatment. The packet supplies no font-credit attribution, so the contract expects a brief licensing note in Typography or Scope note.",
+          "requiredChange": "Add one short licensing sentence, or explicitly state that licensing details were not supplied."
+        },
+        {
+          "section": "Scope note",
+          "problem": "The scope note explains derivation ('normalized to the packet’s 2px step'), which the contract forbids in the finished guide.",
+          "requiredChange": "Replace that sentence with a plain scope statement that names the covered surface and leaves out fit or derivation language."
+        }
+      ]
     }
   },
   "artifacts": {
@@ -80,5 +125,6 @@
     "meanAbsoluteError": 0.05600000000000449,
     "maximumResidual": 0.5,
     "valuesConsidered": 12
-  }
+  },
+  "error": "The repaired audio.com guide did not pass the publication gate after two repairs."
 }

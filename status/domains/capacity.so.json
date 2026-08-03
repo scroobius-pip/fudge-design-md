@@ -1,15 +1,112 @@
 {
   "schemaVersion": 1,
   "domain": "capacity.so",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:52:02.269Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:34:20.301Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:34:32.710Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:39:37.779Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:41:32.068Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:41:32.130Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:44:34.953Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:45:52.634Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:45:52.701Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T18:45:52.748Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T18:45:56.293Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T18:45:56.338Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T18:52:02.269Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-34-21-872Z-a1",
+    "imageCount": 6,
+    "guideSha256": "25912843b5388f6eec86124c78a0646c7abbbcd4fa6e5efce52c75dc0874a315"
+  },
   "publication": {
-    "key": "capacity.so-design"
+    "key": "capacity.so-design",
+    "url": "https://design.withfudge.com/share/capacity.so-design",
+    "markdownUrl": "https://design.withfudge.com/share/capacity.so-design.md"
   },
   "blocker": null,
   "inventory": {
@@ -22,5 +119,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.02617000000000047,
+    "maximumResidual": 0.2656000000000063,
+    "valuesConsidered": 20
+  },
+  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
 }

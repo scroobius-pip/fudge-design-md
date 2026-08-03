@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "binary.so",
-  "state": "drafting",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:28:40.484Z",
+  "updatedAt": "2026-08-03T18:28:42.210Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -21,6 +21,12 @@
       "attempt": 1,
       "from": "preparing",
       "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:28:42.210Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
     }
   ],
   "checks": {},
@@ -49,5 +55,6 @@
     "meanAbsoluteError": 0.04792000000000011,
     "maximumResidual": 0.7188000000000017,
     "valuesConsidered": 15
-  }
+  },
+  "error": "author lane exited 1."
 }
