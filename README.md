@@ -483,7 +483,7 @@ app.superlist.com presents a predominantly dark surface treatment in the capture
 
 [![How app.useorigin.com is designed](https://pin.fontofweb.com/8926?format=jpg)](design-md/app.useorigin.com.md)
 
-app.useorigin.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#050505`, with typography led by **Inter 18 Pt**, **Lyon App**, and **Roboto Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Origin uses a nocturnal finance aesthetic: near-black surfaces, white type, cyan actions, and a smaller violet accent for status and emphasis. The page language is confident and controlled rather than glossy. Large display type carries the marketing message, while the in-app screens compress the same brand into compact cards, rails, and overlays. The result is not a generic banking dashboard; it is a premium product shell that feels designed for concentration.
 
 [Open guide](design-md/app.useorigin.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.useorigin.com-design)
 
