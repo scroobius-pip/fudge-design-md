@@ -1089,9 +1089,9 @@ console.groq.com presents a predominantly dark surface treatment in the captured
 
 ### contentformcontext.com
 
-[![How contentformcontext.com is designed](https://pin.fontofweb.com/10405?format=jpg)](design-md/contentformcontext.com.md)
+[![How contentformcontext.com is designed](https://pin.fontofweb.com/10404?format=jpg)](design-md/contentformcontext.com.md)
 
-contentformcontext.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#999999`, and `#ffffff`, with typography led by **System**, **Aktiv Grotesk**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Contentformcontext.com presents the SBS 8 News case study as a spare editorial page rather than a product landing page. The system depends on contrast, alignment, and a narrow type ladder. Nearly everything sits on a black field, with white titles, muted gray paragraphs, and one saturated blue accent that marks the strongest visual break in the layout.
 
 [Open guide](design-md/contentformcontext.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/contentformcontext.com-design)
 
