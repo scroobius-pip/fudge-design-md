@@ -1767,6 +1767,14 @@ flowgenie.pro presents a predominantly dark surface treatment in the captured pa
 
 [Open guide](design-md/flowgenie.pro.md) · [View the Fudge conversation](https://design.withfudge.com/share/flowgenie.pro-design)
 
+### fly.io
+
+[![How fly.io is designed](https://pin.fontofweb.com/6102?format=jpg)](design-md/fly.io.md)
+
+Fly.io’s visual system is quiet at first glance, then increasingly expressive as the page unfolds. The baseline is a white canvas with deep violet text, thin borders, and a small set of saturated purple actions. The main headlines are serif and literary, while the body copy stays compact, matter-of-fact, and unadorned. That contrast gives the site a confident technical voice without turning it into a dense dashboard.
+
+[Open guide](design-md/fly.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/fly.io-design)
+
 ### fontsinuse.com
 
 [![How fontsinuse.com is designed](https://pin.fontofweb.com/6844?format=jpg)](design-md/fontsinuse.com.md)
