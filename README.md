@@ -1043,7 +1043,7 @@ cobe.vercel.app presents a predominantly dark surface treatment in the captured 
 
 [![How coda.co is designed](https://pin.fontofweb.com/6759?format=jpg)](design-md/coda.co.md)
 
-coda.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f8f9eb`, and `#5a5a4f`, with typography led by **System**, **Abc Monument Grotesk**, and **Jet Brains Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Coda’s merchant-of-record landing page is built as a two-mode finance story. The first mode is a dark hero stage with a huge cream claim on a charcoal background, a compact light action, and a glossy green sculptural form that fills the right half of the viewport. The second mode is a warm cream directory sheet that opens the product family into a multicolumn grid without changing the page’s quiet tone. Between those modes sits an olive-gray feature band that explains the offer in shorter, utility-shaped blocks.
 
 [Open guide](design-md/coda.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/coda.co-design)
 
