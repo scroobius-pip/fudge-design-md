@@ -1105,9 +1105,9 @@ continue.dev presents a predominantly dark surface treatment in the captured pag
 
 ### coolors.co
 
-[![How coolors.co is designed](https://pin.fontofweb.com/6905?format=jpg)](design-md/coolors.co.md)
+[![How coolors.co is designed](https://pin.fontofweb.com/6391?format=jpg)](design-md/coolors.co.md)
 
-coolors.co presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#0a0a0a`, `#000000`, and `#ffffff`, with typography led by **Inter** and **Google Sans Code**. The guide below names reusable design roles only where the captured evidence supports them.
+Coolors is a color-first product wrapped in a very light SaaS shell. The page stays almost empty until color appears: a white canvas, black Inter headlines, thin rules, and a small amount of utility chrome. That restraint makes the product feel immediate. The marketing home uses oversized type and pastel cards to explain the tools; the palette editor turns the product into the interface by filling the page with vertical color columns; Color Bot reduces the layout again to a centered greeting and a bottom composer. The brand does not rely on ornament. It relies on scale, whitespace, and the fact that color is the thing being sold.
 
 [Open guide](design-md/coolors.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/coolors.co-design)
 
