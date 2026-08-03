@@ -6,129 +6,174 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7384?format=jpg)](https://design.withfudge.com/share/pin-7384)
+[![Beige hero slide with split text column and sweeping abstract artwork](https://pin.fontofweb.com/7374?format=jpg)](https://design.withfudge.com/share/pin-7374)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7384)
+[Beige hero slide with split text column and sweeping abstract artwork](https://design.withfudge.com/share/pin-7374)
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7383?format=jpg)](https://design.withfudge.com/share/pin-7383)
+[![Wide Art Finance banner with pale copy block and peach textured image](https://pin.fontofweb.com/7383?format=jpg)](https://design.withfudge.com/share/pin-7383)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7383)
+[Wide Art Finance banner with pale copy block and peach textured image](https://design.withfudge.com/share/pin-7383)
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7382?format=jpg)](https://design.withfudge.com/share/pin-7382)
+[![Private Sales split panel with light text block and bright pink handbag](https://pin.fontofweb.com/7381?format=jpg)](https://design.withfudge.com/share/pin-7381)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7382)
+[Private Sales split panel with light text block and bright pink handbag](https://design.withfudge.com/share/pin-7381)
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7381?format=jpg)](https://design.withfudge.com/share/pin-7381)
+[![Latest stories grid with large feature image and stacked teaser articles](https://pin.fontofweb.com/7382?format=jpg)](https://design.withfudge.com/share/pin-7382)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7381)
+[Latest stories grid with large feature image and stacked teaser articles](https://design.withfudge.com/share/pin-7382)
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7376?format=jpg)](https://design.withfudge.com/share/pin-7376)
+[![Upcoming auctions list with filters, thumbnails, and long sale titles](https://pin.fontofweb.com/7376?format=jpg)](https://design.withfudge.com/share/pin-7376)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7376)
+[Upcoming auctions list with filters, thumbnails, and long sale titles](https://design.withfudge.com/share/pin-7376)
 
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7375?format=jpg)](https://design.withfudge.com/share/pin-7375)
+[![Dark lower band with three promo cards above a dense footer link matrix](https://pin.fontofweb.com/7384?format=jpg)](https://design.withfudge.com/share/pin-7384)
 
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7375)
-
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7374?format=jpg)](https://design.withfudge.com/share/pin-7374)
-
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7374)
-
-[![Christie’s | Fine Art, Luxury & Antiques Auctions](https://pin.fontofweb.com/7373?format=jpg)](https://design.withfudge.com/share/pin-7373)
-
-[Christie’s | Fine Art, Luxury & Antiques Auctions](https://design.withfudge.com/share/pin-7373)
+[Dark lower band with three promo cards above a dense footer link matrix](https://design.withfudge.com/share/pin-7384)
 
 ## Overview
 
-christies.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#222222`, `#ffffff`, and `#000000`, with typography led by **Times**, **By Elias Hanzer**, and **Abc Arizona Serif**. The guide below names reusable design roles only where the captured evidence supports them.
+Christie’s homepage feels like an auction catalog arranged with the pacing of an editorial magazine. White ground, black and charcoal text, and wide image fields do most of the work. The design depends on restraint: a narrow palette, thin rules, small utility text, and long horizontal compositions that let art, objects, and real-estate imagery stay central.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#222222` | text on page content in the main |
-| color.surface | `#ffffff` | surface on page content in the main |
-| color.surface | `#000000` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Times** | 16px | 400 | normal | normal | <div> in the main, <div>, and <a> in the main |
-| type.body-14px | **By Elias Hanzer** | 14px | 500 | 16.8px | normal | <a> in the header, <button> in the button, <span> in the button, and <a> in the main |
-| type.body-14px | **By Elias Hanzer** | 14px | 300 | 19.6px | normal | <div> in the main and <a> in the main |
-| type.body-24px | **By Elias Hanzer** | 24px | 300 | 28.8px | normal | <a> in the main |
-| type.body-16px | **By Elias Hanzer** | 16px | 300 | 22.4px | normal | <div> in the main and <a> in the main |
-| type.display-32px | **Abc Arizona Serif** | 32px | 300 | 38.4px | normal | <h2> in the main |
-| type.display-32px | **By Elias Hanzer** | 32px | 300 | 38.4px | normal | <h2> in the header |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `8px 16px` | padding | page content |
-| `0px 12px` | padding | page content |
-| `0px 48px` | padding | page content |
-| `0px 5px` | margin | page content |
-| `32px -12px 0px` | margin | page content |
-| `8px` | padding | page content |
-| `0px 0px 32px` | margin | page content |
-| `40px 48px 8px 0px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 2px` and `1px solid 50%` border treatments.
+The site keeps copy short and hierarchy clear. Headings are elegant and light, utility text is compact, and body copy stays steady and readable. Light sections feel open and institutional. Dark sections appear as punctuation near the bottom of the page and in selected hero variations. The result is formal, calm, and expensive without leaning on ornament.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#ffffff` and `#000000`. Text colors include `#222222`. Keep image-derived colors separate from interface colors.
+Christie’s uses a strict monochrome base. Black and white carry the structure, while charcoal softens the reading edge for body text, links, and secondary labels. The interface avoids decorative accent hues; the artworks, photography, and product shots supply the chromatic energy instead. That separation is essential to the brand feel: the UI stays neutral so the content can feel singular.
+
+| token | value | role |
+|---|---|---|
+| action | `#000000` | Filled actions, dark panels, strongest contrast surfaces |
+| ink | `#222222` | Primary text, links, secondary labels, hairline rules |
+| canvas | `#FFFFFF` | Main page field, open sections, card backgrounds |
+| inverse-ink | `#FFFFFF` | Text on black surfaces |
+| inverse-canvas | `#000000` | Footer, dark promo bands, inverse hero panels |
+| hairline | `#222222` | Thin borders, subtle separators, outlined control edges |
+
+The visual relationship is simple: white space keeps the page airy, while black blocks ground the experience and create a formal rhythm. The strongest action treatment is a black fill with white text. Secondary controls stay outlined or lightly framed. That lets the page move between editorial openness and dense institutional structure without changing color language.
 
 ## Typography
 
-The captured type system uses **Times**, **By Elias Hanzer**, and **Abc Arizona Serif**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Three families shape the system. `Abc Arizona Serif` supplies the editorial voice for major headings and section introductions. `By Elias Hanzer` handles navigation, labels, story links, and button text. `Times` carries the longer reading text and supporting copy. Licensing for these families needs separate confirmation.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Abc Arizona Serif | 2rem | 300 | 1.2 | 0em | Hero headings and major promotional opens |
+| section-display | Abc Arizona Serif | 2rem | 300 | 1.2 | 0em | Section titles for stories, auctions, and footer promos |
+| story-link | By Elias Hanzer | 1.5rem | 300 | 1.2 | 0em | Larger story teasers and prominent inline links |
+| nav-link | By Elias Hanzer | 1rem | 300 | 1.4 | 0em | Main navigation and quiet link clusters |
+| ui-label | By Elias Hanzer | 0.875rem | 500 | 1.2 | 0em | Buttons, filters, compact metadata, utility actions |
+| body | Times | 1rem | 400 | 1.4 | 0em | Paragraphs, descriptions, list copy, and support text |
+
+The hierarchy depends on family contrast as much as on size. The serif headings are refined rather than heavy. The sans text stays light and deliberate, even when it becomes the main navigation. `Times` gives the page a calmer reading texture in list-heavy and descriptive sections. Weight changes are minimal and purposeful: medium appears where a control must stand out, while most of the system stays light.
 
 ## Layout
 
-The captured pages use values such as `8px 16px`, `0px 12px`, `0px 48px`, `0px 5px`, and `32px -12px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page is arranged in long horizontal bands. The header spans the full width with the Christie’s wordmark at left, nav items across the center, and utilities to the right. The hero then splits into a text surface and a large image surface. In one treatment the text side stays pale and the image side carries a warm paint-like field; in another the text side turns black and the image side becomes a bright artwork stage. That alternating structure gives the page a strong editorial cadence.
+
+Below the hero, the system repeats with measured variation. The Art Finance and Private Sales banners are broad split panels with calm copy on one side and a tightly cropped image on the other. The stories area shifts into a white grid with one dominant image and smaller teaser cards arranged beside it. The auctions section becomes more catalog-like, with filters, dates, locations, thumbnails, and long sale names aligned into rows that stretch across the page. Near the bottom, the dark promo band and footer close the page with a heavier visual weight and a dense information grid.
+
+Spacing is generous but disciplined. The visible layouts use 48px outer gutters, then step inward with 24px, 32px, and 40px separations between headings, images, and content blocks. The page feels spacious because the gaps are meaningful, not because the content is sparse. That spacing lets each lot, story, or banner feel framed and important.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffff` and `#000000`. No structured gradient or shadow treatment is established.
+Christie’s visual language is institutional and image-led. Corners stay nearly square, so surfaces read as framed panels rather than soft cards. Shadows are absent. Borders, when present, are thin and functional. The overall effect is quiet authority rather than decorative branding.
 
-## Components and states
+The imagery carries the variation. Paintings, object photography, estates, and collection images bring the color and the emotional charge, while the interface holds steady in black, white, and charcoal. Light panels keep the copy and image relationship open. Dark panels provide contrast and create chapter breaks. The system can move from an airy editorial spread to a dense auction list without changing its core rules.
 
-The captured pages include repeated styling on <div>, <a>, <h2>, <button>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Controls stay modest. Buttons are small and direct. A filled black action reads as primary. An outlined action stays secondary. Filter chips and small utility links rely on type contrast and spacing more than embellishment. That makes the page feel orderly and mature.
+
+## Components
+
+### Global header
+
+- **Anatomy:** Wordmark at left, primary navigation across the center, sign-in and language utilities at right, search at the far edge.
+- **Surface:** White field with charcoal text and minimal framing.
+- **Typography:** Small By Elias Hanzer labels, mostly 14px to 16px, with medium weight reserved for compact utility actions.
+- **Shape:** Nearly square geometry with very small radii.
+- **Spacing:** Wide horizontal breathing room and compact control padding.
+- **Visible states:** Active items depend on placement and contrast rather than decorative markers.
+
+### Split hero panels
+
+- **Anatomy:** A text column with a serif headline, short supporting text, and one clear action; paired with a large image or artwork block.
+- **Surface:** Either pale neutral or black, depending on the hero variation.
+- **Typography:** Abc Arizona Serif for the headline, By Elias Hanzer or Times for support and utility text.
+- **Composition:** One side carries the message; the other side carries the artwork, object, or textured image.
+- **Visible states:** The hero alternates between light and dark treatments while keeping the same rhythm and scale.
+
+### Editorial promo banners
+
+- **Anatomy:** Heading, short supporting line, and button on one side; image or textured artwork field on the other.
+- **Surface:** Light neutral block with an image panel that fills the adjacent half.
+- **Typography:** Serif headline with small supporting copy beneath it.
+- **Shape:** Flat rectangles with little rounding and no shadow.
+- **Spacing:** Open internal padding so the copy sits away from the image edge.
+- **Composition:** These banners work best when the text stays calm and the image supplies the visual emphasis.
+
+### Story grid
+
+- **Anatomy:** One large feature image, smaller stacked teasers, article dates, and concise headlines.
+- **Surface:** White.
+- **Typography:** Serif for article titles; By Elias Hanzer for dates and labels; Times for supporting descriptions.
+- **Composition:** Mixed-size modules make the section feel like a magazine spread rather than a uniform card deck.
+- **Visible states:** The “view all” control stays small and aligned to the upper right, which keeps the section editorial instead of promotional.
+
+### Auction list and filter row
+
+- **Anatomy:** Filter chips, long sale names, dates, locations, and thumbnails.
+- **Surface:** White with charcoal text.
+- **Typography:** Utility labels in By Elias Hanzer; long names in the serif family; support lines in Times.
+- **Composition:** Rows stretch horizontally and tolerate long titles, which gives the section a catalog feel.
+- **Visible states:** One filter is filled dark to mark selection; the others stay light and quiet.
+
+### Dark lower band and footer
+
+- **Anatomy:** Three promo cards above a black footer with multi-column links, social icons, and legal text.
+- **Surface:** Black.
+- **Typography:** White serif headings above quiet utility link text.
+- **Composition:** Promo cards stay image-forward; the footer turns into a structured information grid.
+- **Visible states:** The dark field increases contrast and closes the page with a formal finish.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the hierarchy should stay intact. The logo and utilities come first, then the hero message, then the artwork or object image, then the supporting sections. Split hero panels should stack before the type becomes cramped. Story modules should collapse into a single-column or two-up rhythm only if the images still read as editorial; otherwise they should stack one by one. Auction rows should keep their dates and locations close to the title so the catalog logic survives the narrower width. The footer should collapse into clear link groups with enough spacing to keep the dense navigation usable.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+
+- Keep the interface monochrome and let the artwork provide color.
+- Preserve the serif headline voice and the quieter sans for labels and navigation.
+- Hold the near-square corner treatment; it is part of the institutional tone.
+- Keep the page bands wide and the spacing deliberate.
+- Use black fill only where the page needs a decisive action or a dark surface.
+
+### Avoid
+
+- Avoid bright accent colors that compete with the lots and images.
+- Avoid soft playful rounding or heavy shadows.
+- Avoid turning filters or footer links into colorful product UI.
+- Avoid mixing the utility sans into long reading copy.
+- Avoid compressing the editorial bands into cramped stacked cards without a clear reason.
+
+### Recommended build order
+
+1. Build the header and shared utility controls.
+2. Establish the serif headline scale and the Times body rhythm.
+3. Recreate one split hero panel in both light and dark treatments.
+4. Add the Art Finance and Private Sales promo banners.
+5. Build the story grid with mixed image sizes and short teasers.
+6. Add the auction list rows and filter states.
+7. Finish with the dark lower band and footer link matrix.
+
+### Accessibility
+
+- Keep black-on-white and white-on-black contrast strong throughout.
+- Give arrow buttons, filter chips, and search controls visible focus states.
+- Do not rely on color alone to mark the active tab or selected filter.
+- Ensure image alt text names the work, object, or scene rather than a generic label.
+- Keep touch targets large enough around the small utility labels and footer links.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#222222`
-- `#ffffff`
-- `#000000`
-
-## Typography captured from christies.com
-
-- **Times** — weight 400 · size 16px
-- **By Elias Hanzer** — weight 300 · size 16px
-- **Abc Arizona Serif** — weight 300 · size 32px
+This guide covers the desktop homepage surfaces shown here: the header, hero variations, Art Finance, Private Sales, stories, auctions, and footer. Spacing values are rounded to the 0.25rem scale listed in the packet. Interior lot pages, bidding flows, mobile rearrangements, motion, and authenticated states are not included.

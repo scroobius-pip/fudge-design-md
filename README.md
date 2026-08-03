@@ -969,9 +969,9 @@ chatgpt.com presents a mixed light and dark surface treatment in the captured pa
 
 ### christies.com
 
-[![How christies.com is designed](https://pin.fontofweb.com/7384?format=jpg)](design-md/christies.com.md)
+[![How christies.com is designed](https://pin.fontofweb.com/7374?format=jpg)](design-md/christies.com.md)
 
-christies.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#222222`, `#ffffff`, and `#000000`, with typography led by **Times**, **By Elias Hanzer**, and **Abc Arizona Serif**. The guide below names reusable design roles only where the captured evidence supports them.
+Christie’s homepage feels like an auction catalog arranged with the pacing of an editorial magazine. White ground, black and charcoal text, and wide image fields do most of the work. The design depends on restraint: a narrow palette, thin rules, small utility text, and long horizontal compositions that let art, objects, and real-estate imagery stay central.
 
 [Open guide](design-md/christies.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/christies.com-design)
 
