@@ -209,9 +209,9 @@ Agently.dev presents itself as a bright agent-workforce product rather than a da
 
 ### ahrefs.com
 
-[![How ahrefs.com is designed](https://pin.fontofweb.com/7050?format=jpg)](design-md/ahrefs.com.md)
+[![How ahrefs.com is designed](https://pin.fontofweb.com/7048?format=jpg)](design-md/ahrefs.com.md)
 
-ahrefs.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#3a57fc`, with typography led by **Inter** and **Ahrefs**. The guide below names reusable design roles only where the captured evidence supports them.
+Ahrefs uses a two-mode brand rhythm. The commercial pages swing between a saturated blue field and stark white product surfaces, while the storytelling pages move into black and charcoal with orange actions as the constant signal. The result is direct and assertive, not decorative: a visitor gets a large claim, a clear action, and a dense block of product truth without extra framing.
 
 [Open guide](design-md/ahrefs.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ahrefs.com-design)
 
