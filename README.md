@@ -1065,9 +1065,9 @@ cofounder.co presents a mixed light and dark surface treatment in the captured p
 
 ### cognee.ai
 
-[![How cognee.ai is designed](https://pin.fontofweb.com/10429?format=jpg)](design-md/cognee.ai.md)
+[![How cognee.ai is designed](https://pin.fontofweb.com/10428?format=jpg)](design-md/cognee.ai.md)
 
-cognee.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#0c0121`, `#000000`, and `#2b2b2b`, with typography led by **Twk Lausanne**, **Applesystem**, and **Jet Brains Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cognee uses a dark, technical stage with a restrained editorial tone. The page sits on a black field and overlays a faint square grid, then drops in scattered lavender tile clusters so the background feels computational without becoming noisy. The main message is carried by oversized Twk Lausanne headlines, short supporting lines, and compact pill controls. That balance gives the site a calm but forceful presence: the copy leads, while the grid and violet accents supply the brand signal.
 
 [Open guide](design-md/cognee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/cognee.ai-design)
 
