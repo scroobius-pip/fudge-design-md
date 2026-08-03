@@ -143,13 +143,14 @@ function readGuide(markdown, expectedDomain, expectedKey) {
   const images = [
     ...markdown.matchAll(/\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)/g),
   ];
-  const character = sectionParagraph(markdown, "Design character");
+  const character = sectionParagraph(markdown, "Design character")
+    || sectionParagraph(markdown, "Overview");
 
   if (!title) throw new Error("Guide is missing its title");
   if (!markdown.includes(`](${liveUrl})`)) {
     throw new Error("Guide is missing its canonical Fudge conversation");
   }
-  if (!character) throw new Error("Guide is missing its design character");
+  if (!character) throw new Error("Guide is missing its design character or overview");
   if (images.length < 2 || images.length > 8) {
     throw new Error("Guide must contain two to eight linked representative images");
   }

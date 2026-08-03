@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "domain": "grey.co",
+  "state": "ready",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T14:03:38.131Z",
+  "agent": {
+    "engine": "human-approved",
+    "model": null,
+    "thinking": null
+  },
+  "history": [
+    {
+      "at": "2026-08-03T14:02:31.266Z",
+      "attempt": 0,
+      "from": "legacy",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:02:31.290Z",
+      "attempt": 0,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:03:00.317Z",
+      "attempt": 0,
+      "from": "ready",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:03:00.341Z",
+      "attempt": 0,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:03:38.107Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:03:38.131Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "ready"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 110,
+      "total": 110,
+      "failures": []
+    },
+    "approval": "human-approved",
+    "payload": {
+      "safe": true
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T13-51-15-450Z-a2",
+    "imageCount": 5,
+    "guideSha256": "f2d892e2fed532efa3018092bb4b45bd8f38db2a415aaf026e18f06bbd50fd37"
+  },
+  "publication": {
+    "key": "grey.co-design"
+  },
+  "blocker": null,
+  "inventory": {
+    "ref": "origin/main",
+    "fingerprint": "mechanical"
+  }
+}

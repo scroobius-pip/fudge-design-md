@@ -17,6 +17,9 @@ Each guide:
 The collection updates when a substantial domain guide is accepted and
 published through Fudge. Thin generated drafts are not listed as guides.
 
+[View the live migration status](status/STATUS.md) for every domain in the
+collection, including blocked jobs and completed replacements.
+
 ## Guides
 
 <!-- DESIGN_MD_INDEX_START -->
