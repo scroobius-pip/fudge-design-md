@@ -2059,7 +2059,7 @@ Stripe's captured homepage is a calm editorial product interface: a pale canvas,
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7437?format=jpg)](design-md/youworkforthem.com.md)
 
-youworkforthem.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#ececec`, with typography led by **Valid** and **Helvetica**. The guide below names reusable design roles only where the captured evidence supports them.
+YouWorkForThem is a catalog-first marketplace with a very quiet shell and very loud specimens. The interface frame stays almost entirely monochrome: a black utility bar at the top, a white canvas beneath it, and pale controls that keep their distance from the artwork. The page does not try to become a brand poster. It behaves like a working foundry storefront, where the product tiles carry the personality and the surrounding UI only organizes the flow.
 
 [Open guide](design-md/youworkforthem.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/youworkforthem.com-design)
 <!-- DESIGN_MD_INDEX_END -->
