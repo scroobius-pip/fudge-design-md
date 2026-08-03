@@ -6,138 +6,175 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Curated Inspiration](https://pin.fontofweb.com/7386?format=jpg)](https://design.withfudge.com/share/pin-7386)
+[![Dark content grid with latest projects, team portraits, and a centered lime CTA](https://pin.fontofweb.com/7386?format=jpg)](https://design.withfudge.com/share/pin-7386)
 
-[Curated Inspiration](https://design.withfudge.com/share/pin-7386)
+[Dark content grid with latest projects, team portraits, and a centered lime CTA](https://design.withfudge.com/share/pin-7386)
 
-[![Curated Inspiration](https://pin.fontofweb.com/3960?format=jpg)](https://design.withfudge.com/share/pin-3960)
+[![Charcoal section grid with narrow hero tiles and a deep footer-style lower band](https://pin.fontofweb.com/3960?format=jpg)](https://design.withfudge.com/share/pin-3960)
 
-[Curated Inspiration](https://design.withfudge.com/share/pin-3960)
+[Charcoal section grid with narrow hero tiles and a deep footer-style lower band](https://design.withfudge.com/share/pin-3960)
 
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2927?format=jpg)](https://design.withfudge.com/share/pin-2927)
+[![Narrow charcoal sidebar with category links and the Pro Subscription card](https://pin.fontofweb.com/2925?format=jpg)](https://design.withfudge.com/share/pin-2925)
 
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2927)
+[Narrow charcoal sidebar with category links and the Pro Subscription card](https://design.withfudge.com/share/pin-2925)
 
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2926?format=jpg)](https://design.withfudge.com/share/pin-2926)
+[![Stacked FAQ accordion with soft charcoal rows and bold question text](https://pin.fontofweb.com/1874?format=jpg)](https://design.withfudge.com/share/pin-1874)
 
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2926)
+[Stacked FAQ accordion with soft charcoal rows and bold question text](https://design.withfudge.com/share/pin-1874)
 
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2925?format=jpg)](https://design.withfudge.com/share/pin-2925)
+[![Wall of Love card wall with gold stars and muted testimonial copy](https://pin.fontofweb.com/1873?format=jpg)](https://design.withfudge.com/share/pin-1873)
 
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2925)
+[Wall of Love card wall with gold stars and muted testimonial copy](https://design.withfudge.com/share/pin-1873)
 
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1875?format=jpg)](https://design.withfudge.com/share/pin-1875)
+[![Feature strip with three icon-led cards and short supporting descriptions](https://pin.fontofweb.com/1875?format=jpg)](https://design.withfudge.com/share/pin-1875)
 
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1875)
-
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1874?format=jpg)](https://design.withfudge.com/share/pin-1874)
-
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1874)
-
-[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1873?format=jpg)](https://design.withfudge.com/share/pin-1873)
-
-[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1873)
+[Feature strip with three icon-led cards and short supporting descriptions](https://design.withfudge.com/share/pin-1875)
 
 ## Overview
 
-craftwork.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#a0a0a0`, with typography led by **Font** and **Noto Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Craftwork is a dark, product-heavy marketplace interface. The page treats the canvas as a low-lit stage, then places bright white headings, muted gray support copy, and tightly organized cards on top. The result feels dense and premium without becoming ornamental. The strongest cue is the lime subscription button: it is the only high-chroma action and it pulls attention immediately inside an otherwise restrained charcoal system.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the main |
-| color.text | `#ffffff` | text on page content in the main |
-| color.text | `#a0a0a0` | text on page content in the main |
-| color.surface | `#1e1e1e` | surface on page content in the main |
-| color.shadow | `#2f2b43` | shadow on page content in the main |
-| color.surface | `#cafc00` | surface on page content in the button |
-| color.text | `#b1b1b1` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Font** | 16px | 400 | 24px | normal | <div> in the main |
-| type.body-14px | **Font** | 14px | 400 | 20px | -0.1px | <button> in the button, <a> in the main, <div> in the main, and <p> in the main |
-| type.body-16px | **Font** | 16px | 400 | 22px | -0.32px | <p> in the main, <span> in the main, <button> in the button, and <div> in the button |
-| type.body-18px | **Font** | 18px | 400 | 26px | -0.36px | <p> in the main |
-| type.body-18px | **Font** | 18px | 500 | 22px | -0.32px | <a> in the main |
-| type.heading-22px | **Font** | 22px | 600 | 28px | -0.66px | <p> in the main |
-| type.display-42px | **Font** | 42px | 600 | 48px | -2.1px | <p> in the main |
-| type.body-16px | **Font** | 16px | 500 | 22px | -0.32px | <p> in the main |
-| type.utility-11px | **Noto Sans** | 11px | 400 | 11px | normal | <span> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `15px 15px 25px` | padding | page content |
-| `0px 45px` | padding | page content |
-| `0px 0px 20px` | padding | page content |
-| `1355px 0px 0px` | margin | page content |
-| `0px 16px` | padding | page content |
-| `20px 0px 0px` | margin | page content |
-| `6px 0px 0px` | margin | page content |
-| `12px 0px 0px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 10px`, `1px solid 16px`, `1px solid 15px`, `1px solid 33px`, and `0px none 54px` border treatments. Recorded gradients include `linear-gradient(rgba(30, 30, 30, 0) 0%, rgb(30, 30, 30) 78.65%)` and `linear-gradient(rgb(45, 45, 45) 0%, rgb(34, 34, 34) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(47, 43, 67, 0.1) 0px -1px 0px 0px inset, rgba(47, 43, 67, 0.1) 0px 1px 3px 0px` and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 2px 2px 0px`.
+The layout alternates between browsing and conversion. On the browsing side, the page uses compact card grids, category rails, project thumbnails, and team or testimonial blocks. On the conversion side, it centers a large callout, a bordered benefit box, and a wide action button. That shift gives the page a clear rhythm: scan, browse, decide, subscribe. The design works because the same dark foundation, corner treatment, and typography system carries through every section.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#1e1e1e`, and `#cafc00`. Text colors include `#ffffff`, `#a0a0a0`, and `#b1b1b1`. Keep image-derived colors separate from interface colors.
+The color system is narrow and deliberate. `#1E1E1E` and `#222222` carry most of the page background, while `#2D2D2D` lifts cards and forms just enough to separate them from the canvas. `#000000` appears in the deepest panels and image backdrops, especially where a tile or gallery slot needs to recede. `#2F2B43` reads as a low-contrast edge color; it is subtle enough for borders and shadow tone without brightening the shell.
+
+Text is split cleanly between `#FFFFFF` and `#A0A0A0`, with `#B1B1B1` used where helper copy needs a little more presence than a pure secondary gray. The lime `#CAFC00` is the only action color and should stay that way. It belongs on the primary subscription button and a few small active markers, not on every link or badge. The button text turns black, which keeps the control legible and makes the fill feel louder against the charcoal surfaces. There is no pastel or photographic color system to manage here; images stay mostly monochrome and sit inside the same dark frame, so the UI palette does the branding work instead of competing with the artwork.
 
 ## Typography
 
-The captured type system uses **Font** and **Noto Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The packet names two families: `Font` for the main system and `Noto Sans` for a tiny badge-style use. The hierarchy is compact and slightly tightened, with negative tracking used on the bigger lines so the page feels deliberate rather than airy. Licensing details are not supplied here.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Font | 2.625rem | 600 | 1.142857 | -0.05em | Large page statements such as the subscription callout and major section heads |
+| `section-display` | Font | 1.375rem | 600 | 1.272727 | -0.03em | Section headings, FAQ questions, and card titles that need weight |
+| `supporting-copy` | Font | 1.125rem | 400 | 1.444444 | -0.02em | Intro lines beneath major headings and centered CTA supporting text |
+| `body` | Font | 1rem | 400 | 1.5 | -0.02em | Explanatory text, card descriptions, and sidebar labels |
+| `body-strong` | Font | 1rem | 500 | 1.5 | -0.02em | Buttons, emphasized navigation, and highlighted values |
+| `meta` | Font | 0.875rem | 500 | 1.428571 | -0.007em | Small labels, secondary links, and supporting metadata |
+| `badge` | Noto Sans | 0.6875rem | 400 | 1 | 0em | Tiny badge text and compact utility markers |
+
+The hierarchy depends on scale first, then weight. White 42px display text anchors the hero-like panels; 22px and 18px lines handle the dense marketing blocks; 16px and 14px text carry nearly everything else. That keeps the pages readable even when the content area becomes crowded.
 
 ## Layout
 
-The captured pages use values such as `15px 15px 25px`, `0px 45px`, `0px 0px 20px`, `1355px 0px 0px`, and `0px 16px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page is built as a left-rail shell with a broad content field to the right. The rail is narrow, vertically stacked, and dense: category links, utilities, a subscription card, and footer links all live in the same column. The content area is where the page opens up. It uses wide gutters, repeated rounded rectangles, and large empty pockets of charcoal space so the eye can move from one cluster to the next without confusion.
+
+Section rhythm matters more than strict symmetry. Browsing sections often use two or three cards across, with project tiles or staff portraits sitting above short descriptions. The subscription and newsletter blocks switch to centered composition: the heading sits at the top, the supporting copy below, then a bordered field or benefit box, then the action. That stack should stay vertically compact so the lime button lands close to the message it completes.
+
+The layout also relies on stacked depth rather than complex separators. Borders are thin and dark, shadows are soft and short, and the corner radius stays consistent enough that a card, a form, and a CTA all feel like parts of the same kit. The larger pages in the packet show the same logic at different densities: browse grids, marketing rows, FAQ stacks, and testimonial walls all follow the same dark framing.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#1e1e1e`, and `#cafc00`. Depth is supported by the returned gradients and shadows.
+Craftwork’s visual language is quiet, premium, and content-first. The dark canvas makes every white heading and bright thumbnail feel lit from within. Instead of decorative gradients or glow effects, the system leans on hierarchy, spacing, and tightly controlled contrast. The result is sober rather than sterile: useful for a marketplace of design assets, but still visually rich.
 
-## Components and states
+A few traits define the look:
 
-The captured pages include repeated styling on <div>, <p>, <span>, <button>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+- Rounded charcoal cards with soft borders instead of hard dividers.
+- White display type paired with muted gray support text.
+- Lime only for the purchase or subscription action.
+- Gray-scale portraits, product thumbnails, and UI previews inside the same dark shell.
+- Small icon blocks and category marks that keep the rail navigable without adding noise.
+
+The page avoids the “studio portfolio” feel of large airy whites. It also avoids glossy glassmorphism. Everything stays matte, low-key, and practical. That makes the interface feel like a tool for browsing assets rather than a landing page trying to impress with motion or spectacle.
+
+## Components
+
+### Left rail navigation
+
+- **Anatomy:** Compact icon, category label, and a vertical list of sections.
+- **Surface:** `surface` with stacked items that hover visually through contrast rather than depth.
+- **Typography:** `body-strong` for the active or primary labels, `body` for secondary lines.
+- **Shape:** Small rounded rectangles with a consistent dark fill.
+- **Spacing:** Tight vertical rhythm with enough breathing room between groups to keep the list scanable.
+- **Visible states:** One item is visibly selected with a slightly lighter panel, while the rest sit flatter against the rail.
+
+### Subscription card
+
+- **Anatomy:** Small icon block, title, short price-led copy, and a lime button.
+- **Surface:** Slightly raised charcoal panel on the left rail.
+- **Typography:** `section-display` for the title, `body` for the explanation, `body-strong` on the button.
+- **Shape:** Rounded panel corners with a clear inset border.
+- **Composition:** The button sits close to the copy, so the price and action read as one unit.
+- **Visible states:** The button fill is the strongest visual color on the screen and should remain reserved for this path.
+
+### Project and team cards
+
+- **Anatomy:** Large heading, then tiles with thumbnails, names, and short supporting lines.
+- **Surface:** Dark card beds with lighter image blocks inside them.
+- **Typography:** `hero-display` for the section headline, `body` and `meta` for the smaller labels.
+- **Shape:** Wide rounded panels with thin borders and minimal shadow.
+- **Composition:** Cards keep a predictable top-to-bottom order, which makes the dense grid feel stable even when the content varies.
+- **Visible states:** The image tiles can be grayscale, but the text must stay crisp white or gray against the dark interior.
+
+### Newsletter form
+
+- **Anatomy:** Icon badge, centered heading, supporting paragraph, email field, and submit button.
+- **Surface:** Dark center panel that reads as a self-contained module.
+- **Typography:** `hero-display` for the main line, `supporting-copy` for the paragraph, `body-strong` for the button.
+- **Shape:** Rounded field container with a softer inner input and a more solid action button.
+- **Spacing:** The form keeps a clear vertical hierarchy, with the input row separated from the prose above and below.
+- **Visible states:** The field should remain visibly boxed even before input; the button stays lighter than the field edge so the action remains clear.
+
+### FAQ accordion
+
+- **Anatomy:** A stack of expandable rows with one open answer and several closed questions.
+- **Surface:** Dark rows with thin borders and a slightly lighter open state.
+- **Typography:** `section-display` on the questions, `body` on the answer.
+- **Shape:** Large rounded corners on the open item; closed rows keep the same family but feel flatter.
+- **Composition:** Each question spans most of the row width, making the touch target feel generous.
+- **Visible states:** Open state should look like a content panel, not a separate page section.
+
+### Wall of Love and trust cards
+
+- **Anatomy:** Card wall of testimonials, star rows, names, roles, and small trust panels.
+- **Surface:** Low-contrast charcoal cards with subtle separation between each testimonial.
+- **Typography:** `body` for the quotes, `meta` for names and roles, and a stronger weight for the section title.
+- **Shape:** Rounded rectangles with uniform edges so the wall feels like a repeated grid.
+- **Composition:** The cards should feel stacked, not floating; spacing carries the structure.
+- **Visible states:** Stars act as the bright accent inside the cards, but they stay secondary to the quote text.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design should preserve its dark shell and vertical reading order as the layout narrows. The left rail can collapse, but the section stack, subscription card, and action button logic should remain intact. On narrower widths, the grid needs to step down before the card rhythm breaks: two-up browsing cards can become a single column, and the centered conversion blocks should keep their vertical order rather than splitting into competing columns. Type should scale down in a controlled way, with the biggest display lines keeping their compact leading so they do not wrap into awkward slabs. Image tiles should retain their rounded corners and dark frame, because that framing is part of the identity, not just decoration.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the page mostly charcoal; the dark foundation is the brand.
+- Reserve `#CAFC00` for the main conversion action and a very small set of active indicators.
+- Keep the corner language consistent across rail items, cards, forms, and FAQ rows.
+- Let white headings and muted gray support text do most of the visual work.
+- Keep image tiles framed by the same dark shell so the gallery feels coherent.
+
+### Avoid
+
+- Avoid introducing a second bright accent color.
+- Avoid light cards that break the dark browsing mood.
+- Avoid big glossy shadows or glass effects.
+- Avoid mixing many corner radii in the same section.
+- Avoid giving every small control equal visual weight; the page needs a clear hierarchy.
+
+### Recommended build order
+
+1. Build the left-rail shell and the core dark tokens.
+2. Add the title hierarchy and card surface styles.
+3. Recreate the project grid and team or trust cards.
+4. Add the centered subscription and newsletter modules.
+5. Add the FAQ accordion and testimonial wall.
+6. Finish with the lime primary action and its button treatment.
+
+### Accessibility
+
+- Keep contrast strong on dark surfaces, especially for gray body copy.
+- Give the lime button black text and a clear focus treatment.
+- Make the rail items readable without relying on icons alone.
+- Keep form fields visibly bounded before focus so they are easy to identify.
+- Use descriptive alt text for portrait cards, product tiles, and preview images.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#a0a0a0`
-- `#1e1e1e`
-- `#2f2b43`
-- `#cafc00`
-- `#b1b1b1`
-
-## Typography captured from craftwork.design
-
-- **Font** — weight 400 · size 16px
-- **Noto Sans** — weight 400 · size 11px
+This guide covers the dark desktop marketplace shell, the browsing grids, the subscription and newsletter modules, the FAQ stack, the testimonial wall, and the trust cards shown in the supplied packet. Type and spacing values are rounded to the packet’s 0.125rem step; mobile breakpoints, motion, authenticated states, and exact interaction timing are not included.

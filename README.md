@@ -1155,7 +1155,7 @@ Cracked is a blunt, magazine-style entertainment system. The page sits on a pale
 
 [![How craftwork.design is designed](https://pin.fontofweb.com/7386?format=jpg)](design-md/craftwork.design.md)
 
-craftwork.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#a0a0a0`, with typography led by **Font** and **Noto Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Craftwork is a dark, product-heavy marketplace interface. The page treats the canvas as a low-lit stage, then places bright white headings, muted gray support copy, and tightly organized cards on top. The result feels dense and premium without becoming ornamental. The strongest cue is the lime subscription button: it is the only high-chroma action and it pulls attention immediately inside an otherwise restrained charcoal system.
 
 [Open guide](design-md/craftwork.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/craftwork.design-design)
 
