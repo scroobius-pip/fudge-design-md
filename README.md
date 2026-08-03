@@ -163,7 +163,7 @@ ads.pinterest.com presents a predominantly dark surface treatment in the capture
 
 [![How adventureson.band is designed](https://pin.fontofweb.com/6741?format=jpg)](design-md/adventureson.band.md)
 
-adventureson.band presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#202c54`, with typography led by **Manic**, **Default Sans**, and **Fraunces**. The guide below names reusable design roles only where the captured evidence supports them.
+Adventureson.band is designed like a short sequence of music chapters rather than a conventional site. Each chapter keeps the interface quiet and lets one visual idea carry the page: a blurred gradient cover stage, a white release sheet with watercolor rings, and a dark portrait biography panel. The result feels handmade and intimate, with the work itself doing most of the talking.
 
 [Open guide](design-md/adventureson.band.md) · [View the Fudge conversation](https://design.withfudge.com/share/adventureson.band-design)
 
