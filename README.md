@@ -907,7 +907,7 @@ Carcard uses two closely related visual modes: a warm editorial intro band and a
 
 [![How cargo.site is designed](https://pin.fontofweb.com/6371?format=jpg)](design-md/cargo.site.md)
 
-cargo.site presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#111111`, with typography led by **Cargo Diatype Plus** and **Sf Pro**. The guide below names reusable design roles only where the captured evidence supports them.
+Cargo is a dark, spare site-builder system that lets content carry the visual weight. The frame stays quiet: tiny top navigation, faint separators, restrained icons, and a low-contrast left rail in the editor shell. The pages that matter are either huge black poster-like statements or dense grids of site thumbnails. That split is the brand.
 
 [Open guide](design-md/cargo.site.md) · [View the Fudge conversation](https://design.withfudge.com/share/cargo.site-design)
 
