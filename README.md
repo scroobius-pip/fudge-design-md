@@ -1193,9 +1193,9 @@ Crowprose uses an editorial reading system, not a marketing layout. The visual l
 
 ### curator.io
 
-[![How curator.io is designed](https://pin.fontofweb.com/7656?format=jpg)](design-md/curator.io.md)
+[![How curator.io is designed](https://pin.fontofweb.com/7653?format=jpg)](design-md/curator.io.md)
 
-curator.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0000ee`, and `#ffffff`, with typography led by **System** and **Geist**. The guide below names reusable design roles only where the captured evidence supports them.
+Curator’s visual language is a clean, sales-focused SaaS system built from white space, black type, rounded cards, and one bright blue secondary accent. The page is structured as a long marketing story: a centered hero, a row of pill filters, article cards, a pricing comparison area, a CTA block, and a restrained footer. The work is not decorative in a lush sense; instead, it relies on proportion, rhythm, and a few high-contrast components to keep the page moving.
 
 [Open guide](design-md/curator.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/curator.io-design)
 
