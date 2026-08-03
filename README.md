@@ -579,7 +579,7 @@ assistant-ui.com presents a predominantly dark surface treatment in the captured
 
 [![How astrnt.co is designed](https://pin.fontofweb.com/8774?format=jpg)](design-md/astrnt.co.md)
 
-astrnt.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#18244e`, and `#494ca1`, with typography led by **Open Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+ASTRNT presents hiring and admissions as a serious enterprise landing page. The composition opens with a narrow navy strip, then moves into a white header row and a broad hero. The tone is controlled and corporate rather than playful. There are no soft gradients, decorative flourishes, or crowded card stacks competing for attention. The page relies on scale, spacing, and a few sharp brand colors to carry the message.
 
 [Open guide](design-md/astrnt.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/astrnt.co-design)
 
