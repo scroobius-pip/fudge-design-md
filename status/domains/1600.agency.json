@@ -1,19 +1,194 @@
 {
   "schemaVersion": 1,
   "domain": "1600.agency",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.561Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-03T15:13:48.835Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T14:42:10.994Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T14:42:17.383Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T14:46:39.683Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:47:40.909Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T14:47:40.921Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T14:50:47.097Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T14:58:56.146Z",
+      "attempt": 2,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T14:59:02.013Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T15:01:40.769Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T15:03:39.237Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T15:03:39.259Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T15:07:28.688Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T15:08:53.595Z",
+      "attempt": 3,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T15:08:59.538Z",
+      "attempt": 3,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T15:12:32.546Z",
+      "attempt": 3,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T15:13:04.963Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T15:13:04.975Z",
+      "attempt": 3,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T15:13:04.986Z",
+      "attempt": 3,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T15:13:10.993Z",
+      "attempt": 3,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T15:13:11.003Z",
+      "attempt": 3,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T15:13:48.821Z",
+      "attempt": 3,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T15:13:48.835Z",
+      "attempt": 3,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 110,
+      "total": 110,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/1600.agency-design",
+      "markdownUrl": "https://design.withfudge.com/share/1600.agency-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/1600.agency.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/5997?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T15-08-54-855Z-a3",
+    "imageCount": 6,
+    "guideSha256": "d183b0cba7e03c8a4f92ffb16429fca50ba2a3f34b143360d7e4fc6ef14dd816"
+  },
   "publication": {
-    "key": "1600.agency-design"
+    "key": "1600.agency-design",
+    "url": "https://design.withfudge.com/share/1600.agency-design",
+    "markdownUrl": "https://design.withfudge.com/share/1600.agency-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/1600.agency.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.1,
+    "maximumResidual": 1,
+    "valuesConsidered": 20
   }
 }

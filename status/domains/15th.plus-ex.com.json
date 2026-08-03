@@ -1,19 +1,185 @@
 {
   "schemaVersion": 1,
   "domain": "15th.plus-ex.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.542Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T15:36:25.685Z",
+  "agent": {
+    "engine": "human-approved",
+    "model": null,
+    "thinking": null
+  },
+  "history": [
+    {
+      "at": "2026-08-03T14:42:10.988Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T14:42:19.839Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T14:45:11.870Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:46:31.569Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T14:46:31.582Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T14:49:33.898Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T14:58:56.144Z",
+      "attempt": 2,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T14:59:01.142Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T15:02:55.606Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T15:03:28.197Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T15:03:28.210Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T15:06:17.647Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T15:06:17.659Z",
+      "attempt": 2,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T15:06:21.710Z",
+      "attempt": 2,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T15:06:21.726Z",
+      "attempt": 2,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T15:07:10.818Z",
+      "attempt": 2,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T15:07:10.839Z",
+      "attempt": 2,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-03T15:36:16.860Z",
+      "attempt": 2,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T15:36:16.884Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T15:36:23.067Z",
+      "attempt": 2,
+      "from": "ready",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T15:36:25.685Z",
+      "attempt": 2,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 110,
+      "total": 110,
+      "failures": []
+    },
+    "approval": "human-approved",
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/15th.plus-ex.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/15th.plus-ex.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/15th.plus-ex.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/10390?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T14-58-58-213Z-a2",
+    "imageCount": 5,
+    "guideSha256": "caae137dd66f5741c508f2d605b1dc3e9ff5fd30e90285668c21b185456bb0e6"
+  },
   "publication": {
-    "key": "15th.plus-ex.com-design"
+    "key": "15th.plus-ex.com-design",
+    "url": "https://design.withfudge.com/share/15th.plus-ex.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/15th.plus-ex.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/15th.plus-ex.com.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.24164242424242194,
+    "maximumResidual": 1,
+    "valuesConsidered": 33
   }
 }
