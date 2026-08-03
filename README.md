@@ -889,9 +889,9 @@ capacity.so presents a predominantly dark surface treatment in the captured page
 
 ### capy.ai
 
-[![How capy.ai is designed](https://pin.fontofweb.com/7791?format=jpg)](design-md/capy.ai.md)
+[![How capy.ai is designed](https://pin.fontofweb.com/7790?format=jpg)](design-md/capy.ai.md)
 
-capy.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#63c8c1`, with typography led by **Abc Social Mono Unlicensed**, **Inter**, **Bebas Neue**, and **Cc Wild Words**. The guide below names reusable design roles only where the captured evidence supports them.
+Capy uses a hard-edged developer-marketing language with a toy-like mascot, but the layout stays disciplined and serious. The site relies on a narrow patterned rail, a large white main canvas, tall condensed headlines, and a single teal accent that carries the whole action system. The result feels closer to an opinionated tool brand than to a playful illustration site. The mascot adds personality, but the real structure comes from strict alignment, thin black rules, and boxed surfaces.
 
 [Open guide](design-md/capy.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/capy.ai-design)
 
