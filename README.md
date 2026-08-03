@@ -1139,7 +1139,7 @@ cosmos.so presents a mixed light and dark surface treatment in the captured page
 
 [![How cotool.ai is designed](https://pin.fontofweb.com/8608?format=jpg)](design-md/cotool.ai.md)
 
-cotool.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#0d0d0d`, `#000000`, and `#1f1f1f`, with typography led by **Font** and **Moderat Serif**. The guide below names reusable design roles only where the captured evidence supports them.
+Cotool uses a hard-edged security tone rather than a soft SaaS tone. The page alternates between saturated electric-blue statements, pale editorial product sections, and near-black operational stages. Large serif headlines carry the message, while the sans family handles navigation, paragraphs, labels, and small UI controls. The result is serious and restrained, but not sterile: the dotted network forms and dot-matrix logo add texture without adding chrome.
 
 [Open guide](design-md/cotool.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/cotool.ai-design)
 
