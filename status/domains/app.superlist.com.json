@@ -1,13 +1,114 @@
 {
   "schemaVersion": 1,
   "domain": "app.superlist.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.588Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:05:59.324Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:54:31.946Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:54:34.688Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:57:53.746Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:58:39.304Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:58:39.563Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:01:24.075Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:02:06.972Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:02:06.984Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:05:16.749Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:05:59.310Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:05:59.324Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: section."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: section."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The guide invents a font family, \"rounded geometric sans\", even though the packet provides no material font family or font credit for this page. That is unsupported by the evidence packet and violates the grounding contract for type attribution.",
+          "requiredChange": "Remove the invented family name from the front matter and typography table, and keep the typography description generic unless a specific family is explicitly supplied by the packet."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-54-32-665Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "app.superlist.com-design"
   },
@@ -15,5 +116,12 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "normalization": {
+    "stepPx": 8,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
+  },
+  "error": "The repaired app.superlist.com guide did not pass the publication gate after two repairs."
 }

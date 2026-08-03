@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "app.squareup.com",
-  "state": "repairing",
+  "state": "published_verified",
   "attempt": 1,
-  "updatedAt": "2026-08-03T17:48:04.734Z",
+  "updatedAt": "2026-08-03T17:52:29.075Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -39,42 +39,92 @@
       "attempt": 1,
       "from": "reviewing",
       "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T17:51:08.169Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:51:59.749Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:51:59.761Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T17:51:59.773Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T17:52:03.932Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T17:52:03.942Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T17:52:29.060Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T17:52:29.075Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
   "checks": {
     "local": {
-      "ok": false,
-      "passed": 110,
+      "ok": true,
+      "passed": 112,
       "total": 112,
-      "failures": [
-        {
-          "id": "colors.syntax",
-          "message": "Every front-matter color must be a six-digit hex value."
-        },
-        {
-          "id": "colors.syntax",
-          "message": "Every front-matter color must be a six-digit hex value."
-        }
-      ]
+      "failures": []
     },
     "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "The guide assigns the black-panel display voice to `Cash Sans` at `1rem`/`600`, but the packet shows `Cash Sans` only at 16px while the large 32px/32.634px benefit text in the images is `Square Sans Vf`. The current token set misattributes the panel's dominant face and weight.",
-          "requiredChange": "Recast the black-panel display token as `Square Sans Vf` at the supported 32px/32.634px sizes and keep `Cash Sans` only for the small 16px text it actually renders, using only supported weights."
-        }
-      ]
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/app.squareup.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/app.squareup.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.squareup.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/9724?format=jpg"
     }
   },
   "artifacts": {
     "runId": "2026-08-03T17-43-02-530Z-a1",
     "imageCount": 2,
-    "baselineAvailable": true
+    "guideSha256": "3164dd28b001f14e3d78c0a5ef5f4366f817ff99bfe53507303cc3f494a499c0"
   },
   "publication": {
-    "key": "app.squareup.com-design"
+    "key": "app.squareup.com-design",
+    "url": "https://design.withfudge.com/share/app.squareup.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/app.squareup.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.squareup.com.md"
   },
   "blocker": null,
   "inventory": {

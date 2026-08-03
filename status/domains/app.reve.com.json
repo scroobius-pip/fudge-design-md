@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "app.reve.com",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T17:46:25.787Z",
+  "updatedAt": "2026-08-03T17:55:08.137Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -39,51 +39,63 @@
       "attempt": 1,
       "from": "reviewing",
       "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T17:49:39.397Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:51:37.519Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:51:37.529Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T17:54:28.692Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:55:08.124Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:55:08.137Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
   "checks": {
     "local": {
       "ok": false,
-      "passed": 108,
+      "passed": 110,
       "total": 112,
       "failures": [
         {
-          "id": "colors.grounded",
-          "message": "Colors absent from interface, gradient, and shadow evidence: #A3A3A3, #4ADE80, #EF4444."
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: cluster, section, page."
         },
         {
           "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: gutter, panel, section."
-        },
-        {
-          "id": "colors.grounded",
-          "message": "Colors absent from interface, gradient, and shadow evidence: #A3A3A3, #4ADE80, #EF4444."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: gutter, panel, section."
+          "message": "spacing values more than 2px from supplied measurements: cluster, section, page."
         }
       ]
     },
     "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "The guide invents an unverified font family name and fabricates type tokens even though the packet provides no font family, font size, or attribution values.",
-          "requiredChange": "Remove the unsupported family claims and either omit typography token values that are not present in the manifest or restrict the section to what the packet actually supports."
-        },
-        {
-          "section": "Colors / Components",
-          "problem": "The YAML defines exact UI colors and component tokens for gray, green, and red accents even though the authoritative exact-values manifest contains only black and white for interface colors and no exact spacing, radius, or font values.",
-          "requiredChange": "Limit exact UI tokens to values supported by the manifest; do not promote image-palette colors to interface tokens, and do not invent spacing or radius tokens when those exact values are absent."
-        },
-        {
-          "section": "Layout",
-          "problem": "The shape system invents rounded panels, tiles, and pills instead of using the required square-corner sentinel when no radii are supplied.",
-          "requiredChange": "Use `rounded.none: 0rem` as the only supported radius sentinel and avoid inventing additional radius values."
-        }
-      ]
+      "verdict": "pass",
+      "issues": []
     }
   },
   "artifacts": {
@@ -104,5 +116,6 @@
     "meanAbsoluteError": 0,
     "maximumResidual": 0,
     "valuesConsidered": 0
-  }
+  },
+  "error": "The repaired app.reve.com guide did not pass the publication gate after two repairs."
 }

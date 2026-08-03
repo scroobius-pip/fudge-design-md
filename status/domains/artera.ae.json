@@ -1,13 +1,69 @@
 {
   "schemaVersion": 1,
   "domain": "artera.ae",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.719Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:09:25.577Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:05:59.395Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:06:03.794Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:08:16.147Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:09:25.519Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:09:25.577Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "`page-title` is labeled as a bold 700-weight role, but the supplied detail-page title is rendered at 23px with semibold/600 weight. The current token overstates the visible weight for that heading role.",
+          "requiredChange": "Change `page-title` to the supported 600-weight treatment shown in the source, or move the 700-weight treatment to a separate token only if you are describing the other bold heading visible on the page."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-06-00-737Z-a1",
+    "imageCount": 3,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "artera.ae-design"
   },
@@ -15,5 +71,11 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.14063636363636595,
+    "maximumResidual": 1,
+    "valuesConsidered": 11
   }
 }

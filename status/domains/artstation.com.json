@@ -1,19 +1,53 @@
 {
   "schemaVersion": 1,
   "domain": "artstation.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.776Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:10:02.681Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:10:00.051Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:10:02.681Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-10-01-101Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "artstation.com-design"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
-    "fingerprint": "mechanical"
+    "fingerprint": "mechanical",
+    "corpus": {
+      "origin": "https://artstation.com",
+      "originCount": 1,
+      "captureCount": 2,
+      "observedGeneration": 68997,
+      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    }
+  },
+  "normalization": {
+    "stepPx": 8,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
   }
 }
