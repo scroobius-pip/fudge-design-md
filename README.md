@@ -1967,6 +1967,14 @@ Kleio is a stripped-back SaaS landing page built around a single idea: reduce vi
 
 [Open guide](design-md/getkleio.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/getkleio.com-design)
 
+### getomni.ai
+
+[![How getomni.ai is designed](https://pin.fontofweb.com/6871?format=jpg)](design-md/getomni.ai.md)
+
+OmniAI presents itself as a confident lending product with a simple visual promise: a loud blue opening, a calm sequence of white trust-building sections, and a quiet footer. The page does not lean on decoration. It leans on contrast, scale, and air. The blue hero establishes urgency and clarity immediately, while the later sections trade that intensity for pale surfaces, rounded cards, and soft colored glows that make the interface feel safe enough for a financial workflow.
+
+[Open guide](design-md/getomni.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/getomni.ai-design)
+
 ### good-fella.com
 
 [![How good-fella.com is designed](https://pin.fontofweb.com/8198?format=jpg)](design-md/good-fella.com.md)
