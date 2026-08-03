@@ -1775,6 +1775,14 @@ Fly.io’s visual system is quiet at first glance, then increasingly expressive 
 
 [Open guide](design-md/fly.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/fly.io-design)
 
+### fonts.floriankarsten.com
+
+[![How fonts.floriankarsten.com is designed](https://pin.fontofweb.com/8359?format=jpg)](design-md/fonts.floriankarsten.com.md)
+
+Florian Karsten Typefaces uses a severe monochrome system that puts the typefaces themselves at the center of the page. The brand language is stripped to black ink on a white field, with no ornamental color palette to distract from the specimens, the navigation, or the licensing copy. The result feels more like a carefully typeset catalog than a decorative marketing site.
+
+[Open guide](design-md/fonts.floriankarsten.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/fonts.floriankarsten.com-design)
+
 ### fontsinuse.com
 
 [![How fontsinuse.com is designed](https://pin.fontofweb.com/6844?format=jpg)](design-md/fontsinuse.com.md)
