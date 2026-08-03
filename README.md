@@ -1083,7 +1083,7 @@ cohere.com presents a predominantly light surface treatment in the captured page
 
 [![How console.groq.com is designed](https://pin.fontofweb.com/9484?format=jpg)](design-md/console.groq.com.md)
 
-console.groq.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#e0e0e0`, `#1c1e22`, and `#ffffff`, with typography led by **Inter** and **Space Grotesk**. The guide below names reusable design roles only where the captured evidence supports them.
+GroqCloud's home screen is a dark developer console with a tight, centered reading column and a strong hierarchy of rounded panels. The page does not try to feel expansive or decorative. It feels controlled, technical, and compact: a top bar, a sign-in block, and a model directory stacked one after another inside a charcoal shell. The visual mood comes from restraint. Most surfaces sit inside the same black-to-stone family, while the brightest notes are the coral brand accent and the pale blue secondary highlight.
 
 [Open guide](design-md/console.groq.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/console.groq.com-design)
 
