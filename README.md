@@ -387,7 +387,7 @@ api.scira.ai presents a predominantly light surface treatment in the captured pa
 
 [![How app.base44.com is designed](https://pin.fontofweb.com/7412?format=jpg)](design-md/app.base44.com.md)
 
-app.base44.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#09090b`, `#000000`, and `#f8fafc`, with typography led by **System**, **Wix Madefor App**, and **Wix Madefor**. The guide below names reusable design roles only where the captured evidence supports them.
+Base44’s visual language is a desktop builder with two competing stages: a calm editing workspace and a bright purchase sheet. The workspace is mostly white, lightly bordered, and sparse. The purchase sheet sits on top as a large rounded panel with a thin cool outline, a vivid orange promotion band, and four plan cards lined up with even spacing. The result feels like a software workspace that briefly turns into a sales moment without changing its core grammar.
 
 [Open guide](design-md/app.base44.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.base44.com-design)
 
