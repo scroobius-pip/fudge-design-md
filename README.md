@@ -225,9 +225,9 @@ ahrefsevolve.com presents a predominantly dark surface treatment in the captured
 
 ### ai-sdk.dev
 
-[![How ai-sdk.dev is designed](https://pin.fontofweb.com/8397?format=jpg)](design-md/ai-sdk.dev.md)
+[![How ai-sdk.dev is designed](https://pin.fontofweb.com/8393?format=jpg)](design-md/ai-sdk.dev.md)
 
-ai-sdk.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ededed`, and `#a1a1a1`, with typography led by **Geist** and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+ai-sdk.dev is designed as a dark developer homepage that sells the product through code, not illustration. The page uses a pure black canvas, soft gray supporting text, and very bright white primary copy. The first impression is a centered hero with a large statement, a compact command pill, and a code-and-chat demo underneath. That structure makes the site feel like a landing page and a working product walkthrough at the same time.
 
 [Open guide](design-md/ai-sdk.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai-sdk.dev-design)
 
