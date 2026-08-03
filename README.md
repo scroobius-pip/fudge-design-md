@@ -1171,7 +1171,7 @@ Crazy Creative is a poster-like studio site built around one decisive move: a sa
 
 [![How creem.io is designed](https://pin.fontofweb.com/7119?format=jpg)](design-md/creem.io.md)
 
-creem.io presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafaf9`, and `#111827`, with typography led by **Geist**, **Gasoek One**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Creem’s visual system is split on purpose. The marketing side is loud, comic, and instantly legible: lavender canvas, black outlined cards, oversized black display type, and character art that breaks into the composition at a huge scale. The transactional side is quieter and more familiar: white surfaces, thin borders, soft gray form chrome, and a single amber action. That shift is the core of the brand. It lets the site sell scale and personality on the homepage, then switch to trust and clarity when money is on the line.
 
 [Open guide](design-md/creem.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/creem.io-design)
 
