@@ -241,9 +241,9 @@ aino.agency presents a mixed light and dark surface treatment in the captured pa
 
 ### airbnb.ca
 
-[![How airbnb.ca is designed](https://pin.fontofweb.com/10056?format=jpg)](design-md/airbnb.ca.md)
+[![How airbnb.ca is designed](https://pin.fontofweb.com/10049?format=jpg)](design-md/airbnb.ca.md)
 
-airbnb.ca presents a predominantly light surface treatment in the captured pages. The system is anchored by `#222222`, `#000000`, and `#ffffff`, with typography led by **By Dalton Maag Ltd**, **Roboto**, **Applesystem**, and **Times**. The guide below names reusable design roles only where the captured evidence supports them.
+Airbnb.ca uses a restrained marketplace system: white canvas, soft gray separators, rounded cards, and one saturated red action color that stays reserved for the most important controls. The page puts stay photography and maps ahead of decoration. Titles are compact, labels are quiet, and the interface reads as a booking tool rather than a promotional landing page.
 
 [Open guide](design-md/airbnb.ca.md) · [View the Fudge conversation](https://design.withfudge.com/share/airbnb.ca-design)
 
