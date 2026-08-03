@@ -1025,9 +1025,9 @@ clubhouse.com presents a predominantly dark surface treatment in the captured pa
 
 ### cmux.com
 
-[![How cmux.com is designed](https://pin.fontofweb.com/9450?format=jpg)](design-md/cmux.com.md)
+[![How cmux.com is designed](https://pin.fontofweb.com/9447?format=jpg)](design-md/cmux.com.md)
 
-cmux.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ededed`, `#171717`, and `#0a0a0a`, with typography led by **Geist**, **System**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+cmux uses a restrained, developer-first visual language built from monochrome surfaces, compact type, and a very narrow centered content column. The page does not try to feel expansive or decorative. It feels precise, controlled, and intentionally quiet. The strongest impression comes from contrast: bright white pages against near-black pages, filled pills against outlined pills, and dense testimonial text against generous empty margins.
 
 [Open guide](design-md/cmux.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cmux.com-design)
 
