@@ -1727,6 +1727,14 @@ figr.design presents a predominantly dark surface treatment in the captured page
 
 [Open guide](design-md/figr.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/figr.design-design)
 
+### fireworks.ai
+
+[![How fireworks.ai is designed](https://pin.fontofweb.com/8502?format=jpg)](design-md/fireworks.ai.md)
+
+Fireworks.ai uses a hard-edged product language. The page alternates between white documentation-like surfaces and black promotional bands, then lets violet do the work of emphasis. The result is not decorative; it is legible and controlled. The hierarchy depends on a small set of moves: large Inter headlines, thin gray separators, compact action buttons, and broad blocks of white space around each model card.
+
+[Open guide](design-md/fireworks.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/fireworks.ai-design)
+
 ### five-am.com
 
 [![How five-am.com is designed](https://pin.fontofweb.com/8238?format=jpg)](design-md/five-am.com.md)
