@@ -251,7 +251,7 @@ Airbnb.ca uses a restrained marketplace system: white canvas, soft gray separato
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/8555?format=jpg)](design-md/aiverse.design.md)
 
-aiverse.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#d1b19c`, and `#877164`, with typography led by **System** and **Louize**. The guide below names reusable design roles only where the captured evidence supports them.
+aiverse.design presents AI products as a calm editorial library rather than a glossy software pitch. The page stays on a warm paper canvas, then layers in black serif statements, soft beige cards, and rounded screenshots that do the explanatory work. The result feels collected and instructive: one part playbook, one part gallery, with enough breathing room that each example can read as a small exhibit.
 
 [Open guide](design-md/aiverse.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/aiverse.design-design)
 
