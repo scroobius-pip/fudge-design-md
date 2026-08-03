@@ -139,7 +139,7 @@ acoup.blog is a dark reading site built around long historical essays. The page 
 
 [![How actualidea.com is designed](https://pin.fontofweb.com/8697?format=jpg)](design-md/actualidea.com.md)
 
-actualidea.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#282828`, `#000000`, and `#ffffff`, with typography led by **Applesystem** and **Helvetica Neue**. The guide below names reusable design roles only where the captured evidence supports them.
+actualidea.com presents an editorial portfolio system built around magazine spreads rather than conventional web cards. The page field is white, the chrome is sparse, and the spreads carry nearly all of the personality. That balance is what makes the layout feel printed: the interface stays quiet enough that the artwork can be loud, whether the page is warm and photographic, stark and monochrome, or saturated with pink, cyan, and rainbow stripes.
 
 [Open guide](design-md/actualidea.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/actualidea.com-design)
 
