@@ -89,9 +89,9 @@ a16z.com is an editorial home page with a single-minded hierarchy. The page open
 
 ### aaa24.a24films.com
 
-[![How aaa24.a24films.com is designed](https://pin.fontofweb.com/6577?format=jpg)](design-md/aaa24.a24films.com.md)
+[![How aaa24.a24films.com is designed](https://pin.fontofweb.com/6379?format=jpg)](design-md/aaa24.a24films.com.md)
 
-aaa24.a24films.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#f5f1ea`, `#000000`, and `#0e0d0d`, with typography led by **Nb International Pro**. The guide below names reusable design roles only where the captured evidence supports them.
+AAA24 is designed like a membership brochure that keeps turning into a utility interface. The dominant mood is severe and controlled: near-black content pages, warm paper footers, thin rules, and large Nb International Pro type that carries most of the personality. The system feels less like a glossy subscription funnel and more like an editorial film club with a strict grid.
 
 [Open guide](design-md/aaa24.a24films.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aaa24.a24films.com-design)
 
