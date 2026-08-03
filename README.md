@@ -515,7 +515,7 @@ ARC Raiders pairs a utilitarian game-world identity with unusually disciplined e
 
 [![How arena.ai is designed](https://pin.fontofweb.com/9344?format=jpg)](design-md/arena.ai.md)
 
-arena.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f4f0eb`, `#252523`, and `#413d39`, with typography led by **By Chi Long Trieu**, **Inter**, **Martina Plantijn**, **Basel Grotesk Mono**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Arena is a dark benchmarking interface built around comparison and ranking. The page feels technical before it feels decorative. A left rail handles navigation and filters, the center of the page carries dense ranked content, and the battle views split into opposing panes that keep the comparison in plain sight. The layout is organized for fast scanning, not for leisurely reading.
 
 [Open guide](design-md/arena.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arena.ai-design)
 
