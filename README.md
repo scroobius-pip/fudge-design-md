@@ -587,7 +587,7 @@ ASTRNT presents hiring and admissions as a serious enterprise landing page. The 
 
 [![How astrotypes.com is designed](https://pin.fontofweb.com/8440?format=jpg)](design-md/astrotypes.com.md)
 
-astrotypes.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0a0a0a`, and `#737373`, with typography led by **Inter**, **Tanker**, **Technor**, **Supreme**, **Zodiak**, **Plus Jakarta Sans**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Astrotypes is a type specimen page with a deliberately narrow visual range. The page does not try to create a full brand world; it lets the type families do the work. Each section reads like a large light card placed on a slightly darker canvas, with a single oversized face name, one calm supporting sentence, and a small command strip anchored near the bottom. The repetition is the identity: the same frame, the same spacing rhythm, and the same restrained controls make each font family feel like a member of one system rather than a separate poster.
 
 [Open guide](design-md/astrotypes.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/astrotypes.com-design)
 
