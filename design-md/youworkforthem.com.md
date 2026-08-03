@@ -2,231 +2,115 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/youworkforthem.com-design)
 
-Last updated: 2026-07-30
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — catalog hero, alternatives row, footer](https://pin.fontofweb.com/7435?format=jpg)](https://design.withfudge.com/share/pin-7435)
+[![Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://pin.fontofweb.com/7437?format=jpg)](https://design.withfudge.com/share/pin-7437)
 
-[Home — catalog hero, alternatives row, footer](https://design.withfudge.com/share/pin-7435)
+[Free High-Quality Fonts Without the Price Tag - YouWorkForThem](https://design.withfudge.com/share/pin-7437)
 
-[![Home — ultra-wide densified grid](https://pin.fontofweb.com/7434?format=jpg)](https://design.withfudge.com/share/pin-7434)
+[![Bebas Neue Font Alternatives - YouWorkForThem](https://pin.fontofweb.com/7436?format=jpg)](https://design.withfudge.com/share/pin-7436)
 
-[Home — ultra-wide densified grid](https://design.withfudge.com/share/pin-7434)
+[Bebas Neue Font Alternatives - YouWorkForThem](https://design.withfudge.com/share/pin-7436)
 
-[![Free fonts listing](https://pin.fontofweb.com/7437?format=jpg)](https://design.withfudge.com/share/pin-7437)
+[![High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://pin.fontofweb.com/7435?format=jpg)](https://design.withfudge.com/share/pin-7435)
 
-[Free fonts listing](https://design.withfudge.com/share/pin-7437)
+[High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/share/pin-7435)
 
-[![Bebas Neue Font Alternatives collection](https://pin.fontofweb.com/7436?format=jpg)](https://design.withfudge.com/share/pin-7436)
+[![High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://pin.fontofweb.com/7434?format=jpg)](https://design.withfudge.com/share/pin-7434)
 
-[Bebas Neue Font Alternatives collection](https://design.withfudge.com/share/pin-7436)
+[High-Quality Fonts and Graphics for Graphic Designers - YouWorkForThem](https://design.withfudge.com/share/pin-7434)
 
-[![Registration gate on a font page](https://pin.fontofweb.com/7433?format=jpg)](https://design.withfudge.com/share/pin-7433)
+[![Picual Font - YouWorkForThem](https://pin.fontofweb.com/7433?format=jpg)](https://design.withfudge.com/share/pin-7433)
 
-[Registration gate on a font page](https://design.withfudge.com/share/pin-7433)
+[Picual Font - YouWorkForThem](https://design.withfudge.com/share/pin-7433)
 
 ## Design character
 
-YouWorkForThem is a long-running creative marketplace that treats the **chrome as a quiet gallery wall** and the **product art as the exhibit**. The site frame is almost aggressively simple: a solid black top bar, a white content canvas, dense multi-column product grids, and short utilitarian labels. Color, texture, and personality live inside the specimen cards—not in the shell.
+youworkforthem.com has a mixed light and dark surface treatment across 5 captured pages. The strongest recurring signals are 2 captured type families, 14 recurring colors, and 99 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
 
-What should survive adaptation:
+## Overview
 
-- A **monochrome interface frame** that never competes with the merchandise.
-- **Card-first browsing**: nearly every commercial surface is a tiled catalog of square or near-square previews.
-- **Price as a secondary accent**, with free items called out in a clear green rather than decorative badges everywhere.
-- **Short, plain UI copy** beside lush, self-contained product imagery.
-- A **dense but ordered** rhythm—lots of items on screen, consistent gutters, no ornamental layout flourishes in the chrome.
+The captured set includes **5 pages** and 5 representative page references. It records 192 color rows, 67 typography rows, 83 spacing rows, 12 border rows, 0 gradient rows, and 4 shadow rows.
 
-This is not a soft lifestyle brand site and not a flashy SaaS landing page. It is a **working foundry storefront**: efficient navigation, high product density, and specimens that do the storytelling.
+## Supported design tokens
 
-## Foundations
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
 
-### Color
+### Colors
 
-Measured interface roles on the free-fonts and collection views:
-
-| Role | Value | How it shows up |
+| Color | Observed context | Frequency |
 | --- | --- | --- |
-| Primary text | `#000000` | Titles, body, nav labels on light surfaces, product meta |
-| Secondary / inverse text | `#ffffff` | Type and icons on the black header and on dark product art overlays |
-| Accent | `#0f8548` | “from Free” and other free-price callouts |
-
-Visually, the broader system stays in a tight set:
-
-- **Canvas**: pure white page background behind catalogs, footers, and collection intros.
-- **Shell**: pure black sticky header with white wordmark, category links, and utility icons (login, cart, currency, search).
-- **Commerce accent**: green is reserved for free pricing; paid prices stay black.
-- **Quiet controls**: light gray filled pills for secondary actions (“View More…”, “Register Today!”, sort menus, search field).
-- **Product art**: unbounded. Cards carry reds, oranges, pastels, neons, and photographic textures. That color is merchandise, not brand chrome.
-- **Auth moment**: the registration overlay breaks the monochrome rule with a saturated blue illustrated panel and a matching solid blue primary Register button—one of the few places the product UI itself becomes colorful.
-
-Do not invent a large semantic palette for the marketplace chrome. Keep the frame black/white/green and let specimen art supply variety.
+| `#000000` | background-color · header | 7490 |
+| `#ffffff` | color · header | 912 |
+| `#ececec` | background-color · main | 27 |
+| `#ad1a1a` | background-color · main | 21 |
+| `#efefef` | background-color · main | 21 |
+| `#f8f8f8` | background-color · main | 16 |
+| `#fafafa` | background-color · main | 15 |
+| `#e5e5e5` | background-color · main | 14 |
+| `#c3c3c3` | box-shadow · main | 12 |
+| `#f4f4f4` | background-color · main | 4 |
+| `#0f8548` | color · main | 3 |
+| `#dbdbdb` | border-color · button | 3 |
 
 ### Typography
 
-Captured text styles do **not** retain declared family names on these pages, so this guide does not name a proprietary UI face or claim a licence. What is measured and visible:
-
-- **Generic**: sans-serif UI throughout the chrome.
-- **Dominant size**: about **14px** at weight **400**, with line-heights around **21–22.4px** on dense product meta and body blurbs.
-- **Slight step up**: **16px** and **18px** appear for section titles, collection headings, and a few emphasis lines (often still weight 400).
-- **Roles present in the catalog views**: body, display, and UI—where “display” is mostly carried by **type rendered inside product images**, not by oversized HTML headlines in the shell.
-- **Tone of the chrome type**: plain, medium-tight, catalog-like. Product names are bold-ish links in black; foundry/category lines stay smaller and quieter; prices sit on the right of each card row in a consistent tabular alignment.
-
-Practical reading of the hierarchy:
-
-1. **Black header labels** — compact top-nav sans, high contrast on black.
-2. **Section titles** — centered or left, modest size (“Discover Popular Font Alternatives”, “Free Fonts”, collection name).
-3. **Card titles** — strongest text under each thumbnail.
-4. **Meta / blurb** — smaller supporting copy under collections or beside prices.
-5. **Specimen display** — lives in the artwork (Bebas-style condensed, serif editorials, script locks, etc.).
-
-If you rebuild this system, pair a neutral UI sans for chrome with the rule that **marketing display type belongs in media**, not in every heading style.
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Valid** | 14px · 400 · 21px | 4252 |
+| **Helvetica** | 14px · 400 · normal | 3 |
 
 ### Spacing and layout
 
-Recurring measured spacing (legacy CSS values, partial set):
+The most repeated spacing values are `20px 20px 2px` for padding, `6px 0px 0px` for padding, `50px 0px` for padding, `0px 0px 20px` for padding, `5px 0px 0px` for padding, and `30px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
 
-- **Control padding**: 5–6px on compact chips; **10–15px** on form-like controls; **20px** horizontal padding on many content blocks and cards.
-- **Card / section padding**: **20–30px** common; collection and hero-adjacent blocks also use **40–50px** vertical padding.
-- **Stack gaps**: margins around **8–20px** between meta rows; some list stacks use a tight **2–5px** vertical pad inside dense toolbars.
-- **Wide-home centering**: large left/right margins (~1172px recorded on the ultra-wide home capture) keep the catalog from bleeding edge-to-edge on very wide viewports.
+### Shape, borders, and depth
 
-Layout patterns that define the site:
-
-- **Sticky full-bleed black header** with logo left, primary categories center-left, utilities right.
-- **Hero / promo strip** on home: horizontal row of large specimen tiles (carousel-like), then a primary search field under a plain page title.
-- **Editorial collection row**: four equal cards with large type-locked artwork, title, and a 2–3 line blurb; a single centered pill CTA beneath.
-- **Catalog grids**:
-  - Standard desktop home/free views settle into roughly **4 columns** of product cards.
-  - Ultra-wide collection and home captures open to roughly **8+ columns**, proving the grid is allowed to get denser rather than only scaling card size.
-- **Collection header**: circular mark + title + short description + product count, then toolbar (pagination, sort) above the grid.
-- **Free-fonts toolbar**: breadcrumb, short explanatory paragraph, pagination, sort select, and grid/list toggles before the dense free grid.
-- **Multi-column footer**: many shallow link groups (Support, Licensing, Services, …) on white, then a legal/status line and social icons.
-- **Floating contact chip** anchored lower-right across browsing views.
-
-Density reads as **card-heavy and populated**—lots of SKUs visible—without collapsing into chaos because gutters and card meta stay consistent.
+Repeated border observations include `0px none 25px` (27), `0px none 50%` (21), `1px solid 5px 0px 0px 5px` (12), `1px solid 4px` (3), `1px 0px 1px 1px solid none solid solid 5px 0px 0px 5px` (1), and `1px solid 0px 5px 5px 0px` (1). 0 gradient rows and 4 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
 
 ## Visual language
 
-**Shape**
-
-- Product cards and many media tiles read as **near-square with small corner rounding** (~**4–5px** measured).
-- Primary marketing and secondary actions use **pill shapes** (~**20–25px** radius) rather than sharp rectangles.
-- Collection identity can use a **hard circular badge** (see Bebas Neue Alternatives).
-- Taxonomy on listing pages also marks the system as **flat surfaces** with **mostly square corners** at the card level—pills are the exception for actions/inputs.
-
-**Borders and elevation**
-
-- **1px solid** borders appear on toolbar controls, pagination, and some card/chrome edges.
-- A soft **0 / 0 / 15px** shadow shows up sparingly—elevation is not a big part of the brand; separation is mostly hairlines, whitespace, and the black header bar.
-
-**Imagery**
-
-- Product thumbnails are the visual engine: full-bleed type posters, textured lockups, lifestyle crops, and foundry graphics.
-- Promo corners (“50% OFF”) sit **inside the artwork**, not as a global UI ribbon system.
-- Home mixes fonts, graphics, photos, and video-style tiles in the same card language so the marketplace feels multi-category without changing layout mechanics.
-
-**Motion**
-
-- Still captures do not establish motion rules. Do not invent hover choreography beyond the obvious clickable card/title affordances visible in static UI.
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **header**, **nav**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
 
 ## Components and states
 
-### Top navigation
-Black bar, white logo mark + wordmark, text categories (Fonts, Graphics, Photos, Videos, Extras, Collections), right-side Login / cart / currency / search. Active category can sit on a slightly lifted dark chip (Fonts on the free listing). This is the permanent orientation device.
-
-### Product card
-Anatomy, top to bottom:
-
-1. Media tile (specimen art, optional corner promo label).
-2. Title link + price aligned on one row (“from $9.50”, “from Free”, “$22.00”).
-3. One-line foundry/category meta in quieter type.
-
-Free price uses green; everything else stays black on white. Cards are the atomic commercial unit on home, free, and collection grids.
-
-### Collection promo card
-Larger tile than a SKU card: big display specimen, bold collection title, 2–3 lines of descriptive copy. Used in “Discover Popular Font Alternatives”.
-
-### Search
-- Home: wide centered search under the H1, with an “All Items” (or similar) scope control beside it.
-- Free fonts: rounded light search field on the right of the intro block (“Search Free Fonts”).
-
-### Toolbar controls
-Pagination as a compact numbered control group; sort as a light select; optional grid/list icon pair. These stay visually light so they do not fight the grid.
-
-### Pills / CTAs
-Secondary and mid-page CTAs are **light gray pills with black labels** (“View More Font Alternatives”, “Register Today!”). They feel calm and catalog-native rather than sales-y primary buttons.
-
-### Registration / gate modal
-Split panel:
-
-- **Left**: saturated blue illustration field, bold white all-caps promise (“UNLOCK FREE FONTS & GRAPHICS!”), playful product icons.
-- **Right**: white form—email/password fields with large rounded fills, checkbox, solid blue Register button, then stacked social register buttons (Apple / Google / Facebook) as light rounded rectangles.
-
-This is the clearest “product UI color” moment in the set and a useful reference when the marketplace needs a conversion surface.
-
-### Footer + contact chip
-Utility footer in many columns of plain links; floating **Contact** chip remains available while browsing.
-
-Visible states worth copying: **populated catalogs**, **free vs paid price styling**, **active nav category**, and **modal registration**. Hover/focus details are not established from these stills.
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
 
 ## Responsive behavior
 
-Supported by paired captures, not by a full breakpoint table:
-
-- At ~**1712px**-class widths, home and free listings present a **comfortable 4-column** catalog with readable meta.
-- At ~**3432px**-class widths, home and collection views **add columns** (collection grid becomes a long horizontal run of many small cards) instead of only enlarging a fixed column count.
-- The black header and white canvas pattern holds across those widths; density changes more than structure.
-- The Picual/registration capture is a smaller viewport crop dominated by the modal—useful for the auth pattern, not for full-page responsive rules.
-
-Do not claim mobile nav or tablet behavior from this set; those viewports were not in the returned scope.
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
 
 ## Practical guidance
 
-**Preserve**
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
 
-1. Black header / white canvas / green free-price accent as the entire chrome palette.
-2. Specimen-first cards: artwork does the persuasion; UI type stays small and neutral.
-3. Dense, even grids with consistent title/price meta—catalog trust comes from rhythm.
-4. Pills for calm secondary actions; save saturated fills for rare conversion moments (registration).
-5. Let promo color live inside product media, not in global banners every section.
-6. Keep section titles modest; do not turn the marketplace shell into a poster layout.
+## Known gaps and reference scope
 
-**Avoid**
-
-1. Decorating the chrome with gradients, glass, or large brand color blocks borrowed from specimen art.
-2. Oversized marketing headlines in the shell that compete with type inside the cards.
-3. Rainbow price chips or badge systems—free green + black paid is enough.
-4. Heavy drop shadows or floating card decks; the site is mostly flat with hairlines.
-5. Naming or shipping a specific UI font family from this guide—the captures did not retain trustworthy declared family names.
-6. Assuming mobile patterns; only wide desktop densification is evidenced here.
-
-**Adaptation recipe**
-
-If you want “a site that feels like YouWorkForThem” for another catalog:
-
-- Build a **black utility header** and **white working canvas**.
-- Make the **SKU card** your primary component (media + title + price + quiet meta).
-- Use **one positive accent** for the special commercial state (here: free).
-- Put creative energy into **tile artwork**, not into chrome ornament.
-- Scale density by **adding columns** on very wide screens rather than stretching a sparse layout.
-
-## Scope note
-
-Studied from five desktop captures on `youworkforthem.com`:
-
-- Home (`/`) at standard and ultra-wide widths
-- Free fonts listing (`/fonts/free`)
-- Collection listing (`/collection/bebas-neue-font-alternatives`) at ultra-wide width
-- Font product URL showing the registration gate (`/font/T32673/picual`)
-
-Supported well: marketplace chrome, catalog density, card anatomy, free-price accent, collection header, registration split modal, wide-grid densification.
-
-Not established here: exact UI font family/licence, full spacing scale beyond the retained samples, mobile/tablet navigation, motion, and a complete semantic color system beyond black / white / free-green (plus the visually obvious blue registration treatment).
+This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
 - `#ffffff`
+- `#ececec`
+- `#ad1a1a`
+- `#efefef`
+- `#f8f8f8`
+- `#fafafa`
+- `#e5e5e5`
+- `#c3c3c3`
+- `#f4f4f4`
 - `#0f8548`
+- `#dbdbdb`
+- `#222222`
+- `#d1d1d1`
+
+## Typography captured from youworkforthem.com
+
+- **Valid** — weight 400 · size 14px
+- **Helvetica** — weight 400 · size 14px

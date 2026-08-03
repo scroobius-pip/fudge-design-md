@@ -2054,9 +2054,9 @@ Stripe's captured homepage is a calm editorial product interface: a pale canvas,
 
 ### youworkforthem.com
 
-[![How youworkforthem.com is designed](https://pin.fontofweb.com/7435?format=jpg)](design-md/youworkforthem.com.md)
+[![How youworkforthem.com is designed](https://pin.fontofweb.com/7437?format=jpg)](design-md/youworkforthem.com.md)
 
-YouWorkForThem is a long-running creative marketplace that treats the **chrome as a quiet gallery wall** and the **product art as the exhibit**. The site frame is almost aggressively simple: a solid black top bar, a white content canvas, dense multi-column product grids, and short utilitarian labels. Color, texture, and personality live inside the specimen cards—not in the shell.
+youworkforthem.com has a mixed light and dark surface treatment across 5 captured pages. The strongest recurring signals are 2 captured type families, 14 recurring colors, and 99 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
 
 [Open guide](design-md/youworkforthem.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/youworkforthem.com-design)
 <!-- DESIGN_MD_INDEX_END -->
