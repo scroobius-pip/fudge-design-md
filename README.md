@@ -441,9 +441,9 @@ app.reve.com presents a predominantly dark surface treatment in the captured pag
 
 ### app.squareup.com
 
-[![How app.squareup.com is designed](https://pin.fontofweb.com/9725?format=jpg)](design-md/app.squareup.com.md)
+[![How app.squareup.com is designed](https://pin.fontofweb.com/9724?format=jpg)](design-md/app.squareup.com.md)
 
-app.squareup.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#101010`, `#ffffff`, and `#000000`, with typography led by **Square Sans Vf**, **Cash Sans**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Square’s sign-in page is a split-stage gate: a calm white authentication surface on one side and a black brand panel on the other. The white side keeps the task plain and procedural. The black side carries the product story through stacked benefit lines and a floating software screenshot. The page feels serious because it uses very few colors, very little ornament, and a tight rhythm of text, controls, and spacing.
 
 [Open guide](design-md/app.squareup.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.squareup.com-design)
 
