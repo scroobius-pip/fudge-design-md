@@ -361,9 +361,9 @@ aol.com presents a predominantly dark surface treatment in the captured pages. T
 
 ### apara.design
 
-[![How apara.design is designed](https://pin.fontofweb.com/7985?format=jpg)](design-md/apara.design.md)
+[![How apara.design is designed](https://pin.fontofweb.com/7978?format=jpg)](design-md/apara.design.md)
 
-apara.design presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f9f9f9`, with typography led by **System**, **Geist**, **Hero Font**, and **Test Söhne**. The guide below names reusable design roles only where the captured evidence supports them.
+Apara uses a spare portfolio language: white canvas, black type, rounded cards, and one electric-blue action color. The page feels calm rather than empty because the sections are built from strong contrasts: centered hero statements against wide blank fields, dark process panels against light utility areas, and product imagery that brings saturated color into an otherwise neutral system. The result is a studio presentation that feels careful, editorial, and slightly theatrical without becoming busy.
 
 [Open guide](design-md/apara.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/apara.design-design)
 
