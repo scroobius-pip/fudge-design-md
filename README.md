@@ -953,9 +953,9 @@ Cerebras uses a strict industrial visual language. The page is driven by dark fi
 
 ### chainlift.io
 
-[![How chainlift.io is designed](https://pin.fontofweb.com/6347?format=jpg)](design-md/chainlift.io.md)
+[![How chainlift.io is designed](https://pin.fontofweb.com/6346?format=jpg)](design-md/chainlift.io.md)
 
-chainlift.io presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#e4e1e6`, `#dee1ff`, and `#001258`, with typography led by **Inter Font** and **Material Symbols Outlined**. The guide below names reusable design roles only where the captured evidence supports them.
+Chainlift presents LiftKit as a precision-minded UI framework. The page is almost entirely dark, then punctuates that darkness with pale lavender actions and a saturated blue footer. The result feels technical, controlled, and a little severe, but never noisy. Large headlines do the heavy lifting; the supporting text stays compact and deliberately plain.
 
 [Open guide](design-md/chainlift.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/chainlift.io-design)
 
