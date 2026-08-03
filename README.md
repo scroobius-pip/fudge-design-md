@@ -417,9 +417,9 @@ Formula AI uses a dark, controlled studio language rather than a bright marketin
 
 ### app.paper.design
 
-[![How app.paper.design is designed](https://pin.fontofweb.com/8569?format=jpg)](design-md/app.paper.design.md)
+[![How app.paper.design is designed](https://pin.fontofweb.com/8568?format=jpg)](design-md/app.paper.design.md)
 
-app.paper.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#373737`, and `#222222`, with typography led by **Applesystem** and **Matter**. The guide below names reusable design roles only where the captured evidence supports them.
+Paper's Files home is a restrained desktop workspace built like a file system rather than a marketing page. The dark canvas stays in control, the rail is narrow, and the main area keeps a wide open working field around a small number of file tiles. That emptiness is part of the design language: content is given room, chrome stays quiet, and the interface never competes with the documents.
 
 [Open guide](design-md/app.paper.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.paper.design-design)
 
