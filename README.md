@@ -913,9 +913,9 @@ Cargo is a dark, spare site-builder system that lets content carry the visual we
 
 ### catala-lang.org
 
-[![How catala-lang.org is designed](https://pin.fontofweb.com/9003?format=jpg)](design-md/catala-lang.org.md)
+[![How catala-lang.org is designed](https://pin.fontofweb.com/9002?format=jpg)](design-md/catala-lang.org.md)
 
-catala-lang.org presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fbcc80`, and `#ddd6cd`, with typography led by **Space Grotesk**, **Libre Baskerville**, **Fira Code**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Catala’s visual system reads like an academic paper that has been turned into a website without losing its discipline. The page sits on a pale paper ground, uses serif display type for the main claims, and keeps the rest of the interface in a clean sans-serif voice. Gold-sand buttons, thin rules, and ruled white panels carry the interface, while code examples supply the site’s strongest visual contrast. The overall feeling is calm, exact, and document-oriented rather than promotional.
 
 [Open guide](design-md/catala-lang.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/catala-lang.org-design)
 
