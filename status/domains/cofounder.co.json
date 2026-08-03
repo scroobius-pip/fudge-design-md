@@ -1,13 +1,110 @@
 {
   "schemaVersion": 1,
   "domain": "cofounder.co",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:57:50.578Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:36:57.194Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:37:04.883Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:41:20.770Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:42:28.706Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:42:29.288Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:50:36.920Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:53:19.220Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:53:19.280Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:56:12.154Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:57:50.518Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:57:50.578Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Reference views",
+          "problem": "The selection is redundant: 9471 and 9470 are near-duplicate home hero views, and 8170 and 8169 are near-duplicate white-page views. The set does not use the available images to cover the page family efficiently.",
+          "requiredChange": "Replace the duplicate pairs with more distinct views so the 2–6 references span the illustration-led home, the editorial shell, and pricing without near-duplicate shots."
+        },
+        {
+          "section": "Components / Primary and secondary actions",
+          "problem": "The guide states a single black-filled primary action for the system, but the illustrated home views use a light pill CTA with dark text while the editorial/pricing views use dark-filled controls. The component language overstates one universal treatment.",
+          "requiredChange": "Split the action description into the visible light overlay CTA and the dark filled editorial/pricing CTA, or scope the black-fill claim to the surfaces that actually use it."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-36-58-923Z-a1",
+    "imageCount": 6,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "cofounder.co-design"
   },
@@ -22,5 +119,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.2494076923076934,
+    "maximumResidual": 1,
+    "valuesConsidered": 26
+  },
+  "error": "The repaired cofounder.co guide did not pass the publication gate after two repairs."
 }

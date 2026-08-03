@@ -1,15 +1,112 @@
 {
   "schemaVersion": 1,
   "domain": "giga.ai",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:40:58.525Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T20:33:31.396Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T20:33:39.163Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:38:17.105Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:39:12.047Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:39:12.116Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T20:39:12.169Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T20:39:16.555Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T20:39:16.609Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T20:40:58.456Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T20:40:58.525Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/giga.ai-design",
+      "markdownUrl": "https://design.withfudge.com/share/giga.ai-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/giga.ai.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8976?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T20-33-32-544Z-a1",
+    "imageCount": 6,
+    "guideSha256": "f1a064baba443ed1791bb94bbddb1a91631a48e94a41d65dffc10ffffed29800"
+  },
   "publication": {
-    "key": "giga.ai-design"
+    "key": "giga.ai-design",
+    "url": "https://design.withfudge.com/share/giga.ai-design",
+    "markdownUrl": "https://design.withfudge.com/share/giga.ai-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/giga.ai.md"
   },
   "blocker": null,
   "inventory": {
@@ -20,5 +117,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.2738345161290322,
+    "maximumResidual": 1,
+    "valuesConsidered": 31
   }
 }

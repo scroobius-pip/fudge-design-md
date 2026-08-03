@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "fontofweb.com",
-  "state": "validating",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T19:13:03.918Z",
+  "updatedAt": "2026-08-03T19:26:09.658Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -45,6 +45,36 @@
       "attempt": 1,
       "from": "repairing",
       "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:17:11.227Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:17:14.595Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:24:27.401Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:26:09.255Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:26:09.658Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -53,6 +83,16 @@
       "passed": 112,
       "total": 112,
       "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Reference views",
+          "problem": "The compiled guide shows only five reference images, but the packet's authoritative selectedPins list contains six; pin 8052 is missing from the inserted Reference views block.",
+          "requiredChange": "Add the missing selected pin 8052 image and label to the Reference views section, or revise the selected set so it matches the authoritative packet list."
+        }
+      ]
     }
   },
   "artifacts": {
@@ -78,5 +118,6 @@
     "meanAbsoluteError": 0.04095238095238093,
     "maximumResidual": 0.40619999999999834,
     "valuesConsidered": 21
-  }
+  },
+  "error": "The repaired fontofweb.com guide did not pass the publication gate after two repairs."
 }

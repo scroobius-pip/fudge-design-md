@@ -1,15 +1,130 @@
 {
   "schemaVersion": 1,
   "domain": "continue.dev",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:08:35.441Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:57:48.193Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:57:54.679Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:01:47.308Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:03:19.340Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:03:19.412Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T20:05:11.808Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:07:56.236Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:07:56.309Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T20:07:56.361Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T20:07:59.815Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T20:07:59.874Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T20:08:35.360Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T20:08:35.441Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/continue.dev-design",
+      "markdownUrl": "https://design.withfudge.com/share/continue.dev-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/continue.dev.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8680?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-57-49-808Z-a1",
+    "imageCount": 5,
+    "guideSha256": "cb8b8dda944d32323468d12674309a2e5993d3287b851be58f85436e03f0d53b"
+  },
   "publication": {
-    "key": "continue.dev-design"
+    "key": "continue.dev-design",
+    "url": "https://design.withfudge.com/share/continue.dev-design",
+    "markdownUrl": "https://design.withfudge.com/share/continue.dev-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/continue.dev.md"
   },
   "blocker": null,
   "inventory": {
@@ -22,5 +137,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 12
   }
 }

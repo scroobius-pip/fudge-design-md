@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
   "domain": "1x.tech",
-  "state": "needs_reprocessing",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
+  "state": "drafting",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T21:54:10.106Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
   "history": [
     {
       "at": "2026-08-03T18:13:54.410Z",
@@ -29,14 +33,36 @@
       "attempt": 1,
       "from": "needs_collection",
       "to": "needs_reprocessing"
+    },
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 1,
+      "from": "needs_reprocessing",
+      "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T21:54:03.117Z",
+      "attempt": 2,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T21:54:10.106Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
     }
   ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T21-54-04-574Z-a2",
+    "imageCount": 7,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "1x.tech-design"
   },
-  "blocker": "legacy_only_projection",
+  "blocker": null,
   "inventory": {
     "corpus": {
       "origin": "https://1x.tech",
@@ -50,5 +76,11 @@
       "pinCount": 14,
       "checkedAt": "2026-08-03T18:23:55.937Z"
     }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
   }
 }

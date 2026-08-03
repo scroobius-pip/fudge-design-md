@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "clarity.microsoft.com",
-  "state": "validating",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T19:12:32.931Z",
+  "updatedAt": "2026-08-03T19:19:29.957Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -45,6 +45,42 @@
       "attempt": 1,
       "from": "repairing",
       "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:13:22.849Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:13:22.927Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T19:13:22.978Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T19:13:27.196Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T19:13:27.246Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T19:19:29.957Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -53,15 +89,24 @@
       "passed": 112,
       "total": 112,
       "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
     }
   },
   "artifacts": {
     "runId": "2026-08-03T19-04-26-691Z-a1",
     "imageCount": 5,
-    "baselineAvailable": true
+    "guideSha256": "0dd05e0708b9731a379c28812b602a0af7f150504474d512efe5b7feefb56708"
   },
   "publication": {
-    "key": "clarity.microsoft.com-design"
+    "key": "clarity.microsoft.com-design",
+    "url": "https://design.withfudge.com/share/clarity.microsoft.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/clarity.microsoft.com-design.md"
   },
   "blocker": null,
   "inventory": {
@@ -80,5 +125,6 @@
     "meanAbsoluteError": 0.14705882352941177,
     "maximumResidual": 1,
     "valuesConsidered": 17
-  }
+  },
+  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
 }

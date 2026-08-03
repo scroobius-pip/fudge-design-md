@@ -1,15 +1,130 @@
 {
   "schemaVersion": 1,
   "domain": "coolors.co",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:07:00.205Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:57:50.751Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:57:58.810Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:02:35.437Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:03:37.534Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:03:37.610Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T20:05:15.177Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:06:29.582Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:06:29.651Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T20:06:29.706Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T20:06:35.389Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T20:06:35.450Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T20:07:00.137Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T20:07:00.205Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/coolors.co-design",
+      "markdownUrl": "https://design.withfudge.com/share/coolors.co-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/coolors.co.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/6391?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-57-52-142Z-a1",
+    "imageCount": 5,
+    "guideSha256": "ee761cc7c2a30bc2636a91c727bdf3aa0590607e307b49ad429052fcc7432764"
+  },
   "publication": {
-    "key": "coolors.co-design"
+    "key": "coolors.co-design",
+    "url": "https://design.withfudge.com/share/coolors.co-design",
+    "markdownUrl": "https://design.withfudge.com/share/coolors.co-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/coolors.co.md"
   },
   "blocker": null,
   "inventory": {
@@ -22,5 +137,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.3041666666666667,
+    "maximumResidual": 1,
+    "valuesConsidered": 24
   }
 }

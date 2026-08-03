@@ -1,13 +1,81 @@
 {
   "schemaVersion": 1,
   "domain": "cora.computer",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:08:17.134Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:57:54.828Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:58:01.855Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:01:58.104Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:03:13.932Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:03:14.008Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T20:06:26.147Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:08:17.063Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:08:17.134Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-57-55-840Z-a1",
+    "imageCount": 6,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "cora.computer-design"
   },
@@ -22,5 +90,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.29946666666666794,
+    "maximumResidual": 1,
+    "valuesConsidered": 30
+  },
+  "error": "Publication contains a secret name or local path."
 }

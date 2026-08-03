@@ -1,13 +1,72 @@
 {
   "schemaVersion": 1,
   "domain": "git.law",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:45:15.348Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T20:40:58.708Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T20:41:04.267Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:43:53.440Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:45:15.278Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:45:15.348Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "typography.names",
+          "message": "Guide does not name supplied font families: Dm Sans 9 Pt, Dm Sans 18 Pt."
+        },
+        {
+          "id": "typography.names",
+          "message": "Guide does not name supplied font families: Dm Sans 9 Pt, Dm Sans 18 Pt."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T20-40-59-745Z-a1",
+    "imageCount": 5,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "git.law-design"
   },
@@ -20,5 +79,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.005375000000000796,
+    "maximumResidual": 0.08600000000001273,
+    "valuesConsidered": 16
   }
 }

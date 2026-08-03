@@ -1,15 +1,112 @@
 {
   "schemaVersion": 1,
   "domain": "fonts.floriankarsten.com",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:32:25.033Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:26:10.482Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:26:17.572Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:29:06.075Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:29:46.295Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:29:46.609Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T19:29:46.744Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T19:29:51.545Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T19:29:51.735Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T19:32:24.966Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T19:32:25.033Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/fonts.floriankarsten.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/fonts.floriankarsten.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fonts.floriankarsten.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8359?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-26-11-779Z-a1",
+    "imageCount": 3,
+    "guideSha256": "6bb59ac02e9e10e5286744f5a016da863d6abd1255c3911991720cf8de647d22"
+  },
   "publication": {
-    "key": "fonts.floriankarsten.com-design"
+    "key": "fonts.floriankarsten.com-design",
+    "url": "https://design.withfudge.com/share/fonts.floriankarsten.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/fonts.floriankarsten.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fonts.floriankarsten.com.md"
   },
   "blocker": null,
   "inventory": {
@@ -20,5 +117,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.49477777777777754,
+    "maximumResidual": 1,
+    "valuesConsidered": 9
   }
 }

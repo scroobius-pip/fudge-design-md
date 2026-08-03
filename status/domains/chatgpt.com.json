@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "chatgpt.com",
-  "state": "validating",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T19:11:40.134Z",
+  "updatedAt": "2026-08-03T19:21:01.418Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -45,6 +45,36 @@
       "attempt": 1,
       "from": "repairing",
       "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:14:18.352Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:14:18.432Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:18:36.082Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:21:00.969Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:21:01.418Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -53,6 +83,21 @@
       "passed": 112,
       "total": 112,
       "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "This section relies on source-packet reasoning: it says the packet does not ground an Open Ai Sans display role here and notes the absence of a licensing statement. That is internal process language, not a direct description of the design.",
+          "requiredChange": "Remove the packet-based explanation. Keep only the font families and roles visible in the selected images, and either add a real supplied licensing sentence or omit licensing entirely."
+        },
+        {
+          "section": "Scope note",
+          "problem": "The closing sentence explains rounding by referring to the packet’s 0.125rem step. That is derivation/process language, which the published guide must not include.",
+          "requiredChange": "Replace that sentence with a plain coverage note that names what is included and what is not, without mentioning the packet or how values were rounded."
+        }
+      ]
     }
   },
   "artifacts": {
@@ -80,5 +125,6 @@
     "meanAbsoluteError": 0.3831025641025639,
     "maximumResidual": 1,
     "valuesConsidered": 39
-  }
+  },
+  "error": "The repaired chatgpt.com guide did not pass the publication gate after two repairs."
 }

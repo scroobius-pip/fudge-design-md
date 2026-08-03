@@ -1,13 +1,105 @@
 {
   "schemaVersion": 1,
   "domain": "getviktor.com",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T20:33:31.223Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T20:20:54.066Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T20:21:03.643Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T20:23:48.390Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:25:37.789Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:25:37.860Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T20:27:57.811Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:29:08.247Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:29:08.315Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T20:32:32.229Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T20:33:31.149Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T20:33:31.223Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "## Reference views",
+          "problem": "The selected image set skips the weeks-long runs timeline view, so the compiled guide does not include a reference for the page’s longest horizontal section and its distinctive grid-and-card layout.",
+          "requiredChange": "Replace one of the near-duplicate upper-page references with pin-6486 and label it with a distinct description of the weeks-long runs timeline and floating milestone cards."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T20-20-56-427Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "getviktor.com-design"
   },
@@ -20,5 +112,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 12
+  },
+  "error": "The repaired getviktor.com guide did not pass the publication gate after two repairs."
 }

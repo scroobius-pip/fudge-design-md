@@ -1,13 +1,119 @@
 {
   "schemaVersion": 1,
   "domain": "codepen.io",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T19:12:36.929Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T19:53:15.915Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T19:35:21.870Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T19:35:31.658Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T19:38:47.386Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:41:38.490Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:41:39.174Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:44:06.370Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:48:37.664Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:48:37.770Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T19:50:35.483Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T19:53:15.844Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T19:53:15.915Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "markdown.tables",
+          "message": "Table beginning | token | value | role | has inconsistent columns"
+        },
+        {
+          "id": "markdown.tables",
+          "message": "Table beginning | token | value | role | has inconsistent columns"
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The typography copy claims credits for Type and Sf Mono (“Webtype Web Use Only” and “Apple Inc.”), but `_harness.exactValues.fontCredits` is empty for every family, so no attribution claim is supported in the finished guide.",
+          "requiredChange": "Remove the credit sentences and any family-by-family attribution claims unless the exact-values manifest supplies supported credit entries for those families."
+        },
+        {
+          "section": "Reference views",
+          "problem": "The selected reference images cover the shell, topics, team panel, gallery, and settings, but they do not include the editor workspace even though the guide later describes code-pane/editor anatomy. That leaves a core surface underrepresented in the visual evidence set.",
+          "requiredChange": "Swap one current reference for an editor screenshot from the packet so the reference set covers the code-editor surface described in Components, or remove the editor-specific claims."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T19-35-23-408Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "codepen.io-design"
   },
@@ -22,5 +128,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T19:12:36.929Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.4089245614035081,
+    "maximumResidual": 1,
+    "valuesConsidered": 57
+  },
+  "error": "The repaired codepen.io guide did not pass the publication gate after two repairs."
 }

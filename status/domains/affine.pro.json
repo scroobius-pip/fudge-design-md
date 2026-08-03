@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "affine.pro",
-  "state": "needs_reprocessing",
+  "state": "unpublished",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
@@ -29,6 +29,12 @@
       "attempt": 1,
       "from": "needs_collection",
       "to": "needs_reprocessing"
+    },
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 1,
+      "from": "needs_reprocessing",
+      "to": "unpublished"
     }
   ],
   "checks": {},
@@ -36,7 +42,7 @@
   "publication": {
     "key": "affine.pro-design"
   },
-  "blocker": "legacy_only_projection",
+  "blocker": null,
   "inventory": {
     "corpus": {
       "origin": "https://affine.pro",

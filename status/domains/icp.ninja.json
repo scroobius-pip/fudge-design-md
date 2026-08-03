@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "icp.ninja",
-  "state": "needs_reprocessing",
+  "state": "unpublished",
   "attempt": 0,
   "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
@@ -23,6 +23,12 @@
       "attempt": 0,
       "from": "needs_collection",
       "to": "needs_reprocessing"
+    },
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 0,
+      "from": "needs_reprocessing",
+      "to": "unpublished"
     }
   ],
   "checks": {},
@@ -30,7 +36,7 @@
   "publication": {
     "key": "icp.ninja-design"
   },
-  "blocker": "legacy_only_projection",
+  "blocker": null,
   "inventory": {
     "corpus": {
       "origin": "https://icp.ninja",
