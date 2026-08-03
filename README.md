@@ -315,7 +315,7 @@ ampcode.com presents a predominantly dark surface treatment in the captured page
 
 [![How analytics.google.com is designed](https://pin.fontofweb.com/6041?format=jpg)](design-md/analytics.google.com.md)
 
-analytics.google.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#202124`, `#f1f3f4`, and `#000000`, with typography led by **Roboto** and **Google Sans 18 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
+Google Analytics uses a restrained enterprise dashboard language: light gray page ground, nearly white cards, thin borders, blue interactive accents, and dense metric layout. The page is organized around numbers first, then charts, then short navigation surfaces. Nothing competes with the data. The whole system feels like a control room built for long sessions rather than a marketing page built for quick attention.
 
 [Open guide](design-md/analytics.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
