@@ -169,9 +169,9 @@ Adventureson.band is designed like a short sequence of music chapters rather tha
 
 ### aeon.co
 
-[![How aeon.co is designed](https://pin.fontofweb.com/6526?format=jpg)](design-md/aeon.co.md)
+[![How aeon.co is designed](https://pin.fontofweb.com/6521?format=jpg)](design-md/aeon.co.md)
 
-aeon.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#333333`, with typography led by **Atlas Grotesk**, **Acaca**, and **Atlas Typewriter**. The guide below names reusable design roles only where the captured evidence supports them.
+Aeon looks like a magazine that trusts the argument more than the interface. The page is built from a white reading field, a black hero stage, and occasional pale support bands that reset the mood without adding decorative clutter. Acaca carries the large editorial statements: essay titles, donation headlines, and other moments that need authority. Atlas Grotesk handles the rest of the page with a plain, measured voice. Atlas Typewriter appears only in small labels, utility copy, and compact controls, which gives the site a faint print-shop edge without turning the interface nostalgic.
 
 [Open guide](design-md/aeon.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/aeon.co-design)
 
