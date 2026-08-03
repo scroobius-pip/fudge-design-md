@@ -257,9 +257,9 @@ aiverse.design presents a predominantly dark surface treatment in the captured p
 
 ### algebrica.org
 
-[![How algebrica.org is designed](https://pin.fontofweb.com/8752?format=jpg)](design-md/algebrica.org.md)
+[![How algebrica.org is designed](https://pin.fontofweb.com/8751?format=jpg)](design-md/algebrica.org.md)
 
-algebrica.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#666666`, and `#dadada`, with typography led by **Segoe Ui**. The guide below names reusable design roles only where the captured evidence supports them.
+Algebrica is a restrained mathematical knowledge base with the tone of a printed reference shelf translated to the web. The page language stays calm: white and very pale gray surfaces, thin dividers, black text, muted gray metadata, and the classic blue link as the only sharp color accent. The design does not depend on heavy illustration or decorative motion. It relies on order, spacing, and a careful hierarchy between navigation, chapter cards, and long reading surfaces.
 
 [Open guide](design-md/algebrica.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/algebrica.org-design)
 
