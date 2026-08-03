@@ -1951,6 +1951,14 @@ georgivalk.framer.website presents a predominantly dark surface treatment in the
 
 [Open guide](design-md/georgivalk.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/georgivalk.framer.website-design)
 
+### getdesign.md
+
+[![How getdesign.md is designed](https://pin.fontofweb.com/9861?format=jpg)](design-md/getdesign.md.md)
+
+getdesign.md reads like a dark code editor wrapped around a product catalog. The page keeps the canvas black, then uses a narrow ladder of charcoal surfaces to separate the header, the hero, the usage panel, the code sheet, and the white preview frame. The result is disciplined rather than decorative: most of the page is flat, boxed, and bordered, with only one warm action color and one pale accent chip breaking the monochrome field.
+
+[Open guide](design-md/getdesign.md.md) · [View the Fudge conversation](https://design.withfudge.com/share/getdesign.md-design)
+
 ### good-fella.com
 
 [![How good-fella.com is designed](https://pin.fontofweb.com/8198?format=jpg)](design-md/good-fella.com.md)
