@@ -371,7 +371,7 @@ Apara uses a spare portfolio language: white canvas, black type, rounded cards, 
 
 [![How api-dashboard.search.brave.com is designed](https://pin.fontofweb.com/9446?format=jpg)](design-md/api-dashboard.search.brave.com.md)
 
-api-dashboard.search.brave.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#e4e4e5`, `#141415`, and `#1c1c1d`, with typography led by **Inter** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+api-dashboard.search.brave.com is a dark, state-driven developer console. The page is built to make account status, plan selection, API keys, and verification messages easy to scan before anything else. The design stays disciplined: one strong lavender-blue action color, charcoal surfaces with tight borders, and compact Inter text that keeps long forms and pricing blocks readable without decorative noise.
 
 [Open guide](design-md/api-dashboard.search.brave.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/api-dashboard.search.brave.com-design)
 
