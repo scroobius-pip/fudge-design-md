@@ -1975,6 +1975,14 @@ OmniAI presents itself as a confident lending product with a simple visual promi
 
 [Open guide](design-md/getomni.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/getomni.ai-design)
 
+### giga.ai
+
+[![How giga.ai is designed](https://pin.fontofweb.com/8976?format=jpg)](design-md/giga.ai.md)
+
+Giga's page is a dark, theatrical marketing system with a disciplined center. Black and near-black surfaces hold most of the canvas, while white serif headlines carry the message. The layout uses very little ornamental framing; instead, it leans on scale, spacing, glow, and contrast to separate each section. The result feels serious and cinematic rather than playful.
+
+[Open guide](design-md/giga.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/giga.ai-design)
+
 ### good-fella.com
 
 [![How good-fella.com is designed](https://pin.fontofweb.com/8198?format=jpg)](design-md/good-fella.com.md)
