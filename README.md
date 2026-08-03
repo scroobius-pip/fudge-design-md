@@ -1001,9 +1001,9 @@ Claude.ai uses two tightly related surface families. The dark family handles the
 
 ### claude.com
 
-[![How claude.com is designed](https://pin.fontofweb.com/10038?format=jpg)](design-md/claude.com.md)
+[![How claude.com is designed](https://pin.fontofweb.com/10037?format=jpg)](design-md/claude.com.md)
 
-claude.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#faf9f5`, `#141413`, and `#1f1e1d`, with typography led by **Anthropic Sans**, **Anthropic Serif**, **Jet Brains Mono**, **Applesystem**, **System**, and **Anthropic Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Claude.com is built as a dark editorial brand system rather than a conventional SaaS shell. The page stays close to a near-black charcoal canvas, then lifts the important actions and media into paper-colored pills, thin ruled rows, and rounded image frames. The visual weight belongs to the serif headlines, which are large, pale, and tightly composed. Sans text stays quiet, compact, and functional. Terracotta appears as a brand signal and a small accent, not as a flood of color.
 
 [Open guide](design-md/claude.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/claude.com-design)
 

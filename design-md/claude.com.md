@@ -6,167 +6,191 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10038?format=jpg)](https://design.withfudge.com/share/pin-10038)
+[![Wide startup hero with floating rounded video tiles around the centered serif headline](https://pin.fontofweb.com/10037?format=jpg)](https://design.withfudge.com/share/pin-10037)
 
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10038)
+[Wide startup hero with floating rounded video tiles around the centered serif headline](https://design.withfudge.com/share/pin-10037)
 
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10037?format=jpg)](https://design.withfudge.com/share/pin-10037)
+[![Expanded FAQ block with open answer text and thin ruled accordion rows](https://pin.fontofweb.com/10036?format=jpg)](https://design.withfudge.com/share/pin-10036)
 
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10037)
+[Expanded FAQ block with open answer text and thin ruled accordion rows](https://design.withfudge.com/share/pin-10036)
 
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10036?format=jpg)](https://design.withfudge.com/share/pin-10036)
+[![Claude Code page with the centered install strip and logo row beneath](https://pin.fontofweb.com/9222?format=jpg)](https://design.withfudge.com/share/pin-9222)
 
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10036)
+[Claude Code page with the centered install strip and logo row beneath](https://design.withfudge.com/share/pin-9222)
 
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10035?format=jpg)](https://design.withfudge.com/share/pin-10035)
+[![Download page footer with dense link columns and quiet dark chrome](https://pin.fontofweb.com/6390?format=jpg)](https://design.withfudge.com/share/pin-6390)
 
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10035)
-
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10034?format=jpg)](https://design.withfudge.com/share/pin-10034)
-
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10034)
-
-[![Claude for startups | Claude by Anthropic](https://pin.fontofweb.com/10033?format=jpg)](https://design.withfudge.com/share/pin-10033)
-
-[Claude for startups | Claude by Anthropic](https://design.withfudge.com/share/pin-10033)
-
-[![Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://pin.fontofweb.com/9222?format=jpg)](https://design.withfudge.com/share/pin-9222)
-
-[Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](https://design.withfudge.com/share/pin-9222)
-
-[![Download Claude | Claude](https://pin.fontofweb.com/6390?format=jpg)](https://design.withfudge.com/share/pin-6390)
-
-[Download Claude | Claude](https://design.withfudge.com/share/pin-6390)
+[Download page footer with dense link columns and quiet dark chrome](https://design.withfudge.com/share/pin-6390)
 
 ## Overview
 
-claude.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#faf9f5`, `#141413`, and `#1f1e1d`, with typography led by **Anthropic Sans**, **Anthropic Serif**, **Jet Brains Mono**, **Applesystem**, **System**, and **Anthropic Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Claude.com is built as a dark editorial brand system rather than a conventional SaaS shell. The page stays close to a near-black charcoal canvas, then lifts the important actions and media into paper-colored pills, thin ruled rows, and rounded image frames. The visual weight belongs to the serif headlines, which are large, pale, and tightly composed. Sans text stays quiet, compact, and functional. Terracotta appears as a brand signal and a small accent, not as a flood of color.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The page rhythm is chapter-like. A hero uses a wide collage of rounded video tiles around a centered statement. Product pages switch into tighter systems with a command strip, logo rows, and compact explanatory copy. The widest startup hero uses a 112px light serif statement; narrower startup views step down to the 90.4px tier without changing the voice. The footer settles into a dense directory on the same dark base. Across those modes, the site keeps the same ingredients: dark ground, paper text, soft corners, minimal borders, and very little shadow.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#faf9f5` | text on page content in the nav |
-| color.surface | `#141413` | surface on page content in the nav |
-| color.surface | `#1f1e1d` | surface on page content in the main |
-| color.surface | `#87867f` | surface on page content in the button |
-| color.shadow | `#3d3d3a` | shadow on page content in the nav |
-| color.text | `#000000` | text on page content |
-| color.text | `#9c9a92` | text on page content in the main |
-| color.text | `#c2c0b6` | text on page content in the main |
-| color.surface | `#1a1918` | surface on page content in the main |
-| color.border | `#30302e` | border on page content in the button |
-| color.text | `#b0aea5` | text on page content in the button |
-| color.text | `#d97757` | text on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-20px | **Anthropic Sans** | 20px | 400 | 32px | normal | <div> in the header, <div>, <body>, <section>, <div> in the main, <section> in the main, <main> in the main, <div> in the button, <a> in the header, <svg> in the header, <svg> in the button, <p>, <nav> in the nav, <div> in the nav, <li> in the nav, <ul> in the nav, <a> in the nav, <button> in the button, <h3> in the main, <span> in the button, <a>, <ul>, <li>, and <p> in the main |
-| type.body-19.6143px | **Anthropic Sans** | 19.6143px | 400 | 31.3829px | normal | <nav> in the nav, <div>, <body>, <section>, <div> in the button, <div> in the main, <section> in the main, <main> in the main, <div> in the nav, <svg> in the nav, <a> in the nav, <svg> in the button, <p>, <li> in the nav, <ul> in the nav, and <button> in the button |
-| type.display-112px | **Anthropic Serif** | 112px | 300 | 100.8px | normal | <p> and <div> |
-| type.display-52px | **Anthropic Serif** | 52px | 500 | 62.4px | normal | <div> in the main, <p> in the main, and <h2> in the main |
-| type.display-90.4px | **Anthropic Serif** | 90.4px | 300 | 81.36px | normal | <p> and <div> |
-| type.body-23px | **Anthropic Sans** | 23px | 400 | 34.5px | normal | <p> in the main and <div> in the main |
-| type.body-17px | **Anthropic Sans** | 17px | 400 | 27.2px | normal | <h1>, <p> in the main, and <div> in the main |
-| type.body-15px | **Anthropic Sans** | 15px | 400 | 15px | normal | <a> in the nav, <div> in the nav, and <button> in the button |
-| type.body-18.75px | **Jet Brains Mono** | 18.75px | 400 | 28.125px | normal | <p> in the main |
-| type.body-15px | **Anthropic Sans** | 15px | 400 | 24px | normal | <div> in the button, <div> in the nav, <p> in the main, and <a> in the main |
-| type.body-17px | **Anthropic Sans** | 17px | 400 | 17px | normal | <a>, <div>, and <a> in the main |
-| type.display-72px | **Anthropic Sans** | 72px | 500 | 79.2px | normal | <h1> in the main |
-| type.display-72px | **Anthropic Serif** | 72px | 500 | 79.2px | normal | <div> in the main, <span> in the main, and <h1> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.body-16px | **System** | 16px | 400 | normal | normal | <html> |
-| type.body-20px | **Jet Brains Mono** | 20px | 400 | 32px | -0.4px | <div> in the main |
-| type.body-18.75px | **Anthropic Sans** | 18.75px | 400 | 28.125px | normal | <div> in the main |
-| type.body-19px | **Anthropic Serif** | 19px | 500 | 22.8px | normal | <span> in the button and <h3> in the main |
-| type.display-64px | **Anthropic Sans** | 64px | 500 | 70.4px | normal | <div> in the main and <h1> in the main |
-| type.display-64px | **Anthropic Serif** | 64px | 500 | 70.4px | normal | <div> in the main and <h1> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 300.5px` | margin | page content |
-| `300.5px` | margin-right | page content |
-| `300.5px` | margin-left | page content |
-| `200px 0px 128px` | padding | page content |
-| `200px` | padding-top | page content |
-| `128px` | padding-bottom | page content |
-| `32px` | gap | page content |
-| `32px` | row-gap | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 20px`, `1px 0px 0px solid none none 0px`, `0px 0px 1px none none solid 0px`, `0px none 7.5px`, `0px none 19.6143px`, `0px none 8.5px`, `1px 0px 0px solid none none 0px`, and `0px none 15px 15px 0px 0px` border treatments. Recorded shadows include `rgb(250, 249, 245) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 1px` and `rgb(20, 20, 19) 0px 0px 0px 0px, rgb(61, 61, 58) 0px 0px 0px 1px`.
+The design is strongest when it feels restrained and confident. Large type leads. Media crops stay soft. Rules stay thin. Accent color stays rare. The interface should feel like a serious publishing layout that happens to explain software.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#141413`, `#1f1e1d`, and `#87867f`. Text colors include `#faf9f5`, `#000000`, and `#9c9a92`. Keep image-derived colors separate from interface colors.
+Claude.com uses a very narrow palette. The base is not pure black; it is a warm near-black that reads as charcoal and keeps the white text from feeling harsh. Raised shells and command bars step up only slightly from that base, so the page feels layered without becoming glossy. The paper tone is the primary light surface: it appears in CTA pills, code blocks, and the brightest parts of logo and footer treatments. That paper tone also works as the main text color on dark surfaces.
+
+The terracotta family is the only warm accent that breaks the neutral system. It shows up in the Claude mark, in headline emphasis on the Claude Code page, and in small highlights that need extra emphasis without becoming loud. A slightly cooler mid-gray group supports secondary text, borders, and quiet metadata. Those grays keep nav, FAQ prompts, and footer lists legible while staying visually subordinate. The page does not depend on gradients; color contrast comes from shifts between charcoal, paper, and the terracotta accent.
+
+| token | value | role |
+|---|---|---|
+| `action` | `#FAF9F5` | Primary filled buttons, paper chips, and bright command surfaces |
+| `action-ink` | `#141413` | Text inside the paper-filled action surfaces |
+| `accent` | `#D97757` | Brand mark, emphasized product-page words, and warm highlight moments |
+| `accent-subtle` | `#C46849` | Slightly deeper terracotta for compact emphasis |
+| `ink` | `#FAF9F5` | Main text on dark surfaces and dark panels |
+| `muted-ink` | `#9C9A92` | Supporting copy, meta text, and quieter labels |
+| `canvas` | `#141413` | Main page background |
+| `surface` | `#1A1918` | Raised dark shells, command bars, and footer blocks |
+| `surface-raised` | `#1F1E1D` | Slightly lifted containers and grouped panels |
+| `border` | `#30302E` | Hairlines and structural separators |
+| `border-strong` | `#3D3D3A` | Stronger divider lines and inset edges |
+| `code-surface` | `#1A1918` | Code and install strip background |
+| `code-ink` | `#FAF9F5` | Code strip text and control labels |
+| `code-muted` | `#B0AEA5` | Secondary command text and helper copy |
 
 ## Typography
 
-The captured type system uses **Anthropic Sans**, **Anthropic Serif**, **Jet Brains Mono**, **Applesystem**, and **System**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The typography stack is split cleanly between a refined serif voice for large statements and a sans voice for everything operational. Anthropic Serif carries the hero and section headlines in the light cut shown on the startup views. Anthropic Sans handles navigation, explanatory copy, labels, FAQ items, and footer directories. Anthropic Mono and Jet Brains Mono appear where the page needs command-like or code-like treatment. Applesystem and System are present in browser-level fallback slots and should stay out of the main hierarchy. The result is a strict hierarchy: display first, utility second, code last.
+
+The serif headlines are wide, light in color, and set with very compact leading. They are not decorative in the ornamental sense; they are the page structure. The sans text is close-set and calm, with enough air to remain readable against the dark ground. The mono family adds a precise, technical note on the install and code pages, where commands and inline code must read differently from prose.
+
+Licensing details were not included in the packet.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Anthropic Serif | 7rem | 300 | 0.9 | 0em | Main hero statement on startup and product pages |
+| `section-display` | Anthropic Serif | 5.65rem | 300 | 0.9 | 0em | Large section leads and secondary marketing statements |
+| `card-display` | Anthropic Serif | 3.25rem | 300 | 1.2 | 0em | Smaller display moments and centered page headings |
+| `body` | Anthropic Sans | 1.25rem | 400 | 1.6 | 0em | Supporting copy, explanations, and general page text |
+| `body-strong` | Anthropic Sans | 1.25rem | 500 | 1.6 | 0em | Filled CTA labels and emphasized body copy |
+| `nav` | Anthropic Sans | 1.25rem | 400 | 1.6 | 0em | Header navigation and top-level links |
+| `meta` | Anthropic Sans | 1.0625rem | 400 | 1.6 | 0em | Kicker text, small labels, and quiet helpers |
+| `legal` | Anthropic Sans | 0.75rem | 400 | 1.6 | 0.01em | Footer legal copy and low-emphasis notes |
+| `code-shell` | Jet Brains Mono | 1.25rem | 400 | 1.45 | 0em | Install bar and visible command lines |
+| `code-inline` | Anthropic Mono | 1.0625rem | 400 | 1.6 | 0em | Short inline command fragments and emphasis tokens |
+| `browser-fallback` | Applesystem | 0.875rem | 400 | 1.6 | 0em | Low-level browser fallback text and helper chrome |
+| `browser-default` | System | 1rem | 400 | 1.6 | 0em | Root fallback text when native UI fonts win |
 
 ## Layout
 
-The captured pages use values such as `0px 300.5px`, `300.5px`, `300.5px`, `200px 0px 128px`, and `200px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is centered and spacious, but not symmetrical in a rigid grid sense. The startup hero uses a broad field of empty charcoal around a centered serif statement. Rounded video tiles float at different sizes around that center, creating a loose constellation rather than a tiled wall. That collage gives the page energy without heavy ornament. The structure depends on spacing and crop, not on visible frames or layered cards.
+
+A strong top bar sits above the hero, separated by a thin rule. Navigation items stay small and even, while the two right-side actions form a clear hierarchy: a quiet outline control and a brighter filled control. Below the hero, the page falls into long dark sections with more vertical room than horizontal decoration. The layout uses generous top padding, often in the 6rem to 12.5rem range, so each section can breathe before the next band begins. The widest startup hero reaches the 112px serif tier; tighter startup and code views step down without changing the overall center-weighted composition.
+
+The Claude Code page compresses the same language into a centered stack: kicker, headline, command strip, and a row of logos. The command strip behaves like a capsule container with a paper segment and a darker code area. The download page keeps the same dark base, then finishes with a compact footer grid. In all cases, the site uses thin separators, restrained container widths, and round-cornered media rather than nested panels.
+
+Use a small semantic set of layout tokens: a large hero section gap, a tighter content stack, a modest cluster gap, and a panel inset for cards and command strips. Those few sizes are enough to reproduce the page’s rhythm without turning every measured value into a separate token.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#141413`, `#1f1e1d`, `#87867f`, and `#1a1918`. Depth is supported by the returned shadows.
+The visual language is editorial, warm, and intentionally sparse. Large serif headlines do most of the storytelling. Supporting text stays understated, almost like captions in a magazine layout. The imagery is the other major voice: warm indoor photographs, rounded video thumbnails, and soft-focus room scenes with people at work. These images are not framed as product screenshots in the usual sense. They feel like story clips placed into a calm stage.
 
-## Components and states
+Shape is used consistently. Rounded rectangles dominate, but the radii are moderate rather than playful. Cards and media tiles lean into the 12px to 20px range, while buttons stay a little tighter. The site does not depend on shadow stacks for depth. Borders and spacing do that work. Thin rules separate rows and sections. Slightly lighter charcoal shells provide the only real lift.
 
-The captured pages include repeated styling on <div>, <html>, <nav>, <body>, <section>, <main>, <svg>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Terracotta is the accent that prevents the system from feeling monochrome. It should remain small and precise: a brand mark, a highlighted word, a small label, a selected state, or a code-page callout. The rest of the palette should stay neutral so the accent reads as a signal rather than a theme color.
+
+## Components
+
+### Global header
+
+- **Anatomy:** Claude mark at left, compact navigation in the middle, right-aligned secondary links, outline action, and filled action.
+- **Surface:** Transparent over the dark canvas, with a thin bottom rule.
+- **Typography:** Sans, small and even, with no dramatic weight jumps.
+- **Shape:** The action controls use soft pills, not hard rectangles.
+- **Hierarchy:** The filled action is the clearest interactive element. The outline action stays visually quieter.
+- **Visible state:** The header should remain subdued so the hero can carry the page.
+
+### Startup hero collage
+
+- **Anatomy:** Small kicker, oversized light serif headline, muted supporting copy, one paper CTA, and several floating rounded video tiles.
+- **Composition:** The headline stays centered while the image tiles sit off-axis around it. That asymmetry gives the page motion without a carousel feel.
+- **Surface:** Dark canvas with warm, low-saturation imagery.
+- **Shape:** Media tiles use a generous radius and soft cropping. The play badge is a tiny dark square within the image.
+- **Typography:** Serif display for the headline; sans for kicker and body.
+- **Visible state:** The CTA reads as paper-filled against the dark stage.
+
+### Primary action
+
+- **Surface:** Paper fill with dark ink text.
+- **Typography:** Bold sans, compact and direct.
+- **Shape:** Soft pill radius with moderate horizontal padding.
+- **Hierarchy:** Used for the main next step on a page, never competing with the headline.
+- **Visible state:** It should feel calm and certain, not loud.
+
+### Claude Code command strip
+
+- **Anatomy:** A left control segment, a right command area, and a small helper link below.
+- **Surface:** Dark capsule with a slightly lifted shell; the command text reads like terminal output.
+- **Typography:** Mono for the command, sans for the control label and helper text.
+- **Shape:** Wide rounded container with a clear internal split.
+- **Composition:** Keep the command line centered and wide enough to read as a single gesture.
+- **Visible state:** Terracotta can appear in the headline word or a small label, but the bar itself stays mostly neutral.
+
+### FAQ accordion
+
+- **Anatomy:** Large centered section number, serif FAQ title, thin horizontal rules, stacked question rows, and a right-aligned plus/minus symbol.
+- **Surface:** Same dark canvas, with no heavy panel framing.
+- **Typography:** Serif for the heading; sans for each question and answer.
+- **Spacing:** Large vertical breathing room above the list, then compact row spacing inside the accordion.
+- **Visible states:** Closed rows stay flat and quiet. Open rows reveal softer gray answer text without changing the whole page.
+- **Shape:** No card chrome; the rules carry the structure.
+
+### Footer directory
+
+- **Anatomy:** Brand area, short helper controls, then several columns of links and policy text.
+- **Surface:** Deep charcoal that remains consistent with the rest of the page.
+- **Typography:** Small sans for all columns, with legal text pushed lowest in contrast.
+- **Composition:** Dense columns on the right, more open brand area on the left.
+- **Visible states:** Links should look orderly and calm, not promotional.
+- **Hierarchy:** Primary navigation comes before legal and corporate material, but the whole block stays visually quiet.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The page should collapse by preserving story order, not by squeezing the collage into a brittle grid. On narrower widths, the centered headline stays first, the supporting copy follows, and the media tiles stack or crop before the footer becomes a dense vertical list. The header should simplify without losing the right-aligned action hierarchy. The command strip should remain readable as a single line until it must wrap; when it wraps, the label and command should still read as one unit.
+
+The hero collage needs special care. Tiles should not become tiny cards with hard edges. They can reduce in number, shift lower in the stack, or move to a simple two-up arrangement, but they should keep the rounded image language and soft spacing. The FAQ should remain legible as a full-width list with obvious row separation. The footer can condense into fewer columns and more vertical grouping, but it should keep the same low-contrast hierarchy.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the serif headline as the main identity signal.
+- Keep the canvas very dark and warm rather than neutral gray.
+- Use paper fill for the most important CTA, and reserve terracotta for small, memorable accents.
+- Keep borders thin and spacing generous; let the composition do the work.
+- Use rounded media crops for people and product stories.
+
+### Avoid
+
+- Avoid glossy gradients and dense shadow systems.
+- Avoid turning the page into a card grid everywhere.
+- Avoid mixing too many font families or weights in one section.
+- Avoid bright blue interface chrome; it breaks the warm editorial tone.
+- Avoid making terracotta the default action color on every control.
+
+### Recommended build order
+
+1. Establish the dark canvas, border color, and paper text pair.
+2. Set the serif display hierarchy and the sans body rhythm.
+3. Build the shared button treatments and header actions.
+4. Recreate the startup hero collage with rounded video tiles.
+5. Add the Claude Code command strip and logo row.
+6. Add the FAQ accordion and footer directory.
+7. Tune responsive stacking so the visual order survives narrow widths.
+
+### Accessibility
+
+- Keep text contrast high on the dark canvas and on dark shells.
+- Make the paper action button large enough to read as the primary step.
+- Give the play badge and any icon-only control a clear focus state.
+- Keep accordion row boundaries obvious for keyboard users.
+- Use meaningful alt text for portrait and product imagery, since the images carry much of the page story.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#faf9f5`
-- `#141413`
-- `#1f1e1d`
-- `#87867f`
-- `#3d3d3a`
-- `#000000`
-- `#9c9a92`
-- `#c2c0b6`
-- `#1a1918`
-- `#30302e`
-- `#b0aea5`
-- `#d97757`
-- `#262624`
-- `#4d4c48`
-- `#c46849`
-- `#6a9bcc`
-
-## Typography captured from claude.com
-
-- **Anthropic Sans** — weight 400 · size 19.6143px
-- **Anthropic Serif** — weight 300 · size 90.4px
-- **Jet Brains Mono** — weight 400 · size 20px
-- **Applesystem** — weight 400 · size 14px
-- **System** — weight 400 · size 16px
-- **Anthropic Mono** — weight 400 · size 17px
+This guide covers the dark claude.com marketing surfaces in the supplied packet: the startup hero, Claude Code, the download page, the FAQ block, and the footer directory. It does not include unseen motion, hover and focus states, smaller breakpoints, or product areas outside this set. Type and spacing values use the packet’s relative-unit rounding.
