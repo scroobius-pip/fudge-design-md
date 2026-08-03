@@ -1179,7 +1179,7 @@ creem.io presents a mixed light and dark surface treatment in the captured pages
 
 [![How crowdreply.io is designed](https://pin.fontofweb.com/8154?format=jpg)](design-md/crowdreply.io.md)
 
-crowdreply.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#46484d`, with typography led by **System**, **Inter**, **Outfit**, and **Crisp Noto Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+CrowdReply uses a brochure-like SaaS layout with a sharp split between light proof sections and dark product stages. The page starts with a large black shell, then moves into a warm cream canvas with white cards, pastel stat tiles, and centered section headings. The visual idea is simple: one loud opening, then a sequence of clean, airy panels that explain the product through cards, charts, and short quotes.
 
 [Open guide](design-md/crowdreply.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/crowdreply.io-design)
 
