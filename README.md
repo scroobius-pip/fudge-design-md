@@ -451,7 +451,7 @@ Square’s sign-in page is a split-stage gate: a calm white authentication surfa
 
 [![How app.standards.site is designed](https://pin.fontofweb.com/8524?format=jpg)](design-md/app.standards.site.md)
 
-app.standards.site presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#898989`, with typography led by **Times**, **Klim Type Foundry**, **Söhne**, and **Fontsohnehalbfett**. The guide below names reusable design roles only where the captured evidence supports them.
+app.standards.site is a dark, disciplined design-ops workspace. The page treats the interface like a specimen sheet: a huge wordmark, stacked typography samples, layout previews, and setup controls all sit on a black field with only a few bright accents. The result feels serious and editorial rather than playful. Most of the page is empty space, which gives the labels, cards, and buttons enough room to feel deliberate.
 
 [Open guide](design-md/app.standards.site.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.standards.site-design)
 
