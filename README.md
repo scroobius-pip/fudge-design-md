@@ -1145,9 +1145,9 @@ cotool.ai presents a predominantly dark surface treatment in the captured pages.
 
 ### cracked.com
 
-[![How cracked.com is designed](https://pin.fontofweb.com/8242?format=jpg)](design-md/cracked.com.md)
+[![How cracked.com is designed](https://pin.fontofweb.com/8241?format=jpg)](design-md/cracked.com.md)
 
-cracked.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f5`, and `#005f6b`, with typography led by **Neuekabel**, **Open Sans**, and **Source Serif 4**. The guide below names reusable design roles only where the captured evidence supports them.
+Cracked is a blunt, magazine-style entertainment system. The page sits on a pale canvas, then uses black type, teal utility marks, and a bright yellow signal color to keep the reading path loud and direct. The masthead is oversized and centered, the story stream is dense, and the page repeatedly returns to a simple formula: image, headline, short blurb, rule, next item.
 
 [Open guide](design-md/cracked.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cracked.com-design)
 

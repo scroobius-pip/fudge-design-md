@@ -6,121 +6,163 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Movies & TV | Cracked.com](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/share/pin-8242)
+[![Centered yellow wordmark with a two-tier masthead and thin category strip](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/share/pin-8241)
 
-[Movies & TV | Cracked.com](https://design.withfudge.com/share/pin-8242)
+[Centered yellow wordmark with a two-tier masthead and thin category strip](https://design.withfudge.com/share/pin-8241)
 
-[![Cracked.com - America's Only Humor Site | Cracked.com](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/share/pin-8241)
+[![Large feature image beside a stacked headline rail split by teal rules](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/share/pin-8242)
 
-[Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/share/pin-8241)
+[Large feature image beside a stacked headline rail split by teal rules](https://design.withfudge.com/share/pin-8242)
 
 ## Overview
 
-cracked.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f5`, and `#005f6b`, with typography led by **Neuekabel**, **Open Sans**, and **Source Serif 4**. The guide below names reusable design roles only where the captured evidence supports them.
+Cracked is a blunt, magazine-style entertainment system. The page sits on a pale canvas, then uses black type, teal utility marks, and a bright yellow signal color to keep the reading path loud and direct. The masthead is oversized and centered, the story stream is dense, and the page repeatedly returns to a simple formula: image, headline, short blurb, rule, next item.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The design feels like a web tabloid with a newspaper spine. It does not chase softness or polish. Instead it leans on heavy display type, compact module spacing, and thin separators that keep the page moving. The strongest visual move is the contrast between the wide yellow brand band and the otherwise restrained white and gray surfaces. That contrast makes the site feel immediate, opinionated, and easy to scan.
 
-## Design tokens
+Three ideas matter most:
 
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the main |
-| color.surface | `#f5f5f5` | surface on page content |
-| color.text | `#005f6b` | text on page content in the main |
-| color.text | `#656565` | text on page content in the main |
-| color.surface | `#ffcc00` | surface on page content in the main |
-| color.surface | `#eeeeee` | surface on page content in the main |
-| color.text | `#ffffff` | text on page content in the button |
-| color.surface | `#ffd772` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.heading-16px | **Neuekabel** | 16px | 700 | 16px | normal | <div> in the main, <div>, <button> in the button, and <a> in the main |
-| type.heading-22px | **Neuekabel** | 22px | 900 | 28px | normal | <h2> in the main and <a> in the main |
-| type.heading-20px | **Neuekabel** | 20px | 700 | 32px | normal | <h2> in the main and <a> in the main |
-| type.body-16px | **Source Serif 4** | 16px | 400 | 28px | normal | <p> in the main |
-| type.display-36px | **Neuekabel** | 36px | 900 | 40px | normal | <a> in the main and <h2> in the main |
-| type.heading-16px | **Open Sans** | 16px | 700 | 16px | normal | <a> in the nav and <ul> in the nav |
-| type.body-16px | **Open Sans** | 16px | 400 | 16px | normal | <a> in the nav |
-| type.heading-30px | **Neuekabel** | 30px | 700 | 40px | normal | <a> in the main and <h2> in the main |
-| type.heading-26px | **Neuekabel** | 26px | 700 | 26px | normal | <h3> in the main |
-| type.body-22px | **Neuekabel** | 22px | 400 | 32px | normal | <a> in the main and <h2> in the main |
-| type.heading-20px | **Neuekabel** | 20px | 700 | 24px | normal | <a> in the main and <h2> in the main |
-| type.body-16px | **Source Serif 4** | 16px | 400 | 24px | normal | <p> in the main |
-| type.utility-12px | **Neuekabel** | 12px | 700 | 26px | normal | <a> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `10px 0px 20px` | padding | page content |
-| `5px 0px 0px` | padding | page content |
-| `10px 0px` | padding | page content |
-| `10px 0px 0px` | padding | page content |
-| `10px` | padding | page content |
-| `0px 10px` | padding | page content |
-| `0px 282.5px` | margin | page content |
-| `30px 0px 0px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `1px 0px 0px solid none none 0px` border treatments.
+- The brand mark is the loudest object on the page.
+- Headlines carry most of the personality.
+- Rules and spacing organize density without adding decoration.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#f5f5f5`, and `#ffcc00`. Text colors include `#005f6b`, `#656565`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+The color system is narrow and purposeful. The page stays on the light side, with white, warm off-white, and very light gray doing most of the structural work. Black is the default text color and the color of the strongest headlines, giving the whole site a hard editorial edge. Teal is the functional signal color: it appears in small icon treatments, thin rules, and utility accents, so it reads as the active interface color without overwhelming the content. Yellow is the brand’s loudest accent and is used sparingly in places that need to pop: the CRACKED wordmark, the small category chips, and the newsletter band.
+
+The relationship between the colors is straightforward. White and pale gray surfaces keep story modules readable. `surface-subtle` separates secondary wells from the page canvas without turning them into dark cards. `border` handles the thin horizontal dividers that repeat through the layout. `accent` is not a general background color; it is a signal color that should be reserved for labels, the brand mark, and major calls to action. `accent-soft` can support yellow surfaces when a lighter band or tag needs a less intense edge. There is no established dark mode in the supplied views, so the system should remain centered on light backgrounds and high-contrast black text.
 
 ## Typography
 
-The captured type system uses **Neuekabel**, **Source Serif 4**, and **Open Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Cracked uses three families with clearly separated jobs. `Neuekabel` drives the display voice: the masthead, the biggest feature headlines, section labels, and the bold story rail titles. It gives the site its comic-book weight and its slightly theatrical seriousness. `Open Sans` is the utility face. It fits the navigation and other compact interface text because it stays clean at 16px and does not compete with the display type. `Source Serif 4` adds a magazine note to story blurbs and bylines. That serif voice is what keeps the page from feeling purely shouty.
+
+Licensing terms for these families are not supplied in the packet and should be confirmed before reuse.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Neuekabel | 2.25rem | 900 | 1 | 0em | Main feature headline and the loudest page statements |
+| section-display | Neuekabel | 1.875rem | 900 | 1.05 | 0em | Full-width promo bands and large section calls |
+| card-heading | Neuekabel | 1.625rem | 700 | 1 | 0em | Lead story titles and strong card headings |
+| subhead | Neuekabel | 1.375rem | 700 | 1.15 | 0em | Secondary headlines in stacked rails |
+| rail-head | Neuekabel | 1.25rem | 700 | 1.15 | 0em | Narrow-column headlines and compact story titles |
+| body | Source Serif 4 | 1rem | 400 | 1.75 | 0em | Story blurbs and supporting paragraphs |
+| byline | Source Serif 4 | 1rem | 400 | 1.5 | 0em | Author lines, dates, and short supporting metadata |
+| nav | Open Sans | 1rem | 700 | 1 | 0em | Top navigation and utility labels |
+| label | Neuekabel | 0.75rem | 700 | 1 | 0.04em | Yellow category chips and small uppercase tags |
+
+The hierarchy depends more on scale and weight than on many font families. The display faces are compact, often all-caps in feel even when mixed case is used, and they tolerate tight leading. The serif copy opens up, which gives the story summaries a little breathing room beneath the heavier titles. The result is a page where the headline always wins first, then the summary, then the metadata.
 
 ## Layout
 
-The captured pages use values such as `10px 0px 20px`, `5px 0px 0px`, `10px 0px`, `10px 0px 0px`, and `10px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is an editorial grid built around a strong central frame. On the homepage, the masthead sits above a broad content field, and the featured story claims a large left area while a narrow right rail stacks additional headlines. On the category page, the same structure becomes more explicit: the brand mark and utility controls sit at the top, a horizontal category bar runs under it, and the first major story stretches across a wide lead area with a compact story rail beside it.
+
+Spacing is tight inside modules and looser only at chapter breaks. The packet’s spacing values cluster around 10px, 16px, 20px, 30px, 40px, 50px, and a very large 282.5px outer inset on the widest home composition. That means the page should feel dense but not cramped: small gaps separate a headline from its blurb, a chip from its title, or one stacked rail item from the next. Larger gaps are reserved for transitions between the masthead, the feature lead, the newsletter band, and the lower story grid.
+
+The separators matter as much as the blocks. Thin 1px horizontal rules divide the navigation from the content field and divide stacked items in the right rail. The system does not rely on large borders or soft cards to organize content. Instead, it uses alignment, repeated rule lines, and consistent gutters. The main reading column is centered, but the visual rhythm comes from asymmetry: a large image on one side, headlines on the other, and then a more list-like grid below.
+
+The page also uses a clear shift in module scale. The lead story is image-forward and headline-heavy. The lower rows shrink into thumbnail-led cards with shorter text. The newsletter band interrupts the grid with a full-width block of saturated yellow, which acts like a loud pause before the page returns to the article stream. That alternating scale is central to the site’s personality.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#f5f5f5`, `#ffcc00`, and `#eeeeee`. No structured gradient or shadow treatment is established.
+Cracked borrows from old-school internet magazine cues and makes them feel intentional. The big yellow wordmark is loud, almost poster-like, while the rest of the page stays plain enough to keep the content legible. Most surfaces are flat. There are no soft shadows trying to fake depth. The design prefers rules, image crops, and weight changes over decorative chrome.
 
-## Components and states
+The visual grammar is repetitive in a good way. A story often begins with a chip, continues with a heavy headline, and ends with a serif blurb. The right rail compresses that same grammar into a stacked column. The thumbnail cards shift the balance toward image-first layout, but they keep the same black text, yellow label, and thin divider logic. This makes the page feel like one system even when the article formats vary.
 
-The captured pages include repeated styling on <a>, <h2>, <p>, <h3>, <div>, <button>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Teal is the quiet line color that keeps the page from going monochrome. It appears as a crisp utility note rather than as a decorative wash. Yellow is the opposite: it is the brand shout. Because those two colors are used with restraint, the black type and pale surfaces remain in control. The result is a system that feels energetic, opinionated, and slightly mischievous without becoming busy.
+
+## Components
+
+### Masthead and category navigation
+
+- **Anatomy:** Centered brand mark, utility icons at the sides, and a horizontal category strip below.
+- **Surface:** White or near-white field with thin black or gray rules separating the bar from the content below.
+- **Typography:** `nav` for the category strip; the brand mark uses the strongest display treatment in the system.
+- **Shape:** Mostly square, with no rounded chrome. The logo itself is a bold, blocky word treatment.
+- **Spacing:** Broad horizontal breathing room at the top; compact spacing within the category row.
+- **Visible states:** The active path can sit under a stronger rule or feel more visually anchored, but the layout should remain simple and flat.
+
+### Feature story module
+
+- **Anatomy:** Large lead image, yellow tag, bold headline, short serif blurb, and author/date line.
+- **Surface:** White cardless composition on the pale canvas; the image dominates the upper half.
+- **Typography:** `label`, then `hero-display` or `card-heading`, followed by `body` and `byline`.
+- **Shape:** Hard edges and rectangular image crops. Little to no corner rounding.
+- **Spacing:** Tight vertical rhythm inside the story block, with a larger gap before the next section.
+- **Variants:** A homepage version with a larger image and a category page version with the title sitting tighter under the lead image.
+
+### Story rail
+
+- **Anatomy:** Stacked headlines, thin teal rules between entries, and occasional small circular or cropped images.
+- **Surface:** Flat white against the pale page background.
+- **Typography:** `subhead` or `rail-head`, depending on the width available.
+- **Shape:** No card frame; the divider lines do the organizing.
+- **Spacing:** Small gaps between headline blocks; the spacing should feel compressed but not crowded.
+- **Visible states:** The rail should remain simple and readable, with the rules acting as the primary separator rather than background color.
+
+### Thumbnail story row
+
+- **Anatomy:** Rectangular thumbnail, yellow label, headline, short summary, and byline.
+- **Surface:** White or off-white row with the image taking one side and text taking the other.
+- **Typography:** `label`, `rail-head`, `body`, and `byline`.
+- **Shape:** Images stay square-edged and editorial rather than soft or glossy.
+- **Spacing:** Moderate internal gutters; enough room for the thumbnail to breathe without making the row feel sparse.
+- **Composition:** The text block should stay compact and aligned, so the page keeps its magazine-like density.
+
+### Newsletter band
+
+- **Anatomy:** Small kicker, bold uppercase-style headline, email field, and a dark submit button.
+- **Surface:** Saturated yellow band that breaks strongly from the pale page.
+- **Typography:** `label` for the kicker and `section-display` for the main line.
+- **Shape:** Rectangular field and button pair with clear edges.
+- **Spacing:** The band needs generous side padding but should keep the form elements close enough to read as one action.
+- **Visible states:** The field should feel plain and direct; the button should remain the darkest object inside the band.
+
+### Promo slot
+
+- **Anatomy:** A tall rectangular promotional block with a centered message and a clear action button.
+- **Surface:** White or bright brand-colored block inside the article stream.
+- **Typography:** Use the same compact display logic as the rest of the system, but keep the messaging secondary to editorial content.
+- **Shape:** Flat rectangle, no decorative rounding.
+- **Spacing:** The slot should occupy a full column width and stay visually distinct from the story rows around it.
+- **Hierarchy:** It should read as a utility insertion, not as part of the article hierarchy.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+When the layout narrows, the system should preserve the reading order: brand, navigation, feature story, supporting rail, then lower rows. The right rail should collapse before the main story loses its image-first structure. Story chips and headlines should remain on separate lines long enough to stay legible, even if the rail becomes a single stack. The yellow newsletter band should keep its form controls usable without shrinking into decorative elements. The larger brand mark can reduce in scale, but it should still dominate the top of the page. The category strip can wrap or stack, yet it should not become a dense wall of links.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+
+- Keep the page flat and editorial. Thin rules and type scale should do the work, not shadows or gradient chrome.
+- Keep `accent` scarce. Yellow should feel like a brand flare, not a background default.
+- Keep the serif blurbs. They soften the headlines and make the page feel like a magazine rather than a product dashboard.
+- Keep the grid dense. The site works because it fits a lot of stories into a controlled frame.
+
+### Avoid
+
+- Avoid rounded cards, soft shadows, and pastel panels. They dilute the hard editorial tone.
+- Avoid using teal as a general surface color. It belongs in rules, icons, and small functional cues.
+- Avoid mixing too many font sizes. The existing hierarchy is strong enough without extra steps.
+- Avoid over-spacing the modules. Large gaps would break the magazine rhythm.
+
+### Recommended build order
+
+1. Build the centered masthead and category strip.
+2. Set the display scale for the brand mark, lead headline, and stacked rail.
+3. Add the main feature story with image, label, headline, blurb, and byline.
+4. Add the right-side story rail and its thin dividers.
+5. Add the thumbnail story rows and the newsletter band.
+6. Finish with promo slots and the lower-grid spacing rules.
+
+### Accessibility
+
+- Maintain strong contrast on every pale surface. Black text on white and yellow should remain the default.
+- Do not rely on teal alone to communicate structure. The rules should support, not replace, clear headings and labels.
+- Keep keyboard focus styles visible on the menu, search, links, and form controls.
+- Give images descriptive alternative text that matches the article subject.
+- Ensure the newsletter field has a clear label and a button that can be reached without precision pointer input.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#f5f5f5`
-- `#005f6b`
-- `#656565`
-- `#ffcc00`
-- `#eeeeee`
-- `#ffffff`
-- `#ffd772`
-
-## Typography captured from cracked.com
-
-- **Neuekabel** — weight 700 · size 30px
-- **Open Sans** — weight 700 · size 16px
-- **Source Serif 4** — weight 400 · size 16px
+This guide covers the desktop homepage and category hub for Cracked, including the masthead, feature story, story rail, newsletter band, thumbnail rows, and promo slot. It does not define article interiors, comments, mobile rearrangements, hover choreography, or ad delivery rules. Spacing values are rounded to a consistent 0.125rem step.
