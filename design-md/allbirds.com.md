@@ -6,166 +6,187 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8958?format=jpg)](https://design.withfudge.com/share/pin-8958)
+[![Full-width hillside hero with centered story title and floating header](https://pin.fontofweb.com/8958?format=jpg)](https://design.withfudge.com/share/pin-8958)
 
-[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8958)
+[Full-width hillside hero with centered story title and floating header](https://design.withfudge.com/share/pin-8958)
 
-[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8957?format=jpg)](https://design.withfudge.com/share/pin-8957)
+[![Rounded story cards mixing shoe stills, portrait, and short captions](https://pin.fontofweb.com/8957?format=jpg)](https://design.withfudge.com/share/pin-8957)
 
-[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8957)
+[Rounded story cards mixing shoe stills, portrait, and short captions](https://design.withfudge.com/share/pin-8957)
 
-[![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8956?format=jpg)](https://design.withfudge.com/share/pin-8956)
+[![Oval-framed statement with centered copy and a shoe anchored below](https://pin.fontofweb.com/8956?format=jpg)](https://design.withfudge.com/share/pin-8956)
 
-[Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8956)
+[Oval-framed statement with centered copy and a shoe anchored below](https://design.withfudge.com/share/pin-8956)
 
-[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8955?format=jpg)](https://design.withfudge.com/share/pin-8955)
+[![Cream collection page with filter bar, product grid, and side drawer](https://pin.fontofweb.com/8955?format=jpg)](https://design.withfudge.com/share/pin-8955)
 
-[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8955)
+[Cream collection page with filter bar, product grid, and side drawer](https://design.withfudge.com/share/pin-8955)
 
-[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8954?format=jpg)](https://design.withfudge.com/share/pin-8954)
+[![Two-panel seasonal promo tiles with large serif headlines over imagery](https://pin.fontofweb.com/8954?format=jpg)](https://design.withfudge.com/share/pin-8954)
 
-[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8954)
-
-[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8953?format=jpg)](https://design.withfudge.com/share/pin-8953)
-
-[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8953)
-
-[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8952?format=jpg)](https://design.withfudge.com/share/pin-8952)
-
-[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8952)
-
-[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8951?format=jpg)](https://design.withfudge.com/share/pin-8951)
-
-[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8951)
+[Two-panel seasonal promo tiles with large serif headlines over imagery](https://design.withfudge.com/share/pin-8954)
 
 ## Overview
 
-allbirds.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#212121`, with typography led by **Klim Type Foundry**, **Geograph**, **Self Modern**, **Hurme Geometric Sans 3**, and **Akkurat Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Allbirds presents itself as a calm, nature-led commerce system. The page feels open, grounded, and edited rather than promotional. Warm off-white canvas, black and charcoal text, and soft rounded media frames keep the interface quiet so the photography can do most of the work. The brand story is told through wide landscape imagery, product-in-use pictures, and large campaign statements that sit inside the image rather than beside it.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The page language stays consistent across the home, story, and collection surfaces. A black promo strip, a white floating header, and dark utility buttons form the steady chrome. Inside that frame, the site alternates between editorial storytelling and product merchandising without shifting into a busier retail mode. The result is a system that feels like a well-lit shop with room to breathe, not a dense catalog.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.text | `#ffffff` | text on page content |
-| color.text | `#212121` | text on page content in the main |
-| color.surface | `#e0dacf` | surface on page content in the main |
-| color.text | `#262626` | text on page content in the main |
-| color.border | `#575757` | border on page content |
-| color.surface | `#7c95a8` | surface on page content in the main |
-| color.surface | `#ece9e2` | surface on page content |
-| color.surface | `#222519` | surface on page content in the button |
-| color.border | `#6a6767` | border on page content in the button |
-| color.border | `#e5e7eb` | border on page content |
-| color.border | `#cdcdcd` | border on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Klim Type Foundry** | 16px | 400 | 24px | normal | <div>, <div> in the main, <div> in the nav, <ul> in the nav, <a> in the main, <li>, <a>, <button> in the button, <div> in the button, <p>, <p> in the main, and <span> in the main |
-| type.body-14px | **Geograph** | 14px | 500 | 20px | 0.7px | <p> in the main and <span> in the main |
-| type.body-14px | **Klim Type Foundry** | 14px | 400 | 20px | 0.7px | <p> in the main |
-| type.body-24px | **Self Modern** | 24px | 400 | 40px | normal | <p> in the main |
-| type.utility-12px | **Geograph** | 12px | 500 | 15px | 0.3px | <button> in the button and <a> in the main |
-| type.display-40px | **Self Modern** | 40px | 400 | 60px | normal | <h2> in the main |
-| type.utility-12px | **Klim Type Foundry** | 12px | 400 | 16px | normal | <p> in the main and <p> |
-| type.display-40px | **Self Modern** | 40px | 400 | 50px | normal | <div> in the main |
-| type.display-40px | **Self Modern** | 40px | 700 | 50px | normal | <strong> in the main |
-| type.body-24px | **Klim Type Foundry** | 24px | 400 | 32px | normal | <h1> in the main and <p> in the main |
-| type.body-14px | **Klim Type Foundry** | 14px | 400 | 20px | normal | <p> in the main and <a> |
-| type.display-40px | **Self Modern** | 40px | 400 | 48px | normal | <p> in the main |
-| type.heading-16px | **Klim Type Foundry** | 16px | 600 | 24px | normal | <p> and <div> |
-| type.body-14px | **Hurme Geometric Sans 3** | 14px | 400 | 16px | normal | <button> in the button |
-| type.utility-12px | **Geograph** | 12px | 500 | 15px | 0.6px | <button> in the button |
-| type.body-16px | **Klim Type Foundry** | 16px | 400 | 16px | normal | <li> in the nav |
-| type.utility-12px | **Geograph** | 12px | 500 | 16px | normal | <div>, <button> in the button, and <p> in the button |
-| type.body-16px | **Akkurat Mono** | 16px | 500 | 24px | 0.8px | <button> in the button |
-| type.body-14px | **Klim Type Foundry** | 14px | 400 | 21px | 0.35px | <h3> in the main |
-| type.utility-12px | **Klim Type Foundry** | 12px | 400 | 16px | 0.6px | <h3> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `16px` | padding | page content |
-| `24px` | padding | page content |
-| `-24px 0px 0px` | margin | page content |
-| `88px 0px 24px` | padding | page content |
-| `40px 10px 120px` | margin | page content |
-| `8px 32px` | padding | page content |
-| `0px 80px 48px` | padding | page content |
-| `0px 40px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 16px 16px 0px 0px`, `0px none 24px`, `0px none 12px`, `1px solid 3.35544e+07px`, `0px none 3.35544e+07px`, `1px solid 3.35544e+07px`, `0px none 16px`, and `1px solid 4px` border treatments. Recorded gradients include `radial-gradient(circle, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0) 30%)`. Recorded shadows include `rgba(0, 0, 0, 0.2) 0px 0px 30px 1px` and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`.
+The clearest qualities to preserve are the warm canvas, the restrained chrome, the round media corners, the clear image-first hierarchy, and the contrast between compact UI text and large serif display copy.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#e0dacf`, and `#7c95a8`. Text colors include `#ffffff`, `#212121`, and `#262626`. Keep image-derived colors separate from interface colors.
+Allbirds uses a narrow interface palette and lets the photography carry the broader color range. The canvas is not pure white; it is a warm cream that softens the whole page and keeps the product grid from feeling clinical. Dark text sits close to black, but the page also uses a slightly lighter charcoal for supporting copy and control labels. That small split keeps the interface legible without turning every line into a hard black mark.
+
+| token | value | role |
+|---|---|---|
+| `canvas` | `#ECE9E2` | Main page background and the base for collection and story sections |
+| `surface` | `#FFFFFF` | Header bar, cards, and drawer surfaces |
+| `surface-muted` | `#E0DACF` | Soft chips, filters, and light UI blocks |
+| `border` | `#CDCDCD` | Card edges, rules, and quiet dividers |
+| `ink` | `#000000` | Strongest text, pricing, and utility marks |
+| `muted-ink` | `#575757` | Supporting body copy and secondary notes |
+| `action` | `#000000` | Solid buttons, dark pills, and strong calls to action |
+| `inverse` | `#FFFFFF` | Text on dark buttons and over shaded imagery |
+| `sale-accent` | `#9C0F0F` | Rare promotional emphasis when a stronger accent is needed |
+
+The relationship between light and dark modes is simple: light surfaces carry the bulk of the commerce UI, while imagery and occasional drawer or promo areas provide darker contrast. The dark material is never glossy or neon. It stays close to charcoal, black, and shadowed landscape tones. The site does not need a bright action color to feel alive; the photography supplies the chroma, and the interface stays disciplined.
 
 ## Typography
 
-The captured type system uses **Klim Type Foundry**, **Geograph**, **Self Modern**, **Hurme Geometric Sans 3**, and **Akkurat Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Allbirds uses five material families in a clear hierarchy. Self Modern carries the editorial voice and the campaign statements. Klim Type Foundry is the working body face for product copy and supporting text. Geograph handles compact labels and small control copy. Hurme Geometric Sans 3 appears in tiny utility button treatments. Akkurat Mono is reserved for small technical or utility-style labels where a more mechanical rhythm is useful. Licensing note: Klim Type Foundry is marked not licensed for desktop use; the other families have no licensing note here.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Self Modern | 2.5rem | 400 | 1.25 | 0em | Hero statements, campaign headings, and large page titles |
+| `section-display` | Self Modern | 1.5rem | 400 | 1.33 | 0em | Secondary story headlines and compact promotional lines |
+| `body` | Klim Type Foundry | 1rem | 400 | 1.5 | 0em | General product copy and explanatory text |
+| `body-small` | Klim Type Foundry | 0.875rem | 400 | 1.43 | 0em | Captions, tertiary notes, and short supporting lines |
+| `label` | Geograph | 0.75rem | 500 | 1.25 | 0.05em | Uppercase labels, filter text, and small navigation cues |
+| `utility-button` | Hurme Geometric Sans 3 | 0.875rem | 400 | 1.14 | 0em | Small dark buttons and compact utility actions |
+| `utility-mono` | Akkurat Mono | 0.875rem | 400 | 1.43 | 0.08em | Tiny technical labels and restrained utility metadata |
+
+The hierarchy depends on contrast, not on many sizes. Display copy is large, calm, and lightly set. Body copy stays steady and readable. Labels use size, weight, and subtle tracking to separate themselves from the text around them. That makes the whole system feel composed even when a page mixes commerce cards, story panels, and a drawer. The typography never becomes decorative noise; it is always supporting the image and the product.
 
 ## Layout
 
-The captured pages use values such as `16px`, `24px`, `-24px 0px 0px`, `88px 0px 24px`, and `40px 10px 120px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout rhythm is built from large horizontal sections, generous gutters, and soft rectangular framing. The story page begins with a full-width landscape stage, then moves into a field of rounded picture tiles with short captions, then into a large oval-framed statement with the product anchored in front. The collection page uses a different but related rhythm: a hero banner, a filter toolbar, a product grid, and a right-edge drawer that interrupts the grid without changing the overall calm of the page.
+
+Spacing is spacious rather than loose. There is enough air around each media block for the image to read as the primary object. The page uses recurring jumps in scale: small chips and controls sit on 8–16px-like gaps, product clusters use 24px and 32px breathing room, and larger chapter breaks expand to 88px and 120px-like spacing. That cadence keeps the page from collapsing into one long scroll of similar cards.
+
+Corners are part of the layout, not just a finishing touch. Large media panels use rounded outer edges, and smaller controls use tighter radii so they remain crisp against the warm canvas. The page benefits from this layered geometry: broad rounding for major story blocks, moderate rounding for product cards, and minimal rounding for utility pills and small buttons.
+
+The collection toolbar is especially important. It sits as a calm control band above the grid, with filter affordances on the left and segmented selection on the right. That bar gives the page a visual pause before the dense product field begins. The cart drawer follows the same rule. It stays visually separate, with its own white surface, structured rows, and a strong bottom action, so the grid can remain readable behind it.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#e0dacf`, `#7c95a8`, and `#ece9e2`. Depth is supported by the returned gradients and shadows.
+Allbirds uses photography as structure, not decoration. The landscape hero does the emotional work. The product cards do the merchandising work. The story cards connect the two by mixing object shots, portraits, and close crops of shoes and materials. The result is a page that feels like a sequence of framed moments rather than a single system of repeated tiles.
 
-## Components and states
+The imagery tends to be natural, earthy, and lightly cinematic. Greens, browns, sand, sky, and soft shadow sit behind the UI, but they do not turn into interface tokens. The interface stays mostly neutral so those materials can stay visible. That choice matters: if the chrome became louder, the whole page would lose the feeling of quiet confidence.
 
-The captured pages include repeated styling on <div>, <li>, <ul>, <button>, <a>, <p>, <h3>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Shape language is gentle and deliberate. Large panels have round corners and soft clipping. Campaign images are often contained in rounded rectangles or a large oval frame. Buttons are either black pills, thin outlined pills, or small squared controls with just enough rounding to feel friendly. The system avoids sharp corners where a softer form makes the page feel more human.
+
+The brand voice is equally restrained. Even when the site is selling shoes, the page keeps the copy short and centered on the object in front of it. The large serif headlines feel editorial, not loud. Small labels and product names feel practical, not technical. That tension between editor’s calm and store’s clarity is the core of the visual language.
+
+## Components
+
+### Announcement bar
+
+- **Anatomy:** Single-line promo strip spanning the full width of the page.
+- **Surface:** Dark background with light text.
+- **Typography:** Small, compact utility copy that reads like a short notice.
+- **Composition:** The message is centered and tight, with a secondary link or disclaimer tucked into the same line.
+- **Visible state:** It is treated as a persistent top band rather than a hero message.
+
+### Site header
+
+- **Anatomy:** Wordmark on the left, centered category navigation, utility links and icons on the right.
+- **Surface:** White floating bar over image-heavy sections.
+- **Typography:** Small uppercase or near-uppercase navigation text with low visual weight.
+- **Shape:** Broad rounded corners and a thin border create the feeling of a card laid over the page.
+- **Composition:** The header is wide, shallow, and orderly; it never competes with the hero image below it.
+
+### Hero stage
+
+- **Anatomy:** Full-width image, centered label, centered headline, and minimal supporting chrome.
+- **Surface:** Large landscape photography with a darkened area where text sits.
+- **Typography:** Small label above a larger display line.
+- **Shape:** The stage itself is rounded, which makes the image feel like a framed print.
+- **Hierarchy:** The image is dominant; the text is quiet but clear.
+
+### Story card grid
+
+- **Anatomy:** A sequence of rounded image cards with short captions and short supporting notes.
+- **Surface:** White or warm canvas around each tile.
+- **Typography:** Small body copy and occasional display lines where a story card needs emphasis.
+- **Shape:** Cards use medium rounding and generous inner spacing.
+- **Composition:** The cards vary in height and image type, which prevents the grid from feeling mechanical.
+
+### Campaign panel
+
+- **Anatomy:** Large image block with overprinted headline and occasional outlined call to action.
+- **Surface:** Full-bleed photography or a tightly framed seasonal still.
+- **Typography:** Self Modern is used for the headline so the message feels editorial.
+- **Shape:** Large rounded corners, often with broad image crops that fill the panel edge-to-edge.
+- **Visible states:** A selected or emphasized call to action appears as a dark pill or a thin light outline against the photo.
+
+### Collection toolbar and product card
+
+- **Anatomy:** Filter pill, segmented tabs, sort control, then a grid of product cards with swatches and prices.
+- **Surface:** Cream toolbar band above a white-card grid.
+- **Typography:** Geograph for chips and control labels; Klim for product names and details.
+- **Shape:** Pills are compact and rounded; product cards are larger and more softly rounded.
+- **Composition:** Product cards keep the shoe image large and centered, then move down to name, color, swatches, and price.
+- **Visible state:** Selected tabs fill dark, while unselected tabs stay outlined.
+
+### Cart drawer
+
+- **Anatomy:** Right-side panel with cart summary, line items, add-on block, subtotal, shipping line, and checkout action.
+- **Surface:** White drawer against a dimmed or quieter page behind it.
+- **Typography:** Strong labels for totals, compact text for item details.
+- **Shape:** The drawer is rectilinear with soft corners and clear internal dividers.
+- **Composition:** The bottom checkout button is wide, dark, and visually final, while the middle of the drawer stays orderly and informational.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, this system should keep the same reading order: hero first, then story or product content, then controls and secondary details. The design depends on image scale, so the mobile version should preserve the large media blocks instead of shrinking everything into a dense list. The header can collapse, but the warm canvas and the rounded media language should stay intact. Product cards should continue to show the image, name, and price in a clear vertical stack, while the collection controls should remain easy to scan and tap. Story cards should stack in a way that preserves their varied image crops and avoids turning the page into a uniform wall of identical tiles.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the canvas warm and off-white rather than pure white.
+- Keep the chrome dark, quiet, and limited to a few repeated patterns.
+- Use Self Modern only where the page needs editorial weight.
+- Let photography supply the color and emotion.
+- Keep rounding generous on major media blocks and smaller on controls.
+
+### Avoid
+
+- Avoid bright blue SaaS accents or loud promo colors in the shell.
+- Avoid dense card walls with tight gutters.
+- Avoid mixing too many face styles inside one component.
+- Avoid overusing borders or shadows as the main separation system.
+- Avoid turning utility controls into heavy, high-contrast blocks.
+
+### Recommended build order
+
+1. Set the canvas, ink, border, and action tokens.
+2. Build the announcement bar and floating header.
+3. Build the hero stage with centered text over photography.
+4. Add the story card grid and large campaign panels.
+5. Build the collection toolbar and product card template.
+6. Add the cart drawer and its final action.
+7. Check spacing, rounding, and type scale against the page rhythm.
+
+### Accessibility
+
+- Keep text over imagery on a strong enough darkened layer.
+- Give each product image and story image a useful alt description.
+- Make focus styles visible on pills, chips, and drawer actions.
+- Do not rely on color alone to show selected swatches or active controls.
+- Keep small text readable when it sits beside dense product imagery.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#212121`
-- `#e0dacf`
-- `#262626`
-- `#575757`
-- `#7c95a8`
-- `#ece9e2`
-- `#222519`
-- `#6a6767`
-- `#e5e7eb`
-- `#cdcdcd`
-- `#8b8a8f`
-- `#b4a897`
-- `#9c0f0f`
-- `#939393`
-
-## Typography captured from allbirds.com
-
-- **Klim Type Foundry** — weight 400 · size 16px
-- **Geograph** — weight 500 · size 12px
-- **Self Modern** — weight 400 · size 24px
-- **Hurme Geometric Sans 3** — weight 400 · size 14px
-- **Akkurat Mono** — weight 400 · size 14px
+This guide covers the home hero, story page, collection grid, campaign panels, and cart drawer treatment on allbirds.com. It does not define mobile breakpoints, motion, hover timing, loading states, checkout flows, or account-specific screens. Spacing and type sizes are rounded to a 0.125rem step.

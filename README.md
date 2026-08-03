@@ -275,7 +275,7 @@ Al Jazeera’s article pages use a severe, uncluttered newsroom frame. The page 
 
 [![How allbirds.com is designed](https://pin.fontofweb.com/8958?format=jpg)](design-md/allbirds.com.md)
 
-allbirds.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#212121`, with typography led by **Klim Type Foundry**, **Geograph**, **Self Modern**, **Hurme Geometric Sans 3**, and **Akkurat Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Allbirds presents itself as a calm, nature-led commerce system. The page feels open, grounded, and edited rather than promotional. Warm off-white canvas, black and charcoal text, and soft rounded media frames keep the interface quiet so the photography can do most of the work. The brand story is told through wide landscape imagery, product-in-use pictures, and large campaign statements that sit inside the image rather than beside it.
 
 [Open guide](design-md/allbirds.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/allbirds.com-design)
 
