@@ -523,7 +523,7 @@ Arena is a dark benchmarking interface built around comparison and ranking. The 
 
 [![How artefakt.mov is designed](https://pin.fontofweb.com/8539?format=jpg)](design-md/artefakt.mov.md)
 
-artefakt.mov presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff` and `#000000`, with typography led by **Tronica Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Artefakt.mov uses a severe black-and-white language that feels closer to a quiet film slate than to a conventional studio homepage. The page is built around one central idea: the brand mark is the main event, and everything else stays small, precise, and far enough away to avoid stealing attention. A narrow band of utility text sits along the top edge, the middle of the screen holds a dense character-built wordmark, and the bottom edge closes with short captions that read like credits. The result is controlled, spare, and deliberately unsentimental.
 
 [Open guide](design-md/artefakt.mov.md) · [View the Fudge conversation](https://design.withfudge.com/share/artefakt.mov-design)
 
