@@ -203,7 +203,7 @@ agenticui.net presents a mixed light and dark surface treatment in the captured 
 
 [![How agently.dev is designed](https://pin.fontofweb.com/6671?format=jpg)](design-md/agently.dev.md)
 
-agently.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1615`, and `#ffffff`, with typography led by **System**, **Dm Sans**, **Inter**, and **Onest**. The guide below names reusable design roles only where the captured evidence supports them.
+Agently.dev presents itself as a bright agent-workforce product rather than a dark developer console. The page is built from a pale canvas, strong black type, white rounded cards, and a violet system that carries the primary calls to action. Large headings say the most important thing first, then smaller supporting text explains the agent model in plain language. The result feels polished, energetic, and startup-forward without leaning on visual noise.
 
 [Open guide](design-md/agently.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/agently.dev-design)
 

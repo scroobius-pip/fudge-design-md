@@ -6,160 +6,189 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Agently](https://pin.fontofweb.com/6671?format=jpg)](https://design.withfudge.com/share/pin-6671)
+[![Purple hero with stacked headline, glowing CTA, and chip row](https://pin.fontofweb.com/6671?format=jpg)](https://design.withfudge.com/share/pin-6671)
 
-[Agently](https://design.withfudge.com/share/pin-6671)
+[Purple hero with stacked headline, glowing CTA, and chip row](https://design.withfudge.com/share/pin-6671)
 
-[![Agently](https://pin.fontofweb.com/6670?format=jpg)](https://design.withfudge.com/share/pin-6670)
+[![White workflow panel with left copy and a vertical integration list](https://pin.fontofweb.com/6670?format=jpg)](https://design.withfudge.com/share/pin-6670)
 
-[Agently](https://design.withfudge.com/share/pin-6670)
+[White workflow panel with left copy and a vertical integration list](https://design.withfudge.com/share/pin-6670)
 
-[![Agently](https://pin.fontofweb.com/6669?format=jpg)](https://design.withfudge.com/share/pin-6669)
+[![Centered stats strip with four violet icon tiles and bold metrics](https://pin.fontofweb.com/6668?format=jpg)](https://design.withfudge.com/share/pin-6668)
 
-[Agently](https://design.withfudge.com/share/pin-6669)
+[Centered stats strip with four violet icon tiles and bold metrics](https://design.withfudge.com/share/pin-6668)
 
-[![Agently](https://pin.fontofweb.com/6668?format=jpg)](https://design.withfudge.com/share/pin-6668)
+[![Card-heavy feature grid with mixed cards, charts, and progress blocks](https://pin.fontofweb.com/6665?format=jpg)](https://design.withfudge.com/share/pin-6665)
 
-[Agently](https://design.withfudge.com/share/pin-6668)
+[Card-heavy feature grid with mixed cards, charts, and progress blocks](https://design.withfudge.com/share/pin-6665)
 
-[![Agently](https://pin.fontofweb.com/6667?format=jpg)](https://design.withfudge.com/share/pin-6667)
+[![FAQ block above the violet footer stage and rounded closing card](https://pin.fontofweb.com/6666?format=jpg)](https://design.withfudge.com/share/pin-6666)
 
-[Agently](https://design.withfudge.com/share/pin-6667)
-
-[![Agently](https://pin.fontofweb.com/6666?format=jpg)](https://design.withfudge.com/share/pin-6666)
-
-[Agently](https://design.withfudge.com/share/pin-6666)
-
-[![Agently](https://pin.fontofweb.com/6665?format=jpg)](https://design.withfudge.com/share/pin-6665)
-
-[Agently](https://design.withfudge.com/share/pin-6665)
-
-[![Agently](https://pin.fontofweb.com/6664?format=jpg)](https://design.withfudge.com/share/pin-6664)
-
-[Agently](https://design.withfudge.com/share/pin-6664)
+[FAQ block above the violet footer stage and rounded closing card](https://design.withfudge.com/share/pin-6666)
 
 ## Overview
 
-agently.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1615`, and `#ffffff`, with typography led by **System**, **Dm Sans**, **Inter**, and **Onest**. The guide below names reusable design roles only where the captured evidence supports them.
+Agently.dev presents itself as a bright agent-workforce product rather than a dark developer console. The page is built from a pale canvas, strong black type, white rounded cards, and a violet system that carries the primary calls to action. Large headings say the most important thing first, then smaller supporting text explains the agent model in plain language. The result feels polished, energetic, and startup-forward without leaning on visual noise.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The structure is chapter-like. A purple hero opens the page with a centered claim and a high-contrast button. Later sections switch back to white and use cards, grids, and statistic blocks to explain the product in smaller pieces. Near the bottom, the page returns to a deeper violet field for the closing message and footer. That back-and-forth between white space and violet wash gives the page rhythm and keeps the long marketing stack from feeling repetitive.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content in the main |
-| color.text | `#1a1615` | text on page content in the main |
-| color.shadow | `#ffffff` | shadow on page content in the main |
-| color.text | `#453f3d` | text on page content in the main |
-| color.surface | `#d6abff` | surface on page content in the main |
-| color.text | `#1c1c1c` | text on page content in the main |
-| color.shadow | `#4d4d4d` | shadow on page content in the main |
-| color.text | `#c60dff` | text on page content in the main |
-| color.shadow | `#6a1bd1` | shadow on page content in the main |
-| color.shadow | `#a91bd1` | shadow on page content in the main |
-| color.surface | `#f9f9f9` | surface on page content |
-| color.text | `#0000ee` | text on page content in the nav |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.utility-12px | **System** | 12px | 400 | normal | normal | <div> in the main, <a> in the main, <ul> in the main, <div>, <div> in the nav, <a> in the nav, <div> in the footer, and <a> in the footer |
-| type.display-52px | **Dm Sans** | 52px | 700 | 52px | -1.56px | <h2> in the main, <h2> in the footer, <strong> in the main, and <h2> |
-| type.utility-12px | **Dm Sans** | 12px | 400 | 18px | -0.24px | <p> in the main |
-| type.body-16px | **Dm Sans** | 16px | 300 | 24px | normal | <p> in the main |
-| type.body-18px | **Dm Sans** | 18px | 400 | 25.2px | normal | <p> in the main |
-| type.body-18px | **Inter** | 18px | 500 | 25.2px | -0.36px | <p> in the main |
-| type.body-16px | **Dm Sans** | 16px | 400 | 24px | normal | <p> in the footer and <a> in the footer |
-| type.heading-15px | **Dm Sans** | 15px | 600 | 18.75px | normal | <p> in the main and <p> in the footer |
-| type.body-15px | **Onest** | 15px | 400 | 21px | normal | <p> in the footer |
-| type.body-16px | **Dm Sans** | 16px | 500 | 24px | normal | <p> in the main |
-| type.display-40px | **Inter** | 40px | 700 | 40px | -1.6px | <div> in the main |
-| type.body-18px | **Dm Sans** | 18px | 400 | 27px | -0.36px | <p> in the main |
-| type.body-16px | **Dm Sans** | 16px | 400 | 19.2px | normal | <p> in the main and <a> in the nav |
-| type.body-16px | **Dm Sans** | 16px | 500 | 19.2px | normal | <p> in the nav |
-| type.display-52px | **Dm Sans** | 52px | 400 | 52px | -1.56px | <h2> in the main |
-| type.utility-12px | **Inter** | 12px | 400 | 14.4px | normal | <p> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 0px 160px` | padding | page content |
-| `24px` | padding | page content |
-| `12px 16px` | padding | page content |
-| `0px 0px 20px` | padding | page content |
-| `32px 0px 0px` | padding | page content |
-| `20px 0px 0px` | margin | page content |
-| `6px 40px` | padding | page content |
-| `8px 8px 8px 24px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 40px`, `0px none 24px`, `0px none 16px`, `0px none 10px`, `0px none 8px`, and `0px none 100px` border treatments. Recorded gradients include `linear-gradient(rgb(164, 94, 255) 0%, rgb(164, 94, 255) 72.6211%)`, `linear-gradient(rgb(125, 25, 255) 0%, rgb(157, 50, 250) 100%)`, and `linear-gradient(rgb(34, 34, 34) 0%, rgb(0, 0, 0) 100%)`. Recorded shadows include `rgba(255, 255, 255, 0.25) 0px -4px 8px -4px inset, rgba(255, 255, 255, 0.25) 0px 8px 8px -4px inset, rgb(255, 255, 255) 0px 0px 8px -3px inset, rgba(0, 0, 0, 0.25) 0px 12px 12px -4px`, `rgba(255, 255, 255, 0.25) 0px -4px 8px -4px inset, rgba(255, 255, 255, 0.5) 0px 8px 8px -4px inset, rgb(255, 255, 255) 0px 0px 8px -3px inset, rgba(106, 27, 209, 0.25) 0px 12px 12px -4px, rgba(170, 27, 209, 0) 0px 0.823006px 1.15221px -0.5625px, rgba(170, 27, 209, 0) 0px 1.95067px 2.73094px -1.125px, rgba(170, 27, 209, 0) 0px 3.55822px 4.98151px -1.6875px, rgba(170, 27, 209, 0) 0px 5.91554px 8.28176px -2.25px, rgba(170, 27, 209, 0) 0px 9.55311px 13.3744px -2.8125px, rgba(170, 27, 209, 0) 0px 15.6375px 21.8925px -3.375px, rgba(170, 27, 209, 0) 0px 26.9267px 37.6974px -3.9375px, rgba(170, 27, 209, 0) 0px 49px 68.6px -4.5px`, `rgba(255, 255, 255, 0.25) 0px 12px 20px 0px inset, rgba(255, 255, 255, 0.25) 0px -12px 20px 0px inset`, `rgba(255, 255, 255, 0.25) 0px -4px 8px -4px inset, rgba(255, 255, 255, 0.5) 0px 8px 8px -4px inset, rgb(255, 255, 255) 0px 0px 8px -3px inset, rgba(106, 27, 209, 0.25) 0px 12px 12px -4px, rgba(170, 27, 209, 0) 0px 0.823006px 1.15221px -0.5625px, rgba(170, 27, 209, 0) 0px 1.95067px 2.73094px -1.125px, rgba(170, 27, 209, 0) 0px 3.55822px 4.98151px -1.6875px, rgba(170, 27, 209, 0) 0px 5.91554px 8.28176px -2.25px, rgba(170, 27, 209, 0) 0px 9.55311px 13.3744px -2.8125px, rgba(170, 27, 209, 0) 0px 15.6375px 21.8925px -3.375px, rgba(170, 27, 209, 0) 0px 26.9267px 37.6974px -3.9375px, rgba(170, 27, 209, 0) 0px 49px 68.6px -4.5px, rgba(255, 255, 255, 0.5) 0px 8px 8px -4px inset, rgb(255, 255, 255) 0px 0px 8px -3px inset, rgba(169, 27, 209, 0.25) 0px 12px 12px -4px, rgba(170, 27, 209, 0) 0px 0.823006px 1.15221px -0.5625px, rgba(170, 27, 209, 0) 0px 1.95067px 2.73094px -1.125px, rgba(170, 27, 209, 0) 0px 3.55822px 4.98151px -1.6875px, rgba(170, 27, 209, 0) 0px 5.91554px 8.28176px -2.25px, rgba(170, 27, 209, 0) 0px 9.55311px 13.3744px -2.8125px, rgba(170, 27, 209, 0) 0px 15.6375px 21.8925px -3.375px, rgba(170, 27, 209, 0) 0px 26.9267px 37.6974px -3.9375px, rgba(170, 27, 209, 0) 0px 49px 68.6px -4.5px`, `rgba(97, 74, 68, 0.1) 0px 4px 50px 0px`, `rgba(255, 255, 255, 0.25) 0px -4px 8px -4px inset, rgba(255, 255, 255, 0.5) 0px 8px 8px -4px inset, rgb(255, 255, 255) 0px 0px 8px -3px inset, rgba(106, 27, 209, 0.25) 0px 12px 12px -4px, rgba(170, 27, 209, 0) 0px 0.823006px 1.15221px -0.5625px, rgba(170, 27, 209, 0) 0px 1.95067px 2.73094px -1.125px, rgba(170, 27, 209, 0) 0px 3.55822px 4.98151px -1.6875px, rgba(170, 27, 209, 0) 0px 5.91554px 8.28176px -2.25px, rgba(170, 27, 209, 0) 0px 9.55312px 13.3744px -2.8125px, rgba(170, 27, 209, 0) 0px 15.6375px 21.8925px -3.375px, rgba(170, 27, 209, 0) 0px 26.9267px 37.6974px -3.9375px, rgba(170, 27, 209, 0) 0px 49px 68.6px -4.5px`, and `rgba(255, 255, 255, 0.15) 0px 0px 20px 1.64px inset, rgba(77, 77, 77, 0.13) 0px 0.839802px 0.503881px -0.3125px, rgba(77, 77, 77, 0.13) 0px 1.99048px 1.19429px -0.625px, rgba(77, 77, 77, 0.13) 0px 3.63084px 2.1785px -0.9375px, rgba(77, 77, 77, 0.13) 0px 6.03627px 3.62176px -1.25px, rgba(77, 77, 77, 0.13) 0px 9.74808px 5.84885px -1.5625px, rgba(77, 77, 77, 0.13) 0px 15.9566px 9.57398px -1.875px, rgba(77, 77, 77, 0.13) 0px 27.4762px 16.4857px -2.1875px, rgba(77, 77, 77, 0.13) 0px 50px 30px -2.5px`.
+The design is strongest when it stays simple: one main message per section, a handful of clear cards, and a single purple action color repeated everywhere that needs emphasis.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#d6abff`, `#f9f9f9`, and `#ededed`. Text colors include `#000000`, `#1a1615`, and `#453f3d`. Keep image-derived colors separate from interface colors.
+The palette is narrow and intentional. Near-black ink handles the headlines, while a warmer gray carries body copy and lighter explanations. White surfaces dominate the interior sections, so the violet accents can stand out without competing with the text. The page never needs a second saturated accent; the same purple family does all the work for buttons, labels, icon tiles, and atmospheric gradients.
+
+| token | value | role |
+|---|---|---|
+| `action` | `#7D19FF` | Primary buttons, emphasized labels, and key interface accents |
+| `action-soft` | `#A45EFF` | Violet fields, hero wash, and large background transitions |
+| `action-glow` | `#C60DFF` | Bright highlight used sparingly for electric emphasis |
+| `ink` | `#1A1615` | Main headline text and the strongest readable copy |
+| `muted-ink` | `#453F3D` | Supporting paragraphs and lower-emphasis body copy |
+| `canvas` | `#F9F9F9` | Overall page background and the pale negative space between sections |
+| `surface` | `#FFFFFF` | Card backgrounds, FAQ rows, and inset content blocks |
+| `border` | `#EDEDED` | Soft separators and card outlines |
+| `field` | `#D6ABFF` | Light violet wash behind large hero and footer compositions |
+| `field-deep` | `#A91BD1` | The deepest purple used in the closing stage |
+| `on-action` | `#FFFFFF` | Text and icons on purple buttons and fields |
+
+The most important color relationship is the contrast between the pale canvas and the violet stages. White cards sit comfortably on both, but the purple backgrounds give the page a more theatrical endcap and make the brand feel less flat. The small black controls in the hero and FAQ are practical counterpoints to the lighter surfaces. Borders stay faint so the cards read as soft objects rather than outlined modules.
 
 ## Typography
 
-The captured type system uses **System**, **Dm Sans**, **Inter**, and **Onest**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The page is primarily a single-family system built on **Dm Sans**, with **Inter** used for large numeric emphasis and **Onest** reserved for the smallest footer copy. The packet does not supply a licensing or attribution claim for these families.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Dm Sans | 3.25rem | 700 | 1 | -0.03em | Hero and major page headings |
+| `section-display` | Dm Sans | 2.5rem | 700 | 1 | -0.03em | Secondary section leads and feature headlines |
+| `body` | Dm Sans | 1rem | 400 | 1.5 | 0em | Supporting paragraphs and explanatory copy |
+| `button` | Dm Sans | 1rem | 500 | 1.2 | 0em | Primary CTA labels and compact control text |
+| `eyebrow` | Dm Sans | 0.9375rem | 700 | 1 | 0.02em | Small violet section labels and kicker text |
+| `stat-number` | Inter | 2.5rem | 700 | 1 | -0.04em | Large metric values in the stats strip |
+| `stat-label` | Inter | 1.125rem | 400 | 1.4 | -0.02em | Supporting text in the stats block |
+| `legal-copy` | Onest | 0.9375rem | 400 | 1.4 | 0em | Footer copy and the smallest informational text |
+
+The hierarchy is straightforward: huge black headlines, medium body copy, then compact labels and helper text. Dm Sans gives the page a rounded, friendly tone that still reads as precise. Inter adds a sharper numeric voice for the metrics strip, which keeps the scale section visually distinct from the prose sections. Onest appears only at the edge of the page, where the footer needs a slightly quieter tone.
 
 ## Layout
 
-The captured pages use values such as `0px 0px 160px`, `24px`, `12px 16px`, `0px 0px 20px`, and `32px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page uses a full-width marketing stack with generous vertical spacing and large blocks of negative space. Sections are not crowded together. They sit apart with enough breathing room that each panel can feel like its own thought. The canvas stays pale, so the content reads as a set of floating objects rather than a dense document.
+
+The first hero is split: explanatory text on the left, a large rounded integration panel on the right. That balance gives the opening section a clear hierarchy and leaves room for a strong headline without crowding the visual. The next major section uses a similar split but flips the emphasis: a tall, lightly tinted task panel sits on one side while the explanatory copy and CTA live on the other. This alternating balance keeps the page from settling into one rigid grid.
+
+The stats strip is centered and symmetrical. Four purple icon tiles sit above four metric blocks, which creates a quick scan pattern and breaks up the long page with a tighter, more modular rhythm. The feature area expands into a denser grid of cards, but the cards remain airy because each one carries a single small visual, a short title, and a compact paragraph.
+
+At the bottom, the layout turns into a closing stage: a tall violet field, a centered message, then a rounded footer card with columns and small links. The page ends with a strong boundary rather than fading away.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#d6abff`, `#f9f9f9`, and `#ededed`. Depth is supported by the returned gradients and shadows.
+Agently’s visual language mixes product clarity with a soft fantasy layer. The practical side is visible in the integration lists, task progress bars, metrics, and feature cards. The atmospheric side comes from the purple fields, cloud-like gradients, floating social cards, and subtle glow around buttons and icon tiles. That mix makes the page feel more human and less sterile than a standard enterprise landing page.
 
-## Components and states
+Rounded corners are a core part of the language. Small controls use compact radii, content cards use medium rounded rectangles, and the hero/footer stages use much larger curvature. The hierarchy of shapes matters: the biggest radii belong to the biggest stage containers, not to every small element. That keeps the page calm instead of bubbly.
 
-The captured pages include repeated styling on <div>, <h2>, <p>, <a>, <ul>, and <strong> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Shadows are soft and almost airbrushed. They lift cards just enough to separate them from the background but never create hard edges. The purple buttons feel slightly glossy, with a brighter core and a deeper edge. The result is a polished digital surface that still feels light. Icons are simple and readable, often set inside purple squares or pale rounded tiles so they read as cues rather than decoration.
+
+## Components
+
+### Top navigation
+
+- **Anatomy:** Logo at left, a short center link row, and a dark CTA at right.
+- **Surface:** Often sits over the violet hero field, so it needs enough contrast to remain legible without becoming heavy.
+- **Shape:** The bar reads as a rounded pill rather than a sharp strip, which helps it blend with the rest of the page.
+- **Hierarchy:** The CTA is the only strongly weighted control; the links stay quiet and compact.
+
+### Hero stage
+
+- **Anatomy:** Small eyebrow label, large stacked headline, short supporting paragraph, primary button, and a lower row of feature chips or visual props.
+- **Typography:** The headline uses the largest Dm Sans role and breaks across several lines with little line spacing.
+- **Surface:** Violet wash with cloud-like softness and a bright button that pulls the eye first.
+- **Composition:** The claim sits centered or left-aligned depending on width, but it always dominates the stage.
+
+### Workflow and integration cards
+
+- **Anatomy:** Rounded white panels containing app names, task lists, or small product labels.
+- **Surface:** Very light backgrounds with faint borders and soft shadows.
+- **Typography:** Mostly Dm Sans body text, with occasional stronger titles or labels inside the cards.
+- **Composition:** The cards read as concrete proof of the workflow instead of generic illustration.
+
+### Task-progress block
+
+- **Anatomy:** Large lavender panel, progress heading, list-like task content, and a compact state indicator.
+- **Surface:** This is one of the softest blocks in the page, with a washed tint that makes the activity feel continuous.
+- **Visible states:** The panel shows an active state through repeated lines, dimmed rows, and a sense of ongoing progress rather than a static list.
+- **Role:** It gives the page motion without needing actual animation in the design language.
+
+### Stats strip
+
+- **Anatomy:** Four evenly spaced metric groups, each with a purple icon tile, a bold numeric value, and a short descriptor.
+- **Typography:** Large Inter numerals create the strongest contrast from the Dm Sans sections.
+- **Shape:** The icon tiles use small radii and a brighter purple fill, making them feel like badges rather than cards.
+- **Composition:** The strip is symmetrical and easy to scan, so the figures land before the labels.
+
+### Feature cards
+
+- **Anatomy:** Multi-card grid with a small visual, a short title, and a one-paragraph explanation.
+- **Surface:** White cards with generous padding and soft shadow separation.
+- **Hierarchy:** Each card communicates one job or one operator role; none of them need long copy.
+- **Variants:** Some cards feel more visual and illustrative, while others use charts or progress motifs.
+
+### FAQ rows
+
+- **Anatomy:** Question line with a circular plus/minus control, then an expanded answer when open.
+- **Surface:** White rounded slabs with faint borders and a clean stacked rhythm.
+- **Visible states:** The open row reveals body copy beneath the question and swaps the control icon to the expanded state.
+- **Role:** The FAQ keeps the page from ending abruptly and gives the bottom section a useful, practical tone.
+
+### Footer shell
+
+- **Anatomy:** Centered closing statement, CTA, then a rounded footer card with logo, navigation columns, and small social controls.
+- **Surface:** A deeper violet field that grounds the end of the page and separates it from the white content above.
+- **Typography:** Footer copy is smaller and quieter, with more modest spacing and a calmer tone.
+- **Composition:** The footer card sits inset from the edge and feels like a final object resting on the violet field.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+When the viewport narrows, the page should preserve the reading order of each section: headline first, supporting copy second, visual block third, and utility details last. Split sections should stack instead of forcing cramped side-by-side layouts. The stats row should wrap cleanly into fewer columns without losing the centered rhythm of the figures and icons. Feature cards should move from a wide grid to a more vertical stack while keeping their padding generous enough to breathe.
+
+The hero needs special care on smaller widths because its purple atmosphere and floating elements can easily crowd the text. Keep the primary headline legible first, then let the supporting visual pieces compress or crop. The footer card should stay readable as a single rounded block rather than breaking into tiny compartments.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the type system simple and bold. The large Dm Sans headlines do most of the identity work.
+- Keep violet as the one persistent action color across buttons, labels, badges, and large fields.
+- Keep cards soft, white, and lightly lifted. The page depends on gentle separation, not heavy borders.
+- Keep the section rhythm broad. Long vertical breathing room is part of the brand feel.
+- Keep the purple endcaps. The opening and closing stages are what give the page its personality.
+
+### Avoid
+
+- Avoid adding a second bright accent color.
+- Avoid dark, heavy surfaces in the middle of the page; the design works because the content stays light.
+- Avoid hairline-heavy frameworks that make the cards feel technical or brittle.
+- Avoid shrinking the headings so far that the page starts to read like a dashboard instead of a landing page.
+- Avoid cluttering the hero with too many controls; the opening message should stay dominant.
+
+### Recommended build order
+
+1. Define the color roles, radii, and spacing scale first.
+2. Build the shared text stack with Dm Sans and the numeric Inter role.
+3. Build the purple hero and its CTA.
+4. Build the white card system used by workflow, FAQ, and feature sections.
+5. Build the stats strip and its icon tiles.
+6. Build the footer stage and the rounded footer card.
+7. Tune the responsive stacking order and the spacing between sections.
+
+### Accessibility
+
+- Keep headline and body contrast strong on white surfaces and on violet fields.
+- Make every icon-only control usable with a text label or accessible name.
+- Keep the rounded button and FAQ focus state visible against both white and purple surfaces.
+- Use clear question text in the FAQ so the expanded answer is understandable on its own.
+- Avoid low-contrast dimming that makes inactive cards look like disabled controls.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#1a1615`
-- `#ffffff`
-- `#453f3d`
-- `#d6abff`
-- `#1c1c1c`
-- `#4d4d4d`
-- `#c60dff`
-- `#6a1bd1`
-- `#a91bd1`
-- `#f9f9f9`
-- `#0000ee`
-- `#424242`
-- `#614a44`
-- `#ededed`
-
-## Typography captured from agently.dev
-
-- **System** — weight 400 · size 12px
-- **Dm Sans** — weight 700 · size 52px
-- **Inter** — weight 400 · size 12px
-- **Onest** — weight 400 · size 15px
+This guide covers the supplied landing-page stack: the hero, workflow panels, stats strip, feature cards, FAQ, and footer. It does not specify exact small-screen breakpoints, motion timing, hover details, or the open/closed transition behavior beyond the visible state changes. Spacing and radii follow the packet’s 2px unit grid.
