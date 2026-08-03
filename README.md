@@ -947,7 +947,7 @@ celesteduffy.com presents a predominantly dark surface treatment in the captured
 
 [![How cerebras.ai is designed](https://pin.fontofweb.com/9329?format=jpg)](design-md/cerebras.ai.md)
 
-cerebras.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#2e180f`, and `#000000`, with typography led by **Manrope** and **Sometype Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cerebras uses a strict industrial visual language. The page is driven by dark fields, white type, and a small orange accent that marks taxonomy, links, and emphasis. The mood is not polished consumer-tech; it is hardware-first, dense, and exact. Large areas of near-black and deep brown create the frame, while bright white content sheets break in as contrast when the site needs a readable list or form. That shift from dark stage to white sheet is one of the clearest structural cues in the system.
 
 [Open guide](design-md/cerebras.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/cerebras.ai-design)
 
