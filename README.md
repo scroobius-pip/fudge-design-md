@@ -339,7 +339,7 @@ Anthropic’s captured pages are calm, editorial, and unusually unhurried for a 
 
 [![How antigravity.google is designed](https://pin.fontofweb.com/6298?format=jpg)](design-md/antigravity.google.md)
 
-antigravity.google presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#121317` and `#202124`, with typography led by **Google Sans Flex** and **Google Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Antigravity uses a spare Google product register: a white page surface, a thin top navigation line, one strong headline or status message, and a compact set of pill actions. The system feels controlled rather than decorative. Most pages rely on one large typographic anchor, a few small links, and lots of open space so the message can land without competing elements.
 
 [Open guide](design-md/antigravity.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/antigravity.google-design)
 
