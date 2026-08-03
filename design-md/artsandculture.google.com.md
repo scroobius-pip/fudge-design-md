@@ -6,164 +6,178 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Art Remix — Google Arts & Culture](https://pin.fontofweb.com/7274?format=jpg)](https://design.withfudge.com/share/pin-7274)
+[![Centered Art Remix editor with the artwork, slider, and action chips](https://pin.fontofweb.com/7274?format=jpg)](https://design.withfudge.com/share/pin-7274)
 
-[Art Remix — Google Arts & Culture](https://design.withfudge.com/share/pin-7274)
+[Centered Art Remix editor with the artwork, slider, and action chips](https://design.withfudge.com/share/pin-7274)
 
-[![Art Remix — Google Arts & Culture](https://pin.fontofweb.com/7273?format=jpg)](https://design.withfudge.com/share/pin-7273)
+[![Split Art Remix card with a bold title column and framed preview image](https://pin.fontofweb.com/7273?format=jpg)](https://design.withfudge.com/share/pin-7273)
 
-[Art Remix — Google Arts & Culture](https://design.withfudge.com/share/pin-7273)
+[Split Art Remix card with a bold title column and framed preview image](https://design.withfudge.com/share/pin-7273)
 
-[![Google Arts & Culture](https://pin.fontofweb.com/7272?format=jpg)](https://design.withfudge.com/share/pin-7272)
+[![Home page section with stacked feature tiles and a vivid color-led band](https://pin.fontofweb.com/7271?format=jpg)](https://design.withfudge.com/share/pin-7271)
 
-[Google Arts & Culture](https://design.withfudge.com/share/pin-7272)
+[Home page section with stacked feature tiles and a vivid color-led band](https://design.withfudge.com/share/pin-7271)
 
-[![Google Arts & Culture](https://pin.fontofweb.com/7271?format=jpg)](https://design.withfudge.com/share/pin-7271)
+[![Editorial browse page with tall color tiles, blue banners, and wide white margins](https://pin.fontofweb.com/7270?format=jpg)](https://design.withfudge.com/share/pin-7270)
 
-[Google Arts & Culture](https://design.withfudge.com/share/pin-7271)
+[Editorial browse page with tall color tiles, blue banners, and wide white margins](https://design.withfudge.com/share/pin-7270)
 
-[![Google Arts & Culture](https://pin.fontofweb.com/7270?format=jpg)](https://design.withfudge.com/share/pin-7270)
+[![Weekly highlights grid with compact cards, share icons, and small metadata](https://pin.fontofweb.com/7269?format=jpg)](https://design.withfudge.com/share/pin-7269)
 
-[Google Arts & Culture](https://design.withfudge.com/share/pin-7270)
+[Weekly highlights grid with compact cards, share icons, and small metadata](https://design.withfudge.com/share/pin-7269)
 
-[![Google Arts & Culture](https://pin.fontofweb.com/7269?format=jpg)](https://design.withfudge.com/share/pin-7269)
+[![Explore page with image rails, active tab underline, and category blocks](https://pin.fontofweb.com/7267?format=jpg)](https://design.withfudge.com/share/pin-7267)
 
-[Google Arts & Culture](https://design.withfudge.com/share/pin-7269)
-
-[![artsandculture.google.com](https://pin.fontofweb.com/7268?format=jpg)](https://design.withfudge.com/share/pin-7268)
-
-[artsandculture.google.com](https://design.withfudge.com/share/pin-7268)
-
-[![Explore — Google Arts & Culture](https://pin.fontofweb.com/7267?format=jpg)](https://design.withfudge.com/share/pin-7267)
-
-[Explore — Google Arts & Culture](https://design.withfudge.com/share/pin-7267)
+[Explore page with image rails, active tab underline, and category blocks](https://design.withfudge.com/share/pin-7267)
 
 ## Overview
 
-artsandculture.google.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#202124`, and `#1a73e8`, with typography led by **Google Sans**, **Google Sans 18 Pt**, **Roboto**, **Google Sans Mono**, and **Google Sans Flex 18 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
+Google Arts & Culture uses a restrained, gallery-like interface that keeps the artwork, collection tiles, and editorial headings in front of the chrome. The page is almost always built on a white canvas with thin dark or gray rules, compact navigation text, and blue links or actions. The result feels like a museum index rather than a product dashboard: quiet around the edges, image-forward in the middle, and highly legible at a glance.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.text | `#202124` | text on page content |
-| color.text | `#1a73e8` | text on page content |
-| color.surface | `#ffffff` | surface on page content |
-| color.surface | `#e8eaed` | surface on page content |
-| color.text | `#3c4043` | text on page content |
-| color.surface | `#dadce0` | surface on page content |
-| color.text | `#e3e3e3` | text on page content |
-| color.text | `#80868b` | text on page content |
-| color.text | `#5f6368` | text on page content |
-| color.surface | `#e1e3e1` | surface on page content |
-| color.text | `#4285f4` | text on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-14px | **Google Sans** | 14px | 400 | 20px | 0.2px | <div>, <div> in the button, <a>, <span> in the button, <span>, <h4>, <div> in the header, <a> in the button, and <ul> |
-| type.body-14px | **Google Sans 18 Pt** | 14px | 500 | 20px | 0.25px | <span> in the button, <a>, <div>, <span>, <h4>, and <p> |
-| type.body-14px | **Roboto** | 14px | 400 | 20px | normal | <button> in the button |
-| type.body-22px | **Google Sans 18 Pt** | 22px | 400 | 28px | normal | <h3> and <h1> |
-| type.utility-13px | **Google Sans** | 13px | 400 | 20px | 0.2px | <div> |
-| type.body-20px | **Google Sans Mono** | 20px | 400 | 32px | normal | <p> and <div> |
-| type.body-16px | **Google Sans 18 Pt** | 16px | 500 | 24px | 0.1px | <h3> |
-| type.utility-12px | **Google Sans** | 12px | 400 | 16px | 0.3px | <h4>, <span>, and <a> |
-| type.body-16px | **Google Sans** | 16px | 400 | 24px | 0.1px | <h3> |
-| type.display-36px | **Google Sans 18 Pt** | 36px | 400 | 44px | normal | <h2> and <span> |
-| type.display-32px | **Google Sans 18 Pt** | 32px | 400 | 40px | normal | <h1> in the header |
-| type.utility-11px | **Google Sans** | 11px | 500 | 16px | 0.8px | <span> |
-| type.body-14px | **Roboto** | 14px | 400 | 20px | 0.2px | <div> |
-| type.utility-13px | **Roboto** | 13px | 400 | normal | 0.2px | <div> and <a> in the button |
-| type.display-70px | **Google Sans Flex 18 Pt** | 70px | 700 | 70px | 0.2px | <div> |
-| type.body-26px | **Google Sans 18 Pt** | 26px | 500 | 38px | normal | <p> |
-| type.body-16px | **Google Sans** | 16px | 400 | 16px | 0.1px | <h2> in the header |
-| type.body-16px | **Google Sans 18 Pt** | 16px | 500 | 22px | normal | <div> |
-| type.body-24px | **Google Sans 18 Pt** | 24px | 400 | 34px | normal | <div> |
-| type.display-36px | **Google Sans 18 Pt** | 36px | 100 | 44px | normal | <h1> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `56px 24px 0px` | padding | page content |
-| `236px 0px 0px` | padding | page content |
-| `0px 252.5px` | margin | page content |
-| `1px 6px` | padding | page content |
-| `80px 24px 0px` | padding | page content |
-| `40px 12px 80px` | padding | page content |
-| `0px 0px 16px` | margin | page content |
-| `524.797px 0px 0px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 8px`, `0px none 2px`, `0px none 50%`, `0px none 20px`, `1px 0px 0px solid none none 0px`, `2px solid 2px`, `0px none 50px`, and `1px solid 16px` border treatments. Recorded gradients include `linear-gradient(to top, rgba(0, 0, 0, 0.4) 0px, rgba(0, 0, 0, 0) 100%)` and `linear-gradient(0deg, rgba(0, 0, 0, 0.7) 0px, rgba(61, 61, 61, 0.7) 100%)`.
+The system changes emphasis by page type, not by introducing new visual families. Home and explore views use centered section headings and wide card rails. The Art Remix views switch to a more focused experiment stage with a large title, a framed artwork panel, a control row, and a dense text block. Across all of it, the interface keeps the same neutral base and lets the art supply most of the color.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#000000`, `#ffffff`, and `#e8eaed`. Text colors include `#202124`, `#1a73e8`, and `#3c4043`. Keep image-derived colors separate from interface colors.
+| token | value | role |
+|---|---|---|
+| `action` | `#1A73E8` | Links, selected tabs, active controls, and primary emphasis |
+| `ink` | `#202124` | Main body text, headings, and dense interface copy |
+| `ink-strong` | `#000000` | Mastheads, icon marks, and the sharpest contrast moments |
+| `ink-soft` | `#3C4043` | Secondary text in browsable sections |
+| `muted-ink` | `#5F6368` | Captions, metadata, and lighter supporting copy |
+| `muted-ink-2` | `#80868B` | Tertiary labels and understated metadata |
+| `canvas` | `#FFFFFF` | Page background and card fill |
+| `border` | `#DADCE0` | Hairline borders, panel edges, and control outlines |
+| `surface` | `#E8EAED` | Soft separators and pale section support |
+| `surface-soft` | `#E3E3E3` | Subtle chips, rules, and low-emphasis blocks |
+| `surface-faint` | `#E1E3E1` | The lightest neutral support tone |
+| `on-action` | `#FFFFFF` | Text and icons on blue controls |
+
+The visible palette is intentionally narrow. White does most of the work, blue marks the interactive path, and the grays carry the hierarchy without competing with the artwork. In the supplied views there is no heavy dark shell; instead, imagery and feature art bring in richer color while the interface stays neutral. That separation is important: the brand color stays fixed and the content color changes from page to page.
 
 ## Typography
 
-The captured type system uses **Google Sans**, **Google Sans 18 Pt**, **Roboto**, **Google Sans Mono**, and **Google Sans Flex 18 Pt**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Google Sans is the primary interface voice. Google Sans 18 Pt and Google Sans Flex 18 Pt handle the larger editorial moments, while Google Sans covers the 11–16px interface range. Roboto appears in compact controls and utility labels, and Google Sans Mono gives the Art Remix explanation block its typed, technical feel. Font licensing should be confirmed before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Google Sans Flex 18 Pt | 4.375rem | 700 | 1 | -0.01em | The Art Remix masthead and other large experiment titles |
+| `section-display` | Google Sans 18 Pt | 2.25rem | 400 | 1.22 | 0em | Centered section headings such as “Weekly highlights” |
+| `card-heading` | Google Sans 18 Pt | 1.375rem | 400 | 1.27 | 0em | Large card titles and feature names |
+| `body` | Google Sans | 0.875rem | 400 | 1.43 | 0.014em | Explanatory copy, summaries, and standard metadata |
+| `body-medium` | Google Sans | 0.875rem | 500 | 1.43 | 0.014em | Action labels, active navigation, and emphasized inline text |
+| `label` | Google Sans | 0.75rem | 500 | 1.33 | 0.02em | Uppercase or compact section labels |
+| `mono-body` | Google Sans Mono | 1.25rem | 400 | 1.6 | 0em | The typed Art Remix explanation block |
+| `control` | Roboto | 0.875rem | 500 | 1.43 | 0.014em | Compact buttons, chips, and icon-adjacent control text |
+
+The hierarchy depends on scale more than on weight variation. Headings are large but not loud; body text stays calm at 14px with generous leading; metadata compresses cleanly to 12–13px without breaking the rhythm. The title treatment in the Art Remix flow is the exception: it pushes to a much larger display size and pairs with a very plain surrounding layout so the words stay readable against the artwork and the controls.
 
 ## Layout
 
-The captured pages use values such as `56px 24px 0px`, `236px 0px 0px`, `0px 252.5px`, `1px 6px`, and `80px 24px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page frame is centered and spacious. Large side gutters keep the content column narrow enough for dense text and image labels, while the surrounding whitespace gives the artwork room to breathe. Some home and explore views sit far in from the viewport edges, with the content visually anchored in the middle rather than stretched across the full width. That center-heavy framing is a core trait of the site.
+
+Section spacing is generous but consistent. The browser does not stack blocks tightly; it places whole stories apart from one another, then uses headings, rails, and cards to define the internal rhythm. The page often alternates between a headline, a row of cards, and a second visual system below it. In the Art Remix detail view, that rhythm becomes more vertical and more focused: a top title, a large framed artwork, a slim control strip, then a structured text and action area. The layout keeps each section self-contained.
+
+Card geometry is simple. The workhorse radius is the small 8px corner, which appears on image tiles, panels, and many bordered containers. More rounded pills are used for utility buttons and chips, while circular controls appear as pure circles rather than as soft rectangles. Borders are usually 1px and do the separation work that shadows would handle in a more theatrical interface.
+
+The section grid itself is flexible. Some pages use narrow editorial cards in long rows; others use larger feature tiles with image-first composition; the Art Remix page uses a split card with a text rail on the left and a preview image on the right. The linework and spacing stay consistent enough that these different arrangements still feel like one system.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#000000`, `#ffffff`, `#e8eaed`, and `#dadce0`. Depth is supported by the returned gradients.
+The visual language is quiet and documentary. White space is the dominant surface, and the interface treats artworks, screenshots, and feature images as the main visual objects. Blue is reserved for navigation state and actionable elements, so the page does not become a color field of its own. This is a collection browser that keeps its brand signal small.
 
-## Components and states
+Borders matter more than shadows. Thin rules outline cards, separate header rows, divide metadata from action rows, and frame the Art Remix controls. The system feels precise because the edges are crisp. The same restraint shows up in the chip and pill treatment: compact outlines, small radius, and very little decoration beyond the label itself.
 
-The captured pages include repeated styling on <div>, <a>, <span>, <p>, <h4>, <h3>, <h2>, and <button> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The page also uses a strong editorial hierarchy. Large centered headings sit above image rails. Short labels sit above titles. Supporting text stays small and cool. In the feature and recommendation views, cards often put the image first and the title directly below it, which keeps the eye moving from visual to textual summary without interruption. In the Art Remix detail page, the system becomes more demonstrative: the artwork panel dominates, the title beneath it is large and broken into highlighted phrases, and the lower action area is shaped like a practical tool rather than a promotional banner.
+
+## Components
+
+### Top bar
+
+- **Anatomy:** Wordmark at the left, navigation items across the top, utility icons at the right, with the selected destination marked by a blue underline.
+- **Surface:** White canvas with no heavy chrome.
+- **Typography:** 14px Google Sans for standard nav items; compact labels stay close to 14px and medium weight.
+- **Shape:** Icons and profile affordances are circular or near-circular; the bar itself stays flat.
+- **Visible states:** The active section uses the blue action color and a short underline instead of a filled tab.
+
+### Art Remix hero
+
+- **Anatomy:** Large centered title, square artwork card, small badge in the image, a round-edged “Remix” chip, and a slider below the image.
+- **Composition:** The artwork is the focal point; the surrounding controls are narrow and centered beneath it.
+- **Typography:** Display-sized title above, then a smaller numeric readout beside the slider.
+- **Control language:** Blue thumb, light track, and compact icon marks. The slider feels like a precision tool, not a decorative control.
+
+### Split experiment card
+
+- **Anatomy:** Title, subtitle, date and category row, primary launch button, and utility icons in a left column; artwork preview in a right column.
+- **Surface:** White panel with 1px border and 8px corners.
+- **Hierarchy:** The title is large and bold-looking; metadata is quiet; the launch button is the only saturated element.
+- **Spacing:** Inner rows are separated by thin rules and compact padding, which makes the card feel engineered rather than playful.
+
+### Card rails and story tiles
+
+- **Anatomy:** Image-first tiles with a short category line, a title, a small summary, and a share glyph or secondary utility.
+- **Composition:** Rows feel like a gallery shelf. The cards are evenly spaced, and the images carry the first read.
+- **Shape:** Small-radius corners and flat fills. The system avoids deep shadows.
+- **Variants:** Some tiles are narrow editorial cards; others are wider feature blocks with stronger image emphasis.
+
+### Color and theme browsing blocks
+
+- **Anatomy:** Tall vertical swatches, broad feature panels, and content cards with large imagery.
+- **Composition:** These sections use strong image blocks to create rhythm within the white page.
+- **Typography:** Titles are clear and direct, often centered over the block or placed low and left within the card.
+- **Visible states:** Selected navigation remains blue; the content itself can be highly colorful without changing the shell language.
+
+### Utility chips and secondary actions
+
+- **Anatomy:** Small outlined pills such as category chips, more-info buttons, and compact social or action controls.
+- **Surface:** White fill with gray border.
+- **Typography:** Small Google Sans or Roboto utility text.
+- **Shape:** Rounded pills and circular icons.
+- **Hierarchy:** These controls stay below the primary image or title and never compete with the main call to action.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The supplied views already suggest a responsive system that preserves the same reading order at different widths. As the viewport narrows, the centered column should stay intact, the artwork and cards should stack before the text becomes too cramped, and the rail layouts should collapse into fewer columns without changing the hierarchy. The Art Remix editor, especially, depends on the title-image-control stack staying vertically coherent.
+
+Navigation also needs to degrade cleanly. The selected state should remain obvious even when the full horizontal menu compresses, and the icon cluster at the right should stay accessible without crowding the wordmark. Image cards should keep their 8px corners and border treatment at all widths; only the grid density should change.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the page white, flat, and quiet around the artwork.
+- Use blue only for selection, links, and primary actions.
+- Preserve the 8px panel radius and the 1px divider language.
+- Keep the 36px section headings and 14px body text in the same hierarchy.
+- Let image content carry most of the color and emotional weight.
+
+### Avoid
+
+- Avoid shadows as a primary framing device.
+- Avoid broad color tokens that fight the artwork.
+- Avoid heavy rounded corners on large panels.
+- Avoid wrapping every small control in a separate card.
+- Avoid mixing multiple display families when one clear Google Sans hierarchy is enough.
+
+### Recommended build order
+
+1. Set the centered page frame and the white canvas.
+2. Build the top bar, selected underline, and utility icon cluster.
+3. Define the small set of type roles and the blue action color.
+4. Build the bordered card primitive with the 8px radius.
+5. Recreate the Art Remix hero and the split experiment card.
+6. Add the rail and grid patterns for recommendations and explore pages.
+7. Finish with the compact chips, share actions, and slider controls.
+
+### Accessibility
+
+- Keep the blue underline and blue action text paired with non-color cues where possible.
+- Maintain strong contrast for all copy placed over artwork.
+- Label icon-only controls clearly.
+- Keep focus outlines visible on white backgrounds and inside outlined pills.
+- Make slider state, selected tabs, and action buttons readable without relying on hue alone.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#202124`
-- `#1a73e8`
-- `#ffffff`
-- `#e8eaed`
-- `#3c4043`
-- `#dadce0`
-- `#e3e3e3`
-- `#80868b`
-- `#5f6368`
-- `#e1e3e1`
-- `#4285f4`
-- `#9aa0a6`
-- `#1e8e3e`
-
-## Typography captured from artsandculture.google.com
-
-- **Google Sans** — weight 400 · size 14px
-- **Google Sans 18 Pt** — weight 400 · size 24px
-- **Roboto** — weight 400 · size 13px
-- **Google Sans Mono** — weight 400 · size 20px
-- **Google Sans Flex 18 Pt** — weight 700 · size 70px
+This guide covers the light home, explore, recommended, weekly highlights, and Art Remix views supplied in the packet. It does not include unseen dark-mode behavior, mobile-only navigation patterns, motion rules, account flows, or alternate locale layouts. Type and spacing values follow the packet’s rounded relative-unit scale.

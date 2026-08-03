@@ -547,7 +547,7 @@ artificialanalysis.ai presents a predominantly light surface treatment in the ca
 
 [![How artsandculture.google.com is designed](https://pin.fontofweb.com/7274?format=jpg)](design-md/artsandculture.google.com.md)
 
-artsandculture.google.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#202124`, and `#1a73e8`, with typography led by **Google Sans**, **Google Sans 18 Pt**, **Roboto**, **Google Sans Mono**, and **Google Sans Flex 18 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
+Google Arts & Culture uses a restrained, gallery-like interface that keeps the artwork, collection tiles, and editorial headings in front of the chrome. The page is almost always built on a white canvas with thin dark or gray rules, compact navigation text, and blue links or actions. The result feels like a museum index rather than a product dashboard: quiet around the edges, image-forward in the middle, and highly legible at a glance.
 
 [Open guide](design-md/artsandculture.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/artsandculture.google.com-design)
 
