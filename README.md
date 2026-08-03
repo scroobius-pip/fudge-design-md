@@ -411,7 +411,7 @@ FLORA reads as a dark creative workspace rather than a conventional app shell. T
 
 [![How app.fourmula.ai is designed](https://pin.fontofweb.com/8677?format=jpg)](design-md/app.fourmula.ai.md)
 
-app.fourmula.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#111111`, with typography led by **Sf Pro**. The guide below names reusable design roles only where the captured evidence supports them.
+Formula AI uses a dark, controlled studio language rather than a bright marketing system. The page surface is almost entirely black and charcoal, with white type, muted gray support text, and one hot orange action color that carries the whole interface. The start screen centers a short promise over a dense grid of figure tiles, while the create-asset workspace turns the same visual language into a split production layout with a left staging column and a larger right adjustment column.
 
 [Open guide](design-md/app.fourmula.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.fourmula.ai-design)
 
