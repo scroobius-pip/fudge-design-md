@@ -222,24 +222,3 @@ On smaller screens, preserve the narrative order: message, action, product image
 ## Scope note
 
 This guide covers Grey's desktop homepage: the hero, product sections, dark account section, testimonial, and footer. Type and spacing values use relative units rounded to a consistent `0.125rem` step. Mobile layouts, breakpoint values, exact container widths, interaction states, motion, the complete fallback font stack, and font licensing are not included.
-
-## Colors
-
-- `#2467e3`
-- `#1a1a1a`
-- `#363f52`
-- `#ffffff`
-- `#1b1f28`
-- `#010307`
-- `#ffffff`
-- `#d1d6e1`
-- `#f0f8e5`
-- `#fff2e7`
-- `#5e19b3`
-- `#ebecf0`
-- `#c2c7cf`
-- `#939aaa`
-
-## Typography used on grey.co
-
-- **Aeonik** — weight 500 · size 14px
