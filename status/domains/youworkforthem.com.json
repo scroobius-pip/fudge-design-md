@@ -1,19 +1,233 @@
 {
   "schemaVersion": 1,
   "domain": "youworkforthem.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:24.364Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T14:41:24.694Z",
+  "agent": {
+    "engine": "human-approved",
+    "model": null,
+    "thinking": null
+  },
+  "history": [
+    {
+      "at": "2026-08-03T14:22:08.974Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T14:22:15.606Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T14:25:34.061Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:26:22.775Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T14:26:22.786Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T14:27:54.414Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T14:28:17.918Z",
+      "attempt": 1,
+      "from": "failed",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:29:19.571Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T14:29:19.581Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T14:30:48.366Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T14:31:59.973Z",
+      "attempt": 1,
+      "from": "failed",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:33:28.069Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T14:33:28.085Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:33:28.096Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T14:33:31.997Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T14:33:32.010Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T14:34:09.299Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T14:34:09.313Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-03T14:37:17.688Z",
+      "attempt": 1,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:37:17.710Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:37:59.411Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T14:38:03.307Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T14:38:03.317Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T14:38:28.985Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T14:38:29.000Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-03T14:41:17.326Z",
+      "attempt": 1,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:41:17.349Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:41:22.545Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T14:41:24.694Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 110,
+      "total": 110,
+      "failures": []
+    },
+    "approval": "human-approved",
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/youworkforthem.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/youworkforthem.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/youworkforthem.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/7437?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T14-22-10-033Z-a1",
+    "imageCount": 5,
+    "guideSha256": "5029fac40e41201acf67dc4c66012987d90a0d21559f39cf4e456412920c4b58"
+  },
   "publication": {
-    "key": "youworkforthem.com-design"
+    "key": "youworkforthem.com-design",
+    "url": "https://design.withfudge.com/share/youworkforthem.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/youworkforthem.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/youworkforthem.com.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.3055555555555556,
+    "maximumResidual": 1,
+    "valuesConsidered": 18
   }
 }

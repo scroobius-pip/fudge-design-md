@@ -3,7 +3,7 @@
   "domain": "grey.co",
   "state": "published_verified",
   "attempt": 1,
-  "updatedAt": "2026-08-03T14:09:06.877Z",
+  "updatedAt": "2026-08-03T14:37:51.869Z",
   "agent": {
     "engine": "human-approved",
     "model": null,
@@ -90,6 +90,48 @@
     },
     {
       "at": "2026-08-03T14:09:06.877Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-03T14:37:10.797Z",
+      "attempt": 1,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:37:10.820Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:37:22.806Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T14:37:26.974Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T14:37:26.986Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T14:37:51.854Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T14:37:51.869Z",
       "attempt": 1,
       "from": "verifying",
       "to": "published_verified"
