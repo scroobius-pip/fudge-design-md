@@ -38,66 +38,103 @@ Last updated: 2026-08-03
 
 [Etched](https://design.withfudge.com/share/pin-9866)
 
-## Design character
-
-etched.com has a predominantly light surface treatment across 8 captured pages. The strongest recurring signals are 3 captured type families, 5 recurring colors, and 246 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **8 pages** and 8 representative page references. It records 155 color rows, 105 typography rows, 233 spacing rows, 13 border rows, 0 gradient rows, and 0 shadow rows.
+etched.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#ededed`, and `#ffffff`, with typography led by **Söhne**, **Söhne Mono**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 224412 |
-| `#ededed` | background-color · unknown | 51171 |
-| `#ffffff` | background-color · unknown | 308 |
-| `#e5e5e5` | background-color · main | 139 |
-| `#979797` | color · main | 48 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#ededed` | surface on page content |
+| color.surface | `#ffffff` | surface on page content |
+| color.surface | `#e5e5e5` | surface on page content in the main |
+| color.text | `#979797` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Söhne** | 16px | 400 | 24px | normal | <html>, <div>, <body>, <section> in the main, <div> in the main, <main> in the main, <img> in the main, <img>, <form>, <svg> in the button, <button> in the button, <footer> in the footer, <div> in the footer, <img> in the footer, <a> in the main, and <article> in the main |
+| type.body-22px | **Söhne** | 22px | 400 | 33px | normal | <div> in the main and <img> in the main |
+| type.body-18px | **Söhne** | 18px | 400 | 28.8px | normal | <p> in the main |
+| type.body-14px | **Söhne Mono** | 14px | 400 | 18.48px | -0.28px | <p> in the main and <div> in the main |
+| type.display-96px | **Söhne** | 96px | 400 | 96px | normal | <h1> in the main and <span> in the main |
+| type.display-48px | **Söhne** | 48px | 400 | 48px | -1.92px | <h1> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-28px | **Söhne** | 28px | 400 | 28px | -1.12px | <h2> in the main and <span> in the main |
+| type.display-68px | **Söhne** | 68px | 400 | 68px | -2.72px | <span> and <h2> |
+| type.body-20px | **Söhne** | 20px | 400 | 24px | -0.4px | <p> in the main |
+| type.body-14px | **Söhne** | 14px | 400 | 18.48px | normal | <p> in the main |
+| type.utility-12px | **Söhne Mono** | 12px | 400 | 10.2px | 0.24px | <button> in the button and <span> in the button |
+| type.display-72px | **Söhne** | 72px | 400 | 72px | -2.16px | <div> in the footer |
+| type.body-28px | **Söhne** | 28px | 400 | 28px | -0.84px | <span> in the main |
+| type.utility-12px | **Söhne Mono** | 12px | 400 | 16.8px | -0.24px | <p> and <div> in the footer |
+| type.body-18px | **Söhne** | 18px | 400 | 23.76px | normal | <p> in the main |
+| type.utility-12px | **Söhne** | 12px | 400 | 15.84px | -0.24px | <p> in the main |
+| type.heading-18px | **Söhne** | 18px | 600 | 28.8px | normal | <strong> in the main |
+| type.body-16px | **Söhne** | 16px | 400 | 19.2px | -0.32px | <input> |
+| type.body-18px | **Söhne** | 18px | 400 | 25.2px | -0.36px | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Söhne** | 16px · 400 · 24px | 214796 |
-| **Söhne Mono** | 12px · 400 · 10.2px | 462 |
-| **Applesystem** | 14px · 400 · normal | 228 |
+| `134.5px` | margin-right | page content |
+| `134.5px` | margin-left | page content |
+| `20px` | padding-left | page content |
+| `20px` | padding-right | page content |
+| `0px 134.5px` | margin | page content |
+| `0px 20px` | padding | page content |
+| `48px 0px 0px` | margin | page content |
+| `48px` | margin-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `134.5px` for margin-right, `134.5px` for margin-left, `20px` for padding-left, `20px` for padding-right, `0px 134.5px` for margin, and `0px 20px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px 0px 0px solid 0px`, `1px solid 0px`, `0px 0px 1px solid 0px`, `0px 1px 0px 0px solid 0px`, `0px 1px solid 0px`, and `1px solid 0px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px 0px 0px solid 0px` (5656), `1px solid 0px` (1046), `0px 0px 1px solid 0px` (515), `0px 1px 0px 0px solid 0px` (496), and `0px 1px solid 0px` (470). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly light surface treatment. Surface colors include `#ededed`, `#ffffff`, and `#e5e5e5`. Text colors include `#000000` and `#979797`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Söhne**, **Söhne Mono**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `134.5px`, `134.5px`, `20px`, `20px`, and `0px 134.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ededed`, `#ffffff`, and `#e5e5e5`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <body>, <section>, <main>, <h1>, <p>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated light surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

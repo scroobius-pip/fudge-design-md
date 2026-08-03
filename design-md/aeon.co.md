@@ -30,73 +30,110 @@ Last updated: 2026-08-03
 
 [What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6521)
 
-## Design character
-
-aeon.co has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 3 captured type families, 13 recurring colors, and 75 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **6 pages** and 6 representative page references. It records 180 color rows, 70 typography rows, 69 spacing rows, 5 border rows, 0 gradient rows, and 1 shadow rows.
+aeon.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#333333`, with typography led by **Atlas Grotesk**, **Acaca**, and **Atlas Typewriter**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · header | 7870 |
-| `#ffffff` | background-color · header | 726 |
-| `#333333` | color · unknown | 483 |
-| `#930b51` | background-color · main | 223 |
-| `#666666` | color · button | 39 |
-| `#035a6d` | color · header | 30 |
-| `#c16e15` | color · header | 30 |
-| `#999999` | color · main | 16 |
-| `#940b52` | color · header | 15 |
-| `#9d120d` | color · header | 15 |
-| `#ececec` | background-color · aside | 12 |
-| `#0c776d` | color · header | 7 |
+| color.text | `#000000` | text on page content in the header |
+| color.surface | `#ffffff` | surface on page content in the header |
+| color.text | `#333333` | text on page content |
+| color.surface | `#930b51` | surface on page content in the main |
+| color.text | `#666666` | text on page content in the button |
+| color.text | `#035a6d` | text on page content in the header |
+| color.text | `#c16e15` | text on page content in the header |
+| color.text | `#999999` | text on page content in the main |
+| color.text | `#940b52` | text on page content in the header |
+| color.text | `#9d120d` | text on page content in the header |
+| color.surface | `#ececec` | surface on page content in the aside |
+| color.text | `#0c776d` | text on page content in the header |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Atlas Grotesk** | 16px | 400 | 22.4px | normal | <div> in the header, <div> in the main, <div>, <button> in the button, <div> in the aside, and <span> in the button |
+| type.body-22px | **Acaca** | 22px | 400 | 30.8px | normal | <div> in the main, <p> in the main, and <span> in the main |
+| type.display-72px | **Acaca** | 72px | 600 | 72px | normal | <h2> in the main |
+| type.body-14px | **Atlas Grotesk** | 14px | 400 | 22.4px | normal | <div> in the footer, <p> in the footer, and <a> in the footer |
+| type.body-18px | **Atlas Grotesk** | 18px | 400 | 28px | normal | <p> in the main, <span> in the main, <button> in the button, <span>, <p>, and <div> |
+| type.heading-16px | **Atlas Grotesk** | 16px | 700 | 24px | normal | <strong> in the main and <div> in the aside |
+| type.display-42px | **Atlas Grotesk** | 42px | 600 | 50.4px | normal | <a> in the header |
+| type.body-16px | **Atlas Grotesk** | 16px | 400 | 19.2px | normal | <div> in the main |
+| type.body-16px | **Atlas Grotesk** | 16px | 400 | 24px | normal | <p> in the main, <div> in the main, <ul>, and <li> |
+| type.display-46px | **Acaca** | 46px | 700 | 48px | -1.15px | <span> and <p> |
+| type.body-16px | **Atlas Typewriter** | 16px | 400 | 22.4px | normal | <div> in the header |
+| type.body-20px | **Atlas Grotesk** | 20px | 400 | 28px | normal | <h1> in the main |
+| type.display-32px | **Atlas Grotesk** | 32px | 400 | 44.8px | normal | <a> in the header |
+| type.heading-30px | **Acaca** | 30px | 700 | 36px | normal | <p> in the main |
+| type.utility-12px | **Atlas Grotesk** | 12px | 400 | 16px | normal | <p> in the footer and <div> in the footer |
+| type.heading-28px | **Acaca** | 28px | 700 | 33.6px | normal | <p> in the main |
+| type.utility-12px | **Atlas Typewriter** | 12px | 400 | 16px | 1.2px | <button> in the button |
+| type.body-14px | **Atlas Grotesk** | 14px | 400 | 22.75px | normal | <a> in the nav |
+| type.utility-12px | **Atlas Grotesk** | 12px | 400 | 16.8px | normal | <p> in the main |
+| type.body-13.5px | **Atlas Typewriter** | 13.5px | 400 | 18.9px | normal | <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Atlas Grotesk** | 16px · 400 · 22.4px | 3365 |
-| **Acaca** | 72px · 600 · 72px | 715 |
-| **Atlas Typewriter** | 12px · 400 · 16px | 138 |
+| `60px 25px` | padding | page content |
+| `40px` | padding | page content |
+| `20px 0px` | margin | page content |
+| `10px 80px 0px` | padding | page content |
+| `0px 338px` | margin | page content |
+| `0px 308px` | margin | page content |
+| `44px 0px 24px` | margin | page content |
+| `0px 0px 10px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `60px 25px` for padding, `40px` for padding, `20px 0px` for margin, `10px 80px 0px` for padding, `0px 338px` for margin, and `0px 308px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 4px`, `0px none 1.67772e+07px`, and `2px solid 1.67772e+07px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 4px` (35), `0px none 1.67772e+07px` (10), and `2px solid 1.67772e+07px` (4). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#ffffff`, `#930b51`, and `#ececec`. Text colors include `#000000`, `#333333`, and `#666666`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Atlas Grotesk**, **Acaca**, and **Atlas Typewriter**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `60px 25px`, `40px`, `20px 0px`, `10px 80px 0px`, and `0px 338px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **unknown**, **footer**, and **aside**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ffffff`, `#930b51`, `#ececec`, and `#9d1d20`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <button>, <a>, <h2>, <h1>, <p>, <span>, and <strong> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

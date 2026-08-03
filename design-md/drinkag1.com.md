@@ -38,70 +38,108 @@ Last updated: 2026-08-03
 
 [AG1 | Get Started](https://design.withfudge.com/share/pin-6215)
 
-## Design character
-
-drinkag1.com has a mixed light and dark surface treatment across 15 captured pages. The strongest recurring signals are 2 captured type families, 10 recurring colors, and 172 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **15 pages** and 8 representative page references. It records 314 color rows, 131 typography rows, 148 spacing rows, 22 border rows, 2 gradient rows, and 0 shadow rows.
+drinkag1.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f6f5f1`, with typography led by **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** and **Ag Items**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 6858 |
-| `#ffffff` | color · main | 3800 |
-| `#f6f5f1` | background-color · unknown | 180 |
-| `#e6e9e7` | background-color · button | 170 |
-| `#0c3d3d` | color · main | 117 |
-| `#707170` | color · nav | 107 |
-| `#595959` | color · unknown | 30 |
-| `#46de46` | background-color · header | 9 |
-| `#3d3d3d` | color · button | 4 |
-| `#b2b3b2` | color · unknown | 1 |
+| color.text | `#000000` | text on page content in the main |
+| color.text | `#ffffff` | text on page content in the main |
+| color.surface | `#f6f5f1` | surface on page content |
+| color.surface | `#e6e9e7` | surface on page content in the button |
+| color.text | `#0c3d3d` | text on page content in the main |
+| color.text | `#707170` | text on page content in the nav |
+| color.text | `#595959` | text on page content |
+| color.surface | `#46de46` | surface on page content in the header |
+| color.text | `#3d3d3d` | text on page content in the button |
+| color.text | `#b2b3b2` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 16px | 400 | 25.6px | normal | <div> in the main, <button> in the button, <div> in the button, <div> in the nav, <li> in the nav, <span> in the nav, <a> in the nav, <div> in the footer, <ul> in the footer, <span> in the button, and <div> |
+| type.body-20px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 20px | 400 | 32px | normal | <div> in the header, <a> in the nav, <span> in the nav, <button> in the button, <span> in the button, and <a> in the header |
+| type.display-56px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 56px | 400 | 56px | -1.68px | <div> in the main, <h2> in the main, <p>, <h2>, and <div> |
+| type.body-18px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 18px | 400 | 28px | normal | <div> in the main, <div>, and <p> |
+| type.body-16px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 16px | 400 | 24px | normal | <div> in the main, <p> in the main, <span> in the button, <a> in the button, and <a> |
+| type.utility-12px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 12px | 400 | 18px | normal | <div> in the footer, <p> in the footer, and <li> in the footer |
+| type.heading-16px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 16px | 700 | 25.6px | normal | <div> in the button |
+| type.body-20px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 20px | 400 | 30px | normal | <a> in the header, <button> in the button, <p> in the button, <div> in the main, <a> in the main, <p> in the main, <p>, <a>, <div>, and <span> |
+| type.display-40px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 40px | 400 | 40px | -1.2px | <div> in the main and <h3> in the main |
+| type.heading-18px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 18px | 700 | 28px | normal | <h4> in the button and <div> |
+| type.heading-24px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 24px | 700 | 32px | normal | <h3> |
+| type.display-72px | **Ag Items** | 72px | 400 | 68.4px | normal | <div> in the main |
+| type.body-14px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 14px | 400 | 20px | normal | <div> |
+| type.display-44px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 44px | 400 | 44px | -1.68px | <div> |
+| type.body-24px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 24px | 400 | 32px | normal | <div> in the main |
+| type.heading-20px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 20px | 700 | 24px | normal | <p> |
+| type.body-18px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 18px | 400 | 24px | normal | <p> in the main, <a> in the main, and <button> in the button |
+| type.display-32px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 32px | 400 | 33.6px | -0.96px | <span> in the nav |
+| type.body-14px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 14px | 400 | 22px | normal | <div> in the footer, <a> in the footer, and <p> |
+| type.body-18px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 18px | 400 | 27px | normal | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 16px · 400 · 25.6px | 9154 |
-| **Ag Items** | 72px · 400 · 68.4px | 48 |
+| `0px 18px` | padding | page content |
+| `100px 0px` | padding | page content |
+| `30px 0px 66px` | padding | page content |
+| `-30px 0px -66px` | margin | page content |
+| `0px 120px` | padding | page content |
+| `0px 244px` | margin | page content |
+| `24px` | padding | page content |
+| `0px 16px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 18px` for padding, `100px 0px` for padding, `30px 0px 66px` for padding, `-30px 0px -66px` for margin, `0px 120px` for padding, and `0px 244px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 8px`, `0px none 32px`, `1px 0px 0px solid none none 0px`, `0px none 4px`, `1px solid 0px`, `0px none 6px`, `0px none 100px`, and `0px none 32px 0px 0px 32px` border treatments. Recorded gradients include `linear-gradient(rgba(0, 0, 0, 0.3)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 8px` (350), `0px none 32px` (86), `1px 0px 0px solid none none 0px` (63), `0px none 4px` (39), `1px solid 0px` (10), and `0px none 6px` (6). 2 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#f6f5f1`, `#e6e9e7`, and `#46de46`. Text colors include `#000000`, `#ffffff`, and `#0c3d3d`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** and **Ag Items**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 18px`, `100px 0px`, `30px 0px 66px`, `-30px 0px -66px`, and `0px 120px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **main**, **footer**, **header**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f6f5f1`, `#e6e9e7`, and `#46de46`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <button>, <a>, <h3>, <span>, <h2>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 15 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

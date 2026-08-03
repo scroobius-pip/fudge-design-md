@@ -14,65 +14,86 @@ Last updated: 2026-08-03
 
 [Clubhouse](https://design.withfudge.com/share/pin-7584)
 
-## Design character
-
-clubhouse.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 5 recurring colors, and 13 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 56 color rows, 16 typography rows, 9 spacing rows, 4 border rows, 0 gradient rows, and 0 shadow rows.
+clubhouse.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#242420`, and `#ffe450`, with typography led by **Nunito** and **Gt Maru**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 4541 |
-| `#242420` | color · main | 75 |
-| `#ffe450` | background-color · unknown | 11 |
-| `#1f2022` | color · header | 11 |
-| `#ffffff` | background-color · button | 4 |
+| color.text | `#000000` | text on page content in the main |
+| color.text | `#242420` | text on page content in the main |
+| color.surface | `#ffe450` | surface on page content |
+| color.text | `#1f2022` | text on page content in the header |
+| color.surface | `#ffffff` | surface on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Nunito** | 16px | 400 | normal | normal | <div> in the main, <div> in the header, <ul> in the header, and <div> |
+| type.display-72px | **Gt Maru** | 72px | 700 | 79.2px | -6.48px | <span> in the main and <div> in the main |
+| type.utility-12px | **Nunito** | 12px | 600 | normal | normal | <div> in the footer |
+| type.heading-16.96px | **Nunito** | 16.96px | 800 | normal | normal | <button> in the button |
+| type.heading-16px | **Nunito** | 16px | 800 | normal | normal | <li> in the header |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Nunito** | 16px · 400 · normal | 2257 |
-| **Gt Maru** | 72px · 700 · 79.2px | 60 |
+| `12px 24px` | margin | page content |
+| `42px 0px 0px` | margin | page content |
+| `8px 24px` | padding | page content |
+| `16px 24px` | padding | page content |
+| `0px 0px 0px 40px` | padding | page content |
+| `16px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `12px 24px` for margin, `42px 0px 0px` for margin, `8px 24px` for padding, `16px 24px` for padding, `0px 0px 0px 40px` for padding, and `16px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 50% 50% 0px 0px`, `0px none 9999px`, `2px solid 9999px`, and `2px solid 9999px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 50% 50% 0px 0px` (11), `2px solid 9999px` (8), and `0px none 9999px` (4). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#ffe450` and `#ffffff`. Text colors include `#000000`, `#242420`, and `#1f2022`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Nunito** and **Gt Maru**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `12px 24px`, `42px 0px 0px`, `8px 24px`, `16px 24px`, and `0px 0px 0px 40px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **button**, **header**, **footer**, and **unknown**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ffe450` and `#ffffff`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <span>, <button>, <ul>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

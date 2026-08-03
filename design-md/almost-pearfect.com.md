@@ -38,68 +38,93 @@ Last updated: 2026-08-03
 
 [PEARFECT — shop](https://design.withfudge.com/share/pin-8625)
 
-## Design character
-
-almost-pearfect.com has a mixed light and dark surface treatment across 11 captured pages. The strongest recurring signals are 4 captured type families, 6 recurring colors, and 5 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **11 pages** and 8 representative page references. It records 191 color rows, 39 typography rows, 3 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+almost-pearfect.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#282828`, `#000000`, and `#ffffff`, with typography led by **Applesystem**, **Trjn Da Vinci 70**, **Acumin Concept**, and **Helvetica Neue**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#282828` | color · main | 4799 |
-| `#000000` | background-color · main | 4566 |
-| `#ffffff` | color · main | 366 |
-| `#ff0000` | background-color · main | 182 |
-| `#0000ee` | color · main | 9 |
-| `#e60023` | background-color · unknown | 2 |
+| color.text | `#282828` | text on page content in the main |
+| color.surface | `#000000` | surface on page content in the main |
+| color.text | `#ffffff` | text on page content in the main |
+| color.surface | `#ff0000` | surface on page content in the main |
+| color.text | `#0000ee` | text on page content in the main |
+| color.surface | `#e60023` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Applesystem** | 16px | 400 | 16px | normal | <div> in the main |
+| type.utility-11px | **Acumin Concept** | 11px | 400 | 15px | normal | <p> in the main and <span> in the main |
+| type.display-49px | **Trjn Da Vinci 70** | 49px | 400 | 50px | normal | <p> in the main and <span> in the main |
+| type.body-18px | **Trjn Da Vinci 70** | 18px | 400 | 19px | normal | <p> in the main and <span> in the main |
+| type.display-33px | **Trjn Da Vinci 70** | 33px | 500 | 94px | -0.3px | <a> in the main and <span> in the main |
+| type.display-33px | **Trjn Da Vinci 70** | 33px | 500 | 94px | normal | <p> in the main |
+| type.display-55px | **Trjn Da Vinci 70** | 55px | 400 | 53px | normal | <p> in the main |
+| type.utility-12px | **Acumin Concept** | 12px | 400 | 15px | normal | <p> in the main and <span> in the main |
+| type.display-55px | **Trjn Da Vinci 70** | 55px | 400 | 53px | -0.3px | <span> in the main |
+| type.body-21px | **Trjn Da Vinci 70** | 21px | 500 | 24px | -0.3px | <span> in the main |
+| type.utility-12px | **Trjn Da Vinci 70** | 12px | 500 | 20px | normal | <p> in the main |
+| type.utility-8px | **Acumin Concept** | 8px | 400 | 11px | normal | <p> in the main |
+| type.utility-8px | **Acumin Concept** | 8px | 400 | 11px | -0.1px | <span> in the main and <a> in the main |
+| type.body-21px | **Trjn Da Vinci 70** | 21px | 500 | 24px | normal | <p> in the main |
+| type.utility-11px | **Helvetica Neue** | 11px | 700 | 20px | normal | <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Applesystem** | 16px · 400 · 16px | 3720 |
-| **Trjn Da Vinci 70** | 33px · 500 · 94px | 500 |
-| **Acumin Concept** | 8px · 400 · 11px | 280 |
-| **Helvetica Neue** | 11px · 700 · 20px | 2 |
+| `0px 0px 1px` | padding | page content |
+| `0px 8px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 0px 1px` for padding and `0px 8px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 10px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 10px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#000000`, `#ff0000`, and `#e60023`. Text colors include `#282828`, `#ffffff`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Applesystem**, **Acumin Concept**, **Trjn Da Vinci 70**, and **Helvetica Neue**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 0px 1px` and `0px 8px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **image**, and **unknown**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#000000`, `#ff0000`, and `#e60023`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <p>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 11 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

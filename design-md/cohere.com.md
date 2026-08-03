@@ -38,75 +38,105 @@ Last updated: 2026-08-03
 
 [Enterprise AI: Private, Secure, Customizable | Cohere](https://design.withfudge.com/share/pin-9946)
 
-## Design character
-
-cohere.com has a predominantly light surface treatment across 9 captured pages. The strongest recurring signals are 5 captured type families, 14 recurring colors, and 430 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **9 pages** and 8 representative page references. It records 272 color rows, 185 typography rows, 389 spacing rows, 32 border rows, 9 gradient rows, and 0 shadow rows.
+cohere.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#212121`, and `#ffffff`, with typography led by **By Christian Mengelt Team 77**, **Inter**, **Applesystem**, **Cohere**, and **Cohere Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 144225 |
-| `#212121` | color · main | 112514 |
-| `#ffffff` | background-color · unknown | 57480 |
-| `#17171c` | background-color · nav | 9656 |
-| `#f0eee9` | background-color · main | 9443 |
-| `#e5ebff` | background-color · main | 3699 |
-| `#2e2e2e` | background-color · main | 3655 |
-| `#9b60aa` | background-color · footer | 1692 |
-| `#e5e7eb` | border-color · main | 948 |
-| `#fafafa` | color · footer | 603 |
-| `#808080` | border-color · main | 344 |
-| `#93939f` | color · footer | 57 |
+| color.text | `#000000` | text on page content |
+| color.text | `#212121` | text on page content in the main |
+| color.surface | `#ffffff` | surface on page content |
+| color.surface | `#17171c` | surface on page content in the nav |
+| color.surface | `#f0eee9` | surface on page content in the main |
+| color.surface | `#e5ebff` | surface on page content in the main |
+| color.surface | `#2e2e2e` | surface on page content in the main |
+| color.surface | `#9b60aa` | surface on page content in the footer |
+| color.border | `#e5e7eb` | border on page content in the main |
+| color.text | `#fafafa` | text on page content in the footer |
+| color.border | `#808080` | border on page content in the main |
+| color.text | `#93939f` | text on page content in the footer |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **By Christian Mengelt Team 77** | 16px | 400 | 24px | normal | <section> in the main, <main> in the main, <div>, <body>, <div> in the main, <img> in the main, <nav> in the nav, <img> in the nav, <a> in the nav, <ul> in the nav, <li> in the nav, <div> in the nav, <li> in the main, <ul> in the main, <form> in the main, <button> in the button, <span> in the main, <div> in the footer, <section> in the footer, <footer> in the footer, <img> in the footer, <form> in the footer, <a> in the footer, <span> in the footer, <li> in the footer, <ul> in the footer, <span> in the button, <a> in the main, and <svg> in the main |
+| type.body-18px | **By Christian Mengelt Team 77** | 18px | 400 | 25.2px | normal | <p> in the main, <p> in the footer, <span> in the footer, <li> in the footer, and <span> in the main |
+| type.body-16px | **Inter** | 16px | 400 | 24px | normal | <html> |
+| type.display-48px | **By Christian Mengelt Team 77** | 48px | 400 | 57.6px | -0.48px | <h3> in the main and <h1> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-24px | **By Christian Mengelt Team 77** | 24px | 400 | 31.2px | normal | <h5> in the main, <h3> in the main, and <h5> in the button |
+| type.body-16px | **By Christian Mengelt Team 77** | 16px | 400 | 19.2px | normal | <input> in the main, <select> in the main, <textarea> in the main, and <label> in the main |
+| type.display-96px | **Cohere** | 96px | 400 | 96px | -1.92px | <h1> in the main |
+| type.body-14px | **By Christian Mengelt Team 77** | 14px | 400 | 19.6px | normal | <p> in the nav, <span> in the nav, <span> in the main, <div> in the main, <a> in the main, and <p> in the footer |
+| type.utility-12px | **By Christian Mengelt Team 77** | 12px | 400 | 16.8px | normal | <span> in the footer, <div> in the footer, <a> in the footer, <p> in the footer, and <p> in the button |
+| type.body-14px | **Cohere Mono** | 14px | 400 | 19.6px | 0.28px | <p> in the main |
+| type.display-72px | **Cohere** | 72px | 400 | 72px | -1.44px | <h1> in the main |
+| type.display-60px | **Cohere** | 60px | 400 | 60px | -1.2px | <h2> in the footer |
+| type.display-32px | **By Christian Mengelt Team 77** | 32px | 400 | 38.4px | -0.32px | <h4> in the main and <h2> in the main |
+| type.body-16px | **By Christian Mengelt Team 77** | 16px | 400 | 22.4px | normal | <p> in the main and <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **By Christian Mengelt Team 77** | 16px · 400 · 24px | 282317 |
-| **Inter** | 16px · 400 · 24px | 260 |
-| **Applesystem** | 14px · 400 · normal | 230 |
-| **Cohere** | 72px · 400 · 72px | 222 |
-| **Cohere Mono** | 14px · 400 · 19.6px | 59 |
+| `40px` | padding-left | page content |
+| `40px` | padding-right | page content |
+| `80px` | padding-bottom | page content |
+| `0px 28px` | margin | page content |
+| `28px` | margin-right | page content |
+| `28px` | margin-left | page content |
+| `0px 40px 80px` | padding | page content |
+| `160px` | padding-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `40px` for padding-left, `40px` for padding-right, `80px` for padding-bottom, `0px 28px` for margin, `28px` for margin-right, and `28px` for margin-left. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 22px`, `0px none 12px`, `0px none 22px 22px 0px 0px`, `1px solid 20px 20px 0px 0px`, `0px none 8px`, `1px solid 4px`, `1px 0px 0px solid 0px`, and `0px none 4px` border treatments. Recorded gradients include `linear-gradient(to right, rgb(255, 119, 89), rgb(118, 112, 197), rgb(76, 110, 230))`, `linear-gradient(to right, rgb(255, 119, 89), rgb(209, 142, 226))`, `linear-gradient(78deg, rgb(255, 119, 89) 0px, rgb(118, 112, 197) 60%, rgb(76, 110, 230) 90%)`, and `linear-gradient(to right, rgb(23, 23, 28), rgb(23, 23, 28))`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 22px` (5086), `0px none 12px` (3568), `0px none 22px 22px 0px 0px` (1424), `1px solid 20px 20px 0px 0px` (948), `0px none 8px` (688), and `1px solid 4px` (349). 9 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly light surface treatment. Surface colors include `#ffffff`, `#17171c`, and `#f0eee9`. Text colors include `#000000`, `#212121`, and `#fafafa`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **By Christian Mengelt Team 77**, **Inter**, **Applesystem**, **Cohere**, and **Cohere Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `40px`, `40px`, `80px`, `0px 28px`, and `28px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **nav**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ffffff`, `#17171c`, `#f0eee9`, and `#e5ebff`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <section>, <main>, <body>, <h5>, <p>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated light surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

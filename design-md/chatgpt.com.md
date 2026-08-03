@@ -38,74 +38,110 @@ Last updated: 2026-08-03
 
 [ChatGPT - Fudge](https://design.withfudge.com/share/pin-9538)
 
-## Design character
-
-chatgpt.com has a mixed light and dark surface treatment across 22 captured pages. The strongest recurring signals are 4 captured type families, 34 recurring colors, and 1106 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **22 pages** and 8 representative page references. It records 675 color rows, 331 typography rows, 978 spacing rows, 110 border rows, 0 gradient rows, and 18 shadow rows.
+chatgpt.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#0d0d0d`, with typography led by **Applesystembody**, **System**, **Open Ai Sans**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#ffffff` | color · unknown | 363595 |
-| `#000000` | color · unknown | 37182 |
-| `#0d0d0d` | color · button | 33712 |
-| `#f3f3f3` | background-color · main | 2261 |
-| `#212121` | background-color · button | 2086 |
-| `#fcfcfc` | background-color · unknown | 1275 |
-| `#303030` | background-color · aside | 767 |
-| `#ececec` | background-color · main | 755 |
-| `#afafaf` | color · button | 726 |
-| `#414141` | border-color · main | 664 |
-| `#181818` | background-color · main | 49 |
-| `#353535` | background-color · unknown | 46 |
+| color.text | `#ffffff` | text on page content |
+| color.text | `#000000` | text on page content |
+| color.text | `#0d0d0d` | text on page content in the button |
+| color.surface | `#f3f3f3` | surface on page content in the main |
+| color.surface | `#212121` | surface on page content in the button |
+| color.surface | `#fcfcfc` | surface on page content |
+| color.surface | `#303030` | surface on page content in the aside |
+| color.surface | `#ececec` | surface on page content in the main |
+| color.text | `#afafaf` | text on page content in the button |
+| color.border | `#414141` | border on page content in the main |
+| color.surface | `#181818` | surface on page content in the main |
+| color.surface | `#353535` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Applesystembody** | 16px | 400 | 24px | normal | <html>, <div> in the nav, <nav> in the nav, <div>, <body>, <div> in the main, <main> in the main, <article> in the main, <section> in the main, <button> in the button, <svg> in the button, <span> in the button, <div> in the button, <span> in the main, <form> in the main, <div> in the aside, <aside> in the aside, <p> in the aside, <form> in the aside, <input> in the aside, <svg>, <span>, <li> in the nav, <ul> in the nav, <section>, <a>, <li>, <ul>, <ol> in the main, and <p> in the main |
+| type.body-14px | **Applesystembody** | 14px | 400 | 20px | normal | <a> in the nav, <button> in the button, <div> in the button, <section> in the main, <div> in the main, <span> in the main, <div> in the nav, <span>, <img>, <span> in the nav, <div>, <p>, <a> in the main, <li> in the main, and <span> in the button |
+| type.body-14px | **System** | 14px | 400 | 24.0001px | normal | <div> in the main and <span> in the main |
+| type.body-16px | **Applesystembody** | 16px | 400 | 26px | normal | <p> in the main, <div> in the main, <button> in the button, <span> in the button, and <span> in the main |
+| type.body-16px | **System** | 16px | 400 | 24px | normal | <div>, <button> in the button, <div> in the footer, <span> in the footer, <p> in the footer, <div> in the header, <div> in the main, <p> in the main, and <span> in the button |
+| type.body-16px | **Open Ai Sans** | 16px | 400 | 24px | normal | <div> and <p> |
+| type.body-14px | **System** | 14px | 400 | 20px | normal | <code> in the main, <a>, <button> in the button, <div> in the button, <div> in the main, <span> in the main, <span> in the aside, and <div> in the aside |
+| type.utility-12px | **Applesystembody** | 12px | 400 | 16px | normal | <div> in the main, <img>, <div>, <a>, and <button> in the button |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.heading-24px | **Applesystembody** | 24px | 600 | 36px | normal | <div> in the main |
+| type.utility-12.25px | **System** | 12.25px | 400 | 20px | normal | <span> in the main and <code> in the main |
+| type.body-14px | **Applesystembody** | 14px | 500 | 20px | normal | <button> in the button, <svg> in the button, <div> in the button, and <div> in the main |
+| type.body-14px | **Applesystembody** | 14px | 400 | 21px | normal | <div>, <svg> in the button, <span> in the button, and <button> in the button |
+| type.body-16.8px | **Applesystembody** | 16.8px | 500 | 25.2px | normal | <span> and <div> |
+| type.heading-16px | **Applesystembody** | 16px | 600 | 28px | normal | <p> in the main and <h2> in the main |
+| type.utility-12px | **Applesystembody** | 12px | 400 | 16.5px | normal | <div> and <a> |
+| type.body-14px | **Open Ai Sans** | 14px | 400 | 22.96px | -0.14px | <p>, <div>, and <a> |
+| type.body-14px | **Applesystembody** | 14px | 400 | 24.0001px | normal | <div> in the main, <button> in the button, <span> in the main, and <div> |
+| type.body-16px | **Applesystembody** | 16px | 500 | 24px | normal | <button> in the button and <div> in the button |
+| type.display-64px | **Open Ai Sans** | 64px | 500 | 64px | -1.92px | <h1> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Applesystembody** | 16px · 400 · 24px | 385245 |
-| **System** | 14px · 400 · 20px | 11129 |
-| **Open Ai Sans** | 16px · 400 · 24px | 983 |
-| **Applesystem** | 14px · 400 · normal | 169 |
+| `64px` | padding-right | page content |
+| `64px` | padding-left | page content |
+| `16px` | row-gap | page content |
+| `16px` | gap | page content |
+| `16px` | column-gap | page content |
+| `0px 0px 28px` | padding | page content |
+| `28px` | padding-bottom | page content |
+| `0px 0px -28px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `64px` for padding-right, `64px` for padding-left, `16px` for row-gap, `16px` for gap, `16px` for column-gap, and `0px 0px 28px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px 1px 0px 0px solid 0px`, `0px 0px 0px 1px solid 0px`, `0px none 16px`, `0px none 22px 8px 22px 22px`, `0px 0px 0px 1px solid 0px`, `0px none 24px`, `1px solid 24px`, and `0px 0px 1px solid 0px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.32) 0px 8px 16px 0px, rgba(255, 255, 255, 0.2) 0px 0px 1px 0px inset, rgba(0, 0, 0, 0.62) 0px 0px 1px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.06) 0px 3px 6px 0px, rgba(255, 255, 255, 0.2) 0px 0px 1px 0px inset`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.2) 0px 0px 1px 0px inset`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(0 0 0 / 0.03) 0px 0px 15px 0px rgb(255,255,255)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(255,255,255)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 4px 4px 0px, rgba(0, 0, 0, 0.05) 0px 4px 80px 0px, rgba(255, 255, 255, 0.2) 0px 0px 1px 0px inset`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.2) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px 1px 0px 0px solid 0px` (1647), `0px 0px 0px 1px solid 0px` (1560), `0px none 16px` (760), `0px none 22px 8px 22px 22px` (734), `0px 0px 1px solid 0px` (701), and `0px none 24px` (684). 0 gradient rows and 18 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#f3f3f3`, `#212121`, and `#fcfcfc`. Text colors include `#ffffff`, `#000000`, and `#0d0d0d`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Applesystembody**, **System**, **Open Ai Sans**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `64px`, `64px`, `16px`, `16px`, and `16px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **aside**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f3f3f3`, `#212121`, `#fcfcfc`, and `#303030`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <nav>, <body>, <a>, <button>, <main>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 22 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

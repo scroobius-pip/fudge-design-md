@@ -38,63 +38,80 @@ Last updated: 2026-08-03
 
 [GAÏO - Restaurant, Cabaret et Club](https://design.withfudge.com/share/pin-4550)
 
-## Design character
-
-gaio.club has a predominantly dark surface treatment across 10 captured pages. The strongest recurring signals are 2 captured type families, 3 recurring colors, and 13 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **10 pages** and 8 representative page references. It records 105 color rows, 17 typography rows, 13 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+gaio.club presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fff2da`, and `#ffffff`, with typography led by **Saans** and **Bethany Elingston**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · main | 1314 |
-| `#fff2da` | color · main | 1185 |
-| `#ffffff` | color · header | 129 |
+| color.surface | `#000000` | surface on page content in the main |
+| color.text | `#fff2da` | text on page content in the main |
+| color.text | `#ffffff` | text on page content in the header |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-14px | **Saans** | 14px | 400 | 16.8px | 0.56px | <div> in the main, <span> in the header, <span> in the main, and <div> in the header |
+| type.display-96px | **Bethany Elingston** | 96px | 400 | 115.2px | 2.88px | <span> in the main |
+| type.body-18px | **Saans** | 18px | 400 | 21.6px | 0.72px | <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Saans** | 14px · 400 · 16.8px | 885 |
-| **Bethany Elingston** | 96px · 400 · 115.2px | 429 |
+| `7px 0px 0px` | padding | page content |
+| `6px` | padding | page content |
+| `8px 0px` | padding | page content |
+| `0px 0px 26px 26px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `7px 0px 0px` for padding, `6px` for padding, `8px 0px` for padding, and `0px 0px 26px 26px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+No structured border, gradient, or shadow treatment was returned.
 
-### Shape, borders, and depth
+## Colors
 
-No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`. Text colors include `#fff2da` and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Saans** and **Bethany Elingston**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `7px 0px 0px`, `6px`, `8px 0px`, and `0px 0px 26px 26px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div> and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 10 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

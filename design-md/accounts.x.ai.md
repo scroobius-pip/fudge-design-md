@@ -34,70 +34,100 @@ Last updated: 2026-08-03
 
 [Your xAI API Account | xAI Single-Sign On](https://design.withfudge.com/share/pin-4138)
 
-## Design character
-
-accounts.x.ai has a predominantly dark surface treatment across 7 captured pages. The strongest recurring signals are 3 captured type families, 9 recurring colors, and 248 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **7 pages** and 7 representative page references. It records 134 color rows, 69 typography rows, 225 spacing rows, 16 border rows, 6 gradient rows, and 1 shadow rows.
+accounts.x.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#1a1a1a`, and `#000000`, with typography led by **Inter**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#ffffff` | color · unknown | 99132 |
-| `#1a1a1a` | background-color · unknown | 12699 |
-| `#000000` | color · unknown | 6302 |
-| `#0d0d0d` | background-color · unknown | 4028 |
-| `#141414` | background-color · main | 1035 |
-| `#303030` | border-color · main | 982 |
-| `#fafafa` | color · nav | 145 |
-| `#acaaaa` | color · nav | 129 |
-| `#f07a82` | color · unknown | 11 |
+| color.text | `#ffffff` | text on page content |
+| color.surface | `#1a1a1a` | surface on page content |
+| color.text | `#000000` | text on page content |
+| color.surface | `#0d0d0d` | surface on page content |
+| color.surface | `#141414` | surface on page content in the main |
+| color.border | `#303030` | border on page content in the main |
+| color.text | `#fafafa` | text on page content in the nav |
+| color.text | `#acaaaa` | text on page content in the nav |
+| color.text | `#f07a82` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Inter** | 16px | 400 | 24px | normal | <html>, <header> in the header, <div>, <body>, <aside> in the aside, <div> in the aside, <nav> in the nav, <button> in the button, <main> in the main, <div> in the main, <div> in the header, <img> in the main, <span> in the main, <img> in the button, <span> in the button, <svg>, <a>, <span>, and <form> |
+| type.body-14px | **Inter** | 14px | 400 | 20px | normal | <svg> in the button, <span> in the button, <a> in the button, <p> in the main, <div> in the main, <span> in the main, <button> in the button, <a> in the main, <span>, and <p> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-14px | **Inter** | 14px | 500 | 20px | normal | <button> in the button and <span> |
+| type.body-30px | **Inter** | 30px | 500 | 36px | -0.75px | <span> in the aside and <h1> in the aside |
+| type.body-20px | **Inter** | 20px | 500 | 28px | normal | <a> in the nav |
+| type.utility-13px | **Inter** | 13px | 400 | 19.5px | normal | <p> |
+| type.utility-12px | **Inter** | 12px | 400 | 18px | normal | <p> |
+| type.utility-12px | **Inter** | 12px | 400 | 16px | normal | <span> in the main and <p> |
+| type.body-24px | **Inter** | 24px | 400 | 32px | -0.6px | <h1> |
+| type.body-14px | **System** | 14px | 400 | 20px | 1.4px | <input> |
+| type.body-16px | **Inter** | 16px | 500 | 24px | normal | <p> in the main |
+| type.utility-12px | **Inter** | 12px | 600 | 18px | normal | <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Inter** | 16px · 400 · 24px | 98638 |
-| **Applesystem** | 14px · 400 · normal | 95 |
-| **System** | 14px · 400 · 20px | 11 |
+| `16px` | padding-top | page content |
+| `16px` | padding-bottom | page content |
+| `20px` | padding-right | page content |
+| `20px` | padding-left | page content |
+| `16px 20px` | padding | page content |
+| `48px 0px 0px` | padding | page content |
+| `48px` | padding-top | page content |
+| `24px` | gap | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px` for padding-top, `16px` for padding-bottom, `20px` for padding-right, `20px` for padding-left, `16px 20px` for padding, and `48px 0px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 16px`, `0px none 12px`, `0px 0px 1px solid 0px`, `0px 0px 0px 2px solid 0px`, `1px solid 3.35544e+07px`, `0px none 3.35544e+07px`, `1px solid 0px`, and `1px solid 3.35544e+07px` border treatments. Recorded gradients include `conic-gradient(from 180deg at 99% 40% in lab, rgb(255, 255, 255) 18deg, rgb(156, 184, 221) 36deg, rgba(17, 17, 17, 0) 90deg, rgba(17, 17, 17, 0) 342deg, rgb(255, 255, 255) 360deg)` and `conic-gradient(at 99% 60% in lab, rgb(255, 255, 255) 0deg, rgba(17, 17, 17, 0) 18deg, rgba(17, 17, 17, 0) 270deg, rgb(156, 184, 221) 324deg, rgb(255, 255, 255) 342deg)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(255,255,255)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 16px` (721), `0px none 12px` (280), `0px 0px 1px solid 0px` (249), `0px 0px 0px 2px solid 0px` (213), `1px solid 3.35544e+07px` (48), and `0px none 3.35544e+07px` (13). 6 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#1a1a1a`, `#0d0d0d`, and `#141414`. Text colors include `#ffffff`, `#000000`, and `#fafafa`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Inter**, **Applesystem**, and **System**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px`, `16px`, `20px`, `20px`, and `16px 20px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **main**, **aside**, **header**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#1a1a1a`, `#0d0d0d`, and `#141414`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <header>, <body>, <aside>, <a>, <nav>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

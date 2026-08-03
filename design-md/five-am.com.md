@@ -14,61 +14,84 @@ Last updated: 2026-08-03
 
 [Design & Technology | 5AM](https://design.withfudge.com/share/pin-8237)
 
-## Design character
-
-five-am.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 2 recurring colors, and 12 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 43 color rows, 14 typography rows, 8 spacing rows, 4 border rows, 0 gradient rows, and 0 shadow rows.
+five-am.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000` and `#ffffff`, with typography led by **Satoshi**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 3128 |
-| `#ffffff` | color · main | 8 |
+| color.text | `#000000` | text on page content in the main |
+| color.text | `#ffffff` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-14px | **Satoshi** | 14px | 400 | 18.2px | normal | <button> in the button |
+| type.body-14px | **Satoshi** | 14px | 400 | 18.2px | -0.3px | <div> in the main, <p> in the main, <a> in the main, <a> in the nav, <span> in the nav, and <div> in the header |
+| type.display-80px | **Satoshi** | 80px | 400 | 72px | -5px | <h1> in the main |
+| type.body-18px | **Satoshi** | 18px | 400 | 22.5px | -0.3px | <div> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Satoshi** | 14px · 400 · 18.2px | 1567 |
+| `0px 0px 4px` | padding | page content |
+| `2px 8px` | padding | page content |
+| `0px 2.5px` | padding | page content |
+| `2px 0px` | margin | page content |
+| `28px 16px 0px` | padding | page content |
+| `8px 0px 0px` | margin | page content |
+| `0px 0px 0px 8px` | margin | page content |
+| `2px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 0px 4px` for padding, `2px 8px` for padding, `0px 2.5px` for padding, `2px 0px` for margin, `28px 16px 0px` for padding, and `8px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 9999px` and `1px solid 9999px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 9999px` (5) and `1px solid 9999px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface roles are not fully established. Text colors include `#000000` and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Satoshi**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 0px 4px`, `2px 8px`, `0px 2.5px`, `2px 0px`, and `28px 16px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **button**, **main**, **nav**, **image**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. The surface palette is not fully established. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <a>, <h1>, <button>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

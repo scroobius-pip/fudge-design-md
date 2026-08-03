@@ -38,73 +38,107 @@ Last updated: 2026-08-03
 
 [Gemini 3.1 Pro - Model Card — Google DeepMind](https://design.withfudge.com/share/pin-6854)
 
-## Design character
-
-deepmind.google has a predominantly dark surface treatment across 25 captured pages. The strongest recurring signals are 5 captured type families, 10 recurring colors, and 207 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **25 pages** and 8 representative page references. It records 401 color rows, 128 typography rows, 169 spacing rows, 36 border rows, 1 gradient rows, and 1 shadow rows.
+deepmind.google presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f8f9fc`, `#121317`, and `#000000`, with typography led by **Google Sans Flex**, **Times**, **Applesystem**, **Google Symbols**, and **Google Symbols Rounded 48 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#f8f9fc` | color · unknown | 34148 |
-| `#121317` | background-color · unknown | 10098 |
-| `#000000` | color · unknown | 6411 |
-| `#212226` | background-color · main | 3837 |
-| `#b2bbc5` | color · main | 3713 |
-| `#0000ee` | color · main | 939 |
-| `#18191d` | background-color · main | 104 |
-| `#f9f9fb` | color · footer | 67 |
-| `#e6eaf0` | color · button | 58 |
-| `#101218` | background-color · footer | 29 |
+| color.text | `#f8f9fc` | text on page content |
+| color.surface | `#121317` | surface on page content |
+| color.text | `#000000` | text on page content |
+| color.surface | `#212226` | surface on page content in the main |
+| color.text | `#b2bbc5` | text on page content in the main |
+| color.text | `#0000ee` | text on page content in the main |
+| color.surface | `#18191d` | surface on page content in the main |
+| color.text | `#f9f9fb` | text on page content in the footer |
+| color.text | `#e6eaf0` | text on page content in the button |
+| color.surface | `#101218` | surface on page content in the footer |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-17.5px | **Google Sans Flex** | 17.5px | 400 | 25.375px | 0.2079px | <body>, <div> in the main, <section> in the main, <main> in the main, <article> in the main, <button> in the button, <li> in the nav, <ul> in the nav, <div> in the nav, <footer> in the footer, <div> in the footer, <form> in the footer, <input> in the footer, <label> in the footer, <svg> in the footer, <a> in the footer, <p> in the main, <a> in the main, <div> in the header, and <a> in the header |
+| type.body-14.5px | **Google Sans Flex** | 14.5px | 400 | 21.025px | 0.165735px | <div> in the main, <span> in the footer, and <div> in the footer |
+| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
+| type.body-17.5px | **Google Sans Flex** | 17.5px | 450 | 25.375px | 0.2079px | <a> in the footer, <div> in the footer, and <span> in the footer |
+| type.body-17.5px | **Google Sans Flex** | 17.5px | 450 | 24px | 0.2079px | <a> in the nav, <a> in the main, <button> in the button, and <div> in the main |
+| type.display-42px | **Google Sans Flex** | 42px | 450 | 43.68px | -0.97986px | <h1> in the main and <h2> in the main |
+| type.display-32px | **Google Sans Flex** | 32px | 500 | 33.92px | -0.544px | <h3> in the main, <h4> in the main, and <span> in the footer |
+| type.body-20px | **Google Sans Flex** | 20px | 500 | 29px | -0.0888px | <span> in the footer, <div> in the footer, and <h3> in the main |
+| type.body-14.5px | **Google Sans Flex** | 14.5px | 450 | 21.025px | 0.2079px | <div> in the footer |
+| type.body-28px | **Google Sans Flex** | 28px | 500 | 30.24px | -0.19824px | <h3> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.display-120px | **Google Symbols** | 120px | 300 | 120px | 0.2079px | <span> in the main |
+| type.body-14.5px | **Google Sans Flex** | 14.5px | 450 | 18.125px | 0.17226px | <button> in the button and <a> in the header |
+| type.body-14.5px | **Google Sans Flex** | 14.5px | 500 | 21.025px | 0.132965px | <a> in the nav |
+| type.heading-14.5px | **Google Sans Flex** | 14.5px | 700 | 21.025px | 0.165735px | <strong> in the main |
+| type.body-18px | **Google Symbols Rounded 48 Pt** | 18px | 300 | 18px | 0.2079px | <span> in the footer |
+| type.body-24px | **Google Symbols** | 24px | 300 | 24px | 0.2079px | <svg> in the button and <span> in the button |
+| type.body-18px | **Google Symbols** | 18px | 300 | 18px | 0.2079px | <span> in the footer |
+| type.body-14.5px | **Google Sans Flex** | 14.5px | 400 | 21.025px | 0.2079px | <div> in the header |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Google Sans Flex** | 17.5px · 400 · 25.375px | 38859 |
-| **Times** | 16px · 400 · normal | 1296 |
-| **Applesystem** | 14px · 400 · normal | 53 |
-| **Google Symbols** | 24px · 300 · 24px | 52 |
-| **Google Symbols Rounded 48 Pt** | 18px · 300 · 18px | 9 |
+| `72px` | padding-right | page content |
+| `72px` | padding-left | page content |
+| `64px` | column-gap | page content |
+| `72px` | padding-top | page content |
+| `308px` | margin-right | page content |
+| `308px` | margin-left | page content |
+| `64px` | gap | page content |
+| `64px` | row-gap | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `72px` for padding-right, `72px` for padding-left, `64px` for column-gap, `72px` for padding-top, `308px` for margin-right, and `308px` for margin-left. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 16px`, `0px none 9999px`, `0px none 4px`, `2px solid 9999px`, `1px solid 8px`, and `0px none 50%` border treatments. Recorded gradients include `linear-gradient(45deg, rgb(49, 134, 255) 0%, rgb(50, 121, 249) 49.75%, rgb(60, 144, 255) 100%)`. Recorded shadows include `rgba(230, 234, 240, 0.12) 0px 0px 0px 1px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 16px` (2209), `0px none 9999px` (179), `0px none 4px` (155), `2px solid 9999px` (153), `1px solid 8px` (29), and `0px none 50%` (2). 1 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#121317`, `#212226`, and `#18191d`. Text colors include `#f8f9fc`, `#000000`, and `#b2bbc5`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Google Sans Flex**, **Times**, **Applesystem**, **Google Symbols**, and **Google Symbols Rounded 48 Pt**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `72px`, `72px`, `64px`, `72px`, and `308px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **footer**, **unknown**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#121317`, `#212226`, `#18191d`, and `#101218`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <body>, <section>, <main>, <html>, <article>, <svg>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 25 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

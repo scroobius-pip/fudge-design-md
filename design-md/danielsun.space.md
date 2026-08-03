@@ -38,73 +38,102 @@ Last updated: 2026-08-03
 
 [Daniel Sun | Top-tier Web and Brand Design partner for SaaS and Web3](https://design.withfudge.com/share/pin-7967)
 
-## Design character
-
-danielsun.space has a mixed light and dark surface treatment across 10 captured pages. The strongest recurring signals are 5 captured type families, 10 recurring colors, and 57 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **10 pages** and 8 representative page references. It records 190 color rows, 43 typography rows, 35 spacing rows, 13 border rows, 6 gradient rows, and 3 shadow rows.
+danielsun.space presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f5`, and `#767676`, with typography led by **System**, **Inter**, **Reddit Sans Condensed**, **Caveat**, and **Inter Tight**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 13988 |
-| `#f5f5f5` | background-color · unknown | 1666 |
-| `#767676` | color · unknown | 208 |
-| `#ffffff` | color · unknown | 183 |
-| `#0000ee` | color · unknown | 167 |
-| `#f2f2f2` | background-color · unknown | 73 |
-| `#cfcfcf` | box-shadow · unknown | 18 |
-| `#b8b8b8` | box-shadow · unknown | 18 |
-| `#ffd500` | background-color · unknown | 17 |
-| `#1f1f1f` | background-color · unknown | 2 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#f5f5f5` | surface on page content |
+| color.text | `#767676` | text on page content |
+| color.text | `#ffffff` | text on page content |
+| color.text | `#0000ee` | text on page content |
+| color.surface | `#f2f2f2` | surface on page content |
+| color.shadow | `#cfcfcf` | shadow on page content |
+| color.shadow | `#b8b8b8` | shadow on page content |
+| color.surface | `#ffd500` | surface on page content |
+| color.surface | `#1f1f1f` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **System** | 12px | 400 | normal | normal | <div> and <a> |
+| type.body-24px | **Inter** | 24px | 500 | 36px | normal | <h1> |
+| type.display-104px | **Reddit Sans Condensed** | 104px | 900 | 99.84px | -3px | <p> and <span> |
+| type.body-24px | **Inter** | 24px | 500 | 32.4px | normal | <p> |
+| type.body-22px | **Inter** | 22px | 500 | 29.7px | normal | <p> |
+| type.display-72px | **Reddit Sans Condensed** | 72px | 900 | 79.2px | -2.16px | <p> |
+| type.display-32px | **Caveat** | 32px | 700 | 30.72px | -1px | <p> |
+| type.body-20px | **Inter** | 20px | 500 | 27px | normal | <p> |
+| type.body-29.629px | **Inter** | 29.629px | 500 | 35.5548px | normal | <p> |
+| type.body-20px | **Inter** | 20px | 500 | 24px | normal | <p> |
+| type.body-18px | **Inter Tight** | 18px | 500 | 21.6px | 0.1px | <p> |
+| type.body-26px | **Inter** | 26px | 500 | 20px | normal | <p> |
+| type.body-20px | **Inter** | 20px | 500 | 22px | normal | <p> |
+| type.display-32px | **Inter** | 32px | 500 | 32px | -1px | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 12px · 400 · normal | 7282 |
-| **Inter** | 29.629px · 500 · 35.5548px | 502 |
-| **Reddit Sans Condensed** | 72px · 900 · 79.2px | 221 |
-| **Caveat** | 32px · 700 · 30.72px | 30 |
-| **Inter Tight** | 18px · 500 · 21.6px | 14 |
+| `16px` | padding | page content |
+| `12px` | padding | page content |
+| `40px` | padding | page content |
+| `300px 0px 8px` | padding | page content |
+| `0px 48px` | padding | page content |
+| `300px 0px 0px` | padding | page content |
+| `32px` | padding | page content |
+| `80px 48px 48px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px` for padding, `12px` for padding, `40px` for padding, `300px 0px 8px` for padding, `0px 48px` for padding, and `300px 0px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 32px`, `0px none 24px`, `0px none 110px`, `0px none 128px`, `0px none 562.424% / 909.804%`, `0px none 80px`, `0px none 64px`, and `0px none 1600% / 2812.12%` border treatments. Recorded gradients include `linear-gradient(132deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 4%, rgba(255, 255, 255, 0.5) 17%, rgba(255, 255, 255, 0) 22%)`, `linear-gradient(rgb(66, 66, 66) 0%, rgb(43, 43, 43) 100%)`, `linear-gradient(132deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 2.9618%, rgba(255, 255, 255, 0.5) 17%, rgba(255, 255, 255, 0) 22%)`, `linear-gradient(rgb(230, 230, 230) 0%, rgb(166, 166, 166) 100%)`, `linear-gradient(270deg, rgba(254, 238, 134, 0.5) 3%, rgba(255, 213, 0, 0.89) 51%, rgb(255, 217, 0) 73%, rgba(255, 239, 133, 0.5) 93%)`, and `linear-gradient(270deg, rgba(254, 238, 134, 0.5) 3%, rgb(255, 217, 0) 46.8095%, rgba(255, 239, 133, 0.5) 93%)`. Recorded shadows include `rgb(207, 207, 207) 0px -7px 3px 0px inset, rgb(255, 255, 255) 0px -8px 1px 0px inset, rgb(184, 184, 184) 0px 6px 6px 0px`, `rgba(255, 255, 255, 0.1) 0px -3px 1px 0px inset, rgba(0, 0, 0, 0.1) 0px 12px 6px 0px inset`, and `rgba(255, 222, 10, 0) 0px -3px 16px 0px inset rgb(0,0,238)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 32px` (1609), `0px none 24px` (131), `0px none 110px` (84), `0px none 128px` (18), `0px none 562.424% / 909.804%` (10), and `0px none 80px` (3). 6 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#f5f5f5`, `#f2f2f2`, and `#ffd500`. Text colors include `#000000`, `#767676`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System**, **Inter**, **Reddit Sans Condensed**, **Caveat**, and **Inter Tight**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px`, `12px`, `40px`, `300px 0px 8px`, and `0px 48px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f5f5f5`, `#f2f2f2`, `#ffd500`, and `#1f1f1f`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <a>, <h1>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 10 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

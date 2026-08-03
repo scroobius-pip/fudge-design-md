@@ -38,64 +38,90 @@ Last updated: 2026-08-03
 
 [Hardware — Dinamo Typefaces](https://design.withfudge.com/share/pin-34)
 
-## Design character
-
-abcdinamo.com has a predominantly dark surface treatment across 22 captured pages. The strongest recurring signals are 2 captured type families, 4 recurring colors, and 16 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **22 pages** and 8 representative page references. It records 193 color rows, 13 typography rows, 15 spacing rows, 1 border rows, 0 gradient rows, and 0 shadow rows.
+abcdinamo.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#63f450`, and `#a0a0a0`, with typography led by **Monument Grotesk** and **Abc Diatype**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 2033 |
-| `#63f450` | background-color · button | 7 |
-| `#a0a0a0` | color · main | 3 |
-| `#6e32e1` | color · main | 3 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#63f450` | surface on page content in the button |
+| color.text | `#a0a0a0` | text on page content in the main |
+| color.text | `#6e32e1` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-10.2308px | **Monument Grotesk** | 10.2308px | 400 | 11.2539px | normal | <div>, <div> in the main, and <div> in the header |
+| type.display-83.9069px | **Monument Grotesk** | 83.9069px | 400 | 75.5162px | normal | <h1> in the header |
+| type.body-17.0921px | **Monument Grotesk** | 17.0921px | 400 | 18.8014px | normal | <h3> in the main, <div> in the main, and <span> in the main |
+| type.body-21.7536px | **Monument Grotesk** | 21.7536px | 400 | 23.929px | normal | <span> in the main |
+| type.display-67.1255px | **Abc Diatype** | 67.1255px | 400 | 1369.36px | normal | <span> in the button |
+| type.utility-6.21532px | **Monument Grotesk** | 6.21532px | 400 | 54.3841px | normal | <button> in the button |
+| type.body-17.0921px | **Monument Grotesk** | 17.0921px | 400 | 33.0189px | normal | <span> in the main |
+| type.utility-6.21532px | **Monument Grotesk** | 6.21532px | 400 | 5.59379px | normal | <div> in the header |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Monument Grotesk** | 10.2308px · 400 · 11.2539px | 1005 |
-| **Abc Diatype** | 67.1255px · 400 · 1369.36px | 18 |
+| `0px 15.5383px` | margin | page content |
+| `61.3851px 218.188px 0px` | margin | page content |
+| `4.89457px 0px` | padding | page content |
+| `0px 0px 17.0921px` | padding | page content |
+| `-3.88458px` | margin | page content |
+| `30.6925px 250.438px 0px 250.422px` | margin | page content |
+| `0px 46.6149px 17.0921px` | padding | page content |
+| `0px 52.2087px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 15.5383px` for margin, `61.3851px 218.188px 0px` for margin, `4.89457px 0px` for padding, `0px 0px 17.0921px` for padding, `-3.88458px` for margin, and `30.6925px 250.438px 0px 250.422px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 126.793px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 126.793px` (7). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#63f450`. Text colors include `#000000`, `#a0a0a0`, and `#6e32e1`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Monument Grotesk** and **Abc Diatype**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 15.5383px`, `61.3851px 218.188px 0px`, `4.89457px 0px`, `0px 0px 17.0921px`, and `-3.88458px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **unknown**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#63f450`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h1>, <h3>, <span>, and <button> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 22 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

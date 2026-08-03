@@ -26,73 +26,110 @@ Last updated: 2026-08-03
 
 [Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/share/pin-10425)
 
-## Design character
-
-cognee.ai has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 3 captured type families, 14 recurring colors, and 335 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **5 pages** and 5 representative page references. It records 197 color rows, 115 typography rows, 306 spacing rows, 23 border rows, 5 gradient rows, and 1 shadow rows.
+cognee.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#0c0121`, `#000000`, and `#2b2b2b`, with typography led by **Twk Lausanne**, **Applesystem**, and **Jet Brains Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#0c0121` | color · main | 94817 |
-| `#000000` | color · unknown | 30025 |
-| `#2b2b2b` | background-color · unknown | 14956 |
-| `#2c2c2a` | background-color · main | 13215 |
-| `#edecea` | color · nav | 11802 |
-| `#f4f4f4` | background-color · unknown | 4895 |
-| `#bc9bff` | color · main | 3367 |
-| `#ffffff` | border-color · main | 2069 |
-| `#3a3a38` | background-color · main | 852 |
-| `#1e1e1c` | color · main | 205 |
-| `#a380ea` | background-color · main | 64 |
-| `#916dd9` | background-color · main | 57 |
+| color.text | `#0c0121` | text on page content in the main |
+| color.text | `#000000` | text on page content |
+| color.surface | `#2b2b2b` | surface on page content |
+| color.surface | `#2c2c2a` | surface on page content in the main |
+| color.text | `#edecea` | text on page content in the nav |
+| color.surface | `#f4f4f4` | surface on page content |
+| color.text | `#bc9bff` | text on page content in the main |
+| color.border | `#ffffff` | border on page content in the main |
+| color.surface | `#3a3a38` | surface on page content in the main |
+| color.text | `#1e1e1c` | text on page content in the main |
+| color.surface | `#a380ea` | surface on page content in the main |
+| color.surface | `#916dd9` | surface on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Twk Lausanne** | 16px | 300 | 20px | normal | <html>, <div> in the main, <section> in the main, <main> in the main, <div>, <body>, <nav> in the nav, <header> in the header, <article> in the main, <svg> in the nav, <a> in the nav, <ul> in the main, <li> in the main, <a> in the main, <svg> in the main, <div> in the nav, <button> in the button, <img> in the main, and <span> in the main |
+| type.display-48px | **Twk Lausanne** | 48px | 300 | 52.8px | -1.152px | <h2> in the main and <span> in the main |
+| type.body-24px | **Twk Lausanne** | 24px | 300 | 34.08px | normal | <p> in the main |
+| type.display-96px | **Twk Lausanne** | 96px | 300 | 96px | -3.84px | <h1> in the main |
+| type.body-15px | **Twk Lausanne** | 15px | 300 | 24px | normal | <p> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.display-64px | **Twk Lausanne** | 64px | 300 | 70.4px | -1.92px | <h1> in the main |
+| type.body-19px | **Twk Lausanne** | 19px | 300 | 32.3px | normal | <p> in the main |
+| type.body-14px | **Twk Lausanne** | 14px | 300 | 21px | normal | <span> in the main |
+| type.body-16px | **Twk Lausanne** | 16px | 300 | 24px | normal | <span> in the nav, <div> in the nav, <span> in the button, and <span> in the main |
+| type.body-22px | **Twk Lausanne** | 22px | 300 | 27.5px | -0.308px | <h3> in the main |
+| type.utility-13px | **Jet Brains Mono** | 13px | 300 | 18px | normal | <span> in the main |
+| type.body-15px | **Twk Lausanne** | 15px | 500 | 20px | normal | <span> in the main |
+| type.utility-11px | **Twk Lausanne** | 11px | 600 | 14px | 1.98px | <span> in the main |
+| type.body-16px | **Twk Lausanne** | 16px | 500 | 24px | normal | <span> in the nav, <span> in the main, and <a> in the main |
+| type.display-48px | **Twk Lausanne** | 48px | 300 | 52.8px | 13.44px | <span> in the main |
+| type.utility-13px | **Twk Lausanne** | 13px | 300 | 18px | normal | <p> in the main |
+| type.utility-11px | **Twk Lausanne** | 11px | 600 | 14px | 1.54px | <span> in the button |
+| type.body-24px | **Twk Lausanne** | 24px | 300 | 28.8px | -0.336px | <h3> in the main |
+| type.body-14.4px | **Twk Lausanne** | 14.4px | 500 | 18px | normal | <a> in the nav |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Twk Lausanne** | 16px · 300 · 20px | 106839 |
-| **Applesystem** | 14px · 400 · normal | 62 |
-| **Jet Brains Mono** | 13px · 300 · 18px | 28 |
+| `50px` | padding-right | page content |
+| `50px` | padding-left | page content |
+| `0px 308px` | margin | page content |
+| `308px` | margin-right | page content |
+| `308px` | margin-left | page content |
+| `0px 50px` | padding | page content |
+| `96px 0px` | padding | page content |
+| `96px` | padding-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `50px` for padding-right, `50px` for padding-left, `0px 308px` for margin, `308px` for margin-right, `308px` for margin-left, and `0px 50px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 6px`, `1px solid 6px`, `1px solid 8px`, `1px solid 8px`, `0px none 1.67772e+07px`, `2px solid 8px`, `1px solid 1.67772e+07px`, and `1px 0px 0px solid 0px` border treatments. Recorded gradients include `linear-gradient(rgba(244, 244, 244, 0.22) 1px, rgba(0, 0, 0, 0) 1px)`, `linear-gradient(90deg, rgba(244, 244, 244, 0.22) 1px, rgba(0, 0, 0, 0) 1px)`, `linear-gradient(rgba(244, 244, 244, 0.18) 1px, rgba(0, 0, 0, 0) 1px)`, `linear-gradient(90deg, rgba(244, 244, 244, 0.18) 1px, rgba(0, 0, 0, 0) 1px)`, and `linear-gradient(to right in oklab, rgb(188, 155, 255) 30%, rgba(0, 0, 0, 0) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(188, 155, 255, 0.1) 0px 12px 40px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 6px` (1451), `1px solid 8px` (556), `0px none 1.67772e+07px` (256), `2px solid 8px` (250), `1px solid 1.67772e+07px` (37), and `1px 0px 0px solid 0px` (28). 5 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#2b2b2b`, `#2c2c2a`, and `#f4f4f4`. Text colors include `#0c0121`, `#000000`, and `#edecea`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Twk Lausanne**, **Applesystem**, and **Jet Brains Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `50px`, `50px`, `0px 308px`, `308px`, and `308px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#2b2b2b`, `#2c2c2a`, `#f4f4f4`, and `#3a3a38`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <section>, <main>, <body>, <nav>, <header>, and <article> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

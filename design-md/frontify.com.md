@@ -38,66 +38,96 @@ Last updated: 2026-08-03
 
 [Frontify: Where Brands Live - Brand Management Software](https://design.withfudge.com/share/pin-6104)
 
-## Design character
-
-frontify.com has a mixed light and dark surface treatment across 9 captured pages. The strongest recurring signals are 3 captured type families, 5 recurring colors, and 115 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **9 pages** and 8 representative page references. It records 141 color rows, 65 typography rows, 95 spacing rows, 20 border rows, 0 gradient rows, and 0 shadow rows.
+frontify.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#111110`, `#f0f0eb`, and `#e1e1db`, with typography led by **Abc Diatype**, **By Andrej Sevcik**, and **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#111110` | color · main | 4167 |
-| `#f0f0eb` | color · main | 1221 |
-| `#e1e1db` | background-color · main | 420 |
-| `#ffffff` | background-color · header | 127 |
-| `#575753` | color · main | 47 |
+| color.text | `#111110` | text on page content in the main |
+| color.text | `#f0f0eb` | text on page content in the main |
+| color.surface | `#e1e1db` | surface on page content in the main |
+| color.surface | `#ffffff` | surface on page content in the header |
+| color.text | `#575753` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 23.4px | normal | <div> in the main, <div> in the header, <div> in the button, <a> in the main, and <a> in the header |
+| type.display-48px | **By Andrej Sevcik** | 48px | 300 | 52.8px | normal | <div> in the main |
+| type.display-120px | **By Andrej Sevcik** | 120px | 300 | 120px | normal | <h2> in the main |
+| type.display-64px | **By Andrej Sevcik** | 64px | 300 | 64px | normal | <h1> in the main |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 24.3px | normal | <div> in the main |
+| type.body-24px | **By Andrej Sevcik** | 24px | 300 | 31.2px | normal | <h2> in the main |
+| type.display-32px | **By Andrej Sevcik** | 32px | 300 | 38.4px | normal | <div> in the main |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 23.4px | 0.18px | <p> in the main, <h1> in the main, and <h2> in the main |
+| type.heading-20px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 20px | 700 | 26px | normal | <h3> in the main |
+| type.body-14px | **Abc Diatype** | 14px | 400 | 14px | normal | <a> in the button |
+| type.display-32px | **By Andrej Sevcik** | 32px | 300 | 32px | normal | <div> in the main |
+| type.heading-14px | **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 14px | 700 | 18.2px | 0.14px | <div> in the button and <div> in the header |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 18px | normal | <a> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Abc Diatype** | 18px · 400 · 23.4px | 4232 |
-| **By Andrej Sevcik** | 64px · 300 · 64px | 1186 |
-| **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** | 20px · 700 · 26px | 41 |
+| `0px -12px -24px` | margin | page content |
+| `0px 228px` | margin | page content |
+| `24px` | padding | page content |
+| `24px 48px` | padding | page content |
+| `16px 0px 0px` | padding | page content |
+| `0px 12px` | padding | page content |
+| `0px 0px 24px` | margin | page content |
+| `0px 24px 48px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px -12px -24px` for margin, `0px 228px` for margin, `24px` for padding, `24px 48px` for padding, `16px 0px 0px` for padding, and `0px 12px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 8px`, `1px 0px 0px solid none none 0px`, `0px none 32px`, and `1px solid 50%` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 8px` (485), `1px 0px 0px solid none none 0px` (224), `0px none 32px` (36), and `1px solid 50%` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#e1e1db` and `#ffffff`. Text colors include `#111110`, `#f0f0eb`, and `#575753`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Abc Diatype**, **By Andrej Sevcik**, and **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px -12px -24px`, `0px 228px`, `24px`, `24px 48px`, and `16px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **header**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#e1e1db` and `#ffffff`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h1>, <h3>, <a>, <h2>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

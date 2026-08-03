@@ -38,80 +38,110 @@ Last updated: 2026-08-03
 
 [Exa AI Research Blog](https://design.withfudge.com/share/pin-6588)
 
-## Design character
-
-exa.ai has a mixed light and dark surface treatment across 32 captured pages. The strongest recurring signals are 10 captured type families, 51 recurring colors, and 658 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **32 pages** and 8 representative page references. It records 703 color rows, 230 typography rows, 572 spacing rows, 79 border rows, 2 gradient rows, and 5 shadow rows.
+exa.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#faf9f7`, with typography led by **Abc Diatype**, **Inter**, **Suisse Intl**, **Times**, **Abc Arizona Flare Unlicensed**, **Abc Arizona Flare**, **Applesystem**, **Geist Mono**, **Iowan Old St Bt**, and **Font**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#ffffff` | color · unknown | 160007 |
-| `#000000` | color · unknown | 10471 |
-| `#faf9f7` | background-color · unknown | 2646 |
-| `#181815` | background-color · unknown | 2200 |
-| `#1f40ed` | color · nav | 1685 |
-| `#f5f5f5` | background-color · main | 338 |
-| `#fafafa` | background-color · unknown | 306 |
-| `#e5e7eb` | border-color · nav | 303 |
-| `#111827` | color · unknown | 299 |
-| `#374151` | color · nav | 209 |
-| `#e7ecf0` | border-color · nav | 193 |
-| `#333333` | color · main | 172 |
+| color.text | `#ffffff` | text on page content |
+| color.text | `#000000` | text on page content |
+| color.surface | `#faf9f7` | surface on page content |
+| color.surface | `#181815` | surface on page content |
+| color.text | `#1f40ed` | text on page content in the nav |
+| color.surface | `#f5f5f5` | surface on page content in the main |
+| color.surface | `#fafafa` | surface on page content |
+| color.border | `#e5e7eb` | border on page content in the nav |
+| color.text | `#111827` | text on page content |
+| color.text | `#374151` | text on page content in the nav |
+| color.border | `#e7ecf0` | border on page content in the nav |
+| color.text | `#333333` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Abc Diatype** | 16px | 400 | 24px | normal | <body>, <div>, <div> in the nav, <nav> in the nav, <ul> in the nav, <div> in the main, <main> in the main, <section> in the main, <img> in the main, <html>, <section>, <img>, <div> in the button, <button> in the button, <a>, <svg>, <form>, <a> in the main, and <div> in the footer |
+| type.body-16px | **Inter** | 16px | 400 | 24px | normal | <div> in the nav and <nav> in the nav |
+| type.body-16px | **Suisse Intl** | 16px | 400 | 24px | normal | <div> in the footer, <li> in the footer, and <ul> in the footer |
+| type.body-16px | **Times** | 16px | 400 | 24px | normal | <div> in the footer and <div> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 28.05px | -0.18px | <p> in the main |
+| type.utility-12px | **Geist Mono** | 12px | 400 | 18.6px | normal | <div> |
+| type.body-14px | **Abc Diatype** | 14px | 500 | 20px | normal | <svg> in the button, <div> in the button, <div>, <a>, and <button> in the button |
+| type.display-41.6px | **Abc Arizona Flare** | 41.6px | 400 | 45.76px | -1.248px | <h2> |
+| type.body-14px | **Abc Diatype** | 14px | 400 | 22.75px | -0.28px | <p> |
+| type.body-16px | **Abc Diatype** | 16px | 400 | 22.4px | -0.32px | <p> |
+| type.body-15px | **Iowan Old St Bt** | 15px | 400 | 22.5px | -0.3px | <p> |
+| type.display-76.8px | **Abc Arizona Flare Unlicensed** | 76.8px | 300 | 76.8px | -3.072px | <h1> in the footer |
+| type.display-36px | **Abc Arizona Flare Unlicensed** | 36px | 500 | 40px | -1.44px | <h2> |
+| type.body-15px | **Abc Diatype** | 15px | 400 | 24px | normal | <div> in the nav and <a> in the nav |
+| type.body-14px | **Abc Diatype** | 14px | 400 | 20px | -0.28px | <span> |
+| type.body-18px | **Abc Diatype** | 18px | 400 | 27px | -0.18px | <p> |
+| type.body-28px | **Abc Arizona Flare** | 28px | 400 | 33.6px | -0.84px | <blockquote> in the main |
+| type.body-15px | **Abc Diatype** | 15px | 400 | 21px | -0.3px | <span> in the nav, <span>, and <p> in the main |
+| type.display-51px | **Abc Arizona Flare** | 51px | 400 | 56.1px | -1.53px | <h1> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Abc Diatype** | 16px · 400 · 24px | 130503 |
-| **Inter** | 16px · 400 · 24px | 1094 |
-| **Suisse Intl** | 15px · 500 · 22.5px | 759 |
-| **Times** | 16px · 400 · 24px | 566 |
-| **Abc Arizona Flare Unlicensed** | 28px · 400 · 30.8px | 329 |
-| **Abc Arizona Flare** | 31.2px · 400 · 37.44px | 321 |
-| **Applesystem** | 14px · 400 · normal | 276 |
-| **Geist Mono** | 12px · 600 · 16px | 262 |
-| **Iowan Old St Bt** | 24px · 400 · 28.8px | 76 |
-| **Font** | 16px · 400 · 24px | 10 |
+| `24px` | padding-right | page content |
+| `24px` | padding-left | page content |
+| `0px 212.5px` | margin | page content |
+| `212.5px` | margin-right | page content |
+| `212.5px` | margin-left | page content |
+| `0px 24px` | padding | page content |
+| `112px 0px` | padding | page content |
+| `112px` | padding-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `24px` for padding-right, `24px` for padding-left, `0px 212.5px` for margin, `212.5px` for margin-right, `212.5px` for margin-left, and `0px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 6px`, `0px none 2px`, `0px 0px 1px 1px solid 0px`, `0px none 0px 0px 12px 12px`, `0px none 8px`, `0px none 4px`, `1px solid 10px`, and `1px solid 8px` border treatments. Recorded gradients include `linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1))` and `linear-gradient(rgba(168, 211, 240, 0.55), rgba(168, 211, 240, 0.55))`. Recorded shadows include `rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px`, `rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.08) 0px 1px 2px 0px, rgba(0, 0, 0, 0.06) 0px 4px 12px 0px`, and `rgba(0, 0, 0, 0.01) 0px 68px 27px 0px, rgba(0, 0, 0, 0.02) 0px 38px 23px 0px, rgba(0, 0, 0, 0.04) 0px 17px 17px 0px, rgba(0, 0, 0, 0.04) 0px 4px 9px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 6px` (2033), `0px none 2px` (1001), `0px 0px 1px 1px solid 0px` (833), `0px none 0px 0px 12px 12px` (612), `0px none 8px` (405), and `0px none 4px` (359). 2 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#faf9f7`, `#181815`, and `#f5f5f5`. Text colors include `#ffffff`, `#000000`, and `#1f40ed`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Abc Diatype**, **Inter**, **Suisse Intl**, **Times**, **Applesystem**, **Geist Mono**, **Abc Arizona Flare**, **Iowan Old St Bt**, and **Abc Arizona Flare Unlicensed**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `24px`, `24px`, `0px 212.5px`, `212.5px`, and `212.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **main**, **nav**, **button**, and **footer**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#faf9f7`, `#181815`, `#f5f5f5`, and `#fafafa`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <body>, <nav>, <ul>, <h3>, <a>, <li>, and <main> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 32 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

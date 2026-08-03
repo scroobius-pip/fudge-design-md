@@ -38,73 +38,110 @@ Last updated: 2026-08-03
 
 [Pricing — Era](https://design.withfudge.com/share/pin-9753)
 
-## Design character
-
-era.app has a predominantly dark surface treatment across 14 captured pages. The strongest recurring signals are 3 captured type families, 21 recurring colors, and 899 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **14 pages** and 8 representative page references. It records 550 color rows, 321 typography rows, 800 spacing rows, 89 border rows, 4 gradient rows, and 6 shadow rows.
+era.app presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f8faf9`, `#0f1720`, and `#191a17`, with typography led by **Saans**, **Applesystem**, and **Times**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#f8faf9` | color · header | 234051 |
-| `#0f1720` | background-color · unknown | 68194 |
-| `#191a17` | color · main | 6037 |
-| `#f3f3f1` | color · main | 5081 |
-| `#d590a0` | background-color · main | 4302 |
-| `#000000` | color · unknown | 4274 |
-| `#ffffff` | color · unknown | 3947 |
-| `#c0d5f4` | background-color · main | 2187 |
-| `#323330` | background-color · main | 812 |
-| `#bbded8` | border-color · main | 780 |
-| `#b5aeea` | border-color · main | 456 |
-| `#d4e5ce` | border-color · main | 420 |
+| color.text | `#f8faf9` | text on page content in the header |
+| color.surface | `#0f1720` | surface on page content |
+| color.text | `#191a17` | text on page content in the main |
+| color.text | `#f3f3f1` | text on page content in the main |
+| color.surface | `#d590a0` | surface on page content in the main |
+| color.text | `#000000` | text on page content |
+| color.text | `#ffffff` | text on page content |
+| color.surface | `#c0d5f4` | surface on page content in the main |
+| color.surface | `#323330` | surface on page content in the main |
+| color.border | `#bbded8` | border on page content in the main |
+| color.border | `#b5aeea` | border on page content in the main |
+| color.border | `#d4e5ce` | border on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Saans** | 16px | 380 | 24px | normal | <header> in the header, <div>, <body>, <main> in the main, <div> in the header, <div> in the main, <span> in the main, <label> in the main, <a> in the main, <svg>, <a> in the nav, <div> in the nav, <nav> in the nav, <span> in the button, <button> in the button, <div> in the button, <svg> in the button, <li> in the main, <ol> in the main, <input>, <section> in the main, <article> in the main, <ul> in the main, <span> in the header, <footer> in the footer, <div> in the footer, and <svg> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
+| type.body-25px | **Saans** | 25px | 500 | 27.5px | -0.5px | <h1> in the header, <h2> in the main, and <h2> in the button |
+| type.body-16px | **Saans** | 16px | 380 | 22.4px | normal | <p> in the main and <span> in the main |
+| type.display-56px | **Saans** | 56px | 600 | 64.4px | -1.12px | <h1> in the main |
+| type.body-15px | **Saans** | 15px | 500 | 22.5px | normal | <button> in the button, <a> in the main, <span> in the main, <div> in the main, <span> in the button, and <div> in the button |
+| type.body-20px | **Saans** | 20px | 400 | 26px | normal | <p> in the main |
+| type.utility-13px | **Saans** | 13px | 400 | 18.2px | normal | <p> in the main, <p> in the footer, and <a> in the footer |
+| type.body-16px | **Saans** | 16px | 400 | 22.4px | normal | <p> in the main |
+| type.body-15px | **Saans** | 15px | 500 | 21px | -0.15px | <p> in the main |
+| type.display-35px | **Saans** | 35px | 600 | 40.25px | -0.7px | <h2> in the main |
+| type.utility-13px | **Saans** | 13px | 380 | 15.6px | normal | <span> in the nav and <p> in the main |
+| type.heading-30px | **Saans** | 30px | 600 | 37.5px | -0.6px | <h2> in the main |
+| type.display-60px | **Saans** | 60px | 600 | 69px | -1.2px | <h1> in the main |
+| type.heading-15px | **Saans** | 15px | 600 | 18px | -0.15px | <span> in the main, <span> in the footer, and <a> in the header |
+| type.body-20px | **Saans** | 20px | 380 | 30px | normal | <svg> in the nav |
+| type.body-20px | **Saans** | 20px | 380 | 26px | normal | <p> in the main |
+| type.body-15px | **Saans** | 15px | 400 | 21px | normal | <p> in the main |
+| type.heading-20px | **Saans** | 20px | 670 | 24px | normal | <a> in the main, <p> in the main, and <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Saans** | 16px · 380 · 24px | 243790 |
-| **Applesystem** | 14px · 400 · normal | 218 |
-| **Times** | 16px · 400 · normal | 218 |
+| `24px` | padding-left | page content |
+| `24px` | padding-right | page content |
+| `24px` | padding | page content |
+| `24px` | padding-top | page content |
+| `24px` | padding-bottom | page content |
+| `16px` | gap | page content |
+| `16px` | row-gap | page content |
+| `16px` | column-gap | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `24px` for padding-left, `24px` for padding-right, `24px` for padding, `24px` for padding-top, `24px` for padding-bottom, and `16px` for gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 12px`, `0px none 8px`, `1px solid 8px`, `0px 0px 1px none none solid 0px`, `0px none 4px`, `1px 0px 0px solid none none 0px`, `1px solid 8px`, and `1px 0px solid none 0px` border treatments. Recorded gradients include `linear-gradient(135deg in oklch, rgb(208, 203, 239) 0%, rgb(228, 193, 203) 100%)`, `linear-gradient(rgba(243, 243, 241, 0) 20%, rgb(243, 243, 241) 100%)`, and `linear-gradient(90deg, rgb(208, 203, 239) 0%, rgb(236, 218, 225) 100%)`. Recorded shadows include `rgba(15, 23, 32, 0.1) 0px 4px 6px -1px, rgba(15, 23, 32, 0.1) 0px 2px 4px -2px`, `rgba(15, 23, 32, 0.1) 0px 10px 15px -3px, rgba(15, 23, 32, 0.1) 0px 4px 6px -4px`, and `rgba(15, 23, 32, 0.05) 0px 1px 2px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 8px` (4811), `0px none 12px` (2741), `0px none 8px` (2740), `0px 0px 1px none none solid 0px` (2062), `0px none 4px` (1304), and `1px 0px 0px solid none none 0px` (995). 4 gradient rows and 6 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#0f1720`, `#d590a0`, and `#c0d5f4`. Text colors include `#f8faf9`, `#191a17`, and `#f3f3f1`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Saans**, **Applesystem**, and **Times**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `24px`, `24px`, `24px`, `24px`, and `24px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **footer**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#0f1720`, `#d590a0`, `#c0d5f4`, and `#323330`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <header>, <body>, <main>, <h1>, <span>, and <h2> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 14 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

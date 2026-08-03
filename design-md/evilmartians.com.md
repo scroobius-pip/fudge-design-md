@@ -22,69 +22,104 @@ Last updated: 2026-08-03
 
 [Evil Martians design and develop high performance developer tools that scale](https://design.withfudge.com/share/pin-8132)
 
-## Design character
-
-evilmartians.com has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 2 captured type families, 9 recurring colors, and 43 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **4 pages** and 4 representative page references. It records 125 color rows, 47 typography rows, 33 spacing rows, 8 border rows, 2 gradient rows, and 0 shadow rows.
+evilmartians.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#cb009e`, with typography led by **Martian Grotesk** and **Martian Mono Vf**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 2304 |
-| `#ffffff` | background-color · main | 736 |
-| `#cb009e` | color · main | 81 |
-| `#663f4c` | color · header | 20 |
-| `#89868a` | color · main | 3 |
-| `#a1490f` | color · main | 2 |
-| `#550098` | color · main | 1 |
-| `#727d00` | color · main | 1 |
-| `#3b393d` | color · main | 1 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#ffffff` | surface on page content in the main |
+| color.text | `#cb009e` | text on page content in the main |
+| color.text | `#663f4c` | text on page content in the header |
+| color.text | `#89868a` | text on page content in the main |
+| color.text | `#a1490f` | text on page content in the main |
+| color.text | `#550098` | text on page content in the main |
+| color.text | `#727d00` | text on page content in the main |
+| color.text | `#3b393d` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-15px | **Martian Grotesk** | 15px | 400 | 36px | normal | <div>, <div> in the main, <div> in the header, <a> in the header, <span> in the main, <li> in the main, <ul> in the main, <div> in the aside, and <div> in the nav |
+| type.display-60px | **Martian Grotesk** | 60px | 900 | 64px | -1.2px | <h1> in the main |
+| type.body-20px | **Martian Grotesk** | 20px | 300 | 48px | normal | <div> in the main and <p> in the main |
+| type.utility-12.5px | **Martian Mono Vf** | 12.5px | 400 | 22px | normal | <span> in the main, <code> in the main, and <div> in the main |
+| type.heading-30px | **Martian Grotesk** | 30px | 800 | 36px | normal | <h2> in the main |
+| type.utility-12.5px | **Martian Grotesk** | 12.5px | 700 | 14px | 0.5px | <div> in the nav |
+| type.heading-15px | **Martian Grotesk** | 15px | 700 | 24px | normal | <h2> in the main and <p> in the main |
+| type.body-15px | **Martian Grotesk** | 15px | 500 | 36px | normal | <a> in the main and <div> in the main |
+| type.body-15px | **Martian Grotesk** | 15px | 400 | 0px | normal | <ul> in the main |
+| type.utility-12.5px | **Martian Grotesk** | 12.5px | 700 | 14px | normal | <a> in the main |
+| type.utility-12.5px | **Martian Grotesk** | 12.5px | 400 | 22px | normal | <p> in the main |
+| type.heading-20px | **Martian Grotesk** | 20px | 700 | 28px | normal | <button> in the button |
+| type.display-33px | **Martian Grotesk** | 33px | 900 | 42px | -0.33px | <div> in the header |
+| type.body-13.3333px | **Martian Grotesk** | 13.3333px | 400 | normal | normal | <button> in the button |
+| type.utility-12.5px | **Martian Mono Vf** | 12.5px | 300 | 22px | normal | <span> in the main |
+| type.body-20px | **Martian Grotesk** | 20px | 500 | 48px | normal | <a> in the main |
+| type.body-20px | **Martian Mono Vf** | 20px | 300 | 48px | normal | <code> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Martian Grotesk** | 15px · 400 · 36px | 1482 |
-| **Martian Mono Vf** | 12.5px · 400 · 22px | 92 |
+| `48px 0px` | padding | page content |
+| `48px 0px 24px` | padding | page content |
+| `24px 0px` | padding | page content |
+| `0px 48px` | padding | page content |
+| `40px 0px 54px` | padding | page content |
+| `48px 0px 12px` | padding | page content |
+| `50px` | padding | page content |
+| `36px 0px 12px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `48px 0px` for padding, `48px 0px 24px` for padding, `24px 0px` for padding, `0px 48px` for padding, `40px 0px 54px` for padding, and `48px 0px 12px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 50%`, `0px none 4px`, and `1px solid 0px` border treatments. Recorded gradients include `linear-gradient(oklch(1 0 0), oklch(1 0 0))` and `linear-gradient(oklch(0 0 0), oklch(0 0 0))`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 50%` (97), `0px none 4px` (88), and `1px solid 0px` (1). 2 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#ffffff`. Text colors include `#000000`, `#cb009e`, and `#663f4c`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Martian Grotesk** and **Martian Mono Vf**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `48px 0px`, `48px 0px 24px`, `24px 0px`, `0px 48px`, and `40px 0px 54px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **aside**, **unknown**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ffffff`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <span>, <code>, <a>, <h1>, <h2>, <p>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

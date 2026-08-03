@@ -18,75 +18,110 @@ Last updated: 2026-08-03
 
 [Arena | Benchmark & Compare the Best AI Models](https://design.withfudge.com/share/pin-8746)
 
-## Design character
-
-arena.ai has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 5 captured type families, 22 recurring colors, and 212 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **3 pages** and 3 representative page references. It records 199 color rows, 102 typography rows, 177 spacing rows, 29 border rows, 1 gradient rows, and 5 shadow rows.
+arena.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f4f0eb`, `#252523`, and `#413d39`, with typography led by **By Chi Long Trieu**, **Inter**, **Martina Plantijn**, **Basel Grotesk Mono**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#f4f0eb` | color · unknown | 57577 |
-| `#252523` | background-color · unknown | 11944 |
-| `#413d39` | border-color · unknown | 3632 |
-| `#33302e` | background-color · aside | 2187 |
-| `#000000` | color · unknown | 1918 |
-| `#e7e1da` | color · unknown | 1104 |
-| `#ffffff` | color · button | 146 |
-| `#c7c2bc` | color · main | 105 |
-| `#f25550` | color · main | 96 |
-| `#413c3a` | background-color · button | 41 |
-| `#67625b` | color · aside | 19 |
-| `#299bff` | color · main | 13 |
+| color.text | `#f4f0eb` | text on page content |
+| color.surface | `#252523` | surface on page content |
+| color.border | `#413d39` | border on page content |
+| color.surface | `#33302e` | surface on page content in the aside |
+| color.text | `#000000` | text on page content |
+| color.text | `#e7e1da` | text on page content |
+| color.text | `#ffffff` | text on page content in the button |
+| color.text | `#c7c2bc` | text on page content in the main |
+| color.text | `#f25550` | text on page content in the main |
+| color.surface | `#413c3a` | surface on page content in the button |
+| color.text | `#67625b` | text on page content in the aside |
+| color.text | `#299bff` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **By Chi Long Trieu** | 16px | 400 | 24px | normal | <body>, <div>, <li>, <ul>, <a>, <div> in the nav, <nav> in the nav, <div> in the main, <main> in the main, <button> in the button, <div> in the aside, <aside> in the aside, <p> in the main, and <ol> in the main |
+| type.body-14px | **By Chi Long Trieu** | 14px | 400 | 20px | normal | <button> in the button, <div> in the aside, <span> in the button, <label> in the aside, <span> in the main, <div> in the main, and <p> in the main |
+| type.body-14px | **Inter** | 14px | 400 | 24px | normal | <p> in the main, <div> in the main, <li> in the main, and <ul> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-14px | **Basel Grotesk Mono** | 14px | 400 | 20px | normal | <span> in the main and <a> in the main |
+| type.body-16px | **Martina Plantijn** | 16px | 300 | 24px | -0.4px | <h3> in the aside |
+| type.body-14px | **Martina Plantijn** | 14px | 500 | 20px | -0.4px | <button> in the button and <div> in the button |
+| type.utility-12px | **By Chi Long Trieu** | 12px | 400 | 16px | normal | <span> in the button, <button> in the button, <div> in the main, <span> in the main, and <p> in the main |
+| type.utility-11px | **Basel Grotesk Mono** | 11px | 400 | 18.3333px | normal | <span> in the main |
+| type.body-14px | **By Chi Long Trieu** | 14px | 500 | 20px | normal | <span> in the main and <button> in the button |
+| type.utility-12px | **By Chi Long Trieu** | 12px | 500 | 16px | normal | <button> in the button, <svg> in the button, <span> in the main, <div> in the main, and <div> |
+| type.body-24px | **Martina Plantijn** | 24px | 300 | 32px | -0.6px | <h1> in the main and <span> in the main |
+| type.utility-12px | **Basel Grotesk Mono** | 12px | 500 | 16px | normal | <span> in the main and <span> in the button |
+| type.body-14px | **By Chi Long Trieu** | 14px | 400 | 14px | normal | <button> in the button and <span> in the button |
+| type.utility-12px | **Basel Grotesk Mono** | 12px | 400 | 20px | normal | <div> in the main |
+| type.heading-14px | **Inter** | 14px | 600 | 24px | normal | <strong> in the main |
+| type.body-16px | **Martina Plantijn** | 16px | 300 | 20px | -0.4px | <h3> |
+| type.utility-12px | **By Chi Long Trieu** | 12px | 400 | 18px | normal | <p> |
+| type.heading-18px | **By Chi Long Trieu** | 18px | 600 | 28px | normal | <p> in the main |
+| type.body-16px | **By Chi Long Trieu** | 16px | 400 | 24px | -0.4px | <span> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **By Chi Long Trieu** | 16px · 400 · 24px | 58396 |
-| **Inter** | 14px · 400 · 24px | 247 |
-| **Martina Plantijn** | 16px · 300 · 20px | 236 |
-| **Basel Grotesk Mono** | 14px · 400 · 20px | 194 |
-| **Applesystem** | 14px · 400 · normal | 164 |
+| `32px` | padding-bottom | page content |
+| `32px` | padding-right | page content |
+| `0px 32px 32px` | padding | page content |
+| `32px` | padding-left | page content |
+| `8px 0px 0px` | margin | page content |
+| `8px` | margin-top | page content |
+| `16px` | padding-bottom | page content |
+| `12px` | padding-right | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `32px` for padding-bottom, `32px` for padding-right, `0px 32px 32px` for padding, `32px` for padding-left, `8px 0px 0px` for margin, and `8px` for margin-top. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 8px`, `0px 1px 0px 0px solid 0px`, `0px 0px 1px solid 0px`, `0px none 6px`, `1px 0px 0px solid 0px`, `0px none 8px`, `1px solid 12px`, and `0px none 12px 0px 0px` border treatments. Recorded gradients include `linear-gradient(90deg, rgba(0, 0, 0, 0) calc(50% - 22px), rgb(255, 255, 255), rgba(0, 0, 0, 0) calc(50% + 22px))`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 8px` (2236), `0px 1px 0px 0px solid 0px` (1164), `0px 0px 1px solid 0px` (169), `0px none 6px` (145), `1px 0px 0px solid 0px` (46), and `0px none 8px` (34). 1 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#252523`, `#33302e`, and `#413c3a`. Text colors include `#f4f0eb`, `#000000`, and `#e7e1da`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **By Chi Long Trieu**, **Inter**, **Applesystem**, **Basel Grotesk Mono**, and **Martina Plantijn**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `32px`, `32px`, `0px 32px 32px`, `32px`, and `8px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **aside**, **button**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#252523`, `#33302e`, `#413c3a`, and `#23211f`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <body>, <button>, <li>, <ul>, <a>, <h3>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

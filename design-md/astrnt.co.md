@@ -14,65 +14,89 @@ Last updated: 2026-08-03
 
 [ASTRNT – Transforming Hiring and Admissions](https://design.withfudge.com/share/pin-8773)
 
-## Design character
-
-astrnt.co has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 6 recurring colors, and 16 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 56 color rows, 18 typography rows, 14 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+astrnt.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#18244e`, and `#494ca1`, with typography led by **Open Sans**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 286 |
-| `#18244e` | color · unknown | 234 |
-| `#494ca1` | color · header | 50 |
-| `#db334d` | color · header | 24 |
-| `#ffffff` | color · header | 16 |
-| `#2d26b8` | color · header | 4 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#18244e` | text on page content |
+| color.text | `#494ca1` | text on page content in the header |
+| color.text | `#db334d` | text on page content in the header |
+| color.text | `#ffffff` | text on page content in the header |
+| color.text | `#2d26b8` | text on page content in the header |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Open Sans** | 16px | 400 | 60px | normal | <div> |
+| type.body-16px | **Open Sans** | 16px | 400 | 22.8571px | normal | <div>, <a> in the header, <li> in the header, and <ul> in the header |
+| type.heading-14px | **Open Sans** | 14px | 700 | 80px | normal | <a> in the header |
+| type.display-48px | **Open Sans** | 48px | 700 | 52px | normal | <div> |
+| type.heading-14px | **Open Sans** | 14px | 700 | 36px | normal | <a> in the header |
+| type.body-14px | **Open Sans** | 14px | 400 | 21px | normal | <div> in the header |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Open Sans** | 16px · 400 · 22.8571px | 302 |
+| `180px 644.797px 120px 0px` | padding | page content |
+| `0px 10px` | padding | page content |
+| `0px 16px` | padding | page content |
+| `20px 0px` | margin | page content |
+| `22px 0px` | padding | page content |
+| `0px 50px 0px 0px` | margin | page content |
+| `0px -10px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `180px 644.797px 120px 0px` for padding, `0px 10px` for padding, `0px 16px` for padding, `20px 0px` for margin, `22px 0px` for padding, and `0px 50px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `2px solid 6px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `2px solid 6px` (10). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`. Text colors include `#18244e`, `#494ca1`, and `#db334d`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Open Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `180px 644.797px 120px 0px`, `0px 10px`, `0px 16px`, `20px 0px`, and `22px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <li>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

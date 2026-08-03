@@ -30,72 +30,110 @@ Last updated: 2026-08-03
 
 [AI SDK](https://design.withfudge.com/share/pin-8392)
 
-## Design character
-
-ai-sdk.dev has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 2 captured type families, 12 recurring colors, and 94 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **6 pages** and 6 representative page references. It records 211 color rows, 80 typography rows, 62 spacing rows, 26 border rows, 0 gradient rows, and 6 shadow rows.
+ai-sdk.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ededed`, and `#a1a1a1`, with typography led by **Geist** and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 3271 |
-| `#ededed` | color · unknown | 2849 |
-| `#a1a1a1` | color · unknown | 404 |
-| `#1f1f1f` | border-color · unknown | 148 |
-| `#0a0a0a` | background-color · button | 97 |
-| `#8f8f8f` | color · button | 42 |
-| `#ffffff` | border-color · button | 21 |
-| `#62c073` | color · unknown | 18 |
-| `#878787` | color · button | 12 |
-| `#2e2e2e` | border-color · button | 10 |
-| `#f75f8f` | color · unknown | 6 |
-| `#bf7af0` | color · unknown | 5 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#ededed` | text on page content |
+| color.text | `#a1a1a1` | text on page content |
+| color.border | `#1f1f1f` | border on page content |
+| color.surface | `#0a0a0a` | surface on page content in the button |
+| color.text | `#8f8f8f` | text on page content in the button |
+| color.border | `#ffffff` | border on page content in the button |
+| color.text | `#62c073` | text on page content |
+| color.text | `#878787` | text on page content in the button |
+| color.border | `#2e2e2e` | border on page content in the button |
+| color.text | `#f75f8f` | text on page content |
+| color.text | `#bf7af0` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Geist** | 16px | 400 | 24px | normal | <div>, <p>, <div> in the button, <button> in the button, <p> in the button, <span>, <a>, and <ul> in the nav |
+| type.utility-13px | **Geist Mono** | 13px | 400 | 20px | normal | <button> in the button, <span>, and <div> |
+| type.utility-12px | **Geist Mono** | 12px | 400 | 16px | normal | <button> in the button and <span> |
+| type.display-64px | **Geist** | 64px | 600 | 64px | -3.84px | <h1> |
+| type.body-18px | **Geist** | 18px | 400 | 27px | normal | <span> |
+| type.body-20px | **Geist** | 20px | 400 | 36px | normal | <p> |
+| type.display-40px | **Geist** | 40px | 600 | 48px | -2.4px | <h3> |
+| type.body-14px | **Geist** | 14px | 500 | 20px | normal | <span> in the button, <span>, <a>, and <button> in the button |
+| type.body-20px | **Geist** | 20px | 500 | 26px | -0.4px | <span> |
+| type.utility-13px | **Geist** | 13px | 400 | 17.875px | normal | <div> |
+| type.heading-20px | **Geist** | 20px | 600 | 26px | -0.4px | <p> |
+| type.utility-13px | **Geist** | 13px | 500 | 19.5px | normal | <span> in the button and <button> in the button |
+| type.heading-24px | **Geist** | 24px | 600 | 32px | -0.96px | <p> in the button |
+| type.body-14px | **Geist** | 14px | 400 | 20px | normal | <a> in the nav, <button> in the button, and <p> |
+| type.body-18px | **Geist** | 18px | 400 | 28px | normal | <p> |
+| type.body-16px | **Geist** | 16px | 400 | 20px | normal | <span> and <button> in the button |
+| type.utility-12px | **Geist Mono** | 12px | 500 | 16px | normal | <button> in the button |
+| type.utility-13px | **Geist Mono** | 13px | 400 | 18px | normal | <a> |
+| type.body-14px | **Geist Mono** | 14px | 400 | 20px | normal | <span> |
+| type.body-16px | **Geist** | 16px | 500 | 24px | normal | <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Geist** | 16px · 400 · 24px | 3069 |
-| **Geist Mono** | 12px · 400 · 16px | 281 |
+| `192px 16px` | padding | page content |
+| `0px 1px 1px 0px` | margin | page content |
+| `48px` | padding | page content |
+| `48px 0px 0px` | margin | page content |
+| `0px 20px` | padding | page content |
+| `16px` | padding | page content |
+| `12px 0px 0px` | margin | page content |
+| `0px 16px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `192px 16px` for padding, `0px 1px 1px 0px` for margin, `48px` for padding, `48px 0px 0px` for margin, `0px 20px` for padding, and `16px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px 0px 0px solid 0px`, `1px 0px 0px 1px solid 0px`, `1px 1px 0px solid 8px 8px 0px 0px`, `0px none 6px`, `1px solid 12px 12px 12px 2px`, `0px none 100px`, `1px solid 6px`, and `1px solid 0px 0px 8px 8px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(255, 255, 255, 0.145) 0px 0px 0px 1px, rgba(0, 0, 0, 0.16) 0px 1px 2px 0px, rgb(0, 0, 0) 0px 0px 0px 1px`, `rgba(255, 255, 255, 0.14) 0px 0px 0px 1px`, and `rgb(46, 46, 46) 0px 0px 0px 1px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px 0px 0px solid 0px` (45), `1px 0px 0px 1px solid 0px` (45), `1px 1px 0px solid 8px 8px 0px 0px` (29), `0px none 6px` (20), `1px solid 12px 12px 12px 2px` (18), and `1px solid 6px` (12). 0 gradient rows and 6 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000` and `#0a0a0a`. Text colors include `#ededed`, `#a1a1a1`, and `#8f8f8f`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Geist** and **Geist Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `192px 16px`, `0px 1px 1px 0px`, `48px`, `48px 0px 0px`, and `0px 20px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **image**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000` and `#0a0a0a`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <span>, <h3>, <p>, <button>, <a>, <h1>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

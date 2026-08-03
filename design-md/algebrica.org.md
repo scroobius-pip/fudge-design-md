@@ -22,71 +22,110 @@ Last updated: 2026-08-03
 
 [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/share/pin-8749)
 
-## Design character
-
-algebrica.org has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 1 captured type family, 17 recurring colors, and 81 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **4 pages** and 4 representative page references. It records 132 color rows, 67 typography rows, 71 spacing rows, 10 border rows, 0 gradient rows, and 0 shadow rows.
+algebrica.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#666666`, and `#dadada`, with typography led by **Segoe Ui**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 7846 |
-| `#666666` | color · unknown | 324 |
-| `#dadada` | border-color · unknown | 317 |
-| `#e5e5e5` | background-color · unknown | 151 |
-| `#f6f6f6` | background-color · unknown | 125 |
-| `#4f4f4f` | color · unknown | 84 |
-| `#282828` | background-color · unknown | 84 |
-| `#999999` | color · unknown | 30 |
-| `#777777` | color · unknown | 18 |
-| `#505050` | color · unknown | 14 |
-| `#0000ee` | color · unknown | 9 |
-| `#cccccc` | color · unknown | 8 |
+| color.text | `#000000` | text on page content |
+| color.text | `#666666` | text on page content |
+| color.border | `#dadada` | border on page content |
+| color.surface | `#e5e5e5` | surface on page content |
+| color.surface | `#f6f6f6` | surface on page content |
+| color.text | `#4f4f4f` | text on page content |
+| color.surface | `#282828` | surface on page content |
+| color.text | `#999999` | text on page content |
+| color.text | `#777777` | text on page content |
+| color.text | `#505050` | text on page content |
+| color.text | `#0000ee` | text on page content |
+| color.text | `#cccccc` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Segoe Ui** | 16px | 400 | normal | normal | <div>, <a>, and <div> in the header |
+| type.body-15px | **Segoe Ui** | 15px | 400 | 22.5px | normal | <div>, <h2>, <p>, <ul>, <li>, and <a> |
+| type.body-16px | **Segoe Ui** | 16px | 400 | 24px | normal | <div> |
+| type.body-15px | **Segoe Ui** | 15px | 400 | 21px | normal | <li>, <div>, and <a> |
+| type.body-14px | **Segoe Ui** | 14px | 400 | normal | normal | <li>, <ul>, <a>, <p>, <div>, and <span> |
+| type.body-15px | **Segoe Ui** | 15px | 400 | normal | normal | <div> and <ul> |
+| type.body-14px | **Segoe Ui** | 14px | 400 | 21px | normal | <p> |
+| type.body-15px | **Segoe Ui** | 15px | 500 | normal | normal | <a> |
+| type.body-16px | **Segoe Ui** | 16px | 500 | 24px | normal | <div> |
+| type.body-15px | **Segoe Ui** | 15px | 400 | 20px | normal | <div> and <a> |
+| type.utility-13px | **Segoe Ui** | 13px | 400 | normal | normal | <div> and <a> in the nav |
+| type.body-16px | **Segoe Ui** | 16px | 500 | normal | normal | <div> |
+| type.body-24px | **Segoe Ui** | 24px | 500 | 33.6px | normal | <h1> in the header |
+| type.body-14px | **Segoe Ui** | 14px | 400 | 18.2px | normal | <h5> |
+| type.utility-12px | **Segoe Ui** | 12px | 400 | 16.8px | normal | <div> |
+| type.body-14px | **Segoe Ui** | 14px | 400 | 14px | normal | <div> in the header |
+| type.utility-13px | **Segoe Ui** | 13px | 400 | 18.2px | normal | <div> |
+| type.body-16px | **Segoe Ui** | 16px | 400 | 22.4px | normal | <a> and <div> |
+| type.body-15px | **Segoe Ui** | 15px | 400 | 38px | normal | <a> |
+| type.body-14px | **Segoe Ui** | 14px | 400 | 24px | normal | <div> in the header |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Segoe Ui** | 16px · 400 · normal | 4355 |
+| `0px 0px 20px` | margin | page content |
+| `14px 30px 30px` | padding | page content |
+| `0px 0px 30px` | margin | page content |
+| `0px 20px 0px 0px` | padding | page content |
+| `0px 0px 10px` | margin | page content |
+| `20px` | padding | page content |
+| `0px 0px 20px` | padding | page content |
+| `13px 0px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 0px 20px` for margin, `14px 30px 30px` for padding, `0px 0px 30px` for margin, `0px 20px 0px 0px` for padding, `0px 0px 10px` for margin, and `20px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 12px`, `0px none 12px`, `1px 0px 0px solid none none 0px`, `2px 0px 0px solid none none 0px`, `0px none 3px`, `0px none 4px`, and `0px none 24px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 12px` (265), `0px none 12px` (221), `1px 0px 0px solid none none 0px` (29), `2px 0px 0px solid none none 0px` (22), `0px none 3px` (14), and `0px none 4px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#e5e5e5`, `#f6f6f6`, and `#282828`. Text colors include `#000000`, `#666666`, and `#4f4f4f`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Segoe Ui**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 0px 20px`, `14px 30px 30px`, `0px 0px 30px`, `0px 20px 0px 0px`, and `0px 0px 10px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **header**, **image**, **button**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#e5e5e5`, `#f6f6f6`, `#282828`, and `#555555`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <li>, <ul>, <span>, <h1>, <h2>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

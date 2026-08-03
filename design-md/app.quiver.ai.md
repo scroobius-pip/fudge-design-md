@@ -18,73 +18,101 @@ Last updated: 2026-08-03
 
 [QuiverAI public beta](https://design.withfudge.com/share/pin-9926)
 
-## Design character
-
-app.quiver.ai has a predominantly light surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 14 recurring colors, and 252 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **3 pages** and 3 representative page references. It records 112 color rows, 61 typography rows, 220 spacing rows, 21 border rows, 1 gradient rows, and 10 shadow rows.
+app.quiver.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#f8f8f8`, and `#e5e5e5`, with typography led by **Geist**, **Applesystem**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 123887 |
-| `#f8f8f8` | background-color · unknown | 36490 |
-| `#e5e5e5` | box-shadow · unknown | 7533 |
-| `#fcfcfc` | background-color · unknown | 3979 |
-| `#ffffff` | background-color · unknown | 1241 |
-| `#404040` | color · unknown | 443 |
-| `#737373` | color · unknown | 111 |
-| `#171717` | color · button | 19 |
-| `#f3f3f3` | background-color · unknown | 6 |
-| `#ececec` | background-color · unknown | 4 |
-| `#a1a1a1` | color · button | 2 |
-| `#262626` | background-color · unknown | 2 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#f8f8f8` | surface on page content |
+| color.shadow | `#e5e5e5` | shadow on page content |
+| color.surface | `#fcfcfc` | surface on page content |
+| color.surface | `#ffffff` | surface on page content |
+| color.text | `#404040` | text on page content |
+| color.text | `#737373` | text on page content |
+| color.text | `#171717` | text on page content in the button |
+| color.surface | `#f3f3f3` | surface on page content |
+| color.surface | `#ececec` | surface on page content |
+| color.text | `#a1a1a1` | text on page content in the button |
+| color.surface | `#262626` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Geist** | 16px | 400 | 24px | normal | <html>, <div>, <body>, <a>, <header> in the header, <img>, <button> in the button, <span>, <svg> in the button, <form>, and <p> |
+| type.body-14px | **Geist** | 14px | 400 | 21px | normal | <a>, <div>, <span>, <div> in the button, <button> in the button, <p> in the button, <textarea>, <span> in the button, <svg> in the button, <select>, and <label> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-14px | **Geist** | 14px | 400 | 20px | normal | <div> in the button and <button> in the button |
+| type.display-44px | **Geist** | 44px | 400 | 52.8px | -1.1px | <h1> and <span> |
+| type.body-14px | **Geist** | 14px | 400 | 17.6px | normal | <button> in the button and <svg> in the button |
+| type.utility-12px | **Geist** | 12px | 400 | 17.6px | normal | <div>, <span>, and <button> in the button |
+| type.display-36px | **Geist** | 36px | 400 | 40px | -0.9px | <h1> |
+| type.body-30px | **Geist** | 30px | 400 | 36px | -0.75px | <h1> |
+| type.utility-12px | **Geist** | 12px | 500 | 17.6px | normal | <a> |
+| type.utility-12px | **Geist Mono** | 12px | 500 | 14.4px | 0.72px | <button> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Geist** | 16px · 400 · 24px | 108406 |
-| **Applesystem** | 14px · 400 · normal | 88 |
-| **Geist Mono** | 12px · 500 · 14.4px | 2 |
+| `24px` | padding-right | page content |
+| `24px` | padding-left | page content |
+| `24px` | padding-top | page content |
+| `14px` | gap | page content |
+| `14px` | row-gap | page content |
+| `14px` | column-gap | page content |
+| `8px` | padding-top | page content |
+| `8px` | padding-bottom | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `24px` for padding-right, `24px` for padding-left, `24px` for padding-top, `14px` for gap, `14px` for row-gap, and `14px` for column-gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 8px`, `1px solid 12px`, `0px none 16px`, `0px none 8px`, `0px none 12px`, `0px none 1.67772e+07px`, `0px 0px 1px solid 0px`, and `0px none 10px` border treatments. Recorded gradients include `linear-gradient(to top, oklab(0 0 0 / 0.6) 0%, rgba(0, 0, 0, 0) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.04) 0px 2px 2px 0px, rgba(0, 0, 0, 0.04) 0px 8px 16px -4px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.016) 0px 2px 8px 0px, rgba(0, 0, 0, 0.01) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 4px 8px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.922 0 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0px, rgba(0, 0, 0, 0.04) 0px 4px 8px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.922 0 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.922 0 0 / 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.04) 0px 2px 2px 0px, rgba(0, 0, 0, 0.04) 0px 8px 16px -4px`, and `oklab(0.999994 0.0000455678 0.0000200868 / 0.1) 0px 2px 4px 0px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 8px` (4001), `1px solid 12px` (3320), `0px none 16px` (1368), `0px none 8px` (96), `0px none 12px` (79), and `0px none 1.67772e+07px` (69). 1 gradient rows and 10 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly light surface treatment. Surface colors include `#f8f8f8`, `#fcfcfc`, and `#ffffff`. Text colors include `#000000`, `#404040`, and `#737373`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Geist**, **Applesystem**, and **Geist Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `24px`, `24px`, `24px`, `14px`, and `14px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly light surface treatment. Surface treatment centers on `#f8f8f8`, `#fcfcfc`, `#ffffff`, and `#f3f3f3`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <body>, <a>, <span>, <button>, <p>, and <header> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated light surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

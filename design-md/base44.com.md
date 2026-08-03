@@ -34,78 +34,110 @@ Last updated: 2026-08-03
 
 [Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7405)
 
-## Design character
-
-base44.com has a mixed light and dark surface treatment across 7 captured pages. The strongest recurring signals are 8 captured type families, 16 recurring colors, and 201 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **7 pages** and 7 representative page references. It records 197 color rows, 92 typography rows, 173 spacing rows, 22 border rows, 6 gradient rows, and 0 shadow rows.
+base44.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#faf9f7`, with typography led by **Arial**, **Times**, **Madefor**, **Bcnovaticacyr**, **Stk Miso**, **Wix Madefor**, **Applesystem**, and **Wix Madefor Vf**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 99809 |
-| `#ffffff` | background-color · header | 4987 |
-| `#faf9f7` | background-color · main | 489 |
-| `#fff9eb` | background-color · main | 271 |
-| `#0f0f0f` | background-color · main | 170 |
-| `#e6e6e6` | border-color · header | 122 |
-| `#0000ee` | color · unknown | 107 |
-| `#bfd7e0` | background-color · main | 99 |
-| `#dce8e8` | background-color · main | 32 |
-| `#232529` | color · main | 30 |
-| `#ebffb1` | background-color · button | 17 |
-| `#ade900` | border-color · header | 12 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#ffffff` | surface on page content in the header |
+| color.surface | `#faf9f7` | surface on page content in the main |
+| color.surface | `#fff9eb` | surface on page content in the main |
+| color.surface | `#0f0f0f` | surface on page content in the main |
+| color.border | `#e6e6e6` | border on page content in the header |
+| color.text | `#0000ee` | text on page content |
+| color.surface | `#bfd7e0` | surface on page content in the main |
+| color.surface | `#dce8e8` | surface on page content in the main |
+| color.text | `#232529` | text on page content in the main |
+| color.surface | `#ebffb1` | surface on page content in the button |
+| color.border | `#ade900` | border on page content in the header |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-10px | **Arial** | 10px | 400 | normal | normal | <body>, <div> in the main, <section> in the main, <main> in the main, <div>, <img> in the main, <picture> in the main, <div> in the header, <header> in the header, <span> in the main, <a> in the main, <svg> in the main, <div> in the nav, <li> in the nav, <ul> in the nav, and <nav> in the nav |
+| type.body-16px | **Times** | 16px | 400 | normal | normal | <body>, <div>, and <html> |
+| type.body-16px | **Madefor** | 16px | 400 | normal | normal | <span> in the button, <button> in the button, <svg> in the button, <a> in the nav, <a> in the header, <div>, and <a> |
+| type.display-120.4px | **Bcnovaticacyr** | 120.4px | 500 | normal | 2.408px | <div> and <h1> |
+| type.display-36.4083px | **Stk Miso** | 36.4083px | 400 | 43.6899px | normal | <p> in the main |
+| type.utility-12.4323px | **Wix Madefor** | 12.4323px | 400 | 19.8918px | normal | <span> in the main and <p> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.display-34.4px | **Bcnovaticacyr** | 34.4px | 500 | normal | 3.44px | <h2> |
+| type.body-13.3333px | **Arial** | 13.3333px | 400 | normal | normal | <svg> in the button, <span> in the button, and <button> in the button |
+| type.body-22.36px | **Madefor** | 22.36px | 400 | normal | normal | <div> |
+| type.display-68.5333px | **Stk Miso** | 68.5333px | 400 | 61.6799px | normal | <h2> in the main |
+| type.display-71.0417px | **Stk Miso** | 71.0417px | 400 | 78.1459px | -0.710417px | <h1> in the main |
+| type.body-19.275px | **Wix Madefor** | 19.275px | 400 | normal | normal | <p> in the main |
+| type.display-79.2417px | **Stk Miso** | 79.2417px | 400 | 79.2417px | normal | <h1> in the main |
+| type.utility-12px | **Wix Madefor** | 12px | 400 | 15.72px | normal | <p> in the main |
+| type.display-42.8333px | **Stk Miso** | 42.8333px | 400 | 47.1167px | normal | <h2> in the main and <h3> in the main |
+| type.body-21.4167px | **Wix Madefor** | 21.4167px | 400 | 29.9833px | normal | <p> in the main |
+| type.utility-12px | **Wix Madefor** | 12px | 400 | 12px | normal | <p> in the main |
+| type.body-26.6406px | **Stk Miso** | 26.6406px | 400 | 26.6406px | normal | <span> in the main and <h2> in the main |
+| type.body-19.5364px | **Stk Miso** | 19.5364px | 400 | 24.2251px | normal | <span> in the main and <p> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Arial** | 10px · 400 · normal | 82561 |
-| **Times** | 16px · 400 · normal | 11705 |
-| **Madefor** | 10px · 400 · normal | 1092 |
-| **Bcnovaticacyr** | 34.4px · 500 · normal | 476 |
-| **Stk Miso** | 26.6406px · 400 · 26.6406px | 363 |
-| **Wix Madefor** | 12px · 400 · 15.72px | 305 |
-| **Applesystem** | 14px · 400 · normal | 80 |
-| **Wix Madefor Vf** | 16px · 400 · normal | 3 |
+| `145.483px 0px 68.8px` | padding | page content |
+| `145.483px` | padding-top | page content |
+| `68.8px` | padding-bottom | page content |
+| `0px 110.08px 0px 109.292px` | padding | page content |
+| `110.08px` | padding-right | page content |
+| `109.292px` | padding-left | page content |
+| `62.1614px 0px 0px` | margin | page content |
+| `62.1614px` | margin-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `145.483px 0px 68.8px` for padding, `145.483px` for padding-top, `68.8px` for padding-bottom, `0px 110.08px 0px 109.292px` for padding, `110.08px` for padding-right, and `109.292px` for padding-left. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 1069.76px`, `0px none 10.7083px`, `0px none 8.88015px`, `0px none 19.5364px`, `1px solid 100px`, `0px none 5.32812px`, `0px none 300px`, and `0px none 37.4792px` border treatments. Recorded gradients include `radial-gradient(55.78% 55.78%, rgba(255, 241, 209, 0) 58.17%, rgb(255, 255, 255) 100%)`, `linear-gradient(rgba(251, 250, 248, 0) 0%, rgba(255, 240, 222, 0.3) 18.28%, rgb(255, 174, 83) 43.58%, rgb(255, 127, 71) 55.6%, rgba(255, 174, 83, 0) 80.7%)`, `linear-gradient(rgb(242, 241, 237) 43.61%, rgb(240, 196, 227) 93.76%, rgb(251, 180, 57) 104.42%)`, `linear-gradient(rgb(242, 241, 237) 42.49%, rgb(213, 223, 224) 93.98%, rgb(229, 255, 148) 104.08%)`, and `linear-gradient(280deg, rgba(255, 128, 71, 0) 0%, rgba(255, 154, 107, 0) 100%)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 1069.76px` (1940), `0px none 10.7083px` (818), `0px none 8.88015px` (407), `0px none 19.5364px` (329), `1px solid 100px` (122), and `0px none 5.32812px` (107). 6 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#ffffff`, `#faf9f7`, and `#fff9eb`. Text colors include `#000000`, `#0000ee`, and `#232529`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Arial**, **Times**, **Madefor**, **Bcnovaticacyr**, **Stk Miso**, **Wix Madefor**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `145.483px 0px 68.8px`, `145.483px`, `68.8px`, `0px 110.08px 0px 109.292px`, and `110.08px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **header**, **button**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffff`, `#faf9f7`, `#fff9eb`, and `#0f0f0f`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <body>, <section>, <main>, <img>, <picture>, <svg>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

@@ -22,67 +22,80 @@ Last updated: 2026-08-03
 
 [Preorder Agentic UI](https://design.withfudge.com/share/pin-5930)
 
-## Design character
-
-agenticui.net has a mixed light and dark surface treatment across 4 captured pages. The strongest recurring signals are 3 captured type families, 6 recurring colors, and 0 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **4 pages** and 4 representative page references. It records 53 color rows, 10 typography rows, 0 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+agenticui.net presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#616161`, and `#191919`, with typography led by **Geist**, **Inter**, and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 1393 |
-| `#616161` | color · unknown | 188 |
-| `#191919` | color · unknown | 43 |
-| `#8c8c8c` | color · unknown | 19 |
-| `#0000ee` | color · unknown | 8 |
-| `#7d7d7d` | color · unknown | 1 |
+| color.text | `#000000` | text on page content |
+| color.text | `#616161` | text on page content |
+| color.text | `#191919` | text on page content |
+| color.text | `#8c8c8c` | text on page content |
+| color.text | `#0000ee` | text on page content |
+| color.text | `#7d7d7d` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
-| --- | --- | --- |
-| **Geist** | 16px · 400 · 22.4px | 212 |
-| **Inter** | 14px · 400 · 19.6px | 10 |
-| **Ibm Plex Mono** | 10px · 400 · 11px | 6 |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Geist** | 16px | 400 | 22.4px | normal | <p> |
+| type.utility-13px | **Geist** | 13px | 400 | 16.9px | -0.3px | <p> and <a> |
+| type.body-14px | **Inter** | 14px | 400 | 19.6px | -0.3px | <p> |
+| type.utility-13px | **Ibm Plex Mono** | 13px | 400 | 16.9px | 0.2px | <p> |
+| type.utility-10px | **Ibm Plex Mono** | 10px | 400 | 11px | 0.2px | <p> and <a> |
 
-### Spacing and layout
+### Spacing
 
 No structured spacing observations were returned.
 
-### Shape, borders, and depth
+### Shape and depth
 
-No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+No structured border, gradient, or shadow treatment was returned.
+
+## Colors
+
+The visual system is mixed light and dark surface treatment. Surface roles are not fully established. Text colors include `#000000`, `#616161`, and `#191919`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Geist**, **Inter**, and **Ibm Plex Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+No structured spacing values were returned. Container widths, grid rules, and section rhythm require screenshot review.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. The surface palette is not fully established. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

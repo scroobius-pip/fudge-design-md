@@ -34,73 +34,110 @@ Last updated: 2026-08-03
 
 [designwithvibbbes.com](https://design.withfudge.com/share/pin-7188)
 
-## Design character
-
-designwithvibbbes.com has a predominantly dark surface treatment across 7 captured pages. The strongest recurring signals are 3 captured type families, 24 recurring colors, and 205 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **7 pages** and 7 representative page references. It records 326 color rows, 93 typography rows, 116 spacing rows, 42 border rows, 22 gradient rows, and 25 shadow rows.
+designwithvibbbes.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#b4c3e6`, and `#ffffff`, with typography led by **Plus Jakarta Sans**, **Made Outer Sans**, and **Roboto Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 8814 |
-| `#b4c3e6` | box-shadow · unknown | 1936 |
-| `#ffffff` | border-color · unknown | 1566 |
-| `#6b7280` | color · unknown | 511 |
-| `#374151` | color · unknown | 451 |
-| `#f2f8ff` | background-color · unknown | 329 |
-| `#5856d6` | border-color · unknown | 124 |
-| `#050a28` | box-shadow · header | 117 |
-| `#9ca3af` | color · unknown | 87 |
-| `#648cff` | border-color · header | 65 |
-| `#0a112f` | box-shadow · button | 47 |
-| `#22c55e` | border-color · unknown | 43 |
+| color.surface | `#000000` | surface on page content |
+| color.shadow | `#b4c3e6` | shadow on page content |
+| color.border | `#ffffff` | border on page content |
+| color.text | `#6b7280` | text on page content |
+| color.text | `#374151` | text on page content |
+| color.surface | `#f2f8ff` | surface on page content |
+| color.border | `#5856d6` | border on page content |
+| color.shadow | `#050a28` | shadow on page content in the header |
+| color.text | `#9ca3af` | text on page content |
+| color.border | `#648cff` | border on page content in the header |
+| color.shadow | `#0a112f` | shadow on page content in the button |
+| color.border | `#22c55e` | border on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Plus Jakarta Sans** | 16px | 400 | 24px | normal | <div>, <div> in the header, <ul>, <li>, <span>, <div> in the nav, <div> in the footer, and <ul> in the footer |
+| type.body-14px | **Plus Jakarta Sans** | 14px | 400 | 20px | normal | <p>, <span>, <a> in the nav, and <div> |
+| type.heading-16px | **Made Outer Sans** | 16px | 600 | 24px | -0.64px | <h3> |
+| type.display-127px | **Made Outer Sans** | 127px | 300 | 190.5px | 8px | <text> in the footer |
+| type.display-68px | **Made Outer Sans** | 68px | 500 | 85px | -1.36px | <h1> and <span> |
+| type.heading-24px | **Made Outer Sans** | 24px | 700 | 32px | -0.96px | <h2> |
+| type.body-16px | **Made Outer Sans** | 16px | 400 | 24px | normal | <button> in the button |
+| type.display-40px | **Made Outer Sans** | 40px | 700 | 48px | -1.6px | <h1> |
+| type.body-14px | **Plus Jakarta Sans** | 14px | 400 | 22.75px | normal | <p> |
+| type.body-18px | **Made Outer Sans** | 18px | 500 | 28px | normal | <span> in the button and <button> in the button |
+| type.utility-12px | **Plus Jakarta Sans** | 12px | 700 | 16px | 0.6px | <p> |
+| type.body-14px | **Made Outer Sans** | 14px | 500 | 20px | normal | <a> in the nav, <button> in the button, <a> in the header, and <a> |
+| type.heading-16px | **Made Outer Sans** | 16px | 600 | 22px | -0.64px | <h3> |
+| type.body-14px | **Plus Jakarta Sans** | 14px | 400 | 21px | normal | <p> |
+| type.heading-14px | **Made Outer Sans** | 14px | 600 | 20px | normal | <button> in the button, <a> in the header, and <span> in the button |
+| type.heading-16px | **Plus Jakarta Sans** | 16px | 600 | 24px | normal | <p> |
+| type.heading-30px | **Made Outer Sans** | 30px | 700 | 36px | -1.2px | <h2> |
+| type.heading-14px | **Plus Jakarta Sans** | 14px | 600 | 20px | normal | <a> and <p> |
+| type.body-14px | **Roboto Mono** | 14px | 400 | 20px | normal | <code> |
+| type.body-14px | **Made Outer Sans** | 14px | 500 | 20px | -0.56px | <span> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Plus Jakarta Sans** | 16px · 400 · 24px | 4376 |
-| **Made Outer Sans** | 30px · 700 · 36px | 1043 |
-| **Roboto Mono** | 12px · 400 · 16px | 28 |
+| `32px` | padding | page content |
+| `0px 0px 16px` | margin | page content |
+| `128px 24px 56px` | padding | page content |
+| `20px` | padding | page content |
+| `0px 0px 4px` | margin | page content |
+| `0px 252.5px` | margin | page content |
+| `0px 32px` | padding | page content |
+| `-40px 212.5px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `32px` for padding, `0px 0px 16px` for margin, `128px 24px 56px` for padding, `20px` for padding, `0px 0px 4px` for margin, and `0px 252.5px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 10px`, `2px dashed 12px`, `2px solid 10px`, `1px solid 9999px`, `2px solid 10px`, `2px solid 9999px`, `0px none 9999px`, and `2px solid 8px` border treatments. Recorded gradients include `linear-gradient(rgba(255, 255, 255, 0.92) 0%, rgba(255, 255, 255, 0.85) 100%)`, `linear-gradient(rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.5) 100%)`, `linear-gradient(rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.55) 100%)`, `linear-gradient(rgba(255, 251, 235, 0.92) 0%, rgba(255, 247, 237, 0.85) 100%)`, `linear-gradient(rgba(15, 25, 80, 0.55), rgba(15, 25, 80, 0.45))`, `linear-gradient(135deg, rgba(245, 158, 11, 0.95) 0%, rgba(234, 88, 12, 0.95) 100%)`, `linear-gradient(rgba(15, 25, 80, 0.48) 0%, rgba(15, 25, 80, 0.4) 70%, rgba(60, 90, 180, 0.65) 100%)`, and `linear-gradient(rgb(19, 28, 82) 0%, rgb(10, 17, 47) 100%)`. Recorded shadows include `rgba(180, 195, 230, 0.08) 0px 5px 10px 0px, rgba(180, 195, 230, 0.06) 0px 15px 30px 0px, rgba(180, 195, 230, 0.04) 0px 20px 40px 0px`, `rgba(5, 10, 40, 0.1) 0px 10px 10px 0px, rgba(5, 10, 40, 0.05) 0px 4px 4px 0px, rgba(5, 10, 40, 0.05) 0px 1px 0px 0px, rgba(100, 150, 255, 0.2) 0px 8px 16px 0px inset`, `rgba(100, 150, 255, 0.15) 0px 0px 12px 0px`, `rgba(180, 195, 230, 0.12) 0px 5px 10px 0px, rgba(180, 195, 230, 0.1) 0px 15px 30px 0px, rgba(180, 195, 230, 0.08) 0px 20px 40px 0px, rgba(88, 86, 214, 0.06) 0px 0px 30px 0px`, `rgba(10, 17, 47, 0.3) 0px 4px 16px 0px, rgba(100, 140, 255, 0.08) 0px 0px 12px 0px`, `rgba(180, 195, 230, 0.04) 0px 1px 0px 0px, rgba(180, 195, 230, 0.04) 0px 4px 4px 0px, rgba(180, 195, 230, 0.06) 0px 10px 10px 0px`, `rgba(34, 197, 94, 0.3) 0px 2px 8px 0px`, and `rgba(245, 158, 11, 0.3) 0px 2px 8px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 10px` (609), `2px dashed 12px` (171), `2px solid 10px` (93), `1px solid 9999px` (73), `2px solid 9999px` (24), and `0px none 9999px` (20). 22 gradient rows and 25 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#f2f8ff`, and `#0f1950`. Text colors include `#6b7280`, `#374151`, and `#9ca3af`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Plus Jakarta Sans**, **Made Outer Sans**, and **Roboto Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `32px`, `0px 0px 16px`, `128px 24px 56px`, `20px`, and `0px 0px 4px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **footer**, **button**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#f2f8ff`, `#0f1950`, and `#060715`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <h2>, <div>, <span>, <p>, <button>, <a>, <ul>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

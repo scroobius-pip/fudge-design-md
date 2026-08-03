@@ -14,63 +14,86 @@ Last updated: 2026-08-03
 
 [The DFINITY Foundation](https://design.withfudge.com/share/pin-7230)
 
-## Design character
-
-dfinity.org has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 3 recurring colors, and 8 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 42 color rows, 10 typography rows, 5 spacing rows, 2 border rows, 1 gradient rows, and 0 shadow rows.
+dfinity.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0e031f`, and `#ffffff`, with typography led by **By Laurenz Brunner** and **Circular Xx**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 1607 |
-| `#0e031f` | border-color · main | 27 |
-| `#ffffff` | color · button | 3 |
+| color.text | `#000000` | text on page content |
+| color.border | `#0e031f` | border on page content in the main |
+| color.text | `#ffffff` | text on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **By Laurenz Brunner** | 16px | 400 | 24px | normal | <div> and <div> in the main |
+| type.body-16px | **Circular Xx** | 16px | 400 | 24px | normal | <div> in the main |
+| type.body-14px | **Circular Xx** | 14px | 450 | 22.4px | normal | <p> in the main and <a> in the main |
+| type.display-64px | **By Laurenz Brunner** | 64px | 500 | 76.8px | normal | <h2> in the main |
+| type.display-64px | **Circular Xx** | 64px | 500 | 76.8px | normal | <h2> in the main |
+| type.display-32px | **Circular Xx** | 32px | 450 | 44.8px | normal | <h3> in the main |
+| type.body-18px | **Circular Xx** | 18px | 450 | 28.8px | normal | <div> in the button |
+| type.body-16px | **By Laurenz Brunner** | 16px | 500 | 25.6px | normal | <button> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **By Laurenz Brunner** | 16px · 400 · 24px | 456 |
-| **Circular Xx** | 64px · 500 · 76.8px | 352 |
+| `0px 0px 16px` | margin | page content |
+| `0px 0px 80px` | margin | page content |
+| `0px 0px 12px` | margin | page content |
+| `16px 0px` | padding | page content |
+| `12px 24px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 0px 16px` for margin, `0px 0px 80px` for margin, `0px 0px 12px` for margin, `16px 0px` for padding, and `12px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px 0px 0px solid 0px` and `0px none 9999px` border treatments. Recorded gradients include `linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0))`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px 0px 0px solid 0px` (21) and `0px none 9999px` (3). 1 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface roles are not fully established. Text colors include `#000000` and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **By Laurenz Brunner** and **Circular Xx**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 0px 16px`, `0px 0px 80px`, `0px 0px 12px`, `16px 0px`, and `12px 24px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. The surface palette is not fully established. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h2>, <h3>, <p>, <a>, and <button> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

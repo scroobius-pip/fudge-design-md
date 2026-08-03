@@ -14,71 +14,99 @@ Last updated: 2026-08-03
 
 [About Caffeine](https://design.withfudge.com/share/pin-7229)
 
-## Design character
-
-caffeine.ai has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 15 recurring colors, and 25 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 80 color rows, 27 typography rows, 19 spacing rows, 6 border rows, 0 gradient rows, and 0 shadow rows.
+caffeine.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fbfbfb`, and `#f6f6f6`, with typography led by **Sohne**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 1590 |
-| `#fbfbfb` | color · main | 1142 |
-| `#f6f6f6` | color · unknown | 365 |
-| `#0d0b09` | background-color · unknown | 120 |
-| `#1d1d1d` | background-color · button | 35 |
-| `#ffffff` | border-color · button | 35 |
-| `#ddf730` | color · main | 14 |
-| `#3d3d3d` | border-color · button | 6 |
-| `#888888` | color · button | 6 |
-| `#9cb1f4` | color · main | 4 |
-| `#713001` | color · main | 2 |
-| `#ffbc99` | background-color · main | 2 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#fbfbfb` | text on page content in the main |
+| color.text | `#f6f6f6` | text on page content |
+| color.surface | `#0d0b09` | surface on page content |
+| color.surface | `#1d1d1d` | surface on page content in the button |
+| color.border | `#ffffff` | border on page content in the button |
+| color.text | `#ddf730` | text on page content in the main |
+| color.border | `#3d3d3d` | border on page content in the button |
+| color.text | `#888888` | text on page content in the button |
+| color.text | `#9cb1f4` | text on page content in the main |
+| color.text | `#713001` | text on page content in the main |
+| color.surface | `#ffbc99` | surface on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Sohne** | 16px | 400 | normal | normal | <div>, <div> in the main, and <a> in the main |
+| type.body-16px | **Sohne** | 16px | 400 | 24px | normal | <a> in the main, <div> in the main, <p> in the main, and <span> in the main |
+| type.body-13.3333px | **Sohne** | 13.3333px | 400 | normal | normal | <button> in the button and <div> in the button |
+| type.display-32px | **Sohne** | 32px | 300 | 40px | normal | <span> in the main and <div> in the main |
+| type.heading-16px | **Sohne** | 16px | 700 | 24px | normal | <h3> in the main |
+| type.body-14px | **Sohne** | 14px | 400 | 20px | normal | <p> in the button, <button> in the button, and <div> in the button |
+| type.utility-12px | **Sohne** | 12px | 400 | 16px | normal | <button> in the button, <span> in the main, and <div> in the button |
+| type.body-20px | **Sohne** | 20px | 400 | 28px | normal | <div> in the main |
+| type.heading-16px | **Sohne** | 16px | 600 | 24px | normal | <h2> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Sohne** | 16px · 400 · normal | 1641 |
+| `20px 20px 0px` | padding | page content |
+| `16px 0px` | margin | page content |
+| `24px 0px` | padding | page content |
+| `0px 546.5px` | margin | page content |
+| `16px` | padding | page content |
+| `32px 0px` | margin | page content |
+| `20px 0px` | padding | page content |
+| `10px 12px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `20px 20px 0px` for padding, `16px 0px` for margin, `24px 0px` for padding, `0px 546.5px` for margin, `16px` for padding, and `32px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 8px`, `1px solid 6px`, `0px none 32px`, `1px solid 3.35544e+07px`, `1px solid 8px`, and `1px solid 14px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 8px` (37), `1px solid 6px` (3), `0px none 32px` (2), `1px solid 3.35544e+07px` (2), and `1px solid 14px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#0d0b09`, and `#1d1d1d`. Text colors include `#fbfbfb`, `#f6f6f6`, and `#ddf730`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Sohne**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `20px 20px 0px`, `16px 0px`, `24px 0px`, `0px 546.5px`, and `16px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#0d0b09`, `#1d1d1d`, and `#ffbc99`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <button>, <a>, <p>, <h2>, <span>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

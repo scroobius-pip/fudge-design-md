@@ -14,71 +14,106 @@ Last updated: 2026-08-03
 
 [Thread | assistant-ui](https://design.withfudge.com/share/pin-8754)
 
-## Design character
-
-assistant-ui.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 11 recurring colors, and 39 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 62 color rows, 41 typography rows, 31 spacing rows, 8 border rows, 0 gradient rows, and 0 shadow rows.
+assistant-ui.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#cdd6f4`, with typography led by **Geist** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 1351 |
-| `#fafafa` | color · unknown | 372 |
-| `#cdd6f4` | color · unknown | 196 |
-| `#262626` | background-color · nav | 99 |
-| `#2b7fff` | background-color · unknown | 29 |
-| `#a1a1a1` | color · nav | 16 |
-| `#94e2d5` | color · unknown | 8 |
-| `#f5c2e7` | color · unknown | 8 |
-| `#a6e3a1` | color · unknown | 2 |
-| `#f9e2af` | color · unknown | 1 |
-| `#cba6f7` | color · unknown | 1 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#fafafa` | text on page content |
+| color.text | `#cdd6f4` | text on page content |
+| color.surface | `#262626` | surface on page content in the nav |
+| color.surface | `#2b7fff` | surface on page content |
+| color.text | `#a1a1a1` | text on page content in the nav |
+| color.text | `#94e2d5` | text on page content |
+| color.text | `#f5c2e7` | text on page content |
+| color.text | `#a6e3a1` | text on page content |
+| color.text | `#f9e2af` | text on page content |
+| color.text | `#cba6f7` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Geist** | 16px | 400 | 24px | normal | <div>, <div> in the header, <ul>, <a>, and <button> in the button |
+| type.body-14px | **Geist** | 14px | 400 | 23.8px | normal | <div>, <p>, and <li> |
+| type.body-14px | **Geist** | 14px | 400 | 20px | normal | <a> in the nav, <div> in the aside, <div> in the nav, <a> in the aside, <div>, and <p> |
+| type.utility-13px | **System** | 13px | 400 | 21.45px | normal | <span> |
+| type.utility-13px | **Geist** | 13px | 400 | 17.875px | normal | <a> |
+| type.body-16px | **Geist** | 16px | 500 | 24px | -0.16px | <a> and <h3> |
+| type.utility-13px | **Geist** | 13px | 400 | 21.45px | normal | <div> |
+| type.body-14px | **Geist** | 14px | 400 | 22.75px | normal | <p> |
+| type.body-20px | **Geist** | 20px | 500 | 28px | -0.4px | <a> and <h2> |
+| type.utility-12px | **Geist** | 12px | 400 | 16px | normal | <p> and <a> |
+| type.utility-12px | **System** | 12px | 500 | 17.1429px | normal | <code> |
+| type.body-14px | **Geist** | 14px | 500 | 20px | normal | <a> in the aside |
+| type.utility-11.5px | **Geist** | 11.5px | 500 | 16.4286px | normal | <a> in the nav |
+| type.utility-12px | **Geist** | 12px | 400 | 19.5px | normal | <p> |
+| type.utility-11px | **Geist** | 11px | 400 | 15.125px | normal | <span> in the nav |
+| type.body-14px | **Geist** | 14px | 500 | 23.8px | normal | <a> |
+| type.utility-13px | **Geist** | 13px | 600 | 16.25px | -0.13px | <span> in the nav |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Geist** | 14px · 400 · 23.8px | 1268 |
-| **System** | 13px · 400 · 21.45px | 225 |
+| `0px 14px 0px 42px` | padding | page content |
+| `6px 10px 6px 8px` | padding | page content |
+| `0px 16px` | padding | page content |
+| `8px 16px` | padding | page content |
+| `12px 16px` | padding | page content |
+| `8px 12px` | padding | page content |
+| `4px 0px 4px 12px` | padding | page content |
+| `4px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 14px 0px 42px` for padding, `6px 10px 6px 8px` for padding, `0px 16px` for padding, `8px 16px` for padding, `12px 16px` for padding, and `8px 12px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 6px`, `0px none 10px`, `0px none 8px`, `1px solid 10px`, and `0px none 14px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 6px` (112), `0px none 10px` (42), `0px none 8px` (28), `1px solid 10px` (5), and `0px none 14px` (5). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#262626`, and `#2b7fff`. Text colors include `#fafafa`, `#cdd6f4`, and `#a1a1a1`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Geist** and **System**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 14px 0px 42px`, `6px 10px 6px 8px`, `0px 16px`, `8px 16px`, and `12px 16px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **aside**, **header**, **nav**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#262626`, and `#2b7fff`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <span>, <p>, <li>, <h3>, <h2>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

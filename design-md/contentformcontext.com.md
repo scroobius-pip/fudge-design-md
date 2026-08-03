@@ -14,67 +14,90 @@ Last updated: 2026-08-03
 
 [CFC - SBS 8 News](https://design.withfudge.com/share/pin-10404)
 
-## Design character
-
-contentformcontext.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 3 captured type families, 6 recurring colors, and 32 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 47 color rows, 29 typography rows, 31 spacing rows, 1 border rows, 0 gradient rows, and 0 shadow rows.
+contentformcontext.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#999999`, and `#ffffff`, with typography led by **System**, **Aktiv Grotesk**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 48214 |
-| `#999999` | color · main | 1240 |
-| `#ffffff` | color · header | 200 |
-| `#111111` | background-color · unknown | 187 |
-| `#0000ee` | color · main | 5 |
-| `#aeaeae` | color · nav | 4 |
+| color.text | `#000000` | text on page content |
+| color.text | `#999999` | text on page content in the main |
+| color.text | `#ffffff` | text on page content in the header |
+| color.surface | `#111111` | surface on page content |
+| color.text | `#0000ee` | text on page content in the main |
+| color.text | `#aeaeae` | text on page content in the nav |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **System** | 16px | 400 | normal | normal | <html>, <div>, <body>, <img> in the main, <div> in the main, <section> in the main, <main> in the main, <header> in the header, <div> in the nav, <nav> in the nav, <div> in the header, <svg> in the main, and <a> in the main |
+| type.body-20px | **Aktiv Grotesk** | 20px | 400 | 26px | normal | <span> in the main and <div> in the main |
+| type.display-35px | **Aktiv Grotesk** | 35px | 400 | 35px | normal | <div> in the header, <img> in the header, and <a> in the header |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-30px | **Aktiv Grotesk** | 30px | 400 | 34px | normal | <h1> in the header |
+| type.body-19px | **Aktiv Grotesk** | 19px | 400 | 19px | normal | <a> in the nav |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 16px · 400 · normal | 48110 |
-| **Aktiv Grotesk** | 19px · 400 · 19px | 1441 |
-| **Applesystem** | 14px · 400 · normal | 109 |
+| `0px 50.5938px` | margin | page content |
+| `50.5938px` | margin-right | page content |
+| `50.5938px` | margin-left | page content |
+| `20px 0px 60px` | padding | page content |
+| `20px` | padding-top | page content |
+| `60px` | padding-bottom | page content |
+| `0px 181.898px` | margin | page content |
+| `181.898px` | margin-right | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 50.5938px` for margin, `50.5938px` for margin-right, `50.5938px` for margin-left, `20px 0px 60px` for padding, `20px` for padding-top, and `60px` for padding-bottom. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 60px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 60px` (3). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#111111`. Text colors include `#000000`, `#999999`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System**, **Aktiv Grotesk**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 50.5938px`, `50.5938px`, `50.5938px`, `20px 0px 60px`, and `20px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **header**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#111111`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <body>, <img>, <section>, <main>, <header>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

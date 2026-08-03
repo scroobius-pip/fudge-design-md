@@ -38,72 +38,109 @@ Last updated: 2026-08-03
 
 [Pricing List | Practice Work 01 :: Behance](https://design.withfudge.com/share/pin-5277)
 
-## Design character
-
-behance.net has a predominantly dark surface treatment across 10 captured pages. The strongest recurring signals are 3 captured type families, 11 recurring colors, and 133 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **10 pages** and 8 representative page references. It records 300 color rows, 90 typography rows, 101 spacing rows, 26 border rows, 1 gradient rows, and 5 shadow rows.
+behance.net presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#191919`, and `#ffffff`, with typography led by **Acumin Vf**, **Acuminpro**, and **Acuminprowide**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · nav | 4711 |
-| `#191919` | color · nav | 3981 |
-| `#ffffff` | background-color · nav | 1277 |
-| `#0057ff` | background-color · nav | 1068 |
-| `#dee8ff` | border-color · main | 181 |
-| `#e0eaff` | border-color · main | 123 |
-| `#b125c0` | border-color · main | 85 |
-| `#028901` | box-shadow · main | 81 |
-| `#e8e8e8` | border-color · button | 19 |
-| `#696969` | color · main | 18 |
-| `#707070` | color · button | 12 |
+| color.surface | `#000000` | surface on page content in the nav |
+| color.text | `#191919` | text on page content in the nav |
+| color.surface | `#ffffff` | surface on page content in the nav |
+| color.surface | `#0057ff` | surface on page content in the nav |
+| color.border | `#dee8ff` | border on page content in the main |
+| color.border | `#e0eaff` | border on page content in the main |
+| color.border | `#b125c0` | border on page content in the main |
+| color.shadow | `#028901` | shadow on page content in the main |
+| color.border | `#e8e8e8` | border on page content in the button |
+| color.text | `#696969` | text on page content in the main |
+| color.text | `#707070` | text on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **Acuminpro** | 12px | 400 | 15.6px | normal | <div> in the nav, <a> in the nav, <div> in the main, <ul> in the nav, <div> in the header, <a> in the main, <span> in the main, and <li> in the nav |
+| type.utility-12px | **Acumin Vf** | 12px | 400 | 15.6px | normal | <div> in the nav, <div> in the main, <ul> in the nav, <a> in the nav, <a> in the main, and <ul> in the main |
+| type.utility-12px | **Acuminprowide** | 12px | 400 | 15.6px | normal | <div> in the main, <ul> in the main, and <a> in the main |
+| type.body-16px | **Acumin Vf** | 16px | 400 | 20.8px | normal | <div> in the main, <p> in the main, <ul> in the main, and <li> in the main |
+| type.display-60px | **Acuminprowide** | 60px | 600 | 60px | -1.8px | <h2> in the main |
+| type.utility-12px | **Acumin Vf** | 12px | 600 | 12px | normal | <div> in the button |
+| type.utility-12px | **Acuminprowide** | 12px | 600 | 12px | normal | <div> in the button |
+| type.body-18px | **Acuminprowide** | 18px | 400 | 25.992px | -0.36px | <p> in the main |
+| type.heading-14px | **Acuminpro** | 14px | 600 | 14px | normal | <button> in the button, <div> in the nav, <span> in the nav, and <a> in the main |
+| type.display-70px | **Acuminprowide** | 70px | 600 | 68px | -2.1px | <h1> in the header |
+| type.display-60px | **Acumin Vf** | 60px | 600 | 60px | -1.8px | <h2> in the main |
+| type.heading-16px | **Acuminpro** | 16px | 700 | 20.8px | normal | <a> in the main |
+| type.body-18px | **Acuminprowide** | 18px | 400 | 28px | -0.36px | <p> in the main |
+| type.heading-14px | **Acumin Vf** | 14px | 600 | 14px | normal | <button> in the button, <div> in the nav, and <span> in the nav |
+| type.body-20px | **Acuminprowide** | 20px | 400 | 28px | -0.4px | <span> in the main and <a> in the main |
+| type.heading-13.008px | **Acuminpro** | 13.008px | 700 | 16.9104px | normal | <span> in the main, <a> in the main, and <div> in the main |
+| type.body-16px | **Acuminprowide** | 16px | 400 | 24px | -0.38px | <div> in the main |
+| type.heading-16px | **Acuminpro** | 16px | 600 | 16px | normal | <button> in the button, <a> in the header, and <a> in the main |
+| type.body-18px | **Acumin Vf** | 18px | 400 | 28px | -0.36px | <p> in the main |
+| type.display-35px | **Acuminprowide** | 35px | 600 | normal | normal | <h4> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Acumin Vf** | 12px · 400 · 15.6px | 2037 |
-| **Acuminpro** | 16px · 600 · 16px | 1777 |
-| **Acuminprowide** | 60px · 600 · 60px | 1635 |
+| `0px 0px 20px` | margin | page content |
+| `128px 279px 112px` | margin | page content |
+| `0px 40px` | margin | page content |
+| `7px 0px 7px 7px` | padding | page content |
+| `30px` | padding | page content |
+| `32px 40px` | padding | page content |
+| `64px 0px 0px` | margin | page content |
+| `40px 28px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 0px 20px` for margin, `128px 279px 112px` for margin, `0px 40px` for margin, `7px 0px 7px 7px` for padding, `30px` for padding, and `32px 40px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 14px 0px 0px 14px`, `1px solid 20px`, `1px solid 20px`, `2px solid 20px`, `1px solid 20px`, `1px solid 20px`, `1px solid 20px`, and `0px none 6px` border treatments. Recorded gradients include `linear-gradient(45deg, rgb(0, 136, 253) 0%, rgb(0, 59, 255) 50%, rgb(0, 31, 170) 100%)`. Recorded shadows include `rgba(2, 137, 1, 0.1) 0px 1px 15px 0px`, `rgba(0, 87, 255, 0.1) 0px 1px 15px 0px`, and `rgba(177, 37, 192, 0.1) 0px 1px 15px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 14px 0px 0px 14px` (430), `1px solid 20px` (414), `2px solid 20px` (79), `1px solid 100px` (34), `0px none 6px` (34), and `0px none 20px` (15). 1 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#ffffff`, and `#0057ff`. Text colors include `#191919`, `#696969`, and `#707070`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Acuminpro**, **Acumin Vf**, and **Acuminprowide**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 0px 20px`, `128px 279px 112px`, `0px 40px`, `7px 0px 7px 7px`, and `30px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **button**, **header**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#ffffff`, and `#0057ff`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <ul>, <a>, <button>, <span>, <h2>, <p>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 10 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

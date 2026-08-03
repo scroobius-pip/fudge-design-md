@@ -18,72 +18,102 @@ Last updated: 2026-08-03
 
 [Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7681)
 
-## Design character
-
-binary.so has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 2 captured type families, 16 recurring colors, and 52 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **3 pages** and 3 representative page references. It records 113 color rows, 30 typography rows, 31 spacing rows, 9 border rows, 7 gradient rows, and 5 shadow rows.
+binary.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0f172a`, and `#586a84`, with typography led by **System** and **Basier Square**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 3477 |
-| `#0f172a` | color · unknown | 3019 |
-| `#586a84` | color · unknown | 182 |
-| `#ffffff` | color · button | 42 |
-| `#f8f8f8` | background-color · unknown | 42 |
-| `#e2e8f0` | border-color · unknown | 33 |
-| `#f5f5f5` | background-color · button | 16 |
-| `#e1e7ef` | border-color · button | 16 |
-| `#bdc1c8` | box-shadow · button | 16 |
-| `#f8fafc` | color · button | 10 |
-| `#3c424c` | box-shadow · button | 10 |
-| `#f1f5f9` | background-color · unknown | 8 |
+| color.text | `#000000` | text on page content |
+| color.text | `#0f172a` | text on page content |
+| color.text | `#586a84` | text on page content |
+| color.text | `#ffffff` | text on page content in the button |
+| color.surface | `#f8f8f8` | surface on page content |
+| color.border | `#e2e8f0` | border on page content |
+| color.surface | `#f5f5f5` | surface on page content in the button |
+| color.border | `#e1e7ef` | border on page content in the button |
+| color.shadow | `#bdc1c8` | shadow on page content in the button |
+| color.text | `#f8fafc` | text on page content in the button |
+| color.shadow | `#3c424c` | shadow on page content in the button |
+| color.surface | `#f1f5f9` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **System** | 16px | 400 | 24px | normal | <div>, <span>, <ul>, <li>, and <span> in the header |
+| type.display-52px | **Basier Square** | 52px | 500 | 62.4px | -2.6px | <h2> and <h1> |
+| type.body-18px | **System** | 18px | 400 | 28px | normal | <p> |
+| type.body-20px | **System** | 20px | 400 | 28px | normal | <ul> and <div> |
+| type.body-30px | **Basier Square** | 30px | 500 | 36px | -0.75px | <h3> |
+| type.body-15px | **System** | 15px | 500 | 22.5px | normal | <button> in the button |
+| type.body-18px | **System** | 18px | 500 | 28px | normal | <h2> |
+| type.body-14px | **System** | 14px | 400 | 20px | normal | <div> in the header |
+| type.body-14px | **System** | 14px | 500 | 20px | normal | <span>, <button> in the button, and <span> in the button |
+| type.display-44px | **System** | 44px | 600 | 66px | -1.1px | <span> |
+| type.body-16px | **System** | 16px | 500 | 24px | normal | <button> in the button |
+| type.body-18px | **System** | 18px | 500 | 28px | 0.45px | <button> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 16px · 400 · 24px | 3181 |
-| **Basier Square** | 52px · 500 · 62.4px | 206 |
+| `64px 0px 0px` | padding | page content |
+| `0px 24px` | padding | page content |
+| `0px 260px 160px` | margin | page content |
+| `32px` | padding | page content |
+| `0px 24px 48px` | padding | page content |
+| `0px 416px` | margin | page content |
+| `0px 0px 32px` | margin | page content |
+| `8px 35.2812px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `64px 0px 0px` for padding, `0px 24px` for padding, `0px 260px 160px` for margin, `32px` for padding, `0px 24px 48px` for padding, and `0px 416px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 8px`, `1px solid 8px`, `0px none 6px`, `1px solid 6px`, `0px none 4px`, and `1px solid 6px` border treatments. Recorded gradients include `linear-gradient(to right, rgb(50, 45, 45), rgb(48, 57, 60))`, `linear-gradient(rgb(57, 62, 64), rgb(39, 42, 44))`, and `linear-gradient(rgb(253, 254, 255), rgb(242, 245, 248))`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(60, 66, 76, 0.24) 0px 8px 10px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(189, 193, 200, 0.18) 0px 8px 10px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 8px 30px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(203, 213, 225) 0px 2px 0px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 8px` (59), `1px solid 8px` (33), `0px none 6px` (22), `1px solid 6px` (18), and `0px none 4px` (8). 7 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#f8f8f8`, `#f5f5f5`, and `#f1f5f9`. Text colors include `#000000`, `#0f172a`, and `#586a84`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System** and **Basier Square**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `64px 0px 0px`, `0px 24px`, `0px 260px 160px`, `32px`, and `0px 24px 48px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#f8f8f8`, `#f5f5f5`, and `#f1f5f9`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <h2>, <div>, <span>, <button>, <ul>, <li>, <h3>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

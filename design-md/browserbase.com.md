@@ -38,73 +38,110 @@ Last updated: 2026-08-03
 
 [Browserbase: A web browser for AI agents & applications](https://design.withfudge.com/share/pin-7913)
 
-## Design character
-
-browserbase.com has a mixed light and dark surface treatment across 10 captured pages. The strongest recurring signals are 3 captured type families, 18 recurring colors, and 104 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **10 pages** and 8 representative page references. It records 310 color rows, 85 typography rows, 72 spacing rows, 28 border rows, 4 gradient rows, and 0 shadow rows.
+browserbase.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#100d0d`, and `#ffffff`, with typography led by **Pp Neue Montreal**, **Pp Supply Sans**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 9327 |
-| `#100d0d` | color · nav | 910 |
-| `#ffffff` | background-color · main | 830 |
-| `#cdcdcd` | border-color · button | 154 |
-| `#d23003` | background-color · footer | 114 |
-| `#514f4f` | border-color · button | 49 |
-| `#f5f5f5` | background-color · button | 34 |
-| `#fff8e6` | background-color · button | 32 |
-| `#f03603` | background-color · main | 28 |
-| `#4a4848` | color · nav | 14 |
-| `#e6ffe8` | background-color · main | 10 |
-| `#969493` | color · nav | 8 |
+| color.text | `#000000` | text on page content in the main |
+| color.text | `#100d0d` | text on page content in the nav |
+| color.surface | `#ffffff` | surface on page content in the main |
+| color.border | `#cdcdcd` | border on page content in the button |
+| color.surface | `#d23003` | surface on page content in the footer |
+| color.border | `#514f4f` | border on page content in the button |
+| color.surface | `#f5f5f5` | surface on page content in the button |
+| color.surface | `#fff8e6` | surface on page content in the button |
+| color.surface | `#f03603` | surface on page content in the main |
+| color.text | `#4a4848` | text on page content in the nav |
+| color.surface | `#e6ffe8` | surface on page content in the main |
+| color.text | `#969493` | text on page content in the nav |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-1px | **Pp Neue Montreal** | 1px | 400 | normal | normal | <div> in the main, <a> in the main, <div> in the nav, <button> in the button, <ul> in the main, <div> in the footer, <ul> in the footer, and <div> in the button |
+| type.body-14px | **Pp Neue Montreal** | 14px | 400 | normal | normal | <li> in the main, <div> in the main, <a> in the footer, <div> in the footer, <li> in the footer, <ul> in the button, and <li> in the button |
+| type.display-90px | **Pp Neue Montreal** | 90px | 400 | 99px | normal | <div> in the main and <h1> in the main |
+| type.body-14px | **Pp Neue Montreal** | 14px | 500 | normal | normal | <div> in the nav, <a> in the nav, and <span> in the nav |
+| type.body-20px | **Pp Neue Montreal** | 20px | 400 | normal | normal | <div> in the main and <p> in the main |
+| type.body-15.0413px | **Pp Neue Montreal** | 15.0413px | 400 | normal | normal | <div> in the main and <ul> in the main |
+| type.display-56px | **Pp Neue Montreal** | 56px | 400 | normal | normal | <h3> in the main and <p> in the footer |
+| type.display-64px | **Pp Neue Montreal** | 64px | 530 | 64px | normal | <h2> in the main |
+| type.display-58px | **Pp Neue Montreal** | 58px | 400 | normal | normal | <h3> in the main |
+| type.body-16px | **Pp Neue Montreal** | 16px | 400 | normal | normal | <div> in the main |
+| type.body-20px | **Pp Neue Montreal** | 20px | 500 | normal | normal | <p> in the main |
+| type.display-64px | **Pp Neue Montreal** | 64px | 400 | normal | normal | <span> in the main |
+| type.display-32px | **Pp Neue Montreal** | 32px | 400 | 36.8px | normal | <span> in the button |
+| type.utility-1px | **Applesystem** | 1px | 400 | normal | normal | <div> in the main |
+| type.body-14px | **Pp Neue Montreal** | 14px | 500 | 18.2px | 1% | <div> in the main and <span> in the main |
+| type.display-70.9088px | **Pp Neue Montreal** | 70.9088px | 400 | normal | normal | <h2> in the main |
+| type.body-16px | **Pp Neue Montreal** | 16px | 400 | 22.4px | 0.32px | <p> in the main |
+| type.body-20px | **Pp Supply Sans** | 20px | 400 | normal | normal | <a> in the footer |
+| type.body-14px | **Pp Supply Sans** | 14px | 400 | 14px | normal | <a> in the main |
+| type.body-17.19px | **Pp Neue Montreal** | 17.19px | 400 | 25.785px | normal | <p> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Pp Neue Montreal** | 1px · 400 · normal | 5334 |
-| **Pp Supply Sans** | 14px · 400 · 14px | 101 |
-| **Applesystem** | 1px · 400 · normal | 49 |
+| `178px 0px 178px 32px` | padding | page content |
+| `0px 44px` | padding | page content |
+| `0px 85.2031px` | margin | page content |
+| `0px 32px` | padding | page content |
+| `86px 0px 0px` | padding | page content |
+| `32px` | padding | page content |
+| `0px 0px -1px` | margin | page content |
+| `58.7556px 131.359px 58.7556px 131.344px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `178px 0px 178px 32px` for padding, `0px 44px` for padding, `0px 85.2031px` for margin, `0px 32px` for padding, `86px 0px 0px` for padding, and `32px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 0px`, `1px solid 0px`, `2px solid 2px`, `2px 0px solid none 0px`, `1px 0px 0px 1px solid none none solid 0px`, `2px solid 2px`, `1px solid 0px`, and `1px 1px 0px solid solid none 0px` border treatments. Recorded gradients include `linear-gradient(to right, rgb(72, 5, 18) 1px, rgba(0, 0, 0, 0) 1px)` and `linear-gradient(90deg, rgba(25, 27, 46, 0.05) 1px, rgba(0, 0, 0, 0) 0px)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 0px` (303), `2px solid 2px` (153), `2px 0px solid none 0px` (71), `1px 0px 0px 1px solid none none solid 0px` (52), `1px 1px 0px solid solid none 0px` (24), and `1px solid 2px` (12). 4 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#ffffff`, `#d23003`, and `#f5f5f5`. Text colors include `#000000`, `#100d0d`, and `#4a4848`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Pp Neue Montreal**, **Applesystem**, and **Pp Supply Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `178px 0px 178px 32px`, `0px 44px`, `0px 85.2031px`, `0px 32px`, and `86px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **footer**, **button**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffff`, `#d23003`, `#f5f5f5`, and `#fff8e6`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <span>, <h3>, <p>, <button>, <h4>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 10 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

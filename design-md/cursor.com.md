@@ -38,74 +38,110 @@ Last updated: 2026-08-03
 
 [Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6657)
 
-## Design character
-
-cursor.com has a predominantly dark surface treatment across 45 captured pages. The strongest recurring signals are 4 captured type families, 16 recurring colors, and 206 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **45 pages** and 8 representative page references. It records 605 color rows, 134 typography rows, 143 spacing rows, 60 border rows, 0 gradient rows, and 3 shadow rows.
+cursor.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#edecec`, `#000000`, and `#e4e4e4`, with typography led by **Cursor Gothic**, **System**, **Berkeley Mono Variable**, and **Sf Pro**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#edecec` | color · main | 9869 |
-| `#000000` | background-color · main | 7891 |
-| `#e4e4e4` | color · main | 1158 |
-| `#1b1913` | background-color · button | 475 |
-| `#14120b` | color · button | 250 |
-| `#1b1a15` | background-color · main | 190 |
-| `#181818` | background-color · main | 49 |
-| `#26241e` | background-color · main | 13 |
-| `#f54e00` | color · main | 7 |
-| `#83d6c5` | color · main | 4 |
-| `#ffffff` | box-shadow · button | 3 |
-| `#cf2d56` | color · button | 3 |
+| color.text | `#edecec` | text on page content in the main |
+| color.surface | `#000000` | surface on page content in the main |
+| color.text | `#e4e4e4` | text on page content in the main |
+| color.surface | `#1b1913` | surface on page content in the button |
+| color.text | `#14120b` | text on page content in the button |
+| color.surface | `#1b1a15` | surface on page content in the main |
+| color.surface | `#181818` | surface on page content in the main |
+| color.surface | `#26241e` | surface on page content in the main |
+| color.text | `#f54e00` | text on page content in the main |
+| color.text | `#83d6c5` | text on page content in the main |
+| color.shadow | `#ffffff` | shadow on page content in the button |
+| color.text | `#cf2d56` | text on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Cursor Gothic** | 16px | 400 | 24px | normal | <div>, <button> in the button, <div> in the header, <div> in the main, <a> in the main, <p> in the main, <span> in the main, <ul> in the main, <li> in the main, <h2> in the main, and <div> in the aside |
+| type.body-16px | **Cursor Gothic** | 16px | 400 | 24px | 0.08px | <div> in the main, <div> in the header, <a> in the nav, <a> in the main, <button> in the button, <div> in the button, and <p> |
+| type.body-16px | **System** | 16px | 400 | 22.4px | -0.08px | <div> in the main, <div> in the nav, <p> in the main, and <a> in the main |
+| type.body-16px | **System** | 16px | 400 | 22.4px | normal | <div> in the main, <div> in the nav, and <span> in the main |
+| type.utility-13px | **System** | 13px | 400 | 18px | -0.08px | <p> in the main, <button> in the button, <a> in the nav, <span> in the nav, <div> in the main, and <span> in the main |
+| type.utility-13px | **System** | 13px | 400 | 18px | normal | <a> in the nav, <span> in the nav, <button> in the button, <span> in the main, <div> in the main, and <p> in the main |
+| type.utility-12px | **Berkeley Mono Variable** | 12px | 400 | 20px | normal | <div> in the main and <span> in the main |
+| type.utility-13px | **System** | 13px | 400 | 20px | -0.08px | <div> in the main |
+| type.body-16px | **Cursor Gothic** | 16px | 400 | 21px | 0.08px | <p> in the main, <a> in the main, <span> in the button, and <span> in the main |
+| type.display-52px | **Cursor Gothic** | 52px | 400 | 59.8px | -1.3px | <h1> in the main |
+| type.body-22px | **Cursor Gothic** | 22px | 400 | 28.6px | -0.11px | <span> in the main, <h3> in the main, and <div> in the main |
+| type.utility-13px | **Cursor Gothic** | 13px | 400 | 19.5px | 0.08px | <span> in the button |
+| type.body-16px | **Cursor Gothic** | 16px | 500 | 21px | 0.08px | <h2> in the main |
+| type.display-36px | **Cursor Gothic** | 36px | 400 | 43.2px | -0.72px | <h1> and <h3> in the header |
+| type.utility-12px | **Cursor Gothic** | 12px | 400 | 16px | 0.08px | <span> in the main |
+| type.utility-13px | **System** | 13px | 400 | 16.25px | -0.08px | <p> in the main |
+| type.body-26px | **Cursor Gothic** | 26px | 400 | 32.5px | -0.325px | <h1> in the main |
+| type.body-16px | **Cursor Gothic** | 16px | 400 | 16px | normal | <button> in the button, <span> in the button, <span> in the main, and <a> in the main |
+| type.utility-12px | **Cursor Gothic** | 12px | 400 | 16.5px | 0.08px | <div> in the main |
+| type.body-16px | **Cursor Gothic** | 16px | 400 | 28px | 0.08px | <p> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Cursor Gothic** | 16px · 400 · 24px | 6843 |
-| **System** | 16px · 400 · 22.4px | 3715 |
-| **Berkeley Mono Variable** | 12px · 400 · 20px | 118 |
-| **Sf Pro** | 16px · 400 · 22.4px | 3 |
+| `112px 20px 67.2px` | padding | page content |
+| `64px` | padding | page content |
+| `0px 180.5px` | margin | page content |
+| `16px` | padding | page content |
+| `64px 24px` | padding | page content |
+| `0px 10px` | padding | page content |
+| `8px` | padding | page content |
+| `0px 182px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `112px 20px 67.2px` for padding, `64px` for padding, `0px 180.5px` for margin, `16px` for padding, `64px 24px` for padding, and `0px 10px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 4px`, `0px none 8px`, `0px none 6px`, `0px none 10px`, `1px solid 8px`, `1px solid 12px`, `1px solid 8px`, and `0px none 12px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.918864 0.0000419319 0.0000183582 / 0.04) 0px 0px 0px 1px`, `rgb(255, 255, 255) 0px 0px 0px 0px, oklab(0.918864 0.0000419319 0.0000183582 / 0.08) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.943853 0.00107113 0.000336707 / 0.025) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 4px` (422), `0px none 8px` (412), `0px none 6px` (281), `0px none 10px` (237), `1px solid 8px` (185), and `1px solid 12px` (75). 0 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#1b1913`, and `#1b1a15`. Text colors include `#edecec`, `#e4e4e4`, and `#14120b`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Cursor Gothic**, **System**, and **Berkeley Mono Variable**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `112px 20px 67.2px`, `64px`, `0px 180.5px`, `16px`, and `64px 24px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#1b1913`, `#1b1a15`, and `#181818`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <a>, <span>, <button>, <p>, <h1>, <h2>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 45 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

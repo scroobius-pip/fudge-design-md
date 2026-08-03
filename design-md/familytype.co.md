@@ -38,69 +38,107 @@ Last updated: 2026-08-03
 
 [Family Type](https://design.withfudge.com/share/pin-5472)
 
-## Design character
-
-familytype.co has a predominantly dark surface treatment across 8 captured pages. The strongest recurring signals are 2 captured type families, 9 recurring colors, and 384 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **8 pages** and 8 representative page references. It records 197 color rows, 123 typography rows, 349 spacing rows, 28 border rows, 0 gradient rows, and 7 shadow rows.
+familytype.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#fafafa`, `#000000`, and `#0a0a0a`, with typography led by **Universal Sans** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#fafafa` | color · header | 173403 |
-| `#000000` | color · unknown | 28405 |
-| `#0a0a0a` | background-color · unknown | 18963 |
-| `#ffffff` | color · unknown | 10532 |
-| `#171717` | background-color · unknown | 5521 |
-| `#00c950` | border-color · button | 471 |
-| `#a1a1a1` | color · unknown | 190 |
-| `#737373` | background-color · button | 91 |
-| `#05df72` | color · button | 17 |
+| color.text | `#fafafa` | text on page content in the header |
+| color.text | `#000000` | text on page content |
+| color.surface | `#0a0a0a` | surface on page content |
+| color.text | `#ffffff` | text on page content |
+| color.surface | `#171717` | surface on page content |
+| color.border | `#00c950` | border on page content in the button |
+| color.text | `#a1a1a1` | text on page content |
+| color.surface | `#737373` | surface on page content in the button |
+| color.text | `#05df72` | text on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Universal Sans** | 16px | 400 | 24px | normal | <html>, <div> in the header, <header> in the header, <div>, <body>, <section>, <button> in the button, <div> in the button, <input>, and <img> |
+| type.utility-12px | **Universal Sans** | 12px | 400 | 16px | normal | <p> in the button, <p>, <div>, <span>, <span> in the button, <div> in the button, <button> in the button, and <a> |
+| type.display-128px | **Universal Sans** | 128px | 400 | 128px | normal | <div> and <span> |
+| type.display-36px | **Universal Sans** | 36px | 400 | 45px | normal | <div> and <span> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-24px | **Universal Sans** | 24px | 400 | 32.4px | normal | <div> |
+| type.body-14px | **Universal Sans** | 14px | 400 | 20px | normal | <a> in the header, <label>, <button> in the button, <p>, and <a> |
+| type.display-242.963px | **Universal Sans** | 242.963px | 600 | 242.963px | -7.28889px | <div> |
+| type.body-16px | **Universal Sans** | 16px | 500 | 19.2px | 0.4px | <h3> and <span> in the button |
+| type.display-96px | **Universal Sans** | 96px | 400 | 115.2px | normal | <div> |
+| type.display-251.92px | **Universal Sans** | 251.92px | 700 | 251.92px | -7.5576px | <span> |
+| type.body-14px | **Universal Sans** | 14px | 500 | 20px | normal | <button> in the button, <span> in the button, <a>, and <p> |
+| type.display-152.768px | **Universal Sans** | 152.768px | 400 | 152.768px | -4.58303px | <span> |
+| type.body-14px | **Universal Sans** | 14px | 400 | 14px | normal | <span> in the button |
+| type.display-195.82px | **Universal Sans** | 195.82px | 400 | 195.82px | -5.8746px | <span> |
+| type.display-152.768px | **Universal Sans** | 152.768px | 600 | 152.768px | -4.58303px | <span> |
+| type.display-303.142px | **Universal Sans** | 303.142px | 600 | 303.142px | -9.09427px | <span> |
+| type.utility-12px | **Universal Sans** | 12px | 500 | 16px | normal | <p> and <button> in the button |
+| type.utility-10px | **Universal Sans** | 10px | 400 | 13.3333px | normal | <p> |
+| type.utility-10px | **Universal Sans** | 10px | 400 | 15px | normal | <button> in the button and <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Universal Sans** | 16px · 400 · 24px | 181936 |
-| **Applesystem** | 14px · 400 · normal | 290 |
+| `16px` | padding-left | page content |
+| `16px` | padding-right | page content |
+| `24px` | padding-bottom | page content |
+| `0px 0px 96px` | padding | page content |
+| `96px` | padding-bottom | page content |
+| `0px 16px 24px` | padding | page content |
+| `0px 0px 24px` | padding | page content |
+| `32px` | gap | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px` for padding-left, `16px` for padding-right, `24px` for padding-bottom, `0px 0px 96px` for padding, `96px` for padding-bottom, and `0px 16px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 14px`, `1px solid 14px`, `1px solid 14px`, `1px solid 10px`, `0px none 20px`, `1px 0px 0px solid 0px`, `1px solid 8px`, and `1px solid 3.35544e+07px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(255,255,255)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(250,250,250)`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(161,161,161)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 14px` (5521), `1px solid 14px` (2033), `1px solid 10px` (171), `0px none 20px` (79), `1px 0px 0px solid 0px` (43), and `1px solid 8px` (39). 0 gradient rows and 7 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#0a0a0a`, `#171717`, and `#737373`. Text colors include `#fafafa`, `#000000`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Universal Sans** and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px`, `16px`, `24px`, `0px 0px 96px`, and `96px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#0a0a0a`, `#171717`, and `#737373`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <header>, <body>, <section>, <h3>, <button>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

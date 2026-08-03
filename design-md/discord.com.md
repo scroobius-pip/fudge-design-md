@@ -38,66 +38,87 @@ Last updated: 2026-08-03
 
 [Nitro Benefits and Features | Discord](https://design.withfudge.com/share/pin-788)
 
-## Design character
-
-discord.com has a predominantly dark surface treatment across 27 captured pages. The strongest recurring signals are 1 captured type family, 7 recurring colors, and 6 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **27 pages** and 8 representative page references. It records 226 color rows, 8 typography rows, 4 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+discord.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#efeff1`, and `#97979f`, with typography led by **Gg Sans**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 961 |
-| `#efeff1` | color · unknown | 587 |
-| `#97979f` | border-color · button | 190 |
-| `#fbfbfb` | color · unknown | 35 |
-| `#ffffff` | color · button | 5 |
-| `#5865f2` | background-color · button | 1 |
-| `#96979e` | color · unknown | 1 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#efeff1` | text on page content |
+| color.border | `#97979f` | border on page content in the button |
+| color.text | `#fbfbfb` | text on page content |
+| color.text | `#ffffff` | text on page content in the button |
+| color.surface | `#5865f2` | surface on page content in the button |
+| color.text | `#96979e` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Gg Sans** | 16px | 400 | 24px | normal | <div> |
+| type.body-16px | **Gg Sans** | 16px | 400 | normal | normal | <button> in the button |
+| type.display-32px | **Gg Sans** | 32px | 600 | 40px | normal | <h2> |
+| type.body-16px | **Gg Sans** | 16px | 400 | 20px | normal | <div> in the button |
+| type.body-16px | **Gg Sans** | 16px | 500 | 20px | normal | <span> in the button |
+| type.body-14px | **Gg Sans** | 14px | 400 | 18px | normal | <div> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Gg Sans** | 16px · 400 · 24px | 802 |
+| `16px 32px` | padding | page content |
+| `16px 24px` | padding | page content |
+| `16px` | padding | page content |
+| `0px 494px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px 32px` for padding, `16px 24px` for padding, `16px` for padding, and `0px 494px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 12px` and `1px solid 8px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 12px` (175) and `1px solid 8px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000` and `#5865f2`. Text colors include `#efeff1`, `#fbfbfb`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Gg Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px 32px`, `16px 24px`, `16px`, and `0px 494px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000` and `#5865f2`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h2>, <button>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 27 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

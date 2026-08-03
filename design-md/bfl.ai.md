@@ -38,64 +38,100 @@ Last updated: 2026-08-03
 
 [Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6144)
 
-## Design character
-
-bfl.ai has a mixed light and dark surface treatment across 19 captured pages. The strongest recurring signals are 2 captured type families, 4 recurring colors, and 67 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **19 pages** and 8 representative page references. It records 214 color rows, 74 typography rows, 46 spacing rows, 11 border rows, 10 gradient rows, and 0 shadow rows.
+bfl.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#07130e`, and `#556659`, with typography led by **Instrument Sans** and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#ffffff` | color · footer | 3563 |
-| `#07130e` | color · main | 2955 |
-| `#556659` | border-color · footer | 223 |
-| `#838987` | color · footer | 29 |
+| color.text | `#ffffff` | text on page content in the footer |
+| color.text | `#07130e` | text on page content in the main |
+| color.border | `#556659` | border on page content in the footer |
+| color.text | `#838987` | text on page content in the footer |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Instrument Sans** | 16px | 500 | 24px | normal | <div> in the footer, <ul> in the footer, <div> in the main, <button> in the button, <div>, and <div> in the nav |
+| type.display-59.4859px | **Instrument Sans** | 59.4859px | 500 | 59.4859px | -2.97429px | <h3> in the main |
+| type.display-91.375px | **Instrument Sans** | 91.375px | 500 | 82.2375px | -4.56875px | <h2> in the main |
+| type.body-29.9172px | **Instrument Sans** | 29.9172px | 400 | 35.9007px | -1.19669px | <p> in the main |
+| type.body-15.6531px | **Ibm Plex Mono** | 15.6531px | 500 | 21.9144px | 0.782656px | <a> in the footer, <li> in the main, <div> in the main, <p> in the main, and <span> in the main |
+| type.body-22.9578px | **Instrument Sans** | 22.9578px | 400 | 25.2535px | -0.229578px | <p> in the main |
+| type.display-51.1391px | **Instrument Sans** | 51.1391px | 500 | 51.1391px | -2.55696px | <h2> in the main, <a> in the main, <div> in the main, and <span> in the main |
+| type.body-18px | **Instrument Sans** | 18px | 500 | 18px | normal | <div> in the main and <div> in the nav |
+| type.body-17.6531px | **Instrument Sans** | 17.6531px | 400 | 22.0664px | 0.176531px | <p> in the main |
+| type.display-107.5px | **Instrument Sans** | 107.5px | 500 | 96.75px | -5.375px | <h1> in the main |
+| type.body-13.6531px | **Instrument Sans** | 13.6531px | 500 | 16.3837px | normal | <p> in the main |
+| type.body-15.6531px | **Ibm Plex Mono** | 15.6531px | 500 | 15.6531px | 0.782656px | <p> in the footer |
+| type.body-29.9172px | **Instrument Sans** | 29.9172px | 500 | 29.9172px | -1.19669px | <p> in the footer |
+| type.body-29.9172px | **Instrument Sans** | 29.9172px | 500 | 35.9007px | -1.19669px | <p> in the footer |
+| type.body-17.6531px | **Instrument Sans** | 17.6531px | 500 | 17.6531px | 0.176531px | <button> in the button |
+| type.body-16px | **Instrument Sans** | 16px | 500 | 16px | 0.16px | <span> in the main |
+| type.body-14px | **Instrument Sans** | 14px | 500 | 20px | normal | <span> and <a> |
+| type.body-14px | **Ibm Plex Mono** | 14px | 500 | 19.6px | 0.7px | <p> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Instrument Sans** | 16px · 500 · 24px | 6751 |
-| **Ibm Plex Mono** | 15.6531px · 500 · 15.6531px | 183 |
+| `96px 32px 48px` | padding | page content |
+| `0px 0px 48px` | margin | page content |
+| `28px` | padding | page content |
+| `16px` | padding | page content |
+| `0px -48px 0px 0px` | margin | page content |
+| `0px 80px` | padding | page content |
+| `0px 40.5px` | margin | page content |
+| `0px 0px 256px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `96px 32px 48px` for padding, `0px 0px 48px` for margin, `28px` for padding, `16px` for padding, `0px -48px 0px 0px` for margin, and `0px 80px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 4px`, `1px 0px 0px solid 0px`, `1px 0px 0px 1px solid 0px`, and `1px 1px 0px 0px solid 0px` border treatments. Recorded gradients include `radial-gradient(30% 100% at 50% 100%, rgba(255, 255, 255, 0.95)`, `linear-gradient(to top, rgb(7, 19, 14)`, and `radial-gradient(53.25% 100% at 50% 100%, rgb(255, 255, 255)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 4px` (547), `1px 0px 0px solid 0px` (97), `1px 0px 0px 1px solid 0px` (38), and `1px 1px 0px 0px solid 0px` (22). 10 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface roles are not fully established. Text colors include `#ffffff`, `#07130e`, and `#838987`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Instrument Sans** and **Ibm Plex Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `96px 32px 48px`, `0px 0px 48px`, `28px`, `16px`, and `0px -48px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **footer**, **image**, **unknown**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. The surface palette is not fully established. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <ul>, <a>, <h2>, <li>, <h3>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 19 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

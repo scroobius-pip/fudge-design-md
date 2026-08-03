@@ -22,66 +22,98 @@ Last updated: 2026-08-03
 
 [Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/share/pin-9969)
 
-## Design character
-
-ergo.org has a mixed light and dark surface treatment across 4 captured pages. The strongest recurring signals are 4 captured type families, 4 recurring colors, and 175 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **4 pages** and 4 representative page references. It records 116 color rows, 77 typography rows, 161 spacing rows, 9 border rows, 4 gradient rows, and 1 shadow rows.
+ergo.org presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f0ebe4`, with typography led by **Libre Baskerville**, **Times**, **Sabon Lt Std**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 68396 |
-| `#ffffff` | color · main | 17370 |
-| `#f0ebe4` | background-color · unknown | 11566 |
-| `#768100` | background-color · footer | 898 |
+| color.text | `#000000` | text on page content |
+| color.text | `#ffffff` | text on page content in the main |
+| color.surface | `#f0ebe4` | surface on page content |
+| color.surface | `#768100` | surface on page content in the footer |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Libre Baskerville** | 16px | 400 | 20px | normal | <section> in the main, <main> in the main, <body>, <footer> in the footer, <nav> in the nav, <div> in the footer, <div> in the main, <a> in the main, <img> in the main, <img> in the header, <a> in the header, <div> in the header, <header> in the header, <img> in the footer, <a> in the footer, <p> in the main, and <span> in the main |
+| type.body-16px | **Libre Baskerville** | 16px | 400 | 21px | normal | <p> in the main, <div> in the main, and <a> in the main |
+| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
+| type.body-28.16px | **Libre Baskerville** | 28.16px | 400 | 29.568px | -0.5632px | <span> in the main and <h3> in the main |
+| type.display-48px | **Sabon Lt Std** | 48px | 400 | 52.8px | -0.96px | <span> in the main and <h1> in the main |
+| type.body-15px | **Libre Baskerville** | 15px | 400 | 19.995px | normal | <p> in the main and <div> in the main |
+| type.body-14.08px | **Libre Baskerville** | 14.08px | 400 | 17.6px | normal | <p> in the main |
+| type.display-32px | **Libre Baskerville** | 32px | 400 | 32px | -0.64px | <h3> in the main and <h2> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.display-32px | **Sabon Lt Std** | 32px | 400 | 32px | -0.64px | <a> in the nav |
+| type.body-16px | **Libre Baskerville** | 16px | 400 | 18.08px | normal | <a> in the nav, <svg> in the nav, <p> in the main, and <a> in the main |
+| type.display-48px | **Libre Baskerville** | 48px | 400 | 57.6px | normal | <blockquote> in the main |
+| type.body-20px | **Libre Baskerville** | 20px | 400 | 21px | normal | <span> in the main |
+| type.heading-14.08px | **Libre Baskerville** | 14.08px | 700 | 17.6px | normal | <strong> in the main |
+| type.utility-12px | **Libre Baskerville** | 12px | 400 | 16.8px | normal | <span> in the footer |
+| type.body-14.08px | **Libre Baskerville** | 14.08px | 400 | 15.9104px | normal | <a> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Libre Baskerville** | 16px · 400 · 20px | 71374 |
-| **Times** | 16px · 400 · normal | 674 |
-| **Sabon Lt Std** | 32px · 400 · 32px | 454 |
-| **Applesystem** | 14px · 400 · normal | 85 |
+| `144px` | padding-bottom | page content |
+| `88px 0px 144px` | padding | page content |
+| `88px` | padding-top | page content |
+| `48px` | padding-right | page content |
+| `48px` | padding-left | page content |
+| `0px 48px` | padding | page content |
+| `0px 348px` | margin | page content |
+| `348px` | margin-right | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `144px` for padding-bottom, `88px 0px 144px` for padding, `88px` for padding-top, `48px` for padding-right, `48px` for padding-left, and `0px 48px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 16px`, `0px none 16px`, `1px solid 22px`, and `0px none 22px` border treatments. Recorded gradients include `linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.85) 58%, rgb(0, 0, 0) 72%)`, `linear-gradient(rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.3) 33%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.82) 100%)`, and `linear-gradient(rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.25) 15%, rgba(0, 0, 0, 0.1) 30%, rgba(0, 0, 0, 0.1) 60%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.4) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0.08) 0px 8px 48px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 16px` (3538), `0px none 16px` (136), `1px solid 22px` (4), and `0px none 22px` (4). 4 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#f0ebe4` and `#768100`. Text colors include `#000000` and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Libre Baskerville**, **Times**, **Sabon Lt Std**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `144px`, `88px 0px 144px`, `88px`, `48px`, and `48px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **header**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f0ebe4` and `#768100`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <section>, <main>, <body>, <footer>, <a>, and <nav> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

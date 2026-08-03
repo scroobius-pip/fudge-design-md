@@ -38,71 +38,109 @@ Last updated: 2026-08-03
 
 [Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://design.withfudge.com/share/pin-6066)
 
-## Design character
-
-dedcool.com has a mixed light and dark surface treatment across 17 captured pages. The strongest recurring signals are 2 captured type families, 11 recurring colors, and 154 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **17 pages** and 8 representative page references. It records 323 color rows, 105 typography rows, 128 spacing rows, 26 border rows, 0 gradient rows, and 0 shadow rows.
+dedcool.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#373330`, and `#f0f0f0`, with typography led by **Universal Sans** and **Messina Sans Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 4832 |
-| `#373330` | color · main | 2390 |
-| `#f0f0f0` | background-color · unknown | 579 |
-| `#1a172c` | color · header | 223 |
-| `#ffffff` | background-color · main | 163 |
-| `#cce1f5` | background-color · main | 45 |
-| `#ff6b18` | border-color · main | 38 |
-| `#2c2c2c` | color · main | 34 |
-| `#6c6c6c` | color · main | 19 |
-| `#ff6b17` | background-color · button | 3 |
-| `#007aff` | color · button | 2 |
+| color.text | `#000000` | text on page content |
+| color.text | `#373330` | text on page content in the main |
+| color.surface | `#f0f0f0` | surface on page content |
+| color.text | `#1a172c` | text on page content in the header |
+| color.surface | `#ffffff` | surface on page content in the main |
+| color.surface | `#cce1f5` | surface on page content in the main |
+| color.border | `#ff6b18` | border on page content in the main |
+| color.text | `#2c2c2c` | text on page content in the main |
+| color.text | `#6c6c6c` | text on page content in the main |
+| color.surface | `#ff6b17` | surface on page content in the button |
+| color.text | `#007aff` | text on page content in the button |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **Universal Sans** | 12px | 400 | 16.8px | normal | <div> in the header, <div> in the main, <a> in the header, <a> in the nav, <ul> in the nav, <div>, <div> in the footer, <span> in the nav, <a> in the main, <div> in the button, <span>, <li>, <a>, and <ul> |
+| type.body-24px | **Universal Sans** | 24px | 400 | 24px | normal | <div> in the main |
+| type.utility-12px | **Messina Sans Mono** | 12px | 400 | 14.4px | normal | <a> in the footer, <ul> in the footer, and <li> in the footer |
+| type.utility-10px | **Universal Sans** | 10px | 400 | 16.8px | normal | <div> |
+| type.display-80px | **Universal Sans** | 80px | 400 | 73.6px | -1.6px | <h1> in the main |
+| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -0.8px | <h2>, <a>, and <h3> |
+| type.body-16px | **Universal Sans** | 16px | 400 | 24px | normal | <span>, <div>, and <a> |
+| type.display-80px | **Universal Sans** | 80px | 400 | 74px | -1.6px | <div> in the main |
+| type.display-48px | **Universal Sans** | 48px | 400 | 44.16px | -0.96px | <h2> and <h1> in the main |
+| type.body-14px | **Messina Sans Mono** | 14px | 500 | 14px | -0.56px | <span> |
+| type.utility-10px | **Messina Sans Mono** | 10px | 400 | 26px | 0.4px | <div> |
+| type.utility-12px | **Universal Sans** | 12px | 400 | 16.8px | 0.24px | <p> in the main and <div> in the main |
+| type.body-24px | **Universal Sans** | 24px | 400 | 24px | -0.24px | <a> in the main and <h2> in the main |
+| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -1.6px | <h2> in the main |
+| type.utility-10px | **Messina Sans Mono** | 10px | 400 | 15px | -0.4px | <div> in the main |
+| type.body-16px | **Messina Sans Mono** | 16px | 400 | 16.8px | normal | <div> in the main |
+| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -2px | <h1> in the main |
+| type.body-19px | **Messina Sans Mono** | 19px | 400 | 27px | 0.38px | <div> in the main |
+| type.body-16px | **Universal Sans** | 16px | 400 | 16px | normal | <div> |
+| type.body-18px | **Messina Sans Mono** | 18px | 500 | 25.56px | -0.36px | <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Universal Sans** | 12px · 400 · 16.8px | 3953 |
-| **Messina Sans Mono** | 10px · 400 · 26px | 430 |
+| `65px 0px` | padding | page content |
+| `12px` | padding | page content |
+| `0px 308px` | margin | page content |
+| `0px -1028px` | margin | page content |
+| `0px 22px` | padding | page content |
+| `40px 0px 45px` | padding | page content |
+| `170px 0px 0px` | padding | page content |
+| `0px 0px 50px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `65px 0px` for padding, `12px` for padding, `0px 308px` for margin, `0px -1028px` for margin, `0px 22px` for padding, and `40px 0px 45px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px 0px 0px solid none none 0px`, `1px solid 20px`, `1px solid 49px`, `1px solid 25px`, `1px solid 8px`, `1px solid 100px`, `1px solid 44px`, and `0px none 32.6px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px 0px 0px solid none none 0px` (217), `1px solid 20px` (77), `1px solid 49px` (77), `1px solid 25px` (57), `1px solid 8px` (24), and `1px solid 100px` (11). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#f0f0f0`, `#ffffff`, and `#cce1f5`. Text colors include `#000000`, `#373330`, and `#1a172c`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Universal Sans** and **Messina Sans Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `65px 0px`, `12px`, `0px 308px`, `0px -1028px`, and `0px 22px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f0f0f0`, `#ffffff`, `#cce1f5`, and `#ff6b17`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h1>, <a>, <h2>, <p>, <ul>, <li>, and <ol> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 17 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

@@ -38,67 +38,83 @@ Last updated: 2026-08-03
 
 [Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/share/pin-667)
 
-## Design character
-
-crazycreative.design has a predominantly dark surface treatment across 35 captured pages. The strongest recurring signals are 3 captured type families, 6 recurring colors, and 23 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **35 pages** and 8 representative page references. It records 378 color rows, 22 typography rows, 13 spacing rows, 7 border rows, 3 gradient rows, and 0 shadow rows.
+crazycreative.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ff66c8`, and `#ffffff`, with typography led by **System**, **Bricolage Grotesque 96 Pt**, and **Bricolage Grotesque**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 3638 |
-| `#ff66c8` | background-color · main | 695 |
-| `#ffffff` | color · main | 522 |
-| `#0000ee` | color · button | 60 |
-| `#121212` | color · main | 10 |
-| `#ffd600` | background-color · main | 9 |
+| color.text | `#000000` | text on page content in the main |
+| color.surface | `#ff66c8` | surface on page content in the main |
+| color.text | `#ffffff` | text on page content in the main |
+| color.text | `#0000ee` | text on page content in the button |
+| color.text | `#121212` | text on page content in the main |
+| color.surface | `#ffd600` | surface on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **System** | 12px | 400 | normal | normal | <div> in the main and <a> in the button |
+| type.display-130px | **Bricolage Grotesque 96 Pt** | 130px | 400 | 110.5px | -2.2px | <h1> in the main |
+| type.body-28px | **Bricolage Grotesque** | 28px | 400 | 39.2px | -0.84px | <p> in the main |
+| type.heading-18px | **Bricolage Grotesque 96 Pt** | 18px | 700 | 25.2px | -0.3px | <p> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 12px · 400 · normal | 1935 |
-| **Bricolage Grotesque 96 Pt** | 130px · 400 · 110.5px | 440 |
-| **Bricolage Grotesque** | 28px · 400 · 39.2px | 92 |
+| `0px 24px` | padding | page content |
+| `20px 24px 22px` | padding | page content |
+| `20px 30px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 24px` for padding, `20px 24px 22px` for padding, and `20px 30px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 40px 40px 0px 0px` and `0px none 100px` border treatments. Recorded gradients include `linear-gradient(90deg, rgb(51, 202, 255) 0%, rgb(129, 105, 255) 25.4232%, rgb(255, 127, 229) 48.3894%, rgb(255, 228, 117) 70.3125%, rgb(47, 255, 231) 100%)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 40px 40px 0px 0px` (673) and `0px none 100px` (9). 3 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#ff66c8` and `#ffd600`. Text colors include `#000000`, `#ffffff`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System**, **Bricolage Grotesque 96 Pt**, and **Bricolage Grotesque**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 24px`, `20px 24px 22px`, and `20px 30px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ff66c8` and `#ffd600`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h1>, <p>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 35 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

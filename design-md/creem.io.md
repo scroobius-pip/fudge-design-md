@@ -30,73 +30,110 @@ Last updated: 2026-08-03
 
 [Creem](https://design.withfudge.com/share/pin-6200)
 
-## Design character
-
-creem.io has a mixed light and dark surface treatment across 6 captured pages. The strongest recurring signals are 3 captured type families, 18 recurring colors, and 99 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **6 pages** and 6 representative page references. It records 215 color rows, 69 typography rows, 59 spacing rows, 27 border rows, 2 gradient rows, and 11 shadow rows.
+creem.io presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafaf9`, and `#111827`, with typography led by **Geist**, **Gasoek One**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · footer | 2823 |
-| `#fafaf9` | color · footer | 2391 |
-| `#111827` | color · main | 561 |
-| `#151617` | border-color · main | 526 |
-| `#ffffff` | color · footer | 275 |
-| `#374151` | color · main | 263 |
-| `#e5e7eb` | border-color · main | 71 |
-| `#b09cfb` | background-color · main | 42 |
-| `#ffbe98` | color · main | 33 |
-| `#6b7280` | color · main | 26 |
-| `#5865f2` | background-color · main | 13 |
-| `#4ecb71` | background-color · footer | 12 |
+| color.surface | `#000000` | surface on page content in the footer |
+| color.text | `#fafaf9` | text on page content in the footer |
+| color.text | `#111827` | text on page content in the main |
+| color.border | `#151617` | border on page content in the main |
+| color.text | `#ffffff` | text on page content in the footer |
+| color.text | `#374151` | text on page content in the main |
+| color.border | `#e5e7eb` | border on page content in the main |
+| color.surface | `#b09cfb` | surface on page content in the main |
+| color.text | `#ffbe98` | text on page content in the main |
+| color.text | `#6b7280` | text on page content in the main |
+| color.surface | `#5865f2` | surface on page content in the main |
+| color.surface | `#4ecb71` | surface on page content in the footer |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Geist** | 16px | 400 | 24px | normal | <div> in the footer, <a> in the footer, <ul> in the footer, <div> in the main, <div> in the nav, <a> in the main, and <button> in the button |
+| type.body-14px | **Geist** | 14px | 400 | 24px | normal | <ul> in the main, <li> in the main, and <div> in the main |
+| type.display-124.8px | **Gasoek One** | 124.8px | 400 | 112.32px | -2.496px | <span> in the main |
+| type.body-14px | **Geist** | 14px | 400 | 20px | normal | <a> in the footer, <p> in the footer, <span> in the footer, <div> in the main, <button> in the button, and <span> in the main |
+| type.display-48px | **Gasoek One** | 48px | 400 | 48px | normal | <h3> in the main and <span> in the main |
+| type.body-16px | **Geist** | 16px | 500 | 24px | normal | <p> in the main, <h3> in the main, and <span> in the button |
+| type.heading-14px | **Geist** | 14px | 700 | 20px | 0.7px | <h4> in the footer |
+| type.heading-14px | **Geist** | 14px | 700 | 20px | normal | <h4> in the main, <a> in the nav, and <button> in the button |
+| type.body-16px | **Geist** | 16px | 400 | 26px | normal | <p> in the footer |
+| type.body-20px | **Geist** | 20px | 400 | 28px | normal | <p> in the main |
+| type.body-14px | **Geist** | 14px | 400 | 22.75px | normal | <p> in the main |
+| type.body-18px | **Geist** | 18px | 500 | 28px | normal | <span> in the main and <div> in the main |
+| type.body-24px | **Geist** | 24px | 400 | 32px | normal | <h1> in the main |
+| type.heading-16px | **Geist** | 16px | 700 | 24px | 0.4px | <a> in the main and <span> in the main |
+| type.heading-14px | **Geist** | 14px | 700 | 17.5px | normal | <span> in the main |
+| type.heading-14px | **Geist** | 14px | 700 | 24px | normal | <strong> in the main |
+| type.utility-12px | **Geist** | 12px | 400 | 16px | normal | <p> in the main and <a> in the footer |
+| type.body-14px | **Geist** | 14px | 500 | 20px | normal | <span> in the main and <button> in the button |
+| type.body-18px | **Gasoek One** | 18px | 400 | 28px | normal | <h3> in the main |
+| type.utility-12px | **Geist** | 12px | 700 | 16px | normal | <span> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Geist** | 16px · 400 · 24px | 3517 |
-| **Gasoek One** | 48px · 400 · 48px | 240 |
-| **System** | 9px · 500 · 13.5px | 2 |
+| `0px 32px` | padding | page content |
+| `0px 212.5px` | margin | page content |
+| `0px 0px 320px` | padding | page content |
+| `0px 450.953px` | margin | page content |
+| `4px 0px` | margin | page content |
+| `0px 48px` | padding | page content |
+| `0px 0px 24px` | margin | page content |
+| `0px 0px 64px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 32px` for padding, `0px 212.5px` for margin, `0px 0px 320px` for padding, `0px 450.953px` for margin, `4px 0px` for margin, and `0px 48px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `2px solid 12px`, `2px solid 16px`, `1px solid 8px`, `1px 0px 0px solid 0px`, `1px 0px 0px solid 0px`, `0px none 8px`, `3px solid 16px`, and `0px none 12px` border treatments. Recorded gradients include `linear-gradient(rgba(255, 255, 255, 0.1) 1px, rgba(0, 0, 0, 0) 1px)` and `linear-gradient(to right, color(srgb 1 0.698039 0.141176 / 0.15)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(21, 22, 23) 6px 6px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(21, 22, 23) 5px 5px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(21, 22, 23) 4px 4px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(21, 22, 23) 3px 3px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(21, 22, 23) 2px 2px 0px 0px`, `rgb(21, 22, 23) 4px 4px 0px 0px`, and `rgb(21, 22, 23) 6px 6px 0px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px 0px 0px solid 0px` (65), `2px solid 12px` (63), `2px solid 16px` (51), `1px solid 8px` (41), `0px none 8px` (17), and `1px solid 12px` (10). 2 gradient rows and 11 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#000000`, `#b09cfb`, and `#5865f2`. Text colors include `#fafaf9`, `#111827`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Geist** and **Gasoek One**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 32px`, `0px 212.5px`, `0px 0px 320px`, `0px 450.953px`, and `4px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **footer**, **button**, **image**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#000000`, `#b09cfb`, `#5865f2`, and `#4ecb71`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <a>, <h4>, <ul>, <span>, <h3>, and <button> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

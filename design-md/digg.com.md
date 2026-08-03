@@ -38,71 +38,108 @@ Last updated: 2026-08-03
 
 [Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/share/pin-9580)
 
-## Design character
-
-digg.com has a mixed light and dark surface treatment across 9 captured pages. The strongest recurring signals are 3 captured type families, 10 recurring colors, and 1073 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **9 pages** and 8 representative page references. It records 160 color rows, 314 typography rows, 955 spacing rows, 95 border rows, 0 gradient rows, and 23 shadow rows.
+digg.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#171616`, and `#e3e0d8`, with typography led by **Roobert Mono Vf**, **Roobert Vf**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 3864 |
-| `#171616` | box-shadow · unknown | 1235 |
-| `#e3e0d8` | background-color · unknown | 662 |
-| `#ffffff` | color · unknown | 519 |
-| `#efece6` | color · header | 173 |
-| `#c47700` | background-color · main | 168 |
-| `#212020` | background-color · main | 81 |
-| `#da702c` | background-color · main | 64 |
-| `#dde0e2` | background-color · main | 52 |
-| `#1e76bd` | color · main | 10 |
+| color.text | `#000000` | text on page content |
+| color.shadow | `#171616` | shadow on page content |
+| color.surface | `#e3e0d8` | surface on page content |
+| color.text | `#ffffff` | text on page content |
+| color.text | `#efece6` | text on page content in the header |
+| color.surface | `#c47700` | surface on page content in the main |
+| color.surface | `#212020` | surface on page content in the main |
+| color.surface | `#da702c` | surface on page content in the main |
+| color.surface | `#dde0e2` | surface on page content in the main |
+| color.text | `#1e76bd` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Roobert Mono Vf** | 16px | 400 | 24px | normal | <body>, <main> in the main, <div>, <div> in the main, <section> in the main, <article> in the main, <a> in the main, <svg> in the main, <html>, <header> in the header, <div> in the header, <svg> in the header, <a> in the header, <span> in the main, <img> in the main, <nav> in the nav, <aside> in the aside, <div> in the aside, <article> in the aside, <li> in the aside, <ol> in the aside, <li> in the main, <ol> in the main, <span> in the aside, <svg> in the aside, <svg> in the button, and <button> in the button |
+| type.body-14px | **Roobert Mono Vf** | 14px | 400 | 20px | normal | <div>, <article>, <span>, <img>, <div> in the header, <header> in the header, <span> in the header, <a> in the header, <span> in the main, <div> in the main, and <svg> in the main |
+| type.body-16px | **Roobert Vf** | 16px | 400 | 24px | normal | <p> in the main, <div> in the main, <section> in the main, <article> in the main, <a> in the main, <span> in the main, and <svg> in the main |
+| type.utility-12px | **Roobert Mono Vf** | 12px | 500 | 16px | normal | <span> in the main, <a> in the main, <img> in the main, <span> in the aside, <a> in the aside, and <img> in the aside |
+| type.body-20px | **Roobert Mono Vf** | 20px | 400 | 30px | normal | <h3> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.utility-12px | **Roobert Vf** | 12px | 500 | 16px | normal | <span> in the main, <a> in the main, and <img> in the main |
+| type.heading-20px | **Roobert Vf** | 20px | 600 | 30px | normal | <span> in the main |
+| type.heading-14px | **Roobert Vf** | 14px | 600 | 20px | normal | <h3> in the main, <a> in the aside, and <a> in the main |
+| type.utility-12px | **Roobert Mono Vf** | 12px | 400 | 16px | normal | <span> in the main, <svg> in the main, and <img> in the main |
+| type.utility-10px | **Roobert Mono Vf** | 10px | 400 | 16px | normal | <span> in the header, <span> in the main, and <p> in the main |
+| type.display-36px | **Roobert Vf** | 36px | 700 | 40px | normal | <h1> in the main |
+| type.body-16px | **Roobert Vf** | 16px | 400 | 28px | normal | <p> in the main |
+| type.body-14px | **Roobert Vf** | 14px | 400 | 24px | normal | <p> in the main |
+| type.body-14px | **Roobert Vf** | 14px | 400 | 19.25px | normal | <p> in the main and <span> in the main |
+| type.utility-10px | **Roobert Mono Vf** | 10px | 600 | 10px | 1px | <span> in the main, <span> in the button, <button> in the button, and <span> in the aside |
+| type.utility-12px | **Roobert Mono Vf** | 12px | 500 | 12px | 1.2px | <span> in the main |
+| type.body-14px | **Roobert Vf** | 14px | 400 | 22.75px | normal | <p> |
+| type.heading-24px | **Roobert Vf** | 24px | 700 | 32px | -0.6px | <h2> in the main and <p> in the main |
+| type.heading-18px | **Roobert Vf** | 18px | 700 | 28px | normal | <h2> in the main and <h2> in the aside |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Roobert Mono Vf** | 16px · 400 · 24px | 166762 |
-| **Roobert Vf** | 16px · 400 · 24px | 4824 |
-| **Applesystem** | 14px · 400 · normal | 265 |
+| `32px` | padding-right | page content |
+| `32px` | padding-left | page content |
+| `32px` | gap | page content |
+| `32px` | row-gap | page content |
+| `32px` | column-gap | page content |
+| `40px 0px` | padding | page content |
+| `40px` | padding-top | page content |
+| `40px` | padding-bottom | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `32px` for padding-right, `32px` for padding-left, `32px` for gap, `32px` for row-gap, `32px` for column-gap, and `40px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `1px solid 8px`, `1px solid 12px`, `0px none 8px`, `0px none 2px`, `0px none 3.35544e+07px`, `0px none 3px`, `0px 0px 0px 1px solid 0px`, and `0px none 1.67772e+07px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.201 0.00152562 0.000480235 / 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(93.5378 0.265419 3.27547) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(7.31957 0.488162 0.174782) 0px 0px 0px 3px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(93.5378 0.265419 3.27547) 0px 0px 0px 2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(7.31957 0.488162 0.174782) 0px 0px 0px 2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.551992 -0.XXX-XXX-XXXX -0.126304 / 0.3) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(0 0 0 / 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `1px solid 8px` (1888), `1px solid 12px` (1657), `0px none 8px` (805), `0px none 2px` (577), `0px none 3.35544e+07px` (482), and `0px none 3px` (451). 0 gradient rows and 23 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#e3e0d8`, `#c47700`, and `#212020`. Text colors include `#000000`, `#ffffff`, and `#efece6`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Roobert Mono Vf**, **Roobert Vf**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `32px`, `32px`, `32px`, `32px`, and `32px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **aside**, **header**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#e3e0d8`, `#c47700`, `#212020`, and `#da702c`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <span>, <section>, <article>, <p>, <a>, <body>, and <main> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

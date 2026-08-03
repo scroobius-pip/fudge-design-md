@@ -38,17 +38,15 @@ Last updated: 2026-08-03
 
 [Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/share/pin-8368)
 
-## Design character
-
-app.reve.com has a predominantly dark surface treatment across 8 captured pages. The strongest recurring signals are no captured type families, no recurring colors, and 0 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **8 pages** and 8 representative page references. It records 63 color rows, 0 typography rows, 0 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+app.reve.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by the recorded surface and text values, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
@@ -58,33 +56,46 @@ No structured color observations were returned.
 
 No structured typography observations were returned.
 
-### Spacing and layout
+### Spacing
 
 No structured spacing observations were returned.
 
-### Shape, borders, and depth
+### Shape and depth
 
-No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+No structured border, gradient, or shadow treatment was returned.
+
+## Colors
+
+No structured color roles were returned. Use screenshot review to establish the palette before implementation.
+
+## Typography
+
+No structured typography roles were returned.
+
+## Layout
+
+No structured spacing values were returned. Container widths, grid rules, and section rhythm require screenshot review.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. The surface palette is not fully established. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the fallback choice separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.

@@ -26,71 +26,100 @@ Last updated: 2026-08-03
 
 [일상의실천](https://design.withfudge.com/share/pin-10370)
 
-## Design character
-
-everyday-practice.com has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 3 captured type families, 10 recurring colors, and 296 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **5 pages** and 5 representative page references. It records 171 color rows, 97 typography rows, 272 spacing rows, 24 border rows, 0 gradient rows, and 0 shadow rows.
+everyday-practice.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#e2e2e2`, `#131313`, and `#787878`, with typography led by **Font**, **Applesystem**, and **Apple Sd Gothic Neo**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#e2e2e2` | color · unknown | 131490 |
-| `#131313` | background-color · unknown | 14839 |
-| `#787878` | border-color · unknown | 14057 |
-| `#ffffff` | background-color · unknown | 1802 |
-| `#000000` | color · unknown | 141 |
-| `#1c1c1c` | background-color · unknown | 70 |
-| `#222222` | background-color · unknown | 10 |
-| `#d8baff` | background-color · unknown | 6 |
-| `#42ff00` | background-color · unknown | 2 |
-| `#ffeb3a` | background-color · unknown | 2 |
+| color.text | `#e2e2e2` | text on page content |
+| color.surface | `#131313` | surface on page content |
+| color.border | `#787878` | border on page content |
+| color.surface | `#ffffff` | surface on page content |
+| color.text | `#000000` | text on page content |
+| color.surface | `#1c1c1c` | surface on page content |
+| color.surface | `#222222` | surface on page content |
+| color.surface | `#d8baff` | surface on page content |
+| color.surface | `#42ff00` | surface on page content |
+| color.surface | `#ffeb3a` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Font** | 16px | 400 | normal | normal | <li> in the nav, <ul> in the nav, <nav> in the nav, <div>, <body>, <a>, <img>, <figure>, <form>, <label>, <input>, and <span> |
+| type.body-17.6px | **Font** | 17.6px | 400 | normal | normal | <input> and <textarea> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-16px | **Apple Sd Gothic Neo** | 16px | 400 | normal | normal | <html> |
+| type.body-21.3333px | **Font** | 21.3333px | 400 | normal | normal | <a> in the nav, <span>, <div>, and <a> |
+| type.body-16px | **Font** | 16px | 400 | 24px | normal | <span>, <p>, and <a> |
+| type.body-13.3333px | **Font** | 13.3333px | 400 | normal | normal | <button> in the button |
+| type.body-13.8667px | **Font** | 13.8667px | 400 | normal | normal | <div> and <label> |
+| type.body-17.6px | **Font** | 17.6px | 400 | 24.64px | normal | <h3> |
+| type.body-21.3333px | **Font** | 21.3333px | 400 | 23.4667px | normal | <h2> |
+| type.body-16px | **Font** | 16px | 400 | 16px | normal | <div> |
+| type.utility-11.5px | **Font** | 11.5px | 500 | normal | normal | <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Font** | 21.3333px · 400 · normal | 131356 |
-| **Applesystem** | 14px · 400 · normal | 141 |
-| **Apple Sd Gothic Neo** | 16px · 400 · normal | 141 |
+| `10px` | padding-left | page content |
+| `10px` | padding-right | page content |
+| `0px 10px` | padding | page content |
+| `10px` | column-gap | page content |
+| `10px` | gap | page content |
+| `10px` | row-gap | page content |
+| `50px 0px 0px` | padding | page content |
+| `50px` | padding-top | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `10px` for padding-left, `10px` for padding-right, `0px 10px` for padding, `10px` for column-gap, `10px` for gap, and `10px` for row-gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px 1px 0px 0px none solid none none 0px`, `0px 0px 0px 1px none none none solid 0px`, `0px 0px 1px none none solid 0px`, `0px 0px 1px none none solid 0px`, `0px none 5.175px`, and `1px solid 0px` border treatments.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px 1px 0px 0px none solid none none 0px` (8477), `0px 0px 0px 1px none none none solid 0px` (5108), `0px 0px 1px none none solid 0px` (533), `0px none 5.175px` (10), and `1px solid 0px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#131313`, `#ffffff`, and `#1c1c1c`. Text colors include `#e2e2e2` and `#000000`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Font**, **Applesystem**, and **Apple Sd Gothic Neo**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `10px`, `10px`, `0px 10px`, `10px`, and `10px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **nav**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#131313`, `#ffffff`, `#1c1c1c`, and `#222222`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <a>, <li>, <ul>, <nav>, <body>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

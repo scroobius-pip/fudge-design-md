@@ -38,74 +38,108 @@ Last updated: 2026-08-03
 
 [Apara - Limitless Possibilities](https://design.withfudge.com/share/pin-7978)
 
-## Design character
-
-apara.design has a mixed light and dark surface treatment across 8 captured pages. The strongest recurring signals are 4 captured type families, 27 recurring colors, and 31 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **8 pages** and 8 representative page references. It records 235 color rows, 62 typography rows, 8 spacing rows, 17 border rows, 4 gradient rows, and 2 shadow rows.
+apara.design presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f9f9f9`, with typography led by **System**, **Geist**, **Hero Font**, and **Test Söhne**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 7932 |
-| `#ffffff` | background-color · unknown | 1933 |
-| `#f9f9f9` | background-color · unknown | 1914 |
-| `#1e1e1e` | background-color · unknown | 146 |
-| `#eeeeee` | background-color · unknown | 103 |
-| `#7f7f7f` | color · unknown | 98 |
-| `#0f0f0f` | background-color · unknown | 89 |
-| `#0000ee` | color · unknown | 80 |
-| `#a8a8a8` | color · unknown | 63 |
-| `#f0f0f0` | background-color · unknown | 57 |
-| `#007cff` | box-shadow · unknown | 35 |
-| `#a5a5a5` | color · unknown | 21 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#ffffff` | surface on page content |
+| color.surface | `#f9f9f9` | surface on page content |
+| color.surface | `#1e1e1e` | surface on page content |
+| color.surface | `#eeeeee` | surface on page content |
+| color.text | `#7f7f7f` | text on page content |
+| color.surface | `#0f0f0f` | surface on page content |
+| color.text | `#0000ee` | text on page content |
+| color.text | `#a8a8a8` | text on page content |
+| color.surface | `#f0f0f0` | surface on page content |
+| color.shadow | `#007cff` | shadow on page content |
+| color.text | `#a5a5a5` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **System** | 12px | 400 | normal | normal | <div> and <a> |
+| type.display-38px | **Geist** | 38px | 500 | 40px | -1.3px | <p> |
+| type.body-25px | **Geist** | 25px | 500 | 31px | -0.5px | <p> |
+| type.body-14px | **Geist** | 14px | 400 | 20px | normal | <p> |
+| type.utility-12px | **Geist** | 12px | 400 | 16px | normal | <p>, <span>, and <a> |
+| type.body-14px | **Geist** | 14px | 400 | 16.8px | normal | <p> |
+| type.display-75px | **Hero Font** | 75px | 400 | 75px | -4px | <span> |
+| type.utility-13px | **Geist** | 13px | 400 | 15.6px | normal | <p> |
+| type.body-14px | **Geist** | 14px | 400 | 18px | normal | <p> |
+| type.display-50px | **Geist** | 50px | 500 | 53px | -1.5px | <p> |
+| type.utility-12px | **Geist** | 12px | 400 | 14.4px | normal | <p> |
+| type.body-14px | **Geist** | 14px | 400 | 16px | normal | <p> |
+| type.body-16px | **Geist** | 16px | 400 | 20px | normal | <p> |
+| type.body-14px | **Geist** | 14px | 400 | 26px | normal | <p> |
+| type.heading-14px | **Geist** | 14px | 600 | 25px | normal | <p> |
+| type.body-14px | **Geist** | 14px | 400 | 38px | normal | <p> |
+| type.heading-15px | **Geist** | 15px | 600 | 33px | normal | <p> |
+| type.heading-25px | **Geist** | 25px | 600 | 31px | -0.5px | <p> |
+| type.utility-10px | **Geist** | 10px | 400 | 12px | normal | <p> |
+| type.heading-15px | **Geist** | 15px | 600 | 32px | normal | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 12px · 400 · normal | 5600 |
-| **Geist** | 13px · 400 · 15.6px | 589 |
-| **Hero Font** | 75px · 400 · 75px | 44 |
-| **Test Söhne** | 14px · 400 · normal | 4 |
+| `16px 0px` | padding | page content |
+| `0px 10px 0px 12px` | padding | page content |
+| `0px 0px 0px 232px` | padding | page content |
+| `0px 7px 0px 10px` | padding | page content |
+| `0px 8px` | padding | page content |
+| `10px 10px 10px 14px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px 0px` for padding, `0px 10px 0px 12px` for padding, `0px 0px 0px 232px` for padding, `0px 7px 0px 10px` for padding, `0px 8px` for padding, and `10px 10px 10px 14px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 18px`, `0px none 24px`, `0px none 15px`, `0px none 120px`, `0px none 150px`, `0px none 14px`, `0px none 60px`, and `0px none 22px` border treatments. Recorded gradients include `linear-gradient(270deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)`, `linear-gradient(rgb(0, 0, 0) 0%, rgba(102, 102, 102, 0.8) 100%)`, `linear-gradient(rgb(0, 0, 0) 0%, rgba(0, 124, 255, 0.23) 45%)`, and `linear-gradient(rgb(0, 0, 0) 0%, rgb(112, 55, 205) 100%)`. Recorded shadows include `rgb(0, 0, 0) 0px 0px 0px 4px, rgb(0, 124, 255) 0px 0px 0px 6px` and `rgb(0, 0, 0) 0px 0px 0px 4px, rgb(148, 83, 255) 0px 0px 0px 6px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 18px` (463), `0px none 24px` (115), `0px none 15px` (56), `0px none 120px` (18), `0px none 150px` (9), and `0px none 14px` (8). 4 gradient rows and 2 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#ffffff`, `#f9f9f9`, and `#1e1e1e`. Text colors include `#000000`, `#7f7f7f`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System**, **Geist**, **Hero Font**, and **Test Söhne**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px 0px`, `0px 10px 0px 12px`, `0px 0px 0px 232px`, `0px 7px 0px 10px`, and `0px 8px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffff`, `#f9f9f9`, `#1e1e1e`, and `#eeeeee`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <a>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

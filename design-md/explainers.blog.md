@@ -18,66 +18,97 @@ Last updated: 2026-08-03
 
 [Why is the sky blue?](https://design.withfudge.com/share/pin-6335)
 
-## Design character
-
-explainers.blog has a predominantly light surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 5 recurring colors, and 27 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **3 pages** and 3 representative page references. It records 54 color rows, 25 typography rows, 27 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+explainers.blog presents a predominantly light surface treatment in the captured pages. The system is anchored by `#2d2d2d`, `#424242`, and `#ffffff`, with typography led by **Newsreader 16 Pt**, **Figtree**, and **Pp Supply Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#2d2d2d` | color · header | 443 |
-| `#424242` | color · unknown | 440 |
-| `#ffffff` | color · header | 202 |
-| `#31359d` | color · nav | 6 |
-| `#5b5bfd` | color · unknown | 6 |
+| color.text | `#2d2d2d` | text on page content in the header |
+| color.text | `#424242` | text on page content |
+| color.text | `#ffffff` | text on page content in the header |
+| color.text | `#31359d` | text on page content in the nav |
+| color.text | `#5b5bfd` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-28px | **Newsreader 16 Pt** | 28px | 400 | 37.8px | -0.28px | <div> |
+| type.body-21px | **Newsreader 16 Pt** | 21px | 400 | 29.4px | normal | <div> in the header, <div> in the footer, <div>, and <p> |
+| type.body-30px | **Figtree** | 30px | 500 | 28.2px | normal | <h2> in the header |
+| type.body-16px | **Figtree** | 16px | 400 | 22.4px | normal | <a> |
+| type.body-15px | **Figtree** | 15px | 400 | 19.5px | normal | <p> |
+| type.display-70px | **Newsreader 16 Pt** | 70px | 700 | 65.8px | normal | <h1> in the header |
+| type.utility-12px | **Pp Supply Mono** | 12px | 400 | 18px | normal | <div> and <p> |
+| type.heading-20px | **Newsreader 16 Pt** | 20px | 700 | 18.8px | -0.2px | <a> in the nav and <a> in the footer |
+| type.heading-14px | **Figtree** | 14px | 700 | 29.4px | 0.28px | <h4> |
+| type.body-16px | **Figtree** | 16px | 500 | 22.4px | normal | <a> |
+| type.heading-15px | **Figtree** | 15px | 600 | 29.4px | normal | <a> in the nav |
+| type.utility-13px | **Pp Supply Mono** | 13px | 400 | 19.5px | normal | <span> in the button |
+| type.heading-15px | **Figtree** | 15px | 700 | 19.5px | normal | <strong> |
+| type.body-16px | **Figtree** | 16px | 400 | 29.4px | normal | <li> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Newsreader 16 Pt** | 20px · 700 · 18.8px | 882 |
-| **Figtree** | 30px · 500 · 28.2px | 191 |
-| **Pp Supply Mono** | 12px · 400 · 18px | 24 |
+| `50px 45px` | padding | page content |
+| `0px 633px` | margin | page content |
+| `0px 0px 12px` | margin | page content |
+| `24px` | padding | page content |
+| `0px 289px` | margin | page content |
+| `0px 45px` | padding | page content |
+| `0px 273px` | margin | page content |
+| `0px 0px 24px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `50px 45px` for padding, `0px 633px` for margin, `0px 0px 12px` for margin, `24px` for padding, `0px 289px` for margin, and `0px 45px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+No structured border, gradient, or shadow treatment was returned.
 
-### Shape, borders, and depth
+## Colors
 
-No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly light surface treatment. Surface roles are not fully established. Text colors include `#2d2d2d`, `#424242`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Newsreader 16 Pt**, **Figtree**, and **Pp Supply Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `50px 45px`, `0px 633px`, `0px 0px 12px`, `24px`, and `0px 289px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **header**, **footer**, **image**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly light surface treatment. The surface palette is not fully established. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <a>, <div>, <h1>, <h2>, <p>, <span>, <h4>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated light surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

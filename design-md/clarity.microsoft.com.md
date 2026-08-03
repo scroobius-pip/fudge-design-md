@@ -26,71 +26,110 @@ Last updated: 2026-08-03
 
 [Font of Web - Clarity](https://design.withfudge.com/share/pin-6780)
 
-## Design character
-
-clarity.microsoft.com has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 1 captured type family, 14 recurring colors, and 64 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **5 pages** and 5 representative page references. It records 153 color rows, 56 typography rows, 44 spacing rows, 8 border rows, 9 gradient rows, and 3 shadow rows.
+clarity.microsoft.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#323130`, and `#eaeaff`, with typography led by **Segoe Ui**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · main | 4737 |
-| `#323130` | color · main | 798 |
-| `#eaeaff` | background-color · nav | 364 |
-| `#ffffff` | background-color · header | 174 |
-| `#6a6a6a` | color · nav | 86 |
-| `#3b3a39` | color · header | 82 |
-| `#020057` | color · button | 41 |
-| `#17233e` | color · main | 33 |
-| `#0078d4` | color · main | 32 |
-| `#161514` | color · main | 15 |
-| `#605e5c` | color · main | 12 |
-| `#201f1e` | color · main | 7 |
+| color.text | `#000000` | text on page content in the main |
+| color.text | `#323130` | text on page content in the main |
+| color.surface | `#eaeaff` | surface on page content in the nav |
+| color.surface | `#ffffff` | surface on page content in the header |
+| color.text | `#6a6a6a` | text on page content in the nav |
+| color.text | `#3b3a39` | text on page content in the header |
+| color.text | `#020057` | text on page content in the button |
+| color.text | `#17233e` | text on page content in the main |
+| color.text | `#0078d4` | text on page content in the main |
+| color.text | `#161514` | text on page content in the main |
+| color.text | `#605e5c` | text on page content in the main |
+| color.text | `#201f1e` | text on page content in the main |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-14px | **Segoe Ui** | 14px | 400 | 19.6px | normal | <div> in the header, <div> in the main, <button> in the button, and <span> in the button |
+| type.body-16px | **Segoe Ui** | 16px | 400 | 22px | normal | <span> in the button, <p> in the main, <span> in the main, <div> in the main, and <div> in the nav |
+| type.body-16px | **Segoe Ui** | 16px | 400 | 21px | normal | <div> in the nav and <a> in the nav |
+| type.utility-11px | **Segoe Ui** | 11px | 400 | 16px | normal | <div> in the nav |
+| type.display-52px | **Segoe Ui** | 52px | 600 | 72.8px | normal | <span> in the main |
+| type.body-18px | **Segoe Ui** | 18px | 400 | 24px | normal | <span> in the main and <div> in the main |
+| type.heading-16px | **Segoe Ui** | 16px | 600 | 22px | normal | <span> in the button, <span> in the main, and <h3> in the main |
+| type.heading-28px | **Segoe Ui** | 28px | 600 | 36px | normal | <span> in the main, <div> in the main, and <h2> in the main |
+| type.heading-14px | **Segoe Ui** | 14px | 600 | 22px | normal | <div> in the main and <span> in the main |
+| type.display-48px | **Segoe Ui** | 48px | 600 | 54px | normal | <h1> in the main |
+| type.heading-16px | **Segoe Ui** | 16px | 600 | 21px | normal | <div> in the nav |
+| type.body-16px | **Segoe Ui** | 16px | 400 | 22.4px | normal | <div> in the main |
+| type.body-18px | **Segoe Ui** | 18px | 400 | 21px | normal | <span> in the main |
+| type.body-18px | **Segoe Ui** | 18px | 400 | 25.2px | normal | <p> in the main |
+| type.heading-18px | **Segoe Ui** | 18px | 600 | 18px | normal | <span> in the button |
+| type.heading-14px | **Segoe Ui** | 14px | 600 | 19.6px | normal | <span> in the button, <a> in the button, <span> in the main, and <a> in the main |
+| type.heading-28px | **Segoe Ui** | 28px | 600 | 39.2px | normal | <h2> in the main |
+| type.heading-18px | **Segoe Ui** | 18px | 600 | 24px | normal | <span> in the button, <button> in the button, and <a> in the button |
+| type.heading-16px | **Segoe Ui** | 16px | 600 | 36px | normal | <span> in the main |
+| type.heading-14px | **Segoe Ui** | 14px | 600 | 14px | normal | <span> in the main |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Segoe Ui** | 14px · 400 · 19.6px | 3140 |
+| `0px 133.5px` | margin | page content |
+| `80px 54px` | padding | page content |
+| `96px` | padding | page content |
+| `96px 96px 0px` | padding | page content |
+| `0px 96px` | padding | page content |
+| `26px 0px` | padding | page content |
+| `0px 0px 40px` | margin | page content |
+| `0px 80px 0px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 133.5px` for margin, `80px 54px` for padding, `96px` for padding, `96px 96px 0px` for padding, `0px 96px` for padding, and `26px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 4px`, `0px none 4px 0px 0px 4px`, `1px solid 47px`, `1px solid 47px`, and `1px solid 4px` border treatments. Recorded gradients include `linear-gradient(0deg, rgb(243, 243, 255) 31.58%, rgb(255, 255, 255) 100%)`, `linear-gradient(rgba(243, 243, 255, 0.1) 0%, rgb(243, 243, 255) 100%)`, `linear-gradient(97deg, rgb(170, 101, 255) 0%, rgb(0, 154, 249) 49.25%, rgb(101, 106, 255) 98.5%)`, `linear-gradient(90deg, rgb(65, 82, 216) 0%, rgb(88, 160, 223) 100%)`, `linear-gradient(90deg, rgb(143, 88, 171) -8.93%, rgb(61, 96, 224) 100%)`, and `linear-gradient(280.75deg, rgb(0, 120, 212) 0%, rgb(150, 146, 255) 94.81%)`. Recorded shadows include `rgba(0, 0, 0, 0.13) 0px 3.2px 7.2px 0px, rgba(0, 0, 0, 0.1) 0px 0.6px 1.8px 0px` and `rgba(0, 0, 0, 0.1) 0px 2px 8px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 4px` (6), `1px solid 47px` (4), `0px none 4px 0px 0px 4px` (2), and `1px solid 4px` (1). 9 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#eaeaff` and `#ffffff`. Text colors include `#000000`, `#323130`, and `#6a6a6a`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Segoe Ui**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 133.5px`, `80px 54px`, `96px`, `96px 96px 0px`, and `0px 96px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **nav**, **header**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#eaeaff` and `#ffffff`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <button>, <h1>, <span>, <a>, <h2>, <p>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

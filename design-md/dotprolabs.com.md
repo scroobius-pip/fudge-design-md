@@ -26,74 +26,110 @@ Last updated: 2026-08-03
 
 [DotPro Labs](https://design.withfudge.com/share/pin-7490)
 
-## Design character
-
-dotprolabs.com has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 4 captured type families, 22 recurring colors, and 67 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **5 pages** and 5 representative page references. It records 178 color rows, 75 typography rows, 55 spacing rows, 11 border rows, 0 gradient rows, and 1 shadow rows.
+dotprolabs.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#ececec`, with typography led by **Monigue Demo**, **Anton**, **Raleway**, and **Pp Neue Machina**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 5612 |
-| `#fafafa` | color · unknown | 1545 |
-| `#ececec` | color · unknown | 758 |
-| `#f7efd4` | color · unknown | 519 |
-| `#ff6c10` | color · unknown | 349 |
-| `#f7f0d6` | background-color · unknown | 121 |
-| `#0a0a0a` | background-color · unknown | 94 |
-| `#262626` | color · unknown | 91 |
-| `#ff7e2d` | color · unknown | 86 |
-| `#ffd8c9` | color · unknown | 43 |
-| `#ff4000` | background-color · unknown | 40 |
-| `#f97316` | background-color · unknown | 34 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#fafafa` | text on page content |
+| color.text | `#ececec` | text on page content |
+| color.text | `#f7efd4` | text on page content |
+| color.text | `#ff6c10` | text on page content |
+| color.surface | `#f7f0d6` | surface on page content |
+| color.surface | `#0a0a0a` | surface on page content |
+| color.text | `#262626` | text on page content |
+| color.text | `#ff7e2d` | text on page content |
+| color.text | `#ffd8c9` | text on page content |
+| color.surface | `#ff4000` | surface on page content |
+| color.surface | `#f97316` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Monigue Demo** | 16px | 400 | 24px | normal | <div> |
+| type.display-72px | **Anton** | 72px | 400 | 72px | normal | <p>, <button> in the button, <p> in the button, and <div> in the button |
+| type.display-464.4px | **Monigue Demo** | 464.4px | 400 | 325.08px | normal | <p> |
+| type.display-185px | **Monigue Demo** | 185px | 400 | 185px | normal | <div> and <p> |
+| type.body-16px | **Raleway** | 16px | 400 | 24px | normal | <div>, <p>, <li>, <ol>, <a>, and <ul> |
+| type.body-18px | **Raleway** | 18px | 400 | 28px | normal | <p> |
+| type.display-96px | **Monigue Demo** | 96px | 400 | 96px | normal | <p>, <span>, and <div> |
+| type.display-60px | **Anton** | 60px | 400 | 60px | normal | <p> and <p> in the button |
+| type.display-48px | **Monigue Demo** | 48px | 400 | 48px | normal | <div> |
+| type.body-20px | **Monigue Demo** | 20px | 400 | 28px | normal | <div> and <button> in the button |
+| type.body-16px | **Raleway** | 16px | 300 | 24px | normal | <p> |
+| type.heading-16px | **Raleway** | 16px | 700 | 24px | normal | <p>, <div>, and <ul> |
+| type.display-128px | **Anton** | 128px | 400 | 128px | normal | <p> |
+| type.heading-14px | **Raleway** | 14px | 700 | 20px | normal | <p> and <li> |
+| type.body-24px | **Monigue Demo** | 24px | 400 | 32px | normal | <a> in the nav and <div> in the nav |
+| type.body-14px | **Raleway** | 14px | 500 | 20px | normal | <li> |
+| type.body-20px | **Anton** | 20px | 400 | 28px | normal | <a>, <p>, and <span> |
+| type.body-14px | **Raleway** | 14px | 400 | 20px | normal | <p> |
+| type.body-18px | **Pp Neue Machina** | 18px | 400 | 28px | normal | <p> |
+| type.heading-18px | **Raleway** | 18px | 600 | 28px | normal | <span> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Monigue Demo** | 16px · 400 · 24px | 3113 |
-| **Anton** | 128px · 400 · 128px | 847 |
-| **Raleway** | 16px · 400 · 24px | 538 |
-| **Pp Neue Machina** | 18px · 400 · 28px | 20 |
+| `0px 16px` | padding | page content |
+| `64px 48px` | padding | page content |
+| `0px 48px` | padding | page content |
+| `0px 92px` | margin | page content |
+| `64px 0px 0px` | margin | page content |
+| `40px 0px` | padding | page content |
+| `24px` | padding | page content |
+| `8px 0px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `0px 16px` for padding, `64px 48px` for padding, `0px 48px` for padding, `0px 92px` for margin, `64px 0px 0px` for margin, and `40px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 8px`, `1px 0px solid 0px`, `0px none 12px`, `0px none 24px`, `0px none 9999px`, `0px none 4px`, `2px solid 9999px`, and `1px solid 4px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 8px` (501), `1px 0px solid 0px` (59), `0px none 12px` (43), `0px none 24px` (26), `0px none 9999px` (25), and `0px none 4px` (15). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#f7f0d6`, and `#0a0a0a`. Text colors include `#fafafa`, `#ececec`, and `#f7efd4`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Monigue Demo**, **Anton**, **Raleway**, and **Pp Neue Machina**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `0px 16px`, `64px 48px`, `0px 48px`, `0px 92px`, and `64px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#f7f0d6`, `#0a0a0a`, and `#ff4000`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <span>, <li>, <ol>, <button>, <a>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

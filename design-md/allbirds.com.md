@@ -38,75 +38,110 @@ Last updated: 2026-08-03
 
 [Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8951)
 
-## Design character
-
-allbirds.com has a predominantly dark surface treatment across 12 captured pages. The strongest recurring signals are 5 captured type families, 17 recurring colors, and 135 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **12 pages** and 8 representative page references. It records 360 color rows, 99 typography rows, 84 spacing rows, 38 border rows, 2 gradient rows, and 11 shadow rows.
+allbirds.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#212121`, with typography led by **Klim Type Foundry**, **Geograph**, **Self Modern**, **Hurme Geometric Sans 3**, and **Akkurat Mono**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | background-color · unknown | 13495 |
-| `#ffffff` | color · unknown | 1759 |
-| `#212121` | color · main | 1321 |
-| `#e0dacf` | background-color · main | 95 |
-| `#262626` | color · main | 26 |
-| `#575757` | border-color · unknown | 26 |
-| `#7c95a8` | background-color · main | 25 |
-| `#ece9e2` | background-color · unknown | 15 |
-| `#222519` | background-color · button | 14 |
-| `#6a6767` | border-color · button | 14 |
-| `#e5e7eb` | border-color · unknown | 10 |
-| `#cdcdcd` | border-color · unknown | 8 |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#ffffff` | text on page content |
+| color.text | `#212121` | text on page content in the main |
+| color.surface | `#e0dacf` | surface on page content in the main |
+| color.text | `#262626` | text on page content in the main |
+| color.border | `#575757` | border on page content |
+| color.surface | `#7c95a8` | surface on page content in the main |
+| color.surface | `#ece9e2` | surface on page content |
+| color.surface | `#222519` | surface on page content in the button |
+| color.border | `#6a6767` | border on page content in the button |
+| color.border | `#e5e7eb` | border on page content |
+| color.border | `#cdcdcd` | border on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Klim Type Foundry** | 16px | 400 | 24px | normal | <div>, <div> in the main, <div> in the nav, <ul> in the nav, <a> in the main, <li>, <a>, <button> in the button, <div> in the button, <p>, <p> in the main, and <span> in the main |
+| type.body-14px | **Geograph** | 14px | 500 | 20px | 0.7px | <p> in the main and <span> in the main |
+| type.body-14px | **Klim Type Foundry** | 14px | 400 | 20px | 0.7px | <p> in the main |
+| type.body-24px | **Self Modern** | 24px | 400 | 40px | normal | <p> in the main |
+| type.utility-12px | **Geograph** | 12px | 500 | 15px | 0.3px | <button> in the button and <a> in the main |
+| type.display-40px | **Self Modern** | 40px | 400 | 60px | normal | <h2> in the main |
+| type.utility-12px | **Klim Type Foundry** | 12px | 400 | 16px | normal | <p> in the main and <p> |
+| type.display-40px | **Self Modern** | 40px | 400 | 50px | normal | <div> in the main |
+| type.display-40px | **Self Modern** | 40px | 700 | 50px | normal | <strong> in the main |
+| type.body-24px | **Klim Type Foundry** | 24px | 400 | 32px | normal | <h1> in the main and <p> in the main |
+| type.body-14px | **Klim Type Foundry** | 14px | 400 | 20px | normal | <p> in the main and <a> |
+| type.display-40px | **Self Modern** | 40px | 400 | 48px | normal | <p> in the main |
+| type.heading-16px | **Klim Type Foundry** | 16px | 600 | 24px | normal | <p> and <div> |
+| type.body-14px | **Hurme Geometric Sans 3** | 14px | 400 | 16px | normal | <button> in the button |
+| type.utility-12px | **Geograph** | 12px | 500 | 15px | 0.6px | <button> in the button |
+| type.body-16px | **Klim Type Foundry** | 16px | 400 | 16px | normal | <li> in the nav |
+| type.utility-12px | **Geograph** | 12px | 500 | 16px | normal | <div>, <button> in the button, and <p> in the button |
+| type.body-16px | **Akkurat Mono** | 16px | 500 | 24px | 0.8px | <button> in the button |
+| type.body-14px | **Klim Type Foundry** | 14px | 400 | 21px | 0.35px | <h3> in the main |
+| type.utility-12px | **Klim Type Foundry** | 12px | 400 | 16px | 0.6px | <h3> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Klim Type Foundry** | 16px · 400 · 24px | 7922 |
-| **Geograph** | 12px · 500 · 15px | 162 |
-| **Self Modern** | 24px · 400 · 40px | 150 |
-| **Hurme Geometric Sans 3** | 14px · 400 · 16px | 14 |
-| **Akkurat Mono** | 14px · 400 · 20px | 12 |
+| `16px` | padding | page content |
+| `24px` | padding | page content |
+| `-24px 0px 0px` | margin | page content |
+| `88px 0px 24px` | padding | page content |
+| `40px 10px 120px` | margin | page content |
+| `8px 32px` | padding | page content |
+| `0px 80px 48px` | padding | page content |
+| `0px 40px` | padding | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `16px` for padding, `24px` for padding, `-24px 0px 0px` for margin, `88px 0px 24px` for padding, `40px 10px 120px` for margin, and `8px 32px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 16px 16px 0px 0px`, `0px none 24px`, `0px none 12px`, `1px solid 3.35544e+07px`, `0px none 3.35544e+07px`, `1px solid 3.35544e+07px`, `0px none 16px`, and `1px solid 4px` border treatments. Recorded gradients include `radial-gradient(circle, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0) 30%)`. Recorded shadows include `rgba(0, 0, 0, 0.2) 0px 0px 30px 1px` and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 16px 16px 0px 0px` (1589), `0px none 24px` (380), `0px none 12px` (176), `1px solid 3.35544e+07px` (156), `0px none 3.35544e+07px` (102), and `0px none 16px` (25). 2 gradient rows and 11 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#e0dacf`, and `#7c95a8`. Text colors include `#ffffff`, `#212121`, and `#262626`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Klim Type Foundry**, **Geograph**, **Self Modern**, **Hurme Geometric Sans 3**, and **Akkurat Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `16px`, `24px`, `-24px 0px 0px`, `88px 0px 24px`, and `40px 10px 120px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#e0dacf`, `#7c95a8`, and `#ece9e2`. Depth is supported by the returned gradients and shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <li>, <ul>, <button>, <a>, <p>, <h3>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 8 representative pages selected from 12 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

@@ -14,66 +14,87 @@ Last updated: 2026-08-03
 
 [10 Hangul Unit – B K I D](https://design.withfudge.com/share/pin-10282)
 
-## Design character
-
-bkid.co has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 4 captured type families, 4 recurring colors, and 40 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 59 color rows, 38 typography rows, 40 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+bkid.co presents a predominantly light surface treatment in the captured pages. The system is anchored by `#444444`, `#ffffff`, and `#888888`, with typography led by **Helvetica Neue**, **Applesystem**, **System**, and **Helvetica**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#444444` | color · unknown | 23623 |
-| `#ffffff` | background-color · unknown | 3604 |
-| `#888888` | color · main | 2384 |
-| `#000000` | color · unknown | 190 |
+| color.text | `#444444` | text on page content |
+| color.surface | `#ffffff` | surface on page content |
+| color.text | `#888888` | text on page content in the main |
+| color.text | `#000000` | text on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-14px | **Helvetica Neue** | 14px | 400 | 22px | normal | <div>, <body>, <header> in the header, <div> in the main, <article> in the main, <main> in the main, <li> in the nav, <ul> in the nav, <div> in the nav, <nav> in the nav, <div> in the header, <img> in the header, <a> in the header, and <p> in the header |
+| type.body-14px | **Helvetica Neue** | 14px | 400 | 24px | normal | <img> in the main and <p> in the main |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.utility-10px | **System** | 10px | 400 | normal | normal | <html> |
+| type.body-14px | **Helvetica** | 14px | 400 | 22px | 1px | <a> in the nav |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Helvetica Neue** | 14px · 400 · 22px | 26007 |
-| **Applesystem** | 14px · 400 · normal | 87 |
-| **System** | 10px · 400 · normal | 87 |
-| **Helvetica** | 14px · 400 · 22px | 16 |
+| `21px` | margin-bottom | page content |
+| `0px 63.5px` | margin | page content |
+| `63.5px` | margin-right | page content |
+| `63.5px` | margin-left | page content |
+| `100px 0px 0px` | padding | page content |
+| `100px` | padding-top | page content |
+| `0px 0px 21px` | margin | page content |
+| `5.6px 0px 0px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `21px` for margin-bottom, `0px 63.5px` for margin, `63.5px` for margin-right, `63.5px` for margin-left, `100px 0px 0px` for padding, and `100px` for padding-top. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+No structured border, gradient, or shadow treatment was returned.
 
-### Shape, borders, and depth
+## Colors
 
-No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly light surface treatment. Surface colors include `#ffffff`. Text colors include `#444444`, `#888888`, and `#000000`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Helvetica Neue**, **Applesystem**, **System**, and **Helvetica**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `21px`, `0px 63.5px`, `63.5px`, `63.5px`, and `100px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **main**, **nav**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ffffff`. No structured gradient or shadow treatment is established.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <body>, <header>, <img>, <p>, <article>, and <main> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated light surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

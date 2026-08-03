@@ -14,67 +14,87 @@ Last updated: 2026-08-03
 
 [Coffee Diary | Bare Mettle Forums](https://design.withfudge.com/share/pin-6253)
 
-## Design character
-
-baremettle.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are no captured type families, 10 recurring colors, and 40 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 54 color rows, 0 typography rows, 31 spacing rows, 8 border rows, 1 gradient rows, and 0 shadow rows.
+baremettle.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#d7d7d7`, `#818181`, and `#ffffff`, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#d7d7d7` | color · unknown | 666 |
-| `#818181` | color · unknown | 87 |
-| `#ffffff` | color · header | 81 |
-| `#f6eedd` | color · unknown | 54 |
-| `#8d8d91` | color · unknown | 52 |
-| `#b0b0b0` | color · unknown | 23 |
-| `#101010` | background-color · unknown | 6 |
-| `#191919` | background-color · nav | 2 |
-| `#aaaaaa` | color · unknown | 1 |
-| `#404040` | background-color · unknown | 1 |
+| color.text | `#d7d7d7` | text on page content |
+| color.text | `#818181` | text on page content |
+| color.text | `#ffffff` | text on page content in the header |
+| color.text | `#f6eedd` | text on page content |
+| color.text | `#8d8d91` | text on page content |
+| color.text | `#b0b0b0` | text on page content |
+| color.surface | `#101010` | surface on page content |
+| color.surface | `#191919` | surface on page content in the nav |
+| color.text | `#aaaaaa` | text on page content |
+| color.surface | `#404040` | surface on page content |
 
 ### Typography
 
 No structured typography observations were returned.
 
-### Spacing and layout
+### Spacing
 
-The most repeated spacing values are `12px 9px` for padding, `15px` for padding, `10px` for padding, `0px 0px 12px` for padding, `0px 371.5px` for margin, and `15px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+| value | property | observed element |
+| --- | --- | --- |
+| `12px 9px` | padding | page content |
+| `15px` | padding | page content |
+| `10px` | padding | page content |
+| `0px 0px 12px` | padding | page content |
+| `0px 371.5px` | margin | page content |
+| `15px 0px` | padding | page content |
+| `5px 0px 0px` | margin | page content |
+| `0px 0px -5px` | margin | page content |
 
-### Shape, borders, and depth
+### Shape and depth
 
-Repeated border observations include `0px none 4px` (55), `0px none 3px` (4), `1px solid 4px` (2), and `0px none 3px 3px 0px 0px` (1). 1 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The captured pages use `0px none 4px`, `0px none 3px`, `1px solid 4px`, and `0px none 3px 3px 0px 0px` border treatments. Recorded gradients include `linear-gradient(rgba(255, 255, 255, 0.3)`.
+
+## Colors
+
+The visual system is predominantly dark surface treatment. Surface colors include `#101010`, `#191919`, and `#404040`. Text colors include `#d7d7d7`, `#818181`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+No structured typography roles were returned.
+
+## Layout
+
+The captured pages use values such as `12px 9px`, `15px`, `10px`, `0px 0px 12px`, and `0px 371.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **footer**, **nav**, **image**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#101010`, `#191919`, and `#404040`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <p>, <span>, <a>, <ul>, <h1>, and <li> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the fallback choice separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

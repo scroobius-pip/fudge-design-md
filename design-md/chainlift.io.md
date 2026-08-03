@@ -18,68 +18,98 @@ Last updated: 2026-08-03
 
 [LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/share/pin-6345)
 
-## Design character
-
-chainlift.io has a mixed light and dark surface treatment across 3 captured pages. The strongest recurring signals are 2 captured type families, 8 recurring colors, and 18 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **3 pages** and 3 representative page references. It records 52 color rows, 22 typography rows, 15 spacing rows, 2 border rows, 0 gradient rows, and 1 shadow rows.
+chainlift.io presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#e4e1e6`, `#dee1ff`, and `#001258`, with typography led by **Inter Font** and **Material Symbols Outlined**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#e4e1e6` | color · unknown | 1211 |
-| `#dee1ff` | color · footer | 497 |
-| `#001258` | background-color · footer | 279 |
-| `#7d7d7d` | color · unknown | 135 |
-| `#0e0e11` | background-color · unknown | 95 |
-| `#727272` | box-shadow · unknown | 95 |
-| `#bac3ff` | color · unknown | 8 |
-| `#90909a` | border-color · unknown | 8 |
+| color.text | `#e4e1e6` | text on page content |
+| color.text | `#dee1ff` | text on page content in the footer |
+| color.surface | `#001258` | surface on page content in the footer |
+| color.text | `#7d7d7d` | text on page content |
+| color.surface | `#0e0e11` | surface on page content |
+| color.shadow | `#727272` | shadow on page content |
+| color.text | `#bac3ff` | text on page content |
+| color.border | `#90909a` | border on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-17.1px | **Inter Font** | 17.1px | 400 | 20px | normal | <div>, <a>, and <div> in the footer |
+| type.display-72.4185px | **Inter Font** | 72.4185px | 700 | 92.1163px | -2.53465px | <h1> and <h3> |
+| type.body-13.4406px | **Inter Font** | 13.4406px | 400 | 17.0964px | -0.03px | <div>, <div> in the footer, and <a> in the footer |
+| type.body-17.1px | **Inter Font** | 17.1px | 400 | 27.6678px | -0.18px | <li> in the footer |
+| type.heading-27.6678px | **Inter Font** | 27.6678px | 600 | 35.1934px | -0.553356px | <p> and <span> |
+| type.heading-19.3059px | **Inter Font** | 19.3059px | 600 | 24.5571px | -0.26px | <div> in the footer, <h3>, and <span> |
+| type.heading-15.1335px | **Inter Font** | 15.1335px | 600 | 19.2498px | -0.105935px | <h4> |
+| type.body-15.1335px | **Inter Font** | 15.1335px | 400 | 19.2498px | -0.0945844px | <p> |
+| type.display-35.1918px | **Inter Font** | 35.1918px | 600 | 44.764px | -0.93px | <h2> and <h3> |
+| type.body-17.1px | **Inter Font** | 17.1px | 400 | 27.6678px | -0.1881px | <div> |
+| type.body-21.7512px | **Inter Font** | 21.7512px | 500 | 20px | normal | <a> |
+| type.body-25.888px | **Material Symbols Outlined** | 25.888px | 400 | 25.888px | -0.71px | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Inter Font** | 17.1px · 400 · 20px | 1835 |
-| **Material Symbols Outlined** | 25.888px · 400 · 25.888px | 4 |
+| `72.4185px` | padding | page content |
+| `15.1335px 19.3059px 15.1335px 15.1335px` | padding | page content |
+| `4.6512px 0px` | padding | page content |
+| `56.9279px 0px 25.0556px` | margin | page content |
+| `56.9279px 0px 72.4185px` | margin | page content |
+| `0px 146.594px` | margin | page content |
+| `0px 0px 44.7665px` | margin | page content |
+| `0px 0px 3.57151px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `72.4185px` for padding, `15.1335px 19.3059px 15.1335px 15.1335px` for padding, `4.6512px 0px` for padding, `56.9279px 0px 25.0556px` for margin, `56.9279px 0px 72.4185px` for margin, and `0px 146.594px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 15.1776px` and `1px solid 2175.12px` border treatments. Recorded shadows include `rgb(114, 114, 114) 0px 0px 1px 0px`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 15.1776px` (95) and `1px solid 2175.12px` (8). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is mixed light and dark surface treatment. Surface colors include `#001258` and `#0e0e11`. Text colors include `#e4e1e6`, `#dee1ff`, and `#7d7d7d`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Inter Font** and **Material Symbols Outlined**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `72.4185px`, `15.1335px 19.3059px 15.1335px 15.1335px`, `4.6512px 0px`, `56.9279px 0px 25.0556px`, and `56.9279px 0px 72.4185px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **footer**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#001258` and `#0e0e11`. Depth is supported by the returned shadows.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <h1>, <h2>, <a>, <p>, <h3>, <li>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

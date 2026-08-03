@@ -30,73 +30,108 @@ Last updated: 2026-08-03
 
 [Fastino Labs](https://design.withfudge.com/share/pin-9733)
 
-## Design character
-
-fastino.ai has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 5 captured type families, 10 recurring colors, and 265 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **6 pages** and 6 representative page references. It records 145 color rows, 76 typography rows, 248 spacing rows, 15 border rows, 2 gradient rows, and 0 shadow rows.
+fastino.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0c0608`, and `#f2ece9`, with typography led by **System**, **Stk Bureau Sans**, **Customv 2 Stk Bureau Sans**, **Applesystem**, and **Times**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#000000` | color · unknown | 111867 |
-| `#0c0608` | background-color · unknown | 35105 |
-| `#f2ece9` | background-color · unknown | 2424 |
-| `#ffffff` | color · unknown | 1185 |
-| `#161012` | background-color · unknown | 483 |
-| `#0000ee` | color · unknown | 110 |
-| `#5c5658` | color · unknown | 56 |
-| `#ede6e3` | background-color · unknown | 54 |
-| `#2d2729` | background-color · unknown | 13 |
-| `#191315` | background-color · unknown | 4 |
+| color.text | `#000000` | text on page content |
+| color.surface | `#0c0608` | surface on page content |
+| color.surface | `#f2ece9` | surface on page content |
+| color.text | `#ffffff` | text on page content |
+| color.surface | `#161012` | surface on page content |
+| color.text | `#0000ee` | text on page content |
+| color.text | `#5c5658` | text on page content |
+| color.surface | `#ede6e3` | surface on page content |
+| color.surface | `#2d2729` | surface on page content |
+| color.surface | `#191315` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.utility-12px | **System** | 12px | 400 | normal | normal | <div>, <body>, <a>, <img>, and <svg> |
+| type.display-64px | **Customv 2 Stk Bureau Sans** | 64px | 400 | 68px | -2.3px | <span> and <h1> |
+| type.display-40px | **Stk Bureau Sans** | 40px | 400 | 40px | -0.95px | <h1> and <span> |
+| type.display-64px | **Stk Bureau Sans** | 64px | 300 | 60px | -2.3px | <span> and <h1> |
+| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
+| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
+| type.body-14px | **Stk Bureau Sans** | 14px | 300 | 20px | -0.15px | <p>, <span>, and <a> |
+| type.utility-12px | **Stk Bureau Sans** | 12px | 300 | 20px | -0.15px | <p> |
+| type.utility-11px | **Stk Bureau Sans** | 11px | 300 | 20px | 1.7px | <h1> |
+| type.body-14px | **Customv 2 Stk Bureau Sans** | 14px | 400 | 20px | -0.15px | <p> and <span> |
+| type.body-14px | **Stk Bureau Sans** | 14px | 300 | 20px | -0.14px | <p> |
+| type.body-16px | **Stk Bureau Sans** | 16px | 300 | 24px | -0.15px | <h1> |
+| type.display-36px | **Stk Bureau Sans** | 36px | 300 | 60px | -2.3px | <h1> |
+| type.body-16px | **Stk Bureau Sans** | 16px | 300 | 24px | -0.16px | <p> |
+| type.body-14px | **Stk Bureau Sans** | 14px | 300 | 16px | -0.15px | <h1> |
+| type.body-16px | **Customv 2 Stk Bureau Sans** | 16px | 400 | 24px | -0.15px | <h1> |
+| type.body-28px | **Stk Bureau Sans** | 28px | 300 | 24px | -0.15px | <h1> |
+| type.utility-13px | **Stk Bureau Sans** | 13px | 400 | 15.6px | -0.13px | <p> |
+| type.utility-13px | **Stk Bureau Sans** | 13px | 300 | 17px | normal | <p> |
+| type.utility-13px | **Stk Bureau Sans** | 13px | 300 | 16px | -0.15px | <p> |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **System** | 12px · 400 · normal | 111639 |
-| **Stk Bureau Sans** | 14px · 300 · 20px | 960 |
-| **Customv 2 Stk Bureau Sans** | 14px · 400 · 20px | 446 |
-| **Applesystem** | 14px · 400 · normal | 168 |
-| **Times** | 16px · 400 · normal | 168 |
+| `20px` | padding-right | page content |
+| `20px` | padding-left | page content |
+| `0px 20px` | padding | page content |
+| `10px` | gap | page content |
+| `10px` | row-gap | page content |
+| `10px` | column-gap | page content |
+| `20px` | padding-bottom | page content |
+| `4px` | gap | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `20px` for padding-right, `20px` for padding-left, `0px 20px` for padding, `10px` for gap, `10px` for row-gap, and `10px` for column-gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 20px`, `0px none 6px`, `0px none 12px`, `0px none 30px`, `0px none 32px`, and `0px none 100px` border treatments. Recorded gradients include `linear-gradient(rgba(242, 236, 233, 0) 0%, rgb(242, 236, 233) 100%)` and `linear-gradient(rgba(12, 6, 8, 0) 0%, rgba(12, 6, 8, 0.88) 50.9424%, rgb(12, 6, 8) 78.9314%)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 20px` (11181), `0px none 6px` (76), `0px none 12px` (29), `0px none 30px` (25), `0px none 32px` (20), and `0px none 100px` (13). 2 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#0c0608`, `#f2ece9`, and `#161012`. Text colors include `#000000`, `#ffffff`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **System**, **Customv 2 Stk Bureau Sans**, **Stk Bureau Sans**, **Applesystem**, and **Times**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `20px`, `20px`, `0px 20px`, `10px`, and `10px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#0c0608`, `#f2ece9`, `#161012`, and `#ede6e3`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <html>, <body>, <p>, <a>, <img>, <h1>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 

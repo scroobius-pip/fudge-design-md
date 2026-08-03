@@ -14,64 +14,92 @@ Last updated: 2026-08-03
 
 [Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/share/pin-8484)
 
-## Design character
-
-gamma.io has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 4 recurring colors, and 21 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
-
 ## Overview
 
-The captured set includes **2 pages** and 2 representative page references. It records 45 color rows, 15 typography rows, 14 spacing rows, 6 border rows, 1 gradient rows, and 0 shadow rows.
+gamma.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#0c0c0d`, with typography led by **Gamma Sans** and **Universal Sans**. The guide below names reusable design roles only where the captured evidence supports them.
 
-## Supported design tokens
+The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
 
-The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+## Design tokens
+
+The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
 
 ### Colors
 
-| Color | Observed context | Frequency |
+| token | value | observed use |
 | --- | --- | --- |
-| `#ffffff` | color · unknown | 2483 |
-| `#000000` | background-color · unknown | 1106 |
-| `#0c0c0d` | color · button | 970 |
-| `#1d1d1e` | background-color · unknown | 510 |
+| color.text | `#ffffff` | text on page content |
+| color.surface | `#000000` | surface on page content |
+| color.text | `#0c0c0d` | text on page content in the button |
+| color.surface | `#1d1d1e` | surface on page content |
 
 ### Typography
 
-| Family | Observed use | Frequency |
+| token | font family | size | weight | line height | letter spacing | observed use |
+| --- | --- | --- | --- | --- | --- | --- |
+| type.body-16px | **Gamma Sans** | 16px | 400 | 24px | 0.32px | <div>, <button> in the button, and <a> |
+| type.body-18px | **Gamma Sans** | 18px | 300 | 27px | 0.36px | <div> |
+| type.display-72px | **Universal Sans** | 72px | 600 | 82.8px | -0.36px | <div> |
+| type.body-16px | **Gamma Sans** | 16px | 300 | 24px | 0.16px | <div> |
+| type.display-48px | **Universal Sans** | 48px | 600 | 56px | 0.96px | <a> |
+| type.body-14px | **Gamma Sans** | 14px | 400 | 20px | 0.28px | <div> in the button |
+| type.heading-16px | **Universal Sans** | 16px | 600 | 24px | 0.16px | <div> |
+| type.utility-12px | **Gamma Sans** | 12px | 300 | 16px | 0.12px | <div> |
+| type.body-18px | **Gamma Sans** | 18px | 300 | 27px | 0.18px | <div> |
+| type.body-14px | **Gamma Sans** | 14px | 400 | 20px | 0.32px | <button> in the button |
+
+### Spacing
+
+| value | property | observed element |
 | --- | --- | --- |
-| **Gamma Sans** | 16px · 400 · 24px | 2513 |
-| **Universal Sans** | 72px · 600 · 82.8px | 45 |
+| `230px 32px` | padding | page content |
+| `0px 185.5px` | margin | page content |
+| `0px 40px` | padding | page content |
+| `140px 84.5px` | margin | page content |
+| `88px` | padding | page content |
+| `0px 52px` | padding | page content |
+| `20px` | padding | page content |
+| `0px 84.5px` | margin | page content |
 
-### Spacing and layout
+### Shape and depth
 
-The most repeated spacing values are `230px 32px` for padding, `0px 185.5px` for margin, `0px 40px` for padding, `140px 84.5px` for margin, `88px` for padding, and `0px 52px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+The captured pages use `0px none 999px` and `0px none 8px` border treatments. Recorded gradients include `linear-gradient(168.57deg, rgb(255, 255, 255) 14.81%, rgb(251, 240, 237) 22.79%, rgb(224, 166, 181) 81.04%, rgb(220, 148, 213) 91.42%)`.
 
-### Shape, borders, and depth
+## Colors
 
-Repeated border observations include `0px none 999px` (512) and `0px none 8px` (22). 1 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+The visual system is predominantly dark surface treatment. Surface colors include `#000000` and `#1d1d1e`. Text colors include `#ffffff` and `#0c0c0d`. Keep image-derived colors separate from interface colors.
+
+## Typography
+
+The captured type system uses **Gamma Sans** and **Universal Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+
+## Layout
+
+The captured pages use values such as `230px 32px`, `0px 185.5px`, `0px 40px`, `140px 84.5px`, and `88px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
 
 ## Visual language
 
-The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000` and `#1d1d1e`. Depth is supported by the returned gradients.
 
 ## Components and states
 
-The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+The captured pages include repeated styling on <div>, <button>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
 
 ## Responsive behavior
 
-Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
 
-## Practical guidance
+## Practical implementation guidance
 
-- Preserve the repeated dark surface relationship before adding new accents or elevation.
-- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
-- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
-- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
+- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
+- Keep the captured font families separate from licensing decisions.
+- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
+- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
 
-## Known gaps and reference scope
+## Scope note
 
-This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
 
 ## Colors
 
