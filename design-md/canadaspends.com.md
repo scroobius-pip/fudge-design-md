@@ -6,132 +6,171 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6907?format=jpg)](https://design.withfudge.com/share/pin-6907)
+[![Cream workforce overview with bold KPI blocks, blue tenure bars, and a rose age histogram](https://pin.fontofweb.com/6907?format=jpg)](https://design.withfudge.com/share/pin-6907)
 
-[Federal Government Spending | Canada Spends](https://design.withfudge.com/share/pin-6907)
+[Cream workforce overview with bold KPI blocks, blue tenure bars, and a rose age histogram](https://design.withfudge.com/share/pin-6907)
 
-[![Federal Government Spending | Canada Spends](https://pin.fontofweb.com/6906?format=jpg)](https://design.withfudge.com/share/pin-6906)
+[![Charcoal spending sankey with teal revenue flows, red outflows, and a cream title band](https://pin.fontofweb.com/6906?format=jpg)](https://design.withfudge.com/share/pin-6906)
 
-[Federal Government Spending | Canada Spends](https://design.withfudge.com/share/pin-6906)
+[Charcoal spending sankey with teal revenue flows, red outflows, and a cream title band](https://design.withfudge.com/share/pin-6906)
 
 ## Overview
 
-canadaspends.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#272727`, `#000000`, and `#f6ece3`, with typography led by **Financier** and **Söhne Kraftig**. The guide below names reusable design roles only where the captured evidence supports them.
+Canada Spends is built like a public finance report turned into an interactive dashboard. The interface is calm, compact, and data-led: warm cream canvas, charcoal headings, white cards, and a single deep red accent that carries emphasis without turning the page theatrical. The visual tone is serious but not severe. It reads like a civic briefing where the numbers are meant to be scanned, compared, and trusted.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The page language depends on a tight hierarchy. Large display titles anchor each section, short explanatory lines sit directly beneath them, and the body content stays restrained. Metric values are set in Financier at 30px, which gives the summary figures a weight that is still softer than the headings. That contrast keeps the numbers prominent without making the page feel like a poster. Metrics are then expanded into bar charts, histograms, and a sankey-style flow diagram. The result is a system that values structure over ornament and clarity over spectacle.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#272727` | text on page content in the main |
-| color.surface | `#000000` | surface on page content in the main |
-| color.surface | `#f6ece3` | surface on page content in the main |
-| color.text | `#932f2f` | text on page content in the main |
-| color.surface | `#ffffff` | surface on page content in the main |
-| color.border | `#e5e7eb` | border on page content in the main |
-| color.surface | `#335b6b` | surface on page content in the main |
-| color.text | `#4a5565` | text on page content in the main |
-| color.text | `#101828` | text on page content in the main |
-| color.text | `#f6ebe3` | text on page content in the main |
-| color.surface | `#bedbff` | surface on page content in the main |
-| color.text | `#364153` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Financier** | 16px | 400 | 24px | normal | <div> in the main and <li> in the main |
-| type.utility-11.2px | **Financier** | 11.2px | 400 | 14px | normal | <div> in the main and <p> in the main |
-| type.body-14px | **Financier** | 14px | 400 | 20px | normal | <div> in the main, <p> in the main, and <span> in the main |
-| type.display-48px | **Söhne Kraftig** | 48px | 700 | 48px | -1.2px | <h1> in the main |
-| type.utility-11.2px | **Financier** | 11.2px | 700 | 14px | normal | <div> in the main |
-| type.heading-30px | **Financier** | 30px | 700 | 36px | normal | <div> in the main |
-| type.body-18px | **Financier** | 18px | 400 | 29.25px | normal | <p> in the main |
-| type.body-16px | **Financier** | 16px | 400 | 26px | normal | <p> in the main |
-| type.utility-12.8px | **Financier** | 12.8px | 400 | 16px | normal | <div> in the main and <p> in the main |
-| type.body-16px | **Söhne Kraftig** | 16px | 500 | 24px | normal | <h3> in the main |
-| type.utility-12.8px | **Financier** | 12.8px | 700 | 16px | normal | <div> in the main |
-| type.heading-24px | **Söhne Kraftig** | 24px | 700 | 32px | normal | <h2> in the main |
-| type.body-14px | **Financier** | 14px | 400 | 22.75px | normal | <p> in the main and <a> in the main |
-| type.body-16px | **Financier** | 16px | 500 | 24px | normal | <div> in the main |
-| type.body-14px | **Financier** | 14px | 400 | 14px | normal | <p> in the main |
-| type.utility-12px | **Financier** | 12px | 400 | 16px | normal | <a> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `8px 24px 32px` | padding | page content |
-| `0px 276.5px` | margin | page content |
-| `0px 16px` | padding | page content |
-| `16px 20px` | padding | page content |
-| `32px 40px 0px` | margin | page content |
-| `16px` | padding | page content |
-| `0px 0px 4px` | margin | page content |
-| `16px 24px 0px 16px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 0px` and `0px none 4px` border treatments. Recorded gradients include `linear-gradient(135deg, rgb(169, 167, 159) 16.67%, rgb(39, 39, 39) 16.67%, rgb(39, 39, 39) 50%, rgb(169, 167, 159) 50%, rgb(169, 167, 159) 66.67%, rgb(39, 39, 39) 66.67%, rgb(39, 39, 39) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0.2) 0px 2px 8px 0px`.
+Two modes are visible in the supplied pages. The workforce screen stays mostly light, with cream canvas and white cards. The spending screen introduces a full charcoal chart stage beneath a warm title band. That shift gives the site a chaptered rhythm: explanatory, analytical, then immersive. The design keeps moving between those modes without changing its basic grammar.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#f6ece3`, and `#ffffff`. Text colors include `#272727`, `#932f2f`, and `#4a5565`. Keep image-derived colors separate from interface colors.
+The palette is narrow and functional. The canvas is a warm cream rather than a cool white, which softens the page and makes the white cards feel intentionally lifted. `#FFFFFF` is used for chart surfaces and panels. `#272727` carries the core text and the dark chart stage, while `#4A5565` handles secondary copy, axis labels, and quieter metadata. `#E5E7EB` gives the interface its pale structural rules without becoming visible decoration.
+
+`#932F2F` is the key accent. It appears as the site’s strongest emphasis color and suits a civic spending context because it feels deliberate, not promotional. Blue-green data colors balance that red in the charts: `#335B6B` and `#364153` support the revenue side and related bars, while `#A9A79F` supplies a muted neutral for less prominent series. `#BEDBFF` marks a light blue selection state in the workforce bar list and reads as a soft interactive highlight rather than a loud brand color.
+
+The relationship between surfaces matters as much as the individual colors. Cream canvas frames the white metric cards. White cards frame the charts. The dark chart stage reverses that structure: white text and red/blue data elements sit on charcoal so the flows can be read at a glance. The system works because the palette stays disciplined; each color has one job and repeats consistently.
 
 ## Typography
 
-The captured type system uses **Financier** and **Söhne Kraftig**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The site uses two families and keeps their jobs separate. **Söhne Kraftig** provides the strongest structural voice: page titles, section headings, KPI labels, and chart titles. **Financier** handles the descriptive layer: supporting copy, labels, source lines, axis text, and the large numeric values. That split gives the page a measured editorial quality. The headline face is compact and assertive; the reading face is quieter and more book-like. The big figures feel slightly warmer because they share the same family as the body copy.
+
+Licensing details are not included in the packet.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Söhne Kraftig | 3rem | 700 | 1 | -0.025em | Main page title and major section lead |
+| `section-display` | Söhne Kraftig | 1.5rem | 700 | 1 | -0.02em | Section heads such as the workforce and spending blocks |
+| `metric-value` | Financier | 1.875rem | 700 | 1.2 | 0em | Large KPI figures in the top summary row |
+| `panel-title` | Söhne Kraftig | 1.125rem | 700 | 1.25 | 0em | Chart titles and compact panel headings |
+| `body` | Financier | 1rem | 400 | 1.5 | 0em | Explanatory sentences under section titles |
+| `supporting` | Financier | 0.875rem | 400 | 1.43 | 0em | Source lines, helper copy, and chart labels |
+| `label` | Financier | 0.8rem | 400 | 1.25 | 0em | Small field labels such as Year and Group |
+| `micro-label` | Financier | 0.7rem | 400 | 1.25 | 0.01em | Dense ticks, compact notes, and fine-grained chart annotations |
+
+The hierarchy depends on scale and weight more than on multiple styles. Display copy is bold and tight. Supporting copy opens up just enough to remain legible inside dense data layouts. The smaller labels stay regular and understated, which keeps filters and chart metadata from competing with the numbers. The large numerals in the summary blocks can stay visually dominant even though they use the reading family, because the size jump is doing most of the work.
 
 ## Layout
 
-The captured pages use values such as `8px 24px 32px`, `0px 276.5px`, `0px 16px`, `16px 20px`, and `32px 40px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is centered and report-like, with wide side gutters and a clear reading spine. On the light screen, the content sits in a narrow column that feels intentionally framed inside the cream field. That makes the page easy to scan even when the content becomes dense. The structure is not sprawling; it is carefully boxed and balanced.
+
+The workforce page is arranged in stacked modules. A top summary row presents three prominent KPI blocks. Below that, a second row mixes a tenure distribution bar list, an age histogram, and a small department count block. The composition is modular rather than continuous. Each block gets enough space to read as its own analytical unit, but the blocks still sit close enough together to feel like one dashboard.
+
+The salary section underneath uses a straightforward control row. Select fields sit above the chart in a single line, followed by a white chart card with a thin border and a title inside the panel. This pattern repeats the site’s larger layout logic: labels above, data inside, source note below. The chart has breathing room, but the page never lets the chart drift away from its context.
+
+The spending page changes the rhythm. A warm title band introduces the section, then the interface drops into a full-width charcoal stage where the sankey diagram dominates. A small control strip sits at the top right of that stage, and the flow chart fills the remaining width with layered blocks and labeled streams. The dark panel creates a deliberate break in the page narrative while keeping the same margins, type rhythm, and report discipline.
+
+Borders and spacing carry most of the structure. There is little visible depth, so the layout reads through alignment, inset distance, and the separation between panels. That makes the page feel stable and official rather than decorative.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#f6ece3`, `#ffffff`, and `#335b6b`. Depth is supported by the returned gradients and shadows.
+The visual language is that of a public accounting system with editorial restraint. The pages avoid playful gradients, glossy shadows, and ornamental shapes. Instead, they rely on flat surfaces, clean borders, and a strong contrast between paper-like light space and charcoal analytical space. The tone is measured, direct, and data-first.
 
-## Components and states
+Chart forms are the main expressive element. Horizontal bars, vertical histograms, metric readouts, and sankey flows each communicate a different layer of spending or workforce information. Colors do the semantic work: red marks emphasis and spending-side intensity, blue-green marks another part of the financial story, and neutral grays keep secondary flows from taking over. Because the palette is so controlled, the charts can get dense without becoming noisy.
 
-The captured pages include repeated styling on <div>, <h2>, <h3>, <p>, <a>, <span>, <li>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Shape stays minimal. Panels are nearly square with only a 4px radius. That small rounding softens the boxes just enough to keep the interface from feeling harsh, but it does not turn the site into a card-heavy consumer app. The large chart blocks remain rectangular and disciplined. If a rounded form appears, it does so quietly.
+
+Text and numbers are part of the visual system, not separate from it. Large values sit close to their labels. Section titles carry the page forward. Sources sit in the same visual register as the rest of the content, which keeps the page trustworthy and matter-of-fact. The overall effect is sober, legible, and slightly institutional in the best way.
+
+## Components
+
+### KPI summary block
+
+The KPI block is the clearest expression of the site’s hierarchy. Each item uses a short label, a large numeric value, and a smaller explanatory line underneath. The value is the visual anchor; the label is secondary; the helper text finishes the thought. In the workforce view, these items sit in a three-column grid, which makes the page feel organized before the charts even begin.
+
+- **Anatomy:** label, large value, and a short supporting sentence.
+- **Surface:** light canvas with no heavy fill, so the numbers stay dominant.
+- **Typography:** bold Söhne Kraftig for the label, Financier for the value, and Financier for the explanation.
+- **Spacing:** compact vertical stacking with enough gap to separate the three lines cleanly.
+- **Visible states:** the numbers do not need decoration to stand out; the size difference is the state.
+
+### Small analytic cards
+
+The tenure block and department count block behave like compact statistic cards. They keep a title, a short description, and then either a data list or a single large number. The list items use soft blue fills and a steady left alignment, which makes them look like report bars rather than decorative pills.
+
+- **Anatomy:** small heading, one sentence of context, then a data display.
+- **Surface:** white or cream with thin borders and no shadow language.
+- **Typography:** Söhne Kraftig for the card heading; Financier for the support line and labels.
+- **Shape:** 4px corners only.
+- **Composition:** the list bars and the adjacent values stay aligned so the eye can compare them quickly.
+
+### Filter row
+
+The salary section uses plain controls instead of stylized chips. The Year and Group selects read as simple rectangular fields, and the inflation option is a small checkbox with a label. That keeps the control row subordinate to the chart rather than turning it into a separate design event.
+
+- **Anatomy:** field label, select field, checkbox, and short inline text.
+- **Surface:** light fill with a thin neutral border.
+- **Typography:** Financier throughout, with the label slightly stronger than the chosen value.
+- **Spacing:** fields sit close together, with enough lateral room to keep the row readable.
+- **Visible states:** the controls appear calm and neutral; the interface does not rely on heavy highlighting.
+
+### Chart cards
+
+The chart card is one of the main structural units on the light page. It wraps a chart title, a legend, axes, bars, and a source line into a single bordered panel. The white card separates the graph from the cream canvas and gives the chart a report-sheet feeling.
+
+- **Anatomy:** title, legend, plot area, axes, and source note.
+- **Surface:** white card with a pale border and no obvious shadow.
+- **Typography:** Söhne Kraftig for the chart title; Financier for axis labels and legend text.
+- **Composition:** the plotting area fills most of the panel, while the title stays compact at the top.
+- **Variants:** the same pattern supports both bar charts and other dense analytic graphics.
+
+### Dark sankey stage
+
+The dark stage is the most dramatic component in the system. It contains a light title strip above a charcoal visualization field, a compact control area, and a large sankey-style flow diagram that carries labels inside the blocks. The contrast is strong but controlled, and the chart remains readable because the type is crisp and the color coding is consistent.
+
+- **Anatomy:** title band, control strip, large flow field, labeled blocks, and source text.
+- **Surface:** deep charcoal background with white and colored chart elements.
+- **Typography:** bold display type for the band; smaller Financier labels inside the flow blocks.
+- **Composition:** wide, horizontal, and data-dense; the chart needs the full span to remain legible.
+- **Visible states:** the flow blocks behave as semantic categories, with red and blue/green branches carrying distinct meanings.
+
+### Source lines and notes
+
+Source text appears as a small footer-like note below a chart or section. It is quiet, underlined when linked, and visually secondary to the data. That restraint is important because the site treats sources as part of the report, not as promotional metadata.
+
+- **Anatomy:** short label plus linked source names or a single source line.
+- **Typography:** Financier in a small size with moderate line height.
+- **Placement:** below the chart or summary block, aligned to the content column.
+- **Treatment:** minimal emphasis, but still clearly readable.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The page should keep its report rhythm on smaller screens. The reading order ought to remain title, summary, chart, and source. KPI groups can stack before the chart cards collapse into a single column. The dark sankey stage will likely need horizontal preservation or a carefully managed scroll region, because the flow labels depend on width. Small controls should remain above the charts rather than floating over them. Type can step down, but the hierarchy should not flatten.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the warm cream canvas as the default page field.
+- Use Söhne Kraftig for titles, KPI labels, and chart headings; use Financier for everything explanatory and for the large numeric values.
+- Keep the palette narrow: cream, white, charcoal, deep red, and a small blue-green data family.
+- Preserve the 4px corner radius and the flat card treatment.
+- Let spacing and borders structure the page instead of shadows or decorative separators.
+
+### Avoid
+
+- Avoid glossy shadows, glass effects, and soft-brand gradients.
+- Avoid replacing the chart language with decorative illustrations.
+- Avoid turning every control into a pill or chip.
+- Avoid adding extra accent colors that compete with the red and blue-green data series.
+- Avoid mixing the two type families across the same role.
+
+### Recommended build order
+
+1. Set the page shell, cream canvas, and centered content width.
+2. Establish the typography split between Söhne Kraftig and Financier.
+3. Build the KPI summary row and small analytic cards.
+4. Add the filter row and chart-card pattern.
+5. Build the dark sankey stage with its own control strip.
+6. Verify source lines, chart labels, and spacing across both light and dark sections.
+
+### Accessibility
+
+- Keep contrast strong on the dark stage, especially for block labels and source text.
+- Make sure red on cream and blue-green on charcoal remain readable at the smallest label sizes.
+- Preserve clear focus outlines on selects and any interactive search field.
+- Do not rely on color alone for meaning in the charts; pair color with position, labels, and value text.
+- Keep axis labels and source notes large enough to survive dense chart layouts.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#272727`
-- `#000000`
-- `#f6ece3`
-- `#932f2f`
-- `#ffffff`
-- `#e5e7eb`
-- `#335b6b`
-- `#4a5565`
-- `#101828`
-- `#f6ebe3`
-- `#bedbff`
-- `#364153`
-- `#cccccc`
-
-## Typography captured from canadaspends.com
-
-- **Financier** — weight 400 · size 16px
-- **Söhne Kraftig** — weight 700 · size 24px
+This guide covers the supplied federal workforce and spending screens only. It does not specify mobile breakpoints, motion, hover states, focus styling, drag behavior, empty states, or other site sections. Spacing and size tokens are rounded to the packet’s 2px-relative step.

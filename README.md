@@ -867,7 +867,7 @@ campaignlive.co.uk presents a mixed light and dark surface treatment in the capt
 
 [![How canadaspends.com is designed](https://pin.fontofweb.com/6907?format=jpg)](design-md/canadaspends.com.md)
 
-canadaspends.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#272727`, `#000000`, and `#f6ece3`, with typography led by **Financier** and **Söhne Kraftig**. The guide below names reusable design roles only where the captured evidence supports them.
+Canada Spends is built like a public finance report turned into an interactive dashboard. The interface is calm, compact, and data-led: warm cream canvas, charcoal headings, white cards, and a single deep red accent that carries emphasis without turning the page theatrical. The visual tone is serious but not severe. It reads like a civic briefing where the numbers are meant to be scanned, compared, and trusted.
 
 [Open guide](design-md/canadaspends.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/canadaspends.com-design)
 
