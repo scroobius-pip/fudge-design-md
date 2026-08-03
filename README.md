@@ -83,7 +83,7 @@ collection, including blocked jobs and completed replacements.
 
 [![How a16z.com is designed](https://pin.fontofweb.com/7299?format=jpg)](design-md/a16z.com.md)
 
-a16z.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#4b5058`, and `#0000ee`, with typography led by **Proxima Nova** and **Icomoon**. The guide below names reusable design roles only where the captured evidence supports them.
+a16z.com is an editorial home page with a single-minded hierarchy. The page opens with a burgundy brand bar, then hands nearly all attention to a giant gold medallion illustration set against a deep navy field. The central image is not decoration; it is the anchor that gives the page its tone. Text stays sparse and direct, with a short invitation and one primary action beneath the artwork. The lower section settles into a restrained footer that carries the logotype, a brief tagline, social links, and legal text.
 
 [Open guide](design-md/a16z.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/a16z.com-design)
 
