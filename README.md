@@ -1203,7 +1203,7 @@ Curator’s visual language is a clean, sales-focused SaaS system built from whi
 
 [![How cursor.com is designed](https://pin.fontofweb.com/8861?format=jpg)](design-md/cursor.com.md)
 
-cursor.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#edecec`, `#000000`, and `#e4e4e4`, with typography led by **Cursor Gothic**, **System**, **Berkeley Mono Variable**, and **Sf Pro**. The guide below names reusable design roles only where the captured evidence supports them.
+Cursor’s visual language is a dark developer workspace, not a bright consumer app. The page surfaces sit on a warm near-black canvas, the copy stays light and compact, and the layout keeps a strong split between navigation chrome and the working area. The result feels controlled and technical, with just enough polish to read as a premium product.
 
 [Open guide](design-md/cursor.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cursor.com-design)
 
