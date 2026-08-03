@@ -987,7 +987,7 @@ clarity.microsoft.com presents a predominantly dark surface treatment in the cap
 
 [![How classy.md is designed](https://pin.fontofweb.com/10090?format=jpg)](design-md/classy.md.md)
 
-classy.md presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#fafafa`, `#171717`, and `#bababa`, with typography led by **Inter**, **Jet Brains Mono**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Classy.md is a dark writing surface built around restraint. The page is almost entirely text, with a centered reading column, a black field that never tries to become decorative, and a small amount of top chrome. The visual system does not lean on depth, glossy treatment, or layered panels. It relies on measure, rhythm, and contrast. That makes the site feel closer to an editor, a notes app, or a typed manifesto than a conventional SaaS landing page.
 
 [Open guide](design-md/classy.md.md) · [View the Fudge conversation](https://design.withfudge.com/share/classy.md-design)
 
