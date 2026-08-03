@@ -1099,7 +1099,7 @@ Contentformcontext.com presents the SBS 8 News case study as a spare editorial p
 
 [![How continue.dev is designed](https://pin.fontofweb.com/8680?format=jpg)](design-md/continue.dev.md)
 
-continue.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#020817`, and `#fafafa`, with typography led by **Ibm Plex Sans**, **Manrope**, **System**, **Ibm Plex Mono**, and **Monaco**. The guide below names reusable design roles only where the captured evidence supports them.
+Continue’s site uses a restrained developer-brand system built from pale neutral space, compact black-on-white interface pieces, and one vivid green action color. The page opens with a lightweight headline and a simple split hero: text on one side, a schematic or product mock on the other. The rest of the layout stays disciplined and airy so the art, the code-review surface, and the call to action carry the weight without visual clutter.
 
 [Open guide](design-md/continue.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/continue.dev-design)
 
