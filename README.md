@@ -131,7 +131,7 @@ accounts.x.ai presents a predominantly dark surface treatment in the captured pa
 
 [![How acoup.blog is designed](https://pin.fontofweb.com/9512?format=jpg)](design-md/acoup.blog.md)
 
-acoup.blog presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#b5b5b5`, `#413e4a`, and `#ffffff`, with typography led by **Georgia**, **Applesystem**, **Fondamento**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+acoup.blog is a dark reading site built around long historical essays. The page does not try to feel modern in a glossy sense. It feels bookish, steady, and slightly ceremonial. The strongest visual move is the pairing of a decorative serif for titles with Georgia for the reading copy, all placed on a cool charcoal-violet field. The accent color is a dusty pink-lilac that repeats in the navigation, links, tag cloud, and small utility details. That single accent carries most of the brand energy, so the rest of the interface can stay quiet.
 
 [Open guide](design-md/acoup.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/acoup.blog-design)
 
