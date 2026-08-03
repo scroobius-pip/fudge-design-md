@@ -267,7 +267,7 @@ Algebrica is a restrained mathematical knowledge base with the tone of a printed
 
 [![How aljazeera.com is designed](https://pin.fontofweb.com/9086?format=jpg)](design-md/aljazeera.com.md)
 
-aljazeera.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#595959`, with typography led by **Roboto** and **Georgia**. The guide below names reusable design roles only where the captured evidence supports them.
+Al Jazeera’s article pages use a severe, uncluttered newsroom frame. The page is mostly white, the headline is black and heavy, the summary line shifts into a serif voice, and the control row stays narrow and quiet beneath the text. Story photography then takes over the width of the column, so the page reads as a sequence of headline, context, tools, and lead image rather than as a dense news dashboard.
 
 [Open guide](design-md/aljazeera.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aljazeera.com-design)
 
