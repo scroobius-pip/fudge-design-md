@@ -1011,7 +1011,7 @@ claude.com presents a predominantly dark surface treatment in the captured pages
 
 [![How claura.framer.ai is designed](https://pin.fontofweb.com/8122?format=jpg)](design-md/claura.framer.ai.md)
 
-claura.framer.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#2b180a`, and `#94877c`, with typography led by **System**, **False**, and **Geist**. The guide below names reusable design roles only where the captured evidence supports them.
+Claura feels like a calm studio landing page built around one warm visual temperature. The page uses a cream canvas, dark espresso text, and a single brown action color, then lets large serif headlines and rounded panels carry the brand. The tone is polished but not glossy, with enough softness in the surfaces to keep the page approachable.
 
 [Open guide](design-md/claura.framer.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/claura.framer.ai-design)
 
