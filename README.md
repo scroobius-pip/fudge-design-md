@@ -115,7 +115,7 @@ Nothing Account login is built as a spare, centered sign-in page with almost no 
 
 [![How accounts.theatlantic.com is designed](https://pin.fontofweb.com/9224?format=jpg)](design-md/accounts.theatlantic.com.md)
 
-accounts.theatlantic.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f9fafc`, with typography led by **Graphik**, **Adobe Garamond Pro**, **Atlantic 190927**, and **Goldwyn Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+The Atlantic accounts surface is editorial commerce: a magazine-toned subscription experience that uses a black or near-black hero band, cream paper fields, and white cards to sell access with restraint. The page does not feel like a utility checkout. It feels like a premium publishing offer laid out with the confidence of a print spread.
 
 [Open guide](design-md/accounts.theatlantic.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/accounts.theatlantic.com-design)
 
