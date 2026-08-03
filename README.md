@@ -49,9 +49,9 @@ collection, including blocked jobs and completed replacements.
 
 ### 1600.agency
 
-[![How 1600.agency is designed](https://pin.fontofweb.com/5998?format=jpg)](design-md/1600.agency.md)
+[![How 1600.agency is designed](https://pin.fontofweb.com/5997?format=jpg)](design-md/1600.agency.md)
 
-1600.agency presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#101010`, and `#ffffff`, with typography led by **Dm Sans 9 Pt**, **Visby Cf**, **Plus Jakarta Sans**, **Dm Sans**, and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+1600.agency is built like a refined sales page for a motion studio: bright, centered, and unusually calm for a service site that sells speed and output. The page leans on a white canvas, a heavy black display face, and one warm orange action color. That combination makes the hero feel crisp and confident rather than decorative. The interface never becomes busy; the visual message is always easy to scan because the strongest elements are held in a small number of large, rounded containers.
 
 [Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
 
