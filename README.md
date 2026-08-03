@@ -459,7 +459,7 @@ app.standards.site presents a predominantly dark surface treatment in the captur
 
 [![How app.subframe.com is designed](https://pin.fontofweb.com/8787?format=jpg)](design-md/app.subframe.com.md)
 
-app.subframe.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#242424`, `#000000`, and `#fcfcfc`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Subframe's UI is a clean white operating surface with a narrow dark accent and a lot of breathing room. The page treats each feature as a specimen: a context menu, a calendar, an accordion row, a pricing block, or a connection panel gets its own framed stage and enough empty space to read as a product sample rather than a marketing illustration.
 
 [Open guide](design-md/app.subframe.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.subframe.com-design)
 
