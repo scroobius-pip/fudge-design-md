@@ -97,9 +97,9 @@ aaa24.a24films.com presents a mixed light and dark surface treatment in the capt
 
 ### abcdinamo.com
 
-[![How abcdinamo.com is designed](https://pin.fontofweb.com/8621?format=jpg)](design-md/abcdinamo.com.md)
+[![How abcdinamo.com is designed](https://pin.fontofweb.com/40?format=jpg)](design-md/abcdinamo.com.md)
 
-abcdinamo.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#63f450`, and `#a0a0a0`, with typography led by **Monument Grotesk** and **Abc Diatype**. The guide below names reusable design roles only where the captured evidence supports them.
+abcdinamo.com is a type-foundry storefront with the confidence of a studio archive and the restraint of a catalog. The design puts specimen type first, then surrounds it with compact utilities, pill-shaped actions, and very little ornamental framing. The site alternates between large typographic statements and orderly product or article grids, so the user always knows whether they are looking at a specimen, a purchase flow, or a store section.
 
 [Open guide](design-md/abcdinamo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/abcdinamo.com-design)
 
