@@ -323,7 +323,7 @@ analytics.google.com presents a predominantly light surface treatment in the cap
 
 [![How animaapp.com is designed](https://pin.fontofweb.com/5953?format=jpg)](design-md/animaapp.com.md)
 
-animaapp.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#706f6b`, and `#a3a3a3`, with typography led by **Mulish** and **Roslindale**. The guide below names reusable design roles only where the captured evidence supports them.
+Anima’s homepage is a dark, controlled landing page built around a single centered idea: a serif headline, a prompt-like composer, and a strip of example thumbnails that prove the product’s range. The whole page sits on a charcoal field, so the pink announcement bar, white header controls, and blue-violet hero accents read as deliberate signals instead of decoration. The mood is polished and technical at once. It feels like a design tool presenting itself with studio lighting, not like a generic software homepage.
 
 [Open guide](design-md/animaapp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/animaapp.com-design)
 
