@@ -1187,7 +1187,7 @@ CrowdReply uses a brochure-like SaaS layout with a sharp split between light pro
 
 [![How crowprose.com is designed](https://pin.fontofweb.com/6283?format=jpg)](design-md/crowprose.com.md)
 
-crowprose.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#1a1a1a` and `#4d4d4d`, with typography led by **Din 1451 Std**. The guide below names reusable design roles only where the captured evidence supports them.
+Crowprose uses an editorial reading system, not a marketing layout. The visual language is almost entirely built from one centered column, black text on white, and a strict sequence of title, rule, and prose. The home index and the article page share the same calm structure: a plain page heading at the top, a heavy horizontal rule beneath it, and then stacked writing blocks that keep the eye moving downward.
 
 [Open guide](design-md/crowprose.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/crowprose.com-design)
 
