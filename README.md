@@ -1163,7 +1163,7 @@ Craftwork is a dark, product-heavy marketplace interface. The page treats the ca
 
 [![How crazycreative.design is designed](https://pin.fontofweb.com/9130?format=jpg)](design-md/crazycreative.design.md)
 
-crazycreative.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ff66c8`, and `#ffffff`, with typography led by **System**, **Bricolage Grotesque 96 Pt**, and **Bricolage Grotesque**. The guide below names reusable design roles only where the captured evidence supports them.
+Crazy Creative is a poster-like studio site built around one decisive move: a saturated pink field carrying enormous white type and a playful cartoon language. The first screen reads like a billboard rather than a conventional agency homepage. A compact top bar, a handwritten “wow,” a single giant claim, and a pill CTA sit above a mascot that peeks into frame from below. The composition is intentionally theatrical, but the structure is simple: one center stack, one action, one dominant illustration, and very little chrome.
 
 [Open guide](design-md/crazycreative.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/crazycreative.design-design)
 
