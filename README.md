@@ -403,7 +403,7 @@ app.brevo.com presents a mixed light and dark surface treatment in the captured 
 
 [![How app.flora.ai is designed](https://pin.fontofweb.com/7889?format=jpg)](design-md/app.flora.ai.md)
 
-app.flora.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#202020`, with typography led by **System**, **Geist**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+FLORA reads as a dark creative workspace rather than a conventional app shell. The main canvas is almost black, the content sits in soft charcoal cards, and the page gives ideas room to float across a dotted field. That open ground is important: the layout feels roomy even when several cards, notices, and utility chips are present at once.
 
 [Open guide](design-md/app.flora.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.flora.ai-design)
 
