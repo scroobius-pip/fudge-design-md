@@ -611,7 +611,7 @@ aura.build presents a predominantly dark surface treatment in the captured pages
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10168?format=jpg)](design-md/autogram.id.md)
 
-autogram.id presents a predominantly light surface treatment in the captured pages. The system is anchored by `#111111`, `#fdfdfc`, and `#fafafa`, with typography led by **Inter**, **Host Grotesk**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Autogram’s page language is spare, bright, and centered. The whole screen reads as a soft white field with one decisive message in the middle, then a loose ring of floating tiles that makes the product feel social rather than dashboard-like. The copy stays short. The whitespace stays large. The surrounding objects carry much of the personality: app icons, document cards, small photo crops, and colored name chips all sit outside the main text column like pinned notes around a workstation.
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
 
