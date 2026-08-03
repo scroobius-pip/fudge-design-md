@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
   "domain": "base44.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:27:20.737Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:27:11.167Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:27:17.949Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:27:20.737Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-27-12-142Z-a1",
+    "imageCount": 6,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "base44.com-design"
   },
@@ -22,5 +49,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.4317530909090905,
+    "maximumResidual": 1,
+    "valuesConsidered": 55
+  },
+  "error": "author lane exited 1."
 }

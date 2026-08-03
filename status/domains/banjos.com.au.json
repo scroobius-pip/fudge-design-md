@@ -1,17 +1,24 @@
 {
   "schemaVersion": 1,
   "domain": "banjos.com.au",
-  "state": "unpublished",
+  "state": "blocked",
   "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 0,
+      "from": "unpublished",
+      "to": "blocked"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
     "key": "banjos.com.au-design"
   },
-  "blocker": null,
+  "blocker": "legacy_only_projection",
   "inventory": {
     "corpus": {
       "origin": "https://banjos.com.au",
@@ -19,6 +26,11 @@
       "captureCount": 6,
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    },
+    "projection": {
+      "isLegacy": true,
+      "pinCount": 6,
+      "checkedAt": "2026-08-03T18:23:55.937Z"
     }
   }
 }

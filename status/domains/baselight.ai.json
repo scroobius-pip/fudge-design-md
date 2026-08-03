@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
   "domain": "baselight.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:27:28.829Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:27:20.994Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:27:26.049Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:27:28.829Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-27-21-819Z-a1",
+    "imageCount": 7,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "baselight.ai-design"
   },
@@ -22,5 +49,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.24948387096774222,
+    "maximumResidual": 1,
+    "valuesConsidered": 31
+  },
+  "error": "author lane exited 1."
 }

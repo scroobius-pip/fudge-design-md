@@ -1,11 +1,24 @@
 {
   "schemaVersion": 1,
   "domain": "assistant-ui.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:15:36.711Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:15:36.259Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:15:36.711Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "failed"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
@@ -22,5 +35,6 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "error": "fetch failed"
 }

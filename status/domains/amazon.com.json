@@ -1,17 +1,30 @@
 {
   "schemaVersion": 1,
   "domain": "amazon.com",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "state": "blocked",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:14:21.445Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:14:22.744Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "blocked"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
     "key": "amazon.com-design"
   },
-  "blocker": null,
+  "blocker": "legacy_only_projection",
   "inventory": {
     "corpus": {
       "origin": "https://amazon.com",
@@ -19,6 +32,11 @@
       "captureCount": 3,
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    },
+    "projection": {
+      "isLegacy": true,
+      "pinCount": 3,
+      "checkedAt": "2026-08-03T18:23:55.937Z"
     }
   }
 }

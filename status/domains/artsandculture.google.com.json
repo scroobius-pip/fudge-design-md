@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "artsandculture.google.com",
-  "state": "drafting",
+  "state": "published_verified",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:09:10.626Z",
+  "updatedAt": "2026-08-03T18:15:36.083Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -21,16 +21,92 @@
       "attempt": 1,
       "from": "preparing",
       "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:12:50.710Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:15:08.006Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:15:08.064Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T18:15:08.123Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T18:15:11.780Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T18:15:11.832Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T18:15:36.009Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T18:15:36.083Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
-  "checks": {},
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/artsandculture.google.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/artsandculture.google.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/artsandculture.google.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/7274?format=jpg"
+    }
+  },
   "artifacts": {
     "runId": "2026-08-03T18-09-03-840Z-a1",
-    "imageCount": 8,
-    "baselineAvailable": true
+    "imageCount": 6,
+    "guideSha256": "e7ecb2aeb7a7c339a9c9698351bfae02f7d3dc291a76516bf29d36bdf52b53f0"
   },
   "publication": {
-    "key": "artsandculture.google.com-design"
+    "key": "artsandculture.google.com-design",
+    "url": "https://design.withfudge.com/share/artsandculture.google.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/artsandculture.google.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/artsandculture.google.com.md"
   },
   "blocker": null,
   "inventory": {

@@ -1,15 +1,130 @@
 {
   "schemaVersion": 1,
   "domain": "astrotypes.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:26:37.977Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:17:13.606Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:17:15.472Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:20:09.883Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:22:46.011Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:22:46.064Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:25:29.593Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:26:08.299Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:26:08.360Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T18:26:08.421Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T18:26:12.695Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T18:26:12.753Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T18:26:37.908Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T18:26:37.977Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/astrotypes.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/astrotypes.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/astrotypes.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8440?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-17-14-318Z-a1",
+    "imageCount": 2,
+    "guideSha256": "3aa147c88f881d302b9f23c367a67e6f1d078642dfad48d0bef15c306f46f3c9"
+  },
   "publication": {
-    "key": "astrotypes.com-design"
+    "key": "astrotypes.com-design",
+    "url": "https://design.withfudge.com/share/astrotypes.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/astrotypes.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/astrotypes.com.md"
   },
   "blocker": null,
   "inventory": {
@@ -22,5 +137,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
+  },
+  "normalization": {
+    "stepPx": 8,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 4
   }
 }

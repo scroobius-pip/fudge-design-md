@@ -1,13 +1,74 @@
 {
   "schemaVersion": 1,
   "domain": "aura.build",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:27:23.542Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:20:00.487Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:20:08.915Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:24:31.414Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:27:23.469Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:27:23.542Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Front matter",
+          "problem": "The `preview-frame` component assigns white text to the white paper surface (`textColor: \"{colors.ink}\"`). That conflicts with the screenshot, where the white preview stage carries dark content while the dark shell carries the light text.",
+          "requiredChange": "Change `components.preview-frame.textColor` to a dark neutral token that matches the white preview stage, and keep `colors.ink` for text on dark surfaces."
+        },
+        {
+          "section": "Visual language",
+          "problem": "The writeup describes pills and tags as “small, rectangular,” but the screenshots show rounded chips and pills with 6px to fully rounded corners, not rectangular geometry.",
+          "requiredChange": "Revise that description to match the rounded chip/pill shapes shown in the images and avoid calling them rectangular."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-20-01-524Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "aura.build-design"
   },
@@ -22,5 +83,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.15789473684210525,
+    "maximumResidual": 1,
+    "valuesConsidered": 19
   }
 }

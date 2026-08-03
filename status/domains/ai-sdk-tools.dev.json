@@ -1,17 +1,30 @@
 {
   "schemaVersion": 1,
   "domain": "ai-sdk-tools.dev",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "state": "blocked",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:14:09.872Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:14:10.679Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "blocked"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
     "key": "ai-sdk-tools.dev-design"
   },
-  "blocker": null,
+  "blocker": "legacy_only_projection",
   "inventory": {
     "corpus": {
       "origin": "https://ai-sdk-tools.dev",
@@ -19,6 +32,11 @@
       "captureCount": 7,
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    },
+    "projection": {
+      "isLegacy": true,
+      "pinCount": 7,
+      "checkedAt": "2026-08-03T18:23:55.937Z"
     }
   }
 }

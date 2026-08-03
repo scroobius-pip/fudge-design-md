@@ -1,17 +1,30 @@
 {
   "schemaVersion": 1,
   "domain": "adasilv2.framer.website",
-  "state": "unpublished",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "state": "blocked",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:14:03.608Z",
+      "attempt": 1,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:14:04.392Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "blocked"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
     "key": "adasilv2.framer.website-design"
   },
-  "blocker": null,
+  "blocker": "legacy_only_projection",
   "inventory": {
     "corpus": {
       "origin": "https://adasilv2.framer.website",
@@ -19,6 +32,11 @@
       "captureCount": 13,
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    },
+    "projection": {
+      "isLegacy": true,
+      "pinCount": 13,
+      "checkedAt": "2026-08-03T18:23:55.937Z"
     }
   }
 }

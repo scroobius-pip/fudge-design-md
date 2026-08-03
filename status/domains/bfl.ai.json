@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
   "domain": "bfl.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:28:36.610Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:28:20.995Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:28:33.534Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:28:36.610Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "failed"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T18-28-22-175Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "bfl.ai-design"
   },
@@ -22,5 +49,12 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.03333333333333333,
+    "maximumResidual": 0.5,
+    "valuesConsidered": 15
+  },
+  "error": "author lane exited 1."
 }

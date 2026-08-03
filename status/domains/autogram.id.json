@@ -1,13 +1,65 @@
 {
   "schemaVersion": 1,
   "domain": "autogram.id",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "validating",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T18:28:28.573Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T18:22:41.577Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T18:22:45.908Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T18:25:42.002Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:27:04.200Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T18:27:04.261Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:28:28.573Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T18-22-42-990Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "autogram.id-design"
   },
@@ -22,5 +74,11 @@
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
     }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.14909090909091818,
+    "maximumResidual": 0.9700000000000273,
+    "valuesConsidered": 11
   }
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "artera.ae",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-03T18:09:25.577Z",
+  "updatedAt": "2026-08-03T18:11:33.650Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -39,6 +39,18 @@
       "attempt": 1,
       "from": "reviewing",
       "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T18:10:47.047Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T18:11:33.650Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "failed"
     }
   ],
   "checks": {
@@ -47,16 +59,6 @@
       "passed": 112,
       "total": 112,
       "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "`page-title` is labeled as a bold 700-weight role, but the supplied detail-page title is rendered at 23px with semibold/600 weight. The current token overstates the visible weight for that heading role.",
-          "requiredChange": "Change `page-title` to the supported 600-weight treatment shown in the source, or move the 700-weight treatment to a separate token only if you are describing the other bold heading visible on the page."
-        }
-      ]
     }
   },
   "artifacts": {
@@ -77,5 +79,6 @@
     "meanAbsoluteError": 0.14063636363636595,
     "maximumResidual": 1,
     "valuesConsidered": 11
-  }
+  },
+  "error": "Reviewer output is invalid: Missing <<<REVIEW>>> output delimiter."
 }

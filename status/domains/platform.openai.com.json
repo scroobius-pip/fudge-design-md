@@ -1,17 +1,24 @@
 {
   "schemaVersion": 1,
   "domain": "platform.openai.com",
-  "state": "unpublished",
+  "state": "blocked",
   "attempt": 0,
-  "updatedAt": "2026-08-03T18:08:07.063Z",
+  "updatedAt": "2026-08-03T18:23:55.937Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T18:23:55.937Z",
+      "attempt": 0,
+      "from": "unpublished",
+      "to": "blocked"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
     "key": "platform.openai.com-design"
   },
-  "blocker": null,
+  "blocker": "only_one_image",
   "inventory": {
     "corpus": {
       "origin": "https://platform.openai.com",
@@ -19,6 +26,11 @@
       "captureCount": 8,
       "observedGeneration": 68997,
       "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    },
+    "projection": {
+      "isLegacy": true,
+      "pinCount": 1,
+      "checkedAt": "2026-08-03T18:23:55.937Z"
     }
   }
 }
