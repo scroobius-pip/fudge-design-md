@@ -995,7 +995,7 @@ Classy.md is a dark writing surface built around restraint. The page is almost e
 
 [![How claude.ai is designed](https://pin.fontofweb.com/9549?format=jpg)](design-md/claude.ai.md)
 
-claude.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#faf9f5`, `#000000`, and `#ffffff`, with typography led by **Anthropic Sans**, **Applesystem**, **Anthropic Serif**, **Inter**, **Open Dyslexic**, **Jet Brains Mono**, **Arial**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Claude.ai uses two tightly related surface families. The dark family handles the login and first-contact pages: near-black backgrounds, soft white type, rounded cards, and one strong blue action color. The light family handles the workspace, design-system, and palette pages: warm paper backgrounds, black ink, pale dividers, and compact controls with more air around them. The product stays coherent because the same serif-and-sans typographic split runs through both modes. The mood changes, but the structure does not.
 
 [Open guide](design-md/claude.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/claude.ai-design)
 
