@@ -1073,9 +1073,9 @@ Cognee uses a dark, technical stage with a restrained editorial tone. The page s
 
 ### cohere.com
 
-[![How cohere.com is designed](https://pin.fontofweb.com/9953?format=jpg)](design-md/cohere.com.md)
+[![How cohere.com is designed](https://pin.fontofweb.com/9952?format=jpg)](design-md/cohere.com.md)
 
-cohere.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#212121`, and `#ffffff`, with typography led by **By Christian Mengelt Team 77**, **Inter**, **Applesystem**, **Cohere**, and **Cohere Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cohere’s page design is enterprise AI with a quiet face and a strong core. The default field is white or soft ivory, the text is near-black, and the main action color is a single coral orange that stays consistent across the marketing site. That restraint gives the page room to shift mood when needed: a cream hero with floating gradient forms, a dark story panel with stacked photos, a lavender contact form, a purple developer stage, and a black footer. The result feels controlled rather than decorative.
 
 [Open guide](design-md/cohere.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/cohere.com-design)
 
