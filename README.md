@@ -1033,9 +1033,9 @@ cmux uses a restrained, developer-first visual language built from monochrome su
 
 ### cobe.vercel.app
 
-[![How cobe.vercel.app is designed](https://pin.fontofweb.com/8181?format=jpg)](design-md/cobe.vercel.app.md)
+[![How cobe.vercel.app is designed](https://pin.fontofweb.com/8174?format=jpg)](design-md/cobe.vercel.app.md)
 
-cobe.vercel.app presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#8996a3`, with typography led by **Geist Pixel** and **Departure Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+COBE reads like a developer library built around one live object. A white field gives the globe room, while the rest of the page turns into a sequence of compact reference surfaces: tabs, prompt bars, code cards, a control panel, and a table of options. The mood is precise and slightly playful because the globe, stickers, and label cards carry the personality while the UI chrome stays thin and rectilinear.
 
 [Open guide](design-md/cobe.vercel.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/cobe.vercel.app-design)
 
