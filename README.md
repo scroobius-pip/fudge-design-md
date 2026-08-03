@@ -123,7 +123,7 @@ The Atlantic accounts surface is editorial commerce: a magazine-toned subscripti
 
 [![How accounts.x.ai is designed](https://pin.fontofweb.com/10437?format=jpg)](design-md/accounts.x.ai.md)
 
-accounts.x.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#1a1a1a`, and `#000000`, with typography led by **Inter**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+accounts.x.ai is a dark account console, not a marketing page. The system keeps almost everything in black, charcoal, white, and muted gray, then uses a cool blue-gray illustration panel to soften the strictness of the shell. The result feels technical, calm, and controlled.
 
 [Open guide](design-md/accounts.x.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/accounts.x.ai-design)
 
