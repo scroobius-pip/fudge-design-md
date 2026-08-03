@@ -43,7 +43,7 @@ collection, including blocked jobs and completed replacements.
 
 [![How 15th.plus-ex.com is designed](https://pin.fontofweb.com/10390?format=jpg)](design-md/15th.plus-ex.com.md)
 
-15th.plus-ex.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#4d4d4d`, with typography led by **Apple Sd Gothic Neo**, **Neuehaasgrotesk**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+15th.plus-ex.com uses a strict monochrome language that feels closer to a poster series than a conventional site. The page relies on enormous Neuehaasgrotesk type, very open canvas, and a recurring contrast between white presentation stages and black editorial stages. The largest elements are not decorative containers but letterforms, numbers, and simple geometric marks: a plus sign, an X, diagonal slats, and a few rounded image cards.
 
 [Open guide](design-md/15th.plus-ex.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/15th.plus-ex.com-design)
 
