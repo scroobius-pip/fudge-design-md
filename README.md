@@ -107,7 +107,7 @@ abcdinamo.com presents a predominantly dark surface treatment in the captured pa
 
 [![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
 
-account.nothing.tech presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#161317`, and `#ffffff`, with typography led by **Inter** and **N Type 82**. The guide below names reusable design roles only where the captured evidence supports them.
+Nothing Account login is built as a spare, centered sign-in page with almost no decorative noise. A pale field holds a single white card, and the card does most of the work: it concentrates attention, separates the task from the page chrome, and keeps the layout from spreading outward. The page feels measured rather than minimal in an abstract sense. Every visible part has a job, and every job stays small.
 
 [Open guide](design-md/account.nothing.tech.md) · [View the Fudge conversation](https://design.withfudge.com/share/account.nothing.tech-design)
 
