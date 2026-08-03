@@ -899,7 +899,7 @@ Capy uses a hard-edged developer-marketing language with a toy-like mascot, but 
 
 [![How carcard.arible.co is designed](https://pin.fontofweb.com/7745?format=jpg)](design-md/carcard.arible.co.md)
 
-carcard.arible.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1a1a`, and `#999999`, with typography led by **Applesystem** and **Georgia**. The guide below names reusable design roles only where the captured evidence supports them.
+Carcard uses two closely related visual modes: a warm editorial intro band and a calm card-scanning workspace. The first mode is poster-like and condensed, with small upper labels, a large serif statement, and a thin closing rule. The second mode is a clean single-page utility surface with a centered hero, a black primary action, a dashed upload area, a search field, and a vertical list of scanned cards. The system feels quiet rather than minimal for its own sake. It keeps the structure legible, gives the brand a soft literary tone, and uses very little color beyond ink, muted neutrals, paper white, and a green success state.
 
 [Open guide](design-md/carcard.arible.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/carcard.arible.co-design)
 
