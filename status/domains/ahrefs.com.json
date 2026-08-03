@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "ahrefs.com",
-  "state": "validating",
+  "state": "published_verified",
   "attempt": 1,
-  "updatedAt": "2026-08-03T17:02:11.985Z",
+  "updatedAt": "2026-08-03T17:04:58.432Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -63,6 +63,48 @@
       "attempt": 1,
       "from": "repairing",
       "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:04:13.548Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:04:13.563Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T17:04:13.575Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T17:04:18.128Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T17:04:18.139Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T17:04:58.417Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T17:04:58.432Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
   "checks": {
@@ -71,15 +113,36 @@
       "passed": 112,
       "total": 112,
       "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/ahrefs.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/ahrefs.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ahrefs.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/7048?format=jpg"
     }
   },
   "artifacts": {
     "runId": "2026-08-03T16-37-56-177Z-a1",
-    "imageCount": 8,
-    "baselineAvailable": true
+    "imageCount": 6,
+    "guideSha256": "5c1335c044f5265b43236523a793e15fcd136f49358dc938a4917b8fc6abe5fd"
   },
   "publication": {
-    "key": "ahrefs.com-design"
+    "key": "ahrefs.com-design",
+    "url": "https://design.withfudge.com/share/ahrefs.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/ahrefs.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ahrefs.com.md"
   },
   "blocker": null,
   "inventory": {

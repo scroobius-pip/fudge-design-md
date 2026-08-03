@@ -1,13 +1,96 @@
 {
   "schemaVersion": 1,
   "domain": "app.reve.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.487Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:46:25.787Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:39:57.316Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:40:14.164Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:45:05.931Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:46:25.120Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:46:25.787Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 108,
+      "total": 112,
+      "failures": [
+        {
+          "id": "colors.grounded",
+          "message": "Colors absent from interface, gradient, and shadow evidence: #A3A3A3, #4ADE80, #EF4444."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: gutter, panel, section."
+        },
+        {
+          "id": "colors.grounded",
+          "message": "Colors absent from interface, gradient, and shadow evidence: #A3A3A3, #4ADE80, #EF4444."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: gutter, panel, section."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The guide invents an unverified font family name and fabricates type tokens even though the packet provides no font family, font size, or attribution values.",
+          "requiredChange": "Remove the unsupported family claims and either omit typography token values that are not present in the manifest or restrict the section to what the packet actually supports."
+        },
+        {
+          "section": "Colors / Components",
+          "problem": "The YAML defines exact UI colors and component tokens for gray, green, and red accents even though the authoritative exact-values manifest contains only black and white for interface colors and no exact spacing, radius, or font values.",
+          "requiredChange": "Limit exact UI tokens to values supported by the manifest; do not promote image-palette colors to interface tokens, and do not invent spacing or radius tokens when those exact values are absent."
+        },
+        {
+          "section": "Layout",
+          "problem": "The shape system invents rounded panels, tiles, and pills instead of using the required square-corner sentinel when no radii are supplied.",
+          "requiredChange": "Use `rounded.none: 0rem` as the only supported radius sentinel and avoid inventing additional radius values."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-40-00-564Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "app.reve.com-design"
   },
@@ -15,5 +98,11 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 8,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
   }
 }

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T17:03:43.826Z",
+  "generatedAt": "2026-08-03T17:48:52.444Z",
   "counts": {
     "skipped_recent": 9,
-    "published_verified": 21,
+    "published_verified": 37,
     "drafting": 4,
-    "failed": 4,
-    "validating": 2,
-    "legacy": 215
+    "failed": 11,
+    "repairing": 2,
+    "legacy": 192
   },
   "domains": [
     {
@@ -295,12 +295,15 @@
     },
     {
       "domain": "ahrefs.com",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-03T17:02:11.985Z",
+      "updatedAt": "2026-08-03T17:04:58.432Z",
       "blocker": null,
       "publication": {
-        "key": "ahrefs.com-design"
+        "key": "ahrefs.com-design",
+        "url": "https://design.withfudge.com/share/ahrefs.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/ahrefs.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ahrefs.com.md"
       }
     },
     {
@@ -351,49 +354,61 @@
     },
     {
       "domain": "aiverse.design",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-03T17:03:26.411Z",
+      "updatedAt": "2026-08-03T17:08:39.311Z",
       "blocker": null,
       "publication": {
-        "key": "aiverse.design-design"
+        "key": "aiverse.design-design",
+        "url": "https://design.withfudge.com/share/aiverse.design-design",
+        "markdownUrl": "https://design.withfudge.com/share/aiverse.design-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aiverse.design.md"
       }
     },
     {
       "domain": "algebrica.org",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-03T17:01:24.928Z",
+      "updatedAt": "2026-08-03T17:07:30.964Z",
       "blocker": null,
       "publication": {
-        "key": "algebrica.org-design"
+        "key": "algebrica.org-design",
+        "url": "https://design.withfudge.com/share/algebrica.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/algebrica.org-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/algebrica.org.md"
       }
     },
     {
       "domain": "aljazeera.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-03T17:03:43.818Z",
+      "updatedAt": "2026-08-03T17:07:48.907Z",
       "blocker": null,
       "publication": {
-        "key": "aljazeera.com-design"
+        "key": "aljazeera.com-design",
+        "url": "https://design.withfudge.com/share/aljazeera.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/aljazeera.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aljazeera.com.md"
       }
     },
     {
       "domain": "allbirds.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.103Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:15:02.710Z",
       "blocker": null,
       "publication": {
-        "key": "allbirds.com-design"
+        "key": "allbirds.com-design",
+        "url": "https://design.withfudge.com/share/allbirds.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/allbirds.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/allbirds.com.md"
       }
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.126Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:07:36.239Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design"
@@ -401,19 +416,22 @@
     },
     {
       "domain": "alpine.inc",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.147Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:13:21.357Z",
       "blocker": null,
       "publication": {
-        "key": "alpine.inc-design"
+        "key": "alpine.inc-design",
+        "url": "https://design.withfudge.com/share/alpine.inc-design",
+        "markdownUrl": "https://design.withfudge.com/share/alpine.inc-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/alpine.inc.md"
       }
     },
     {
       "domain": "ami.dev",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.169Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:19:57.018Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design"
@@ -421,9 +439,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.187Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:23:30.362Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design"
@@ -431,22 +449,28 @@
     },
     {
       "domain": "analytics.google.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.206Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:21:48.664Z",
       "blocker": null,
       "publication": {
-        "key": "analytics.google.com-design"
+        "key": "analytics.google.com-design",
+        "url": "https://design.withfudge.com/share/analytics.google.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/analytics.google.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/analytics.google.com.md"
       }
     },
     {
       "domain": "animaapp.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.225Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:20:53.505Z",
       "blocker": null,
       "publication": {
-        "key": "animaapp.com-design"
+        "key": "animaapp.com-design",
+        "url": "https://design.withfudge.com/share/animaapp.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/animaapp.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/animaapp.com.md"
       }
     },
     {
@@ -461,29 +485,35 @@
     },
     {
       "domain": "antigravity.google",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.267Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:28:43.520Z",
       "blocker": null,
       "publication": {
-        "key": "antigravity.google-design"
+        "key": "antigravity.google-design",
+        "url": "https://design.withfudge.com/share/antigravity.google-design",
+        "markdownUrl": "https://design.withfudge.com/share/antigravity.google-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/antigravity.google.md"
       }
     },
     {
       "domain": "anytype.io",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.286Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:25:58.417Z",
       "blocker": null,
       "publication": {
-        "key": "anytype.io-design"
+        "key": "anytype.io-design",
+        "url": "https://design.withfudge.com/share/anytype.io-design",
+        "markdownUrl": "https://design.withfudge.com/share/anytype.io-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/anytype.io.md"
       }
     },
     {
       "domain": "aol.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.304Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:26:48.209Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design"
@@ -491,29 +521,35 @@
     },
     {
       "domain": "apara.design",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.324Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:29:52.358Z",
       "blocker": null,
       "publication": {
-        "key": "apara.design-design"
+        "key": "apara.design-design",
+        "url": "https://design.withfudge.com/share/apara.design-design",
+        "markdownUrl": "https://design.withfudge.com/share/apara.design-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/apara.design.md"
       }
     },
     {
       "domain": "api-dashboard.search.brave.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.344Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:31:22.867Z",
       "blocker": null,
       "publication": {
-        "key": "api-dashboard.search.brave.com-design"
+        "key": "api-dashboard.search.brave.com-design",
+        "url": "https://design.withfudge.com/share/api-dashboard.search.brave.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/api-dashboard.search.brave.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/api-dashboard.search.brave.com.md"
       }
     },
     {
       "domain": "api.scira.ai",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.361Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:39:53.449Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design"
@@ -521,19 +557,22 @@
     },
     {
       "domain": "app.base44.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.378Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:35:15.187Z",
       "blocker": null,
       "publication": {
-        "key": "app.base44.com-design"
+        "key": "app.base44.com-design",
+        "url": "https://design.withfudge.com/share/app.base44.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.base44.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.base44.com.md"
       }
     },
     {
       "domain": "app.brevo.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.396Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:37:21.761Z",
       "blocker": null,
       "publication": {
         "key": "app.brevo.com-design"
@@ -541,49 +580,60 @@
     },
     {
       "domain": "app.flora.ai",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.413Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:37:16.078Z",
       "blocker": null,
       "publication": {
-        "key": "app.flora.ai-design"
+        "key": "app.flora.ai-design",
+        "url": "https://design.withfudge.com/share/app.flora.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.flora.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.flora.ai.md"
       }
     },
     {
       "domain": "app.fourmula.ai",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.433Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:42:59.006Z",
       "blocker": null,
       "publication": {
-        "key": "app.fourmula.ai-design"
+        "key": "app.fourmula.ai-design",
+        "url": "https://design.withfudge.com/share/app.fourmula.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.fourmula.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.fourmula.ai.md"
       }
     },
     {
       "domain": "app.paper.design",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.452Z",
+      "state": "published_verified",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:45:51.621Z",
       "blocker": null,
       "publication": {
-        "key": "app.paper.design-design"
+        "key": "app.paper.design-design",
+        "url": "https://design.withfudge.com/share/app.paper.design-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.paper.design-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.paper.design.md"
       }
     },
     {
       "domain": "app.quiver.ai",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.469Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:48:29.482Z",
       "blocker": null,
       "publication": {
-        "key": "app.quiver.ai-design"
+        "key": "app.quiver.ai-design",
+        "url": "https://design.withfudge.com/share/app.quiver.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.quiver.ai-design.md"
       }
     },
     {
       "domain": "app.reve.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.487Z",
+      "state": "repairing",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:46:25.787Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design"
@@ -591,9 +641,9 @@
     },
     {
       "domain": "app.squareup.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.507Z",
+      "state": "repairing",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:48:04.734Z",
       "blocker": null,
       "publication": {
         "key": "app.squareup.com-design"
@@ -601,9 +651,9 @@
     },
     {
       "domain": "app.standards.site",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.529Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:46:07.915Z",
       "blocker": null,
       "publication": {
         "key": "app.standards.site-design"
@@ -611,9 +661,9 @@
     },
     {
       "domain": "app.subframe.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T14:02:20.549Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-03T17:48:51.471Z",
       "blocker": null,
       "publication": {
         "key": "app.subframe.com-design"

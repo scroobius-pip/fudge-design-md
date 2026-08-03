@@ -1,13 +1,34 @@
 {
   "schemaVersion": 1,
   "domain": "app.subframe.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.549Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:48:51.471Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:48:33.804Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:48:51.471Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T17-48-38-419Z-a1",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "app.subframe.com-design"
   },
@@ -15,5 +36,11 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.028099999999994907,
+    "maximumResidual": 0.28099999999994907,
+    "valuesConsidered": 10
   }
 }

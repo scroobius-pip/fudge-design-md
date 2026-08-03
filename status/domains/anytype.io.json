@@ -1,19 +1,122 @@
 {
   "schemaVersion": 1,
   "domain": "anytype.io",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.286Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:25:58.417Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:20:53.584Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:21:02.212Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:23:56.183Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:25:29.566Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:25:29.577Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T17:25:29.586Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T17:25:33.821Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T17:25:33.834Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T17:25:58.397Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T17:25:58.417Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/anytype.io-design",
+      "markdownUrl": "https://design.withfudge.com/share/anytype.io-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/anytype.io.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8145?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-20-56-919Z-a1",
+    "imageCount": 5,
+    "guideSha256": "a3063333af8f7b8db50a202d1cb239de58c4236aabae285be3d2cc90a2f7af86"
+  },
   "publication": {
-    "key": "anytype.io-design"
+    "key": "anytype.io-design",
+    "url": "https://design.withfudge.com/share/anytype.io-design",
+    "markdownUrl": "https://design.withfudge.com/share/anytype.io-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/anytype.io.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.1,
+    "maximumResidual": 1,
+    "valuesConsidered": 29
   }
 }

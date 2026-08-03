@@ -1,13 +1,80 @@
 {
   "schemaVersion": 1,
   "domain": "aol.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.304Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:26:48.209Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:21:48.787Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:21:51.370Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:24:07.380Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:25:06.337Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:25:06.349Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T17:26:48.209Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The font token table is broken by a blank line after the header separator, so the rows no longer render as one table. The section also omits the short licensing sentence required when no license is supplied.",
+          "requiredChange": "Make the typography rows one contiguous markdown table and add one brief licensing sentence in Typography or Scope note that states the license is not supplied in the packet."
+        },
+        {
+          "section": "Components",
+          "problem": "`content-card.border` uses `rgba(0, 0, 0, 0.06)`, which is not present in the packet's exact interface colors or shadow values.",
+          "requiredChange": "Replace that border color with a value grounded in the packet, or remove the exact color claim and describe the border generically."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-21-49-621Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "aol.com-design"
   },
@@ -15,5 +82,12 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.25,
+    "maximumResidual": 1,
+    "valuesConsidered": 16
+  },
+  "error": "Front matter line 66 is not a key-value entry."
 }

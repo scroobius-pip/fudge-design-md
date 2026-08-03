@@ -1,19 +1,105 @@
 {
   "schemaVersion": 1,
   "domain": "app.quiver.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.469Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:48:29.482Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:37:21.834Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:37:25.362Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:40:17.715Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:42:13.558Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:42:14.315Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T17:42:14.349Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T17:42:25.375Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T17:42:25.404Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T17:48:29.482Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-37-22-559Z-a1",
+    "imageCount": 3,
+    "guideSha256": "5029b46994fba8bff0d1ba2952b3e2e4670a82373bb91564406e2bd687f1f7da"
+  },
   "publication": {
-    "key": "app.quiver.ai-design"
+    "key": "app.quiver.ai-design",
+    "url": "https://design.withfudge.com/share/app.quiver.ai-design",
+    "markdownUrl": "https://design.withfudge.com/share/app.quiver.ai-design.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.09701578947368567,
+    "maximumResidual": 1,
+    "valuesConsidered": 19
+  },
+  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":true,\"image\":true}."
 }

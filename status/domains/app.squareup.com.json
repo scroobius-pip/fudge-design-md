@@ -1,13 +1,78 @@
 {
   "schemaVersion": 1,
   "domain": "app.squareup.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.507Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "repairing",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:48:04.734Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:43:01.137Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:43:04.332Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:46:04.145Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:48:03.732Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:48:04.734Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "colors.syntax",
+          "message": "Every front-matter color must be a six-digit hex value."
+        },
+        {
+          "id": "colors.syntax",
+          "message": "Every front-matter color must be a six-digit hex value."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "The guide assigns the black-panel display voice to `Cash Sans` at `1rem`/`600`, but the packet shows `Cash Sans` only at 16px while the large 32px/32.634px benefit text in the images is `Square Sans Vf`. The current token set misattributes the panel's dominant face and weight.",
+          "requiredChange": "Recast the black-panel display token as `Square Sans Vf` at the supported 32px/32.634px sizes and keep `Cash Sans` only for the small 16px text it actually renders, using only supported weights."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-43-02-530Z-a1",
+    "imageCount": 2,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "app.squareup.com-design"
   },
@@ -15,5 +80,11 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0.125,
+    "maximumResidual": 1,
+    "valuesConsidered": 8
   }
 }

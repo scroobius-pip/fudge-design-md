@@ -1,11 +1,24 @@
 {
   "schemaVersion": 1,
   "domain": "almost-pearfect.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.126Z",
+  "state": "failed",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:07:36.239Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T17:07:31.037Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:07:36.239Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "failed"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
@@ -15,5 +28,6 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "error": "Representative image 8625 is unexpectedly small."
 }

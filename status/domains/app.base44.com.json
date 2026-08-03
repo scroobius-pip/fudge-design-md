@@ -1,19 +1,140 @@
 {
   "schemaVersion": 1,
   "domain": "app.base44.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.378Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:35:15.187Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:28:43.601Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:28:47.895Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T17:31:31.291Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:32:30.478Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:32:30.488Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T17:33:53.071Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T17:34:45.400Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T17:34:45.414Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T17:34:45.428Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T17:34:49.225Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T17:34:49.237Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T17:35:15.124Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T17:35:15.187Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/app.base44.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/app.base44.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.base44.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/7412?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T17-28-44-446Z-a1",
+    "imageCount": 3,
+    "guideSha256": "521d6b72d4a2f2ef629e276d31a8a2fa7eff6d50c72590059cc2e9f802696a43"
+  },
   "publication": {
-    "key": "app.base44.com-design"
+    "key": "app.base44.com-design",
+    "url": "https://design.withfudge.com/share/app.base44.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/app.base44.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.base44.com.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.09090909090909091,
+    "maximumResidual": 1,
+    "valuesConsidered": 11
   }
 }
