@@ -1959,6 +1959,14 @@ getdesign.md reads like a dark code editor wrapped around a product catalog. The
 
 [Open guide](design-md/getdesign.md.md) · [View the Fudge conversation](https://design.withfudge.com/share/getdesign.md-design)
 
+### getkleio.com
+
+[![How getkleio.com is designed](https://pin.fontofweb.com/7328?format=jpg)](design-md/getkleio.com.md)
+
+Kleio is a stripped-back SaaS landing page built around a single idea: reduce visual noise so the pricing and product claim land fast. The page stays in a pale neutral range, then uses orange only where the eye should land first. The result feels analytical, not flashy. It is closer to a tidy product memo than a lifestyle brand.
+
+[Open guide](design-md/getkleio.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/getkleio.com-design)
+
 ### good-fella.com
 
 [![How good-fella.com is designed](https://pin.fontofweb.com/8198?format=jpg)](design-md/good-fella.com.md)
