@@ -1953,9 +1953,9 @@ goose.ai presents a predominantly dark surface treatment in the captured pages. 
 
 ### grey.co
 
-[![How grey.co is designed](https://pin.fontofweb.com/6725?format=jpg)](design-md/grey.co.md)
+[![How grey.co is designed](https://pin.fontofweb.com/6719?format=jpg)](design-md/grey.co.md)
 
-grey.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1a1a`, and `#0000ee`, with typography led by **Aeonik**. The guide below names reusable design roles only where the captured evidence supports them.
+Grey's website presents banking as an international lifestyle product rather than a conventional financial dashboard. Large portraits and product-in-hand photography establish the human context first; the interface then explains the service with oversized, tightly set headings and short blocks of supporting copy.
 
 [Open guide](design-md/grey.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/grey.co-design)
 

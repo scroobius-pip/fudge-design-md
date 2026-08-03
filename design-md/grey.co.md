@@ -6,155 +6,240 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6725?format=jpg)](https://design.withfudge.com/share/pin-6725)
+[![Grey homepage hero with an editorial portrait on a cool blue photographic field](https://pin.fontofweb.com/6719?format=jpg)](https://design.withfudge.com/share/pin-6719)
 
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6725)
+[Grey homepage hero with an editorial portrait on a cool blue photographic field](https://design.withfudge.com/share/pin-6719)
 
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6724?format=jpg)](https://design.withfudge.com/share/pin-6724)
+[![Mint virtual-card panel with a hand-held phone and floating service icons](https://pin.fontofweb.com/6721?format=jpg)](https://design.withfudge.com/share/pin-6721)
 
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6724)
+[Mint virtual-card panel with a hand-held phone and floating service icons](https://design.withfudge.com/share/pin-6721)
 
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6723?format=jpg)](https://design.withfudge.com/share/pin-6723)
+[![Dark account section with white display type, a phone image, and a supporting card grid](https://pin.fontofweb.com/6723?format=jpg)](https://design.withfudge.com/share/pin-6723)
 
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6723)
+[Dark account section with white display type, a phone image, and a supporting card grid](https://design.withfudge.com/share/pin-6723)
 
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6722?format=jpg)](https://design.withfudge.com/share/pin-6722)
+[![Customer testimonial in a large dark panel framed by white space](https://pin.fontofweb.com/6724?format=jpg)](https://design.withfudge.com/share/pin-6724)
 
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6722)
+[Customer testimonial in a large dark panel framed by white space](https://design.withfudge.com/share/pin-6724)
 
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6721?format=jpg)](https://design.withfudge.com/share/pin-6721)
+[![Near-black footer with an app-download callout, navigation columns, and legal copy](https://pin.fontofweb.com/6725?format=jpg)](https://design.withfudge.com/share/pin-6725)
 
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6721)
-
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6720?format=jpg)](https://design.withfudge.com/share/pin-6720)
-
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6720)
-
-[![Inclusive global banking designed just for you.](https://pin.fontofweb.com/6719?format=jpg)](https://design.withfudge.com/share/pin-6719)
-
-[Inclusive global banking designed just for you.](https://design.withfudge.com/share/pin-6719)
+[Near-black footer with an app-download callout, navigation columns, and legal copy](https://design.withfudge.com/share/pin-6725)
 
 ## Overview
 
-grey.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1a1a`, and `#0000ee`, with typography led by **Aeonik**. The guide below names reusable design roles only where the captured evidence supports them.
+Grey's website presents banking as an international lifestyle product rather than a conventional financial dashboard. Large portraits and product-in-hand photography establish the human context first; the interface then explains the service with oversized, tightly set headings and short blocks of supporting copy.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The page changes visual mode as the story progresses. The hero uses a cool blue photographic field, the product sections move through mint, peach, and lavender panels, and the lower page shifts into deep navy and near-black. Electric blue is the consistent action color across those modes. This alternation gives a long page rhythm without relying on dense separators or ornamental UI.
 
-## Design tokens
+The qualities to preserve are:
 
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.text | `#1a1a1a` | text on page content |
-| color.text | `#0000ee` | text on page content |
-| color.text | `#ffffff` | text on page content |
-| color.text | `#171717` | text on page content |
-| color.surface | `#010307` | surface on page content |
-| color.border | `#232323` | border on page content |
-| color.text | `#1b1f28` | text on page content |
-| color.surface | `#f0f8e5` | surface on page content |
-| color.surface | `#fff2e7` | surface on page content |
-| color.text | `#c2c7cf` | text on page content |
-| color.text | `#363f52` | text on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Aeonik** | 16px | 400 | 24px | normal | <div>, <button> in the button, and <a> |
-| type.body-14px | **Aeonik** | 14px | 500 | 20px | normal | <div>, <a>, <a> in the header, <div> in the header, and <a> in the nav |
-| type.body-16px | **Aeonik** | 16px | 500 | 24px | normal | <div> |
-| type.display-40px | **Aeonik** | 40px | 400 | 48px | normal | <div> |
-| type.display-49.6px | **Aeonik** | 49.6px | 700 | 49.6px | -1px | <h3> |
-| type.display-73.6px | **Aeonik** | 73.6px | 700 | 73.6px | -1.472px | <h1> |
-| type.body-14px | **Aeonik** | 14px | 500 | 24px | normal | <p> |
-| type.body-20px | **Aeonik** | 20px | 400 | 32px | -0.15px | <div> |
-| type.display-64px | **Aeonik** | 64px | 700 | 64px | -1px | <h2> |
-| type.body-16px | **Aeonik** | 16px | 400 | 16px | 2px | <div> |
-| type.body-28px | **Aeonik** | 28px | 500 | 28px | -0.5px | <h3> |
-| type.display-49px | **Aeonik** | 49px | 700 | 49px | normal | <h2> |
-| type.body-17.6px | **Aeonik** | 17.6px | 400 | 28px | normal | <div> |
-| type.body-17.6px | **Aeonik** | 17.6px | 400 | 24px | normal | <div> |
-| type.body-18px | **Aeonik** | 18px | 400 | 24px | normal | <div> |
-| type.heading-14px | **Aeonik** | 14px | 700 | 24px | normal | <strong> |
-| type.body-14px | **Aeonik** | 14px | 400 | 24px | normal | <div> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 80px` | padding | page content |
-| `0px 32px 0px 0px` | margin | page content |
-| `0px 51.6px 206.4px` | padding | page content |
-| `264.4px 0px 0px` | padding | page content |
-| `0px 51.6px` | margin | page content |
-| `42px 51.6px 84px` | padding | page content |
-| `20px 0px 10px` | margin | page content |
-| `39.68px 0px 10px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 20px`, `0px none 16px 16px 0px 0px`, `0px none 12px`, `1px 0px 0px dashed none none 0px`, `0px none 22px`, `0px none 8px`, `1px solid 8px`, and `1px solid 8px` border treatments. Recorded gradients include `linear-gradient(151deg, rgba(0, 14, 66, 0.6) 4%, rgba(255, 255, 255, 0) 80%)`, `linear-gradient(rgba(27, 31, 40, 0) 22%, rgba(27, 31, 40, 0.9) 43%, rgb(27, 31, 40) 52%)`, `linear-gradient(140deg, rgb(240, 248, 229) 38%, rgb(226, 250, 192) 92%)`, `linear-gradient(130deg, rgb(255, 242, 231) 10%, rgb(244, 216, 193) 74%)`, and `linear-gradient(153deg, rgb(245, 209, 180), rgb(254, 242, 231) 48%, rgb(246, 250, 255) 56%)`. Recorded shadows include `rgba(49, 112, 237, 0.18) 0px 4px 8px 0px, rgb(31, 91, 209) 0px -1px 8px 0px inset` and `rgba(0, 14, 66, 0.04) 4px 0px 42px 0px`.
+- People-first photography with the product visible in use.
+- Large Aeonik headlines with compact leading and slightly negative tracking.
+- A single electric-blue action color across light, photographic, and dark sections.
+- Generous, rounded product panels with one dominant message per panel.
+- Strong changes in surface color to separate chapters of the page.
+- Spacious layouts with restrained copy and prominent visual anchors.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#010307`, and `#f0f8e5`. Text colors include `#1a1a1a`, `#0000ee`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+### Core interface colors
+
+| token | value | role |
+|---|---|---|
+| `action` | `#2467E3` | Primary buttons, directional links, and small product accents |
+| `ink` | `#1A1A1A` | Main text on light and pastel surfaces |
+| `ink-soft` | `#363F52` | Supporting copy on light product panels |
+| `canvas` | `#FFFFFF` | Page canvas and framing space between major panels |
+| `surface-dark` | `#1B1F28` | Dark product storytelling sections and testimonial surfaces |
+| `surface-deep` | `#010307` | Footer canvas |
+| `on-dark` | `#FFFFFF` | Display text on photography and dark surfaces |
+| `on-dark-soft` | `#D1D6E1` | Supporting text on dark surfaces |
+
+### Product and supporting colors
+
+| token | value | role |
+|---|---|---|
+| `surface-mint` | `#F0F8E5` | Virtual-card product panel base |
+| `surface-peach` | `#FFF2E7` | Money-transfer product panel base |
+| `category` | `#5E19B3` | Uppercase product-category labels |
+| `footer-heading` | `#EBECF0` | Footer call-to-action heading |
+| `footer-body` | `#C2C7CF` | Footer supporting copy |
+| `footer-muted` | `#939AAA` | Secondary footer links and metadata |
+
+Grey's pastel product panels use subtle gradients inside the same color family:
+
+- Mint: `linear-gradient(140deg, rgb(240, 248, 229) 38%, rgb(226, 250, 192) 92%)`
+- Peach: `linear-gradient(130deg, rgb(255, 242, 231) 10%, rgb(244, 216, 193) 74%)`
+- Dark image transition: `linear-gradient(rgba(27, 31, 40, 0) 22%, rgba(27, 31, 40, 0.9) 43%, rgb(27, 31, 40) 52%)`
 
 ## Typography
 
-The captured type system uses **Aeonik**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Grey uses **Aeonik** throughout the homepage in Regular, Medium, and Bold weights. The font is credited to Cotype Foundry. Licensing for reuse should be confirmed separately.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Aeonik | 4.625rem | 700 | 1 | -0.02em | Homepage hero |
+| `section-display` | Aeonik | 4rem | 700 | 1 | -0.016em | Dark product-section lead |
+| `feature-display` | Aeonik | 3.125rem | 700 | 1 | -0.02em | Pastel feature-panel headings |
+| `footer-display` | Aeonik | 3rem | 700 | 1 | 0 | App-download callout |
+| `testimonial` | Aeonik | 2.5rem | 400 | 1.2 | 0 | Customer quotation |
+| `card-heading` | Aeonik | 1.75rem | 500 | 1 | -0.018em | Dark feature cards |
+| `lead` | Aeonik | 1.25rem | 400 | 1.6 | -0.0075em | Product-panel supporting copy |
+| `hero-supporting` | Aeonik | 1.125rem | 400 | 1.6 | 0 | Hero supporting copy |
+| `body` | Aeonik | 1rem | 400 | 1.5 | 0 | General explanatory text |
+| `body-medium` | Aeonik | 1rem | 500 | 1.5 | 0 | Buttons and emphasized body copy |
+| `category-label` | Aeonik | 1rem | 400 | 1 | 0.125em | Uppercase product labels |
+| `navigation` | Aeonik | 0.875rem | 500 | 1.43 | 0 | Header navigation |
+| `footer-copy` | Aeonik | 0.875rem | 500 | 1.71 | 0 | Footer links and supporting copy |
+
+The hierarchy depends more on scale, weight, and compact leading than on multiple font families. Display copy is bold and nearly solid-set. Supporting copy opens up to a 1.5-1.6 line-height ratio. Category labels provide contrast through uppercase lettering and `0.125em` tracking rather than heavier weight.
 
 ## Layout
 
-The captured pages use values such as `0px 80px`, `0px 32px 0px 0px`, `0px 51.6px 206.4px`, `264.4px 0px 0px`, and `0px 51.6px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+### Hero
+
+The homepage opens as a single photographic stage. Navigation sits across the top of the image, while the message occupies the left half and a seated portrait anchors the right. The copy remains compact: one large heading, two short supporting lines, and one primary action. The photograph supplies both the background and the color atmosphere, so additional decoration is unnecessary.
+
+### Product panels
+
+The middle of the page uses two related layouts:
+
+- A split composition with portrait photography on one side and a pastel product panel on the other.
+- A wide pastel panel with copy on the left and a hand-held phone or product illustration on the right.
+
+Feature panels use a `1.25rem` corner radius and a generous `4.5rem` desktop inset.
+
+### Dark product stage
+
+The page then shifts to `surface-dark`. A large text-and-product composition introduces the account, followed by a row of dark cards. Surface continuity replaces borders: cards are separated by spacing and subtle changes in imagery rather than bright outlines. A `7.5rem` vertical inset supports the large display hierarchy.
+
+### Testimonial and footer
+
+The testimonial is a large dark shape framed by white canvas. A portrait sits opposite a `2.5rem` quotation, with attribution kept small and quiet. Oversized curved cut-outs soften the otherwise rectangular panel.
+
+The footer begins with a centered app-download message, then expands into a multi-column link directory and a legal block. It uses the deepest surface on the page and lowers typographic contrast as information becomes less prominent.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#010307`, `#f0f8e5`, and `#fff2e7`. Depth is supported by the returned gradients and shadows.
+Grey combines four image modes:
 
-## Components and states
+- Editorial portraits that make the audience visible in the brand.
+- Product-in-hand photography that connects the app to daily use.
+- Phone cut-outs and floating service icons that explain capability quickly.
+- Dark product-interface cards that introduce a more technical, controlled mood.
 
-The captured pages include repeated styling on <div>, <p>, <a>, <h2>, <button>, <h3>, <h1>, and <strong> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Color and composition do most of the decorative work. The pastel panels use gentle single-family gradients; the dark sections use photographic fades into `surface-dark`. Shadows are rare. The primary action has a compact blue outer-and-inset shadow, while most cards remain flat.
+
+Shape is used at two scales. Product panels repeat moderate `1.25rem` corners, while major section transitions use very large curves and cut-outs. Avoid adding small rounded containers around every piece of content; the larger panels should remain the main structural shapes.
+
+## Components
+
+### Header
+
+- **Anatomy:** White Grey mark, language selector, three central navigation groups, login link, outlined acquisition action.
+- **Typography:** `navigation`.
+- **Treatment:** Transparent over photography. The acquisition action uses a `2px` light border and `0.5rem` corners.
+- **Composition:** Preserve the wide horizontal breathing room and keep header elements visually subordinate to the hero statement.
+
+### Primary action
+
+- **Fill:** `action`.
+- **Text:** `on-dark` using `body-medium`.
+- **Shape:** `0.5rem` radius with a compact `1rem` inset.
+- **Depth:** `rgba(49, 112, 237, 0.18) 0 0.25rem 0.5rem, rgb(31, 91, 209) 0 -0.0625rem 0.5rem inset`.
+- **Usage:** Use one primary action per major panel and keep `action` as its accent color.
+
+### Feature panel
+
+- **Anatomy:** Uppercase category label, large heading, one short paragraph, directional text link, product or lifestyle image.
+- **Typography:** `category-label`, `feature-display`, `lead`, then a `1rem`-`1.125rem` action line.
+- **Shape:** `1.25rem` panel radius; small floating items may use `1.375rem` corners or circular crops.
+- **Variants:** Mint, peach, and lavender modes.
+- **Composition:** Keep the text grouped on one side and give the product or lifestyle image the remaining visual weight.
+
+### Dark product stage
+
+- **Anatomy:** Large white statement, short explanation, blue action, phone image, supporting card grid.
+- **Surface:** `surface-dark` with `on-dark` and `on-dark-soft` text.
+- **Typography:** `section-display` for the lead and `card-heading` for the supporting cards.
+- **Composition:** Let imagery overlap the stage boundary, but keep text inside a stable left-aligned column.
+
+### Testimonial
+
+- **Anatomy:** Portrait, large quotation, customer name and role, circular previous/next controls.
+- **Typography:** `testimonial` for the quote; smaller body styles for attribution.
+- **Surface:** `surface-dark` within a white frame.
+- **Composition:** Keep the quotation prominent and the carousel controls outside its reading path.
+
+### Footer
+
+- **Anatomy:** App-download heading and badges, link columns, contact and social links, regulatory copy, Grey mark.
+- **Surface:** `surface-deep`.
+- **Typography:** `footer-display` and `footer-copy`.
+- **Hierarchy:** App-download message first, navigation second, legal copy last.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On smaller screens, preserve the narrative order: message, action, product image, then supporting details. Navigation collapse, portrait crops, panel stacking, type scaling, spacing changes, and footer columns require dedicated mobile specifications.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Build the typographic hierarchy first; the display scale is the clearest part of Grey's identity.
+- Keep `action` as the only persistent interaction color.
+- Alternate photographic, pastel, and dark modes to maintain the page's chapter-like rhythm.
+- Use photography to show both people and the product, not as generic background decoration.
+- Reserve the largest curves for sections and the `1.25rem` radius for product panels.
+
+### Avoid
+
+- Avoid one-off fractional spacing values; use the spacing tokens defined above.
+- Keep `action` as the interaction blue throughout the system.
+- Do not add shadows to every card; the system is mostly flat.
+- Do not wrap every text block in a small rounded card.
+- Do not add unverified mobile breakpoints, interaction states, or animation rules.
+
+### Recommended build order
+
+1. Establish Aeonik roles and the light/dark text pairs.
+2. Build the shared header and primary action.
+3. Recreate the hero's two-column photographic composition.
+4. Build one reusable feature-panel structure with color and image-position variants.
+5. Add the dark product stage and its supporting card grid.
+6. Add the testimonial and footer.
+7. Validate responsive behavior and interactive states against dedicated mobile and interaction specifications.
+
+### Accessibility
+
+- Retain a strong overlay wherever white copy sits on photography, and verify contrast against the final image crop.
+- Give directional text links a non-color cue, such as Grey's paired arrow treatment.
+- Provide useful alternative text for portraits and product-in-hand imagery.
+- Keep visible keyboard focus styles on every interactive control.
+- Preserve readable line lengths in the hero, testimonial, and legal copy when the layout narrows.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
+This guide covers Grey's desktop homepage: the hero, product sections, dark account section, testimonial, and footer. Type and spacing values use relative units rounded to a consistent `0.125rem` step. Mobile layouts, breakpoint values, exact container widths, interaction states, motion, the complete fallback font stack, and font licensing are not included.
 
 ## Colors
 
-- `#000000`
+- `#2467e3`
 - `#1a1a1a`
-- `#0000ee`
+- `#363f52`
 - `#ffffff`
-- `#171717`
-- `#010307`
-- `#232323`
 - `#1b1f28`
+- `#010307`
+- `#ffffff`
+- `#d1d6e1`
 - `#f0f8e5`
 - `#fff2e7`
-- `#c2c7cf`
-- `#363f52`
-- `#939aaa`
-- `#d1d6e1`
 - `#5e19b3`
-- `#f0f2f5`
+- `#ebecf0`
+- `#c2c7cf`
+- `#939aaa`
 
-## Typography captured from grey.co
+## Typography used on grey.co
 
 - **Aeonik** — weight 500 · size 14px
