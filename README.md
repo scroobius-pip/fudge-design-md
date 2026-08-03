@@ -923,7 +923,7 @@ Catala’s visual system reads like an academic paper that has been turned into 
 
 [![How cavalry.scenegroup.co is designed](https://pin.fontofweb.com/7158?format=jpg)](design-md/cavalry.scenegroup.co.md)
 
-cavalry.scenegroup.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#6437ff`, with typography led by **Merriweather Sans**, **Applesystem**, and **Public Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Cavalry’s pages are built like motion-design posters translated into web layout. The system prefers a small set of loud ingredients: black or charcoal fields, white type, one saturated purple, one neon green, thin rules, and clean pill buttons. The page does not rely on softness or ornamental texture. Instead, it uses hard edges, strong contrast, and large type to make each section feel like a separate chapter.
 
 [Open guide](design-md/cavalry.scenegroup.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/cavalry.scenegroup.co-design)
 
