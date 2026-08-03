@@ -467,7 +467,7 @@ Subframe's UI is a clean white operating surface with a narrow dark accent and a
 
 [![How app.superdesign.dev is designed](https://pin.fontofweb.com/6128?format=jpg)](design-md/app.superdesign.dev.md)
 
-app.superdesign.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#b8b8b8`, and `#a1a1aa`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Superdesign is a dark workshop interface for building pages from prompts, templates, and imported references. The home screen is spare and centered: a small top bar, a concise headline, a large prompt composer, then a row of recent-project cards. The launch screen shifts into a split workspace, with a dense control column on the left and a bright preview stage on the right. That contrast is the brand: operational chrome in near-black grays, then a theatrical generated result that can turn stark, loud, and poster-like.
 
 [Open guide](design-md/app.superdesign.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.superdesign.dev-design)
 
