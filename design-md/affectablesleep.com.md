@@ -6,153 +6,150 @@ Last updated: 2026-08-03
 
 ## Captured pages
 
-[![The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://pin.fontofweb.com/6890?format=jpg)](https://design.withfudge.com/share/pin-6890)
+[![Dark full-bleed hero with a smiling model, small top nav, and a yellow reserve button](https://pin.fontofweb.com/6889?format=jpg)](https://design.withfudge.com/share/pin-6889)
 
-[The Affectable™ Sleep headband with Ultrasleep™ | Reserve Yours Today](https://design.withfudge.com/share/pin-6890)
+[Dark full-bleed hero with a smiling model, small top nav, and a yellow reserve button](https://design.withfudge.com/share/pin-6889)
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6889?format=jpg)](https://design.withfudge.com/share/pin-6889)
+[![Teal hero crop with the same model, oversized bottom-left headline, and a low yellow CTA](https://pin.fontofweb.com/6887?format=jpg)](https://design.withfudge.com/share/pin-6887)
 
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6889)
+[Teal hero crop with the same model, oversized bottom-left headline, and a low yellow CTA](https://design.withfudge.com/share/pin-6887)
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6888?format=jpg)](https://design.withfudge.com/share/pin-6888)
+[![Warm purchase page with stacked price cards, thumbnail grid, and a bright checkout pill](https://pin.fontofweb.com/6890?format=jpg)](https://design.withfudge.com/share/pin-6890)
 
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6888)
+[Warm purchase page with stacked price cards, thumbnail grid, and a bright checkout pill](https://design.withfudge.com/share/pin-6890)
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6887?format=jpg)](https://design.withfudge.com/share/pin-6887)
+[![Pale explainer page with a floating headband ring and thin left-aligned headline copy](https://pin.fontofweb.com/6886?format=jpg)](https://design.withfudge.com/share/pin-6886)
 
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6887)
+[Pale explainer page with a floating headband ring and thin left-aligned headline copy](https://design.withfudge.com/share/pin-6886)
 
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6886?format=jpg)](https://design.withfudge.com/share/pin-6886)
+[![Icy blog landing page with a centered masthead and three editorial cards below](https://pin.fontofweb.com/3360?format=jpg)](https://design.withfudge.com/share/pin-3360)
 
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6886)
-
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6885?format=jpg)](https://design.withfudge.com/share/pin-6885)
-
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6885)
-
-[![Unlock Sleep's Hidden Power with UltraSleep™](https://pin.fontofweb.com/6884?format=jpg)](https://design.withfudge.com/share/pin-6884)
-
-[Unlock Sleep's Hidden Power with UltraSleep™](https://design.withfudge.com/share/pin-6884)
-
-[![Blog](https://pin.fontofweb.com/3360?format=jpg)](https://design.withfudge.com/share/pin-3360)
-
-[Blog](https://design.withfudge.com/share/pin-3360)
+[Icy blog landing page with a centered masthead and three editorial cards below](https://design.withfudge.com/share/pin-3360)
 
 ## Overview
 
-affectablesleep.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1c1b1a`, and `#ffffff`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Affectable Sleep presents itself as a quiet premium hardware brand, not a busy ecommerce catalog. The page language is restrained, but the visual system is not plain: a deep teal stage, warm off-white backgrounds, pale cream panels, and a vivid yellow button give the site a clear rhythm. The photography carries most of the mood. Portraits place the headband in a lived-in setting, while product detail pages pull the device into a cleaner studio-like field. Across the site, the type stays light and compact, so the hardware and the color blocks do the expressive work.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.text | `#1c1b1a` | text on page content |
-| color.surface | `#ffffff` | surface on page content |
-| color.surface | `#38677c` | surface on page content |
-| color.surface | `#dddddd` | surface on page content in the header |
-| color.surface | `#f9f9f1` | surface on page content |
-| color.border | `#e9e9e9` | border on page content |
-| color.text | `#fdfcf3` | text on page content |
-| color.surface | `#ffee58` | surface on page content |
-| color.surface | `#a9a9a9` | surface on page content |
-| color.text | `#222222` | text on page content in the button |
-| color.text | `#1a1a1a` | text on page content in the header |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-19.2px | **Inter** | 19.2px | 400 | 32.64px | normal | <div>, <div> in the header, <div> in the button, and <a> in the header |
-| type.display-74px | **Inter** | 74px | 300 | 66.6px | -4.44px | <h1> |
-| type.body-16px | **Inter** | 16px | 300 | 24px | -0.16px | <div> |
-| type.body-16px | **Inter** | 16px | 400 | 24px | -0.16px | <p> and <div> |
-| type.display-32px | **Inter** | 32px | 300 | 38.4px | -1.28px | <div> |
-| type.display-84px | **Inter** | 84px | 300 | 75.6px | -3.36px | <div> |
-| type.body-16px | **Inter** | 16px | 400 | 25.6px | -0.16px | <span> and <p> |
-| type.display-40px | **Inter** | 40px | 300 | 36px | -2px | <div> |
-| type.display-48px | **Inter** | 48px | 300 | 72px | -2.88px | <div> |
-| type.body-24px | **Inter** | 24px | 300 | 36px | -0.72px | <h1> and <div> |
-| type.body-19.2px | **Inter** | 19.2px | 400 | 33.6px | normal | <div> and <a> |
-| type.body-18px | **Inter** | 18px | 400 | 21.6px | -0.36px | <div> |
-| type.body-20px | **Inter** | 20px | 400 | 18px | -0.4px | <a> |
-| type.display-48px | **Inter** | 48px | 300 | 43.2px | -3.84px | <div> |
-| type.body-14px | **Inter** | 14px | 400 | 12.6px | 0.14px | <div> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `50px` | padding | page content |
-| `0px 40px` | padding | page content |
-| `146px 40px` | padding | page content |
-| `32px 15px 35px 32px` | padding | page content |
-| `100px 100px 40px` | padding | page content |
-| `168px 40px 100px` | padding | page content |
-| `74px 40px 224px` | padding | page content |
-| `0px 368px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 10px`, `0px none 10px`, `0px none 16px`, `1px solid 10px`, `1px solid 100px`, `0px none 160px`, `1px solid 16px`, and `0px none 900px` border treatments. Recorded gradients include `linear-gradient(rgba(255, 255, 255, 0) 39%, rgba(0, 0, 0, 0.5))` and `linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0) 24%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 121px 34px 0px, rgba(0, 0, 0, 0.03) 0px 78px 31px 0px, rgba(0, 0, 0, 0.1) 0px 44px 26px 0px, rgba(0, 0, 0, 0.17) 0px 19px 19px 0px, rgba(0, 0, 0, 0.2) 0px 5px 11px 0px`.
+The brand feels careful and measured. Dark sections slow the page down and make the white copy feel deliberate. Light sections open the page up and let the purchase details breathe. The same yellow action color repeats everywhere, so the user always knows where the next step lives. That consistency matters here more than ornament: the site is built to make a new device feel understandable, calm, and ready to buy.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#ffffff`, and `#38677c`. Text colors include `#1c1b1a`, `#fdfcf3`, and `#222222`. Keep image-derived colors separate from interface colors.
+The palette is narrow and functional. `canvas` is a warm off-white that keeps the whole site from turning sterile. `surface` and `surface-quiet` support cards and secondary blocks without introducing a new hue every time the layout changes. `surface-dark` is the main storytelling color: a low-saturation teal that gives the hero its depth and makes white type feel crisp. `ink` is almost black rather than pure black, which keeps the light pages from feeling harsh. `muted-ink` and `on-dark-muted` soften supporting text and small labels without dropping contrast too far. `border` is a quiet neutral line used around cards, image tiles, and purchase modules.
+
+`action` is the brand’s visual signal. The yellow reads as both promotion and confirmation, which suits a pre-order flow: it is bright enough to land on dark teal, but soft enough to sit on the pale purchase canvas without shouting. The hero uses it as a button chip, the purchase page uses it as the checkout button, and the blog and explainer pages keep it in reserve so it still feels special. That restraint is the important rule: one strong action color, repeated consistently, with everything else pushed toward cream, teal, gray, or near-black.
+
+The light and dark modes are related rather than separate themes. The page does not switch to a different brand in dark sections; it simply inverts the contrast. On dark teal, copy turns white and the yellow action stays in place. On the lighter pages, the body copy returns to dark ink and the cards keep their edges soft. The palette therefore supports a single product story across home, product detail, and content pages.
 
 ## Typography
 
-The captured type system uses **Inter**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Inter is the only visible family in the packet, and it sets the entire tone. The weight range is narrow: light display sizes for headlines, regular weight for body copy, and only modest emphasis for labels and buttons. That keeps the site from feeling like a typical conversion page with aggressive headlines and heavy CTA copy. Instead, the hierarchy comes from scale and spacing.
+
+Licensing should be confirmed separately.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Inter | 5.25rem | 300 | 0.9 | -0.05em | Full-bleed hero headline |
+| section-display | Inter | 4.625rem | 300 | 0.92 | -0.045em | Large feature statements and product stories |
+| feature-display | Inter | 3rem | 300 | 0.95 | -0.04em | Mid-page explainer headings |
+| card-title | Inter | 2rem | 300 | 1.05 | -0.03em | Purchase-card titles and section captions |
+| body | Inter | 1.2rem | 400 | 1.7 | 0em | Supporting paragraphs and purchase explanations |
+| body-compact | Inter | 1rem | 400 | 1.6 | -0.01em | Small notes, card copy, and utility text |
+| button | Inter | 1.125rem | 400 | 1.4 | 0em | Reserve, checkout, and other primary actions |
+| nav | Inter | 1.125rem | 400 | 1.5 | 0em | Top navigation |
+| legal | Inter | 0.875rem | 400 | 1.5 | 0em | Footer and policy text |
+
+The leading is generous in paragraphs and tighter in headings. That combination keeps the headlines elegant while still allowing the explanatory copy to read like product detail rather than slogan text. The display sizes are light enough that negative tracking can stay subtle; the letters sit close, but not compressed. That is especially important in the dark hero, where the white headline stretches across a large area and needs to feel airy rather than bolded into a billboard. The purchase page also depends on this balance: price cards can show a 2rem title with calm line spacing, while the smaller notes below remain readable and unhurried.
 
 ## Layout
 
-The captured pages use values such as `50px`, `0px 40px`, `146px 40px`, `32px 15px 35px 32px`, and `100px 100px 40px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The site uses a clear chapter structure. The hero is full-bleed and centered around one emotional image: a smiling model against a deep teal field, with a tiny top nav and a yellow CTA anchored low in the frame. The composition gives the device a lifestyle context before any feature list appears. A second hero treatment shifts the same language into a slightly different crop, but keeps the same ingredients: dark field, white type, and a bright action chip.
+
+The product-explainer pages move into pale space. Here the layout becomes more diagrammatic: a floating ring-like device image sits over an icy background, with a short heading and compact supporting text aligned to one side. The page uses white space as structure rather than as emptiness. The device itself becomes the main shape, so the type only needs to explain, not compete. That approach makes the hardware look thin, lightweight, and precise.
+
+The purchase page is the most transactional layout in the set. It uses a two-column arrangement: large product photography and thumbnail tiles on the left, stacked price and plan cards on the right, and a strong checkout button below. The cards are pale, bordered, and spacious enough to separate the device price from the subscription price. A small currency selector sits above the pricing stack, which keeps the transaction details close to the decision point. The thumbnail grid below the main image gives the page a catalog-like control, but the grid stays clean because each tile is square-ish, low decoration, and visually aligned.
+
+The blog page keeps the same brand family but lowers the contrast. Its masthead is centered on a pale blue-green wash, and the content below becomes a three-up editorial grid with image cards and tall headings. The cards are left aligned and easy to scan, which helps the content feel calmer than a classic news feed. The whole page stays roomy, with content columns left intentionally wide so the typography can remain light.
+
+Across these layouts, spacing is doing almost as much work as color. Large top margins create the feeling of pause. Small inner gaps keep the purchase cards orderly. The hero can afford more negative space because the model and the headline already carry the story. The product and blog pages need repeated card rhythm to keep the eye moving without visual clutter.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#ffffff`, `#38677c`, and `#dddddd`. Depth is supported by the returned gradients and shadows.
+Affectable Sleep’s visual language is built from contrast between softness and precision. The softness comes from the photography, rounded corners, and pale backgrounds. The precision comes from the thin product silhouette, the tidy card hierarchy, and the small, exact action button. Nothing looks overly engineered, but nothing is mushy either. The site wants the device to feel gentle on the body and exact in its function.
 
-## Components and states
+The photography usually shows a human face or torso with the headband clearly visible. That matters: the product is not hidden inside an abstract hero. The brand repeatedly places the device against skin, hair, and bedding, which makes the hardware feel wearable rather than technical. In the product-detail views, the device becomes almost sculptural. The circular or arcing shape dominates the frame, while the text steps back and explains.
 
-The captured pages include repeated styling on <div>, <h1>, <span>, <p>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The cards are quiet. Their borders are light, their backgrounds are nearly flat, and their corners are modestly rounded. That keeps attention on the content hierarchy instead of on container styling. The only object that breaks the quiet is the yellow CTA, which behaves like a signal light. Because it repeats in the same color and with the same pill shape, it reads as the system’s main interactive marker.
+
+## Components
+
+### Hero stage
+
+The hero is a dark teal stage with a portrait image, a very large headline, a small top navigation, and a yellow call-to-action. The headline sits low and left in one crop, then more centered in another, but the structure stays the same: image first, action second, navigation third. The stage should feel roomy. The type should not crowd the model, and the CTA should stay isolated enough to feel like a deliberate next step rather than a competing label.
+
+### Product explainer
+
+The explainer section uses a pale background, a large device render, and a short supporting block of copy. The device is the dominant form; the text is only there to frame it. The section works because the layout treats the hardware like a hero object and uses thin rules and compact paragraphs to support it. Any implementation should keep the spacing generous so the device can remain the visual anchor.
+
+### Purchase cards
+
+The purchase page uses stacked cards with titles, a price area, supporting notes, and a final checkout action. Each card is bordered and softly rounded, which makes the pricing stack feel organized without feeling boxed in. The top card presents the device itself; the second card presents the subscription; the notes below explain availability and timing. The title style should stay light and clear. The price should remain large enough to read instantly, but not so heavy that it turns the page into a sales poster.
+
+### Thumbnail grid
+
+The thumbnails under the main purchase image form a compact preview system. They are small, evenly spaced, and visually quiet, which lets the larger product photo stay in charge. The tiles should keep the same rounded language as the cards, but with less visual weight. A border is useful here because it makes the grid legible against the warm page background.
+
+### Blog cards
+
+The blog section uses editorial cards with image tops and large left-aligned titles. The cards are not dense; they breathe. Their job is to invite reading, not to compress article metadata into a list. Because the heading size is large relative to the thumbnails, the content feels considered and humane rather than newsroom-like. The cards should keep that balance: strong images, tall titles, and restrained supporting text.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the layout should preserve the order of attention: product image first, headline second, action third, supporting details last. The hero image can crop more tightly, but the yellow CTA should remain easy to reach and not buried below heavy copy. The purchase page should collapse into a single column with the main image above the pricing cards, while keeping the checkout button visible near the decision point. Thumbnail rows can wrap into a compact grid, but they should not become dense strips.
+
+The blog cards should also stack cleanly. The key is to retain the calm spacing and the light typographic weight even when columns collapse. The brand can tolerate less horizontal room; it cannot tolerate heavier text or crowded card edges. A mobile implementation should keep the same warm canvas, pale cards, and yellow action marker so the system still feels like one site.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+Keep the yellow action color consistent across the site. It is the clearest single brand signal.
+
+Preserve the contrast between the dark teal hero and the pale product/purchase surfaces. That contrast carries the page story.
+
+Keep Inter light in the display sizes. The brand relies on restraint, not weight.
+
+Retain generous spacing around the purchase cards and the blog cards. The page feels premium because the content is allowed to breathe.
+
+### Avoid
+
+Avoid adding a second bright accent color. It would weaken the yellow button’s role.
+
+Avoid heavy shadows, chrome-like gradients, or glossy UI treatments. The system is matte and quiet.
+
+Avoid turning the product explainer into a dense feature list. The device image should stay in charge.
+
+Avoid making the purchase page look like a generic checkout funnel. It should remain product-led and calm.
+
+### Recommended build order
+
+Start with the dark hero stage and its yellow CTA. That establishes the strongest brand cue.
+
+Next, build the pale explainer layout so the device rendering and thin copy system are in place.
+
+Then implement the purchase cards, thumbnail grid, and checkout button as a single commerce module.
+
+Finish with the blog cards and the quieter editorial masthead so the content pages inherit the same visual language.
+
+### Accessibility
+
+Keep the yellow action button legible against both teal and cream surfaces.
+
+Use strong text contrast on the dark hero and keep supporting copy readable on the pale cards.
+
+Make sure the thumbnail grid and card surfaces have visible focus styles.
+
+Preserve useful alt text for the model, the headband, and the product render so the hardware story still reads without the image.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#1c1b1a`
-- `#ffffff`
-- `#38677c`
-- `#dddddd`
-- `#f9f9f1`
-- `#e9e9e9`
-- `#fdfcf3`
-- `#ffee58`
-- `#a9a9a9`
-- `#222222`
-- `#1a1a1a`
-
-## Typography captured from affectablesleep.com
-
-- **Inter** — weight 400 · size 19.2px
+This guide covers the home hero, the product explainer, the purchase page, and the blog landing page shown in the supplied packet. Mobile breakpoints, hover and focus behavior, motion, exact component states, and any unshown footer or checkout edge cases are not included here.

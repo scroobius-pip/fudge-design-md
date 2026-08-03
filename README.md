@@ -177,9 +177,9 @@ aeon.co presents a predominantly dark surface treatment in the captured pages. T
 
 ### affectablesleep.com
 
-[![How affectablesleep.com is designed](https://pin.fontofweb.com/6890?format=jpg)](design-md/affectablesleep.com.md)
+[![How affectablesleep.com is designed](https://pin.fontofweb.com/6889?format=jpg)](design-md/affectablesleep.com.md)
 
-affectablesleep.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1c1b1a`, and `#ffffff`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Affectable Sleep presents itself as a quiet premium hardware brand, not a busy ecommerce catalog. The page language is restrained, but the visual system is not plain: a deep teal stage, warm off-white backgrounds, pale cream panels, and a vivid yellow button give the site a clear rhythm. The photography carries most of the mood. Portraits place the headband in a lived-in setting, while product detail pages pull the device into a cleaner studio-like field. Across the site, the type stays light and compact, so the hardware and the color blocks do the expressive work.
 
 [Open guide](design-md/affectablesleep.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/affectablesleep.com-design)
 
