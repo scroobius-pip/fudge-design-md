@@ -2,96 +2,95 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/bud.app-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Bud feels like a **warm productivity studio**: off-white / paper canvas, near-black type, soft gold/amber accent (`#b8860b`), and large rounded product cards. The marketing voice is confident and human (“Your AI Worker”), while the UI chrome stays minimal so **product screenshots and pricing tables** carry the story.
-
-What should survive adaptation:
-- Warm neutral canvas (not pure cold gray SaaS)
-- Black primary text with a **single metallic gold accent**
-- Large **~20–24px rounded** surfaces for cards and media frames
-- Screenshot-led storytelling and clear pricing comparison
-
-## Foundations
-
-### Color
-Measured roles:
-- **Text primary**: `#000000`
-- **Accent**: `#b8860b` (dark goldenrod) — links, highlights, key UI accents
-Visually: warm off-white page background, white elevated cards, soft gray borders, black buttons for primary CTAs. Keep accent rare; overuse turns the gold decorative.
-
-### Typography
-Family names were not declared in captures. Observed sizes/weights:
-- Body/UI cluster: **14–16px**, weights **400–600**, line-height ~1.5 (16/24, 14/20)
-- Subheads ~20px / 600
-- Display/pricing titles ~24px, weights up to **700**
-- Small meta ~10–13px
-Tracking is generally neutral; hierarchy is weight + size, not all-caps shouting.
-
-### Spacing and layout
-Recurring spacing: **4, 8, 12, 16, 24, 32, 40** px with larger section gaps (96–120+). Layout is a centered marketing column with:
-- Top nav + wordmark
-- Hero copy left / media right or stacked
-- Multi-column feature and pricing grids
-- Soft card separation rather than hard rules
-
-## Visual language
-- Radii mostly **20–24px** (pill-ish cards); avoid sharp rectangles
-- Borders: **1–2px solid** light neutral
-- Shadows: very subtle (`0 1px 2px`) or flat; elevation is mostly border + fill
-- Product UI mockups sit inside rounded frames on the warm canvas
-- No heavy gradients in the chrome
-
-## Components and states
-- **Primary button**: solid black, white label, rounded
-- **Text links / accents**: gold
-- **Pricing cards**: large rounded containers, clear plan hierarchy, numeric emphasis
-- **Nav**: sparse text links, minimal iconography
-- **Replay/detail views**: denser product chrome still on the same neutrals
-
-## Responsive behavior
-Captures share ~1712×1314 viewport across home, pricing, and a replay URL. True breakpoint behavior is not multi-width documented; keep fluid cards that stack.
-
-## Practical guidance
-**Preserve**
-- Warm paper background + black type + single gold accent
-- Large rounded card language
-- Screenshot-forward heroes
-- Medium-weight UI type (500–600) for controls
-
-**Avoid**
-- Cold blue SaaS defaults
-- Multiple competing accent hues
-- Harsh 0-radius panels
-- Tiny dense admin type on marketing surfaces
-
-## Scope note
-Pages studied: `/`, `/pricing` (two captures), and one replay detail. Color roles measured on pricing; type families undeclared.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — AI worker hero](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/share/pin-9131)
+[![Bud | The AI Agent With Its Own Computer](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/share/pin-9134)
 
-[Home — AI worker hero](https://design.withfudge.com/share/pin-9131)
+[Bud | The AI Agent With Its Own Computer](https://design.withfudge.com/share/pin-9134)
 
-[![Pricing — plans and comparison](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/share/pin-9133)
+[![Pricing - Bud](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/share/pin-9133)
 
-[Pricing — plans and comparison](https://design.withfudge.com/share/pin-9133)
+[Pricing - Bud](https://design.withfudge.com/share/pin-9133)
 
-[![Pricing — alternate capture](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/share/pin-9132)
+[![Pricing - Bud](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/share/pin-9132)
 
-[Pricing — alternate capture](https://design.withfudge.com/share/pin-9132)
+[Pricing - Bud](https://design.withfudge.com/share/pin-9132)
 
-[![Replay detail](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/share/pin-9134)
+[![Bud - Your AI Worker](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/share/pin-9131)
 
-[Replay detail](https://design.withfudge.com/share/pin-9134)
+[Bud - Your AI Worker](https://design.withfudge.com/share/pin-9131)
+
+## Design character
+
+bud.app has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 1 captured type family, 6 recurring colors, and 131 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 102 color rows, 88 typography rows, 96 spacing rows, 23 border rows, 5 gradient rows, and 7 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · unknown | 4269 |
+| `#ffffff` | box-shadow · button | 18 |
+| `#f7f7f7` | background-color · main | 5 |
+| `#525252` | color · unknown | 3 |
+| `#b8860b` | color · button | 2 |
+| `#f9b96c` | background-color · button | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Circular** | 16px · 500 · 24px | 4834 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 8px` for padding, `0px 0px 120px` for padding, `71px 24px 96px` for padding, `0px 172px` for margin, `8px` for padding, and `96px 40px 32px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 3.35544e+07px` (142), `2px solid 22px` (120), `1px solid 3.35544e+07px` (39), `0px none 21px` (28), `1px solid 21px` (12), and `2px solid 24px` (4). 5 gradient rows and 7 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **aside**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
-- `#b8860b`
-- `#f7f4ef`
 - `#ffffff`
-- `#e7e2d9`
+- `#f7f7f7`
+- `#525252`
+- `#b8860b`
+- `#f9b96c`
+
+## Typography captured from bud.app
+
+- **Circular** — weight 500 · size 16px

@@ -2,85 +2,89 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/blog.google-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-The Keyword (blog.google) is Google’s product/technology news surface: clean white canvas, approachable editorial type, soft card radii (~16px), and gentle elevation. It feels more magazine than docs—story cards, clear sectioning, and restrained Material-adjacent softness without heavy purple branding in the captured frames.
-
-What should survive adaptation:
-
-- **Editorial clarity** on white
-- **Soft cards** (16px radius, light multi-stop shadows)
-- **Readable multi-size type** from ~14px UI to ~36px story titles
-- **Airy padding** (~24–36px) inside content modules
-- **Story-first layout** over product chrome
-
-## Foundations
-
-### Color
-
-No structured role palette returned. Visually: white background, near-black text, Google’s familiar multi-color logo accents in chrome, soft gray surfaces for secondary regions. Do not invent a full Material color token set beyond what’s visible.
-
-### Typography
-
-- **Story titles**: ~36px / 44px weight 400
-- **Body / deck**: ~18px weight 300, ~26px lh — lighter weight for approachability
-- **Secondary**: 16px / 28px regular
-- **Nav / UI**: 14px medium with tall line-height in places
-
-The lighter 300 weight on 18px text is a distinctive “Google editorial” softness.
-
-### Spacing and layout
-
-- Module padding ~**36px** horizontal/bottom, **24px** top
-- **16px** and **8px** margins between stacked items
-- Negative horizontal margin (~−72px) appears in some full-bleed card breaks — cards can escape the text column slightly
-
-### Radii and shadows
-
-- Radius **16px** on key cards
-- Shadows layered: `0 1px 3px` plus `0 4px 8px 3px` — soft Material-like elevation
-
-## Visual language
-
-- Friendly, rounded, light
-- Photography and story art inside cards
-- Minimal harsh lines; elevation > hard borders in the observed home frames
-
-## Components and states
-
-- Top marketing/editorial nav
-- Featured story hero or large card
-- Story card grids
-- Category/label chips (visually quiet)
-- Footer utilities (not deeply captured)
-
-## Responsive behavior
-
-Two home captures at **1307** and **1440** wide, relatively short heights (partial viewports). System is desktop editorial; on smaller widths, cards should reflow to a single column while keeping 16px radii and the soft type weights.
-
-## Practical guidance
-
-**Preserve**: white editorial canvas, 16px card radius, soft dual shadows, 36px titles, light 18/300 decks.
-
-**Avoid**: dark mode default, sharp 2px industrial borders, startup neon CTAs, or dense dashboard widgets on the blog home.
-
-## Scope note
-
-Two homepage captures only. Color roles and full footer/article templates were not in set; foundations combine limited metrics with screenshot reading.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![The Keyword home — story cards](https://pin.fontofweb.com/7540?format=jpg)](https://design.withfudge.com/share/pin-7540)
+[![The Keyword | Google Product and Technology News and Stories](https://pin.fontofweb.com/7540?format=jpg)](https://design.withfudge.com/share/pin-7540)
 
-[The Keyword home — story cards](https://design.withfudge.com/share/pin-7540)
+[The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/share/pin-7540)
 
-[![The Keyword home — compact viewport](https://pin.fontofweb.com/4979?format=jpg)](https://design.withfudge.com/share/pin-4979)
+[![The Keyword | Google Product and Technology News and Stories](https://pin.fontofweb.com/4979?format=jpg)](https://design.withfudge.com/share/pin-4979)
 
-[The Keyword home — compact viewport](https://design.withfudge.com/share/pin-4979)
+[The Keyword | Google Product and Technology News and Stories](https://design.withfudge.com/share/pin-4979)
+
+## Design character
+
+blog.google has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 7 recurring colors, and 6 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 36 color rows, 5 typography rows, 4 spacing rows, 1 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#5f6368` | color · main | 124 |
+| `#000000` | background-color · main | 122 |
+| `#364043` | box-shadow · main | 108 |
+| `#ffffff` | background-color · main | 54 |
+| `#202124` | color · main | 50 |
+| `#1a73e8` | color · main | 1 |
+| `#3367d6` | color · main | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Google Sans** | 18px · 300 · 25.992px | 176 |
+
+### Spacing and layout
+
+The most repeated spacing values are `24px 36px 36px` for padding, `0px 0px 0px -72px` for margin, `0px 0px 16px` for margin, and `0px 0px 8px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 16px` (54). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
+- `#5f6368`
+- `#000000`
+- `#364043`
 - `#ffffff`
 - `#202124`
+- `#1a73e8`
+- `#3367d6`
+
+## Typography captured from blog.google
+
+- **Google Sans** — weight 300 · size 18px

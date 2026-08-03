@@ -2,77 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/allbirds.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Allbirds is **soft-minimal commerce for a nature-minded footwear brand**. The canvas is warm off-white rather than pure sterile white; type is calm charcoal; product and lifestyle photography supply texture (wool, tree cover, easy outdoor light). The site never shouts discounts with neon urgency. Instead it feels like a well-lit shop with good air—story pages especially read as editorial brand films in still form.
-
-What should survive adaptation:
-- Warm neutral ground and charcoal type
-- Rounded, friendly CTAs without aggressive contrast gimmicks
-- Product grids with breathing room
-- Storytelling sections that alternate large imagery and short copy blocks
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#9c0f0f`, `#000000`, `#575757`, `#212121`. Measured accents include deep reds for selective UI emphasis and near-black/charcoal for primary type (`#000000`, `#212121`, `#575757`). The living palette on-page is broader in photography—sage, sand, sky—but the **chrome stays quiet** so materials can speak. Prefer muted earth secondaries over tech-blue SaaS accents.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 16px
-- **text**: unknown, weight 400, 14px, lh 16px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 12px, lh 16px
-- **text**: unknown, weight 400, 14px, lh 20px
-- **text**: unknown, weight 400, 14px, lh 16px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 24px, lh 40px
-- **text**: unknown, weight 400, 16px, lh 24px
-
-Visually: clean sans for nav and UI; larger display/serif-leaning or carefully tracked sans for story headlines; small utilitarian labels for prices and categories. Weights stay readable rather than ultra-fashion thin. Copy length on marketing blocks is short; type is paired with imagery, not essays.
-
-### Spacing and layout
-
-Recurring spacing measurements include -24px, 10px, 16px, 24px, 40px, 48px, 68.8px, 80px, 88px, 120px, 266.3px, 266.31px. Home and collection pages use comfortable vertical sections and product card grids with even gutters. Story pages (`/pages/our-story`) lean into full-width imagery and large margins. Observed corner radii include 2px, 4px, 10px, 12px, 16px, 24px, 3.35544e+07px. Density is medium-low for ecommerce—more premium lifestyle than marketplace crush.
-
-## Visual language
-
-Photography is the brand system: tactile close-ups, natural light, people in motion without glossy stock energy. UI chrome is flat-to-softly-elevated; shadows if any are gentle. Buttons look pill-like and understated. Icons stay thin and functional. Avoid brutalist starkness or luxury gold excess—Allbirds is approachable earth-tech.
-
-## Components and states
-
-- **Header**: wordmark, category nav, utility icons (account/cart)
-- **Product cards**: photo, name, price; quick color/material cues when present
-- **Collection toolbar**: simple filters/sort without heavy sidebars in the captures
-- **Story modules**: large image + concise narrative + occasional stats/callouts
-- **Primary CTA**: solid dark or brand-soft fills; secondary as text/outline
-
-## Responsive behavior
-
-Captures span roughly 1120–1712px widths. At mid widths grids reduce columns; story imagery stacks above copy. Keep touch targets generous—the brand’s calm fails if mobile UI becomes cramped outlet-store patterns.
-
-## Practical guidance
-
-**Preserve**
-- Warm neutrals, charcoal type, photo-led storytelling
-- Airy product grids and soft CTA shapes
-- Sustainability story told through layout calm, not badge spam
-
-**Avoid**
-- Loud promo yellows/reds dominating the shell
-- Dense multi-column bargain layouts
-- Cold pure-RGB tech palettes that fight natural materials
-
-## Scope note
-
-Studied 8 page captures on paths /, /collections/mens-new-arrivals, /pages/our-story. Some structural families were incomplete on these pages. Home, a mens new-arrivals collection, and Our Story were primary; checkout and account flows were not studied.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -80,37 +10,127 @@ Studied 8 page captures on paths /, /collections/mens-new-arrivals, /pages/our-s
 
 [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8958)
 
-[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8955?format=jpg)](https://design.withfudge.com/share/pin-8955)
-
-[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8955)
-
-[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8952?format=jpg)](https://design.withfudge.com/share/pin-8952)
-
-[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8952)
-
 [![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8957?format=jpg)](https://design.withfudge.com/share/pin-8957)
 
 [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8957)
-
-[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8954?format=jpg)](https://design.withfudge.com/share/pin-8954)
-
-[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8954)
-
-[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8951?format=jpg)](https://design.withfudge.com/share/pin-8951)
-
-[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8951)
 
 [![Our Story | Sustainable Shoes & Apparel | Allbirds](https://pin.fontofweb.com/8956?format=jpg)](https://design.withfudge.com/share/pin-8956)
 
 [Our Story | Sustainable Shoes & Apparel | Allbirds](https://design.withfudge.com/share/pin-8956)
 
+[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8955?format=jpg)](https://design.withfudge.com/share/pin-8955)
+
+[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8955)
+
+[![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8954?format=jpg)](https://design.withfudge.com/share/pin-8954)
+
+[Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8954)
+
 [![Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://pin.fontofweb.com/8953?format=jpg)](https://design.withfudge.com/share/pin-8953)
 
 [Allbirds New Arrivals, Men's Dashers, Loungers, Socks - FREE SHIPPING](https://design.withfudge.com/share/pin-8953)
 
+[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8952?format=jpg)](https://design.withfudge.com/share/pin-8952)
+
+[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8952)
+
+[![Allbirds: Comfortable, Sustainable Shoes & Apparel](https://pin.fontofweb.com/8951?format=jpg)](https://design.withfudge.com/share/pin-8951)
+
+[Allbirds: Comfortable, Sustainable Shoes & Apparel](https://design.withfudge.com/share/pin-8951)
+
+## Design character
+
+allbirds.com has a predominantly dark surface treatment across 12 captured pages. The strongest recurring signals are 5 captured type families, 17 recurring colors, and 135 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **12 pages** and 8 representative page references. It records 360 color rows, 99 typography rows, 84 spacing rows, 38 border rows, 2 gradient rows, and 11 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · unknown | 13495 |
+| `#ffffff` | color · unknown | 1759 |
+| `#212121` | color · main | 1321 |
+| `#e0dacf` | background-color · main | 95 |
+| `#262626` | color · main | 26 |
+| `#575757` | border-color · unknown | 26 |
+| `#7c95a8` | background-color · main | 25 |
+| `#ece9e2` | background-color · unknown | 15 |
+| `#222519` | background-color · button | 14 |
+| `#6a6767` | border-color · button | 14 |
+| `#e5e7eb` | border-color · unknown | 10 |
+| `#cdcdcd` | border-color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Klim Type Foundry** | 16px · 400 · 24px | 7922 |
+| **Geograph** | 12px · 500 · 15px | 162 |
+| **Self Modern** | 24px · 400 · 40px | 150 |
+| **Hurme Geometric Sans 3** | 14px · 400 · 16px | 14 |
+| **Akkurat Mono** | 14px · 400 · 20px | 12 |
+
+### Spacing and layout
+
+The most repeated spacing values are `16px` for padding, `24px` for padding, `-24px 0px 0px` for margin, `88px 0px 24px` for padding, `40px 10px 120px` for margin, and `8px 32px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 16px 16px 0px 0px` (1589), `0px none 24px` (380), `0px none 12px` (176), `1px solid 3.35544e+07px` (156), `0px none 3.35544e+07px` (102), and `0px none 16px` (25). 2 gradient rows and 11 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 12 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#9c0f0f`
 - `#000000`
-- `#575757`
+- `#ffffff`
 - `#212121`
+- `#e0dacf`
+- `#262626`
+- `#575757`
+- `#7c95a8`
+- `#ece9e2`
+- `#222519`
+- `#6a6767`
+- `#e5e7eb`
+- `#cdcdcd`
+- `#8b8a8f`
+- `#b4a897`
+- `#9c0f0f`
+- `#939393`
+
+## Typography captured from allbirds.com
+
+- **Klim Type Foundry** — weight 400 · size 16px
+- **Geograph** — weight 500 · size 12px
+- **Self Modern** — weight 400 · size 24px
+- **Hurme Geometric Sans 3** — weight 400 · size 14px
+- **Akkurat Mono** — weight 400 · size 14px

@@ -2,82 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/algebrica.org-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Algebrica reads like a **quiet mathematical library on the web**: white paper canvas, black ink, and just enough structure to keep theorems findable. The brand voice is scholarly rather than startup-bright. The home page opens with a large display headline (“A Mathematical Knowledge Base”), short gray supporting copy, and two solid black pill buttons—then settles into a grid of soft topic cards (Algebra, Calculus, and peers). Article pages shift into a **textbook layout**: sticky table of contents, long reading column, and theorem/definition blocks nested in light gray rounded panels.
-
-What should survive adaptation:
-- Paper-white field with near-black type and restrained gray secondary text
-- Library navigation that stays thin and textual
-- Carded topic hubs and clearly framed statement blocks for formal math
-- Blue hyperlinks as the main chromatic signal in body content
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#0000ee`, `#000000`, `#666666`, `#999999`, `#777777`. Visually the system is monochrome-plus-link-blue: pure white page, black wordmark and primary CTAs, medium grays for meta copy, and classic link blue on inline references. Topic cards sit on a very light cool gray so they separate from the canvas without casting drama. Avoid introducing saturated brand gradients; the authority comes from restraint.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 16px
-- **text**: unknown, weight 400, 15px, lh 22.5px
-- **text**: unknown, weight 400, 15px, lh 21px
-- **text**: unknown, weight 400, 15px, lh 22.5px
-- **text**: unknown, weight 500, 15px
-- **text**: unknown, weight 400, 14px
-- **text**: unknown, weight 500, 24px, lh 33.6px
-- **text**: unknown, weight 400, 14px, lh 18.2px
-- **text**: unknown, weight 400, 14px, lh 14px
-- **text**: unknown, weight 400, 13px
-- **text**: unknown, weight 500, 16px
-- **text**: unknown, weight 400, 13px, lh 18.2px
-
-On screen, the hierarchy is clear even when family names are sparse: a **large transitional/serif-leaning display** for the home manifesto line; **bold sans or semi-serif section titles** in cards; comfortable body sizes for proofs and exposition; smaller muted labels for breadcrumbs and TOC. Math content needs generous line length control—articles keep a readable measure with the TOC beside, not over, the prose.
-
-### Spacing and layout
-
-Recurring spacing measurements include 5px, 6px, 10px, 14px, 20px, 25px, 30px, 40px. The home hero is vertically generous: headline, subcopy, CTA row, then a multi-column card grid with even gutters. Articles use a two-zone layout (nav rail + content) with theorem cards stacked in the main column. Prefer consistent vertical section rhythm over tight marketing packing.
-
-## Visual language
-
-Observed corner radii include 3px, 4px, 12px, 24px. Surfaces are mostly flat. Depth is created with **pale filled cards** and light separators rather than heavy shadows. Primary buttons are high-contrast black pills; secondary actions stay outline or text. The logo lockup is simple wordmark typography—no illustrative mascot competing with formulas.
-
-## Components and states
-
-- **Global header**: wordmark left, text nav (Mathematics, Physics, Computer Science, About), search affordance.
-- **Hero**: manifesto headline, one-line value prop, dual CTAs (Explore / Random).
-- **Topic cards**: title + short blurb on soft gray tiles; equal card heights in a responsive grid.
-- **Article chrome**: breadcrumbs, H1, optional metadata, sticky contents list.
-- **Statement blocks**: numbered or titled theorem/definition containers with internal paragraphs and formula lines.
-- **Inline links**: bright default blue against black body text.
-
-Do not invent hover motion from still frames; keep interaction language boring and readable.
-
-## Responsive behavior
-
-Captures include both wide (~2048px) and narrower (~1200px) home views. At narrower widths the topic grid drops columns and the hero type scales down while CTAs remain full-contrast pills. Article TOC is a strong candidate to collapse above the content on small viewports even when the wide capture shows it beside the column.
-
-## Practical guidance
-
-**Preserve**
-- Academic calm: white paper, black ink, gray secondary, blue links
-- Pill black CTAs and soft topic cards
-- Theorem-in-a-card pattern for formal statements
-- Thin textual IA over mega-menus
-
-**Avoid**
-- Neon accents, glassmorphism, or marketplace density
-- Oversized marketing gradients behind formulas
-- Crowding proofs with decorative sidebars
-- Replacing serif/display contrast with a single UI sans everywhere
-
-## Scope note
-
-Studied 4 page captures on paths /, /cauchy-convergence-criterion-series/. Some structural families were incomplete on these pages. Home and a longform mathematics article were the primary references; productized app chrome is out of scope.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -97,10 +22,91 @@ Studied 4 page captures on paths /, /cauchy-convergence-criterion-series/. Some 
 
 [Algebrica | A Mathematical Knowledge Base](https://design.withfudge.com/share/pin-8749)
 
+## Design character
+
+algebrica.org has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 1 captured type family, 17 recurring colors, and 81 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 132 color rows, 67 typography rows, 71 spacing rows, 10 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 7846 |
+| `#666666` | color · unknown | 324 |
+| `#dadada` | border-color · unknown | 317 |
+| `#e5e5e5` | background-color · unknown | 151 |
+| `#f6f6f6` | background-color · unknown | 125 |
+| `#4f4f4f` | color · unknown | 84 |
+| `#282828` | background-color · unknown | 84 |
+| `#999999` | color · unknown | 30 |
+| `#777777` | color · unknown | 18 |
+| `#505050` | color · unknown | 14 |
+| `#0000ee` | color · unknown | 9 |
+| `#cccccc` | color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Segoe Ui** | 16px · 400 · normal | 4355 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 20px` for margin, `14px 30px 30px` for padding, `0px 0px 30px` for margin, `0px 20px 0px 0px` for padding, `0px 0px 10px` for margin, and `20px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 12px` (265), `0px none 12px` (221), `1px 0px 0px solid none none 0px` (29), `2px 0px 0px solid none none 0px` (22), `0px none 3px` (14), and `0px none 4px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **header**, **image**, **button**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#0000ee`
 - `#000000`
 - `#666666`
+- `#dadada`
+- `#e5e5e5`
+- `#f6f6f6`
+- `#4f4f4f`
+- `#282828`
 - `#999999`
 - `#777777`
+- `#505050`
+- `#0000ee`
+- `#cccccc`
+- `#aaaaaa`
+- `#e6e6e6`
+- `#ffffff`
+- `#555555`
+
+## Typography captured from algebrica.org
+
+- **Segoe Ui** — weight 400 · size 16px

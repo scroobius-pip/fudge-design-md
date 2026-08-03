@@ -2,109 +2,89 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/app.reve.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Reve is a **cinematic, image-native dark product**. Marketing, create, inspiration, and pricing all sit in a black environment where photography and generations supply color. Chrome is minimal: thin nav, white pill buttons, charcoal elevated cards, and rare mint/green status marks.
-
-What should survive adaptation:
-
-- **True black / near-black grounds** across marketing and app
-- **White pill primary actions** (Sign up, Get Free, Get Pro, Create)
-- **Image boards as the emotional core** (home/inspiration)
-- **Quiet charcoal pricing cards**—not colorful plan rainbows
-
-## Foundations
-
-### Color
-
-Visual system from screenshots (structured color rows were empty for this domain):
-
-- Ground: `#000000` → deep charcoal stages
-- Elevated cards: ~`#141414`–`#1a1a1a`
-- Primary text/icons on dark: `#ffffff`
-- Muted copy: mid gray ~`#a3a3a3`
-- CTA fill: white pills with black labels
-- Secondary outline control: white hairline “Log in” style buttons
-- Status accent: mint/green (~`#4ade80`) on battery/plan indicators
-
-### Typography
-
-No measured type table shipped for these captures. Visually:
-
-- Marketing/pricing titles: large, clean sans, regular-to-medium weight, high whitespace
-- UI chrome: compact sans labels in white/gray
-- Hierarchy is **scale + contrast**, not decorative typefaces
-
-### Spacing and layout
-
-- Wide desktop compositions (~1937px captures) with **centered content columns**
-- Pricing: two equal cards with generous internal padding and large page margins
-- Inspiration: multi-column image mosaic edge-to-edge inside a slim app frame
-- Home/create: central stage with peripheral icon rails
-
-## Visual language
-
-- Soft-rounded rectangles on cards and pills (not sharp industrial corners)
-- Minimal shadows; separation is value-step on black
-- Photography is full-bleed and high fidelity—UI never overlays heavy gradients on art
-- Green appears only as a **system status/plan meter**, not a second brand wash
-
-## Components and states
-
-1. **Top nav** — wordmark left; text links; outline Log in + solid white Sign up
-2. **Hero/create stage** — dark void, prompt or featured visual, primary pill
-3. **Inspiration mosaic** — rounded image tiles, hover/selection kept subtle
-4. **Pricing cards** — dual charcoal panels, feature lists with small icons, white CTA pills, mint capacity indicator
-5. **Account/settings** — same dark density, list/forms without introducing a light theme
-
-## Responsive behavior
-
-All eight captures share a wide desktop width. Treat Reve as **desktop-dark-first**; do not invent a light mobile skin from this set.
-
-## Practical guidance
-
-**Preserve** black environment, white pills, image-led boards, charcoal pricing, mint only for status.
-
-**Avoid** colorful SaaS card kits, purple AI clichés, dense light dashboards, or low-quality compressed thumbnails that break the cinematic bar.
-
-## Scope note
-
-Eight desktop captures spanning marketing home, app home, inspiration (list+detail), pricing, and account. Structured color/type observations were sparse; character guidance is grounded in direct screenshot inspection.
+Last updated: 2026-08-03
 
 ## Captured pages
-
-[![Marketing home — cinematic hero](https://pin.fontofweb.com/8369?format=jpg)](https://design.withfudge.com/share/pin-8369)
-
-[Marketing home — cinematic hero](https://design.withfudge.com/share/pin-8369)
-
-[![App home — create workspace](https://pin.fontofweb.com/8374?format=jpg)](https://design.withfudge.com/share/pin-8374)
-
-[App home — create workspace](https://design.withfudge.com/share/pin-8374)
-
-[![Inspiration board](https://pin.fontofweb.com/8372?format=jpg)](https://design.withfudge.com/share/pin-8372)
-
-[Inspiration board](https://design.withfudge.com/share/pin-8372)
-
-[![Pricing — Free vs Pro cards](https://pin.fontofweb.com/8370?format=jpg)](https://design.withfudge.com/share/pin-8370)
-
-[Pricing — Free vs Pro cards](https://design.withfudge.com/share/pin-8370)
 
 [![Account](https://pin.fontofweb.com/8375?format=jpg)](https://design.withfudge.com/share/pin-8375)
 
 [Account](https://design.withfudge.com/share/pin-8375)
 
-[![Inspiration ingredients detail](https://pin.fontofweb.com/8373?format=jpg)](https://design.withfudge.com/share/pin-8373)
+[![Reve](https://pin.fontofweb.com/8374?format=jpg)](https://design.withfudge.com/share/pin-8374)
 
-[Inspiration ingredients detail](https://design.withfudge.com/share/pin-8373)
+[Reve](https://design.withfudge.com/share/pin-8374)
 
-## Colors
+[![Inspiration - Reve](https://pin.fontofweb.com/8373?format=jpg)](https://design.withfudge.com/share/pin-8373)
 
-- `#000000`
-- `#0a0a0a`
-- `#141414`
-- `#1a1a1a`
-- `#ffffff`
-- `#a3a3a3`
-- `#4ade80`
+[Inspiration - Reve](https://design.withfudge.com/share/pin-8373)
+
+[![Inspiration - Reve](https://pin.fontofweb.com/8372?format=jpg)](https://design.withfudge.com/share/pin-8372)
+
+[Inspiration - Reve](https://design.withfudge.com/share/pin-8372)
+
+[![Reve](https://pin.fontofweb.com/8371?format=jpg)](https://design.withfudge.com/share/pin-8371)
+
+[Reve](https://design.withfudge.com/share/pin-8371)
+
+[![Reve Image - Pricing](https://pin.fontofweb.com/8370?format=jpg)](https://design.withfudge.com/share/pin-8370)
+
+[Reve Image - Pricing](https://design.withfudge.com/share/pin-8370)
+
+[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8369?format=jpg)](https://design.withfudge.com/share/pin-8369)
+
+[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/share/pin-8369)
+
+[![Reve Image - AI Image Generator and Creative Tool](https://pin.fontofweb.com/8368?format=jpg)](https://design.withfudge.com/share/pin-8368)
+
+[Reve Image - AI Image Generator and Creative Tool](https://design.withfudge.com/share/pin-8368)
+
+## Design character
+
+app.reve.com has a predominantly dark surface treatment across 8 captured pages. The strongest recurring signals are no captured type families, no recurring colors, and 0 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **8 pages** and 8 representative page references. It records 63 color rows, 0 typography rows, 0 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+No structured color observations were returned.
+
+### Typography
+
+No structured typography observations were returned.
+
+### Spacing and layout
+
+No structured spacing observations were returned.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.

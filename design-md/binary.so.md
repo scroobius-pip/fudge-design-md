@@ -2,105 +2,109 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/binary.so-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Binary feels like modern B2B SaaS done with discipline: white canvas, slate-ink text, one deep navy accent (`#0f172a`), and a slate secondary (`#586a84`). The homepage sells speed and simplicity through large display headlines, airy section padding, rounded cards, and product UI mockups rather than loud illustration systems.
-
-What should survive adaptation:
-
-- **Light mode first** with near-black primary text
-- **Slate secondary** for supporting copy and labels
-- **Deep navy as the serious accent** (fills, emphasis), not rainbow gradients
-- **Large section breathing room** (64px+ vertical padding)
-- **Soft elevation** (8px blur shadows) on key product cards
-
-## Foundations
-
-### Color
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Accent / ink | `#0f172a` | Primary emphasis, dark fills |
-| Text primary | `#000000` | Headlines and core UI copy |
-| Text secondary | `#586a84` | Supporting body, meta |
-| Canvas | white (visual) | Page background |
-| Surfaces | white cards on light gray bands (visual) | Feature modules |
-
-### Typography
-
-No declared family captured. Visual hierarchy:
-
-- **Display**: ~52px weight 500, line-height ~62px; occasional ~44px weight 600
-- **Section heads**: ~30px weight 500 / 36px lh
-- **Lead body**: 18–20px regular, ~28px lh
-- **Body / UI**: 16px / 24px regular (dominant)
-- **Small / meta**: 14–15px medium
-
-The ladder is classic SaaS: one strong display size, clear section heads, readable 16–18 body.
-
-### Spacing and layout
-
-- **64px** top padding appears constantly — large section rhythm
-- Horizontal padding **24–32px** inside components
-- Wide side margins (~260–416px observed on centered columns) imply a **centered content column** on large screens
-- **160px** margin-bottom on some major blocks — very open vertical pacing
-- Density: moderate; cards and proof rows without cramming
-
-### Radii, borders, shadows
-
-- Radii cluster around **4 / 6 / 8px** — slightly rounded, not pill-everything
-- 1px solid borders on card edges
-- Soft shadows: `0 8px 10px` and deeper `0 8px 30px` on hero/product frames
-
-## Visual language
-
-- Flat white/gray surfaces with restrained elevation
-- Product screenshots and UI chrome as the main imagery
-- Rounded rectangles; occasional softer chips
-- Minimal decorative linework; clarity over ornament
-
-## Components and states
-
-- **Marketing header** with product nav and primary CTA
-- **Hero**: big claim + supporting line + dual CTAs
-- **Logo/social proof row**
-- **Feature sections**: headline + body + card or screenshot
-- **Pricing-adjacent modules** (taxonomy flags a pricing posture even on home captures)
-- **Cards** with 1px border and light shadow
-
-## Responsive behavior
-
-Captures at **1488** and **2048** wide. Layout stays multi-column marketing on large screens. Treat the system as desktop-first marketing; collapse feature rows to single column on small screens without changing the type ladder ratios.
-
-## Practical guidance
-
-**Preserve**: white canvas, slate secondary, navy accent, 16/24 body, ~52px display, 6–8px radii, generous 64px section padding.
-
-**Avoid**: dark-mode default, neon accents, tiny dense admin tables on marketing pages, sharp 0-radius enterprise austerity, or playful sticker illustrations.
-
-## Scope note
-
-Three homepage captures of `binary.so` (`/`). Color roles and spacing/radius/shadow observations supported the foundations; font family names were not declared in the capture data.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — standard marketing viewport](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/share/pin-7683)
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/share/pin-7683)
 
-[Home — standard marketing viewport](https://design.withfudge.com/share/pin-7683)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7683)
 
-[![Home — wide viewport product story](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/share/pin-7681)
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/share/pin-7682)
 
-[Home — wide viewport product story](https://design.withfudge.com/share/pin-7681)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7682)
 
-[![Home — alternate wide pass](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/share/pin-7682)
+[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/share/pin-7681)
 
-[Home — alternate wide pass](https://design.withfudge.com/share/pin-7682)
+[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7681)
+
+## Design character
+
+binary.so has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 2 captured type families, 16 recurring colors, and 52 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 113 color rows, 30 typography rows, 31 spacing rows, 9 border rows, 7 gradient rows, and 5 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 3477 |
+| `#0f172a` | color · unknown | 3019 |
+| `#586a84` | color · unknown | 182 |
+| `#ffffff` | color · button | 42 |
+| `#f8f8f8` | background-color · unknown | 42 |
+| `#e2e8f0` | border-color · unknown | 33 |
+| `#f5f5f5` | background-color · button | 16 |
+| `#e1e7ef` | border-color · button | 16 |
+| `#bdc1c8` | box-shadow · button | 16 |
+| `#f8fafc` | color · button | 10 |
+| `#3c424c` | box-shadow · button | 10 |
+| `#f1f5f9` | background-color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 16px · 400 · 24px | 3181 |
+| **Basier Square** | 52px · 500 · 62.4px | 206 |
+
+### Spacing and layout
+
+The most repeated spacing values are `64px 0px 0px` for padding, `0px 24px` for padding, `0px 260px 160px` for margin, `32px` for padding, `0px 24px 48px` for padding, and `0px 416px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 8px` (59), `1px solid 8px` (33), `0px none 6px` (22), `1px solid 6px` (18), and `0px none 4px` (8). 7 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0f172a`
 - `#000000`
+- `#0f172a`
 - `#586a84`
 - `#ffffff`
+- `#f8f8f8`
+- `#e2e8f0`
+- `#f5f5f5`
+- `#e1e7ef`
+- `#bdc1c8`
+- `#f8fafc`
+- `#3c424c`
+- `#f1f5f9`
+- `#475569`
+- `#64748b`
+- `#cbd5e1`
+- `#334155`
+
+## Typography captured from binary.so
+
+- **System** — weight 400 · size 16px
+- **Basier Square** — weight 500 · size 52px

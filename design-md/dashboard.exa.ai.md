@@ -2,81 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dashboard.exa.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Exa’s dashboard is a **compact AI-search developer console**: home plus API keys. It feels like a modern AI infra app—**blue-forward accents**, dark text on light gray scale, and focused utility pages rather than a sprawling enterprise suite.
-
-What should survive adaptation:
-
-- Strong blue accents (`#1f40ed`, `#0972d5`) against near-black text `#111827` / `#000000`.
-- Secondary gray text `#6b7280` / `#737373` for meta.
-- Tight scope: **home overview + API keys** as core surfaces.
-- Developer-trust clarity—keys and home status without marketing clutter.
-- Compact SaaS radii and form controls typical of API dashboards.
-
-## Foundations
-
-### Color
-
-| Role-ish value | Hex |
-| --- | --- |
-| Primary blue | `#1f40ed` |
-| Link/action blue | `#0972d5` |
-| Primary text | `#111827` / `#000000` |
-| Secondary text | `#6b7280` / `#737373` |
-
-### Typography
-
-Families not declared. UI-focused sizes for keys tables and home labels; keep readable 14–16px-class body patterns common to API consoles.
-
-### Spacing and layout
-
-- Two-page product set: `/home` and `/api-keys`.
-- Likely left nav or top product nav with a single content column.
-- Forms and key lists need consistent vertical rhythm over hero padding.
-
-## Visual language
-
-- Light mode, blue interactive accents, gray supporting text.
-- Minimal illustration; functional tables/buttons dominate.
-- Motion not established.
-
-## Components and states
-
-### Home
-Account/product overview and entry into tools.
-
-### API keys
-List/create/revoke patterns—high clarity, destructive actions secondary.
-
-## Responsive behavior
-
-Two captures; widths not a full breakpoint matrix. Keep keys table horizontally scrollable rather than crushing columns on narrow screens.
-
-## Practical guidance
-
-**Preserve**
-
-1. Blue accent pair + slate text system.
-2. Home/keys as the spine of the product UI.
-3. Developer clarity over lifestyle branding.
-4. Secondary gray for non-essential meta.
-
-**Avoid**
-
-1. Rainbow AI gradients in the console chrome.
-2. Hiding API keys behind overly playful UI.
-3. Font licence invention.
-
-**Adaptation recipe**
-
-- Light console → blue actions → slate type → home summary → keys table.
-
-## Scope note
-
-Two captures: `/home`, `/api-keys`. Supported: blue/slate palette and core IA. Gaps: billing, multi-width responsive rules, fonts, motion.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -88,11 +14,99 @@ Two captures: `/home`, `/api-keys`. Supported: blue/slate palette and core IA. G
 
 [API Keys | Exa API](https://design.withfudge.com/share/pin-9451)
 
+## Design character
+
+dashboard.exa.ai has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 5 captured type families, 29 recurring colors, and 295 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 146 color rows, 66 typography rows, 261 spacing rows, 26 border rows, 5 gradient rows, and 3 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 77526 |
+| `#ffffff` | background-color · main | 13610 |
+| `#fbfcfd` | background-color · main | 906 |
+| `#e5e5e5` | border-color · main | 906 |
+| `#fafafa` | background-color · main | 804 |
+| `#1f40ed` | color · main | 792 |
+| `#e5e7eb` | border-color · main | 502 |
+| `#444444` | color · main | 166 |
+| `#111827` | color · main | 135 |
+| `#f6f6f6` | background-color · main | 71 |
+| `#0972d5` | color · main | 45 |
+| `#f5f5f5` | background-color · main | 45 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Abc Diatype Plus** | 16px · 400 · 24px | 78457 |
+| **Proto Mono** | 10px · 600 · 10px | 83 |
+| **Applesystem** | 14px · 400 · normal | 54 |
+| **Aeonik** | 25px · 400 · 32px | 29 |
+| **Abc Arizona Flare** | 28px · 400 · 42px | 10 |
+
+### Spacing and layout
+
+The most repeated spacing values are `24px` for gap, `24px` for row-gap, `24px` for column-gap, `26px` for padding, `26px` for padding-top, and `26px` for padding-right. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px 1px 0px 0px solid 0px` (906), `1px solid 6px` (509), `0px none 10px` (397), `4px solid 8px` (157), `0px none 0px 0px 6px 6px` (93), and `1px dashed 6px` (71). 5 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#1f40ed`
-- `#111827`
-- `#6b7280`
-- `#0972d5`
 - `#000000`
-- `#737373`
+- `#ffffff`
+- `#fbfcfd`
+- `#e5e5e5`
+- `#fafafa`
+- `#1f40ed`
+- `#e5e7eb`
+- `#444444`
+- `#111827`
+- `#f6f6f6`
+- `#0972d5`
+- `#f5f5f5`
+- `#1c1f21`
+- `#888888`
+- `#171717`
+- `#eef8ff`
+
+## Typography captured from dashboard.exa.ai
+
+- **Abc Diatype Plus** — weight 400 · size 16px
+- **Proto Mono** — weight 600 · size 10px
+- **Applesystem** — weight 400 · size 14px
+- **Aeonik** — weight 400 · size 25px
+- **Abc Arizona Flare** — weight 400 · size 28px

@@ -2,110 +2,135 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/elevenlabs.io-design)
 
-Last updated: 2026-07-28
-
-# How elevenlabs.io is designed
-
-## Design character
-
-ElevenLabs splits into two tightly related faces: a dark, cinematic marketing site and a denser product app (Studio/Home/Agents) on near-black surfaces with violet/blue accents. The through-line is high-contrast type, soft rounded controls, and AI-product clarity—premium audio tech without skeuophonic gimmicks.
-
-## Foundations
-
-### Color
-
-Measured:
-
-- **App/marketing deep base:** `#0f0f10`
-- **Muted text:** `#787881`
-- **Pure black:** `#000000` in places
-- **Visual accents:** electric blue/violet gradients on marketing heroes; lighter gray panels in app shells
-- **Primary text on dark:** white / off-white
-- **Cards:** slightly lifted charcoal surfaces
-
-Marketing leans more dramatic (gradient washes, big claims); the app keeps neutrals for long sessions.
-
-### Typography
-
-No declared families. Observed:
-
-- App UI body 16/24 at 400–500
-- Compact labels 12–14 / 16–20
-- Marketing display much larger (visual hero statements)
-- Medium weights for emphasis instead of heavy bold everywhere
-
-### Spacing and layout
-
-- App padding clusters: 10–12–20px; top padding ~50px in some shells
-- Radii: **4, 8, 10, 14, 24px** common—cards softer (14–24), chips tighter (4–10)
-- Marketing: wide heroes, feature rows, pricing tables
-- App: left nav + main canvas + occasional right inspectors
-
-## Visual language
-
-- Dark glass/charcoal panels
-- Pill and soft-rectangle buttons
-- Gradient light streaks on marketing only
-- Product screenshots and waveform/agent diagrams as proof
-- Minimal illustration noise
-
-## Components and states
-
-- Marketing nav with product menus + Login/Signup
-- Hero with primary/secondary CTAs
-- Logo wall and feature grid
-- App shell: sidebar, tabbed workspace, cards for projects/agents
-- Pricing comparison table
-- Agents landing with deployment messaging
-
-## Responsive behavior
-
-Captures include wide desktop app shells and slightly narrower marketing widths. App keeps sidebar patterns on desktop; mobile app chrome not evidenced.
-
-## Practical guidance
-
-**Preserve**
-
-- Near-black base `#0f0f10` with muted `#787881` text
-- Soft 10–24px rounding on cards vs tighter controls
-- Clear split: dramatic marketing gradients vs calmer app neutrals
-- 16/24 UI type baseline
-
-**Avoid**
-
-- Light playful pastels that undercut the audio-AI premium feel
-- Mixing loud gradients into dense Studio workflows
-- Sharp zero-radius enterprise tables in marketing cards
-
-## Scope note
-
-Eight captures: marketing home, agents, pricing, and in-app home/studio. Color roles limited; radii/spacing partially measured. Font names unknown.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Marketing home](https://pin.fontofweb.com/9194?format=jpg)](https://design.withfudge.com/share/pin-9194)
+[![Studio | ElevenLabs](https://pin.fontofweb.com/9196?format=jpg)](https://design.withfudge.com/share/pin-9196)
 
-[Marketing home](https://design.withfudge.com/share/pin-9194)
+[Studio | ElevenLabs](https://design.withfudge.com/share/pin-9196)
 
-[![App home](https://pin.fontofweb.com/9195?format=jpg)](https://design.withfudge.com/share/pin-9195)
+[![Home | ElevenLabs](https://pin.fontofweb.com/9195?format=jpg)](https://design.withfudge.com/share/pin-9195)
 
-[App home](https://design.withfudge.com/share/pin-9195)
+[Home | ElevenLabs](https://design.withfudge.com/share/pin-9195)
 
-[![Agents marketing](https://pin.fontofweb.com/9190?format=jpg)](https://design.withfudge.com/share/pin-9190)
+[![Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://pin.fontofweb.com/9194?format=jpg)](https://design.withfudge.com/share/pin-9194)
 
-[Agents marketing](https://design.withfudge.com/share/pin-9190)
+[Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/share/pin-9194)
 
-[![Studio app](https://pin.fontofweb.com/9196?format=jpg)](https://design.withfudge.com/share/pin-9196)
+[![Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://pin.fontofweb.com/9193?format=jpg)](https://design.withfudge.com/share/pin-9193)
 
-[Studio app](https://design.withfudge.com/share/pin-9196)
+[Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://design.withfudge.com/share/pin-9193)
 
-[![Pricing](https://pin.fontofweb.com/4926?format=jpg)](https://design.withfudge.com/share/pin-4926)
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9192?format=jpg)](https://design.withfudge.com/share/pin-9192)
 
-[Pricing](https://design.withfudge.com/share/pin-4926)
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/share/pin-9192)
+
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9191?format=jpg)](https://design.withfudge.com/share/pin-9191)
+
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/share/pin-9191)
+
+[![Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://pin.fontofweb.com/9190?format=jpg)](https://design.withfudge.com/share/pin-9190)
+
+[Deploy AI Agents in Minutes, Not Months | Chat & Voice](https://design.withfudge.com/share/pin-9190)
+
+[![ElevenLabs Pricing for Creators & Businesses of All Sizes](https://pin.fontofweb.com/4926?format=jpg)](https://design.withfudge.com/share/pin-4926)
+
+[ElevenLabs Pricing for Creators & Businesses of All Sizes](https://design.withfudge.com/share/pin-4926)
+
+## Design character
+
+elevenlabs.io has a predominantly dark surface treatment across 36 captured pages. The strongest recurring signals are 5 captured type families, 18 recurring colors, and 141 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **36 pages** and 8 representative page references. It records 474 color rows, 99 typography rows, 94 spacing rows, 32 border rows, 4 gradient rows, and 11 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · unknown | 9891 |
+| `#0f0f10` | color · unknown | 2210 |
+| `#ffffff` | background-color · button | 250 |
+| `#f5f3f1` | background-color · main | 239 |
+| `#787881` | color · button | 95 |
+| `#000011` | color · button | 77 |
+| `#777169` | color · main | 71 |
+| `#000001` | color · main | 33 |
+| `#5b5b64` | color · nav | 21 |
+| `#e5e5e5` | border-color · main | 15 |
+| `#1c1c1d` | color · nav | 14 |
+| `#6e6e6e` | color · main | 14 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 16px · 400 · 24px | 5927 |
+| **Kmr Waldenburg Buch** | 36px · 300 · 42px | 89 |
+| **Kmr Waldenburg** | 24px · 400 · 31.2px | 79 |
+| **Eleven Waldenburg** | 24px · 400 · 30px | 8 |
+| **Kmr Waldenburg Fett Halbschmal** | 14px · 700 · 15.4px | 1 |
+
+### Spacing and layout
+
+The most repeated spacing values are `50px 20px 0px` for padding, `-120px 0px 0px` for margin, `96px 64px` for padding, `160px 48px 40px` for padding, `120px 0px 40px` for padding, and `20px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 24px` (326), `0px none 9999px` (139), `0px none 4px` (52), `0px none 14px` (20), `0px none 10px` (15), and `1px solid 9999px` (15). 4 gradient rows and 11 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **button**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 36 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0f0f10`
-- `#787881`
 - `#000000`
+- `#0f0f10`
 - `#ffffff`
+- `#f5f3f1`
+- `#787881`
+- `#000011`
+- `#777169`
+- `#000001`
+- `#5b5b64`
+- `#e5e5e5`
+- `#1c1c1d`
+- `#6e6e6e`
+- `#57534e`
+- `#e5e5e8`
+- `#00001d`
+- `#f5f2ef`
+
+## Typography captured from elevenlabs.io
+
+- **Inter** — weight 400 · size 16px
+- **Kmr Waldenburg Buch** — weight 300 · size 36px
+- **Kmr Waldenburg** — weight 400 · size 24px
+- **Eleven Waldenburg** — weight 400 · size 24px
+- **Kmr Waldenburg Fett Halbschmal** — weight 700 · size 14px

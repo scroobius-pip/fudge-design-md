@@ -2,117 +2,131 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dub.co-design)
 
-Last updated: 2026-07-28
-
-# How dub.co is designed
-
-## Design character
-
-Dub is a polished black-and-white SaaS marketing system with one decisive green accent. The home experience reads as a modern attribution platform: near-black canvas, soft charcoal cards, oversized medium-weight headlines, and product UI framed as floating light panels. Everything feels dense but calm—enterprise credibility without enterprise clutter.
-
-## Foundations
-
-### Color
-
-Measured and observed roles:
-
-- **Canvas / near-black:** `#0a0a0a` — primary page background
-- **Elevated surface:** `#171717` — cards, panels, and nested chrome
-- **Muted text / borders:** `#737373` — secondary labels and hairlines
-- **Success / brand accent:** `#16a34a` — primary CTAs (“Start for free”), active dots, positive metrics
-- **Light product chrome:** pure white panels for embedded dashboards and tables (visual reading of product frames)
-- **White type on dark** for primary copy; green reserved almost exclusively for action and status
-
-The palette is intentionally narrow. Green is the only saturated signal; everything else stays monochrome so charts, logos, and screenshots carry the color load.
-
-### Typography
-
-Declared font families were not captured. Observed scale on marketing pages:
-
-- Display / hero: ~48px, weight 500, tight line-height (~1.0)
-- Section titles: ~20px, weight 500, ~28px line-height
-- Body: 16px / 24px, weight 400
-- UI / meta: 14px / 20px, weights 400–500
-- Dense product labels lean smaller and medium weight
-
-Hierarchy is size-and-weight first, not color. Headlines sit heavy and short; supporting copy stays mid-gray on black.
-
-### Spacing and layout
-
-Recurring measurements:
-
-- Section vertical rhythm: 64–128px padding (96/128 common on large bands)
-- Horizontal page padding often 16px at the edge with large auto side margins (~340px) creating a centered content column on wide viewports
-- Card and control radii cluster at **8px** and **16px**; pills use full rounding (~9999)
-- Product mockups sit in generous whitespace with soft separation from the dark field
-
-Layout pattern: sticky slim top nav → full-bleed dark hero with centered claim → multi-column feature/logo bands → light-on-dark product showcases → dark footer.
-
-## Visual language
-
-- **Shape:** rounded rectangles (8–16px) for cards and inputs; pill buttons for primary actions
-- **Borders:** hairline neutral borders on elevated dark cards; light frames around product screenshots
-- **Depth:** product UIs appear as floating white sheets on the black stage—contrast does the elevation work more than heavy shadows
-- **Imagery:** real product chrome, partner logo rows, simple geometric marks; no lifestyle photography dominating the home story
-- **Motion:** not established from still captures
-
-## Components and states
-
-- **Top nav:** wordmark left, text links, green filled CTA right
-- **Hero:** short claim, one-line value prop, dual actions (green primary + quiet secondary)
-- **Metric / feature cards:** dark tiles with small labels and large numbers
-- **Logo wall:** monochrome partner marks in a calm row
-- **Product frames:** white app chrome with tables, filters, and green status chips
-- **Pricing (partners):** lighter marketing strip with plan comparison energy while staying on-brand
-
-Visible states in screenshots: default and selected/active (green), not full hover/focus specs.
-
-## Responsive behavior
-
-Captures span wide desktop and narrower desktop widths. The system keeps the dark canvas and collapses multi-column product showcases into stacked bands; side margins shrink while 16px edge padding remains. Exact mobile breakpoints were not captured.
-
-## Practical guidance
-
-**Preserve**
-
-- Near-black canvas with a single green accent for primary action
-- Medium-weight display type and short hero claims
-- White product frames as the brightest objects on the page
-- 8/16px radius discipline and generous section padding
-
-**Avoid**
-
-- Introducing a second saturated brand color
-- Busy gradients or illustration-heavy heroes
-- Light marketing pages that break the monochrome shell without reason
-- Over-rounded consumer “playful” radii on enterprise tables
-
-## Scope note
-
-Studied eight captures of dub.co home (multiple viewport crops) and `/pricing/partners`. Color roles and palette entries are sparse in structured data; several hex values above combine measured palette hits with direct screenshot reading. Font family names were not available.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home hero — dark canvas + green CTA](https://pin.fontofweb.com/7583?format=jpg)](https://design.withfudge.com/share/pin-7583)
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7583?format=jpg)](https://design.withfudge.com/share/pin-7583)
 
-[Home hero — dark canvas + green CTA](https://design.withfudge.com/share/pin-7583)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7583)
 
-[![Product showcase on dark field](https://pin.fontofweb.com/7577?format=jpg)](https://design.withfudge.com/share/pin-7577)
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7582?format=jpg)](https://design.withfudge.com/share/pin-7582)
 
-[Product showcase on dark field](https://design.withfudge.com/share/pin-7577)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7582)
 
-[![Narrower home crop](https://pin.fontofweb.com/7582?format=jpg)](https://design.withfudge.com/share/pin-7582)
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7581?format=jpg)](https://design.withfudge.com/share/pin-7581)
 
-[Narrower home crop](https://design.withfudge.com/share/pin-7582)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7581)
 
-[![Partners pricing](https://pin.fontofweb.com/3066?format=jpg)](https://design.withfudge.com/share/pin-3066)
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7580?format=jpg)](https://design.withfudge.com/share/pin-7580)
 
-[Partners pricing](https://design.withfudge.com/share/pin-3066)
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7580)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7579?format=jpg)](https://design.withfudge.com/share/pin-7579)
+
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7579)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7578?format=jpg)](https://design.withfudge.com/share/pin-7578)
+
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7578)
+
+[![Dub - The Modern Link Attribution Platform](https://pin.fontofweb.com/7577?format=jpg)](https://design.withfudge.com/share/pin-7577)
+
+[Dub - The Modern Link Attribution Platform](https://design.withfudge.com/share/pin-7577)
+
+[![Pricing | Dub](https://pin.fontofweb.com/3066?format=jpg)](https://design.withfudge.com/share/pin-3066)
+
+[Pricing | Dub](https://design.withfudge.com/share/pin-3066)
+
+## Design character
+
+dub.co has a mixed light and dark surface treatment across 9 captured pages. The strongest recurring signals are 3 captured type families, 18 recurring colors, and 89 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **9 pages** and 8 representative page references. It records 250 color rows, 57 typography rows, 66 spacing rows, 17 border rows, 1 gradient rows, and 5 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#0a0a0a` | color · unknown | 4339 |
+| `#000000` | background-color · unknown | 4057 |
+| `#171717` | background-color · unknown | 412 |
+| `#fafafa` | color · unknown | 388 |
+| `#ffffff` | background-color · unknown | 353 |
+| `#f5f5f5` | background-color · unknown | 272 |
+| `#262626` | color · unknown | 199 |
+| `#737373` | color · footer | 182 |
+| `#e5e5e5` | border-color · footer | 91 |
+| `#525252` | color · button | 50 |
+| `#a3a3a3` | color · unknown | 28 |
+| `#404040` | color · button | 11 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 16px · 400 · 24px | 5019 |
+| **Satoshi** | 48px · 500 · 48px | 97 |
+| **Geist Mono** | 24px · 500 · 32px | 10 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 16px` for padding, `0px 296.5px` for margin, `96px 16px 128px` for padding, `112px 40px` for padding, `56px 40px` for padding, and `80px 48px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 8px` (63), `0px none 16px 16px 0px 0px` (50), `1px 1px 0px solid 20px 20px 0px 0px` (34), `0px none 12px` (25), `1px solid 12px` (6), and `1px solid 9999px` (4). 1 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **button**, **footer**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#0a0a0a`
+- `#000000`
 - `#171717`
-- `#737373`
-- `#16a34a`
+- `#fafafa`
 - `#ffffff`
+- `#f5f5f5`
+- `#262626`
+- `#737373`
+- `#e5e5e5`
+- `#525252`
+- `#a3a3a3`
+- `#404040`
+- `#ea580c`
+- `#d4d4d4`
+- `#16a34a`
+- `#111827`
+
+## Typography captured from dub.co
+
+- **Inter** — weight 400 · size 16px
+- **Satoshi** — weight 500 · size 48px
+- **Geist Mono** — weight 500 · size 24px

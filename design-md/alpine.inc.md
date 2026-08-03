@@ -2,77 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Alpine.inc presents as **premium dark SaaS theater**: near-black stages, crisp white geometric wordmark, large light headlines, and floating product UI mockups (messaging, calendar-like surfaces) that glow softly above the void. The marketing site sells calm capability—sparse sections, deliberate emptiness, and a single cool blue accent—rather than feature laundry lists.
-
-What should survive adaptation:
-- True dark canvas with high-contrast white type
-- Product UI shown inside rounded floating frames
-- One cool accent (measured blue around `#4595f5`) used sparingly
-- Luxury-software pacing: fewer modules, more air
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#4595f5`, `#ffffff`, `#5b5b62`. Core set: deep black/charcoal background, white primary text, muted gray (`#5b5b62`-range) secondary text, white surfaces inside mockups, and blue accent for interactive or brand sparks. Keep secondary text dim enough for hierarchy but still readable on black.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 12px
-- **text**: unknown, weight 400, 12px
-- **text**: unknown, weight 400, 20px, lh 32px
-- **text**: unknown, weight 400, 40px, lh 48px
-- **text**: unknown, weight 400, 12px
-- **text**: unknown, weight 400, 40px, lh 48px
-- **text**: unknown, weight 400, 20px, lh 34px
-- **text**: unknown, weight 400, 20px, lh 24px
-- **text**: unknown, weight 400, 52px, lh 52px
-- **text**: unknown, weight 400, 29px, lh 34.8px
-- **text**: unknown, weight 400, 12px
-- **text**: unknown, weight 400, 16px, lh 24px
-
-Large geometric sans headlines in white; smaller gray body; UI inside mockups uses compact app type. Tracking on big lines stays controlled. The wordmark is part of the type system—simple, wide, modern.
-
-### Spacing and layout
-
-Recurring spacing measurements include 2.5px, 16px, 18px, 20px, 32px, 48px, 56px, 62px, 64px, 72px, 100px, 128px, 155px. Sections are vertically roomy. Hero often pairs a short headline stack with a large product visual. Multi-column feature rows appear only when mockups need side-by-side comparison; otherwise single-focus bands dominate. Observed corner radii include 1px, 4px, 12px, 16px, 24px, 9999px.
-
-## Visual language
-
-Soft shadows under mockup cards create the main depth cue. Borders are hairline or absent. Gradients, if present, are subtle atmospheric glows—not rainbow mesh. Avoid cluttering the dark field with bright multi-colored illustrations.
-
-## Components and states
-
-- **Transparent/dark header** with wordmark and minimal text links
-- **Hero**: headline + supporting line + primary CTA + product frame
-- **Feature bands**: short copy + UI screenshot cards
-- **Buttons**: high-contrast light fills or blue accents on dark
-- **Mockup chrome**: rounded rectangles, muted internal UI grays
-
-## Responsive behavior
-
-Multiple home widths (~1641–2048px) show the same dark system scaling: mockups shrink, type reflows, margins hold. On smaller screens stack mockups below headlines and keep the black field continuous.
-
-## Practical guidance
-
-**Preserve**
-- Dark stage, white type, sparse sectioning
-- Floating rounded product frames with soft depth
-- Single blue accent discipline
-
-**Avoid**
-- Light-mode defaulting that breaks the brand night sky
-- Rainbow charts and loud badge rows on the marketing shell
-- Tiny low-contrast gray copy on black
-
-## Scope note
-
-Studied 8 page captures on paths /. Some structural families were incomplete on these pages. All studied captures are home marketing views at multiple widths; in-app product chrome beyond mockups is inferred only visually.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -108,8 +38,95 @@ Studied 8 page captures on paths /. Some structural families were incomplete on 
 
 [Alpine](https://design.withfudge.com/share/pin-7695)
 
+## Design character
+
+alpine.inc has a predominantly dark surface treatment across 10 captured pages. The strongest recurring signals are 3 captured type families, 23 recurring colors, and 37 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **10 pages** and 8 representative page references. It records 200 color rows, 42 typography rows, 24 spacing rows, 7 border rows, 2 gradient rows, and 4 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 22880 |
+| `#16161a` | background-color · unknown | 608 |
+| `#2c2338` | background-color · unknown | 410 |
+| `#0b0b0d` | color · unknown | 376 |
+| `#ffffff` | background-color · unknown | 301 |
+| `#f9f9fe` | color · unknown | 95 |
+| `#121214` | box-shadow · unknown | 63 |
+| `#f8f8fc` | background-color · unknown | 62 |
+| `#f5f5ff` | color · unknown | 49 |
+| `#00000a` | color · unknown | 46 |
+| `#1a1816` | color · unknown | 44 |
+| `#0000ee` | color · unknown | 43 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 12px · 400 · normal | 11520 |
+| **Inter** | 20px · 400 · 32px | 543 |
+| **Dm Serif** | 40px · 400 · 48px | 252 |
+
+### Spacing and layout
+
+The most repeated spacing values are `155px 0px 0px` for padding, `96px 0px 0px` for padding, `72px 0px 0px` for padding, `128px` for padding, `0px 128px` for padding, and `100px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 1px` (122), `0px none 24px` (62), `0px none 16px` (61), `0px none 9999px` (43), `0px none 4px` (42), and `0px none 12px` (2). 2 gradient rows and 4 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 10 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#4595f5`
+- `#000000`
+- `#16161a`
+- `#2c2338`
+- `#0b0b0d`
 - `#ffffff`
+- `#f9f9fe`
+- `#121214`
+- `#f8f8fc`
+- `#f5f5ff`
+- `#00000a`
+- `#1a1816`
+- `#0000ee`
+- `#00000d`
 - `#5b5b62`
+- `#ffde18`
+- `#27272b`
+
+## Typography captured from alpine.inc
+
+- **System** — weight 400 · size 12px
+- **Inter** — weight 400 · size 20px
+- **Dm Serif** — weight 400 · size 40px

@@ -2,119 +2,105 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/foundation.app-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Foundation is a **light, gallery-first NFT marketplace** where art fills large rounded tiles and chrome stays minimal. The home experience can open as a full-bleed artwork stage with a floating frosted search pill; browse/gallery views switch to a clean white shell, big “Browse” wordmark, soft segmented tabs, and a 2-up (or denser) grid of exhibition cards with glass-stat footers.
-
-What should survive adaptation:
-
-- **Art-forward canvases** — artwork is the hero; UI is thin and light.
-- **White app shell** with black primary actions and soft gray pills.
-- **Large radius media cards** (~12px) and fully pill search/filter controls.
-- Frosted / translucent **stats bars** over art (creators, sold, ETH totals).
-- Sparse type: huge black display “Browse”, otherwise 14–16px UI.
-
-## Foundations
-
-### Color
-
-No structured palette rows. From captures:
-
-| Role | Hex (approx.) | Use |
-|------|----------------|-----|
-| Canvas | `#ffffff` | Browse / galleries shell |
-| Ink | `#0a0a0a` | Headlines, primary buttons |
-| Muted text | `#6b6b6b` | Meta stats labels |
-| Soft pill | `#f2f2f2` / `#efefef` | Search field, inactive tabs |
-| Active tab chip | light gray fill + black label | “Galleries” |
-| Primary CTA | `#000000` text on black btn → white label | Create |
-| Accent orb | mint/green gradient dot | Profile/status beside Create |
-| Overlay stats | translucent dark glass | Card footers on art |
-
-Home splash may invert to artwork-dominated dark photography with white frosted search — still the same soft-pill language.
-
-### Typography
-
-Families not declared. System is a **grotesk sans**:
-
-| Role | Size | Weight | LH |
-|------|------|--------|-----|
-| UI body | 16px | 400 | tight / default |
-| Emphasis UI | 14–16px | 600 | ~20px |
-| Card/section title | 32px | 500 | 40px |
-| Display “Browse” | very large black sans | ~700 visual | tight |
-
-### Spacing and layout
-
-- Horizontal page padding often **48px**; dense chip padding **16×20**.
-- Card grid with ~12px radius; pill controls at 9999 radius.
-- Mint detail views use 8px radius and 8–12px padding on dense forms.
-- Home: centered floating search over full-bleed art; browse: header + tab row + masonry/grid of gallery cards.
-
-## Visual language
-
-- Soft, almost borderless cards; image is the surface.
-- Pill search with leading icon; black pill Create.
-- Glassmorphism only on on-art stat strips, not on chrome.
-- Minimal shadow; separation via whitespace and light gray chips.
-
-## Components and states
-
-1. **Top nav** — mark, Feed/Trending, center search pill, theme toggle, Create, avatar orb.
-2. **Segmented category tabs** — NFTs / Collections / Drops / Galleries.
-3. **Gallery card** — full-bleed art, centered title, optional logo chip, bottom stats row.
-4. **Sort control** — “Most active” outlined pill.
-5. **Mint/detail surfaces** — denser forms, 8px inputs (from mint captures).
-
-## Responsive behavior
-
-All primary captures ~1712×1314. Grid stays multi-column on desktop; mobile-specific layout not in set. Radius and pill language should hold when columns drop.
-
-## Practical guidance
-
-**Preserve**
-
-- White shell, black CTAs, art-first cards.
-- Frosted search and glass stats as the only “effects.”
-- Huge quiet display type for section titles.
-- 12px media radius + full pills for controls.
-
-**Avoid**
-
-- Heavy marketplace clutter (rainbow badges everywhere).
-- Dark-mode-default chrome on browse (home art stage is the exception).
-- Sharp 2–4px admin radii on gallery cards.
-- Competing brand colors in the shell.
-
-## Scope note
-
-Eight captures including home, galleries browse/trending, profile/collection paths, and a mint page. Color roles and font families unsupported in structure; visual palette from screenshots. Spacing on gallery views partially truncated.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home art stage](https://pin.fontofweb.com/8481?format=jpg)](https://design.withfudge.com/share/pin-8481)
+[![Colorful Encounter | Foundation](https://pin.fontofweb.com/8482?format=jpg)](https://design.withfudge.com/share/pin-8482)
 
-[Home art stage](https://design.withfudge.com/share/pin-8481)
+[Colorful Encounter | Foundation](https://design.withfudge.com/share/pin-8482)
 
-[![Browse galleries](https://pin.fontofweb.com/8480?format=jpg)](https://design.withfudge.com/share/pin-8480)
+[![Foundation](https://pin.fontofweb.com/8481?format=jpg)](https://design.withfudge.com/share/pin-8481)
 
-[Browse galleries](https://design.withfudge.com/share/pin-8480)
+[Foundation](https://design.withfudge.com/share/pin-8481)
 
-[![Trending galleries](https://pin.fontofweb.com/8479?format=jpg)](https://design.withfudge.com/share/pin-8479)
+[![Galleries | Foundation](https://pin.fontofweb.com/8480?format=jpg)](https://design.withfudge.com/share/pin-8480)
 
-[Trending galleries](https://design.withfudge.com/share/pin-8479)
+[Galleries | Foundation](https://design.withfudge.com/share/pin-8480)
 
-[![Mint detail](https://pin.fontofweb.com/8482?format=jpg)](https://design.withfudge.com/share/pin-8482)
+[![Galleries | Foundation](https://pin.fontofweb.com/8479?format=jpg)](https://design.withfudge.com/share/pin-8479)
 
-[Mint detail](https://design.withfudge.com/share/pin-8482)
+[Galleries | Foundation](https://design.withfudge.com/share/pin-8479)
+
+[![Page not found | Foundation](https://pin.fontofweb.com/8478?format=jpg)](https://design.withfudge.com/share/pin-8478)
+
+[Page not found | Foundation](https://design.withfudge.com/share/pin-8478)
+
+[![Page not found | Foundation](https://pin.fontofweb.com/8477?format=jpg)](https://design.withfudge.com/share/pin-8477)
+
+[Page not found | Foundation](https://design.withfudge.com/share/pin-8477)
+
+[![0xDd41…304e | Foundation](https://pin.fontofweb.com/8476?format=jpg)](https://design.withfudge.com/share/pin-8476)
+
+[0xDd41…304e | Foundation](https://design.withfudge.com/share/pin-8476)
+
+[![JIMMY (@JIMMY) | Foundation](https://pin.fontofweb.com/8475?format=jpg)](https://design.withfudge.com/share/pin-8475)
+
+[JIMMY (@JIMMY) | Foundation](https://design.withfudge.com/share/pin-8475)
+
+## Design character
+
+foundation.app has a predominantly dark surface treatment across 17 captured pages. The strongest recurring signals are 1 captured type family, 3 recurring colors, and 245 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **17 pages** and 8 representative page references. It records 404 color rows, 152 typography rows, 160 spacing rows, 70 border rows, 3 gradient rows, and 12 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 37804 |
+| `#171717` | color · unknown | 924 |
+| `#ffffff` | background-color · unknown | 547 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Font** | 16px · 400 · normal | 19180 |
+
+### Spacing and layout
+
+The most repeated spacing values are `16px 20px` for padding, `0px 48px` for padding, `0px 0px 0px -68.8px` for margin, `57.25px 48px 57.25px 0px` for padding, `8px 48px` for padding, and `16px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid none none 0px` (467), `1px solid 9999px` (225), `0px none 8px` (100), `1px 0px solid none 0px` (86), `0px none 9999px` (42), and `0px none 16px` (35). 3 gradient rows and 12 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **main**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 17 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
+- `#000000`
+- `#171717`
 - `#ffffff`
-- `#0a0a0a`
-- `#6b6b6b`
-- `#f2f2f2`
-- `#efefef`
-- `#111111`
+
+## Typography captured from foundation.app
+
+- **Font** — weight 400 · size 16px

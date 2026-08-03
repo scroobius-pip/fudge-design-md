@@ -2,103 +2,79 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/crowprose.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Crowprose is a **quiet long-form writing site**—almost anti-chrome. Black text on pure white, a single centered column, a plain wordmark header, and essay titles that sit like book chapter heads with a hard rule beneath. Personality comes from the prose, not from UI decoration.
-
-What should survive adaptation:
-
-- **Single-column reading measure** with huge side margins on wide screens.
-- **Minimal header**: small bold wordmark left, almost nothing else.
-- **Essay title + thick horizontal rule** as the only structural flourish.
-- Body copy that feels editorial (comfortable 16px / 24px rhythm).
-- Zero cards, gradients, or marketing CTAs in the reading path.
-
-## Foundations
-
-### Color
-
-No structured palette rows were retained. Visually:
-
-- **Canvas**: pure white.
-- **Text**: pure black for titles and body.
-- **Rules / hairlines**: black horizontal rules under titles; lighter rules between essay sections.
-- No accent color is required for the reading system.
-
-### Typography
-
-Declared families not retained. Measured:
-
-- **Post title**: ~**36px** / ~39.6px line-height, weight 400, strong and slightly tight.
-- **Body**: **16px / 24px** weight 400 (dominant).
-- **Supporting**: 14–20px at 400 for list/index contexts; blog index may use 18–20px titles.
-- Single-weight calm sans (or system-like) reading face—no display circus.
-
-### Spacing and layout
-
-- Wide desktop (~2048px captures): content column centered with **~428–628px** side margins—measure stays narrow for reading.
-- Vertical padding on the column ~**32px**; horizontal pad ~**24px**.
-- Article body stacks paragraphs with comfortable gaps; section break via thin rule + spacing rather than cards.
-- Blog index lists titles in the same centered column language.
-
-## Visual language
-
-- **No radii, shadows, or borders** retained as a system—surfaces are flat page white.
-- Decoration limited to **horizontal rules**.
-- No photography required in the captured essay views.
-- Motion: none established.
-
-## Components and states
-
-### Site header
-Left-aligned bold wordmark (“Crowprose”); empty right side in captures.
-
-### Essay header
-Large title, full-width thick rule under the title block, then body.
-
-### Body paragraphs
-Flush-left, generous line length control via outer margins, standard paragraph spacing.
-
-### Blog index
-Same chrome; list of writing entries as text links/titles without card wrappers.
-
-## Responsive behavior
-
-Only wide ~2048×1194 captures returned. Side margins will necessarily shrink on smaller viewports; exact mobile type sizes are not in this set—keep the single column and rules when adapting down.
-
-## Practical guidance
-
-**Preserve**
-
-1. White page, black type, no accent dependency.
-2. Centered narrow measure with large outer margins on desktop.
-3. Title + heavy rule motif.
-4. Header reduced to a wordmark.
-5. Editorial calm—let sentences carry hierarchy.
-
-**Avoid**
-
-1. Card grids, hero illustrations, or SaaS marketing patterns.
-2. Colored backgrounds or brand gradients.
-3. Multi-column article chrome or sticky share bars (not part of this system).
-4. Claiming a specific font licence from this guide.
-
-**Adaptation recipe**
-
-- Wordmark → title → rule → 16/24 body in one column. Stop adding UI.
-
-## Scope note
-
-Studied from two captures: blog index (`/blog/`) and essay (`/blog/competence-as-tragedy/`) at wide desktop. Supported: reading measure, header minimalism, title rule, type sizes. Not established: mobile, color roles, font family, interactive states.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Blog index](https://pin.fontofweb.com/6283?format=jpg)](https://design.withfudge.com/share/pin-6283)
+[![Writing | Joe McKenney](https://pin.fontofweb.com/6283?format=jpg)](https://design.withfudge.com/share/pin-6283)
 
-[Blog index](https://design.withfudge.com/share/pin-6283)
+[Writing | Joe McKenney](https://design.withfudge.com/share/pin-6283)
 
-[![Essay — Competence as Tragedy](https://pin.fontofweb.com/6282?format=jpg)](https://design.withfudge.com/share/pin-6282)
+[![Competence as Tragedy](https://pin.fontofweb.com/6282?format=jpg)](https://design.withfudge.com/share/pin-6282)
 
-[Essay — Competence as Tragedy](https://design.withfudge.com/share/pin-6282)
+[Competence as Tragedy](https://design.withfudge.com/share/pin-6282)
+
+## Design character
+
+crowprose.com has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 2 recurring colors, and 5 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 24 color rows, 10 typography rows, 5 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#1a1a1a` | color · unknown | 2237 |
+| `#4d4d4d` | color · header | 64 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Din 1451 Std** | 16px · 400 · 24px | 2301 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 16px` for margin, `32px 24px` for padding, `0px 428px` for margin, and `0px 628px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#1a1a1a`
+- `#4d4d4d`
+
+## Typography captured from crowprose.com
+
+- **Din 1451 Std** — weight 400 · size 16px

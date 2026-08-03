@@ -2,90 +2,85 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/gamma.io-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-gamma.io (here: Bitcoin Ordinals/NFT market surface in captures) presents a **dark crypto gallery** with huge light display titles (~72px/600), soft gray body, and pill-heavy chrome (radius ~999). The system centers discovery — search/browse, large hero claim, and rounded media/collection cards on a near-black field. It feels contemporary web3 retail: dramatic type, generous section padding (88px wells), and glossy dark surfaces.
-
-What should survive adaptation:
-
-- Dark canvas + white/light display.
-- Pill controls everywhere (search, chips, CTAs).
-- Large hero typography (48–72px) with light secondary body (300–400).
-- Soft 8px cards inside a pill-forward chrome language.
-- Collection/NFT imagery as primary content blocks.
-
-## Foundations
-
-### Color
-
-No structured roles. Visual:
-
-| Role | Approx | Use |
-|------|--------|-----|
-| Canvas | `#0b0b0f` / black | Page |
-| Ink | `#ffffff` | Display |
-| Muted | `#a0a0a0` | Body |
-| Surface | `#14141a` | Cards |
-| Pill fill | `#1c1c24` / white inverse | Controls |
-
-### Typography
-
-| Role | Size | Weight | LH |
-|------|------|--------|-----|
-| Body | 16px | 400 | 24px |
-| Light body | 16–18px | 300 | 24–27px |
-| Display | 72px | 600 | ~83px |
-| Mid display | 48px | 600 | 56px |
-
-### Spacing and layout
-
-- Large **88px** padding wells on some sections; **32px** horizontal on others.
-- Wide side margins (~185px) on certain hero constructions.
-- Home = hero claim + browse modules + cards.
-
-## Visual language
-
-- Pill radius dominant (999); content cards ~8px.
-- Dark-on-dark elevation via subtle surface shifts.
-- NFT/ordinal imagery in rounded frames.
-
-## Components and states
-
-1. Dark top nav + wallet/CTA pill.
-2. Hero with oversized title.
-3. Search/browse pills.
-4. Card grid for collections/items.
-5. Footer links on dark.
-
-## Responsive behavior
-
-Two desktop captures at 1712×1314. Expect pill chrome to remain; hero type scales 72→48; margins shrink before pills do.
-
-## Practical guidance
-
-**Preserve** dark gallery, pill chrome, huge display, 8px media cards.  
-**Avoid** light marketplace defaults, sharp 2px admin widgets, tiny hero type.
-
-## Scope note
-
-Two home captures only. Colors/fonts not structured; radii/spacing from measurements + screenshot read. Broader app flows not in set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Gamma home hero](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/share/pin-8485)
+[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8485?format=jpg)](https://design.withfudge.com/share/pin-8485)
 
-[Gamma home hero](https://design.withfudge.com/share/pin-8485)
+[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/share/pin-8485)
 
-[![Gamma home sections](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/share/pin-8484)
+[![Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://pin.fontofweb.com/8484?format=jpg)](https://design.withfudge.com/share/pin-8484)
 
-[Gamma home sections](https://design.withfudge.com/share/pin-8484)
+[Gamma | Find & Buy Bitcoin Ordinals and NFTs](https://design.withfudge.com/share/pin-8484)
+
+## Design character
+
+gamma.io has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 4 recurring colors, and 21 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 45 color rows, 15 typography rows, 14 spacing rows, 6 border rows, 1 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | color · unknown | 2483 |
+| `#000000` | background-color · unknown | 1106 |
+| `#0c0c0d` | color · button | 970 |
+| `#1d1d1e` | background-color · unknown | 510 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Gamma Sans** | 16px · 400 · 24px | 2513 |
+| **Universal Sans** | 72px · 600 · 82.8px | 45 |
+
+### Spacing and layout
+
+The most repeated spacing values are `230px 32px` for padding, `0px 185.5px` for margin, `0px 40px` for padding, `140px 84.5px` for margin, `88px` for padding, and `0px 52px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 999px` (512) and `0px none 8px` (22). 1 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0b0b0f`
-- `#14141a`
-- `#1c1c24`
 - `#ffffff`
-- `#a0a0a0`
+- `#000000`
+- `#0c0c0d`
+- `#1d1d1e`
+
+## Typography captured from gamma.io
+
+- **Gamma Sans** — weight 400 · size 16px
+- **Universal Sans** — weight 600 · size 72px

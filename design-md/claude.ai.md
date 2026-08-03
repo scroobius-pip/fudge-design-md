@@ -2,127 +2,141 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/claude.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Claude.ai’s captured surfaces split into two related moods that share geometry:
-
-1. **Auth / product chrome** — warm off-white text on deep warm-black, soft large radii, restrained blue interactive accents  
-2. **Artifacts / canvases** — light paper surfaces, near-black text, terracotta/wine accents, denser tool UI  
-
-Overall: **warm, human, slightly literary**—never cold zinc-gray SaaS. Corners stay friendly; type stays calm.
-
-What should survive adaptation:
-
-- Warm neutrals (`#faf9f5` paper, ink browns/blacks) instead of pure #fff/#000 only
-- Soft 8–32px radius scale (pills for chip controls)
-- Accent discipline: terracotta/coral brand warmth *or* clear blue for linky actions—not both fighting
-- Quiet elevation (`0 1 2` style)
-
-## Foundations
-
-### Color
-
-Measured roles across captures:
-
-| Role | Values seen |
-|------|-------------|
-| text_primary | `#faf9f5` (dark UI), `#111111` / `#0f0c08` (light UI) |
-| text_secondary | `#c2c0b6` (dark), `#943040` used as secondary/accent in artifact |
-| accent | `#2c84db` (login actions), `#943040` (artifact emphasis) |
-
-Brand coral `#d97757` is part of the wider Claude family (stronger on claude.com) and may appear in marks.
-
-### Typography
-
-- Display on artifacts ~**56px**, very light weight (~290), lh ~67px — elegant, slightly bookish  
-- Body ~**14–16px**, weights 360–460 common (not only 400/700 steps)  
-- UI ~**14–18px**  
-- Login uses comfortable 16px forms with rounded shells  
-
-Families not declared; marketing Claude often pairs a serif display with sans UI—artifacts show refined sans/serif mix visually.
-
-### Spacing and layout
-
-- Compact tool padding **4–14px**; common **10–12px** control pads  
-- Artifact canvases use **20px** region padding  
-- Login centers a card/column on a warm dark field  
-- Narrow login (~387px) still keeps large touch radii (**32px**, **9.6px** inputs)
-
-## Visual language
-
-- Radii ladder: **3–8px** tight tools, **16–28px** cards/inputs, **32px** large buttons, **999** chips  
-- Shadows: subtle `y:1 blur:2–3`  
-- 1px borders on inputs and panels  
-- Limited palette, muted chroma (per taxonomy labels)
-
-## Components and states
-
-1. **Login card** — logo/wordmark, fields, primary button, legal links  
-2. **Artifact shell** — tool rails, canvas, compact icon buttons  
-3. **Chips/pills** — fully rounded filters or modes  
-4. **Text-forward empty/populated canvas** states  
-
-Editing/populated artifact states are present; hover not isolated.
-
-## Responsive behavior
-
-Strong: login at **~387px** and **~2048px**; artifacts at **~373–1712px**. Geometry scales by tightening padding and stacking, while radii stay generously touchable on small widths.
-
-## Practical guidance
-
-**Preserve**
-
-- Warm paper/ink palette  
-- Soft radii and light type on display  
-- Sparse accents  
-- Human, calm density  
-
-**Avoid**
-
-- Cold pure-gray ChatGPT clone styling as a stand-in  
-- Neon multi-accent dashboards  
-- Sharp dense enterprise tables as the default Claude feel  
-- Over-bold geometric display type  
-
-## Scope note
-
-Eight captures: login (narrow/wide) and a design artifact project at multiple widths. Color roles, radii, shadows solid. Full main chat shell and projects home were not the focus of this set; claude.com covers broader marketing.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Sign in — wide dark](https://pin.fontofweb.com/9549?format=jpg)](https://design.withfudge.com/share/pin-9549)
+[![Sign in - Claude](https://pin.fontofweb.com/9549?format=jpg)](https://design.withfudge.com/share/pin-9549)
 
-[Sign in — wide dark](https://design.withfudge.com/share/pin-9549)
+[Sign in - Claude](https://design.withfudge.com/share/pin-9549)
 
-[![Sign in — narrow](https://pin.fontofweb.com/9266?format=jpg)](https://design.withfudge.com/share/pin-9266)
+[![Sign in - Claude](https://pin.fontofweb.com/9266?format=jpg)](https://design.withfudge.com/share/pin-9266)
 
-[Sign in — narrow](https://design.withfudge.com/share/pin-9266)
+[Sign in - Claude](https://design.withfudge.com/share/pin-9266)
 
-[![Design artifact — light](https://pin.fontofweb.com/8938?format=jpg)](https://design.withfudge.com/share/pin-8938)
+[![Axya Design System](https://pin.fontofweb.com/8942?format=jpg)](https://design.withfudge.com/share/pin-8942)
 
-[Design artifact — light](https://design.withfudge.com/share/pin-8938)
+[Axya Design System](https://design.withfudge.com/share/pin-8942)
 
-[![Design artifact — narrow](https://pin.fontofweb.com/8937?format=jpg)](https://design.withfudge.com/share/pin-8937)
+[![Axya Design System](https://pin.fontofweb.com/8941?format=jpg)](https://design.withfudge.com/share/pin-8941)
 
-[Design artifact — narrow](https://design.withfudge.com/share/pin-8937)
+[Axya Design System](https://design.withfudge.com/share/pin-8941)
 
-[![Design artifact — editing](https://pin.fontofweb.com/8939?format=jpg)](https://design.withfudge.com/share/pin-8939)
+[![Axya Design System](https://pin.fontofweb.com/8940?format=jpg)](https://design.withfudge.com/share/pin-8940)
 
-[Design artifact — editing](https://design.withfudge.com/share/pin-8939)
+[Axya Design System](https://design.withfudge.com/share/pin-8940)
 
-[![Design artifact — pills](https://pin.fontofweb.com/8941?format=jpg)](https://design.withfudge.com/share/pin-8941)
+[![Axya Design System](https://pin.fontofweb.com/8939?format=jpg)](https://design.withfudge.com/share/pin-8939)
 
-[Design artifact — pills](https://design.withfudge.com/share/pin-8941)
+[Axya Design System](https://design.withfudge.com/share/pin-8939)
+
+[![Axya Design System](https://pin.fontofweb.com/8938?format=jpg)](https://design.withfudge.com/share/pin-8938)
+
+[Axya Design System](https://design.withfudge.com/share/pin-8938)
+
+[![Axya Design System](https://pin.fontofweb.com/8937?format=jpg)](https://design.withfudge.com/share/pin-8937)
+
+[Axya Design System](https://design.withfudge.com/share/pin-8937)
+
+## Design character
+
+claude.ai has a mixed light and dark surface treatment across 42 captured pages. The strongest recurring signals are 8 captured type families, 44 recurring colors, and 504 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **42 pages** and 8 representative page references. It records 999 color rows, 286 typography rows, 356 spacing rows, 104 border rows, 14 gradient rows, and 30 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#faf9f5` | color · unknown | 41114 |
+| `#000000` | color · unknown | 18288 |
+| `#ffffff` | color · unknown | 9526 |
+| `#f8f8f6` | color · unknown | 9332 |
+| `#111111` | color · unknown | 5996 |
+| `#141413` | background-color · unknown | 5222 |
+| `#1f1f1e` | background-color · unknown | 4680 |
+| `#1f1e1d` | background-color · main | 2043 |
+| `#0f0c08` | background-color · unknown | 1517 |
+| `#262624` | background-color · main | 1355 |
+| `#dedcd1` | border-color · main | 880 |
+| `#c2c0b6` | color · main | 657 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Anthropic Sans** | 16px · 400 · 24px | 59572 |
+| **Applesystem** | 14px · 400 · normal | 7077 |
+| **Anthropic Serif** | 56px · 290 · 67.2px | 653 |
+| **Inter** | 10px · 500 · normal | 163 |
+| **Open Dyslexic** | 24px · 400 · 32px | 141 |
+| **Jet Brains Mono** | 9.6px · 400 · 12.8px | 65 |
+| **Arial** | 13.3333px · 400 · normal | 7 |
+| **System** | 24px · 400 · 32px | 1 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 192px` for margin, `192px` for margin-bottom, `0px 308px` for margin, `308px` for margin-right, `308px` for margin-left, and `16px` for gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 16px` (3624), `1px solid 24px` (250), `0.5px solid 12px` (188), `0.5px solid 32px` (183), `1px solid 8px` (144), and `0px none 8px` (119). 14 gradient rows and 30 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **main**, **button**, **footer**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 42 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#faf9f5`
-- `#0f0c08`
+- `#000000`
+- `#ffffff`
+- `#f8f8f6`
 - `#111111`
-- `#943040`
-- `#2c84db`
+- `#141413`
+- `#1f1f1e`
+- `#1f1e1d`
+- `#0f0c08`
+- `#262624`
+- `#dedcd1`
 - `#c2c0b6`
-- `#d97757`
-- `#87867f`
+- `#30302e`
+- `#9c9a92`
+- `#74abe2`
+- `#f0eee6`
+
+## Typography captured from claude.ai
+
+- **Anthropic Sans** — weight 400 · size 16px
+- **Applesystem** — weight 400 · size 14px
+- **Anthropic Serif** — weight 290 · size 56px
+- **Inter** — weight 500 · size 10px
+- **Open Dyslexic** — weight 400 · size 24px
+- **Jet Brains Mono** — weight 400 · size 9.6px
+- **Arial** — weight 400 · size 13.3333px
+- **System** — weight 400 · size 24px

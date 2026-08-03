@@ -2,79 +2,99 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/agenticui.net-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Agentic UI presents as a **cinematic dark product teaser**: full-bleed moody photography, huge white wordmark typography stacked vertically, and almost no traditional marketing chrome. It feels like a fashion/editorial launch for a design system or product drop—mystery first, utility later (preorder path).
-
-What should survive:
-
-- Dark photographic full-bleed grounds.
-- Oversized, tightly leading display type as the brand.
-- Minimal nav; preorder as a quiet destination rather than a busy funnel.
-- High contrast white type on image, not busy cards.
-
-## Foundations
-
-### Color
-
-- **Ground**: black / image-driven darks.
-- **Type**: white primary; small secondary labels.
-- Sparse UI—few measured role colors returned; the system is photo + type.
-
-### Typography
-
-- Massive display sans/serif hybrid feel in stacked “AGENTIC” style lettering (visual).
-- Body/UI sparse ~13–16px where present on preorder.
-- Letterspacing and scale do more work than weight variety.
-
-### Spacing and layout
-
-- Full-viewport heroes; content centered or dramatically placed on the photo.
-- Little conventional grid chrome on the landing captures.
-- Preorder views introduce simpler form-like spacing without dense app structure.
-
-## Visual language
-
-- Editorial photography (figures, atmosphere).
-- Typography as graphic poster.
-- Near-absent borders/shadows on the marketing surface.
-
-## Components and states
-
-1. **Poster home** — full-bleed image + giant identity type.
-2. **Preorder** — reduced page for intent capture; still dark and minimal.
-3. **Minimal nav/footer** if present—never competing with the poster.
-
-## Responsive behavior
-
-Home and preorder at wide and mid widths. The poster idea scales by cropping photography and reflowing giant type; detailed mobile components not richly documented.
-
-## Practical guidance
-
-**Preserve** poster-level type, photographic darkness, and restraint.  
-**Avoid** turning the brand into a generic SaaS feature grid on first paint.  
-**Adapt** preorder to stay on-brand: few fields, same dark field, one clear action.
-
-## Scope note
-
-Four captures (home + preorder). Structured color/type roles were thin—guide relies on screenshot reading of the cinematic system.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — cinematic poster](https://pin.fontofweb.com/5932?format=jpg)](https://design.withfudge.com/share/pin-5932)
+[![Agentic Design System](https://pin.fontofweb.com/5933?format=jpg)](https://design.withfudge.com/share/pin-5933)
 
-[Home — cinematic poster](https://design.withfudge.com/share/pin-5932)
+[Agentic Design System](https://design.withfudge.com/share/pin-5933)
 
-[![Home — mid width](https://pin.fontofweb.com/5933?format=jpg)](https://design.withfudge.com/share/pin-5933)
+[![Agentic Design System](https://pin.fontofweb.com/5932?format=jpg)](https://design.withfudge.com/share/pin-5932)
 
-[Home — mid width](https://design.withfudge.com/share/pin-5933)
+[Agentic Design System](https://design.withfudge.com/share/pin-5932)
 
-[![Preorder — wide](https://pin.fontofweb.com/5930?format=jpg)](https://design.withfudge.com/share/pin-5930)
+[![Preorder Agentic UI](https://pin.fontofweb.com/5931?format=jpg)](https://design.withfudge.com/share/pin-5931)
 
-[Preorder — wide](https://design.withfudge.com/share/pin-5930)
+[Preorder Agentic UI](https://design.withfudge.com/share/pin-5931)
 
-[![Preorder — compact](https://pin.fontofweb.com/5931?format=jpg)](https://design.withfudge.com/share/pin-5931)
+[![Preorder Agentic UI](https://pin.fontofweb.com/5930?format=jpg)](https://design.withfudge.com/share/pin-5930)
 
-[Preorder — compact](https://design.withfudge.com/share/pin-5931)
+[Preorder Agentic UI](https://design.withfudge.com/share/pin-5930)
+
+## Design character
+
+agenticui.net has a mixed light and dark surface treatment across 4 captured pages. The strongest recurring signals are 3 captured type families, 6 recurring colors, and 0 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 53 color rows, 10 typography rows, 0 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 1393 |
+| `#616161` | color · unknown | 188 |
+| `#191919` | color · unknown | 43 |
+| `#8c8c8c` | color · unknown | 19 |
+| `#0000ee` | color · unknown | 8 |
+| `#7d7d7d` | color · unknown | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Geist** | 16px · 400 · 22.4px | 212 |
+| **Inter** | 14px · 400 · 19.6px | 10 |
+| **Ibm Plex Mono** | 10px · 400 · 11px | 6 |
+
+### Spacing and layout
+
+No structured spacing observations were returned.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#616161`
+- `#191919`
+- `#8c8c8c`
+- `#0000ee`
+- `#7d7d7d`
+
+## Typography captured from agenticui.net
+
+- **Geist** — weight 400 · size 16px
+- **Inter** — weight 400 · size 14px
+- **Ibm Plex Mono** — weight 400 · size 10px

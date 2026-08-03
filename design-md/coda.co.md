@@ -2,118 +2,95 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/coda.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Coda’s Merchant of Record landing is calm B2B finance marketing: a soft warm-gray field, near-black headlines, olive-gray secondary copy, and a single black pill CTA. The page is sparse and editorial — one bold claim, one short subline, one action — then a large product mockup that does the selling. Soft 3D icons and rounded chip cards sit on the muted canvas without loud brand color.
-
-What should survive adaptation:
-
-- Warm light canvas (not pure white) with black primary type
-- Olive-gray secondary text (`#5a5a4f`) instead of cool slate
-- Extra-bold, slightly tight display headlines (~64px / weight 800)
-- Black solid pill CTAs as the only strong action
-- Large rounded cards (~23px) and softer chip radii (~14px)
-- Product UI mockups and soft 3D icons as the hero media
-
-## Foundations
-
-### Color
-
-Measured roles:
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Primary text | `#000000` | Headlines, nav wordmark, primary CTA fill/label contrast |
-| Secondary text | `#5a5a4f` | Supporting body, meta lines |
-
-Visually the page sits on a warm stone/gray canvas (not measured as a role color). Interactive emphasis is near-black rather than a saturated brand hue. Logo lockups and small product accents introduce blue/green only inside media — keep chrome monochrome.
-
-### Typography
-
-Declared font families were not captured; treat stacks as unknown and match by metrics and texture.
-
-Observed scale on the MoR landing:
-
-| Role | Size | Weight | Line-height | Notes |
-|------|------|--------|-------------|-------|
-| Display hero | ~64px | 800 | ~58px (tight) | Slight negative tracking (~-0.6px); multi-line claim |
-| Lead / subhead | ~23px | 400 | ~30px | Short supporting sentence under the hero |
-| Body / nav | 16px | 400 | 24px | Dominant reading size |
-| Compact / legal | 12px | 400 | ~14px | Footer and fine print |
-| Mid UI | ~16–18px | 400 | ~16–27px | Mockup chrome and secondary lines |
-
-Hierarchy is extreme: one heavy display line, then restrained regular-weight support. Avoid medium/semibold ladders; jump from regular body to extra-bold display.
-
-### Spacing and layout
-
-- Section and card padding clusters around ~46px and ~92px on the taller crop; denser mockup chrome uses ~14px and ~28px.
-- Hero is vertically centered in a wide, low-density field with generous side margin.
-- Content reads as a single centered column above a full-bleed product stage.
-- Density stays moderate — lots of open canvas between claim, CTA, and mockup.
-
-## Visual language
-
-- **Corners:** Pill-dominant CTAs (full round) plus large card radii ~23px and softer chips ~9–14px. Avoid sharp rectangles.
-- **Borders:** Sparse 1px solid edges on a few frames; most separation comes from fill contrast and radius, not heavy outlines.
-- **Shadows:** Not a defining system in the captures — elevation is subtle if present.
-- **Imagery:** Soft matte 3D icons (globe, chat, calendar, chart) and a large light product window with rounded chrome. Media is illustrative and friendly, not photographic.
-- **Background:** Solid muted field; no loud gradients in the marketing chrome.
-
-## Components and states
-
-Recurring pieces on the MoR page:
-
-1. **Top nav** — wordmark left; text links; black pill “Talk to sales” (or equivalent) right.
-2. **Hero stack** — extra-bold multi-line claim → olive-gray subcopy → single black pill CTA.
-3. **Product stage** — large rounded window showing app UI (tables, side rails, soft panels).
-4. **Icon chips** — rounded tiles with 3D glyphs for feature beats.
-5. **Footer** — compact 12px legal/meta on the same muted field.
-
-Visible states in stills: default marketing only. Do not invent hover/focus choreography beyond the clear default/emphasis contrast of black pills vs quiet text links.
-
-## Responsive behavior
-
-Only wide desktop viewports (~1700×830 and ~1710×1310) of the same path were captured. Treat the system as desktop-first centered marketing; do not claim mobile breakpoints from this set.
-
-## Practical guidance
-
-**Preserve**
-
-- Warm gray canvas + pure black type and CTAs
-- Olive secondary (`#5a5a4f`), not cool gray
-- Extra-bold tight display vs regular 16/24 body
-- Soft large radii and pill buttons
-- One primary action per hero; product mockup as proof
-
-**Avoid**
-
-- Saturated brand rainbows in chrome
-- Harsh pure-white clinical SaaS look
-- Skinny geometric display type or multi-weight UI ladders
-- Dense card grids competing with the hero claim
-- Sharp 2–4px corners that fight the pill language
-
-**Adaptation**
-
-Reuse the quiet finance-SaaS posture: muted field, black action, soft 3D/product proof. Swap only the mockup content and claim copy; keep the monochrome action model.
-
-## Scope note
-
-Studied two viewport captures of `https://coda.co/merchant-of-record/` (pins 6758, 6759). No other Coda paths, mobile widths, or declared font families were in this set. Background canvas hex and motion were not measured as roles — describe those from the screenshots as warm solid fields only.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![MoR landing — full hero and product stage](https://pin.fontofweb.com/6759?format=jpg)](https://design.withfudge.com/share/pin-6759)
+[![Your MoR Solution for Global Expansion | Coda](https://pin.fontofweb.com/6759?format=jpg)](https://design.withfudge.com/share/pin-6759)
 
-[MoR landing — full hero and product stage](https://design.withfudge.com/share/pin-6759)
+[Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/share/pin-6759)
 
-[![MoR landing — wide hero crop](https://pin.fontofweb.com/6758?format=jpg)](https://design.withfudge.com/share/pin-6758)
+[![Your MoR Solution for Global Expansion | Coda](https://pin.fontofweb.com/6758?format=jpg)](https://design.withfudge.com/share/pin-6758)
 
-[MoR landing — wide hero crop](https://design.withfudge.com/share/pin-6758)
+[Your MoR Solution for Global Expansion | Coda](https://design.withfudge.com/share/pin-6758)
+
+## Design character
+
+coda.co has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 3 captured type families, 8 recurring colors, and 31 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 61 color rows, 31 typography rows, 22 spacing rows, 9 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · unknown | 2768 |
+| `#f8f9eb` | color · unknown | 1453 |
+| `#5a5a4f` | background-color · unknown | 162 |
+| `#202020` | color · button | 5 |
+| `#ffffff` | color · unknown | 4 |
+| `#edeee1` | background-color · button | 3 |
+| `#002eff` | background-color · unknown | 2 |
+| `#671fff` | background-color · unknown | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 16px · 400 · 24px | 1857 |
+| **Abc Monument Grotesk** | 16.0528px · 400 · 22.9554px | 280 |
+| **Jet Brains Mono** | 12px · 400 · 14.4px | 61 |
+
+### Spacing and layout
+
+The most repeated spacing values are `91.7328px` for padding, `13.76px` for padding, `0px 0px 0px -13.76px` for margin, `45.8672px` for padding, `180.512px 36.6928px 0px` for padding, and `123.84px 13.76px 13.76px 27.52px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 13.76px` (229), `0px none 22.9328px` (178), `0px none 9.17276px` (4), and `1px solid 9999px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
+- `#f8f9eb`
 - `#5a5a4f`
+- `#202020`
+- `#ffffff`
+- `#edeee1`
+- `#002eff`
+- `#671fff`
+
+## Typography captured from coda.co
+
+- **System** — weight 400 · size 16px
+- **Abc Monument Grotesk** — weight 400 · size 16.0528px
+- **Jet Brains Mono** — weight 400 · size 12px

@@ -2,80 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/gemini.google-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-gemini.google marketing pages feel like Google product storytelling: vast white or soft-gradient canvases, centered product proof (Gemini UI frames, plan cards), and calm Material-adjacent chrome. The subscriptions surface is a pricing theater—three tall plan cards, soft rounded containers, and a single filled primary CTA per card—while image-generation overview pages lean into large illustrative product shots and generous whitespace.
-
-## Foundations
-
-### Color
-
-Structured role colors were not returned for these marketing captures. Visually: white/very light canvas, near-black headlines, medium gray body, Google blue primary buttons, and soft multi-stop gradients or product imagery for atmosphere. Keep the system airy; color is mostly product UI inside frames, not loud brand blocks.
-
-### Typography
-
-- 16px / weight 400 (undeclared UI sans, line-height 24px) — seen ~811 times
-- 16px / weight 400 (undeclared UI sans, line-height 22px) — seen ~80 times
-- 48px / weight 500 (undeclared UI sans, line-height 53px) — seen ~40 times
-- 20px / weight 500 (undeclared UI sans, line-height 28px) — seen ~36 times
-- 18px / weight 500 (undeclared UI sans, line-height 25px) — seen ~8 times
-- 16px / weight 500 (undeclared UI sans, line-height 24px) — seen ~7 times
-
-Marketing body locks to 16px regular. Emphasis and plan names step to 18–20px medium; hero/display clusters around 48px medium. Weight stays mostly 400–500—friendly, not black-heavy.
-
-### Spacing and layout
-
-- padding-left: 368px (×266)
-- padding-right: 368px (×266)
-- margin-bottom: 56px (×88)
-- padding-bottom: 10px (×88)
-- padding-left: 16px (×88)
-- padding-right: 16px (×88)
-- margin-top: 60px (×48)
-- margin-left: 160px (×40)
-
-Large horizontal padding (including very wide side padding on some frames) centers content. Plan cards sit in an even three-up row with generous internal padding. Sections breathe; this is anti-dense compared with news or dashboards.
-
-## Visual language
-
-- 100px (×8)
-- 4px (×2)
-- 2px (×1)
-
-Pill radii (~100px) appear on chips/CTAs; small 2–4px radii on tighter controls. Cards use soft large rounding. Borders are light 1px separators more than hard frames. Product screenshots float in rounded device/app chrome.
-
-## Components and states
-
-- **Plan cards** with price, feature list, and primary button
-- **Filled blue CTA** vs quiet text links
-- **Product frame** showcasing Gemini UI
-- **Feature rows** with icon + short copy
-- **Marketing nav** with restrained links
-
-Do not invent hover/focus specifics beyond the static filled vs outline button contrast visible in screenshots.
-
-## Responsive behavior
-
-Multiple widths appear across subscriptions and overview captures (roughly 1400–2048px wide crops). Layout stays centered marketing columns; expect cards to stack on narrower viewports while type scale remains marketing-large.
-
-## Practical guidance
-
-**Preserve**
-- Airy white marketing canvas and centered proof
-- Soft pills + large rounded cards
-- 16px body with ~48px medium display
-- One clear primary CTA per card
-
-**Avoid**
-- Dark “AI terminal” skins on these marketing URLs
-- Dense admin tables or harsh black borders
-- Over-saturated non-Google accent rainbows in chrome
-
-## Scope note
-
-Eight captures across `/subscriptions/` and `/overview/image-generation/`. App shell styling lives more on gemini.google.com; this guide is the public marketing system.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -110,3 +37,74 @@ Eight captures across `/subscriptions/` and `/overview/image-generation/`. App s
 [![Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://pin.fontofweb.com/4440?format=jpg)](https://design.withfudge.com/share/pin-4440)
 
 [Google AI Pro & Ultra — get access to Gemini 2.5 Pro & more](https://design.withfudge.com/share/pin-4440)
+
+## Design character
+
+gemini.google has a predominantly dark surface treatment across 12 captured pages. The strongest recurring signals are 1 captured type family, 5 recurring colors, and 11 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **12 pages** and 8 representative page references. It records 121 color rows, 10 typography rows, 8 spacing rows, 3 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · main | 1868 |
+| `#666666` | color · main | 84 |
+| `#078efb` | color · main | 8 |
+| `#e5e5e5` | border-color · main | 8 |
+| `#ffffff` | color · button | 4 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Google Sans** | 16px · 400 · 24px | 982 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 368px` for padding, `0px 16px 10px` for padding, `0px 0px 56px` for margin, `60px 0px 0px` for margin, `0px 160px` for margin, and `16px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 100px` (8), `0px none 4px` (2), and `0px none 2px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 12 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#666666`
+- `#078efb`
+- `#e5e5e5`
+- `#ffffff`
+
+## Typography captured from gemini.google
+
+- **Google Sans** — weight 400 · size 16px

@@ -2,138 +2,125 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/continue.dev-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Continue’s marketing site is **quiet, airy developer infrastructure branding**: pale gray-to-white fields, near-black hairline UI, and oversized **light-weight display type** (56–64px at weight ~300) with tight negative tracking. The emotional center is abstract ink-and-geometry art—violet/indigo splatter and ruled technical linework in a white frame—paired with a floating product UI card (PR review / Anti-Slop checks). Primary actions are solid **near-navy/black pills** (`#020817`), not rainbow gradients. About and careers keep the same whisper-quiet chrome with list rows and a single art panel.
-
-What should survive adaptation:
-
-- Pale neutral canvas + ink-black type
-- Ultra-light large display headlines (weight ~300, 56–64px, tracking ~−1.4 to −1.6px)
-- Dark solid CTA (`#020817` / `#0f172a` family) and text-link secondary
-- Abstract technical art as the only loud visual
-- Soft product cards with light borders and restrained shadows
-- Airy spacing; never dense marketing clutter
-
-## Foundations
-
-### Color
-
-Measured roles (home):
-
-- **Accent / primary action fill:** `#020817`
-- **Primary text:** `#020817`
-- **Secondary text:** `#0f172a` (also reads as deep navy family—visually near-black)
-
-Visually extended:
-
-- **Canvas:** soft light gray / off-white gradient wash behind hero
-- **Surfaces:** pure white product cards and art frames
-- **Art accents:** indigo/violet ink, graphite technical lines, magenta wash on About art
-- **Status in product mock:** soft red/pink “needs review” rows; green/red diff markers in code
-
-The brand color story is essentially **black ink on paper** plus one artwork’s hue.
-
-### Typography
-
-No declared families. Clear ladder:
-
-- **Display:** 56px / 58.8px lh and 64px / 67.2–70.4px lh, **weight 300**, letter-spacing about **−1.4 to −1.6px**
-- **Body:** 16px / 24px weight 400
-- **Deck / supporting:** 15–18px
-- **Eyebrow / meta:** 11–12px, sometimes with positive letter-spacing (~0.275–2.4px) for small-caps feel labels (“CONTINUOUS AI”, “ABOUT US”, “SAN FRANCISCO”)
-- **UI in mock:** 14px medium for controls
-
-The light display weight is the signature—do not bold the hero into a heavy SaaS slab.
-
-### Spacing and layout
-
-- Common vertical rhythm: **24px** margins/padding; section blocks with **40–56px** padding
-- Hero: split composition—copy left, art right; product UI card overlapping below
-- About: copy left + square art right; openings as full-width rows
-- Horizontal padding on cards often **20–24px**
-- Wide captures (1670–2048px) with lots of negative space
-
-## Visual language
-
-- **Radii:** pill CTAs **9999px**; small controls ~**6px**; product chrome softly rounded
-- **Borders:** 1px light gray hairlines on cards, job rows, and section rules
-- **Shadows:** soft stacked elevation on the product card (e.g. y:1 blur 2; y:4 blur 6 spread −4; y:10 blur 15 spread −3)—subtle, not neon glow
-- **Imagery:** signature abstract plots (ink + schematic grids); no stock photos of smiling teams
-- **Logo:** geometric mark + “Continue” wordmark, monochrome
-
-## Components and states
-
-- **Nav:** logo left; text links (Docs, Pricing, Blog, Sign in); minimal
-- **Hero CTA pair:** solid dark “Get started” + ghost/text “Test your PR →”
-- **Product preview card:** inbox/PR chrome, checklist sidebar, code diff panel
-- **About hero:** eyebrow label, light display title, two short paragraphs, framed art
-- **Backed-by row:** grayscale partner logos
-- **Job list:** bordered rows, title + one-line description, trailing arrow
-- **Footer:** simple text links + social icons on pale field
-
-States visible: default CTAs; list row hover not required to invent; review list shows “needs review” emphasis in the mock only.
-
-## Responsive behavior
-
-Multiple home and about viewports, all wide. The split hero (type | art) and overlapping product card are desktop compositions—on small screens stack art below type and keep the light display size scaled down rather than bolding up.
-
-## Practical guidance
-
-**Preserve**
-
-- Weight-300 oversized headlines with negative tracking
-- Pale paper canvas and near-black ink CTAs
-- Abstract technical art as brand theater
-- Quiet borders and soft card shadow only where product UI floats
-
-**Avoid**
-
-- Heavy bold heroes and saturated multi-color gradients
-- Crowded logo walls or loud illustration mashups
-- Turning the dark CTA into a bright startup blue/purple by default
-- Dense pricing-table energy on the marketing hero
-
-**Adaptation**
-
-- Keep `#020817` as both text and primary button fill for a monochrome authority feel
-- Use artwork hue sparingly (one accent family per page)
-- Match eyebrow labels with wide tracking small caps styling
-
-## Scope note
-
-Six captures: continue.dev home (hero, full viewport with product card, alternate hero art) and `/about-us` (team story + openings list). Measured navy/black text and accent `#020817` / `#0f172a`. No declared font families. Docs/app surfaces not included.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — hero strip](https://pin.fontofweb.com/8680?format=jpg)](https://design.withfudge.com/share/pin-8680)
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8680?format=jpg)](https://design.withfudge.com/share/pin-8680)
 
-[Home — hero strip](https://design.withfudge.com/share/pin-8680)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/share/pin-8680)
 
-[![Home — hero + product card](https://pin.fontofweb.com/8679?format=jpg)](https://design.withfudge.com/share/pin-8679)
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8679?format=jpg)](https://design.withfudge.com/share/pin-8679)
 
-[Home — hero + product card](https://design.withfudge.com/share/pin-8679)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/share/pin-8679)
 
-[![Home — quality control hero](https://pin.fontofweb.com/8678?format=jpg)](https://design.withfudge.com/share/pin-8678)
+[![Continue • Quality control for your software factory. | Continue](https://pin.fontofweb.com/8678?format=jpg)](https://design.withfudge.com/share/pin-8678)
 
-[Home — quality control hero](https://design.withfudge.com/share/pin-8678)
+[Continue • Quality control for your software factory. | Continue](https://design.withfudge.com/share/pin-8678)
 
-[![About — join the team](https://pin.fontofweb.com/6708?format=jpg)](https://design.withfudge.com/share/pin-6708)
+[![Continue • About Us](https://pin.fontofweb.com/6709?format=jpg)](https://design.withfudge.com/share/pin-6709)
 
-[About — join the team](https://design.withfudge.com/share/pin-6708)
+[Continue • About Us](https://design.withfudge.com/share/pin-6709)
 
-[![About — openings list](https://pin.fontofweb.com/6709?format=jpg)](https://design.withfudge.com/share/pin-6709)
+[![Continue • About Us](https://pin.fontofweb.com/6708?format=jpg)](https://design.withfudge.com/share/pin-6708)
 
-[About — openings list](https://design.withfudge.com/share/pin-6709)
+[Continue • About Us](https://design.withfudge.com/share/pin-6708)
 
-[![Home — alternate wide](https://pin.fontofweb.com/6707?format=jpg)](https://design.withfudge.com/share/pin-6707)
+[![Continue • Ship as fast as you code](https://pin.fontofweb.com/6707?format=jpg)](https://design.withfudge.com/share/pin-6707)
 
-[Home — alternate wide](https://design.withfudge.com/share/pin-6707)
+[Continue • Ship as fast as you code](https://design.withfudge.com/share/pin-6707)
+
+## Design character
+
+continue.dev has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 5 captured type families, 14 recurring colors, and 63 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 193 color rows, 65 typography rows, 46 spacing rows, 14 border rows, 0 gradient rows, and 3 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · main | 4025 |
+| `#020817` | color · main | 1651 |
+| `#fafafa` | color · main | 533 |
+| `#ffffff` | background-color · button | 164 |
+| `#312e81` | border-color · footer | 78 |
+| `#f9f3f4` | background-color · main | 42 |
+| `#05bd48` | color · main | 20 |
+| `#efe4e7` | border-color · main | 10 |
+| `#0f172a` | color · button | 9 |
+| `#ef4444` | background-color · button | 6 |
+| `#00a72e` | background-color · button | 4 |
+| `#161434` | background-color · main | 4 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Ibm Plex Sans** | 56px · 300 · 58.8px | 2210 |
+| **Manrope** | 16px · 400 · 24px | 650 |
+| **System** | 12px · 400 · 16px | 169 |
+| **Ibm Plex Mono** | 11px · 400 · 16.5px | 42 |
+| **Monaco** | 12px · 400 · 18px | 22 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 24px` for margin, `8px 24px 56px` for padding, `20px` for padding, `0px 24px` for padding, `0px 0px 40px` for margin, and `24px 0px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 0px` (166), `1px 0px 0px solid 0px` (139), `1px solid 9999px` (34), `0px none 6px` (12), and `0px none 9999px` (4). 0 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **footer**, **button**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
+- `#000000`
 - `#020817`
-- `#0f172a`
+- `#fafafa`
 - `#ffffff`
+- `#312e81`
+- `#f9f3f4`
+- `#05bd48`
+- `#efe4e7`
+- `#0f172a`
+- `#ef4444`
+- `#00a72e`
+- `#161434`
+- `#1a1a1a`
+- `#f87171`
+
+## Typography captured from continue.dev
+
+- **Ibm Plex Sans** — weight 300 · size 56px
+- **Manrope** — weight 400 · size 16px
+- **System** — weight 400 · size 12px
+- **Ibm Plex Mono** — weight 400 · size 11px
+- **Monaco** — weight 400 · size 12px

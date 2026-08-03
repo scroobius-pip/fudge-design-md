@@ -2,162 +2,137 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/base44.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Base44 is a **soft, optimistic AI-builder brand**: airy gradient stages, near-black humanist display type, white product cards, and a calm black/lime control pair. Marketing pages feel like a lightroom for ideas—prompt box or pricing grid centered on pastel washes—while product previews drop into darker app chrome so the site can sell both “build with words” and a real working UI.
-
-What should survive adaptation:
-
-- **Pastel sky-to-peach (or lavender) gradient stages** behind sparse heroes
-- **Monumental black display** with short gray supporting lines
-- **Pill-first chrome**: full-round black primary CTAs, soft lime header CTA, chip suggestion pills
-- **White elevated cards** with light 1px separation and generous internal padding
-- **One orange brand mark** (dot cluster / submit orb) as the only warm accent punch
-- **Product UI as the hero image**—kanban/app frames, not stock photography
-
-## Foundations
-
-### Color
-
-Measured text roles:
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Primary text | `#000000` | Display, plan names, prices, body on light cards |
-| Secondary text | `#878787` | Supporting lines, muted labels, credit meta |
-
-Visually consistent surfaces and accents (from marketing captures):
-
-| Role | Appearance | Notes |
-|------|------------|-------|
-| Canvas | Soft white → cool mint / sky / peach washes | Full-bleed atmospheric gradients; never heavy photo backgrounds |
-| Surface | Pure white cards and floating nav pill | Pricing tiers, feature split panels, prompt field |
-| Primary action (in-page) | Solid black pills | “Get started”, “Start building”, “Contact sales” |
-| Header CTA | Soft lime / chartreuse pill | “Start Building” in the top bar—lighter and friendlier than black |
-| Brand accent | Warm orange | Logo disc and prompt submit orb |
-| Feature checks | Coral-orange ticks | Pricing feature lists |
-| Enterprise strip | Dusty blue-gray / sage bar | Full-width secondary CTA band under pricing |
-| Muted chrome | Cool gray nav labels on white | Product / Use Cases / Resources links |
-
-Keep the palette **mostly monochrome type on pastel air**, with orange reserved for identity and lime reserved for the persistent header invite. Avoid stacking multiple saturated brand colors in one section.
-
-### Typography
-
-No declared family in capture data—render with a clean **neo-grotesk / geometric sans** that can hold both huge display and quiet UI.
-
-Observed ladder (pricing-heavy sample, weights mostly regular with selective medium/semibold):
-
-| Role | Approx size | Notes |
-|------|-------------|-------|
-| Display | ~71px, tracking slightly tight (~−0.7) | Hero lines like “Plans from first idea to full scale”, “Turn your ideas into apps” |
-| Section / card title | ~26–37px | Plan names, secondary headlines |
-| Lead / deck | ~16–20px | Supporting sentences under heroes |
-| Body / UI | ~12–14px | Feature lists, nav, card copy |
-| Meta / micro | ~10–12px | Credit lines, uppercase prompt hints, labels |
-| Price | Display-scale numerals | `$200` large with smaller `/mo` suffix in secondary weight/color |
-
-Hierarchy is **size-led more than weight-led**: regular weight carries most of the system; medium/semibold appears sparingly on UI emphasis. Line height sits slightly open on body (~1.5–1.6) and tighter on display (~1.1).
-
-### Spacing and layout
-
-- **Wide desktop marketing** (~1712–2048px captures): large horizontal inset (~100–110px feel on dense pricing blocks), airy section tops (~145px-class padding on major blocks)
-- **Card grids**: equal white pricing columns with ~20–24px gutters; five-up plan row on desktop
-- **Internal card padding**: ~22px-class on dense plan cards
-- **Home hero**: single centered column—headline, one deck line, one prompt card, suggestion chips
-- **Split product story**: white rounded panel split copy | dark app screenshot
-- **Floating top nav**: pill-shaped white bar with logo left, links center, lime CTA right—not a full-bleed hard header
-- Density is **moderate**: roomy marketing, not dashboard-dense until the embedded product UI appears
-
-## Visual language
-
-- **Corners**: pill-dominant—full round on CTAs and chips (`~100–999` radii), softer ~8–20px on cards and panels, ~10–11px on product frames
-- **Borders**: light 1px hairlines separating card zones (price block vs credits vs CTA); surfaces read as **border-separated**, not shadow-stacked (no meaningful shadow tokens captured)
-- **Gradients**: soft multi-stop washes (sky blue → white → peach; lavender → white → apricot; mint/pink card washes on promo tiles). Gradients are atmospheric, never striped or neon
-- **Imagery**: live product UI (dark kanban, colored status chips) framed inside light marketing chrome; logo is a warm multi-dot orange burst
-- **Motion**: not established from stills
-
-Overall effect: **friendly futurism**—startup SaaS without brutal black-on-black developer gloom.
-
-## Components
-
-### Navigation
-Floating white capsule: wordmark + orange mark, dropdown text links, globe, lime “Start Building” pill.
-
-### Hero prompt
-Large centered display + gray deck + wide white rounded prompt field with placeholder copy and circular orange submit control. Below: small-caps hint + outline/soft pill suggestion chips (“Reporting Dashboard”, “Gaming Platform”, …).
-
-### Pricing
-- Billing toggle: segmented control (inactive soft gray pill, active lime pill)
-- Plan cards: white, equal height, title + short blurb + large price + credit meta + black full-width “Get started” + checklist with coral ticks
-- Promo duo cards (free vs paid) can sit on soft gradient fills instead of pure white
-- Enterprise band: muted full-width bar, left copy + right black “Contact sales”
-
-### Product story panel
-Numbered step label (“01 / 04”), long-form black body, black CTA; adjacent dark app chrome screenshot with colorful column tags—the only place multi-hue UI colors flood in, and they stay *inside* the product frame.
-
-### Empty / error
-404: same gradient stage language, left-aligned stack—small “ERROR: 404”, huge black sentence, quiet gray support, single black “Back to Homepage” pill. No illustration clutter.
-
-### Buttons
-- **Primary in-content**: solid black, white label, full pill
-- **Header invite**: soft lime fill, dark label, full pill
-- **Chips**: white/soft fill, thin border or light gray edge, full pill
-- **Icon submit**: solid orange circle
-
-## Responsive behavior
-
-Captures are wide desktop viewports only (roughly 1712–2048×719–1314). Treat multi-column pricing and side-by-side product panels as **desktop compositions**. On narrower widths, stack plan cards, collapse the five-up row, and keep the floating nav/CTA pattern rather than inventing a heavy app bar. No mobile breakpoint metrics were recorded.
-
-## Practical guidance
-
-**Do**
-- Lead with one short black display line and one gray sentence
-- Put the primary action in a **black pill**; keep the header invite in **lime**
-- Stage content on soft pastel gradients and white cards
-- Use orange only for brand mark / submit / checklist ticks
-- Show the product UI as a framed dark surface against the light marketing shell
-- Prefer hairline card structure over drop shadows
-
-**Don’t**
-- Fill the page with saturated brand color blocks
-- Use heavy shadows, glassmorphism stacks, or dense dashboard chrome on marketing
-- Mix many CTA colors—black + lime + orange is enough
-- Shrink display type into a timid H2; the brand needs confident scale
-- Invent photographic hero imagery when a prompt field or product frame will do
-
-## Scope note
-
-Six marketing captures on base44.com: home (multiple hero/product states), full pricing, and a 404. Structured color roles only locked black and gray text; pastel washes, lime header CTA, and orange brand accents are visual readings from those screenshots. No declared webfonts or shadow/gradient tokens—type family and exact gradient stops should be treated as interpretive. App product chrome appears only as embedded previews, not as a full app-shell capture.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — prompt hero on sky-to-peach wash](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/share/pin-7405)
+[![Plans to Fit Every Interest | Base44 Pricing](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/share/pin-9559)
 
-[Home — prompt hero on sky-to-peach wash](https://design.withfudge.com/share/pin-7405)
+[Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/share/pin-9559)
 
-[![Home — product story split panel](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/share/pin-7406)
+[![404 Error: Page Not Found | Base44](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/share/pin-9558)
 
-[Home — product story split panel](https://design.withfudge.com/share/pin-7406)
+[404 Error: Page Not Found | Base44](https://design.withfudge.com/share/pin-9558)
 
-[![Home — free vs paid promo cards](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/share/pin-7409)
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/share/pin-7409)
 
-[Home — free vs paid promo cards](https://design.withfudge.com/share/pin-7409)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7409)
 
-[![Pricing — five-tier plan grid](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/share/pin-9559)
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7408?format=jpg)](https://design.withfudge.com/share/pin-7408)
 
-[Pricing — five-tier plan grid](https://design.withfudge.com/share/pin-9559)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7408)
 
-[![404 — gradient empty state](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/share/pin-9558)
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7407?format=jpg)](https://design.withfudge.com/share/pin-7407)
 
-[404 — gradient empty state](https://design.withfudge.com/share/pin-9558)
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7407)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/share/pin-7406)
+
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7406)
+
+[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/share/pin-7405)
+
+[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7405)
+
+## Design character
+
+base44.com has a mixed light and dark surface treatment across 7 captured pages. The strongest recurring signals are 8 captured type families, 16 recurring colors, and 201 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **7 pages** and 7 representative page references. It records 197 color rows, 92 typography rows, 173 spacing rows, 22 border rows, 6 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 99809 |
+| `#ffffff` | background-color · header | 4987 |
+| `#faf9f7` | background-color · main | 489 |
+| `#fff9eb` | background-color · main | 271 |
+| `#0f0f0f` | background-color · main | 170 |
+| `#e6e6e6` | border-color · header | 122 |
+| `#0000ee` | color · unknown | 107 |
+| `#bfd7e0` | background-color · main | 99 |
+| `#dce8e8` | background-color · main | 32 |
+| `#232529` | color · main | 30 |
+| `#ebffb1` | background-color · button | 17 |
+| `#ade900` | border-color · header | 12 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Arial** | 10px · 400 · normal | 82561 |
+| **Times** | 16px · 400 · normal | 11705 |
+| **Madefor** | 10px · 400 · normal | 1092 |
+| **Bcnovaticacyr** | 34.4px · 500 · normal | 476 |
+| **Stk Miso** | 26.6406px · 400 · 26.6406px | 363 |
+| **Wix Madefor** | 12px · 400 · 15.72px | 305 |
+| **Applesystem** | 14px · 400 · normal | 80 |
+| **Wix Madefor Vf** | 16px · 400 · normal | 3 |
+
+### Spacing and layout
+
+The most repeated spacing values are `145.483px 0px 68.8px` for padding, `145.483px` for padding-top, `68.8px` for padding-bottom, `0px 110.08px 0px 109.292px` for padding, `110.08px` for padding-right, and `109.292px` for padding-left. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 1069.76px` (1940), `0px none 10.7083px` (818), `0px none 8.88015px` (407), `0px none 19.5364px` (329), `1px solid 100px` (122), and `0px none 5.32812px` (107). 6 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **header**, **button**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
-- `#878787`
 - `#ffffff`
-- `#e8f5a0`
-- `#f97316`
-- `#e8eef0`
+- `#faf9f7`
+- `#fff9eb`
+- `#0f0f0f`
+- `#e6e6e6`
+- `#0000ee`
+- `#bfd7e0`
+- `#dce8e8`
+- `#232529`
+- `#ebffb1`
+- `#ade900`
+- `#696f7b`
+- `#878787`
+- `#262626`
+- `#868686`
+
+## Typography captured from base44.com
+
+- **Arial** — weight 400 · size 10px
+- **Times** — weight 400 · size 16px
+- **Madefor** — weight 400 · size 10px
+- **Bcnovaticacyr** — weight 500 · size 34.4px
+- **Stk Miso** — weight 400 · size 26.6406px
+- **Wix Madefor** — weight 400 · size 12px
+- **Applesystem** — weight 400 · size 14px
+- **Wix Madefor Vf** — weight 400 · size 16px

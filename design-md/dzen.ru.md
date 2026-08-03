@@ -2,94 +2,83 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dzen.ru-design)
 
-Last updated: 2026-07-28
-
-# How dzen.ru is designed
-
-## Design character
-
-Dzen News is a bright, card-based Russian news reader: white canvas, soft gray search capsule, bold story headlines, and a river of rounded media cards. It feels consumer-friendly and content-first—closer to a modern feed product than a classic broadsheet.
-
-## Foundations
-
-### Color
-
-No structured palette rows; visual system from captures:
-
-- **Page background:** white / very light gray
-- **Primary text:** near-black
-- **Links / inline emphasis:** clear blue underline style in article bodies
-- **Chips and source pills:** light gray fills with dark labels
-- **Category accents:** small colored marks (e.g. red LIVE-style badges) on cards
-- **Media:** full-color photography inside rounded rectangles
-
-### Typography
-
-- Story titles ~24px weight 700, ~28px line-height
-- Deck / body ~16–18px weight 400, line-heights 16–28px depending on block
-- Meta and source rows smaller, regular weight
-
-Cyrillic UI stays highly legible with generous title leading and restrained decoration.
-
-### Spacing and layout
-
-- Common padding 16px; margins around 11–12px between feed units
-- News home: search bar top, horizontal topic chips, then multi-column card mosaic
-- Article: centered column with title, byline, body, inline image strip, source chips
-- Card radius observed around **20px** on feed imagery
-
-## Visual language
-
-- Large rounded content cards with image-led tops
-- Pill search field and pill topic filters
-- Source attribution as compact chip rows
-- Minimal chrome—content tiles are the interface
-
-## Components and states
-
-- Global search capsule
-- Topic chip row (text + optional icons)
-- Story cards (image, title, source, time)
-- Article header with publisher badge
-- Horizontal thumbnail strip with “+N” overflow
-- Source link chips under articles
-
-## Responsive behavior
-
-Captures are relatively narrow (~650–740px wide), already reading as single-column feed/article layouts. Wider desktop mosaic behavior is not fully represented.
-
-## Practical guidance
-
-**Preserve**
-
-- White feed canvas and 20px-class media rounding
-- Bold ~24px titles with calm body copy
-- Chip-based topics and sources
-- Image-forward cards over text-only lists
-
-**Avoid**
-
-- Dark mode assumptions from these captures
-- Dense newspaper multi-column body text
-- Hard square thumbnails that fight the soft card language
-
-## Scope note
-
-Two captures: `/news` feed and one story page. Color and type families are screenshot-derived; spacing/radius partially measured.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![News feed mosaic](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/share/pin-8995)
+[![В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/share/pin-8996)
 
-[News feed mosaic](https://design.withfudge.com/share/pin-8995)
+[В Южно-Сахалинске застрелили медведя, взявшего в осаду учебный центр — подробности события | Дзен](https://design.withfudge.com/share/pin-8996)
 
-[![Story article](https://pin.fontofweb.com/8996?format=jpg)](https://design.withfudge.com/share/pin-8996)
+[![Дзен: последние новости России и мира сегодня](https://pin.fontofweb.com/8995?format=jpg)](https://design.withfudge.com/share/pin-8995)
 
-[Story article](https://design.withfudge.com/share/pin-8996)
+[Дзен: последние новости России и мира сегодня](https://design.withfudge.com/share/pin-8995)
+
+## Design character
+
+dzen.ru has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 4 recurring colors, and 8 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 48 color rows, 16 typography rows, 6 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 387 |
+| `#06060f` | color · main | 370 |
+| `#006be7` | color · main | 12 |
+| `#ffffff` | color · button | 11 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Stella Sans Vf** | 16px · 400 · 16px | 390 |
+
+### Spacing and layout
+
+The most repeated spacing values are `16px 16px 0px 0px` for padding, `16px 0px 0px` for padding, `12px 0px 0px` for margin, `0px 16px 0px 0px` for padding, `0px 12px 0px 11px` for margin, and `0px 12px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 20px` (93) and `0px none 50%` (3). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, **button**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
+- `#000000`
+- `#06060f`
+- `#006be7`
 - `#ffffff`
-- `#111111`
-- `#e8e8e8`
-- `#2f6fed`
+
+## Typography captured from dzen.ru
+
+- **Stella Sans Vf** — weight 400 · size 16px

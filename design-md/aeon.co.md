@@ -2,101 +2,120 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/aeon.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Aeon is a digital magazine that stages ideas like a quiet gallery of long essays. The system is **editorial first**: vast white field, black type, a single deep raspberry accent (`#930b51`), and hero photography that feels commissioned rather than stock. Nothing about the chrome competes with the argument on the page—navigation is a thin black bar, body type is generous, and the essay title is allowed to dominate the viewport.
-
-What should survive adaptation:
-
-- **Light editorial canvas** with near-black text and one wine/raspberry accent.
-- **Monumental serif titles** for essays, with calm sans-like body and UI.
-- **Photography as thesis**, full-width or large, often with a soft light leak or atmospheric grade.
-- **Magazine furniture**: issue label, author byline with circular avatars, topic chips, share row, related-essay cards.
-
-## Foundations
-
-### Color
-
-| Role | Value | Use |
-| --- | --- | --- |
-| Page ground | pure / near white | Essay canvas |
-| Primary text | `#000000` | Titles and body |
-| Secondary text | `#333333` | Supporting copy, quieter lines |
-| Accent | `#930b51` | Topic labels, in-text links, “More essays” |
-| Inverse chrome | black header with white wordmark and icons | Global nav |
-
-The palette is intentionally limited: black, white, one accent, photographic color. No gradients in the UI chrome; color lives in images and the raspberry links.
-
-### Typography
-
-Declared families are not in the captures. Visually:
-
-- **Essay titles**: large serif display, weighty (~30–72px across viewports), tight enough to feel literary, wrapping over 2–4 lines.
-- **Deck / lead**: ~20–22px, regular, slightly airy.
-- **Body**: ~16–18px with open measure and clear paragraph rhythm.
-- **UI / meta**: 12–16px for nav, topics, bylines; bold sparingly on section labels (“Psychology”, “27 May 2026”).
-- **Small caps / labels**: uppercase or small labels for section crumbs above the title.
-
-### Spacing and layout
-
-- Wide single-column essay with generous side margins on large screens.
-- Vertical rhythm clusters around 10–40px for component gaps; larger 60–80px+ between major blocks.
-- Header is a slim full-width bar; content starts immediately beneath with topic + date, then the oversized title.
-- Related essays sit in multi-card rows with image thumbnails.
-
-## Visual language
-
-- **Shape**: mostly sharp editorial rectangles; circular author avatars; pill-like topic chips are understated.
-- **Borders/shadows**: minimal—depth comes from photography and type scale, not elevation.
-- **Imagery**: full-bleed or large atmospheric photos; essay cards use cropped stills with serif titles overlaid or below.
-- **Motion**: not observed in stills.
-
-## Components and states
-
-1. **Global black nav** — wordmark left; Explore, About, Support, Log in; utility icons and a yellow-accent support control in some states.
-2. **Essay masthead** — topic · date, huge serif title, short deck, author row with faces.
-3. **Inline body** — long measure, accent-colored links, occasional pull structures.
-4. **Share / tools row** — compact icon actions under the title block.
-5. **Related essays** — image + title cards in a horizontal or wrapped set, “More essays” in accent.
-6. **Footer / end matter** — quiet continuation of the white field.
-
-## Responsive behavior
-
-Six captures of the same essay path at varying heights/crops (roughly 422–1194px tall, ~2048px wide). The system stays single-column editorial; title scale and image crop change with viewport height more than structural reflow. Narrow mobile breakpoints were not clearly isolated.
-
-## Practical guidance
-
-**Preserve** the white literary field, one raspberry accent, serif essay titles, and photographic heroes.  
-**Avoid** SaaS card grids, saturated multi-color systems, or dense app chrome on reading surfaces.  
-**Adapt** by keeping UI monochrome and letting one accent mark topics and links only.
-
-## Scope note
-
-Studied six desktop-width captures of a single Aeon essay (neuroplasticity). Font family names and full site IA beyond the article template were not available; color roles include measured `#930b51` / black text plus screenshot reading of the black header.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Essay hero — title, deck, authors](https://pin.fontofweb.com/6521?format=jpg)](https://design.withfudge.com/share/pin-6521)
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6526?format=jpg)](https://design.withfudge.com/share/pin-6526)
 
-[Essay hero — title, deck, authors](https://design.withfudge.com/share/pin-6521)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6526)
 
-[![Essay mid — body and related](https://pin.fontofweb.com/6526?format=jpg)](https://design.withfudge.com/share/pin-6526)
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6525?format=jpg)](https://design.withfudge.com/share/pin-6525)
 
-[Essay mid — body and related](https://design.withfudge.com/share/pin-6526)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6525)
 
-[![Essay — alternate tall crop](https://pin.fontofweb.com/6525?format=jpg)](https://design.withfudge.com/share/pin-6525)
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6524?format=jpg)](https://design.withfudge.com/share/pin-6524)
 
-[Essay — alternate tall crop](https://design.withfudge.com/share/pin-6525)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6524)
 
-[![Essay — compact header band](https://pin.fontofweb.com/6523?format=jpg)](https://design.withfudge.com/share/pin-6523)
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6523?format=jpg)](https://design.withfudge.com/share/pin-6523)
 
-[Essay — compact header band](https://design.withfudge.com/share/pin-6523)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6523)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6522?format=jpg)](https://design.withfudge.com/share/pin-6522)
+
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6522)
+
+[![What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://pin.fontofweb.com/6521?format=jpg)](https://design.withfudge.com/share/pin-6521)
+
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://design.withfudge.com/share/pin-6521)
+
+## Design character
+
+aeon.co has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 3 captured type families, 13 recurring colors, and 75 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 180 color rows, 70 typography rows, 69 spacing rows, 5 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · header | 7870 |
+| `#ffffff` | background-color · header | 726 |
+| `#333333` | color · unknown | 483 |
+| `#930b51` | background-color · main | 223 |
+| `#666666` | color · button | 39 |
+| `#035a6d` | color · header | 30 |
+| `#c16e15` | color · header | 30 |
+| `#999999` | color · main | 16 |
+| `#940b52` | color · header | 15 |
+| `#9d120d` | color · header | 15 |
+| `#ececec` | background-color · aside | 12 |
+| `#0c776d` | color · header | 7 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Atlas Grotesk** | 16px · 400 · 22.4px | 3365 |
+| **Acaca** | 72px · 600 · 72px | 715 |
+| **Atlas Typewriter** | 12px · 400 · 16px | 138 |
+
+### Spacing and layout
+
+The most repeated spacing values are `60px 25px` for padding, `40px` for padding, `20px 0px` for margin, `10px 80px 0px` for padding, `0px 338px` for margin, and `0px 308px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 4px` (35), `0px none 1.67772e+07px` (10), and `2px solid 1.67772e+07px` (4). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **unknown**, **footer**, and **aside**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#930b51`
 - `#000000`
-- `#333333`
 - `#ffffff`
+- `#333333`
+- `#930b51`
+- `#666666`
+- `#035a6d`
+- `#c16e15`
+- `#999999`
+- `#940b52`
+- `#9d120d`
+- `#ececec`
+- `#0c776d`
+- `#9d1d20`
+
+## Typography captured from aeon.co
+
+- **Atlas Grotesk** — weight 400 · size 16px
+- **Acaca** — weight 600 · size 72px
+- **Atlas Typewriter** — weight 400 · size 12px

@@ -2,136 +2,135 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/codepen.io-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-CodePen is a dark, builder-facing product shell: near-black chrome, white primary type, cool gray secondary labels, and a bright cyan accent (`#76daff`) for focus, links, and brand sparkle. The marketing home mixes a left app rail, neon/gradient “Start Coding” energy, topic tiles, sponsor cards, and green solid CTAs for team upgrade moments. Settings stay utilitarian — left nav, bordered panels, light form fields on charcoal.
-
-What should survive adaptation:
-
-- Deep dark canvas with white/`#c7c9d3`/`#aaaebc` type hierarchy
-- Cyan accent `#76daff` for highlights and interactive emphasis
-- Compact 15px body at 1.5 line-height as the workhorse
-- Small radii (4–10px) on cards, inputs, and chips — not oversized soft UI
-- Left rail + main stage layout language
-- Occasional lime/green solid buttons for high-intent team CTAs; gold `PRO` badges
-
-## Foundations
-
-### Color
-
-Measured roles across home and settings:
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Accent | `#76daff` | Links, highlights, brand cyan |
-| Primary text | `#ffffff` | Headings, primary labels on dark |
-| Secondary text | `#c7c9d3` / `#aaaebc` / `#868ca0` | Muted copy, meta, idle nav |
-
-Visually: near-black app chrome; slightly lifted dark panels for cards; light gray/white inputs in settings; lime-green filled buttons on sponsor/team modules; small yellow `PRO` chips. Keep saturated color scarce outside accent cyan and intentional CTA greens.
-
-### Typography
-
-No declared families in the capture set. Match by size/weight:
-
-| Role | Size | Weight | Line-height |
-|------|------|--------|-------------|
-| Marketing display | ~45px | 400 | ~50px |
-| Section title | ~27px | 400 | ~32px |
-| Card / UI title | ~18–21px | 700 | ~22–25px |
-| Body / nav | 15px | 400 | 22.5px |
-| Emphasized UI | 15px | 700 | 22.5px |
-| Dense / badge | 12–14px | 400–900 | ~18–20px |
-
-Settings favor 15px regular/bold pairs and ~18px bold section labels. Marketing allows larger light display lines; product chrome stays compact.
-
-### Spacing and layout
-
-- Home content often sits with large side margins (~160px class) and 30–45px section padding.
-- Cards and tiles use ~22–30px internal padding; 10–30px vertical rhythm between blocks.
-- Settings: 15–30px panel padding, tight form stacks, left settings rail + main column.
-- Radius cluster: 4px controls, 6px chips/buttons, 10px larger cards.
-
-## Visual language
-
-- **Shape:** Modest rounding throughout; pills only for a few chips, not the default button.
-- **Borders:** 1–3px solid edges on cards, rails, and selected states; settings fields use clear light fills rather than heavy outlines alone.
-- **Shadows:** Soft, sparse (e.g. blur ~6–30px) — depth mostly from stacked dark values.
-- **Accent graphics:** Cyan/magenta gradient strokes, glowing arcs, framework topic tiles, logo walls in muted white.
-- **Imagery:** UI screenshots, framework marks, abstract neon motifs — not lifestyle photography.
-
-## Components and states
-
-1. **App left rail** — logo, primary “Start Coding”, search/challenges/stack links, PRO upsell.
-2. **Marketing hero modules** — large type, gradient CTA treatments, topic icon grid.
-3. **Sponsor / feature cards** — dark raised panels, logo tile, short copy, solid green button.
-4. **Team upsell block** — centered pitch, green CTA, grayscale logo row.
-5. **Top utility bar (settings)** — segmented tabs, search, icon buttons, avatar menu.
-6. **Settings shell** — vertical nav with active green bar; main panels for profile image upload and form fields (light inputs on dark).
-7. **Badges** — small gold `PRO` lozenges.
-
-Stills show default and simple active nav; do not invent drag/drop or editor behaviors beyond visible chrome.
-
-## Responsive behavior
-
-Captures span ~1320–1712px widths on home plus shorter settings crops. Layout stays multi-column with a persistent left rail on marketing and settings. No true mobile captures — do not specify phone collapse patterns.
-
-## Practical guidance
-
-**Preserve**
-
-- Dark-first chrome and white/gray type ladder
-- Cyan `#76daff` as the signature accent
-- 15/22.5 body rhythm and small 4–10px radii
-- Rail + stage information architecture
-- Green solid buttons only for strong conversion moments
-
-**Avoid**
-
-- Light-mode default restyles that erase the IDE feel
-- Large 16–24px marketing radii everywhere
-- Rainbow accents competing with cyan
-- Oversized hero type inside dense settings forms
-
-**Adaptation**
-
-For a CodePen-like builder UI: charcoal surfaces, cyan focus, compact type, modest radius, left navigation. Reserve bright fills for primary create/upgrade actions.
-
-## Scope note
-
-Eight captures: home (`/`) at several desktop sizes and `/settings/profile` (pins 8431–8438). Font families undeclared. Exact near-black canvas hexes and motion were not role-measured; read those from the dark UI screenshots.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — rail, hero, topic energy](https://pin.fontofweb.com/8436?format=jpg)](https://design.withfudge.com/share/pin-8436)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8438?format=jpg)](https://design.withfudge.com/share/pin-8438)
 
-[Home — rail, hero, topic energy](https://design.withfudge.com/share/pin-8436)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8438)
 
-[![Home — sponsor card and team upsell](https://pin.fontofweb.com/8433?format=jpg)](https://design.withfudge.com/share/pin-8433)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8437?format=jpg)](https://design.withfudge.com/share/pin-8437)
 
-[Home — sponsor card and team upsell](https://design.withfudge.com/share/pin-8433)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8437)
 
-[![Home — mid-width marketing](https://pin.fontofweb.com/8434?format=jpg)](https://design.withfudge.com/share/pin-8434)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8436?format=jpg)](https://design.withfudge.com/share/pin-8436)
 
-[Home — mid-width marketing](https://design.withfudge.com/share/pin-8434)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8436)
 
-[![Home — framework topics band](https://pin.fontofweb.com/8435?format=jpg)](https://design.withfudge.com/share/pin-8435)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8435?format=jpg)](https://design.withfudge.com/share/pin-8435)
 
-[Home — framework topics band](https://design.withfudge.com/share/pin-8435)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8435)
 
-[![Settings — profile form](https://pin.fontofweb.com/8432?format=jpg)](https://design.withfudge.com/share/pin-8432)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8434?format=jpg)](https://design.withfudge.com/share/pin-8434)
 
-[Settings — profile form](https://design.withfudge.com/share/pin-8432)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8434)
 
-[![Settings — profile with menus](https://pin.fontofweb.com/8431?format=jpg)](https://design.withfudge.com/share/pin-8431)
+[![CodePen: Online Code Editor and Front End Web Developer Community](https://pin.fontofweb.com/8433?format=jpg)](https://design.withfudge.com/share/pin-8433)
 
-[Settings — profile with menus](https://design.withfudge.com/share/pin-8431)
+[CodePen: Online Code Editor and Front End Web Developer Community](https://design.withfudge.com/share/pin-8433)
+
+[![Settings - CodePen](https://pin.fontofweb.com/8432?format=jpg)](https://design.withfudge.com/share/pin-8432)
+
+[Settings - CodePen](https://design.withfudge.com/share/pin-8432)
+
+[![Settings - CodePen](https://pin.fontofweb.com/8431?format=jpg)](https://design.withfudge.com/share/pin-8431)
+
+[Settings - CodePen](https://design.withfudge.com/share/pin-8431)
+
+## Design character
+
+codepen.io has a predominantly dark surface treatment across 26 captured pages. The strongest recurring signals are 5 captured type families, 32 recurring colors, and 603 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **26 pages** and 8 representative page references. It records 1348 color rows, 491 typography rows, 457 spacing rows, 132 border rows, 5 gradient rows, and 9 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · nav | 13040 |
+| `#ffffff` | color · main | 10838 |
+| `#2c303a` | background-color · main | 1205 |
+| `#1e1f26` | background-color · main | 892 |
+| `#76daff` | color · main | 817 |
+| `#c7c9d3` | color · main | 749 |
+| `#ffdd40` | background-color · main | 407 |
+| `#aaaebc` | color · nav | 210 |
+| `#444857` | background-color · main | 176 |
+| `#b7bbc8` | color · nav | 170 |
+| `#252830` | background-color · unknown | 159 |
+| `#d5d7de` | color · header | 157 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Lato** | 15px · 400 · 22.5px | 13399 |
+| **Telefon** | 27px · 400 · 32.4px | 356 |
+| **Type** | 45px · 400 · 49.5px | 347 |
+| **Sf Mono** | 11.25px · 600 · 13.5px | 103 |
+| **Arial** | 13.3333px · 400 · normal | 1 |
+
+### Spacing and layout
+
+The most repeated spacing values are `15px` for padding, `30px` for padding, `30px 30px 300px` for padding, `0px 0px 10px` for margin, `0px 162.5px` for margin, and `0px 30px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 6px` (809), `0px none 10px` (626), `1px 0px 0px solid none none 0px` (302), `0px none 8px` (279), `3px solid 4px` (195), and `0px none 4px` (146). 5 gradient rows and 9 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **nav**, **unknown**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 26 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#76daff`
+- `#000000`
 - `#ffffff`
-- `#aaaebc`
+- `#2c303a`
+- `#1e1f26`
+- `#76daff`
 - `#c7c9d3`
+- `#ffdd40`
+- `#aaaebc`
+- `#444857`
+- `#b7bbc8`
+- `#252830`
+- `#d5d7de`
+- `#9b9dad`
 - `#868ca0`
+- `#f1f1f3`
+- `#47cf73`
+
+## Typography captured from codepen.io
+
+- **Lato** — weight 400 · size 15px
+- **Telefon** — weight 400 · size 27px
+- **Type** — weight 400 · size 45px
+- **Sf Mono** — weight 600 · size 11.25px
+- **Arial** — weight 400 · size 13.3333px

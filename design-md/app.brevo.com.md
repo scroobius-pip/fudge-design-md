@@ -2,71 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Brevo’s app surfaces are a **professional marketing-automation console**: light gray shell, white content cards, purple brand accent (`#6358de`) for primary buttons and active states, and dense campaign/settings information architecture. It feels trustworthy and operational—built for lists, campaigns, and keys—not for cinematic product marketing.
-
-What should survive adaptation:
-- Light gray app background + white panels
-- Purple primary actions (`#6358de`)
-- Dark primary text (`#1b1b1b`) and muted secondary (`#696969`)
-- Left navigation + listing tables + settings forms
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#6358de`, `#1b1b1b`, `#696969`. Keep purple scarce enough to mean “primary”; neutrals do the heavy lifting. Success/warning colors may appear in statuses but should not overwrite brand purple.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 14px
-- **text**: unknown, weight 400, 16px, lh 16px
-- **text**: unknown, weight 400, 14px, lh 16px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 14px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 16px
-- **text**: unknown, weight 400, 16px, lh 24px
-
-Compact UI sans for nav and tables; clearer medium titles on page headers; smaller helper text in gray. Monospace can appear for API keys on settings routes.
-
-### Spacing and layout
-
-Recurring spacing measurements include 4px, 16px, 24px, 32px. App padding is regular; listings use row density suitable for inboxes/campaigns; settings pages use form widths narrower than full bleed. Observed corner radii include 8px, 12px, 16px, 20px, 32px.
-
-## Visual language
-
-Subtle card elevation, thin borders, purple filled buttons, quiet secondary outline buttons. Tables and empty states stay plain. Avoid illustrative heroes inside authenticated routes.
-
-## Components and states
-
-- Left sidebar navigation
-- Top page headers with primary CTA (e.g., create campaign)
-- Campaign listing rows/tables
-- Billing/plan customization flows
-- API keys settings panels
-- Form inputs, toggles, and status chips
-
-## Responsive behavior
-
-Desktop captures (~1712–2048px). Collapse sidebar on smaller screens; keep tables scrollable; preserve purple primary CTAs in headers.
-
-## Practical guidance
-
-**Preserve** purple accent discipline, light console structure, listing density, readable dark text.  
-**Avoid** consumer-portal yellows or dark neon skins that fight Brevo’s operational clarity.
-
-## Scope note
-
-Studied 6 page captures on paths /, /billing/account/plans/customize/starter, /campaigns/listing, /settings/keys/api. Some structural families were incomplete on these pages. Home/app entry, campaigns listing, API keys settings, and billing plan customization were studied.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -94,8 +30,97 @@ Studied 6 page captures on paths /, /billing/account/plans/customize/starter, /c
 
 [Customize Starter plan - Brevo](https://design.withfudge.com/share/pin-5146)
 
+## Design character
+
+app.brevo.com has a mixed light and dark surface treatment across 6 captured pages. The strongest recurring signals are 4 captured type families, 20 recurring colors, and 453 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 208 color rows, 63 typography rows, 392 spacing rows, 48 border rows, 8 gradient rows, and 5 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#1b1b1b` | color · nav | 150756 |
+| `#ffffff` | background-color · unknown | 16671 |
+| `#e3e3e3` | border-color · main | 3942 |
+| `#f9fff6` | background-color · nav | 1431 |
+| `#1c1c1c` | box-shadow · button | 620 |
+| `#fffdf6` | background-color · main | 530 |
+| `#efeefc` | background-color · main | 466 |
+| `#ffecee` | background-color · unknown | 243 |
+| `#f0f0f0` | box-shadow · main | 181 |
+| `#000000` | color · unknown | 144 |
+| `#6358de` | color · button | 141 |
+| `#696969` | color · button | 108 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 16px · 400 · 24px | 111634 |
+| **Applesystem** | 14px · 400 · normal | 72 |
+| **Times** | 16px · 400 · 24px | 72 |
+| **Arial** | 13.3333px · 400 · normal | 23 |
+
+### Spacing and layout
+
+The most repeated spacing values are `32px` for padding-right, `32px` for padding-left, `32px` for padding-top, `32px` for padding-bottom, `32px` for gap, and `32px` for row-gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 16px` (3423), `0px 2px 2px 0px none solid solid none 0px 0px 32px` (1365), `0px none 16px` (931), `0px none 8px` (883), `1px 1px 0px 0px solid solid none none 0px 32px 0px 0px` (609), and `0px 1px 0px 0px none solid none none 0px` (243). 8 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **aside**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#6358de`
 - `#1b1b1b`
+- `#ffffff`
+- `#e3e3e3`
+- `#f9fff6`
+- `#1c1c1c`
+- `#fffdf6`
+- `#efeefc`
+- `#ffecee`
+- `#f0f0f0`
+- `#000000`
+- `#6358de`
 - `#696969`
+- `#d7fec8`
+- `#deaf02`
+- `#cfcfcf`
+- `#d8efe8`
+
+## Typography captured from app.brevo.com
+
+- **Inter** — weight 400 · size 16px
+- **Applesystem** — weight 400 · size 14px
+- **Times** — weight 400 · size 16px
+- **Arial** — weight 400 · size 13.3333px

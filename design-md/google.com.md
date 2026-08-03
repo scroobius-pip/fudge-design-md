@@ -2,124 +2,117 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/google.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Google Search is a **dark-first, utility-dense product shell** that keeps chrome quiet so results and AI answers can dominate. The system is cold and precise: near-black canvases, soft blue accents, pill-shaped controls, and a strict top-bar + filter-rail + content column structure. AI Mode sits inside the same shell as classic results and Images—same search field, same filter chips, same dark surfaces—so the product feels continuous even when the answer format changes.
-
-What should survive adaptation:
-
-- **Near-black product canvas** with cool blue accent links and chips
-- **Pill search field** as the permanent anchor under the logo
-- **Sparse chrome, dense content**: thin top bar, light filter rail, heavy result body
-- **Soft blue selection/accent** (`#99c3ff` family) on dark UI, not rainbow Google colors in chrome
-- **Rounded cards and chips** (roughly 8–24px) with pill extremes for primary controls
-
-## Foundations
-
-### Color
-
-Measured roles on dark AI/search surfaces:
-
-| Role | Hex | Notes |
-|------|-----|--------|
-| Accent | `#99c3ff` | Links, selected chips, AI affordances |
-| Text primary | `#e6e8f0` | Titles and main copy on dark |
-| Text secondary | `#adafb8` | Meta, snippets, de-emphasized UI |
-
-Visual reading of the captures (not separate measured roles): canvas is near-black charcoal; elevated cards and side panels sit a step lighter; the multicolored Google wordmark and occasional brand chips are the only warm/high-chroma moments. Classic light SERP chrome is not the dominant captured mode here—the pin set is overwhelmingly dark product UI.
-
-### Typography
-
-Declared font families were not captured. Observed scale on dark search/AI surfaces:
-
-- **Body / UI**: ~14px regular dominates results and chrome; 16px / 24px line-height appears in answer and card body copy
-- **Display / AI headings**: ~32px medium for answer titles
-- **Secondary labels**: ~13–14px for chips, tools, and meta
-- Weights cluster at **400** for body and **500–700** for titles and emphasis
-- Hierarchy is size + weight + color (primary vs secondary gray), not decorative type
-
-### Spacing and layout
-
-Recurring rhythm from measurements:
-
-- Horizontal padding on cards/panels around **20px**; larger gutters **40–80px** between major columns
-- Vertical stack spacing **8–16px** inside result groups; section tops often **26px** under sticky chrome
-- Sticky **top app bar** + **search pill** + **horizontal filter rail** fix the upper band; content scrolls beneath with a left main column and optional right knowledge/AI panel
-- Images mode uses a **masonry/grid of rounded thumbnails** with a right detail drawer when an image is selected
-
-## Visual language
-
-- **Shape**: 8px for small controls, ~20–24px for cards and image tiles, **full pill (9999)** for the search field and some chips
-- **Borders**: hairline solid edges (~1.8px) appear on selected image frames and some panels; most chrome is borderless on dark fill
-- **Shadows**: not a defining layer in these captures—depth comes from value steps between canvas, card, and drawer
-- **Imagery**: photographic content is the product (Images grid, preview drawer). UI illustration is minimal; AI answers stay text-first with optional structured cards
-- **Motion**: not established from stills
-
-## Components and states
-
-Recurring product pieces:
-
-1. **Top bar** — logo, centered/wide search pill (mic + lens + submit), utility icons (labs, apps, avatar)
-2. **Mode / filter rail** — text tabs (AI Mode, All, Images, …) with underline on active; secondary chip row for image categories
-3. **AI answer block** — large title, prose body, inline citation chips, follow-up prompt field, secondary actions (export, rewrite, more)
-4. **Classic result row** — favicon + site, blue title link, snippet, optional sitelinks
-5. **Images grid** — rounded thumbnails, source caption under tile; selected tile outline; right **preview drawer** with Visit / Share / Save
-6. **Chips** — rounded filter and action pills; selected state uses lighter fill + accent
-
-Visible state language is selection (underline, outline, fill shift) rather than heavy shadows or color floods.
-
-## Responsive behavior
-
-Captures span roughly **960–2025px** wide. Narrower viewports keep the search pill and collapse secondary columns; Images still prioritizes the grid. A dedicated small-phone system is not fully evidenced—treat multi-column AI + knowledge layouts as desktop/tablet patterns.
-
-## Practical guidance
-
-**Preserve**
-
-- Dark charcoal product shell with cool blue accent, not a light Material marketing skin
-- One persistent pill search field as the spatial anchor
-- Filter rail + results column grammar across All / AI / Images
-- Soft blue links and chips on dark gray type hierarchy
-- Rounded image tiles and a detail drawer instead of full-page navigations for previews
-
-**Avoid**
-
-- Rainbow chrome or heavy Material elevation competing with results
-- Sharp 0-radius cards in a sea of pills
-- Warm gray or brown text on dark (captured secondary is cool `#adafb8`)
-- Inventing a custom display serif—the product reads as system sans
-- Treating the multicolored logo as a UI palette
-
-## Scope note
-
-Based on eight captures of google.com search and homepage surfaces: dark AI Mode answers, classic dark results, Images grid with preview drawer, and a compact homepage search. Color roles were measured on a subset of dark AI/search pins; many captures lack palette/type-family metadata. Light-mode SERP, account menus, and non-search Google properties are outside this set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![AI Mode answer — dark](https://pin.fontofweb.com/6925?format=jpg)](https://design.withfudge.com/share/pin-6925)
+[![Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed excep](https://pin.fontofweb.com/8713?format=jpg)](https://design.withfudge.com/share/pin-8713)
 
-[AI Mode answer — dark](https://design.withfudge.com/share/pin-6925)
+[Yeah, he once acted like an imposter and invited the Mamluks who were his political rivals to a party celebrating the success of some of his military expeditions and at the middle of the party ordered the gates of the citadel to be closed and the guests to be annihilated, all of them succumbed excep](https://design.withfudge.com/share/pin-8713)
 
-[![AI Mode — structured answer](https://pin.fontofweb.com/6604?format=jpg)](https://design.withfudge.com/share/pin-6604)
+[![Google Search](https://pin.fontofweb.com/6925?format=jpg)](https://design.withfudge.com/share/pin-6925)
 
-[AI Mode — structured answer](https://design.withfudge.com/share/pin-6604)
+[Google Search](https://design.withfudge.com/share/pin-6925)
 
-[![Classic dark results](https://pin.fontofweb.com/8713?format=jpg)](https://design.withfudge.com/share/pin-8713)
+[![Google Search](https://pin.fontofweb.com/6604?format=jpg)](https://design.withfudge.com/share/pin-6604)
 
-[Classic dark results](https://design.withfudge.com/share/pin-8713)
+[Google Search](https://design.withfudge.com/share/pin-6604)
 
-[![Images grid + drawer](https://pin.fontofweb.com/5375?format=jpg)](https://design.withfudge.com/share/pin-5375)
+[![Google Search](https://pin.fontofweb.com/5849?format=jpg)](https://design.withfudge.com/share/pin-5849)
 
-[Images grid + drawer](https://design.withfudge.com/share/pin-5375)
+[Google Search](https://design.withfudge.com/share/pin-5849)
 
-[![Homepage search](https://pin.fontofweb.com/3993?format=jpg)](https://design.withfudge.com/share/pin-3993)
+[![images - Google Search](https://pin.fontofweb.com/5375?format=jpg)](https://design.withfudge.com/share/pin-5375)
 
-[Homepage search](https://design.withfudge.com/share/pin-3993)
+[images - Google Search](https://design.withfudge.com/share/pin-5375)
+
+[![gradient pricing cards - Google Search](https://pin.fontofweb.com/5177?format=jpg)](https://design.withfudge.com/share/pin-5177)
+
+[gradient pricing cards - Google Search](https://design.withfudge.com/share/pin-5177)
+
+[![Google](https://pin.fontofweb.com/3993?format=jpg)](https://design.withfudge.com/share/pin-3993)
+
+[Google](https://design.withfudge.com/share/pin-3993)
+
+[![navicate - Google Search](https://pin.fontofweb.com/3247?format=jpg)](https://design.withfudge.com/share/pin-3247)
+
+[navicate - Google Search](https://design.withfudge.com/share/pin-3247)
+
+## Design character
+
+google.com has a predominantly dark surface treatment across 9 captured pages. The strongest recurring signals are 2 captured type families, 8 recurring colors, and 62 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **9 pages** and 8 representative page references. It records 159 color rows, 48 typography rows, 44 spacing rows, 15 border rows, 3 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · button | 3601 |
+| `#e6e8f0` | color · unknown | 3536 |
+| `#99c3ff` | color · unknown | 173 |
+| `#101218` | background-color · unknown | 135 |
+| `#adafb8` | color · button | 104 |
+| `#17181f` | background-color · unknown | 85 |
+| `#25262e` | background-color · button | 14 |
+| `#ffffff` | color · button | 10 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Google Sans** | 14px · 400 · normal | 3451 |
+| **Arial** | 13.3333px · 400 · normal | 376 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 40px 0px 0px` for margin, `12px 0px 16px` for margin, `26px 0px 0px` for padding, `118px 18px 0px 0px` for margin, `0px 0px 12px 76px` for padding, and `-80px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 20px` (31), `0px none 24px` (28), `0px none 8px` (18), `0px none 50%` (12), `0px none 9999px` (7), and `1.81818px solid 50%` (4). 3 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **image**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#99c3ff`
+- `#000000`
 - `#e6e8f0`
+- `#99c3ff`
+- `#101218`
 - `#adafb8`
+- `#17181f`
+- `#25262e`
+- `#ffffff`
+
+## Typography captured from google.com
+
+- **Google Sans** — weight 400 · size 14px
+- **Arial** — weight 400 · size 13.3333px

@@ -2,130 +2,119 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/flickr.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Flickr’s marketing site is a **dark, photography-first editorial brand**. Huge condensed cream headlines shout over charcoal fields; real photographs do the storytelling; and a single hot-pink accent drives every signup path. Voice is irreverent and community-forward (“Come for the photos, stay for the weirdos”) while the visual system stays disciplined: black stage, pink action, white type, film-strip and card motifs.
-
-What should survive adaptation:
-- **Near-black stages** that let photographs glow.
-- **Monumental uppercase-feeling display** (often title case at huge sizes) in off-white.
-- **Hot pink (`#ff0084`) as the only hard UI accent** for primary CTAs and text links.
-- **Photography as structure** — full-bleed heroes, overlapping frames, film-strip bands — not stock-in-a-box.
-
-## Foundations
-
-### Color
-
-| Role | Hex | Context |
-| --- | --- | --- |
-| Accent | `#ff0084` | SIGN UP, JOIN US, inline links (“MORE MORE MORE”) |
-| Primary text (dark UI) | `#ffffff` | Headlines and body on charcoal |
-| Secondary text (dark UI) | `#d9d7ce` | Soft cream supporting copy |
-| Primary text (light UI) | `#333333` / `#232323` | Type on pale cards and light moments |
-| Secondary text (light) | `#787878` | Muted meta on light |
-| Link (legacy/light) | `#0000ee` | Occasional default-link blue on light surfaces |
-| Canvas (visual) | `#121212`–`#1a1a1a` | Marketing field |
-| Loud campaign accent (visual) | `#f5e800` approx. | MODE festival yellow blocks |
-
-Pink is the brand verb. Yellow appears as campaign/festival energy, not everyday chrome. Cream secondary text (`#d9d7ce`) keeps dark-theme body copy warmer than pure gray.
-
-### Typography
-
-Families undeclared; the look is a **heavy grotesque display + lighter sans body**:
-
-- **Display:** ~56–138px, weight 700, very tight leading, multi-line poster stacks (“THE BEST PLACE TO BE A PHOTOGRAPHER ONLINE.”).
-- **Section heads:** ~28–56px bold.
-- **Body:** ~20–22px regular or light (300–400) on dark; comfortable measure beside image columns.
-- **UI / nav:** ~16–20px, often uppercase tracking in the top bar; bold 700 on active items and pink CTAs.
-- Logo wordmark sits beside the blue·pink dual-dot mark.
-
-Hierarchy is theatrical: one enormous claim, then a short paragraph, then a pink text link or pill button.
-
-### Spacing and layout
-
-Observed steps cluster around **~11 / 22 / 27 / 33 / 56px**, with large hero gaps and negative-overlap moments (images tucked under headlines). Layout patterns:
-
-- **Split hero:** massive type left, stacked photo tiles right.
-- **Editorial band:** photo | photo | copy column on dark.
-- **Film-strip / ticker:** horizontal repeating labels (e.g. “GET YOUR PASSES”) over campaign imagery.
-- **About cards:** three equal photo tiles with overlaid white headlines and arrow affordances on a pale gray stage.
-
-Content width feels wide and cinematic; margins are generous but images often break to full bleed.
-
-## Visual language
-
-- **Flat dark surfaces** — no soft UI shadows in the marketing captures.
-- **Small radii (5–7px)** on buttons, inputs, and some media frames; photo cards can read nearly square.
-- **Thick ornamental borders** appear around certain framed photo modules (large equal-side borders in the data) — treat photos as mounted prints, not floating glass cards.
-- **Logo:** wordmark + cyan and magenta dots.
-- **Motifs:** 35mm film perforations, overlapping polaroid-like frames, full-bleed photographer imagery, pale gray gutters between about-page tiles.
-- **Campaign yellow** for MODE and pass CTAs — high-chroma interruption on dark or photo fields.
-
-## Components and states
-
-- **Top promo bar:** light strip pushing Flickr Pro, small dual-dot bullet.
-- **Primary nav:** dark bar, uppercase links, search + LOGIN text, pink **SIGN UP** pill.
-- **Primary CTA button:** filled `#ff0084`, white label, slight radius (~5–7px), not a soft super-pill.
-- **Text link CTA:** pink label + chevron (“MORE MORE MORE”, “BEST. NEIGHBORS. EVER.”).
-- **Email capture:** rounded input + square-ish submit with arrow on photo backdrop.
-- **Comment / social proof chips:** small white cards over photos (avatar, name, PRO badge, quote).
-- **About story cards:** image fill, large white headline, smaller caption + arrow.
-
-Only static marketing states are documented.
-
-## Practical guidance
-
-**Preserve**
-- Charcoal stage + cream display + pink action triad.
-- Photography-led composition with type as bold overlay, not the other way around.
-- Irreverent short copy paired with huge type.
-- Sparse chrome; one pink button per view when possible.
-
-**Avoid**
-- Turning the site into light-mode SaaS with gray cards and soft shadows.
-- Diluting pink into multiple competing brights (except deliberate campaign yellow).
-- Timid headline sizes — display must feel poster-scale.
-- Generic stock with heavy gradients or mockup devices replacing real photographs.
-
-## Scope note
-
-Studied six desktop viewports across `/`, `/features`, `/flickr-pro`, and `/company/about-us/`. No app authenticated UI, no mobile widths. Use this for **public marketing and brand storytelling**, not the logged-in photo manager.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — photographer hero](https://pin.fontofweb.com/8225?format=jpg)](https://design.withfudge.com/share/pin-8225)
+[![About Flickr | We’re the real deal.](https://pin.fontofweb.com/8230?format=jpg)](https://design.withfudge.com/share/pin-8230)
 
-[Home — photographer hero](https://design.withfudge.com/share/pin-8225)
+[About Flickr | We’re the real deal.](https://design.withfudge.com/share/pin-8230)
 
-[![Home — community band](https://pin.fontofweb.com/8226?format=jpg)](https://design.withfudge.com/share/pin-8226)
+[![About Flickr | We’re the real deal.](https://pin.fontofweb.com/8229?format=jpg)](https://design.withfudge.com/share/pin-8229)
 
-[Home — community band](https://design.withfudge.com/share/pin-8226)
+[About Flickr | We’re the real deal.](https://design.withfudge.com/share/pin-8229)
 
-[![Features](https://pin.fontofweb.com/8227?format=jpg)](https://design.withfudge.com/share/pin-8227)
+[![Flickr Pro | Get to know Flickr Pro.](https://pin.fontofweb.com/8228?format=jpg)](https://design.withfudge.com/share/pin-8228)
 
-[Features](https://design.withfudge.com/share/pin-8227)
+[Flickr Pro | Get to know Flickr Pro.](https://design.withfudge.com/share/pin-8228)
 
-[![Flickr Pro](https://pin.fontofweb.com/8228?format=jpg)](https://design.withfudge.com/share/pin-8228)
+[![Flickr | Come for the photos, stay for the weirdos.](https://pin.fontofweb.com/8227?format=jpg)](https://design.withfudge.com/share/pin-8227)
 
-[Flickr Pro](https://design.withfudge.com/share/pin-8228)
+[Flickr | Come for the photos, stay for the weirdos.](https://design.withfudge.com/share/pin-8227)
 
-[![About — story](https://pin.fontofweb.com/8229?format=jpg)](https://design.withfudge.com/share/pin-8229)
+[![Flickr | The best place to be a photographer online.](https://pin.fontofweb.com/8226?format=jpg)](https://design.withfudge.com/share/pin-8226)
 
-[About — story](https://design.withfudge.com/share/pin-8229)
+[Flickr | The best place to be a photographer online.](https://design.withfudge.com/share/pin-8226)
 
-[![About — card row](https://pin.fontofweb.com/8230?format=jpg)](https://design.withfudge.com/share/pin-8230)
+[![Flickr | The best place to be a photographer online.](https://pin.fontofweb.com/8225?format=jpg)](https://design.withfudge.com/share/pin-8225)
 
-[About — card row](https://design.withfudge.com/share/pin-8230)
+[Flickr | The best place to be a photographer online.](https://design.withfudge.com/share/pin-8225)
+
+## Design character
+
+flickr.com has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 2 captured type families, 14 recurring colors, and 92 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 238 color rows, 85 typography rows, 80 spacing rows, 12 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 4643 |
+| `#333333` | color · main | 2952 |
+| `#d9d7ce` | color · main | 1281 |
+| `#0000ee` | color · main | 575 |
+| `#232323` | background-color · main | 369 |
+| `#bdbbb3` | background-color · main | 138 |
+| `#f6ff00` | background-color · main | 84 |
+| `#ffffff` | color · main | 57 |
+| `#ff0084` | background-color · header | 32 |
+| `#98d6d9` | background-color · main | 26 |
+| `#0967e7` | background-color · main | 14 |
+| `#787878` | color · main | 10 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Proxima Nova** | 22.3333px · 400 · 20px | 5017 |
+| **System** | 14px · 400 · 20px | 8 |
+
+### Spacing and layout
+
+The most repeated spacing values are `55.8333px 33.5px` for padding, `0px 0px -44.6667px` for margin, `44.6667px 33.5px 33.5px` for padding, `0px 164.844px 0px 164.828px` for margin, `26.8px 0px 0px` for margin, and `22.3333px 0px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `22px solid 0px` (69), `40px solid 0px` (63), `0px none 7px` (17), `0px none 5px` (16), and `1px solid 50%` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **header**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#ffffff`
-- `#d9d7ce`
-- `#ff0084`
+- `#000000`
 - `#333333`
-- `#232323`
-- `#787878`
+- `#d9d7ce`
 - `#0000ee`
-- `#121212`
+- `#232323`
+- `#bdbbb3`
+- `#f6ff00`
+- `#ffffff`
+- `#ff0084`
+- `#98d6d9`
+- `#0967e7`
+- `#787878`
+- `#161613`
+- `#cccccc`
+
+## Typography captured from flickr.com
+
+- **Proxima Nova** — weight 400 · size 22.3333px
+- **System** — weight 400 · size 14px

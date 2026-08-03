@@ -2,135 +2,129 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/coolors.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Coolors is a **color-first product UI** wrapped in a bright SaaS marketing shell. The product experience is full-bleed vertical palette columns with overlaid hex/name labels; the marketing site is white canvas, oversized black display type, soft multi-color gradient wordmarks, and a dense grid of rounded pastel feature cards. Chrome stays quiet so the palette itself is the hero.
-
-What should survive adaptation:
-
-- **Palette-as-interface**: full-height color columns, not small swatches in a sidebar
-- **Near-black primary type** (`#0a0a0a`) on white marketing surfaces; **white type** on saturated palette columns
-- **Soft 10–14px card radii** and generous 40px card padding on marketing grids
-- **Multi-accent energy** (green, purple, cyan, blue, pink) used as feature chips and CTAs—not a single brand primary
-- Clean thin top bars with logo wordmark + utility icons, never heavy chrome
-
-## Foundations
-
-### Color
-
-Measured roles across home and palette editor captures:
-
-| Role | Hex | Where it shows |
-|------|-----|----------------|
-| Text primary | `#0a0a0a` | Marketing headlines, nav, body |
-| Text on color / inverse | `#ffffff` | Labels on palette columns; light secondary on dark UI |
-| Muted secondary | `#525252` | Supporting copy, toolbar labels |
-| Accent green | `#16a34a` | Positive / generate-adjacent accents |
-| Accent purple | `#9333ea` | Feature highlights, chips |
-| Accent cyan | `#0891b2` | Secondary accent |
-| Accent blue | `#0066ff` | Primary link/CTA blue on marketing |
-| Accent pink | `#ec4899` | Palette-tool accents |
-| Accent gold | `#ca8a04` | Occasional highlight |
-
-The palette *content* is intentionally unbounded—user colors fill the viewport (e.g. charcoal / steel / butter / lemon / coral columns). Marketing keeps a pure white field so those colors read as the product.
-
-### Typography
-
-Declared font families were not captured. Observed scale (weight/size/line-height):
-
-- **Display / hero**: ~110px weight 700, tight leading (~99px), negative tracking (~−3.85) — marketing claims
-- **Palette column type**: ~15px regular for hex/name stacks; occasional ~30px labels with slight positive tracking
-- **Body / UI**: 15–18px regular; ~24px for section titles; 12–13px for dense meta
-- Color Bot and tool surfaces stay at a tight 15/15 system for control density
-
-Use a clean geometric sans; keep display type very large and tightly tracked on marketing, and monoline utilitarian sizes inside tools.
-
-### Spacing and layout
-
-- Marketing feature cards: **40px** padding on all sides; large **14px** corner radius (hundreds of instances)
-- Section rhythm: **80–100px** vertical padding and bottom margins between major blocks
-- Horizontal content breathing: ~100px side padding on wide marketing sections; ~102px side margins on some card rows
-- Tool chrome: **10px** control padding; **4–7px** icon gaps; **20px** horizontal padding on toolbars
-- Palette editor is edge-to-edge columns under a slim header—no content max-width cage
-
-## Visual language
-
-- **Shape**: cards ~10–14px radius; smaller controls 4–8px; Color Bot chips ~8px
-- **Shadows**: almost none—occasional 0-offset 1px spread “border shadow” instead of soft elevation
-- **Borders**: minimal; separation comes from color blocks and white gutters
-- **Imagery**: product is the image—live palettes, gradient logo fills, soft pastel illustration tiles on marketing
-- **Motion**: not established from stills
-
-## Components and states
-
-- **Top bar**: logo (gradient fill on “Coolors”), center tools (picker / image / create / export metaphors), right utilities (account, pro)
-- **Palette stage**: 5 equal vertical strips; each shows hex, optional name, lock/copy affordances near bottom
-- **Marketing card grid**: multi-column rounded tiles with soft tinted backgrounds, short titles, and small accent icons
-- **Hero**: huge black headline with a multi-stop gradient on a key word (“palettes”)
-- **Color Bot**: chat/tool panel with 15px dense type and small rounded chips
-- Visible states beyond default (hover/focus/error) were not captured as distinct frames
-
-## Responsive behavior
-
-Captures are mostly wide desktop viewports (~1630–1712px). A shorter home crop (~1380×361) still keeps the oversized display type. No mobile breakpoint system was measured—treat the full-bleed column palette and card grid as desktop-first.
-
-## Practical guidance
-
-**Preserve**
-
-- Full-bleed color columns as the core interaction surface
-- White marketing canvas + multi-accent feature language
-- Large, tight display type paired with quiet 15px UI type
-- Soft 14px cards with roomy 40px padding
-- Thin utility chrome that never competes with color
-
-**Avoid**
-
-- Boxing palettes into small swatch grids
-- Heavy drop shadows or skeuomorphic toolbars
-- A single rigid brand accent when the product sells color range
-- Inventing a declared typeface stack—families were not recorded
-
-## Scope note
-
-Studied Coolors home (`/`), two Create a Palette URLs with distinct five-color sets, and Color Bot (`/color-bot`) across eight captures. Declared font families were unavailable; color roles come from measured UI chrome, while palette column fills are content-driven.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — super fast palettes hero](https://pin.fontofweb.com/6391?format=jpg)](https://design.withfudge.com/share/pin-6391)
+[![Color Bot - Coolors](https://pin.fontofweb.com/6905?format=jpg)](https://design.withfudge.com/share/pin-6905)
 
-[Home — super fast palettes hero](https://design.withfudge.com/share/pin-6391)
+[Color Bot - Coolors](https://design.withfudge.com/share/pin-6905)
 
-[![Home — feature card grid](https://pin.fontofweb.com/6393?format=jpg)](https://design.withfudge.com/share/pin-6393)
+[![Color Bot - Coolors](https://pin.fontofweb.com/6904?format=jpg)](https://design.withfudge.com/share/pin-6904)
 
-[Home — feature card grid](https://design.withfudge.com/share/pin-6393)
+[Color Bot - Coolors](https://design.withfudge.com/share/pin-6904)
 
-[![Home — alternate marketing pass](https://pin.fontofweb.com/6392?format=jpg)](https://design.withfudge.com/share/pin-6392)
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6394?format=jpg)](https://design.withfudge.com/share/pin-6394)
 
-[Home — alternate marketing pass](https://design.withfudge.com/share/pin-6392)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/share/pin-6394)
 
-[![Create a Palette — warm set](https://pin.fontofweb.com/6229?format=jpg)](https://design.withfudge.com/share/pin-6229)
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6393?format=jpg)](https://design.withfudge.com/share/pin-6393)
 
-[Create a Palette — warm set](https://design.withfudge.com/share/pin-6229)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/share/pin-6393)
 
-[![Create a Palette — green set](https://pin.fontofweb.com/6228?format=jpg)](https://design.withfudge.com/share/pin-6228)
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6392?format=jpg)](https://design.withfudge.com/share/pin-6392)
 
-[Create a Palette — green set](https://design.withfudge.com/share/pin-6228)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/share/pin-6392)
 
-[![Color Bot tool](https://pin.fontofweb.com/6905?format=jpg)](https://design.withfudge.com/share/pin-6905)
+[![Coolors - The super fast color palettes generator!](https://pin.fontofweb.com/6391?format=jpg)](https://design.withfudge.com/share/pin-6391)
 
-[Color Bot tool](https://design.withfudge.com/share/pin-6905)
+[Coolors - The super fast color palettes generator!](https://design.withfudge.com/share/pin-6391)
+
+[![Create a Palette - Coolors](https://pin.fontofweb.com/6229?format=jpg)](https://design.withfudge.com/share/pin-6229)
+
+[Create a Palette - Coolors](https://design.withfudge.com/share/pin-6229)
+
+[![Create a Palette - Coolors](https://pin.fontofweb.com/6228?format=jpg)](https://design.withfudge.com/share/pin-6228)
+
+[Create a Palette - Coolors](https://design.withfudge.com/share/pin-6228)
+
+## Design character
+
+coolors.co has a mixed light and dark surface treatment across 13 captured pages. The strongest recurring signals are 2 captured type families, 106 recurring colors, and 122 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **13 pages** and 8 representative page references. It records 541 color rows, 186 typography rows, 86 spacing rows, 33 border rows, 0 gradient rows, and 3 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#0a0a0a` | color · unknown | 4912 |
+| `#000000` | background-color · unknown | 3730 |
+| `#ffffff` | color · header | 1617 |
+| `#e5e5e5` | color · unknown | 252 |
+| `#2563eb` | background-color · header | 213 |
+| `#dc2626` | color · unknown | 197 |
+| `#0891b2` | color · unknown | 196 |
+| `#9333ea` | color · unknown | 196 |
+| `#ea580c` | color · unknown | 196 |
+| `#525252` | color · header | 195 |
+| `#ca8a04` | color · unknown | 187 |
+| `#16a34a` | color · unknown | 186 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 15px · 400 · 15px | 9522 |
+| **Google Sans Code** | 9px · 400 · 9px | 2 |
+
+### Spacing and layout
+
+The most repeated spacing values are `40px` for padding, `0px 0px 17.2px` for margin, `0px 60px` for padding, `0px 102.5px` for margin, `80px 100px` for padding, and `0px 0px 100px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 14px` (774), `0px none 10px` (116), `0px none 8px` (73), `0px none 10px 0px 0px 10px` (20), `6px solid 10px` (8), and `0px none 4px` (7). 0 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **header**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 13 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#0a0a0a`
+- `#000000`
 - `#ffffff`
-- `#525252`
-- `#0066ff`
-- `#16a34a`
-- `#9333ea`
+- `#e5e5e5`
+- `#2563eb`
+- `#dc2626`
 - `#0891b2`
-- `#ec4899`
+- `#9333ea`
+- `#ea580c`
+- `#525252`
 - `#ca8a04`
+- `#16a34a`
+- `#f3e8ff`
+- `#dcfce7`
+- `#db2777`
+- `#fee2e2`
+
+## Typography captured from coolors.co
+
+- **Inter** — weight 400 · size 15px
+- **Google Sans Code** — weight 400 · size 9px

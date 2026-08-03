@@ -2,128 +2,117 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cognee.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Cognee is a dark, literary AI memory brand: charcoal canvas, warm off-white type (`#edecea`), and a soft lavender accent (`#bc9bff`) used for highlights, links, active borders, and feature emphasis. Headlines are huge and light (weight ~300) with deliberate letter-spacing tricks — words fade, space out, or tint purple mid-sentence. Sections feel like a design-forward docs site: pill nav, ghost icon buttons, thin rules, and checkerboard/memory motifs instead of stock photos.
-
-What should survive adaptation:
-
-- Dark mode default with warm paper-like text (`#edecea`), not pure white
-- Lavender `#bc9bff` as the only brand accent
-- Light display weights at 48–96px with tight leading
-- Pill-heavy header controls and soft 6–8px cards
-- Editorial headline treatments (fade, tracking, multi-color words)
-- Sparse sections with wide horizontal margins (~300px class on large desktops)
-
-## Foundations
-
-### Color
-
-Measured roles:
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Accent | `#bc9bff` | Links, highlights, active card border/glow, secondary emphasis |
-| Primary text | `#edecea` | Headlines and body on dark |
-| Secondary / inverse | `#1e1e1c` | Dark text on light chips or inverse moments |
-
-Canvas is deep charcoal/near-black. Pricing and feature cards lift slightly from the field; selected cards pick up lavender border and purple checker panels. Avoid cold pure-blue accents — the brand hue is soft purple.
-
-### Typography
-
-Families not declared. Metrics show a light, modern grotesque:
-
-| Role | Size | Weight | Line-height | Tracking |
-|------|------|--------|-------------|----------|
-| Hero display | ~96px | 300 | ~96px | ~-3.8px |
-| Pricing / section display | 64px | 300 | ~70px | ~-1.9px |
-| Section title | 48px | 300 | ~53px | ~-1.15px (sometimes wide positive tracking for effect) |
-| Lead | 22–24px | 300 | ~28–34px | slight negative |
-| Body | 15–16px | 300 | 20–24px | default |
-| Eyebrow / label | 11–14px | 400–600 | ~14px | positive tracking on tiny labels |
-
-The system is unusually light-weight across sizes — hierarchy comes from size and color, not boldness.
-
-### Spacing and layout
-
-- Large vertical section padding (~80–192px) and ~50px content inset; outer margins often ~308px on wide frames.
-- Grid gaps ~16–56px; feature cards in 2×2 teams.
-- Pricing: roomy card padding, 8px radii, pill plan toggles.
-- Overall sparse — long lines of display type with breathing room.
-
-## Visual language
-
-- **Corners:** Full pills on nav/CTA chips; ~6–8px on content cards.
-- **Borders:** 1px hairlines; active/feature cards get lavender edge.
-- **Shadows:** Soft deep shadows on pricing (`y≈12`, `blur≈40`) — otherwise mostly flat dark stacking.
-- **Motifs:** Checkerboards, fading letterforms, purple memory grids, monochrome logos.
-- **Imagery:** Abstract/UI motifs over photography.
-
-## Components and states
-
-1. **Header** — wordmark; pill text links; round icon buttons; high-contrast “Try free” / login chips.
-2. **Hero** — enormous light headline, short warm-gray/off-white subcopy, dual CTAs (filled light + ghost).
-3. **Problem / narrative band** — multi-color and spaced headline typography over charcoal.
-4. **Feature cards** — 2×2 grid; title + blurb; optional checker panel; one card accented in lavender.
-5. **Pricing** — plan cards with price display, feature lists, lavender outline on highlighted tier, soft elevation.
-6. **Logo row / social proof** — muted monochrome marks.
-
-Stills show default and one emphasized card/plan; no interactive motion specs.
-
-## Responsive behavior
-
-Captures are wide desktop section crops (~1850–2048px). Horizontal margins are aggressive on large screens; behavior below tablet is not evidenced here.
-
-## Practical guidance
-
-**Preserve**
-
-- Warm off-white on charcoal, lavender accent only
-- Light (300) oversized display type with expressive tracking
-- Pill header language and quiet 6–8px cards
-- Editorial headline devices (fade, purple words, letter-spacing)
-
-**Avoid**
-
-- Bold/black poster type that fights the airy voice
-- Neon cyan/green AI clichés
-- Dense SaaS pricing tables without lavender hierarchy
-- Pure `#ffffff` body text that feels colder than `#edecea`
-
-**Adaptation**
-
-For a Cognee-like memory/AI brand: dark paper-on-charcoal reading experience, one lavender signal color, and typography that feels written, not shouted.
-
-## Scope note
-
-Five section crops from `/` and `/pricing` (pins 10425–10429). No mobile widths or declared font families. Secondary `#1e1e1c` appears in inverse/chip contexts; most reading text is `#edecea` on dark.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — hero display](https://pin.fontofweb.com/10428?format=jpg)](https://design.withfudge.com/share/pin-10428)
+[![Pricing | Cognee - AI Memory Engine Plans](https://pin.fontofweb.com/10429?format=jpg)](https://design.withfudge.com/share/pin-10429)
 
-[Home — hero display](https://design.withfudge.com/share/pin-10428)
+[Pricing | Cognee - AI Memory Engine Plans](https://design.withfudge.com/share/pin-10429)
 
-[![Home — narrative and cards intro](https://pin.fontofweb.com/10425?format=jpg)](https://design.withfudge.com/share/pin-10425)
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10428?format=jpg)](https://design.withfudge.com/share/pin-10428)
 
-[Home — narrative and cards intro](https://design.withfudge.com/share/pin-10425)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/share/pin-10428)
 
-[![Home — problem headline and feature grid](https://pin.fontofweb.com/10427?format=jpg)](https://design.withfudge.com/share/pin-10427)
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10427?format=jpg)](https://design.withfudge.com/share/pin-10427)
 
-[Home — problem headline and feature grid](https://design.withfudge.com/share/pin-10427)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/share/pin-10427)
 
-[![Pricing — plan cards](https://pin.fontofweb.com/10429?format=jpg)](https://design.withfudge.com/share/pin-10429)
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10426?format=jpg)](https://design.withfudge.com/share/pin-10426)
 
-[Pricing — plan cards](https://design.withfudge.com/share/pin-10429)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/share/pin-10426)
 
-[![Home — supporting band](https://pin.fontofweb.com/10426?format=jpg)](https://design.withfudge.com/share/pin-10426)
+[![Cognee - Open-Source Agent Memory Platform](https://pin.fontofweb.com/10425?format=jpg)](https://design.withfudge.com/share/pin-10425)
 
-[Home — supporting band](https://design.withfudge.com/share/pin-10426)
+[Cognee - Open-Source Agent Memory Platform](https://design.withfudge.com/share/pin-10425)
+
+## Design character
+
+cognee.ai has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 3 captured type families, 14 recurring colors, and 335 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **5 pages** and 5 representative page references. It records 197 color rows, 115 typography rows, 306 spacing rows, 23 border rows, 5 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#0c0121` | color · main | 94817 |
+| `#000000` | color · unknown | 30025 |
+| `#2b2b2b` | background-color · unknown | 14956 |
+| `#2c2c2a` | background-color · main | 13215 |
+| `#edecea` | color · nav | 11802 |
+| `#f4f4f4` | background-color · unknown | 4895 |
+| `#bc9bff` | color · main | 3367 |
+| `#ffffff` | border-color · main | 2069 |
+| `#3a3a38` | background-color · main | 852 |
+| `#1e1e1c` | color · main | 205 |
+| `#a380ea` | background-color · main | 64 |
+| `#916dd9` | background-color · main | 57 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Twk Lausanne** | 16px · 300 · 20px | 106839 |
+| **Applesystem** | 14px · 400 · normal | 62 |
+| **Jet Brains Mono** | 13px · 300 · 18px | 28 |
+
+### Spacing and layout
+
+The most repeated spacing values are `50px` for padding-right, `50px` for padding-left, `0px 308px` for margin, `308px` for margin-right, `308px` for margin-left, and `0px 50px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 6px` (1451), `1px solid 8px` (556), `0px none 1.67772e+07px` (256), `2px solid 8px` (250), `1px solid 1.67772e+07px` (37), and `1px 0px 0px solid 0px` (28). 5 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#bc9bff`
+- `#0c0121`
+- `#000000`
+- `#2b2b2b`
+- `#2c2c2a`
 - `#edecea`
+- `#f4f4f4`
+- `#bc9bff`
+- `#ffffff`
+- `#3a3a38`
 - `#1e1e1c`
+- `#a380ea`
+- `#916dd9`
+- `#a583ec`
+- `#ba98fd`
+
+## Typography captured from cognee.ai
+
+- **Twk Lausanne** — weight 300 · size 16px
+- **Applesystem** — weight 400 · size 14px
+- **Jet Brains Mono** — weight 300 · size 13px

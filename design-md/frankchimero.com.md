@@ -2,99 +2,99 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/frankchimero.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-frankchimero.com is a **quiet personal studio site**: generous padding, bookish pacing, and almost no chrome. The system reads as essay-first design — light paper canvas, single-column reading measure, restrained sans at 14–18px, and large breathing room (often 64px padding). It feels human, slow, and intentionally under-designed compared to SaaS landings.
-
-What should survive adaptation:
-
-- Paper-light canvas and long vertical rhythm.
-- Body-first type (14–16px/1.5) with occasional 18–24px titles.
-- **64px** padding as a signature spacious inset.
-- Minimal navigation; content is the interface.
-- No loud accents, cards, or growth-hack CTAs.
-
-## Foundations
-
-### Color
-
-No structured colors. Visual system is near-monochrome:
-
-| Role | Approx | Use |
-|------|--------|-----|
-| Canvas | `#f7f4ef` – `#ffffff` | Page |
-| Ink | `#1a1a1a` | Body/titles |
-| Muted | `#666666` | Meta, secondary |
-| Rule | `#e5e5e5` | Rare dividers |
-
-### Typography
-
-| Role | Size | Weight | LH |
-|------|------|--------|-----|
-| Body | 16px | 400 | 24px |
-| Small / meta | 14px | 400 | 21–24px |
-| Lead / title | 18–24px | 400 | ~27–29px |
-
-No black display shouting — hierarchy is subtle size and space.
-
-### Spacing and layout
-
-- Signature **64px** padding on major containers.
-- Secondary 12px vertical padding on tighter stacks; 18px margins between blocks.
-- Single reading column; home is a vertical index of writing/work.
-
-## Visual language
-
-- Essentially borderless and shadowless.
-- Photography or project stills appear as simple blocks when present.
-- Empty space is a material.
-
-## Components and states
-
-1. Sparse header identity.
-2. Linked list / index of essays and projects.
-3. Long-form text blocks.
-4. Quiet footer.
-
-No complex interactive components in captures.
-
-## Responsive behavior
-
-Desktop captures ~960–1712px. The 64px inset should reduce on narrow viewports but keep the airy single-column feel.
-
-## Practical guidance
-
-**Preserve** paper calm, 64px breath, body-size honesty, minimal chrome.  
-**Avoid** card grids, gradient heroes, sticky conversion bars, oversized marketing display.
-
-## Scope note
-
-Five home captures at different scrolls/widths. Color roles and radii largely unsupported — character is screenshot-evident whitespace and type.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home reading index](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/share/pin-7426)
+[![Frank Chimero · Home](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/share/pin-7427)
 
-[Home reading index](https://design.withfudge.com/share/pin-7426)
+[Frank Chimero · Home](https://design.withfudge.com/share/pin-7427)
 
-[![Home alternate scroll](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/share/pin-7425)
+[![Frank Chimero · Home](https://pin.fontofweb.com/7426?format=jpg)](https://design.withfudge.com/share/pin-7426)
 
-[Home alternate scroll](https://design.withfudge.com/share/pin-7425)
+[Frank Chimero · Home](https://design.withfudge.com/share/pin-7426)
 
-[![Shorter crop](https://pin.fontofweb.com/7427?format=jpg)](https://design.withfudge.com/share/pin-7427)
+[![Frank Chimero · Home](https://pin.fontofweb.com/7425?format=jpg)](https://design.withfudge.com/share/pin-7425)
 
-[Shorter crop](https://design.withfudge.com/share/pin-7427)
+[Frank Chimero · Home](https://design.withfudge.com/share/pin-7425)
 
-[![Narrower frame](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/share/pin-7424)
+[![Frank Chimero · Home](https://pin.fontofweb.com/7424?format=jpg)](https://design.withfudge.com/share/pin-7424)
 
-[Narrower frame](https://design.withfudge.com/share/pin-7424)
+[Frank Chimero · Home](https://design.withfudge.com/share/pin-7424)
+
+[![Frank Chimero · Home](https://pin.fontofweb.com/7423?format=jpg)](https://design.withfudge.com/share/pin-7423)
+
+[Frank Chimero · Home](https://design.withfudge.com/share/pin-7423)
+
+## Design character
+
+frankchimero.com has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 2 captured type families, 5 recurring colors, and 19 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **5 pages** and 5 representative page references. It records 98 color rows, 32 typography rows, 16 spacing rows, 3 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 3705 |
+| `#cccccc` | color · main | 3555 |
+| `#555555` | color · footer | 150 |
+| `#ffffff` | border-color · main | 44 |
+| `#202020` | border-color · footer | 15 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Ibm Plex Sans** | 16px · 400 · 24px | 3440 |
+| **Martina Plantijn** | 24px · 400 · 28.8px | 265 |
+
+### Spacing and layout
+
+The most repeated spacing values are `64px` for padding, `12px 0px` for padding, `4px 0px` for padding, `18px 0px` for margin, `0px 308.5px` for margin, and `8px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 8px` (72) and `1px 0px 0px solid none none 0px` (59). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **footer**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#f7f4ef`
+- `#000000`
+- `#cccccc`
+- `#555555`
 - `#ffffff`
-- `#1a1a1a`
-- `#666666`
-- `#e5e5e5`
+- `#202020`
+
+## Typography captured from frankchimero.com
+
+- **Ibm Plex Sans** — weight 400 · size 16px
+- **Martina Plantijn** — weight 400 · size 24px

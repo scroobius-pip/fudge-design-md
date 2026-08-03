@@ -2,109 +2,95 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cracked.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Cracked is a loud, editorial humor portal: black masthead, bold white/yellow wordmark energy, dense multi-column content grids, and thumbnail-led story modules. It reads like a classic internet magazine—high contrast, heavy weights, and packed modules—not a minimal SaaS landing page. Humor is in the headlines; the chrome is utilitarian black, white, and accent red/yellow from the brand bar.
-
-What should survive adaptation:
-
-- Strong **black masthead** with category navigation
-- **Bold, weighty headlines** (700–900) over lighter body
-- Thumbnail + headline story cards in tight grids
-- High content density; short module padding (~10–20px)
-- Clear section labels for verticals (Movies & TV, etc.)
-
-## Foundations
-
-### Color
-
-Measured role colors were not recorded. From the captured pages:
-
-- **Masthead / chrome**: near-black bars and footers
-- **Page field**: light/white content wells under the header
-- **Type**: black headlines on light cards; white type on dark chrome
-- **Accents**: brand yellow/red notes in logo lockups and occasional badges (visual)
-- **Rules**: 1px solid horizontal dividers between modules
-
-Keep the system high-contrast editorial—black chrome, light reading surface, restrained accent.
-
-### Typography
-
-No declared families. Observed scale:
-
-| Role | Size | Weight | Line-height |
-|------|------|--------|-------------|
-| Section / feature head | ~30–36px | 700–900 | ~40px |
-| Card headline | ~20–26px | 700–900 | ~26–32px |
-| Deck / blurb | ~16–22px | 400 | ~28–32px |
-| Nav / meta / bylines | 16px | 700 (nav) / 400 (meta) | tight ~16px on nav |
-
-Headlines dominate: heavy weight, short lines, little decoration. Body stays 16px with comfortable ~28px leading in blurbs.
-
-### Spacing and layout
-
-- Module padding clusters at **10px / 20px**; horizontal card padding ~16px on category pages
-- Desktop home uses a wide multi-column magazine grid with side margins ~280px on very wide captures
-- 1px top borders repeat as list/module separators
-- Category pages stack vertical lists of story rows (thumb + text)
-- Density is intentionally high—little dead air between stories
-
-## Visual language
-
-- **Shape**: mostly squared-off cards and media thumbs; radii not a defining feature
-- **Borders**: thin solid rules, not soft shadows
-- **Imagery**: photographic and illustrated article thumbs; large feature art in heroes
-- **Logo**: bold wordmark in the black header
-- **Motion**: not established
-
-## Components and states
-
-1. **Global header** — black bar, Cracked wordmark, category links, utility icons
-2. **Feature / river modules** — big story with image + heavy headline
-3. **Story card** — thumbnail, bold title, short deck, meta
-4. **Section index** (e.g. Movies & TV) — titled hub with stacked editorial rows
-5. **Footer chrome** — dark utilitarian close
-
-Interaction states (hover underline, etc.) are not reliable from stills—preserve structure and type weight instead.
-
-## Responsive behavior
-
-Two paths captured: wide home (~1712px) and narrower category (~800px). At 800px the layout collapses toward single-column story stacks with 16px side padding while keeping bold 20–30px heads. Treat as content-first responsive: grids drop columns before type radically changes.
-
-## Practical guidance
-
-**Preserve**
-
-- Black masthead + dense editorial grid
-- 700–900 headlines as the primary voice
-- Thumbnail-led modules and thin rules
-- High information density
-
-**Avoid**
-
-- Airy startup spacing that undermines the magazine feel
-- Soft pastel cards or large rounded corners
-- Replacing bold humor headlines with thin geometric display type
-- Over-branding every card with extra accent colors
-
-**Adaptation**
-
-- Start from header + story card + section index patterns
-- Type ramp: display 36 / card 22–26 / body 16
-- Keep accent color scarce; let photography and headlines carry energy
-
-## Scope note
-
-Based on Cracked home and `/humor-movies-tv.html` captures. Font families and measured palettes were unavailable; color guidance is visual. Article long-form interiors, ads, and comment UI were not the focus of these captures.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — magazine grid](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/share/pin-8241)
+[![Movies & TV | Cracked.com](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/share/pin-8242)
 
-[Home — magazine grid](https://design.withfudge.com/share/pin-8241)
+[Movies & TV | Cracked.com](https://design.withfudge.com/share/pin-8242)
 
-[![Movies & TV hub](https://pin.fontofweb.com/8242?format=jpg)](https://design.withfudge.com/share/pin-8242)
+[![Cracked.com - America's Only Humor Site | Cracked.com](https://pin.fontofweb.com/8241?format=jpg)](https://design.withfudge.com/share/pin-8241)
 
-[Movies & TV hub](https://design.withfudge.com/share/pin-8242)
+[Cracked.com - America's Only Humor Site | Cracked.com](https://design.withfudge.com/share/pin-8241)
+
+## Design character
+
+cracked.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 3 captured type families, 8 recurring colors, and 25 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 65 color rows, 27 typography rows, 23 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 1773 |
+| `#f5f5f5` | background-color · unknown | 60 |
+| `#005f6b` | color · main | 21 |
+| `#656565` | color · main | 21 |
+| `#ffcc00` | background-color · main | 19 |
+| `#eeeeee` | background-color · main | 6 |
+| `#ffffff` | color · button | 2 |
+| `#ffd772` | background-color · main | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Neuekabel** | 30px · 700 · 40px | 822 |
+| **Open Sans** | 16px · 700 · 16px | 56 |
+| **Source Serif 4** | 16px · 400 · 28px | 44 |
+
+### Spacing and layout
+
+The most repeated spacing values are `10px 0px 20px` for padding, `5px 0px 0px` for padding, `10px 0px` for padding, `10px 0px 0px` for padding, `10px` for padding, and `0px 10px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid none none 0px` (60). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#f5f5f5`
+- `#005f6b`
+- `#656565`
+- `#ffcc00`
+- `#eeeeee`
+- `#ffffff`
+- `#ffd772`
+
+## Typography captured from cracked.com
+
+- **Neuekabel** — weight 700 · size 30px
+- **Open Sans** — weight 700 · size 16px
+- **Source Serif 4** — weight 400 · size 16px

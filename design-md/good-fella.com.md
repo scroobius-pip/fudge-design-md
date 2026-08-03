@@ -2,206 +2,115 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/good-fella.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Good Fella is a **dark-first frontend studio brand** with a sharp orange accent and gallery-level craft. Marketing feels cinematic: near-black canvases, oversized white display type, ASCII/dot-matrix art as signature imagery, and compound orange CTAs that always pair a label with a small `+` tile. Light sections invert cleanly for comparison tables and pricing without abandoning the same geometry and type hierarchy.
-
-What should survive adaptation:
-
-- **Near-black marketing canvas** with white primary type
-- **Hot orange (`#FF5A1F` family)** as the only high-chroma UI accent
-- **Compound CTAs**: solid orange label + matching orange `+` square
-- **ASCII / bitmap portrait and map art** as brand imagery (not stock photos)
-- **Dual surfaces**: dark portfolio/hero vs light comparison/pricing bands
-- **Monochrome logo strip** of client marks on dark
-
-## Foundations
-
-### Color
-
-Structured palette capture was empty; values below are read from representative home screens.
-
-| Role | Hex (approx.) | Where it shows |
-| --- | --- | --- |
-| Marketing canvas | `#0A0A0A`–`#111111` | Full-bleed heroes, featured work, footer |
-| Primary text (dark) | `#FFFFFF` | Display headlines, section titles |
-| Secondary text (dark) | `#9A9A9A`–`#B0B0B0` | Body under heroes, captions, menu |
-| Accent / CTA | `#FF4D00`–`#FF5A1F` | Buttons, `+` tiles, status dots, ASCII tint |
-| Light canvas | `#F2F2F2`–`#F5F5F5` | Why/pricing comparison bands |
-| Primary text (light) | `#111111` | “Why Good Fella?”, pricing titles |
-| Table surface (dark) | `#0E0E0E`–`#141414` | Comparison matrix body |
-| Highlight column | `#FFFFFF` | “Good Fella” column on comparison table |
-| Form field (dark) | `#2A2A2A` | Name/email inputs in footer |
-| Subscribe control | `#FFFFFF` | White fill + dark label |
-| Hairline / row rules | `rgba(255,255,255,0.08–0.12)` | Table dividers on dark |
-| Watermark type | `#1A1A1A`–`#222` | Giant “Good Fella” footer wordmark |
-
-Relationships that matter:
-
-- **Orange is reserved for action and brand flecks**—never large fills behind body copy.
-- **ASCII art recolors with the accent** (gold/neutral vs pure orange) while staying monochrome-dot.
-- **Light bands are true paper**, not washed dark gray—comparison content needs full contrast.
-
-### Typography
-
-No declared webfont family was recorded. Visually the stack is a **modern grotesque / neo-grotesk sans** with weight-driven hierarchy:
-
-| Use | Weight | Size (observed) | Notes |
-| --- | --- | --- | --- |
-| Display hero | 500 | ~64px / 72 lh | Tight tracking (~−3.2px), two short lines |
-| Oversized display | 300 | ~96px | Light weight for very large statements |
-| Section title | 500–700 | ~40–64px | “Featured Work”, “Why Good Fella?” |
-| Body | 400 | 16px / 24 lh | Default marketing copy |
-| UI / nav / labels | 500 | 14px / ~20 lh | MENU, tags, table headers |
-| Fine / meta | 400 | 14px / 21 lh | Slight negative tracking on some labels |
-| Giant watermark | heavy optical | footer-scale | Low-contrast brand wordmark |
-
-Hierarchy is **display → quiet body → UI label**. Single-family; avoid introducing a display serif.
-
-### Spacing and layout
-
-Recurring measurements:
-
-- **Section vertical padding** often 32px local, with large bands at **128px** and hero tops near **240px**
-- **Control padding** 12–16px horizontal on chips/buttons; comparison cards ~24px
-- **Content gutters** generous on wide frames; side stacks for portfolio thumbnails
-- Body rhythm stays **16/24**; display leading stays tight (~1.1–1.15)
-
-Layout patterns:
-
-1. **Split hero** — left copy + dual CTAs; right full-height ASCII portrait
-2. **Featured work stage** — left title + vertical thumbnail rail; right large device mock
-3. **Light comparison band** — left manifesto + CTA; right multi-column dark table with white highlight column
-4. **Footer triad** — newsletter form, site links, contact emails over ASCII world map + giant watermark
-
-## Visual language
-
-### Shape and depth
-
-- Primary controls are **sharp rectangles** (little to no radius)—studio-tooling feel, not soft SaaS pills
-- Compound buttons: **label tile + square `+` tile** sharing the orange fill
-- Text links on dark use **underline** (“View our work”) rather than filled secondary buttons
-- Depth is mostly **flat planes + imagery**; table uses hairline row rules, not heavy shadows
-- Portfolio mocks sit in **dark stage lighting** with photographic device frames
-
-### Imagery
-
-- Signature: **dot-matrix / ASCII renderings** of classical portraiture and world maps, tinted white-gold or orange
-- Case studies: **high-end product photography** of laptops/phones in crafted scenes
-- Client proof: **monochrome wordmarks** (Coca-Cola, BODYARMOR, WKNDHRS) on dark
-- Optional footer toys: tiny “grid / change color” utilities—keep them quiet
-
-### Borders and dividers
-
-- Comparison table: continuous **1px solid** horizontal rules on dark
-- Form fields: filled dark blocks, minimal border emphasis
-- Section separation prefers **canvas flip** (black ↔ light gray) over hard rules
-
-## Components and states
-
-### Navigation
-
-- Left: condensed **GOOD** wordmark
-- Center: **MENU** + hamburger
-- Right: orange **LET’S WORK TOGETHER** + `+` compound control
-- Stays high-contrast on both dark heroes and darker portfolio chrome
-
-### Buttons
-
-| Variant | Look |
-| --- | --- |
-| Primary compound | Orange fill, white uppercase/title label, attached orange `+` square |
-| Text link | White/light type with underline |
-| Inverse primary | White fill, dark label (Subscribe) with optional `+` |
-| Ghost on light | Same orange compound as dark contexts |
-
-Keep labels short and uppercase or tightly cased; the `+` is part of the brand grammar, not optional decoration.
-
-### Comparison table
-
-- Dark matrix with uppercase column headers
-- **Good Fella column inverted to white** with small orange status square in the header
-- Row labels muted; values higher contrast
-- Pairs with a left-rail headline + single orange CTA
-
-### Forms (footer)
-
-- Stacked Name / Email dark fields
-- Full-width white Subscribe + `+`
-- Status lines with **orange squares**: “Accepting projects”, scarcity notes
-- Contact column as simple text links
-
-### Portfolio stage
-
-- Large hero mock, meta tags in brackets, client name
-- Vertical thumbnail list with **orange active pip**
-- “VIEW ALL +” compound control bottom-left
-
-## Responsive behavior
-
-Captures are **wide desktop viewports** (~1900–2048px). When adapting:
-
-- Hero split should stack to **copy first, ASCII art second** on narrow widths
-- Thumbnail rail may become a **horizontal scroller** under the main mock
-- Comparison table needs horizontal scroll or stacked card rows—do not crush six metrics into unreadably narrow columns
-- Footer triad collapses to a single column; keep the giant watermark as atmospheric background only
-
-## Practical guidance
-
-**Do**
-
-- Lead with white type on near-black; keep body one step down in gray
-- Use **orange only for CTAs, pips, and ASCII tints**
-- Preserve the **label + `+` compound button**
-- Prefer **ASCII/bitmap brand art** over generic gradients
-- Flip to **true light paper** for analytical sections (tables, pricing)
-- Keep geometry **sharp**—this is a craft studio, not a bubbly consumer app
-
-**Don’t**
-
-- Flood backgrounds with orange
-- Replace ASCII art with stock lifestyle photography as the hero identity
-- Round everything into soft SaaS pills
-- Add a second display serif or playful script
-- Lighten the dark canvas into charcoal mush—stay near black
-- Drop the compound `+` pattern if you want the system to still read as Good Fella
-
-## Scope note
-
-Based on seven desktop home captures (`/`, pins 8191, 8193–8198) spanning hero, featured work, comparison/pricing, and footer states. No measured structured palette or declared font families were available—color hexes are screenshot-derived. Inner marketing routes and mobile breakpoints were not in this set; motion is implied by studio positioning but not timed here.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Hero — Frontend team](https://pin.fontofweb.com/8198?format=jpg)](https://design.withfudge.com/share/pin-8198)
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8198?format=jpg)](https://design.withfudge.com/share/pin-8198)
 
-[Hero — Frontend team](https://design.withfudge.com/share/pin-8198)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8198)
 
-[![Hero — orange ASCII tint](https://pin.fontofweb.com/8193?format=jpg)](https://design.withfudge.com/share/pin-8193)
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8197?format=jpg)](https://design.withfudge.com/share/pin-8197)
 
-[Hero — orange ASCII tint](https://design.withfudge.com/share/pin-8193)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8197)
 
-[![Featured Work stage](https://pin.fontofweb.com/8196?format=jpg)](https://design.withfudge.com/share/pin-8196)
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8196?format=jpg)](https://design.withfudge.com/share/pin-8196)
 
-[Featured Work stage](https://design.withfudge.com/share/pin-8196)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8196)
 
-[![Why Good Fella comparison](https://pin.fontofweb.com/8197?format=jpg)](https://design.withfudge.com/share/pin-8197)
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8195?format=jpg)](https://design.withfudge.com/share/pin-8195)
 
-[Why Good Fella comparison](https://design.withfudge.com/share/pin-8197)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8195)
 
-[![Footer — map and subscribe](https://pin.fontofweb.com/8191?format=jpg)](https://design.withfudge.com/share/pin-8191)
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8194?format=jpg)](https://design.withfudge.com/share/pin-8194)
 
-[Footer — map and subscribe](https://design.withfudge.com/share/pin-8191)
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8194)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8193?format=jpg)](https://design.withfudge.com/share/pin-8193)
+
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8193)
+
+[![Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://pin.fontofweb.com/8191?format=jpg)](https://design.withfudge.com/share/pin-8191)
+
+[Good Fella — Frontend Development Studio | Websites That Move | Good Fella](https://design.withfudge.com/share/pin-8191)
+
+## Design character
+
+good-fella.com has a predominantly dark surface treatment across 7 captured pages. The strongest recurring signals are 2 captured type families, 9 recurring colors, and 31 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **7 pages** and 7 representative page references. It records 185 color rows, 62 typography rows, 29 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · header | 4184 |
+| `#eeeeee` | color · header | 2362 |
+| `#141314` | color · main | 1015 |
+| `#818081` | color · main | 967 |
+| `#696869` | color · main | 117 |
+| `#f7f7f7` | background-color · main | 40 |
+| `#1a1a1a` | background-color · main | 40 |
+| `#fd551d` | background-color · main | 14 |
+| `#fb460d` | background-color · main | 7 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Aktivgrotesk** | 16px · 400 · 24px | 4157 |
+| **Geist Mono** | 14px · 500 · 20.02px | 186 |
+
+### Spacing and layout
+
+The most repeated spacing values are `240px 0px 0px` for padding, `32px 0px` for padding, `16px 0px` for padding, `128px 0px` for padding, `20px 0px 32px` for padding, and `0px 68px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid 0px` (60). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **footer**, **header**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0a0a0a`
-- `#111111`
-- `#ffffff`
-- `#ff4d00`
-- `#ff5a1f`
-- `#f2f2f2`
-- `#9a9a9a`
-- `#2a2a2a`
-- `#141414`
+- `#000000`
+- `#eeeeee`
+- `#141314`
+- `#818081`
+- `#696869`
+- `#f7f7f7`
+- `#1a1a1a`
+- `#fd551d`
+- `#fb460d`
+
+## Typography captured from good-fella.com
+
+- **Aktivgrotesk** — weight 400 · size 16px
+- **Geist Mono** — weight 500 · size 14px

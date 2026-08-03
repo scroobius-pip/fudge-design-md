@@ -2,124 +2,111 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/celesteduffy.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Celeste Duffy’s site is an **illustrator’s gallery that behaves like a quiet boutique**: warm off-white paper backgrounds, black serif display type, and a minimal navigation chrome so the artwork can dominate. Personality lives in the illustrations—bold characters, saturated scenes—while the shell stays editorial and restrained. A full-width **coral/orange commission band** is the one loud brand surface outside the art itself.
-
-What should survive adaptation:
-
-- **Paper-warm neutrals** instead of pure cold gray-white
-- **Serif-forward display** for titles; simple sans or quiet UI for forms/nav
-- **Art-first grids** where cards are mostly image
-- One **high-chroma accent band** for conversion (commission/contact), not rainbow UI chrome
-
-## Foundations
-
-### Color
-
-From screenshots (roles were not machine-labeled):
-
-| Use | Approx. value | Notes |
-|-----|---------------|-------|
-| Page canvas | warm ivory `#f7f1e8` range | Slightly creamy, never pure #fff everywhere |
-| Primary text | near-black brown-black `#1a120c` | Soft black, not pure blue-black |
-| Commission band | vivid coral/orange ~`#e85d3b` | Full-bleed section with dark type |
-| Form fields on coral | light peach/cream inputs | Low contrast fields on loud ground |
-| Footer | deep brown/black bar | Anchors the page |
-| Art | full spectrum inside images | Not part of UI tokens |
-
-### Typography
-
-Families not declared in capture data. Visual system:
-
-- **Display / section titles:** large serif, ~35–64px, weight ~400, elegant editorial feel (“Would you like customization…”, portfolio titles)
-- **Body:** ~14–16px, comfortable reading measure, weight 400
-- **UI labels / nav:** smaller, simpler; forms use clear required labels
-- Line-heights on display stay relatively tight (~1.05–1.15); body nearer 1.4–1.5
-
-### Spacing and layout
-
-- Horizontal padding often ~**69px** on home, ~**22–32px** on denser grids
-- Vertical section padding ~**26–69px** depending on block
-- Portfolio uses a multi-column image grid with modest gutters
-- Commission section is a **two-column** split: serif story left, form right
-- Margins between stacked text blocks ~**16–32px**
-
-## Visual language
-
-- Corners mostly **sharp or lightly softened** (~15px rare); the site is more editorial than “app rounded”
-- Form controls on the coral band are **light filled rectangles** with minimal border
-- Primary submit is a **dark filled rounded rectangle** (near-black) on coral—high contrast
-- Imagery is the brand: character illustration, textured scenes, print mockups
-- No heavy drop shadows on the marketing chrome; separation is color blocking (ivory / coral / near-black footer)
-
-## Components and states
-
-1. **Top nav** — wordmark + text links, minimal
-2. **Masonry/grid gallery** — image tiles, little chrome
-3. **Store cards** — product image + quiet price/meta
-4. **Commission band** — loud coral, serif headline, multi-field form, checkbox groups, date field, dark submit
-5. **Footer** — dark bar with newsletter or wordmark lockup
-
-Interaction states beyond default were not captured.
-
-## Responsive behavior
-
-Captures are desktop-width (~1567–1712px) across home, prints, portfolio, licensing, and contact. The commission block’s two-column split is the main layout that would need stacking on small screens; no mobile captures were present.
-
-## Practical guidance
-
-**Preserve**
-
-- Warm paper canvas + serif headlines + art-led grids
-- Coral only as a deliberate full-bleed conversion surface
-- Dark footer as a heavy base note
-- Sparse UI chrome
-
-**Avoid**
-
-- Cold SaaS blues and purple gradients
-- Heavy card shadows and glassmorphism over artwork
-- Turning every section into a loud color block
-- Over-labeling gallery images with badges and chips
-
-## Scope note
-
-Eight captures across `/`, `/prints`, `/portfolio`, `/licensing-1`, and `/contact`. Spacing and some borders measured; color roles and font families were not declared—palette above is from visual reading of screenshots. Mobile layouts not observed.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — illustration hero grid](https://pin.fontofweb.com/7856?format=jpg)](https://design.withfudge.com/share/pin-7856)
+[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7863?format=jpg)](https://design.withfudge.com/share/pin-7863)
 
-[Home — illustration hero grid](https://design.withfudge.com/share/pin-7856)
+[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7863)
 
-[![Home — alternate scroll state](https://pin.fontofweb.com/7857?format=jpg)](https://design.withfudge.com/share/pin-7857)
+[![About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7862?format=jpg)](https://design.withfudge.com/share/pin-7862)
 
-[Home — alternate scroll state](https://design.withfudge.com/share/pin-7857)
+[About | Discover Creative Visuals Today — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7862)
 
-[![Prints store](https://pin.fontofweb.com/7858?format=jpg)](https://design.withfudge.com/share/pin-7858)
+[![Licensing — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7861?format=jpg)](https://design.withfudge.com/share/pin-7861)
 
-[Prints store](https://design.withfudge.com/share/pin-7858)
+[Licensing — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7861)
 
-[![Portfolio grid](https://pin.fontofweb.com/7860?format=jpg)](https://design.withfudge.com/share/pin-7860)
+[![General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7860?format=jpg)](https://design.withfudge.com/share/pin-7860)
 
-[Portfolio grid](https://design.withfudge.com/share/pin-7860)
+[General 1 | Discover Unique Art - Shop Now — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7860)
 
-[![Licensing / commission form](https://pin.fontofweb.com/7861?format=jpg)](https://design.withfudge.com/share/pin-7861)
+[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7859?format=jpg)](https://design.withfudge.com/share/pin-7859)
 
-[Licensing / commission form](https://design.withfudge.com/share/pin-7861)
+[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7859)
 
-[![Contact / about](https://pin.fontofweb.com/7862?format=jpg)](https://design.withfudge.com/share/pin-7862)
+[![Store 2 — CELESTE - Draw, Paint, Illustrate](https://pin.fontofweb.com/7858?format=jpg)](https://design.withfudge.com/share/pin-7858)
 
-[Contact / about](https://design.withfudge.com/share/pin-7862)
+[Store 2 — CELESTE - Draw, Paint, Illustrate](https://design.withfudge.com/share/pin-7858)
+
+[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7857?format=jpg)](https://design.withfudge.com/share/pin-7857)
+
+[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/share/pin-7857)
+
+[![Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://pin.fontofweb.com/7856?format=jpg)](https://design.withfudge.com/share/pin-7856)
+
+[Celeste Draw, Paint, Illustrate | Art and Illustration Blog for Creatives](https://design.withfudge.com/share/pin-7856)
+
+## Design character
+
+celesteduffy.com has a predominantly dark surface treatment across 8 captured pages. The strongest recurring signals are 2 captured type families, 5 recurring colors, and 35 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **8 pages** and 8 representative page references. It records 152 color rows, 40 typography rows, 33 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · header | 3841 |
+| `#200603` | color · header | 3330 |
+| `#f4f2ea` | color · main | 1379 |
+| `#fe6b41` | color · main | 183 |
+| `#feabda` | color · button | 57 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Almarai** | 16px · 400 · 16px | 3539 |
+| **Libre Baskerville** | 44.8px · 400 · 49.8893px | 399 |
+
+### Spacing and layout
+
+The most repeated spacing values are `25.8px 68.8px` for padding, `113.52px 0px` for padding, `56.76px 0px` for padding, `68.8px` for padding, `17.2px 0px` for padding, and `22px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 15px` (28) and `0px none 15px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **header**, **footer**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#f7f1e8`
-- `#ffffff`
-- `#1a120c`
-- `#e85d3b`
-- `#2b2118`
-- `#f0e6d8`
+- `#000000`
+- `#200603`
+- `#f4f2ea`
+- `#fe6b41`
+- `#feabda`
+
+## Typography captured from celesteduffy.com
+
+- **Almarai** — weight 400 · size 16px
+- **Libre Baskerville** — weight 400 · size 44.8px

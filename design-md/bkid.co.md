@@ -2,76 +2,89 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/bkid.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-The captured B K I D pages are **studio portfolio case studies**, not a product marketing site. The “10 Hangul Unit” work pages read as editorial design documentation: generous outer margins, small running text (~14/22), large top padding, and a calm light field that lets project imagery and diagrams dominate.
-
-What should survive adaptation:
-
-- **Editorial quiet** — UI almost disappears
-- **Image-first project narrative**
-- **Small, readable body** with long vertical rhythm
-- **Wide side margins** framing a centered reading column
-- **Minimal chrome** (studio nav, project title, little else)
-
-## Foundations
-
-### Color
-
-No structured role colors were returned. Visually the pages read as light paper with near-black text and project photography carrying all chroma. Treat the shell as neutral light; do not invent a brand rainbow.
-
-### Typography
-
-- Dominant text: **14px / 22px**, weight 400 — long-form captions and body
-- Occasional **10px** labels/meta
-- No declared family; the feel is clean grotesque suitable for bilingual (Latin/Hangul) captions
-
-Hierarchy is intentionally flat compared with SaaS marketing: the project title and images lead; body stays small and even.
-
-### Spacing and layout
-
-- **~100px** padding-top on major sections — museum-like entry breath
-- Side margins ~**63.5px** (and sometimes 32px) — consistent column inset
-- **21px** margin-bottom between text blocks — tight paragraph stack inside an otherwise open page
-- Section crops around **1104×825–857** — focused case-study frames rather than full marketing heroes
-
-## Visual language
-
-- Sparse borders/radii/shadows (not observed as a system)
-- Photography, diagrams, and type specimens from the work itself
-- Portfolio craft: white space as a design material
-
-## Components and states
-
-- Case study header (project name)
-- Sequential media blocks / diagrams
-- Small caption text under artifacts
-- Minimal site navigation
-
-No complex interactive component kit is visible in these crops.
-
-## Responsive behavior
-
-Only ~1104px-wide section crops were captured. Do not claim a full breakpoint system; keep the editorial column and scale imagery fluidly.
-
-## Practical guidance
-
-**Preserve**: quiet light shell, small body type, large top breath, image-led storytelling, wide margins.
-
-**Avoid**: SaaS hero patterns, loud CTAs, card marketplaces, or dense admin UI patterns on case studies.
-
-## Scope note
-
-Two section-crop captures of `bkid.co/work/10-hangul-unit/`. Color roles, radii, and shadows were largely unobserved; guidance leans on spacing metrics plus visual reading of the project pages.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![10 Hangul Unit — case study crop A](https://pin.fontofweb.com/10283?format=jpg)](https://design.withfudge.com/share/pin-10283)
+[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10283?format=jpg)](https://design.withfudge.com/share/pin-10283)
 
-[10 Hangul Unit — case study crop A](https://design.withfudge.com/share/pin-10283)
+[10 Hangul Unit – B K I D](https://design.withfudge.com/share/pin-10283)
 
-[![10 Hangul Unit — case study crop B](https://pin.fontofweb.com/10282?format=jpg)](https://design.withfudge.com/share/pin-10282)
+[![10 Hangul Unit – B K I D](https://pin.fontofweb.com/10282?format=jpg)](https://design.withfudge.com/share/pin-10282)
 
-[10 Hangul Unit — case study crop B](https://design.withfudge.com/share/pin-10282)
+[10 Hangul Unit – B K I D](https://design.withfudge.com/share/pin-10282)
+
+## Design character
+
+bkid.co has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 4 captured type families, 4 recurring colors, and 40 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 59 color rows, 38 typography rows, 40 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#444444` | color · unknown | 23623 |
+| `#ffffff` | background-color · unknown | 3604 |
+| `#888888` | color · main | 2384 |
+| `#000000` | color · unknown | 190 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Helvetica Neue** | 14px · 400 · 22px | 26007 |
+| **Applesystem** | 14px · 400 · normal | 87 |
+| **System** | 10px · 400 · normal | 87 |
+| **Helvetica** | 14px · 400 · 22px | 16 |
+
+### Spacing and layout
+
+The most repeated spacing values are `21px` for margin-bottom, `0px 63.5px` for margin, `63.5px` for margin-right, `63.5px` for margin-left, `100px 0px 0px` for padding, and `100px` for padding-top. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **main**, **nav**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#444444`
+- `#ffffff`
+- `#888888`
+- `#000000`
+
+## Typography captured from bkid.co
+
+- **Helvetica Neue** — weight 400 · size 14px
+- **Applesystem** — weight 400 · size 14px
+- **System** — weight 400 · size 10px
+- **Helvetica** — weight 400 · size 14px

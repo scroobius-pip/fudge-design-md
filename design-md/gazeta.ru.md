@@ -2,89 +2,91 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/gazeta.ru-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Gazeta.Ru reads as a classic high-volume Russian news portal: dense information hierarchy, utilitarian chrome, and story-first layout rather than brand theater. The home experience packs logo, search, and section navigation into a tight masthead, then drops straight into multi-column news modules—politics, society, economy—with thumbnail-led story cards and bright category accents. It feels editorial-operational: maximize scan speed, not lifestyle polish.
-
-## Foundations
-
-### Color
-
-Measured color roles were not retained for these captures. Visually, the system runs on a light gray page field, white content panels, near-black body type, and saturated category/accents (blue links, red live markers, multicolored section chips). Treat the palette as news-utility: neutral canvas + loud status and section color, not a monochrome brand system.
-
-### Typography
-
-No declared font families in the captures. Observed text styles:
-
-- 18px / weight 400 (undeclared UI sans, line-height 22px) — seen ~101 times
-- 20px / weight 400 (undeclared UI sans, line-height 30px) — seen ~64 times
-- 16px / weight 400 (undeclared UI sans, line-height 20px) — seen ~42 times
-- 16px / weight 700 (undeclared UI sans, line-height 22px) — seen ~24 times
-- 16px / weight 700 (undeclared UI sans, line-height 20px) — seen ~14 times
-- 28px / weight 700 (undeclared UI sans, line-height 38px) — seen ~8 times
-
-Body sits around 16–18px regular; 20px appears for stronger leads; bold 16px marks labels and meta. Hierarchy is size-and-weight driven inside a compact news grid rather than display type.
-
-### Spacing and layout
-
-- margin-bottom: 16px (×61)
-- padding-bottom: 8px (×48)
-- padding-top: 8px (×48)
-- padding-left: 34px (×46)
-- padding-right: 34px (×46)
-- padding-bottom: 16px (×43)
-- padding-left: 16px (×43)
-- padding-right: 16px (×43)
-
-Home uses a wide multi-column board (~1260px capture) with thin gutters between story tiles. Article views compress to a narrower reading column with stacked related modules. Vertical rhythm is tight (often 8–16px between blocks) to keep more headlines above the fold.
-
-## Visual language
-
-- 2px (×63)
-
-Corners stay nearly square (≈2px)—cards feel boxed and catalog-like, not soft SaaS. Borders and hairlines separate modules; imagery is rectangular thumbnails and promo banners, not full-bleed hero photography. Shadows are minimal; separation comes from borders and background steps (gray page / white cards).
-
-## Components and states
-
-Recurring pieces:
-- **Masthead** with wordmark, search field, and utility links
-- **Section nav** as a horizontal label row
-- **Story cards** combining thumbnail, headline, and timestamp/meta
-- **Category chips** and colored section headers
-- **Promo/banner strips** interrupting the grid
-- **Article body** with related-news side or bottom stacks
-
-States visible in stills: default cards and simple hover is not claimed; live/breaking treatments use stronger color markers.
-
-## Responsive behavior
-
-Captures include a wider home board and a narrower article crop. The article path collapses multi-column density into a single reading stack while keeping the same utilitarian type scale—expect reflow by stacking modules rather than a separate mobile brand.
-
-## Practical guidance
-
-**Preserve**
-- Dense, scannable multi-column news packing
-- Near-square cards and hairline separation
-- Small utilitarian type scale (16–20px) over marketing display
-- Category color as the only loud accent system
-
-**Avoid**
-- Large rounded SaaS cards or heavy drop shadows
-- Oversized hero typography that wastes fold real estate
-- Sparse luxury whitespace that fights the portal’s information density
-
-## Scope note
-
-Studied home (`/`) and one social/news article path. Color roles, shadows, and declared families were not available in structured form; character notes lean on screenshots plus spacing/type observations.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новост](https://pin.fontofweb.com/9101?format=jpg)](https://design.withfudge.com/share/pin-9101)
+[![Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://pin.fontofweb.com/9101?format=jpg)](https://design.withfudge.com/share/pin-9101)
 
-[Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новост](https://design.withfudge.com/share/pin-9101)
+[Стало известно о последствиях непогоды в Московской области - Газета.Ru | Новости](https://design.withfudge.com/share/pin-9101)
 
 [![Главные новости России и мира сегодня - Газета.Ru](https://pin.fontofweb.com/9089?format=jpg)](https://design.withfudge.com/share/pin-9089)
 
 [Главные новости России и мира сегодня - Газета.Ru](https://design.withfudge.com/share/pin-9089)
+
+## Design character
+
+gazeta.ru has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 7 recurring colors, and 18 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 51 color rows, 12 typography rows, 14 spacing rows, 3 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 933 |
+| `#202020` | box-shadow · header | 232 |
+| `#cccccc` | color · unknown | 64 |
+| `#ffffff` | background-color · header | 47 |
+| `#f5f5f5` | background-color · unknown | 44 |
+| `#303030` | background-color · unknown | 18 |
+| `#c9181e` | background-color · unknown | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Source Sans 3** | 20px · 400 · 30px | 220 |
+| **Bitter** | 28px · 700 · 37.8px | 46 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 16px` for margin, `8px 34px` for padding, `16px` for padding, `24px 0px 0px` for padding, `0px -15.3333px 0px 0px` for margin, and `0px 0px 0px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 2px` (63). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **aside**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#202020`
+- `#cccccc`
+- `#ffffff`
+- `#f5f5f5`
+- `#303030`
+- `#c9181e`
+
+## Typography captured from gazeta.ru
+
+- **Source Sans 3** — weight 400 · size 20px
+- **Bitter** — weight 700 · size 28px

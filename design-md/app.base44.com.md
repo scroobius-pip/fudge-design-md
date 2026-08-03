@@ -2,71 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/app.base44.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Base44’s captured experience is an **in-product builder paywall on a dark editor stage**: behind the scenes, a dimmed app chrome; front and center, a large white rounded pricing modal with an orange promotional banner, countdown, and four plan cards. The system is SaaS-familiar—soft shadows, peach discount pills, clear primary orange subscribe on the recommended plan—optimized for conversion without leaving the editor context.
-
-What should survive adaptation:
-- Dark editor backdrop vs bright modal sheet contrast
-- Orange accent for urgency banner and primary subscribe
-- Four-up plan cards with checklist features
-- Clean UI sans and soft 12–16px radii
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#2563eb`, `#09090b`, `#6b7280`, `#4b5563`, `#94a3b8`. Measured blues/grays (`#2563eb`, `#09090b`, `#6b7280`, `#4b5563`, `#94a3b8`) appear in UI chrome; the pricing story visually adds orange/peach accents for sale state. Black/zinc dark editor (`#09090b`) frames the white modal.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 14px, lh 24px
-- **text**: unknown, weight 400, 14px, lh 20px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 12px, lh 16px
-- **text**: unknown, weight 500, 12px, lh 18px
-- **text**: unknown, weight 400, 12px, lh 16px
-- **text**: unknown, weight 400, 12px, lh 16px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 500, 14px, lh 20px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-
-Modal title centered and bold; plan names medium; prices large with struck old prices; feature lists small with check icons. UI sans throughout—no editorial serif inside the builder paywall.
-
-### Spacing and layout
-
-Recurring spacing measurements include 4px, 7px, 8px, 12px, 14px, 16px, 24px, 28px. Modal is centered with internal grid of plan cards; banner spans full modal width; trust logos row beneath. Observed corner radii include 2px, 4px, 6px, 8px, 10px, 12px, 20px, 26px, 9999px.
-
-## Visual language
-
-Soft modal shadow, light card borders, pill badges (“30% off”), solid orange primary button vs outline secondary plan buttons. Countdown timer reads as functional urgency, not gamification confetti.
-
-## Components and states
-
-- Dimmed editor chrome (sidebar/canvas hints)
-- Promo banner with countdown
-- Plan cards: name, price, credits, CTA, feature checklist
-- Highlighted recommended plan (solid CTA)
-- Compliance/trust badge row
-- Close control on the modal
-
-## Responsive behavior
-
-Wide editor captures (~2048px). On smaller widths, plan cards should stack vertically inside a scrollable sheet while the orange banner remains sticky at the top of the modal.
-
-## Practical guidance
-
-**Preserve** modal-on-dark-editor pattern, orange sale accent, checklist plan comparison clarity.  
-**Avoid** restyling plans as dark cards that blend into the editor; avoid extra novelty illustrations inside the paywall.
-
-## Scope note
-
-Studied 3 page captures on paths /apps/69a0c0c2e9e84046e13cb675/editor/preview. Some structural families were incomplete on these pages. All captures share the editor/preview route focused on the pricing modal state.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -82,10 +18,95 @@ Studied 3 page captures on paths /apps/69a0c0c2e9e84046e13cb675/editor/preview. 
 
 [untitled | Base44](https://design.withfudge.com/share/pin-7410)
 
+## Design character
+
+app.base44.com has a mixed light and dark surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 24 recurring colors, and 77 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 145 color rows, 57 typography rows, 54 spacing rows, 19 border rows, 0 gradient rows, and 4 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#09090b` | color · unknown | 2935 |
+| `#000000` | background-color · unknown | 2583 |
+| `#f8fafc` | background-color · unknown | 838 |
+| `#ffffff` | color · unknown | 301 |
+| `#4b5563` | color · button | 60 |
+| `#111827` | color · unknown | 49 |
+| `#ff7b42` | background-color · unknown | 46 |
+| `#e2e8f0` | background-color · unknown | 25 |
+| `#d1d5db` | border-color · button | 24 |
+| `#9ca3af` | color · unknown | 15 |
+| `#ffccac` | background-color · unknown | 12 |
+| `#94a3b8` | color · unknown | 12 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 16px · 400 · 24px | 2360 |
+| **Wix Madefor App** | 16px · 400 · 24px | 953 |
+| **Wix Madefor** | 14px · 500 · 20px | 115 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 7px` for margin, `24px` for padding, `0px 0px 14px` for margin, `8px 0px` for padding, `0px 0px 24px` for margin, and `12px 16px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 10px` (784), `0px none 20px` (188), `0px none 12px` (42), `1px solid 8px` (26), `0px none 6px` (17), and `0px none 9999px` (11). 0 gradient rows and 4 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#2563eb`
 - `#09090b`
-- `#6b7280`
+- `#000000`
+- `#f8fafc`
+- `#ffffff`
 - `#4b5563`
+- `#111827`
+- `#ff7b42`
+- `#e2e8f0`
+- `#d1d5db`
+- `#9ca3af`
+- `#ffccac`
 - `#94a3b8`
+- `#fed7c3`
+- `#ff631f`
+- `#020617`
+- `#c1c1c1`
+
+## Typography captured from app.base44.com
+
+- **System** — weight 400 · size 16px
+- **Wix Madefor App** — weight 400 · size 16px
+- **Wix Madefor** — weight 500 · size 14px

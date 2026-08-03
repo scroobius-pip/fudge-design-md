@@ -2,76 +2,109 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cargo.site-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Cargo is **extreme minimal chrome for maximal creative work**. The marketing home is a near-empty black field with huge white grotesk headlines (“Cargo Site Builder”, “Explore Sites / Start”), tiny sparse nav, and almost no decoration—plus a single vivid green partner/mark moment. The templates index stays black, with a grid of site thumbnails carrying all color and texture.
-
-What should survive adaptation:
-- Black void canvas + white type
-- Monumental, simple sans display
-- Navigation as whisper-weight text
-- Template/work previews as the only busy surfaces
-
-## Foundations
-
-### Color
-Structured roles unsupported. Visually: `#000000` ground, `#ffffff` type, muted gray meta, occasional **vivid green** badge/logo (e.g. DINAMO mark). Do not build a pastel secondary palette into the chrome.
-
-### Typography
-Weights 300–500. Body/UI ~12–17px; display jumps to **~60px**. Light-to-regular large type on black is the signature—not ultra-black heavy posters.
-
-### Spacing and layout
-Unusual optical spacing including negative tracking-related values; macro layout is vast empty regions with type anchored left/right. Templates: multi-column square-ish preview grid with labels beneath.
-
-## Visual language
-- Almost no radius language in chrome (thumbnails may have slight 5px)
-- No shadows on marketing void
-- Grid hairlines on template index
-- Color lives inside embedded site previews
-
-## Components and states
-- Text-only nav (Templates, Community, Information, Start, Login)
-- Giant headline pairs
-- Template cards: preview + name + variant count chip
-- Minimal footer blurbs
-
-## Responsive behavior
-Home/templates at 1712 and 2048. Grid column count is the main flex; black minimal system unchanged.
-
-## Practical guidance
-**Preserve** black void, huge light grotesk, gallery-as-color.
-**Avoid** filling the home with feature cards, gradients, or stock illustration that competes with templates.
-
-## Scope note
-`/`, `/templates`, and one template preview. Editor UI not studied.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — black minimal hero](https://pin.fontofweb.com/6367?format=jpg)](https://design.withfudge.com/share/pin-6367)
+[![Cargo](https://pin.fontofweb.com/6371?format=jpg)](https://design.withfudge.com/share/pin-6371)
 
-[Home — black minimal hero](https://design.withfudge.com/share/pin-6367)
+[Cargo](https://design.withfudge.com/share/pin-6371)
 
-[![Templates gallery](https://pin.fontofweb.com/6368?format=jpg)](https://design.withfudge.com/share/pin-6368)
+[![Cargo: Templates](https://pin.fontofweb.com/6370?format=jpg)](https://design.withfudge.com/share/pin-6370)
 
-[Templates gallery](https://design.withfudge.com/share/pin-6368)
+[Cargo: Templates](https://design.withfudge.com/share/pin-6370)
 
-[![Templates — wide](https://pin.fontofweb.com/6370?format=jpg)](https://design.withfudge.com/share/pin-6370)
+[![Cargo: Templates](https://pin.fontofweb.com/6369?format=jpg)](https://design.withfudge.com/share/pin-6369)
 
-[Templates — wide](https://design.withfudge.com/share/pin-6370)
+[Cargo: Templates](https://design.withfudge.com/share/pin-6369)
 
-[![Template preview](https://pin.fontofweb.com/6369?format=jpg)](https://design.withfudge.com/share/pin-6369)
+[![Cargo: Templates](https://pin.fontofweb.com/6368?format=jpg)](https://design.withfudge.com/share/pin-6368)
 
-[Template preview](https://design.withfudge.com/share/pin-6369)
+[Cargo: Templates](https://design.withfudge.com/share/pin-6368)
 
-[![Home — wide](https://pin.fontofweb.com/6371?format=jpg)](https://design.withfudge.com/share/pin-6371)
+[![Cargo](https://pin.fontofweb.com/6367?format=jpg)](https://design.withfudge.com/share/pin-6367)
 
-[Home — wide](https://design.withfudge.com/share/pin-6371)
+[Cargo](https://design.withfudge.com/share/pin-6367)
+
+## Design character
+
+cargo.site has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 2 captured type families, 10 recurring colors, and 31 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **5 pages** and 5 representative page references. It records 82 color rows, 29 typography rows, 28 spacing rows, 3 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | background-color · button | 2480 |
+| `#000000` | background-color · unknown | 1430 |
+| `#111111` | background-color · unknown | 498 |
+| `#030303` | background-color · unknown | 337 |
+| `#141414` | background-color · unknown | 254 |
+| `#dcdcdc` | color · unknown | 48 |
+| `#d9d9d9` | color · unknown | 28 |
+| `#0000ee` | color · unknown | 26 |
+| `#707070` | color · unknown | 14 |
+| `#a1a1a1` | color · button | 12 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Cargo Diatype Plus** | 14.5px · 400 · 23.925px | 4536 |
+| **Sf Pro** | 14.5px · 400 · 14.5px | 1460 |
+
+### Spacing and layout
+
+The most repeated spacing values are `40px 26px 0px` for padding, `0px -15px 0px 0px` for margin, `37.5px 37.5px 105px` for padding, `0px 0px 189.2px` for padding, `41px 0px 0px` for padding, and `-40px 0px -17.5px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 5px` (625). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#000000`
 - `#ffffff`
-- `#1a1a1a`
-- `#22c55e`
+- `#000000`
+- `#111111`
+- `#030303`
+- `#141414`
+- `#dcdcdc`
+- `#d9d9d9`
+- `#0000ee`
+- `#707070`
+- `#a1a1a1`
+
+## Typography captured from cargo.site
+
+- **Cargo Diatype Plus** — weight 400 · size 14.5px
+- **Sf Pro** — weight 400 · size 14.5px

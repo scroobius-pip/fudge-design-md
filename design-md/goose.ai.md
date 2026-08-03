@@ -2,115 +2,112 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/goose.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-GooseAI is a **deep-indigo developer marketing site** with a single joke told seriously: migration, geese, and API drop-in parity. The look is night-sky purple-navy, thin luminous line art, soft yellow display accents, and code samples as first-class UI. Sections breathe with large centered margins; content is a short stack of bold claims, outlined cards, and one peach solid CTA rather than a busy SaaS dashboard aesthetic.
-
-What should survive adaptation:
-
-- **Near-black indigo/navy canvas** with lavender line illustration
-- **Pale yellow display emphasis** on key phrases (“goosebumps”)
-- **Outlined cards** with 1–2px cool borders, not heavy fills
-- **One warm peach CTA** against cooler purple chrome
-- **Code block as product proof** (tabbed Python/JS, green diff highlight)
-
-## Foundations
-
-### Color
-
-No measured role palette was returned for these captures. From the screenshots:
-
-- **Canvas**: deep navy/indigo (almost black-violet)
-- **Line art / borders**: cool lavender-blue strokes
-- **Primary text**: white to soft lavender-white
-- **Display accent**: muted yellow for punch lines
-- **Secondary/muted copy**: gray-lavender
-- **CTA fill**: solid peach/apricot with dark label
-- **Code highlight**: green on the changed API base line
-- **Card fills**: slightly lifted translucent navy inside thin borders
-
-Use a cool, low-saturation night palette; warmth is reserved for CTA and occasional highlight text.
-
-### Typography
-
-Declared families were not captured. Observed type roles:
-
-- **Hero / section display**: ~50px, weight 500–700, tight friendly sans; line-height ~1.3–1.35
-- **Supporting display**: ~26–38px for secondary headlines
-- **Body**: 16px / ~24.8px line-height regular; 20px / 31px for larger body
-- **UI labels**: 12–16px; some labels push **900** weight for strong UI emphasis
-- Hierarchy leans on **size jumps + one accent color word**, not mixed serif/sans pairings
-
-### Spacing and layout
-
-- Wide side margins (~**296px** in large viewports) create a narrow content column on desktop
-- Section padding often **32px** inward; some hero bands use very large vertical padding (**~200px**)
-- Card internal padding ~**15–35px**; stacked feature rows with consistent gaps
-- Two-column sections (copy left / samples right) appear on wider frames; single column when tight
-- Overall density is **sparse**—large empty navy field around illustration and type
-
-## Visual language
-
-- **Illustration**: continuous-line geese in flight, monoline, same stroke weight as card borders—brand mark and decoration in one system
-- **Radii**: modest (**~4px** where measured); cards read as soft rectangles more than pills
-- **Borders**: 1–2px solid on all sides of cards and code chrome; borders carry more structure than shadows
-- **Shadows**: not observed as a primary depth tool
-- **Code UI**: dark panel, tab labels (Python / JavaScript), monospace body, single-line green emphasis for the migration diff
-- **Motion**: not established
-
-## Components and states
-
-1. **Hero claim** — short setup line + large punch line + paragraph + code card over illustration
-2. **Feature split** — left headline/body/CTA stack; right stack of bordered sample-output cards
-3. **Primary CTA** — filled peach bar with trailing chevron (active product path)
-4. **Secondary / disabled rows** — outlined buttons with “Coming Soon!” muted label (inactive paths stay visible but quiet)
-5. **Sample cards** — bordered prose blocks; active sample uses brighter type and orange word highlights; inactive samples fade
-6. **Code tabs** — text tabs with underline/active treatment above the snippet
-
-State language: filled vs outline, full opacity vs muted, accent words inside otherwise white body copy.
-
-## Responsive behavior
-
-Four homepage captures from roughly **1730–2050px** wide show the same dark marketing system with generous side margins. Narrower behavior is not strongly documented—expect the two-column feature/proof layout to stack and side margins to collapse before type scale changes.
-
-## Practical guidance
-
-**Preserve**
-
-- Indigo night canvas + monoline goose art as the brand signature
-- Yellow only for display punch; peach only for the primary CTA
-- Bordered navy cards and a real code sample with a one-line green diff
-- Wide margins and sparse sections—do not pack like a docs portal
-- “Coming soon” paths as quiet outlines beside one loud CTA
-
-**Avoid**
-
-- White marketing pages or generic purple gradients without the line-art system
-- Multiple competing solid CTAs
-- Heavy drop shadows or glassmorphism that fight the flat navy cards
-- Dropping the code proof—the product story is API parity
-- Warm brown or earth tones that break the cool night key
-
-## Scope note
-
-Based on four homepage viewport captures of goose.ai. Structured color roles and declared font families were not available; color and type notes combine spacing/radius/border measurements with visual reading of the screenshots. Inner docs, dashboard, and pricing flows are not in this set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Hero — Geese migrate](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/share/pin-6491)
+[![GooseAI](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/share/pin-6494)
 
-[Hero — Geese migrate](https://design.withfudge.com/share/pin-6491)
+[GooseAI](https://design.withfudge.com/share/pin-6494)
 
-[![Hero alternate crop](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/share/pin-6492)
+[![GooseAI](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/share/pin-6493)
 
-[Hero alternate crop](https://design.withfudge.com/share/pin-6492)
+[GooseAI](https://design.withfudge.com/share/pin-6493)
 
-[![Goosebumps feature split](https://pin.fontofweb.com/6493?format=jpg)](https://design.withfudge.com/share/pin-6493)
+[![GooseAI](https://pin.fontofweb.com/6492?format=jpg)](https://design.withfudge.com/share/pin-6492)
 
-[Goosebumps feature split](https://design.withfudge.com/share/pin-6493)
+[GooseAI](https://design.withfudge.com/share/pin-6492)
 
-[![Homepage wide frame](https://pin.fontofweb.com/6494?format=jpg)](https://design.withfudge.com/share/pin-6494)
+[![GooseAI](https://pin.fontofweb.com/6491?format=jpg)](https://design.withfudge.com/share/pin-6491)
 
-[Homepage wide frame](https://design.withfudge.com/share/pin-6494)
+[GooseAI](https://design.withfudge.com/share/pin-6491)
+
+## Design character
+
+goose.ai has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 3 captured type families, 13 recurring colors, and 35 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 99 color rows, 27 typography rows, 28 spacing rows, 7 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | color · unknown | 4992 |
+| `#000000` | background-color · unknown | 4685 |
+| `#281c59` | border-color · unknown | 326 |
+| `#0b0224` | background-color · unknown | 286 |
+| `#01001a` | background-color · unknown | 182 |
+| `#83ff97` | color · unknown | 56 |
+| `#fffa83` | color · unknown | 33 |
+| `#ffc683` | background-color · button | 22 |
+| `#83a5ff` | color · button | 20 |
+| `#c883ff` | color · button | 20 |
+| `#9991ff` | color · unknown | 16 |
+| `#2f9e44` | background-color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Articulat Cf** | 16px · 400 · 24.8px | 5012 |
+| **Karl** | 26px · 400 · 35.1px | 139 |
+| **System** | 12px · 400 · 18.6px | 10 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 296px` for margin, `32px` for padding, `-80px 0px` for margin, `200px 32px` for padding, `15px` for padding, and `-15px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 0px` (178), `2px solid 0px` (150), and `0px none 4px` (8). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#ffffff`
+- `#000000`
+- `#281c59`
+- `#0b0224`
+- `#01001a`
+- `#83ff97`
+- `#fffa83`
+- `#ffc683`
+- `#83a5ff`
+- `#c883ff`
+- `#9991ff`
+- `#2f9e44`
+- `#34276a`
+
+## Typography captured from goose.ai
+
+- **Articulat Cf** — weight 400 · size 16px
+- **Karl** — weight 400 · size 26px
+- **System** — weight 400 · size 12px

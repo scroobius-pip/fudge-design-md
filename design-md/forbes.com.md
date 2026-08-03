@@ -2,119 +2,97 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/forbes.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Forbes.com presents as a **premium business-media brand** with two interlocking modes: a dense editorial content index (Innovation and section hubs) and high-contrast **brand campaign strips** (newsletter “For Your Inbox”). The system mixes classical serif display for authority with a clean sans for UI and decks. Black, white, and Forbes red do the heavy lifting; photography and bold 3D illustration sit on pure black stages.
-
-What should survive adaptation:
-
-- **Serif display + sans UI** pairing for headlines vs chrome.
-- A **black/white/red** brand core — red reserved for Forbes marks, illustration accents, and scarce emphasis.
-- Editorial **card grids** with 8–16px radii and generous 24–32px padding.
-- Campaign blocks that flip to **full black** with white serif headlines and a simple email + Sign Up row.
-
-## Foundations
-
-### Color
-
-Structured role colors were not returned. From screenshots:
-
-| Role | Hex (approx.) | Use |
-|------|----------------|-----|
-| Canvas (editorial) | `#ffffff` | Section hubs, article grids |
-| Canvas (campaign) | `#000000` | Newsletter / brand modules |
-| Primary text on light | `#111111` | Headlines, body |
-| Primary text on dark | `#ffffff` | Campaign headlines |
-| Secondary / meta | `#6b6b6b` | Bylines, labels |
-| Forbes red | `#e31c23` / bright red | Logo, illustration, accents |
-| Input fill | `#ffffff` | Email field on black |
-| Control fill | `#e8e8e8` | Sign Up button on black |
-| Link blue | `#2f6fed` | Legal/policy links in fine print |
-
-Red is brand punctuation, not a wash. Campaign modules go fully black so red illustration and white type punch.
-
-### Typography
-
-No declared families recorded. Visual system:
-
-- **Display / campaign headlines:** high-contrast transitional/modern **serif**, large (visually ~32–48px+), elegant italic optional in brand moments.
-- **Section titles & decks:** sans at 24px / 36px lh (measured) and 16px body.
-- **Meta / UI:** 12–14px medium sans (measured 12px w500, 14px w500).
-
-Measured ladder:
-
-| Role | Size | Weight | LH |
-|------|------|--------|-----|
-| UI / body base | 16px | 400 | 16–24px |
-| Meta | 12–14px | 500 | 18–21px |
-| Deck / card title | 24px | 400 | 36px |
-| Display | ~32px+ | 400 | ~38px |
-
-### Spacing and layout
-
-- Section padding often **24px** vertical and **32px** horizontal; home campaign uses **40px** vertical with **128px** side padding on wide frames.
-- Card radius **8px** dominant; occasional **16px**.
-- Innovation hub: multi-column story cards, topic chips, standard media-site header density.
-- Newsletter module: left copy column + right illustration, hairline rule under “For Your Inbox”.
-
-## Visual language
-
-- Soft **8px** cards on light editorial surfaces.
-- **Flat black stages** for brand marketing with crisp vector/3D still-life (keyboard, mug, Forbes Daily booklet) in red/black/white.
-- Hairline rules and quiet greys rather than heavy shadows.
-- Imagery is photographic for news cards; illustrative for brand acquisition modules.
-
-## Components and states
-
-1. **Section hub header** — title, filters/topics, story grid.
-2. **Story card** — image, eyebrow, headline, deck.
-3. **Newsletter band** — black full-bleed, serif H1, email field, muted Sign Up, legal microcopy with blue links.
-4. **Utility links** — “See All Newsletters →” top-right on dark bands.
-
-Default/resting states only in captures; Sign Up reads secondary (light gray) next to a white field so the email input is the focus.
-
-## Responsive behavior
-
-Two widths observed (~1460×406 strip and 1712×1314 hub). The campaign strip stays single-row on wide screens with illustration right-aligned; editorial hub keeps multi-column cards. Narrow behavior not fully captured.
-
-## Practical guidance
-
-**Preserve**
-
-- Serif authority on big statements; sans everywhere else.
-- Black campaign slabs as brand punctuation inside a mostly light site.
-- Scarce Forbes red.
-- 8px card rounding and 24/32 padding rhythm.
-
-**Avoid**
-
-- Turning the whole site into a dark theme.
-- Overusing red backgrounds.
-- Dropping serif display in favor of all-sans “tech startup” tone.
-- Heavy drop shadows on news cards.
-
-## Scope note
-
-Studied Innovation hub (`/innovation/`) and a home newsletter strip (`/`). Color roles, font families, and shadows were not structured — palette and serif/sans pairing come from screenshot reading. Only two captures; inner article templates are out of scope.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Innovation hub](https://pin.fontofweb.com/9036?format=jpg)](https://design.withfudge.com/share/pin-9036)
+[![Innovation](https://pin.fontofweb.com/9036?format=jpg)](https://design.withfudge.com/share/pin-9036)
 
-[Innovation hub](https://design.withfudge.com/share/pin-9036)
+[Innovation](https://design.withfudge.com/share/pin-9036)
 
-[![For Your Inbox campaign](https://pin.fontofweb.com/9035?format=jpg)](https://design.withfudge.com/share/pin-9035)
+[![Forbes](https://pin.fontofweb.com/9035?format=jpg)](https://design.withfudge.com/share/pin-9035)
 
-[For Your Inbox campaign](https://design.withfudge.com/share/pin-9035)
+[Forbes](https://design.withfudge.com/share/pin-9035)
+
+## Design character
+
+forbes.com has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 3 captured type families, 9 recurring colors, and 30 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 72 color rows, 29 typography rows, 23 spacing rows, 7 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · nav | 1774 |
+| `#ffffff` | color · button | 796 |
+| `#171717` | color · nav | 459 |
+| `#333333` | border-color · nav | 122 |
+| `#dc0000` | background-color · header | 5 |
+| `#bbbbbb` | color · nav | 3 |
+| `#7b7b7b` | color · button | 3 |
+| `#4285f4` | color · unknown | 2 |
+| `#f0f0f0` | background-color · button | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Graphik** | 16px · 400 · 16px | 1450 |
+| **Schnyder S** | 32px · 400 · 38.4px | 62 |
+| **Georgia** | 20px · 400 · 28px | 16 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 22px` for padding, `24px 32px 0px 0px` for padding, `24px 0px` for padding, `0px 0px 24px` for margin, `0px 32px` for padding, and `40px 128px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px solid none 0px` (101), `0px none 8px` (10), `1px solid 8px` (9), `0px none 16px` (2), and `0px none 50%` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **nav**, **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
 - `#ffffff`
-- `#111111`
-- `#6b6b6b`
-- `#e8e8e8`
-- `#e31c23`
-- `#2f6fed`
+- `#171717`
+- `#333333`
+- `#dc0000`
+- `#bbbbbb`
+- `#7b7b7b`
+- `#4285f4`
+- `#f0f0f0`
+
+## Typography captured from forbes.com
+
+- **Graphik** — weight 400 · size 16px
+- **Schnyder S** — weight 400 · size 32px
+- **Georgia** — weight 400 · size 20px

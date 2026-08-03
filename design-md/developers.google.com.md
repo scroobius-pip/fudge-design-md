@@ -2,101 +2,105 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/developers.google.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-developers.google.com’s Developer Program surfaces read as **polished Google product marketing**, not a dense API reference. The system is **white-field, Material-adjacent, and conversion-clear**: a calm sans hierarchy, one unmistakable blue for primary actions, and generous product photography that sells the program as a place to learn, build, and ship. Pricing pages feel like a clean SaaS comparison; the program hub feels like a hero launch with floating device chrome and soft gradient orbs.
-
-What should survive adaptation:
-
-- Near-white canvas with **Google Blue** as the only loud accent
-- Large, friendly display lines with restrained body gray
-- Softly rounded cards and pill/rounded-rectangle CTAs
-- Product UI mockups as the main visual theater
-
-## Foundations
-
-### Color
-
-Measured roles:
-
-- Accent: `#1a73e8` (primary buttons, key links, focus energy)
-- Primary text: `#202124`
-- Secondary text: `#5f6368`
-
-The broader page stays white/off-white with light gray dividers and card edges. Premium plan treatment introduces deeper blue fills on selected cards while Standard stays outlined/white. Avoid inventing a rainbow of Google brand colors—this slice is deliberately blue + neutral.
-
-### Typography
-
-Declared families were not captured. Visually the stack is a **geometric humanist sans** in the Google Product Sans / Roboto tradition:
-
-- Display/hero roughly in the 36–48px range, weight ~400–500
-- Section titles ~20–28px
-- Body ~14–16px with comfortable line height (~20–24px)
-- Small meta/labels ~12px
-
-Hierarchy is achieved with size and color (near-black vs mid gray), not heavy weight stacks.
-
-### Spacing and layout
-
-Recurring spacing steps cluster around **2 / 4 / 8 / 12 / 16 / 24 / 32px**. Marketing sections breathe with large vertical gaps; plan cards sit in a centered multi-column row with consistent gutters. Content width stays moderate—readable marketing measure, not full-bleed app chrome.
-
-## Visual language
-
-- **Radii:** 4px on tight controls, **16px** on cards/panels, **24px** on larger soft containers
-- Borders are light hairlines separating white surfaces rather than heavy frames
-- Shadows stay minimal; elevation comes more from spacing and soft gray fills than dramatic drop shadows
-- Imagery: crisp product screenshots, floating browser/app chrome, soft blue/indigo gradient spheres behind heroes
-- Motion is not established from still captures
-
-## Components and states
-
-- **Primary CTA:** filled `#1a73e8` with white label (Join, Get Standard, etc.)
-- **Secondary CTA:** white/light fill with gray border (“Other Downloads”-style peers on related Google properties; here often text or quiet outline)
-- **Plan cards:** title, price, feature list, bottom CTA; selected/premium may invert to solid blue
-- **Top promo strip:** thin dark utility bar above the white marketing nav
-- **Nav:** simple text links, restrained iconography
-
-Do not invent hover/focus choreography beyond the obvious filled vs quiet button pairing.
-
-## Practical guidance
-
-**Preserve**
-
-- One blue accent against white + charcoal text
-- Soft 16–24px card rounding
-- Plan comparison as honest cards, not dense tables
-- Product mockups as hero art
-
-**Avoid**
-
-- Neon multi-accent palettes
-- Heavy skeuomorphic shadows
-- Cramped developer-docs density on marketing pages
-- Replacing blue CTAs with generic black pills (loses the Google cue)
-
-## Scope note
-
-Studied viewport captures of `/program` and `/program/plans-and-pricing` (pins 5075, 6326, 6327). Declared font families, motion, and true mobile breakpoints were not established in this set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Program hub hero with product theater](https://pin.fontofweb.com/5075?format=jpg)](https://design.withfudge.com/share/pin-5075)
+[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6327?format=jpg)](https://design.withfudge.com/share/pin-6327)
 
-[Program hub hero with product theater](https://design.withfudge.com/share/pin-5075)
+[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/share/pin-6327)
 
-[![Plans & Pricing comparison](https://pin.fontofweb.com/6327?format=jpg)](https://design.withfudge.com/share/pin-6327)
+[![Plans & Pricing | Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/6326?format=jpg)](https://design.withfudge.com/share/pin-6326)
 
-[Plans & Pricing comparison](https://design.withfudge.com/share/pin-6327)
+[Plans & Pricing | Google Developer Program  |  Google for Developers](https://design.withfudge.com/share/pin-6326)
 
-[![Pricing mid-width viewport](https://pin.fontofweb.com/6326?format=jpg)](https://design.withfudge.com/share/pin-6326)
+[![Google Developer Program  |  Google for Developers](https://pin.fontofweb.com/5075?format=jpg)](https://design.withfudge.com/share/pin-5075)
 
-[Pricing mid-width viewport](https://design.withfudge.com/share/pin-6326)
+[Google Developer Program  |  Google for Developers](https://design.withfudge.com/share/pin-5075)
+
+## Design character
+
+developers.google.com has a mixed light and dark surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 11 recurring colors, and 34 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 73 color rows, 31 typography rows, 24 spacing rows, 10 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#202124` | color · header | 1127 |
+| `#dadce0` | border-color · main | 242 |
+| `#1a73e8` | color · main | 32 |
+| `#ffffff` | background-color · header | 31 |
+| `#e8f0fe` | background-color · main | 20 |
+| `#5f6368` | color · nav | 18 |
+| `#1f1f1f` | color · main | 5 |
+| `#c4c7c5` | border-color · main | 5 |
+| `#174ea6` | color · main | 4 |
+| `#000000` | color · button | 2 |
+| `#f1f3f4` | background-color · main | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Roboto** | 16px · 400 · 24px | 949 |
+| **Google Sans 18 Pt** | 14px · 500 · 20px | 217 |
+| **Material Symbols Outlined** | 24px · 400 · 24px | 22 |
+
+### Spacing and layout
+
+The most repeated spacing values are `16px` for padding, `2px 0px 0px` for padding, `12px 44px 12px 8px` for padding, `12px 44px 12px 32px` for padding, `4px 0px` for padding, and `0px 0px 16px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 16px` (236), `0px none 16px` (132), `0px none 4px` (7), `0px none 24px` (6), `1px solid 4px` (6), and `1px solid 24px` (5). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **header**, **nav**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#1a73e8`
 - `#202124`
-- `#5f6368`
+- `#dadce0`
+- `#1a73e8`
 - `#ffffff`
+- `#e8f0fe`
+- `#5f6368`
+- `#1f1f1f`
+- `#c4c7c5`
+- `#174ea6`
+- `#000000`
+- `#f1f3f4`
+
+## Typography captured from developers.google.com
+
+- **Roboto** — weight 400 · size 16px
+- **Google Sans 18 Pt** — weight 500 · size 14px
+- **Material Symbols Outlined** — weight 400 · size 24px

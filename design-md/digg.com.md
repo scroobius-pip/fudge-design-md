@@ -2,101 +2,123 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/digg.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Modern Digg is a **warm paper newsroom**, not the old orange digg-button era. The tech feed sits on a soft **beige canvas** (`#efece6`) with **white elevated cards**, near-black type, and a crisp black wordmark. It feels editorial-product: ranked top stories, highlight tiles, rising-story rails, and dense but breathable metadata (views, likes, avatars). Dark mode is offered as a first-class toggle without changing the information architecture.
-
-What should survive adaptation:
-
-- Warm paper background behind white content cards
-- Black wordmark + small category pill (`/TECH`)
-- Ranked story list with human avatar stacks
-- Quiet chips for filters (Today / 7-days) instead of loud primaries
-
-## Foundations
-
-### Color
-
-Measured:
-
-- Canvas / accent-adjacent warm field: `#efece6`
-- Black text/UI: `#000000`
-- Dark accent/surface: `#171616`
-- Card surfaces: `#ffffff`
-
-Text is essentially black on white/paper. Status chips use soft tints (viewed, negative, climbing) as small labels—keep them secondary to the paper/black system.
-
-### Typography
-
-Declared families not captured. Hierarchy:
-
-- Story titles ~16–18px+ medium/semibold feel (weights 500–600 observed)
-- Body/deck ~14–16px weight 400, ~24px line height on body samples
-- Meta/labels ~12px weight 500–600
-- Section headers (“Today’s Highlights”, “Top Stories”) slightly larger, restrained
-
-### Spacing and layout
-
-Radii cluster **2–12px** (common card/control corners ~8–12). Spacing includes tight 2–8px meta gaps and 16–24px card padding. Desktop home is a **main column + right rail** (Rising Stories). Highlights are a 4-up card row. Mobile captures compress stacks while keeping paper/card logic.
-
-## Visual language
-
-- Soft white cards on beige; hairline borders optional
-- Light shadows on some elevated chips
-- Avatar piles as social proof under stories
-- Numbered ranking in the main list
-- Keyboard hint chips (`⌘K`) and dark-mode control in the header utility area
-
-## Components and states
-
-- **Header:** DIGG logo, black category pill, text nav (Stories, GitHub, Rankings), profile
-- **Highlight cards:** label chip + headline + avatar row
-- **Story row:** rank, title, deck, metric icons, avatar stack, optional quote chip
-- **Rail cards:** compact rising items with time-ago and counts
-- **Filter pills:** Today / 7-days
-
-## Practical guidance
-
-**Preserve**
-
-- Beige paper + white cards + black type
-- Ranked feed + avatar social proof
-- Quiet filter chips
-- Dense-but-calm metadata
-
-**Avoid**
-
-- Returning to loud orange-as-everything branding without reason
-- Pure cold gray SaaS backgrounds
-- Stripping avatars/metrics until it becomes a bland link blog
-
-## Scope note
-
-Tech index and article viewports across desktop and narrower widths (pins 9671–9673, 9580–9584). Declared font families not available; dark mode is present as a control but not fully documented as a separate token set here.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Tech feed — highlights and top stories](https://pin.fontofweb.com/9671?format=jpg)](https://design.withfudge.com/share/pin-9671)
+[![SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://pin.fontofweb.com/9673?format=jpg)](https://design.withfudge.com/share/pin-9673)
 
-[Tech feed — highlights and top stories](https://design.withfudge.com/share/pin-9671)
+[SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/share/pin-9673)
 
-[![Article — wide story view](https://pin.fontofweb.com/9672?format=jpg)](https://design.withfudge.com/share/pin-9672)
+[![SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://pin.fontofweb.com/9672?format=jpg)](https://design.withfudge.com/share/pin-9672)
 
-[Article — wide story view](https://design.withfudge.com/share/pin-9672)
+[SpaceX agrees to acquire Cursor creator Anysphere in a $60 billion all-stock merger · Digg](https://design.withfudge.com/share/pin-9672)
 
-[![Article — alternate story](https://pin.fontofweb.com/9584?format=jpg)](https://design.withfudge.com/share/pin-9584)
+[![Tech News · Digg](https://pin.fontofweb.com/9671?format=jpg)](https://design.withfudge.com/share/pin-9671)
 
-[Article — alternate story](https://design.withfudge.com/share/pin-9584)
+[Tech News · Digg](https://design.withfudge.com/share/pin-9671)
 
-[![Article — narrow viewport](https://pin.fontofweb.com/9673?format=jpg)](https://design.withfudge.com/share/pin-9673)
+[![Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://pin.fontofweb.com/9584?format=jpg)](https://design.withfudge.com/share/pin-9584)
 
-[Article — narrow viewport](https://design.withfudge.com/share/pin-9673)
+[Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/share/pin-9584)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9583?format=jpg)](https://design.withfudge.com/share/pin-9583)
+
+[Tech News · Digg](https://design.withfudge.com/share/pin-9583)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9582?format=jpg)](https://design.withfudge.com/share/pin-9582)
+
+[Tech News · Digg](https://design.withfudge.com/share/pin-9582)
+
+[![Tech News · Digg](https://pin.fontofweb.com/9581?format=jpg)](https://design.withfudge.com/share/pin-9581)
+
+[Tech News · Digg](https://design.withfudge.com/share/pin-9581)
+
+[![Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://pin.fontofweb.com/9580?format=jpg)](https://design.withfudge.com/share/pin-9580)
+
+[Z.ai launches GLM-5.2 with a 1-million-token context window ahead of an MIT-licensed release next week · Digg](https://design.withfudge.com/share/pin-9580)
+
+## Design character
+
+digg.com has a mixed light and dark surface treatment across 9 captured pages. The strongest recurring signals are 3 captured type families, 10 recurring colors, and 1073 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **9 pages** and 8 representative page references. It records 160 color rows, 314 typography rows, 955 spacing rows, 95 border rows, 0 gradient rows, and 23 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 3864 |
+| `#171616` | box-shadow · unknown | 1235 |
+| `#e3e0d8` | background-color · unknown | 662 |
+| `#ffffff` | color · unknown | 519 |
+| `#efece6` | color · header | 173 |
+| `#c47700` | background-color · main | 168 |
+| `#212020` | background-color · main | 81 |
+| `#da702c` | background-color · main | 64 |
+| `#dde0e2` | background-color · main | 52 |
+| `#1e76bd` | color · main | 10 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Roobert Mono Vf** | 16px · 400 · 24px | 166762 |
+| **Roobert Vf** | 16px · 400 · 24px | 4824 |
+| **Applesystem** | 14px · 400 · normal | 265 |
+
+### Spacing and layout
+
+The most repeated spacing values are `32px` for padding-right, `32px` for padding-left, `32px` for gap, `32px` for row-gap, `32px` for column-gap, and `40px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 8px` (1888), `1px solid 12px` (1657), `0px none 8px` (805), `0px none 2px` (577), `0px none 3.35544e+07px` (482), and `0px none 3px` (451). 0 gradient rows and 23 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **aside**, **header**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 9 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#efece6`
-- `#ffffff`
 - `#000000`
 - `#171616`
+- `#e3e0d8`
+- `#ffffff`
+- `#efece6`
+- `#c47700`
+- `#212020`
+- `#da702c`
+- `#dde0e2`
+- `#1e76bd`
+
+## Typography captured from digg.com
+
+- **Roobert Mono Vf** — weight 400 · size 16px
+- **Roobert Vf** — weight 400 · size 16px
+- **Applesystem** — weight 400 · size 14px

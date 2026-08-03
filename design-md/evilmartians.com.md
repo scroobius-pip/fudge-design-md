@@ -2,92 +2,103 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/evilmartians.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Evil Martians is a dark, highly crafted developer consultancy brand. Home and Chronicles articles sit on deep black with white type, sharp composition, and playful-serious 3D editorial art. A muted mauve/rose (`#663f4c`) appears as a measured accent against the monochrome chassis. The voice is expert, slightly mischievous, never corporate-blue.
-
-What should survive adaptation:
-- Black marketing canvas with white display type
-- 3D/illustrative article heroes as the emotional peak
-- Small 4px radii on chips and controls
-- Clear left rail / utility nav on long articles
-
-## Foundations
-
-### Color
-
-Measured:
-- `#ffffff` text/surfaces on dark
-- `#663f4c` accent (mauve/rose)
-
-Visually: pure black canvas, white headlines, gray secondary text, light mode article body below the dark hero on Chronicles posts.
-
-### Typography
-
-Families unsupported. Observed article/UI sizes:
-- Small UI ~12.5/22 (300–400)
-- Body-ish ~15/36 in some editorial measures (airy)
-- Display heroes are huge white sans on black (visually 48px+ class)
-
-Home uses bold short claims; articles use strong title + readable long-form.
-
-### Spacing and layout
-
-- Padding top 48px common; 24/36 also frequent
-- Horizontal padding ~48px on content shells
-- Bottom padding 12–48px stacks
-- Article: dark hero full-bleed, then light reading column
-
-Radii: 4px dominant (chips, small controls).
-
-## Visual language
-
-- Flat dark UI chrome + sculptural 3D heroes
-- Topic chips as dark rounded rectangles
-- Author rows with avatars
-- Thin hairline rules
-- Taxonomy: media publication, dark mode, illustration, limited palette
-
-## Components and states
-
-- Martian mark + “Hire Martians” white button
-- Vertical section list (Services, Clients, Blog…)
-- Article hero with topics + authors
-- Light-mode long-form body beneath
-- Floating event badge sometimes present
-
-## Practical guidance
-
-**Preserve** black hero theater, white type, mauve as rare accent, 4px chips.  
-**Avoid** generic purple AI gradients and stock photography.  
-**Adaptation** for expert consultancies and engineering blogs that want character.
-
-## Scope note
-
-Home + OKLCH Chronicles article (4 captures). Colors partially measured; font families unsupported. Product pages beyond home/article not in this set.
+Last updated: 2026-08-03
 
 ## Captured pages
+
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8135?format=jpg)](https://design.withfudge.com/share/pin-8135)
+
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/share/pin-8135)
+
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8134?format=jpg)](https://design.withfudge.com/share/pin-8134)
+
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/share/pin-8134)
+
+[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://pin.fontofweb.com/8133?format=jpg)](https://design.withfudge.com/share/pin-8133)
+
+[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ team blog](https://design.withfudge.com/share/pin-8133)
 
 [![Evil Martians design and develop high performance developer tools that scale](https://pin.fontofweb.com/8132?format=jpg)](https://design.withfudge.com/share/pin-8132)
 
 [Evil Martians design and develop high performance developer tools that scale](https://design.withfudge.com/share/pin-8132)
 
-[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://pin.fontofweb.com/8133?format=jpg)](https://design.withfudge.com/share/pin-8133)
+## Design character
 
-[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://design.withfudge.com/share/pin-8133)
+evilmartians.com has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 2 captured type families, 9 recurring colors, and 43 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
 
-[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://pin.fontofweb.com/8135?format=jpg)](https://design.withfudge.com/share/pin-8135)
+## Overview
 
-[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://design.withfudge.com/share/pin-8135)
+The captured set includes **4 pages** and 4 representative page references. It records 125 color rows, 47 typography rows, 33 spacing rows, 8 border rows, 2 gradient rows, and 0 shadow rows.
 
-[![OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://pin.fontofweb.com/8134?format=jpg)](https://design.withfudge.com/share/pin-8134)
+## Supported design tokens
 
-[OKLCH in CSS: why we moved from RGB and HSL—Martian Chronicles, Evil Martians’ t](https://design.withfudge.com/share/pin-8134)
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 2304 |
+| `#ffffff` | background-color · main | 736 |
+| `#cb009e` | color · main | 81 |
+| `#663f4c` | color · header | 20 |
+| `#89868a` | color · main | 3 |
+| `#a1490f` | color · main | 2 |
+| `#550098` | color · main | 1 |
+| `#727d00` | color · main | 1 |
+| `#3b393d` | color · main | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Martian Grotesk** | 15px · 400 · 36px | 1482 |
+| **Martian Mono Vf** | 12.5px · 400 · 22px | 92 |
+
+### Spacing and layout
+
+The most repeated spacing values are `48px 0px` for padding, `48px 0px 24px` for padding, `24px 0px` for padding, `0px 48px` for padding, `40px 0px 54px` for padding, and `48px 0px 12px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 50%` (97), `0px none 4px` (88), and `1px solid 0px` (1). 2 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **aside**, **unknown**, **nav**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#663f4c`
-- `#ffffff`
 - `#000000`
+- `#ffffff`
+- `#cb009e`
+- `#663f4c`
+- `#89868a`
+- `#a1490f`
+- `#550098`
+- `#727d00`
+- `#3b393d`
+
+## Typography captured from evilmartians.com
+
+- **Martian Grotesk** — weight 400 · size 15px
+- **Martian Mono Vf** — weight 400 · size 12.5px

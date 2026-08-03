@@ -2,67 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/generalbread.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-General Bread (generalbread.co) presents as a bold consumer fintech/bitcoin brand: high-contrast poster-like hero, huge wordmark-level display, and a confident monochrome-plus-accent attitude. Captures show a modern mobile-app story told on the web—short punchy headlines, product phone frames, and generous dark or stark fields rather than a documentation site.
-
-## Foundations
-
-### Color
-
-Structured roles were empty; screenshots read as high-contrast brand surfaces (deep field and light type or inverse), with a small set of bright accents for CTAs and highlights. Keep the system graphic and poster-like rather than multi-pastel.
-
-### Typography
-
-- 16px / weight 400 (undeclared UI sans) — seen ~2800 times
-- 14px / weight 500 (undeclared UI sans, line-height 14px) — seen ~8 times
-- 15px / weight 500 (undeclared UI sans, line-height 15px) — seen ~4 times
-
-Body mass at 16px regular; small UI labels around 14–15px medium. Display is driven more by layout scale in the hero than by a wide measured size ladder in structured data.
-
-### Spacing and layout
-
-- padding-top: 164px (×312)
-- padding-bottom: 8px (×8)
-- padding-left: 16px (×8)
-- padding-right: 16px (×8)
-- padding-top: 8px (×8)
-- margin-top: 8px (×4)
-- padding-bottom: 12px (×4)
-- padding-left: 24px (×4)
-
-Full-bleed marketing sections with centered content and large vertical gaps between story blocks. Product imagery sits as hero artifacts, not inline article figures.
-
-## Visual language
-
-- 12px (×12)
-
-~12px rounding softens cards and app frames without turning everything into pills. Borders are secondary to solid fills and photography/device chrome.
-
-## Components and states
-
-- **Hero** with oversized brand line and primary CTA
-- **Device/app preview** frames
-- **Feature bands** with short copy
-- **Nav** reduced to essentials + CTA
-
-## Practical guidance
-
-**Preserve**
-- Poster-scale hero confidence and high contrast
-- 12px soft app-card rounding
-- Short copy blocks; let product visuals carry detail
-
-**Avoid**
-- Dense multi-column dashboards
-- Low-contrast gray-on-gray fintech clichés
-- Tiny timid wordmarks
-
-## Scope note
-
-Two home captures at large desktop size. Inner product flows were not in the set; treat this as the marketing face of the brand.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -73,3 +13,74 @@ Two home captures at large desktop size. Inner product flows were not in the set
 [![Bread — The Only Modern Bitcoin App](https://pin.fontofweb.com/8327?format=jpg)](https://design.withfudge.com/share/pin-8327)
 
 [Bread — The Only Modern Bitcoin App](https://design.withfudge.com/share/pin-8327)
+
+## Design character
+
+generalbread.co has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 5 recurring colors, and 13 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 45 color rows, 7 typography rows, 6 spacing rows, 2 border rows, 2 gradient rows, and 3 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#1a1a1a` | color · main | 2800 |
+| `#8ecfe2` | background-color · main | 2486 |
+| `#000000` | background-color · main | 326 |
+| `#ffffff` | color · button | 16 |
+| `#aaaaaa` | box-shadow · button | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Applesystem** | 16px · 400 · normal | 2812 |
+
+### Spacing and layout
+
+The most repeated spacing values are `164px 0px 0px` for padding, `8px 16px` for padding, `12px 24px` for padding, and `8px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 12px` (12). 2 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **button**, **image**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#1a1a1a`
+- `#8ecfe2`
+- `#000000`
+- `#ffffff`
+- `#aaaaaa`
+
+## Typography captured from generalbread.co
+
+- **Applesystem** — weight 400 · size 16px

@@ -2,115 +2,91 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/app.fourmula.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Formula AI (app.fourmula.ai) runs a **two-act visual system**. Onboarding and start surfaces are **light, airy, and editorial**—huge tight headlines on white, soft gray panels, and a single dark pill CTA. Once you enter a project, the product flips to a **dark production studio**: charcoal rails, denser forms, product imagery, and violet/purple accents that mark the brand inside the tool.
-
-What should survive adaptation:
-
-- A clear **light → dark mode shift** between marketing/start and the working product
-- **Oversized, tightly tracked headlines** on empty/start states
-- **Card stacks and soft 16px rounding** as the default container language
-- **Purple as the product accent** inside the dark studio (not rainbow multi-accents)
-
-## Foundations
-
-### Color
-
-| Context | Values | Role |
-| --- | --- | --- |
-| Start canvas | pure white `#ffffff` | Full-page ground |
-| Start cards / wells | light gray (~`#f4f4f5`) | Secondary panels, upload wells |
-| Start ink | near-black | Headlines and primary labels |
-| Start CTA | black/near-black pill | Primary button on light UI |
-| Studio ground | deep charcoal (~`#0a0a0b`–`#141416`) | App background |
-| Studio surfaces | elevated dark gray | Forms, lists, preview chrome |
-| Brand accent | violet/purple (~`#7c3aed`–`#a78bfa`) | Active nav, links, focus, badges |
-| Studio text | white / light gray | Primary vs muted copy |
-
-Structured hex roles were sparse in capture; the pairs above are the stable visual system visible across both screens.
-
-### Typography
-
-No declared family name was captured. The type feel is a modern **grotesk UI sans**:
-
-- Start hero: **~52px, weight 500**, line-height ~1.0, strong negative tracking (~-2px)—display, not product chrome
-- Studio titles: **~22px medium**
-- Body / UI: **16px / 24px** regular
-- Secondary: **14px / 20px**
-
-The contrast between **billboard start type** and **compact studio UI type** is intentional. Do not flatten them into one size scale.
-
-### Spacing and layout
-
-Measured padding clusters heavily around **24px** and **16px**, with **40px** section breathing and **12px** stack gaps.
-
-Layouts:
-
-- **Start**: top bar + vertically centered hero column (headline, supporting line, large soft cards, single CTA)
-- **Studio**: three-zone desktop—*left project rail*, *center brief/form*, *right preview/output* (product angles, generations)
-
-## Visual language
-
-- **16px radius** is the workhorse on cards and inputs (very frequent)
-- Light mode uses **soft gray fills** more than hard shadows
-- Dark mode uses **low-contrast borders** and nested panels
-- Purple appears as **text links, active rail items, and small brand marks**, not giant gradient heroes inside the tool
-- Imagery is **product photography** in the preview column—square tiles, multi-angle grids
-
-## Components and states
-
-1. **Top utility bar** (both acts) — wordmark, breadcrumbs or project context, ghost icon buttons
-2. **Hero empty state** — massive title, short subtitle, two feature cards (templates vs blank), dark pill CTA
-3. **Project rail** — dark list of workflow steps/assets with purple active indication
-4. **Brief form** — labels, text areas, chips, and structured fields for PDP/asset generation
-5. **Preview stack** — multi-angle clothing/product frames, download/action affordances
-6. **Primary buttons** — black pills on light; lighter or purple-tinted actions on dark
-
-## Responsive behavior
-
-Both captures are wide desktop viewports (~1712px). The studio’s three-column split is a **desktop composition**. Collapse behavior is not documented here—if adapting, stack preview below the form rather than inventing a separate mobile visual language.
-
-## Practical guidance
-
-**Preserve**
-
-- The emotional cut between bright start and dark build
-- Huge tight hero type only on empty/onboarding moments
-- 16px card radius and 24px padding rhythm
-- Purple as a *signal* color inside charcoal UI
-- Product imagery confined to preview columns
-
-**Avoid**
-
-- Keeping the entire app in marketing-white once work begins
-- Rainbow gradients or playful illustration in the studio chrome
-- Small timid headlines on the start screen
-- Over-decorated cards that fight product photos
-
-## Scope note
-
-Drawn from two desktop pages: `/start` and `/project/create-pdp`. Font families and formal color tokens were largely undeclared in structured data; values above combine measured type sizes with screenshot reads. Motion and narrow breakpoints were not observed.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Start — first project empty state](https://pin.fontofweb.com/8676?format=jpg)](https://design.withfudge.com/share/pin-8676)
+[![Formula AI | Create Assets](https://pin.fontofweb.com/8677?format=jpg)](https://design.withfudge.com/share/pin-8677)
 
-[Start — first project empty state](https://design.withfudge.com/share/pin-8676)
+[Formula AI | Create Assets](https://design.withfudge.com/share/pin-8677)
 
-[![Create Assets workspace](https://pin.fontofweb.com/8677?format=jpg)](https://design.withfudge.com/share/pin-8677)
+[![Formula AI | Start](https://pin.fontofweb.com/8676?format=jpg)](https://design.withfudge.com/share/pin-8676)
 
-[Create Assets workspace](https://design.withfudge.com/share/pin-8677)
+[Formula AI | Start](https://design.withfudge.com/share/pin-8676)
+
+## Design character
+
+app.fourmula.ai has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 8 recurring colors, and 23 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 67 color rows, 23 typography rows, 17 spacing rows, 4 border rows, 2 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | color · unknown | 1352 |
+| `#000000` | background-color · unknown | 1006 |
+| `#111111` | background-color · unknown | 285 |
+| `#1a1a1a` | background-color · unknown | 138 |
+| `#686a6e` | color · unknown | 52 |
+| `#ff6b02` | color · unknown | 31 |
+| `#020108` | color · button | 9 |
+| `#f94a00` | color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Sf Pro** | 16px · 400 · 24px | 1438 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 24px` for padding, `16px` for padding, `24px 24px 40px` for padding, `0px 24px` for padding, `12px 0px 0px` for margin, and `0px 24px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 16px` (418), `0px none 3.35544e+07px` (9), and `2px solid 16px` (5). 2 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, **image**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#ffffff`
-- `#f4f4f5`
-- `#0a0a0b`
-- `#141416`
-- `#a78bfa`
-- `#7c3aed`
-- `#e4e4e7`
-- `#18181b`
+- `#000000`
+- `#111111`
+- `#1a1a1a`
+- `#686a6e`
+- `#ff6b02`
+- `#020108`
+- `#f94a00`
+
+## Typography captured from app.fourmula.ai
+
+- **Sf Pro** — weight 400 · size 16px

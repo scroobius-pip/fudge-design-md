@@ -2,101 +2,109 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/duties.xyz-design)
 
-Last updated: 2026-07-28
-
-# How duties.xyz is designed
-
-## Design character
-
-Duties.xyz is a maximalist editorial-tool aesthetic: warm cream paper, enormous black display type, and a dense icon “dock” that behaves like a playful operating-system shelf. It feels hand-built and slightly absurd on purpose—part design studio, part toy UI—while staying rigorously black-on-cream.
-
-## Foundations
-
-### Color
-
-Structured color roles were empty; values below are visual readings from captures:
-
-- **Paper canvas:** warm off-white / light cream
-- **Ink:** near-black for oversized wordmarks and body
-- **Dock glass:** frosted light panel with soft shadow
-- **Icon tiles:** full-spectrum app-icon colors (blue, green, red, purple, orange) sitting on the neutral stage
-- **Secondary chrome:** light grays for subdued UI chrome behind the dock
-
-The brand color story is cream + black; saturation lives only inside the icon grid.
-
-### Typography
-
-No declared families. Observed:
-
-- Monumental wordmark / display around **240px** (weight 400) for “Duties”
-- Small UI labels ~12–14px, weights 400–500
-- Supporting lines stay modest so the giant wordmark owns the page
-
-Type is mostly geometric sans with tight control on the big word; decoration comes from icons, not lettering flourishes.
-
-### Spacing and layout
-
-- Extremely consistent **10px** padding and gap across dense grids (thousands of observations)
-- Larger structural gaps appear around **400px** column separation in places
-- Radii: **4px** and **8px** dominate tiles; occasional **32px** on larger shells
-- Composition: huge centered wordmark upper-middle, frosted icon dock lower-middle, minimal top chrome
-
-## Visual language
-
-- Giant typography as the hero illustration
-- Soft floating dock with rounded app icons (squircle-like tiles)
-- Paper-like emptiness—most of the viewport is unused cream space
-- Light glassmorphism on the dock versus flat ink type
-
-## Components and states
-
-- Oversized wordmark lockup
-- Frosted multi-row icon launcher
-- Sparse top navigation / utility controls
-- Little traditional “marketing section” structure on the captured home states
-
-## Responsive behavior
-
-Captures are wide desktop and slightly narrower desktop crops of the same home. The wordmark scales down modestly; the dock remains the secondary anchor. True mobile layouts were not in the set.
-
-## Practical guidance
-
-**Preserve**
-
-- Cream paper + pure black mega type
-- 10px rhythmic gap system for dense icon layouts
-- One playful dock as the only colorful object
-
-**Avoid**
-
-- Filling the cream field with cards or stock photos
-- Shrinking the wordmark into a conventional startup hero
-- Adding a second UI metaphor beside the dock
-
-## Scope note
-
-Six captures, all home path at different crops/timestamps. No measured color roles or font families; guidance relies on screenshot reading plus spacing/radius observations.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — mega wordmark + icon dock](https://pin.fontofweb.com/9565?format=jpg)](https://design.withfudge.com/share/pin-9565)
+[![Duties.xyz](https://pin.fontofweb.com/9565?format=jpg)](https://design.withfudge.com/share/pin-9565)
 
-[Home — mega wordmark + icon dock](https://design.withfudge.com/share/pin-9565)
+[Duties.xyz](https://design.withfudge.com/share/pin-9565)
 
-[![Home alternate crop](https://pin.fontofweb.com/9560?format=jpg)](https://design.withfudge.com/share/pin-9560)
+[![Duties.xyz](https://pin.fontofweb.com/9564?format=jpg)](https://design.withfudge.com/share/pin-9564)
 
-[Home alternate crop](https://design.withfudge.com/share/pin-9560)
+[Duties.xyz](https://design.withfudge.com/share/pin-9564)
 
-[![Home mid crop](https://pin.fontofweb.com/9561?format=jpg)](https://design.withfudge.com/share/pin-9561)
+[![Duties.xyz](https://pin.fontofweb.com/9563?format=jpg)](https://design.withfudge.com/share/pin-9563)
 
-[Home mid crop](https://design.withfudge.com/share/pin-9561)
+[Duties.xyz](https://design.withfudge.com/share/pin-9563)
 
-[![Wide short crop](https://pin.fontofweb.com/9563?format=jpg)](https://design.withfudge.com/share/pin-9563)
+[![Duties.xyz](https://pin.fontofweb.com/9562?format=jpg)](https://design.withfudge.com/share/pin-9562)
 
-[Wide short crop](https://design.withfudge.com/share/pin-9563)
+[Duties.xyz](https://design.withfudge.com/share/pin-9562)
+
+[![Duties.xyz](https://pin.fontofweb.com/9561?format=jpg)](https://design.withfudge.com/share/pin-9561)
+
+[Duties.xyz](https://design.withfudge.com/share/pin-9561)
+
+[![Duties.xyz](https://pin.fontofweb.com/9560?format=jpg)](https://design.withfudge.com/share/pin-9560)
+
+[Duties.xyz](https://design.withfudge.com/share/pin-9560)
+
+## Design character
+
+duties.xyz has a predominantly light surface treatment across 6 captured pages. The strongest recurring signals are 4 captured type families, 6 recurring colors, and 136 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 146 color rows, 64 typography rows, 129 spacing rows, 7 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 98194 |
+| `#f1f0ee` | background-color · unknown | 43739 |
+| `#0000ee` | color · main | 3024 |
+| `#252525` | color · main | 1054 |
+| `#bfbfbf` | background-color · nav | 46 |
+| `#dddddd` | background-color · main | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 12px · 400 · normal | 101088 |
+| **As Therma** | 240px · 400 · 192px | 989 |
+| **Applesystem** | 14px · 400 · normal | 130 |
+| **Pp Neue Montreal Mono** | 14px · 500 · 16.1px | 65 |
+
+### Spacing and layout
+
+The most repeated spacing values are `10px` for gap, `10px` for row-gap, `10px` for column-gap, `10px` for padding-bottom, `10px` for padding-top, and `10px` for padding-right. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 8px` (1596), `0px none 4px` (1507), and `0px none 32px` (68). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **main**, **footer**, **nav**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#f5f0e6`
-- `#0a0a0a`
-- `#ffffff`
+- `#000000`
+- `#f1f0ee`
+- `#0000ee`
+- `#252525`
+- `#bfbfbf`
+- `#dddddd`
+
+## Typography captured from duties.xyz
+
+- **System** — weight 400 · size 12px
+- **As Therma** — weight 400 · size 240px
+- **Applesystem** — weight 400 · size 14px
+- **Pp Neue Montreal Mono** — weight 500 · size 14px

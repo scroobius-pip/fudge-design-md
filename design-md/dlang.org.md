@@ -2,87 +2,95 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dlang.org-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-dlang.org is a **classic language homepage**: helpful, slightly old-web in structure, and honest about being a community/docs hub. A **brick-red** (`#b03931`) top bar and matching primary buttons anchor the brand. Below, light gray and white bands hold intro copy, a code sample card, sponsor logos, and practical News/Learn/Community/Documentation columns. It prioritizes clarity over fashion.
-
-What should survive adaptation:
-
-- Brick-red as the single strong accent
-- Code sample adjacent to the pitch
-- Logo/proof row for industry use
-- Utility multi-column link sections
-
-## Foundations
-
-### Color
-
-Measured:
-
-- Accent: `#b03931`
-- Primary text: `#333333`
-- Secondary text: `#999999`
-
-Surfaces are light gray hero band + white lower sections. Links inside body copy often pick up the red accent. Buttons: filled red primary, white secondary with gray border.
-
-### Typography
-
-Declared families unknown. Body ~15px / 21px line-height weight 400. Headings jump to ~30px. The stack reads as a standard readable sans for docs/marketing hybrid pages.
-
-### Spacing and layout
-
-Radius **4px** on buttons/inputs. Home is vertically stacked sections with a two-column hero (copy + code). Lower content uses multi-column grids. Spec TOC page is denser documentation navigation on the same palette.
-
-## Visual language
-
-- Flat surfaces, minimal shadow
-- Simple bordered code card
-- Corporate logo strip
-- Sidebar-ish latest announcements cards on the home right column
-- Red text links as the interactive cue
-
-## Components and states
-
-- **Top nav:** red bar, white wordmark/links, search
-- **Primary button:** solid red (“Download”, “Donate”)
-- **Secondary button:** white outline
-- **Code panel:** monospaced sample in a light card
-- **Content cards:** announcements list with thumbnails
-- **Spec TOC:** hierarchical documentation links
-
-## Practical guidance
-
-**Preserve**
-
-- One red accent + gray text system
-- Code beside the value prop
-- Straightforward sectioning for Learn/Docs/Community
-
-**Avoid**
-
-- Rewriting it as a dark neon devrel landing
-- Dropping the code sample from the hero story
-- Over-rounding everything into a consumer app look
-
-## Scope note
-
-Home and language spec TOC (pins 6415, 6416). Declared fonts not available; system is desktop-viewport documented here.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — pitch, code, community](https://pin.fontofweb.com/6415?format=jpg)](https://design.withfudge.com/share/pin-6415)
+[![Table of Contents - D Programming Language](https://pin.fontofweb.com/6416?format=jpg)](https://design.withfudge.com/share/pin-6416)
 
-[Home — pitch, code, community](https://design.withfudge.com/share/pin-6415)
+[Table of Contents - D Programming Language](https://design.withfudge.com/share/pin-6416)
 
-[![Language spec table of contents](https://pin.fontofweb.com/6416?format=jpg)](https://design.withfudge.com/share/pin-6416)
+[![Home - D Programming Language](https://pin.fontofweb.com/6415?format=jpg)](https://design.withfudge.com/share/pin-6415)
 
-[Language spec table of contents](https://design.withfudge.com/share/pin-6416)
+[Home - D Programming Language](https://design.withfudge.com/share/pin-6415)
+
+## Design character
+
+dlang.org has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 9 recurring colors, and 41 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 70 color rows, 23 typography rows, 39 spacing rows, 2 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · unknown | 1861 |
+| `#333333` | color · unknown | 1851 |
+| `#b03931` | background-color · unknown | 274 |
+| `#f5f5f5` | background-color · unknown | 227 |
+| `#ffffff` | color · unknown | 61 |
+| `#cccccc` | border-color · unknown | 20 |
+| `#98312a` | background-color · unknown | 13 |
+| `#999999` | color · unknown | 7 |
+| `#dc4040` | color · unknown | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Roboto Slab** | 15px · 400 · 21px | 2135 |
+| **Consolas** | 13px · 400 · normal | 8 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 15px` for padding, `15px 0px` for padding, `40px 140px` for padding, `0px 15px` for padding, `15px 0px` for margin, and `0px 275px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 4px` (29). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#b03931`
+- `#000000`
 - `#333333`
-- `#999999`
+- `#b03931`
+- `#f5f5f5`
 - `#ffffff`
+- `#cccccc`
+- `#98312a`
+- `#999999`
+- `#dc4040`
+
+## Typography captured from dlang.org
+
+- **Roboto Slab** — weight 400 · size 15px
+- **Consolas** — weight 400 · size 13px

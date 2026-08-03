@@ -2,120 +2,89 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/adventureson.band-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-adventureson.band is an **immersive artist presence** for Ty Finck’s instrumental ambient project. It behaves like a sequence of full-bleed visual poems—album art floating on soft abstract gradients, a stark white watercolor field for a release title, and a near-black cinematic portrait chapter for biography. UI is deliberately scarce: small underlined text links, quiet labels, and large margins of atmosphere.
-
-What should survive adaptation:
-
-- **Art-first full viewport scenes** instead of card grids or nav-heavy marketing.
-- **Mood shifts by chapter** (dream gradient → pure white → dark portrait) without a single rigid template color.
-- **Whisper-level typography**—small, often handwritten or humanistic, never billboard SaaS.
-- **Almost no chrome**; streaming and contact links read like liner notes.
-
-## Foundations
-
-### Color
-
-No structured color-role exports. Screenshot-driven palette of scenes:
-
-- **Dream stage**: soft multi-stop gradients—mint, lavender, peach, sky—blurred so the centered album sleeve can glow.
-- **Album object**: photographic art (forest prism light / rust leaf on cream) as a sharp rectangle on the soft field.
-- **White chapter**: pure white ground with **indigo–cobalt watercolor rings** bleeding from left and right edges; navy handwritten title in the center.
-- **Portrait chapter**: deep black field, warm key light on face through patterned shadow, off-white body text, warm accent links (amber/gold underline style on streaming names).
-- **Side labels**: tiny white or black titles sitting in the gradient margins (“Ghost Bones”, “Doom As I Say…”).
-
-Color is emotional and scene-specific. Do not collapse this into one flat brand hex for every page.
-
-### Typography
-
-Declared families were not available. Measured text is modest and even:
-
-- Dominant sizes **14–16px** and **20–30px** at weight **400** (occasionally **700** at ~13px for small emphasis).
-- Line-height often matches size (16/16) or opens slightly for bio paragraphs (~27px on 16).
-- Visual voice mixes **quiet sans body** (bio) with **handwritten / inked display** for release titles (“cyclicalshmyclical”) and sleeve script.
-- Tracking and case feel intimate—title case or casual lowercase—not industrial UI caps.
-
-Hierarchy is soft: scene art leads; type captions the moment.
-
-### Spacing and layout
-
-- Large measured gaps (**40 / 100+ / 160+ px** class) reinforce isolation of art and text blocks.
-- Layout patterns:
-  - **Centered artifact**: album cover dead-center on gradient stage; titles parked far left/right in the blur.
-  - **Symmetrical white field**: watercolor motifs mirrored left/right; title and link stack centered.
-  - **Split portrait bio**: copy column left-of-center, large photographic portrait dominating the right half on black.
-- No dense grid, no recurring card gap scale—spacing is compositional, like print packaging.
-
-## Visual language
-
-- **Shape**: primarily rectangular album art and full-bleed photos. Watercolor circles are organic and imperfect. A few controls use ~**5px** radius with **2px** solid borders when UI appears at all.
-- **Borders / shadows**: mostly none on art stages. Depth comes from blur fields, photographic light, and the sharp edge of the sleeve against soft gradients.
-- **Imagery**: nature photography with light leaks and prisms; macro leaf stills; intimate portrait with patterned shadow (window light through lattice); hand-made watercolor texture.
-- **Texture**: grain, wash, and light matter more than vector illustration.
-- **Motion**: not established from stills; the site feels scroll-chaptered.
-
-## Components and states
-
-Very few conventional components:
-
-- **Album stage**: full-viewport gradient + centered cover + peripheral work titles as text links.
-- **Release title slide**: centered handwritten name, short “new album” line, stacked streaming links (Bandcamp, Apple Music).
-- **Bio chapter**: small caps-ish or tracked label (“BACKGROUND”), multi-sentence bio with inline text links, listen-on row, contact email link, large portrait.
-- **Text links**: underlined or warmly accented inline links—never large filled buttons in the studied frames.
-
-No app-like forms, tabs, or dashboards appear in these captures.
-
-## Responsive behavior
-
-All three captures are large viewports (**2048×1194**). They show distinct **scroll chapters** more than breakpoint variants. Expect:
-
-- Chapters to reflow into single-column stacks on smaller screens (portrait below bio, cover still centered).
-- Type to stay relatively small; do not “correct” it into 48px marketing heroes.
-- Gradients and watercolors to remain full-bleed background treatments.
-
-True multi-width token evidence is limited—treat responsiveness as careful stacking of the same art-led scenes.
-
-## Practical guidance
-
-**Preserve**
-
-- Full-bleed emotional chapters with different palettes.
-- Centered album artifact on soft abstract grounds.
-- Small, human type and liner-note links.
-- Cinematic portrait lighting for the human story.
-- Restraint: empty space is part of the brand.
-
-**Avoid**
-
-- Standard musician Square-space templates with equal card grids and social icon rows in the hero.
-- Loud neon CTAs or sticky commerce bars over the art.
-- Hard UI shadows, dense nav, or Inter-at-16-everywhere sameness without the handwritten/release voice.
-- Forcing one logo color across every chapter.
-
-**Adaptation tips**
-
-- Structure the site as 3–5 full-viewport scenes, each with its own background recipe.
-- Use real artwork at high quality; let UI be caption-scale.
-- Links: text only, generous hit area, subtle underline or warm accent.
-- Bio on black should feel like film credits—quiet, readable, secondary to the face.
-
-## Scope note
-
-Three large homepage viewport captures of adventureson.band (`/`) showing album gradient stage, white watercolor release field, and dark portrait bio. Font families and measured color roles were not declared; guidance relies on screenshot inspection plus spacing/type size measurements. No merch checkout or tour table was in scope.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Album stage on soft gradient](https://pin.fontofweb.com/6741?format=jpg)](https://design.withfudge.com/share/pin-6741)
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6741?format=jpg)](https://design.withfudge.com/share/pin-6741)
 
-[Album stage on soft gradient](https://design.withfudge.com/share/pin-6741)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/share/pin-6741)
 
-[![Portrait bio chapter](https://pin.fontofweb.com/6740?format=jpg)](https://design.withfudge.com/share/pin-6740)
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6740?format=jpg)](https://design.withfudge.com/share/pin-6740)
 
-[Portrait bio chapter](https://design.withfudge.com/share/pin-6740)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/share/pin-6740)
 
-[![cyclicalshmyclical white field](https://pin.fontofweb.com/6739?format=jpg)](https://design.withfudge.com/share/pin-6739)
+[![Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://pin.fontofweb.com/6739?format=jpg)](https://design.withfudge.com/share/pin-6739)
 
-[cyclicalshmyclical white field](https://design.withfudge.com/share/pin-6739)
+[Adventureson 👻🦴 Ty Finck, Instrumental Ambient Music](https://design.withfudge.com/share/pin-6739)
+
+## Design character
+
+adventureson.band has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 3 recurring colors, and 10 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 58 color rows, 12 typography rows, 9 spacing rows, 1 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 4514 |
+| `#ffffff` | background-color · unknown | 2377 |
+| `#202c54` | color · unknown | 565 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Manic** | 16px · 400 · 16px | 1554 |
+| **Default Sans** | 16px · 400 · 16px | 1318 |
+| **Fraunces** | 16px · 400 · 16px | 824 |
+
+### Spacing and layout
+
+The most repeated spacing values are `411.2px 1028px 411.2px 308.4px` for padding, `102.8px 20.56px` for padding, `0px 0px 16px` for margin, `40px` for padding, `0px 0px 28px` for margin, and `0px 0px 162.9px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `2px solid 5px` (16). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#ffffff`
+- `#202c54`
+
+## Typography captured from adventureson.band
+
+- **Manic** — weight 400 · size 16px
+- **Default Sans** — weight 400 · size 16px
+- **Fraunces** — weight 400 · size 16px

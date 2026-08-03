@@ -2,193 +2,123 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/creem.io-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Creem is a **playful merchant-of-record SaaS** that sells seriousness (global payments, tax, compliance) with **cartoon energy**. The marketing site is loud on purpose: a lavender hero field, ultra-heavy black display type, a wide-eyed mascot peeking from the bottom edge, and pastel product cards with thick ink outlines. Checkout flips the mood—clean white commerce chrome, amber primary pay button, and quiet gray type—so the money moment feels trustworthy after the playful pitch.
-
-What should survive adaptation:
-
-- **Mascot-led brand moments** on marketing surfaces, not inside the payment form.
-- A **soft pastel canvas** (lavender / cream) paired with **near-black type** and one warm CTA.
-- **Chunky outlined cards** and pills with hard black borders—illustration language, not glassmorphism.
-- A deliberate **tone split**: expressive landing vs. restrained checkout.
-- Short product chips and pill CTAs rather than long marketing paragraphs as the primary UI.
-
-This is not a minimal fintech bank site. It is a **friendly global-commerce brand** that uses illustration and color blocks to make tax and payments feel approachable.
-
-## Foundations
-
-### Color
-
-Measured roles:
-
-| Role | Value | Where it shows |
-| --- | --- | --- |
-| Accent (marketing) | `#ffbe98` | Peach/coral “Get started” and warm highlights |
-| Primary text (marketing) | `#151617` | Heavy headlines and body on pastel fields |
-| Inverse / light | `#ffffff` | Secondary buttons, card fills, checkout canvas |
-| Checkout primary text | `#111827` | Form labels and totals |
-| Checkout secondary text | `#6b7280` | Helper copy, muted meta |
-
-Visually (beyond measured roles):
-
-- **Hero canvas**: saturated soft purple/lavender full-bleed field.
-- **Section canvas**: warm off-white / cream behind support and MoR sections.
-- **Feature cards**: solid pastel fills—lavender purple, peach, blue—with black outlines.
-- **Checkout accent**: solid amber/gold primary “Pay” button and selected plan border; payment method selected state uses a matching gold ring.
-- **Status / chips**: small green dots and soft green affiliate chip; lilac MoR chip.
-
-Keep the system to **pastel blocks + black ink + one warm CTA**. Do not invent a large enterprise blue palette for marketing.
-
-### Typography
-
-Declared font families were not retained on these captures, so this guide does not name a proprietary face or licence. Measured and visible behavior:
-
-- **Sans-serif** throughout.
-- **Display**: very large, ultra-bold, tight leading—marketing hero around **~125px** optical size with line-height slightly tighter than the size; section heads around **48px** at weight 400–700 with tight 1.0 leading.
-- **Body / UI**: **14–16px** at 400–500, line-heights ~20–28px; small labels **9–12px**.
-- **Weight contrast**: marketing leans on heavy black display; UI chrome uses 600–700 for buttons and 400 for body.
-- **Checkout**: more conventional scale—**24px** headings, **16–18px** emphasis, **14px** body, **12px** fine print.
-
-Hierarchy reading: mascot-adjacent display lockup → section headline with optional colored word → body blurb → pill/button labels → form meta.
-
-### Spacing and layout
-
-Recurring measurements:
-
-- Content gutters often **32px** horizontal; section stacks use **24–64px** vertical margins; some hero blocks push **80–112px** bottom padding.
-- Card internal padding commonly **16–24px**; checkout fields **16px** padding with **8px** radii.
-- Wide desktop marketing centers content with large side margins (~212px class on mid-width views).
-
-Layout patterns:
-
-- **Floating pill nav** over the hero (logo left, Product/Resources, Login outline + peach Get started).
-- **Centered hero stack**: huge display type, short subtitle, agent/skill deep-link chip, dual CTAs, three feature chips, mascot rising from bottom.
-- **Bento / split sections**: left copy + right illustrated card cluster (support channels); large solid MoR panel beside “zero tax” headline.
-- **Checkout split**: product story + plan picker on the left; sticky-feeling payment card on the right (email, method, card fields, totals, full-width pay).
-
-## Visual language
-
-**Shape**
-
-- Marketing cards and chips: **12–16px** rounded rectangles; some fully pill (**9999px**) for status/nav actions.
-- Checkout controls: **6–8px** rounded inputs and buttons—tighter than marketing.
-- Thick **black outer strokes** on illustrated cards (visually ~2–3px) give a sticker/comic finish.
-
-**Borders and elevation**
-
-- **1–3px solid** borders everywhere on chrome and cards.
-- Shadows are sparse and often **hard offsets** (2–6px x/y, little or no blur)—sticker depth, not soft Material elevation.
-- Checkout relies more on hairline borders and white cards on a cool gray page wash than on drop shadows.
-
-**Imagery**
-
-- Flat vector mascot (big eyes, ice-cream cone hat) is the brand anchor.
-- UI-in-illustration cards (live chat, email, Discord) sit as mini product windows with soft fills.
-- Product screenshots appear on checkout left rail when selling a specific SKU.
-
-**Motion**
-
-- Still frames only; do not invent parallax or hover choreography beyond obvious button affordances.
-
-## Components and states
-
-### Marketing navigation
-Centered floating bar: wordmark, two dropdowns, outline Login, filled peach Get started with arrow.
-
-### Dual CTAs
-White filled “GET STARTED →” beside black “BOOK DEMO”. Equal visual weight, opposite fill.
-
-### Feature chips
-Small white rounded cards with colored icon tiles (purple shield, peach bolt, green people) and two-line labels.
-
-### Illustrated support cards
-Pastel tiles with black border, tiny status (“LIVE NOW”), embedded mini UI, short title + benefit line. Mascot can sit on the cluster edge.
-
-### MoR panel
-Large solid pastel rectangle, icon + title, giant “$0” price treatment, checklist rows.
-
-### Checkout plan selector
-Radio-style stacked plans; selected plan gets gold border + check; unselected stay neutral gray border.
-
-### Payment form
-Email field, Card vs Google Pay segmented choice (selected = gold outline), standard card fields, country select, order summary, full-width amber Pay button, security note, Creem MoR footer.
-
-Visible states worth copying: **selected plan**, **selected pay method**, **primary vs secondary CTA pair**, **pill nav over color field**.
-
-## Responsive behavior
-
-- Desktop marketing (~1600–1700px) keeps wide centered hero and multi-card rows.
-- Narrow marketing crop (~450px) still shows outlined cards and 12–16px radii—components compress rather than changing language.
-- Checkout appears as a focused single-column form on smaller widths and a two-pane product+pay layout on wide desktop.
-- Full mobile nav patterns are not fully established beyond the compressed marketing crop.
-
-## Practical guidance
-
-**Preserve**
-
-1. Lavender/cream marketing canvases with black display type and one peach CTA.
-2. Hard black outlines and hard-offset “sticker” shadows on feature cards.
-3. Mascot and illustration only on marketing—not inside the payment card.
-4. Checkout restraint: white surfaces, gray secondary text, single amber pay action.
-5. Pill nav floating over the hero color field.
-6. Dual opposite CTAs (light + dark) under the hero.
-
-**Avoid**
-
-1. Turning checkout into the same loud pastel playground—trust drops.
-2. Soft multi-stop gradients and glass blur as the primary finish (this system is flat fills + ink).
-3. Naming a UI font family from this guide—the captures did not retain declared families.
-4. Overloading every section with the mascot; one strong appearance per scroll region is enough.
-5. Enterprise navy/teal substitutions that erase the warm peach accent.
-
-**Adaptation recipe**
-
-- Pick one **pastel brand field**, one **warm CTA**, and **near-black ink**.
-- Draw product benefits as **outlined pastel stickers**.
-- Keep **commerce forms monochrome + single accent**.
-- Let a simple character mark emotional tone on the landing only.
-
-## Scope note
-
-Studied from six captures on `creem.io`: multiple home viewport crops (hero, support/MoR mid-page, narrow) and checkout for a daisyUI Blueprint product at wide and narrow widths.
-
-Supported well: marketing color blocks, display hierarchy, outlined card language, mascot role, checkout form anatomy, plan selection, pay CTA.
-
-Not established: exact font family/licence, full motion, complete mobile navigation, and a tokenized spacing scale beyond the retained samples.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home hero — lavender field, mascot, dual CTAs](https://pin.fontofweb.com/7117?format=jpg)](https://design.withfudge.com/share/pin-7117)
+[![Creem](https://pin.fontofweb.com/7119?format=jpg)](https://design.withfudge.com/share/pin-7119)
 
-[Home hero — lavender field, mascot, dual CTAs](https://design.withfudge.com/share/pin-7117)
+[Creem](https://design.withfudge.com/share/pin-7119)
 
-[![Support + Merchant of Record section](https://pin.fontofweb.com/7118?format=jpg)](https://design.withfudge.com/share/pin-7118)
+[![Creem](https://pin.fontofweb.com/7118?format=jpg)](https://design.withfudge.com/share/pin-7118)
 
-[Support + Merchant of Record section](https://design.withfudge.com/share/pin-7118)
+[Creem](https://design.withfudge.com/share/pin-7118)
 
-[![Home upper marketing chrome](https://pin.fontofweb.com/7119?format=jpg)](https://design.withfudge.com/share/pin-7119)
+[![Creem](https://pin.fontofweb.com/7117?format=jpg)](https://design.withfudge.com/share/pin-7117)
 
-[Home upper marketing chrome](https://design.withfudge.com/share/pin-7119)
+[Creem](https://design.withfudge.com/share/pin-7117)
 
-[![Checkout — product + payment split](https://pin.fontofweb.com/6200?format=jpg)](https://design.withfudge.com/share/pin-6200)
+[![Creem](https://pin.fontofweb.com/7116?format=jpg)](https://design.withfudge.com/share/pin-7116)
 
-[Checkout — product + payment split](https://design.withfudge.com/share/pin-6200)
+[Creem](https://design.withfudge.com/share/pin-7116)
 
-[![Checkout narrow](https://pin.fontofweb.com/6201?format=jpg)](https://design.withfudge.com/share/pin-6201)
+[![Creem](https://pin.fontofweb.com/6201?format=jpg)](https://design.withfudge.com/share/pin-6201)
 
-[Checkout narrow](https://design.withfudge.com/share/pin-6201)
+[Creem](https://design.withfudge.com/share/pin-6201)
 
-[![Home narrow crop](https://pin.fontofweb.com/7116?format=jpg)](https://design.withfudge.com/share/pin-7116)
+[![Creem](https://pin.fontofweb.com/6200?format=jpg)](https://design.withfudge.com/share/pin-6200)
 
-[Home narrow crop](https://design.withfudge.com/share/pin-7116)
+[Creem](https://design.withfudge.com/share/pin-6200)
+
+## Design character
+
+creem.io has a mixed light and dark surface treatment across 6 captured pages. The strongest recurring signals are 3 captured type families, 18 recurring colors, and 99 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 215 color rows, 69 typography rows, 59 spacing rows, 27 border rows, 2 gradient rows, and 11 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · footer | 2823 |
+| `#fafaf9` | color · footer | 2391 |
+| `#111827` | color · main | 561 |
+| `#151617` | border-color · main | 526 |
+| `#ffffff` | color · footer | 275 |
+| `#374151` | color · main | 263 |
+| `#e5e7eb` | border-color · main | 71 |
+| `#b09cfb` | background-color · main | 42 |
+| `#ffbe98` | color · main | 33 |
+| `#6b7280` | color · main | 26 |
+| `#5865f2` | background-color · main | 13 |
+| `#4ecb71` | background-color · footer | 12 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Geist** | 16px · 400 · 24px | 3517 |
+| **Gasoek One** | 48px · 400 · 48px | 240 |
+| **System** | 9px · 500 · 13.5px | 2 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 32px` for padding, `0px 212.5px` for margin, `0px 0px 320px` for padding, `0px 450.953px` for margin, `4px 0px` for margin, and `0px 48px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid 0px` (65), `2px solid 12px` (63), `2px solid 16px` (51), `1px solid 8px` (41), `0px none 8px` (17), and `1px solid 12px` (10). 2 gradient rows and 11 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **footer**, **button**, **image**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#ffbe98`
+- `#000000`
+- `#fafaf9`
+- `#111827`
 - `#151617`
 - `#ffffff`
-- `#111827`
+- `#374151`
+- `#e5e7eb`
+- `#b09cfb`
+- `#ffbe98`
 - `#6b7280`
+- `#5865f2`
+- `#4ecb71`
+- `#f3f4f6`
+- `#1a1b1d`
+- `#ffb224`
+- `#4752c4`
+
+## Typography captured from creem.io
+
+- **Geist** — weight 400 · size 16px
+- **Gasoek One** — weight 400 · size 48px
+- **System** — weight 500 · size 9px

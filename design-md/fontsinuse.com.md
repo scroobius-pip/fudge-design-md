@@ -2,138 +2,101 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/fontsinuse.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Fonts In Use is an **editorial archive of typography in the wild**. The site feels like a quiet museum label system wrapped around loud artwork: stark black-and-white chrome, a stacked wordmark, and a content stage that hands nearly all color and drama to the submitted pieces.
-
-What should survive adaptation:
-
-- Archive credibility through monochrome UI restraint
-- Artwork-first layout where media dominates the frame
-- Clear metadata hierarchy without competing with the specimen
-- Dense but scannable right-rail taxonomies (typefaces, formats, topics, tags)
-- Soft gray secondary actions that never shout over primary content
-
-## Foundations
-
-### Color
-
-Measured text roles:
-
-| Role | Hex | Use |
-|------|-----|-----|
-| Primary text | `#000000` | Wordmark, titles, body, nav |
-| Secondary text | `#999999` | Meta lines, muted nav labels, captions |
-
-Visual reading of the chrome (not a measured site palette): pure white canvas, light gray pills for **Like** / **Add to Set**, pale search field border, hairline black rules under the primary nav, and soft gray footers/captions under artwork. Accent color is almost absent in the UI—color arrives almost entirely from the artwork (e.g. coral red specimen fields).
-
-Keep the system nearly achromatic. If you need emphasis, prefer weight and size over hue.
-
-### Typography
-
-Declared family names were not retained; treat the stack as a clean neo-grotesk UI face.
-
-Observed sizes and weights:
-
-- Wordmark lockup: heavy condensed black, multi-line **FONTS / IN USE**
-- Page title: ~36–48px bold/black for the use name
-- Section heads in sidebar: ~18–24px bold
-- Body / meta: ~12–14px regular
-- Micro labels and captions: ~10–12px regular
-- Nav items: ~14–16px; inactive Collection/Blog read softer gray
-
-Hierarchy is strict: wordmark → use title → section heads → body → meta. Tracking is neutral; the voice is catalog, not display poster (the poster lives inside the media).
-
-### Spacing and layout
-
-Recurring gaps cluster around **5 / 8 / 10 / 15 / 20 / 30** px, with larger media gutters (~50px and wide column gaps).
-
-Desktop article composition:
-
-1. Full-width header: wordmark left, sponsor line center, account + search right  
-2. Secondary nav strip (Collection / Blog) then Topics / Formats / Typefaces bar with a firm bottom rule  
-3. Two-column body: large media column left, taxonomy rail right  
-4. Title + contributor meta above the media  
-5. Action chips (Like, Add to Set) tucked under the meta line  
-
-Density is moderate: the media block is generous; the rail is link-dense but airy between groups.
-
-## Visual language
-
-- **Shapes:** near-zero radius on chrome; chips and search sit at ~2px if rounded at all. The system is rectangular and editorial.
-- **Borders:** thin 1px rules for structure; thicker ~3–5px top rules appear on list/rail separators. Occasional thick side strokes relate to media framing, not generic cards.
-- **Shadows:** essentially unused in chrome (one soft drop `0 8 8 -5` observed near media). Flat surfaces dominate.
-- **Imagery:** full-bleed specimen photography/graphics are the brand moment. UI stays out of the way with white margins and small gray credit lines under the frame.
-- **Motion:** not established from still frames.
-
-## Components and states
-
-**Global header**  
-Stacked black wordmark, short mission line with sponsor credit, Sign in link, and a boxed search field with Advanced Search helper.
-
-**Primary filters**  
-Topics / Formats / Typefaces dropdowns sit on a ruled bar—library navigation, not marketing tabs.
-
-**Use article**  
-Title, contributor + dates, Like / Add to Set chips, hero media with left/right browse chevrons, and a right rail of linked taxonomies:
-
-- Typefaces (with external-link glyph)  
-- Formats with counts  
-- Topics, Designers/Agencies  
-- Long “Tagged with” list  
-
-**Related / more block**  
-Lower section uses a bold “More…” head, small filter chips (Typefaces, Formats, …), and a multi-column thumbnail grid of other uses—still monochrome chrome around colorful thumbs.
-
-**States (visible only)**  
-Inactive nav gray vs black active titles; chips appear disabled/neutral at zero likes. Do not invent hover/focus behavior from stills.
-
-## Practical guidance
-
-**Preserve**
-
-- Black type on white paper as the entire product shell  
-- Artwork as the only saturated surface  
-- Sidebar as a pure link taxonomy, not cards with shadows  
-- Wordmark stacking and quiet sponsor credit  
-- Thin horizontal rules as the main structural device  
-
-**Avoid**
-
-- Brand gradients, colored headers, or saturated buttons in chrome  
-- Heavy card elevation or glassmorphism around specimens  
-- Crowding the media with floating UI badges  
-- Turning the archive into a marketing landing page  
-- Inventing a colorful “brand palette” beyond black, white, and gray  
-
-## Scope note
-
-Studied four viewport captures of a single use article (`/uses/75265/bruket-fjellhamar`) spanning header, media+rail, related grid, and lower chrome. Home, collection indexes, and blog layouts were not in this set—treat multi-page patterns as unconfirmed.
+Last updated: 2026-08-03
 
 ## Captured pages
-
-[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6841?format=jpg)](https://design.withfudge.com/share/pin-6841)
-
-[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6841)
-
-[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6842?format=jpg)](https://design.withfudge.com/share/pin-6842)
-
-[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6842)
-
-[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6843?format=jpg)](https://design.withfudge.com/share/pin-6843)
-
-[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6843)
 
 [![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6844?format=jpg)](https://design.withfudge.com/share/pin-6844)
 
 [Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6844)
 
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6843?format=jpg)](https://design.withfudge.com/share/pin-6843)
+
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6843)
+
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6842?format=jpg)](https://design.withfudge.com/share/pin-6842)
+
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6842)
+
+[![Bruket Fjellhamar - Fonts In Use](https://pin.fontofweb.com/6841?format=jpg)](https://design.withfudge.com/share/pin-6841)
+
+[Bruket Fjellhamar - Fonts In Use](https://design.withfudge.com/share/pin-6841)
+
+## Design character
+
+fontsinuse.com has a predominantly dark surface treatment across 4 captured pages. The strongest recurring signals are 3 captured type families, 7 recurring colors, and 31 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 125 color rows, 44 typography rows, 22 spacing rows, 8 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · header | 2495 |
+| `#cccccc` | border-color · main | 72 |
+| `#999999` | color · nav | 24 |
+| `#f0f0f0` | border-color · main | 23 |
+| `#ffffff` | color · main | 12 |
+| `#d1d1d1` | border-color · main | 5 |
+| `#dddddd` | color · header | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Tn** | 14px · 400 · 0px | 1127 |
+| **Relay Condensed** | 36px · 400 · 36px | 89 |
+| **Font Awesome** | 16px · 400 · 16px | 1 |
+
+### Spacing and layout
+
+The most repeated spacing values are `20px 0px 0px 240px` for padding, `20px 0px 30px` for margin, `30px 0px 0px` for padding, `10px 0px 0px` for padding, `0px 0px 5px` for margin, and `0px 0px 10px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `3px 0px 0px solid none none 0px` (72), `5px 0px 0px solid none none 0px` (46), `3px 0px 1px solid none 0px` (23), `1px 0px 0px solid none none 0px` (18), `0px none 2px` (13), and `75px 0px 0px 75px solid none none solid 0px` (12). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **nav**, **footer**, **unknown**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
 - `#000000`
+- `#cccccc`
 - `#999999`
-- `#ffffff`
 - `#f0f0f0`
-- `#e5e5e5`
+- `#ffffff`
+- `#d1d1d1`
+- `#dddddd`
+
+## Typography captured from fontsinuse.com
+
+- **Tn** — weight 400 · size 14px
+- **Relay Condensed** — weight 400 · size 36px
+- **Font Awesome** — weight 400 · size 16px

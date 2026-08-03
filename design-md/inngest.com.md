@@ -2,83 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Inngest is a **dark developer-infrastructure** brand. The site feels like a polished product console turned marketing page: near-black grounds, warm stone neutrals (`#f5f5f4`, `#d6d3d1`), and a restrained gold accent (`#d8a657`). Heroes pair bold claims with product UI screenshots; pricing is clean card math on the same dark shell.
-
-What should survive adaptation:
-- Warm-neutral type on cool-black surfaces (not pure blue-dark SaaS)
-- Gold used sparingly for emphasis and brand marks
-- Product UI proof embedded in marketing bands
-- Calm, wide pricing cards with obvious hierarchy
-
-## Foundations
-
-### Color
-
-Measured:
-- Lights / primary text: `#f5f5f4`, `#fafaf9`, `#f6f6f6`, `#ffffff`
-- Secondary text: `#d6d3d1`
-- Gold accent: `#d8a657`
-
-Visual read:
-- Canvas: deep charcoal/black
-- Elevated panels slightly lighter than canvas
-- Borders are low-contrast hairlines
-- Success/info colors appear inside product shots, not as page chrome
-
-### Typography
-
-Family not declared; product sans with strong weight contrast.
-- Display titles: large, tight, high contrast white/stone
-- Body: mid size, comfortable line length
-- Pricing numerals: oversized, tabular feel
-- Nav and meta: smaller, medium weight
-
-### Spacing and layout
-
-Common steps **4 / 8 / 12 / 16 / 24 / 32px**, section gaps **48–96px**.
-- Radii **4–12px** on cards/controls; full pills **9999** on some CTAs/chips
-- Marketing max-width with centered heroes
-- Pricing: 2–4 column card row with equal card radii
-
-## Visual language
-
-- Soft card elevation on dark (subtle shadow, not material slabs)
-- Product screenshots with rounded frames and thin rings
-- Diagram-like workflow graphics in brand gold/stone
-- Minimal illustration; engineering clarity over playful mascots
-
-## Components and states
-
-- Sticky/top nav with logo, links, Login, primary CTA
-- Hero: title + subcopy + dual CTAs + product visual
-- Logo clouds in muted monochrome
-- Feature rows: icon/title/body or screenshot + copy
-- Pricing cards: plan name, price, feature list, CTA
-- Footer link matrix in muted stone
-
-## Responsive behavior
-
-Home and pricing captured across multiple widths including tall full-page shots. Cards collapse from multi-column to stack; hero media moves under copy. Keep pricing comparison scannable when stacked (price and CTA still above the fold of each card).
-
-## Practical guidance
-
-**Preserve**
-- Stone neutrals + gold on black
-- Product UI as primary imagery
-- Simple pricing card grammar
-
-**Avoid**
-- Cold pure-blue dark themes that lose the warm stone
-- Rainbow gradient hero backgrounds
-- Over-rounding everything into consumer bubbles
-
-## Scope note
-
-Studied home and pricing captures (multiple viewports). Color roles and radii measured; declared font families absent. Gradient/border/media structured families largely unsupported — screenshot interpretation fills those gaps.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -94,12 +18,117 @@ Studied home and pricing captures (multiple viewports). Color roles and radii me
 
 [AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7554)
 
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/share/pin-7553)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7553)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7552?format=jpg)](https://design.withfudge.com/share/pin-7552)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7552)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7551?format=jpg)](https://design.withfudge.com/share/pin-7551)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7551)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7550?format=jpg)](https://design.withfudge.com/share/pin-7550)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7550)
+
+[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7549?format=jpg)](https://design.withfudge.com/share/pin-7549)
+
+[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7549)
+
+## Design character
+
+inngest.com has a predominantly dark surface treatment across 11 captured pages. The strongest recurring signals are 4 captured type families, 35 recurring colors, and 157 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **11 pages** and 8 representative page references. It records 452 color rows, 140 typography rows, 122 spacing rows, 21 border rows, 0 gradient rows, and 14 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 10567 |
+| `#f6f6f6` | color · main | 8315 |
+| `#0c0a09` | background-color · footer | 1359 |
+| `#fafaf9` | color · main | 1305 |
+| `#1c1917` | background-color · main | 823 |
+| `#ffffff` | border-color · footer | 617 |
+| `#d6d3d1` | color · main | 200 |
+| `#e7e5e4` | color · main | 139 |
+| `#9b9b9b` | color · main | 88 |
+| `#78716c` | color · footer | 65 |
+| `#a8a29e` | border-color · main | 60 |
+| `#f5f5f4` | color · main | 58 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **By Laurenz Brunner** | 16px · 400 · 24px | 10544 |
+| **Abc Whyte** | 36px · 300 · 40px | 585 |
+| **By Laurenz Brunner 20132019** | 14px · 400 · 22.75px | 356 |
+| **Abc Whyte Inktrap** | 36px · 500 · 40px | 270 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 32px` for padding, `80px 0px 128px` for padding, `128px 0px 0px` for padding, `80px 0px` for margin, `0px 512.5px` for margin, and `160px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 12px` (266), `1px 0px 0px solid 0px` (128), `0px none 6px` (90), `1px solid 0px` (45), `0px none 4px` (11), and `0px none 9999px` (3). 0 gradient rows and 14 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **footer**, **button**, **image**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 11 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
 - `#000000`
-- `#f5f5f4`
-- `#fafaf9`
-- `#d6d3d1`
-- `#d8a657`
-- `#ffffff`
 - `#f6f6f6`
+- `#0c0a09`
+- `#fafaf9`
+- `#1c1917`
+- `#ffffff`
+- `#d6d3d1`
+- `#e7e5e4`
+- `#9b9b9b`
+- `#78716c`
+- `#a8a29e`
+- `#f5f5f4`
+- `#d1d5db`
+- `#9ca3af`
+- `#e5e7eb`
+- `#a89984`
+
+## Typography captured from inngest.com
+
+- **By Laurenz Brunner** — weight 400 · size 16px
+- **Abc Whyte** — weight 300 · size 36px
+- **By Laurenz Brunner 20132019** — weight 400 · size 14px
+- **Abc Whyte Inktrap** — weight 500 · size 36px

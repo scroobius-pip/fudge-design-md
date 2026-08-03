@@ -2,134 +2,115 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/craftwork.design-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Craftwork is a dark, premium design-asset marketplace: charcoal canvases, white and muted gray type, soft elevated cards, and a single electric **lime** CTA. Inspiration browsers show full-bleed site shots in a dim theater; Pro/marketing surfaces lean into testimonial walls and subscription unlock panels. The mood is pro-tool quiet with one neon commit button.
-
-What should survive adaptation:
-
-- Near-black charcoal UI field
-- White primary type + gray secondary (`#ffffff` / `#a0a0a0`)
-- **Lime/yellow-green** solid CTAs only for purchase/subscribe
-- Rounded cards (~10–16px) with subtle borders/shadows on dark surfaces
-- Gallery-first layout: large visual tiles, minimal chrome
-
-## Foundations
-
-### Color
-
-Measured text roles on curated views:
-
-- **Primary text**: `#ffffff`
-- **Secondary text**: `#a0a0a0`
-
-Visually consistent across Pro and newsletter surfaces:
-
-- **Canvas**: deep charcoal / near-black (`#121212`–`#1a1a1a` range)
-- **Elevated surface**: slightly lighter charcoal cards
-- **Action**: saturated lime button (“Subscribe for 16$ / month”)
-- **Accent moments**: small rainbow/illustration spots; gold stars on testimonials
-- **Hairlines**: low-contrast 1px borders around cards and checklist boxes
-
-Do not flood the UI with lime—reserve it for the economic action.
-
-### Typography
-
-Families not declared. Observed sans hierarchy on dark UI:
-
-| Role | Size | Weight | Tracking |
-|------|------|--------|----------|
-| Section title | ~22px+ | 600 | slight negative |
-| Card / body | 16px | 400 | default; lh ~24 |
-| Secondary / meta | 14–18px | 400–500 | light negative on some 14–18 |
-| Dense UI | 14px | 400 | lh ~20 |
-
-Type stays clean and product-like—readable gray-on-charcoal, not display-poster scale on every page. Large marketing lines appear on unlock panels (“Keep exploring and start creating”).
-
-### Spacing and layout
-
-- Card internal padding often **15px** with **25px** bottom; page gutters ~45px horizontal on dense grids
-- Curated sections use multi-column inspiration tiles with 1px framed shots
-- Testimonial “Wall of Love” is a masonry-like stack of soft dark cards
-- Radii: **10px** common, **15–16px** on larger panels, occasional pill ~33–54px
-- Shadows are subtle (0–2px offsets, small blur)—depth without glass gloss
-
-## Visual language
-
-- **Dark theater** for browsing other sites’ designs; UI chrome recedes
-- **Soft cards** for social proof and pricing checklists
-- **Borders** on all four sides of many tiles (1px solid)
-- **Imagery**: website screenshots, product previews; tiny playful icons (rainbow) as relief
-- **CTA shape**: wide rounded rectangle, high-luminance fill, dark label text
-
-## Components and states
-
-1. **Inspiration browser** — grid/detail of captured sites, dim backdrop, white titles
-2. **Subscribe unlock panel** — headline, benefit checklist in a bordered box, lime CTA, Paddle trust line
-3. **Wall of Love** — star ratings, quote, name + role on charcoal cards
-4. **Newsletter / marketing blocks** — same dark system, focused capture forms or promos
-5. **Pro positioning** — feature storytelling on charcoal with product imagery
-
-Populated gallery and checklist states are visible; hover/active micro-interactions are not specified here.
-
-## Responsive behavior
-
-Captures include narrow newsletter (~233–779px) and wider Pro/curated (~1000–1712px). On small widths, grids collapse toward single column; lime CTA remains full-width in unlock sections. Dark foundation and type roles hold across widths.
-
-## Practical guidance
-
-**Preserve**
-
-- Charcoal field + white/gray type pair
-- Lime as the sole high-energy action fill
-- 10–16px radii and quiet elevation
-- Screenshot-led browsing with minimal UI chrome
-
-**Avoid**
-
-- Light-mode default that breaks the premium asset-store feel
-- Multiple competing accent colors on buttons
-- Heavy skeuomorphic shadows or glassmorphism stacks
-- Tiny low-contrast gray text on charcoal (keep secondary at `#a0a0a0` or lighter)
-
-**Adaptation**
-
-- Tokens: `bg`, `surface`, `text`, `text-muted`, `cta-lime`, `radius-md` (10–16px)
-- Build gallery tile + testimonial card + subscribe panel as the core set
-
-## Scope note
-
-Pages studied: `/curated/sections`, `/newsletter`, `/pro` across several viewports. Measured colors cover primary/secondary text; lime and charcoal values are from visual reading. Font files/families were not identified. Motion and authenticated app chrome are outside this set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Curated sections — inspiration grid](https://pin.fontofweb.com/7386?format=jpg)](https://design.withfudge.com/share/pin-7386)
+[![Curated Inspiration](https://pin.fontofweb.com/7386?format=jpg)](https://design.withfudge.com/share/pin-7386)
 
-[Curated sections — inspiration grid](https://design.withfudge.com/share/pin-7386)
+[Curated Inspiration](https://design.withfudge.com/share/pin-7386)
 
-[![Curated — unlock CTA panel](https://pin.fontofweb.com/3960?format=jpg)](https://design.withfudge.com/share/pin-3960)
+[![Curated Inspiration](https://pin.fontofweb.com/3960?format=jpg)](https://design.withfudge.com/share/pin-3960)
 
-[Curated — unlock CTA panel](https://design.withfudge.com/share/pin-3960)
+[Curated Inspiration](https://design.withfudge.com/share/pin-3960)
 
-[![Pro — marketing wide](https://pin.fontofweb.com/1873?format=jpg)](https://design.withfudge.com/share/pin-1873)
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2927?format=jpg)](https://design.withfudge.com/share/pin-2927)
 
-[Pro — marketing wide](https://design.withfudge.com/share/pin-1873)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2927)
 
-[![Pro — Wall of Love](https://pin.fontofweb.com/1874?format=jpg)](https://design.withfudge.com/share/pin-1874)
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2926?format=jpg)](https://design.withfudge.com/share/pin-2926)
 
-[Pro — Wall of Love](https://design.withfudge.com/share/pin-1874)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2926)
 
-[![Newsletter](https://pin.fontofweb.com/2925?format=jpg)](https://design.withfudge.com/share/pin-2925)
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/2925?format=jpg)](https://design.withfudge.com/share/pin-2925)
 
-[Newsletter](https://design.withfudge.com/share/pin-2925)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-2925)
 
-[![Pro — narrower](https://pin.fontofweb.com/1875?format=jpg)](https://design.withfudge.com/share/pin-1875)
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1875?format=jpg)](https://design.withfudge.com/share/pin-1875)
 
-[Pro — narrower](https://design.withfudge.com/share/pin-1875)
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1875)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1874?format=jpg)](https://design.withfudge.com/share/pin-1874)
+
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1874)
+
+[![Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://pin.fontofweb.com/1873?format=jpg)](https://design.withfudge.com/share/pin-1873)
+
+[Craftwork: UX/UI kits, illustrations, mockups, fonts and more](https://design.withfudge.com/share/pin-1873)
+
+## Design character
+
+craftwork.design has a predominantly dark surface treatment across 22 captured pages. The strongest recurring signals are 2 captured type families, 7 recurring colors, and 27 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **22 pages** and 8 representative page references. It records 219 color rows, 17 typography rows, 16 spacing rows, 7 border rows, 2 gradient rows, and 2 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · main | 1278 |
+| `#ffffff` | color · main | 1269 |
+| `#a0a0a0` | color · main | 48 |
+| `#1e1e1e` | background-color · main | 39 |
+| `#2f2b43` | box-shadow · main | 30 |
+| `#cafc00` | background-color · button | 13 |
+| `#b1b1b1` | color · main | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Font** | 16px · 400 · 24px | 1309 |
+| **Noto Sans** | 11px · 400 · 11px | 1 |
+
+### Spacing and layout
+
+The most repeated spacing values are `15px 15px 25px` for padding, `0px 45px` for padding, `0px 0px 20px` for padding, `1355px 0px 0px` for margin, `0px 16px` for padding, and `20px 0px 0px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 10px` (17), `1px solid 16px` (5), `1px solid 15px` (2), `1px solid 33px` (1), and `0px none 54px` (1). 2 gradient rows and 2 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 22 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
+- `#000000`
 - `#ffffff`
 - `#a0a0a0`
+- `#1e1e1e`
+- `#2f2b43`
+- `#cafc00`
+- `#b1b1b1`
+
+## Typography captured from craftwork.design
+
+- **Font** — weight 400 · size 16px
+- **Noto Sans** — weight 400 · size 11px

@@ -2,113 +2,97 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/chainlift.io-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-LiftKit’s page sells a **UI framework for perfectionists**: confident display type, meticulously spaced sections, and component-looking cards that preview the product’s own discipline. It feels halfway between a design-system docs site and a modern SaaS launch—technical, crisp, and slightly opinionated about craft.
-
-What should survive adaptation:
-
-- **Large, decisive display type** as the first impression
-- **Predictable vertical rhythm** (section stacks with repeating margin steps)
-- Soft **~15px card radii** and hairline edges
-- A craft-first tone: fewer gimmicks, more specimen-like UI blocks
-
-## Foundations
-
-### Color
-
-Machine color roles were sparse; visual reading of the LiftKit captures:
-
-- Dark marketing moments and text near charcoal/black
-- Light content surfaces and cards on off-white/white
-- Neutral borders (~light gray) separating specimens
-- Accent appears as a cool brand highlight in UI samples (indigo-leaning in product chrome)—keep accents sparse
-
-Treat neutrals as the system; accent is for interactive/specimen emphasis only.
-
-### Typography
-
-Measured hierarchy (families not declared):
-
-| Step | Size | Weight | Line-height |
-|------|------|--------|-------------|
-| Display | ~72px | 700 | ~92px |
-| Section | ~35px | 600 | ~45px |
-| Subhead | ~28px | 600 | ~35px |
-| Lead | ~22–26px | 400–500 | ~20–26px |
-| Body | ~15–17px | 400–600 | ~19–28px |
-| Small | ~13px | 400 | ~17px |
-
-Strong weight contrast (400/500/600/700) defines hierarchy as much as size.
-
-### Spacing and layout
-
-- Section margins stack around **25px / 45px / 57px** steps
-- Card padding ~**15–22px**; larger section pads approach **72px**
-- Content is a long single-column marketing scroll with embedded component previews
-- Button-like controls pad ~**11×22px**
-
-## Visual language
-
-- **Radii ~15px** dominate cards/controls (a huge outlier radius in data is noise—ignore)
-- Soft edge: ~**1px blur shadow** at 0 offset appears as a hairline glow/edge rather than dramatic elevation
-- 1px solid borders on specimen frames
-- Imagery is UI itself—buttons, type samples, layout demos—not lifestyle photos
-
-## Components and states
-
-1. **Hero** — oversized title, short value prop, primary/secondary actions
-2. **Specimen cards** — rounded containers showcasing components or tokens
-3. **Feature rows** — title + explanation + optional preview
-4. **Code/UI embeds** — framed examples inside the marketing flow
-
-Only default states captured.
-
-## Responsive behavior
-
-Three desktop widths (~1387–1675px) of the same `/liftkit` path. Layout remains a centered marketing column; no mobile evidence.
-
-## Practical guidance
-
-**Preserve**
-
-- Big type + disciplined spacing scale
-- ~15px radius language
-- Specimen-led storytelling
-- Neutral canvas with restrained accent
-
-**Avoid**
-
-- Chaotic multi-accent marketing
-- Tiny timid headlines
-- Heavy skeuomorphic shadows
-- Treating every block as a different visual style
-
-## Scope note
-
-Three captures, all `/liftkit`. Strong spacing/type/radius signal; limited multi-page IA and no declared font families. Home/marketing beyond LiftKit not in set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![LiftKit hero](https://pin.fontofweb.com/6345?format=jpg)](https://design.withfudge.com/share/pin-6345)
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6347?format=jpg)](https://design.withfudge.com/share/pin-6347)
 
-[LiftKit hero](https://design.withfudge.com/share/pin-6345)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/share/pin-6347)
 
-[![LiftKit mid sections](https://pin.fontofweb.com/6346?format=jpg)](https://design.withfudge.com/share/pin-6346)
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6346?format=jpg)](https://design.withfudge.com/share/pin-6346)
 
-[LiftKit mid sections](https://design.withfudge.com/share/pin-6346)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/share/pin-6346)
 
-[![LiftKit cards ~15px radius](https://pin.fontofweb.com/6347?format=jpg)](https://design.withfudge.com/share/pin-6347)
+[![LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://pin.fontofweb.com/6345?format=jpg)](https://design.withfudge.com/share/pin-6345)
 
-[LiftKit cards ~15px radius](https://design.withfudge.com/share/pin-6347)
+[LiftKit: The UI Framework for Perfectionists by Chainlift.io](https://design.withfudge.com/share/pin-6345)
+
+## Design character
+
+chainlift.io has a mixed light and dark surface treatment across 3 captured pages. The strongest recurring signals are 2 captured type families, 8 recurring colors, and 18 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 52 color rows, 22 typography rows, 15 spacing rows, 2 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#e4e1e6` | color · unknown | 1211 |
+| `#dee1ff` | color · footer | 497 |
+| `#001258` | background-color · footer | 279 |
+| `#7d7d7d` | color · unknown | 135 |
+| `#0e0e11` | background-color · unknown | 95 |
+| `#727272` | box-shadow · unknown | 95 |
+| `#bac3ff` | color · unknown | 8 |
+| `#90909a` | border-color · unknown | 8 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter Font** | 17.1px · 400 · 20px | 1835 |
+| **Material Symbols Outlined** | 25.888px · 400 · 25.888px | 4 |
+
+### Spacing and layout
+
+The most repeated spacing values are `72.4185px` for padding, `15.1335px 19.3059px 15.1335px 15.1335px` for padding, `4.6512px 0px` for padding, `56.9279px 0px 25.0556px` for margin, `56.9279px 0px 72.4185px` for margin, and `0px 146.594px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 15.1776px` (95) and `1px solid 2175.12px` (8). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **unknown**, **footer**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0b0b0f`
-- `#ffffff`
-- `#111827`
-- `#e5e7eb`
-- `#6366f1`
-- `#f8fafc`
+- `#e4e1e6`
+- `#dee1ff`
+- `#001258`
+- `#7d7d7d`
+- `#0e0e11`
+- `#727272`
+- `#bac3ff`
+- `#90909a`
+
+## Typography captured from chainlift.io
+
+- **Inter Font** — weight 400 · size 17.1px
+- **Material Symbols Outlined** — weight 400 · size 25.888px

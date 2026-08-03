@@ -2,124 +2,133 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cursor.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Cursor’s captured product surfaces feel like a **dark, compact developer workstation in the browser**: near-black working canvas, light gray primary text (`#edecec`), a sharp **orange accent** (`#f54e00`), and tight 6–8px controls. Dashboard and marketplace views prioritize density and tool clarity over marketing flourish.
-
-What should survive adaptation:
-
-- **Dark app chrome** with light text—not a white marketing landing (these captures are product/marketplace).
-- **Orange accent** used sparingly for primary emphasis.
-- **Small radii** (4–8px, some 12px panels; pills at 9999px for chips).
-- **12–16px UI type** with 13px as a workhorse size.
-- Marketplace/publish flows that look like **settings + catalog**, not brochure sections.
-
-## Foundations
-
-### Color
-
-| Role | Value | Notes |
-| --- | --- | --- |
-| Accent | `#f54e00` | Orange emphasis on product/publish surfaces |
-| Primary text | `#edecec` | Light text on dark UI |
-
-Visually: charcoal/black backgrounds, subtle borders, monochrome icons, orange as the only hot accent.
-
-### Typography
-
-No declared families. Measured:
-
-- UI body **12–16px** weight 400; **13px** common for dense lists.
-- Headings **20–24px** at 400–500 with relatively tight line-heights (24/26).
-- Micro labels **10–12px**.
-- Overall: neutral sans, medium density, low ornament.
-
-### Spacing and layout
-
-- Dashboard content often padded **16–24px**; vertical section pads **40–64px** inside panes.
-- Marketplace pages use **20px** horizontal padding with large top padding (~112px) under chrome.
-- Side margins ~**180px** appear when centering constrained product columns on ultra-wide frames.
-- Radii cluster at **4, 6, 8, 12px**; chips fully pill.
-
-## Visual language
-
-- Flat dark surfaces, **1px** borders for panels/inputs.
-- Minimal shadow language in these captures—separation via border and value contrast.
-- Marketplace cards ~8px radius grids; publish forms use compact fields.
-- Motion not established.
-
-## Components and states
-
-### Dashboard shell
-Product header + working canvas; cards/lists at 6–12px radius; dense meta at 12–13px.
-
-### Marketplace grid
-Catalog of tiles with consistent 12px internal padding and 8px rounding.
-
-### Publish / form
-Constrained column, 4–8px inputs, orange accent for primary actions, light text hierarchy.
-
-### Chips / pills
-Fully rounded status or filter chips on dark ground.
-
-## Responsive behavior
-
-Dashboard appears at **960px** and **1712px**: same component radii and type; layout compresses gutters rather than redesigning. Marketplace/publish mainly wide desktop in this set.
-
-## Practical guidance
-
-**Preserve**
-
-1. Dark canvas + `#edecec` text + `#f54e00` accent.
-2. Compact 4–8px control rounding; avoid large consumer-app squircles.
-3. 13px-class dense UI type for lists and meta.
-4. Border-defined panels instead of heavy shadows.
-5. Marketplace as a quiet catalog inside the same dark system.
-
-**Avoid**
-
-1. Re-skinning these product views as a bright purple AI landing page.
-2. Oversized marketing display type inside dashboard.
-3. Multiple competing accent colors.
-4. Claiming a font family/licence here.
-
-**Adaptation recipe**
-
-- Dark shell → light gray text → one orange primary → 6–8px controls → dense lists + catalog cards.
-
-## Scope note
-
-Eight captures across `/dashboard`, `/marketplace`, and `/marketplace/publish` at multiple widths. Supported: dark product color roles, accent, radii, spacing habits, marketplace/publish layout. Not established: public marketing homepage system, font family, motion, full light-theme tokens.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Dashboard wide](https://pin.fontofweb.com/8861?format=jpg)](https://design.withfudge.com/share/pin-8861)
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/8861?format=jpg)](https://design.withfudge.com/share/pin-8861)
 
-[Dashboard wide](https://design.withfudge.com/share/pin-8861)
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-8861)
 
-[![Dashboard panels](https://pin.fontofweb.com/6660?format=jpg)](https://design.withfudge.com/share/pin-6660)
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6663?format=jpg)](https://design.withfudge.com/share/pin-6663)
 
-[Dashboard panels](https://design.withfudge.com/share/pin-6660)
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6663)
 
-[![Dashboard narrow](https://pin.fontofweb.com/6661?format=jpg)](https://design.withfudge.com/share/pin-6661)
+[![Cursor - Marketplace](https://pin.fontofweb.com/6662?format=jpg)](https://design.withfudge.com/share/pin-6662)
 
-[Dashboard narrow](https://design.withfudge.com/share/pin-6661)
+[Cursor - Marketplace](https://design.withfudge.com/share/pin-6662)
 
-[![Marketplace catalog](https://pin.fontofweb.com/6662?format=jpg)](https://design.withfudge.com/share/pin-6662)
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6661?format=jpg)](https://design.withfudge.com/share/pin-6661)
 
-[Marketplace catalog](https://design.withfudge.com/share/pin-6662)
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6661)
 
-[![Marketplace publish](https://pin.fontofweb.com/6663?format=jpg)](https://design.withfudge.com/share/pin-6663)
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6660?format=jpg)](https://design.withfudge.com/share/pin-6660)
 
-[Marketplace publish](https://design.withfudge.com/share/pin-6663)
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6660)
 
-[![Publish form mid-width](https://pin.fontofweb.com/6657?format=jpg)](https://design.withfudge.com/share/pin-6657)
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6659?format=jpg)](https://design.withfudge.com/share/pin-6659)
 
-[Publish form mid-width](https://design.withfudge.com/share/pin-6657)
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6659)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6658?format=jpg)](https://design.withfudge.com/share/pin-6658)
+
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6658)
+
+[![Cursor - The best way to code with AI](https://pin.fontofweb.com/6657?format=jpg)](https://design.withfudge.com/share/pin-6657)
+
+[Cursor - The best way to code with AI](https://design.withfudge.com/share/pin-6657)
+
+## Design character
+
+cursor.com has a predominantly dark surface treatment across 45 captured pages. The strongest recurring signals are 4 captured type families, 16 recurring colors, and 206 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **45 pages** and 8 representative page references. It records 605 color rows, 134 typography rows, 143 spacing rows, 60 border rows, 0 gradient rows, and 3 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#edecec` | color · main | 9869 |
+| `#000000` | background-color · main | 7891 |
+| `#e4e4e4` | color · main | 1158 |
+| `#1b1913` | background-color · button | 475 |
+| `#14120b` | color · button | 250 |
+| `#1b1a15` | background-color · main | 190 |
+| `#181818` | background-color · main | 49 |
+| `#26241e` | background-color · main | 13 |
+| `#f54e00` | color · main | 7 |
+| `#83d6c5` | color · main | 4 |
+| `#ffffff` | box-shadow · button | 3 |
+| `#cf2d56` | color · button | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Cursor Gothic** | 16px · 400 · 24px | 6843 |
+| **System** | 16px · 400 · 22.4px | 3715 |
+| **Berkeley Mono Variable** | 12px · 400 · 20px | 118 |
+| **Sf Pro** | 16px · 400 · 22.4px | 3 |
+
+### Spacing and layout
+
+The most repeated spacing values are `112px 20px 67.2px` for padding, `64px` for padding, `0px 180.5px` for margin, `16px` for padding, `64px 24px` for padding, and `0px 10px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 4px` (422), `0px none 8px` (412), `0px none 6px` (281), `0px none 10px` (237), `1px solid 8px` (185), and `1px solid 12px` (75). 0 gradient rows and 3 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **header**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 45 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#f54e00`
 - `#edecec`
+- `#000000`
+- `#e4e4e4`
+- `#1b1913`
+- `#14120b`
+- `#1b1a15`
+- `#181818`
+- `#26241e`
+- `#f54e00`
+- `#83d6c5`
+- `#ffffff`
+- `#cf2d56`
+- `#d6d6dd`
+- `#bf616a`
+- `#201e18`
+- `#1f8a65`
+
+## Typography captured from cursor.com
+
+- **Cursor Gothic** — weight 400 · size 16px
+- **System** — weight 400 · size 16px
+- **Berkeley Mono Variable** — weight 400 · size 12px
+- **Sf Pro** — weight 400 · size 16px

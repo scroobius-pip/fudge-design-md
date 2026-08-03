@@ -2,97 +2,103 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/fundable.design-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Fundable is a **dark, logo-studio landing** aimed at founders who need an investor-ready mark. The system is high-contrast black canvas, large confident sans headlines (~39px/600), sparse copy, and bold logo specimens as the art. It feels like a specialist service one-pager: dramatic, minimal chrome, pill CTAs, and portfolio marks doing the selling.
-
-What should survive adaptation:
-
-- Near-black canvas with white type.
-- Logo marks as hero art on dark stages.
-- Compact sans hierarchy (12px micro, 14px UI, ~39px titles).
-- Pill CTAs and restrained 10–100px radii (chips vs pills).
-- Sales clarity without SaaS dashboard clutter.
-
-## Foundations
-
-### Color
-
-No structured roles. Visual:
-
-| Role | Approx | Use |
-|------|--------|-----|
-| Canvas | `#0a0a0a` / `#111` | Page |
-| Ink | `#ffffff` | Headlines |
-| Muted | `#9a9a9a` | Body |
-| Surface | `#161616` | Cards if any |
-| CTA | white or bright fill on dark | Primary action |
-
-### Typography
-
-| Role | Size | Weight | LH |
-|------|------|--------|-----|
-| Micro | 12px | 400 | tight |
-| UI | 14px | 500 | ~18px |
-| Display | ~39px | 600 | ~43px |
-
-### Spacing and layout
-
-- Common **24px** padding on content clusters.
-- Home is a vertical pitch: claim, CTA, logo gallery/work samples.
-- Some captures are thin on structure (older crops) — rely on the richer 6714 frame.
-
-## Visual language
-
-- Dark theater; logos provide color.
-- Soft pills for actions; modest 10px rounding on smaller surfaces.
-- Minimal borders/shadows.
-
-## Components and states
-
-1. Dark header + CTA.
-2. Hero claim for logo design service.
-3. Logo specimen row/grid.
-4. Process or proof section.
-5. Final convert band.
-
-## Responsive behavior
-
-Mix of wide 1712 and shorter crops. Keep dark field and large title; collapse logo grids to fewer columns.
-
-## Practical guidance
-
-**Preserve** black stage, logo-as-art, ~39px titles, pill convert.  
-**Avoid** light corporate redesign, tiny watermark logos, rainbow marketing gradients.
-
-## Scope note
-
-Six captures on `/`; several older crops lack spacing/type detail. Primary read from pin 6714 plus supporting home frames.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Fundable home pitch](https://pin.fontofweb.com/6714?format=jpg)](https://design.withfudge.com/share/pin-6714)
+[![Fundable — Logo Design](https://pin.fontofweb.com/6714?format=jpg)](https://design.withfudge.com/share/pin-6714)
 
-[Fundable home pitch](https://design.withfudge.com/share/pin-6714)
+[Fundable — Logo Design](https://design.withfudge.com/share/pin-6714)
 
-[![Home crop B](https://pin.fontofweb.com/5699?format=jpg)](https://design.withfudge.com/share/pin-5699)
+[![Fundable](https://pin.fontofweb.com/5699?format=jpg)](https://design.withfudge.com/share/pin-5699)
 
-[Home crop B](https://design.withfudge.com/share/pin-5699)
+[Fundable](https://design.withfudge.com/share/pin-5699)
 
-[![Home crop C](https://pin.fontofweb.com/5698?format=jpg)](https://design.withfudge.com/share/pin-5698)
+[![Fundable](https://pin.fontofweb.com/5698?format=jpg)](https://design.withfudge.com/share/pin-5698)
 
-[Home crop C](https://design.withfudge.com/share/pin-5698)
+[Fundable](https://design.withfudge.com/share/pin-5698)
 
-[![Home crop D](https://pin.fontofweb.com/5697?format=jpg)](https://design.withfudge.com/share/pin-5697)
+[![Fundable](https://pin.fontofweb.com/5697?format=jpg)](https://design.withfudge.com/share/pin-5697)
 
-[Home crop D](https://design.withfudge.com/share/pin-5697)
+[Fundable](https://design.withfudge.com/share/pin-5697)
+
+[![Fundable](https://pin.fontofweb.com/5696?format=jpg)](https://design.withfudge.com/share/pin-5696)
+
+[Fundable](https://design.withfudge.com/share/pin-5696)
+
+[![Fundable](https://pin.fontofweb.com/5695?format=jpg)](https://design.withfudge.com/share/pin-5695)
+
+[Fundable](https://design.withfudge.com/share/pin-5695)
+
+## Design character
+
+fundable.design has a predominantly dark surface treatment across 6 captured pages. The strongest recurring signals are 2 captured type families, 5 recurring colors, and 7 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 69 color rows, 10 typography rows, 3 spacing rows, 3 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 1437 |
+| `#ffffff` | color · unknown | 81 |
+| `#0000ee` | color · unknown | 1 |
+| `#cdc4fb` | background-color · unknown | 1 |
+| `#924bde` | box-shadow · unknown | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 12px · 400 · normal | 678 |
+| **Inter** | 39px · 600 · 42.9px | 82 |
+
+### Spacing and layout
+
+The most repeated spacing values are `24px` for padding, `0px 24px` for padding, and `12px 16px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 100px` (2) and `0px none 10px` (1). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown** and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0a0a0a`
-- `#111111`
-- `#161616`
+- `#000000`
 - `#ffffff`
-- `#9a9a9a`
+- `#0000ee`
+- `#cdc4fb`
+- `#924bde`
+
+## Typography captured from fundable.design
+
+- **System** — weight 400 · size 12px
+- **Inter** — weight 600 · size 39px

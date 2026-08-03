@@ -2,105 +2,117 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/departuremono.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Departure Mono’s site is a **specimen stage for a lo-fi monospaced pixel font**, art-directed like a desk collage from a sci-fi research lab. The UI chrome is almost invisible: light gray paper backdrop, a gray pixel wordmark, tiny utility links, and then a still-life of documents — letterhead, sticky note, badge, compass geometry, highlighter — all set in the face being sold. The product *is* the interface.
-
-What should survive adaptation:
-
-- **One monospaced pixel voice** for UI and specimen content alike.
-- A **flat, archival desk** aesthetic (paper, stickers, badges) instead of SaaS cards and gradients.
-- **Sparse navigation** (Download / GitHub / Donate) that never upstages the specimen.
-- High-contrast black type on pale grounds, with occasional kraft/beige and charcoal props.
-
-## Foundations
-
-### Color
-
-No measured palette. Visual reading:
-
-- **Page**: cool light gray / off-white field.
-- **Wordmark plate**: medium gray rectangle behind black pixel lettering.
-- **Document**: white letter sheet with black body text; mint/sage highlighter strokes on key phrases.
-- **Sticky prop**: warm kraft/beige note with black pixel headline + bitmap QR-like block.
-- **ID badge**: dark charcoal card, light pixel type, dotted texture swatch, white status square.
-- **Diagram lines**: thin gray construction geometry behind the collage.
-- **UI links**: small black uppercase labels top-right.
-
-Color supports the prop story; it is not a multi-token product palette.
-
-### Typography
-
-The site showcases **Departure Mono** (pixel monospace). Captured sizes (family name not machine-labeled in tokens):
-
-| Role | Size | Notes |
-| --- | --- | --- |
-| Micro UI / dense specimen | 11px | Extremely common; body of letter and UI labels |
-| Secondary | 14–16.5px | Short descriptions, supporting lines |
-| Display specimen | 88px / solid lh | Large wordmark-scale setting |
-| Weight | 400 dominant | Pixel face reads even without weight drama |
-
-Everything is monospaced and intentionally technical. Do not pair with a friendly proportional sans for body copy if you want the same character.
-
-### Spacing and layout
-
-- Side padding around **44px**; outer margins ~**88–114px** on wide views.
-- Large vertical air: top padding ~**137px**, big bottom margins in collage layouts.
-- Wide column gaps (~**187px**) in some specimen arrangements; tight **11px** gaps where micro grids appear.
-- Composition is **asymmetric collage**, not a 12-column marketing grid: badge lower-left, letter center, sticky overlapping right, tool outline along the bottom.
-- Narrow capture (~875px) still keeps the paper desk metaphor with simplified stacking.
-
-## Visual language
-
-- **No measured radii or borders** — edges are hard pixel/rect, matching the font’s technical vibe.
-- **No shadows** in the structural data; depth comes from overlapping paper props and line drawings.
-- **Props as UI**: clipboard sticky, laminated badge, mechanical pencil/highlighter outline, circular construction marks.
-- **Texture**: dotted bitmap blocks, pixel QR, ruled-paper side holes on the letter sheet.
-- Motion was not observed; the brand feels still and archival.
-
-## Components and states
-
-1. **Wordmark bar** — gray plate, pixel logotype, tiny version tag (`v1.500`).
-2. **Utility links** — Download, GitHub, Donate with simple glyphs.
-3. **Specimen letter** — full monospaced letter layout with highlighted phrases.
-4. **Annotation sticky** — overlapping kraft card with bold stacked title and bitmap mark.
-5. **Access badge** — dark ID card (“TIER 1 ACCESS”) as characterful brand chrome.
-6. **Desk geometry** — faint circles/lines and tool silhouettes anchoring the scene.
-
-These are art-direction components more than app widgets. Primary actions are the text links, not filled buttons.
-
-## Responsive behavior
-
-Wide (~1712px) and narrower (~875px) homepage captures both keep the collage language. On the smaller width, props scale down and spacing compresses, but the system does not switch to a conventional stacked marketing layout in the observed frames. Older additional captures exist but did not yield structural measurements.
-
-## Practical guidance
-
-**Preserve**
-
-- Pixel mono as the single type system for UI + marketing.
-- Paper-desk collage with a few tactile props instead of generic feature grids.
-- Pale neutral stage; let black pixels and one kraft accent do the work.
-- Tiny utilitarian nav; the specimen is the hero.
-
-**Avoid**
-
-- Smooth geometric sans, soft multicolored gradients, or glass cards.
-- Large filled brand buttons that look like SaaS trials.
-- Crowding the desk with too many props — negative space is part of the craft.
-- Anti-aliasing the pixel face into a blurry display headline; keep it crisp and modular.
-
-## Evidence scope
-
-Eight homepage captures across viewports; structured spacing/type detail is richest on the two newest pins (wide + narrow). Colors, radii, shadows, and font-family tokens were not returned as measured systems — prop colors and the Departure Mono identity are interpreted from screenshots and the site’s stated purpose as a monospaced pixel font specimen.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — wide desk collage specimen](https://pin.fontofweb.com/9531?format=jpg)](https://design.withfudge.com/share/pin-9531)
+[![Departure Mono](https://pin.fontofweb.com/9531?format=jpg)](https://design.withfudge.com/share/pin-9531)
 
-[Home — wide desk collage specimen](https://design.withfudge.com/share/pin-9531)
+[Departure Mono](https://design.withfudge.com/share/pin-9531)
 
-[![Home — narrower viewport specimen](https://pin.fontofweb.com/9530?format=jpg)](https://design.withfudge.com/share/pin-9530)
+[![Departure Mono](https://pin.fontofweb.com/9530?format=jpg)](https://design.withfudge.com/share/pin-9530)
 
-[Home — narrower viewport specimen](https://design.withfudge.com/share/pin-9530)
+[Departure Mono](https://design.withfudge.com/share/pin-9530)
+
+[![Departure Mono](https://pin.fontofweb.com/5064?format=jpg)](https://design.withfudge.com/share/pin-5064)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5064)
+
+[![Departure Mono](https://pin.fontofweb.com/5063?format=jpg)](https://design.withfudge.com/share/pin-5063)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5063)
+
+[![Departure Mono](https://pin.fontofweb.com/5062?format=jpg)](https://design.withfudge.com/share/pin-5062)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5062)
+
+[![Departure Mono](https://pin.fontofweb.com/5061?format=jpg)](https://design.withfudge.com/share/pin-5061)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5061)
+
+[![Departure Mono](https://pin.fontofweb.com/5060?format=jpg)](https://design.withfudge.com/share/pin-5060)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5060)
+
+[![Departure Mono](https://pin.fontofweb.com/5059?format=jpg)](https://design.withfudge.com/share/pin-5059)
+
+[Departure Mono](https://design.withfudge.com/share/pin-5059)
+
+## Design character
+
+departuremono.com has a mixed light and dark surface treatment across 11 captured pages. The strongest recurring signals are 2 captured type families, 8 recurring colors, and 23 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **11 pages** and 8 representative page references. It records 88 color rows, 18 typography rows, 23 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#444444` | color · unknown | 18622 |
+| `#eeeeee` | background-color · header | 3282 |
+| `#222222` | color · main | 2210 |
+| `#c0c0c0` | color · main | 2210 |
+| `#333333` | color · header | 116 |
+| `#000000` | color · unknown | 72 |
+| `#6c6c58` | color · header | 70 |
+| `#cccccc` | background-color · header | 38 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Departure Mono** | 11px · 400 · normal | 22123 |
+| **Applesystem** | 14px · 400 · normal | 72 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 44px` for padding, `44px` for padding-right, `44px` for padding-left, `137px 0px 0px` for padding, `137px` for padding-top, and `0px 88.5px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **header**, **unknown**, **main**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 11 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#444444`
+- `#eeeeee`
+- `#222222`
+- `#c0c0c0`
+- `#333333`
+- `#000000`
+- `#6c6c58`
+- `#cccccc`
+
+## Typography captured from departuremono.com
+
+- **Departure Mono** — weight 400 · size 11px
+- **Applesystem** — weight 400 · size 14px

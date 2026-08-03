@@ -2,91 +2,113 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dosu.dev-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Dosu sells **knowledge infrastructure for agents and humans** with a distinctive mix of **pixel-art nostalgia** and modern product clarity. The hero drops you into a grand library illustration rendered in chunky pixels, over a cream/warm field, with an elegant display headline and a live-feeling terminal window. It is whimsical without becoming childish—developer-serious install command beside a soft “Book a demo” path.
-
-What should survive adaptation:
-
-- Pixel illustration as brand theater (library, mascot book)
-- Cream serif/editorial display on warm light ground
-- Terminal/install chip as a first-class CTA
-- Peach/amber accent (`#ffb86c`) against slate and white
-- Pill-friendly radii on actions
-
-## Foundations
-
-### Color
-
-Measured:
-
-- Slate/dark UI: `#0f172a`
-- Peach accent: `#ffb86c`
-- White: `#ffffff`
-- Muted text: `#757575`
-
-Hero atmosphere uses deep illustrated browns/greens inside the pixel art while the page chrome sits on warm off-white below the fold.
-
-### Typography
-
-Declared families not captured. Display is **serif/editorial** at large size for the hero line; UI/nav is sans. Body ~16px; muted supporting copy uses `#757575`. The contrast between serif headline and mono terminal is intentional.
-
-### Spacing and layout
-
-Radii include **4 / 6 / 8 / 40 / 99**—small controls stay tight; CTAs go fully pill. Hero centers headline + dual actions + floating terminal. Lower sections flip to light editorial bands with product explanations.
-
-## Visual language
-
-- Pixel art environments and characters
-- macOS-style terminal chrome over the illustration
-- Ghost curl command chip + filled demo button
-- Soft separation between illustrated hero and cream content bands
-
-## Components and states
-
-- **Nav:** dark translucent bar, text links, dual right CTAs (Book a Demo, Go to App)
-- **Install chip:** mono command with copy affordance
-- **Primary CTA:** filled light/peach-tinted pill
-- **Terminal card:** dark panel, traffic lights, prompt
-
-## Practical guidance
-
-**Preserve**
-
-- Pixel library world + serif hero
-- Terminal as proof
-- Peach accent sparingly
-- Pill CTAs
-
-**Avoid**
-
-- Generic purple-AI gradients replacing the illustration
-- Dropping the install command pattern
-- Over-saturating peach into full-page fills
-
-## Scope note
-
-Multiple home viewports (pins 10411–10413). Declared fonts not available; colors from measured roles/palette.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Hero — pixel library + terminal](https://pin.fontofweb.com/10411?format=jpg)](https://design.withfudge.com/share/pin-10411)
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10413?format=jpg)](https://design.withfudge.com/share/pin-10413)
 
-[Hero — pixel library + terminal](https://design.withfudge.com/share/pin-10411)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/share/pin-10413)
 
-[![Home mid viewport](https://pin.fontofweb.com/10412?format=jpg)](https://design.withfudge.com/share/pin-10412)
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10412?format=jpg)](https://design.withfudge.com/share/pin-10412)
 
-[Home mid viewport](https://design.withfudge.com/share/pin-10412)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/share/pin-10412)
 
-[![Home narrower viewport](https://pin.fontofweb.com/10413?format=jpg)](https://design.withfudge.com/share/pin-10413)
+[![Dosu - Knowledge Infrastructure for Agents and Humans](https://pin.fontofweb.com/10411?format=jpg)](https://design.withfudge.com/share/pin-10411)
 
-[Home narrower viewport](https://design.withfudge.com/share/pin-10413)
+[Dosu - Knowledge Infrastructure for Agents and Humans](https://design.withfudge.com/share/pin-10411)
+
+## Design character
+
+dosu.dev has a predominantly light surface treatment across 3 captured pages. The strongest recurring signals are 4 captured type families, 34 recurring colors, and 172 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 111 color rows, 52 typography rows, 147 spacing rows, 14 border rows, 3 gradient rows, and 8 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#0f172a` | color · main | 42855 |
+| `#e6e3d7` | background-color · main | 12228 |
+| `#fffefc` | background-color · unknown | 8653 |
+| `#0e0e0e` | background-color · main | 3360 |
+| `#ffffff` | border-color · main | 2420 |
+| `#000000` | color · unknown | 2296 |
+| `#1c1c1c` | border-color · main | 886 |
+| `#fafafa` | background-color · main | 634 |
+| `#dad7c9` | background-color · main | 505 |
+| `#111111` | background-color · main | 286 |
+| `#262626` | background-color · main | 72 |
+| `#757575` | color · main | 66 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Mona Sans** | 16px · 400 · 24px | 44245 |
+| **Jet Brains Mono** | 10px · 400 · 15px | 555 |
+| **Pp Mondwest** | 14px · 400 · 21px | 220 |
+| **Applesystem** | 14px · 400 · normal | 77 |
+
+### Spacing and layout
+
+The most repeated spacing values are `64px` for gap, `64px` for row-gap, `64px` for column-gap, `340px 200px 100px` for padding, `340px` for padding-top, and `200px` for padding-right. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 8px` (807), `1px solid 4px` (505), `1.5px dashed 6px` (32), `0px 0px 1px solid 0px` (26), `1px solid 40px` (12), and `1px solid 6px` (8). 3 gradient rows and 8 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **unknown**, **nav**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#0f172a`
-- `#ffb86c`
+- `#e6e3d7`
+- `#fffefc`
+- `#0e0e0e`
 - `#ffffff`
+- `#000000`
+- `#1c1c1c`
+- `#fafafa`
+- `#dad7c9`
+- `#111111`
+- `#262626`
 - `#757575`
+- `#222222`
+- `#1f2937`
+- `#3f3f3f`
+- `#ff3e3e`
+
+## Typography captured from dosu.dev
+
+- **Mona Sans** — weight 400 · size 16px
+- **Jet Brains Mono** — weight 400 · size 10px
+- **Pp Mondwest** — weight 400 · size 14px
+- **Applesystem** — weight 400 · size 14px

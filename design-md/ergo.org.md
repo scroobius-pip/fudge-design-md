@@ -2,99 +2,97 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/ergo.org-design)
 
-Last updated: 2026-07-28
-
-# How ergo.org is designed
-
-## Design character
-
-Ergo is a cinematic philosophy education brand: black full-bleed photography, classical serif display titles, and a floating pill navigation. Course pages feel like title cards for a documentary series—dark, scholarly, and spacious.
-
-## Foundations
-
-### Color
-
-- **Canvas:** black / near-black photographic fields
-- **Type:** white and soft off-white
-- **Panels:** translucent dark glass cards (instructor bios)
-- **Nav pill:** dark frosted capsule with light labels
-- **Photography:** monochrome or muted archival/tech imagery behind type
-
-### Typography
-
-- Display titles ~32px (and visually larger on heroes), weight 400, often wide tracking serif
-- Body ~16px / ~18–20px on dark reading columns
-- Classical, editorial rhythm—less startup SaaS, more essay film
-
-### Spacing and layout
-
-- Large section padding: 48px horizontal; 88–192px vertical bands common
-- Centered content with large side margins (~348px on wide frames)
-- Radii ~**16px** on cards; ~22px on some controls
-- Home: hero statement over imagery + course grid
-- Course: title card, essay column, instructor card rail
-
-## Visual language
-
-- Full-bleed darkened photography
-- Serif lockups for course titles
-- Floating top nav capsule
-- Glass instructor cards
-- Minimal ornament; typography and photo do the work
-
-## Components and states
-
-- ERGO wordmark
-- Pill nav (Courses, All Videos, About)
-- Course cards on home
-- Long-form course introduction
-- Instructor profile card
-- Links to lecture index / YouTube
-
-## Responsive behavior
-
-Wide 2048 captures plus a 1335-wide home. Dark full-bleed approach likely continues on smaller screens with stacked instructor cards; mobile not explicitly captured.
-
-## Practical guidance
-
-**Preserve**
-
-- Black photographic stage and white serif display
-- Floating pill nav
-- 16px-class soft cards for people/meta
-- Generous vertical title-card padding
-
-**Avoid**
-
-- Bright white marketing templates
-- Playful illustrations or saturated gradients
-- Dense LMS sidebars that break the cinematic frame
-
-## Scope note
-
-Four captures: home variants and one course page. Spacing/radius measured; colors and font families largely screenshot-derived.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home cinematic hero](https://pin.fontofweb.com/9974?format=jpg)](https://design.withfudge.com/share/pin-9974)
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9974?format=jpg)](https://design.withfudge.com/share/pin-9974)
 
-[Home cinematic hero](https://design.withfudge.com/share/pin-9974)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/share/pin-9974)
 
-[![Home alternate](https://pin.fontofweb.com/9972?format=jpg)](https://design.withfudge.com/share/pin-9972)
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9973?format=jpg)](https://design.withfudge.com/share/pin-9973)
 
-[Home alternate](https://design.withfudge.com/share/pin-9972)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/share/pin-9973)
 
-[![Home mid width](https://pin.fontofweb.com/9973?format=jpg)](https://design.withfudge.com/share/pin-9973)
+[![Ergo — Philosophy Begins in Wonder](https://pin.fontofweb.com/9972?format=jpg)](https://design.withfudge.com/share/pin-9972)
 
-[Home mid width](https://design.withfudge.com/share/pin-9973)
+[Ergo — Philosophy Begins in Wonder](https://design.withfudge.com/share/pin-9972)
 
-[![Course title card](https://pin.fontofweb.com/9969?format=jpg)](https://design.withfudge.com/share/pin-9969)
+[![Computation as a Universal and Fundamental Concept — Ergo](https://pin.fontofweb.com/9969?format=jpg)](https://design.withfudge.com/share/pin-9969)
 
-[Course title card](https://design.withfudge.com/share/pin-9969)
+[Computation as a Universal and Fundamental Concept — Ergo](https://design.withfudge.com/share/pin-9969)
+
+## Design character
+
+ergo.org has a mixed light and dark surface treatment across 4 captured pages. The strongest recurring signals are 4 captured type families, 4 recurring colors, and 175 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **4 pages** and 4 representative page references. It records 116 color rows, 77 typography rows, 161 spacing rows, 9 border rows, 4 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 68396 |
+| `#ffffff` | color · main | 17370 |
+| `#f0ebe4` | background-color · unknown | 11566 |
+| `#768100` | background-color · footer | 898 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Libre Baskerville** | 16px · 400 · 20px | 71374 |
+| **Times** | 16px · 400 · normal | 674 |
+| **Sabon Lt Std** | 32px · 400 · 32px | 454 |
+| **Applesystem** | 14px · 400 · normal | 85 |
+
+### Spacing and layout
+
+The most repeated spacing values are `144px` for padding-bottom, `88px 0px 144px` for padding, `88px` for padding-top, `48px` for padding-right, `48px` for padding-left, and `0px 48px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 16px` (3538), `0px none 16px` (136), `1px solid 22px` (4), and `0px none 22px` (4). 4 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **header**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 4 representative pages selected from 4 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#000000`
 - `#ffffff`
-- `#1a1a1a`
-- `#cfcfcf`
+- `#f0ebe4`
+- `#768100`
+
+## Typography captured from ergo.org
+
+- **Libre Baskerville** — weight 400 · size 16px
+- **Times** — weight 400 · size 16px
+- **Sabon Lt Std** — weight 400 · size 32px
+- **Applesystem** — weight 400 · size 14px

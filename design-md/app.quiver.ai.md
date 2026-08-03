@@ -2,101 +2,109 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/app.quiver.ai-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-QuiverAI presents a **soft, gallery-like creative beta**: warm off-white grounds, black typography, and generous rounded cards. The product chrome stays almost anonymous so the explore grid—full of photographic tiles—can feel like a magazine wall rather than a dense admin tool.
-
-What should survive adaptation:
-
-- **Light neutral canvas** (off-white, not pure sterile gray-blue)
-- **Black primary ink** with mid-gray secondary copy
-- **8 / 12 / 16px radius ladder** on controls and media cards
-- **Masonry / tiled imagery** as the hero surface on Explore
-
-## Foundations
-
-### Color
-
-| Role | Value | Notes |
-| --- | --- | --- |
-| Text primary | `#000000` | Headlines, key UI |
-| Text secondary | `#737373` | Supporting labels |
-| Page ground | warm off-white ~`#f7f7f5` | App canvas |
-| Card surface | `#ffffff` | Elevated panels |
-| Rules / chips | light gray ~`#e5e5e5` | Hairlines, input edges |
-
-Accents are minimal; emphasis comes from black pills/buttons and the saturation inside user imagery.
-
-### Typography
-
-Declared families were not captured. Measured UI type:
-
-- Default body: **16px / 24px**, weight 400 (extremely dominant)
-- Secondary: **14px / 20–21px**
-- Display on onboarding: **~44px** with negative tracking (~-1.1px), still weight 400—large but not ultra-bold
-
-The voice is **regular-weight confidence**: size and layout create hierarchy more than heavy font weights.
-
-### Spacing and layout
-
-Padding clusters: **24px** page/card rhythm, **8px** compact control padding, large bottom canvas padding (~144px) for scroll breathing room.
-
-Layouts:
-
-- Explore: top bar + full-bleed masonry of rounded image cards
-- Onboarding: centered column of large type + form cards on the soft ground
-- Narrower onboarding (~1018px) keeps the same components, tighter columns
-
-## Visual language
-
-- Radii are a clear system: **8px** controls, **12px** medium cards, **16px** large media tiles (all heavily observed)
-- Soft light UI with little reliance on dramatic shadows
-- Media tiles clip photography into rounded rectangles; chrome never out-styles the photos
-- Black filled buttons and text links provide the only strong ink blocks
-
-## Components and states
-
-1. **Top bar** — wordmark/search/utilities on the light shell
-2. **Masonry cards** — image-first tiles, likely light meta on/under the image
-3. **Onboarding display heading** — oversized regular-weight title
-4. **Form cards** — white, 12–16px radius, simple fields
-5. **Primary black CTA** — high contrast on off-white
-
-## Responsive behavior
-
-Three captures include wide (~2048) and narrower (~1018) onboarding widths. The system **retains light shell, radii, and type ramp** while columns compress—safe to treat as a fluid light layout, not a separate mobile brand.
-
-## Practical guidance
-
-**Preserve** off-white gallery calm, black/gray type pair, 8–16 radius steps, image masonry as hero.
-
-**Avoid** dark-mode defaults, neon accents, tiny dense tables as the primary explore metaphor, or squaring off all media.
-
-## Scope note
-
-Three public-beta captures: Explore plus onboarding at two widths. Font families undeclared; color roles partially measured (black/gray text) with surfaces read from screenshots.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Explore — masonry inspiration grid](https://pin.fontofweb.com/9928?format=jpg)](https://design.withfudge.com/share/pin-9928)
+[![QuiverAI public beta](https://pin.fontofweb.com/9928?format=jpg)](https://design.withfudge.com/share/pin-9928)
 
-[Explore — masonry inspiration grid](https://design.withfudge.com/share/pin-9928)
+[QuiverAI public beta](https://design.withfudge.com/share/pin-9928)
 
-[![Onboarding — wide desktop](https://pin.fontofweb.com/9927?format=jpg)](https://design.withfudge.com/share/pin-9927)
+[![QuiverAI public beta](https://pin.fontofweb.com/9927?format=jpg)](https://design.withfudge.com/share/pin-9927)
 
-[Onboarding — wide desktop](https://design.withfudge.com/share/pin-9927)
+[QuiverAI public beta](https://design.withfudge.com/share/pin-9927)
 
-[![Onboarding — narrower crop](https://pin.fontofweb.com/9926?format=jpg)](https://design.withfudge.com/share/pin-9926)
+[![QuiverAI public beta](https://pin.fontofweb.com/9926?format=jpg)](https://design.withfudge.com/share/pin-9926)
 
-[Onboarding — narrower crop](https://design.withfudge.com/share/pin-9926)
+[QuiverAI public beta](https://design.withfudge.com/share/pin-9926)
+
+## Design character
+
+app.quiver.ai has a predominantly light surface treatment across 3 captured pages. The strongest recurring signals are 3 captured type families, 14 recurring colors, and 252 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 112 color rows, 61 typography rows, 220 spacing rows, 21 border rows, 1 gradient rows, and 10 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 123887 |
+| `#f8f8f8` | background-color · unknown | 36490 |
+| `#e5e5e5` | box-shadow · unknown | 7533 |
+| `#fcfcfc` | background-color · unknown | 3979 |
+| `#ffffff` | background-color · unknown | 1241 |
+| `#404040` | color · unknown | 443 |
+| `#737373` | color · unknown | 111 |
+| `#171717` | color · button | 19 |
+| `#f3f3f3` | background-color · unknown | 6 |
+| `#ececec` | background-color · unknown | 4 |
+| `#a1a1a1` | color · button | 2 |
+| `#262626` | background-color · unknown | 2 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Geist** | 16px · 400 · 24px | 108406 |
+| **Applesystem** | 14px · 400 · normal | 88 |
+| **Geist Mono** | 12px · 500 · 14.4px | 2 |
+
+### Spacing and layout
+
+The most repeated spacing values are `24px` for padding-right, `24px` for padding-left, `24px` for padding-top, `14px` for gap, `14px` for row-gap, and `14px` for column-gap. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 8px` (4001), `1px solid 12px` (3320), `0px none 16px` (1368), `0px none 8px` (96), `0px none 12px` (79), and `0px none 1.67772e+07px` (69). 1 gradient rows and 10 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **unknown**, **button**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#f7f7f5`
-- `#ffffff`
 - `#000000`
-- `#737373`
+- `#f8f8f8`
 - `#e5e5e5`
-- `#111111`
+- `#fcfcfc`
+- `#ffffff`
+- `#404040`
+- `#737373`
+- `#171717`
+- `#f3f3f3`
+- `#ececec`
+- `#a1a1a1`
+- `#262626`
+- `#dbf58a`
+- `#2b7fff`
+
+## Typography captured from app.quiver.ai
+
+- **Geist** — weight 400 · size 16px
+- **Applesystem** — weight 400 · size 14px
+- **Geist Mono** — weight 500 · size 12px

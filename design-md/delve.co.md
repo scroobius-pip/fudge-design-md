@@ -2,103 +2,87 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/delve.co-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Delve’s marketing site sells automated compliance with a **cinematic dark stage**: a full-bleed vertical gradient from deep teal through black into hot orange, oversize white headlines, and a single loud CTA. The product promise is serious (SOC 2, HIPAA, GDPR), but the visual system feels more like a launch film than a paperwork portal — high contrast, sparse copy, and a geometric color field that doubles as brand texture.
-
-What should survive adaptation:
-
-- **Dark-first marketing** with white type and one saturated accent action.
-- A **teal→orange vertical bar gradient** as the signature backdrop (not a flat fill).
-- **Monumental headline type** that can dominate half the viewport.
-- A **strict nav + dual CTA** pattern: ghost Login, solid Book a Demo.
-
-## Foundations
-
-### Color
-
-No structured palette roles were captured. Visual reading from the home hero and footer:
-
-- **Canvas**: near-black to true black under the gradient mesh.
-- **Gradient field**: cool teal/cyan on the left, warming through brown-black midtones into vivid orange on the right, rendered as tall vertical strips with a subtle grid of framework badges.
-- **Primary text**: pure white for headlines and nav labels.
-- **Secondary text**: soft light gray for supporting sentences and footer meta.
-- **Primary action**: saturated orange filled button on dark heroes (“Book a Demo”).
-- **Inverse action**: white filled button on dark header and on teal promo tiles; black label text.
-- **Footer surfaces**: charcoal/black panels with 1px hairline dividers; one teal gradient “Bottom Line” promo cell.
-
-Treat orange as the only aggressive accent; everything else stays monochrome or gradient-bound.
-
-### Typography
-
-Family names were not captured. The face reads as a modern **grotesk sans**, tight and confident.
-
-| Role | Observed size / weight | Behavior |
-| --- | --- | --- |
-| Hero display | ~140px / 700 (one capture); ~64px / 700 on alternate hero | One or two short lines, near-solid line-height |
-| Body | 16px / 400, lh ~24 | Centered subcopy under heroes |
-| UI / nav | 14–16px / 400–600 | Header links, footer lists |
-| Lead | 18–20px / 400 | Occasional larger supporting lines |
-
-Display type is the brand. Body never competes with it.
-
-### Spacing and layout
-
-- Section padding clusters at **48px** and large **112–128px** vertical rhythm.
-- Horizontal padding common at **48 / 80 / ~85px**.
-- Hero is full-viewport: headline optically centered, CTA under subcopy, trust line near the fold.
-- Footer is a multi-column grid (logo/address | link groups | promo tile) separated by light rules.
-- Framework badges sit in a loose lower-right grid over the gradient rather than in a tight card row.
-
-## Visual language
-
-- **No measured corner radii** — buttons and panels read as small-radius or near-sharp rectangles, not pills.
-- **1px solid borders** divide footer columns and outline badge cells; no soft shadow language observed.
-- **Gradient + grid** is the distinctive motif: vertical color bars, faint cell lines, certification marks floating in cells (SOC 2, HIPAA, GDPR, ISO, PCI-DSS).
-- Imagery is minimal; brand energy comes from color field and type, not photography.
-
-## Components and states
-
-1. **Global header** — black/translucent bar, logo left, three dropdown groups center, Login text + white “Book a Demo” right.
-2. **Hero** — oversized white headline, one sentence subcopy, single primary button (orange or white depending on slide).
-3. **Framework badge cells** — small labeled marks in the gradient grid.
-4. **Footer mega-grid** — company blurb, link columns, certifications row, gradient promo with inverse CTA.
-5. **Legal strip** — tiny copyright + policy links + social icons on pure black.
-
-Visible states in stills: default marketing rest. Do not invent hover/focus behavior beyond the clear default vs. filled button contrast.
-
-## Responsive behavior
-
-Only wide desktop viewports (~1712×1314) were captured, twice (hero variant + footer-forward view). Assume the gradient hero and multi-column footer are desktop-first; stack behavior on small screens was not observed.
-
-## Practical guidance
-
-**Preserve**
-
-- Teal-to-orange vertical drama behind sparse white type.
-- One primary conversion verb everywhere (“Book a Demo”).
-- Huge headlines with short subcopy — no long paragraphs in the hero.
-- Footer as an information dense counterweight to the airy hero.
-
-**Avoid**
-
-- Light-mode default marketing; this system is built for dark.
-- Multiple competing accent colors (keep orange exclusive for action).
-- Card carousels or illustration-heavy storytelling that dilute the gradient brand field.
-- Small, timid headlines — scale is part of the identity.
-
-## Evidence scope
-
-Two homepage viewport captures only (hero-focused and footer-focused). No in-app product UI, no mobile breakpoints, and no measured color tokens — accent and surface colors above are visual readings from the screenshots.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home hero — compliance in days](https://pin.fontofweb.com/8218?format=jpg)](https://design.withfudge.com/share/pin-8218)
+[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8219?format=jpg)](https://design.withfudge.com/share/pin-8219)
 
-[Home hero — compliance in days](https://design.withfudge.com/share/pin-8218)
+[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/share/pin-8219)
 
-[![Home footer — mega grid and promo tile](https://pin.fontofweb.com/8219?format=jpg)](https://design.withfudge.com/share/pin-8219)
+[![Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://pin.fontofweb.com/8218?format=jpg)](https://design.withfudge.com/share/pin-8218)
 
-[Home footer — mega grid and promo tile](https://design.withfudge.com/share/pin-8219)
+[Delve | SOC 2 Compliance, HIPAA | Automated Compliance for AI, Startups | Get GDPR, ISO 27001, Cybersecurity Compliant & More | Delve Automated Compliance](https://design.withfudge.com/share/pin-8218)
+
+## Design character
+
+delve.co has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 5 recurring colors, and 32 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 69 color rows, 24 typography rows, 27 spacing rows, 5 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | color · header | 2599 |
+| `#000000` | background-color · main | 2168 |
+| `#0c0c0c` | background-color · header | 434 |
+| `#dfe0e5` | color · footer | 23 |
+| `#fb4a02` | background-color · main | 20 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter Tight** | 16px · 400 · 24px | 2265 |
+| **Overused Grotesk** | 64px · 700 · 64px | 320 |
+
+### Spacing and layout
+
+The most repeated spacing values are `48px` for padding, `0px 0px 128px` for padding, `112px 0px` for padding, `48px 80px 112px` for padding, `0px 85.25px` for padding, and `48px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px solid none 0px` (42) and `1px solid 0px` (20). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **header**, **footer**, **main**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#ffffff`
+- `#000000`
+- `#0c0c0c`
+- `#dfe0e5`
+- `#fb4a02`
+
+## Typography captured from delve.co
+
+- **Inter Tight** — weight 400 · size 16px
+- **Overused Grotesk** — weight 700 · size 64px

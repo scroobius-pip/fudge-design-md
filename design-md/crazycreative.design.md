@@ -2,124 +2,115 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/crazycreative.design-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Crazy Creative is maximalist studio branding: full-bleed hot pink fields, enormous white display type, sticky candy-colored illustration, and pill CTAs. It feels like a poster and a playground—startup agency swagger with mascot energy (bomb character, lightning bolts, geometric confetti). Nothing about it is understated; the system wins by commitment to pink + huge type + chunky shapes.
-
-What should survive adaptation:
-
-- **Hot pink** full-viewport heroes
-- **Massive white display** (~100–130px) with tight leading
-- Soft white **pill buttons** with dark labels
-- Chunky illustration and geometric confetti in cyan/lime/lavender
-- Large corner radii (~40px, some fully pill ~100px)
-- Playful logo lockup with chrome/outline energy
-
-## Foundations
-
-### Color
-
-No measured role palette in structured data; visual system is unambiguous:
-
-- **Hero field**: saturated hot pink / magenta
-- **Display type**: pure white
-- **Secondary type on pink**: white at smaller sizes
-- **CTA fill**: white pill; label near-black
-- **Accent props**: cyan, lime, lavender, yellow script “wow”
-- **Chrome**: white outline “Get Certified” button; rainbow strip above some headers
-- Alternate sections may invert, but the signature move is pink stage + white type
-
-### Typography
-
-Families undeclared. Hierarchy from captures:
-
-| Role | Size | Weight | Notes |
-|------|------|--------|-------|
-| Hero display | ~130px | 400 | lh ~110px (tight, slightly overlapping feel), ls ~-2px |
-| Supporting claim | ~28px | 400 | lh ~39px, slight negative track |
-| UI / nav | ~12–18px | 400–700 | Compact labels; some 18px bold |
-| Micro | 12px | 400 | Dense UI chrome |
-
-Display is the brand: one enormous centered stack (“Design that's crazy good.”), not a multi-size editorial ramp. Script “wow” sits above as a handwritten accent.
-
-### Spacing and layout
-
-- Horizontal padding ~**24px** common; some controls ~30px
-- Vertical padding on bars/buttons ~20–22px
-- Hero is centered poster layout: logo/nav top, giant type middle, CTA, illustration bottom
-- Radii dominate: **40px** everywhere on cards/containers; **100px** on true pills
-- Side “Site of the Day” tab is a vertical white chip—allow branded peripheral chrome
-
-## Visual language
-
-- **Flat loud color fields** instead of photography
-- **Mascot illustration** (expressive bomb, shapes) breaking the bottom edge
-- **Geometric confetti** triangles and bolts in secondary brights
-- **Pills and super-round rects**—soft, toy-like corners
-- **Outline buttons** for secondary actions vs filled white primary on pink
-- Logo: outlined / sticker-like “Crazy Creative” wordmark
-
-## Components and states
-
-1. **Pink hero** — optional top nav, script accent, huge claim, subcopy, Book a Call pill, mascot
-2. **Nav on pink** — Home / Services / About text links + outline Get Certified
-3. **Primary CTA** — white filled pill, dark text
-4. **Secondary CTA** — pink field, white stroke pill
-5. **Award tab** — vertical edge badge
-6. **Illustration layer** — non-negotiable brand texture under/around type
-
-Stills don’t define hover motion; preserve shape language and contrast instead.
-
-## Responsive behavior
-
-Multiple home captures around 1496–1528px and older ~1188–1687px widths show the same poster hero. Type stays huge; illustration scales with the stage. True small-mobile breakpoints aren’t richly documented—expect the display size to step down before abandoning the pink full-bleed idea.
-
-## Practical guidance
-
-**Preserve**
-
-- Full-bleed pink as the first impression
-- Oversized tight white display + tiny script accent
-- 40px+ rounding and pill CTAs
-- Mascot/confetti energy as structural art, not decoration afterthought
-
-**Avoid**
-
-- Diluting to pale pink or adding a corporate navy header bar
-- Small timid headlines that fight the brand promise
-- Sharp 4px enterprise corners on primary surfaces
-- Stock photo heroes replacing illustration
-
-**Adaptation**
-
-- One hero template + one content section inversion (e.g. light or dark) is enough to extend the system
-- CTA recipe: white fill on pink; outline on pink for secondary
-- Keep accent brights in illustration only so UI controls stay simple (white/black/pink)
-
-## Scope note
-
-All studied captures are homepage views at several widths and moments (including mascot-forward and nav-forward crops). Inner service/about pages, forms, and motion were not in this set. Font family names and instrumented color roles were unavailable—values above are from screenshot reading.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — pink hero with nav](https://pin.fontofweb.com/9130?format=jpg)](https://design.withfudge.com/share/pin-9130)
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/9130?format=jpg)](https://design.withfudge.com/share/pin-9130)
 
-[Home — pink hero with nav](https://design.withfudge.com/share/pin-9130)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/share/pin-9130)
 
-[![Home — hero alternate](https://pin.fontofweb.com/8777?format=jpg)](https://design.withfudge.com/share/pin-8777)
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/8777?format=jpg)](https://design.withfudge.com/share/pin-8777)
 
-[Home — hero alternate](https://design.withfudge.com/share/pin-8777)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/share/pin-8777)
 
-[![Home — mascot crop](https://pin.fontofweb.com/6968?format=jpg)](https://design.withfudge.com/share/pin-6968)
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6968?format=jpg)](https://design.withfudge.com/share/pin-6968)
 
-[Home — mascot crop](https://design.withfudge.com/share/pin-6968)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/share/pin-6968)
 
-[![Home — wide older capture](https://pin.fontofweb.com/667?format=jpg)](https://design.withfudge.com/share/pin-667)
+[![Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://pin.fontofweb.com/6967?format=jpg)](https://design.withfudge.com/share/pin-6967)
 
-[Home — wide older capture](https://design.withfudge.com/share/pin-667)
+[Design That's Crazy Good – Crazy Creative by Nick Jacoy](https://design.withfudge.com/share/pin-6967)
 
-[![Home — matching viewport](https://pin.fontofweb.com/6967?format=jpg)](https://design.withfudge.com/share/pin-6967)
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/670?format=jpg)](https://design.withfudge.com/share/pin-670)
 
-[Home — matching viewport](https://design.withfudge.com/share/pin-6967)
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/share/pin-670)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/669?format=jpg)](https://design.withfudge.com/share/pin-669)
+
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/share/pin-669)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/668?format=jpg)](https://design.withfudge.com/share/pin-668)
+
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/share/pin-668)
+
+[![Design That's Crazy Good – Crazy Creative](https://pin.fontofweb.com/667?format=jpg)](https://design.withfudge.com/share/pin-667)
+
+[Design That's Crazy Good – Crazy Creative](https://design.withfudge.com/share/pin-667)
+
+## Design character
+
+crazycreative.design has a predominantly dark surface treatment across 35 captured pages. The strongest recurring signals are 3 captured type families, 6 recurring colors, and 23 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **35 pages** and 8 representative page references. It records 378 color rows, 22 typography rows, 13 spacing rows, 7 border rows, 3 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · main | 3638 |
+| `#ff66c8` | background-color · main | 695 |
+| `#ffffff` | color · main | 522 |
+| `#0000ee` | color · button | 60 |
+| `#121212` | color · main | 10 |
+| `#ffd600` | background-color · main | 9 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 12px · 400 · normal | 1935 |
+| **Bricolage Grotesque 96 Pt** | 130px · 400 · 110.5px | 440 |
+| **Bricolage Grotesque** | 28px · 400 · 39.2px | 92 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 24px` for padding, `20px 24px 22px` for padding, and `20px 30px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 40px 40px 0px 0px` (673) and `0px none 100px` (9). 3 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 35 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#ff66c8`
+- `#ffffff`
+- `#0000ee`
+- `#121212`
+- `#ffd600`
+
+## Typography captured from crazycreative.design
+
+- **System** — weight 400 · size 12px
+- **Bricolage Grotesque 96 Pt** — weight 400 · size 130px
+- **Bricolage Grotesque** — weight 400 · size 28px

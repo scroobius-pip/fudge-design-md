@@ -2,105 +2,87 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/demo.refero.design-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-The Refero demo is a **dark AI research workspace** for exploring UI patterns: a near-black canvas, floating charcoal panels, and screenshot grids that behave like search results. Chrome is minimal and conversational — a pill title, a reasoning transcript, result modules, and a bottom follow-up composer — so the captured product screenshots remain the brightest objects on screen.
-
-What should survive adaptation:
-
-- **Editor-dark environment** (not pure OLED black everywhere — elevated panels sit slightly lighter).
-- **Card-stacked conversation** with clear module boundaries and soft 12–16px rounding.
-- **Thumbnail grids** of real UI captures as the primary content units.
-- Typography that stays **small and UI-like** (14–16px); drama comes from the screenshots, not display type.
-
-## Foundations
-
-### Color
-
-No measured palette roles. Visual reading:
-
-- **Page canvas**: deep near-black.
-- **Elevated panels**: dark charcoal / graphite cards for reasoning, result groups, and composer.
-- **Primary text**: off-white to light gray.
-- **Secondary / meta**: dimmer gray for labels like “Platform: web”, “Limit: 20”, captions under thumbs.
-- **Hairlines**: subtle 1px borders separating panel edges and grid cells.
-- **Accent**: minimal — a small info icon and link affordances; no loud brand hue dominates the chrome.
-
-Keep color energy inside the embedded screenshots; the shell should stay monochrome.
-
-### Typography
-
-Family not captured. System reads as a neutral UI sans.
-
-| Role | Size / weight | Notes |
-| --- | --- | --- |
-| Body / reasoning | 16px / 400, lh 24 | Dominant reading text |
-| Meta / chips / captions | 14px / 400–500, lh ~20 | Labels, platform tags, filenames |
-| Small UI | 12–15px / 500–600 | Sparse secondary controls |
-| Titles | ~14–16px medium in dark pills | Session title in top capsule |
-
-No marketing display scale appears in these captures — it is an application surface.
-
-### Spacing and layout
-
-- Horizontal padding common at **16 / 24 / 32px** inside panels.
-- Top padding near **96px** for the main column; bottom composer reserved.
-- Centered column with large side margins (~325–340px) on wide viewports — content reads as a focused chat column, not full-bleed.
-- Result modules: internal grids of screenshot tiles with short captions; “N more” overflow tiles.
-- Vertical rhythm between stacked cards is comfortable (order-of **16–24px** gaps), not cramped.
-
-## Visual language
-
-- **Radii**: 16px dominant on large panels; 12px on many nested tiles; 6px on small controls; occasional full-pill values on chips.
-- **Borders**: 1px solid around cards and many thumbnail frames.
-- **Shadows**: very subtle (0 1px 2px) plus flat zero-offset shadows — elevation is slight, not dramatic.
-- **Imagery**: rectangular UI screenshots with light backgrounds contrasting the dark shell; mobile and desktop thumbs mixed in separate modules.
-- **Top session pill**: dark capsule with close affordance + study title.
-
-## Components and states
-
-1. **Session title chip** — centered top capsule, dismiss control.
-2. **User prompt bubble** — right-leaning dark rounded rectangle with the research request.
-3. **Reasoning block** — left rule + “Reasoning” label + structured plain text plan.
-4. **Result module** — header row (search query, platform, limit) + thumbnail grid + “View on Refero” text link.
-5. **Overflow tile** — “11 more ›” / “15 more ›” as a continuation cell in the grid.
-6. **Follow-up composer** — bottom full-width dark field, placeholder “Ask a follow-up question…”, send control.
-7. **Status footer** — quiet “N messages left today” meta under the column.
-
-Stills show completed answer state with multiple result modules; empty/loading states were not captured.
-
-## Responsive behavior
-
-Two wide desktop captures only (~1700×1310). The centered narrow column suggests the product is optimized as a focused workspace even on large screens. Mobile shell behavior is unknown.
-
-## Practical guidance
-
-**Preserve**
-
-- Dark shell, lighter content screenshots — never invert that relationship.
-- Modular stacked cards for each agent step (reason → web results → iOS results).
-- Compact UI type; let thumbnails provide visual variety.
-- Generous side margins that keep the conversation readable.
-
-**Avoid**
-
-- Bright white app chrome or colorful marketing gradients in the shell.
-- Oversized hero type — this is a tool, not a landing page.
-- Dense tables of metadata; prefer grids of pictures with short captions.
-- Heavy shadows or skeuomorphic depth; keep elevation whisper-quiet.
-
-## Evidence scope
-
-Two homepage/demo workspace captures classified as an editor workspace. No measured colors, font families, or mobile layouts. Guidance is strongest for the dark research-chat presentation shown in the pins.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Research chat — reasoning and web/iOS grids](https://pin.fontofweb.com/7786?format=jpg)](https://design.withfudge.com/share/pin-7786)
+[![Refero Research](https://pin.fontofweb.com/7786?format=jpg)](https://design.withfudge.com/share/pin-7786)
 
-[Research chat — reasoning and web/iOS grids](https://design.withfudge.com/share/pin-7786)
+[Refero Research](https://design.withfudge.com/share/pin-7786)
 
-[![Workspace — stacked result modules on dark shell](https://pin.fontofweb.com/7776?format=jpg)](https://design.withfudge.com/share/pin-7776)
+[![Refero Research](https://pin.fontofweb.com/7776?format=jpg)](https://design.withfudge.com/share/pin-7776)
 
-[Workspace — stacked result modules on dark shell](https://design.withfudge.com/share/pin-7776)
+[Refero Research](https://design.withfudge.com/share/pin-7776)
+
+## Design character
+
+demo.refero.design has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 1 captured type family, 6 recurring colors, and 36 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 73 color rows, 24 typography rows, 22 spacing rows, 10 border rows, 0 gradient rows, and 4 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#fafafa` | color · unknown | 2333 |
+| `#000000` | background-color · unknown | 2329 |
+| `#a1a1aa` | color · button | 197 |
+| `#27272a` | background-color · button | 129 |
+| `#18181b` | color · button | 4 |
+| `#09090b` | background-color · button | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **System** | 16px · 400 · 24px | 2454 |
+
+### Spacing and layout
+
+The most repeated spacing values are `96px 24px 24px` for padding, `0px 325.5px` for margin, `32px` for padding, `0px 0px 0px 16px` for padding, `8px 0px 0px` for margin, and `20px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 16px` (97), `1px solid 12px` (53), `1px 0px 0px solid 0px` (22), `0px none 6px` (4), `1px solid 16px` (4), and `0px none 12px` (1). 0 gradient rows and 4 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#fafafa`
+- `#000000`
+- `#a1a1aa`
+- `#27272a`
+- `#18181b`
+- `#09090b`
+
+## Typography captured from demo.refero.design
+
+- **System** — weight 400 · size 16px

@@ -2,70 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Google Analytics is **Material-era enterprise calm**: light gray page ground, white rounded metric cards, blue data ink, and dense-but-airy dashboard composition. Numbers are the heroes; chrome stays neutral so trends, deltas, and tables remain legible for long sessions.
-
-What should survive adaptation:
-- White cards on light gray canvas
-- Google blue (`#1a73e8`) for series, links, and key actions
-- Large KPI figures with small muted labels
-- Green/red delta semantics without turning the whole UI into traffic lights
-
-## Foundations
-
-### Color
-
-Measured swatches seen across pages: `#1a73e8`, `#000000`, `#5f6368`, `#333333`. Supporting grays (`#5f6368`, `#333333`) handle secondary labels. Page background is cooler light gray; cards are white. Charts use blue primary lines with lighter fills/bands.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 13px, lh 14.95px
-- **text**: unknown, weight 500, 14px, lh 14px
-- **text**: unknown, weight 500, 14px, lh 21px
-- **text**: unknown, weight 500, 14px, lh 20px
-- **text**: unknown, weight 500, 14px, lh 16.1px
-- **text**: unknown, weight 500, 18px, lh 24px
-- **text**: unknown, weight 500, 14px, lh 14px
-- **text**: unknown, weight 400, 13px, lh 20px
-- **text**: unknown, weight 500, 14px, lh 18px
-- **text**: unknown, weight 500, 14px, lh 16px
-- **text**: unknown, weight 400, 12px, lh 13.8px
-- **text**: unknown, weight 500, 14px, lh 16px
-
-UI sans throughout. KPI numbers are large and medium-weight; chart axes and table cells shrink; card titles sit between. No decorative display faces inside the app shell.
-
-### Spacing and layout
-
-Recurring spacing measurements include 4px, 8px, 14px, 20px, 24px, 32px, 36px, 40px, 46px. Dashboard modules sit in a responsive card grid with consistent gutters. Realtime side cards pair with main trend cards. Observed corner radii include 8px, 22px. Prefer 12–16px-class soft rounding on cards.
-
-## Visual language
-
-Subtle card shadows, hairline borders, chip filters, and icon+label rows. Charts are flat line/bar with restrained fills. Empty/loading states should stay as quiet as populated ones.
-
-## Components and states
-
-- App top bar / property context (when visible)
-- Metric cards with title, big number, delta, sparkline/chart
-- Realtime panel with per-minute bars and country list
-- Recently accessed shortcut cards
-- Text buttons/links in brand blue
-
-## Responsive behavior
-
-Captures are mid-width dashboard views (~1270–1290px). Expect cards to reflow from multi-column to stacked single column; keep KPI type from shrinking below scannable sizes.
-
-## Practical guidance
-
-**Preserve** card-on-gray structure, blue data accent, delta coloring discipline, dense clarity.  
-**Avoid** dark-mode gimmicks that fight Material light analytics norms, rainbow multi-series chaos, heavy illustration.
-
-## Scope note
-
-Studied 2 page captures on paths /analytics/web/. Some structural families were incomplete on these pages. Only /analytics/web/ app home-style dashboards were captured—not Admin or Explore deep tools.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -77,9 +14,85 @@ Studied 2 page captures on paths /analytics/web/. Some structural families were 
 
 [Analytics | Home](https://design.withfudge.com/share/pin-6040)
 
+## Design character
+
+analytics.google.com has a predominantly light surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 10 recurring colors, and 11 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 47 color rows, 16 typography rows, 8 spacing rows, 3 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#202124` | color · main | 385 |
+| `#f1f3f4` | background-color · main | 377 |
+| `#000000` | color · main | 225 |
+| `#5f6368` | color · button | 28 |
+| `#1a73e8` | color · main | 11 |
+| `#1967d2` | color · button | 7 |
+| `#188038` | color · main | 6 |
+| `#d93025` | color · main | 6 |
+| `#333333` | color · main | 4 |
+| `#dadce0` | border-color · button | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Roboto** | 13px · 400 · 20px | 581 |
+| **Google Sans 18 Pt** | 18px · 500 · 24px | 52 |
+
+### Spacing and layout
+
+The most repeated spacing values are `36px 24px 0px 8px` for margin, `24px 40px 40px 32px` for padding, `46px 0px 0px` for margin, `20px 0px 0px` for padding, `0px 24px` for padding, and `0px 0px 14px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 8px` (377), `0.909091px solid 22px` (3), and `1.81818px 1.81818px 0px 0px solid 0px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#1a73e8`
+- `#202124`
+- `#f1f3f4`
 - `#000000`
 - `#5f6368`
+- `#1a73e8`
+- `#1967d2`
+- `#188038`
+- `#d93025`
 - `#333333`
+- `#dadce0`
+
+## Typography captured from analytics.google.com
+
+- **Roboto** — weight 400 · size 13px
+- **Google Sans 18 Pt** — weight 500 · size 18px

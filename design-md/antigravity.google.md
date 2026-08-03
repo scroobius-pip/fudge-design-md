@@ -2,62 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/antigravity.google-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Antigravity’s Google marketing surfaces are **light, product-clear, and changelog-honest**: white/light gray canvases, blue text links, simple sans typography, and straightforward screenshots. It reads as a Google product family page—less theatrical than third-party AI brands, more documentation-adjacent marketing.
-
-What should survive adaptation:
-- Light surfaces and clear blue link/action color
-- Straightforward sans hierarchy
-- Changelog/list typography that stays scannable
-- Product screenshots with modest framing, not heavy fake 3D
-
-## Foundations
-
-### Color
-
-No stable measured palette roles were retained across these pages; rely on the visual description. Visually: white page, near-black text, Google-like blue links, soft gray dividers. Keep multi-color Google logo moments isolated to brand marks, not full-page rainbow fills.
-
-### Typography
-
-Observed text styles:
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 400, 16px, lh 24px
-- **text**: unknown, weight 500, 32px, lh 35.2px
-
-Product sans for everything. Titles medium-large; body comfortable; changelog entries compact with clear dates/titles. Avoid serif display that would drift toward magazine tone.
-
-### Spacing and layout
-
-Recurring spacing measurements include 8px, 72px. Standard marketing sections, pricing or use-case grids where present, and list layouts on changelog. Corner radii are modest where present; prefer screenshot judgment over inventing a scale. Auth-success pages stay sparse and centered.
-
-## Visual language
-
-Flat Material-adjacent cards, light borders, modest radii. Screenshots sit in simple containers. Icons are functional. Motion should be minimal in still-derived guidance.
-
-## Components and states
-
-- Product header/nav
-- Hero with product name + short promise
-- Use-case cards and feature rows
-- Changelog list entries
-- Pricing modules when on `/pricing`
-- Auth success confirmation state
-
-## Responsive behavior
-
-Multiple paths/widths (~1689–1711px class) still show desktop marketing. Stack cards on smaller screens; keep changelog as a single column list.
-
-## Practical guidance
-
-**Preserve** light clarity, blue actions, changelog scannability, Google-product sobriety.  
-**Avoid** dark neon AI skins that fight the captured light system.
-
-## Scope note
-
-Studied 8 page captures on paths /auth-success, /changelog, /pricing, /product, /use-cases, /use-cases/professional. Some structural families were incomplete on these pages. Auth success, use cases, changelog, pricing/product paths were in the capture set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -73,6 +18,10 @@ Studied 8 page captures on paths /auth-success, /changelog, /pricing, /product, 
 
 [Google Antigravity Changelog](https://design.withfudge.com/share/pin-5616)
 
+[![Google Antigravity Changelog](https://pin.fontofweb.com/5615?format=jpg)](https://design.withfudge.com/share/pin-5615)
+
+[Google Antigravity Changelog](https://design.withfudge.com/share/pin-5615)
+
 [![Google Antigravity Pricing](https://pin.fontofweb.com/5033?format=jpg)](https://design.withfudge.com/share/pin-5033)
 
 [Google Antigravity Pricing](https://design.withfudge.com/share/pin-5033)
@@ -81,14 +30,77 @@ Studied 8 page captures on paths /auth-success, /changelog, /pricing, /product, 
 
 [Google Antigravity Product](https://design.withfudge.com/share/pin-4837)
 
+[![Google Antigravity Product](https://pin.fontofweb.com/4836?format=jpg)](https://design.withfudge.com/share/pin-4836)
+
+[Google Antigravity Product](https://design.withfudge.com/share/pin-4836)
+
 [![Google Antigravity - Use Case: Professional](https://pin.fontofweb.com/4835?format=jpg)](https://design.withfudge.com/share/pin-4835)
 
 [Google Antigravity - Use Case: Professional](https://design.withfudge.com/share/pin-4835)
 
-[![Google Antigravity Changelog](https://pin.fontofweb.com/5615?format=jpg)](https://design.withfudge.com/share/pin-5615)
+## Design character
 
-[Google Antigravity Changelog](https://design.withfudge.com/share/pin-5615)
+antigravity.google has a mixed light and dark surface treatment across 20 captured pages. The strongest recurring signals are 2 captured type families, 2 recurring colors, and 2 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
 
-[![Google Antigravity Product](https://pin.fontofweb.com/4836?format=jpg)](https://design.withfudge.com/share/pin-4836)
+## Overview
 
-[Google Antigravity Product](https://design.withfudge.com/share/pin-4836)
+The captured set includes **20 pages** and 8 representative page references. It records 151 color rows, 3 typography rows, 2 spacing rows, 0 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#121317` | color · header | 67 |
+| `#202124` | color · main | 60 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Google Sans Flex** | 16px · 400 · 24px | 67 |
+| **Google Sans** | 16px · 400 · 24px | 60 |
+
+### Spacing and layout
+
+The most repeated spacing values are `8px 0px` for padding and `0px 72px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+No repeated border shape was returned. 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **header**, **image**, and **main**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 20 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#121317`
+- `#202124`
+
+## Typography captured from antigravity.google
+
+- **Google Sans Flex** — weight 400 · size 16px
+- **Google Sans** — weight 400 · size 16px

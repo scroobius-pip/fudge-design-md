@@ -2,124 +2,85 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/footer.design-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-footer.design is a **dark gallery of website footers** — a reference product that treats the bottom of the page as the subject. The shell is almost pure black with quiet gray type; the content is a dense masonry of real site footers, each shown as a rounded preview card. The mood is archival, designer-facing, and slightly editorial: labels like “Grid Footers,” category chips, and short case blurbs sit beside large cropped footer specimens rather than marketing hero copy.
-
-What should survive adaptation:
-
-- A **near-black canvas** with soft charcoal cards and one high-contrast accent only when the specimen itself brings it (e.g. acid lime “INVERSA” wordmark).
-- **Footer-as-artifact** presentation: full-width or multi-column footer crops inside rounded frames, not tiny thumbnails.
-- Quiet **gallery chrome** — small sans labels, pill “View Website” actions, hairline dividers — that never competes with the specimen.
-- Generous **card radius** and restrained spacing so the grid feels collectible, not dashboard-like.
-
-## Foundations
-
-### Color
-
-No structured role palette was recorded. From the captures, the working system is:
-
-| Role | Hex (approx.) | Where it shows |
-|------|----------------|----------------|
-| Canvas | `#0b0b0b` – `#121212` | Page field behind the grid |
-| Card / specimen well | `#141414` – `#1a1a1a` | Footer preview panels |
-| Primary text | `#f2f2f2` | Titles, nav |
-| Secondary text | `#8a8a8a` | Meta, descriptions, chips |
-| Hairline | `#2a2a2a` | Card edges, column rules inside dark footers |
-| Specimen accent | e.g. `#d8ff4a` lime | Only inside featured footers (Inversa), not chrome |
-
-Relationships that matter:
-
-- The product chrome stays **monochrome**; color is borrowed from the footers on display.
-- Contrast is high for titles, medium for body, low for structural lines — a museum-label hierarchy.
-
-### Typography
-
-No declared families were recorded. Visually the product UI is a single **neutral geometric sans**.
-
-Observed ladder (structured measurements):
-
-| Role | Size | Weight | Line height | Notes |
-|------|------|--------|-------------|-------|
-| Body / card copy | 18px | 400 | 25.2px | Dominant reading size in grid |
-| Meta / chips | 14px | 500–600 | ~14–21px | Labels, filters |
-| Section title | 32px | 600 | 32px | Style names (“Grid Footers”) |
-
-Headlines on specimens (huge wordmarks like INVERSA) belong to the source brands, not the product type system.
-
-### Spacing and layout
-
-Recurring product rhythm:
-
-- Grid card padding clusters around **40px** on the style index and **13–16px** on tighter site detail views.
-- Cards use very large corner rounding (structured ~1600px effectively full-pill/soft rectangle on some chrome).
-- Layout is a **multi-column masonry/grid of footer crops** with a left narrative column on detail pages (“Inversa” blurb + View Website).
-
-## Visual language
-
-- **Shape:** soft rounded rectangles for cards and CTAs; specimen footers keep their own geometry (3-column contact grids, full-bleed wordmarks).
-- **Borders:** hairline 1px solid dividers inside dark footers and between gallery modules.
-- **Imagery:** the “image” is the footer itself — often typographic or logo-led, occasionally photographic only if the source site is.
-- **Motion:** not established from stills.
-
-## Components and states
-
-Recurring UI:
-
-1. **Style index header** — title + short definition of the footer pattern.
-2. **Specimen card** — cropped live footer, sometimes with multi-column CONTACT / CONNECT / SUBSCRIBE blocks.
-3. **Detail split** — left: brand name, paragraph, pill “View Website →”; right: stacked footer modules.
-4. **Mega wordmark strip** — full-width brand lockup under the footer grid (Inversa lime on black).
-5. **Quiet footer chrome** — copyright, privacy, “Crafted by…” micro links.
-
-Visible states are default gallery and hover is not evidenced in stills; CTAs read as static pills.
-
-## Responsive behavior
-
-Captures span ~1050–1710px wide viewports. On narrower frames the detail page stacks narrative above or beside a single footer stack; the style index keeps multi-card density where width allows. No separate mobile type tokens were measured beyond the same 14/18px UI sizes.
-
-## Practical guidance
-
-**Preserve**
-
-- Black gallery field and monochrome chrome.
-- Footer specimens as large, readable artifacts.
-- 18px body as the default reading size in the product UI.
-- One accent only when it comes from the featured brand.
-
-**Avoid**
-
-- Turning the shell into a bright marketing site.
-- Over-labeling cards with badges that fight the specimen.
-- Inventing a colorful product palette unrelated to the footers.
-- Tight dashboard density; this is a catalog, not an admin table.
-
-## Scope note
-
-Studied three captures: Grid Footers index (`/styles/grid`), Inversa site detail (`/sites/inversa`), and Mesh Optical detail (`/sites/mesh-optical`). Structured color roles, fonts, shadows, and media metadata were largely unavailable — color and material notes lean on screenshot reading. Spacing observations on the index were partially truncated.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Grid Footers index](https://pin.fontofweb.com/7028?format=jpg)](https://design.withfudge.com/share/pin-7028)
+[![Footer | Inversa](https://pin.fontofweb.com/7029?format=jpg)](https://design.withfudge.com/share/pin-7029)
 
-[Grid Footers index](https://design.withfudge.com/share/pin-7028)
+[Footer | Inversa](https://design.withfudge.com/share/pin-7029)
 
-[![Inversa specimen detail](https://pin.fontofweb.com/7029?format=jpg)](https://design.withfudge.com/share/pin-7029)
+[![Footer | Grid Footers — The only footer gallery on earth.](https://pin.fontofweb.com/7028?format=jpg)](https://design.withfudge.com/share/pin-7028)
 
-[Inversa specimen detail](https://design.withfudge.com/share/pin-7029)
+[Footer | Grid Footers — The only footer gallery on earth.](https://design.withfudge.com/share/pin-7028)
 
-[![Mesh Optical specimen](https://pin.fontofweb.com/7027?format=jpg)](https://design.withfudge.com/share/pin-7027)
+[![Footer | Mesh Optical](https://pin.fontofweb.com/7027?format=jpg)](https://design.withfudge.com/share/pin-7027)
 
-[Mesh Optical specimen](https://design.withfudge.com/share/pin-7027)
+[Footer | Mesh Optical](https://design.withfudge.com/share/pin-7027)
+
+## Design character
+
+footer.design has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 1 captured type family, 3 recurring colors, and 15 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 64 color rows, 21 typography rows, 8 spacing rows, 7 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#ffffff` | color · main | 1269 |
+| `#000000` | background-color · main | 1155 |
+| `#242424` | color · header | 1 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 18px · 400 · 25.2px | 1157 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 40px` for padding, `40px 0px` for padding, `0px 0px 40px` for margin, `13px 16px` for padding, and `8px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 0px` (93), `0px none 1600px` (21), and `0px none 4px` (2). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **image**, **header**, and **nav**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0b0b0b`
-- `#141414`
-- `#1a1a1a`
-- `#2a2a2a`
-- `#8a8a8a`
-- `#f2f2f2`
-- `#d8ff4a`
+- `#ffffff`
+- `#000000`
+- `#242424`
+
+## Typography captured from footer.design
+
+- **Inter** — weight 400 · size 18px

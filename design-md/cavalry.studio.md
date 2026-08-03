@@ -2,132 +2,105 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cavalry.studio-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Cavalry presents itself as a **professional 2D motion tool that markets like a premium creative app**: near-black full-bleed canvases, oversized white headlines, and a single electric purple used sparingly for primary actions. The product UI itself becomes the hero art—timeline panels, node graphs, and viewport chrome sit behind or beside marketing copy rather than being illustrated abstractly.
-
-What should survive adaptation:
-
-- A **dark, high-contrast shell** where interface chrome stays quiet and type/CTA carry the brand.
-- **One vivid accent** (purple) reserved for primary downloads and key interactive moments.
-- **Product-screenshot-as-hero** composition: real tool surfaces, not stock metaphor imagery.
-- Soft, modern rounding on buttons and cards without going fully pill-shaped everywhere.
-
-## Foundations
-
-### Color
-
-Measured roles and visual reading of the home captures:
-
-| Role | Value | Notes |
-|------|-------|-------|
-| Canvas / page | near `#0a0a0a`–`#111111` | Continuous dark field |
-| Primary text | `#ffffff` | Headlines and key UI labels |
-| Accent / primary CTA | `#6437ff` | Solid filled buttons (“Download Free”) |
-| Secondary surfaces | charcoal panels slightly above canvas | Nested product chrome |
-
-Secondary labels and muted body copy read as light gray on dark (visual). Do not invent a large rainbow palette—the system is essentially monochrome + one accent.
-
-### Typography
-
-Declared font families were not captured. Visually and by measured sizes, the hierarchy is a clean **geometric sans** stack:
-
-- Display / hero: ~**64px**, weight 400, tight line-height (~70px) — short marketing lines
-- Section heads: ~**32px**, 400–600
-- Subheads / lead: ~**21–24px**
-- Body / UI: ~**14–16px**, 400–600, ~22–24px line-height
-- Small labels: ~**13–14px**
-
-Weight jumps (400 → 600) matter more than size jumps for mid-level emphasis. Tracking stays neutral.
-
-### Spacing and layout
-
-Recurring measurements:
-
-- Section vertical padding often **80px**, with tighter **24–40px** blocks inside
-- Horizontal content padding ~**40px** (sometimes 16–24px in denser strips)
-- Side margins around **212px** on wide captures (centered content column)
-- Small stack gaps **8–16px** between label groups
-
-Layout is a classic marketing scroll: hero → feature sections → product proof, single column with full-width media.
-
-## Visual language
-
-- **Radii:** buttons and cards cluster around **16–22px** (occasional 24px). Friendly but still “tool,” not consumer-playful.
-- **Borders:** 1px solid edges appear on panels and chrome separators.
-- **Shadows:** not a defining layer; depth comes from value contrast and overlapping product screenshots.
-- **Imagery:** live product UI (timelines, graphs, 3D/2D viewports). Screenshots are large, slightly perspectival or layered, never cropped into tiny icons only.
-- **Motion:** not established from stills; the brand implies motion through tool content, not decorative UI animation claims.
-
-## Components and states
-
-Recurring UI:
-
-1. **Primary pill CTA** — solid `#6437ff`, white label, generous horizontal padding, ~16–22px radius.
-2. **Text nav** — small white/gray links in a slim top bar; logo left, actions right.
-3. **Hero stack** — eyebrow or short line → massive headline → supporting sentence → CTA row.
-4. **Feature sections** — large title + paragraph + product still; alternating emphasis.
-5. **Card grids** — rounded containers (~16px) for feature or template groups.
-
-Only resting/default states are visible; hover/focus were not captured.
-
-## Responsive behavior
-
-Captures span roughly **1425–1712px** widths on the same `/en/` path. The system stays single-column marketing with centered content; side margins shrink as width drops. No separate mobile breakpoint captures were in this set—do not invent phone layouts.
-
-## Practical guidance
-
-**Preserve**
-
-- Dark canvas + white type + single purple CTA
-- Product UI as primary imagery
-- Large display type with restrained body sizes
-- Soft 16–22px rounding on interactive chrome
-
-**Avoid**
-
-- Multi-color gradients as brand chrome
-- Light-mode default without a deliberate dual theme
-- Sharp zero-radius enterprise cards that fight the product’s softer UI
-- Crowding the hero with more than one strong accent color
-
-## Scope note
-
-Studied seven home captures of `https://cavalry.studio/en/` at desktop widths. Color roles, spacing, radii, and borders were measured; declared type families, palette swatches, and true multi-page IA were not available. Inner docs/pricing pages were not in the set.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home hero — purple CTA over tool UI](https://pin.fontofweb.com/8893?format=jpg)](https://design.withfudge.com/share/pin-8893)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8899?format=jpg)](https://design.withfudge.com/share/pin-8899)
 
-[Home hero — purple CTA over tool UI](https://design.withfudge.com/share/pin-8893)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8899)
 
-[![Home — mid-page features](https://pin.fontofweb.com/8894?format=jpg)](https://design.withfudge.com/share/pin-8894)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8898?format=jpg)](https://design.withfudge.com/share/pin-8898)
 
-[Home — mid-page features](https://design.withfudge.com/share/pin-8894)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8898)
 
-[![Home — capability strip](https://pin.fontofweb.com/8895?format=jpg)](https://design.withfudge.com/share/pin-8895)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8897?format=jpg)](https://design.withfudge.com/share/pin-8897)
 
-[Home — capability strip](https://design.withfudge.com/share/pin-8895)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8897)
 
-[![Home — rounded cards ~16px](https://pin.fontofweb.com/8896?format=jpg)](https://design.withfudge.com/share/pin-8896)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8896?format=jpg)](https://design.withfudge.com/share/pin-8896)
 
-[Home — rounded cards ~16px](https://design.withfudge.com/share/pin-8896)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8896)
 
-[![Home — wider section pad](https://pin.fontofweb.com/8897?format=jpg)](https://design.withfudge.com/share/pin-8897)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8895?format=jpg)](https://design.withfudge.com/share/pin-8895)
 
-[Home — wider section pad](https://design.withfudge.com/share/pin-8897)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8895)
 
-[![Home — product detail](https://pin.fontofweb.com/8898?format=jpg)](https://design.withfudge.com/share/pin-8898)
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8894?format=jpg)](https://design.withfudge.com/share/pin-8894)
 
-[Home — product detail](https://design.withfudge.com/share/pin-8898)
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8894)
+
+[![Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://pin.fontofweb.com/8893?format=jpg)](https://design.withfudge.com/share/pin-8893)
+
+[Free 2D animation & motion graphics software for Mac and Windows | Cavalry](https://design.withfudge.com/share/pin-8893)
+
+## Design character
+
+cavalry.studio has a predominantly dark surface treatment across 7 captured pages. The strongest recurring signals are 2 captured type families, 4 recurring colors, and 53 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **7 pages** and 7 representative page references. It records 181 color rows, 58 typography rows, 37 spacing rows, 16 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | background-color · footer | 3296 |
+| `#ffffff` | color · footer | 2185 |
+| `#6437ff` | color · main | 228 |
+| `#ffff00` | background-color · main | 10 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Canva Sans** | 14px · 400 · 22px | 2710 |
+| **Arial** | 18px · 600 · 24px | 13 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 212.5px` for margin, `80px 40px` for padding, `24px` for padding, `0px 0px 16px` for margin, `80px 40px 0px` for padding, and `40px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px solid 16px` (216), `1px solid 22px` (57), `0px none 22px` (2), and `0px none 24px` (1). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **footer**, **nav**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 7 representative pages selected from 7 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#0a0a0a`
-- `#111111`
+- `#000000`
 - `#ffffff`
 - `#6437ff`
-- `#1a1a1a`
-- `#2a2a2a`
+- `#ffff00`
+
+## Typography captured from cavalry.studio
+
+- **Canva Sans** — weight 400 · size 14px
+- **Arial** — weight 600 · size 18px

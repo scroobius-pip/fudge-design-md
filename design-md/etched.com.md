@@ -2,101 +2,17 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/etched.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-Etched is a semiconductor company that markets like a design studio. The site sits on a warm off-white paper canvas with near-black ink type, generous empty space, and one decisive black pill call-to-action. Headlines are enormous and set in a high-contrast serif; body copy is calm sans. The overall effect is quiet luxury for deep-tech — more gallery wall than product landing page.
-
-What should survive adaptation:
-- Warm paper canvas, not pure digital white or cool gray.
-- Massive serif display lines that can break across two or three rows.
-- A single hard black pill CTA; avoid rainbow accent systems.
-- Wide horizontal margins and section breathing room (~48px vertical gaps, ~20–70px side padding).
-
-## Foundations
-
-### Color
-
-Measured structured color roles were not available. From the captured pages, the system is essentially monochrome on warm paper:
-- Canvas: warm cream / paper white
-- Primary text and logo: near-black ink
-- Secondary UI chrome (nav links, footers): softer charcoal
-- Primary action: solid black pill with white label
-- Decorative photography and metal 3D marks introduce graphite and silver only as imagery, not as UI chrome
-
-Do not introduce brand blues or neon accents; the restraint is the brand.
-
-### Typography
-
-Declared font families were not captured. Observed sizes on the join and home crops:
-- Display: ~68–96px, weight 400, tight leading (often 1.0)
-- Section titles and mid-heads: ~20px / 24px
-- Body: ~16px / 24px
-- Meta / small labels: ~12–14px
-
-The hierarchy is extreme: one monumental line, then a short supporting sentence, then UI. Display is a classical high-contrast serif; UI and body read as a clean grotesque.
-
-### Spacing and layout
-
-Recurring spacing:
-- Side padding ~20px on tighter crops, ~70px on wider marketing bands
-- Large top margins ~48px between major blocks
-- Section bottom padding often ~105px
-- Content is centered with wide outer margins (~134px left/right on full desktop frames)
-
-Layout is single-column hero → sparse feature strips → simple footer. No dense card grids on the primary marketing surfaces.
-
-## Visual language
-
-- Corners: mostly sharp or lightly softened; no playful bubble radii in primary chrome.
-- Borders: 1px solid rules appear on cards and dividers.
-- Imagery: metallic 3D glyphs and product photography float in open space; treated as sculpture, not thumbnails in a grid.
-- Shadows: largely absent; depth comes from photography, not drop shadows.
-- Motion: not established from still captures.
-
-## Components and states
-
-- Top nav: wordmark left, text links, one black pill CTA right (“Join us” / similar).
-- Hero: multi-line serif headline, one sentence of support, optional secondary text link.
-- Join page: same system with application-oriented copy and the same black pill.
-- Footer: minimal link row on the paper ground.
-
-Visible default states only; hover/focus were not captured.
-
-## Responsive behavior
-
-Multiple crops show the same type scale and paper system from wide desktop (~1700px) down toward narrower frames. The hero type stays large; side padding compresses before type does. A full multi-breakpoint matrix was not captured.
-
-## Practical guidance
-
-**Preserve**
-- Paper warmth + black ink + one pill CTA
-- Serif display that owns the first screen
-- Museum-like spacing; let empty canvas do the work
-
-**Avoid**
-- Cool gray SaaS backgrounds
-- Multi-color button hierarchies
-- Dense feature card walls and gradient meshes
-- Shrinking display type into a generic 32–40px H1
-
-**Adaptation**
-Use the system for deep-tech or hardware brands that want editorial gravitas. Keep photography sculptural and monochrome-adjacent.
-
-## Scope note
-
-Studied home and /join captures (8 total, mixed full frames and section crops). Structured color roles, radii, shadows, and font family names were unsupported; color and type character above combine spacing/type measurements with visual reading of the screenshots.
+Last updated: 2026-08-03
 
 ## Captured pages
-
-[![Etched](https://pin.fontofweb.com/9867?format=jpg)](https://design.withfudge.com/share/pin-9867)
-
-[Etched](https://design.withfudge.com/share/pin-9867)
 
 [![Join Us | Etched](https://pin.fontofweb.com/9873?format=jpg)](https://design.withfudge.com/share/pin-9873)
 
 [Join Us | Etched](https://design.withfudge.com/share/pin-9873)
+
+[![Join Us | Etched](https://pin.fontofweb.com/9872?format=jpg)](https://design.withfudge.com/share/pin-9872)
+
+[Join Us | Etched](https://design.withfudge.com/share/pin-9872)
 
 [![Etched](https://pin.fontofweb.com/9871?format=jpg)](https://design.withfudge.com/share/pin-9871)
 
@@ -105,3 +21,94 @@ Studied home and /join captures (8 total, mixed full frames and section crops). 
 [![Etched](https://pin.fontofweb.com/9870?format=jpg)](https://design.withfudge.com/share/pin-9870)
 
 [Etched](https://design.withfudge.com/share/pin-9870)
+
+[![Etched](https://pin.fontofweb.com/9869?format=jpg)](https://design.withfudge.com/share/pin-9869)
+
+[Etched](https://design.withfudge.com/share/pin-9869)
+
+[![Etched](https://pin.fontofweb.com/9868?format=jpg)](https://design.withfudge.com/share/pin-9868)
+
+[Etched](https://design.withfudge.com/share/pin-9868)
+
+[![Etched](https://pin.fontofweb.com/9867?format=jpg)](https://design.withfudge.com/share/pin-9867)
+
+[Etched](https://design.withfudge.com/share/pin-9867)
+
+[![Etched](https://pin.fontofweb.com/9866?format=jpg)](https://design.withfudge.com/share/pin-9866)
+
+[Etched](https://design.withfudge.com/share/pin-9866)
+
+## Design character
+
+etched.com has a predominantly light surface treatment across 8 captured pages. The strongest recurring signals are 3 captured type families, 5 recurring colors, and 246 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **8 pages** and 8 representative page references. It records 155 color rows, 105 typography rows, 233 spacing rows, 13 border rows, 0 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 224412 |
+| `#ededed` | background-color · unknown | 51171 |
+| `#ffffff` | background-color · unknown | 308 |
+| `#e5e5e5` | background-color · main | 139 |
+| `#979797` | color · main | 48 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Söhne** | 16px · 400 · 24px | 214796 |
+| **Söhne Mono** | 12px · 400 · 10.2px | 462 |
+| **Applesystem** | 14px · 400 · normal | 228 |
+
+### Spacing and layout
+
+The most repeated spacing values are `134.5px` for margin-right, `134.5px` for margin-left, `20px` for padding-left, `20px` for padding-right, `0px 134.5px` for margin, and `0px 20px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid 0px` (5656), `1px solid 0px` (1046), `0px 0px 1px solid 0px` (515), `0px 1px 0px 0px solid 0px` (496), and `0px 1px solid 0px` (470). 0 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly light surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated light surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#ededed`
+- `#ffffff`
+- `#e5e5e5`
+- `#979797`
+
+## Typography captured from etched.com
+
+- **Söhne** — weight 400 · size 16px
+- **Söhne Mono** — weight 400 · size 12px
+- **Applesystem** — weight 400 · size 14px

@@ -2,88 +2,83 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dfinity.org-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-dfinity.org is a **cinematic black canvas** more than a conventional marketing site. The foundation presents itself through **monumental white headlines**, almost invisible chrome, and a continuous stack of full-bleed photographic chapters. It feels like a film title sequence mixed with an art-book scroll: sparse copy, huge type, and images that carry the brand’s sense of scale (labs, nature, infrastructure, people).
-
-What should survive adaptation:
-
-- True black field with white type as the primary contrast engine
-- Display type that can dominate half the viewport
-- Outlined/ghost pills instead of loud filled buttons in the hero
-- Photography-first storytelling with minimal UI chrome
-
-## Foundations
-
-### Color
-
-Structured palette roles were not returned for these captures. From the screens:
-
-- Canvas: near-pure **black**
-- Type and key UI: **white**
-- Secondary UI: translucent white borders / muted gray labels
-- Photography supplies the only full-color moments
-
-Do not force a bright brand accent into the hero unless you are deliberately leaving this system.
-
-### Typography
-
-No declared family in the capture set. Observed scale:
-
-- Hero display around **64px**, weights ~400–500, tight and monumental
-- Supporting lines ~16–18px
-- UI/chrome ~14px
-- Intermediate titles ~32px in lower chapters
-
-The display face reads slightly editorial/serif-leaning in the hero treatment; body remains simple sans. Tracking on huge lines stays controlled—not ultra-wide fashion spacing.
-
-### Spacing and layout
-
-Vertical rhythm is the design: large empty black bands, then a headline, then a full-bleed image chapter. Horizontal padding is generous (~24px+ gutters); some structural spacing hits ~80px between major blocks. Content is centered or left-anchored in a wide cinematic frame rather than a narrow reading column.
-
-## Visual language
-
-- Corners: captures show **pill-level rounding** on CTAs (effectively full-pill)
-- Borders: 1px light strokes on ghost buttons
-- Shadows: essentially none on UI; depth comes from photography
-- Imagery: high-resolution, full-bleed, editorial—labs, landscapes, portraits, abstract tech
-- The page reads as an **infinite vertical exhibition**
-
-## Components and states
-
-- **Primary hero CTA:** white outline pill, white label
-- **Nav:** minimal wordmark + few text links in white, low contrast against black
-- **Chapter blocks:** oversized caption or title over or under full-bleed media
-- No dense card grids or form-heavy UI in the studied home captures
-
-## Practical guidance
-
-**Preserve**
-
-- Black field + white monumental type
-- Ghost pills over saturated buttons
-- Photo chapters as the product
-- Extreme restraint in chrome
-
-**Avoid**
-
-- Turning it into a bright SaaS landing with feature grids
-- Small timid headlines
-- Heavy gradients, glassmorphism stacks, or colorful illustration mashups
-- Crowding the hero with multiple competing CTAs
-
-## Scope note
-
-Two home viewport captures (pins 7230, 7231). No measured role colors, declared fonts, or multi-page IA beyond the cinematic home scroll.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Cinematic black home — full viewport](https://pin.fontofweb.com/7230?format=jpg)](https://design.withfudge.com/share/pin-7230)
+[![The DFINITY Foundation](https://pin.fontofweb.com/7231?format=jpg)](https://design.withfudge.com/share/pin-7231)
 
-[Cinematic black home — full viewport](https://design.withfudge.com/share/pin-7230)
+[The DFINITY Foundation](https://design.withfudge.com/share/pin-7231)
 
-[![Home — wide short crop](https://pin.fontofweb.com/7231?format=jpg)](https://design.withfudge.com/share/pin-7231)
+[![The DFINITY Foundation](https://pin.fontofweb.com/7230?format=jpg)](https://design.withfudge.com/share/pin-7230)
 
-[Home — wide short crop](https://design.withfudge.com/share/pin-7231)
+[The DFINITY Foundation](https://design.withfudge.com/share/pin-7230)
+
+## Design character
+
+dfinity.org has a predominantly dark surface treatment across 2 captured pages. The strongest recurring signals are 2 captured type families, 3 recurring colors, and 8 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **2 pages** and 2 representative page references. It records 42 color rows, 10 typography rows, 5 spacing rows, 2 border rows, 1 gradient rows, and 0 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#000000` | color · unknown | 1607 |
+| `#0e031f` | border-color · main | 27 |
+| `#ffffff` | color · button | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **By Laurenz Brunner** | 16px · 400 · 24px | 456 |
+| **Circular Xx** | 64px · 500 · 76.8px | 352 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 0px 16px` for margin, `0px 0px 80px` for margin, `0px 0px 12px` for margin, `16px 0px` for padding, and `12px 24px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `1px 0px 0px solid 0px` (21) and `0px none 9999px` (3). 1 gradient rows and 0 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 2 representative pages selected from 2 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
+## Colors
+
+- `#000000`
+- `#0e031f`
+- `#ffffff`
+
+## Typography captured from dfinity.org
+
+- **By Laurenz Brunner** — weight 400 · size 16px
+- **Circular Xx** — weight 500 · size 64px

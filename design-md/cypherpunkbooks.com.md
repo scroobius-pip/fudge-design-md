@@ -2,123 +2,125 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cypherpunkbooks.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-The Cypherpunk Library is a **literary archive dressed as a quiet bookshop**: warm paper-like canvas, near-black olive text (`#1c1b12`), muted secondary taupe (`#6b6856`), and **book covers that cast real soft shadows**. Serif-leaning display titles sit large and calm; the UI never tries to look like a crypto exchange. Personality lives in the collection grid and long-form book pages, not in neon accents.
-
-What should survive adaptation:
-
-- **Warm neutral reading chrome** (ink on paper, not pure startup blue/white).
-- **Cover-first browsing** with soft multi-layer shadows on book art.
-- **Large serif-feeling display** (56–64px class) for collection and book titles.
-- Generous side margins (~262px class on wide desktop) and **56px** content gutters.
-- Sparse UI: 1px rules, small radii (2–7px), almost no loud CTAs.
-
-## Foundations
-
-### Color
-
-| Role | Value | Use |
-| --- | --- | --- |
-| Primary text | `#1c1b12` | Titles and body ink |
-| Secondary text | `#6b6856` | Meta, muted lines |
-| Accent / inverse | `#ffffff` | Light accents on darker treatments |
-
-Canvas reads as warm off-white/cream. Covers supply full-color art; chrome stays monochrome-warm.
-
-### Typography
-
-Declared families not retained; taxonomy marks **serif** for the system. Measured:
-
-- Display **56–64px** weight 500, often 1.0 line-height.
-- Section/card titles **19–22px** weight 500; body **16–19px** with open leading (~33px on 19px reading lines).
-- UI meta **11–15px**; micro labels down to ~8.5–12px.
-- Book pages favor long comfortable measures over marketing stack type.
-
-### Spacing and layout
-
-- Horizontal content pad **56px**; outer centering margins ~**262px** on 1712px frames.
-- Large bottom padding ~**140px** on major shells.
-- Collection grids: column-gap ~**28px**, row-gap ~**36px**; book layouts also use **72px** gaps in places.
-- Home can use tighter **24px** gaps in denser rows.
-
-## Visual language
-
-- **Near-square corners** (2–7px) on chrome; covers get the elevation story.
-- Shadows are intentional: soft cover lifts (e.g. 0/14/30, 0/26/56) plus hairline 0/1/1 contacts.
-- 1px solid borders on filters/chips; flat page surfaces behind dimensional books.
-- Motion not established.
-
-## Components and states
-
-### Collection index
-Large page title, filter/UI chips, dense cover grid with title/meta under each book.
-
-### Book page
-Hero title (64px-class), secondary author/meta in taupe, long reading column, related covers with the same shadow language.
-
-### Home library
-Rows of covers with compact padding (6–16px) and multi-shadow stack for depth.
-
-## Responsive behavior
-
-Captures are mostly ~1455–1712px desktop. Side margins will collapse on smaller screens; keep cover shadows and warm ink pairing when narrowing.
-
-## Practical guidance
-
-**Preserve**
-
-1. Warm ink `#1c1b12` / taupe `#6b6856` on paper canvas.
-2. Cover shadows as the main “depth” device.
-3. Large calm display titles; quiet UI chrome.
-4. Wide reading margins on desktop.
-5. Serif-leaning literary tone over SaaS sans shouting.
-
-**Avoid**
-
-1. Neon crypto gradients and glass dashboards.
-2. Huge pill marketing CTAs dominating the archive.
-3. Flat covers with no elevation—books should feel physical.
-4. Inventing a named font licence from this guide.
-
-**Adaptation recipe**
-
-- Paper canvas + warm ink → cover grid with soft shadows → serif display titles → long book pages with taupe meta.
-
-## Scope note
-
-Six captures: home, collection (×2), and two book pages. Supported: warm palette, type scale, cover elevation, collection/book layout. Gaps: mobile, exact font family, motion.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Collection grid](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/share/pin-9525)
+[![The Crypto Anarchist Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/share/pin-9527)
 
-[Collection grid](https://design.withfudge.com/share/pin-9525)
+[The Crypto Anarchist Manifesto · The Cypherpunk Library](https://design.withfudge.com/share/pin-9527)
 
-[![Book page — Cypherpunk's Manifesto](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/share/pin-9526)
+[![A Cypherpunk's Manifesto · The Cypherpunk Library](https://pin.fontofweb.com/9526?format=jpg)](https://design.withfudge.com/share/pin-9526)
 
-[Book page — Cypherpunk's Manifesto](https://design.withfudge.com/share/pin-9526)
+[A Cypherpunk's Manifesto · The Cypherpunk Library](https://design.withfudge.com/share/pin-9526)
 
-[![Home library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/share/pin-9524)
+[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9525?format=jpg)](https://design.withfudge.com/share/pin-9525)
 
-[Home library](https://design.withfudge.com/share/pin-9524)
+[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/share/pin-9525)
 
-[![Home alternate](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/share/pin-9522)
+[![The Cypherpunk Library](https://pin.fontofweb.com/9524?format=jpg)](https://design.withfudge.com/share/pin-9524)
 
-[Home alternate](https://design.withfudge.com/share/pin-9522)
+[The Cypherpunk Library](https://design.withfudge.com/share/pin-9524)
 
-[![Book page narrow](https://pin.fontofweb.com/9527?format=jpg)](https://design.withfudge.com/share/pin-9527)
+[![Browse the collection · The Cypherpunk Library](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/share/pin-9523)
 
-[Book page narrow](https://design.withfudge.com/share/pin-9527)
+[Browse the collection · The Cypherpunk Library](https://design.withfudge.com/share/pin-9523)
 
-[![Collection dense](https://pin.fontofweb.com/9523?format=jpg)](https://design.withfudge.com/share/pin-9523)
+[![The Cypherpunk Library](https://pin.fontofweb.com/9522?format=jpg)](https://design.withfudge.com/share/pin-9522)
 
-[Collection dense](https://design.withfudge.com/share/pin-9523)
+[The Cypherpunk Library](https://design.withfudge.com/share/pin-9522)
+
+## Design character
+
+cypherpunkbooks.com has a mixed light and dark surface treatment across 6 captured pages. The strongest recurring signals are 4 captured type families, 27 recurring colors, and 325 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **6 pages** and 6 representative page references. It records 364 color rows, 114 typography rows, 279 spacing rows, 21 border rows, 16 gradient rows, and 9 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#1c1b12` | color · unknown | 46108 |
+| `#f1ecd9` | color · unknown | 31673 |
+| `#ffffe1` | background-color · unknown | 24033 |
+| `#14130c` | background-color · unknown | 14742 |
+| `#282412` | box-shadow · header | 3751 |
+| `#000000` | color · unknown | 3566 |
+| `#ffffff` | color · header | 1724 |
+| `#7a1f2b` | background-color · header | 261 |
+| `#14532d` | background-color · main | 207 |
+| `#c2410c` | background-color · main | 181 |
+| `#1a1a1a` | background-color · main | 177 |
+| `#b51d22` | background-color · main | 173 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Inter** | 16px · 400 · normal | 77722 |
+| **Times** | 16px · 400 · normal | 1601 |
+| **Alpha Lyrae** | 22px · 500 · 20.24px | 451 |
+| **Applesystem** | 14px · 400 · normal | 185 |
+
+### Spacing and layout
+
+The most repeated spacing values are `56px` for padding-right, `56px` for padding-left, `26.44px 56px 140px` for padding, `26.44px` for padding-top, `140px` for padding-bottom, and `0px 262.5px` for margin. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 2px 6px 6px 2px` (1250), `0px none 2px 5px 5px 2px` (1007), `0px none 2px 7px 7px 2px` (106), `1px solid 8px` (72), `0px none 0px 2px 2px 0px` (60), and `1px 0px 0px solid none none 0px` (16). 16 gradient rows and 9 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is mixed light and dark surface treatment. Recorded observations cluster around **main**, **unknown**, **header**, **nav**, and **footer**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated mixed light/dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 6 representative pages selected from 6 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#ffffff`
 - `#1c1b12`
-- `#6b6856`
+- `#f1ecd9`
+- `#ffffe1`
+- `#14130c`
+- `#282412`
+- `#000000`
+- `#ffffff`
+- `#7a1f2b`
+- `#14532d`
+- `#c2410c`
+- `#1a1a1a`
+- `#b51d22`
+- `#0f3d3e`
+- `#16243f`
+- `#0b1f3a`
+- `#3a1d52`
+
+## Typography captured from cypherpunkbooks.com
+
+- **Inter** — weight 400 · size 16px
+- **Times** — weight 400 · size 16px
+- **Alpha Lyrae** — weight 500 · size 22px
+- **Applesystem** — weight 400 · size 14px

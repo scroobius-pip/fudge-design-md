@@ -2,155 +2,105 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/developer.chrome.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-developer.chrome.com is Google’s **Chrome for Developers** hub: a dark, documentation-forward product site that mixes Material-ish cards with bold marketing display type. The shell is near-black, type is light gray/white, and accent is a calm sky blue. Home is a hero + illustrated feature cards; docs is a searchable catalog of topic cards. Even the 404 stays on-brand—minimal, centered, same chrome and rainbow footer rule.
-
-What should survive adaptation:
-
-- **Dark canvas first**, with light text and blue interactive accents
-- **Large rounded feature cards** (≈24px) carrying illustration + short title/body + outlined blue CTA
-- **Pill primary buttons** in solid blue on the hero
-- **Quiet top chrome**: logo wordmark, sparse nav, search, theme and language controls
-- A thin **Chrome rainbow hairline** above the footer as the only multi-hue brand flourish
-
-## Foundations
-
-### Color
-
-Measured roles:
-
-| Role | Hex | Use |
-| --- | --- | --- |
-| Accent | `#70b1ff` | Links, outlined buttons, hero highlight word, focus-ish blues |
-| Text primary | `#f8f9fa` | Headings and primary body on dark |
-| Text secondary | `#afb2b6` | Supporting copy, muted nav/meta |
-
-Visual reading from screenshots:
-
-- Page background: **near-black / charcoal** (`~#202124`-class), not pure black
-- Hero title splits **blue** (“A Powerful Web.”) and **white** (“Made Easier.”)
-- Feature cards: saturated **blue illustration panel** beside **white content panel**, or full blue art cards
-- Outlined CTAs: blue stroke + blue label on dark
-- Filled hero CTA: solid medium blue pill, white label
-- 404 numeral and message: mid gray on the same dark field
-- Footer separator: horizontal **red→yellow→green→blue** gradient rule (Chrome identity)
-- Small gray “FEATURED” / “LATEST NEWS” pills on cards
-
-Palette span is intentionally limited: dark neutrals + one blue accent + illustration color inside media only.
-
-### Typography
-
-Family names were not captured; visuals read as a **geometric Google sans** single family.
-
-| Role | Size / weight / line-height | Context |
-| --- | --- | --- |
-| Display hero | 96px / 700, lh ~105.6px | Home marketing headline |
-| Section / page title | 48px / 700, lh 60px | Docs H1, major section heads |
-| Card / subhead | 28px / 500, lh 36px; 20px / 700, lh 24px | Feature titles, list heads |
-| Body | 16px / 400, lh 24px (also 16/26) | Default paragraph and card body |
-| UI / meta | 14px / 500, lh 20px; 13px / 400, lh 18–24; 12px / 500, lh 16 | Nav, chips, dense docs chrome |
-| 404 display | large light gray tabular “404” | Error state |
-
-Hierarchy jumps hard from 96 → 48 → 28 → 16; marketing is billboard-scale, docs settle into compact 13–16px UI type. Weights 400 / 500 / 700 dominate.
-
-### Spacing and layout
-
-- Card padding commonly **32px** all sides; secondary padding **16px** and **24px**
-- Docs list rows use tight **12px** horizontal padding and **10px** control padding
-- Vertical rhythm: **32px** margins between major blocks; **18px** between denser docs items; **8–16px** micro spacing
-- Content often centered with ~**212px** side margins on wide viewports—a max-width column feel
-- Home: centered hero stack (title, subtitle, CTA) above a **two-column card row**, then a full-width section title
-- Docs: page title + long subtitle, search field, then **multi-column card grid** (about three cards across at wide widths)
-- 404: large empty center field, search affordance, standard footer
-
-Density is moderate: marketing is airy; docs packs more cards per viewport without feeling like a spreadsheet.
-
-## Visual language
-
-- **Radii:** **24px** (and 25px) on primary marketing/feature cards—signature soft tile; **8px** on smaller controls/inputs
-- **Borders:** **2px solid** frames appear on some home cards/illustrations; docs show lighter **1px** rules; outlined buttons use a clear blue stroke
-- **Shadows:** subtle Material-like stacks on elevated docs chrome (`0 1 2`, `0 2 6 2`, `0 4 6 -4`)—quiet, not dramatic
-- **Illustration:** isometric/3D UI metaphors, bright secondary colors inside art only (red/green/yellow nodes) while chrome stays monochrome+blue
-- **Footer:** three-column link groups under the rainbow rule; legal row beneath a hairline
-- **Empty/error:** 404 is typographic and sparse—no mascot required
-
-Shapes read as **large soft rectangles + pills**, aligned with contemporary Google developer sites.
-
-## Components and states
-
-**Top app bar**  
-Chrome logo + “chrome for developers” wordmark; text nav (Docs dropdown, Case studies, Blog, New in Chrome); icon cluster for search, theme toggle, language, Sign in.
-
-**Hero**  
-Centered multi-line display title (blue + white), muted subtitle, single filled blue **Get Started** pill.
-
-**Feature / story cards**  
-Large 24px-radius tiles: illustration zone + title + body + outlined blue text button (“Get started”, “Explore now”). Optional small gray category pill above the title.
-
-**Docs catalog cards**  
-Smaller equal tiles in a grid: short title, one-line description, generous padding, consistent radius—browse-by-topic rather than long article body in these captures.
-
-**Search**  
-Prominent field under docs H1; 404 also centers search as recovery.
-
-**Footer**  
-Rainbow gradient rule; Contribute / Related content / Follow columns; Terms | Privacy.
-
-Stills show default and empty-error states clearly; hover/focus specifics are not documented here.
-
-## Responsive behavior
-
-- Mid-width home (~1232px) keeps the **two-up** feature cards and stacked hero
-- Wider home (~1712px) preserves the same structure with more horizontal margin
-- Docs at ~1701px shows a wide title block and card grid
-- Prefer **collapsing card grids** and retaining 24px card radius over inventing a different mobile visual language (narrow mobile home not in the pin set)
-
-## Practical guidance
-
-**Preserve**
-
-1. Dark charcoal canvas + `#f8f9fa` primary type + `#70b1ff` accent  
-2. Billboard 48–96px marketing titles with short muted subtitles  
-3. 24px-radius illustrated feature cards and blue outlined secondary CTAs  
-4. Sparse top nav and search-led docs index  
-5. Rainbow footer hairline as the sole multi-color brand stripe  
-6. Calm 404 that reuses shell chrome instead of a novelty error page  
-
-**Avoid**
-
-1. Light-mode-only recreations that lose the dark developer-hub feel (unless implementing the theme toggle explicitly)  
-2. Sharp 4px cards or heavy drop shadows—soft large radii are the signature  
-3. Turning illustration neons into UI chrome colors  
-4. Dense left-nav API reference styling for the marketing home (different page type)  
-5. Inventing font file names or licences without verification  
-
-## Evidence scope
-
-Studied captures: home at multiple widths (`/`, pins 6426/6425/6424), docs index (`/docs`, 6427), and 404 (`/extensions/experimental_devtools_console`, 5809). Five captures total. Font families, explicit light-theme tokens, and motion were not measured; accent/text roles and spacing/radius figures above are the reliable structural guide.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — hero and feature cards](https://pin.fontofweb.com/6426?format=jpg)](https://design.withfudge.com/share/pin-6426)
+[![Documentation  |  Docs  |  Chrome for Developers](https://pin.fontofweb.com/6427?format=jpg)](https://design.withfudge.com/share/pin-6427)
 
-[Home — hero and feature cards](https://design.withfudge.com/share/pin-6426)
+[Documentation  |  Docs  |  Chrome for Developers](https://design.withfudge.com/share/pin-6427)
 
-[![Home — wide marketing layout](https://pin.fontofweb.com/6424?format=jpg)](https://design.withfudge.com/share/pin-6424)
+[![Chrome for Developers](https://pin.fontofweb.com/6426?format=jpg)](https://design.withfudge.com/share/pin-6426)
 
-[Home — wide marketing layout](https://design.withfudge.com/share/pin-6424)
+[Chrome for Developers](https://design.withfudge.com/share/pin-6426)
 
-[![Docs index — topic card grid](https://pin.fontofweb.com/6427?format=jpg)](https://design.withfudge.com/share/pin-6427)
+[![Chrome for Developers](https://pin.fontofweb.com/6425?format=jpg)](https://design.withfudge.com/share/pin-6425)
 
-[Docs index — topic card grid](https://design.withfudge.com/share/pin-6427)
+[Chrome for Developers](https://design.withfudge.com/share/pin-6425)
 
-[![404 — minimal recovery](https://pin.fontofweb.com/5809?format=jpg)](https://design.withfudge.com/share/pin-5809)
+[![Chrome for Developers](https://pin.fontofweb.com/6424?format=jpg)](https://design.withfudge.com/share/pin-6424)
 
-[404 — minimal recovery](https://design.withfudge.com/share/pin-5809)
+[Chrome for Developers](https://design.withfudge.com/share/pin-6424)
+
+[![404  |  Page Not Found  |  Chrome for Developers](https://pin.fontofweb.com/5809?format=jpg)](https://design.withfudge.com/share/pin-5809)
+
+[404  |  Page Not Found  |  Chrome for Developers](https://design.withfudge.com/share/pin-5809)
+
+## Design character
+
+developer.chrome.com has a predominantly dark surface treatment across 5 captured pages. The strongest recurring signals are 1 captured type family, 9 recurring colors, and 53 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **5 pages** and 5 representative page references. It records 133 color rows, 33 typography rows, 44 spacing rows, 8 border rows, 0 gradient rows, and 1 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#f8f9fa` | color · header | 1731 |
+| `#000000` | box-shadow · nav | 1603 |
+| `#202124` | background-color · header | 313 |
+| `#70b1ff` | color · main | 112 |
+| `#afb2b6` | color · nav | 44 |
+| `#dedede` | box-shadow · nav | 12 |
+| `#4285f4` | border-color · main | 6 |
+| `#1b3c72` | color · main | 3 |
+| `#cad1dd` | background-color · main | 3 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Google Sans 18 Pt** | 16px · 400 · 24px | 1883 |
+
+### Spacing and layout
+
+The most repeated spacing values are `0px 12px` for padding, `18px 0px 0px` for margin, `32px` for padding, `0px 24px` for padding, `0px 212.5px` for margin, and `16px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 24px` (223), `0px none 25px` (42), `2px solid 25px` (13), `1px 0px 0px solid none none 0px` (12), `0px none 50%` (5), and `0px none 8px` (3). 0 gradient rows and 1 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **nav**, **header**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 5 representative pages selected from 5 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
-- `#70b1ff`
 - `#f8f9fa`
+- `#000000`
+- `#202124`
+- `#70b1ff`
 - `#afb2b6`
+- `#dedede`
+- `#4285f4`
+- `#1b3c72`
+- `#cad1dd`
+
+## Typography captured from developer.chrome.com
+
+- **Google Sans 18 Pt** — weight 400 · size 16px

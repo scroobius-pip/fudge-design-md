@@ -2,83 +2,7 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/impeccable.style-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-impeccable.style sells a **frontend-design craft upgrade** with a dark, terminal-adjacent marketing site. The page is mostly black/near-black, type is light gray to white, and small amber (`#ffba00`) and teal (`#0fb6ac`) accents punch through like CLI highlights. Layout is a long single-column essay mixed with product chrome: sticky top nav, install command pills, dark code panels, and a mock multi-pane IDE/browser frame.
-
-What should survive adaptation:
-- Near-black canvas with restrained light type (not pure neon cyberpunk)
-- Amber and teal as sparse functional accents, not full brand washes
-- Code-first product moments (commands, file trees, diffs)
-- Generous vertical rhythm between long-form sections
-
-## Foundations
-
-### Color
-
-Measured roles across captures:
-- Accent amber: `#ffba00`
-- Accent teal: `#0fb6ac`
-- Near-black accent/fill: `#030303`
-- Light text: `#d7d7d7`, `#f8f8f8`
-- Primary dark text (on light moments): `#222222`
-- Secondary: `#a4a4a4`, `#717171`, `#4b5563`
-
-Visual read: the dominant shell is black. Gold/amber marks CTAs and brand sparks; teal appears in secondary emphasis and UI highlights inside product frames. Body copy stays soft gray so code and headings can go brighter.
-
-### Typography
-
-No declared family in captures; visually a clean geometric/product sans.
-- Hero and section titles: large, heavy, tight tracking on dark ground
-- Body: comfortable reading size with relaxed line length in the center column
-- UI chrome and code: smaller mono or mono-like stacks inside panels
-- Nav links: compact uppercase/small labels in the top bar
-
-### Spacing and layout
-
-Observed spacing cluster roughly **8 / 12 / 16 / 24 / 32px**, with larger section breaks.
-- Content is centered in a readable max width; product demos go wider
-- Radii from **2–16px** on controls; pill-like **~100px** on some chips/CTAs
-- Negative spacing values appear in overlapping decorative compositions — treat as layout tricks, not a token scale
-
-## Visual language
-
-- **Dark code blocks** with syntax color and thin borders
-- **Browser/IDE chrome** mockups: traffic lights, tabs, side file rails
-- Soft cards on black with subtle separation rather than heavy shadows
-- Occasional gradient or glow behind hero product art (keep subtle)
-- Horizontal rules and hairline dividers structure long pages
-
-## Components and states
-
-- Top nav: logo left, text links, primary CTA right
-- Install/command pills with copy affordance
-- Primary buttons: high-contrast light or amber filled, pill or soft-round
-- Secondary ghost buttons on dark
-- FAQ-style stacked questions with clear hierarchy
-- Pricing/membership blocks with single strong CTA
-
-## Responsive behavior
-
-Captures include both wide viewports and tighter section crops of the same home narrative. The system stays single-column marketing with product frames that scale down; do not invent a separate mobile IA from these frames alone.
-
-## Practical guidance
-
-**Preserve**
-- Black field + gray type + rare amber/teal sparks
-- Code and IDE imagery as proof, not decoration only
-- Long-scroll editorial pacing
-
-**Avoid**
-- Turning amber into a full orange theme
-- Light-mode default without redesigning contrast
-- Crowding the page with equal-weight cards
-
-## Scope note
-
-Studied multiple home captures (full viewports and section crops) for impeccable.style. Color roles and radii are measured; type family is not declared. Borders, gradients, and media families are largely unsupported in structured form — rely on the screenshots for those details.
+Last updated: 2026-08-03
 
 ## Captured pages
 
@@ -90,14 +14,131 @@ Studied multiple home captures (full viewports and section crops) for impeccable
 
 [Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/share/pin-9916)
 
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7738?format=jpg)](https://design.withfudge.com/share/pin-7738)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7738)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7737?format=jpg)](https://design.withfudge.com/share/pin-7737)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7737)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7736?format=jpg)](https://design.withfudge.com/share/pin-7736)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7736)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7735?format=jpg)](https://design.withfudge.com/share/pin-7735)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7735)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7734?format=jpg)](https://design.withfudge.com/share/pin-7734)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7734)
+
+[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7733?format=jpg)](https://design.withfudge.com/share/pin-7733)
+
+[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7733)
+
+## Design character
+
+impeccable.style has a predominantly dark surface treatment across 8 captured pages. The strongest recurring signals are 9 captured type families, 20 recurring colors, and 218 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **8 pages** and 8 representative page references. It records 280 color rows, 116 typography rows, 173 spacing rows, 31 border rows, 9 gradient rows, and 5 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#d7d7d7` | color · main | 21231 |
+| `#000000` | color · unknown | 2674 |
+| `#030303` | background-color · main | 1965 |
+| `#0f0f0f` | background-color · main | 1491 |
+| `#b7b7b7` | border-color · main | 791 |
+| `#222222` | color · main | 600 |
+| `#0b0b0b` | background-color · main | 354 |
+| `#e4e4e4` | border-color · main | 277 |
+| `#717171` | color · main | 170 |
+| `#ffba00` | border-color · main | 162 |
+| `#f8f8f8` | color · main | 99 |
+| `#a4a4a4` | color · main | 91 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Albert Sans** | 16px · 400 · 25.6px | 21429 |
+| **Instrument Sans** | 16px · 400 · 26px | 2004 |
+| **Cormorant Garamond** | 40px · 400 · 48px | 309 |
+| **Space Grotesk** | 10px · 500 · 16.25px | 244 |
+| **Inter** | 16px · 400 · 26px | 78 |
+| **Times** | 16px · 400 · normal | 77 |
+| **Alumni Sans** | 54.4px · 300 · 56.576px | 48 |
+| **Sf Mono** | 11.2px · 500 · 17.92px | 48 |
+| **Applesystem** | 14px · 400 · normal | 2 |
+
+### Spacing and layout
+
+The most repeated spacing values are `56px` for padding-left, `0px 56px` for padding, `56px` for padding-right, `0px 102.5px` for margin, `102.5px` for margin-right, and `102.5px` for margin-left. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 2px` (1491), `1px solid 4px` (354), `1px 0px 0px solid none none 0px` (339), `1px 1px 0px solid solid none 8px 8px 0px 0px` (160), `1px 0px solid none 0px` (135), and `1px solid 2px` (114). 9 gradient rows and 5 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **main**, **unknown**, **footer**, **image**, and **button**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 8 representative pages selected from 8 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
+
 ## Colors
 
-- `#030303`
 - `#d7d7d7`
-- `#a4a4a4`
-- `#ffba00`
-- `#0fb6ac`
-- `#f8f8f8`
+- `#000000`
+- `#030303`
+- `#0f0f0f`
+- `#b7b7b7`
 - `#222222`
+- `#0b0b0b`
+- `#e4e4e4`
 - `#717171`
+- `#ffba00`
+- `#f8f8f8`
+- `#a4a4a4`
+- `#ffffff`
+- `#e1e1e1`
+- `#0fb6ac`
 - `#4b5563`
+
+## Typography captured from impeccable.style
+
+- **Albert Sans** — weight 400 · size 16px
+- **Instrument Sans** — weight 400 · size 16px
+- **Cormorant Garamond** — weight 400 · size 40px
+- **Space Grotesk** — weight 500 · size 10px
+- **Inter** — weight 400 · size 16px
+- **Times** — weight 400 · size 16px
+- **Alumni Sans** — weight 300 · size 54.4px
+- **Sf Mono** — weight 500 · size 11.2px
+- **Applesystem** — weight 400 · size 14px

@@ -2,119 +2,109 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/deepwiki.com-design)
 
-Last updated: 2026-07-28
-
-## Design character
-
-DeepWiki is a **light, documentation-first product** for talking to repo wikis. The UI feels like a calm developer tool: off-white canvas, soft white cards, hairline structure, blue primary actions, and a three-zone reading layout (nav / article / secondary). Marketing home is a simple search + repo card grid; interior pages are classic docs with a chat dock.
-
-What should survive adaptation:
-
-- **Light monochrome surfaces** with blue as the only strong action color.
-- **Card grid discovery** on home; **tri-pane docs** on repo pages.
-- **Soft 8px-class radii** and 1px separators instead of heavy elevation.
-- A persistent **ask/chat dock** that does not break the article measure.
-
-## Foundations
-
-### Color
-
-Measured text roles:
-
-- **Primary text**: `#333333`
-- **Secondary text**: `#666666`
-
-From screenshots:
-
-- Page background: light gray-white.
-- Cards: white with subtle border.
-- Primary button: solid blue (Share).
-- Links: standard blue underline style in article body.
-- Nav active row: light gray fill.
-- Dark-mode toggle present (moon icon) though captures are light mode.
-- Taxonomy labels the system monochrome/neutral with primary+secondary text roles.
-
-### Typography
-
-Families not declared. Observed:
-
-- Body **16px / 24px** dominant.
-- Article secondary **14–14.8px** with comfortable line-height (~20–26px).
-- Headings **20–22px** weight 700.
-- UI chips/labels **12px**; medium weights 500–600 for emphasis.
-- Single sans system across chrome and prose.
-
-### Spacing and layout
-
-- Home cards: padding ~**12px**; section blocks often **32px** vertical padding; large bottom padding ~**96px** on some stacks.
-- Docs content: horizontal padding **24px** common; tight control padding **6–8px**.
-- Sidebar list spacing compact (margin ~5–17px between items).
-- Home grid: multi-column repo cards with consistent gaps; first cell can be a dashed/soft “Add repo” affordance.
-- Docs: left tree, main article, right “On this page”; bottom chat bar overlays content width.
-
-## Visual language
-
-- **Radii**: ~**4px** controls, ~**8.4px** cards (full-round pills reserved for rare chips; ignore pathological huge values).
-- **Borders**: 1px solid on cards and sidebars—border-separated flat surfaces.
-- **Shadows**: very soft (`0 1px 2px` / `0 1px 3px` class) or none; mostly flat.
-- **Icons**: simple stroke icons (search, share, star, moon).
-- **Code/path chips**: muted gray pills inline in tables.
-
-## Components and states
-
-1. **Top bar** — wordmark, optional repo title, “Index your code with Devin”, ghost Edit, blue Share, theme toggle.
-2. **Home search** — centered question + rounded search field.
-3. **Repo cards** — title, blurb, star count, chevron; grid of equal cards + “Add repo”.
-4. **Docs sidebar** — hierarchical nav, active row highlight.
-5. **Article** — H1/H2, lists, tables, source chips, internal links.
-6. **Right rail** — “On this page” anchors; dismissible info callout (“Refresh this wiki”).
-7. **Chat dock** — “Ask Devin about …” with model/speed select and send.
-
-Default and populated states only; hover not captured.
-
-## Responsive behavior
-
-Captures include wide docs (~1712) and a narrower wiki frame (~766). Narrow keeps the article readable; side rails compress. Home grid drops columns implicitly with width. Detailed breakpoint tokens were not recorded.
-
-## Practical guidance
-
-**Preserve**
-
-- Light gray canvas + white bordered cards.
-- `#333` / `#666` text pairing with blue actions/links.
-- 8px card radius and 1px structure.
-- Home = search + repo grid; repo = nav/article/toc + chat dock.
-- Calm developer-tool density—not marketing gradients.
-
-**Avoid**
-
-- Dark neon “AI” skins on the default experience.
-- Heavy shadows or glassmorphism.
-- Turning docs into a single infinite chat without readable article layout.
-- Over-saturating accents; one blue is enough.
-- Tiny unreadable secondary text below ~12px for core UI.
-
-## Scope note
-
-Studied home (8112) and repo wiki pages (8113, 8114). Text color roles, radii, borders, spacing, and type sizes are measured; blue button fill and overall light surfaces are confirmed visually. Font family names and full dark-mode tokens were not available in these captures.
+Last updated: 2026-08-03
 
 ## Captured pages
 
-[![Home — repo discovery grid](https://pin.fontofweb.com/8112?format=jpg)](https://design.withfudge.com/share/pin-8112)
+[![bagusindrayana/ews-concept-new | DeepWiki](https://pin.fontofweb.com/8114?format=jpg)](https://design.withfudge.com/share/pin-8114)
 
-[Home — repo discovery grid](https://design.withfudge.com/share/pin-8112)
+[bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/share/pin-8114)
 
-[![Repo wiki — tri-pane docs](https://pin.fontofweb.com/8113?format=jpg)](https://design.withfudge.com/share/pin-8113)
+[![bagusindrayana/ews-concept-new | DeepWiki](https://pin.fontofweb.com/8113?format=jpg)](https://design.withfudge.com/share/pin-8113)
 
-[Repo wiki — tri-pane docs](https://design.withfudge.com/share/pin-8113)
+[bagusindrayana/ews-concept-new | DeepWiki](https://design.withfudge.com/share/pin-8113)
 
-[![Repo wiki — narrower frame](https://pin.fontofweb.com/8114?format=jpg)](https://design.withfudge.com/share/pin-8114)
+[![DeepWiki | AI documentation you can talk to, for every repo](https://pin.fontofweb.com/8112?format=jpg)](https://design.withfudge.com/share/pin-8112)
 
-[Repo wiki — narrower frame](https://design.withfudge.com/share/pin-8114)
+[DeepWiki | AI documentation you can talk to, for every repo](https://design.withfudge.com/share/pin-8112)
+
+## Design character
+
+deepwiki.com has a predominantly dark surface treatment across 3 captured pages. The strongest recurring signals are 2 captured type families, 17 recurring colors, and 73 structural observations. This is a token-backed reference; composition, interaction, and responsive claims require screenshot inspection.
+
+## Overview
+
+The captured set includes **3 pages** and 3 representative page references. It records 124 color rows, 51 typography rows, 56 spacing rows, 14 border rows, 1 gradient rows, and 2 shadow rows.
+
+## Supported design tokens
+
+The tables below keep recorded values separate from practical labels added for this guide. Frequencies are observation counts from the captured pages, not claims about the site's original CSS variable names.
+
+### Colors
+
+| Color | Observed context | Frequency |
+| --- | --- | --- |
+| `#333333` | color · unknown | 2555 |
+| `#000000` | background-color · unknown | 2507 |
+| `#666666` | color · unknown | 202 |
+| `#e5e5e5` | background-color · unknown | 188 |
+| `#f2f1f0` | background-color · button | 169 |
+| `#71717b` | color · unknown | 104 |
+| `#f8f7f6` | background-color · unknown | 30 |
+| `#1e2939` | color · unknown | 16 |
+| `#c0c0c0` | border-color · unknown | 10 |
+| `#d1d1d1` | border-color · unknown | 8 |
+| `#e8e8e8` | background-color · unknown | 7 |
+| `#f5f5f5` | background-color · unknown | 6 |
+
+### Typography
+
+| Family | Observed use | Frequency |
+| --- | --- | --- |
+| **Geist** | 16px · 400 · 24px | 2710 |
+| **System** | 12px · 500 · 16px | 13 |
+
+### Spacing and layout
+
+The most repeated spacing values are `6px 8px` for padding, `12px` for padding, `0px 0px 0px 6.66px` for padding, `5.18px 0px` for margin, `0px 24px` for padding, and `32px 0px` for padding. These are observed values, not a complete spacing scale. The captured set does not establish container widths, grid rules, breakpoints, or component hierarchy.
+
+### Shape, borders, and depth
+
+Repeated border observations include `0px none 4px` (190), `1px solid 8.4px` (185), `0px none 8.4px` (24), `1px 0px 0px solid 0px` (10), `0px none 6.4px` (5), and `0px none 3.35544e+07px` (5). 1 gradient rows and 2 shadow rows were recorded; their presence does not establish when or why they animate or appear in a component state.
+
+## Visual language
+
+The captured system is predominantly dark surface treatment. Recorded observations cluster around **unknown**, **button**, and **image**. These labels describe capture metadata, not a complete component taxonomy or visual mood.
+
+## Components and states
+
+The captured records include HTML tags and broad regions, but they do not reliably identify components or interaction states. Treat visible component behavior, loading, error, focus, hover, and pressed states as unestablished until screenshots or another explicit source supports them.
+
+## Responsive behavior
+
+Responsive behavior is not established by structured token observations alone. Preserve the recorded hierarchy and spacing relationships, then validate stacking, navigation, density, and type scaling against captures at more than one viewport.
+
+## Practical guidance
+
+- Preserve the repeated dark surface relationship before adding new accents or elevation.
+- Start with the observed type families, spacing values, borders, and colors; do not rename them as source tokens without original stylesheet evidence.
+- Keep recommendations separate from captured values and make accessibility decisions for contrast, focus, and states that are outside this captured set.
+- Use the representative page captures below to validate any qualitative interpretation before shipping an adaptation.
+
+## Known gaps and reference scope
+
+This automated guide studies 3 representative pages selected from 3 public captures. It is generated from structured capture data and does not claim private source files, complete CSS, component semantics, motion, responsive breakpoints, or licensing beyond the returned attribution fields.
 
 ## Colors
 
 - `#333333`
+- `#000000`
 - `#666666`
+- `#e5e5e5`
+- `#f2f1f0`
+- `#71717b`
+- `#f8f7f6`
+- `#1e2939`
+- `#c0c0c0`
+- `#d1d1d1`
+- `#e8e8e8`
+- `#f5f5f5`
+- `#737373`
+- `#e0e0e0`
 - `#ffffff`
-- `#3b82f6`
+- `#2b7fff`
+
+## Typography captured from deepwiki.com
+
+- **Geist** — weight 400 · size 16px
+- **System** — weight 500 · size 12px
