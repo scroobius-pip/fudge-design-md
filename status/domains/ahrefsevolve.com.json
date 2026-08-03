@@ -1,13 +1,127 @@
 {
   "schemaVersion": 1,
   "domain": "ahrefsevolve.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.967Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "failed",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T16:56:05.523Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T16:42:24.843Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:42:32.529Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:42:45.054Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:42:53.083Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:46:52.065Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:49:34.488Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:49:34.499Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T16:51:06.951Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:52:42.990Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:52:43.002Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T16:54:19.422Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:56:05.511Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:56:05.523Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "revise",
+      "issues": [
+        {
+          "section": "Typography",
+          "problem": "Inter is credited to Rasmus Andersson and Rsms, but `_harness.exactValues.fontCredits` does not support any attribution for Inter. That credit claim is unsupported.",
+          "requiredChange": "Remove the Inter attribution claim or replace it with a non-attribution licensing note that is explicitly supported by the packet."
+        },
+        {
+          "section": "Components",
+          "problem": "The `hero-stage` and `orange-stage` backgrounds are not grounded to the recorded gradients exactly: the candidate drops the recorded 104deg angle and nudges stop positions/ends instead of reproducing the supplied values.",
+          "requiredChange": "Use the exact recorded gradient values from the packet, including the angle and stop positions, rather than approximated equivalents."
+        },
+        {
+          "section": "Components",
+          "problem": "`primary-action` uses padding that does not match the recorded button sizing. The guide specifies `2rem` by `0.75rem`, but the evidence shows the primary CTA uses a wider pill treatment with 40px horizontal padding.",
+          "requiredChange": "Update the primary action token to the exact button padding from the packet so the CTA matches the visible pill geometry."
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T16-42-46-109Z-a2",
+    "imageCount": 8,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "ahrefsevolve.com-design"
   },
@@ -15,5 +129,12 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0.03333333333333333,
+    "maximumResidual": 0.5,
+    "valuesConsidered": 15
+  },
+  "error": "The repaired ahrefsevolve.com guide did not pass the publication gate after two repairs."
 }

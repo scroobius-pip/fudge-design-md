@@ -1,19 +1,120 @@
 {
   "schemaVersion": 1,
   "domain": "adject.ai",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.796Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T16:42:29.281Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T16:22:01.223Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:22:05.569Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:25:53.245Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:27:17.063Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:27:17.074Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T16:29:04.206Z",
+      "attempt": 1,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:30:18.376Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:30:18.388Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T16:30:18.400Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T16:30:22.810Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T16:30:22.824Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T16:36:24.498Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T16:42:24.850Z",
+      "attempt": 2,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:42:29.281Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T16-42-25-817Z-a2",
+    "imageCount": 4,
+    "baselineAvailable": true
+  },
   "publication": {
-    "key": "adject.ai-design"
+    "key": "adject.ai-design",
+    "url": "https://design.withfudge.com/share/adject.ai-design",
+    "markdownUrl": "https://design.withfudge.com/share/adject.ai-design.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.15384615384615385,
+    "maximumResidual": 1,
+    "valuesConsidered": 13
   }
 }

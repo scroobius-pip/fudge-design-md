@@ -1,11 +1,36 @@
 {
   "schemaVersion": 1,
   "domain": "agentation.dev",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.888Z",
+  "state": "failed",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T16:42:26.944Z",
   "agent": null,
-  "history": [],
+  "history": [
+    {
+      "at": "2026-08-03T16:30:44.882Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:30:46.812Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-03T16:42:24.850Z",
+      "attempt": 2,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:42:26.944Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "failed"
+    }
+  ],
   "checks": {},
   "artifacts": {},
   "publication": {
@@ -15,5 +40,6 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
-  }
+  },
+  "error": "Representative image 6235 is unexpectedly small."
 }

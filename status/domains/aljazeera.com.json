@@ -1,13 +1,34 @@
 {
   "schemaVersion": 1,
   "domain": "aljazeera.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:20.085Z",
-  "agent": null,
-  "history": [],
+  "state": "drafting",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T17:03:43.818Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T17:03:40.061Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T17:03:43.818Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    }
+  ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-03T17-03-40-889Z-a1",
+    "imageCount": 3,
+    "baselineAvailable": true
+  },
   "publication": {
     "key": "aljazeera.com-design"
   },
@@ -15,5 +36,11 @@
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.2599999999999998,
+    "maximumResidual": 1,
+    "valuesConsidered": 8
   }
 }

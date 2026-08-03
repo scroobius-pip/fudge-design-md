@@ -1,19 +1,134 @@
 {
   "schemaVersion": 1,
   "domain": "ai-sdk.dev",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.987Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T16:50:40.083Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T16:42:27.023Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:42:30.726Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:44:24.132Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T16:44:29.328Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:48:05.075Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:50:07.374Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:50:07.451Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T16:50:07.490Z",
+      "attempt": 2,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T16:50:12.589Z",
+      "attempt": 2,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T16:50:12.605Z",
+      "attempt": 2,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T16:50:40.001Z",
+      "attempt": 2,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T16:50:40.083Z",
+      "attempt": 2,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/ai-sdk.dev-design",
+      "markdownUrl": "https://design.withfudge.com/share/ai-sdk.dev-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ai-sdk.dev.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/8393?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T16-44-25-184Z-a2",
+    "imageCount": 6,
+    "guideSha256": "73c74d951a6a2aa24e9e3f8706a532789e5266bf2a9af7f4b2d97de7a859d392"
+  },
   "publication": {
-    "key": "ai-sdk.dev-design"
+    "key": "ai-sdk.dev-design",
+    "url": "https://design.withfudge.com/share/ai-sdk.dev-design",
+    "markdownUrl": "https://design.withfudge.com/share/ai-sdk.dev-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ai-sdk.dev.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.1405999999999987,
+    "maximumResidual": 0.7029999999999745,
+    "valuesConsidered": 15
   }
 }
