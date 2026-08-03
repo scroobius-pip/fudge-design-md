@@ -561,9 +561,9 @@ artstation.com presents a predominantly dark surface treatment in the captured p
 
 ### ashmolean.org
 
-[![How ashmolean.org is designed](https://pin.fontofweb.com/6603?format=jpg)](design-md/ashmolean.org.md)
+[![How ashmolean.org is designed](https://pin.fontofweb.com/6602?format=jpg)](design-md/ashmolean.org.md)
 
-ashmolean.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#231f20`, and `#444444`, with typography led by **Montserrat**, **Helvetica Neue**, and **Font Awesome 6 Brands**. The guide below names reusable design roles only where the captured evidence supports them.
+Ashmolean.org is built like a museum publication translated into a web page: calm, documentary, and easy to scan. The site keeps a white or warm off-white canvas, black primary text, and a restrained sage-green action color. Photography carries the emotional load. The interface stays quiet around it, using centered cards, pale section bands, and long horizontal margins to make each page feel spacious rather than busy.
 
 [Open guide](design-md/ashmolean.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/ashmolean.org-design)
 
