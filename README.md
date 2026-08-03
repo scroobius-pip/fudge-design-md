@@ -59,7 +59,7 @@ collection, including blocked jobs and completed replacements.
 
 [![How 205.tf is designed](https://pin.fontofweb.com/7931?format=jpg)](design-md/205.tf.md)
 
-205.tf presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#eaeaec`, with typography led by **Exposure 100** and **Mm 205**. The guide below names reusable design roles only where the captured evidence supports them.
+205.tf works like a type specimen bench: austere, exact, and dominated by the letterforms themselves. The interface does not try to soften the foundry experience. It gives the typefaces a pale stage, black rules, and enough open space for the specimen to carry the page. The result feels closer to a working archive or proofing table than to a marketing site.
 
 [Open guide](design-md/205.tf.md) · [View the Fudge conversation](https://design.withfudge.com/share/205.tf-design)
 
