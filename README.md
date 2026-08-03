@@ -347,7 +347,7 @@ antigravity.google presents a mixed light and dark surface treatment in the capt
 
 [![How anytype.io is designed](https://pin.fontofweb.com/8145?format=jpg)](design-md/anytype.io.md)
 
-anytype.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#252525`, with typography led by **Inter** and **Riccione Tsx**. The guide below names reusable design roles only where the captured evidence supports them.
+Anytype's marketing pages rely on a strict contrast between white canvas and black content, then soften that contrast with a single pink accent and a set of restrained gray steps. The result feels editorial rather than software-like. The page often starts with a large serif line, then moves into compact sans-serif sections, then returns to a dark band for emphasis. That rhythm is the core of the system: one strong statement, one plain explanation, one clear action.
 
 [Open guide](design-md/anytype.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/anytype.io-design)
 
