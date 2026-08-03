@@ -1,19 +1,122 @@
 {
   "schemaVersion": 1,
   "domain": "accounts.theatlantic.com",
-  "state": "legacy",
-  "attempt": 0,
-  "updatedAt": "2026-08-03T14:02:19.721Z",
-  "agent": null,
-  "history": [],
-  "checks": {},
-  "artifacts": {},
+  "state": "published_verified",
+  "attempt": 1,
+  "updatedAt": "2026-08-03T16:02:21.455Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
+  "history": [
+    {
+      "at": "2026-08-03T15:57:23.575Z",
+      "attempt": 1,
+      "from": "legacy",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T15:57:28.936Z",
+      "attempt": 1,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T16:01:07.163Z",
+      "attempt": 1,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T16:01:51.685Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T16:01:51.708Z",
+      "attempt": 1,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T16:01:51.717Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T16:01:56.690Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T16:01:56.701Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T16:02:21.440Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T16:02:21.455Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
+    }
+  ],
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/accounts.theatlantic.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/accounts.theatlantic.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/accounts.theatlantic.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/9224?format=jpg"
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T15-57-25-986Z-a1",
+    "imageCount": 2,
+    "guideSha256": "29f2d724fd648f1a18b0c6b3d6c20111cbfc12a030cfbccfcc3d0e78861b6a56"
+  },
   "publication": {
-    "key": "accounts.theatlantic.com-design"
+    "key": "accounts.theatlantic.com-design",
+    "url": "https://design.withfudge.com/share/accounts.theatlantic.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/accounts.theatlantic.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/accounts.theatlantic.com.md"
   },
   "blocker": null,
   "inventory": {
     "ref": "origin/main",
     "fingerprint": "mechanical"
+  },
+  "normalization": {
+    "stepPx": 2,
+    "meanAbsoluteError": 0.13043478260869565,
+    "maximumResidual": 1,
+    "valuesConsidered": 23
   }
 }
