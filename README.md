@@ -67,7 +67,7 @@ collection, including blocked jobs and completed replacements.
 
 [![How 21st.dev is designed](https://pin.fontofweb.com/8793?format=jpg)](design-md/21st.dev.md)
 
-21st.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f4f4f5`, and `#878787`, with typography led by **Abc Diatype Unlicensed**, **Geist**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+21st.dev uses a dark catalog grammar with a product-tool feel. The page hierarchy is built from a nearly black shell, thin grid lines, compact labels, and a large number of framed previews. It reads less like a marketing site and more like a workstation for browsing, filtering, and opening UI assets.
 
 [Open guide](design-md/21st.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/21st.dev-design)
 
