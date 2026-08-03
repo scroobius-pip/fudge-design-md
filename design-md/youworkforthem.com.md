@@ -207,20 +207,3 @@ Do not assume a full mobile breakpoint ladder from these views. The visible beha
 ## Scope note
 
 This guide covers the visible desktop catalog surfaces on the home page, free-font listing, collection listing, registration gate, footer, and floating contact chip. Mobile layout, hover motion, loading states, and broader font licensing details are not established here.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#000000`
-- `#f4f4f4`
-- `#efefef`
-- `#e5e5e5`
-- `#ffffff`
-- `#0f8548`
-- `#c3c3c3`
-
-## Typography used on youworkforthem.com
-
-- **Valid** — weight 400 · size 14px
-- **Helvetica** — weight 400 · size 14px
