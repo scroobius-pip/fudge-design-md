@@ -73,9 +73,9 @@ collection, including blocked jobs and completed replacements.
 
 ### 80.lv
 
-[![How 80.lv is designed](https://pin.fontofweb.com/9652?format=jpg)](design-md/80.lv.md)
+[![How 80.lv is designed](https://pin.fontofweb.com/9651?format=jpg)](design-md/80.lv.md)
 
-80.lv presents a predominantly light surface treatment in the captured pages. The system is anchored by `#474b2f`, `#f9fbf7`, and `#ffffff`, with typography led by **Euclid Circular B** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+80.lv reads as a calm editorial network rather than a loud magazine or a product landing page. The page uses a soft off-white canvas, white card surfaces, and a restrained olive-black text color so that the artwork inside each story card carries the energy. The interface never competes with the thumbnails; it frames them.
 
 [Open guide](design-md/80.lv.md) · [View the Fudge conversation](https://design.withfudge.com/share/80.lv-design)
 
