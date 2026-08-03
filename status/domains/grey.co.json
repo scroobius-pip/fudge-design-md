@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "grey.co",
-  "state": "ready",
+  "state": "published_verified",
   "attempt": 1,
-  "updatedAt": "2026-08-03T14:03:38.131Z",
+  "updatedAt": "2026-08-03T14:09:06.877Z",
   "agent": {
     "engine": "human-approved",
     "model": null,
@@ -45,6 +45,54 @@
       "attempt": 1,
       "from": "validating",
       "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:04:03.876Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T14:05:35.087Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T14:05:35.112Z",
+      "attempt": 1,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-03T14:05:49.978Z",
+      "attempt": 1,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-03T14:05:53.851Z",
+      "attempt": 1,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-03T14:05:53.864Z",
+      "attempt": 1,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-03T14:09:05.560Z",
+      "attempt": 1,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-03T14:09:06.877Z",
+      "attempt": 1,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
   "checks": {
@@ -57,6 +105,17 @@
     "approval": "human-approved",
     "payload": {
       "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/grey.co-design",
+      "markdownUrl": "https://design.withfudge.com/share/grey.co-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/grey.co.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/6719?format=jpg"
     }
   },
   "artifacts": {
@@ -65,7 +124,10 @@
     "guideSha256": "f2d892e2fed532efa3018092bb4b45bd8f38db2a415aaf026e18f06bbd50fd37"
   },
   "publication": {
-    "key": "grey.co-design"
+    "key": "grey.co-design",
+    "url": "https://design.withfudge.com/share/grey.co-design",
+    "markdownUrl": "https://design.withfudge.com/share/grey.co-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/grey.co.md"
   },
   "blocker": null,
   "inventory": {
