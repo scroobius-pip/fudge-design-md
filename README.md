@@ -1593,9 +1593,9 @@ diabrowser.com presents a mixed light and dark surface treatment in the captured
 
 ### digg.com
 
-[![How digg.com is designed](https://pin.fontofweb.com/9673?format=jpg)](design-md/digg.com.md)
+[![How digg.com is designed](https://pin.fontofweb.com/9671?format=jpg)](design-md/digg.com.md)
 
-digg.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#171616`, and `#e3e0d8`, with typography led by **Roobert Mono Vf**, **Roobert Vf**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Digg presents a warm paper newsroom with a hard-edged logo, a very small set of colors, and a layout that prizes fast scanning over ornamental framing. The page feels editorial first: the main job is to rank, sort, and compare stories. The visual system supports that job with a beige canvas, white cards, near-black text, and a single blue action color that quietly marks topic pills, counts, and selected states.
 
 [Open guide](design-md/digg.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/digg.com-design)
 
