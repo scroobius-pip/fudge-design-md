@@ -841,9 +841,9 @@ Baseten presents itself as a systems brand, not a product with ornamental polish
 
 ### bbc.com
 
-[![How bbc.com is designed](https://pin.fontofweb.com/9169?format=jpg)](design-md/bbc.com.md)
+[![How bbc.com is designed](https://pin.fontofweb.com/6962?format=jpg)](design-md/bbc.com.md)
 
-bbc.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#202224`, and `#141414`, with typography led by **Times**, **By Dalton Maag Ltd**, and **Times New Roman**. The guide below names reusable design roles only where the captured evidence supports them.
+BBC.com is a public-service news system that makes the institution legible before it makes the story legible. The homepage is a calm, white editorial dashboard: a centered three-tile BBC mark, a thin topic rail, then a dense but orderly story mosaic that mixes large photography, compact headlines, small decks, and quiet metadata. The article views keep the same brand discipline but reduce the visual noise. English longform leans on a media hero and a single reading column; the Russian World Service page strips the page down to byline, translation note, and text-first paragraphs.
 
 [Open guide](design-md/bbc.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/bbc.com-design)
 
