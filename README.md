@@ -305,9 +305,9 @@ agentation.dev presents a predominantly light surface treatment in the captured 
 
 ### agenticui.net
 
-[![How agenticui.net is designed](https://pin.fontofweb.com/5933?format=jpg)](design-md/agenticui.net.md)
+[![How agenticui.net is designed](https://pin.fontofweb.com/5932?format=jpg)](design-md/agenticui.net.md)
 
-agenticui.net presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#616161`, and `#191919`, with typography led by **Geist**, **Inter**, and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Agentic UI is built like a poster more than a dashboard. The page uses a pale canvas, thin drafting lines, and a stark black emblem to create a controlled, almost exhibition-like field. The name sits much larger than the surrounding copy, so the identity reads first and the explanation follows. The layout leaves large areas empty on purpose; that blankness is not a gap, it is the structure that lets the centered stack feel deliberate.
 
 [Open guide](design-md/agenticui.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/agenticui.net-design)
 
