@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T23:41:18.034Z",
-  "heartbeatAt": "2026-08-04T23:41:18.350Z",
+  "heartbeatAt": "2026-08-04T23:46:28.614Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "betterstack.com",
-        "startedAt": "2026-08-04T23:41:18.268Z"
+        "domain": "antler.co",
+        "startedAt": "2026-08-04T23:46:18.143Z"
       },
       {
-        "domain": "studiofnt.com",
-        "startedAt": "2026-08-04T23:41:18.269Z"
+        "domain": "app.issen.com",
+        "startedAt": "2026-08-04T23:46:23.315Z"
       },
       {
-        "domain": "supabase.com",
-        "startedAt": "2026-08-04T23:41:18.263Z"
+        "domain": "app.kit.com",
+        "startedAt": "2026-08-04T23:46:23.320Z"
       },
       {
-        "domain": "superlist.com",
-        "startedAt": "2026-08-04T23:41:18.268Z"
+        "domain": "app.kuse.ai",
+        "startedAt": "2026-08-04T23:46:23.319Z"
       },
       {
-        "domain": "supernova.io",
-        "startedAt": "2026-08-04T23:41:18.266Z"
+        "domain": "app.revenuecat.com",
+        "startedAt": "2026-08-04T23:46:23.318Z"
       },
       {
-        "domain": "surrealdb.com",
-        "startedAt": "2026-08-04T23:41:18.267Z"
+        "domain": "arches-template.framer.website",
+        "startedAt": "2026-08-04T23:46:28.495Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 134
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 869,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T23:41:24.008Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T23:46:25.050Z",
+    "message": "Generation failed for app.nocodeapi.com with exit 1."
+  }
 }
