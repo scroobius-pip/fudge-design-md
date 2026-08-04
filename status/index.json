@@ -1,39 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:45:25.313Z",
+  "generatedAt": "2026-08-04T18:50:32.105Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 144,
-    "ready": 19,
+    "ready": 21,
     "needs_reprocessing": 21,
-    "failed": 24,
+    "failed": 26,
     "unpublished": 896,
-    "validating": 1,
-    "publishing": 1,
+    "syncing": 1,
     "drafting": 5,
-    "legacy": 88
+    "validating": 1,
+    "legacy": 84
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:45:23.648Z",
+    "heartbeatAt": "2026-08-04T18:50:30.528Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-04T18:34:54.963Z"
-        },
-        {
-          "domain": "dashboard.internetcomputer.org",
-          "startedAt": "2026-08-04T18:43:15.851Z"
-        },
-        {
-          "domain": "dashboard.mux.com",
-          "startedAt": "2026-08-04T18:43:20.950Z"
-        },
         {
           "domain": "davidprotein.com",
           "startedAt": "2026-08-04T18:43:31.140Z"
@@ -43,12 +31,24 @@
           "startedAt": "2026-08-04T18:44:12.083Z"
         },
         {
-          "domain": "deepjudge.ai",
-          "startedAt": "2026-08-04T18:44:37.550Z"
+          "domain": "deepmind.google",
+          "startedAt": "2026-08-04T18:46:19.861Z"
+        },
+        {
+          "domain": "deepwiki.com",
+          "startedAt": "2026-08-04T18:49:44.294Z"
+        },
+        {
+          "domain": "deezer.com",
+          "startedAt": "2026-08-04T18:49:59.621Z"
+        },
+        {
+          "domain": "delve.co",
+          "startedAt": "2026-08-04T18:50:15.172Z"
         }
       ],
-      "completedThisRun": 12,
-      "failedThisRun": 18
+      "completedThisRun": 14,
+      "failedThisRun": 20
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +60,18 @@
       "failedThisRun": 6
     },
     "queue": {
-      "eligibleGeneration": 1008,
-      "availableGeneration": 984,
-      "readyPublication": 20,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 980,
+      "readyPublication": 21,
       "publishedVerified": 144
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:44:34.778Z"
+      "lastSyncedAt": "2026-08-04T18:45:30.046Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:44:34.988Z",
-      "message": "Generation failed for arcee.ai with exit 1."
+      "at": "2026-08-04T18:50:10.872Z",
+      "message": "Generation failed for deepjudge.ai with exit 1."
     }
   },
   "domains": [
@@ -1988,9 +1988,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:45:07.434Z",
+      "updatedAt": "2026-08-04T18:46:17.097Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -4263,9 +4263,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:45:23.636Z",
+      "updatedAt": "2026-08-04T18:45:28.110Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -5485,9 +5485,9 @@
     },
     {
       "domain": "dashboard.internetcomputer.org",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:43:21.287Z",
+      "updatedAt": "2026-08-04T18:49:42.802Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.internetcomputer.org-design",
@@ -5498,9 +5498,9 @@
     },
     {
       "domain": "dashboard.mux.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:43:24.372Z",
+      "updatedAt": "2026-08-04T18:49:57.598Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.mux.com-design",
@@ -5565,7 +5565,7 @@
       "domain": "davidprotein.com",
       "state": "drafting",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:43:38.458Z",
+      "updatedAt": "2026-08-04T18:46:49.839Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5628,9 +5628,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:44:19.635Z",
+      "updatedAt": "2026-08-04T18:50:18.015Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -5667,9 +5667,9 @@
     },
     {
       "domain": "deepjudge.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:44:46.261Z",
+      "updatedAt": "2026-08-04T18:50:10.810Z",
       "blocker": null,
       "publication": {
         "key": "deepjudge.ai-design",
@@ -5680,9 +5680,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:46:28.791Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5706,9 +5706,9 @@
     },
     {
       "domain": "deepwiki.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:49:48.194Z",
       "blocker": null,
       "publication": {
         "key": "deepwiki.com-design",
@@ -5719,9 +5719,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:50:06.052Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -5758,9 +5758,9 @@
     },
     {
       "domain": "delve.co",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:50:17.839Z",
       "blocker": null,
       "publication": {
         "key": "delve.co-design",

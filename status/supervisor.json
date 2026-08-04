@@ -2,22 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T17:55:55.975Z",
-  "heartbeatAt": "2026-08-04T18:45:23.648Z",
+  "heartbeatAt": "2026-08-04T18:50:30.528Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "app.reve.com",
-        "startedAt": "2026-08-04T18:34:54.963Z"
-      },
-      {
-        "domain": "dashboard.internetcomputer.org",
-        "startedAt": "2026-08-04T18:43:15.851Z"
-      },
-      {
-        "domain": "dashboard.mux.com",
-        "startedAt": "2026-08-04T18:43:20.950Z"
-      },
       {
         "domain": "davidprotein.com",
         "startedAt": "2026-08-04T18:43:31.140Z"
@@ -27,12 +15,24 @@
         "startedAt": "2026-08-04T18:44:12.083Z"
       },
       {
-        "domain": "deepjudge.ai",
-        "startedAt": "2026-08-04T18:44:37.550Z"
+        "domain": "deepmind.google",
+        "startedAt": "2026-08-04T18:46:19.861Z"
+      },
+      {
+        "domain": "deepwiki.com",
+        "startedAt": "2026-08-04T18:49:44.294Z"
+      },
+      {
+        "domain": "deezer.com",
+        "startedAt": "2026-08-04T18:49:59.621Z"
+      },
+      {
+        "domain": "delve.co",
+        "startedAt": "2026-08-04T18:50:15.172Z"
       }
     ],
-    "completedThisRun": 12,
-    "failedThisRun": 18
+    "completedThisRun": 14,
+    "failedThisRun": 20
   },
   "publication": {
     "concurrency": 1,
@@ -44,17 +44,17 @@
     "failedThisRun": 6
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 984,
-    "readyPublication": 20,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 980,
+    "readyPublication": 21,
     "publishedVerified": 144
   },
   "recoveredThisRun": 7,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T18:44:34.778Z"
+    "lastSyncedAt": "2026-08-04T18:45:30.046Z"
   },
   "lastError": {
-    "at": "2026-08-04T18:44:34.988Z",
-    "message": "Generation failed for arcee.ai with exit 1."
+    "at": "2026-08-04T18:50:10.872Z",
+    "message": "Generation failed for deepjudge.ai with exit 1."
   }
 }
