@@ -40,6 +40,8 @@ The result is energetic rather than decorative. Structure comes from borders, in
 
 ## Colors
 
+24/7 Artists depends on strong, flat color fields rather than subtle tonal shifts. Near-black ink handles the question text, body text, and logo marks on pale surfaces. White or near-white surfaces hold the pricing cards, utility strip, and cookie copy. Warm peach is the most visible light-stage background, lavender supports the membership and notice panels, red powers the short slogan stages, and deep charcoal anchors the darker hero and collage compositions. Magenta is the persistent action color and also appears in edge accents and button fills.
+
 | token | value | role |
 |---|---|---|
 | `action` | `#F55BEE` | Action |
@@ -53,23 +55,6 @@ The result is energetic rather than decorative. Structure comes from borders, in
 | `surface-deep` | `#231F26` | Surface deep |
 | `surface-grid` | `#272127` | Surface grid |
 | `border` | `#272127` | Border |
-
-24/7 Artists depends on strong, flat color fields rather than subtle tonal shifts. Near-black ink handles the question text, body text, and logo marks on pale surfaces. White or near-white surfaces hold the pricing cards, utility strip, and cookie copy. Warm peach is the most visible light-stage background, lavender supports the membership and notice panels, red powers the short slogan stages, and deep charcoal anchors the darker hero and collage compositions. Magenta is the persistent action color and also appears in edge accents and button fills.
-
-| token | role |
-|---|---|
-| `action` | Primary button fill, pink accents, and highlighted edges |
-| `ink` | Main text on light surfaces |
-| `muted-ink` | Supporting copy, sublabels, and quiet metadata |
-| `canvas` | White framing space and utility surfaces |
-| `surface-paper` | White cards, panels, and strips |
-| `surface-warm` | Peach FAQ stage and warm section backgrounds |
-| `surface-lavender` | Membership stage and notice panels |
-| `surface-red` | Bold slogan stages |
-| `surface-deep` | Dark hero and collage stages |
-| `surface-grid` | Grid lines, dark structural rules, and tunnel tone |
-| `border` | Thin rules, card outlines, and row separators |
-
 The palette works best when it stays blunt. The light sections should keep borders dark and spare, so the peach and lavender fills remain the main color story. The dark sections should flip to white text and let the grid or tunnel linework supply texture instead of gradients or glow.
 
 ## Typography
