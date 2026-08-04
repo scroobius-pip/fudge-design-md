@@ -331,7 +331,7 @@ Ahrefs uses a two-mode brand rhythm. The commercial pages swing between a satura
 
 [![How ahrefsevolve.com is designed](https://pin.fontofweb.com/7037?format=jpg)](design-md/ahrefsevolve.com.md)
 
-ahrefsevolve.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#1b1f23`, with typography led by **Inter**, **Evolve V 20**, **Evolve**, and **Evolve Draft**. The guide below names reusable design roles only where the captured evidence supports them.
+Ahrefs Evolve is a conference microsite built like a sequence of event posters. The black field gives the page a stage-like base, while a giant white Evolve wordmark, orange ticket actions, and blue information blocks do most of the visual work. The hero pairs live stage photography with compact event copy, then the page moves into speaker cards, ticket tiers, social-proof walls, sponsor calls, and a blue registration form. Inter carries every practical label; Evolve V 20, Evolve Draft, and Evolve provide the oversized brand statement and its smaller accent fragments. The result feels theatrical but still direct: a ticket-first event page, not a product dashboard.
 
 [Open guide](design-md/ahrefsevolve.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ahrefsevolve.com-design)
 
