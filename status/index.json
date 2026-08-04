@@ -1,55 +1,56 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:04:31.727Z",
+  "generatedAt": "2026-08-04T18:09:43.355Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 139,
-    "failed": 24,
-    "ready": 18,
+    "failed": 23,
+    "ready": 19,
     "needs_reprocessing": 21,
-    "repairing": 4,
+    "validating": 3,
     "unpublished": 896,
-    "syncing": 1,
-    "publishing": 1,
-    "validating": 2,
-    "legacy": 93
+    "syncing": 2,
+    "repairing": 1,
+    "drafting": 1,
+    "legacy": 93,
+    "preparing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:04:29.006Z",
+    "heartbeatAt": "2026-08-04T18:09:41.544Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "aistudio.google.com",
-          "startedAt": "2026-08-04T17:55:56.541Z"
+          "domain": "alibabacloud.com",
+          "startedAt": "2026-08-04T18:06:42.126Z"
         },
         {
           "domain": "baked.design",
           "startedAt": "2026-08-04T17:55:56.528Z"
         },
         {
-          "domain": "base-ui.com",
-          "startedAt": "2026-08-04T17:55:56.475Z"
-        },
-        {
-          "domain": "betterstack.com",
-          "startedAt": "2026-08-04T17:55:56.505Z"
-        },
-        {
           "domain": "binary.so",
           "startedAt": "2026-08-04T18:02:21.018Z"
         },
         {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-04T17:55:56.536Z"
+          "domain": "blog.google",
+          "startedAt": "2026-08-04T18:06:26.794Z"
+        },
+        {
+          "domain": "bspk.xyz",
+          "startedAt": "2026-08-04T18:05:50.855Z"
+        },
+        {
+          "domain": "firstpromoter.com",
+          "startedAt": "2026-08-04T18:09:41.493Z"
         }
       ],
-      "completedThisRun": 1,
-      "failedThisRun": 0
+      "completedThisRun": 2,
+      "failedThisRun": 3
     },
     "publication": {
       "concurrency": 1,
@@ -62,17 +63,17 @@
     },
     "queue": {
       "eligibleGeneration": 1013,
-      "availableGeneration": 1012,
+      "availableGeneration": 1008,
       "readyPublication": 19,
       "publishedVerified": 139
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:01:17.916Z"
+      "lastSyncedAt": "2026-08-04T18:04:36.920Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:02:03.238Z",
-      "message": "Publication failed for baremettle.com with exit 1."
+      "at": "2026-08-04T18:09:38.880Z",
+      "message": "Generation failed for base-ui.com with exit 1."
     }
   },
   "domains": [
@@ -1027,9 +1028,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:02:55.852Z",
+      "updatedAt": "2026-08-04T18:06:37.289Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1105,9 +1106,9 @@
     },
     {
       "domain": "alibabacloud.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:25:48.176Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:09:18.000Z",
       "blocker": null,
       "publication": {
         "key": "alibabacloud.com-design",
@@ -2795,9 +2796,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:01:04.190Z",
+      "updatedAt": "2026-08-04T18:09:16.604Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2873,9 +2874,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:02:23.203Z",
+      "updatedAt": "2026-08-04T18:09:38.812Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2964,14 +2965,14 @@
     },
     {
       "domain": "bbc.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:04:29.000Z",
+      "updatedAt": "2026-08-04T18:04:33.937Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/bbc.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/bbc.com-design.md",
         "githubUrl": null
       }
     },
@@ -3094,9 +3095,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:03:49.921Z",
+      "updatedAt": "2026-08-04T18:05:49.024Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3133,9 +3134,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:04:28.883Z",
+      "updatedAt": "2026-08-04T18:09:08.320Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3172,9 +3173,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:04:17.919Z",
+      "updatedAt": "2026-08-04T18:06:21.881Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3289,9 +3290,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:16:02.003Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:06:29.727Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3640,9 +3641,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:15:16.582Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:08:48.510Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -7670,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:27:28.116Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:09:41.615Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
