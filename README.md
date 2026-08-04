@@ -1395,7 +1395,7 @@ D&AD reads as an institution for finding, sorting, and presenting creative work.
 
 [![How danielsun.space is designed](https://pin.fontofweb.com/8691?format=jpg)](design-md/danielsun.space.md)
 
-danielsun.space presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f5`, and `#767676`, with typography led by **System**, **Inter**, **Reddit Sans Condensed**, **Caveat**, and **Inter Tight**. The guide below names reusable design roles only where the captured evidence supports them.
+danielsun.space is a personal portfolio system built around one clear contrast: a bright, high-key canvas against very heavy black type. The page feels authored, not templated. A centered pill navigation floats above the content, then the hero drops into a friendly intro line and an oversized condensed name lockup that spills beyond the viewport. Yellow diagonal light bands cut across the white field and give the home screen its energy.
 
 [Open guide](design-md/danielsun.space.md) · [View the Fudge conversation](https://design.withfudge.com/share/danielsun.space-design)
 
