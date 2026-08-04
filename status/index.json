@@ -1,78 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:57:31.264Z",
+  "generatedAt": "2026-08-04T16:59:24.526Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 130,
-    "syncing": 1,
+    "published_verified": 131,
     "failed": 34,
-    "ready": 16,
+    "ready": 15,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 3,
     "repairing": 2,
-    "drafting": 1,
+    "drafting": 4,
+    "publishing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:57:29.487Z",
+    "heartbeatAt": "2026-08-04T16:59:22.393Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-04T16:44:48.886Z"
-        },
-        {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-04T16:44:53.989Z"
-        },
-        {
           "domain": "baked.design",
           "startedAt": "2026-08-04T16:52:47.476Z"
-        },
-        {
-          "domain": "baremettle.com",
-          "startedAt": "2026-08-04T16:48:40.736Z"
         },
         {
           "domain": "base-ui.com",
           "startedAt": "2026-08-04T16:53:33.634Z"
         },
         {
+          "domain": "bbc.com",
+          "startedAt": "2026-08-04T16:58:05.176Z"
+        },
+        {
           "domain": "besimple.ai",
           "startedAt": "2026-08-04T16:57:14.111Z"
+        },
+        {
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-04T16:57:54.966Z"
+        },
+        {
+          "domain": "bkid.co",
+          "startedAt": "2026-08-04T16:59:01.695Z"
         }
       ],
-      "completedThisRun": 54,
-      "failedThisRun": 34
+      "completedThisRun": 55,
+      "failedThisRun": 36
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "adject.ai",
-        "startedAt": "2026-08-04T16:52:10.291Z"
+        "domain": "daisyui.com",
+        "startedAt": "2026-08-04T16:59:22.343Z"
       },
-      "completedThisRun": 26,
-      "failedThisRun": 11
+      "completedThisRun": 27,
+      "failedThisRun": 12
     },
     "queue": {
       "eligibleGeneration": 1025,
-      "availableGeneration": 1010,
+      "availableGeneration": 1007,
       "readyPublication": 16,
-      "publishedVerified": 130
+      "publishedVerified": 131
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:52:27.849Z"
+      "lastSyncedAt": "2026-08-04T16:57:37.119Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:57:12.411Z",
-      "message": "Generation failed for arcee.ai with exit 1."
+      "at": "2026-08-04T16:58:24.661Z",
+      "message": "Publication failed for adject.ai with exit 1."
     }
   },
   "domains": [
@@ -663,9 +662,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:52:18.691Z",
+      "updatedAt": "2026-08-04T16:58:24.587Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -975,15 +974,15 @@
     },
     {
       "domain": "airbnb.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:12:57.059Z",
+      "updatedAt": "2026-08-04T16:59:17.971Z",
       "blocker": null,
       "publication": {
         "key": "airbnb.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/airbnb.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/airbnb.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/airbnb.com.md"
       }
     },
     {
@@ -1495,9 +1494,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:56:11.152Z",
+      "updatedAt": "2026-08-04T16:57:50.673Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1988,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:57:05.451Z",
+      "updatedAt": "2026-08-04T16:58:04.764Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2795,9 +2794,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:57:21.173Z",
+      "updatedAt": "2026-08-04T16:58:24.337Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2860,9 +2859,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:56:35.306Z",
+      "updatedAt": "2026-08-04T16:58:56.791Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2964,9 +2963,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:06:34.961Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:58:10.978Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3094,9 +3093,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:02:03.536Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:58:04.172Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3172,9 +3171,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:09:01.700Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:59:04.246Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -5369,9 +5368,9 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:12:58.453Z",
+      "updatedAt": "2026-08-04T16:59:22.391Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
