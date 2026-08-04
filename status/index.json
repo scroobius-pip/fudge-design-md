@@ -1,47 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:23:19.093Z",
+  "generatedAt": "2026-08-04T14:26:32.939Z",
   "counts": {
-    "skipped_one_image": 523,
+    "skipped_one_image": 524,
     "skipped_recent": 9,
     "published_verified": 104,
-    "failed": 79,
-    "preparing": 6,
+    "failed": 78,
     "needs_reprocessing": 21,
     "unpublished": 896,
+    "preparing": 6,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T14:23:15.986Z",
-    "heartbeatAt": "2026-08-04T14:23:16.641Z",
+    "startedAt": "2026-08-04T14:26:30.284Z",
+    "heartbeatAt": "2026-08-04T14:26:30.859Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "agentation.dev",
-          "startedAt": "2026-08-04T14:23:16.357Z"
+          "domain": "aol.com",
+          "startedAt": "2026-08-04T14:26:30.638Z"
         },
         {
-          "domain": "agenticui.net",
-          "startedAt": "2026-08-04T14:23:16.363Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-04T14:26:30.654Z"
         },
         {
-          "domain": "ahrefsevolve.com",
-          "startedAt": "2026-08-04T14:23:16.368Z"
+          "domain": "app.brevo.com",
+          "startedAt": "2026-08-04T14:26:30.651Z"
         },
         {
-          "domain": "aino.agency",
-          "startedAt": "2026-08-04T14:23:16.373Z"
+          "domain": "app.quiver.ai",
+          "startedAt": "2026-08-04T14:26:30.657Z"
         },
         {
-          "domain": "almost-pearfect.com",
-          "startedAt": "2026-08-04T14:23:16.459Z"
+          "domain": "app.reve.com",
+          "startedAt": "2026-08-04T14:26:30.661Z"
         },
         {
-          "domain": "ami.dev",
-          "startedAt": "2026-08-04T14:23:16.498Z"
+          "domain": "app.superlist.com",
+          "startedAt": "2026-08-04T14:26:30.664Z"
         }
       ],
       "completedThisRun": 0,
@@ -54,11 +54,12 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1070,
+      "eligibleGeneration": 1075,
+      "availableGeneration": 1069,
       "readyPublication": 0,
       "publishedVerified": 104
     },
-    "recoveredThisRun": 13,
+    "recoveredThisRun": 6,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -795,10 +796,10 @@
     },
     {
       "domain": "agentation.dev",
-      "state": "preparing",
+      "state": "skipped_one_image",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:23:16.728Z",
-      "blocker": null,
+      "updatedAt": "2026-08-04T14:23:24.417Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "agentation.dev-design",
         "url": null,
@@ -808,9 +809,9 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:23:16.684Z",
+      "updatedAt": "2026-08-04T14:26:30.505Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
@@ -847,9 +848,9 @@
     },
     {
       "domain": "ahrefsevolve.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:23:16.694Z",
+      "updatedAt": "2026-08-04T14:26:30.507Z",
       "blocker": null,
       "publication": {
         "key": "ahrefsevolve.com-design",
@@ -925,9 +926,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:23:16.675Z",
+      "updatedAt": "2026-08-04T14:26:30.509Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1159,9 +1160,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:23:16.881Z",
+      "updatedAt": "2026-08-04T14:26:30.509Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1250,9 +1251,9 @@
     },
     {
       "domain": "ami.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:23:16.862Z",
+      "updatedAt": "2026-08-04T14:26:30.510Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
@@ -1264,8 +1265,8 @@
     {
       "domain": "ampcode.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:23:30.362Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:30.510Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -1432,9 +1433,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:26:48.209Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:30.900Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1484,9 +1485,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:39:53.449Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:31.029Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1575,9 +1576,9 @@
     },
     {
       "domain": "app.brevo.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:37:21.761Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:30.912Z",
       "blocker": null,
       "publication": {
         "key": "app.brevo.com-design",
@@ -1965,9 +1966,9 @@
     },
     {
       "domain": "app.quiver.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:48:29.482Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:30.981Z",
       "blocker": null,
       "publication": {
         "key": "app.quiver.ai-design",
@@ -1978,9 +1979,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:55:08.137Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:31.069Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2082,9 +2083,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:05:59.324Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:26:30.981Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
