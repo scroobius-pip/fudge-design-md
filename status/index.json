@@ -1,27 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:27:12.094Z",
+  "generatedAt": "2026-08-04T18:32:23.248Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 142,
-    "failed": 23,
-    "ready": 17,
+    "drafting": 1,
+    "ready": 18,
     "needs_reprocessing": 21,
-    "drafting": 4,
-    "unpublished": 896,
-    "publishing": 1,
     "repairing": 2,
+    "unpublished": 896,
+    "validating": 3,
+    "failed": 22,
+    "syncing": 1,
     "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:27:10.096Z",
+    "heartbeatAt": "2026-08-04T18:32:21.703Z",
     "generation": {
       "concurrency": 6,
       "active": [
+        {
+          "domain": "adject.ai",
+          "startedAt": "2026-08-04T18:32:06.379Z"
+        },
         {
           "domain": "aino.agency",
           "startedAt": "2026-08-04T18:25:12.274Z"
@@ -31,24 +36,20 @@
           "startedAt": "2026-08-04T18:24:00.757Z"
         },
         {
+          "domain": "ampcode.com",
+          "startedAt": "2026-08-04T18:30:08.887Z"
+        },
+        {
           "domain": "app.superlist.com",
           "startedAt": "2026-08-04T18:25:48.217Z"
-        },
-        {
-          "domain": "codepen.io",
-          "startedAt": "2026-08-04T18:17:27.122Z"
-        },
-        {
-          "domain": "cofounder.co",
-          "startedAt": "2026-08-04T18:26:23.955Z"
         },
         {
           "domain": "cosmos.so",
           "startedAt": "2026-08-04T18:21:32.514Z"
         }
       ],
-      "completedThisRun": 6,
-      "failedThisRun": 11
+      "completedThisRun": 7,
+      "failedThisRun": 12
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +61,18 @@
       "failedThisRun": 4
     },
     "queue": {
-      "eligibleGeneration": 1012,
-      "availableGeneration": 997,
+      "eligibleGeneration": 1011,
+      "availableGeneration": 995,
       "readyPublication": 18,
       "publishedVerified": 142
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:25:08.251Z"
+      "lastSyncedAt": "2026-08-04T18:27:19.837Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:25:59.376Z",
-      "message": "Publication failed for aura.build with exit 1."
+      "at": "2026-08-04T18:30:04.722Z",
+      "message": "Generation failed for codepen.io with exit 1."
     }
   },
   "domains": [
@@ -662,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:56.292Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:32:10.834Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -935,9 +936,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:25:51.865Z",
+      "updatedAt": "2026-08-04T18:32:03.559Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1169,9 +1170,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:24:05.895Z",
+      "updatedAt": "2026-08-04T18:32:15.497Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1273,9 +1274,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:54:53.843Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:32:06.914Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -2092,9 +2093,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:25:52.397Z",
+      "updatedAt": "2026-08-04T18:31:45.583Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -3496,14 +3497,14 @@
     },
     {
       "domain": "brave.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:27:10.091Z",
+      "updatedAt": "2026-08-04T18:27:15.302Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/brave.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/brave.com-design.md",
         "githubUrl": null
       }
     },
@@ -4705,9 +4706,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:26:37.509Z",
+      "updatedAt": "2026-08-04T18:30:04.667Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4744,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:26:29.150Z",
+      "updatedAt": "2026-08-04T18:32:03.806Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5004,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:25:42.526Z",
+      "updatedAt": "2026-08-04T18:31:41.394Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
