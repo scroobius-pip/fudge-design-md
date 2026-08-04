@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T22:54:22.184Z",
-  "heartbeatAt": "2026-08-04T22:54:22.499Z",
+  "heartbeatAt": "2026-08-04T22:59:31.803Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "deepwiki.com",
-        "startedAt": "2026-08-04T22:54:22.411Z"
+        "domain": "stateof.mozilla.org",
+        "startedAt": "2026-08-04T22:59:26.575Z"
       },
       {
-        "domain": "opencollective.com",
-        "startedAt": "2026-08-04T22:54:22.408Z"
+        "domain": "stateofopensource.ai",
+        "startedAt": "2026-08-04T22:59:21.469Z"
       },
       {
-        "domain": "openinterpreter.com",
-        "startedAt": "2026-08-04T22:54:22.407Z"
+        "domain": "stitch.withgoogle.com",
+        "startedAt": "2026-08-04T22:59:26.574Z"
       },
       {
-        "domain": "openknowledge.ai",
-        "startedAt": "2026-08-04T22:54:22.410Z"
+        "domain": "stock.adobe.com",
+        "startedAt": "2026-08-04T22:59:21.469Z"
       },
       {
-        "domain": "openrouter.ai",
-        "startedAt": "2026-08-04T22:54:22.411Z"
+        "domain": "stripe.dev",
+        "startedAt": "2026-08-04T22:59:31.749Z"
       },
       {
-        "domain": "opensource.googleblog.com",
-        "startedAt": "2026-08-04T22:54:22.409Z"
+        "domain": "subq.ai",
+        "startedAt": "2026-08-04T22:59:31.750Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 138
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 865,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T22:54:28.910Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T22:59:31.701Z",
+    "message": "Generation failed for storybook.js.org with exit 1."
+  }
 }
