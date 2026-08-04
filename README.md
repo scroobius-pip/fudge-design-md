@@ -2103,6 +2103,14 @@ Kleio is a stripped-back SaaS landing page built around a single idea: reduce vi
 
 [Open guide](design-md/getkleio.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/getkleio.com-design)
 
+### getmesa.dev
+
+[![How getmesa.dev is designed](https://pin.fontofweb.com/8058?format=jpg)](design-md/getmesa.dev.md)
+
+Mesa reads like a dark studio for software work rather than a conventional marketing site. The page is built around a single idea: one canvas can hold the whole stack. That idea is expressed with huge centered type, short supporting copy, and dense technical panels that look closer to an editor, terminal, and workspace map than to a glossy product brochure.
+
+[Open guide](design-md/getmesa.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/getmesa.dev-design)
+
 ### getomni.ai
 
 [![How getomni.ai is designed](https://pin.fontofweb.com/6871?format=jpg)](design-md/getomni.ai.md)
