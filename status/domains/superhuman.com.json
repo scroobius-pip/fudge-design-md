@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "superhuman.com",
-  "state": "preparing",
+  "state": "failed",
   "attempt": 1,
-  "updatedAt": "2026-08-04T21:00:36.863Z",
+  "updatedAt": "2026-08-04T21:02:01.828Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -13,7 +13,7 @@
     }
   },
   "artifacts": {
-    "imageCount": null
+    "imageCount": 8
   },
   "publication": {
     "key": "superhuman.com-design",
@@ -21,5 +21,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": null
+  "failure": "generation_or_publication_failed"
 }
