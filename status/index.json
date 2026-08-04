@@ -1,73 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:49:17.766Z",
+  "generatedAt": "2026-08-04T14:54:00.841Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 110,
-    "failed": 71,
+    "published_verified": 111,
+    "failed": 70,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 3,
-    "repairing": 1,
-    "drafting": 2,
+    "repairing": 2,
+    "drafting": 4,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:49:15.713Z",
+    "heartbeatAt": "2026-08-04T14:53:57.688Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "baked.design",
-          "startedAt": "2026-08-04T14:40:12.322Z"
-        },
-        {
-          "domain": "baremettle.com",
-          "startedAt": "2026-08-04T14:40:48.074Z"
-        },
-        {
           "domain": "base-ui.com",
           "startedAt": "2026-08-04T14:42:15.384Z"
-        },
-        {
-          "domain": "base44.com",
-          "startedAt": "2026-08-04T14:43:52.717Z"
         },
         {
           "domain": "baselight.ai",
           "startedAt": "2026-08-04T14:48:29.519Z"
         },
         {
-          "domain": "dfy.co.kr",
-          "startedAt": "2026-08-04T14:37:48.626Z"
+          "domain": "baseten.co",
+          "startedAt": "2026-08-04T14:51:54.418Z"
+        },
+        {
+          "domain": "bbc.com",
+          "startedAt": "2026-08-04T14:51:59.527Z"
+        },
+        {
+          "domain": "behance.net",
+          "startedAt": "2026-08-04T14:52:40.609Z"
+        },
+        {
+          "domain": "bengalturf.yolasite.com",
+          "startedAt": "2026-08-04T14:53:16.663Z"
         }
       ],
-      "completedThisRun": 6,
-      "failedThisRun": 6
+      "completedThisRun": 7,
+      "failedThisRun": 9
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 6,
+      "completedThisRun": 7,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1062,
-      "availableGeneration": 1057,
+      "eligibleGeneration": 1061,
+      "availableGeneration": 1053,
       "readyPublication": 0,
-      "publishedVerified": 110
+      "publishedVerified": 111
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:44:47.045Z"
+      "lastSyncedAt": "2026-08-04T14:49:22.369Z"
     },
     "lastError": {
-      "at": "2026-08-04T14:40:45.257Z",
-      "message": "Generation failed for arcee.ai with exit 1."
+      "at": "2026-08-04T14:52:35.882Z",
+      "message": "Generation failed for baked.design with exit 1."
     }
   },
   "domains": [
@@ -2790,9 +2789,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:48:59.938Z",
+      "updatedAt": "2026-08-04T14:52:35.808Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2855,9 +2854,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:48:08.759Z",
+      "updatedAt": "2026-08-04T14:51:51.552Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2870,7 +2869,7 @@
       "domain": "base-ui.com",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:49:09.776Z",
+      "updatedAt": "2026-08-04T14:52:40.388Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2881,22 +2880,22 @@
     },
     {
       "domain": "base44.com",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:48:36.537Z",
+      "updatedAt": "2026-08-04T14:53:57.450Z",
       "blocker": null,
       "publication": {
         "key": "base44.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/base44.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/base44.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/base44.com.md"
       }
     },
     {
       "domain": "baselight.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:48:36.506Z",
+      "updatedAt": "2026-08-04T14:53:28.926Z",
       "blocker": null,
       "publication": {
         "key": "baselight.ai-design",
@@ -2946,9 +2945,9 @@
     },
     {
       "domain": "baseten.co",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:39.861Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:52:02.061Z",
       "blocker": null,
       "publication": {
         "key": "baseten.co-design",
@@ -2959,9 +2958,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:45.107Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:52:03.596Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -2985,9 +2984,9 @@
     },
     {
       "domain": "behance.net",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:54.130Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:52:53.255Z",
       "blocker": null,
       "publication": {
         "key": "behance.net-design",
@@ -3024,9 +3023,9 @@
     },
     {
       "domain": "bengalturf.yolasite.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:59.790Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:53:20.642Z",
       "blocker": null,
       "publication": {
         "key": "bengalturf.yolasite.com-design",
@@ -6092,9 +6091,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:38:13.399Z",
+      "updatedAt": "2026-08-04T14:51:55.075Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
