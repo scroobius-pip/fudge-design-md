@@ -1387,7 +1387,7 @@ daisyui.com presents a predominantly light surface treatment in the captured pag
 
 [![How dandad.org is designed](https://pin.fontofweb.com/9795?format=jpg)](design-md/dandad.org.md)
 
-dandad.org presents a predominantly light surface treatment in the captured pages. The system is anchored by `#161616`, `#ffffff`, and `#ebe8f5`, with typography led by **D** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+D&AD reads as an institution for finding, sorting, and presenting creative work. The system is spare, direct, and editorial. White space carries most of the composition, near-black type carries the message, and a single yellow accent carries the active state. The page never feels decorative for its own sake. It feels edited. That is the core visual promise: a calm archive with strong hierarchy and clear paths for browsing.
 
 [Open guide](design-md/dandad.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dandad.org-design)
 

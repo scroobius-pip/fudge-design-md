@@ -2,134 +2,170 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dandad.org-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Search results for cinematography | D&AD](https://pin.fontofweb.com/9795?format=jpg)](https://design.withfudge.com/share/pin-9795)
+[![Giant search headline with rounded filter chips and result cards](https://pin.fontofweb.com/9795?format=jpg)](https://design.withfudge.com/share/pin-9795)
 
-[Search results for cinematography | D&AD](https://design.withfudge.com/share/pin-9795)
+[Giant search headline with rounded filter chips and result cards](https://design.withfudge.com/share/pin-9795)
 
-[![D&AD](https://pin.fontofweb.com/9794?format=jpg)](https://design.withfudge.com/share/pin-9794)
+[![Full-width search field above topic chips and the yellow about band](https://pin.fontofweb.com/9794?format=jpg)](https://design.withfudge.com/share/pin-9794)
 
-[D&AD](https://design.withfudge.com/share/pin-9794)
+[Full-width search field above topic chips and the yellow about band](https://design.withfudge.com/share/pin-9794)
 
-[![D&AD](https://pin.fontofweb.com/9793?format=jpg)](https://design.withfudge.com/share/pin-9793)
+[![Saturated yellow inspiration strip with boxed topics and a cropped tile](https://pin.fontofweb.com/9793?format=jpg)](https://design.withfudge.com/share/pin-9793)
 
-[D&AD](https://design.withfudge.com/share/pin-9793)
+[Saturated yellow inspiration strip with boxed topics and a cropped tile](https://design.withfudge.com/share/pin-9793)
 
-[![D&AD](https://pin.fontofweb.com/9792?format=jpg)](https://design.withfudge.com/share/pin-9792)
+[![New Blood archive title with active pills and a dense award-card grid](https://pin.fontofweb.com/9792?format=jpg)](https://design.withfudge.com/share/pin-9792)
 
-[D&AD](https://design.withfudge.com/share/pin-9792)
-
-[![D&AD New Blood Awards archive](https://pin.fontofweb.com/9787?format=jpg)](https://design.withfudge.com/share/pin-9787)
-
-[D&AD New Blood Awards archive](https://design.withfudge.com/share/pin-9787)
+[New Blood archive title with active pills and a dense award-card grid](https://design.withfudge.com/share/pin-9792)
 
 ## Overview
 
-dandad.org presents a predominantly light surface treatment in the captured pages. The system is anchored by `#161616`, `#ffffff`, and `#ebe8f5`, with typography led by **D** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+D&AD reads as an institution for finding, sorting, and presenting creative work. The system is spare, direct, and editorial. White space carries most of the composition, near-black type carries the message, and a single yellow accent carries the active state. The page never feels decorative for its own sake. It feels edited. That is the core visual promise: a calm archive with strong hierarchy and clear paths for browsing.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#161616` | text on page content |
-| color.surface | `#ffffff` | surface on page content |
-| color.surface | `#ebe8f5` | surface on page content |
-| color.surface | `#ffc700` | surface on page content in the button |
-| color.surface | `#f0eee9` | surface on page content in the button |
-| color.text | `#000000` | text on page content |
-| color.border | `#cecece` | border on page content in the footer |
-| color.border | `#222222` | border on page content |
-| color.surface | `#2a2a2a` | surface on page content in the button |
-| color.text | `#b6b6b6` | text on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-14px | **D** | 14px | 400 | 20px | 0.5px | <div>, <body>, <section> in the main, <main> in the main, <div> in the main, <aside> in the aside, <footer> in the footer, <p> in the aside, <article> in the main, <p> in the main, <img> in the main, <figure> in the main, <svg> in the footer, <div> in the footer, <article> in the footer, <a> in the footer, <img> in the footer, <form>, <button> in the button, <section>, <article>, <a>, <img>, <figure>, <span>, <ul> in the nav, <li> in the nav, and <div> in the nav |
-| type.body-20px | **D** | 20px | 400 | 25px | 0.5px | <a> in the main, <p> in the main, <p> in the footer, <input>, and <h3> |
-| type.display-95px | **D** | 95px | 500 | 95px | 1px | <span> in the button, <button> in the button, <svg> in the button, and <h1> in the main |
-| type.display-58px | **D** | 58px | 500 | 58px | 1px | <h2>, <p>, and <a> |
-| type.body-16px | **D** | 16px | 400 | 24px | normal | <html> |
-| type.utility-12px | **D** | 12px | 400 | 14.4px | 0.5px | <button> in the button, <p> in the footer, <span>, <div>, <a> in the nav, <span> in the main, and <div> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `20px` | padding-top | page content |
-| `20px` | padding-bottom | page content |
-| `20px` | margin-top | page content |
-| `20px 0px 0px` | margin | page content |
-| `5px` | padding-right | page content |
-| `20px 0px` | padding | page content |
-| `5px` | padding-left | page content |
-| `0px 5px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 5px`, `1px solid 5px`, `1px 0px 0px solid 0px`, `5px solid 9999px`, `1px solid 5px`, and `0px none 9999px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 4px 6.9px 0px, rgba(0, 0, 0, 0.04) 0px 1px 0px 0px`.
+The strongest identity markers are easy to keep aligned: oversized D-500 headlines, compact pill filters, thin separators, 5px corner radii, and image-led cards. D-400 handles the smaller text layers, while D-500 owns the large display moments. D-400 and D-500 are credited to Briton Smith and Family Type. The mix is disciplined enough to hold dense content, but warm enough to keep the site from feeling clinical.
 
 ## Colors
 
-The visual system is predominantly light surface treatment. Surface colors include `#ffffff`, `#ebe8f5`, and `#ffc700`. Text colors include `#161616`, `#000000`, and `#b6b6b6`. Keep image-derived colors separate from interface colors.
+The palette is narrow and role-based. White is the default field. Near-black and black split headlines, utility text, and the deepest controls. Warm neutrals and pale lavender soften cards and panels without introducing extra decoration. Yellow is the only strong accent and should stay reserved for selection, featured bands, and the most important browsing controls.
+
+| token | hex | use |
+|---|---|---|
+| `canvas` | `#FFFFFF` | Main page background, card base, footer field, and the open negative space between sections |
+| `ink` | `#161616` | Primary body copy, navigation, labels, and most headings |
+| `ink-strong` | `#000000` | Deepest text tone, brand mark edges, and the hardest contrast moments |
+| `ink-soft` | `#222222` | Dark chip fills, utility buttons, and heavier control surfaces |
+| `ink-muted` | `#2A2A2A` | Pressed dark controls and the most subdued dark background role |
+| `neutral` | `#B6B6B6` | Inactive utility text, de-emphasized metadata, and quiet icon accents |
+| `border` | `#CECECE` | Search field outlines, card rules, and thin separators in dense lists |
+| `surface-warm` | `#F0EEE9` | Neutral chips, calm selection pills, and soft panel backings |
+| `surface-lavender` | `#EBE8F5` | Alternate panel fill for archive, course, and editorial surfaces |
+| `action` | `#FFC700` | Selected filters, featured bands, highlighted pills, and the primary brand signal |
+
+The light mode relationship is simple: white carries the layout, black carries readability, and yellow marks the current path. The two soft surfaces support cards and chips without competing with imagery. Dark fills appear only in small controls where the page needs a stronger stop. That keeps the system bright, legible, and restrained even when the content grid gets dense. The photographs and posters supply most of the color energy; the interface should stay quiet enough to frame them.
 
 ## Typography
 
-The captured type system uses **D** and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The typography is built from one face family and one fallback utility face. D-500 owns the oversized display cuts. D-400 handles navigation, body copy, labels, metadata, and card text. Applesystem appears only as a utility fallback where the interface needs a plain system voice. The visible rhythm depends on that split: the page uses large scale jumps for structure, then keeps smaller text compact and steady so the browsing surface stays readable.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | D-500 | 5.9375rem | 500 | 1 | 0.01em | Page-level search and archive titles |
+| `section-display` | D-500 | 3.625rem | 500 | 1 | 0.01em | Major archive and landing headings |
+| `card-title` | D-400 | 1.25rem | 400 | 1.25 | 0.025em | Result titles, course names, and card headings |
+| `body` | D-400 | 0.875rem | 400 | 1.43 | 0.036em | Navigation, metadata, labels, and short supporting copy |
+| `label` | D-400 | 0.75rem | 400 | 1.2 | 0.042em | Small chips, controls, and utility text |
+| `utility` | Applesystem | 0.875rem | 400 | 1.43 | 0em | Fallback utility text when the system face appears |
+
+The type scale is intentionally blunt. The display cuts are large enough to dominate the viewport without needing stylization. The body range stays compact so rows of filters, card metadata, and footer links can live together without noise. Slight tracking helps the smaller text breathe inside pills and compact controls. D-500 gives the site its institutional confidence; D-400 keeps that confidence usable at browsing scale.
 
 ## Layout
 
-The captured pages use values such as `20px`, `20px`, `20px`, `20px 0px 0px`, and `5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page is organized like a library with a front desk. The header sits on a white field with a quiet utility line and a long horizontal nav. Below it, the main story starts immediately: a very large title, then a strip of rounded filters, then a grid of cards. Search pages favor a strong title block followed by a compact control row, so the first screen communicates the subject and the available actions at once. Nothing is hidden behind a second layer of chrome.
+
+Archive views use the same structure but lean harder into browsing density. Titles are left aligned and oversized. Active and inactive pills sit below them, then the card grid takes over with wide gutters and clear separation between items. The cards are wide enough for poster imagery and a short title without becoming a magazine stack. Large empty areas are deliberate. They give the page room to breathe and keep the hierarchy easy to scan.
+
+The yellow editorial band changes the rhythm. It interrupts the white field with a saturated strip, then uses boxed topics and a cropped image tile to anchor the section. This is the page’s strongest contrast move, and it works because the band is simple: strong color, bold typography, thin outlines, and one image cue. Footer layout is the opposite. It becomes a calm multi-column index with link groups, social tiles, and legal copy. It stretches across the page but stays visually quiet.
+
+The system should maintain the same layout logic across home, search, archive, and insight views. Titles, filters, and cards should keep their order even when the content density changes. The page feels coherent because it never switches to a different structural language for different sections. Instead, it changes emphasis through scale, color, and spacing.
 
 ## Visual language
 
-The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ffffff`, `#ebe8f5`, `#ffc700`, and `#f0eee9`. Depth is supported by the returned shadows.
+D&AD relies on restraint plus one strong interruption. The restraint is the white background, thin borders, and near-square 5px corners. The interruption is the yellow accent and the large display type. Together they create a system that feels editorial rather than glossy. The page trusts content to do the heavy lifting, then uses a few disciplined shapes to group it.
 
-## Components and states
+Cards and chips are the main geometry. Chips are fully rounded and compact, with yellow for active states and soft neutrals for inactive states. Cards are rectangular and flat, with little or no depth. Imagery supplies variation: posters, stills, and module photos bring the color while the interface stays calm. Titles usually sit close to images, which keeps each card readable at a glance. The visual rhythm is built from alignment, spacing, and scale rather than ornament.
 
-The captured pages include repeated styling on <div>, <html>, <body>, <section>, <main>, <aside>, <footer>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The system should avoid anything that makes it feel synthetic or over-finished. No glassy surfaces. No floating shadows as a default language. No gradient program. No decorative framing around content. Even the dark controls are small and functional. The page works because the palette is narrow and the shapes are simple. That discipline makes the large titles feel more authoritative and the cards feel more archival.
+
+## Components
+
+### Header and utility row
+
+**Anatomy:** left brand mark, horizontal navigation, and right-aligned utility links with small controls.  
+**Surface:** white canvas with no heavy framing.  
+**Typography:** compact D-400 body text with restrained tracking.  
+**Composition:** the header should stretch wide and stay subordinate to the main title beneath it.  
+**Visible states:** the current destination should remain quiet but legible; utility items should not compete with the page title.
+
+### Search field and filter chips
+
+**Anatomy:** full-width search input, small clear control, then a dense row of pills.  
+**Surface:** white or warm-neutral field with a thin border and tight internal padding.  
+**Shape:** the input keeps a small 5px radius; chips are fully rounded.  
+**Hierarchy:** the search field is the primary control, while chips refine the query and limit the result set.  
+**Variants:** neutral chips use warm gray; selected chips use yellow; some utility pills use dark fills with light text.  
+**Visible states:** the active chip must read as selected immediately without needing extra decoration.
+
+### Result and archive cards
+
+**Anatomy:** image, small category label or result context, then the title.  
+**Surface:** flat white cards or pale panels with a faint border.  
+**Typography:** card titles sit around 1.25rem; metadata is smaller and tighter.  
+**Spacing:** cards need enough breathing room to avoid a crowded gallery feel.  
+**Composition:** posters and stills should lead; text should confirm the subject without crowding the image.  
+**Visible states:** linked titles can use an underline or similar cue to signal clickability.
+
+### Yellow editorial band
+
+**Anatomy:** full-width yellow surface, boxed topic chips, large supporting phrase, and a cropped image tile.  
+**Surface:** action yellow dominates the strip, with dark text and outlines for legibility.  
+**Shape:** chips stay pill-like or lightly rounded; the image tile remains rectangular.  
+**Composition:** let the band feel like a featured chapter break rather than a banner ad.  
+**Hierarchy:** topic chips should carry the browsing logic; the image should anchor the left or lower edge.  
+**Visible states:** the band should feel bold but not noisy; its power comes from scale and restraint together.
+
+### Footer and cookie control
+
+**Anatomy:** multi-column link groups, social icon tiles, legal line, and a small cookie settings pill.  
+**Surface:** white, quiet, and text-led.  
+**Typography:** body size and smaller utility size only; no large display copy here.  
+**Spacing:** column groups need large gaps and clear vertical separation.  
+**Visible states:** the cookie control should stay compact and dark, with readable contrast and a clear boundary.  
+**Composition:** the footer should read as a directory, not as a secondary hero.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The desktop structure should collapse without changing the language. Keep the title first, then the filter chips, then the card grid, then the footer. On narrower screens, the chip row should wrap before the title shrinks too aggressively. Card grids should reduce from wider multi-column layouts to fewer columns while preserving the same border, radius, and spacing logic. The yellow editorial band should stay full-width instead of turning into a boxed card. The main adjustment on small screens is spacing discipline, not a new visual style.
+
+Typography should also stay proportional. The largest display cut may step down, but it should still feel oversized relative to body text and filters. Chips should remain pill-shaped and legible. Footer columns should stack into readable groups rather than compress into a single dense block. The responsive goal is continuity: same visual grammar, smaller footprint.
 
 ## Practical implementation guidance
 
-- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep D-500 as the display voice and D-400 as the body and control voice.
+- Keep white as the main canvas and yellow as the main action signal.
+- Preserve 5px corners on cards and controls.
+- Keep the interface flat; let borders, spacing, and image crops define structure.
+- Retain the strong archive feel: browsable, calm, and information-dense.
+
+### Avoid
+
+- Avoid adding soft shadows to cards or chips.
+- Avoid replacing yellow with a second bright accent.
+- Avoid full-card gradients or glassy surfaces.
+- Avoid over-rounding everything; the system depends on a mix of pills and restrained rectangles.
+- Avoid shrinking the footer into a generic icon bar; it should remain a readable index.
+
+### Recommended build order
+
+1. Set the canvas, ink, action, border, and soft surface tokens.
+2. Lock the 95px and 58px headline scale before adding any layout chrome.
+3. Build the header, search field, and chip row as one shared control system.
+4. Add the result and archive card grid with consistent image framing.
+5. Finish with the yellow editorial band and the full footer index.
+
+### Accessibility
+
+- Keep yellow chips paired with dark text so small labels remain readable.
+- Preserve visible focus styles on inputs, chips, links, and footer controls.
+- Keep link cues non-color-only; underlines work well for result titles.
+- Provide descriptive alt text for posters, stills, and logo marks.
+- Let small utility text wrap before truncating so legal and navigation copy stays legible.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#161616`
-- `#ffffff`
-- `#ebe8f5`
-- `#ffc700`
-- `#f0eee9`
-- `#000000`
-- `#cecece`
-- `#222222`
-- `#2a2a2a`
-- `#b6b6b6`
-
-## Typography captured from dandad.org
-
-- **D** — weight 400 · size 16px
-- **Applesystem** — weight 400 · size 14px
+This guide covers the white home and search surfaces, the yellow inspiration band, the New Blood archive layout, and the shared footer. It does not define mobile-specific layouts, motion, hover choreography, loading states, empty states, or behavior on unshown subpages.
