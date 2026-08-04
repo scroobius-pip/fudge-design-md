@@ -1123,7 +1123,7 @@ Chainlift presents LiftKit as a precision-minded UI framework. The page is almos
 
 [![How chatgpt.com is designed](https://pin.fontofweb.com/10217?format=jpg)](design-md/chatgpt.com.md)
 
-chatgpt.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#0d0d0d`, with typography led by **Applesystembody**, **System**, **Open Ai Sans**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+ChatGPT’s interface is a dark, low-noise work surface. The default view is almost empty: a black field, a thin left rail, a centered compose bar, and a small set of rounded controls that sit quietly until they matter. The layout feels like a command center more than a marketing page. Content is arranged so the user’s task, not the chrome, stays in focus.
 
 [Open guide](design-md/chatgpt.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/chatgpt.com-design)
 
