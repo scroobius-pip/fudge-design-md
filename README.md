@@ -977,9 +977,9 @@ caffeine.ai presents a predominantly dark surface treatment in the captured page
 
 ### camo.com
 
-[![How camo.com is designed](https://pin.fontofweb.com/7178?format=jpg)](design-md/camo.com.md)
+[![How camo.com is designed](https://pin.fontofweb.com/7176?format=jpg)](design-md/camo.com.md)
 
-camo.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#dce2f4`, and `#ffffff`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Camo Studio’s `/studio` page is a dark, product-forward marketing system built around one promise: the camera feed and the software interface are the proof. The page does not depend on ornamental illustration or a bright landing-page shell. It uses a deep navy canvas, white Inter type, gold action, and lavender chapter markers to frame large media scenes and a full-width editor screenshot. The result feels controlled and technical, but still friendly enough for general consumer software.
 
 [Open guide](design-md/camo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/camo.com-design)
 
