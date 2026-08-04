@@ -1,78 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:25:03.644Z",
+  "generatedAt": "2026-08-04T18:27:12.094Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 141,
-    "failed": 24,
+    "published_verified": 142,
+    "failed": 23,
     "ready": 17,
-    "repairing": 2,
     "needs_reprocessing": 21,
+    "drafting": 4,
     "unpublished": 896,
-    "drafting": 1,
-    "syncing": 1,
-    "validating": 3,
+    "publishing": 1,
+    "repairing": 2,
     "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:25:02.098Z",
+    "heartbeatAt": "2026-08-04T18:27:10.096Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "ai.cloudflare.com",
-          "startedAt": "2026-08-04T18:18:08.050Z"
+          "domain": "aino.agency",
+          "startedAt": "2026-08-04T18:25:12.274Z"
         },
         {
           "domain": "almost-pearfect.com",
           "startedAt": "2026-08-04T18:24:00.757Z"
         },
         {
+          "domain": "app.superlist.com",
+          "startedAt": "2026-08-04T18:25:48.217Z"
+        },
+        {
           "domain": "codepen.io",
           "startedAt": "2026-08-04T18:17:27.122Z"
         },
         {
+          "domain": "cofounder.co",
+          "startedAt": "2026-08-04T18:26:23.955Z"
+        },
+        {
           "domain": "cosmos.so",
           "startedAt": "2026-08-04T18:21:32.514Z"
-        },
-        {
-          "domain": "firecrawl.dev",
-          "startedAt": "2026-08-04T18:19:50.344Z"
-        },
-        {
-          "domain": "git.law",
-          "startedAt": "2026-08-04T18:20:46.589Z"
         }
       ],
-      "completedThisRun": 4,
-      "failedThisRun": 10
+      "completedThisRun": 6,
+      "failedThisRun": 11
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "aura.build",
-        "startedAt": "2026-08-04T18:19:50.341Z"
+        "domain": "brave.com",
+        "startedAt": "2026-08-04T18:27:10.052Z"
       },
-      "completedThisRun": 3,
-      "failedThisRun": 3
+      "completedThisRun": 4,
+      "failedThisRun": 4
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 1000,
-      "readyPublication": 17,
-      "publishedVerified": 141
+      "eligibleGeneration": 1012,
+      "availableGeneration": 997,
+      "readyPublication": 18,
+      "publishedVerified": 142
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:19:57.036Z"
+      "lastSyncedAt": "2026-08-04T18:25:08.251Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:23:57.043Z",
-      "message": "Generation failed for fin.ai with exit 1."
+      "at": "2026-08-04T18:25:59.376Z",
+      "message": "Publication failed for aura.build with exit 1."
     }
   },
   "domains": [
@@ -897,9 +896,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 7,
-      "updatedAt": "2026-08-04T18:24:08.563Z",
+      "updatedAt": "2026-08-04T18:26:19.318Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -936,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:47:20.754Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:25:51.865Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -2093,9 +2092,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:48:41.833Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:25:52.397Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2587,9 +2586,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:19:54.970Z",
+      "updatedAt": "2026-08-04T18:25:59.296Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3497,9 +3496,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:20:59.849Z",
+      "updatedAt": "2026-08-04T18:27:10.091Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3991,15 +3990,15 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:19:44.429Z",
+      "updatedAt": "2026-08-04T18:27:05.137Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
         "url": "https://design.withfudge.com/share/caffeine.ai-design",
         "markdownUrl": "https://design.withfudge.com/share/caffeine.ai-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/caffeine.ai.md"
       }
     },
     {
@@ -4706,9 +4705,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:24:59.626Z",
+      "updatedAt": "2026-08-04T18:26:37.509Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4745,9 +4744,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:48:52.375Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:26:29.150Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5005,9 +5004,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:24:38.069Z",
+      "updatedAt": "2026-08-04T18:25:42.526Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -7579,9 +7578,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:24:35.291Z",
+      "updatedAt": "2026-08-04T18:25:47.875Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -8736,9 +8735,9 @@
     },
     {
       "domain": "git.law",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:23:58.530Z",
+      "updatedAt": "2026-08-04T18:25:09.075Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",
