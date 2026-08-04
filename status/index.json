@@ -1,54 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:56:25.489Z",
+  "generatedAt": "2026-08-04T19:01:32.736Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 145,
-    "ready": 19,
+    "ready": 21,
     "needs_reprocessing": 21,
-    "failed": 29,
+    "failed": 27,
     "unpublished": 896,
-    "publishing": 1,
-    "repairing": 5,
-    "drafting": 1,
+    "preparing": 1,
+    "drafting": 4,
+    "syncing": 1,
+    "validating": 1,
     "legacy": 82
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:56:23.865Z",
+    "heartbeatAt": "2026-08-04T19:01:31.014Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "deepmind.google",
-          "startedAt": "2026-08-04T18:46:19.861Z"
+          "domain": "baked.design",
+          "startedAt": "2026-08-04T19:01:25.744Z"
         },
         {
-          "domain": "deepwiki.com",
-          "startedAt": "2026-08-04T18:49:44.294Z"
+          "domain": "baremettle.com",
+          "startedAt": "2026-08-04T18:58:36.939Z"
+        },
+        {
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-04T19:01:00.201Z"
+        },
+        {
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-04T18:58:52.247Z"
+        },
+        {
+          "domain": "bkid.co",
+          "startedAt": "2026-08-04T18:59:22.935Z"
         },
         {
           "domain": "deezer.com",
           "startedAt": "2026-08-04T18:49:59.621Z"
-        },
-        {
-          "domain": "delve.co",
-          "startedAt": "2026-08-04T18:50:15.172Z"
-        },
-        {
-          "domain": "demo.refero.design",
-          "startedAt": "2026-08-04T18:51:01.084Z"
-        },
-        {
-          "domain": "departuremono.com",
-          "startedAt": "2026-08-04T18:55:01.812Z"
         }
       ],
-      "completedThisRun": 14,
-      "failedThisRun": 22
+      "completedThisRun": 16,
+      "failedThisRun": 25
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +61,18 @@
       "failedThisRun": 7
     },
     "queue": {
-      "eligibleGeneration": 1007,
-      "availableGeneration": 983,
-      "readyPublication": 20,
+      "eligibleGeneration": 1005,
+      "availableGeneration": 978,
+      "readyPublication": 21,
       "publishedVerified": 145
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:55:45.864Z"
+      "lastSyncedAt": "2026-08-04T18:56:30.372Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:54:58.045Z",
-      "message": "Generation failed for dedcool.com with exit 1."
+      "at": "2026-08-04T19:01:25.105Z",
+      "message": "Generation failed for departuremono.com with exit 1."
     }
   },
   "domains": [
@@ -2794,9 +2795,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:10:04.228Z",
+      "state": "preparing",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T19:01:25.859Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2859,9 +2860,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T18:02:03.161Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:58:40.096Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2872,9 +2873,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:38.812Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T19:01:04.579Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3093,9 +3094,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:05:49.024Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:58:59.973Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3171,9 +3172,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:06:21.881Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:59:26.283Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -4120,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:56:23.861Z",
+      "updatedAt": "2026-08-04T18:56:27.617Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -5680,9 +5681,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:55:54.539Z",
+      "updatedAt": "2026-08-04T18:59:22.734Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5706,9 +5707,9 @@
     },
     {
       "domain": "deepwiki.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:56:13.116Z",
+      "updatedAt": "2026-08-04T18:58:35.332Z",
       "blocker": null,
       "publication": {
         "key": "deepwiki.com-design",
@@ -5719,9 +5720,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:55:12.178Z",
+      "updatedAt": "2026-08-04T19:01:14.989Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -5758,9 +5759,9 @@
     },
     {
       "domain": "delve.co",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:56:04.835Z",
+      "updatedAt": "2026-08-04T18:58:50.732Z",
       "blocker": null,
       "publication": {
         "key": "delve.co-design",
@@ -5797,9 +5798,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:54:35.250Z",
+      "updatedAt": "2026-08-04T19:00:55.030Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
@@ -5823,9 +5824,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:55:10.627Z",
+      "updatedAt": "2026-08-04T19:01:25.025Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
