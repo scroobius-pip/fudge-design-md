@@ -1,34 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:17:38.257Z",
+  "generatedAt": "2026-08-04T14:21:38.646Z",
   "counts": {
     "skipped_one_image": 523,
     "skipped_recent": 9,
-    "published_verified": 103,
-    "drafting": 3,
+    "published_verified": 104,
+    "drafting": 6,
     "failed": 71,
-    "preparing": 6,
     "needs_reprocessing": 21,
-    "unpublished": 898,
-    "repairing": 3,
-    "validating": 1,
+    "repairing": 4,
+    "validating": 3,
+    "unpublished": 897,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:17:35.493Z",
-    "heartbeatAt": "2026-08-04T14:17:36.139Z",
+    "heartbeatAt": "2026-08-04T14:21:36.610Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "ai.cloudflare.com",
           "startedAt": "2026-08-04T14:17:35.884Z"
-        },
-        {
-          "domain": "air.dev",
-          "startedAt": "2026-08-04T14:17:35.886Z"
         },
         {
           "domain": "airbnb.com",
@@ -45,25 +40,29 @@
         {
           "domain": "akukolabs.com",
           "startedAt": "2026-08-04T14:17:35.943Z"
+        },
+        {
+          "domain": "aldiwan.net",
+          "startedAt": "2026-08-04T14:21:06.008Z"
         }
       ],
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 475,
+      "eligibleGeneration": 474,
       "readyPublication": 0,
-      "publishedVerified": 103
+      "publishedVerified": 104
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-04T14:17:42.695Z"
     },
     "lastError": null
   },
@@ -889,9 +888,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 4,
-      "updatedAt": "2026-08-04T14:17:36.186Z",
+      "updatedAt": "2026-08-04T14:17:41.584Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -941,15 +940,15 @@
     },
     {
       "domain": "air.dev",
-      "state": "preparing",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:36.249Z",
+      "updatedAt": "2026-08-04T14:21:35.645Z",
       "blocker": null,
       "publication": {
         "key": "air.dev-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/air.dev-design",
+        "markdownUrl": "https://design.withfudge.com/share/air.dev-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/air.dev.md"
       }
     },
     {
@@ -967,9 +966,9 @@
     },
     {
       "domain": "airbnb.com",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:36.242Z",
+      "updatedAt": "2026-08-04T14:20:53.929Z",
       "blocker": null,
       "publication": {
         "key": "airbnb.com-design",
@@ -993,9 +992,9 @@
     },
     {
       "domain": "airwallex.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:36.186Z",
+      "updatedAt": "2026-08-04T14:20:55.247Z",
       "blocker": null,
       "publication": {
         "key": "airwallex.com-design",
@@ -1019,9 +1018,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:36.322Z",
+      "updatedAt": "2026-08-04T14:20:31.344Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1045,9 +1044,9 @@
     },
     {
       "domain": "akukolabs.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:36.375Z",
+      "updatedAt": "2026-08-04T14:17:47.764Z",
       "blocker": null,
       "publication": {
         "key": "akukolabs.com-design",
@@ -1071,9 +1070,9 @@
     },
     {
       "domain": "aldiwan.net",
-      "state": "unpublished",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:23:55.937Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:21:09.042Z",
       "blocker": null,
       "publication": {
         "key": "aldiwan.net-design",
