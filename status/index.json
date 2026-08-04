@@ -1,77 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:53:21.818Z",
+  "generatedAt": "2026-08-04T21:54:02.610Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
-    "published_verified": 158,
+    "published_verified": 159,
     "failed": 997,
     "needs_reprocessing": 22,
-    "ready": 7,
-    "syncing": 1,
-    "drafting": 5,
-    "preparing": 1,
-    "unpublished": 4
+    "ready": 6,
+    "publishing": 1,
+    "preparing": 6,
+    "drafting": 1,
+    "unpublished": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T21:53:19.494Z",
+    "startedAt": "2026-08-04T21:54:00.451Z",
+    "heartbeatAt": "2026-08-04T21:54:00.742Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "marimo.io",
-          "startedAt": "2026-08-04T21:53:09.202Z"
+          "domain": "dfinity.org",
+          "startedAt": "2026-08-04T21:54:00.672Z"
         },
         {
-          "domain": "maximeheckel.com",
-          "startedAt": "2026-08-04T21:53:14.309Z"
+          "domain": "modash.io",
+          "startedAt": "2026-08-04T21:54:00.674Z"
         },
         {
-          "domain": "maxitype.com",
-          "startedAt": "2026-08-04T21:53:14.313Z"
+          "domain": "mongodb.com",
+          "startedAt": "2026-08-04T21:54:00.673Z"
         },
         {
-          "domain": "mcsweeneys.net",
-          "startedAt": "2026-08-04T21:53:14.312Z"
+          "domain": "monocle.heyiam.dk",
+          "startedAt": "2026-08-04T21:54:00.674Z"
         },
         {
-          "domain": "mek.gallery",
-          "startedAt": "2026-08-04T21:53:14.314Z"
+          "domain": "more.thmanyah.com",
+          "startedAt": "2026-08-04T21:54:00.675Z"
         },
         {
-          "domain": "mentra.glass",
-          "startedAt": "2026-08-04T21:53:14.313Z"
+          "domain": "mosaic.so",
+          "startedAt": "2026-08-04T21:54:00.676Z"
         }
       ],
-      "completedThisRun": 38,
-      "failedThisRun": 1412
+      "completedThisRun": 0,
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "developers.google.com",
-        "startedAt": "2026-08-04T21:49:07.342Z"
+        "domain": "cap.so",
+        "startedAt": "2026-08-04T21:54:00.668Z"
       },
-      "completedThisRun": 20,
-      "failedThisRun": 30
+      "completedThisRun": 0,
+      "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1001,
-      "availableGeneration": 7,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 1000,
       "readyPublication": 7,
-      "publishedVerified": 158
+      "publishedVerified": 159
     },
-    "recoveredThisRun": 7,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T21:48:18.445Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-04T21:53:11.514Z",
-      "message": "Generation failed for maciej.co with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -4119,9 +4116,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T20:10:45.244Z",
+      "updatedAt": "2026-08-04T21:54:00.717Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -6056,15 +6053,15 @@
     },
     {
       "domain": "developers.google.com",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:49:10.954Z",
+      "updatedAt": "2026-08-04T21:53:58.901Z",
       "blocker": null,
       "publication": {
         "key": "developers.google.com-design",
         "url": "https://design.withfudge.com/share/developers.google.com-design",
         "markdownUrl": "https://design.withfudge.com/share/developers.google.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/developers.google.com.md"
       }
     },
     {
@@ -6082,9 +6079,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T20:54:07.319Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T21:54:00.893Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -12517,9 +12514,9 @@
     },
     {
       "domain": "marimo.io",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:16.955Z",
+      "updatedAt": "2026-08-04T21:53:25.122Z",
       "blocker": null,
       "publication": {
         "key": "marimo.io-design",
@@ -12621,9 +12618,9 @@
     },
     {
       "domain": "maximeheckel.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:18.534Z",
+      "updatedAt": "2026-08-04T21:53:26.243Z",
       "blocker": null,
       "publication": {
         "key": "maximeheckel.com-design",
@@ -12634,9 +12631,9 @@
     },
     {
       "domain": "maxitype.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:17.419Z",
+      "updatedAt": "2026-08-04T21:53:25.331Z",
       "blocker": null,
       "publication": {
         "key": "maxitype.com-design",
@@ -12647,9 +12644,9 @@
     },
     {
       "domain": "mcsweeneys.net",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:16.941Z",
+      "updatedAt": "2026-08-04T21:53:24.851Z",
       "blocker": null,
       "publication": {
         "key": "mcsweeneys.net-design",
@@ -12712,9 +12709,9 @@
     },
     {
       "domain": "mek.gallery",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:20.128Z",
+      "updatedAt": "2026-08-04T21:53:29.331Z",
       "blocker": null,
       "publication": {
         "key": "mek.gallery-design",
@@ -12738,9 +12735,9 @@
     },
     {
       "domain": "mentra.glass",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:53:14.508Z",
+      "updatedAt": "2026-08-04T21:53:28.673Z",
       "blocker": null,
       "publication": {
         "key": "mentra.glass-design",
@@ -12765,8 +12762,8 @@
     {
       "domain": "meow.camera",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:27.698Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:39.963Z",
       "blocker": null,
       "publication": {
         "key": "meow.camera-design",
@@ -12804,8 +12801,8 @@
     {
       "domain": "meta.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:15.798Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:44.414Z",
       "blocker": null,
       "publication": {
         "key": "meta.com-design",
@@ -12856,8 +12853,8 @@
     {
       "domain": "mew.xyz",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:30.430Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:44.212Z",
       "blocker": null,
       "publication": {
         "key": "mew.xyz-design",
@@ -12869,8 +12866,8 @@
     {
       "domain": "mi.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:36.283Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:43.368Z",
       "blocker": null,
       "publication": {
         "key": "mi.com-design",
@@ -12908,8 +12905,8 @@
     {
       "domain": "microsoft.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:36.246Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:43.127Z",
       "blocker": null,
       "publication": {
         "key": "microsoft.com-design",
@@ -12934,8 +12931,8 @@
     {
       "domain": "midlife.engineering",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:36.682Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:40.819Z",
       "blocker": null,
       "publication": {
         "key": "midlife.engineering-design",
@@ -12960,8 +12957,8 @@
     {
       "domain": "milanote.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:49.665Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:59.426Z",
       "blocker": null,
       "publication": {
         "key": "milanote.com-design",
@@ -13025,8 +13022,8 @@
     {
       "domain": "mint-lang.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:39.817Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:50.241Z",
       "blocker": null,
       "publication": {
         "key": "mint-lang.com-design",
@@ -13051,8 +13048,8 @@
     {
       "domain": "miraa.app",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:50.380Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:53.698Z",
       "blocker": null,
       "publication": {
         "key": "miraa.app-design",
@@ -13064,8 +13061,8 @@
     {
       "domain": "miracamp.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:06.025Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:58.269Z",
       "blocker": null,
       "publication": {
         "key": "miracamp.com-design",
@@ -13077,8 +13074,8 @@
     {
       "domain": "miro.com",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:53:50.730Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:54.175Z",
       "blocker": null,
       "publication": {
         "key": "miro.com-design",
@@ -13155,8 +13152,8 @@
     {
       "domain": "mmm.page",
       "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:03.170Z",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:53:56.816Z",
       "blocker": null,
       "publication": {
         "key": "mmm.page-design",
@@ -13245,9 +13242,9 @@
     },
     {
       "domain": "modash.io",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:12.716Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:54:00.966Z",
       "blocker": null,
       "publication": {
         "key": "modash.io-design",
@@ -13349,9 +13346,9 @@
     },
     {
       "domain": "mongodb.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:10.294Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:54:00.894Z",
       "blocker": null,
       "publication": {
         "key": "mongodb.com-design",
@@ -13375,9 +13372,9 @@
     },
     {
       "domain": "monocle.heyiam.dk",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:17.282Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:54:00.962Z",
       "blocker": null,
       "publication": {
         "key": "monocle.heyiam.dk-design",
@@ -13453,9 +13450,9 @@
     },
     {
       "domain": "more.thmanyah.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:17.796Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:54:00.892Z",
       "blocker": null,
       "publication": {
         "key": "more.thmanyah.com-design",
@@ -13505,9 +13502,9 @@
     },
     {
       "domain": "mosaic.so",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:54:37.610Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:54:01.024Z",
       "blocker": null,
       "publication": {
         "key": "mosaic.so-design",
@@ -22410,9 +22407,9 @@
     },
     {
       "domain": "youtube.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:53:54.601Z",
       "blocker": null,
       "publication": {
         "key": "youtube.com-design",
