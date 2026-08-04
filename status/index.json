@@ -1,36 +1,36 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:13:00.312Z",
+  "generatedAt": "2026-08-04T18:18:09.748Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 140,
     "failed": 23,
     "ready": 18,
+    "preparing": 1,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
-    "publishing": 1,
-    "validating": 1,
-    "repairing": 1,
-    "drafting": 4,
-    "legacy": 93
+    "syncing": 2,
+    "drafting": 1,
+    "repairing": 3,
+    "legacy": 93,
+    "validating": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:12:56.161Z",
+    "heartbeatAt": "2026-08-04T18:18:08.095Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "blog.google",
-          "startedAt": "2026-08-04T18:06:26.794Z"
+          "domain": "ai.cloudflare.com",
+          "startedAt": "2026-08-04T18:18:08.050Z"
         },
         {
-          "domain": "bspk.xyz",
-          "startedAt": "2026-08-04T18:05:50.855Z"
+          "domain": "codepen.io",
+          "startedAt": "2026-08-04T18:17:27.122Z"
         },
         {
           "domain": "cora.computer",
@@ -50,7 +50,7 @@
         }
       ],
       "completedThisRun": 3,
-      "failedThisRun": 5
+      "failedThisRun": 7
     },
     "publication": {
       "concurrency": 1,
@@ -62,18 +62,18 @@
       "failedThisRun": 2
     },
     "queue": {
-      "eligibleGeneration": 1012,
-      "availableGeneration": 1005,
-      "readyPublication": 19,
+      "eligibleGeneration": 1013,
+      "availableGeneration": 1003,
+      "readyPublication": 18,
       "publishedVerified": 140
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:09:48.290Z"
+      "lastSyncedAt": "2026-08-04T18:13:05.572Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:12:15.112Z",
-      "message": "Generation failed for binary.so with exit 1."
+      "at": "2026-08-04T18:18:06.126Z",
+      "message": "Generation failed for bspk.xyz with exit 1."
     }
   },
   "domains": [
@@ -898,9 +898,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-04T17:37:34.763Z",
+      "state": "preparing",
+      "attempt": 7,
+      "updatedAt": "2026-08-04T18:18:08.163Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -3186,9 +3186,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:12:56.156Z",
+      "updatedAt": "2026-08-04T18:13:03.997Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3290,9 +3290,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:12:32.313Z",
+      "updatedAt": "2026-08-04T18:17:25.742Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3641,9 +3641,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:59.948Z",
+      "updatedAt": "2026-08-04T18:18:06.062Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -4707,9 +4707,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:33:28.021Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:17:34.197Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4967,9 +4967,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:10:45.961Z",
+      "updatedAt": "2026-08-04T18:16:53.538Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -5422,9 +5422,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:12:20.224Z",
+      "updatedAt": "2026-08-04T18:16:48.113Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -7528,9 +7528,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:10:13.772Z",
+      "updatedAt": "2026-08-04T18:16:03.558Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7671,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:46.080Z",
+      "updatedAt": "2026-08-04T18:18:05.948Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",

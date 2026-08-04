@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T17:55:55.975Z",
-  "heartbeatAt": "2026-08-04T18:12:56.161Z",
+  "heartbeatAt": "2026-08-04T18:18:08.095Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "blog.google",
-        "startedAt": "2026-08-04T18:06:26.794Z"
+        "domain": "ai.cloudflare.com",
+        "startedAt": "2026-08-04T18:18:08.050Z"
       },
       {
-        "domain": "bspk.xyz",
-        "startedAt": "2026-08-04T18:05:50.855Z"
+        "domain": "codepen.io",
+        "startedAt": "2026-08-04T18:17:27.122Z"
       },
       {
         "domain": "cora.computer",
@@ -32,7 +32,7 @@
       }
     ],
     "completedThisRun": 3,
-    "failedThisRun": 5
+    "failedThisRun": 7
   },
   "publication": {
     "concurrency": 1,
@@ -44,17 +44,17 @@
     "failedThisRun": 2
   },
   "queue": {
-    "eligibleGeneration": 1012,
-    "availableGeneration": 1005,
-    "readyPublication": 19,
+    "eligibleGeneration": 1013,
+    "availableGeneration": 1003,
+    "readyPublication": 18,
     "publishedVerified": 140
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T18:09:48.290Z"
+    "lastSyncedAt": "2026-08-04T18:13:05.572Z"
   },
   "lastError": {
-    "at": "2026-08-04T18:12:15.112Z",
-    "message": "Generation failed for binary.so with exit 1."
+    "at": "2026-08-04T18:18:06.126Z",
+    "message": "Generation failed for bspk.xyz with exit 1."
   }
 }
