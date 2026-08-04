@@ -391,6 +391,14 @@ aiverse.design presents AI products as a calm editorial library rather than a gl
 
 [Open guide](design-md/aiverse.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/aiverse.design-design)
 
+### akukolabs.com
+
+[![How akukolabs.com is designed](https://pin.fontofweb.com/3023?format=jpg)](design-md/akukolabs.com.md)
+
+Akuko Labs uses a poster-first visual language built from keyboard photography, saturated color blocks, and type that behaves like signage. The page does not read like a conventional catalog or portfolio. It reads like a sequence of printed sheets: one sheet may be red with a stacked list of names, another may be gold with a grid of product cards, and another may turn nearly black to introduce an editorial voice. The design relies on hard contrast, generous framing, and very few quiet surfaces.
+
+[Open guide](design-md/akukolabs.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/akukolabs.com-design)
+
 ### algebrica.org
 
 [![How algebrica.org is designed](https://pin.fontofweb.com/8751?format=jpg)](design-md/algebrica.org.md)
