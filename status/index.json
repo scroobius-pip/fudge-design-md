@@ -1,31 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:30:43.646Z",
+  "generatedAt": "2026-08-04T16:32:41.870Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 127,
-    "ready": 16,
+    "published_verified": 128,
+    "ready": 15,
     "failed": 37,
-    "validating": 2,
     "drafting": 4,
     "needs_reprocessing": 21,
+    "validating": 1,
     "unpublished": 896,
-    "syncing": 1,
+    "publishing": 1,
+    "repairing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:30:40.763Z",
+    "heartbeatAt": "2026-08-04T16:32:38.985Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "agenticui.net",
-          "startedAt": "2026-08-04T16:23:50.154Z"
-        },
         {
           "domain": "ahrefsevolve.com",
           "startedAt": "2026-08-04T16:27:41.187Z"
@@ -43,35 +40,39 @@
           "startedAt": "2026-08-04T16:29:59.799Z"
         },
         {
+          "domain": "ampcode.com",
+          "startedAt": "2026-08-04T16:30:56.175Z"
+        },
+        {
           "domain": "dash.cloudflare.com",
           "startedAt": "2026-08-04T16:21:36.841Z"
         }
       ],
-      "completedThisRun": 48,
+      "completedThisRun": 49,
       "failedThisRun": 29
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "chatgpt.com",
-        "startedAt": "2026-08-04T16:25:32.680Z"
+        "domain": "cofounder.co",
+        "startedAt": "2026-08-04T16:32:38.916Z"
       },
-      "completedThisRun": 23,
-      "failedThisRun": 8
+      "completedThisRun": 24,
+      "failedThisRun": 9
     },
     "queue": {
       "eligibleGeneration": 1028,
       "availableGeneration": 1013,
       "readyPublication": 16,
-      "publishedVerified": 127
+      "publishedVerified": 128
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:25:40.400Z"
+      "lastSyncedAt": "2026-08-04T16:30:48.336Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:29:52.301Z",
-      "message": "Generation failed for danielsun.space with exit 1."
+      "at": "2026-08-04T16:31:39.795Z",
+      "message": "Publication failed for chatgpt.com with exit 1."
     }
   },
   "domains": [
@@ -818,9 +819,9 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:29:12.965Z",
+      "updatedAt": "2026-08-04T16:30:52.986Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
@@ -935,9 +936,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:29:45.082Z",
+      "updatedAt": "2026-08-04T16:32:27.314Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1273,9 +1274,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.510Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:31:01.325Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -4341,9 +4342,9 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:25:37.209Z",
+      "updatedAt": "2026-08-04T16:31:39.711Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
@@ -4601,15 +4602,15 @@
     },
     {
       "domain": "clubhouse.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:00:41.521Z",
+      "updatedAt": "2026-08-04T16:32:36.354Z",
       "blocker": null,
       "publication": {
         "key": "clubhouse.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/clubhouse.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/clubhouse.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/clubhouse.com.md"
       }
     },
     {
@@ -4744,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:03:07.026Z",
+      "updatedAt": "2026-08-04T16:32:38.972Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5433,9 +5434,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:30:29.639Z",
+      "updatedAt": "2026-08-04T16:31:27.123Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
