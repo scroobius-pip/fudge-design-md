@@ -1,77 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:12:46.753Z",
+  "generatedAt": "2026-08-04T20:17:58.885Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 152,
-    "failed": 28,
+    "failed": 30,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
     "ready": 20,
-    "validating": 4,
-    "drafting": 2,
-    "legacy": 75
+    "validating": 1,
+    "drafting": 3,
+    "repairing": 1,
+    "syncing": 1,
+    "preparing": 1,
+    "legacy": 73
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T20:12:45.142Z",
+    "heartbeatAt": "2026-08-04T20:17:57.043Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "base-ui.com",
-          "startedAt": "2026-08-04T20:01:19.888Z"
-        },
-        {
-          "domain": "bbc.com",
-          "startedAt": "2026-08-04T20:07:02.377Z"
-        },
-        {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-04T20:00:18.441Z"
-        },
         {
           "domain": "blog.google",
           "startedAt": "2026-08-04T20:09:45.907Z"
         },
         {
-          "domain": "dash.cloudflare.com",
-          "startedAt": "2026-08-04T20:05:55.810Z"
+          "domain": "bspk.xyz",
+          "startedAt": "2026-08-04T20:13:31.137Z"
         },
         {
           "domain": "dash.dropbox.com",
           "startedAt": "2026-08-04T20:10:47.360Z"
+        },
+        {
+          "domain": "diabrowser.com",
+          "startedAt": "2026-08-04T20:17:21.277Z"
+        },
+        {
+          "domain": "digg.com",
+          "startedAt": "2026-08-04T20:17:56.994Z"
+        },
+        {
+          "domain": "firstpromoter.com",
+          "startedAt": "2026-08-04T20:16:40.262Z"
         }
       ],
-      "completedThisRun": 32,
-      "failedThisRun": 52
+      "completedThisRun": 33,
+      "failedThisRun": 56
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "aol.com",
-        "startedAt": "2026-08-04T20:07:38.103Z"
+        "domain": "dashboard.internetcomputer.org",
+        "startedAt": "2026-08-04T20:13:46.441Z"
       },
       "completedThisRun": 14,
-      "failedThisRun": 17
+      "failedThisRun": 18
     },
     "queue": {
-      "eligibleGeneration": 999,
-      "availableGeneration": 973,
+      "eligibleGeneration": 1000,
+      "availableGeneration": 969,
       "readyPublication": 20,
       "publishedVerified": 152
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T20:07:44.292Z"
+      "lastSyncedAt": "2026-08-04T20:12:52.406Z"
     },
     "lastError": {
-      "at": "2026-08-04T20:09:41.167Z",
-      "message": "Generation failed for binary.so with exit 1."
+      "at": "2026-08-04T20:17:54.116Z",
+      "message": "Generation failed for cora.computer with exit 1."
     }
   },
   "domains": [
@@ -1442,9 +1444,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T20:07:42.142Z",
+      "updatedAt": "2026-08-04T20:13:43.905Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -2872,9 +2874,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:12:01.106Z",
+      "updatedAt": "2026-08-04T20:13:22.924Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2963,9 +2965,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 5,
-      "updatedAt": "2026-08-04T20:12:25.725Z",
+      "updatedAt": "2026-08-04T20:17:17.728Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3171,9 +3173,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "validating",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:12:24.680Z",
+      "updatedAt": "2026-08-04T20:13:27.868Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3288,9 +3290,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:09:48.431Z",
+      "updatedAt": "2026-08-04T20:16:59.012Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3639,9 +3641,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:22:38.941Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:13:38.039Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -4966,8 +4968,8 @@
     {
       "domain": "cora.computer",
       "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:19:02.006Z",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:17:54.052Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -5433,9 +5435,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T20:12:34.790Z",
+      "updatedAt": "2026-08-04T20:16:39.757Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -5446,9 +5448,9 @@
     },
     {
       "domain": "dash.dropbox.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T20:10:54.576Z",
+      "updatedAt": "2026-08-04T20:14:41.032Z",
       "blocker": null,
       "publication": {
         "key": "dash.dropbox.com-design",
@@ -5485,14 +5487,14 @@
     },
     {
       "domain": "dashboard.internetcomputer.org",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:49:42.802Z",
+      "updatedAt": "2026-08-04T20:13:50.708Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.internetcomputer.org-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/dashboard.internetcomputer.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/dashboard.internetcomputer.org-design.md",
         "githubUrl": null
       }
     },
@@ -6109,9 +6111,9 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T20:17:28.390Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
@@ -6148,9 +6150,9 @@
     },
     {
       "domain": "digg.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "preparing",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T20:17:57.126Z",
       "blocker": null,
       "publication": {
         "key": "digg.com-design",
@@ -7669,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:24:28.360Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:16:45.610Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
