@@ -2,21 +2,25 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T16:07:19.552Z",
+  "heartbeatAt": "2026-08-04T16:12:32.516Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "adject.ai",
-        "startedAt": "2026-08-04T16:06:38.347Z"
+        "domain": "ads.pinterest.com",
+        "startedAt": "2026-08-04T16:09:27.793Z"
+      },
+      {
+        "domain": "ai.cloudflare.com",
+        "startedAt": "2026-08-04T16:09:53.335Z"
       },
       {
         "domain": "airbnb.com",
         "startedAt": "2026-08-04T16:06:33.200Z"
       },
       {
-        "domain": "cora.computer",
-        "startedAt": "2026-08-04T15:54:29.084Z"
+        "domain": "airwallex.com",
+        "startedAt": "2026-08-04T16:12:27.345Z"
       },
       {
         "domain": "cosmos.so",
@@ -25,14 +29,10 @@
       {
         "domain": "daisyui.com",
         "startedAt": "2026-08-04T16:03:23.407Z"
-      },
-      {
-        "domain": "getviktor.com",
-        "startedAt": "2026-08-04T16:03:08.070Z"
       }
     ],
-    "completedThisRun": 36,
-    "failedThisRun": 24
+    "completedThisRun": 38,
+    "failedThisRun": 25
   },
   "publication": {
     "concurrency": 1,
@@ -44,17 +44,17 @@
     "failedThisRun": 6
   },
   "queue": {
-    "eligibleGeneration": 1038,
-    "availableGeneration": 1024,
-    "readyPublication": 9,
+    "eligibleGeneration": 1036,
+    "availableGeneration": 1023,
+    "readyPublication": 10,
     "publishedVerified": 125
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T16:05:56.259Z"
+    "lastSyncedAt": "2026-08-04T16:07:27.418Z"
   },
   "lastError": {
-    "at": "2026-08-04T16:06:42.930Z",
-    "message": "Publication failed for cap.so with exit 1."
+    "at": "2026-08-04T16:09:48.750Z",
+    "message": "Generation failed for cora.computer with exit 1."
   }
 }
