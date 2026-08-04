@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:01:11.333Z",
+  "generatedAt": "2026-08-04T18:04:31.727Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 138,
+    "published_verified": 139,
     "failed": 24,
-    "ready": 19,
+    "ready": 18,
     "needs_reprocessing": 21,
     "repairing": 4,
     "unpublished": 896,
-    "syncing": 2,
-    "validating": 1,
-    "drafting": 1,
+    "syncing": 1,
+    "publishing": 1,
+    "validating": 2,
     "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:01:09.366Z",
+    "heartbeatAt": "2026-08-04T18:04:29.006Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -40,37 +40,40 @@
           "startedAt": "2026-08-04T17:55:56.505Z"
         },
         {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-04T17:55:56.536Z"
+          "domain": "binary.so",
+          "startedAt": "2026-08-04T18:02:21.018Z"
         },
         {
-          "domain": "daisyui.com",
-          "startedAt": "2026-08-04T17:55:56.522Z"
+          "domain": "bkid.co",
+          "startedAt": "2026-08-04T17:55:56.536Z"
         }
       ],
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "baremettle.com",
-        "startedAt": "2026-08-04T17:55:56.470Z"
+        "domain": "bbc.com",
+        "startedAt": "2026-08-04T18:04:28.955Z"
       },
-      "completedThisRun": 0,
-      "failedThisRun": 0
+      "completedThisRun": 1,
+      "failedThisRun": 1
     },
     "queue": {
       "eligibleGeneration": 1013,
-      "availableGeneration": 1013,
+      "availableGeneration": 1012,
       "readyPublication": 19,
-      "publishedVerified": 138
+      "publishedVerified": 139
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:56:08.768Z"
+      "lastSyncedAt": "2026-08-04T18:01:17.916Z"
     },
-    "lastError": null
+    "lastError": {
+      "at": "2026-08-04T18:02:03.238Z",
+      "message": "Publication failed for baremettle.com with exit 1."
+    }
   },
   "domains": [
     {
@@ -1026,7 +1029,7 @@
       "domain": "aistudio.google.com",
       "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:00:00.328Z",
+      "updatedAt": "2026-08-04T18:02:55.852Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -2857,9 +2860,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:56:01.058Z",
+      "updatedAt": "2026-08-04T18:02:03.161Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2870,9 +2873,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:00:02.370Z",
+      "updatedAt": "2026-08-04T18:02:23.203Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2961,9 +2964,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:06:07.514Z",
+      "updatedAt": "2026-08-04T18:04:29.000Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3039,15 +3042,15 @@
     },
     {
       "domain": "besimple.ai",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:05:24.179Z",
+      "updatedAt": "2026-08-04T18:04:26.297Z",
       "blocker": null,
       "publication": {
         "key": "besimple.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/besimple.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/besimple.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/besimple.ai.md"
       }
     },
     {
@@ -3091,9 +3094,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:56:01.359Z",
+      "updatedAt": "2026-08-04T18:03:49.921Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3130,9 +3133,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:14:14.012Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:04:28.883Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3171,7 +3174,7 @@
       "domain": "bkid.co",
       "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:00:17.431Z",
+      "updatedAt": "2026-08-04T18:04:17.919Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -5366,9 +5369,9 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:00:05.443Z",
+      "updatedAt": "2026-08-04T18:02:16.517Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
