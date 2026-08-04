@@ -1569,9 +1569,9 @@ developer.chrome.com is a dark developer hub that treats Chrome as both a produc
 
 ### developers.google.com
 
-[![How developers.google.com is designed](https://pin.fontofweb.com/6327?format=jpg)](design-md/developers.google.com.md)
+[![How developers.google.com is designed](https://pin.fontofweb.com/5075?format=jpg)](design-md/developers.google.com.md)
 
-developers.google.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#202124`, `#dadce0`, and `#1a73e8`, with typography led by **Roboto**, **Google Sans 18 Pt**, and **Material Symbols Outlined**. The guide below names reusable design roles only where the captured evidence supports them.
+developers.google.com uses a restrained Google marketing language: a white canvas, dark text, one unmistakable blue action color, and layouts that turn a technical program into a simple purchase decision. The pages do not feel like a documentation system. They feel like a polished product landing page with a pricing layer on top. The strongest impression comes from the contrast between the oversized, low-weight Google Sans headlines and the dense, orderly comparison content below them.
 
 [Open guide](design-md/developers.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/developers.google.com-design)
 
