@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:18:09.748Z",
+  "generatedAt": "2026-08-04T18:19:52.618Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 140,
-    "failed": 23,
-    "ready": 18,
-    "preparing": 1,
+    "published_verified": 141,
+    "failed": 24,
+    "ready": 16,
+    "drafting": 2,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 2,
-    "drafting": 1,
+    "syncing": 1,
+    "publishing": 1,
     "repairing": 3,
     "legacy": 93,
-    "validating": 1
+    "preparing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:18:08.095Z",
+    "heartbeatAt": "2026-08-04T18:19:50.394Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -33,10 +33,6 @@
           "startedAt": "2026-08-04T18:17:27.122Z"
         },
         {
-          "domain": "cora.computer",
-          "startedAt": "2026-08-04T18:10:37.868Z"
-        },
-        {
           "domain": "dany.works",
           "startedAt": "2026-08-04T18:12:15.159Z"
         },
@@ -45,35 +41,39 @@
           "startedAt": "2026-08-04T18:10:07.056Z"
         },
         {
+          "domain": "firecrawl.dev",
+          "startedAt": "2026-08-04T18:19:50.344Z"
+        },
+        {
           "domain": "firstpromoter.com",
           "startedAt": "2026-08-04T18:09:41.493Z"
         }
       ],
       "completedThisRun": 3,
-      "failedThisRun": 7
+      "failedThisRun": 8
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "bland.ai",
-        "startedAt": "2026-08-04T18:12:56.114Z"
+        "domain": "aura.build",
+        "startedAt": "2026-08-04T18:19:50.341Z"
       },
-      "completedThisRun": 2,
-      "failedThisRun": 2
+      "completedThisRun": 3,
+      "failedThisRun": 3
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 1003,
-      "readyPublication": 18,
-      "publishedVerified": 140
+      "eligibleGeneration": 1014,
+      "availableGeneration": 1002,
+      "readyPublication": 17,
+      "publishedVerified": 141
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:13:05.572Z"
+      "lastSyncedAt": "2026-08-04T18:18:14.724Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:18:06.126Z",
-      "message": "Generation failed for bspk.xyz with exit 1."
+      "at": "2026-08-04T18:19:47.464Z",
+      "message": "Generation failed for cora.computer with exit 1."
     }
   },
   "domains": [
@@ -898,9 +898,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 7,
-      "updatedAt": "2026-08-04T18:18:08.163Z",
+      "updatedAt": "2026-08-04T18:18:14.666Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -2588,9 +2588,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:18:11.978Z",
+      "updatedAt": "2026-08-04T18:19:50.384Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3186,9 +3186,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:13:03.997Z",
+      "updatedAt": "2026-08-04T18:19:08.006Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3576,15 +3576,15 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:16:32.719Z",
+      "updatedAt": "2026-08-04T18:19:49.752Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
         "url": "https://design.withfudge.com/share/browserbase.com-design",
         "markdownUrl": "https://design.withfudge.com/share/browserbase.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/browserbase.com.md"
       }
     },
     {
@@ -4967,9 +4967,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:16:53.538Z",
+      "updatedAt": "2026-08-04T18:19:47.399Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -7530,7 +7530,7 @@
       "domain": "fin.ai",
       "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:16:03.558Z",
+      "updatedAt": "2026-08-04T18:19:49.485Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7580,9 +7580,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:37:58.483Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:19:50.492Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7671,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:18:05.948Z",
+      "updatedAt": "2026-08-04T18:18:59.115Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",

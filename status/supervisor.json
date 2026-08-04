@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T17:55:55.975Z",
-  "heartbeatAt": "2026-08-04T18:18:08.095Z",
+  "heartbeatAt": "2026-08-04T18:19:50.394Z",
   "generation": {
     "concurrency": 6,
     "active": [
@@ -15,10 +15,6 @@
         "startedAt": "2026-08-04T18:17:27.122Z"
       },
       {
-        "domain": "cora.computer",
-        "startedAt": "2026-08-04T18:10:37.868Z"
-      },
-      {
         "domain": "dany.works",
         "startedAt": "2026-08-04T18:12:15.159Z"
       },
@@ -27,34 +23,38 @@
         "startedAt": "2026-08-04T18:10:07.056Z"
       },
       {
+        "domain": "firecrawl.dev",
+        "startedAt": "2026-08-04T18:19:50.344Z"
+      },
+      {
         "domain": "firstpromoter.com",
         "startedAt": "2026-08-04T18:09:41.493Z"
       }
     ],
     "completedThisRun": 3,
-    "failedThisRun": 7
+    "failedThisRun": 8
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "bland.ai",
-      "startedAt": "2026-08-04T18:12:56.114Z"
+      "domain": "aura.build",
+      "startedAt": "2026-08-04T18:19:50.341Z"
     },
-    "completedThisRun": 2,
-    "failedThisRun": 2
+    "completedThisRun": 3,
+    "failedThisRun": 3
   },
   "queue": {
-    "eligibleGeneration": 1013,
-    "availableGeneration": 1003,
-    "readyPublication": 18,
-    "publishedVerified": 140
+    "eligibleGeneration": 1014,
+    "availableGeneration": 1002,
+    "readyPublication": 17,
+    "publishedVerified": 141
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T18:13:05.572Z"
+    "lastSyncedAt": "2026-08-04T18:18:14.724Z"
   },
   "lastError": {
-    "at": "2026-08-04T18:18:06.126Z",
-    "message": "Generation failed for bspk.xyz with exit 1."
+    "at": "2026-08-04T18:19:47.464Z",
+    "message": "Generation failed for cora.computer with exit 1."
   }
 }
