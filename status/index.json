@@ -1,76 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:31:22.896Z",
+  "generatedAt": "2026-08-04T21:32:20.132Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
-    "published_verified": 156,
-    "failed": 876,
+    "published_verified": 157,
+    "failed": 892,
     "needs_reprocessing": 22,
-    "ready": 11,
-    "syncing": 1,
-    "drafting": 5,
-    "preparing": 1,
-    "unpublished": 123
+    "ready": 10,
+    "publishing": 1,
+    "drafting": 4,
+    "preparing": 2,
+    "unpublished": 107
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T21:31:19.777Z",
+    "heartbeatAt": "2026-08-04T21:32:16.682Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "slideshare.net",
-          "startedAt": "2026-08-04T21:31:09.450Z"
+          "domain": "stripe.dev",
+          "startedAt": "2026-08-04T21:31:45.478Z"
         },
         {
-          "domain": "smithsonianmag.com",
-          "startedAt": "2026-08-04T21:31:09.452Z"
+          "domain": "studiofnt.com",
+          "startedAt": "2026-08-04T21:32:06.335Z"
         },
         {
-          "domain": "snorkel.ai",
-          "startedAt": "2026-08-04T21:31:09.453Z"
+          "domain": "styles.refero.design",
+          "startedAt": "2026-08-04T21:32:06.338Z"
         },
         {
-          "domain": "sohnne.com",
-          "startedAt": "2026-08-04T21:31:09.453Z"
+          "domain": "subframe.com",
+          "startedAt": "2026-08-04T21:32:11.462Z"
         },
         {
-          "domain": "soundcloud.com",
-          "startedAt": "2026-08-04T21:31:14.590Z"
+          "domain": "subq.ai",
+          "startedAt": "2026-08-04T21:32:11.466Z"
         },
         {
-          "domain": "spectrum.ieee.org",
-          "startedAt": "2026-08-04T21:31:14.593Z"
+          "domain": "sunflower.me",
+          "startedAt": "2026-08-04T21:32:16.601Z"
         }
       ],
       "completedThisRun": 38,
-      "failedThisRun": 936
+      "failedThisRun": 952
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "developer.chrome.com",
-        "startedAt": "2026-08-04T21:27:18.207Z"
+        "domain": "dedcool.com",
+        "startedAt": "2026-08-04T21:32:16.598Z"
       },
-      "completedThisRun": 18,
+      "completedThisRun": 19,
       "failedThisRun": 28
     },
     "queue": {
-      "eligibleGeneration": 999,
-      "availableGeneration": 123,
+      "eligibleGeneration": 1000,
+      "availableGeneration": 107,
       "readyPublication": 11,
-      "publishedVerified": 156
+      "publishedVerified": 157
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T21:26:16.858Z"
+      "lastSyncedAt": "2026-08-04T21:31:28.287Z"
     },
     "lastError": {
-      "at": "2026-08-04T21:31:11.251Z",
-      "message": "Generation failed for skill-shrek.vercel.app with exit 1."
+      "at": "2026-08-04T21:32:12.871Z",
+      "message": "Generation failed for stateof.mozilla.org with exit 1."
     }
   },
   "domains": [
@@ -5627,9 +5627,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:51:24.968Z",
+      "updatedAt": "2026-08-04T21:32:16.706Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -6030,15 +6030,15 @@
     },
     {
       "domain": "developer.chrome.com",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:27:24.599Z",
+      "updatedAt": "2026-08-04T21:32:14.650Z",
       "blocker": null,
       "publication": {
         "key": "developer.chrome.com-design",
         "url": "https://design.withfudge.com/share/developer.chrome.com-design",
         "markdownUrl": "https://design.withfudge.com/share/developer.chrome.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/developer.chrome.com.md"
       }
     },
     {
@@ -18484,9 +18484,9 @@
     },
     {
       "domain": "slideshare.net",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:14.187Z",
+      "updatedAt": "2026-08-04T21:31:22.708Z",
       "blocker": null,
       "publication": {
         "key": "slideshare.net-design",
@@ -18536,9 +18536,9 @@
     },
     {
       "domain": "smithsonianmag.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:14.969Z",
+      "updatedAt": "2026-08-04T21:31:23.115Z",
       "blocker": null,
       "publication": {
         "key": "smithsonianmag.com-design",
@@ -18575,9 +18575,9 @@
     },
     {
       "domain": "snorkel.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:15.474Z",
+      "updatedAt": "2026-08-04T21:31:24.382Z",
       "blocker": null,
       "publication": {
         "key": "snorkel.ai-design",
@@ -18640,9 +18640,9 @@
     },
     {
       "domain": "sohnne.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:14.274Z",
+      "updatedAt": "2026-08-04T21:31:23.245Z",
       "blocker": null,
       "publication": {
         "key": "sohnne.com-design",
@@ -18679,9 +18679,9 @@
     },
     {
       "domain": "soundcloud.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:19.875Z",
+      "updatedAt": "2026-08-04T21:31:27.635Z",
       "blocker": null,
       "publication": {
         "key": "soundcloud.com-design",
@@ -18744,9 +18744,9 @@
     },
     {
       "domain": "spectrum.ieee.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:31:14.754Z",
+      "updatedAt": "2026-08-04T21:31:37.488Z",
       "blocker": null,
       "publication": {
         "key": "spectrum.ieee.org-design",
@@ -18757,9 +18757,9 @@
     },
     {
       "domain": "spellsurf.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:31:37.388Z",
       "blocker": null,
       "publication": {
         "key": "spellsurf.com-design",
@@ -18848,9 +18848,9 @@
     },
     {
       "domain": "squareup.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:31:40.669Z",
       "blocker": null,
       "publication": {
         "key": "squareup.com-design",
@@ -18874,9 +18874,9 @@
     },
     {
       "domain": "stacks.co",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:31:39.283Z",
       "blocker": null,
       "publication": {
         "key": "stacks.co-design",
@@ -18887,9 +18887,9 @@
     },
     {
       "domain": "standards.site",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:31:39.372Z",
       "blocker": null,
       "publication": {
         "key": "standards.site-design",
@@ -18900,9 +18900,9 @@
     },
     {
       "domain": "staples.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:31:41.765Z",
       "blocker": null,
       "publication": {
         "key": "staples.com-design",
@@ -18939,9 +18939,9 @@
     },
     {
       "domain": "stateof.mozilla.org",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:12.782Z",
       "blocker": null,
       "publication": {
         "key": "stateof.mozilla.org-design",
@@ -18952,9 +18952,9 @@
     },
     {
       "domain": "stateofopensource.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:09.197Z",
       "blocker": null,
       "publication": {
         "key": "stateofopensource.ai-design",
@@ -19030,9 +19030,9 @@
     },
     {
       "domain": "stitch.withgoogle.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:03.767Z",
       "blocker": null,
       "publication": {
         "key": "stitch.withgoogle.com-design",
@@ -19043,9 +19043,9 @@
     },
     {
       "domain": "stock.adobe.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:03.766Z",
       "blocker": null,
       "publication": {
         "key": "stock.adobe.com-design",
@@ -19069,9 +19069,9 @@
     },
     {
       "domain": "storybook.js.org",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:08.634Z",
       "blocker": null,
       "publication": {
         "key": "storybook.js.org-design",
@@ -19121,9 +19121,9 @@
     },
     {
       "domain": "stripe.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:03.963Z",
       "blocker": null,
       "publication": {
         "key": "stripe.dev-design",
@@ -19160,9 +19160,9 @@
     },
     {
       "domain": "studiofnt.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:16.010Z",
       "blocker": null,
       "publication": {
         "key": "studiofnt.com-design",
@@ -19186,9 +19186,9 @@
     },
     {
       "domain": "styles.refero.design",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:16.501Z",
       "blocker": null,
       "publication": {
         "key": "styles.refero.design-design",
@@ -19199,9 +19199,9 @@
     },
     {
       "domain": "subframe.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "preparing",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:11.638Z",
       "blocker": null,
       "publication": {
         "key": "subframe.com-design",
@@ -19225,9 +19225,9 @@
     },
     {
       "domain": "subq.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:15.763Z",
       "blocker": null,
       "publication": {
         "key": "subq.ai-design",
@@ -19277,9 +19277,9 @@
     },
     {
       "domain": "sunflower.me",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "preparing",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:32:16.942Z",
       "blocker": null,
       "publication": {
         "key": "sunflower.me-design",
