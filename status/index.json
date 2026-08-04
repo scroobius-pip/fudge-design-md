@@ -1,31 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:03:54.830Z",
+  "generatedAt": "2026-08-04T20:07:40.032Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 151,
-    "syncing": 1,
-    "failed": 28,
+    "published_verified": 152,
+    "failed": 29,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 21,
-    "drafting": 1,
-    "preparing": 1,
-    "repairing": 4,
+    "publishing": 1,
+    "ready": 19,
+    "repairing": 3,
+    "drafting": 3,
     "legacy": 75
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T20:03:53.181Z",
+    "heartbeatAt": "2026-08-04T20:07:38.150Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "base-ui.com",
           "startedAt": "2026-08-04T20:01:19.888Z"
+        },
+        {
+          "domain": "bbc.com",
+          "startedAt": "2026-08-04T20:07:02.377Z"
         },
         {
           "domain": "binary.so",
@@ -40,39 +43,35 @@
           "startedAt": "2026-08-04T19:57:39.614Z"
         },
         {
-          "domain": "departuremono.com",
-          "startedAt": "2026-08-04T19:55:16.380Z"
-        },
-        {
-          "domain": "dfinity.org",
-          "startedAt": "2026-08-04T19:53:49.435Z"
+          "domain": "dash.cloudflare.com",
+          "startedAt": "2026-08-04T20:05:55.810Z"
         }
       ],
       "completedThisRun": 31,
-      "failedThisRun": 49
+      "failedThisRun": 51
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "adject.ai",
-        "startedAt": "2026-08-04T19:58:46.176Z"
+        "domain": "aol.com",
+        "startedAt": "2026-08-04T20:07:38.103Z"
       },
-      "completedThisRun": 13,
-      "failedThisRun": 16
+      "completedThisRun": 14,
+      "failedThisRun": 17
     },
     "queue": {
       "eligibleGeneration": 1000,
       "availableGeneration": 971,
-      "readyPublication": 21,
-      "publishedVerified": 151
+      "readyPublication": 20,
+      "publishedVerified": 152
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:58:52.742Z"
+      "lastSyncedAt": "2026-08-04T20:03:59.386Z"
     },
     "lastError": {
-      "at": "2026-08-04T20:03:50.194Z",
-      "message": "Generation failed for deepmind.google with exit 1."
+      "at": "2026-08-04T20:07:00.079Z",
+      "message": "Generation failed for dfinity.org with exit 1."
     }
   },
   "domains": [
@@ -663,9 +662,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:58:50.347Z",
+      "updatedAt": "2026-08-04T20:04:50.870Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -1443,9 +1442,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:43:19.297Z",
+      "updatedAt": "2026-08-04T20:07:38.146Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -2873,9 +2872,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:01:25.168Z",
+      "updatedAt": "2026-08-04T20:05:42.448Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2964,9 +2963,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T19:19:13.816Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T20:07:05.649Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3133,9 +3132,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:03:53.249Z",
+      "updatedAt": "2026-08-04T20:03:57.173Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -4123,7 +4122,7 @@
       "domain": "cap.so",
       "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T20:02:53.391Z",
+      "updatedAt": "2026-08-04T20:07:33.928Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -5434,9 +5433,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T19:10:39.732Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T20:06:03.345Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -5460,15 +5459,15 @@
     },
     {
       "domain": "dashboard.exa.ai",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T18:43:13.556Z",
+      "updatedAt": "2026-08-04T20:07:36.733Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.exa.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dashboard.exa.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/dashboard.exa.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dashboard.exa.ai.md"
       }
     },
     {
@@ -5824,9 +5823,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T20:02:44.563Z",
+      "updatedAt": "2026-08-04T20:05:50.634Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
@@ -6084,9 +6083,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T20:03:04.687Z",
+      "updatedAt": "2026-08-04T20:07:00.010Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",

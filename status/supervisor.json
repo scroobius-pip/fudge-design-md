@@ -2,13 +2,17 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T17:55:55.975Z",
-  "heartbeatAt": "2026-08-04T20:03:53.181Z",
+  "heartbeatAt": "2026-08-04T20:07:38.150Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
         "domain": "base-ui.com",
         "startedAt": "2026-08-04T20:01:19.888Z"
+      },
+      {
+        "domain": "bbc.com",
+        "startedAt": "2026-08-04T20:07:02.377Z"
       },
       {
         "domain": "binary.so",
@@ -23,38 +27,34 @@
         "startedAt": "2026-08-04T19:57:39.614Z"
       },
       {
-        "domain": "departuremono.com",
-        "startedAt": "2026-08-04T19:55:16.380Z"
-      },
-      {
-        "domain": "dfinity.org",
-        "startedAt": "2026-08-04T19:53:49.435Z"
+        "domain": "dash.cloudflare.com",
+        "startedAt": "2026-08-04T20:05:55.810Z"
       }
     ],
     "completedThisRun": 31,
-    "failedThisRun": 49
+    "failedThisRun": 51
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "adject.ai",
-      "startedAt": "2026-08-04T19:58:46.176Z"
+      "domain": "aol.com",
+      "startedAt": "2026-08-04T20:07:38.103Z"
     },
-    "completedThisRun": 13,
-    "failedThisRun": 16
+    "completedThisRun": 14,
+    "failedThisRun": 17
   },
   "queue": {
     "eligibleGeneration": 1000,
     "availableGeneration": 971,
-    "readyPublication": 21,
-    "publishedVerified": 151
+    "readyPublication": 20,
+    "publishedVerified": 152
   },
   "recoveredThisRun": 7,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T19:58:52.742Z"
+    "lastSyncedAt": "2026-08-04T20:03:59.386Z"
   },
   "lastError": {
-    "at": "2026-08-04T20:03:50.194Z",
-    "message": "Generation failed for deepmind.google with exit 1."
+    "at": "2026-08-04T20:07:00.079Z",
+    "message": "Generation failed for dfinity.org with exit 1."
   }
 }
