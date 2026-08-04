@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T23:25:29.139Z",
-  "heartbeatAt": "2026-08-04T23:25:29.438Z",
+  "heartbeatAt": "2026-08-04T23:30:38.794Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "trycoast.com",
-        "startedAt": "2026-08-04T23:25:29.382Z"
+        "domain": "bbc.com",
+        "startedAt": "2026-08-04T23:30:38.716Z"
       },
       {
-        "domain": "twelvelabs.io",
-        "startedAt": "2026-08-04T23:25:29.381Z"
+        "domain": "diabrowser.com",
+        "startedAt": "2026-08-04T23:30:23.288Z"
       },
       {
-        "domain": "typefoundry.directory",
-        "startedAt": "2026-08-04T23:25:29.380Z"
+        "domain": "linktr.ee",
+        "startedAt": "2026-08-04T23:30:38.715Z"
       },
       {
-        "domain": "typeof.net",
-        "startedAt": "2026-08-04T23:25:29.383Z"
+        "domain": "lit.dev",
+        "startedAt": "2026-08-04T23:30:38.714Z"
       },
       {
-        "domain": "uber.com",
-        "startedAt": "2026-08-04T23:25:29.383Z"
+        "domain": "llmrefs.com",
+        "startedAt": "2026-08-04T23:30:33.530Z"
       },
       {
-        "domain": "unheard.fm",
-        "startedAt": "2026-08-04T23:25:29.373Z"
+        "domain": "lofree.co",
+        "startedAt": "2026-08-04T23:30:33.523Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 121
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 883,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T23:25:35.738Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T23:30:38.322Z",
+    "message": "Generation failed for link.com with exit 1."
+  }
 }
