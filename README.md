@@ -875,7 +875,7 @@ bland.ai presents a predominantly light surface treatment in the captured pages.
 
 [![How blindsight.space is designed](https://pin.fontofweb.com/6419?format=jpg)](design-md/blindsight.space.md)
 
-blindsight.space presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0000ee`, and `#ffffff`, with typography led by **Begum** and **Px Grotesk**. The guide below names reusable design roles only where the captured evidence supports them.
+Blindsight uses a narrow set of visual rules and then commits to them hard. The page is built around a black stage, white outline lettering, red serif statements, and a small amount of blue link behavior that stays in the background rather than becoming the brand center. That restraint gives the site a film-poster gravity: the interface does not try to feel friendly, busy, or conversational. It feels like a title sequence that happens to contain navigation.
 
 [Open guide](design-md/blindsight.space.md) · [View the Fudge conversation](https://design.withfudge.com/share/blindsight.space-design)
 
