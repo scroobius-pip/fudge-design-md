@@ -335,6 +335,14 @@ ahrefsevolve.com presents a predominantly dark surface treatment in the captured
 
 [Open guide](design-md/ahrefsevolve.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ahrefsevolve.com-design)
 
+### ai-sdk-tools.dev
+
+[![How ai-sdk-tools.dev is designed](https://pin.fontofweb.com/2241?format=jpg)](design-md/ai-sdk-tools.dev.md)
+
+AI SDK Tools uses a severe, technical visual language: black canvas, pale monospace text, thin borders, and a single green accent that signals activity rather than decoration. The site feels like a developer product built by people who care more about clarity than polish. Large headings carry the page, while code blocks, dashboard mockups, and utility rows supply the proof that the product is real.
+
+[Open guide](design-md/ai-sdk-tools.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai-sdk-tools.dev-design)
+
 ### ai-sdk.dev
 
 [![How ai-sdk.dev is designed](https://pin.fontofweb.com/8393?format=jpg)](design-md/ai-sdk.dev.md)
