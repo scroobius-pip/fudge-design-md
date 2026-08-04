@@ -1,34 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:07:20.199Z",
+  "generatedAt": "2026-08-04T17:12:27.410Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 132,
-    "failed": 33,
-    "ready": 15,
+    "failed": 32,
+    "ready": 16,
     "needs_reprocessing": 21,
-    "publishing": 1,
+    "syncing": 1,
     "unpublished": 896,
-    "validating": 2,
-    "drafting": 4,
+    "repairing": 1,
+    "validating": 4,
+    "drafting": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:07:18.398Z",
+    "heartbeatAt": "2026-08-04T17:12:25.324Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "binary.so",
           "startedAt": "2026-08-04T17:03:48.576Z"
-        },
-        {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-04T16:59:01.695Z"
         },
         {
           "domain": "bland.ai",
@@ -43,12 +40,16 @@
           "startedAt": "2026-08-04T17:06:11.891Z"
         },
         {
+          "domain": "browserbase.com",
+          "startedAt": "2026-08-04T17:11:18.812Z"
+        },
+        {
           "domain": "bspk.xyz",
           "startedAt": "2026-08-04T17:06:37.550Z"
         }
       ],
-      "completedThisRun": 57,
-      "failedThisRun": 39
+      "completedThisRun": 58,
+      "failedThisRun": 40
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +61,18 @@
       "failedThisRun": 13
     },
     "queue": {
-      "eligibleGeneration": 1024,
-      "availableGeneration": 1004,
+      "eligibleGeneration": 1023,
+      "availableGeneration": 1005,
       "readyPublication": 16,
       "publishedVerified": 132
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:04:36.020Z"
+      "lastSyncedAt": "2026-08-04T17:07:24.996Z"
     },
     "lastError": {
-      "at": "2026-08-04T17:06:37.410Z",
-      "message": "Generation failed for baked.design with exit 1."
+      "at": "2026-08-04T17:08:09.254Z",
+      "message": "Generation failed for bkid.co with exit 1."
     }
   },
   "domains": [
@@ -1026,14 +1027,14 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:07:18.394Z",
+      "updatedAt": "2026-08-04T17:07:23.001Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/aistudio.google.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/aistudio.google.com-design.md",
         "githubUrl": null
       }
     },
@@ -3132,9 +3133,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:06:51.746Z",
+      "updatedAt": "2026-08-04T17:11:22.800Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3171,9 +3172,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:07:15.510Z",
+      "updatedAt": "2026-08-04T17:08:09.187Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3184,9 +3185,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:05:34.081Z",
+      "updatedAt": "2026-08-04T17:11:50.323Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3288,9 +3289,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:04:57.711Z",
+      "updatedAt": "2026-08-04T17:11:50.845Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3496,9 +3497,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:06:27.142Z",
+      "updatedAt": "2026-08-04T17:10:44.444Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3574,9 +3575,9 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:34:35.662Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:11:22.761Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3639,9 +3640,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:06:41.561Z",
+      "updatedAt": "2026-08-04T17:12:03.516Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -3743,9 +3744,9 @@
     },
     {
       "domain": "builtwith.kit.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:34:12.203Z",
+      "state": "ready",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:11:18.199Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
