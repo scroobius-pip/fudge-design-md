@@ -1,36 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:39:22.145Z",
+  "generatedAt": "2026-08-04T18:44:29.414Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 143,
-    "ready": 19,
+    "ready": 20,
     "needs_reprocessing": 21,
-    "failed": 20,
+    "failed": 23,
     "unpublished": 896,
-    "drafting": 3,
     "repairing": 1,
-    "validating": 2,
+    "validating": 1,
     "syncing": 1,
-    "legacy": 93
+    "drafting": 4,
+    "legacy": 89
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:39:20.585Z",
+    "heartbeatAt": "2026-08-04T18:44:27.402Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "aol.com",
-          "startedAt": "2026-08-04T18:37:28.143Z"
-        },
-        {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-04T18:33:17.886Z"
-        },
         {
           "domain": "app.reve.com",
           "startedAt": "2026-08-04T18:34:54.963Z"
@@ -40,39 +32,47 @@
           "startedAt": "2026-08-04T18:35:25.542Z"
         },
         {
-          "domain": "dashboard.exa.ai",
-          "startedAt": "2026-08-04T18:36:47.226Z"
+          "domain": "dashboard.internetcomputer.org",
+          "startedAt": "2026-08-04T18:43:15.851Z"
         },
         {
-          "domain": "dfy.co.kr",
-          "startedAt": "2026-08-04T18:37:28.140Z"
+          "domain": "dashboard.mux.com",
+          "startedAt": "2026-08-04T18:43:20.950Z"
+        },
+        {
+          "domain": "davidprotein.com",
+          "startedAt": "2026-08-04T18:43:31.140Z"
+        },
+        {
+          "domain": "dedcool.com",
+          "startedAt": "2026-08-04T18:44:12.083Z"
         }
       ],
-      "completedThisRun": 10,
-      "failedThisRun": 15
+      "completedThisRun": 12,
+      "failedThisRun": 17
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "audio.com",
-        "startedAt": "2026-08-04T18:34:08.977Z"
+        "domain": "cavalry.studio",
+        "startedAt": "2026-08-04T18:40:16.771Z"
       },
       "completedThisRun": 5,
-      "failedThisRun": 5
+      "failedThisRun": 6
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 989,
-      "readyPublication": 19,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 985,
+      "readyPublication": 20,
       "publishedVerified": 143
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:34:15.568Z"
+      "lastSyncedAt": "2026-08-04T18:39:26.982Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:37:28.084Z",
-      "message": "Generation failed for aino.agency with exit 1."
+      "at": "2026-08-04T18:44:10.240Z",
+      "message": "Generation failed for api.scira.ai with exit 1."
     }
   },
   "domains": [
@@ -1443,9 +1443,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:37:32.241Z",
+      "updatedAt": "2026-08-04T18:43:19.297Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1495,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:37:44.051Z",
+      "updatedAt": "2026-08-04T18:44:10.185Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1989,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:38:40.927Z",
+      "updatedAt": "2026-08-04T18:42:26.076Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2212,7 +2212,7 @@
       "domain": "arcee.ai",
       "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:38:41.382Z",
+      "updatedAt": "2026-08-04T18:43:51.380Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:34:13.349Z",
+      "updatedAt": "2026-08-04T18:40:14.566Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -4251,14 +4251,14 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:29:31.461Z",
+      "updatedAt": "2026-08-04T18:40:24.364Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/cavalry.studio-design",
+        "markdownUrl": "https://design.withfudge.com/share/cavalry.studio-design.md",
         "githubUrl": null
       }
     },
@@ -5460,9 +5460,9 @@
     },
     {
       "domain": "dashboard.exa.ai",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T18:36:49.428Z",
+      "updatedAt": "2026-08-04T18:43:13.556Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.exa.ai-design",
@@ -5486,9 +5486,9 @@
     },
     {
       "domain": "dashboard.internetcomputer.org",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:43:21.287Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.internetcomputer.org-design",
@@ -5499,9 +5499,9 @@
     },
     {
       "domain": "dashboard.mux.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:43:24.372Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.mux.com-design",
@@ -5564,9 +5564,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:43:38.458Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5629,9 +5629,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:44:19.635Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -6097,9 +6097,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T18:37:49.302Z",
+      "updatedAt": "2026-08-04T18:43:27.264Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
