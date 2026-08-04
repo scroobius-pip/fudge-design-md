@@ -1,34 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:12:23.390Z",
+  "generatedAt": "2026-08-04T15:17:35.887Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 117,
-    "failed": 63,
+    "failed": 62,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "publishing": 1,
+    "syncing": 1,
+    "validating": 2,
+    "ready": 1,
     "repairing": 2,
-    "drafting": 3,
-    "preparing": 1,
+    "drafting": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:12:20.561Z",
+    "heartbeatAt": "2026-08-04T15:17:33.702Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "blog.google",
           "startedAt": "2026-08-04T15:06:37.161Z"
-        },
-        {
-          "domain": "bolt.new",
-          "startedAt": "2026-08-04T15:07:12.976Z"
         },
         {
           "domain": "braintrust.dev",
@@ -45,9 +42,13 @@
         {
           "domain": "browserbase.com",
           "startedAt": "2026-08-04T15:12:15.404Z"
+        },
+        {
+          "domain": "browseros.com",
+          "startedAt": "2026-08-04T15:14:28.888Z"
         }
       ],
-      "completedThisRun": 14,
+      "completedThisRun": 15,
       "failedThisRun": 15
     },
     "publication": {
@@ -60,14 +61,14 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1054,
-      "availableGeneration": 1040,
+      "eligibleGeneration": 1053,
+      "availableGeneration": 1039,
       "readyPublication": 1,
       "publishedVerified": 117
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:07:51.146Z"
+      "lastSyncedAt": "2026-08-04T15:12:30.897Z"
     },
     "lastError": {
       "at": "2026-08-04T15:11:16.535Z",
@@ -3184,14 +3185,14 @@
     },
     {
       "domain": "bland.ai",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:12:20.554Z",
+      "updatedAt": "2026-08-04T15:12:25.823Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/bland.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/bland.ai-design.md",
         "githubUrl": null
       }
     },
@@ -3288,9 +3289,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:11:23.835Z",
+      "updatedAt": "2026-08-04T15:17:27.464Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3353,9 +3354,9 @@
     },
     {
       "domain": "bolt.new",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:11:46.507Z",
+      "updatedAt": "2026-08-04T15:14:26.034Z",
       "blocker": null,
       "publication": {
         "key": "bolt.new-design",
@@ -3457,9 +3458,9 @@
     },
     {
       "domain": "braintrust.dev",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:09:15.778Z",
+      "updatedAt": "2026-08-04T15:17:33.998Z",
       "blocker": null,
       "publication": {
         "key": "braintrust.dev-design",
@@ -3496,9 +3497,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:11:29.246Z",
+      "updatedAt": "2026-08-04T15:16:04.186Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3574,9 +3575,9 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:12:15.529Z",
+      "updatedAt": "2026-08-04T15:15:53.429Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3600,9 +3601,9 @@
     },
     {
       "domain": "browseros.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:00.321Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:14:51.301Z",
       "blocker": null,
       "publication": {
         "key": "browseros.com-design",
