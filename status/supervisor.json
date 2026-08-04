@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T17:55:55.975Z",
-  "heartbeatAt": "2026-08-04T19:23:41.387Z",
+  "heartbeatAt": "2026-08-04T19:25:44.405Z",
   "generation": {
     "concurrency": 6,
     "active": [
@@ -15,6 +15,10 @@
         "startedAt": "2026-08-04T19:19:15.126Z"
       },
       {
+        "domain": "cosmos.so",
+        "startedAt": "2026-08-04T19:24:32.615Z"
+      },
+      {
         "domain": "designme.agency",
         "startedAt": "2026-08-04T19:19:15.127Z"
       },
@@ -25,36 +29,32 @@
       {
         "domain": "firecrawl.dev",
         "startedAt": "2026-08-04T19:22:24.627Z"
-      },
-      {
-        "domain": "firstpromoter.com",
-        "startedAt": "2026-08-04T19:13:52.602Z"
       }
     ],
     "completedThisRun": 21,
-    "failedThisRun": 33
+    "failedThisRun": 34
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "cosmic-ray.tv",
-      "startedAt": "2026-08-04T19:18:34.053Z"
+      "domain": "aistudio.google.com",
+      "startedAt": "2026-08-04T19:25:44.362Z"
     },
-    "completedThisRun": 9,
-    "failedThisRun": 10
+    "completedThisRun": 10,
+    "failedThisRun": 11
   },
   "queue": {
-    "eligibleGeneration": 1003,
+    "eligibleGeneration": 1004,
     "availableGeneration": 977,
-    "readyPublication": 21,
-    "publishedVerified": 147
+    "readyPublication": 20,
+    "publishedVerified": 148
   },
   "recoveredThisRun": 7,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T19:18:40.311Z"
+    "lastSyncedAt": "2026-08-04T19:23:47.979Z"
   },
   "lastError": {
-    "at": "2026-08-04T19:22:39.023Z",
-    "message": "Generation failed for bspk.xyz with exit 1."
+    "at": "2026-08-04T19:24:37.870Z",
+    "message": "Publication failed for cosmic-ray.tv with exit 1."
   }
 }

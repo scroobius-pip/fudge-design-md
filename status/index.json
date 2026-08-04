@@ -1,24 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:23:42.983Z",
+  "generatedAt": "2026-08-04T19:25:46.240Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 147,
-    "ready": 21,
+    "published_verified": 148,
+    "ready": 19,
     "needs_reprocessing": 21,
-    "failed": 27,
+    "failed": 28,
+    "publishing": 1,
     "unpublished": 896,
-    "drafting": 4,
-    "syncing": 1,
     "validating": 2,
+    "repairing": 2,
+    "drafting": 2,
     "legacy": 80
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:23:41.387Z",
+    "heartbeatAt": "2026-08-04T19:25:44.405Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -31,6 +32,10 @@
           "startedAt": "2026-08-04T19:19:15.126Z"
         },
         {
+          "domain": "cosmos.so",
+          "startedAt": "2026-08-04T19:24:32.615Z"
+        },
+        {
           "domain": "designme.agency",
           "startedAt": "2026-08-04T19:19:15.127Z"
         },
@@ -41,37 +46,33 @@
         {
           "domain": "firecrawl.dev",
           "startedAt": "2026-08-04T19:22:24.627Z"
-        },
-        {
-          "domain": "firstpromoter.com",
-          "startedAt": "2026-08-04T19:13:52.602Z"
         }
       ],
       "completedThisRun": 21,
-      "failedThisRun": 33
+      "failedThisRun": 34
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "cosmic-ray.tv",
-        "startedAt": "2026-08-04T19:18:34.053Z"
+        "domain": "aistudio.google.com",
+        "startedAt": "2026-08-04T19:25:44.362Z"
       },
-      "completedThisRun": 9,
-      "failedThisRun": 10
+      "completedThisRun": 10,
+      "failedThisRun": 11
     },
     "queue": {
-      "eligibleGeneration": 1003,
+      "eligibleGeneration": 1004,
       "availableGeneration": 977,
-      "readyPublication": 21,
-      "publishedVerified": 147
+      "readyPublication": 20,
+      "publishedVerified": 148
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:18:40.311Z"
+      "lastSyncedAt": "2026-08-04T19:23:47.979Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:22:39.023Z",
-      "message": "Generation failed for bspk.xyz with exit 1."
+      "at": "2026-08-04T19:24:37.870Z",
+      "message": "Publication failed for cosmic-ray.tv with exit 1."
     }
   },
   "domains": [
@@ -1026,9 +1027,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:06:37.289Z",
+      "updatedAt": "2026-08-04T19:25:44.400Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -2586,9 +2587,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:22:46.937Z",
+      "updatedAt": "2026-08-04T19:25:07.213Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -4705,9 +4706,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:19:20.822Z",
+      "updatedAt": "2026-08-04T19:24:46.494Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4991,9 +4992,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T19:18:37.430Z",
+      "updatedAt": "2026-08-04T19:24:37.781Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -5004,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:33:15.275Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T19:24:38.919Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5368,15 +5369,15 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:02:16.517Z",
+      "updatedAt": "2026-08-04T19:25:43.576Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
         "url": "https://design.withfudge.com/share/daisyui.com-design",
         "markdownUrl": "https://design.withfudge.com/share/daisyui.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/daisyui.com.md"
       }
     },
     {
@@ -5901,9 +5902,9 @@
     },
     {
       "domain": "designme.agency",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:23:18.210Z",
+      "updatedAt": "2026-08-04T19:24:25.107Z",
       "blocker": null,
       "publication": {
         "key": "designme.agency-design",
@@ -7526,9 +7527,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:19:09.475Z",
+      "updatedAt": "2026-08-04T19:24:36.797Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7669,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:23:21.073Z",
+      "updatedAt": "2026-08-04T19:24:28.360Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
