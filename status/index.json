@@ -1,31 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:23:41.847Z",
+  "generatedAt": "2026-08-04T16:25:35.387Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 126,
-    "ready": 14,
+    "published_verified": 127,
+    "ready": 13,
     "failed": 40,
+    "drafting": 4,
     "needs_reprocessing": 21,
-    "validating": 2,
     "unpublished": 896,
-    "drafting": 3,
-    "repairing": 1,
-    "legacy": 95,
-    "syncing": 1
+    "publishing": 1,
+    "repairing": 2,
+    "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:23:39.995Z",
+    "heartbeatAt": "2026-08-04T16:25:32.732Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "aldiwan.net",
-          "startedAt": "2026-08-04T16:14:51.042Z"
+          "domain": "agenticui.net",
+          "startedAt": "2026-08-04T16:23:50.154Z"
         },
         {
           "domain": "dandad.org",
@@ -48,31 +47,31 @@
           "startedAt": "2026-08-04T16:21:47.067Z"
         }
       ],
-      "completedThisRun": 44,
+      "completedThisRun": 45,
       "failedThisRun": 28
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "firecrawl.dev",
-        "startedAt": "2026-08-04T16:18:31.833Z"
+        "domain": "chatgpt.com",
+        "startedAt": "2026-08-04T16:25:32.680Z"
       },
-      "completedThisRun": 22,
-      "failedThisRun": 7
+      "completedThisRun": 23,
+      "failedThisRun": 8
     },
     "queue": {
       "eligibleGeneration": 1031,
-      "availableGeneration": 1016,
+      "availableGeneration": 1015,
       "readyPublication": 14,
-      "publishedVerified": 126
+      "publishedVerified": 127
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:18:39.428Z"
+      "lastSyncedAt": "2026-08-04T16:23:46.661Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:20:47.669Z",
-      "message": "Generation failed for ads.pinterest.com with exit 1."
+      "at": "2026-08-04T16:24:43.010Z",
+      "message": "Publication failed for firecrawl.dev with exit 1."
     }
   },
   "domains": [
@@ -819,9 +818,9 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.505Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:23:53.675Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
@@ -1079,9 +1078,9 @@
     },
     {
       "domain": "aldiwan.net",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:22:37.034Z",
+      "updatedAt": "2026-08-04T16:23:46.158Z",
       "blocker": null,
       "publication": {
         "key": "aldiwan.net-design",
@@ -4342,9 +4341,9 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:57:47.373Z",
+      "updatedAt": "2026-08-04T16:25:32.726Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
@@ -5421,9 +5420,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:23:28.544Z",
+      "updatedAt": "2026-08-04T16:24:36.559Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -7579,9 +7578,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:18:36.399Z",
+      "updatedAt": "2026-08-04T16:24:42.919Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7917,15 +7916,15 @@
     },
     {
       "domain": "fontofweb.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:55:31.603Z",
+      "updatedAt": "2026-08-04T16:25:30.686Z",
       "blocker": null,
       "publication": {
         "key": "fontofweb.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/fontofweb.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/fontofweb.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fontofweb.com.md"
       }
     },
     {
