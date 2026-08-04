@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T22:37:39.524Z",
-  "heartbeatAt": "2026-08-04T22:37:40.121Z",
+  "heartbeatAt": "2026-08-04T22:42:50.394Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "demo.refero.design",
-        "startedAt": "2026-08-04T22:37:39.818Z"
+        "domain": "rains.com",
+        "startedAt": "2026-08-04T22:42:40.025Z"
       },
       {
-        "domain": "jiddo.ca",
-        "startedAt": "2026-08-04T22:37:39.812Z"
+        "domain": "red.org",
+        "startedAt": "2026-08-04T22:42:40.031Z"
       },
       {
-        "domain": "jitter.video",
-        "startedAt": "2026-08-04T22:37:39.816Z"
+        "domain": "redo.com",
+        "startedAt": "2026-08-04T22:42:45.136Z"
       },
       {
-        "domain": "joodaloop.com",
-        "startedAt": "2026-08-04T22:37:39.815Z"
+        "domain": "reducto.ai",
+        "startedAt": "2026-08-04T22:42:45.134Z"
       },
       {
-        "domain": "workers.cloudflare.com",
-        "startedAt": "2026-08-04T22:37:39.809Z"
+        "domain": "refit.framer.website",
+        "startedAt": "2026-08-04T22:42:45.133Z"
       },
       {
-        "domain": "worklouder.cc",
-        "startedAt": "2026-08-04T22:37:39.811Z"
+        "domain": "resobscura.blogspot.com",
+        "startedAt": "2026-08-04T22:42:45.135Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 147
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 857,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T22:37:46.852Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T22:42:44.958Z",
+    "message": "Generation failed for railway.com with exit 1."
+  }
 }
