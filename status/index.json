@@ -1,35 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:50:32.105Z",
+  "generatedAt": "2026-08-04T18:55:39.643Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 144,
-    "ready": 21,
-    "needs_reprocessing": 21,
-    "failed": 26,
-    "unpublished": 896,
+    "ready": 20,
     "syncing": 1,
-    "drafting": 5,
-    "validating": 1,
-    "legacy": 84
+    "needs_reprocessing": 21,
+    "failed": 29,
+    "unpublished": 896,
+    "validating": 3,
+    "repairing": 2,
+    "drafting": 1,
+    "legacy": 82
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:50:30.528Z",
+    "heartbeatAt": "2026-08-04T18:55:37.686Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "davidprotein.com",
-          "startedAt": "2026-08-04T18:43:31.140Z"
-        },
-        {
-          "domain": "dedcool.com",
-          "startedAt": "2026-08-04T18:44:12.083Z"
-        },
         {
           "domain": "deepmind.google",
           "startedAt": "2026-08-04T18:46:19.861Z"
@@ -45,33 +38,41 @@
         {
           "domain": "delve.co",
           "startedAt": "2026-08-04T18:50:15.172Z"
+        },
+        {
+          "domain": "demo.refero.design",
+          "startedAt": "2026-08-04T18:51:01.084Z"
+        },
+        {
+          "domain": "departuremono.com",
+          "startedAt": "2026-08-04T18:55:01.812Z"
         }
       ],
       "completedThisRun": 14,
-      "failedThisRun": 20
+      "failedThisRun": 22
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "celesteduffy.com",
-        "startedAt": "2026-08-04T18:45:23.595Z"
+        "domain": "ads.pinterest.com",
+        "startedAt": "2026-08-04T18:51:37.170Z"
       },
       "completedThisRun": 6,
-      "failedThisRun": 6
+      "failedThisRun": 7
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 980,
-      "readyPublication": 21,
+      "eligibleGeneration": 1007,
+      "availableGeneration": 978,
+      "readyPublication": 20,
       "publishedVerified": 144
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:45:30.046Z"
+      "lastSyncedAt": "2026-08-04T18:50:36.722Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:50:10.872Z",
-      "message": "Generation failed for deepjudge.ai with exit 1."
+      "at": "2026-08-04T18:54:58.045Z",
+      "message": "Generation failed for dedcool.com with exit 1."
     }
   },
   "domains": [
@@ -675,14 +676,14 @@
     },
     {
       "domain": "ads.pinterest.com",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:36:48.004Z",
+      "updatedAt": "2026-08-04T18:51:40.986Z",
       "blocker": null,
       "publication": {
         "key": "ads.pinterest.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/ads.pinterest.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/ads.pinterest.com-design.md",
         "githubUrl": null
       }
     },
@@ -4263,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:45:28.110Z",
+      "updatedAt": "2026-08-04T18:51:36.877Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -5563,9 +5564,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:46:49.839Z",
+      "updatedAt": "2026-08-04T18:51:00.234Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5628,9 +5629,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:50:18.015Z",
+      "updatedAt": "2026-08-04T18:54:57.978Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -5680,9 +5681,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:46:28.791Z",
+      "updatedAt": "2026-08-04T18:54:25.578Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5706,9 +5707,9 @@
     },
     {
       "domain": "deepwiki.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:49:48.194Z",
+      "updatedAt": "2026-08-04T18:54:36.698Z",
       "blocker": null,
       "publication": {
         "key": "deepwiki.com-design",
@@ -5719,9 +5720,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:50:06.052Z",
+      "updatedAt": "2026-08-04T18:55:12.178Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -5758,9 +5759,9 @@
     },
     {
       "domain": "delve.co",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:50:17.839Z",
+      "updatedAt": "2026-08-04T18:55:26.041Z",
       "blocker": null,
       "publication": {
         "key": "delve.co-design",
@@ -5797,9 +5798,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "repairing",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:54:35.250Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
@@ -5823,9 +5824,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T18:55:10.627Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
