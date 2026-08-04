@@ -207,6 +207,14 @@ actualidea.com presents an editorial portfolio system built around magazine spre
 
 [Open guide](design-md/actualidea.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/actualidea.com-design)
 
+### adithyakrishnan.com
+
+[![How adithyakrishnan.com is designed](https://pin.fontofweb.com/2541?format=jpg)](design-md/adithyakrishnan.com.md)
+
+Adithya Krishnan’s site is a spare, dark portfolio that treats the page as one long editorial surface. The visual system stays close to black and white, so hierarchy comes from scale, spacing, and shape rather than from a crowded palette. The first impression is a large personal statement in light text; later sections shift into project presentation, skill chips, experience lists, and a quiet footer without losing the same restrained tone.
+
+[Open guide](design-md/adithyakrishnan.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/adithyakrishnan.com-design)
+
 ### adject.ai
 
 [![How adject.ai is designed](https://pin.fontofweb.com/7678?format=jpg)](design-md/adject.ai.md)
