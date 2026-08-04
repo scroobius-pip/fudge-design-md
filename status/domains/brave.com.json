@@ -4,57 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:29:33.844Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:29:25.150Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:29:31.818Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:29:33.844Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T18-29-26-405Z-a1",
-    "imageCount": 5,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "brave.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://brave.com",
-      "originCount": 1,
-      "captureCount": 5,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.34515416666666726,
-    "maximumResidual": 1,
-    "valuesConsidered": 24
+  "artifacts": {
+    "imageCount": 5
   },
-  "error": "author lane exited 1."
+  "publication": {
+    "key": "brave.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

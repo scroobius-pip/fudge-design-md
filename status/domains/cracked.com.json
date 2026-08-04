@@ -4,103 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T20:13:31.120Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T20:08:35.614Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T20:08:39.612Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T20:11:54.269Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:12:47.666Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:12:47.729Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T20:12:47.782Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T20:12:52.140Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T20:12:52.197Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T20:13:31.038Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T20:13:31.120Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/cracked.com-design",
-      "markdownUrl": "https://design.withfudge.com/share/cracked.com-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cracked.com.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/8241?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T20-08-36-568Z-a1",
-    "imageCount": 2,
-    "guideSha256": "90504e96fb0ab537264e14ba2435c133bfd2d8e1e8da4d15549ed69b0cf56328"
+    "imageCount": 2
   },
   "publication": {
     "key": "cracked.com-design",
@@ -108,22 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/cracked.com-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cracked.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://cracked.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.16666666666666666,
-    "maximumResidual": 1,
-    "valuesConsidered": 9
-  }
+  "failure": null
 }

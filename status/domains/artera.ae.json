@@ -4,81 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:11:33.650Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:05:59.395Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:06:03.794Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:08:16.147Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:09:25.519Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:09:25.577Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T18:10:47.047Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:11:33.650Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-06-00-737Z-a1",
-    "imageCount": 3,
-    "baselineAvailable": true
+    "imageCount": 3
   },
   "publication": {
-    "key": "artera.ae-design"
+    "key": "artera.ae-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.14063636363636595,
-    "maximumResidual": 1,
-    "valuesConsidered": 11
-  },
-  "error": "Reviewer output is invalid: Missing <<<REVIEW>>> output delimiter."
+  "failure": "generation_or_publication_failed"
 }

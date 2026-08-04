@@ -4,97 +4,22 @@
   "state": "drafting",
   "attempt": 2,
   "updatedAt": "2026-08-03T16:42:27.935Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T16:22:01.225Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T16:22:05.519Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T16:24:49.504Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:25:33.379Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:25:33.390Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:27:24.905Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:29:20.815Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:29:20.825Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:30:44.806Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T16:42:24.844Z",
-      "attempt": 2,
-      "from": "failed",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T16:42:27.935Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T16-42-25-833Z-a2",
-    "imageCount": 3,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "ads.pinterest.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
+    }
   },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.10584615384615202,
-    "maximumResidual": 0.7189999999999941,
-    "valuesConsidered": 13
-  }
+  "artifacts": {
+    "imageCount": 3
+  },
+  "publication": {
+    "key": "ads.pinterest.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": null
 }

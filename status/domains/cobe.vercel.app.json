@@ -4,121 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T19:41:18.597Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T19:24:33.731Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T19:24:42.647Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T19:32:29.766Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:33:09.036Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:33:09.104Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:35:30.955Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:37:16.260Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:37:16.583Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T19:37:16.768Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T19:37:22.702Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T19:37:22.764Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T19:41:18.327Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T19:41:18.597Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/cobe.vercel.app-design",
-      "markdownUrl": "https://design.withfudge.com/share/cobe.vercel.app-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cobe.vercel.app.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/8174?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T19-24-36-024Z-a1",
-    "imageCount": 5,
-    "guideSha256": "4ac2c893facf9afaa7aa345e5b131149841123564b832282936de0fdb29f8d53"
+    "imageCount": 5
   },
   "publication": {
     "key": "cobe.vercel.app-design",
@@ -126,22 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/cobe.vercel.app-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cobe.vercel.app.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://cobe.vercel.app",
-      "originCount": 1,
-      "captureCount": 8,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.43424545454545405,
-    "maximumResidual": 0.9843999999999937,
-    "valuesConsidered": 22
-  }
+  "failure": null
 }

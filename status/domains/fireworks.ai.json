@@ -4,103 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:46:13.448Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:40:48.269Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:40:55.019Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:44:24.886Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:45:34.840Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:45:34.904Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T18:45:34.951Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T18:45:38.367Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T18:45:38.430Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T18:46:13.385Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T18:46:13.448Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/fireworks.ai-design",
-      "markdownUrl": "https://design.withfudge.com/share/fireworks.ai-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fireworks.ai.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/8502?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-40-49-340Z-a1",
-    "imageCount": 5,
-    "guideSha256": "30b3605a22593121f96d9e6fad6f7c71ce859577f4a6e788913b721f1bbc81f7"
+    "imageCount": 5
   },
   "publication": {
     "key": "fireworks.ai-design",
@@ -108,20 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/fireworks.ai-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fireworks.ai.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://fireworks.ai",
-      "originCount": 1,
-      "captureCount": 7,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0.21875,
-    "maximumResidual": 1,
-    "valuesConsidered": 16
-  }
+  "failure": null
 }

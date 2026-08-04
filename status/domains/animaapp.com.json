@@ -4,103 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T17:20:53.505Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T17:15:02.789Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T17:15:05.463Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T17:18:13.947Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:19:54.037Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:19:55.392Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T17:19:56.590Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T17:20:11.007Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T17:20:11.769Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T17:20:53.488Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T17:20:53.505Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/animaapp.com-design",
-      "markdownUrl": "https://design.withfudge.com/share/animaapp.com-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/animaapp.com.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/5953?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T17-15-03-706Z-a1",
-    "imageCount": 2,
-    "guideSha256": "6ac7376194f431915908795e4863437e735dfa6cbc1c85e2d1a14dd8742a0c5d"
+    "imageCount": 2
   },
   "publication": {
     "key": "animaapp.com-design",
@@ -108,15 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/animaapp.com-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/animaapp.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.20939999999999942,
-    "maximumResidual": 1,
-    "valuesConsidered": 10
-  }
+  "failure": null
 }

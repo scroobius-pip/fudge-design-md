@@ -4,125 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:17:13.437Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:10:00.051Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:10:02.681Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:12:33.832Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:13:03.316Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:13:03.377Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T18:14:55.492Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:15:32.348Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:15:32.419Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T18:16:44.071Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:17:13.375Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:17:13.437Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: section-gap."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: section-gap."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-10-01-101Z-a1",
-    "imageCount": 2,
-    "baselineAvailable": true
+    "imageCount": 2
   },
   "publication": {
-    "key": "artstation.com-design"
+    "key": "artstation.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://artstation.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 8,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired artstation.com guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

@@ -4,81 +4,22 @@
   "state": "failed",
   "attempt": 2,
   "updatedAt": "2026-08-03T18:21:44.951Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:17:42.126Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:17:48.484Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:18:00.728Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T18:21:20.651Z",
-      "attempt": 2,
-      "from": "failed",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:21:28.759Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:21:37.090Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:21:44.951Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "agentOutputRetry": "Missing <<<DESIGN_MD>>> output delimiter."
-  },
-  "artifacts": {
-    "runId": "2026-08-03T18-21-22-426Z-a2",
-    "imageCount": 8,
-    "baselineAvailable": false
-  },
-  "publication": {
-    "key": "dfy.co.kr-design"
-  },
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://www.dfy.co.kr",
-      "originCount": 2,
-      "captureCount": 74,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.43609530973451355,
-    "maximumResidual": 1,
-    "valuesConsidered": 113
+  "artifacts": {
+    "imageCount": 8
   },
-  "error": "Missing <<<DESIGN_MD>>> output delimiter."
+  "publication": {
+    "key": "dfy.co.kr-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

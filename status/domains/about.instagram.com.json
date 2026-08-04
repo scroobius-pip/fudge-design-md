@@ -1,152 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "about.instagram.com",
-  "state": "drafting",
+  "state": "published_verified",
   "attempt": 3,
-  "updatedAt": "2026-08-04T06:49:15.288Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:13:57.826Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:13:58.745Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T22:26:44.833Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T22:26:48.131Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T22:28:53.061Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:30:25.667Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:30:25.741Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T22:32:31.323Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:33:26.027Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:33:26.104Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T22:36:21.260Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:37:21.057Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:37:21.129Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-04T06:49:13.124Z",
-      "attempt": 3,
-      "from": "failed",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-04T06:49:15.288Z",
-      "attempt": 3,
-      "from": "preparing",
-      "to": "drafting"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-04T06-49-13-775Z-a3",
-    "imageCount": 2,
-    "baselineAvailable": false
-  },
-  "publication": {
-    "key": "about.instagram.com-design"
-  },
+  "updatedAt": "2026-08-04T06:55:01.665Z",
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://about.instagram.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 2,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 2
     }
   },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  }
+  "artifacts": {
+    "imageCount": 2
+  },
+  "publication": {
+    "key": "about.instagram.com-design",
+    "url": "https://design.withfudge.com/share/about.instagram.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/about.instagram.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/about.instagram.com.md"
+  },
+  "failure": null
 }

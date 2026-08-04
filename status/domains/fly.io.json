@@ -4,103 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T19:03:02.070Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:56:12.527Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:56:20.360Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T19:00:41.281Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:02:22.913Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:02:22.969Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T19:02:23.021Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T19:02:26.608Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T19:02:26.659Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T19:03:02.003Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T19:03:02.070Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/fly.io-design",
-      "markdownUrl": "https://design.withfudge.com/share/fly.io-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fly.io.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/6102?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-56-13-605Z-a1",
-    "imageCount": 6,
-    "guideSha256": "71d4b7031cbc5ddda6780acdccbcb24cd94b20af872644e185b0cb736b67e172"
+    "imageCount": 6
   },
   "publication": {
     "key": "fly.io-design",
@@ -108,20 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/fly.io-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fly.io.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://fly.io",
-      "originCount": 1,
-      "captureCount": 7,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:54:08.941Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.025,
-    "maximumResidual": 0.5,
-    "valuesConsidered": 20
-  }
+  "failure": null
 }

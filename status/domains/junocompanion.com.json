@@ -4,57 +4,22 @@
   "state": "needs_reprocessing",
   "attempt": 0,
   "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "unpublished",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:54:08.941Z",
-      "attempt": 0,
-      "from": "blocked",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "unpublished",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T19:12:36.929Z",
-      "attempt": 0,
-      "from": "needs_collection",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "unpublished",
-      "to": "needs_reprocessing"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "junocompanion.com-design"
-  },
   "blocker": "no_images",
   "inventory": {
-    "corpus": {
-      "origin": "https://junocompanion.com",
-      "originCount": 1,
-      "captureCount": 5,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 0,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 0
     }
-  }
+  },
+  "artifacts": {
+    "imageCount": null
+  },
+  "publication": {
+    "key": "junocompanion.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": null
 }

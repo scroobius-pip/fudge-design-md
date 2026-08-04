@@ -1,171 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "adithyakrishnan.com",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-04T06:07:26.047Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:14:05.485Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:06.324Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T23:54:36.861Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T23:54:42.094Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T23:59:08.537Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:59:46.889Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:59:46.953Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-04T00:02:13.880Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-04T00:03:25.716Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-04T00:03:25.781Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-04T06:07:26.047Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 106,
-      "total": 112,
-      "failures": [
-        {
-          "id": "reader.source-variable-language",
-          "message": "Reader-facing guide contains forbidden process language (source-variable-language)."
-        },
-        {
-          "id": "colors.syntax",
-          "message": "Every front-matter color must be a six-digit hex value."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page, section, cluster, panel."
-        },
-        {
-          "id": "reader.source-variable-language",
-          "message": "Reader-facing guide contains forbidden process language (source-variable-language)."
-        },
-        {
-          "id": "colors.syntax",
-          "message": "Every front-matter color must be a six-digit hex value."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page, section, cluster, panel."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Front matter / Colors",
-          "problem": "The palette claims fixed UI color tokens that are not grounded in the authoritative packet values. `_harness.exactValues.interfaceColors` only confirms black, but the guide presents `text`, `muted-text`, `subtle-text`, `border`, `chip-off`, `chip-on`, and `action` as if they were verified source colors.",
-          "requiredChange": "Replace the unsupported color-token values with only colors that are explicitly verified in the packet, or collapse the palette to the confirmed black interface value and describe the other tones as relative roles in prose instead of fixed tokens."
-        }
-      ]
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T07:55:52.651Z",
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": true,
+      "blocker": null,
+      "pinCount": 6
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T23-54-37-831Z-a2",
-    "imageCount": 6,
-    "baselineAvailable": false
+    "imageCount": 6
   },
   "publication": {
-    "key": "adithyakrishnan.com-design"
+    "key": "adithyakrishnan.com-design",
+    "url": "https://design.withfudge.com/share/adithyakrishnan.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/adithyakrishnan.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/adithyakrishnan.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://adithyakrishnan.com",
-      "originCount": 1,
-      "captureCount": 6,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
-    "projection": {
-      "isLegacy": true,
-      "pinCount": 6,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "Interrupted work was requeued for a clean retry."
+  "failure": null
 }

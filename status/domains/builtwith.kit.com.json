@@ -4,57 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:30:17.796Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:30:12.083Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:30:16.023Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:30:17.796Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T18-30-13-009Z-a1",
-    "imageCount": 3,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "builtwith.kit.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://builtwith.kit.com",
-      "originCount": 1,
-      "captureCount": 3,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 9
+  "artifacts": {
+    "imageCount": 3
   },
-  "error": "author lane exited 1."
+  "publication": {
+    "key": "builtwith.kit.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

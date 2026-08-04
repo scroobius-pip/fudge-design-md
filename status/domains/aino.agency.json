@@ -4,108 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T17:01:14.311Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T16:47:00.714Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T16:47:14.434Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T16:51:43.034Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:53:15.695Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:53:15.712Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:56:41.705Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:58:20.450Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:58:20.758Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T17:01:14.311Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Front matter",
-          "problem": "The shape token for square corners is named `rounded.panel`, but the contract requires the empty-radius sentinel to be `rounded.none: 0rem` when no radii exist in the packet.",
-          "requiredChange": "Rename the token to `rounded.none: 0rem` and use that token anywhere the guide needs square corners."
-        },
-        {
-          "section": "Reference views",
-          "problem": "The selected image set is imbalanced: two near-black hero crops are effectively near-duplicates, while the packet also includes a distinct about/studio-life view that is not represented. That weakens the visual-story coverage required for the compiled guide.",
-          "requiredChange": "Replace one of the near-duplicate hero references with a different supplied view so the selection spans the homepage stage, editorial page, careers grid, and studio-life/about imagery."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T16-47-01-824Z-a1",
-    "imageCount": 8,
-    "baselineAvailable": true
+    "imageCount": 8
   },
   "publication": {
-    "key": "aino.agency-design"
+    "key": "aino.agency-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 3,
-    "meanAbsoluteError": 0.06493000000000038,
-    "maximumResidual": 0.06493000000000038,
-    "valuesConsidered": 1
-  },
-  "error": "Agent selected unavailable pin 4426."
+  "failure": "generation_or_publication_failed"
 }

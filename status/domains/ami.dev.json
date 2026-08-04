@@ -4,120 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T17:19:57.018Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T17:07:48.983Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T17:07:53.425Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T17:10:58.352Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:13:12.852Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:13:12.864Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T17:14:53.682Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:16:11.533Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:16:11.544Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T17:17:39.272Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:19:56.140Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:19:57.018Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Colors",
-          "problem": "The palette reads as white, black, gray, and pink, but the desktop app frame also uses a visible blue interface accent for active tabs and controls. That secondary accent is not accounted for in the color system.",
-          "requiredChange": "Add a semantic blue state/accent token for the in-app UI, or revise the palette language so it does not imply pink is the only accent on the page."
-        },
-        {
-          "section": "Typography",
-          "problem": "The licensing note is written as packet commentary rather than a direct guide sentence, and the document still lacks a self-contained licensing line.",
-          "requiredChange": "Replace that note with one brief licensing sentence inside Typography or Scope note, and keep it free of packet references."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T17-07-49-907Z-a1",
-    "imageCount": 4,
-    "baselineAvailable": true
+    "imageCount": 4
   },
   "publication": {
-    "key": "ami.dev-design"
+    "key": "ami.dev-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.32142857142857145,
-    "maximumResidual": 1,
-    "valuesConsidered": 21
-  },
-  "error": "The repaired ami.dev guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

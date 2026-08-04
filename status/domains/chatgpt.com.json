@@ -4,127 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T19:21:01.418Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T19:02:20.906Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T19:02:28.974Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T19:05:13.220Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:07:47.566Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:07:47.630Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:11:40.134Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:14:18.352Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:14:18.432Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:18:36.082Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:21:00.969Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:21:01.418Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "This section relies on source-packet reasoning: it says the packet does not ground an Open Ai Sans display role here and notes the absence of a licensing statement. That is internal process language, not a direct description of the design.",
-          "requiredChange": "Remove the packet-based explanation. Keep only the font families and roles visible in the selected images, and either add a real supplied licensing sentence or omit licensing entirely."
-        },
-        {
-          "section": "Scope note",
-          "problem": "The closing sentence explains rounding by referring to the packet’s 0.125rem step. That is derivation/process language, which the published guide must not include.",
-          "requiredChange": "Replace that sentence with a plain coverage note that names what is included and what is not, without mentioning the packet or how values were rounded."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T19-02-22-424Z-a1",
-    "imageCount": 7,
-    "baselineAvailable": true
+    "imageCount": 7
   },
   "publication": {
-    "key": "chatgpt.com-design"
+    "key": "chatgpt.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://chatgpt.com",
-      "originCount": 1,
-      "captureCount": 25,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:54:08.941Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.3831025641025639,
-    "maximumResidual": 1,
-    "valuesConsidered": 39
-  },
-  "error": "The repaired chatgpt.com guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

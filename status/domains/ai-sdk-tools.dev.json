@@ -1,60 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "ai-sdk-tools.dev",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:14:09.872Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:10.679Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "ai-sdk-tools.dev-design"
-  },
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T14:01:30.596Z",
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://ai-sdk-tools.dev",
-      "originCount": 1,
-      "captureCount": 7,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 7,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 7
     }
-  }
+  },
+  "artifacts": {
+    "imageCount": 5
+  },
+  "publication": {
+    "key": "ai-sdk-tools.dev-design",
+    "url": "https://design.withfudge.com/share/ai-sdk-tools.dev-design",
+    "markdownUrl": "https://design.withfudge.com/share/ai-sdk-tools.dev-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ai-sdk-tools.dev.md"
+  },
+  "failure": null
 }

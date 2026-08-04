@@ -4,122 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T19:04:25.715Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:52:28.938Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:52:37.295Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:55:58.801Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:57:29.398Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:57:29.454Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:00:16.219Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:00:58.681Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:00:58.749Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:02:26.940Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:04:25.658Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:04:25.715Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Front matter",
-          "problem": "The `primary-action` token assigns the coral `action` color to a button-style control, but the supplied images show coral as a full-width section band and the filled action control as the pale pink footer signup button. That misstates the visible control treatment and makes the token mapping unreliable.",
-          "requiredChange": "Retarget `primary-action` to the visible filled button style, or rename it so it clearly describes the coral section surface instead of a button. Keep the coral color only where it appears in the images."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-52-29-677Z-a1",
-    "imageCount": 8,
-    "baselineAvailable": true
+    "imageCount": 8
   },
   "publication": {
-    "key": "celesteduffy.com-design"
+    "key": "celesteduffy.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://celesteduffy.com",
-      "originCount": 1,
-      "captureCount": 8,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.3274999999999997,
-    "maximumResidual": 1,
-    "valuesConsidered": 16
-  },
-  "error": "The repaired celesteduffy.com guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

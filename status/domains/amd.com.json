@@ -4,63 +4,22 @@
   "state": "unpublished",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:14:24.042Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:16:17.095Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "failed",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "amd.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://amd.com",
-      "originCount": 1,
-      "captureCount": 8,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 8,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 8
     }
-  }
+  },
+  "artifacts": {
+    "imageCount": null
+  },
+  "publication": {
+    "key": "amd.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": null
 }

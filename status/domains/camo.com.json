@@ -4,57 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:30:39.243Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:30:32.315Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:30:37.471Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:30:39.243Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T18-30-33-081Z-a1",
-    "imageCount": 3,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "camo.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://camo.com",
-      "originCount": 1,
-      "captureCount": 3,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0.23529411764705882,
-    "maximumResidual": 1,
-    "valuesConsidered": 17
+  "artifacts": {
+    "imageCount": 3
   },
-  "error": "author lane exited 1."
+  "publication": {
+    "key": "camo.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

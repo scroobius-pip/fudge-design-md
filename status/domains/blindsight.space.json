@@ -4,57 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:29:02.155Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:28:53.624Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:28:59.895Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:29:02.155Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T18-28-54-621Z-a1",
-    "imageCount": 4,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "blindsight.space-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://blindsight.space",
-      "originCount": 1,
-      "captureCount": 4,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 5,
-    "meanAbsoluteError": 0.20843333333333428,
-    "maximumResidual": 0.4170000000000016,
-    "valuesConsidered": 3
+  "artifacts": {
+    "imageCount": 4
   },
-  "error": "author lane exited 1."
+  "publication": {
+    "key": "blindsight.space-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

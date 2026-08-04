@@ -4,148 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T16:14:30.954Z",
-  "agent": {
-    "engine": "human-approved",
-    "model": null,
-    "thinking": null
-  },
-  "history": [
-    {
-      "at": "2026-08-03T15:58:58.681Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T15:59:06.775Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T16:04:07.738Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:06:52.304Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:06:52.315Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:08:24.292Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:09:43.114Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:09:43.125Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:10:59.002Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:12:04.801Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:12:04.813Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T16:13:41.411Z",
-      "attempt": 1,
-      "from": "failed",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:13:41.445Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T16:13:46.341Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T16:13:50.712Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T16:13:50.724Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T16:14:30.942Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T16:14:30.954Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "approval": "human-approved",
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/accounts.x.ai-design",
-      "markdownUrl": "https://design.withfudge.com/share/accounts.x.ai-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/accounts.x.ai.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/10437?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T15-58-59-643Z-a1",
-    "imageCount": 4,
-    "guideSha256": "3522788cd09a8c9e076185279ecefb011f1908eebfe5a4dc3c94ea001ae8e409"
+    "imageCount": 4
   },
   "publication": {
     "key": "accounts.x.ai-design",
@@ -153,15 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/accounts.x.ai-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/accounts.x.ai.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 13
-  }
+  "failure": null
 }

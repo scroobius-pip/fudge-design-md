@@ -4,143 +4,22 @@
   "state": "failed",
   "attempt": 2,
   "updatedAt": "2026-08-03T18:36:12.209Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:18:00.972Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:18:07.732Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:20:12.678Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T18:21:45.119Z",
-      "attempt": 2,
-      "from": "failed",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:21:52.477Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:25:43.535Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:26:47.998Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:26:48.056Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T18:29:08.618Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:30:48.444Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:30:48.498Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T18:34:00.044Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T18:36:12.146Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T18:36:12.209Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Reference views",
-          "problem": "The guide keeps eight reference images, and most of them are near-duplicate crops from the same two page families. The contract limits the compiled selection to two to six images and asks for coverage of the page's visual story, not repetition.",
-          "requiredChange": "Reduce the reference set to 2-6 images and replace the redundant startup/cx-model repeats with a more varied mix that covers the distinct visible sections once each."
-        },
-        {
-          "section": "Components",
-          "problem": "The footer treatment is described as dark or near-dark, but the supplied images show a light cream footer section on the visible pages. That color treatment is not grounded in the packet.",
-          "requiredChange": "Rewrite the footer component to match the visible light footer surface, or remove the dark-footer token unless a supplied image shows that reversal."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T18-21-46-400Z-a2",
-    "imageCount": 8,
-    "baselineAvailable": false
+    "imageCount": 8
   },
   "publication": {
-    "key": "fin.ai-design"
+    "key": "fin.ai-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://fin.ai",
-      "originCount": 1,
-      "captureCount": 25,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.20804901960784306,
-    "maximumResidual": 1,
-    "valuesConsidered": 51
-  },
-  "error": "The repaired fin.ai guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

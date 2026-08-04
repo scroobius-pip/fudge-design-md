@@ -4,166 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T14:37:51.869Z",
-  "agent": {
-    "engine": "human-approved",
-    "model": null,
-    "thinking": null
-  },
-  "history": [
-    {
-      "at": "2026-08-03T14:02:31.266Z",
-      "attempt": 0,
-      "from": "legacy",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T14:02:31.290Z",
-      "attempt": 0,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T14:03:00.317Z",
-      "attempt": 0,
-      "from": "ready",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T14:03:00.341Z",
-      "attempt": 0,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T14:03:38.107Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T14:03:38.131Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T14:04:03.876Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T14:05:35.087Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T14:05:35.112Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T14:05:49.978Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T14:05:53.851Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T14:05:53.864Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T14:09:05.560Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T14:09:06.877Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    },
-    {
-      "at": "2026-08-03T14:37:10.797Z",
-      "attempt": 1,
-      "from": "published_verified",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T14:37:10.820Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T14:37:22.806Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T14:37:26.974Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T14:37:26.986Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T14:37:51.854Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T14:37:51.869Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 110,
-      "total": 110,
-      "failures": []
-    },
-    "approval": "human-approved",
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/grey.co-design",
-      "markdownUrl": "https://design.withfudge.com/share/grey.co-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/grey.co.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/6719?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T13-51-15-450Z-a2",
-    "imageCount": 5,
-    "guideSha256": "f2d892e2fed532efa3018092bb4b45bd8f38db2a415aaf026e18f06bbd50fd37"
+    "imageCount": 5
   },
   "publication": {
     "key": "grey.co-design",
@@ -171,9 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/grey.co-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/grey.co.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  }
+  "failure": null
 }

@@ -4,30 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T17:07:36.239Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T17:07:31.037Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T17:07:36.239Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "almost-pearfect.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
+    }
   },
-  "error": "Representative image 8625 is unexpectedly small."
+  "artifacts": {
+    "imageCount": null
+  },
+  "publication": {
+    "key": "almost-pearfect.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

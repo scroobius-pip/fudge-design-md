@@ -4,57 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:28:08.161Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:27:59.966Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:28:06.103Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T18:28:08.161Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {
-    "runId": "2026-08-03T18-28-00-961Z-a1",
-    "imageCount": 5,
-    "baselineAvailable": true
-  },
-  "publication": {
-    "key": "besimple.ai-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://besimple.ai",
-      "originCount": 1,
-      "captureCount": 5,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.15706451612903408,
-    "maximumResidual": 1,
-    "valuesConsidered": 31
+  "artifacts": {
+    "imageCount": 5
   },
-  "error": "author lane exited 1."
+  "publication": {
+    "key": "besimple.ai-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

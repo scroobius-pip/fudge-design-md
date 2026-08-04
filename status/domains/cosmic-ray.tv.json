@@ -4,122 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T20:11:36.005Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T19:59:26.170Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T19:59:35.193Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T20:02:39.358Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:03:57.614Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:03:57.673Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T20:06:38.413Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:08:57.228Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:08:57.290Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T20:10:31.071Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:11:35.933Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:11:36.005Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "The attribution paragraph claims Tn has supplied designer/vendor credit and that the other families do not. The packet's authoritative `exactValues.fontCredits` is empty for every family, so no attribution claim is supported.",
-          "requiredChange": "Remove the attribution claim entirely and only state what the packet supports: the listed font families and sizes. Do not assign credits or licensing details to any family unless they appear in `_harness.exactValues.fontCredits`."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T19-59-28-068Z-a1",
-    "imageCount": 7,
-    "baselineAvailable": true
+    "imageCount": 7
   },
   "publication": {
-    "key": "cosmic-ray.tv-design"
+    "key": "cosmic-ray.tv-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://cosmic-ray.tv",
-      "originCount": 1,
-      "captureCount": 7,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.5452615384615378,
-    "maximumResidual": 0.9532000000000007,
-    "valuesConsidered": 13
-  },
-  "error": "The repaired cosmic-ray.tv guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

@@ -1,161 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "acctual.com",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T23:28:52.906Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:14:02.146Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:03.436Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T23:16:12.943Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T23:16:19.882Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T23:19:44.322Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:20:12.409Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:20:12.475Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:23:21.961Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:24:48.702Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:24:48.767Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:26:39.848Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:28:52.838Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:28:52.906Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: section, gutter, card-gap, collage-gap."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: section, gutter, card-gap, collage-gap."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T07:30:24.167Z",
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": true,
+      "blocker": null,
+      "pinCount": 12
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T23-16-14-275Z-a2",
-    "imageCount": 8,
-    "baselineAvailable": false
+    "imageCount": 6
   },
   "publication": {
-    "key": "acctual.com-design"
+    "key": "acctual.com-design",
+    "url": "https://design.withfudge.com/share/acctual.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/acctual.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/acctual.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://acctual.com",
-      "originCount": 1,
-      "captureCount": 12,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
-    "projection": {
-      "isLegacy": true,
-      "pinCount": 12,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired acctual.com guide did not pass the publication gate after two repairs."
+  "failure": null
 }

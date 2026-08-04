@@ -1,161 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "access.mymind.com",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T23:04:05.035Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:14:00.099Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:01.060Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T22:52:25.421Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T22:52:31.655Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T22:56:57.107Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:58:18.320Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:58:18.387Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:00:43.057Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:01:41.561Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:01:41.626Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:03:30.649Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:04:04.963Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:04:05.035Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, section, card-pad, stack, cluster, grid-gap."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, section, card-pad, stack, cluster, grid-gap."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T07:15:23.631Z",
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": true,
+      "blocker": null,
+      "pinCount": 10
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T22-52-26-585Z-a2",
-    "imageCount": 8,
-    "baselineAvailable": false
+    "imageCount": 6
   },
   "publication": {
-    "key": "access.mymind.com-design"
+    "key": "access.mymind.com-design",
+    "url": "https://design.withfudge.com/share/access.mymind.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/access.mymind.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/access.mymind.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://access.mymind.com",
-      "originCount": 1,
-      "captureCount": 10,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
-    "projection": {
-      "isLegacy": true,
-      "pinCount": 10,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired access.mymind.com guide did not pass the publication gate after two repairs."
+  "failure": null
 }

@@ -1,161 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "absolu.ca",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T22:52:25.268Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:13:58.923Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:13:59.933Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T22:37:21.302Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T22:37:30.499Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T22:40:17.746Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:41:32.502Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:41:32.583Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T22:46:13.596Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:47:44.801Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:47:44.865Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T22:51:25.544Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T22:52:25.203Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T22:52:25.268Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page, section, hero, gutter, stack, rule-gap."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page, section, hero, gutter, stack, rule-gap."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T07:06:33.036Z",
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": true,
+      "blocker": null,
+      "pinCount": 9
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T22-37-22-412Z-a2",
-    "imageCount": 8,
-    "baselineAvailable": false
+    "imageCount": 6
   },
   "publication": {
-    "key": "absolu.ca-design"
+    "key": "absolu.ca-design",
+    "url": "https://design.withfudge.com/share/absolu.ca-design",
+    "markdownUrl": "https://design.withfudge.com/share/absolu.ca-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/absolu.ca.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://absolu.ca",
-      "originCount": 1,
-      "captureCount": 9,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
-    "projection": {
-      "isLegacy": true,
-      "pinCount": 9,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired absolu.ca guide did not pass the publication gate after two repairs."
+  "failure": null
 }

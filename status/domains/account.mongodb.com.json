@@ -1,167 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "account.mongodb.com",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T23:16:12.785Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T18:14:01.238Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:01.967Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    },
-    {
-      "at": "2026-08-03T23:04:05.191Z",
-      "attempt": 2,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T23:04:08.141Z",
-      "attempt": 2,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T23:08:00.160Z",
-      "attempt": 2,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:09:15.444Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:09:15.510Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:12:11.798Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:13:07.389Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:13:07.452Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T23:15:33.492Z",
-      "attempt": 2,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T23:16:12.718Z",
-      "attempt": 2,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T23:16:12.785Z",
-      "attempt": 2,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, column-gap, stack, section-gap, panel-inset."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, column-gap, stack, section-gap, panel-inset."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Colors",
-          "problem": "The front-matter palette is not grounded: every token is set to `#000000`, but the supplied images show a white form rail, blue links, and multiple green promo-panel values. The contract requires exact colors to be tied to the supplied interface values, and image-palette values cannot be promoted to exact UI tokens.",
-          "requiredChange": "Replace the placeholder black palette with only color tokens that are verifiably grounded in the supplied packet/images, or omit any color token that cannot be stated exactly. Do not present unsupported hex values as source tokens."
-        }
-      ]
+  "state": "published_verified",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T07:20:09.156Z",
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": true,
+      "blocker": null,
+      "pinCount": 2
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T23-04-06-024Z-a2",
-    "imageCount": 2,
-    "baselineAvailable": false
+    "imageCount": 2
   },
   "publication": {
-    "key": "account.mongodb.com-design"
+    "key": "account.mongodb.com-design",
+    "url": "https://design.withfudge.com/share/account.mongodb.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/account.mongodb.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/account.mongodb.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://account.mongodb.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
-    "projection": {
-      "isLegacy": true,
-      "pinCount": 2,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired account.mongodb.com guide did not pass the publication gate after two repairs."
+  "failure": null
 }

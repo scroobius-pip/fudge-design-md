@@ -4,107 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T20:12:32.814Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T20:01:06.080Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T20:01:12.625Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T20:04:43.891Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:06:23.953Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:06:24.034Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T20:06:24.090Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T20:06:29.344Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T20:06:29.399Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T20:12:32.814Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T20-01-07-293Z-a1",
-    "imageCount": 4,
-    "guideSha256": "9f22b93f30a6785cc15f6a3f714cbe7ad52da46335bcf468f7fd0f66da981213"
+    "imageCount": 4
   },
   "publication": {
     "key": "getmesa.dev-design",
     "url": "https://design.withfudge.com/share/getmesa.dev-design",
-    "markdownUrl": "https://design.withfudge.com/share/getmesa.dev-design.md"
+    "markdownUrl": "https://design.withfudge.com/share/getmesa.dev-design.md",
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "corpus": {
-      "origin": "https://getmesa.dev",
-      "originCount": 1,
-      "captureCount": 6,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.3265599999999999,
-    "maximumResidual": 1,
-    "valuesConsidered": 20
-  },
-  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
+  "failure": "generation_or_publication_failed"
 }

@@ -4,37 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T18:15:36.711Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:15:36.259Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:15:36.711Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "failed"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "assistant-ui.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://assistant-ui.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
-  "error": "fetch failed"
+  "artifacts": {
+    "imageCount": null
+  },
+  "publication": {
+    "key": "assistant-ui.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": "generation_or_publication_failed"
 }

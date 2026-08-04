@@ -4,109 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T20:19:16.856Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T20:07:00.381Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T20:07:09.547Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T20:11:19.036Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T20:13:02.046Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T20:13:02.121Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T20:13:02.175Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T20:13:06.151Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T20:13:06.222Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T20:19:16.856Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
-    "payload": {
-      "safe": true
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T20-07-02-082Z-a1",
-    "imageCount": 4,
-    "guideSha256": "32c4e2fdf0d6cedf09b4f6364a7f305029a3c4310e01ce1fe7945173904c1077"
+    "imageCount": 4
   },
   "publication": {
     "key": "cosmos.so-design",
     "url": "https://design.withfudge.com/share/cosmos.so-design",
-    "markdownUrl": "https://design.withfudge.com/share/cosmos.so-design.md"
+    "markdownUrl": "https://design.withfudge.com/share/cosmos.so-design.md",
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://cosmos.so",
-      "originCount": 1,
-      "captureCount": 40,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 4,
-    "meanAbsoluteError": 0.2222222222222222,
-    "maximumResidual": 1,
-    "valuesConsidered": 9
-  },
-  "error": "Publication verification timed out: {\"page\":true,\"markdown\":true,\"github\":false,\"readme\":false,\"image\":true}."
+  "failure": "generation_or_publication_failed"
 }

@@ -4,148 +4,16 @@
   "state": "published_verified",
   "attempt": 1,
   "updatedAt": "2026-08-03T16:05:10.505Z",
-  "agent": {
-    "engine": "human-approved",
-    "model": null,
-    "thinking": null
-  },
-  "history": [
-    {
-      "at": "2026-08-03T15:49:20.429Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T15:49:32.145Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T15:53:37.714Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T15:54:41.823Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T15:54:41.836Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T15:56:34.008Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T15:58:23.978Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T15:58:23.988Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:00:05.549Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:03:11.665Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:03:11.679Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    },
-    {
-      "at": "2026-08-03T16:04:26.013Z",
-      "attempt": 1,
-      "from": "failed",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:04:26.035Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "ready"
-    },
-    {
-      "at": "2026-08-03T16:04:30.642Z",
-      "attempt": 1,
-      "from": "ready",
-      "to": "publishing"
-    },
-    {
-      "at": "2026-08-03T16:04:34.460Z",
-      "attempt": 1,
-      "from": "publishing",
-      "to": "share_published"
-    },
-    {
-      "at": "2026-08-03T16:04:34.471Z",
-      "attempt": 1,
-      "from": "share_published",
-      "to": "syncing"
-    },
-    {
-      "at": "2026-08-03T16:05:10.490Z",
-      "attempt": 1,
-      "from": "syncing",
-      "to": "verifying"
-    },
-    {
-      "at": "2026-08-03T16:05:10.505Z",
-      "attempt": 1,
-      "from": "verifying",
-      "to": "published_verified"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "approval": "human-approved",
-    "payload": {
-      "safe": true
-    },
-    "live": {
-      "page": true,
-      "markdown": true,
-      "github": true,
-      "readme": true,
-      "image": true,
-      "url": "https://design.withfudge.com/share/aaa24.a24films.com-design",
-      "markdownUrl": "https://design.withfudge.com/share/aaa24.a24films.com-design.md",
-      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aaa24.a24films.com.md",
-      "representativeImageUrl": "https://pin.fontofweb.com/6379?format=jpg"
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T15-49-21-419Z-a1",
-    "imageCount": 5,
-    "guideSha256": "648e4e46ae6cddfdb4522b348fd8b9e53e71bdf67bbccd2cfa8aaf4c46b210ad"
+    "imageCount": 5
   },
   "publication": {
     "key": "aaa24.a24films.com-design",
@@ -153,15 +21,5 @@
     "markdownUrl": "https://design.withfudge.com/share/aaa24.a24films.com-design.md",
     "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aaa24.a24films.com.md"
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.4340344827586208,
-    "maximumResidual": 1,
-    "valuesConsidered": 29
-  }
+  "failure": null
 }

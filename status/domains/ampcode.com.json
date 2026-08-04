@@ -4,120 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T17:23:30.362Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T17:08:39.395Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T17:08:44.724Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T17:13:51.917Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:15:21.079Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:15:21.089Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T17:17:14.751Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:19:55.237Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:19:55.382Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T17:21:35.711Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T17:23:30.237Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T17:23:30.362Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "`section-display` is assigned to Perfectly Nineties, but the supplied views show the main chapter and section headings in Sagittaire at roughly 31.14px; Perfectly Nineties is used for the manual title and numbering instead.",
-          "requiredChange": "Change the section-heading token to Sagittaire and reserve Perfectly Nineties for the manual title / chapter-number roles. Update the prose that currently describes section headings as Perfectly Nineties so it matches the visible typography."
-        },
-        {
-          "section": "Scope note",
-          "problem": "The closing note says the guide 'keeps rem values rounded to the packet’s 2px unit,' which explains the rounding basis instead of simply noting the coverage limits.",
-          "requiredChange": "Remove the rounding-derivation language. Keep the Scope note to the covered page surface and any unsupported items, with no explanation of how the rem values were fitted."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T17-08-41-646Z-a1",
-    "imageCount": 3,
-    "baselineAvailable": true
+    "imageCount": 3
   },
   "publication": {
-    "key": "ampcode.com-design"
+    "key": "ampcode.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0.09904000000000034,
-    "maximumResidual": 1,
-    "valuesConsidered": 15
-  },
-  "error": "The repaired ampcode.com guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

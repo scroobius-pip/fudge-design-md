@@ -1,60 +1,25 @@
 {
   "schemaVersion": 1,
   "domain": "afterquery.com",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:14:08.841Z",
-      "attempt": 1,
-      "from": "unpublished",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T18:14:09.696Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 1,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "afterquery.com-design"
-  },
+  "state": "published_verified",
+  "attempt": 2,
+  "updatedAt": "2026-08-04T08:23:01.073Z",
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://www.afterquery.com",
-      "originCount": 2,
-      "captureCount": 24,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T18:08:07.063Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 12,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 12
     }
-  }
+  },
+  "artifacts": {
+    "imageCount": 5
+  },
+  "publication": {
+    "key": "afterquery.com-design",
+    "url": "https://design.withfudge.com/share/afterquery.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/afterquery.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/afterquery.com.md"
+  },
+  "failure": null
 }

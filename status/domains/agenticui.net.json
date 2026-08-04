@@ -4,134 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T16:44:24.058Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T16:30:46.885Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T16:30:51.342Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T16:33:47.447Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:35:52.474Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:35:52.489Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:38:02.252Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:39:37.211Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:39:37.222Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T16:42:28.242Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T16:44:24.046Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T16:44:24.058Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 106,
-      "total": 112,
-      "failures": [
-        {
-          "id": "sections.required",
-          "message": "Required sections: Overview, Colors, Typography, Layout, Visual language, Components, Responsive behavior, Practical implementation guidance, Scope note."
-        },
-        {
-          "id": "sections.order",
-          "message": "Required sections must appear once in the contract order."
-        },
-        {
-          "id": "section.typography.depth",
-          "message": "Typography has 0 words; expected 120+."
-        },
-        {
-          "id": "sections.required",
-          "message": "Required sections: Overview, Colors, Typography, Layout, Visual language, Components, Responsive behavior, Practical implementation guidance, Scope note."
-        },
-        {
-          "id": "sections.order",
-          "message": "Required sections must appear once in the contract order."
-        },
-        {
-          "id": "section.typography.depth",
-          "message": "Typography has 0 words; expected 120+."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T16-30-47-795Z-a1",
-    "imageCount": 4,
-    "baselineAvailable": true
+    "imageCount": 4
   },
   "publication": {
-    "key": "agenticui.net-design"
+    "key": "agenticui.net-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical"
-  },
-  "normalization": {
-    "stepPx": 8,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 0
-  },
-  "error": "The repaired agenticui.net guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

@@ -4,51 +4,22 @@
   "state": "unpublished",
   "attempt": 0,
   "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
-  "history": [
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "unpublished",
-      "to": "blocked"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "blocked",
-      "to": "needs_collection"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "needs_collection",
-      "to": "needs_reprocessing"
-    },
-    {
-      "at": "2026-08-03T18:23:55.937Z",
-      "attempt": 0,
-      "from": "needs_reprocessing",
-      "to": "unpublished"
-    }
-  ],
-  "checks": {},
-  "artifacts": {},
-  "publication": {
-    "key": "joinbeni.com-design"
-  },
   "blocker": null,
   "inventory": {
-    "corpus": {
-      "origin": "https://joinbeni.com",
-      "originCount": 1,
-      "captureCount": 12,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    },
     "projection": {
       "isLegacy": true,
-      "pinCount": 12,
-      "checkedAt": "2026-08-03T18:23:55.937Z"
+      "blocker": null,
+      "pinCount": 12
     }
-  }
+  },
+  "artifacts": {
+    "imageCount": null
+  },
+  "publication": {
+    "key": "joinbeni.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
+  },
+  "failure": null
 }

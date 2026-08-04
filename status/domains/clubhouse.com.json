@@ -4,132 +4,22 @@
   "state": "failed",
   "attempt": 1,
   "updatedAt": "2026-08-03T19:30:15.297Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T19:21:02.528Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T19:21:11.677Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T19:23:39.448Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:24:58.505Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:24:58.850Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:26:40.083Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:27:46.685Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:27:46.749Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "repairing"
-    },
-    {
-      "at": "2026-08-03T19:29:00.299Z",
-      "attempt": 1,
-      "from": "repairing",
-      "to": "validating"
-    },
-    {
-      "at": "2026-08-03T19:30:15.054Z",
-      "attempt": 1,
-      "from": "validating",
-      "to": "reviewing"
-    },
-    {
-      "at": "2026-08-03T19:30:15.297Z",
-      "attempt": 1,
-      "from": "reviewing",
-      "to": "failed"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": true,
-      "passed": 112,
-      "total": 112,
-      "failures": []
-    },
-    "reviewer": {
-      "verdict": "revise",
-      "issues": [
-        {
-          "section": "Typography",
-          "problem": "The licensing note is framed as packet commentary: \"The packet does not supply licensing notes for either family.\" That leaks process/context language into the finished guide.",
-          "requiredChange": "Replace it with a plain licensing sentence only if the packet supports one, or omit the note entirely; do not mention the packet or source context."
-        },
-        {
-          "section": "Typography",
-          "problem": "The `navigation` token is too light for the visible top-right jobs label. The packet grounds that header text at bold 800, not 600.",
-          "requiredChange": "Set the navigation weight to 800, or split the token so it matches the actual header treatment."
-        },
-        {
-          "section": "Scope note",
-          "problem": "The scope note says \"Relative values use the packet’s 2px unit,\" which explains derivation and names the packet. That is internal process language, not a scope note.",
-          "requiredChange": "Keep only covered surfaces and omitted surfaces in the scope note. If rounding needs disclosure, state it once without mentioning the packet or how the values were derived."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T19-21-05-748Z-a1",
-    "imageCount": 2,
-    "baselineAvailable": true
+    "imageCount": 2
   },
   "publication": {
-    "key": "clubhouse.com-design"
+    "key": "clubhouse.com-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://clubhouse.com",
-      "originCount": 1,
-      "captureCount": 2,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 6
-  },
-  "error": "The repaired clubhouse.com guide did not pass the publication gate after two repairs."
+  "failure": "generation_or_publication_failed"
 }

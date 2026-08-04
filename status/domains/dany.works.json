@@ -4,72 +4,22 @@
   "state": "validating",
   "attempt": 1,
   "updatedAt": "2026-08-03T20:44:13.053Z",
-  "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
-  },
-  "history": [
-    {
-      "at": "2026-08-03T20:40:58.015Z",
-      "attempt": 1,
-      "from": "legacy",
-      "to": "preparing"
-    },
-    {
-      "at": "2026-08-03T20:41:05.972Z",
-      "attempt": 1,
-      "from": "preparing",
-      "to": "drafting"
-    },
-    {
-      "at": "2026-08-03T20:44:13.053Z",
-      "attempt": 1,
-      "from": "drafting",
-      "to": "validating"
-    }
-  ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "typography.minimum",
-          "message": "Front matter defines 5 typography roles; expected at least 6."
-        },
-        {
-          "id": "typography.minimum",
-          "message": "Front matter defines 5 typography roles; expected at least 6."
-        }
-      ]
+  "blocker": null,
+  "inventory": {
+    "projection": {
+      "isLegacy": false,
+      "blocker": null,
+      "pinCount": null
     }
   },
   "artifacts": {
-    "runId": "2026-08-03T20-40-58-980Z-a1",
-    "imageCount": 6,
-    "baselineAvailable": true
+    "imageCount": 6
   },
   "publication": {
-    "key": "dany.works-design"
+    "key": "dany.works-design",
+    "url": null,
+    "markdownUrl": null,
+    "githubUrl": null
   },
-  "blocker": null,
-  "inventory": {
-    "ref": "origin/main",
-    "fingerprint": "mechanical",
-    "corpus": {
-      "origin": "https://dany.works",
-      "originCount": 1,
-      "captureCount": 7,
-      "observedGeneration": 68997,
-      "inventoriedAt": "2026-08-03T19:12:36.929Z"
-    }
-  },
-  "normalization": {
-    "stepPx": 2,
-    "meanAbsoluteError": 0,
-    "maximumResidual": 0,
-    "valuesConsidered": 5
-  }
+  "failure": null
 }
