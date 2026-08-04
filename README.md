@@ -843,7 +843,7 @@ betterstack.com presents a predominantly dark surface treatment in the captured 
 
 [![How bfl.ai is designed](https://pin.fontofweb.com/6151?format=jpg)](design-md/bfl.ai.md)
 
-bfl.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#07130e`, and `#556659`, with typography led by **Instrument Sans** and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Black Forest Labs uses a visual system that feels like a research poster laid over a night landscape. The page is built from contrast rather than ornament: near-black ground, soft white cards, huge white headlines, and small mono labels that look stamped rather than decorative. The result is restrained but dramatic. Nothing in the system is loud by itself, yet the whole page still feels cinematic because the imagery, type scale, and surface changes are aligned.
 
 [Open guide](design-md/bfl.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/bfl.ai-design)
 

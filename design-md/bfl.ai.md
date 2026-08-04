@@ -2,145 +2,172 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/bfl.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6151?format=jpg)](https://design.withfudge.com/share/pin-6151)
+[![Footer grid with logo, link columns, and legal rows](https://pin.fontofweb.com/6151?format=jpg)](https://design.withfudge.com/share/pin-6151)
 
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6151)
+[Footer grid with logo, link columns, and legal rows](https://design.withfudge.com/share/pin-6151)
 
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6150?format=jpg)](https://design.withfudge.com/share/pin-6150)
+[![Dark hero with oversized title and white floating cards](https://pin.fontofweb.com/6147?format=jpg)](https://design.withfudge.com/share/pin-6147)
 
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6150)
+[Dark hero with oversized title and white floating cards](https://design.withfudge.com/share/pin-6147)
 
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6149?format=jpg)](https://design.withfudge.com/share/pin-6149)
+[![Three stacked white cards layered over the dark stage](https://pin.fontofweb.com/6148?format=jpg)](https://design.withfudge.com/share/pin-6148)
 
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6149)
+[Three stacked white cards layered over the dark stage](https://design.withfudge.com/share/pin-6148)
 
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6148?format=jpg)](https://design.withfudge.com/share/pin-6148)
+[![Centered FLUX.2 promo with two actions over painted art](https://pin.fontofweb.com/6145?format=jpg)](https://design.withfudge.com/share/pin-6145)
 
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6148)
-
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6147?format=jpg)](https://design.withfudge.com/share/pin-6147)
-
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6147)
-
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6146?format=jpg)](https://design.withfudge.com/share/pin-6146)
-
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6146)
-
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6145?format=jpg)](https://design.withfudge.com/share/pin-6145)
-
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6145)
-
-[![Black Forest Labs - Frontier AI Lab](https://pin.fontofweb.com/6144?format=jpg)](https://design.withfudge.com/share/pin-6144)
-
-[Black Forest Labs - Frontier AI Lab](https://design.withfudge.com/share/pin-6144)
+[Centered FLUX.2 promo with two actions over painted art](https://design.withfudge.com/share/pin-6145)
 
 ## Overview
 
-bfl.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#07130e`, and `#556659`, with typography led by **Instrument Sans** and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Black Forest Labs uses a visual system that feels like a research poster laid over a night landscape. The page is built from contrast rather than ornament: near-black ground, soft white cards, huge white headlines, and small mono labels that look stamped rather than decorative. The result is restrained but dramatic. Nothing in the system is loud by itself, yet the whole page still feels cinematic because the imagery, type scale, and surface changes are aligned.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The identity depends on two strong opposites. The first is the dark field, which lets the imagery and the white product sheets float without visual noise. The second is the white card language, which turns each model or access path into a compact information block. Those cards are not glossy marketing shells. They behave more like clipped sheets from a technical notebook, with thin rules and just enough rounding to keep them soft.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#ffffff` | text on page content in the footer |
-| color.text | `#07130e` | text on page content in the main |
-| color.border | `#556659` | border on page content in the footer |
-| color.text | `#838987` | text on page content in the footer |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Instrument Sans** | 16px | 500 | 24px | normal | <div> in the footer, <ul> in the footer, <div> in the main, <button> in the button, <div>, and <div> in the nav |
-| type.display-59.4859px | **Instrument Sans** | 59.4859px | 500 | 59.4859px | -2.97429px | <h3> in the main |
-| type.display-91.375px | **Instrument Sans** | 91.375px | 500 | 82.2375px | -4.56875px | <h2> in the main |
-| type.body-29.9172px | **Instrument Sans** | 29.9172px | 400 | 35.9007px | -1.19669px | <p> in the main |
-| type.body-15.6531px | **Ibm Plex Mono** | 15.6531px | 500 | 21.9144px | 0.782656px | <a> in the footer, <li> in the main, <div> in the main, <p> in the main, and <span> in the main |
-| type.body-22.9578px | **Instrument Sans** | 22.9578px | 400 | 25.2535px | -0.229578px | <p> in the main |
-| type.display-51.1391px | **Instrument Sans** | 51.1391px | 500 | 51.1391px | -2.55696px | <h2> in the main, <a> in the main, <div> in the main, and <span> in the main |
-| type.body-18px | **Instrument Sans** | 18px | 500 | 18px | normal | <div> in the main and <div> in the nav |
-| type.body-17.6531px | **Instrument Sans** | 17.6531px | 400 | 22.0664px | 0.176531px | <p> in the main |
-| type.display-107.5px | **Instrument Sans** | 107.5px | 500 | 96.75px | -5.375px | <h1> in the main |
-| type.body-13.6531px | **Instrument Sans** | 13.6531px | 500 | 16.3837px | normal | <p> in the main |
-| type.body-15.6531px | **Ibm Plex Mono** | 15.6531px | 500 | 15.6531px | 0.782656px | <p> in the footer |
-| type.body-29.9172px | **Instrument Sans** | 29.9172px | 500 | 29.9172px | -1.19669px | <p> in the footer |
-| type.body-29.9172px | **Instrument Sans** | 29.9172px | 500 | 35.9007px | -1.19669px | <p> in the footer |
-| type.body-17.6531px | **Instrument Sans** | 17.6531px | 500 | 17.6531px | 0.176531px | <button> in the button |
-| type.body-16px | **Instrument Sans** | 16px | 500 | 16px | 0.16px | <span> in the main |
-| type.body-14px | **Instrument Sans** | 14px | 500 | 20px | normal | <span> and <a> |
-| type.body-14px | **Ibm Plex Mono** | 14px | 500 | 19.6px | 0.7px | <p> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `96px 32px 48px` | padding | page content |
-| `0px 0px 48px` | margin | page content |
-| `28px` | padding | page content |
-| `16px` | padding | page content |
-| `0px -48px 0px 0px` | margin | page content |
-| `0px 80px` | padding | page content |
-| `0px 40.5px` | margin | page content |
-| `0px 0px 256px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 4px`, `1px 0px 0px solid 0px`, `1px 0px 0px 1px solid 0px`, and `1px 1px 0px 0px solid 0px` border treatments. Recorded gradients include `radial-gradient(30% 100% at 50% 100%, rgba(255, 255, 255, 0.95)`, `linear-gradient(to top, rgb(7, 19, 14)`, and `radial-gradient(53.25% 100% at 50% 100%, rgb(255, 255, 255)`.
+The page also uses a clear tonal progression. Early sections keep the dark field and let the cards do the talking. The footer then compresses into a dense utility grid with the wordmark, section lists, and legal links. Across that progression, the hierarchy never changes: title first, supporting line second, action last.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface roles are not fully established. Text colors include `#ffffff`, `#07130e`, and `#838987`. Keep image-derived colors separate from interface colors.
+The palette is intentionally narrow. The interface stays inside a dark forest-green black, white, and two muted gray-greens. That constraint is what makes the page feel disciplined. There is no bright accent color fighting for attention. Buttons, labels, and rules stay subdued so the imagery and the large headings remain dominant. White is used in two ways: as foreground text on the dark canvas, and as the surface for the product cards. The difference matters because it gives the cards the feeling of detached technical modules.
+
+| token | hex | use |
+|---|---|---|
+| action | #838987 | Quiet button fill, muted calls to action, and low-contrast interactive blocks |
+| ink | #FFFFFF | Headlines, page titles, and utility text on the dark field |
+| muted ink | #556659 | Small labels, border tone, and subdued metadata on dark surfaces |
+| canvas | #07130E | Main page ground and the dark image field behind the cards |
+| canvas deep | #000000 | Footer floor, deepest transitions, and the darkest support text on cards |
+| surface | #FFFFFF | Floating product panels, white sheets, and light utility cards |
+| border | #556659 | 1px dividers, hairline rules, and subtle card outlines |
+
+The system shifts between dark and light rather than between many hues. Dark sections feel like a stage set. Light cards feel like extracted documents placed on top of that stage. The action tone remains calm in both modes. Even when a control is prominent, it should not break the overall hush. That keeps the brand from reading as generic SaaS chrome. It reads instead as a product interface with editorial restraint.
 
 ## Typography
 
-The captured type system uses **Instrument Sans** and **Ibm Plex Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Instrument Sans carries the display and body hierarchy. IBM Plex Mono carries the small utility language, link lists, and footer-like information. That pairing is doing the most visible brand work after the dark palette. Instrument Sans gives the page its wide, soft, modern headline shapes. IBM Plex Mono adds a technical cadence to the side labels and link clusters, especially where the page wants to feel systematic rather than promotional. Instrument Sans is credited to Rodrigo Fuenzalida at Frag Type. IBM Plex Mono is credited to Mike Abbink, Paul Van Der Laan, and Pieter Van Rosmalen at Bold Monday. Licensing should be confirmed before reuse.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Instrument Sans | 6.7188rem | 500 | 0.9 | -0.05em | Large landing-page headline |
+| section-display | Instrument Sans | 5.7109rem | 500 | 0.9 | -0.05em | Secondary hero and section lead |
+| panel-title | Instrument Sans | 3.7179rem | 500 | 1 | -0.05em | Large card titles and page chapter headers |
+| feature-title | Instrument Sans | 3.1963rem | 500 | 1 | -0.05em | Stacked feature cards and product names |
+| body-large | Instrument Sans | 1.8698rem | 400 | 1.18 | -0.02em | Hero support copy and explanatory statements |
+| body | Instrument Sans | 1.4349rem | 400 | 1.1 | -0.01em | Card descriptions and longer reading blocks |
+| body-medium | Instrument Sans | 1.1033rem | 500 | 1.25 | 0em | Buttons and emphasized short copy |
+| nav-label | Ibm Plex Mono | 0.875rem | 500 | 1.4 | 0.05em | Header links and compact navigation labels |
+| utility-label | Ibm Plex Mono | 0.9783rem | 500 | 1.4 | 0.05em | Side labels, category tags, and tiny support copy |
+| legal-copy | Ibm Plex Mono | 0.8533rem | 500 | 1.45 | 0.05em | Footer lists, fine print, and secondary utility text |
+
+Hierarchy comes from scale and spacing more than from multiple weights. The biggest headings are wide and spare. The medium body size is still substantial, which keeps the cards legible at a glance. The mono text should feel like systems language: compact, ordered, and slightly mechanical. Avoid mixing in another family for emphasis. The contrast between the two existing families is already enough.
 
 ## Layout
 
-The captured pages use values such as `96px 32px 48px`, `0px 0px 48px`, `28px`, `16px`, and `0px -48px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is desktop-first and stage-like. The dark field expands edge to edge. On top of it, the content is arranged in broad columns with large gaps rather than dense grids. The hero generally uses a left text column and a right visual stack, with the left side carrying the main statement and the right side carrying cards or imagery. That split is a core part of the brand because it keeps the reading path direct while allowing the product sheets to feel layered.
+
+Spacing is generous but controlled. The system repeatedly uses the shared step of 16, 28, 32, and 48 pixels for smaller separations, then jumps to 96 pixels for the larger hero inset. Bigger drops such as 256 pixels and beyond create the long visual breathing room that the footer and lower utility sections need. The page feels spacious because most modules are not trying to fill the width. They are anchored, then allowed to float against the dark ground.
+
+The card stack is the clearest layout motif. Cards are white, rectangular, and lightly rounded. They overlap or sit close enough to suggest a stack, but each one stays readable as a separate product path. The result is a controlled rhythm: one title card, one supporting card, then another card beneath it. That rhythm works well because the cards all share the same width language and the same quiet border tone.
+
+The footer reverses the hero logic. Instead of a floating visual stack, it becomes a dense utility matrix with the logo on one side and multiple columns of links on the other. The footer keeps the same dark field, but it trades big visual statements for smaller, ordered information. That transition makes the page feel complete without changing the brand voice.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. The surface palette is not fully established. Depth is supported by the returned gradients.
+The page speaks through three visual modes. The first is the dark atmospheric field, which acts like a backdrop for the whole site. The second is the white information card, which behaves like a product sheet or access module. The third is the illustrated or photographic hero panel, which adds mood without becoming decorative clutter. These modes work together because none of them is over-embellished. The imagery can be painterly, photographic, or textured, but it stays calm and muted so the type remains legible.
 
-## Components and states
+The most distinctive trait is the refusal to over-style the surfaces. Cards do not use heavy effects or glossy treatments. The rounding is minimal at 4 pixels, and the borders are thin enough to feel almost like rules on paper. That makes the cards seem precise rather than casual. The dark backdrop can carry a soft radial glow or a faint transition into the image, but it should never become a colorful gradient show. The page is about depth through layering, not decoration through effects.
 
-The captured pages include repeated styling on <div>, <p>, <ul>, <a>, <h2>, <li>, <h3>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Mono labels provide another important visual cue. They are small, upper-register details that describe what a module is without competing with the main headline. That means the page can show a lot of structure while still feeling simple. The labels also make the page feel technical and product-oriented, which is essential for a model lab site. When those labels sit next to a large Instrument Sans heading, the system feels both disciplined and contemporary.
+
+## Components
+
+### Top navigation and utility strip
+
+- **Anatomy:** wordmark, product groups, resource groups, company links, and a right-side action.
+- **Typography:** navigation uses the mono utility style or a small sans body style, depending on the section.
+- **Surface:** it sits directly against the dark field with very little framing.
+- **Spacing:** the links need enough horizontal separation to stay readable, but not so much that the bar feels loose.
+- **Visible state:** the action should stay quiet, not bright; it belongs to the same muted palette as the rest of the system.
+
+### Hero statement block
+
+- **Anatomy:** a very large headline, a short supporting paragraph, and a compact action line.
+- **Typography:** use the largest Instrument Sans size for the main statement and a smaller body size for the explanation.
+- **Surface:** dark field, sometimes with an illustrated or photographic backdrop.
+- **Shape:** no enclosure around the text block; the surrounding negative space is part of the component.
+- **Composition:** the headline should dominate the left side and remain the first thing the eye reads.
+
+### Floating product cards
+
+- **Anatomy:** title, short label cluster, supporting paragraph, and one action.
+- **Typography:** large card titles in Instrument Sans, small label clusters in IBM Plex Mono, support copy in body size.
+- **Surface:** solid white with a thin border tone.
+- **Shape:** 4px radius; sharp enough to feel technical, soft enough to avoid harshness.
+- **Spacing:** generous inner padding, then enough outer space to let cards overlap without collision.
+- **Visible states:** cards can stack vertically or step across the field, but they should never become a dense dashboard grid.
+
+### Illustrated product promo
+
+- **Anatomy:** centered headline, short product line, two compact actions, and a small compare link.
+- **Typography:** large centered display type over the image; smaller body copy and mono link beneath.
+- **Surface:** image-led panel with the text floating above it.
+- **Composition:** keep the headline centered and the buttons side by side so the panel feels balanced.
+- **Mood:** this is the most expressive component in the system, but it still needs the same quiet finish as the rest of the page.
+
+### Footer grid and legal band
+
+- **Anatomy:** left wordmark block, several link columns, and a final legal row.
+- **Typography:** IBM Plex Mono for the lists and legal text; the wordmark can remain a graphic element.
+- **Surface:** deepest canvas tone with white or muted text.
+- **Spacing:** the grid should feel dense but still orderly, with clear column separation.
+- **Visible states:** links stay understated; the footer should read like a controlled utility zone, not a second hero.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The desktop composition should collapse by preserving the reading order, not by reshuffling the visual story. On smaller widths, the headline still comes first, then the support line, then the cards, then the footer. The stacked card language should remain intact even when the cards become a single column. The mono labels can compress, but they should not disappear. Their role is to keep the product structure visible.
+
+Type scaling should be conservative. The brand relies on oversized headings, but they should reduce smoothly rather than collapsing into standard web text. The dark field should continue to frame the layout, and the white cards should keep their own strong contrast. Avoid letting the page become a generic mobile marketing stack with rounded blocks and center-aligned copy everywhere. The brand needs its left-anchored, editorial feeling even when space is tighter.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the dark canvas as the dominant surface.
+- Use Instrument Sans for the large statements and IBM Plex Mono for the compact technical language.
+- Keep the card radius at 4px and the borders thin.
+- Let white cards float over the dark field rather than burying them inside nested containers.
+- Keep the action tone muted; the page should never snap into bright SaaS color.
+
+### Avoid
+
+- Avoid extra font families.
+- Avoid bright accent gradients, neon buttons, or glossy glass effects.
+- Avoid dense multi-card dashboards that erase the editorial rhythm.
+- Avoid adding extra depth effects on every module; the image layers and surface contrast already supply depth.
+- Avoid large rounded corners that make the system feel soft in a generic way.
+
+### Recommended build order
+
+1. Build the dark canvas and the base type scale.
+2. Add the top navigation and utility labels.
+3. Recreate the hero headline block with the image-backed stage.
+4. Build the floating white product cards and their stacked arrangement.
+5. Add the illustrated promo panel with its centered actions.
+6. Finish with the footer grid and legal band.
+
+### Accessibility
+
+- Keep the white text on the dark field strong enough for long reading.
+- Keep dark text on white cards equally clear; do not reduce the contrast just to mimic softness.
+- Give the mono labels enough size and tracking to remain legible.
+- Make every action visually distinct without depending on color alone.
+- Preserve readable line lengths in the biggest headline blocks so the text does not become a wall of letters.
+- If the cards overlap, make sure the overlap does not hide the first line of each title.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#ffffff`
-- `#07130e`
-- `#556659`
-- `#838987`
-
-## Typography captured from bfl.ai
-
-- **Instrument Sans** — weight 500 · size 16px
-- **Ibm Plex Mono** — weight 500 · size 15.6531px
+This guide covers the bfl.ai homepage surfaces shown in the supplied image set: the dark hero field, the stacked product cards, the illustrated FLUX.2 promo, and the footer grid. Mobile stacking, motion, hover details, and other page families are not included. Measurements use the shared relative unit rounded to a consistent 0.125rem step.
