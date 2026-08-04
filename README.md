@@ -1217,9 +1217,9 @@ Coda’s merchant-of-record landing page is built as a two-mode finance story. T
 
 ### codepen.io
 
-[![How codepen.io is designed](https://pin.fontofweb.com/8438?format=jpg)](design-md/codepen.io.md)
+[![How codepen.io is designed](https://pin.fontofweb.com/8437?format=jpg)](design-md/codepen.io.md)
 
-codepen.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#2c303a`, with typography led by **Lato**, **Telefon**, **Type**, **Sf Mono**, and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+CodePen is a dark builder shell with a strong split between utility chrome and promotional stage content. The left rail, top search bar, and account controls stay compact and disciplined. The main lane opens into large white statements, dark cards, and bright accent graphics that make the product feel active without turning the interface glossy or heavy.
 
 [Open guide](design-md/codepen.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/codepen.io-design)
 
