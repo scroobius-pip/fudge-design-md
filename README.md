@@ -215,6 +215,14 @@ This portfolio is built as a bright gallery with a personal tone. The page stays
 
 [Open guide](design-md/adasilv2.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/adasilv2.framer.website-design)
 
+### adfects.com
+
+[![How adfects.com is designed](https://pin.fontofweb.com/4479?format=jpg)](design-md/adfects.com.md)
+
+Adfects is a clean selling page for ad design services. The visual language is spare at first glance: white canvas, black type, thin gray rules, and dark rounded call-to-action bars. The page does not try to feel like a dashboard. It feels like a polished studio landing page where the work samples do the heavy lifting.
+
+[Open guide](design-md/adfects.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/adfects.com-design)
+
 ### adithyakrishnan.com
 
 [![How adithyakrishnan.com is designed](https://pin.fontofweb.com/2541?format=jpg)](design-md/adithyakrishnan.com.md)
