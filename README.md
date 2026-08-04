@@ -1105,9 +1105,9 @@ Christie’s homepage feels like an auction catalog arranged with the pacing of 
 
 ### clarity.microsoft.com
 
-[![How clarity.microsoft.com is designed](https://pin.fontofweb.com/6784?format=jpg)](design-md/clarity.microsoft.com.md)
+[![How clarity.microsoft.com is designed](https://pin.fontofweb.com/6780?format=jpg)](design-md/clarity.microsoft.com.md)
 
-clarity.microsoft.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#323130`, and `#eaeaff`, with typography led by **Segoe Ui**. The guide below names reusable design roles only where the captured evidence supports them.
+Clarity uses a restrained Microsoft marketing language: white canvas, pale blue-violet washes, Segoe UI hierarchy, and product screenshots that do most of the explanatory work. The page stays calm and corporate rather than theatrical. Large headings and small utility labels create the rhythm; the screenshots provide the proof.
 
 [Open guide](design-md/clarity.microsoft.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/clarity.microsoft.com-design)
 
