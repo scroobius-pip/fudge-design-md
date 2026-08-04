@@ -681,9 +681,9 @@ Google Arts & Culture uses a restrained, gallery-like interface that keeps the a
 
 ### artstation.com
 
-[![How artstation.com is designed](https://pin.fontofweb.com/8864?format=jpg)](design-md/artstation.com.md)
+[![How artstation.com is designed](https://pin.fontofweb.com/2253?format=jpg)](design-md/artstation.com.md)
 
-artstation.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#bebec2` and `#000000`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+ArtStation presents itself as a dark working surface for illustration, concept art, 3D work, and marketplace discovery. The page does not build a bright brand shell around the content. It lowers the interface into a near-black canvas and lets thumbnails, artwork, and profile imagery supply almost all of the color. That choice gives the site a gallery-like feel even when the content is a utility view such as an empty profile. The interface still needs structure, but that structure stays quiet: a narrow top bar, a long search field, compact utility controls, and horizontal content rails.
 
 [Open guide](design-md/artstation.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/artstation.com-design)
 
