@@ -1,24 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:29:05.666Z",
+  "generatedAt": "2026-08-04T20:32:26.531Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 153,
+    "published_verified": 154,
     "failed": 28,
     "needs_reprocessing": 21,
-    "drafting": 4,
+    "drafting": 3,
     "unpublished": 896,
-    "ready": 21,
+    "ready": 20,
+    "publishing": 1,
     "validating": 2,
-    "syncing": 1,
+    "preparing": 1,
     "legacy": 73
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T20:29:03.543Z",
+    "heartbeatAt": "2026-08-04T20:32:23.908Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -27,12 +28,12 @@
           "startedAt": "2026-08-04T20:27:56.900Z"
         },
         {
-          "domain": "aura.build",
-          "startedAt": "2026-08-04T20:24:31.503Z"
-        },
-        {
           "domain": "codepen.io",
           "startedAt": "2026-08-04T20:23:24.970Z"
+        },
+        {
+          "domain": "cosmos.so",
+          "startedAt": "2026-08-04T20:32:23.854Z"
         },
         {
           "domain": "diabrowser.com",
@@ -47,31 +48,31 @@
           "startedAt": "2026-08-04T20:28:37.962Z"
         }
       ],
-      "completedThisRun": 36,
+      "completedThisRun": 37,
       "failedThisRun": 59
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "deepwiki.com",
-        "startedAt": "2026-08-04T20:24:52.057Z"
+        "domain": "betterstack.com",
+        "startedAt": "2026-08-04T20:32:23.852Z"
       },
-      "completedThisRun": 15,
-      "failedThisRun": 19
+      "completedThisRun": 16,
+      "failedThisRun": 20
     },
     "queue": {
-      "eligibleGeneration": 997,
+      "eligibleGeneration": 998,
       "availableGeneration": 970,
       "readyPublication": 21,
-      "publishedVerified": 153
+      "publishedVerified": 154
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T20:24:02.282Z"
+      "lastSyncedAt": "2026-08-04T20:29:11.320Z"
     },
     "lastError": {
-      "at": "2026-08-04T20:27:54.337Z",
-      "message": "Generation failed for firstpromoter.com with exit 1."
+      "at": "2026-08-04T20:31:05.711Z",
+      "message": "Publication failed for deepwiki.com with exit 1."
     }
   },
   "domains": [
@@ -1028,7 +1029,7 @@
       "domain": "aistudio.google.com",
       "state": "drafting",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:28:05.282Z",
+      "updatedAt": "2026-08-04T20:31:45.110Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -2586,9 +2587,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "validating",
+      "state": "ready",
       "attempt": 5,
-      "updatedAt": "2026-08-04T20:27:10.372Z",
+      "updatedAt": "2026-08-04T20:32:21.013Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3093,9 +3094,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:03:40.289Z",
+      "updatedAt": "2026-08-04T20:32:23.901Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -4707,7 +4708,7 @@
       "domain": "codepen.io",
       "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:28:07.592Z",
+      "updatedAt": "2026-08-04T20:31:00.615Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -5004,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:37:03.093Z",
+      "state": "preparing",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:32:24.006Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5706,9 +5707,9 @@
     },
     {
       "domain": "deepwiki.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T20:24:56.586Z",
+      "updatedAt": "2026-08-04T20:31:05.574Z",
       "blocker": null,
       "publication": {
         "key": "deepwiki.com-design",
@@ -5758,15 +5759,15 @@
     },
     {
       "domain": "delve.co",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:58:50.732Z",
+      "updatedAt": "2026-08-04T20:32:22.828Z",
       "blocker": null,
       "publication": {
         "key": "delve.co-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/delve.co-design",
+        "markdownUrl": "https://design.withfudge.com/share/delve.co-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/delve.co.md"
       }
     },
     {
@@ -7578,9 +7579,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:28:44.933Z",
+      "updatedAt": "2026-08-04T20:32:11.817Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
