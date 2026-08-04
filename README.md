@@ -915,7 +915,7 @@ brave.com presents a predominantly light surface treatment in the captured pages
 
 [![How brookings.edu is designed](https://pin.fontofweb.com/9557?format=jpg)](design-md/brookings.edu.md)
 
-brookings.edu presents a predominantly light surface treatment in the captured pages. The system is anchored by `#191919`, `#ffffff`, and `#022a4e`, with typography led by **Inter** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Brookings reads like a serious editorial institution, not a glossy marketing site. The visual system is built from a narrow set of strong roles: a blue header strip, white content fields, deep navy promotional bands, orange section markers, and black-to-gray body text. The result is direct and legible. It feels closer to a research desk than a campaign landing page.
 
 [Open guide](design-md/brookings.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/brookings.edu-design)
 
