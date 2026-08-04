@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T16:32:38.985Z",
+  "heartbeatAt": "2026-08-04T16:41:33.899Z",
   "generation": {
     "concurrency": 6,
     "active": [
@@ -27,12 +27,12 @@
         "startedAt": "2026-08-04T16:30:56.175Z"
       },
       {
-        "domain": "dash.cloudflare.com",
-        "startedAt": "2026-08-04T16:21:36.841Z"
+        "domain": "app.superlist.com",
+        "startedAt": "2026-08-04T16:34:42.156Z"
       }
     ],
     "completedThisRun": 49,
-    "failedThisRun": 29
+    "failedThisRun": 30
   },
   "publication": {
     "concurrency": 1,
@@ -45,16 +45,16 @@
   },
   "queue": {
     "eligibleGeneration": 1028,
-    "availableGeneration": 1013,
-    "readyPublication": 16,
+    "availableGeneration": 1014,
+    "readyPublication": 15,
     "publishedVerified": 128
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T16:30:48.336Z"
+    "lastSyncedAt": "2026-08-04T16:32:48.205Z"
   },
   "lastError": {
-    "at": "2026-08-04T16:31:39.795Z",
-    "message": "Publication failed for chatgpt.com with exit 1."
+    "at": "2026-08-04T16:34:41.194Z",
+    "message": "Generation failed for dash.cloudflare.com with exit 1."
   }
 }

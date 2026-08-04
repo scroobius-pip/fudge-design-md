@@ -1,25 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:32:41.870Z",
+  "generatedAt": "2026-08-04T16:41:36.176Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 128,
     "ready": 15,
     "failed": 37,
-    "drafting": 4,
+    "repairing": 5,
     "needs_reprocessing": 21,
-    "validating": 1,
     "unpublished": 896,
-    "publishing": 1,
-    "repairing": 1,
+    "drafting": 1,
+    "syncing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:32:38.985Z",
+    "heartbeatAt": "2026-08-04T16:41:33.899Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -44,12 +43,12 @@
           "startedAt": "2026-08-04T16:30:56.175Z"
         },
         {
-          "domain": "dash.cloudflare.com",
-          "startedAt": "2026-08-04T16:21:36.841Z"
+          "domain": "app.superlist.com",
+          "startedAt": "2026-08-04T16:34:42.156Z"
         }
       ],
       "completedThisRun": 49,
-      "failedThisRun": 29
+      "failedThisRun": 30
     },
     "publication": {
       "concurrency": 1,
@@ -62,17 +61,17 @@
     },
     "queue": {
       "eligibleGeneration": 1028,
-      "availableGeneration": 1013,
-      "readyPublication": 16,
+      "availableGeneration": 1014,
+      "readyPublication": 15,
       "publishedVerified": 128
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:30:48.336Z"
+      "lastSyncedAt": "2026-08-04T16:32:48.205Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:31:39.795Z",
-      "message": "Publication failed for chatgpt.com with exit 1."
+      "at": "2026-08-04T16:34:41.194Z",
+      "message": "Generation failed for dash.cloudflare.com with exit 1."
     }
   },
   "domains": [
@@ -858,9 +857,9 @@
     },
     {
       "domain": "ahrefsevolve.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:27:58.711Z",
+      "updatedAt": "2026-08-04T16:34:34.266Z",
       "blocker": null,
       "publication": {
         "key": "ahrefsevolve.com-design",
@@ -936,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:32:27.314Z",
+      "updatedAt": "2026-08-04T16:34:17.289Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1170,9 +1169,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:30:03.275Z",
+      "updatedAt": "2026-08-04T16:35:17.247Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1261,9 +1260,9 @@
     },
     {
       "domain": "ami.dev",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:30:03.637Z",
+      "updatedAt": "2026-08-04T16:35:38.299Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
@@ -1274,9 +1273,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:31:01.325Z",
+      "updatedAt": "2026-08-04T16:34:38.349Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -2093,9 +2092,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:31:53.388Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:34:46.643Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -4745,14 +4744,14 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:32:38.972Z",
+      "updatedAt": "2026-08-04T16:32:43.653Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/cofounder.co-design",
+        "markdownUrl": "https://design.withfudge.com/share/cofounder.co-design.md",
         "githubUrl": null
       }
     },
@@ -5434,9 +5433,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:31:27.123Z",
+      "updatedAt": "2026-08-04T16:34:41.119Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
