@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:33:44.153Z",
+  "generatedAt": "2026-08-04T15:35:58.962Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 120,
-    "failed": 55,
+    "published_verified": 121,
+    "failed": 56,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "drafting": 4,
-    "ready": 5,
-    "syncing": 1,
-    "validating": 1,
-    "legacy": 95,
-    "preparing": 1
+    "drafting": 3,
+    "publishing": 1,
+    "ready": 3,
+    "repairing": 1,
+    "preparing": 2,
+    "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:33:37.440Z",
+    "heartbeatAt": "2026-08-04T15:35:55.759Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -32,12 +32,12 @@
           "startedAt": "2026-08-04T15:29:00.525Z"
         },
         {
-          "domain": "builtwith.kit.com",
-          "startedAt": "2026-08-04T15:21:03.922Z"
-        },
-        {
           "domain": "campaignlive.co.uk",
           "startedAt": "2026-08-04T15:25:50.763Z"
+        },
+        {
+          "domain": "cap.so",
+          "startedAt": "2026-08-04T15:34:13.207Z"
         },
         {
           "domain": "fin.ai",
@@ -49,30 +49,30 @@
         }
       ],
       "completedThisRun": 23,
-      "failedThisRun": 18
+      "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "browserbase.com",
-        "startedAt": "2026-08-04T15:28:19.594Z"
+        "domain": "bud.app",
+        "startedAt": "2026-08-04T15:35:55.710Z"
       },
-      "completedThisRun": 16,
-      "failedThisRun": 1
+      "completedThisRun": 17,
+      "failedThisRun": 2
     },
     "queue": {
-      "eligibleGeneration": 1046,
-      "availableGeneration": 1033,
-      "readyPublication": 5,
-      "publishedVerified": 120
+      "eligibleGeneration": 1047,
+      "availableGeneration": 1032,
+      "readyPublication": 4,
+      "publishedVerified": 121
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:28:34.011Z"
+      "lastSyncedAt": "2026-08-04T15:34:05.792Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:31:25.991Z",
-      "message": "Generation failed for bspk.xyz with exit 1."
+      "at": "2026-08-04T15:34:35.754Z",
+      "message": "Publication failed for browserbase.com with exit 1."
     }
   },
   "domains": [
@@ -3562,22 +3562,22 @@
     },
     {
       "domain": "brookings.edu",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:23:07.369Z",
+      "updatedAt": "2026-08-04T15:35:52.600Z",
       "blocker": null,
       "publication": {
         "key": "brookings.edu-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/brookings.edu-design",
+        "markdownUrl": "https://design.withfudge.com/share/brookings.edu-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/brookings.edu.md"
       }
     },
     {
       "domain": "browserbase.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:28.633Z",
+      "updatedAt": "2026-08-04T15:34:35.662Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3653,9 +3653,9 @@
     },
     {
       "domain": "bud.app",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:25:46.997Z",
+      "updatedAt": "2026-08-04T15:35:55.752Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3744,9 +3744,9 @@
     },
     {
       "domain": "builtwith.kit.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:31:32.320Z",
+      "updatedAt": "2026-08-04T15:34:12.203Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
@@ -4069,9 +4069,9 @@
     },
     {
       "domain": "campaignlive.co.uk",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:30:31.064Z",
+      "updatedAt": "2026-08-04T15:34:51.287Z",
       "blocker": null,
       "publication": {
         "key": "campaignlive.co.uk-design",
@@ -4121,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:51:20.572Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:34:13.333Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",

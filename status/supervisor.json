@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:33:37.440Z",
+  "heartbeatAt": "2026-08-04T15:35:55.759Z",
   "generation": {
     "concurrency": 6,
     "active": [
@@ -15,12 +15,12 @@
         "startedAt": "2026-08-04T15:29:00.525Z"
       },
       {
-        "domain": "builtwith.kit.com",
-        "startedAt": "2026-08-04T15:21:03.922Z"
-      },
-      {
         "domain": "campaignlive.co.uk",
         "startedAt": "2026-08-04T15:25:50.763Z"
+      },
+      {
+        "domain": "cap.so",
+        "startedAt": "2026-08-04T15:34:13.207Z"
       },
       {
         "domain": "fin.ai",
@@ -32,29 +32,29 @@
       }
     ],
     "completedThisRun": 23,
-    "failedThisRun": 18
+    "failedThisRun": 19
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "browserbase.com",
-      "startedAt": "2026-08-04T15:28:19.594Z"
+      "domain": "bud.app",
+      "startedAt": "2026-08-04T15:35:55.710Z"
     },
-    "completedThisRun": 16,
-    "failedThisRun": 1
+    "completedThisRun": 17,
+    "failedThisRun": 2
   },
   "queue": {
-    "eligibleGeneration": 1046,
-    "availableGeneration": 1033,
-    "readyPublication": 5,
-    "publishedVerified": 120
+    "eligibleGeneration": 1047,
+    "availableGeneration": 1032,
+    "readyPublication": 4,
+    "publishedVerified": 121
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:28:34.011Z"
+    "lastSyncedAt": "2026-08-04T15:34:05.792Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:31:25.991Z",
-    "message": "Generation failed for bspk.xyz with exit 1."
+    "at": "2026-08-04T15:34:35.754Z",
+    "message": "Publication failed for browserbase.com with exit 1."
   }
 }
