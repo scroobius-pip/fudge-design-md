@@ -1,25 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:32:26.993Z",
+  "generatedAt": "2026-08-04T19:37:38.930Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 149,
-    "ready": 18,
+    "ready": 20,
     "needs_reprocessing": 21,
-    "drafting": 2,
-    "failed": 28,
-    "unpublished": 896,
-    "repairing": 2,
     "validating": 2,
-    "publishing": 1,
-    "legacy": 80
+    "failed": 27,
+    "unpublished": 896,
+    "drafting": 4,
+    "syncing": 1,
+    "legacy": 79
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:32:24.838Z",
+    "heartbeatAt": "2026-08-04T19:37:37.226Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -28,28 +27,28 @@
           "startedAt": "2026-08-04T19:30:10.806Z"
         },
         {
-          "domain": "app.superlist.com",
-          "startedAt": "2026-08-04T19:27:47.237Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-04T19:33:21.298Z"
         },
         {
-          "domain": "brave.com",
-          "startedAt": "2026-08-04T19:27:21.741Z"
+          "domain": "app.reve.com",
+          "startedAt": "2026-08-04T19:34:58.442Z"
         },
         {
-          "domain": "cosmos.so",
-          "startedAt": "2026-08-04T19:24:32.615Z"
+          "domain": "arcee.ai",
+          "startedAt": "2026-08-04T19:37:06.308Z"
         },
         {
-          "domain": "fin.ai",
-          "startedAt": "2026-08-04T19:19:04.908Z"
+          "domain": "audio.com",
+          "startedAt": "2026-08-04T19:34:12.390Z"
         },
         {
-          "domain": "firecrawl.dev",
-          "startedAt": "2026-08-04T19:22:24.627Z"
+          "domain": "designsystems.surf",
+          "startedAt": "2026-08-04T19:37:21.809Z"
         }
       ],
-      "completedThisRun": 22,
-      "failedThisRun": 36
+      "completedThisRun": 24,
+      "failedThisRun": 39
     },
     "publication": {
       "concurrency": 1,
@@ -61,18 +60,18 @@
       "failedThisRun": 12
     },
     "queue": {
-      "eligibleGeneration": 1004,
+      "eligibleGeneration": 1002,
       "availableGeneration": 976,
-      "readyPublication": 19,
+      "readyPublication": 20,
       "publishedVerified": 149
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:31:02.544Z"
+      "lastSyncedAt": "2026-08-04T19:32:32.616Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:31:53.133Z",
-      "message": "Publication failed for aistudio.google.com with exit 1."
+      "at": "2026-08-04T19:37:03.157Z",
+      "message": "Generation failed for cosmos.so with exit 1."
     }
   },
   "domains": [
@@ -936,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:30:19.441Z",
+      "updatedAt": "2026-08-04T19:37:20.137Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1495,9 +1494,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T18:44:10.185Z",
+      "state": "validating",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T19:36:53.872Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1988,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T18:46:17.097Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T19:35:03.976Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2093,9 +2092,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:31:11.421Z",
+      "updatedAt": "2026-08-04T19:34:09.377Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2210,9 +2209,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T18:44:34.928Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T19:37:08.929Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2574,9 +2573,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T18:40:14.566Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T19:34:18.989Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -3497,9 +3496,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:27:30.380Z",
+      "updatedAt": "2026-08-04T19:37:21.108Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -5005,9 +5004,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:31:21.279Z",
+      "updatedAt": "2026-08-04T19:37:03.093Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5421,9 +5420,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T19:32:24.830Z",
+      "updatedAt": "2026-08-04T19:32:29.354Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -5928,9 +5927,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T19:37:29.895Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7527,9 +7526,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:31:24.973Z",
+      "updatedAt": "2026-08-04T19:33:18.307Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7579,9 +7578,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:31:56.301Z",
+      "updatedAt": "2026-08-04T19:34:57.123Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
