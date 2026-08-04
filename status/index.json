@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:04:37.045Z",
+  "generatedAt": "2026-08-04T19:09:48.794Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 146,
-    "ready": 20,
+    "ready": 21,
     "needs_reprocessing": 21,
-    "failed": 28,
+    "failed": 27,
     "unpublished": 896,
-    "validating": 2,
-    "repairing": 2,
+    "repairing": 3,
     "drafting": 2,
-    "publishing": 1,
+    "syncing": 1,
+    "validating": 1,
     "legacy": 81
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:04:35.103Z",
+    "heartbeatAt": "2026-08-04T19:09:47.118Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -28,28 +28,28 @@
           "startedAt": "2026-08-04T19:01:25.744Z"
         },
         {
-          "domain": "baremettle.com",
-          "startedAt": "2026-08-04T18:58:36.939Z"
-        },
-        {
           "domain": "base-ui.com",
           "startedAt": "2026-08-04T19:01:00.201Z"
+        },
+        {
+          "domain": "bbc.com",
+          "startedAt": "2026-08-04T19:06:37.797Z"
         },
         {
           "domain": "binary.so",
           "startedAt": "2026-08-04T19:02:37.397Z"
         },
         {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-04T18:59:22.935Z"
+          "domain": "blog.google",
+          "startedAt": "2026-08-04T19:09:11.174Z"
         },
         {
           "domain": "designerdailyreport.com",
           "startedAt": "2026-08-04T19:03:43.842Z"
         }
       ],
-      "completedThisRun": 17,
-      "failedThisRun": 26
+      "completedThisRun": 18,
+      "failedThisRun": 27
     },
     "publication": {
       "concurrency": 1,
@@ -61,18 +61,18 @@
       "failedThisRun": 8
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 978,
+      "eligibleGeneration": 1004,
+      "availableGeneration": 979,
       "readyPublication": 21,
       "publishedVerified": 146
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:01:37.428Z"
+      "lastSyncedAt": "2026-08-04T19:04:43.507Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:02:35.829Z",
-      "message": "Generation failed for deezer.com with exit 1."
+      "at": "2026-08-04T19:09:09.947Z",
+      "message": "Generation failed for bkid.co with exit 1."
     }
   },
   "domains": [
@@ -2795,9 +2795,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:04:33.418Z",
+      "updatedAt": "2026-08-04T19:08:36.903Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2860,9 +2860,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:02:37.938Z",
+      "updatedAt": "2026-08-04T19:06:37.551Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2873,9 +2873,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:03:53.849Z",
+      "updatedAt": "2026-08-04T19:08:42.849Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2964,9 +2964,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T18:10:42.363Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T19:06:42.971Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3133,9 +3133,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:02:41.695Z",
+      "updatedAt": "2026-08-04T19:08:34.572Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3172,9 +3172,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:02:45.553Z",
+      "updatedAt": "2026-08-04T19:09:09.890Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3289,9 +3289,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T18:17:25.742Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T19:09:13.555Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -5434,14 +5434,14 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T19:04:35.104Z",
+      "updatedAt": "2026-08-04T19:04:39.500Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/dash.cloudflare.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/dash.cloudflare.com-design.md",
         "githubUrl": null
       }
     },
@@ -5876,9 +5876,9 @@
     },
     {
       "domain": "designerdailyreport.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:03:47.119Z",
+      "updatedAt": "2026-08-04T19:08:24.566Z",
       "blocker": null,
       "publication": {
         "key": "designerdailyreport.com-design",
