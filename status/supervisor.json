@@ -2,14 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:17:33.702Z",
+  "heartbeatAt": "2026-08-04T15:19:46.979Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "blog.google",
-        "startedAt": "2026-08-04T15:06:37.161Z"
-      },
       {
         "domain": "braintrust.dev",
         "startedAt": "2026-08-04T15:09:05.793Z"
@@ -29,32 +25,33 @@
       {
         "domain": "browseros.com",
         "startedAt": "2026-08-04T15:14:28.888Z"
+      },
+      {
+        "domain": "bspk.xyz",
+        "startedAt": "2026-08-04T15:18:14.784Z"
       }
     ],
     "completedThisRun": 15,
-    "failedThisRun": 15
+    "failedThisRun": 16
   },
   "publication": {
     "concurrency": 1,
-    "active": {
-      "domain": "bland.ai",
-      "startedAt": "2026-08-04T15:12:20.506Z"
-    },
-    "completedThisRun": 13,
-    "failedThisRun": 0
+    "active": null,
+    "completedThisRun": 14,
+    "failedThisRun": 1
   },
   "queue": {
-    "eligibleGeneration": 1053,
-    "availableGeneration": 1039,
-    "readyPublication": 1,
-    "publishedVerified": 117
+    "eligibleGeneration": 1054,
+    "availableGeneration": 1038,
+    "readyPublication": 0,
+    "publishedVerified": 118
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:12:30.897Z"
+    "lastSyncedAt": "2026-08-04T15:17:42.423Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:11:16.535Z",
-    "message": "Generation failed for binary.so with exit 1."
+    "at": "2026-08-04T15:18:31.966Z",
+    "message": "Publication failed for bland.ai with exit 1."
   }
 }

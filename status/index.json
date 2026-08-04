@@ -1,32 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:17:35.887Z",
+  "generatedAt": "2026-08-04T15:19:50.143Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 117,
-    "failed": 62,
+    "published_verified": 118,
+    "failed": 63,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
-    "validating": 2,
-    "ready": 1,
     "repairing": 2,
-    "drafting": 2,
+    "validating": 3,
+    "drafting": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:17:33.702Z",
+    "heartbeatAt": "2026-08-04T15:19:46.979Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "blog.google",
-          "startedAt": "2026-08-04T15:06:37.161Z"
-        },
         {
           "domain": "braintrust.dev",
           "startedAt": "2026-08-04T15:09:05.793Z"
@@ -46,33 +40,34 @@
         {
           "domain": "browseros.com",
           "startedAt": "2026-08-04T15:14:28.888Z"
+        },
+        {
+          "domain": "bspk.xyz",
+          "startedAt": "2026-08-04T15:18:14.784Z"
         }
       ],
       "completedThisRun": 15,
-      "failedThisRun": 15
+      "failedThisRun": 16
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "bland.ai",
-        "startedAt": "2026-08-04T15:12:20.506Z"
-      },
-      "completedThisRun": 13,
-      "failedThisRun": 0
+      "active": null,
+      "completedThisRun": 14,
+      "failedThisRun": 1
     },
     "queue": {
-      "eligibleGeneration": 1053,
-      "availableGeneration": 1039,
-      "readyPublication": 1,
-      "publishedVerified": 117
+      "eligibleGeneration": 1054,
+      "availableGeneration": 1038,
+      "readyPublication": 0,
+      "publishedVerified": 118
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:12:30.897Z"
+      "lastSyncedAt": "2026-08-04T15:17:42.423Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:11:16.535Z",
-      "message": "Generation failed for binary.so with exit 1."
+      "at": "2026-08-04T15:18:31.966Z",
+      "message": "Publication failed for bland.ai with exit 1."
     }
   },
   "domains": [
@@ -3185,9 +3180,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:12:25.823Z",
+      "updatedAt": "2026-08-04T15:18:31.881Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3289,9 +3284,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:17:27.464Z",
+      "updatedAt": "2026-08-04T15:18:11.299Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3354,15 +3349,15 @@
     },
     {
       "domain": "bolt.new",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:14:26.034Z",
+      "updatedAt": "2026-08-04T15:19:43.203Z",
       "blocker": null,
       "publication": {
         "key": "bolt.new-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/bolt.new-design",
+        "markdownUrl": "https://design.withfudge.com/share/bolt.new-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bolt.new.md"
       }
     },
     {
@@ -3497,9 +3492,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:16:04.186Z",
+      "updatedAt": "2026-08-04T15:18:38.516Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3562,9 +3557,9 @@
     },
     {
       "domain": "brookings.edu",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:11:47.341Z",
+      "updatedAt": "2026-08-04T15:19:21.021Z",
       "blocker": null,
       "publication": {
         "key": "brookings.edu-design",
@@ -3577,7 +3572,7 @@
       "domain": "browserbase.com",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:15:53.429Z",
+      "updatedAt": "2026-08-04T15:19:34.734Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3601,9 +3596,9 @@
     },
     {
       "domain": "browseros.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:14:51.301Z",
+      "updatedAt": "2026-08-04T15:18:46.324Z",
       "blocker": null,
       "publication": {
         "key": "browseros.com-design",
@@ -3640,9 +3635,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:05.395Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:18:30.586Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
