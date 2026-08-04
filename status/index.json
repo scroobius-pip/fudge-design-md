@@ -1,55 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:28:24.686Z",
+  "generatedAt": "2026-08-04T15:33:44.153Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 120,
-    "failed": 58,
+    "failed": 55,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 2,
-    "publishing": 1,
-    "validating": 4,
-    "repairing": 1,
-    "preparing": 1,
-    "legacy": 95
+    "drafting": 4,
+    "ready": 5,
+    "syncing": 1,
+    "validating": 1,
+    "legacy": 95,
+    "preparing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:28:19.644Z",
+    "heartbeatAt": "2026-08-04T15:33:37.440Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "bspk.xyz",
-          "startedAt": "2026-08-04T15:18:14.784Z"
+          "domain": "audio.com",
+          "startedAt": "2026-08-04T15:31:13.985Z"
+        },
+        {
+          "domain": "aura.build",
+          "startedAt": "2026-08-04T15:29:00.525Z"
         },
         {
           "domain": "builtwith.kit.com",
           "startedAt": "2026-08-04T15:21:03.922Z"
         },
         {
-          "domain": "c82.net",
-          "startedAt": "2026-08-04T15:21:14.135Z"
-        },
-        {
-          "domain": "caffeine.ai",
-          "startedAt": "2026-08-04T15:23:11.893Z"
-        },
-        {
-          "domain": "camo.com",
-          "startedAt": "2026-08-04T15:24:38.919Z"
-        },
-        {
           "domain": "campaignlive.co.uk",
           "startedAt": "2026-08-04T15:25:50.763Z"
+        },
+        {
+          "domain": "fin.ai",
+          "startedAt": "2026-08-04T15:31:29.338Z"
+        },
+        {
+          "domain": "firecrawl.dev",
+          "startedAt": "2026-08-04T15:33:01.473Z"
         }
       ],
-      "completedThisRun": 20,
-      "failedThisRun": 17
+      "completedThisRun": 23,
+      "failedThisRun": 18
     },
     "publication": {
       "concurrency": 1,
@@ -61,18 +61,18 @@
       "failedThisRun": 1
     },
     "queue": {
-      "eligibleGeneration": 1049,
-      "availableGeneration": 1036,
-      "readyPublication": 3,
+      "eligibleGeneration": 1046,
+      "availableGeneration": 1033,
+      "readyPublication": 5,
       "publishedVerified": 120
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:25:46.093Z"
+      "lastSyncedAt": "2026-08-04T15:28:34.011Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:24:37.771Z",
-      "message": "Generation failed for brave.com with exit 1."
+      "at": "2026-08-04T15:31:25.991Z",
+      "message": "Generation failed for bspk.xyz with exit 1."
     }
   },
   "domains": [
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:34:12.904Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:32:18.136Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -2587,9 +2587,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:34:10.606Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:32:22.049Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3575,14 +3575,14 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:19.640Z",
+      "updatedAt": "2026-08-04T15:28:28.633Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/browserbase.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/browserbase.com-design.md",
         "githubUrl": null
       }
     },
@@ -3640,9 +3640,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:07.297Z",
+      "updatedAt": "2026-08-04T15:31:25.926Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -3746,7 +3746,7 @@
       "domain": "builtwith.kit.com",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:27:44.054Z",
+      "updatedAt": "2026-08-04T15:31:32.320Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
@@ -3952,9 +3952,9 @@
     },
     {
       "domain": "c82.net",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:27:20.363Z",
+      "updatedAt": "2026-08-04T15:32:59.209Z",
       "blocker": null,
       "publication": {
         "key": "c82.net-design",
@@ -3991,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:18.261Z",
+      "updatedAt": "2026-08-04T15:31:12.482Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4056,9 +4056,9 @@
     },
     {
       "domain": "camo.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:06.656Z",
+      "updatedAt": "2026-08-04T15:28:56.491Z",
       "blocker": null,
       "publication": {
         "key": "camo.com-design",
@@ -4069,9 +4069,9 @@
     },
     {
       "domain": "campaignlive.co.uk",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:25:50.897Z",
+      "updatedAt": "2026-08-04T15:30:31.064Z",
       "blocker": null,
       "publication": {
         "key": "campaignlive.co.uk-design",
@@ -7527,9 +7527,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T18:36:12.209Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T15:32:56.217Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7579,9 +7579,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:40:48.118Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:33:01.600Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
