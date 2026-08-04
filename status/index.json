@@ -1,30 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:38:38.485Z",
+  "generatedAt": "2026-08-04T17:40:57.604Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 135,
-    "failed": 24,
-    "ready": 21,
+    "published_verified": 136,
+    "failed": 25,
+    "ready": 20,
     "needs_reprocessing": 21,
-    "drafting": 5,
+    "validating": 2,
     "unpublished": 896,
-    "validating": 1,
-    "legacy": 95,
-    "syncing": 1
+    "publishing": 1,
+    "drafting": 4,
+    "legacy": 94
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:38:36.747Z",
+    "heartbeatAt": "2026-08-04T17:40:55.052Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "aino.agency",
           "startedAt": "2026-08-04T17:38:00.790Z"
+        },
+        {
+          "domain": "app.superlist.com",
+          "startedAt": "2026-08-04T17:39:48.476Z"
         },
         {
           "domain": "chatgpt.com",
@@ -35,43 +39,39 @@
           "startedAt": "2026-08-04T17:37:35.273Z"
         },
         {
-          "domain": "cosmos.so",
-          "startedAt": "2026-08-04T17:29:34.020Z"
-        },
-        {
-          "domain": "danielsun.space",
-          "startedAt": "2026-08-04T17:34:51.318Z"
-        },
-        {
           "domain": "dash.cloudflare.com",
           "startedAt": "2026-08-04T17:37:09.677Z"
+        },
+        {
+          "domain": "dash.dropbox.com",
+          "startedAt": "2026-08-04T17:39:58.708Z"
         }
       ],
-      "completedThisRun": 69,
-      "failedThisRun": 49
+      "completedThisRun": 70,
+      "failedThisRun": 50
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "git.law",
-        "startedAt": "2026-08-04T17:33:24.503Z"
+        "domain": "almost-pearfect.com",
+        "startedAt": "2026-08-04T17:40:55.000Z"
       },
-      "completedThisRun": 31,
-      "failedThisRun": 16
+      "completedThisRun": 32,
+      "failedThisRun": 17
     },
     "queue": {
       "eligibleGeneration": 1015,
-      "availableGeneration": 992,
+      "availableGeneration": 990,
       "readyPublication": 21,
-      "publishedVerified": 135
+      "publishedVerified": 136
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:33:33.087Z"
+      "lastSyncedAt": "2026-08-04T17:38:43.470Z"
     },
     "lastError": {
-      "at": "2026-08-04T17:37:58.554Z",
-      "message": "Generation failed for firecrawl.dev with exit 1."
+      "at": "2026-08-04T17:39:44.125Z",
+      "message": "Generation failed for cosmos.so with exit 1."
     }
   },
   "domains": [
@@ -818,15 +818,15 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:30:52.986Z",
+      "updatedAt": "2026-08-04T17:40:54.144Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/agenticui.net-design",
+        "markdownUrl": "https://design.withfudge.com/share/agenticui.net-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/agenticui.net.md"
       }
     },
     {
@@ -935,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:38:10.329Z",
+      "updatedAt": "2026-08-04T17:40:39.573Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1169,9 +1169,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:44:00.154Z",
+      "updatedAt": "2026-08-04T17:40:55.043Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -2092,9 +2092,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T16:52:42.294Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:39:51.095Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -4744,9 +4744,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:37:40.925Z",
+      "updatedAt": "2026-08-04T17:40:54.346Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5004,9 +5004,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:38:24.211Z",
+      "updatedAt": "2026-08-04T17:39:44.037Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5407,9 +5407,9 @@
     },
     {
       "domain": "danielsun.space",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:34:56.191Z",
+      "updatedAt": "2026-08-04T17:39:57.447Z",
       "blocker": null,
       "publication": {
         "key": "danielsun.space-design",
@@ -5446,9 +5446,9 @@
     },
     {
       "domain": "dash.dropbox.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T17:40:08.820Z",
       "blocker": null,
       "publication": {
         "key": "dash.dropbox.com-design",
@@ -8735,9 +8735,9 @@
     },
     {
       "domain": "git.law",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T17:33:29.471Z",
+      "updatedAt": "2026-08-04T17:39:36.426Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",

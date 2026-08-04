@@ -2,13 +2,17 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T17:38:36.747Z",
+  "heartbeatAt": "2026-08-04T17:40:55.052Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
         "domain": "aino.agency",
         "startedAt": "2026-08-04T17:38:00.790Z"
+      },
+      {
+        "domain": "app.superlist.com",
+        "startedAt": "2026-08-04T17:39:48.476Z"
       },
       {
         "domain": "chatgpt.com",
@@ -19,42 +23,38 @@
         "startedAt": "2026-08-04T17:37:35.273Z"
       },
       {
-        "domain": "cosmos.so",
-        "startedAt": "2026-08-04T17:29:34.020Z"
-      },
-      {
-        "domain": "danielsun.space",
-        "startedAt": "2026-08-04T17:34:51.318Z"
-      },
-      {
         "domain": "dash.cloudflare.com",
         "startedAt": "2026-08-04T17:37:09.677Z"
+      },
+      {
+        "domain": "dash.dropbox.com",
+        "startedAt": "2026-08-04T17:39:58.708Z"
       }
     ],
-    "completedThisRun": 69,
-    "failedThisRun": 49
+    "completedThisRun": 70,
+    "failedThisRun": 50
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "git.law",
-      "startedAt": "2026-08-04T17:33:24.503Z"
+      "domain": "almost-pearfect.com",
+      "startedAt": "2026-08-04T17:40:55.000Z"
     },
-    "completedThisRun": 31,
-    "failedThisRun": 16
+    "completedThisRun": 32,
+    "failedThisRun": 17
   },
   "queue": {
     "eligibleGeneration": 1015,
-    "availableGeneration": 992,
+    "availableGeneration": 990,
     "readyPublication": 21,
-    "publishedVerified": 135
+    "publishedVerified": 136
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T17:33:33.087Z"
+    "lastSyncedAt": "2026-08-04T17:38:43.470Z"
   },
   "lastError": {
-    "at": "2026-08-04T17:37:58.554Z",
-    "message": "Generation failed for firecrawl.dev with exit 1."
+    "at": "2026-08-04T17:39:44.125Z",
+    "message": "Generation failed for cosmos.so with exit 1."
   }
 }
