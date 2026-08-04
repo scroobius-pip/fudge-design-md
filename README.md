@@ -963,7 +963,7 @@ builtwith.kit.com presents a predominantly light surface treatment in the captur
 
 [![How c82.net is designed](https://pin.fontofweb.com/10174?format=jpg)](design-md/c82.net.md)
 
-c82.net presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#f2efe9`, and `#ffffff`, with typography led by **Alegreya Sans**, **Rigsolidinlinesolo**, **Times**, **Rigsolidfill**, **Rigsolidreverse**, **Applesystem**, and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+c82.net presents the Naturalist’s Library as a disciplined reading environment for plates, captions, and index browsing. The design feels closer to a museum catalog or a printed natural-history volume than to a modern app. The visual language depends on a narrow set of materials: paper-white and cream grounds, an evergreen masthead, burnt-orange links and buttons, black reading text, and oversized display lettering that makes the site title feel carved rather than typed.
 
 [Open guide](design-md/c82.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/c82.net-design)
 
