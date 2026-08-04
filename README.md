@@ -183,6 +183,14 @@ accounts.x.ai is a dark account console, not a marketing page. The system keeps 
 
 [Open guide](design-md/accounts.x.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/accounts.x.ai-design)
 
+### acctual.com
+
+[![How acctual.com is designed](https://pin.fontofweb.com/2028?format=jpg)](design-md/acctual.com.md)
+
+Acctual uses a scrapbook-like editorial language for B2B payments. The page is built from a pale canvas, oversized centered headlines, paper cutouts, sticky-note accents, and soft shadows that make the collage feel physically arranged rather than mechanically assembled. The result is polished, but it keeps a handmade edge through tilted cards, handwritten notes, clipped paper corners, and a small set of loud accent colors.
+
+[Open guide](design-md/acctual.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/acctual.com-design)
+
 ### acoup.blog
 
 [![How acoup.blog is designed](https://pin.fontofweb.com/9512?format=jpg)](design-md/acoup.blog.md)
