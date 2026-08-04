@@ -459,7 +459,7 @@ Alpine.inc uses a strict two-mode language: bright white paper sections with fai
 
 [![How ami.dev is designed](https://pin.fontofweb.com/6958?format=jpg)](design-md/ami.dev.md)
 
-ami.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#434343`, with typography led by **Inter** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+ami.dev is a spare landing page for a desktop code-help product. The page is built around one narrow reading column, a small top navigation, a compact hero, a large product screenshot, and a closing set of pricing, FAQ, and footer links. The design does not chase novelty through decoration. It depends on white space, a tight typographic ladder, and a single orchid call to action that carries the page from the hero through the final footer line.
 
 [Open guide](design-md/ami.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ami.dev-design)
 
