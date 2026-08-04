@@ -2,128 +2,156 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/bud.app-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Bud | The AI Agent With Its Own Computer](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/share/pin-9134)
+[![Replay stage with title and floating bottom action bar](https://pin.fontofweb.com/9134?format=jpg)](https://design.withfudge.com/share/pin-9134)
 
-[Bud | The AI Agent With Its Own Computer](https://design.withfudge.com/share/pin-9134)
+[Replay stage with title and floating bottom action bar](https://design.withfudge.com/share/pin-9134)
 
-[![Pricing - Bud](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/share/pin-9133)
+[![Pricing grid with five cards and a wide enterprise strip](https://pin.fontofweb.com/9133?format=jpg)](https://design.withfudge.com/share/pin-9133)
 
-[Pricing - Bud](https://design.withfudge.com/share/pin-9133)
+[Pricing grid with five cards and a wide enterprise strip](https://design.withfudge.com/share/pin-9133)
 
-[![Pricing - Bud](https://pin.fontofweb.com/9132?format=jpg)](https://design.withfudge.com/share/pin-9132)
+[![Centered hero with left rail and open workspace](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/share/pin-9131)
 
-[Pricing - Bud](https://design.withfudge.com/share/pin-9132)
-
-[![Bud - Your AI Worker](https://pin.fontofweb.com/9131?format=jpg)](https://design.withfudge.com/share/pin-9131)
-
-[Bud - Your AI Worker](https://design.withfudge.com/share/pin-9131)
+[Centered hero with left rail and open workspace](https://design.withfudge.com/share/pin-9131)
 
 ## Overview
 
-bud.app presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f7f7f7`, with typography led by **Circular**. The guide below names reusable design roles only where the captured evidence supports them.
+Bud’s visual system is quiet, spacious, and product-first. The page field stays almost entirely white, then uses black text, pale gray rails, and rounded cards to organize a dense set of controls without making the layout feel busy. The gold accent is rare and deliberate. It appears in the mascot mark, small badges, and tiny emphasis details, which keeps it from competing with the content.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.shadow | `#ffffff` | shadow on page content in the button |
-| color.surface | `#f7f7f7` | surface on page content in the main |
-| color.text | `#525252` | text on page content |
-| color.text | `#b8860b` | text on page content in the button |
-| color.surface | `#f9b96c` | surface on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Circular** | 16px | 500 | 24px | normal | <div>, <div> in the button, <div> in the aside, <div> in the footer, <div> in the main, <span> in the main, and <a> in the main |
-| type.heading-16px | **Circular** | 16px | 600 | 24px | normal | <div> in the main |
-| type.body-14px | **Circular** | 14px | 500 | 20px | normal | <span>, <p>, <a> in the button, <button> in the button, <a> in the nav, <span> in the aside, <span> in the button, <span> in the nav, <span> in the main, <div> in the main, and <p> in the main |
-| type.body-24px | **Circular** | 24px | 500 | 39px | normal | <p> in the footer, <span> in the footer, and <a> in the footer |
-| type.utility-13px | **Circular** | 13px | 500 | 19.5px | normal | <button> in the button, <span> in the aside, <span> in the button, <a> in the main, and <span> in the main |
-| type.utility-13px | **Circular** | 13px | 400 | 19.5px | normal | <div> in the main, <span> in the main, and <span> in the button |
-| type.utility-13px | **Circular** | 13px | 600 | 19.5px | normal | <div> in the main, <span> in the main, <h3> in the nav, <button> in the button, and <span> in the button |
-| type.body-14px | **Circular** | 14px | 500 | 24px | normal | <div> in the main |
-| type.heading-20px | **Circular** | 20px | 600 | 28px | normal | <div> in the main and <span> in the main |
-| type.utility-13px | **Circular** | 13px | 500 | 17.875px | normal | <span> in the main |
-| type.body-14px | **Circular** | 14px | 400 | 20px | normal | <span> in the main |
-| type.utility-11px | **Circular** | 11px | 500 | 16.5px | normal | <div> in the main |
-| type.heading-24px | **Circular** | 24px | 700 | 32px | normal | <h1> in the main |
-| type.utility-10px | **Circular** | 10px | 500 | 15px | normal | <span> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 8px` | padding | page content |
-| `0px 0px 120px` | padding | page content |
-| `71px 24px 96px` | padding | page content |
-| `0px 172px` | margin | page content |
-| `8px` | padding | page content |
-| `96px 40px 32px` | padding | page content |
-| `0px 32px` | margin | page content |
-| `0px 16px 40px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 3.35544e+07px`, `2px solid 22px`, `1px solid 3.35544e+07px`, `0px none 21px`, `1px solid 21px`, `2px solid 24px`, `0px none 20px`, and `0px none 24px` border treatments. Recorded gradients include `linear-gradient(lab(97.68 -0.0000298023 0.0000119209) 0%, rgba(0, 0, 0, 0) 100%)` and `linear-gradient(lab(9.52 -0.00000745058 0) 0%, lab(18.8 0 0) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(18.8 0 0) 0px 0px 0px 1px, rgba(255, 255, 255, 0.1) 0px 1.5px 0.5px 0px inset, rgba(0, 0, 0, 0.2) 0px 1px 3px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, lab(91.8645 7.77712 22.3357 / 0.4) 0px 0px 0px 0px inset rgb(0,0,0)`.
+The system’s main idea is contrast through restraint. Strong black fills carry the primary actions. White and very light surfaces hold the plan cards and the replay canvas. Secondary text falls back to muted gray instead of competing with the title or price. The result is a calm workspace that can show many plans, many links, and a long sidebar without losing the center column.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#f7f7f7`, and `#f9b96c`. Text colors include `#525252` and `#b8860b`. Keep image-derived colors separate from interface colors.
+Bud uses a minimal light palette. There is no separate dark chapter in the supplied pages, so the design leans on black text, white canvas, and pale surface blocks rather than on mode switching. The gold accent works best as a small signal, not as a field color. It should remain rare so the interface keeps its plain, low-noise character.
+
+| token | hex | use |
+|---|---|---|
+| `action` | `#000000` | Primary button fills, strongest text, and the darkest control labels |
+| `muted-ink` | `#525252` | Helper copy, sidebar items, secondary plan text, and footer links |
+| `accent` | `#B8860B` | Mascot mark, small emphasis dots, and the warm brand signal |
+| `accent-soft` | `#F9B96C` | Light gold highlights, soft badge fills, and warm illustration details |
+| `surface` | `#F7F7F7` | Sidebar rail, inset panel backgrounds, and quiet supporting containers |
+| `canvas` | `#FFFFFF` | Main page field, card bodies, and open whitespace around the content |
+
+The palette should stay mostly monochrome. Black handles hierarchy; gray handles explanation; white keeps the structure open. Gold should never become a second action color. It is best used where a small warm note is enough, such as the mascot or a low-stakes badge. Because the shown pages do not introduce a separate dark mode, the system’s contrast comes from value changes inside the light range rather than from a full mode switch.
 
 ## Typography
 
-The captured type system uses **Circular**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Bud uses one family throughout: Circular. The visible hierarchy uses the Book, Semi Bold, and Bold weights where emphasis increases from body copy to headings and prices. The pages rely on that compact family for both the shell and the marketing surfaces. Circular is credited to Laurenz Brunner and Lineto. The hierarchy is built from size, weight, and spacing, not from multiple families or decorative letterforms.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Circular | 1.5rem | 700 | 1.3333333333 | 0em | Centered page title and the main replay headline |
+| `page-title` | Circular | 1.25rem | 600 | 1.4 | 0em | Section titles such as the pricing heading |
+| `plan-price` | Circular | 1.25rem | 700 | 1.2 | 0em | Dollar amounts and plan names that need strong emphasis |
+| `body` | Circular | 1rem | 500 | 1.5 | 0em | General explanatory copy, feature lines, and support text |
+| `body-medium` | Circular | 1rem | 600 | 1.5 | 0em | Primary button labels and stronger inline emphasis |
+| `sidebar-item` | Circular | 0.875rem | 500 | 1.4285714286 | 0em | Left-rail navigation and compact top links |
+| `meta` | Circular | 0.8125rem | 500 | 1.5 | 0em | Billing notes, tiny badges, and footer metadata |
+| `micro` | Circular | 0.625rem | 500 | 1.5 | 0em | Very small plan labels and compact helper marks |
+
+The type system stays tightly set. Most text is short, medium weight, and easy to scan at 14–16px. Section titles step up only slightly, which keeps the layout feeling calm instead of promotional. Bold is reserved for plan prices, button labels, and the main replay headline. Smaller sizes stay readable because the page gives them enough whitespace and avoids dense paragraph blocks.
 
 ## Layout
 
-The captured pages use values such as `0px 8px`, `0px 0px 120px`, `71px 24px 96px`, `0px 172px`, and `8px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is built around a left sidebar, a centered content column, and very large fields of white space. On the pricing page, the rail runs vertically and keeps the working area anchored while the main content floats in the middle. That arrangement lets the page hold a lot of links without forcing the center column to widen. The sidebar is not decorative; it is part of the page’s rhythm and gives the whole product a workstation feel.
+
+The hero and replay pages are even sparser. A short top bar carries navigation and account actions, then the page drops into a centered composition with a compact title, a mascot mark, and a long open stage. The replay surface uses that emptiness as a feature. The task title stays near the top, the status strip sits low on the page, and the center remains open so the animated or replayed work can dominate the screen.
+
+Pricing is arranged as a row of equal cards with a restrained amount of internal variation. Each plan card has a compact header zone for the plan name and price, then a lighter body for included items and short notes. One selected plan uses a dark button to create a clear focal point, but the rest of the grid stays quiet. The enterprise strip below the cards extends horizontally and acts like a soft footer to the pricing block.
+
+The bottom of the pricing page switches to a wide footer treatment. One large descriptive sentence sits on the left, while link columns and contact details sit on the right. The composition is loose, almost editorial, but still aligned enough to keep scanning easy. The footer works because the page has already established a calm grid above it.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#f7f7f7`, and `#f9b96c`. Depth is supported by the returned gradients and shadows.
+Bud’s visual language is soft, minimal, and slightly playful. Rounded corners are a major part of the identity: cards, pills, controls, and the sidebar all lean into curved edges rather than sharp geometry. Most surfaces are nearly flat, with only the lightest shadows or outlines separating pieces. That keeps the interface from feeling heavy even when many panels are present.
 
-## Components and states
+The gold accent gives the brand its only warm note. It appears in the mascot mark and in tiny emphasis details, which makes it feel like a signal rather than a decoration layer. Black remains the dominant structural color for type and primary buttons. Gray stays subordinate and practical. White space is not wasted; it is the framing device that lets the plan grid, replay title, and footer text breathe.
 
-The captured pages include repeated styling on <div>, <span>, <p>, <a>, <button>, <h1>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Icons are tiny and monochrome. They support the sidebar and footer without taking attention away from the plans or the hero. Dotted or lightly textured marks appear in the replay and hero compositions, but they stay faint and do not become a repeating ornament. The system avoids loud gradients, chrome, and heavy depth. When shape and spacing are doing the work, the page looks controlled instead of crowded.
+
+## Components
+
+### App shell and sidebar
+
+- **Anatomy:** A pale vertical rail, small top badge, stacked navigation items, a chat list, and a bottom settings link.
+- **Surface:** `surface` against a white page field.
+- **Typography:** `sidebar-item` for the main items and `meta` for smaller labels and support text.
+- **Shape:** Rounded outer corners on the rail; small icon-plus-text rows inside.
+- **Composition:** The sidebar takes a fixed-width role and keeps the center column clear.
+
+### Top navigation
+
+- **Anatomy:** Short text links at center or right, plus sign in and sign up actions.
+- **Typography:** `sidebar-item` or `body` depending on prominence.
+- **Shape:** The sign-up action uses a pill shape; text links remain flat.
+- **Visible states:** The active page link can sit on a soft fill or slightly darker badge, but the rest of the bar stays quiet.
+
+### Hero and replay stage
+
+- **Anatomy:** Small mascot mark, centered title, short supporting line, and a large open work area.
+- **Typography:** `hero-display` for the title and `body` for supporting copy.
+- **Surface:** White canvas with little visual interruption.
+- **Composition:** The title stays centered and compact; the open stage below should remain uncluttered so the replay or task content can carry the page.
+
+### Pricing card grid
+
+- **Anatomy:** Plan name, price, billing note, included items, and a bottom action.
+- **Typography:** `plan-price` for the amount and `body` or `body-medium` for the rest.
+- **Shape:** `card` corners with a soft, calm outline.
+- **Visible states:** One plan uses a dark filled button for emphasis; the other cards keep lighter buttons or quiet labels.
+- **Spacing:** Keep consistent inner padding and even gaps between cards so the row reads as one system, not five separate promos.
+
+### Footer and link columns
+
+- **Anatomy:** A wide statement block, then grouped links for information, community, and legal.
+- **Typography:** `body` for the statement and `meta` for the smaller columns.
+- **Surface:** White or near-white, with no heavy footer band.
+- **Composition:** The left block should feel like the page’s last editorial sentence; the columns should read as utility support, not as a new feature section.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On smaller widths, the sidebar should collapse or become a shorter rail before the center content loses its calm. The pricing cards should stack cleanly, but the visual rhythm should stay the same: plan title, price, short note, then action. The hero and replay pages should preserve their centered titles and generous whitespace even as the stage becomes narrower. The goal is not to compress every gap; it is to keep the page from feeling packed. Where the desktop layout depends on a horizontal row, mobile should use a vertical stack with the same hierarchy and the same rounded surfaces.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the page mostly white and let black carry the strongest hierarchy.
+- Use Circular across the whole product, with weight changes doing most of the work.
+- Keep gold rare and tied to the mascot or tiny emphasis details.
+- Preserve the pill buttons and the soft 20–24px family of rounded corners.
+- Keep cards light, flat, and evenly spaced.
+
+### Avoid
+
+- Avoid adding extra accent colors.
+- Avoid heavy shadows, glass effects, or dense chrome.
+- Avoid narrow line lengths inside the pricing and footer areas.
+- Avoid making the sidebar feel like a separate app; it should stay part of the same calm shell.
+- Avoid implying dark-mode behavior or animated states that are not shown on these pages.
+
+### Recommended build order
+
+1. Build the base color stack: white canvas, pale surfaces, black text, muted gray, and gold accent.
+2. Establish the Circular type scale and the small set of weights.
+3. Build the shared pill button, card shell, and sidebar rail.
+4. Assemble the pricing grid with one emphasized plan.
+5. Add the centered hero and replay stage.
+6. Finish with the footer and link columns.
+
+### Accessibility
+
+- Keep the black-on-white contrast strong for all primary text and actions.
+- Do not rely on gold alone to mark important information.
+- Maintain visible keyboard focus on pills, links, and pricing actions.
+- Keep icon-only controls paired with labels wherever the sidebar or footer needs them.
+- Preserve readable text sizes in the footer and sidebar when the layout narrows.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#f7f7f7`
-- `#525252`
-- `#b8860b`
-- `#f9b96c`
-
-## Typography captured from bud.app
-
-- **Circular** — weight 500 · size 16px
+This guide covers the homepage hero, the pricing page, the replay/task view, and the shared sidebar, button, and footer system. It does not define mobile rearrangements, motion, loading or empty states, authenticated-only variations, or any dark-mode version of the page.

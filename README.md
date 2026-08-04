@@ -979,7 +979,7 @@ bspk.xyz presents a predominantly light surface treatment in the captured pages.
 
 [![How bud.app is designed](https://pin.fontofweb.com/9134?format=jpg)](design-md/bud.app.md)
 
-bud.app presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f7f7f7`, with typography led by **Circular**. The guide below names reusable design roles only where the captured evidence supports them.
+Bud’s visual system is quiet, spacious, and product-first. The page field stays almost entirely white, then uses black text, pale gray rails, and rounded cards to organize a dense set of controls without making the layout feel busy. The gold accent is rare and deliberate. It appears in the mascot mark, small badges, and tiny emphasis details, which keeps it from competing with the content.
 
 [Open guide](design-md/bud.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/bud.app-design)
 
