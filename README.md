@@ -929,9 +929,9 @@ browserbase.com presents a mixed light and dark surface treatment in the capture
 
 ### browseros.com
 
-[![How browseros.com is designed](https://pin.fontofweb.com/5991?format=jpg)](design-md/browseros.com.md)
+[![How browseros.com is designed](https://pin.fontofweb.com/5990?format=jpg)](design-md/browseros.com.md)
 
-browseros.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#666666`, `#d9d7d7`, and `#261107`, with typography led by **Geist** and **Junicode**. The guide below names reusable design roles only where the captured evidence supports them.
+BrowserOS uses an editorial browser brand rather than a hard-edged software skin. The supplied pages sit on a pale paper canvas, set major lines in a bookish serif, and reserve the orange accent for the few places that need to pull the eye. The result feels calm and authored: a homepage that reads like a magazine spread about a product, not a dashboard about a tool.
 
 [Open guide](design-md/browseros.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/browseros.com-design)
 
