@@ -899,7 +899,7 @@ Bolt.new uses one visual language for two related surfaces: the marketing page a
 
 [![How braintrust.dev is designed](https://pin.fontofweb.com/8909?format=jpg)](design-md/braintrust.dev.md)
 
-braintrust.dev presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#ededed`, with typography led by **Braintrust V 2**, **Inter**, **Suisse Intl Mono**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Braintrust presents itself as a serious AI product for teams shipping to production. The page does not lean on decorative art or dense visual tricks. Instead, it builds trust through a blunt black-and-white core, then punctuates that core with a few highly saturated brand fields: electric blue, chartreuse, plum, burgundy, rose, and peach. The result feels technical without becoming cold, and branded without becoming loud.
 
 [Open guide](design-md/braintrust.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/braintrust.dev-design)
 
