@@ -1,32 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:39:21.447Z",
+  "generatedAt": "2026-08-04T19:44:33.618Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 150,
-    "ready": 18,
-    "publishing": 1,
+    "ready": 20,
+    "syncing": 1,
     "needs_reprocessing": 21,
-    "repairing": 2,
     "failed": 28,
     "unpublished": 896,
-    "validating": 2,
-    "drafting": 2,
-    "legacy": 79
+    "validating": 1,
+    "repairing": 2,
+    "drafting": 3,
+    "legacy": 77
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:39:19.413Z",
+    "heartbeatAt": "2026-08-04T19:44:31.601Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "aino.agency",
-          "startedAt": "2026-08-04T19:30:10.806Z"
-        },
         {
           "domain": "api.scira.ai",
           "startedAt": "2026-08-04T19:33:21.298Z"
@@ -36,20 +32,24 @@
           "startedAt": "2026-08-04T19:34:58.442Z"
         },
         {
-          "domain": "arcee.ai",
-          "startedAt": "2026-08-04T19:37:06.308Z"
-        },
-        {
-          "domain": "audio.com",
-          "startedAt": "2026-08-04T19:34:12.390Z"
+          "domain": "davidprotein.com",
+          "startedAt": "2026-08-04T19:44:16.088Z"
         },
         {
           "domain": "designsystems.surf",
           "startedAt": "2026-08-04T19:37:21.809Z"
+        },
+        {
+          "domain": "designwithvibbbes.com",
+          "startedAt": "2026-08-04T19:41:01.796Z"
+        },
+        {
+          "domain": "developer.chrome.com",
+          "startedAt": "2026-08-04T19:41:27.448Z"
         }
       ],
-      "completedThisRun": 24,
-      "failedThisRun": 39
+      "completedThisRun": 26,
+      "failedThisRun": 41
     },
     "publication": {
       "concurrency": 1,
@@ -61,18 +61,18 @@
       "failedThisRun": 13
     },
     "queue": {
-      "eligibleGeneration": 1003,
-      "availableGeneration": 976,
-      "readyPublication": 19,
+      "eligibleGeneration": 1001,
+      "availableGeneration": 974,
+      "readyPublication": 20,
       "publishedVerified": 150
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:37:45.081Z"
+      "lastSyncedAt": "2026-08-04T19:39:26.739Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:38:37.575Z",
-      "message": "Publication failed for dany.works with exit 1."
+      "at": "2026-08-04T19:41:24.935Z",
+      "message": "Generation failed for dfy.co.kr with exit 1."
     }
   },
   "domains": [
@@ -897,14 +897,14 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 7,
-      "updatedAt": "2026-08-04T19:39:19.409Z",
+      "updatedAt": "2026-08-04T19:39:22.834Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/ai.cloudflare.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/ai.cloudflare.com-design.md",
         "githubUrl": null
       }
     },
@@ -936,9 +936,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:38:09.776Z",
+      "updatedAt": "2026-08-04T19:41:01.271Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1495,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:38:03.064Z",
+      "updatedAt": "2026-08-04T19:44:13.892Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1989,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:37:40.458Z",
+      "updatedAt": "2026-08-04T19:43:02.338Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2210,9 +2210,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:37:08.929Z",
+      "updatedAt": "2026-08-04T19:44:11.196Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:38:42.595Z",
+      "updatedAt": "2026-08-04T19:39:33.298Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -5564,9 +5564,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T18:51:00.234Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:44:20.655Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5928,9 +5928,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:37:29.895Z",
+      "updatedAt": "2026-08-04T19:43:15.686Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -5941,9 +5941,9 @@
     },
     {
       "domain": "designwithvibbbes.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T19:41:07.969Z",
       "blocker": null,
       "publication": {
         "key": "designwithvibbbes.com-design",
@@ -6032,9 +6032,9 @@
     },
     {
       "domain": "developer.chrome.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T19:41:31.518Z",
       "blocker": null,
       "publication": {
         "key": "developer.chrome.com-design",
@@ -6098,8 +6098,8 @@
     {
       "domain": "dfy.co.kr",
       "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-04T18:43:27.264Z",
+      "attempt": 7,
+      "updatedAt": "2026-08-04T19:41:24.865Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
