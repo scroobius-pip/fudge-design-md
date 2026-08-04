@@ -1,34 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:40:45.168Z",
+  "generatedAt": "2026-08-04T14:42:48.222Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 107,
-    "failed": 74,
+    "published_verified": 108,
+    "failed": 73,
     "needs_reprocessing": 21,
     "unpublished": 896,
     "validating": 1,
-    "repairing": 2,
-    "drafting": 3,
+    "drafting": 5,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:40:43.000Z",
+    "heartbeatAt": "2026-08-04T14:42:46.116Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "arcee.ai",
-          "startedAt": "2026-08-04T14:31:58.174Z"
-        },
-        {
-          "domain": "artera.ae",
-          "startedAt": "2026-08-04T14:32:44.189Z"
-        },
         {
           "domain": "artificialanalysis.ai",
           "startedAt": "2026-08-04T14:36:06.184Z"
@@ -42,32 +33,40 @@
           "startedAt": "2026-08-04T14:40:12.322Z"
         },
         {
+          "domain": "baremettle.com",
+          "startedAt": "2026-08-04T14:40:48.074Z"
+        },
+        {
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-04T14:42:15.384Z"
+        },
+        {
           "domain": "dfy.co.kr",
           "startedAt": "2026-08-04T14:37:48.626Z"
         }
       ],
-      "completedThisRun": 3,
-      "failedThisRun": 5
+      "completedThisRun": 4,
+      "failedThisRun": 6
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 3,
+      "completedThisRun": 4,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1065,
-      "availableGeneration": 1061,
+      "eligibleGeneration": 1064,
+      "availableGeneration": 1059,
       "readyPublication": 0,
-      "publishedVerified": 107
+      "publishedVerified": 108
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:36:44.559Z"
+      "lastSyncedAt": "2026-08-04T14:40:49.901Z"
     },
     "lastError": {
-      "at": "2026-08-04T14:39:16.645Z",
-      "message": "Generation failed for app.reve.com with exit 1."
+      "at": "2026-08-04T14:40:45.257Z",
+      "message": "Generation failed for arcee.ai with exit 1."
     }
   },
   "domains": [
@@ -2205,9 +2204,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:40:03.419Z",
+      "updatedAt": "2026-08-04T14:40:45.191Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2361,22 +2360,22 @@
     },
     {
       "domain": "artera.ae",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:39:49.609Z",
+      "updatedAt": "2026-08-04T14:42:45.088Z",
       "blocker": null,
       "publication": {
         "key": "artera.ae-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/artera.ae-design",
+        "markdownUrl": "https://design.withfudge.com/share/artera.ae-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/artera.ae.md"
       }
     },
     {
       "domain": "artificialanalysis.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:40:37.692Z",
+      "updatedAt": "2026-08-04T14:42:17.654Z",
       "blocker": null,
       "publication": {
         "key": "artificialanalysis.ai-design",
@@ -2855,9 +2854,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:03.691Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:40:51.379Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2868,9 +2867,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:10.975Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:42:20.590Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
