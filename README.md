@@ -907,7 +907,7 @@ bkid.co presents a predominantly light surface treatment in the captured pages. 
 
 [![How bland.ai is designed](https://pin.fontofweb.com/9670?format=jpg)](design-md/bland.ai.md)
 
-bland.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#151515`, `#ffffff`, and `#f6f6f1`, with typography led by **Söhne** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Bland uses a strict white canvas, near-black typography, and a single warm action color to keep a technically dense product feeling controlled. The page reads like an enterprise sales system rather than a playful brand site: headline first, proof second, then cards, tables, and forms that explain limits and capabilities without clutter. Orange-red appears as a top announcement strip; gold appears on the main call to action; green appears only for trust marks and approved states. Everything else stays quiet.
 
 [Open guide](design-md/bland.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/bland.ai-design)
 
