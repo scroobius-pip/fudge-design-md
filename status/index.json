@@ -1,53 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:43:39.946Z",
+  "generatedAt": "2026-08-04T16:48:55.269Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 129,
-    "ready": 13,
-    "failed": 38,
-    "repairing": 4,
+    "ready": 18,
+    "failed": 33,
     "needs_reprocessing": 21,
+    "validating": 3,
     "unpublished": 896,
-    "validating": 2,
-    "publishing": 1,
+    "drafting": 3,
+    "syncing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:43:37.227Z",
+    "heartbeatAt": "2026-08-04T16:48:51.593Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "ahrefsevolve.com",
-          "startedAt": "2026-08-04T16:27:41.187Z"
-        },
         {
           "domain": "aino.agency",
           "startedAt": "2026-08-04T16:29:33.994Z"
         },
         {
-          "domain": "almost-pearfect.com",
-          "startedAt": "2026-08-04T16:29:54.694Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-04T16:44:48.886Z"
         },
         {
-          "domain": "ami.dev",
-          "startedAt": "2026-08-04T16:29:59.799Z"
-        },
-        {
-          "domain": "ampcode.com",
-          "startedAt": "2026-08-04T16:30:56.175Z"
+          "domain": "app.reve.com",
+          "startedAt": "2026-08-04T16:44:53.989Z"
         },
         {
           "domain": "app.superlist.com",
           "startedAt": "2026-08-04T16:34:42.156Z"
+        },
+        {
+          "domain": "arcee.ai",
+          "startedAt": "2026-08-04T16:48:06.936Z"
+        },
+        {
+          "domain": "baremettle.com",
+          "startedAt": "2026-08-04T16:48:40.736Z"
         }
       ],
-      "completedThisRun": 49,
+      "completedThisRun": 54,
       "failedThisRun": 30
     },
     "publication": {
@@ -60,14 +60,14 @@
       "failedThisRun": 10
     },
     "queue": {
-      "eligibleGeneration": 1029,
-      "availableGeneration": 1015,
-      "readyPublication": 14,
+      "eligibleGeneration": 1024,
+      "availableGeneration": 1011,
+      "readyPublication": 18,
       "publishedVerified": 129
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:41:41.117Z"
+      "lastSyncedAt": "2026-08-04T16:43:46.063Z"
     },
     "lastError": {
       "at": "2026-08-04T16:42:49.862Z",
@@ -857,9 +857,9 @@
     },
     {
       "domain": "ahrefsevolve.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:34:34.266Z",
+      "updatedAt": "2026-08-04T16:44:45.894Z",
       "blocker": null,
       "publication": {
         "key": "ahrefsevolve.com-design",
@@ -935,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:34:17.289Z",
+      "updatedAt": "2026-08-04T16:47:30.517Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1169,9 +1169,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:43:01.609Z",
+      "updatedAt": "2026-08-04T16:44:00.154Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1260,9 +1260,9 @@
     },
     {
       "domain": "ami.dev",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:35:38.299Z",
+      "updatedAt": "2026-08-04T16:48:01.209Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
@@ -1273,9 +1273,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:34:38.349Z",
+      "updatedAt": "2026-08-04T16:44:50.720Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -1442,9 +1442,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:35:47.374Z",
+      "state": "ready",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:48:38.487Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1494,9 +1494,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:37:45.315Z",
+      "state": "validating",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:48:25.104Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1988,9 +1988,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:39:16.574Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:44:59.909Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2094,7 +2094,7 @@
       "domain": "app.superlist.com",
       "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:43:22.018Z",
+      "updatedAt": "2026-08-04T16:48:05.468Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2209,9 +2209,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:40:45.191Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:48:12.085Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2859,9 +2859,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:51:51.552Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:48:43.922Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -4991,14 +4991,14 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:43:37.225Z",
+      "updatedAt": "2026-08-04T16:43:42.434Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/cosmic-ray.tv-design",
+        "markdownUrl": "https://design.withfudge.com/share/cosmic-ray.tv-design.md",
         "githubUrl": null
       }
     },
