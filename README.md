@@ -1531,7 +1531,7 @@ departuremono.com presents a mixed light and dark surface treatment in the captu
 
 [![How designerdailyreport.com is designed](https://pin.fontofweb.com/7431?format=jpg)](design-md/designerdailyreport.com.md)
 
-designerdailyreport.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#2f2d5e`, with typography led by **Izmir**, **Albra**, **Applesystem**, and **Izmir Narrow**. The guide below names reusable design roles only where the captured evidence supports them.
+Designer Daily Report uses two clear surfaces for one editorial system. The light side is a high-key landing page with a centered serif headline, a warm gold call to action, a mascot-style illustration, and a dense but calm grid of category chips and content tiles. The dark side is a rounded directory block with stacked sponsor lists, small utility labels, and a trust panel that holds the promotional message. Both sides feel like the same brand because they share the same geometry, the same restrained card language, and the same separation between display type and practical UI type.
 
 [Open guide](design-md/designerdailyreport.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/designerdailyreport.com-design)
 
