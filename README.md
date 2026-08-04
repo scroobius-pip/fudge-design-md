@@ -793,9 +793,9 @@ Baselight presents structured data as a calm, premium product rather than a nois
 
 ### baseten.co
 
-[![How baseten.co is designed](https://pin.fontofweb.com/9328?format=jpg)](design-md/baseten.co.md)
+[![How baseten.co is designed](https://pin.fontofweb.com/9008?format=jpg)](design-md/baseten.co.md)
 
-baseten.co presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f5f8f4`, with typography led by **System**, **Neue Alte Grotesk**, and **Chivo Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Baseten presents itself as a systems brand, not a product with ornamental polish. The page is built from a white canvas, black display type, a very small set of green signals, and occasional pink markers inside the diagram language. The hero is severe and spacious: a large left-aligned headline, a short supporting block, and two compact actions. The right side carries the explanation with stacked cylinders, cubes, labels, and dotted connectors. That split gives the page its identity immediately.
 
 [Open guide](design-md/baseten.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/baseten.co-design)
 
