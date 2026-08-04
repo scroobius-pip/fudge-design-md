@@ -1505,9 +1505,9 @@ deezer.com presents a predominantly dark surface treatment in the captured pages
 
 ### delve.co
 
-[![How delve.co is designed](https://pin.fontofweb.com/8219?format=jpg)](design-md/delve.co.md)
+[![How delve.co is designed](https://pin.fontofweb.com/8218?format=jpg)](design-md/delve.co.md)
 
-delve.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#0c0c0c`, with typography led by **Inter Tight** and **Overused Grotesk**. The guide below names reusable design roles only where the captured evidence supports them.
+Delve’s home page treats compliance as a launch surface, not a soft brochure. The top section is a broad gradient stage with a cool teal side, a dark core, and a bright orange edge. Large white headline text sits on top of that stage, with a short supporting line and one strong action below it. The page uses this contrast to create urgency and confidence immediately.
 
 [Open guide](design-md/delve.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/delve.co-design)
 
