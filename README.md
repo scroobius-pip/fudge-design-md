@@ -953,9 +953,9 @@ Brookings reads like a serious editorial institution, not a glossy marketing sit
 
 ### browserbase.com
 
-[![How browserbase.com is designed](https://pin.fontofweb.com/7920?format=jpg)](design-md/browserbase.com.md)
+[![How browserbase.com is designed](https://pin.fontofweb.com/7913?format=jpg)](design-md/browserbase.com.md)
 
-browserbase.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#100d0d`, and `#ffffff`, with typography led by **Pp Neue Montreal**, **Pp Supply Sans**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Browserbase uses a severe, technical visual language that feels closer to an infrastructure diagram than a polished consumer brand. The pages are built from a white canvas, thin gray rules, big black headings, and a few concentrated accent colors. The orange-red call to action is the clearest brand signal, while the pink, gold, green, and violet cube graphics provide controlled variation without turning the page playful. Most layouts depend on space, alignment, and scale rather than ornament.
 
 [Open guide](design-md/browserbase.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/browserbase.com-design)
 
