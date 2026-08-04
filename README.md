@@ -1903,6 +1903,14 @@ Fly.io’s visual system is quiet at first glance, then increasingly expressive 
 
 [Open guide](design-md/fly.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/fly.io-design)
 
+### fontofweb.com
+
+[![How fontofweb.com is designed](https://pin.fontofweb.com/8460?format=jpg)](design-md/fontofweb.com.md)
+
+Font Of Web reads as a hybrid of catalog, gallery, and editorial pitch. The system pivots between two strong moods: a white browsing surface for cards, metadata, and palette strips, and a black stage for hero statements, pricing, and high-contrast feature blocks. That split is the core of the language. Light areas feel quick and searchable. Dark areas feel dramatic and decisive.
+
+[Open guide](design-md/fontofweb.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/fontofweb.com-design)
+
 ### fonts.floriankarsten.com
 
 [![How fonts.floriankarsten.com is designed](https://pin.fontofweb.com/8359?format=jpg)](design-md/fonts.floriankarsten.com.md)
