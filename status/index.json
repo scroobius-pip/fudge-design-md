@@ -1,42 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:41:10.260Z",
+  "generatedAt": "2026-08-04T15:45:13.570Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 121,
+    "published_verified": 122,
     "failed": 54,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 5,
+    "ready": 4,
+    "publishing": 1,
+    "validating": 1,
     "drafting": 4,
-    "syncing": 1,
-    "repairing": 2,
-    "legacy": 95
+    "legacy": 95,
+    "repairing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:41:08.472Z",
+    "heartbeatAt": "2026-08-04T15:45:10.144Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "aura.build",
-          "startedAt": "2026-08-04T15:29:00.525Z"
-        },
-        {
-          "domain": "cap.so",
-          "startedAt": "2026-08-04T15:34:13.207Z"
-        },
         {
           "domain": "capacity.so",
           "startedAt": "2026-08-04T15:40:11.897Z"
         },
         {
-          "domain": "fin.ai",
-          "startedAt": "2026-08-04T15:31:29.338Z"
+          "domain": "cavalry.studio",
+          "startedAt": "2026-08-04T15:43:11.755Z"
+        },
+        {
+          "domain": "celesteduffy.com",
+          "startedAt": "2026-08-04T15:43:32.405Z"
+        },
+        {
+          "domain": "clarity.microsoft.com",
+          "startedAt": "2026-08-04T15:43:47.725Z"
         },
         {
           "domain": "firecrawl.dev",
@@ -47,31 +48,31 @@
           "startedAt": "2026-08-04T15:40:32.564Z"
         }
       ],
-      "completedThisRun": 25,
-      "failedThisRun": 19
+      "completedThisRun": 26,
+      "failedThisRun": 21
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "bud.app",
-        "startedAt": "2026-08-04T15:35:55.710Z"
+        "domain": "caffeine.ai",
+        "startedAt": "2026-08-04T15:45:10.086Z"
       },
-      "completedThisRun": 17,
-      "failedThisRun": 2
+      "completedThisRun": 18,
+      "failedThisRun": 3
     },
     "queue": {
       "eligibleGeneration": 1045,
-      "availableGeneration": 1033,
+      "availableGeneration": 1031,
       "readyPublication": 5,
-      "publishedVerified": 121
+      "publishedVerified": 122
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:36:03.893Z"
+      "lastSyncedAt": "2026-08-04T15:41:17.901Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:34:35.754Z",
-      "message": "Publication failed for browserbase.com with exit 1."
+      "at": "2026-08-04T15:43:45.253Z",
+      "message": "Generation failed for fin.ai with exit 1."
     }
   },
   "domains": [
@@ -2586,9 +2587,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:37:13.132Z",
+      "updatedAt": "2026-08-04T15:43:11.356Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3652,9 +3653,9 @@
     },
     {
       "domain": "bud.app",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:36:02.037Z",
+      "updatedAt": "2026-08-04T15:42:14.107Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3990,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:31:12.482Z",
+      "updatedAt": "2026-08-04T15:45:10.136Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4055,15 +4056,15 @@
     },
     {
       "domain": "camo.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:28:56.491Z",
+      "updatedAt": "2026-08-04T15:45:08.894Z",
       "blocker": null,
       "publication": {
         "key": "camo.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/camo.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/camo.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/camo.com.md"
       }
     },
     {
@@ -4120,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:39:28.197Z",
+      "updatedAt": "2026-08-04T15:43:27.390Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4133,9 +4134,9 @@
     },
     {
       "domain": "capacity.so",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:40:23.491Z",
+      "updatedAt": "2026-08-04T15:45:04.208Z",
       "blocker": null,
       "publication": {
         "key": "capacity.so-design",
@@ -4250,9 +4251,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:02:20.738Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:43:22.931Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -4263,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:04:25.715Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:43:44.334Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4458,9 +4459,9 @@
     },
     {
       "domain": "clarity.microsoft.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:19:29.957Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:43:51.943Z",
       "blocker": null,
       "publication": {
         "key": "clarity.microsoft.com-design",
@@ -7526,9 +7527,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T15:40:34.231Z",
+      "updatedAt": "2026-08-04T15:43:45.179Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7669,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:40:38.740Z",
+      "updatedAt": "2026-08-04T15:44:37.497Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
