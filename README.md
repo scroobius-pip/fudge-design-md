@@ -2119,6 +2119,14 @@ OmniAI presents itself as a confident lending product with a simple visual promi
 
 [Open guide](design-md/getomni.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/getomni.ai-design)
 
+### getviktor.com
+
+[![How getviktor.com is designed](https://pin.fontofweb.com/6484?format=jpg)](design-md/getviktor.com.md)
+
+Viktor’s page is a dark landing system built around sharp contrast, large type, and a strong sense of structure. The page speaks in short, confident sections rather than long explanatory blocks. Most of the canvas stays close to a deep coffee-brown black, so the bright text, pale cards, and thin dividers carry the hierarchy instead of decorative graphics or heavy shading.
+
+[Open guide](design-md/getviktor.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/getviktor.com-design)
+
 ### giga.ai
 
 [![How giga.ai is designed](https://pin.fontofweb.com/8976?format=jpg)](design-md/giga.ai.md)
