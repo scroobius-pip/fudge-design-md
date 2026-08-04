@@ -111,6 +111,14 @@ AAA24 is designed like a membership brochure that keeps turning into a utility i
 
 [Open guide](design-md/aaa24.a24films.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aaa24.a24films.com-design)
 
+### abc.xyz
+
+[![How abc.xyz is designed](https://pin.fontofweb.com/2306?format=jpg)](design-md/abc.xyz.md)
+
+ABC.xyz presents Alphabet Investor Relations as a quiet, high-margin editorial page. The surface is almost entirely white, so the eye lands first on the sparse structure: a small top bar, a left-aligned statement, and a few floating alphabet blocks that give the page a light sculptural feel. The page reads as intentional emptiness rather than unfinished layout. Large areas of blank canvas become the main design material, and the remaining elements are placed with enough distance to feel curated.
+
+[Open guide](design-md/abc.xyz.md) · [View the Fudge conversation](https://design.withfudge.com/share/abc.xyz-design)
+
 ### abcdinamo.com
 
 [![How abcdinamo.com is designed](https://pin.fontofweb.com/40?format=jpg)](design-md/abcdinamo.com.md)
