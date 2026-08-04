@@ -207,6 +207,14 @@ actualidea.com presents an editorial portfolio system built around magazine spre
 
 [Open guide](design-md/actualidea.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/actualidea.com-design)
 
+### adasilv2.framer.website
+
+[![How adasilv2.framer.website is designed](https://pin.fontofweb.com/4891?format=jpg)](design-md/adasilv2.framer.website.md)
+
+This portfolio is built as a bright gallery with a personal tone. The page stays mostly white, then places image-heavy project tiles, centered essays, and resume-style information blocks into a strict but airy grid. Inter carries the main voice: large headings, short labels, and the bold links and buttons that anchor each section. Dm Sans softens the supporting copy, while Architects Daughter appears as a handwritten counterpoint for emphasis and annotation.
+
+[Open guide](design-md/adasilv2.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/adasilv2.framer.website-design)
+
 ### adithyakrishnan.com
 
 [![How adithyakrishnan.com is designed](https://pin.fontofweb.com/2541?format=jpg)](design-md/adithyakrishnan.com.md)
