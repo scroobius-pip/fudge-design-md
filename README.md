@@ -473,9 +473,9 @@ ami.dev is a spare landing page for a desktop code-help product. The page is bui
 
 ### ampcode.com
 
-[![How ampcode.com is designed](https://pin.fontofweb.com/9180?format=jpg)](design-md/ampcode.com.md)
+[![How ampcode.com is designed](https://pin.fontofweb.com/9178?format=jpg)](design-md/ampcode.com.md)
 
-ampcode.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f6f6f6`, and `#f6fff5`, with typography led by **System**, **Iowan Old Style**, **Poly Sans**, **Perfectly Nineties**, **Consolas**, **Sagittaire**, and **Tx 02**. The guide below names reusable design roles only where the captured evidence supports them.
+Ampcode’s visual system is a dark, editor-like stage built for people who already think in terminals, docs, and code blocks. The default surface is nearly black, but it is not flat in feeling: the homepage hero leans into a deep green-black field, the manual route settles into a charcoal reading room, and both surfaces are punctuated by thin rules, compact chips, and tiny bursts of color rather than large decorative shapes. The tone is serious and technical, but the page still feels edited. Large serif headlines set the mood; smaller sans copy handles explanation; monospace details make commands, file paths, and UI labels feel native.
 
 [Open guide](design-md/ampcode.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ampcode.com-design)
 
