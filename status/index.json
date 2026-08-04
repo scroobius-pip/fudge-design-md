@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:56:00.337Z",
+  "generatedAt": "2026-08-04T18:01:11.333Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
@@ -8,10 +8,10 @@
     "failed": 24,
     "ready": 19,
     "needs_reprocessing": 21,
-    "preparing": 5,
+    "repairing": 4,
     "unpublished": 896,
-    "syncing": 1,
-    "publishing": 1,
+    "syncing": 2,
+    "validating": 1,
     "drafting": 1,
     "legacy": 93
   },
@@ -19,7 +19,7 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T17:55:56.732Z",
+    "heartbeatAt": "2026-08-04T18:01:09.366Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -61,14 +61,14 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1019,
+      "eligibleGeneration": 1013,
       "availableGeneration": 1013,
       "readyPublication": 19,
       "publishedVerified": 138
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-04T17:56:08.768Z"
     },
     "lastError": null
   },
@@ -1024,9 +1024,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T17:55:56.903Z",
+      "updatedAt": "2026-08-04T18:00:00.328Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -2792,9 +2792,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:56.917Z",
+      "updatedAt": "2026-08-04T18:01:04.190Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2857,22 +2857,22 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:55:56.525Z",
+      "updatedAt": "2026-08-04T17:56:01.058Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/baremettle.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/baremettle.com-design.md",
         "githubUrl": null
       }
     },
     {
       "domain": "base-ui.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:56.831Z",
+      "updatedAt": "2026-08-04T18:00:02.370Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3091,9 +3091,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:56.849Z",
+      "updatedAt": "2026-08-04T17:56:01.359Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3169,9 +3169,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:59.220Z",
+      "updatedAt": "2026-08-04T18:00:17.431Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -5366,9 +5366,9 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:55:56.901Z",
+      "updatedAt": "2026-08-04T18:00:05.443Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
