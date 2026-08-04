@@ -451,7 +451,7 @@ Allbirds presents itself as a calm, nature-led commerce system. The page feels o
 
 [![How almost-pearfect.com is designed](https://pin.fontofweb.com/8639?format=jpg)](design-md/almost-pearfect.com.md)
 
-almost-pearfect.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#282828`, `#000000`, and `#ffffff`, with typography led by **Applesystem**, **Trjn Da Vinci 70**, **Acumin Concept**, and **Helvetica Neue**. The guide below names reusable design roles only where the captured evidence supports them.
+Almost Pearfect treats each screen as a poster or product sheet rather than as a standard web layout. The visual language is blunt and theatrical: one saturated red field, oversized black display type, compact sans text, and bottle-led product photography that stays separate from the background instead of dissolving into it. The home page feels like a pasted poster wall; the menu becomes a full-screen typographic panel; the shop and product pages flip to white and settle into a quieter editorial rhythm. Across every surface, the same priorities hold: make the title impossible to miss, keep the supporting text small and practical, and let the imagery read as an object placed on the page rather than a decorative wash.
 
 [Open guide](design-md/almost-pearfect.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/almost-pearfect.com-design)
 
