@@ -1,78 +1,78 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:49:40.965Z",
+  "generatedAt": "2026-08-04T19:54:52.855Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 150,
-    "ready": 20,
-    "failed": 28,
+    "ready": 21,
+    "failed": 29,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 3,
     "syncing": 1,
-    "repairing": 2,
-    "drafting": 1,
-    "legacy": 77
+    "repairing": 1,
+    "validating": 3,
+    "drafting": 2,
+    "legacy": 75
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:49:38.809Z",
+    "heartbeatAt": "2026-08-04T19:54:50.919Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "celesteduffy.com",
-          "startedAt": "2026-08-04T19:46:03.517Z"
-        },
-        {
-          "domain": "davidprotein.com",
-          "startedAt": "2026-08-04T19:44:16.088Z"
-        },
-        {
-          "domain": "dedcool.com",
-          "startedAt": "2026-08-04T19:46:08.700Z"
-        },
         {
           "domain": "deepjudge.ai",
           "startedAt": "2026-08-04T19:45:17.449Z"
         },
         {
-          "domain": "designsystems.surf",
-          "startedAt": "2026-08-04T19:37:21.809Z"
+          "domain": "deepmind.google",
+          "startedAt": "2026-08-04T19:49:59.189Z"
         },
         {
-          "domain": "designwithvibbbes.com",
-          "startedAt": "2026-08-04T19:41:01.796Z"
+          "domain": "deezer.com",
+          "startedAt": "2026-08-04T19:51:26.114Z"
+        },
+        {
+          "domain": "demo.refero.design",
+          "startedAt": "2026-08-04T19:51:10.793Z"
+        },
+        {
+          "domain": "developers.google.com",
+          "startedAt": "2026-08-04T19:53:44.315Z"
+        },
+        {
+          "domain": "dfinity.org",
+          "startedAt": "2026-08-04T19:53:49.435Z"
         }
       ],
-      "completedThisRun": 27,
-      "failedThisRun": 43
+      "completedThisRun": 29,
+      "failedThisRun": 46
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "cofounder.co",
-        "startedAt": "2026-08-04T19:45:32.921Z"
+        "domain": "almost-pearfect.com",
+        "startedAt": "2026-08-04T19:51:51.782Z"
       },
       "completedThisRun": 12,
-      "failedThisRun": 14
+      "failedThisRun": 15
     },
     "queue": {
-      "eligibleGeneration": 1001,
-      "availableGeneration": 974,
-      "readyPublication": 20,
+      "eligibleGeneration": 1000,
+      "availableGeneration": 971,
+      "readyPublication": 21,
       "publishedVerified": 150
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:44:38.647Z"
+      "lastSyncedAt": "2026-08-04T19:49:46.460Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:46:01.895Z",
-      "message": "Generation failed for app.reve.com with exit 1."
+      "at": "2026-08-04T19:53:42.538Z",
+      "message": "Generation failed for designwithvibbbes.com with exit 1."
     }
   },
   "domains": [
@@ -1170,9 +1170,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:35:24.642Z",
+      "updatedAt": "2026-08-04T19:51:56.186Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -4264,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:48:29.725Z",
+      "updatedAt": "2026-08-04T19:53:46.184Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4745,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:45:37.696Z",
+      "updatedAt": "2026-08-04T19:51:46.819Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5564,9 +5564,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:48:03.573Z",
+      "updatedAt": "2026-08-04T19:51:07.129Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5629,9 +5629,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:46:15.323Z",
+      "updatedAt": "2026-08-04T19:51:24.968Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -5670,7 +5670,7 @@
       "domain": "deepjudge.ai",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:49:17.326Z",
+      "updatedAt": "2026-08-04T19:54:04.722Z",
       "blocker": null,
       "publication": {
         "key": "deepjudge.ai-design",
@@ -5681,9 +5681,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T18:59:22.734Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:54:27.771Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5720,9 +5720,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T19:02:35.772Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:53:57.772Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -5798,9 +5798,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T19:00:55.030Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:53:59.769Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
@@ -5928,9 +5928,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "validating",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:48:41.920Z",
+      "updatedAt": "2026-08-04T19:49:58.275Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -5941,9 +5941,9 @@
     },
     {
       "domain": "designwithvibbbes.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:48:11.552Z",
+      "updatedAt": "2026-08-04T19:53:42.475Z",
       "blocker": null,
       "publication": {
         "key": "designwithvibbbes.com-design",
@@ -6058,9 +6058,9 @@
     },
     {
       "domain": "developers.google.com",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T19:53:48.799Z",
       "blocker": null,
       "publication": {
         "key": "developers.google.com-design",
@@ -6084,9 +6084,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "legacy",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T19:53:53.292Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
