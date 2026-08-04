@@ -1,26 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:17:58.885Z",
+  "generatedAt": "2026-08-04T20:18:46.126Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 152,
+    "published_verified": 153,
     "failed": 30,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 20,
+    "ready": 19,
+    "repairing": 2,
     "validating": 1,
+    "publishing": 1,
     "drafting": 3,
-    "repairing": 1,
-    "syncing": 1,
-    "preparing": 1,
     "legacy": 73
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T20:17:57.043Z",
+    "heartbeatAt": "2026-08-04T20:18:43.077Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -55,21 +54,21 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "dashboard.internetcomputer.org",
-        "startedAt": "2026-08-04T20:13:46.441Z"
+        "domain": "dashboard.mux.com",
+        "startedAt": "2026-08-04T20:18:43.022Z"
       },
-      "completedThisRun": 14,
+      "completedThisRun": 15,
       "failedThisRun": 18
     },
     "queue": {
-      "eligibleGeneration": 1000,
-      "availableGeneration": 969,
+      "eligibleGeneration": 999,
+      "availableGeneration": 970,
       "readyPublication": 20,
-      "publishedVerified": 152
+      "publishedVerified": 153
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T20:12:52.406Z"
+      "lastSyncedAt": "2026-08-04T20:18:03.415Z"
     },
     "lastError": {
       "at": "2026-08-04T20:17:54.116Z",
@@ -3290,9 +3289,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:16:59.012Z",
+      "updatedAt": "2026-08-04T20:18:23.328Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3641,9 +3640,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T20:13:38.039Z",
+      "updatedAt": "2026-08-04T20:18:09.055Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -5487,22 +5486,22 @@
     },
     {
       "domain": "dashboard.internetcomputer.org",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 1,
-      "updatedAt": "2026-08-04T20:13:50.708Z",
+      "updatedAt": "2026-08-04T20:18:41.907Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.internetcomputer.org-design",
         "url": "https://design.withfudge.com/share/dashboard.internetcomputer.org-design",
         "markdownUrl": "https://design.withfudge.com/share/dashboard.internetcomputer.org-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dashboard.internetcomputer.org.md"
       }
     },
     {
       "domain": "dashboard.mux.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T18:49:57.598Z",
+      "updatedAt": "2026-08-04T20:18:43.065Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.mux.com-design",
@@ -6150,9 +6149,9 @@
     },
     {
       "domain": "digg.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 1,
-      "updatedAt": "2026-08-04T20:17:57.126Z",
+      "updatedAt": "2026-08-04T20:18:05.808Z",
       "blocker": null,
       "publication": {
         "key": "digg.com-design",
