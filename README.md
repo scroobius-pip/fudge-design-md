@@ -79,6 +79,14 @@ collection, including blocked jobs and completed replacements.
 
 [Open guide](design-md/21st.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/21st.dev-design)
 
+### 247artists.com
+
+[![How 247artists.com is designed](https://pin.fontofweb.com/3619?format=jpg)](design-md/247artists.com.md)
+
+24/7 Artists uses the look of a music-community poster system and turns it into a full-page interface. The page is built from oversized Gellix headlines, thin dark rules, compact utility strips, and saturated stage colors. The typography does the heavy lifting: statements arrive in large, tightly set blocks, while supporting copy stays small and direct. That split keeps the page readable even when the backgrounds are loud.
+
+[Open guide](design-md/247artists.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/247artists.com-design)
+
 ### 80.lv
 
 [![How 80.lv is designed](https://pin.fontofweb.com/9651?format=jpg)](design-md/80.lv.md)
