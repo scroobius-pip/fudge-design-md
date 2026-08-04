@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:58:47.982Z",
+  "generatedAt": "2026-08-04T16:00:36.221Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 123,
-    "failed": 49,
+    "published_verified": 124,
+    "failed": 50,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
-    "ready": 8,
-    "repairing": 2,
-    "validating": 1,
-    "drafting": 3,
-    "legacy": 95
+    "publishing": 1,
+    "ready": 6,
+    "validating": 2,
+    "repairing": 3,
+    "legacy": 95,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:58:45.940Z",
+    "heartbeatAt": "2026-08-04T16:00:33.754Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -54,25 +54,25 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "audio.com",
-        "startedAt": "2026-08-04T15:53:37.355Z"
+        "domain": "cap.so",
+        "startedAt": "2026-08-04T16:00:33.705Z"
       },
-      "completedThisRun": 19,
-      "failedThisRun": 4
+      "completedThisRun": 20,
+      "failedThisRun": 5
     },
     "queue": {
-      "eligibleGeneration": 1040,
-      "availableGeneration": 1026,
-      "readyPublication": 8,
-      "publishedVerified": 123
+      "eligibleGeneration": 1041,
+      "availableGeneration": 1028,
+      "readyPublication": 7,
+      "publishedVerified": 124
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:53:45.543Z"
+      "lastSyncedAt": "2026-08-04T15:58:53.582Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:54:27.615Z",
-      "message": "Generation failed for cavalry.studio with exit 1."
+      "at": "2026-08-04T15:59:51.447Z",
+      "message": "Publication failed for audio.com with exit 1."
     }
   },
   "domains": [
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:53:44.321Z",
+      "updatedAt": "2026-08-04T15:59:51.349Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -4069,15 +4069,15 @@
     },
     {
       "domain": "campaignlive.co.uk",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:40:29.678Z",
+      "updatedAt": "2026-08-04T16:00:33.093Z",
       "blocker": null,
       "publication": {
         "key": "campaignlive.co.uk-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/campaignlive.co.uk-design",
+        "markdownUrl": "https://design.withfudge.com/share/campaignlive.co.uk-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/campaignlive.co.uk.md"
       }
     },
     {
@@ -4121,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:43:27.390Z",
+      "updatedAt": "2026-08-04T16:00:33.753Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4602,9 +4602,9 @@
     },
     {
       "domain": "clubhouse.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:58:16.666Z",
+      "updatedAt": "2026-08-04T16:00:00.094Z",
       "blocker": null,
       "publication": {
         "key": "clubhouse.com-design",
@@ -4745,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:57:22.101Z",
+      "updatedAt": "2026-08-04T15:59:50.229Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -4966,9 +4966,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:54:38.038Z",
+      "updatedAt": "2026-08-04T16:00:01.897Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -4992,9 +4992,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:55:43.852Z",
+      "updatedAt": "2026-08-04T16:00:03.593Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
