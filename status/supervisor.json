@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T23:01:56.217Z",
-  "heartbeatAt": "2026-08-04T23:01:56.549Z",
+  "heartbeatAt": "2026-08-04T23:07:06.369Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "epsteinexposed.com",
-        "startedAt": "2026-08-04T23:01:56.455Z"
+        "domain": "baked.design",
+        "startedAt": "2026-08-04T23:07:06.314Z"
       },
       {
-        "domain": "era.app",
-        "startedAt": "2026-08-04T23:01:56.459Z"
+        "domain": "bugster.dev",
+        "startedAt": "2026-08-04T23:06:56.043Z"
       },
       {
-        "domain": "ethicalads.io",
-        "startedAt": "2026-08-04T23:01:56.458Z"
+        "domain": "buildform.ai",
+        "startedAt": "2026-08-04T23:06:56.042Z"
       },
       {
-        "domain": "eu-inc.org",
-        "startedAt": "2026-08-04T23:01:56.457Z"
+        "domain": "bun.com",
+        "startedAt": "2026-08-04T23:07:06.313Z"
       },
       {
-        "domain": "tinygrad.org",
-        "startedAt": "2026-08-04T23:01:56.459Z"
+        "domain": "bunny.net",
+        "startedAt": "2026-08-04T23:07:06.312Z"
       },
       {
-        "domain": "youtube.com",
-        "startedAt": "2026-08-04T23:01:56.460Z"
+        "domain": "business.linkedin.com",
+        "startedAt": "2026-08-04T23:07:06.306Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 137
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 866,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T23:02:02.874Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T23:07:03.714Z",
+    "message": "Generation failed for buildkite.com with exit 1."
+  }
 }
