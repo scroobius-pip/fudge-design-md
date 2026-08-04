@@ -761,9 +761,9 @@ Astrotypes is a type specimen page with a deliberately narrow visual range. The 
 
 ### audio.com
 
-[![How audio.com is designed](https://pin.fontofweb.com/6245?format=jpg)](design-md/audio.com.md)
+[![How audio.com is designed](https://pin.fontofweb.com/6243?format=jpg)](design-md/audio.com.md)
 
-audio.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#f2f1f4`, `#1a1825`, and `#ffffff`, with typography led by **Poppins**. The guide below names reusable design roles only where the captured evidence supports them.
+audio.com uses a dark creator-platform language: deep charcoal backgrounds, bright off-white type, magenta actions, and narrow hairline borders that keep the interface crisp instead of glossy. The page reads as an app first and a marketing site second. Large centered statements do most of the selling, while the supporting blocks stay compact and card-like.
 
 [Open guide](design-md/audio.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/audio.com-design)
 
