@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:50:24.657Z",
+  "generatedAt": "2026-08-04T15:53:40.148Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 122,
+    "published_verified": 123,
     "failed": 51,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 7,
-    "syncing": 1,
-    "repairing": 1,
-    "validating": 3,
+    "publishing": 1,
+    "ready": 6,
+    "validating": 2,
+    "repairing": 2,
     "drafting": 2,
     "legacy": 95
   },
@@ -19,7 +19,7 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:50:22.762Z",
+    "heartbeatAt": "2026-08-04T15:53:37.404Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -36,43 +36,43 @@
           "startedAt": "2026-08-04T15:49:21.239Z"
         },
         {
-          "domain": "firecrawl.dev",
-          "startedAt": "2026-08-04T15:33:01.473Z"
+          "domain": "codepen.io",
+          "startedAt": "2026-08-04T15:51:03.741Z"
         },
         {
-          "domain": "firstpromoter.com",
-          "startedAt": "2026-08-04T15:40:32.564Z"
+          "domain": "cofounder.co",
+          "startedAt": "2026-08-04T15:51:54.986Z"
         },
         {
           "domain": "fontofweb.com",
           "startedAt": "2026-08-04T15:48:14.713Z"
         }
       ],
-      "completedThisRun": 29,
-      "failedThisRun": 21
+      "completedThisRun": 30,
+      "failedThisRun": 22
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "caffeine.ai",
-        "startedAt": "2026-08-04T15:45:10.086Z"
+        "domain": "audio.com",
+        "startedAt": "2026-08-04T15:53:37.355Z"
       },
-      "completedThisRun": 18,
-      "failedThisRun": 3
+      "completedThisRun": 19,
+      "failedThisRun": 4
     },
     "queue": {
       "eligibleGeneration": 1042,
-      "availableGeneration": 1028,
+      "availableGeneration": 1027,
       "readyPublication": 7,
-      "publishedVerified": 122
+      "publishedVerified": 123
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:45:19.625Z"
+      "lastSyncedAt": "2026-08-04T15:50:29.452Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:43:45.253Z",
-      "message": "Generation failed for fin.ai with exit 1."
+      "at": "2026-08-04T15:51:52.047Z",
+      "message": "Generation failed for firstpromoter.com with exit 1."
     }
   },
   "domains": [
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:40:09.806Z",
+      "updatedAt": "2026-08-04T15:53:37.402Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -3952,15 +3952,15 @@
     },
     {
       "domain": "c82.net",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:32:59.209Z",
+      "updatedAt": "2026-08-04T15:53:34.349Z",
       "blocker": null,
       "publication": {
         "key": "c82.net-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/c82.net-design",
+        "markdownUrl": "https://design.withfudge.com/share/c82.net-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/c82.net.md"
       }
     },
     {
@@ -3991,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:45:14.108Z",
+      "updatedAt": "2026-08-04T15:51:23.883Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4251,9 +4251,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:49:58.273Z",
+      "updatedAt": "2026-08-04T15:52:38.559Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -4342,9 +4342,9 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:50:17.364Z",
+      "updatedAt": "2026-08-04T15:52:43.725Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
@@ -4602,9 +4602,9 @@
     },
     {
       "domain": "clubhouse.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:49:24.402Z",
+      "updatedAt": "2026-08-04T15:53:17.990Z",
       "blocker": null,
       "publication": {
         "key": "clubhouse.com-design",
@@ -4706,9 +4706,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:53:15.915Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:51:10.962Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4745,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:57:50.578Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:52:03.851Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -7579,9 +7579,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:49:10.828Z",
+      "updatedAt": "2026-08-04T15:51:02.685Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7670,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:50:18.420Z",
+      "updatedAt": "2026-08-04T15:51:51.984Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
@@ -7917,9 +7917,9 @@
     },
     {
       "domain": "fontofweb.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:48:22.588Z",
+      "updatedAt": "2026-08-04T15:52:13.960Z",
       "blocker": null,
       "publication": {
         "key": "fontofweb.com-design",
