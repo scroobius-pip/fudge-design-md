@@ -271,6 +271,14 @@ Affinity’s page language is severe in the good way: big serif statements, quie
 
 [Open guide](design-md/affinity.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/affinity.studio-design)
 
+### afterquery.com
+
+[![How afterquery.com is designed](https://pin.fontofweb.com/3992?format=jpg)](design-md/afterquery.com.md)
+
+AfterQuery uses a restrained editorial system built around serif headlines, generous whitespace, and thin cool borders. The page feels like a research dossier and a recruiting landing page at the same time: centered statements, short explanatory paragraphs, simple forms, and small outlined pills keep the interface calm, while botanical illustrations and benchmark charts add texture and subject matter. The visual story stays light-first. Pale blush and cream surfaces carry the bulk of the layout, and a single strong blue acts as the main directional accent. Most sections are centered or gently split rather than tightly gridded, so the eye moves from one large idea to the next without much friction.
+
+[Open guide](design-md/afterquery.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/afterquery.com-design)
+
 ### agentation.dev
 
 [![How agentation.dev is designed](https://pin.fontofweb.com/6235?format=jpg)](design-md/agentation.dev.md)
