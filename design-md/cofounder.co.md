@@ -2,157 +2,149 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cofounder.co-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9471?format=jpg)](https://design.withfudge.com/share/pin-9471)
+[![Full-bleed pixel park hero with skyline, clouds, and laptop](https://pin.fontofweb.com/9471?format=jpg)](https://design.withfudge.com/share/pin-9471)
 
-[Cofounder lets you run an entire company with agents](https://design.withfudge.com/share/pin-9471)
+[Full-bleed pixel park hero with skyline, clouds, and laptop](https://design.withfudge.com/share/pin-9471)
 
-[![Cofounder lets you run an entire company with agents](https://pin.fontofweb.com/9470?format=jpg)](https://design.withfudge.com/share/pin-9470)
+[![White product page with sunflower rail and centered email composer](https://pin.fontofweb.com/8173?format=jpg)](https://design.withfudge.com/share/pin-8173)
 
-[Cofounder lets you run an entire company with agents](https://design.withfudge.com/share/pin-9470)
+[White product page with sunflower rail and centered email composer](https://design.withfudge.com/share/pin-8173)
 
-[![Cofounder](https://pin.fontofweb.com/8173?format=jpg)](https://design.withfudge.com/share/pin-8173)
+[![Centered pricing page with serif headline, price tile, and slider](https://pin.fontofweb.com/8171?format=jpg)](https://design.withfudge.com/share/pin-8171)
 
-[Cofounder](https://design.withfudge.com/share/pin-8173)
+[Centered pricing page with serif headline, price tile, and slider](https://design.withfudge.com/share/pin-8171)
 
-[![Cofounder | Pricing](https://pin.fontofweb.com/8171?format=jpg)](https://design.withfudge.com/share/pin-8171)
+[![White landing hero above the landscape stage with a glass prompt](https://pin.fontofweb.com/8169?format=jpg)](https://design.withfudge.com/share/pin-8169)
 
-[Cofounder | Pricing](https://design.withfudge.com/share/pin-8171)
-
-[![Cofounder](https://pin.fontofweb.com/8170?format=jpg)](https://design.withfudge.com/share/pin-8170)
-
-[Cofounder](https://design.withfudge.com/share/pin-8170)
-
-[![Cofounder](https://pin.fontofweb.com/8169?format=jpg)](https://design.withfudge.com/share/pin-8169)
-
-[Cofounder](https://design.withfudge.com/share/pin-8169)
+[White landing hero above the landscape stage with a glass prompt](https://design.withfudge.com/share/pin-8169)
 
 ## Overview
 
-cofounder.co presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#171717`, `#000000`, and `#0a0a0a`, with typography led by **Tt Neoris**, **Af Another Sans**, **Pp Mondwest**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cofounder uses a split personality that still feels like one system. The opening view is a full-bleed illustrated world with a bright blue sky, grassy distance, and a laptop placed inside the scene; later pages become white editorial layouts with a sunflower rail, a serif headline, and small monochrome controls. The design never turns into a heavy dashboard. It stays airy, image-led, and quiet around the edges.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#171717` | text on page content |
-| color.shadow | `#000000` | shadow on page content |
-| color.text | `#0a0a0a` | text on page content in the main |
-| color.surface | `#fefffc` | surface on page content in the main |
-| color.text | `#2c2c2c` | text on page content in the main |
-| color.text | `#ffffff` | text on page content |
-| color.text | `#646464` | text on page content in the main |
-| color.text | `#444141` | text on page content in the header |
-| color.border | `#dde3dd` | border on page content in the main |
-| color.text | `#b4b8b4` | text on page content in the main |
-| color.text | `#fbfbf8` | text on page content in the nav |
-| color.surface | `#f5f5f2` | surface on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Tt Neoris** | 16px | 400 | 24px | normal | <div>, <div> in the header, <a>, <div> in the nav, <span> in the nav, and <a> in the nav |
-| type.body-16px | **Af Another Sans** | 16px | 400 | 24px | normal | <div> in the main, <div> in the nav, and <div> in the header |
-| type.display-90px | **Pp Mondwest** | 90px | 400 | 90px | -1.8px | <h1> in the header |
-| type.body-15px | **Af Another Sans** | 15px | 500 | 21px | -0.15px | <a> in the main, <p> in the main, <a> in the nav, <span> in the main, and <p> in the header |
-| type.display-46px | **Tt Neoris** | 46px | 400 | 49.68px | normal | <h1> |
-| type.display-54px | **Pp Mondwest** | 54px | 400 | 54px | normal | <h1> in the main |
-| type.body-16px | **Tt Neoris** | 16px | 460 | 22.4px | 0.15px | <p> |
-| type.body-16px | **Af Another Sans** | 16px | 500 | 22.4px | -0.15px | <span> in the main |
-| type.body-24px | **Af Another Sans** | 24px | 500 | 31.2px | -0.48px | <h4> in the main |
-| type.body-15px | **Tt Neoris** | 15px | 410 | 22.5px | 0.15px | <a> in the nav |
-| type.utility-13px | **Af Another Sans** | 13px | 500 | 16.9px | -0.13px | <p> in the main |
-| type.body-15px | **Tt Neoris** | 15px | 460 | 22.5px | 0.15px | <span> in the nav |
-| type.utility-13px | **Af Another Sans** | 13px | 600 | 19.5px | -0.13px | <h4> in the main |
-| type.body-16px | **Af Another Sans** | 16px | 500 | 24px | normal | <a> in the nav |
-| type.display-48px | **Geist Mono** | 48px | 400 | 62.4px | -1.44px | <span> in the main |
-| type.utility-13px | **Af Another Sans** | 13px | 400 | 19.5px | normal | <span> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `198px 0px 0px` | padding | page content |
-| `24px 48px 48px 80px` | padding | page content |
-| `8px 120px` | padding | page content |
-| `0px 555px` | margin | page content |
-| `26px 20px 23px` | padding | page content |
-| `0px 0px 50px` | padding | page content |
-| `32px 36px` | padding | page content |
-| `32px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 10px`, `0px none 4px`, `0px none 8px`, `1px solid 10px`, `1px solid 8px`, `1px solid 1.67772e+07px`, `1px solid 16px`, and `0px none 1.67772e+07px` border treatments. Recorded gradients include `linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.9) 100%)` and `linear-gradient(in oklab, rgba(255, 255, 255, 0.8) 0px, rgba(255, 255, 255, 0.16) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0.06) 0px 2px 3px 0px, rgba(255, 255, 255, 0.35) 0px 0px 0.357px 1.5px inset, rgb(255, 255, 255) 0px 2px 0px 0px inset`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.1) 0px 4px 12px 0px inset, rgba(255, 255, 255, 0.4) 0px 0px 0px 6px, rgba(0, 0, 0, 0.13) 0px 1px 8px 0px, rgba(0, 0, 0, 0.2) 0px 2px 6px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.06) 0px 2px 2px 0px, rgba(0, 0, 0, 0) 0px 6px 6px 0px`.
+The strongest constant is contrast between a soft, storybook picture layer and a very restrained interface layer. The UI almost always stays black, white, and gray. The artwork supplies the color, scale, and mood. When the page needs to feel more product-like, it does so through glassy input shells, a price tile, and thin rules rather than dense chrome.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#fefffc`, `#f5f5f2`, and `#f9faf7`. Text colors include `#171717`, `#0a0a0a`, and `#2c2c2c`. Keep image-derived colors separate from interface colors.
+### Core interface colors
+
+| token | value | use |
+|---|---|---|
+| action | `#0A0A0A` | Filled pills, strong labels, and the darkest interface accents |
+| ink | `#171717` | Primary headlines, body text, and most neutral type |
+| muted-ink | `#646464` | Supporting copy, helper text, and quieter labels |
+| canvas | `#FFFFFF` | Main page background and the open space around sections |
+| surface | `#F5F5F2` | Soft card fill, price tile fill, and quiet inset surfaces |
+| surface-quiet | `#FBFBF8` | Very light shells, page frames, and neutral panels behind content |
+| border | `#DDE3DD` | Hairline rules, card outlines, and section dividers |
+| border-strong | `#B4B8B4` | Slightly firmer edges and shadow-like low-contrast depth |
+
+The visible color system is mostly monochrome. The interface itself does not need a dark theme to feel balanced; the black action color and dark ink already carry the contrast. The saturated blues, greens, and sunflower yellows belong to the pixel-art scenes, not to the chrome. That separation matters: the artwork can be vivid without forcing the buttons, labels, or cards to compete with it. On the white pages, use the canvas and surface tokens for almost everything, then let the action token anchor the only hard contrast. On the blue opening scene, keep the UI pale and translucent so the illustration remains dominant.
 
 ## Typography
 
-The captured type system uses **Tt Neoris**, **Af Another Sans**, **Pp Mondwest**, and **Geist Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The system uses four families with distinct jobs. Pp Mondwest handles the dramatic claims and the pricing headline. Af Another Sans carries the everyday interface voice on the white pages. Tt Neoris appears in the blue opening crop and gives that version a lighter, more modern sans presence. Geist Mono is reserved for the numeric price and count-like readings, which keeps figures crisp beside the soft art.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Pp Mondwest | 5.625rem | 400 | 1 | -0.02em | Large white-page hero line |
+| section-display | Pp Mondwest | 3.375rem | 400 | 1 | -0.02em | Pricing headline and major section titles |
+| hero-sans-display | Tt Neoris | 2.875rem | 400 | 1.08 | -0.01em | Blue opening headline on the landscape scene |
+| body | Af Another Sans | 1rem | 400 | 1.5 | 0em | Paragraph copy, explanations, and neutral content |
+| body-strong | Af Another Sans | 0.9375rem | 500 | 1.4 | -0.01em | Button text, short emphasis, and small prompts |
+| label | Af Another Sans | 0.8125rem | 500 | 1.5 | -0.01em | Nav items, chips, slider labels, and rail text |
+| numeric-display | Geist Mono | 3rem | 400 | 1.3 | -0.03em | Price figure and numeric readouts |
+
+The hierarchy depends on size and texture more than on weight variation. Pp Mondwest is light enough to feel editorial, not ornamental. Af Another Sans stays compact and practical, especially in the 13px and 15px roles. The result is a page that can switch between poetic and utilitarian without changing its voice. Attribution is supported only for the listed designers and vendors in the packet; confirm licensing before reuse.
 
 ## Layout
 
-The captured pages use values such as `198px 0px 0px`, `24px 48px 48px 80px`, `8px 120px`, `0px 555px`, and `26px 20px 23px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The white pages are built around a wide center column with generous side gutters, but the blue opening hero stretches almost edge to edge. That contrast creates a clear chapter break. The header stays thin and horizontal, with the brand on the left and small text links on the right. In the white views, a sunflower rail sits at the far left and gives the page a vertical anchor without turning into a full sidebar. It is decorative and navigational at the same time.
+
+The hero composition on the white pages is left-heavy. A large headline sits above a short paragraph and a pair of pills, while the landscape stage occupies the lower half of the page. The stage itself behaves like a framed artwork: the border is soft, the corners are rounded, and the product elements float inside the image rather than breaking the scene apart. The pricing page simplifies the structure again. It centers the headline, then stacks the price tile and slider in a compact vertical rhythm so the number becomes the focal point.
+
+Spacing is spacious but not lazy. Large gaps separate chapters, while the inside of each chapter stays tight enough to keep the product message readable in one glance. The system likes broad white fields, a few well-placed rules, and one dominant visual object per section.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#fefffc`, `#f5f5f2`, and `#f9faf7`. Depth is supported by the returned gradients and shadows.
+Cofounder’s visual language is pixel-art pastoral: blue sky, rounded clouds, tree canopies, grass, flowers, and a laptop placed inside the landscape. That art direction makes automation feel playful and expansive rather than clinical. The interface overlays are intentionally calm. Prompt boxes, email composers, toasts, and pricing tiles sit on top of the art with a glassy, lightly frosted feel. They do not fight the scene; they hover over it.
 
-## Components and states
+Shape is used with restraint. Controls are softly rounded, major panels are more generous, and the price tile is the cleanest card in the system. The black pill action stands out because everything else is so pale. This creates a useful contrast: the art is lively, the chrome is quiet, and the call to act is unmistakable. The sunflower motif repeats across the side rail and the art itself, which gives the brand a small botanical signature without cluttering the page.
 
-The captured pages include repeated styling on <div>, <h1>, <p>, <a>, <span>, and <h4> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Depth is shallow. A fine border and a soft shadow are enough for the cards. Heavy gradients or strong drop shadows would undermine the hand-built, game-like atmosphere of the scenes. The pixel edges should stay visible in the illustration layer; the UI layer should stay crisp and vector-clean.
+
+## Components
+
+### Header
+
+The header is a low-profile bar with the wordmark on the left and text links on the right. On the white pages, the links read as light interface text rather than a nav strip. The main acquisition control is a black pill, while the secondary login control is a pale outlined pill. That pairing is part of the system: one action feels decisive, the other feels available but quiet. Keep the header visually secondary to the hero and do not thicken it into a branded toolbar.
+
+### Hero claim
+
+The strongest hero uses Pp Mondwest at a very large size on white, while the blue opening crop uses Tt Neoris at a slightly smaller but still prominent scale. Both versions rely on short supporting copy and one or two compact actions. The line length should stay controlled so the claim reads as a single block instead of a banner. The hero has to feel calm even when the background image is loud. Give the headline enough empty space to breathe, and keep the supporting sentence one step softer in color.
+
+### Landscape stage
+
+The landscape stage is the most distinctive product container. It uses a rounded rectangular frame, a soft border, and a shallow shadow. Inside it, the prompt composer is a translucent bar that sits over the art rather than replacing it. Floating toasts and task cards should feel like they were added to the scene, not pasted over it. Preserve the sense that the product lives inside the world. The panel should remain wide, with the image doing most of the spatial work and the interface occupying only a small part of the frame.
+
+### Pricing block
+
+The pricing page centers its message and keeps the structure simple: headline, small support line, price tile, and slider. The price figure uses Geist Mono, which makes the digits feel exact and mechanical. The tile is soft, white, and slightly elevated, with a more generous radius than the header pills. The slider is thin and technical, but it still fits the system because its labels are small and subdued. Treat the price card as the hero object in this section. Everything else should support it.
+
+### Sunflower rail and quiet navigation
+
+The sunflower rail is a narrow visual anchor rather than a major interface block. It gives the white pages a left edge and keeps the layout from feeling empty. The stacked rail links are small, muted, and restrained. Their purpose is orientation, not sales pressure. They should never become a heavy menu. Keep the rail narrow enough that the central content still feels like the main event.
+
+### Glass prompt and small cards
+
+Prompt shells, message toasts, and task chips all share the same logic: pale fill, soft edge, and concise text. They appear to float because their surface is lighter than the art beneath them. These pieces should stay small and useful. They are there to make the product feel active inside the world, not to create a dashboard grid. Their text should stay short, and their borders should remain subtle.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the system should collapse without losing its order of importance. The hero copy should stay above the art, and the prompt composer should remain readable before the surrounding scenic detail. The sunflower rail should compress into a smaller header or a compact side marker rather than stealing width from the content. The pricing block should remain centered, with the price tile staying large enough to read at a glance.
+
+If the stage becomes vertical, keep the image dominant and move the interface overlays into a stacked relationship instead of scattering them. The goal is to preserve the storybook feel, not to turn the layout into a dense mobile app. Buttons can stack earlier, but their visual contrast should stay strong. Labels must remain legible at small sizes, and the line length of the hero headline should be shortened carefully so the wording still feels intentional.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the split between the poetic image layer and the restrained interface layer.
+- Preserve the white canvas, black action, and soft gray support text.
+- Keep Pp Mondwest for the big claim and Af Another Sans for the utility voice.
+- Let the art carry the color while the chrome stays monochrome.
+- Keep card depth light and borders thin.
+
+### Avoid
+
+- Avoid turning the hero into a generic AI gradient banner.
+- Avoid heavy shadows, thick rules, or dashboard chrome.
+- Avoid adding new accent colors to the interface layer.
+- Avoid rounding every object the same way; the controls, panels, and tiles need different radii.
+- Avoid replacing the landscape scene with flat stock imagery.
+
+### Recommended build order
+
+1. Establish the monochrome color tokens and the four font roles.
+2. Build the header with the two button treatments.
+3. Recreate the white hero and the blue opening hero as separate layout variants.
+4. Build the landscape stage with translucent prompt and toast primitives.
+5. Build the pricing block with the numeric tile and slider.
+6. Finish the sunflower rail and small navigation pieces.
+7. Tune spacing so the page still feels open at large widths.
+
+### Accessibility
+
+- Keep contrast high enough on translucent pills and glass shells.
+- Maintain visible focus styling on all links, pills, and slider controls.
+- Do not rely on color alone for active nav or slider position.
+- Give the landscape scenes and floating product panels clear alternative text.
+- Keep the hero headline readable when the viewport narrows.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#171717`
-- `#000000`
-- `#0a0a0a`
-- `#fefffc`
-- `#2c2c2c`
-- `#ffffff`
-- `#646464`
-- `#444141`
-- `#dde3dd`
-- `#b4b8b4`
-- `#fbfbf8`
-- `#f5f5f2`
-- `#202020`
-- `#fafafa`
-- `#1a1a1a`
-- `#dee2de`
-
-## Typography captured from cofounder.co
-
-- **Tt Neoris** — weight 400 · size 16px
-- **Af Another Sans** — weight 400 · size 16px
-- **Pp Mondwest** — weight 400 · size 54px
-- **Geist Mono** — weight 400 · size 48px
+This guide covers the public marketing surfaces shown here: the illustrated homepage hero, the white editorial landing pages with the landscape stage, the sunflower rail, and the pricing page. It does not specify motion, hover or focus behavior, exact mobile breakpoints, or any unseen application screens.

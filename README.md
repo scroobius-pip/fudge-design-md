@@ -1227,7 +1227,7 @@ codepen.io presents a predominantly dark surface treatment in the captured pages
 
 [![How cofounder.co is designed](https://pin.fontofweb.com/9471?format=jpg)](design-md/cofounder.co.md)
 
-cofounder.co presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#171717`, `#000000`, and `#0a0a0a`, with typography led by **Tt Neoris**, **Af Another Sans**, **Pp Mondwest**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cofounder uses a split personality that still feels like one system. The opening view is a full-bleed illustrated world with a bright blue sky, grassy distance, and a laptop placed inside the scene; later pages become white editorial layouts with a sunflower rail, a serif headline, and small monochrome controls. The design never turns into a heavy dashboard. It stays airy, image-led, and quiet around the edges.
 
 [Open guide](design-md/cofounder.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/cofounder.co-design)
 
