@@ -1,43 +1,39 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:45:13.570Z",
+  "generatedAt": "2026-08-04T15:50:24.657Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 122,
-    "failed": 54,
+    "failed": 51,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 4,
-    "publishing": 1,
-    "validating": 1,
-    "drafting": 4,
-    "legacy": 95,
-    "repairing": 1
+    "ready": 7,
+    "syncing": 1,
+    "repairing": 1,
+    "validating": 3,
+    "drafting": 2,
+    "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:45:10.144Z",
+    "heartbeatAt": "2026-08-04T15:50:22.762Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "capacity.so",
-          "startedAt": "2026-08-04T15:40:11.897Z"
-        },
         {
           "domain": "cavalry.studio",
           "startedAt": "2026-08-04T15:43:11.755Z"
         },
         {
-          "domain": "celesteduffy.com",
-          "startedAt": "2026-08-04T15:43:32.405Z"
+          "domain": "chatgpt.com",
+          "startedAt": "2026-08-04T15:46:37.405Z"
         },
         {
-          "domain": "clarity.microsoft.com",
-          "startedAt": "2026-08-04T15:43:47.725Z"
+          "domain": "clubhouse.com",
+          "startedAt": "2026-08-04T15:49:21.239Z"
         },
         {
           "domain": "firecrawl.dev",
@@ -46,9 +42,13 @@
         {
           "domain": "firstpromoter.com",
           "startedAt": "2026-08-04T15:40:32.564Z"
+        },
+        {
+          "domain": "fontofweb.com",
+          "startedAt": "2026-08-04T15:48:14.713Z"
         }
       ],
-      "completedThisRun": 26,
+      "completedThisRun": 29,
       "failedThisRun": 21
     },
     "publication": {
@@ -61,14 +61,14 @@
       "failedThisRun": 3
     },
     "queue": {
-      "eligibleGeneration": 1045,
-      "availableGeneration": 1031,
-      "readyPublication": 5,
+      "eligibleGeneration": 1042,
+      "availableGeneration": 1028,
+      "readyPublication": 7,
       "publishedVerified": 122
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:41:17.901Z"
+      "lastSyncedAt": "2026-08-04T15:45:19.625Z"
     },
     "lastError": {
       "at": "2026-08-04T15:43:45.253Z",
@@ -3991,14 +3991,14 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:45:10.136Z",
+      "updatedAt": "2026-08-04T15:45:14.108Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/caffeine.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/caffeine.ai-design.md",
         "githubUrl": null
       }
     },
@@ -4134,9 +4134,9 @@
     },
     {
       "domain": "capacity.so",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:45:04.208Z",
+      "updatedAt": "2026-08-04T15:46:34.670Z",
       "blocker": null,
       "publication": {
         "key": "capacity.so-design",
@@ -4251,9 +4251,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:43:22.931Z",
+      "updatedAt": "2026-08-04T15:49:58.273Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -4264,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:43:44.334Z",
+      "updatedAt": "2026-08-04T15:48:11.870Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4342,9 +4342,9 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:21:01.418Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:50:17.364Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
@@ -4459,9 +4459,9 @@
     },
     {
       "domain": "clarity.microsoft.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:43:51.943Z",
+      "updatedAt": "2026-08-04T15:49:20.177Z",
       "blocker": null,
       "publication": {
         "key": "clarity.microsoft.com-design",
@@ -4602,9 +4602,9 @@
     },
     {
       "domain": "clubhouse.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:30:15.297Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:49:24.402Z",
       "blocker": null,
       "publication": {
         "key": "clubhouse.com-design",
@@ -7579,9 +7579,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:37:57.736Z",
+      "updatedAt": "2026-08-04T15:49:10.828Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7670,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:44:37.497Z",
+      "updatedAt": "2026-08-04T15:50:18.420Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
@@ -7917,9 +7917,9 @@
     },
     {
       "domain": "fontofweb.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T19:26:09.658Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:48:22.588Z",
       "blocker": null,
       "publication": {
         "key": "fontofweb.com-design",
