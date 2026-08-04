@@ -55,6 +55,14 @@ collection, including blocked jobs and completed replacements.
 
 [Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
 
+### 1x.tech
+
+[![How 1x.tech is designed](https://pin.fontofweb.com/4217?format=jpg)](design-md/1x.tech.md)
+
+1x.tech presents NEO as a premium home robot through restraint rather than spectacle. The page keeps the field quiet, lets the robot image occupy the largest shape, and uses small dark text, pale panels, and soft radii to make the product feel calm and engineered. The structure is chapter-like: a hero purchase screen, an accessories row, a technical specification area, modal-style feature detail, and a sparse footer. Each chapter changes density, but the visual language stays consistent.
+
+[Open guide](design-md/1x.tech.md) · [View the Fudge conversation](https://design.withfudge.com/share/1x.tech-design)
+
 ### 205.tf
 
 [![How 205.tf is designed](https://pin.fontofweb.com/7931?format=jpg)](design-md/205.tf.md)
