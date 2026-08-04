@@ -1,26 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:19:52.618Z",
+  "generatedAt": "2026-08-04T18:25:03.644Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 141,
     "failed": 24,
-    "ready": 16,
-    "drafting": 2,
+    "ready": 17,
+    "repairing": 2,
     "needs_reprocessing": 21,
     "unpublished": 896,
+    "drafting": 1,
     "syncing": 1,
-    "publishing": 1,
-    "repairing": 3,
-    "legacy": 93,
-    "preparing": 1
+    "validating": 3,
+    "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:19:50.394Z",
+    "heartbeatAt": "2026-08-04T18:25:02.098Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -29,28 +28,28 @@
           "startedAt": "2026-08-04T18:18:08.050Z"
         },
         {
+          "domain": "almost-pearfect.com",
+          "startedAt": "2026-08-04T18:24:00.757Z"
+        },
+        {
           "domain": "codepen.io",
           "startedAt": "2026-08-04T18:17:27.122Z"
         },
         {
-          "domain": "dany.works",
-          "startedAt": "2026-08-04T18:12:15.159Z"
-        },
-        {
-          "domain": "fin.ai",
-          "startedAt": "2026-08-04T18:10:07.056Z"
+          "domain": "cosmos.so",
+          "startedAt": "2026-08-04T18:21:32.514Z"
         },
         {
           "domain": "firecrawl.dev",
           "startedAt": "2026-08-04T18:19:50.344Z"
         },
         {
-          "domain": "firstpromoter.com",
-          "startedAt": "2026-08-04T18:09:41.493Z"
+          "domain": "git.law",
+          "startedAt": "2026-08-04T18:20:46.589Z"
         }
       ],
-      "completedThisRun": 3,
-      "failedThisRun": 8
+      "completedThisRun": 4,
+      "failedThisRun": 10
     },
     "publication": {
       "concurrency": 1,
@@ -62,18 +61,18 @@
       "failedThisRun": 3
     },
     "queue": {
-      "eligibleGeneration": 1014,
-      "availableGeneration": 1002,
+      "eligibleGeneration": 1013,
+      "availableGeneration": 1000,
       "readyPublication": 17,
       "publishedVerified": 141
     },
-    "recoveredThisRun": 6,
+    "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:18:14.724Z"
+      "lastSyncedAt": "2026-08-04T18:19:57.036Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:19:47.464Z",
-      "message": "Generation failed for cora.computer with exit 1."
+      "at": "2026-08-04T18:23:57.043Z",
+      "message": "Generation failed for fin.ai with exit 1."
     }
   },
   "domains": [
@@ -898,9 +897,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 7,
-      "updatedAt": "2026-08-04T18:18:14.666Z",
+      "updatedAt": "2026-08-04T18:24:08.563Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -1171,9 +1170,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:47:08.914Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:24:05.895Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1444,9 +1443,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:55:50.474Z",
+      "updatedAt": "2026-08-04T18:21:32.511Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -2588,14 +2587,14 @@
     },
     {
       "domain": "aura.build",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:19:50.384Z",
+      "updatedAt": "2026-08-04T18:19:54.970Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/aura.build-design",
+        "markdownUrl": "https://design.withfudge.com/share/aura.build-design.md",
         "githubUrl": null
       }
     },
@@ -4707,9 +4706,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:17:34.197Z",
+      "updatedAt": "2026-08-04T18:24:59.626Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -5006,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:39:44.037Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:24:38.069Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5422,9 +5421,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:16:48.113Z",
+      "updatedAt": "2026-08-04T18:20:41.971Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -7528,9 +7527,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:19:49.485Z",
+      "updatedAt": "2026-08-04T18:23:56.984Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7580,9 +7579,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:19:50.492Z",
+      "updatedAt": "2026-08-04T18:24:35.291Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7671,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:18:59.115Z",
+      "updatedAt": "2026-08-04T18:21:31.475Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
@@ -8737,9 +8736,9 @@
     },
     {
       "domain": "git.law",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T17:39:36.426Z",
+      "state": "validating",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T18:23:58.530Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",
