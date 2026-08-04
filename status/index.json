@@ -1,30 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:44:41.545Z",
+  "generatedAt": "2026-08-04T14:49:17.766Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 109,
-    "failed": 72,
+    "published_verified": 110,
+    "failed": 71,
     "needs_reprocessing": 21,
     "unpublished": 896,
+    "validating": 3,
     "repairing": 1,
-    "validating": 2,
-    "drafting": 3,
+    "drafting": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:44:38.945Z",
+    "heartbeatAt": "2026-08-04T14:49:15.713Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "artificialanalysis.ai",
-          "startedAt": "2026-08-04T14:36:06.184Z"
-        },
         {
           "domain": "baked.design",
           "startedAt": "2026-08-04T14:40:12.322Z"
@@ -42,28 +38,32 @@
           "startedAt": "2026-08-04T14:43:52.717Z"
         },
         {
+          "domain": "baselight.ai",
+          "startedAt": "2026-08-04T14:48:29.519Z"
+        },
+        {
           "domain": "dfy.co.kr",
           "startedAt": "2026-08-04T14:37:48.626Z"
         }
       ],
-      "completedThisRun": 5,
+      "completedThisRun": 6,
       "failedThisRun": 6
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 5,
+      "completedThisRun": 6,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1063,
-      "availableGeneration": 1058,
+      "eligibleGeneration": 1062,
+      "availableGeneration": 1057,
       "readyPublication": 0,
-      "publishedVerified": 109
+      "publishedVerified": 110
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:42:54.873Z"
+      "lastSyncedAt": "2026-08-04T14:44:47.045Z"
     },
     "lastError": {
       "at": "2026-08-04T14:40:45.257Z",
@@ -2374,15 +2374,15 @@
     },
     {
       "domain": "artificialanalysis.ai",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:43:21.659Z",
+      "updatedAt": "2026-08-04T14:49:11.405Z",
       "blocker": null,
       "publication": {
         "key": "artificialanalysis.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/artificialanalysis.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/artificialanalysis.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/artificialanalysis.ai.md"
       }
     },
     {
@@ -2792,7 +2792,7 @@
       "domain": "baked.design",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:44:02.198Z",
+      "updatedAt": "2026-08-04T14:48:59.938Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2857,7 +2857,7 @@
       "domain": "baremettle.com",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:43:53.052Z",
+      "updatedAt": "2026-08-04T14:48:08.759Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2868,9 +2868,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:42:20.590Z",
+      "updatedAt": "2026-08-04T14:49:09.776Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2881,9 +2881,9 @@
     },
     {
       "domain": "base44.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:44:00.541Z",
+      "updatedAt": "2026-08-04T14:48:36.537Z",
       "blocker": null,
       "publication": {
         "key": "base44.com-design",
@@ -2894,9 +2894,9 @@
     },
     {
       "domain": "baselight.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:28.829Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:48:36.506Z",
       "blocker": null,
       "publication": {
         "key": "baselight.ai-design",
