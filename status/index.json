@@ -1,43 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:19:43.154Z",
+  "generatedAt": "2026-08-04T17:24:54.862Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 133,
-    "failed": 30,
-    "ready": 17,
+    "failed": 26,
+    "ready": 21,
     "needs_reprocessing": 21,
-    "publishing": 1,
+    "syncing": 1,
     "unpublished": 896,
-    "validating": 3,
-    "repairing": 1,
-    "drafting": 2,
-    "legacy": 95
+    "drafting": 1,
+    "validating": 2,
+    "preparing": 1,
+    "legacy": 95,
+    "repairing": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:19:40.453Z",
+    "heartbeatAt": "2026-08-04T17:24:52.904Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "brave.com",
-          "startedAt": "2026-08-04T17:06:11.891Z"
-        },
-        {
-          "domain": "bud.app",
-          "startedAt": "2026-08-04T17:13:31.889Z"
-        },
-        {
-          "domain": "caffeine.ai",
-          "startedAt": "2026-08-04T17:16:05.429Z"
+          "domain": "cap.so",
+          "startedAt": "2026-08-04T17:21:48.669Z"
         },
         {
           "domain": "cavalry.studio",
           "startedAt": "2026-08-04T17:18:13.407Z"
+        },
+        {
+          "domain": "codepen.io",
+          "startedAt": "2026-08-04T17:21:02.505Z"
+        },
+        {
+          "domain": "cora.computer",
+          "startedAt": "2026-08-04T17:24:52.851Z"
         },
         {
           "domain": "fin.ai",
@@ -48,7 +49,7 @@
           "startedAt": "2026-08-04T17:16:36.115Z"
         }
       ],
-      "completedThisRun": 61,
+      "completedThisRun": 65,
       "failedThisRun": 43
     },
     "publication": {
@@ -61,14 +62,14 @@
       "failedThisRun": 14
     },
     "queue": {
-      "eligibleGeneration": 1021,
-      "availableGeneration": 1001,
-      "readyPublication": 18,
+      "eligibleGeneration": 1018,
+      "availableGeneration": 998,
+      "readyPublication": 21,
       "publishedVerified": 133
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:17:46.166Z"
+      "lastSyncedAt": "2026-08-04T17:19:48.579Z"
     },
     "lastError": {
       "at": "2026-08-04T17:16:02.072Z",
@@ -1105,14 +1106,14 @@
     },
     {
       "domain": "alibabacloud.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:19:40.440Z",
+      "updatedAt": "2026-08-04T17:19:44.602Z",
       "blocker": null,
       "publication": {
         "key": "alibabacloud.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/alibabacloud.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/alibabacloud.com-design.md",
         "githubUrl": null
       }
     },
@@ -2574,9 +2575,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:59:51.349Z",
+      "state": "ready",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:24:50.641Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -3497,9 +3498,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:19:35.696Z",
+      "updatedAt": "2026-08-04T17:20:59.849Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3653,9 +3654,9 @@
     },
     {
       "domain": "bud.app",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:19:30.903Z",
+      "updatedAt": "2026-08-04T17:21:47.573Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3991,9 +3992,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:18:51.050Z",
+      "updatedAt": "2026-08-04T17:19:44.429Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4121,9 +4122,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:06:42.832Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:22:06.841Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4251,9 +4252,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:18:18.200Z",
+      "updatedAt": "2026-08-04T17:24:49.981Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -4706,9 +4707,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:06:33.989Z",
+      "state": "validating",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:24:43.605Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4966,9 +4967,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:09:48.677Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:24:52.987Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -7527,9 +7528,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:15:23.560Z",
+      "updatedAt": "2026-08-04T17:21:35.457Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7670,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:19:39.280Z",
+      "updatedAt": "2026-08-04T17:24:23.734Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
