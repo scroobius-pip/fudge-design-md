@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:54:52.855Z",
+  "generatedAt": "2026-08-04T19:58:48.377Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 150,
-    "ready": 21,
+    "published_verified": 151,
+    "publishing": 1,
     "failed": 29,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
-    "repairing": 1,
-    "validating": 3,
-    "drafting": 2,
+    "ready": 20,
+    "drafting": 1,
+    "validating": 2,
+    "repairing": 3,
     "legacy": 75
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:54:50.919Z",
+    "heartbeatAt": "2026-08-04T19:58:46.223Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "deepjudge.ai",
-          "startedAt": "2026-08-04T19:45:17.449Z"
+          "domain": "cap.so",
+          "startedAt": "2026-08-04T19:57:39.614Z"
         },
         {
           "domain": "deepmind.google",
           "startedAt": "2026-08-04T19:49:59.189Z"
         },
         {
-          "domain": "deezer.com",
-          "startedAt": "2026-08-04T19:51:26.114Z"
-        },
-        {
           "domain": "demo.refero.design",
           "startedAt": "2026-08-04T19:51:10.793Z"
+        },
+        {
+          "domain": "departuremono.com",
+          "startedAt": "2026-08-04T19:55:16.380Z"
         },
         {
           "domain": "developers.google.com",
@@ -48,31 +48,31 @@
           "startedAt": "2026-08-04T19:53:49.435Z"
         }
       ],
-      "completedThisRun": 29,
-      "failedThisRun": 46
+      "completedThisRun": 30,
+      "failedThisRun": 47
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "almost-pearfect.com",
-        "startedAt": "2026-08-04T19:51:51.782Z"
+        "domain": "adject.ai",
+        "startedAt": "2026-08-04T19:58:46.176Z"
       },
-      "completedThisRun": 12,
-      "failedThisRun": 15
+      "completedThisRun": 13,
+      "failedThisRun": 16
     },
     "queue": {
       "eligibleGeneration": 1000,
       "availableGeneration": 971,
       "readyPublication": 21,
-      "publishedVerified": 150
+      "publishedVerified": 151
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:49:46.460Z"
+      "lastSyncedAt": "2026-08-04T19:54:59.243Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:53:42.538Z",
-      "message": "Generation failed for designwithvibbbes.com with exit 1."
+      "at": "2026-08-04T19:58:02.346Z",
+      "message": "Publication failed for almost-pearfect.com with exit 1."
     }
   },
   "domains": [
@@ -663,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:37:25.934Z",
+      "updatedAt": "2026-08-04T19:58:46.218Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -1170,9 +1170,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:51:56.186Z",
+      "updatedAt": "2026-08-04T19:58:02.237Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1274,15 +1274,15 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:36:46.663Z",
+      "updatedAt": "2026-08-04T19:58:45.675Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
         "url": "https://design.withfudge.com/share/ampcode.com-design",
         "markdownUrl": "https://design.withfudge.com/share/ampcode.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ampcode.com.md"
       }
     },
     {
@@ -4121,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T19:02:29.361Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T19:57:46.624Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -5668,9 +5668,9 @@
     },
     {
       "domain": "deepjudge.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:54:04.722Z",
+      "updatedAt": "2026-08-04T19:57:37.574Z",
       "blocker": null,
       "publication": {
         "key": "deepjudge.ai-design",
@@ -5683,7 +5683,7 @@
       "domain": "deepmind.google",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:54:27.771Z",
+      "updatedAt": "2026-08-04T19:58:18.585Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5720,9 +5720,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:53:57.772Z",
+      "updatedAt": "2026-08-04T19:55:11.453Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -5798,9 +5798,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:53:59.769Z",
+      "updatedAt": "2026-08-04T19:58:41.741Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
@@ -5824,9 +5824,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T19:01:25.025Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:58:16.652Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
@@ -6058,9 +6058,9 @@
     },
     {
       "domain": "developers.google.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:53:48.799Z",
+      "updatedAt": "2026-08-04T19:57:42.321Z",
       "blocker": null,
       "publication": {
         "key": "developers.google.com-design",
@@ -6084,9 +6084,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:53:53.292Z",
+      "updatedAt": "2026-08-04T19:58:21.921Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
