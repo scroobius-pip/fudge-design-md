@@ -1,53 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:07:47.255Z",
+  "generatedAt": "2026-08-04T21:13:21.580Z",
   "counts": {
-    "skipped_one_image": 527,
+    "skipped_one_image": 528,
     "skipped_recent": 9,
     "published_verified": 156,
-    "failed": 585,
+    "failed": 637,
     "needs_reprocessing": 22,
-    "drafting": 4,
     "ready": 14,
-    "publishing": 1,
-    "preparing": 2,
-    "unpublished": 413
+    "syncing": 1,
+    "drafting": 4,
+    "preparing": 1,
+    "unpublished": 361
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T21:07:45.251Z",
+    "heartbeatAt": "2026-08-04T21:12:55.248Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "aol.com",
-          "startedAt": "2026-08-04T21:07:40.063Z"
+          "domain": "kylechayka.com",
+          "startedAt": "2026-08-04T21:10:51.177Z"
         },
         {
-          "domain": "helium.computer",
-          "startedAt": "2026-08-04T21:07:29.857Z"
+          "domain": "labs.google",
+          "startedAt": "2026-08-04T21:10:51.300Z"
         },
         {
-          "domain": "heroui.pro",
-          "startedAt": "2026-08-04T21:07:34.959Z"
+          "domain": "land-book.com",
+          "startedAt": "2026-08-04T21:11:44.347Z"
         },
         {
-          "domain": "hinge.co",
-          "startedAt": "2026-08-04T21:07:34.959Z"
+          "domain": "laylo.com",
+          "startedAt": "2026-08-04T21:11:44.405Z"
         },
         {
-          "domain": "hugeicons.com",
-          "startedAt": "2026-08-04T21:07:45.172Z"
+          "domain": "lcd.ertdfgcvb.xyz",
+          "startedAt": "2026-08-04T21:12:14.691Z"
         },
         {
-          "domain": "hypen.space",
-          "startedAt": "2026-08-04T21:07:45.178Z"
+          "domain": "lead.bank",
+          "startedAt": "2026-08-04T21:12:42.026Z"
         }
       ],
       "completedThisRun": 38,
-      "failedThisRun": 636
+      "failedThisRun": 689
     },
     "publication": {
       "concurrency": 1,
@@ -59,18 +59,18 @@
       "failedThisRun": 25
     },
     "queue": {
-      "eligibleGeneration": 1000,
-      "availableGeneration": 413,
-      "readyPublication": 15,
+      "eligibleGeneration": 997,
+      "availableGeneration": 361,
+      "readyPublication": 14,
       "publishedVerified": 156
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T21:06:45.111Z"
+      "lastSyncedAt": "2026-08-04T21:07:52.913Z"
     },
     "lastError": {
-      "at": "2026-08-04T21:07:41.695Z",
-      "message": "Generation failed for hermesatlas.com with exit 1."
+      "at": "2026-08-04T21:12:40.776Z",
+      "message": "Generation failed for ladybird.org with exit 1."
     }
   },
   "domains": [
@@ -1441,9 +1441,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T21:07:43.620Z",
+      "updatedAt": "2026-08-04T21:07:49.894Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -3288,8 +3288,8 @@
     {
       "domain": "blog.google",
       "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-04T20:21:19.646Z",
+      "attempt": 7,
+      "updatedAt": "2026-08-04T21:10:20.189Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3495,9 +3495,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T21:07:45.239Z",
+      "updatedAt": "2026-08-04T21:07:49.782Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -9384,9 +9384,9 @@
     },
     {
       "domain": "helium.computer",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:07:40.988Z",
+      "updatedAt": "2026-08-04T21:07:49.454Z",
       "blocker": null,
       "publication": {
         "key": "helium.computer-design",
@@ -9553,9 +9553,9 @@
     },
     {
       "domain": "heroui.pro",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:07:40.048Z",
+      "updatedAt": "2026-08-04T21:07:49.100Z",
       "blocker": null,
       "publication": {
         "key": "heroui.pro-design",
@@ -9618,9 +9618,9 @@
     },
     {
       "domain": "hinge.co",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:07:39.194Z",
+      "updatedAt": "2026-08-04T21:07:48.030Z",
       "blocker": null,
       "publication": {
         "key": "hinge.co-design",
@@ -9735,9 +9735,9 @@
     },
     {
       "domain": "hugeicons.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:07:45.420Z",
+      "updatedAt": "2026-08-04T21:08:00.142Z",
       "blocker": null,
       "publication": {
         "key": "hugeicons.com-design",
@@ -9865,9 +9865,9 @@
     },
     {
       "domain": "hypen.space",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:07:45.412Z",
+      "updatedAt": "2026-08-04T21:08:14.105Z",
       "blocker": null,
       "publication": {
         "key": "hypen.space-design",
@@ -9878,9 +9878,9 @@
     },
     {
       "domain": "hyperagent.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:03.033Z",
       "blocker": null,
       "publication": {
         "key": "hyperagent.com-design",
@@ -9930,9 +9930,9 @@
     },
     {
       "domain": "ibm.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:14.726Z",
       "blocker": null,
       "publication": {
         "key": "ibm.com-design",
@@ -9943,9 +9943,9 @@
     },
     {
       "domain": "ic-toolkit.app",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:02.920Z",
       "blocker": null,
       "publication": {
         "key": "ic-toolkit.app-design",
@@ -9956,9 +9956,9 @@
     },
     {
       "domain": "icelandmonitor.mbl.is",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:05.341Z",
       "blocker": null,
       "publication": {
         "key": "icelandmonitor.mbl.is-design",
@@ -9969,9 +9969,9 @@
     },
     {
       "domain": "icelandreview.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:15.282Z",
       "blocker": null,
       "publication": {
         "key": "icelandreview.com-design",
@@ -9982,9 +9982,9 @@
     },
     {
       "domain": "icloud.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:26.825Z",
       "blocker": null,
       "publication": {
         "key": "icloud.com-design",
@@ -10008,9 +10008,9 @@
     },
     {
       "domain": "icpay.org",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:28.501Z",
       "blocker": null,
       "publication": {
         "key": "icpay.org-design",
@@ -10099,9 +10099,9 @@
     },
     {
       "domain": "igerman.cc",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:26.004Z",
       "blocker": null,
       "publication": {
         "key": "igerman.cc-design",
@@ -10112,9 +10112,9 @@
     },
     {
       "domain": "ignytlabs.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:37.811Z",
       "blocker": null,
       "publication": {
         "key": "ignytlabs.com-design",
@@ -10320,9 +10320,9 @@
     },
     {
       "domain": "insforge.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:26.253Z",
       "blocker": null,
       "publication": {
         "key": "insforge.dev-design",
@@ -10333,10 +10333,10 @@
     },
     {
       "domain": "instagram.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
-      "blocker": null,
+      "state": "skipped_one_image",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:19.929Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "instagram.com-design",
         "url": null,
@@ -10346,9 +10346,9 @@
     },
     {
       "domain": "instantdb.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:41.882Z",
       "blocker": null,
       "publication": {
         "key": "instantdb.com-design",
@@ -10372,9 +10372,9 @@
     },
     {
       "domain": "intercom.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:51.913Z",
       "blocker": null,
       "publication": {
         "key": "intercom.com-design",
@@ -10385,9 +10385,9 @@
     },
     {
       "domain": "interfacecraft.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:41.855Z",
       "blocker": null,
       "publication": {
         "key": "interfacecraft.dev-design",
@@ -10411,9 +10411,9 @@
     },
     {
       "domain": "internetcomputer.org",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:06.707Z",
       "blocker": null,
       "publication": {
         "key": "internetcomputer.org-design",
@@ -10424,9 +10424,9 @@
     },
     {
       "domain": "intl.nothing.tech",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:53.122Z",
       "blocker": null,
       "publication": {
         "key": "intl.nothing.tech-design",
@@ -10437,9 +10437,9 @@
     },
     {
       "domain": "invideo.io",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:07.140Z",
       "blocker": null,
       "publication": {
         "key": "invideo.io-design",
@@ -10541,9 +10541,9 @@
     },
     {
       "domain": "jace.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:05.130Z",
       "blocker": null,
       "publication": {
         "key": "jace.ai-design",
@@ -10554,9 +10554,9 @@
     },
     {
       "domain": "jakub.kr",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:08:59.022Z",
       "blocker": null,
       "publication": {
         "key": "jakub.kr-design",
@@ -10580,9 +10580,9 @@
     },
     {
       "domain": "jam.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:09.512Z",
       "blocker": null,
       "publication": {
         "key": "jam.dev-design",
@@ -10593,9 +10593,9 @@
     },
     {
       "domain": "jamesadam.me",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:06.396Z",
       "blocker": null,
       "publication": {
         "key": "jamesadam.me-design",
@@ -10606,9 +10606,9 @@
     },
     {
       "domain": "jamm.co",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:15.698Z",
       "blocker": null,
       "publication": {
         "key": "jamm.co-design",
@@ -10619,9 +10619,9 @@
     },
     {
       "domain": "jan.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:23.866Z",
       "blocker": null,
       "publication": {
         "key": "jan.ai-design",
@@ -10645,9 +10645,9 @@
     },
     {
       "domain": "jasonwei.net",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:22.064Z",
       "blocker": null,
       "publication": {
         "key": "jasonwei.net-design",
@@ -10658,9 +10658,9 @@
     },
     {
       "domain": "jenwagner.co",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:22.628Z",
       "blocker": null,
       "publication": {
         "key": "jenwagner.co-design",
@@ -10697,9 +10697,9 @@
     },
     {
       "domain": "jobyaviation.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:28.813Z",
       "blocker": null,
       "publication": {
         "key": "jobyaviation.com-design",
@@ -10775,9 +10775,9 @@
     },
     {
       "domain": "joshpuckett.me",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:22.658Z",
       "blocker": null,
       "publication": {
         "key": "joshpuckett.me-design",
@@ -10827,9 +10827,9 @@
     },
     {
       "domain": "jsfiddle.net",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:09:29.615Z",
       "blocker": null,
       "publication": {
         "key": "jsfiddle.net-design",
@@ -10892,9 +10892,9 @@
     },
     {
       "domain": "juno.build",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:04.638Z",
       "blocker": null,
       "publication": {
         "key": "juno.build-design",
@@ -10944,9 +10944,9 @@
     },
     {
       "domain": "kagi.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:05.761Z",
       "blocker": null,
       "publication": {
         "key": "kagi.com-design",
@@ -10996,9 +10996,9 @@
     },
     {
       "domain": "kapa.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:03.985Z",
       "blocker": null,
       "publication": {
         "key": "kapa.ai-design",
@@ -11009,9 +11009,9 @@
     },
     {
       "domain": "kapwing.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:08.859Z",
       "blocker": null,
       "publication": {
         "key": "kapwing.com-design",
@@ -11061,9 +11061,9 @@
     },
     {
       "domain": "keyavadgama.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:05.955Z",
       "blocker": null,
       "publication": {
         "key": "keyavadgama.com-design",
@@ -11074,9 +11074,9 @@
     },
     {
       "domain": "kigen.design",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:10.510Z",
       "blocker": null,
       "publication": {
         "key": "kigen.design-design",
@@ -11100,9 +11100,9 @@
     },
     {
       "domain": "kilo.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:20.271Z",
       "blocker": null,
       "publication": {
         "key": "kilo.ai-design",
@@ -11126,9 +11126,9 @@
     },
     {
       "domain": "kimi.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:26.853Z",
       "blocker": null,
       "publication": {
         "key": "kimi.com-design",
@@ -11139,9 +11139,9 @@
     },
     {
       "domain": "kiro.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:20.944Z",
       "blocker": null,
       "publication": {
         "key": "kiro.dev-design",
@@ -11152,9 +11152,9 @@
     },
     {
       "domain": "kit.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:24.368Z",
       "blocker": null,
       "publication": {
         "key": "kit.com-design",
@@ -11191,9 +11191,9 @@
     },
     {
       "domain": "kiwijo.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:25.050Z",
       "blocker": null,
       "publication": {
         "key": "kiwijo.com-design",
@@ -11204,9 +11204,9 @@
     },
     {
       "domain": "klarlabs.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:46.807Z",
       "blocker": null,
       "publication": {
         "key": "klarlabs.ai-design",
@@ -11230,9 +11230,9 @@
     },
     {
       "domain": "knob.design",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:48.482Z",
       "blocker": null,
       "publication": {
         "key": "knob.design-design",
@@ -11243,9 +11243,9 @@
     },
     {
       "domain": "kobbe.io",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:10:46.824Z",
       "blocker": null,
       "publication": {
         "key": "kobbe.io-design",
@@ -11256,9 +11256,9 @@
     },
     {
       "domain": "kode.diy",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:11:35.837Z",
       "blocker": null,
       "publication": {
         "key": "kode.diy-design",
@@ -11295,9 +11295,9 @@
     },
     {
       "domain": "kraa.io",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:07.723Z",
       "blocker": null,
       "publication": {
         "key": "kraa.io-design",
@@ -11308,9 +11308,9 @@
     },
     {
       "domain": "krea.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:11:35.790Z",
       "blocker": null,
       "publication": {
         "key": "krea.ai-design",
@@ -11347,9 +11347,9 @@
     },
     {
       "domain": "kylechayka.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:56.649Z",
       "blocker": null,
       "publication": {
         "key": "kylechayka.com-design",
@@ -11399,9 +11399,9 @@
     },
     {
       "domain": "labs.google",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:11:20.746Z",
       "blocker": null,
       "publication": {
         "key": "labs.google-design",
@@ -11412,9 +11412,9 @@
     },
     {
       "domain": "ladybird.org",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:35.649Z",
       "blocker": null,
       "publication": {
         "key": "ladybird.org-design",
@@ -11425,9 +11425,9 @@
     },
     {
       "domain": "land-book.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:16.208Z",
       "blocker": null,
       "publication": {
         "key": "land-book.com-design",
@@ -11490,9 +11490,9 @@
     },
     {
       "domain": "laylo.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:18.498Z",
       "blocker": null,
       "publication": {
         "key": "laylo.com-design",
@@ -11516,9 +11516,9 @@
     },
     {
       "domain": "lcd.ertdfgcvb.xyz",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "drafting",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:33.135Z",
       "blocker": null,
       "publication": {
         "key": "lcd.ertdfgcvb.xyz-design",
@@ -11529,9 +11529,9 @@
     },
     {
       "domain": "lead.bank",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "preparing",
+      "attempt": 1,
+      "updatedAt": "2026-08-04T21:12:46.510Z",
       "blocker": null,
       "publication": {
         "key": "lead.bank-design",
