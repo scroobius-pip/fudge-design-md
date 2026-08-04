@@ -407,6 +407,14 @@ Akuko Labs uses a poster-first visual language built from keyboard photography, 
 
 [Open guide](design-md/akukolabs.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/akukolabs.com-design)
 
+### aldiwan.net
+
+[![How aldiwan.net is designed](https://pin.fontofweb.com/1091?format=jpg)](design-md/aldiwan.net.md)
+
+Aldiwan is a scholarly Arabic index with a calm, formal visual voice. The page puts calligraphic typography first, then frames that typography with warm brown bands, white paper cards, and thin tan borders. The result feels closer to a reference shelf than a modern app dashboard: the interface is compact, orderly, and centered on search, classification, and navigation.
+
+[Open guide](design-md/aldiwan.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/aldiwan.net-design)
+
 ### algebrica.org
 
 [![How algebrica.org is designed](https://pin.fontofweb.com/8751?format=jpg)](design-md/algebrica.org.md)
