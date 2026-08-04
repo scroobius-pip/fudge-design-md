@@ -1,55 +1,54 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:33:26.848Z",
+  "generatedAt": "2026-08-04T17:38:38.485Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 135,
-    "failed": 27,
-    "drafting": 1,
-    "ready": 18,
-    "validating": 3,
+    "failed": 24,
+    "ready": 21,
     "needs_reprocessing": 21,
+    "drafting": 5,
     "unpublished": 896,
-    "repairing": 2,
+    "validating": 1,
     "legacy": 95,
-    "publishing": 1
+    "syncing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:33:24.550Z",
+    "heartbeatAt": "2026-08-04T17:38:36.747Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "ads.pinterest.com",
-          "startedAt": "2026-08-04T17:32:38.442Z"
+          "domain": "aino.agency",
+          "startedAt": "2026-08-04T17:38:00.790Z"
         },
         {
-          "domain": "ai.cloudflare.com",
-          "startedAt": "2026-08-04T17:31:01.181Z"
+          "domain": "chatgpt.com",
+          "startedAt": "2026-08-04T17:36:49.064Z"
         },
         {
-          "domain": "cap.so",
-          "startedAt": "2026-08-04T17:21:48.669Z"
-        },
-        {
-          "domain": "celesteduffy.com",
-          "startedAt": "2026-08-04T17:27:31.239Z"
-        },
-        {
-          "domain": "codepen.io",
-          "startedAt": "2026-08-04T17:21:02.505Z"
+          "domain": "cofounder.co",
+          "startedAt": "2026-08-04T17:37:35.273Z"
         },
         {
           "domain": "cosmos.so",
           "startedAt": "2026-08-04T17:29:34.020Z"
+        },
+        {
+          "domain": "danielsun.space",
+          "startedAt": "2026-08-04T17:34:51.318Z"
+        },
+        {
+          "domain": "dash.cloudflare.com",
+          "startedAt": "2026-08-04T17:37:09.677Z"
         }
       ],
-      "completedThisRun": 66,
-      "failedThisRun": 46
+      "completedThisRun": 69,
+      "failedThisRun": 49
     },
     "publication": {
       "concurrency": 1,
@@ -61,18 +60,18 @@
       "failedThisRun": 16
     },
     "queue": {
-      "eligibleGeneration": 1018,
-      "availableGeneration": 997,
-      "readyPublication": 19,
+      "eligibleGeneration": 1015,
+      "availableGeneration": 992,
+      "readyPublication": 21,
       "publishedVerified": 135
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:31:49.165Z"
+      "lastSyncedAt": "2026-08-04T17:33:33.087Z"
     },
     "lastError": {
-      "at": "2026-08-04T17:32:41.934Z",
-      "message": "Publication failed for dany.works with exit 1."
+      "at": "2026-08-04T17:37:58.554Z",
+      "message": "Generation failed for firecrawl.dev with exit 1."
     }
   },
   "domains": [
@@ -676,9 +675,9 @@
     },
     {
       "domain": "ads.pinterest.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:32:41.084Z",
+      "updatedAt": "2026-08-04T17:36:48.004Z",
       "blocker": null,
       "publication": {
         "key": "ads.pinterest.com-design",
@@ -897,9 +896,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T17:33:15.131Z",
+      "updatedAt": "2026-08-04T17:37:34.763Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -936,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T16:49:10.893Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:38:10.329Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -4121,9 +4120,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:30:55.242Z",
+      "updatedAt": "2026-08-04T17:37:07.888Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4264,9 +4263,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:33:05.978Z",
+      "updatedAt": "2026-08-04T17:34:50.036Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4342,9 +4341,9 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:31:39.711Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:36:57.413Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
@@ -4706,9 +4705,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:31:19.349Z",
+      "updatedAt": "2026-08-04T17:33:28.021Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4745,9 +4744,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:42:49.786Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:37:40.925Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5007,7 +5006,7 @@
       "domain": "cosmos.so",
       "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:32:54.085Z",
+      "updatedAt": "2026-08-04T17:38:24.211Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5408,9 +5407,9 @@
     },
     {
       "domain": "danielsun.space",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:29:52.231Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:34:56.191Z",
       "blocker": null,
       "publication": {
         "key": "danielsun.space-design",
@@ -5434,9 +5433,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:34:41.119Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:37:14.304Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -7580,8 +7579,8 @@
     {
       "domain": "firecrawl.dev",
       "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:24:42.919Z",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:37:58.483Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -8736,14 +8735,14 @@
     },
     {
       "domain": "git.law",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T17:33:24.546Z",
+      "updatedAt": "2026-08-04T17:33:29.471Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/git.law-design",
+        "markdownUrl": "https://design.withfudge.com/share/git.law-design.md",
         "githubUrl": null
       }
     },
