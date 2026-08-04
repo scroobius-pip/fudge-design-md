@@ -811,7 +811,7 @@ bbc.com presents a predominantly dark surface treatment in the captured pages. T
 
 [![How behance.net is designed](https://pin.fontofweb.com/7320?format=jpg)](design-md/behance.net.md)
 
-behance.net presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#191919`, and `#ffffff`, with typography led by **Acumin Vf**, **Acuminpro**, and **Acuminprowide**. The guide below names reusable design roles only where the captured evidence supports them.
+Behance uses two strong modes that share one grammar. The Explore shell is restrained: white canvas, thin gray dividers, compact text, and one saturated blue for the primary action. That lets project covers carry most of the color and motion. The Pro marketing pages flip the balance. They center oversized black or white headlines, use broad fields of color or black, and place the product message above cards, testimonials, and pricing blocks that feel more like exhibition panels than ordinary UI.
 
 [Open guide](design-md/behance.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/behance.net-design)
 
