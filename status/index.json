@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:52:17.278Z",
+  "generatedAt": "2026-08-04T16:57:31.264Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 130,
-    "publishing": 1,
+    "syncing": 1,
     "failed": 34,
     "ready": 16,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 4,
-    "validating": 1,
-    "legacy": 95,
-    "drafting": 1
+    "validating": 3,
+    "repairing": 2,
+    "drafting": 1,
+    "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:52:10.489Z",
+    "heartbeatAt": "2026-08-04T16:57:29.487Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -32,24 +32,24 @@
           "startedAt": "2026-08-04T16:44:53.989Z"
         },
         {
-          "domain": "app.superlist.com",
-          "startedAt": "2026-08-04T16:34:42.156Z"
-        },
-        {
-          "domain": "arcee.ai",
-          "startedAt": "2026-08-04T16:48:06.936Z"
+          "domain": "baked.design",
+          "startedAt": "2026-08-04T16:52:47.476Z"
         },
         {
           "domain": "baremettle.com",
           "startedAt": "2026-08-04T16:48:40.736Z"
         },
         {
-          "domain": "dfy.co.kr",
-          "startedAt": "2026-08-04T16:49:13.036Z"
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-04T16:53:33.634Z"
+        },
+        {
+          "domain": "besimple.ai",
+          "startedAt": "2026-08-04T16:57:14.111Z"
         }
       ],
       "completedThisRun": 54,
-      "failedThisRun": 31
+      "failedThisRun": 34
     },
     "publication": {
       "concurrency": 1,
@@ -62,17 +62,17 @@
     },
     "queue": {
       "eligibleGeneration": 1025,
-      "availableGeneration": 1011,
-      "readyPublication": 17,
+      "availableGeneration": 1010,
+      "readyPublication": 16,
       "publishedVerified": 130
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:49:04.829Z"
+      "lastSyncedAt": "2026-08-04T16:52:27.849Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:49:47.462Z",
-      "message": "Publication failed for cosmic-ray.tv with exit 1."
+      "at": "2026-08-04T16:57:12.411Z",
+      "message": "Generation failed for arcee.ai with exit 1."
     }
   },
   "domains": [
@@ -663,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:52:10.514Z",
+      "updatedAt": "2026-08-04T16:52:18.691Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -1495,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:49:51.900Z",
+      "updatedAt": "2026-08-04T16:56:11.152Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1989,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:50:42.554Z",
+      "updatedAt": "2026-08-04T16:57:05.451Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2093,9 +2093,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:51:33.548Z",
+      "updatedAt": "2026-08-04T16:52:42.294Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2210,9 +2210,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:52:05.102Z",
+      "updatedAt": "2026-08-04T16:57:12.344Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2795,9 +2795,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:52:35.808Z",
+      "state": "validating",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:57:21.173Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2862,7 +2862,7 @@
       "domain": "baremettle.com",
       "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:52:09.181Z",
+      "updatedAt": "2026-08-04T16:56:35.306Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2873,9 +2873,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:55:44.471Z",
+      "state": "repairing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:57:03.606Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3042,9 +3042,9 @@
     },
     {
       "domain": "besimple.ai",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:59:53.916Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:57:19.863Z",
       "blocker": null,
       "publication": {
         "key": "besimple.ai-design",
@@ -6097,9 +6097,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:49:38.275Z",
+      "updatedAt": "2026-08-04T16:53:30.957Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
