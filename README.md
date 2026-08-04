@@ -1561,9 +1561,9 @@ designwithvibbbes.com presents a predominantly dark surface treatment in the cap
 
 ### developer.chrome.com
 
-[![How developer.chrome.com is designed](https://pin.fontofweb.com/6427?format=jpg)](design-md/developer.chrome.com.md)
+[![How developer.chrome.com is designed](https://pin.fontofweb.com/6426?format=jpg)](design-md/developer.chrome.com.md)
 
-developer.chrome.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f8f9fa`, `#000000`, and `#202124`, with typography led by **Google Sans 18 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
+developer.chrome.com is a dark developer hub that treats Chrome as both a product platform and a publishing system. The page language stays consistent across the homepage, docs index, and 404 recovery page: charcoal background, bright blue interactions, light text, and large rounded surfaces that keep content readable at a glance. The brand feels engineered rather than decorative. Most of the visual energy comes from the contrast between the dark shell and the blue illustration blocks, not from ornament.
 
 [Open guide](design-md/developer.chrome.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/developer.chrome.com-design)
 
