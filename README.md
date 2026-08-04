@@ -1147,7 +1147,7 @@ Claura feels like a calm studio landing page built around one warm visual temper
 
 [![How clubhouse.com is designed](https://pin.fontofweb.com/7585?format=jpg)](design-md/clubhouse.com.md)
 
-clubhouse.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#242420`, and `#ffe450`, with typography led by **Nunito** and **Gt Maru**. The guide below names reusable design roles only where the captured evidence supports them.
+Clubhouse is a poster first and a product page second. The bright version works as a saturated yellow stage with one dominant sentence, two compact actions, and scattered circular portraits that make the page feel social before it feels informational. The calmer version changes the structure instead of merely muting the color: it becomes a centered wordmark, a small downward arrow, and a bottom cue that asks the visitor to continue. Those two views share the same brand voice, but they do not share the same hierarchy.
 
 [Open guide](design-md/clubhouse.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/clubhouse.com-design)
 
