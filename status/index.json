@@ -1,33 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:54:00.841Z",
+  "generatedAt": "2026-08-04T14:57:04.703Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 111,
-    "failed": 70,
+    "published_verified": 112,
+    "failed": 69,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 2,
-    "drafting": 4,
+    "validating": 2,
+    "repairing": 1,
+    "ready": 1,
+    "drafting": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:53:57.688Z",
+    "heartbeatAt": "2026-08-04T14:57:02.298Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "base-ui.com",
-          "startedAt": "2026-08-04T14:42:15.384Z"
-        },
-        {
-          "domain": "baselight.ai",
-          "startedAt": "2026-08-04T14:48:29.519Z"
-        },
         {
           "domain": "baseten.co",
           "startedAt": "2026-08-04T14:51:54.418Z"
@@ -43,30 +37,38 @@
         {
           "domain": "bengalturf.yolasite.com",
           "startedAt": "2026-08-04T14:53:16.663Z"
+        },
+        {
+          "domain": "besimple.ai",
+          "startedAt": "2026-08-04T14:55:45.370Z"
+        },
+        {
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-04T14:56:26.479Z"
         }
       ],
-      "completedThisRun": 7,
-      "failedThisRun": 9
+      "completedThisRun": 8,
+      "failedThisRun": 10
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 7,
+      "completedThisRun": 8,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1061,
-      "availableGeneration": 1053,
+      "eligibleGeneration": 1060,
+      "availableGeneration": 1051,
       "readyPublication": 0,
-      "publishedVerified": 111
+      "publishedVerified": 112
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:49:22.369Z"
+      "lastSyncedAt": "2026-08-04T14:54:05.533Z"
     },
     "lastError": {
-      "at": "2026-08-04T14:52:35.882Z",
-      "message": "Generation failed for baked.design with exit 1."
+      "at": "2026-08-04T14:55:44.564Z",
+      "message": "Generation failed for base-ui.com with exit 1."
     }
   },
   "domains": [
@@ -2867,9 +2869,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:52:40.388Z",
+      "updatedAt": "2026-08-04T14:55:44.471Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -2893,15 +2895,15 @@
     },
     {
       "domain": "baselight.ai",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:53:28.926Z",
+      "updatedAt": "2026-08-04T14:56:57.380Z",
       "blocker": null,
       "publication": {
         "key": "baselight.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/baselight.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/baselight.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/baselight.ai.md"
       }
     },
     {
@@ -2945,9 +2947,9 @@
     },
     {
       "domain": "baseten.co",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:52:02.061Z",
+      "updatedAt": "2026-08-04T14:56:28.800Z",
       "blocker": null,
       "publication": {
         "key": "baseten.co-design",
@@ -2958,9 +2960,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:52:03.596Z",
+      "updatedAt": "2026-08-04T14:56:32.484Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -2984,9 +2986,9 @@
     },
     {
       "domain": "behance.net",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:52:53.255Z",
+      "updatedAt": "2026-08-04T14:55:44.469Z",
       "blocker": null,
       "publication": {
         "key": "behance.net-design",
@@ -3023,9 +3025,9 @@
     },
     {
       "domain": "bengalturf.yolasite.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:53:20.642Z",
+      "updatedAt": "2026-08-04T14:57:03.088Z",
       "blocker": null,
       "publication": {
         "key": "bengalturf.yolasite.com-design",
@@ -3036,9 +3038,9 @@
     },
     {
       "domain": "besimple.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:28:08.161Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:55:51.099Z",
       "blocker": null,
       "publication": {
         "key": "besimple.ai-design",
@@ -3088,9 +3090,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:28:20.823Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:56:32.306Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
