@@ -819,7 +819,7 @@ behance.net presents a predominantly dark surface treatment in the captured page
 
 [![How bengalturf.yolasite.com is designed](https://pin.fontofweb.com/9475?format=jpg)](design-md/bengalturf.yolasite.com.md)
 
-bengalturf.yolasite.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#afce7c`, `#496c10`, and `#3e5c0e`, with typography led by **Arial** and **Georgia**. The guide below names reusable design roles only where the captured evidence supports them.
+Bengal Turf uses an old brochure-page formula and commits to it fully. The entire page sits on one deep olive canvas, so the content reads as a centered panel of local-service information rather than a modern marketing site. A pale green title plaque floats near the top, a black navigation rail runs above it, and a strong phone line acts as the first real call to action. The rest of the page stays quiet: one photograph, two-column text blocks, and a simple services list. The design works because every part knows its job. The banner identifies the business, the phone line pushes action, the photo lends trust, and the text columns explain what the company does.
 
 [Open guide](design-md/bengalturf.yolasite.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/bengalturf.yolasite.com-design)
 
