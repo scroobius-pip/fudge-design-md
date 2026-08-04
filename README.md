@@ -135,6 +135,14 @@ about.instagram.com presents Instagram Sans as a brand object, not just a typefa
 
 [Open guide](design-md/about.instagram.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/about.instagram.com-design)
 
+### absolu.ca
+
+[![How absolu.ca is designed](https://pin.fontofweb.com/5904?format=jpg)](design-md/absolu.ca.md)
+
+Absolu reads like a creative agency poster series translated into a web page. The design language is built from oversized serif headlines, compact grotesk support text, and a sharp split between bright campaign surfaces and restrained editorial pages. Large words carry the identity. Small labels, project names, and utility copy keep the structure legible. The site feels theatrical without becoming ornate because the system depends on a narrow set of repeated moves: huge type, thin rules, broad color fields, and very deliberate spacing.
+
+[Open guide](design-md/absolu.ca.md) · [View the Fudge conversation](https://design.withfudge.com/share/absolu.ca-design)
+
 ### account.nothing.tech
 
 [![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
