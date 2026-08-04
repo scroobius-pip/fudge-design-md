@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T21:54:00.451Z",
-  "heartbeatAt": "2026-08-04T21:54:00.742Z",
+  "heartbeatAt": "2026-08-04T21:59:10.587Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "dfinity.org",
-        "startedAt": "2026-08-04T21:54:00.672Z"
+        "domain": "speak.com",
+        "startedAt": "2026-08-04T21:59:00.189Z"
       },
       {
-        "domain": "modash.io",
-        "startedAt": "2026-08-04T21:54:00.674Z"
+        "domain": "spotify.com",
+        "startedAt": "2026-08-04T21:59:10.544Z"
       },
       {
-        "domain": "mongodb.com",
-        "startedAt": "2026-08-04T21:54:00.673Z"
+        "domain": "stardrift.ai",
+        "startedAt": "2026-08-04T21:59:05.355Z"
       },
       {
-        "domain": "monocle.heyiam.dk",
-        "startedAt": "2026-08-04T21:54:00.674Z"
+        "domain": "steven-hanley.com",
+        "startedAt": "2026-08-04T21:59:05.359Z"
       },
       {
-        "domain": "more.thmanyah.com",
-        "startedAt": "2026-08-04T21:54:00.675Z"
+        "domain": "store.steampowered.com",
+        "startedAt": "2026-08-04T21:59:10.541Z"
       },
       {
-        "domain": "mosaic.so",
-        "startedAt": "2026-08-04T21:54:00.676Z"
+        "domain": "streamscharts.com",
+        "startedAt": "2026-08-04T21:59:10.545Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 115
   },
   "publication": {
     "concurrency": 1,
@@ -44,14 +44,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
-    "readyPublication": 7,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 885,
+    "readyPublication": 6,
     "publishedVerified": 159
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T21:54:07.184Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T21:59:10.477Z",
+    "message": "Generation failed for snuggledesk.app with exit 1."
+  }
 }
