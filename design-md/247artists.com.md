@@ -40,6 +40,20 @@ The result is energetic rather than decorative. Structure comes from borders, in
 
 ## Colors
 
+| token | value | role |
+|---|---|---|
+| `action` | `#F55BEE` | Action |
+| `ink` | `#000000` | Ink |
+| `muted-ink` | `#5C4B4D` | Muted ink |
+| `canvas` | `#FEFDFD` | Canvas |
+| `surface-paper` | `#FEFDFD` | Surface paper |
+| `surface-warm` | `#FCAD9A` | Surface warm |
+| `surface-lavender` | `#AB7AF9` | Surface lavender |
+| `surface-red` | `#FF4437` | Surface red |
+| `surface-deep` | `#231F26` | Surface deep |
+| `surface-grid` | `#272127` | Surface grid |
+| `border` | `#272127` | Border |
+
 24/7 Artists depends on strong, flat color fields rather than subtle tonal shifts. Near-black ink handles the question text, body text, and logo marks on pale surfaces. White or near-white surfaces hold the pricing cards, utility strip, and cookie copy. Warm peach is the most visible light-stage background, lavender supports the membership and notice panels, red powers the short slogan stages, and deep charcoal anchors the darker hero and collage compositions. Magenta is the persistent action color and also appears in edge accents and button fills.
 
 | token | role |
