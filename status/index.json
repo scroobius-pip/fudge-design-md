@@ -1,34 +1,39 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:26:32.236Z",
+  "generatedAt": "2026-08-04T17:31:43.949Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 134,
-    "failed": 27,
-    "ready": 19,
+    "failed": 26,
+    "ready": 20,
+    "drafting": 2,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 5,
-    "drafting": 1,
-    "publishing": 1,
+    "repairing": 3,
+    "validating": 1,
+    "syncing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:26:29.897Z",
+    "heartbeatAt": "2026-08-04T17:31:42.182Z",
     "generation": {
       "concurrency": 6,
       "active": [
+        {
+          "domain": "ai.cloudflare.com",
+          "startedAt": "2026-08-04T17:31:01.181Z"
+        },
         {
           "domain": "cap.so",
           "startedAt": "2026-08-04T17:21:48.669Z"
         },
         {
-          "domain": "cavalry.studio",
-          "startedAt": "2026-08-04T17:18:13.407Z"
+          "domain": "celesteduffy.com",
+          "startedAt": "2026-08-04T17:27:31.239Z"
         },
         {
           "domain": "codepen.io",
@@ -39,16 +44,12 @@
           "startedAt": "2026-08-04T17:24:52.851Z"
         },
         {
-          "domain": "fin.ai",
-          "startedAt": "2026-08-04T17:15:19.225Z"
-        },
-        {
-          "domain": "firstpromoter.com",
-          "startedAt": "2026-08-04T17:16:36.115Z"
+          "domain": "cosmos.so",
+          "startedAt": "2026-08-04T17:29:34.020Z"
         }
       ],
-      "completedThisRun": 65,
-      "failedThisRun": 43
+      "completedThisRun": 66,
+      "failedThisRun": 45
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +61,18 @@
       "failedThisRun": 15
     },
     "queue": {
-      "eligibleGeneration": 1018,
-      "availableGeneration": 999,
+      "eligibleGeneration": 1017,
+      "availableGeneration": 997,
       "readyPublication": 20,
       "publishedVerified": 134
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:24:59.504Z"
+      "lastSyncedAt": "2026-08-04T17:26:37.487Z"
     },
     "lastError": {
-      "at": "2026-08-04T17:25:48.262Z",
-      "message": "Publication failed for alibabacloud.com with exit 1."
+      "at": "2026-08-04T17:31:00.629Z",
+      "message": "Generation failed for fin.ai with exit 1."
     }
   },
   "domains": [
@@ -896,9 +897,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T16:19:01.730Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T17:31:05.416Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -4120,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:25:12.189Z",
+      "updatedAt": "2026-08-04T17:30:55.242Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4250,9 +4251,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:24:49.981Z",
+      "updatedAt": "2026-08-04T17:29:31.461Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -4263,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:13:25.152Z",
+      "state": "repairing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:31:04.620Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4705,9 +4706,9 @@
     },
     {
       "domain": "codepen.io",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:24:43.605Z",
+      "updatedAt": "2026-08-04T17:31:19.349Z",
       "blocker": null,
       "publication": {
         "key": "codepen.io-design",
@@ -4965,9 +4966,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:25:02.849Z",
+      "updatedAt": "2026-08-04T17:31:25.952Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -5004,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T16:14:47.431Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:29:40.771Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5420,14 +5421,14 @@
     },
     {
       "domain": "dany.works",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T17:26:29.889Z",
+      "updatedAt": "2026-08-04T17:26:33.473Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/dany.works-design",
+        "markdownUrl": "https://design.withfudge.com/share/dany.works-design.md",
         "githubUrl": null
       }
     },
@@ -7526,9 +7527,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:25:01.845Z",
+      "updatedAt": "2026-08-04T17:31:00.567Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7669,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:26:11.279Z",
+      "updatedAt": "2026-08-04T17:27:28.116Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
