@@ -1003,7 +1003,7 @@ c82.net presents the Naturalist’s Library as a disciplined reading environment
 
 [![How caffeine.ai is designed](https://pin.fontofweb.com/8830?format=jpg)](design-md/caffeine.ai.md)
 
-caffeine.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fbfbfb`, and `#f6f6f6`, with typography led by **Sohne**. The guide below names reusable design roles only where the captured evidence supports them.
+Caffeine uses a severe dark base, very light text, and a small set of high-saturation accents to separate a public information page from a denser app settings view. The system feels compact and technical, but the typography keeps it calm: large headlines are thin and airy, while controls stay small and boxed. The result is not decorative darkness; it is a controlled interface language where each surface carries a single task and almost no extra chrome.
 
 [Open guide](design-md/caffeine.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/caffeine.ai-design)
 
