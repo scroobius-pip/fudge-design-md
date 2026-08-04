@@ -1089,9 +1089,9 @@ Cavalry’s pages are built like motion-design posters translated into web layou
 
 ### cavalry.studio
 
-[![How cavalry.studio is designed](https://pin.fontofweb.com/8899?format=jpg)](design-md/cavalry.studio.md)
+[![How cavalry.studio is designed](https://pin.fontofweb.com/8893?format=jpg)](design-md/cavalry.studio.md)
 
-cavalry.studio presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#6437ff`, with typography led by **Canva Sans** and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+Cavalry’s homepage uses a compact, aggressive visual language built for a motion tool. The page is not neutral or airy. It is a dark stage with a vivid purple chapter color, crisp white containers, and a bright yellow call to action. That contrast gives the page a gallery feel without losing product clarity. The strongest sections read like poster panels: large headline, short supporting copy, and one visual anchor that explains the topic faster than a paragraph could.
 
 [Open guide](design-md/cavalry.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/cavalry.studio-design)
 
