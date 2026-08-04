@@ -2,169 +2,178 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9727?format=jpg)](https://design.withfudge.com/share/pin-9727)
+[![Left rail, chart, and green highlighted scoring quadrant](https://pin.fontofweb.com/9727?format=jpg)](https://design.withfudge.com/share/pin-9727)
 
-[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/share/pin-9727)
+[Left rail, chart, and green highlighted scoring quadrant](https://design.withfudge.com/share/pin-9727)
 
-[![AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://pin.fontofweb.com/9726?format=jpg)](https://design.withfudge.com/share/pin-9726)
+[![Publication card, abstract, and related links on a detail page](https://pin.fontofweb.com/9726?format=jpg)](https://design.withfudge.com/share/pin-9726)
 
-[AA-Omniscience: Knowledge and Hallucination Benchmark | Artificial Analysis](https://design.withfudge.com/share/pin-9726)
+[Publication card, abstract, and related links on a detail page](https://design.withfudge.com/share/pin-9726)
 
-[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9682?format=jpg)](https://design.withfudge.com/share/pin-9682)
+[![Monthly pricing with purple recommended plan and centered toggle](https://pin.fontofweb.com/9680?format=jpg)](https://design.withfudge.com/share/pin-9680)
 
-[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/share/pin-9682)
+[Monthly pricing with purple recommended plan and centered toggle](https://design.withfudge.com/share/pin-9680)
 
-[![AI Model & API Providers Analysis | Artificial Analysis](https://pin.fontofweb.com/9681?format=jpg)](https://design.withfudge.com/share/pin-9681)
+[![Dense comparison table with chips, tabs, and long product rows](https://pin.fontofweb.com/9675?format=jpg)](https://design.withfudge.com/share/pin-9675)
 
-[AI Model & API Providers Analysis | Artificial Analysis](https://design.withfudge.com/share/pin-9681)
-
-[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9680?format=jpg)](https://design.withfudge.com/share/pin-9680)
-
-[Pricing | Artificial Analysis](https://design.withfudge.com/share/pin-9680)
-
-[![Pricing | Artificial Analysis](https://pin.fontofweb.com/9679?format=jpg)](https://design.withfudge.com/share/pin-9679)
-
-[Pricing | Artificial Analysis](https://design.withfudge.com/share/pin-9679)
-
-[![AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://pin.fontofweb.com/9676?format=jpg)](https://design.withfudge.com/share/pin-9676)
-
-[AI Chatbots Comparison: ChatGPT, Claude, Meta AI, Gemini and more](https://design.withfudge.com/share/pin-9676)
-
-[![General Work AI Agents Comparison](https://pin.fontofweb.com/9675?format=jpg)](https://design.withfudge.com/share/pin-9675)
-
-[General Work AI Agents Comparison](https://design.withfudge.com/share/pin-9675)
+[Dense comparison table with chips, tabs, and long product rows](https://design.withfudge.com/share/pin-9675)
 
 ## Overview
 
-artificialanalysis.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#43003b`, with typography led by **Suisse Intl**, **System**, **Victor Serif Basic**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Artificial Analysis is a light AI analytics system with a strong editorial spine and a disciplined comparison layout. The page shell stays white, borders stay thin, and the content takes up the visual weight through typography, spacing, and data density. Victor Serif Basic gives the site its voice: headlines, benchmark names, and price figures feel like an article or report. Suisse Intl handles everything operational, from tabs and filters to table rows, helper copy, and button labels. That contrast is the brand.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The system moves between three roles without changing its base grammar. First, it presents AI model and benchmark information in a calm, article-like frame. Second, it organizes charts, scorecards, and comparison tables with compact data cues and clear separators. Third, it introduces a commercial layer where purple marks premium access, featured plans, and recommendation states. The result is serious but not heavy. It reads as a research product with a polished commercial path.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content |
-| color.surface | `#ffffff` | surface on page content in the main |
-| color.text | `#43003b` | text on page content in the footer |
-| color.surface | `#f1f2f4` | surface on page content in the button |
-| color.border | `#d9d9d9` | border on page content in the aside |
-| color.text | `#020817` | text on page content in the main |
-| color.surface | `#c394ff` | surface on page content in the footer |
-| color.border | `#8842fd` | border on page content in the main |
-| color.surface | `#e7e7e7` | surface on page content in the nav |
-| color.text | `#949494` | text on page content in the main |
-| color.text | `#4d4d4d` | text on page content in the button |
-| color.surface | `#fafafa` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Suisse Intl** | 16px | 400 | 24px | normal | <div> in the main, <main> in the main, <body>, <aside> in the aside, <a> in the nav, <nav> in the nav, <div> in the aside, <li> in the nav, <div> in the nav, <ul> in the nav, <section> in the main, <svg> in the main, <svg> in the nav, <h3> in the main, <footer> in the footer, <div> in the footer, <svg> in the footer, <a> in the footer, <form> in the footer, <p> in the footer, <li> in the footer, <ul> in the footer, <a> in the main, <p> in the main, <img> in the main, <span> in the main, <button> in the button, <span> in the button, <div> in the button, and <svg> in the button |
-| type.body-14px | **Suisse Intl** | 14px | 400 | 20px | normal | <button> in the button, <div> in the main, <span> in the button, <h3> in the main, <span> in the main, <a> in the nav, <a> in the main, <svg> in the main, <a> in the footer, <svg> in the button, <p> in the main, <li> in the main, and <ul> in the main |
-| type.utility-12px | **Suisse Intl** | 12px | 400 | 16px | normal | <span> in the nav, <div> in the main, <span> in the main, <a> in the main, <svg> in the button, <button> in the button, <svg> in the main, and <span> in the button |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <html> |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.body-14px | **Suisse Intl** | 14px | 500 | 20px | normal | <button> in the button, <div> in the button, <span> in the main, and <p> in the main |
-| type.body-14px | **Suisse Intl** | 14px | 400 | 14px | normal | <span> in the button, <button> in the button, <a> in the nav, <h4> in the main, <a> in the main, and <span> in the nav |
-| type.utility-12px | **Suisse Intl** | 12px | 400 | 19.5px | normal | <span> in the main and <p> in the button |
-| type.utility-12px | **Suisse Intl** | 12px | 500 | 16px | normal | <span> in the main |
-| type.body-14px | **Suisse Intl** | 14px | 500 | 20px | 0.7px | <p> in the main |
-| type.display-80px | **Victor Serif Basic** | 80px | 400 | 80px | normal | <h1> in the main |
-| type.body-16px | **Suisse Intl** | 16px | 500 | 24px | normal | <button> in the button and <svg> in the button |
-| type.display-36px | **Victor Serif Basic** | 36px | 400 | 40px | normal | <h1> in the main |
-| type.body-30px | **Victor Serif Basic** | 30px | 400 | 36px | normal | <span> in the main and <h2> in the main |
-| type.body-20px | **Victor Serif Basic** | 20px | 400 | 28px | normal | <span> in the main and <h3> in the main |
-| type.display-36px | **Victor Serif Basic** | 36px | 500 | 40px | normal | <h1> in the main and <span> in the main |
-| type.display-48px | **Victor Serif Basic** | 48px | 500 | 48px | normal | <p> in the footer |
-| type.display-36px | **Suisse Intl** | 36px | 400 | 40px | normal | <p> in the footer |
-| type.body-16px | **Victor Serif Basic** | 16px | 400 | 24px | normal | <span> in the nav |
-| type.utility-10px | **Suisse Intl** | 10px | 400 | 12.5px | normal | <button> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `20px` | padding-right | page content |
-| `20px` | padding-left | page content |
-| `160px` | padding-bottom | page content |
-| `0px 20px` | padding | page content |
-| `32px` | padding-top | page content |
-| `64px` | padding-bottom | page content |
-| `0px 0px 160px` | padding | page content |
-| `16px` | padding-right | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 8px`, `1px 0px 0px solid 0px`, `0px none 8px`, `2px solid 8px`, `0px none 24px`, `0px 0px 1px solid 0px`, `0px none 9999px`, and `0px 0px 1px solid 8px 8px 0px 0px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(2,8,23)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(148,148,148)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(0,0,0)`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px`.
+The page family is consistent enough that the same visual rules apply across the homepage, benchmark detail pages, pricing pages, and dense comparison views. White space is generous. Text contrast is direct. The shell is quiet so the actual content can stay legible even when the page carries many rows, many filters, or many labeled points.
 
 ## Colors
 
-The visual system is predominantly light surface treatment. Surface colors include `#ffffff`, `#f1f2f4`, and `#c394ff`. Text colors include `#000000`, `#43003b`, and `#020817`. Keep image-derived colors separate from interface colors.
+The palette is narrow at the shell level and broader inside data content. White and near-white surfaces define the page and the cards. Black anchors text, the brand chip, and the strongest active states. Soft grays handle borders, tabs, and muted fills. Purple is the commercial accent and also the strongest recommendation signal. Blue, green, orange, rose, and cyan appear as data colors for chart points, chips, and categorized labels. That balance lets the product show many categories without turning the interface noisy.
+
+| token | hex | use |
+|---|---|---|
+| `canvas` | `#FFFFFF` | Main page background and card base |
+| `surface` | `#FAFAFA` | Soft page bands and very light panel fill |
+| `surface-muted` | `#F1F2F4` | Tabs, pills, and subdued chip backgrounds |
+| `surface-soft` | `#E7E7E7` | Secondary fills and subdued framing |
+| `border` | `#D9D9D9` | Card rules, table separators, and input outlines |
+| `ink` | `#000000` | Primary text, logo chip, and strongest contrast |
+| `muted-ink` | `#787878` | Supporting copy, helper text, and rail labels |
+| `action` | `#8842FD` | Premium action, recommendation emphasis, and key CTA fills |
+| `action-strong` | `#7C3AED` | Stronger purple emphasis and selected state treatment |
+| `action-subtle` | `#C394FF` | Soft purple badges and savings labels |
+| `data-blue` | `#2563EB` | Chart points and comparison chips for one model family |
+| `data-green` | `#16A34A` | Success markers and chart/category accents |
+| `data-orange` | `#EA580C` | Secondary chart/category accents |
+| `data-rose` | `#EB3568` | Warnings, contrasting category chips, and model tags |
+| `data-cyan` | `#0D9488` | Secondary data grouping and table highlighting |
+
+Only the light system is defined here. The visible pages do not introduce a separate dark shell, and there is no distinct photographic theme in the UI; any imagery or logos sit inside the same white card structure instead of becoming a new surface language. Purple stays reserved for premium access, recommendation, and the most important CTA, while the data colors stay inside charts and chips so they function as classification rather than decoration.
 
 ## Typography
 
-The captured type system uses **Suisse Intl**, **System**, **Applesystem**, and **Victor Serif Basic**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system uses two families with clear jobs. Victor Serif Basic carries the brand voice: page titles, benchmark names, plan headings, and large price figures. Suisse Intl carries the interface: body copy, table rows, tabs, chips, buttons, and support text. The pair gives the product an editorial tone without sacrificing speed or density.
+
+Victor Serif Basic is credited to Christian Jánský and Kometa Typefaces. Suisse Intl is credited to Swiss Typefaces. Applesystem and System-Uisansserif appear only as fallback and system text in the packet, so they should not be promoted into the main scale or credited as brand faces. Both credited families should be used under their respective licenses.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Victor Serif Basic | 5rem | 500 | 1 | 0em | Homepage hero and landing headers |
+| `section-display` | Victor Serif Basic | 3rem | 500 | 1 | 0em | Major benchmark page titles |
+| `card-heading` | Victor Serif Basic | 2.25rem | 500 | 1.05 | 0em | Large card and plan headings |
+| `section-title` | Victor Serif Basic | 1.875rem | 500 | 1.1 | 0em | Smaller page section headings |
+| `body` | Suisse Intl | 1rem | 400 | 1.5 | 0em | Explanatory text and prose blocks |
+| `body-medium` | Suisse Intl | 1rem | 500 | 1.5 | 0em | Buttons, emphasis, and highlighted rows |
+| `body-small` | Suisse Intl | 0.875rem | 400 | 1.43 | 0em | Helper text, notes, and supporting metadata |
+| `label` | Suisse Intl | 0.75rem | 500 | 1.33 | 0.04em | Chip text, section rails, and compact tags |
+| `ui` | Suisse Intl | 0.875rem | 400 | 1.4 | 0em | Tabs, controls, and navigation items |
+
+The hierarchy depends on scale, weight, and spacing more than on ornament. Serif headings are compact and confident. Sans text opens up slightly so tables and dense explanatory blocks do not feel compressed. The smallest labels gain separation through size and tracking rather than through heavy color or shape changes. That keeps the interface crisp at a glance.
 
 ## Layout
 
-The captured pages use values such as `20px`, `20px`, `160px`, `0px 20px`, and `32px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The desktop layout is centered, wide, and controlled. The homepage uses broad white margins around a large hero and a smaller right-rail of updates. Benchmark detail pages split into a text-heavy left column and a card-heavy right column, then widen into a lower summary row. Pricing pages center their controls and cards inside a generous shell. Comparison pages stretch the content the furthest, because the table is the product and the grid needs room to breathe.
+
+The rhythm is consistent across page types. A top bar establishes navigation. A large serif title anchors the page. Beneath that, the site moves into a primary analytical surface: a chart, a publication card, a pricing pair, or a comparison table. Supporting elements then repeat in smaller cards, linked rows, or summary blocks. The structure is straightforward, which is why the pages can hold a large amount of data without turning chaotic.
+
+Spacing is intentionally uneven in one way and even in another. Large sections are separated by broad vertical gaps, but the internal spacing of controls, chips, and table rows is tight and repetitive. That contrast is what makes the pages readable. A chart panel can sit next to a publication card because both share the same white surface and border language. A dense table can sit under a large title because the heading and the grid each know their own scale.
+
+The benchmark rail is a good example of the layout logic. It lives on the left, stays narrow, and acts as an orientation guide while the main area holds the graph or article body. On the chart page, the left rail keeps the page from feeling like an empty canvas by giving the reader a stable vertical anchor. On the detail page, the right-side publication card does the opposite: it balances the left column and keeps the page from leaning too hard into text.
 
 ## Visual language
 
-The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ffffff`, `#f1f2f4`, `#c394ff`, and `#e7e7e7`. Depth is supported by the returned shadows.
+The visual language is restrained, technical, and slightly editorial. The site avoids glossy effects, decorative gradients, and oversized shadows. Instead it depends on the relationship between serif and sans, the strength of the borders, and the use of compact labels. The effect is calm and precise rather than playful.
 
-## Components and states
+Charts are framed, not floated. A pale green highlighted zone can mark the most favorable area, but the rest of the plot stays quiet so the points and labels remain legible. Colored dots and small labels do the classification work. Tables use the same logic: chips encode category, platform, input type, memory, or feature status, but the row structure stays neutral. The emphasis never leaks into the whole shell.
 
-The captured pages include repeated styling on <div>, <html>, <main>, <body>, <aside>, <a>, <nav>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Rounded corners are moderate and functional. Panels use a modest radius, while pills and tabs are more rounded so they read as controls. The black brand chip, black active tabs, and purple premium states are all strong but compact. They give the pages a sense of intention without turning them into a dark or flashy brand system.
+
+The overall feel is close to a research report with a commercial edge. It has enough polish for a pricing page and enough discipline for a benchmark table. The calm comes from the same few repeated moves: white background, thin border, serif headline, sans body, compact chip, and a single strong accent color for premium moments.
+
+## Components
+
+### Global header
+
+The header is a single horizontal bar with a black brand chip on the left, a row of neutral rounded navigation pills, and premium and login actions on the right. The brand chip is the strongest black object on the page and acts as the anchor before any content begins. The navigation pills stay light, rounded, and compact. Premium uses purple. Log in uses black. Small utility icons stay muted and secondary.
+
+This header should stay visually unchanged across page types. The content below can shift from hero to chart to table, but the header keeps the same proportions and the same calm rhythm. That consistency is part of the product identity.
+
+### Benchmark section rail
+
+The benchmark rail is a narrow vertical list of section links. The labels are small, left aligned, and separated by modest vertical gaps. The active item is darker and more definite. Inactive items remain gray. The rail is practical first: it helps the reader move through a dense page without interrupting the main reading flow.
+
+Its spacing should stay tight and regular. It is a guide, not a feature area. That means the rail should never grow into a second navigation system.
+
+### Chart panel
+
+The chart panel is the most analytical surface. It uses a white card, a thin border, and a modest rounded corner. A tab strip sits above the chart, then a title row, then a compact controls row with icon buttons and a model-count selector. A legend, axis labels, and the plotted points keep the plot readable while the highlighted region gives the eye a favorable target area.
+
+The panel works because the interface around the chart is small and orderly. The chart itself is large, but the surrounding controls stay compact so the plot remains the center of attention. Any implementation should keep the title, tabs, and controls aligned in a stable grid.
+
+### Benchmark detail card stack
+
+The detail page uses a publication card on the right with a label, title, author line, abstract block, and close control. Below it sit related links in compact bordered buttons. Lower on the page, summary cards repeat the same neutral white-card language with a small capsule label and a short result paragraph.
+
+The cards rely on hierarchy rather than decoration. The abstract box needs breathing room and a soft border. The related links should stay small and tightly spaced. The summary cards should remain broad enough to hold the short benchmark takeaways without feeling crowded.
+
+### Pricing cards and plan toggle
+
+The pricing view centers a billing toggle above a pair of plan cards. The active toggle state is clear and lightly filled. The recommended Pro card uses a purple outline and a purple label at the top edge. Its price figure is large and serif-driven, with the supporting text in the sans family. The Enterprise card stays neutral and follows the same structure with a less emphatic action area.
+
+The plan cards are built from the same sequence: label, price, features, action. That sequence should not change. The visual difference between plans comes from the border, the label color, and the treatment of the action area, not from a different component family.
+
+### Comparison table
+
+The comparison table is the densest component in the set. It begins with a tab row, then a header row, then many body rows with product names, tiers, prices, models, and capability columns. Colored chips encode inputs, media types, tools, memory, and related feature groups. A black active tab makes the selected view obvious, and the table rows stay white with light separators so the grid remains legible.
+
+This component depends on order and repetition. The columns must line up. The chips must keep a consistent size and padding. The table should feel rigorous rather than decorative, because the grid itself is part of the product’s identity.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The supplied views are desktop-first, so responsive behavior should preserve the same hierarchy while reducing width pressure. On narrower screens, the header should wrap into a simpler control row before any major content collapses. The benchmark rail should stack above the main content or convert into a horizontal strip. Chart panels should keep the title and control row readable, while the plot area can become narrower before the labels shrink. Comparison tables should allow horizontal scrolling rather than flattening the grid into an unreadable stack. Pricing cards should move from two columns to one while keeping the recommended card first.
+
+Type sizes should step down only one level at a time so the serif hierarchy stays recognizable. Chips and tabs should keep their compact proportions, because those elements carry state. Any responsive system should protect contrast, preserve row spacing, and avoid introducing a second visual language for mobile.
 
 ## Practical implementation guidance
 
-- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the serif/sans split exactly where it currently does the most work: serif for titles, prices, and plan heads; sans for controls, body, and tables.
+- Keep the interface light, with white or near-white surfaces and thin gray borders.
+- Keep purple reserved for premium, selected, and recommended states.
+- Keep chart colors inside charts and comparison chips, not in the page shell.
+- Keep the page rhythm calm: one primary analytical surface, then supportive cards or rows.
+
+### Avoid
+
+- Avoid dark chrome as a default mode.
+- Avoid soft skeuomorphic shadows and glossy buttons.
+- Avoid introducing a second display family or a rounded-friendly brand voice.
+- Avoid using one off-brand accent color for navigation and another for plans.
+- Avoid turning comparison tables into cards; the grid is the point.
+
+### Recommended build order
+
+1. Define the neutral palette and purple action tokens.
+2. Add the Victor Serif Basic and Suisse Intl type scales.
+3. Build the shared header and pill navigation.
+4. Build the benchmark rail, chart panel, and table grid.
+5. Add the pricing toggle, recommended plan card, and comparison cards.
+6. Finish with chip styles, badges, and reference logo bands.
+7. Check the page at wide widths, because spacing and hierarchy do most of the visual work.
+
+### Accessibility
+
+- Keep the contrast of purple labels and pale chips high enough for small text.
+- Make active tabs, rail items, and buttons easy to distinguish without color alone.
+- Keep table rows readable at a glance by preserving separators and consistent padding.
+- Give icon-only controls clear names and keyboard focus treatment.
+- Keep line lengths under control in serif headings so they do not crowd narrow columns.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#43003b`
-- `#f1f2f4`
-- `#d9d9d9`
-- `#020817`
-- `#c394ff`
-- `#8842fd`
-- `#e7e7e7`
-- `#949494`
-- `#4d4d4d`
-- `#fafafa`
-- `#d4d4d4`
-- `#741a66`
-- `#787878`
-- `#d97706`
-
-## Typography captured from artificialanalysis.ai
-
-- **Suisse Intl** — weight 400 · size 16px
-- **System** — weight 400 · size 16px
-- **Victor Serif Basic** — weight 400 · size 30px
-- **Applesystem** — weight 400 · size 14px
+This guide covers the desktop homepage, benchmark detail pages, pricing pages, and comparison tables shown in the supplied packet. It does not define mobile breakpoints, motion, loading, empty, or error states, or the exact behavior of the surrounding site chrome. Spacing and radii use the 0.125rem step implied by the source set.

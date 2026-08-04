@@ -667,7 +667,7 @@ Artera reads as a dark art archive with a strong collector instinct. The interfa
 
 [![How artificialanalysis.ai is designed](https://pin.fontofweb.com/9727?format=jpg)](design-md/artificialanalysis.ai.md)
 
-artificialanalysis.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#43003b`, with typography led by **Suisse Intl**, **System**, **Victor Serif Basic**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Artificial Analysis is a light AI analytics system with a strong editorial spine and a disciplined comparison layout. The page shell stays white, borders stay thin, and the content takes up the visual weight through typography, spacing, and data density. Victor Serif Basic gives the site its voice: headlines, benchmark names, and price figures feel like an article or report. Suisse Intl handles everything operational, from tabs and filters to table rows, helper copy, and button labels. That contrast is the brand.
 
 [Open guide](design-md/artificialanalysis.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
 
