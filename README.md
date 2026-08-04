@@ -889,9 +889,9 @@ blog.google presents a predominantly dark surface treatment in the captured page
 
 ### bolt.new
 
-[![How bolt.new is designed](https://pin.fontofweb.com/6002?format=jpg)](design-md/bolt.new.md)
+[![How bolt.new is designed](https://pin.fontofweb.com/6001?format=jpg)](design-md/bolt.new.md)
 
-bolt.new presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#171719`, and `#fefeff`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Bolt.new uses one visual language for two related surfaces: the marketing page and the builder workspace. Both feel like a dark developer cockpit rather than a glossy consumer site. The canvas stays near-black, the borders stay visible, and the blue action color does almost all of the emphasis work. That restraint matters. The page does not depend on ornament or on a heavy display-font hierarchy; it depends on tight geometry, readable Inter text, and large areas of empty space that make the active panel feel intentional.
 
 [Open guide](design-md/bolt.new.md) · [View the Fudge conversation](https://design.withfudge.com/share/bolt.new-design)
 
