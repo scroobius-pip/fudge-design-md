@@ -1419,7 +1419,7 @@ dash.cloudflare.com presents a predominantly dark surface treatment in the captu
 
 [![How dash.dropbox.com is designed](https://pin.fontofweb.com/5914?format=jpg)](design-md/dash.dropbox.com.md)
 
-dash.dropbox.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#736c64`, and `#ffffff`, with typography led by **Atlas Grotesk** and **Sharp Grotesk Db Cyr 20**. The guide below names reusable design roles only where the captured evidence supports them.
+Dropbox Dash reads like a product shell that can also host a campaign skin. The default home surface is calm and centered: a thin announcement line, a compact header, a large black headline, a short explanatory paragraph, and a pair of blue actions sit on a pale field before the interface mockup takes over the lower half of the page. The campaign route keeps the same product clarity but changes the stage completely. It leans into black texture, orange diagonal movement, floating cards, and oversized statements so the McLaren story feels dramatic without losing the Dropbox structure. The visual logic is simple: white and off-white for the core product shell, blue for action, Atlas for working UI text, and a louder campaign canvas when the page needs theater.
 
 [Open guide](design-md/dash.dropbox.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.dropbox.com-design)
 
