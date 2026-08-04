@@ -1107,7 +1107,7 @@ Cavalry’s homepage uses a compact, aggressive visual language built for a moti
 
 [![How celesteduffy.com is designed](https://pin.fontofweb.com/7863?format=jpg)](design-md/celesteduffy.com.md)
 
-celesteduffy.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#200603`, and `#f4f2ea`, with typography led by **Almarai** and **Libre Baskerville**. The guide below names reusable design roles only where the captured evidence supports them.
+Celeste Duffy’s site is an art-first portfolio and shop wrapped in a restrained editorial shell. The visual language is built from two strong text voices, a paper-warm canvas, and a pair of saturated conversion colors that appear only when the page wants attention. Most of the page stays quiet so the illustration, print mockups, and framed artwork can carry the mood.
 
 [Open guide](design-md/celesteduffy.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/celesteduffy.com-design)
 
