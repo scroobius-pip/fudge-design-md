@@ -555,7 +555,7 @@ Paper's Files home is a restrained desktop workspace built like a file system ra
 
 [![How app.quiver.ai is designed](https://pin.fontofweb.com/9928?format=jpg)](design-md/app.quiver.ai.md)
 
-app.quiver.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#f8f8f8`, and `#e5e5e5`, with typography led by **Geist**, **Applesystem**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+QuiverAI is a restrained light interface that lets artwork and typography carry the personality. The Explore screen feels like a tidy studio wall: a narrow left rail, a pale top bar, an oversized headline, and a dense masonry of rounded cards that hold logos, poster-like illustrations, mascot drawings, diagrams, and interface samples. The onboarding screens keep the same calm palette, but shift the composition into two clearer modes: a centered card for focus and a wide split layout that balances the form with a large illustrated panel.
 
 [Open guide](design-md/app.quiver.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.quiver.ai-design)
 
