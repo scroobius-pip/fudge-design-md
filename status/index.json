@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:32:23.248Z",
+  "generatedAt": "2026-08-04T18:34:10.983Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 142,
-    "drafting": 1,
-    "ready": 18,
+    "published_verified": 143,
+    "validating": 2,
+    "ready": 16,
     "needs_reprocessing": 21,
-    "repairing": 2,
+    "repairing": 3,
     "unpublished": 896,
-    "validating": 3,
-    "failed": 22,
-    "syncing": 1,
+    "failed": 23,
+    "drafting": 1,
+    "publishing": 1,
     "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:32:21.703Z",
+    "heartbeatAt": "2026-08-04T18:34:09.025Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -40,39 +40,39 @@
           "startedAt": "2026-08-04T18:30:08.887Z"
         },
         {
-          "domain": "app.superlist.com",
-          "startedAt": "2026-08-04T18:25:48.217Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-04T18:33:17.886Z"
         },
         {
-          "domain": "cosmos.so",
-          "startedAt": "2026-08-04T18:21:32.514Z"
+          "domain": "app.superlist.com",
+          "startedAt": "2026-08-04T18:25:48.217Z"
         }
       ],
       "completedThisRun": 7,
-      "failedThisRun": 12
+      "failedThisRun": 13
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "brave.com",
-        "startedAt": "2026-08-04T18:27:10.052Z"
+        "domain": "audio.com",
+        "startedAt": "2026-08-04T18:34:08.977Z"
       },
-      "completedThisRun": 4,
-      "failedThisRun": 4
+      "completedThisRun": 5,
+      "failedThisRun": 5
     },
     "queue": {
-      "eligibleGeneration": 1011,
-      "availableGeneration": 995,
-      "readyPublication": 18,
-      "publishedVerified": 142
+      "eligibleGeneration": 1012,
+      "availableGeneration": 994,
+      "readyPublication": 17,
+      "publishedVerified": 143
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:27:19.837Z"
+      "lastSyncedAt": "2026-08-04T18:32:27.803Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:30:04.722Z",
-      "message": "Generation failed for codepen.io with exit 1."
+      "at": "2026-08-04T18:33:26.114Z",
+      "message": "Publication failed for brave.com with exit 1."
     }
   },
   "domains": [
@@ -663,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:32:10.834Z",
+      "updatedAt": "2026-08-04T18:34:08.154Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -1274,9 +1274,9 @@
     },
     {
       "domain": "ampcode.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:32:06.914Z",
+      "updatedAt": "2026-08-04T18:33:10.101Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -1495,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:55:56.293Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:33:23.865Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -2095,7 +2095,7 @@
       "domain": "app.superlist.com",
       "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T18:31:45.583Z",
+      "updatedAt": "2026-08-04T18:34:04.698Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2574,9 +2574,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:24:50.641Z",
+      "updatedAt": "2026-08-04T18:34:09.017Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -3497,9 +3497,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:27:15.302Z",
+      "updatedAt": "2026-08-04T18:33:26.027Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3653,15 +3653,15 @@
     },
     {
       "domain": "bud.app",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:21:47.573Z",
+      "updatedAt": "2026-08-04T18:34:06.417Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
         "url": "https://design.withfudge.com/share/bud.app-design",
         "markdownUrl": "https://design.withfudge.com/share/bud.app-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bud.app.md"
       }
     },
     {
@@ -5005,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:31:41.394Z",
+      "updatedAt": "2026-08-04T18:33:15.275Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
