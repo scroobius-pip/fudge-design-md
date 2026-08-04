@@ -1,79 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:53:55.035Z",
+  "generatedAt": "2026-08-04T17:56:00.337Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 137,
+    "published_verified": 138,
     "failed": 24,
-    "ready": 21,
+    "ready": 19,
     "needs_reprocessing": 21,
+    "preparing": 5,
     "unpublished": 896,
     "syncing": 1,
-    "validating": 3,
-    "repairing": 2,
-    "legacy": 93,
-    "drafting": 1
+    "publishing": 1,
+    "drafting": 1,
+    "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:53:53.271Z",
+    "startedAt": "2026-08-04T17:55:55.975Z",
+    "heartbeatAt": "2026-08-04T17:55:56.732Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-04T17:47:24.115Z"
+          "domain": "aistudio.google.com",
+          "startedAt": "2026-08-04T17:55:56.541Z"
         },
         {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-04T17:48:56.210Z"
+          "domain": "baked.design",
+          "startedAt": "2026-08-04T17:55:56.528Z"
         },
         {
-          "domain": "arcee.ai",
-          "startedAt": "2026-08-04T17:48:45.984Z"
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-04T17:55:56.475Z"
         },
         {
-          "domain": "cosmic-ray.tv",
-          "startedAt": "2026-08-04T17:46:38.043Z"
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-04T17:55:56.505Z"
         },
         {
-          "domain": "dashboard.exa.ai",
-          "startedAt": "2026-08-04T17:50:43.798Z"
+          "domain": "bkid.co",
+          "startedAt": "2026-08-04T17:55:56.536Z"
         },
         {
-          "domain": "dfy.co.kr",
-          "startedAt": "2026-08-04T17:50:23.247Z"
+          "domain": "daisyui.com",
+          "startedAt": "2026-08-04T17:55:56.522Z"
         }
       ],
-      "completedThisRun": 73,
-      "failedThisRun": 53
+      "completedThisRun": 0,
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "ampcode.com",
-        "startedAt": "2026-08-04T17:48:40.893Z"
+        "domain": "baremettle.com",
+        "startedAt": "2026-08-04T17:55:56.470Z"
       },
-      "completedThisRun": 33,
-      "failedThisRun": 18
+      "completedThisRun": 0,
+      "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 992,
-      "readyPublication": 21,
-      "publishedVerified": 137
+      "eligibleGeneration": 1019,
+      "availableGeneration": 1013,
+      "readyPublication": 19,
+      "publishedVerified": 138
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:48:48.116Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-04T17:48:52.444Z",
-      "message": "Generation failed for cofounder.co with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -664,8 +661,8 @@
     {
       "domain": "adject.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T16:58:24.587Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:55:56.292Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -1027,9 +1024,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:13:33.452Z",
+      "state": "preparing",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T17:55:56.903Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1261,22 +1258,22 @@
     },
     {
       "domain": "ami.dev",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:01.209Z",
+      "updatedAt": "2026-08-04T17:55:45.840Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/ami.dev-design",
+        "markdownUrl": "https://design.withfudge.com/share/ami.dev-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ami.dev.md"
       }
     },
     {
       "domain": "ampcode.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:48:45.699Z",
+      "updatedAt": "2026-08-04T17:54:53.843Z",
       "blocker": null,
       "publication": {
         "key": "ampcode.com-design",
@@ -1443,14 +1440,14 @@
     },
     {
       "domain": "aol.com",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:38.487Z",
+      "updatedAt": "2026-08-04T17:55:50.474Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/aol.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/aol.com-design.md",
         "githubUrl": null
       }
     },
@@ -1495,9 +1492,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:53:34.104Z",
+      "updatedAt": "2026-08-04T17:55:56.293Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1986,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:52:33.674Z",
+      "updatedAt": "2026-08-04T17:55:56.294Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2210,9 +2207,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:53:50.406Z",
+      "updatedAt": "2026-08-04T17:55:56.295Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2795,9 +2792,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:06:37.344Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:55:56.917Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2860,9 +2857,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:58:56.791Z",
+      "updatedAt": "2026-08-04T17:55:56.525Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2873,9 +2870,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:03:46.866Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:55:56.831Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3094,9 +3091,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:04:50.626Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:55:56.849Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3172,9 +3169,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:08:09.187Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:55:59.220Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -4992,9 +4989,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:52:00.439Z",
+      "updatedAt": "2026-08-04T17:54:51.168Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -5369,9 +5366,9 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T17:05:34.642Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:55:56.901Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
@@ -5460,9 +5457,9 @@
     },
     {
       "domain": "dashboard.exa.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T17:53:13.678Z",
+      "updatedAt": "2026-08-04T17:55:56.295Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.exa.ai-design",
@@ -6097,9 +6094,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T17:50:41.080Z",
+      "updatedAt": "2026-08-04T17:55:56.295Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
