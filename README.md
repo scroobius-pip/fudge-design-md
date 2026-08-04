@@ -801,9 +801,9 @@ baked.design presents a mixed light and dark surface treatment in the captured p
 
 ### baremettle.com
 
-[![How baremettle.com is designed](https://pin.fontofweb.com/6254?format=jpg)](design-md/baremettle.com.md)
+[![How baremettle.com is designed](https://pin.fontofweb.com/6253?format=jpg)](design-md/baremettle.com.md)
 
-baremettle.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#d7d7d7`, `#818181`, and `#ffffff`, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
+Bare Mettle’s forum index is a dark, compact shell wrapped around a classic message-board layout. It does not try to look like a marketing homepage. The page opens with a centered studio navigation strip, then drops into forum chrome: toolbar, breadcrumb, board title, pagination, and a thread table. The visual hierarchy is built from stacked black and charcoal planes, thin separators, and a single accent action. The overall feeling is quiet, industrial, and a little theatrical, with the smoky backdrop giving the chrome depth without turning the interface into a poster.
 
 [Open guide](design-md/baremettle.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/baremettle.com-design)
 
