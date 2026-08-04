@@ -263,6 +263,14 @@ AFFiNE’s public pages use a clean, product-first visual system built around a 
 
 [Open guide](design-md/affine.pro.md) · [View the Fudge conversation](https://design.withfudge.com/share/affine.pro-design)
 
+### affinity.studio
+
+[![How affinity.studio is designed](https://pin.fontofweb.com/4243?format=jpg)](design-md/affinity.studio.md)
+
+Affinity’s page language is severe in the good way: big serif statements, quiet sans support text, and a strict split between black poster-like stages and pale information sections. The site feels like a software brand that wants the work itself to stay vivid while the interface stays disciplined. The black hero surfaces let the white headline dominate. The lavender iPad announcement gives the page one soft interruption. The download and FAQ sections switch to warm light grounds so dense product information can breathe without losing authority.
+
+[Open guide](design-md/affinity.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/affinity.studio-design)
+
 ### agentation.dev
 
 [![How agentation.dev is designed](https://pin.fontofweb.com/6235?format=jpg)](design-md/agentation.dev.md)
