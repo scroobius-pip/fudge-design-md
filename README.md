@@ -1443,7 +1443,7 @@ dashboard.exa.ai is a light, compact developer console. The system stays close t
 
 [![How dashboard.internetcomputer.org is designed](https://pin.fontofweb.com/9061?format=jpg)](design-md/dashboard.internetcomputer.org.md)
 
-dashboard.internetcomputer.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#ffffff`, `#000000`, and `#1c1c1c`, with typography led by **By Laurenz Brunner**, **Roboto**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+dashboard.internetcomputer.org is a network-operations dashboard, not a marketing site. The visual system uses a black canvas, charcoal card surfaces, bright white type, and two blue accents to turn large quantities of network data into something scannable. The page feels controlled and technical: rows, charts, and map fragments carry most of the visual weight, while decoration stays minimal.
 
 [Open guide](design-md/dashboard.internetcomputer.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.internetcomputer.org-design)
 
