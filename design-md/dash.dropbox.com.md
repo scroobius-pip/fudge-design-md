@@ -6,143 +6,170 @@ Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Centered homepage hero with blue action pair](https://pin.fontofweb.com/5914?format=jpg)](https://design.withfudge.com/share/pin-5914)
+[![Centered home hero with blue buttons and overlapping product collage](https://pin.fontofweb.com/5914?format=jpg)](https://design.withfudge.com/share/pin-5914)
 
-[Centered homepage hero with blue action pair](https://design.withfudge.com/share/pin-5914)
+[Centered home hero with blue buttons and overlapping product collage](https://design.withfudge.com/share/pin-5914)
 
-[![Security section with car line art and lock markers](https://pin.fontofweb.com/3561?format=jpg)](https://design.withfudge.com/share/pin-3561)
+[![White security section with fine line car drawing and floating lock pins](https://pin.fontofweb.com/3564?format=jpg)](https://design.withfudge.com/share/pin-3564)
 
-[Security section with car line art and lock markers](https://design.withfudge.com/share/pin-3561)
+[White security section with fine line car drawing and floating lock pins](https://design.withfudge.com/share/pin-3564)
 
-[![White content grid with search bar and floating cards](https://pin.fontofweb.com/3563?format=jpg)](https://design.withfudge.com/share/pin-3563)
+[![White search showcase with central search bar and floating content cards](https://pin.fontofweb.com/3563?format=jpg)](https://design.withfudge.com/share/pin-3563)
 
-[White content grid with search bar and floating cards](https://design.withfudge.com/share/pin-3563)
+[White search showcase with central search bar and floating content cards](https://design.withfudge.com/share/pin-3563)
 
-[![Dark campaign hero with orange diagonals and cards](https://pin.fontofweb.com/3562?format=jpg)](https://design.withfudge.com/share/pin-3562)
+[![Black McLaren hero with orange diagonals and centered partnership logos](https://pin.fontofweb.com/3562?format=jpg)](https://design.withfudge.com/share/pin-3562)
 
-[Dark campaign hero with orange diagonals and cards](https://design.withfudge.com/share/pin-3562)
+[Black McLaren hero with orange diagonals and centered partnership logos](https://design.withfudge.com/share/pin-3562)
 
-[![White testimonial panel with orange corner wedges](https://pin.fontofweb.com/3559?format=jpg)](https://design.withfudge.com/share/pin-3559)
+[![Tall stats strip with huge numbers and a small orange confetti field](https://pin.fontofweb.com/3561?format=jpg)](https://design.withfudge.com/share/pin-3561)
 
-[White testimonial panel with orange corner wedges](https://design.withfudge.com/share/pin-3559)
+[Tall stats strip with huge numbers and a small orange confetti field](https://design.withfudge.com/share/pin-3561)
+
+[![Dark campaign stage with italic headline and stacked content cards](https://pin.fontofweb.com/3559?format=jpg)](https://design.withfudge.com/share/pin-3559)
+
+[Dark campaign stage with italic headline and stacked content cards](https://design.withfudge.com/share/pin-3559)
 
 ## Overview
 
-Dropbox Dash reads like a product shell that can also host a campaign skin. The default home surface is calm and centered: a thin announcement line, a compact header, a large black headline, a short explanatory paragraph, and a pair of blue actions sit on a pale field before the interface mockup takes over the lower half of the page. The campaign route keeps the same product clarity but changes the stage completely. It leans into black texture, orange diagonal movement, floating cards, and oversized statements so the McLaren story feels dramatic without losing the Dropbox structure. The visual logic is simple: white and off-white for the core product shell, blue for action, Atlas for working UI text, and a louder campaign canvas when the page needs theater.
+Dropbox Dash presents as a product-first site with a clear split between the everyday dashboard and the McLaren partnership story. The base surface is calm and light: white and warm off-white fields, compact blue actions, and black text that keeps the interface crisp rather than decorative. The hero centers the message and lets a large product mockup overlap side photography so the page feels like a working workspace, not a pure campaign landing page.
+
+The partnership pages keep the same core grammar but shift the mood. A black textured field, orange racing imagery, and large italic display lines create a stronger promotional tone, while the reusable UI stays blue and white. That balance is the key trait to preserve: the collaboration can become loud, but the shell still reads as Dropbox Dash.
 
 ## Colors
 
-| token | value | use |
+| token | hex | use |
 |---|---|---|
-| action | #0061FE | Primary buttons, active links, and the clearest call to act |
-| action-soft | #3380FE | Secondary fills, lighter button states, and small accent chips |
-| ink | #000000 | Main headlines, logo text, and the darkest campaign surfaces |
-| muted-ink | #736C64 | Supporting copy, small labels, and quiet explanatory text |
-| canvas | #FFFFFF | Main page background, card surfaces, and the cleanest framing space |
-| surface | #F7F5F2 | The warm off-white home canvas and the soft field behind the hero |
+| action | `#0061FE` | Primary buttons, key links, and the strongest interactive accent |
+| action-bright | `#3380FE` | Secondary blue fill, small highlights, and softer action surfaces |
+| ink | `#000000` | Main headlines, large numerals, and high-contrast body text |
+| muted-ink | `#736C64` | Supporting paragraphs, metadata, and quiet labels |
+| canvas | `#FFFFFF` | Main page background, white sections, and clear negative space |
+| surface | `#F7F5F2` | Warm hero field, soft card surfaces, and off-white section breaks |
 
-The palette is deliberately small. The everyday product shell stays mostly white with black text and one strong Dropbox blue. The slightly warmer surface tone softens the main page so the hero and the interface mockup feel integrated rather than pasted on. `action-soft` gives the system a second blue without turning the page into a gradient demo. `muted-ink` handles secondary information where the page needs less emphasis than black but more structure than a pale gray would provide.
-
-The light, dark, photographic, and accent modes work together rather than compete. White and `surface` carry the default product storytelling. Black carries the campaign stage and the most important text. Blue is the action language across both modes. Orange appears in the McLaren skin as art direction and directional energy, but it should stay outside the reusable token set so the base interface remains Dropbox-clean.
+The palette is intentionally small. Light pages lean on `canvas` and `surface`, with `ink` handling almost all content. `action` stays reserved for navigation and primary calls to action so the blue never gets diluted by decorative use. `action-bright` gives the system a second blue note for softer button fills and subtle accents, but it should remain subordinate to the main action color. `muted-ink` keeps long supporting copy from competing with the headline. In the campaign branch, black and orange come through the photography and textured panels instead of through reusable UI colors, which keeps the product shell stable across both moods.
 
 ## Typography
 
-Atlas Grotesk is the workhorse family. It handles navigation, body copy, button labels, small section tags, and the supporting text that explains what Dash does. Sharp Grotesk Db Cyr 20 supplies the biggest statements on the page: the home hero, the campaign masthead, and the large section headlines that need a dense, engineered feel. Db Sharp Grotesk Variable appears in the source font set, but this guide does not assign it a distinct visual role. Licensing for reuse should be confirmed separately.
+Atlas Grotesk carries the interface text and the page-level support copy. Sharp Grotesk Db Cyr 20 drives the oversized hero treatment. Db Sharp Grotesk Variable is also part of the family set and gives the system variable-width range, but the shown pages lean on the fixed display cut for the largest statements. Atlas Grotesk is credited to Kai Bernau, Susana Carvalho, and Christian Schwartz at Commercial Type. Sharp Grotesk Db Cyr 20 and Db Sharp Grotesk Variable are credited to Lucas Sharp at Sharp Type Corporation. Licensing should be confirmed separately.
 
 | token | family | size | weight | leading | tracking | use |
 |---|---|---:|---:|---:|---:|---|
-| hero-display | Sharp Grotesk Db Cyr 20 | 5.8125rem | 500 | 0.9 | -0.03em | The centered home hero and the strongest campaign statements |
-| section-display | Sharp Grotesk Db Cyr 20 | 5.75rem | 500 | 0.9 | -0.03em | Large section openers and statement blocks on the campaign route |
-| body-large | Atlas Grotesk | 1.4505rem | 400 | 1.5 | 0em | The hero supporting paragraph and other lead explanatory copy |
-| body | Atlas Grotesk | 1.1604rem | 400 | 1.5 | 0em | General product copy, captions, and the prose around stat blocks |
-| body-medium | Atlas Grotesk | 1.0154rem | 500 | 1.29 | 0em | Button labels, header links, and compact interface text |
-| eyebrow | Atlas Grotesk | 1.0154rem | 500 | 1 | 0.12em | Uppercase section tags such as SECURITY and UNIVERSAL SEARCH |
+| hero-display | Sharp Grotesk Db Cyr 20 | 5.802rem | 500 | 0.9 | -0.03em | Main homepage headline and the strongest campaign statements |
+| section-display | Atlas Grotesk | 1.451rem | 500 | 1.15 | 0em | Section headings that need more weight than body copy |
+| pullquote | Atlas Grotesk | 1.451rem | 400 | 1.5 | 0em | Centered quote blocks and wider explanatory statements |
+| body | Atlas Grotesk | 1.161rem | 400 | 1.5 | 0em | Paragraphs, section summaries, and most descriptive content |
+| ui | Atlas Grotesk | 1.016rem | 500 | 1.29 | 0em | Buttons, nav, labels, and small interface text |
+| eyebrow | Atlas Grotesk | 1.016rem | 500 | 1.2 | 0.16em | Uppercase section tags and compact blue labels |
+| legal-copy | Atlas Grotesk | 1.016rem | 400 | 1.29 | 0em | Footer links, terms, and the smallest readable text |
 
-The hierarchy depends on scale and weight more than on many families. The display face is heavy and tightly set, with little breathing room between lines. Atlas stays open enough to make the page readable at smaller sizes and to keep the button text crisp. The uppercase eyebrow style gets its authority from spacing and color, not from a heavier weight. That keeps the homepage and the campaign route aligned even when the page shifts from white product framing to the black McLaren stage.
+The hierarchy relies on contrast more than on many font families. The hero line is heavy, compressed, and slightly italic in feel because of its width and tight leading. Atlas Grotesk is steadier and more functional, which keeps the sections readable even when the page becomes visually busier. The large numbered stats on the partnership pages should follow the same blunt display attitude as the hero, even when they sit in a lighter or smaller composition.
 
 ## Layout
 
-The desktop home page starts with a narrow promotional strip, then a centered header, then the hero stacked vertically in the middle of the canvas. The headline sits above a short explanatory paragraph and two actions. That trio is intentionally compact, so the wide page does not feel empty before the interface mockup appears. The mockup itself is large enough to bridge the fold and make the product feel real before the user reaches the lower sections.
+The home page uses a centered column with generous side margins and a very clear reading axis. A small utility banner sits at the top, then a compact navigation row, then the hero. The hero is built from three parts: the large headline, a short explanatory block, and paired blue buttons. Below that, a large product window lands in the center and is framed by lifestyle photography that peeks in from both sides. That lower collage gives the page breadth without making the structure feel loose.
 
-The home composition is almost architectural. The hero is centered rather than left-anchored, which makes the page feel calm and considered. The interface panel below it gives the page a second focal point and prevents the hero from becoming a pure marketing poster. The spacing between the headline block, the actions, and the mockup is generous enough to make each layer readable, but not so large that the page loses momentum.
+The security section moves into a broader white canvas. The headline is left aligned, the call to action sits under it, and a traced race car stretches across the width of the page with lock markers pinned along the body. The line art keeps the section airy even though the subject is technical. The search section is more modular: one central search bar, a bold heading, and a loose orbit of image cards, documents, and calendar-like tiles around the main message. The arrangement feels like content discovery in motion.
 
-The McLaren route uses a different rhythm. It often opens on a black textured field with orange diagonal geometry cutting across the page. Large white statements sit in the center or upper third, while floating cards and image tiles orbit the main message. The stats section breaks the route back into a white field with bold numbers and thin divider marks. The quote section then resets the scale again: a wide white panel, a strong testimonial, and orange accents at the edges. The footer closes the route with a dark, dense ending that still belongs to the same family as the rest of the page.
+The McLaren collaboration pages shift to a fuller, more theatrical layout. Black textured fields take over, large orange diagonals slice through the frame, and the hero copy sits centered above a dense collage of cards and racing imagery. A stats band uses very large numerals with dotted dividers so the numbers read as trophies rather than as data table entries. The quote section returns to white, with wide breathing room and a centered testimonial block that slows the pace before the final dark footer.
 
 ## Visual language
 
-This system depends on contrast, but not the shallow kind. The home surface is quiet and geometric. The campaign surface is textured and angled. Together they produce a brand that can switch from product explanation to partnership story without looking like two unrelated sites. The white pages use large empty zones, centered type, and a few sharp blue actions. The campaign pages use black texture, orange fields, floating content cards, and a sense of motion even in still frames.
+Dash feels like a product that is constantly balancing clarity and energy. The stable part is the shell: white surfaces, black type, blue actions, and a restrained grid. The expressive part is the content layer: racing art, product mockups, asset cards, and the occasional black-and-orange campaign field. The site keeps those layers separate so the collaboration work can be dramatic without rewriting the base interface.
 
-The card language is important. Cards use plain rectangular edges and sit lightly off their backgrounds through spacing rather than ornament. They do not carry heavy borders or loud shadows. Instead, they feel like stacked product objects placed on a clean table. The content cards in the campaign imagery are small, modular, and readable at a glance: search cards, press-release cards, approval cards, and calendar-like panels. Those objects create density without turning the page into a dashboard grid.
+Depth comes from overlap rather than heavy shadowing. The hero screenshot sits over a background that hints at adjacent scenes. The search page floats document cards at different scales, some with captions and some without, to mimic a live workspace. The McLaren montage stacks video, document, answer, and calendar tiles on top of a racing figure, which creates a sense of active content rather than a flat poster. Corner treatment feels soft and rounded on cards and buttons, but the overall impression is still sharp because the typography is so bold.
 
-The page also uses shape as a wayfinding device. Straight edges and wide rectangles define the home shell. Diagonal orange shapes and slanted composition introduce momentum in the McLaren story. The result is energetic but controlled. Nothing feels decorative for its own sake. Even the loudest sections still communicate as product UI first and campaign art second.
+Color is used sparingly in the UI and more freely in the imagery. Blue is the steady action color. Orange belongs to the racing story. Black textured fields are reserved for the collaboration narrative and should not spread into everyday dashboard surfaces. That separation keeps the brand from feeling like two different products.
 
 ## Components
 
-### Announcement banner
+### Top utility banner and navigation
 
-A slim banner sits at the very top of the home page. It is small, centered, and highly legible, with blue text that reads like a light prompt rather than a full navigation item. It should stay visually subordinate to the main hero. Its job is to add a narrow layer of motion and a quick path to the related Dropbox experience without stealing attention from the page headline.
+- **Anatomy:** Thin announcement strip, Dropbox Dash mark, a short set of nav links, login, and a primary button.
+- **Typography:** The links and utility text use the smaller Atlas Grotesk UI style, while the logo area stays compact and quiet.
+- **Surface:** White or near-white on the home page, with no heavy border treatment.
+- **Composition:** Keep the bar light and subordinate to the hero. It should frame the page, not compete with the headline.
+- **Visible state:** The primary action uses solid blue fill; the rest of the nav remains neutral.
 
-### Header navigation
+### Home hero
 
-The header is compact, horizontal, and mostly white-space driven. The Dropbox mark anchors the left edge, the core navigation sits in the middle, and login plus the filled action sit on the right. The header text uses Atlas rather than the display face, which keeps the top of the page functional instead of theatrical. On the campaign route, the same logic should stay intact even when the surrounding stage becomes dark.
+- **Anatomy:** Large centered headline, one supporting paragraph, paired actions, and a product screenshot below.
+- **Typography:** The hero headline uses the Sharp Grotesk display treatment; the paragraph and buttons use Atlas Grotesk.
+- **Surface:** Clean white or warm off-white, with the screenshot and side photos adding depth.
+- **Composition:** The message sits above the product, not beside it. The hero works because the content is vertically stacked and very centered.
+- **Visible state:** Two blue buttons create a strong action pair, with the stronger button reading as the main path.
 
-### Primary and secondary actions
+### Security illustration section
 
-The primary action is a solid Dropbox blue block with white text. It should feel confident rather than glossy. The secondary action can use the lighter blue so the page gets a visual hierarchy without introducing a new hue. Both buttons rely on Atlas Medium and compact proportions, which keeps the page from looking overly promotional. The button pair under the hero is a core pattern: the main action is first, the softer option follows.
+- **Anatomy:** Left-aligned eyebrow, bold heading, one blue CTA, and a large line-drawn race car with lock markers.
+- **Typography:** The eyebrow is compact and blue; the body line is heavier and broader.
+- **Surface:** White field with fine gray line work, so the illustration stays airy.
+- **Composition:** The car spans the section while the copy remains above and left of it. That tension is important: the message is clear before the illustration fills the rest of the frame.
+- **Visible state:** The lock icons read as security nodes rather than decorative dots.
 
-### Home hero block
+### Search showcase
 
-The home hero is centered and stacked. A very large Sharp Grotesk headline sits above Atlas supporting copy, then the action pair, then a wide interface image that overlaps the lower portion of the page. The image is not decorative filler; it is the proof of the product. The hero works because the type is large enough to carry the message by itself, while the mockup shows the workspace without forcing the user to read a dense explanation.
+- **Anatomy:** Large heading, explanatory paragraph, search bar, blue action button, and a loose cluster of cards and thumbnails.
+- **Surface:** White, with card surfaces staying pale and lightly outlined.
+- **Typography:** Headline in strong black, supporting text in muted ink, search text in the compact UI style.
+- **Composition:** The search field anchors the center; the surrounding cards should feel like related content arriving from different directions.
+- **Visible state:** The surrounding assets vary in size and angle, which makes the section feel active.
 
-### Campaign stage and supporting cards
+### Partnership hero and dark campaign stage
 
-The McLaren stage uses a much louder canvas. The background turns black and textured, orange shapes cut through the composition, and a large white statement dominates the page. Floating cards are layered around the main illustration and search surfaces. These cards should keep the same plain rectangular geometry as the product shell, but they can be tighter, denser, and more image-led. The campaign story depends on this mixture of precise UI objects and high-energy art.
+- **Anatomy:** Centered logos, centered statement, blue action, and racing artwork on a textured black field.
+- **Typography:** The hero statement uses a heavier display treatment than the home body copy and reads as a campaign headline.
+- **Surface:** Black, textured, and high contrast, with orange art giving the field energy.
+- **Composition:** The central axis is strict. Even when the imagery grows dramatic, the copy remains neatly centered.
+- **Visible state:** The blue button stays consistent with the rest of Dash, which keeps the page linked to the base product.
 
-### Stat strip and testimonial panel
+### Stats band, quote block, and footer
 
-The stat strip is pure structure: an oversized headline, three large numbers, and a clean white field with measured spacing. The numbers carry the weight, not extra decoration. The testimonial panel then widens the page again with a centered quote and visible orange edges or diagonal accents. Both components should stay simple. They work because the typography is large and direct, and because the layout gives the words plenty of room.
+- **Anatomy:** Oversized numbers with labels, a centered testimonial, and a tiny link-heavy footer.
+- **Typography:** Numbers should feel blunt and authoritative; the testimonial should be more conversational but still dense.
+- **Surface:** The stats area sits on white; the quote block returns to a spacious white canvas before the page falls into a darker footer.
+- **Composition:** The stats read horizontally and the footer reads as a quiet strip of utility links.
+- **Visible state:** The footer links are small and understated, which keeps the campaign ending from feeling promotional.
 
 ## Responsive behavior
 
-On medium widths, the centered home hero should keep its stacked rhythm, but the button pair may compress into a tighter row or stack if the line breaks start to fight the headline. The interface mockup should scale down as a single unit so the lower edge still feels anchored to the hero instead of drifting away from it.
-
-On narrow widths, the campaign route should simplify before it becomes crowded. Orange wedges can become background bands, and floating cards should stack in a single column with clearer spacing between them. The longest headlines should break cleanly into two or three lines rather than stretch into a tall, hard-to-scan column. The header can reduce to the logo, the action, and a compact utility cluster while keeping the same blue call to act.
+The desktop layout depends on large type, wide negative space, and overlaid media. On narrower screens, the safest move is to keep the same order of information: headline first, action second, product or illustration third, support fourth. The large display line needs to stay bold even as it wraps more often. The floating card clusters should collapse into a simpler stack instead of trying to preserve the desktop orbit. The campaign pages should keep the black/orange contrast, but the artwork can crop more aggressively so the statement remains readable before the graphics.
 
 ## Practical implementation guidance
 
 ### Preserve
 
-- Keep the default home surface pale, centered, and product-first.
-- Keep blue as the only persistent action color across both routes.
-- Keep the headline scale large and dense so the page feels certain, not airy.
-- Keep cards rectangular and lightly separated, with only modest depth.
-- Keep orange inside the campaign skin rather than spreading it across the whole shell.
+- Keep the blue action color constant across home, security, search, and partnership pages.
+- Let Atlas Grotesk do almost all functional work; reserve Sharp Grotesk Db Cyr 20 for the biggest statements.
+- Preserve the split between calm product shell and louder campaign art.
+- Keep white and warm off-white surfaces clean so the page does not become visually muddy.
+- Use overlap and spacing as structure before adding extra borders or ornaments.
 
 ### Avoid
 
-- Avoid adding extra accent colors to the base product UI.
-- Avoid replacing the bold display face with a softer marketing font.
-- Avoid small, busy containers around every block of text.
-- Avoid over-shadowing the cards; the system depends more on contrast and spacing.
-- Avoid making the campaign route look like a separate brand.
+- Avoid introducing a new accent color for the campaign shell.
+- Avoid softening the hero headline into a generic SaaS weight.
+- Avoid filling every section with framed cards; the open field is part of the identity.
+- Avoid turning orange into a reusable UI token; it belongs to the racing story.
+- Avoid dense shadows and heavy chrome around the dashboard surfaces.
 
 ### Recommended build order
 
-1. Set the color roles and the headline hierarchy.
-2. Build the white home shell with the banner, header, hero, and button pair.
-3. Add the wide interface mockup and the lower supporting modules.
-4. Build the McLaren route with the black stage, orange diagonals, and floating cards.
-5. Add the stats strip, quote panel, and footer treatment.
-6. Check how the two surfaces switch without breaking the shared product language.
+1. Rebuild the shared color and type foundation.
+2. Recreate the home navigation and centered hero.
+3. Add the security illustration section and the search showcase.
+4. Build the McLaren hero with the dark textured background.
+5. Add the stats band, quote block, and footer.
+6. Test how the same blue action and Atlas Grotesk copy behave across both the product and campaign branches.
 
 ### Accessibility
 
-- Keep black text on white or off-white backgrounds where possible, and preserve strong contrast for blue actions.
-- Make the tiny banner and header links large enough to remain usable without hovering.
-- Give the floating campaign cards clear labels and readable alt text where images carry meaning.
-- Keep visible focus rings on every action and navigation item.
-- Preserve readable line lengths for the hero and the quote block as the layout tightens.
+- Keep black text on white or warm off-white surfaces for the default reading mode.
+- Make sure blue buttons retain strong contrast against both white and dark fields.
+- Give the racing imagery meaningful alternative text so the collaboration story still makes sense without the art.
+- Keep the hero headline and stats from stretching into unreadable line lengths on narrower screens.
+- Ensure every icon-only control in the product mockups would have a readable label if rebuilt interactively.
 
 ## Scope note
 
-This guide covers the desktop home surface and the McLaren F1 campaign route, including the top banner, header, centered hero, product mockup, stats strip, testimonial panel, and dark footer. It does not lock mobile breakpoints, motion, hover states, or alternate fallbacks beyond the named families.
+This guide covers the desktop home page, security and search sections, McLaren collaboration pages, stats strip, quote block, and footer zone. It does not lock exact spacing, corner radii, motion, hover states, or mobile breakpoint rules.
