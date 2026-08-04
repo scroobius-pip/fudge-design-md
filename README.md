@@ -1537,9 +1537,9 @@ Designer Daily Report uses two clear surfaces for one editorial system. The ligh
 
 ### designme.agency
 
-[![How designme.agency is designed](https://pin.fontofweb.com/6409?format=jpg)](design-md/designme.agency.md)
+[![How designme.agency is designed](https://pin.fontofweb.com/6408?format=jpg)](design-md/designme.agency.md)
 
-designme.agency presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#080b14`, with typography led by **System**, **Inter**, and **Jet Brains Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+DesignMe’s homepage is a narrow-to-broad agency pitch system built on hard contrast and a single warm accent field. The page starts in white space with a left-aligned narrative rail and a large product stage, moves into a saturated statement panel, resets into a plain FAQ block, and ends in a near-black footer. The whole sequence feels deliberate and editorial, but the copy stays commercial and direct. Nothing reads as ornament for its own sake.
 
 [Open guide](design-md/designme.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/designme.agency-design)
 
