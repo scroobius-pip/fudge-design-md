@@ -1,55 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:58:48.377Z",
+  "generatedAt": "2026-08-04T20:03:54.830Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 151,
-    "publishing": 1,
-    "failed": 29,
+    "syncing": 1,
+    "failed": 28,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "ready": 20,
+    "ready": 21,
     "drafting": 1,
-    "validating": 2,
-    "repairing": 3,
+    "preparing": 1,
+    "repairing": 4,
     "legacy": 75
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:58:46.223Z",
+    "heartbeatAt": "2026-08-04T20:03:53.181Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-04T20:01:19.888Z"
+        },
+        {
+          "domain": "binary.so",
+          "startedAt": "2026-08-04T20:03:53.136Z"
+        },
+        {
+          "domain": "bkid.co",
+          "startedAt": "2026-08-04T20:00:18.441Z"
+        },
+        {
           "domain": "cap.so",
           "startedAt": "2026-08-04T19:57:39.614Z"
-        },
-        {
-          "domain": "deepmind.google",
-          "startedAt": "2026-08-04T19:49:59.189Z"
-        },
-        {
-          "domain": "demo.refero.design",
-          "startedAt": "2026-08-04T19:51:10.793Z"
         },
         {
           "domain": "departuremono.com",
           "startedAt": "2026-08-04T19:55:16.380Z"
         },
         {
-          "domain": "developers.google.com",
-          "startedAt": "2026-08-04T19:53:44.315Z"
-        },
-        {
           "domain": "dfinity.org",
           "startedAt": "2026-08-04T19:53:49.435Z"
         }
       ],
-      "completedThisRun": 30,
-      "failedThisRun": 47
+      "completedThisRun": 31,
+      "failedThisRun": 49
     },
     "publication": {
       "concurrency": 1,
@@ -68,11 +68,11 @@
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:54:59.243Z"
+      "lastSyncedAt": "2026-08-04T19:58:52.742Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:58:02.346Z",
-      "message": "Publication failed for almost-pearfect.com with exit 1."
+      "at": "2026-08-04T20:03:50.194Z",
+      "message": "Generation failed for deepmind.google with exit 1."
     }
   },
   "domains": [
@@ -663,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:58:46.218Z",
+      "updatedAt": "2026-08-04T19:58:50.347Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -2873,9 +2873,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:12:37.933Z",
+      "state": "drafting",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:01:25.168Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3133,9 +3133,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:13:27.494Z",
+      "state": "preparing",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:03:53.249Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3172,9 +3172,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-04T19:09:09.890Z",
+      "state": "repairing",
+      "attempt": 6,
+      "updatedAt": "2026-08-04T20:03:25.445Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -4121,9 +4121,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:57:46.624Z",
+      "updatedAt": "2026-08-04T20:02:53.391Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -5681,9 +5681,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:58:18.585Z",
+      "updatedAt": "2026-08-04T20:03:50.130Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -5798,9 +5798,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:58:41.741Z",
+      "updatedAt": "2026-08-04T20:01:14.765Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
@@ -5824,9 +5824,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:58:16.652Z",
+      "updatedAt": "2026-08-04T20:02:44.563Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
@@ -6058,9 +6058,9 @@
     },
     {
       "domain": "developers.google.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:57:42.321Z",
+      "updatedAt": "2026-08-04T20:00:14.486Z",
       "blocker": null,
       "publication": {
         "key": "developers.google.com-design",
@@ -6086,7 +6086,7 @@
       "domain": "dfinity.org",
       "state": "repairing",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:58:21.921Z",
+      "updatedAt": "2026-08-04T20:03:04.687Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
