@@ -2,18 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:53:37.404Z",
+  "heartbeatAt": "2026-08-04T15:58:45.940Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "cavalry.studio",
-        "startedAt": "2026-08-04T15:43:11.755Z"
-      },
-      {
-        "domain": "chatgpt.com",
-        "startedAt": "2026-08-04T15:46:37.405Z"
-      },
       {
         "domain": "clubhouse.com",
         "startedAt": "2026-08-04T15:49:21.239Z"
@@ -27,12 +19,20 @@
         "startedAt": "2026-08-04T15:51:54.986Z"
       },
       {
-        "domain": "fontofweb.com",
-        "startedAt": "2026-08-04T15:48:14.713Z"
+        "domain": "cora.computer",
+        "startedAt": "2026-08-04T15:54:29.084Z"
+      },
+      {
+        "domain": "cosmic-ray.tv",
+        "startedAt": "2026-08-04T15:55:35.791Z"
+      },
+      {
+        "domain": "getmesa.dev",
+        "startedAt": "2026-08-04T15:57:49.464Z"
       }
     ],
-    "completedThisRun": 30,
-    "failedThisRun": 22
+    "completedThisRun": 32,
+    "failedThisRun": 23
   },
   "publication": {
     "concurrency": 1,
@@ -44,17 +44,17 @@
     "failedThisRun": 4
   },
   "queue": {
-    "eligibleGeneration": 1042,
-    "availableGeneration": 1027,
-    "readyPublication": 7,
+    "eligibleGeneration": 1040,
+    "availableGeneration": 1026,
+    "readyPublication": 8,
     "publishedVerified": 123
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:50:29.452Z"
+    "lastSyncedAt": "2026-08-04T15:53:45.543Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:51:52.047Z",
-    "message": "Generation failed for firstpromoter.com with exit 1."
+    "at": "2026-08-04T15:54:27.615Z",
+    "message": "Generation failed for cavalry.studio with exit 1."
   }
 }
