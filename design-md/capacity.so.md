@@ -2,159 +2,183 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/capacity.so-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7716?format=jpg)](https://design.withfudge.com/share/pin-7716)
+[![Hero stage with serif headline over a warm desert gradient and a centered prompt box](https://pin.fontofweb.com/7415?format=jpg)](https://design.withfudge.com/share/pin-7415)
 
-[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/share/pin-7716)
+[Hero stage with serif headline over a warm desert gradient and a centered prompt box](https://design.withfudge.com/share/pin-7415)
 
-[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7715?format=jpg)](https://design.withfudge.com/share/pin-7715)
+[![Dark feature callout with bullet list left and a green checklist card right](https://pin.fontofweb.com/7716?format=jpg)](https://design.withfudge.com/share/pin-7716)
 
-[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/share/pin-7715)
+[Dark feature callout with bullet list left and a green checklist card right](https://design.withfudge.com/share/pin-7716)
 
-[![Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://pin.fontofweb.com/7714?format=jpg)](https://design.withfudge.com/share/pin-7714)
+[![Community gallery with filter chips and a wide two-row grid of rounded project cards](https://pin.fontofweb.com/7715?format=jpg)](https://design.withfudge.com/share/pin-7715)
 
-[Clone Website AI - Duplicate Any Website with AI in Seconds | Capacity](https://design.withfudge.com/share/pin-7714)
+[Community gallery with filter chips and a wide two-row grid of rounded project cards](https://design.withfudge.com/share/pin-7715)
 
-[![AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://pin.fontofweb.com/7713?format=jpg)](https://design.withfudge.com/share/pin-7713)
+[![Clone page with aurora wash, translucent URL field, and compact example chips below](https://pin.fontofweb.com/7714?format=jpg)](https://design.withfudge.com/share/pin-7714)
 
-[AI MVP Builder - Build Your MVP in Minutes with AI | Capacity](https://design.withfudge.com/share/pin-7713)
+[Clone page with aurora wash, translucent URL field, and compact example chips below](https://design.withfudge.com/share/pin-7714)
 
-[![Pick the plan that fits your needs - Capacity](https://pin.fontofweb.com/7712?format=jpg)](https://design.withfudge.com/share/pin-7712)
+[![MVP builder page with a centered serif promise and a black prompt module](https://pin.fontofweb.com/7713?format=jpg)](https://design.withfudge.com/share/pin-7713)
 
-[Pick the plan that fits your needs - Capacity](https://design.withfudge.com/share/pin-7712)
+[MVP builder page with a centered serif promise and a black prompt module](https://design.withfudge.com/share/pin-7713)
 
-[![Capacity - Turn that idea you had in mind into a website](https://pin.fontofweb.com/7415?format=jpg)](https://design.withfudge.com/share/pin-7415)
+[![Pricing page with four plan cards, a one-time purchase band, and a dark FAQ block](https://pin.fontofweb.com/7712?format=jpg)](https://design.withfudge.com/share/pin-7712)
 
-[Capacity - Turn that idea you had in mind into a website](https://design.withfudge.com/share/pin-7415)
+[Pricing page with four plan cards, a one-time purchase band, and a dark FAQ block](https://design.withfudge.com/share/pin-7712)
 
 ## Overview
 
-capacity.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#ffffff`, with typography led by **System** and **Noto Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Capacity reads as a dark, centered product-site system for AI website building. The pages lean on one calm formula: a near-black canvas, white or zinc text, rounded cards with thin borders, and a warm action color that appears only where the interface needs a decision. Large serif headlines do the selling. Smaller sans text does the explaining. The result feels technical without turning into a dashboard, and cinematic without becoming decorative.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the main |
-| color.text | `#fafafa` | text on page content in the main |
-| color.text | `#ffffff` | text on page content in the main |
-| color.border | `#232323` | border on page content in the main |
-| color.border | `#242424` | border on page content in the main |
-| color.text | `#a1a1aa` | text on page content in the main |
-| color.surface | `#09090b` | surface on page content in the main |
-| color.surface | `#27272a` | surface on page content in the main |
-| color.surface | `#0a0a0a` | surface on page content in the main |
-| color.surface | `#1c1c1c` | surface on page content in the main |
-| color.border | `#404040` | border on page content in the main |
-| color.surface | `#18181b` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <div> in the main, <ul> in the main, <span> in the main, <div> in the nav, <button> in the button, and <div> in the button |
-| type.body-14px | **System** | 14px | 500 | 20px | normal | <button> in the button and <p> in the main |
-| type.display-60px | **System** | 60px | 300 | 60px | -3px | <h1> in the main |
-| type.display-60px | **System** | 60px | 400 | 54px | -3px | <h1> in the main and <span> in the main |
-| type.body-14px | **System** | 14px | 400 | 20px | normal | <p> in the main and <span> in the main |
-| type.display-48px | **System** | 48px | 500 | 48px | normal | <h1> in the main |
-| type.body-20px | **System** | 20px | 400 | 28px | normal | <p> in the main |
-| type.utility-12px | **System** | 12px | 400 | 16px | normal | <p> in the main, <span> in the button, and <p> in the button |
-| type.body-14px | **System** | 14px | 400 | 17.5px | normal | <span> in the main |
-| type.body-14px | **System** | 14px | 400 | 22.75px | normal | <p> in the main |
-| type.body-18px | **System** | 18px | 400 | 28px | normal | <p> in the main |
-| type.display-48px | **System** | 48px | 400 | 48px | normal | <h2> in the main |
-| type.utility-12px | **System** | 12px | 500 | 16px | normal | <strong> in the main |
-| type.heading-30px | **System** | 30px | 700 | 36px | normal | <h3> in the main |
-| type.body-14px | **System** | 14px | 400 | 15.4px | normal | <a> in the nav |
-| type.heading-20px | **System** | 20px | 700 | 28px | normal | <h3> in the main |
-| type.heading-18px | **System** | 18px | 700 | 28px | normal | <span> in the main and <span> in the nav |
-| type.body-16px | **System** | 16px | 500 | 24px | normal | <span> in the main |
-| type.body-20px | **System** | 20px | 500 | 28px | normal | <h2> in the main |
-| type.display-36px | **System** | 36px | 700 | 40px | -0.9px | <span> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `160px 24px 80px` | padding | page content |
-| `0px 0px 24px` | margin | page content |
-| `16px` | padding | page content |
-| `24px` | padding | page content |
-| `0px 0px 128px` | padding | page content |
-| `0px 16px 80px` | padding | page content |
-| `0px 388px` | margin | page content |
-| `0px 556px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 14px`, `1px solid 16px`, `0px none 1.67772e+07px`, `0px none 10px`, `0px none 8px`, `0px none 14px`, `1px solid 14px`, and `1px solid 10px` border treatments. Recorded gradients include `linear-gradient(in oklab, rgba(0, 0, 0, 0) 75%, rgb(9, 9, 11) 100%)`, `linear-gradient(in oklab, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 50%, rgb(10, 10, 10) 100%)`, `linear-gradient(90deg, rgba(0, 0, 0, 0) calc(50% - 70px), rgb(255, 255, 255), rgba(0, 0, 0, 0) calc(50% + 70px))`, and `linear-gradient(to right bottom in oklab, rgb(246, 137, 74) 0px, rgb(254, 64, 25) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px`, `rgba(255, 255, 255, 0.5) 2px 2px 1px 0px inset, rgba(255, 255, 255, 0.5) -1px -1px 1px 1px inset`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 1px 3px 0px`.
+The visual rhythm comes from contrast between surfaces. The hero pages sit over textured scenic gradients and blurred color fields, while the gallery and pricing views sit on flat charcoal backgrounds with dense card grids. Black prompt boxes, translucent panels, and white selected pills keep the interface legible against those atmospheric backdrops. The whole system favors broad spacing, compact copy blocks, and a few strongly framed controls rather than many competing accents.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#09090b`, and `#27272a`. Text colors include `#fafafa`, `#ffffff`, and `#a1a1aa`. Keep image-derived colors separate from interface colors.
+Capacity uses a narrow dark palette and then adds warmth only where the page needs a focal point. The base surface is almost black; the card stack lifts one step above it; borders stay close to the surfaces so they shape panels without drawing attention. White text carries the main message. Zinc copy carries the quieter labels and helper text. Orange is the main action family, and green appears as a confirmation and checklist color, never as a general decoration.
+
+| token | value | use |
+|---|---|---|
+| `canvas` | `#09090B` | Full-page background, hero base, and the deepest marketing surfaces |
+| `surface` | `#171717` | Primary cards, prompt wells, and dark panel fills |
+| `surface-raised` | `#1C1C1C` | Higher-emphasis cards, pricing tiles, and nested modules |
+| `surface-subtle` | `#232323` | Secondary card fills, utility strips, and quiet panel contrast |
+| `border` | `#27272A` | Card outlines, control edges, and grid separators |
+| `ink` | `#FAFAFA` | Main text, headings, white buttons, and high-contrast chip text |
+| `muted-ink` | `#A1A1AA` | Supporting copy, labels, metadata, and inactive controls |
+| `quiet-ink` | `#D4D4D4` | Softer helper text, short descriptions, and subdued notes |
+| `paper` | `#FAFAFA` | Filled light actions, selected chips, and high-emphasis pills |
+| `action` | `#F6894A` | Primary CTA fills, focus moments, and warm hero accents |
+| `action-strong` | `#FE4019` | Stronger warm emphasis in gradients and highlight moments |
+| `success` | `#00C950` | Check icons, positive status marks, and confirmation cues |
+| `success-strong` | `#00A63E` | Deeper green used when the mark needs more contrast |
+
+The relationship between light and dark modes is simple: dark is the default stage, light appears only as a decision surface, and photographic color sits behind the interface rather than replacing it. Orange is the only persistent warm accent. Green stays small and functional, so the page never becomes a multicolor app shell. Because the hero art is already saturated, the UI colors must remain restrained; otherwise the page loses its sense of control.
 
 ## Typography
 
-The captured type system uses **System** and **Noto Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Capacity splits the voice between a serif headline family and a neutral sans family. The serif carries the promise and the page titles; the sans handles navigation, buttons, cards, and all of the descriptive copy that must stay readable inside compact modules. The large headings are light in weight and tight in leading, which gives the page its calm editorial feeling. The smaller UI text is medium enough to hold up inside dark controls without shouting.
+
+`System-Uiserif` supplies the large display lines. `System-Uisansserif` supplies the interface text, labels, and body copy. `Noto Sans` appears only in the tiniest badge-like treatment inside a few compact controls; it is credited to the Monotype Design Team and Monotype Imaging Inc. The system and serif faces are used as uncredited system families.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | System-Uiserif | 3.75rem | 400 | 1 | -0.05em | Main hero promise and page-opening statements |
+| `section-display` | System-Uiserif | 3rem | 400 | 1 | -0.04em | Pricing titles and major mid-page section headers |
+| `card-display` | System-Uiserif | 2.25rem | 400 | 1 | -0.04em | Large price figures and compact promotional statements |
+| `card-heading` | System-Uisansserif | 1.875rem | 600 | 1.2 | -0.01em | Card titles, panel headers, and feature labels |
+| `body` | System-Uisansserif | 1rem | 400 | 1.5 | 0em | Supporting copy, descriptions, and long helper text |
+| `body-medium` | System-Uisansserif | 1rem | 500 | 1.5 | 0em | Buttons, selected tab copy, and emphasized body lines |
+| `label` | System-Uisansserif | 0.875rem | 500 | 1.43 | 0em | Navigation links, chip labels, and small control text |
+| `helper` | System-Uisansserif | 0.75rem | 400 | 1.33 | 0em | Short notes, secondary pricing details, and muted metadata |
+| `micro-badge` | Noto Sans | 0.6875rem | 400 | 1 | 0em | Tiny badge glyphs and compact chip adornments |
+
+The hierarchy depends on scale and spacing more than on many type families. Hero copy sits close to the headline, with very little extra line height. Card titles open a little more so they can sit above dense bullet lists. Helper text stays short and quiet, usually one step below the body. The site does not need wide tracking or decorative caps to feel branded; the contrast between serif headlines and neutral interface text does the work.
 
 ## Layout
 
-The captured pages use values such as `160px 24px 80px`, `0px 0px 24px`, `16px`, `24px`, and `0px 0px 128px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is built around centered content with broad side margins and large vertical breathing room. Most sections feel like stages rather than containers. The home hero opens with a centered statement and a black prompt module floating in the middle of the frame. Below that, the gallery page switches to a denser browsing pattern: a section title on the left, filter controls on the right, and a wide card grid beneath. The pricing page uses the same dark canvas but compresses into a tight four-column comparison, then widens again for a one-time purchase band and a supporting disclosure block.
+
+The major structural pattern is contrast between full-width atmosphere and tightly bounded interface. The builder heroes use scenic gradients across the whole viewport, then place a prompt box and a few example chips in a restrained center column. The community gallery uses no scenic image at all; instead, it relies on dark card rows, thin borders, and measured gaps. That shift matters: the page is not one continuous style. It alternates between mood, inventory, and decision points, but each shift stays within the same dark grammar.
+
+Spacing is generous but disciplined. Large sections rely on 64–160px of vertical separation, while cards and controls cluster around 12–32px gaps. Padding grows quickly inside cards so the content feels spacious, but borders remain thin enough that the panels never become bulky. Rounded corners stay in the 8–24px range and soften the sharpness of the black background without making the UI look soft or playful. The system prefers simple horizontal alignment, centered headlines, and low visual noise.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#09090b`, `#27272a`, and `#0a0a0a`. Depth is supported by the returned gradients and shadows.
+The visual language is cinematic, but not glossy. Atmosphere comes from textured gradients, blurred landscapes, and deep color washes that sit behind a black control surface. The hero art often leans warm: orange, rust, amber, and dusty rose. Other pages lean cooler or more violet, but the actual interface still holds to black, charcoal, white, and zinc. That separation keeps the product legible. The scenic background suggests possibility; the UI frame delivers the task.
 
-## Components and states
+Cards are flat or nearly flat. The few shadows are subtle and functional. Instead of heavy depth, the design uses thin borders, restrained fills, and selected-state inversions. A white pill means selected. A green check means confirmed. A warm orange button means act now. The page never needs a full rainbow because the architecture already provides hierarchy. The hero prompt boxes are the strongest example of this approach: one dark rectangle, one line of input, one or two compact controls, and just enough glow around the frame to keep it from sinking into the background.
 
-The captured pages include repeated styling on <div>, <h3>, <strong>, <ul>, <span>, <h2>, <button>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The typographic contrast is just as important as the color contrast. Large serif promises give the site a serious tone. Sans labels and helper text keep the interface practical. That mix lets the product feel both ambitious and usable. The cards and chips follow the same logic: the surfaces stay quiet so the text can stay direct.
+
+## Components
+
+### Hero stage
+
+- **Anatomy:** Top navigation, one centered serif headline, one short supporting sentence, a dark prompt module, and a few example chips or quick-start options.
+- **Surface:** Often placed over a scenic gradient or textured wash. The prompt module itself stays black or near-black so the input reads cleanly.
+- **Typography:** The headline uses the largest serif size with very tight leading. Supporting text and controls use the sans family in 14–16px ranges.
+- **Shape:** The prompt module and chips use soft 8–16px corners. The module is the visual anchor; the rest stays secondary.
+- **Composition:** The hierarchy is vertical and centered. The prompt sits below the claim, and the examples sit below the prompt as a light utility row.
+
+### Feature callout
+
+- **Anatomy:** Short title, bullet-style benefits, and a separate checklist or confirmation card.
+- **Surface:** One shared dark panel with a clear left/right split.
+- **Typography:** Strong heading, regular body bullets, and short checklist labels. The text is direct and compact.
+- **Visible states:** Green marks indicate completion or included value. The panel itself stays calm and flat.
+- **Composition:** Keep the text and the checklist balanced. The section works because it explains one idea quickly instead of building a complex layout.
+
+### Community gallery
+
+- **Anatomy:** Section title, sort control, category chips, and a grid of rounded project cards.
+- **Surface:** Dark canvas with cards lifted by borders and slight tonal differences.
+- **Typography:** The title is prominent, while chips and metadata use medium-weight sans text.
+- **Visible states:** The selected chip flips to a light fill with dark text. Inactive chips remain dark and muted.
+- **Composition:** The gallery is dense but orderly. Cards are arranged in rows with enough padding that the thumbnails can still dominate.
+
+### Pricing
+
+- **Anatomy:** Four plan cards, a single wide add-on strip, and a supporting FAQ block.
+- **Surface:** Cards sit on the same black canvas but use slightly different fills so one plan can feel more prominent.
+- **Typography:** Price figures are large and compact. The monthly suffix and benefit lists stay small and clear.
+- **Shape:** Cards use rounded corners and thin borders. Buttons stay pill-like or softly rounded rather than square.
+- **Visible states:** One plan often looks more ready to choose through a brighter button or more contrast in the card face.
+- **Composition:** The page relies on symmetry, then breaks it with the wide add-on band so the user can see the next purchase shape.
+
+### Prompt module
+
+- **Anatomy:** Input field, tiny mode or privacy labels, and a single right-aligned submit action.
+- **Surface:** Deep black rectangle with subdued inner contrast.
+- **Typography:** All text stays in the sans family, with helper notes one step smaller than the main field label.
+- **Shape:** Rounded but controlled. The module should feel technical, not bubbly.
+- **Visible states:** Active pills invert to light fills; tiny status glyphs stay green or warm orange as needed.
+- **Composition:** The module must remain centered and wide enough to feel substantial, but not so wide that it loses focus.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On smaller screens, the design should keep the same order of importance: headline, prompt or primary action, supporting text, then secondary chips or cards. The hero can collapse from a single centered column into a stacked layout, but the prompt module should still read as the main action surface. In the gallery, cards should reduce from wide rows to fewer columns or a single vertical stack while preserving the chip row above them. In pricing, the comparison cards should stack before the add-on strip so the plans remain easy to scan.
+
+The serif hierarchy also needs to compress carefully. The 60px headline can step down to the 48px and 36px roles without losing the page’s tone, but it should not fall all the way into generic marketing copy sizes. The dark surfaces must keep enough padding that the text does not crowd the borders. If the scenic background crops tighter on narrow widths, the overlay behind the headline and prompt should stay strong enough to preserve legibility. The design should keep selection pills and action buttons comfortably large enough to tap without introducing extra visual weight.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the page dark by default. Let scenic color live behind the interface, not replace it.
+- Preserve the serif headline voice at the top of each major page.
+- Keep warm orange as the main action color and use green only for confirmation marks.
+- Keep borders thin and corners soft. The system relies on restraint, not heavy depth.
+- Keep the prompt module, pricing cards, and gallery cards visually calm so the content can carry the page.
+
+### Avoid
+
+- Avoid a bright app-shell background or generic light dashboard styling.
+- Avoid extra font families, decorative scripts, or oversized rounded blobs.
+- Avoid heavy shadows, thick outlines, and glass effects that fight the dark surfaces.
+- Avoid spreading the orange accent across too many elements.
+- Avoid making every chip or card look unique; the system works because most pieces share the same quiet base.
+
+### Recommended build order
+
+1. Set the dark palette and the serif/sans type split.
+2. Build the centered hero and the black prompt module.
+3. Add the button, chip, and selection-state system.
+4. Build the feature callout and gallery grid with the same card language.
+5. Finish with pricing cards, the add-on strip, and the FAQ block.
+6. Compress the same hierarchy for narrow screens without changing the tone.
+
+### Accessibility
+
+- Keep all text readable against the dark canvas and especially against textured or gradient backgrounds.
+- Use the action color as a cue, not the only cue. Selected chips, check marks, and filled buttons need shape or fill differences too.
+- Keep button and chip targets large enough to tap, even when the visual treatment stays compact.
+- Preserve strong contrast for the smallest helper and badge text.
+- If a scenic background passes behind copy, add a dark overlay before lowering text opacity.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#fafafa`
-- `#ffffff`
-- `#232323`
-- `#242424`
-- `#a1a1aa`
-- `#09090b`
-- `#27272a`
-- `#0a0a0a`
-- `#1c1c1c`
-- `#404040`
-- `#18181b`
-- `#262626`
-- `#00c950`
-- `#00a63e`
-- `#d4d4d4`
-
-## Typography captured from capacity.so
-
-- **System** — weight 400 · size 16px
-- **Noto Sans** — weight 400 · size 11px
+This guide covers the desktop marketing surfaces shown in the packet: the home hero, feature callout, community gallery, clone-website hero, MVP builder hero, and pricing page. Narrow-screen treatment, hover or focus animation details, authenticated product screens, and any non-marketing app interface are not included.

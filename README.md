@@ -1009,9 +1009,9 @@ cap.so presents a predominantly dark surface treatment in the captured pages. Th
 
 ### capacity.so
 
-[![How capacity.so is designed](https://pin.fontofweb.com/7716?format=jpg)](design-md/capacity.so.md)
+[![How capacity.so is designed](https://pin.fontofweb.com/7415?format=jpg)](design-md/capacity.so.md)
 
-capacity.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#ffffff`, with typography led by **System** and **Noto Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Capacity reads as a dark, centered product-site system for AI website building. The pages lean on one calm formula: a near-black canvas, white or zinc text, rounded cards with thin borders, and a warm action color that appears only where the interface needs a decision. Large serif headlines do the selling. Smaller sans text does the explaining. The result feels technical without turning into a dashboard, and cinematic without becoming decorative.
 
 [Open guide](design-md/capacity.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/capacity.so-design)
 
