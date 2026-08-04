@@ -1,39 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:44:33.618Z",
+  "generatedAt": "2026-08-04T19:49:40.965Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 150,
     "ready": 20,
-    "syncing": 1,
-    "needs_reprocessing": 21,
     "failed": 28,
+    "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 1,
+    "validating": 3,
+    "syncing": 1,
     "repairing": 2,
-    "drafting": 3,
+    "drafting": 1,
     "legacy": 77
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:44:31.601Z",
+    "heartbeatAt": "2026-08-04T19:49:38.809Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-04T19:33:21.298Z"
-        },
-        {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-04T19:34:58.442Z"
+          "domain": "celesteduffy.com",
+          "startedAt": "2026-08-04T19:46:03.517Z"
         },
         {
           "domain": "davidprotein.com",
           "startedAt": "2026-08-04T19:44:16.088Z"
+        },
+        {
+          "domain": "dedcool.com",
+          "startedAt": "2026-08-04T19:46:08.700Z"
+        },
+        {
+          "domain": "deepjudge.ai",
+          "startedAt": "2026-08-04T19:45:17.449Z"
         },
         {
           "domain": "designsystems.surf",
@@ -42,23 +46,19 @@
         {
           "domain": "designwithvibbbes.com",
           "startedAt": "2026-08-04T19:41:01.796Z"
-        },
-        {
-          "domain": "developer.chrome.com",
-          "startedAt": "2026-08-04T19:41:27.448Z"
         }
       ],
-      "completedThisRun": 26,
-      "failedThisRun": 41
+      "completedThisRun": 27,
+      "failedThisRun": 43
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "ai.cloudflare.com",
-        "startedAt": "2026-08-04T19:39:19.365Z"
+        "domain": "cofounder.co",
+        "startedAt": "2026-08-04T19:45:32.921Z"
       },
       "completedThisRun": 12,
-      "failedThisRun": 13
+      "failedThisRun": 14
     },
     "queue": {
       "eligibleGeneration": 1001,
@@ -68,11 +68,11 @@
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:39:26.739Z"
+      "lastSyncedAt": "2026-08-04T19:44:38.647Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:41:24.935Z",
-      "message": "Generation failed for dfy.co.kr with exit 1."
+      "at": "2026-08-04T19:46:01.895Z",
+      "message": "Generation failed for app.reve.com with exit 1."
     }
   },
   "domains": [
@@ -897,9 +897,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-04T19:39:22.834Z",
+      "updatedAt": "2026-08-04T19:45:30.418Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -1495,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "validating",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:44:13.892Z",
+      "updatedAt": "2026-08-04T19:45:16.763Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1989,9 +1989,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 6,
-      "updatedAt": "2026-08-04T19:43:02.338Z",
+      "updatedAt": "2026-08-04T19:46:01.828Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -4264,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T18:51:36.877Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T19:48:29.725Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4745,9 +4745,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:32:03.806Z",
+      "updatedAt": "2026-08-04T19:45:37.696Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -5564,9 +5564,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:44:20.655Z",
+      "updatedAt": "2026-08-04T19:48:03.573Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5629,9 +5629,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T18:54:57.978Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:46:15.323Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -5668,9 +5668,9 @@
     },
     {
       "domain": "deepjudge.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T18:50:10.810Z",
+      "state": "repairing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T19:49:17.326Z",
       "blocker": null,
       "publication": {
         "key": "deepjudge.ai-design",
@@ -5928,9 +5928,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:43:15.686Z",
+      "updatedAt": "2026-08-04T19:48:41.920Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -5941,9 +5941,9 @@
     },
     {
       "domain": "designwithvibbbes.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:41:07.969Z",
+      "updatedAt": "2026-08-04T19:48:11.552Z",
       "blocker": null,
       "publication": {
         "key": "designwithvibbbes.com-design",
@@ -6032,9 +6032,9 @@
     },
     {
       "domain": "developer.chrome.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:41:31.518Z",
+      "updatedAt": "2026-08-04T19:46:04.762Z",
       "blocker": null,
       "publication": {
         "key": "developer.chrome.com-design",
