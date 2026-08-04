@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T23:17:19.702Z",
-  "heartbeatAt": "2026-08-04T23:17:19.993Z",
+  "heartbeatAt": "2026-08-04T23:22:29.112Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "liverpoolfc.com",
-        "startedAt": "2026-08-04T23:17:19.932Z"
+        "domain": "rains.com",
+        "startedAt": "2026-08-04T23:22:13.622Z"
       },
       {
-        "domain": "longnow.org",
-        "startedAt": "2026-08-04T23:17:19.924Z"
+        "domain": "redo.com",
+        "startedAt": "2026-08-04T23:22:18.788Z"
       },
       {
-        "domain": "lovefrom.com",
-        "startedAt": "2026-08-04T23:17:19.930Z"
+        "domain": "replacement.ai",
+        "startedAt": "2026-08-04T23:22:29.044Z"
       },
       {
-        "domain": "lowercase.club",
-        "startedAt": "2026-08-04T23:17:19.931Z"
+        "domain": "restylaneusa.com",
+        "startedAt": "2026-08-04T23:22:23.887Z"
       },
       {
-        "domain": "luna.amazon.com",
-        "startedAt": "2026-08-04T23:17:19.933Z"
+        "domain": "revenuecat.com",
+        "startedAt": "2026-08-04T23:22:29.043Z"
       },
       {
-        "domain": "lustucru.fr",
-        "startedAt": "2026-08-04T23:17:19.933Z"
+        "domain": "roadwayai.com",
+        "startedAt": "2026-08-04T23:22:29.042Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 113
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 891,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-04T23:17:26.565Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T23:22:26.410Z",
+    "message": "Generation failed for refit.framer.website with exit 1."
+  }
 }
