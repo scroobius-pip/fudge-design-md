@@ -2,21 +2,13 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T14:33:35.237Z",
+  "heartbeatAt": "2026-08-04T14:36:36.892Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "aol.com",
-        "startedAt": "2026-08-04T14:26:30.638Z"
-      },
-      {
         "domain": "api.scira.ai",
         "startedAt": "2026-08-04T14:26:30.654Z"
-      },
-      {
-        "domain": "app.brevo.com",
-        "startedAt": "2026-08-04T14:26:30.651Z"
       },
       {
         "domain": "app.reve.com",
@@ -29,29 +21,37 @@
       {
         "domain": "artera.ae",
         "startedAt": "2026-08-04T14:32:44.189Z"
+      },
+      {
+        "domain": "artificialanalysis.ai",
+        "startedAt": "2026-08-04T14:36:06.184Z"
+      },
+      {
+        "domain": "artstation.com",
+        "startedAt": "2026-08-04T14:35:55.955Z"
       }
     ],
-    "completedThisRun": 1,
-    "failedThisRun": 1
+    "completedThisRun": 2,
+    "failedThisRun": 3
   },
   "publication": {
     "concurrency": 1,
     "active": null,
-    "completedThisRun": 1,
+    "completedThisRun": 2,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1068,
-    "availableGeneration": 1067,
+    "eligibleGeneration": 1066,
+    "availableGeneration": 1064,
     "readyPublication": 0,
-    "publishedVerified": 105
+    "publishedVerified": 106
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T14:31:48.727Z"
+    "lastSyncedAt": "2026-08-04T14:33:41.738Z"
   },
   "lastError": {
-    "at": "2026-08-04T14:31:53.449Z",
-    "message": "Generation failed for app.superlist.com with exit 1."
+    "at": "2026-08-04T14:35:53.979Z",
+    "message": "Generation failed for assistant-ui.com with exit 1."
   }
 }

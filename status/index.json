@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:33:37.389Z",
+  "generatedAt": "2026-08-04T14:36:38.778Z",
   "counts": {
-    "skipped_one_image": 524,
+    "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 105,
-    "failed": 77,
+    "published_verified": 106,
+    "failed": 75,
     "needs_reprocessing": 21,
     "unpublished": 896,
     "repairing": 3,
@@ -17,21 +17,13 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:33:35.237Z",
+    "heartbeatAt": "2026-08-04T14:36:36.892Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "aol.com",
-          "startedAt": "2026-08-04T14:26:30.638Z"
-        },
-        {
           "domain": "api.scira.ai",
           "startedAt": "2026-08-04T14:26:30.654Z"
-        },
-        {
-          "domain": "app.brevo.com",
-          "startedAt": "2026-08-04T14:26:30.651Z"
         },
         {
           "domain": "app.reve.com",
@@ -44,30 +36,38 @@
         {
           "domain": "artera.ae",
           "startedAt": "2026-08-04T14:32:44.189Z"
+        },
+        {
+          "domain": "artificialanalysis.ai",
+          "startedAt": "2026-08-04T14:36:06.184Z"
+        },
+        {
+          "domain": "artstation.com",
+          "startedAt": "2026-08-04T14:35:55.955Z"
         }
       ],
-      "completedThisRun": 1,
-      "failedThisRun": 1
+      "completedThisRun": 2,
+      "failedThisRun": 3
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 1,
+      "completedThisRun": 2,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1068,
-      "availableGeneration": 1067,
+      "eligibleGeneration": 1066,
+      "availableGeneration": 1064,
       "readyPublication": 0,
-      "publishedVerified": 105
+      "publishedVerified": 106
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:31:48.727Z"
+      "lastSyncedAt": "2026-08-04T14:33:41.738Z"
     },
     "lastError": {
-      "at": "2026-08-04T14:31:53.449Z",
-      "message": "Generation failed for app.superlist.com with exit 1."
+      "at": "2026-08-04T14:35:53.979Z",
+      "message": "Generation failed for assistant-ui.com with exit 1."
     }
   },
   "domains": [
@@ -1438,9 +1438,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:32:57.227Z",
+      "updatedAt": "2026-08-04T14:35:47.374Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1490,9 +1490,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:33:19.029Z",
+      "updatedAt": "2026-08-04T14:34:24.191Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1581,15 +1581,15 @@
     },
     {
       "domain": "app.brevo.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:31:46.081Z",
+      "updatedAt": "2026-08-04T14:36:36.599Z",
       "blocker": null,
       "publication": {
         "key": "app.brevo.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/app.brevo.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.brevo.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.brevo.com.md"
       }
     },
     {
@@ -1986,7 +1986,7 @@
       "domain": "app.reve.com",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:32:10.760Z",
+      "updatedAt": "2026-08-04T14:35:23.500Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2205,9 +2205,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:32:01.270Z",
+      "updatedAt": "2026-08-04T14:35:57.983Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2361,9 +2361,9 @@
     },
     {
       "domain": "artera.ae",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:32:54.035Z",
+      "updatedAt": "2026-08-04T14:36:19.465Z",
       "blocker": null,
       "publication": {
         "key": "artera.ae-design",
@@ -2374,9 +2374,9 @@
     },
     {
       "domain": "artificialanalysis.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:20:00.312Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:36:14.223Z",
       "blocker": null,
       "publication": {
         "key": "artificialanalysis.ai-design",
@@ -2426,9 +2426,9 @@
     },
     {
       "domain": "artstation.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:17:13.437Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:35:58.909Z",
       "blocker": null,
       "publication": {
         "key": "artstation.com-design",
@@ -2491,10 +2491,10 @@
     },
     {
       "domain": "assistant-ui.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:15:36.711Z",
-      "blocker": null,
+      "state": "skipped_one_image",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:35:53.900Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "assistant-ui.com-design",
         "url": null,
