@@ -1,38 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T21:42:41.923Z",
+  "generatedAt": "2026-08-04T21:43:02.217Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
-    "published_verified": 157,
+    "published_verified": 158,
     "failed": 941,
     "needs_reprocessing": 22,
-    "ready": 9,
-    "syncing": 1,
-    "drafting": 3,
-    "preparing": 3,
+    "ready": 8,
+    "drafting": 5,
+    "preparing": 1,
+    "publishing": 1,
     "unpublished": 59
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T21:42:39.981Z",
+    "heartbeatAt": "2026-08-04T21:43:00.481Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "concepts.app",
-          "startedAt": "2026-08-04T21:42:29.711Z"
-        },
-        {
-          "domain": "configurator.porsche.com",
-          "startedAt": "2026-08-04T21:42:34.814Z"
-        },
-        {
-          "domain": "contra.com",
-          "startedAt": "2026-08-04T21:42:39.929Z"
-        },
         {
           "domain": "count.co",
           "startedAt": "2026-08-04T21:42:39.930Z"
@@ -42,35 +30,47 @@
           "startedAt": "2026-08-04T21:42:39.928Z"
         },
         {
-          "domain": "typographyprinciples.obys.agency",
-          "startedAt": "2026-08-04T21:42:29.715Z"
+          "domain": "createanything.com",
+          "startedAt": "2026-08-04T21:42:50.146Z"
+        },
+        {
+          "domain": "createdbymille.com",
+          "startedAt": "2026-08-04T21:43:00.404Z"
+        },
+        {
+          "domain": "crescenzi.co",
+          "startedAt": "2026-08-04T21:42:50.145Z"
+        },
+        {
+          "domain": "cryptix.framer.website",
+          "startedAt": "2026-08-04T21:42:55.255Z"
         }
       ],
       "completedThisRun": 38,
-      "failedThisRun": 1176
+      "failedThisRun": 1180
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "celesteduffy.com",
-        "startedAt": "2026-08-04T21:38:32.861Z"
+        "domain": "deezer.com",
+        "startedAt": "2026-08-04T21:43:00.387Z"
       },
-      "completedThisRun": 19,
+      "completedThisRun": 20,
       "failedThisRun": 29
     },
     "queue": {
-      "eligibleGeneration": 1003,
-      "availableGeneration": 59,
+      "eligibleGeneration": 1001,
+      "availableGeneration": 61,
       "readyPublication": 9,
-      "publishedVerified": 157
+      "publishedVerified": 158
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T21:37:37.731Z"
+      "lastSyncedAt": "2026-08-04T21:42:47.156Z"
     },
     "lastError": {
-      "at": "2026-08-04T21:42:38.997Z",
-      "message": "Generation failed for column.com with exit 1."
+      "at": "2026-08-04T21:42:56.874Z",
+      "message": "Generation failed for contra.com with exit 1."
     }
   },
   "domains": [
@@ -4262,15 +4262,15 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T21:38:36.421Z",
+      "updatedAt": "2026-08-04T21:42:57.605Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
         "url": "https://design.withfudge.com/share/celesteduffy.com-design",
         "markdownUrl": "https://design.withfudge.com/share/celesteduffy.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/celesteduffy.com.md"
       }
     },
     {
@@ -4834,9 +4834,9 @@
     },
     {
       "domain": "concepts.app",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:42:35.205Z",
+      "updatedAt": "2026-08-04T21:42:48.754Z",
       "blocker": null,
       "publication": {
         "key": "concepts.app-design",
@@ -4860,9 +4860,9 @@
     },
     {
       "domain": "configurator.porsche.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:42:41.035Z",
+      "updatedAt": "2026-08-04T21:42:52.141Z",
       "blocker": null,
       "publication": {
         "key": "configurator.porsche.com-design",
@@ -4938,9 +4938,9 @@
     },
     {
       "domain": "contra.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:42:40.105Z",
+      "updatedAt": "2026-08-04T21:42:56.806Z",
       "blocker": null,
       "publication": {
         "key": "contra.com-design",
@@ -5042,9 +5042,9 @@
     },
     {
       "domain": "count.co",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:42:40.112Z",
+      "updatedAt": "2026-08-04T21:42:50.392Z",
       "blocker": null,
       "publication": {
         "key": "count.co-design",
@@ -5094,9 +5094,9 @@
     },
     {
       "domain": "crazyrdp.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 2,
-      "updatedAt": "2026-08-04T21:42:40.105Z",
+      "updatedAt": "2026-08-04T21:42:47.144Z",
       "blocker": null,
       "publication": {
         "key": "crazyrdp.com-design",
@@ -5107,9 +5107,9 @@
     },
     {
       "domain": "createanything.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:43:04.155Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:42:59.164Z",
       "blocker": null,
       "publication": {
         "key": "createanything.com-design",
@@ -5120,9 +5120,9 @@
     },
     {
       "domain": "createdbymille.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:43:07.044Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:43:00.669Z",
       "blocker": null,
       "publication": {
         "key": "createdbymille.com-design",
@@ -5159,9 +5159,9 @@
     },
     {
       "domain": "crescenzi.co",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:43:03.890Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:42:58.424Z",
       "blocker": null,
       "publication": {
         "key": "crescenzi.co-design",
@@ -5211,9 +5211,9 @@
     },
     {
       "domain": "cryptix.framer.website",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-04T20:43:04.753Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T21:42:57.952Z",
       "blocker": null,
       "publication": {
         "key": "cryptix.framer.website-design",
@@ -5718,9 +5718,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T19:55:11.453Z",
+      "updatedAt": "2026-08-04T21:43:00.495Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -20811,9 +20811,9 @@
     },
     {
       "domain": "typographyprinciples.obys.agency",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T21:42:36.032Z",
+      "updatedAt": "2026-08-04T21:42:48.621Z",
       "blocker": null,
       "publication": {
         "key": "typographyprinciples.obys.agency-design",
