@@ -643,7 +643,7 @@ Superdesign is a dark workshop interface for building pages from prompts, templa
 
 [![How app.superlist.com is designed](https://pin.fontofweb.com/8892?format=jpg)](design-md/app.superlist.com.md)
 
-app.superlist.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by the recorded surface and text values, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
+Superlist’s landing surface is a split composition with two different jobs. The left side behaves like a theatrical product stage: a large violet field, a centered slogan, and a loose stack of overlapping task cards built around a portrait. The right side acts like the decision point: a dark, narrow rail that holds the app mark, a short sign-in message, helper copy, and three pill-shaped login actions. The whole page feels playful, but it stays controlled because the layout is simple and the surfaces are large.
 
 [Open guide](design-md/app.superlist.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.superlist.com-design)
 
