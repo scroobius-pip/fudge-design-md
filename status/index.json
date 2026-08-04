@@ -1,68 +1,66 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:21:38.646Z",
+  "generatedAt": "2026-08-04T14:23:19.093Z",
   "counts": {
     "skipped_one_image": 523,
     "skipped_recent": 9,
     "published_verified": 104,
-    "drafting": 6,
-    "failed": 71,
+    "failed": 79,
+    "preparing": 6,
     "needs_reprocessing": 21,
-    "repairing": 4,
-    "validating": 3,
-    "unpublished": 897,
+    "unpublished": 896,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T14:17:35.493Z",
-    "heartbeatAt": "2026-08-04T14:21:36.610Z",
+    "startedAt": "2026-08-04T14:23:15.986Z",
+    "heartbeatAt": "2026-08-04T14:23:16.641Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "ai.cloudflare.com",
-          "startedAt": "2026-08-04T14:17:35.884Z"
+          "domain": "agentation.dev",
+          "startedAt": "2026-08-04T14:23:16.357Z"
         },
         {
-          "domain": "airbnb.com",
-          "startedAt": "2026-08-04T14:17:35.888Z"
+          "domain": "agenticui.net",
+          "startedAt": "2026-08-04T14:23:16.363Z"
         },
         {
-          "domain": "airwallex.com",
-          "startedAt": "2026-08-04T14:17:35.892Z"
+          "domain": "ahrefsevolve.com",
+          "startedAt": "2026-08-04T14:23:16.368Z"
         },
         {
-          "domain": "aistudio.google.com",
-          "startedAt": "2026-08-04T14:17:35.898Z"
+          "domain": "aino.agency",
+          "startedAt": "2026-08-04T14:23:16.373Z"
         },
         {
-          "domain": "akukolabs.com",
-          "startedAt": "2026-08-04T14:17:35.943Z"
+          "domain": "almost-pearfect.com",
+          "startedAt": "2026-08-04T14:23:16.459Z"
         },
         {
-          "domain": "aldiwan.net",
-          "startedAt": "2026-08-04T14:21:06.008Z"
+          "domain": "ami.dev",
+          "startedAt": "2026-08-04T14:23:16.498Z"
         }
       ],
-      "completedThisRun": 1,
+      "completedThisRun": 0,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 1,
+      "completedThisRun": 0,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 474,
+      "eligibleGeneration": 1070,
       "readyPublication": 0,
       "publishedVerified": 104
     },
-    "recoveredThisRun": 6,
+    "recoveredThisRun": 13,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:17:42.695Z"
+      "lastSyncedAt": null
     },
     "lastError": null
   },
@@ -654,9 +652,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-03T16:42:29.281Z",
+      "updatedAt": "2026-08-04T14:23:16.173Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -667,9 +665,9 @@
     },
     {
       "domain": "ads.pinterest.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-03T16:42:27.935Z",
+      "updatedAt": "2026-08-04T14:23:16.177Z",
       "blocker": null,
       "publication": {
         "key": "ads.pinterest.com-design",
@@ -797,9 +795,9 @@
     },
     {
       "domain": "agentation.dev",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T16:42:26.944Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:23:16.728Z",
       "blocker": null,
       "publication": {
         "key": "agentation.dev-design",
@@ -810,9 +808,9 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T16:44:24.058Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:23:16.684Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
@@ -849,9 +847,9 @@
     },
     {
       "domain": "ahrefsevolve.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T16:56:05.523Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:23:16.694Z",
       "blocker": null,
       "publication": {
         "key": "ahrefsevolve.com-design",
@@ -888,9 +886,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T14:17:41.584Z",
+      "updatedAt": "2026-08-04T14:23:16.179Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -927,9 +925,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:01:14.311Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:23:16.675Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -966,9 +964,9 @@
     },
     {
       "domain": "airbnb.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:20:53.929Z",
+      "updatedAt": "2026-08-04T14:21:59.791Z",
       "blocker": null,
       "publication": {
         "key": "airbnb.com-design",
@@ -992,9 +990,9 @@
     },
     {
       "domain": "airwallex.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:20:55.247Z",
+      "updatedAt": "2026-08-04T14:23:16.179Z",
       "blocker": null,
       "publication": {
         "key": "airwallex.com-design",
@@ -1018,9 +1016,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:20:31.344Z",
+      "updatedAt": "2026-08-04T14:23:16.180Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1044,9 +1042,9 @@
     },
     {
       "domain": "akukolabs.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T14:17:47.764Z",
+      "updatedAt": "2026-08-04T14:23:16.180Z",
       "blocker": null,
       "publication": {
         "key": "akukolabs.com-design",
@@ -1070,9 +1068,9 @@
     },
     {
       "domain": "aldiwan.net",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:21:09.042Z",
+      "updatedAt": "2026-08-04T14:23:16.181Z",
       "blocker": null,
       "publication": {
         "key": "aldiwan.net-design",
@@ -1096,9 +1094,9 @@
     },
     {
       "domain": "alibabacloud.com",
-      "state": "unpublished",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:23:55.937Z",
+      "state": "failed",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:23:16.181Z",
       "blocker": null,
       "publication": {
         "key": "alibabacloud.com-design",
@@ -1161,9 +1159,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:07:36.239Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:23:16.881Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1252,9 +1250,9 @@
     },
     {
       "domain": "ami.dev",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T17:19:57.018Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:23:16.862Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
@@ -5373,9 +5371,9 @@
     },
     {
       "domain": "dandad.org",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-03T20:43:40.947Z",
+      "updatedAt": "2026-08-04T14:23:16.182Z",
       "blocker": null,
       "publication": {
         "key": "dandad.org-design",
@@ -5399,9 +5397,9 @@
     },
     {
       "domain": "danielsun.space",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-03T20:44:30.360Z",
+      "updatedAt": "2026-08-04T14:23:16.183Z",
       "blocker": null,
       "publication": {
         "key": "danielsun.space-design",
@@ -5412,9 +5410,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "validating",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-03T20:44:13.053Z",
+      "updatedAt": "2026-08-04T14:23:16.184Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -5425,9 +5423,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-03T20:42:20.199Z",
+      "updatedAt": "2026-08-04T14:23:16.185Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -8727,9 +8725,9 @@
     },
     {
       "domain": "git.law",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-03T20:45:15.348Z",
+      "updatedAt": "2026-08-04T14:23:16.185Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",
