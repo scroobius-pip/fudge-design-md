@@ -359,6 +359,14 @@ aino.agency presents a mixed light and dark surface treatment in the captured pa
 
 [Open guide](design-md/aino.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/aino.agency-design)
 
+### air.dev
+
+[![How air.dev is designed](https://pin.fontofweb.com/5314?format=jpg)](design-md/air.dev.md)
+
+Air uses a restrained dark canvas and a single high-contrast message style to make the product feel engineered, not decorative. The homepage reads like a control room: compact mono copy, oversized dotted headlines, bright white controls, and teal-green ambient shapes all sit on top of a charcoal base. The result is technical, but not cold. It feels like a live desktop product that expects the user to act quickly.
+
+[Open guide](design-md/air.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/air.dev-design)
+
 ### airbnb.ca
 
 [![How airbnb.ca is designed](https://pin.fontofweb.com/10049?format=jpg)](design-md/airbnb.ca.md)
