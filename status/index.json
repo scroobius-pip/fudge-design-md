@@ -1,34 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:36:38.778Z",
+  "generatedAt": "2026-08-04T14:40:45.168Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 106,
-    "failed": 75,
+    "published_verified": 107,
+    "failed": 74,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 3,
     "validating": 1,
-    "drafting": 2,
+    "repairing": 2,
+    "drafting": 3,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:36:36.892Z",
+    "heartbeatAt": "2026-08-04T14:40:43.000Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-04T14:26:30.654Z"
-        },
-        {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-04T14:26:30.661Z"
-        },
         {
           "domain": "arcee.ai",
           "startedAt": "2026-08-04T14:31:58.174Z"
@@ -42,32 +34,40 @@
           "startedAt": "2026-08-04T14:36:06.184Z"
         },
         {
-          "domain": "artstation.com",
-          "startedAt": "2026-08-04T14:35:55.955Z"
+          "domain": "awwwards.com",
+          "startedAt": "2026-08-04T14:39:21.005Z"
+        },
+        {
+          "domain": "baked.design",
+          "startedAt": "2026-08-04T14:40:12.322Z"
+        },
+        {
+          "domain": "dfy.co.kr",
+          "startedAt": "2026-08-04T14:37:48.626Z"
         }
       ],
-      "completedThisRun": 2,
-      "failedThisRun": 3
+      "completedThisRun": 3,
+      "failedThisRun": 5
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 2,
+      "completedThisRun": 3,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1066,
-      "availableGeneration": 1064,
+      "eligibleGeneration": 1065,
+      "availableGeneration": 1061,
       "readyPublication": 0,
-      "publishedVerified": 106
+      "publishedVerified": 107
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:33:41.738Z"
+      "lastSyncedAt": "2026-08-04T14:36:44.559Z"
     },
     "lastError": {
-      "at": "2026-08-04T14:35:53.979Z",
-      "message": "Generation failed for assistant-ui.com with exit 1."
+      "at": "2026-08-04T14:39:16.645Z",
+      "message": "Generation failed for app.reve.com with exit 1."
     }
   },
   "domains": [
@@ -1490,9 +1490,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:34:24.191Z",
+      "updatedAt": "2026-08-04T14:37:45.315Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1984,9 +1984,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:35:23.500Z",
+      "updatedAt": "2026-08-04T14:39:16.574Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2205,9 +2205,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:35:57.983Z",
+      "updatedAt": "2026-08-04T14:40:03.419Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2361,9 +2361,9 @@
     },
     {
       "domain": "artera.ae",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:36:19.465Z",
+      "updatedAt": "2026-08-04T14:39:49.609Z",
       "blocker": null,
       "publication": {
         "key": "artera.ae-design",
@@ -2374,9 +2374,9 @@
     },
     {
       "domain": "artificialanalysis.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:36:14.223Z",
+      "updatedAt": "2026-08-04T14:40:37.692Z",
       "blocker": null,
       "publication": {
         "key": "artificialanalysis.ai-design",
@@ -2426,15 +2426,15 @@
     },
     {
       "domain": "artstation.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:35:58.909Z",
+      "updatedAt": "2026-08-04T14:40:41.232Z",
       "blocker": null,
       "publication": {
         "key": "artstation.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/artstation.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/artstation.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/artstation.com.md"
       }
     },
     {
@@ -2764,9 +2764,9 @@
     },
     {
       "domain": "awwwards.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:26:47.509Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:39:28.369Z",
       "blocker": null,
       "publication": {
         "key": "awwwards.com-design",
@@ -2790,9 +2790,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:26:59.175Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:40:19.778Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -6092,9 +6092,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T18:21:44.951Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:38:13.399Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
