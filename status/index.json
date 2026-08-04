@@ -1,32 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:17:40.000Z",
+  "generatedAt": "2026-08-04T17:19:43.154Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 132,
-    "failed": 31,
+    "published_verified": 133,
+    "failed": 30,
     "ready": 17,
     "needs_reprocessing": 21,
-    "syncing": 1,
+    "publishing": 1,
     "unpublished": 896,
-    "validating": 2,
+    "validating": 3,
     "repairing": 1,
-    "drafting": 3,
+    "drafting": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:17:37.575Z",
+    "heartbeatAt": "2026-08-04T17:19:40.453Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "aura.build",
-          "startedAt": "2026-08-04T17:14:17.913Z"
-        },
         {
           "domain": "brave.com",
           "startedAt": "2026-08-04T17:06:11.891Z"
@@ -40,6 +36,10 @@
           "startedAt": "2026-08-04T17:16:05.429Z"
         },
         {
+          "domain": "cavalry.studio",
+          "startedAt": "2026-08-04T17:18:13.407Z"
+        },
+        {
           "domain": "fin.ai",
           "startedAt": "2026-08-04T17:15:19.225Z"
         },
@@ -48,27 +48,27 @@
           "startedAt": "2026-08-04T17:16:36.115Z"
         }
       ],
-      "completedThisRun": 60,
+      "completedThisRun": 61,
       "failedThisRun": 43
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "airwallex.com",
-        "startedAt": "2026-08-04T17:13:37.114Z"
+        "domain": "alibabacloud.com",
+        "startedAt": "2026-08-04T17:19:40.399Z"
       },
-      "completedThisRun": 28,
+      "completedThisRun": 29,
       "failedThisRun": 14
     },
     "queue": {
-      "eligibleGeneration": 1022,
-      "availableGeneration": 1000,
-      "readyPublication": 17,
-      "publishedVerified": 132
+      "eligibleGeneration": 1021,
+      "availableGeneration": 1001,
+      "readyPublication": 18,
+      "publishedVerified": 133
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:12:32.686Z"
+      "lastSyncedAt": "2026-08-04T17:17:46.166Z"
     },
     "lastError": {
       "at": "2026-08-04T17:16:02.072Z",
@@ -1001,15 +1001,15 @@
     },
     {
       "domain": "airwallex.com",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T17:13:41.920Z",
+      "updatedAt": "2026-08-04T17:19:40.139Z",
       "blocker": null,
       "publication": {
         "key": "airwallex.com-design",
         "url": "https://design.withfudge.com/share/airwallex.com-design",
         "markdownUrl": "https://design.withfudge.com/share/airwallex.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/airwallex.com.md"
       }
     },
     {
@@ -1105,9 +1105,9 @@
     },
     {
       "domain": "alibabacloud.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:21:43.915Z",
+      "updatedAt": "2026-08-04T17:19:40.440Z",
       "blocker": null,
       "publication": {
         "key": "alibabacloud.com-design",
@@ -2587,9 +2587,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "validating",
+      "state": "ready",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:17:02.433Z",
+      "updatedAt": "2026-08-04T17:18:11.978Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3499,7 +3499,7 @@
       "domain": "brave.com",
       "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:15:24.938Z",
+      "updatedAt": "2026-08-04T17:19:35.696Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3655,7 +3655,7 @@
       "domain": "bud.app",
       "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:17:17.097Z",
+      "updatedAt": "2026-08-04T17:19:30.903Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3991,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:16:09.214Z",
+      "updatedAt": "2026-08-04T17:18:51.050Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4251,9 +4251,9 @@
     },
     {
       "domain": "cavalry.studio",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T15:54:27.539Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T17:18:18.200Z",
       "blocker": null,
       "publication": {
         "key": "cavalry.studio-design",
@@ -7670,9 +7670,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:16:40.187Z",
+      "updatedAt": "2026-08-04T17:19:39.280Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
