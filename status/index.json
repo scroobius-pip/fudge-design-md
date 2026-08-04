@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T19:14:57.117Z",
+  "generatedAt": "2026-08-04T19:18:36.000Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 146,
-    "ready": 22,
+    "published_verified": 147,
+    "ready": 20,
     "needs_reprocessing": 21,
-    "failed": 26,
+    "failed": 27,
     "unpublished": 896,
-    "repairing": 2,
-    "drafting": 4,
-    "syncing": 1,
-    "legacy": 81
+    "validating": 5,
+    "publishing": 1,
+    "legacy": 81,
+    "repairing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T19:14:54.008Z",
+    "heartbeatAt": "2026-08-04T19:18:34.105Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -53,25 +53,25 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "dash.dropbox.com",
-        "startedAt": "2026-08-04T19:10:43.319Z"
+        "domain": "cosmic-ray.tv",
+        "startedAt": "2026-08-04T19:18:34.053Z"
       },
-      "completedThisRun": 8,
-      "failedThisRun": 9
+      "completedThisRun": 9,
+      "failedThisRun": 10
     },
     "queue": {
-      "eligibleGeneration": 1003,
-      "availableGeneration": 978,
-      "readyPublication": 22,
-      "publishedVerified": 146
+      "eligibleGeneration": 1004,
+      "availableGeneration": 979,
+      "readyPublication": 21,
+      "publishedVerified": 147
     },
     "recoveredThisRun": 7,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T19:09:52.921Z"
+      "lastSyncedAt": "2026-08-04T19:15:01.619Z"
     },
     "lastError": {
-      "at": "2026-08-04T19:13:27.556Z",
-      "message": "Generation failed for binary.so with exit 1."
+      "at": "2026-08-04T19:16:52.851Z",
+      "message": "Publication failed for dash.dropbox.com with exit 1."
     }
   },
   "domains": [
@@ -2963,9 +2963,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:11:15.489Z",
+      "updatedAt": "2026-08-04T19:17:42.927Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3184,9 +3184,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T19:13:38.773Z",
+      "updatedAt": "2026-08-04T19:16:47.177Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3288,9 +3288,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:13:36.777Z",
+      "updatedAt": "2026-08-04T19:18:02.617Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3639,9 +3639,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:12:03.690Z",
+      "updatedAt": "2026-08-04T19:18:27.237Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -4341,15 +4341,15 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:50:40.041Z",
+      "updatedAt": "2026-08-04T19:18:33.559Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
         "url": "https://design.withfudge.com/share/chatgpt.com-design",
         "markdownUrl": "https://design.withfudge.com/share/chatgpt.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/chatgpt.com.md"
       }
     },
     {
@@ -4965,9 +4965,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:12:45.985Z",
+      "updatedAt": "2026-08-04T19:16:57.913Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -4991,9 +4991,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:54:51.168Z",
+      "updatedAt": "2026-08-04T19:18:34.096Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -5446,9 +5446,9 @@
     },
     {
       "domain": "dash.dropbox.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 1,
-      "updatedAt": "2026-08-04T19:10:48.222Z",
+      "updatedAt": "2026-08-04T19:16:52.744Z",
       "blocker": null,
       "publication": {
         "key": "dash.dropbox.com-design",
@@ -7669,9 +7669,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T19:13:55.842Z",
+      "updatedAt": "2026-08-04T19:18:14.215Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
