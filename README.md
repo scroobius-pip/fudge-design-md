@@ -745,9 +745,9 @@ Autogram’s page language is spare, bright, and centered. The whole screen read
 
 ### awwwards.com
 
-[![How awwwards.com is designed](https://pin.fontofweb.com/6996?format=jpg)](design-md/awwwards.com.md)
+[![How awwwards.com is designed](https://pin.fontofweb.com/6995?format=jpg)](design-md/awwwards.com.md)
 
-awwwards.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#222222`, `#000000`, and `#ededed`, with typography led by **Inter Tight**. The guide below names reusable design roles only where the captured evidence supports them.
+Awwwards uses one visual grammar across a few page types: a quiet pale stage for utility content, a white stage for list and card systems, and a black stage for poster-like statements. The constant is Inter Tight. Headlines are huge, centered, and uncompromising; supporting controls stay small, rounded, and mostly flat. The jobs board, home hero, and FAQ pages all keep the same disciplined shell even when the center shifts from a grid to a single headline to a long question list.
 
 [Open guide](design-md/awwwards.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/awwwards.com-design)
 
