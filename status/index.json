@@ -1,31 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:48:55.269Z",
+  "generatedAt": "2026-08-04T16:52:17.278Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 129,
-    "ready": 18,
-    "failed": 33,
+    "published_verified": 130,
+    "publishing": 1,
+    "failed": 34,
+    "ready": 16,
     "needs_reprocessing": 21,
-    "validating": 3,
     "unpublished": 896,
-    "drafting": 3,
-    "syncing": 1,
-    "legacy": 95
+    "repairing": 4,
+    "validating": 1,
+    "legacy": 95,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:48:51.593Z",
+    "heartbeatAt": "2026-08-04T16:52:10.489Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "aino.agency",
-          "startedAt": "2026-08-04T16:29:33.994Z"
-        },
         {
           "domain": "api.scira.ai",
           "startedAt": "2026-08-04T16:44:48.886Z"
@@ -45,33 +42,37 @@
         {
           "domain": "baremettle.com",
           "startedAt": "2026-08-04T16:48:40.736Z"
+        },
+        {
+          "domain": "dfy.co.kr",
+          "startedAt": "2026-08-04T16:49:13.036Z"
         }
       ],
       "completedThisRun": 54,
-      "failedThisRun": 30
+      "failedThisRun": 31
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "cosmic-ray.tv",
-        "startedAt": "2026-08-04T16:43:37.180Z"
+        "domain": "adject.ai",
+        "startedAt": "2026-08-04T16:52:10.291Z"
       },
-      "completedThisRun": 25,
-      "failedThisRun": 10
+      "completedThisRun": 26,
+      "failedThisRun": 11
     },
     "queue": {
-      "eligibleGeneration": 1024,
+      "eligibleGeneration": 1025,
       "availableGeneration": 1011,
-      "readyPublication": 18,
-      "publishedVerified": 129
+      "readyPublication": 17,
+      "publishedVerified": 130
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:43:46.063Z"
+      "lastSyncedAt": "2026-08-04T16:49:04.829Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:42:49.862Z",
-      "message": "Publication failed for cofounder.co with exit 1."
+      "at": "2026-08-04T16:49:47.462Z",
+      "message": "Publication failed for cosmic-ray.tv with exit 1."
     }
   },
   "domains": [
@@ -662,9 +663,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:12:23.207Z",
+      "updatedAt": "2026-08-04T16:52:10.514Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -935,9 +936,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:47:30.517Z",
+      "updatedAt": "2026-08-04T16:49:10.893Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1494,9 +1495,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:25.104Z",
+      "updatedAt": "2026-08-04T16:49:51.900Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1988,9 +1989,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:44:59.909Z",
+      "updatedAt": "2026-08-04T16:50:42.554Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2094,7 +2095,7 @@
       "domain": "app.superlist.com",
       "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:05.468Z",
+      "updatedAt": "2026-08-04T16:51:33.548Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2209,9 +2210,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:12.085Z",
+      "updatedAt": "2026-08-04T16:52:05.102Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2859,9 +2860,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:48:43.922Z",
+      "updatedAt": "2026-08-04T16:52:09.181Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -4991,9 +4992,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:43:42.434Z",
+      "updatedAt": "2026-08-04T16:49:47.301Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -6096,9 +6097,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T14:51:55.075Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T16:49:38.275Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
@@ -8657,15 +8658,15 @@
     },
     {
       "domain": "getviktor.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:09:22.721Z",
+      "updatedAt": "2026-08-04T16:52:09.604Z",
       "blocker": null,
       "publication": {
         "key": "getviktor.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/getviktor.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/getviktor.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/getviktor.com.md"
       }
     },
     {

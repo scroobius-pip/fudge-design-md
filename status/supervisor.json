@@ -2,14 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T16:48:51.593Z",
+  "heartbeatAt": "2026-08-04T16:52:10.489Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "aino.agency",
-        "startedAt": "2026-08-04T16:29:33.994Z"
-      },
       {
         "domain": "api.scira.ai",
         "startedAt": "2026-08-04T16:44:48.886Z"
@@ -29,32 +25,36 @@
       {
         "domain": "baremettle.com",
         "startedAt": "2026-08-04T16:48:40.736Z"
+      },
+      {
+        "domain": "dfy.co.kr",
+        "startedAt": "2026-08-04T16:49:13.036Z"
       }
     ],
     "completedThisRun": 54,
-    "failedThisRun": 30
+    "failedThisRun": 31
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "cosmic-ray.tv",
-      "startedAt": "2026-08-04T16:43:37.180Z"
+      "domain": "adject.ai",
+      "startedAt": "2026-08-04T16:52:10.291Z"
     },
-    "completedThisRun": 25,
-    "failedThisRun": 10
+    "completedThisRun": 26,
+    "failedThisRun": 11
   },
   "queue": {
-    "eligibleGeneration": 1024,
+    "eligibleGeneration": 1025,
     "availableGeneration": 1011,
-    "readyPublication": 18,
-    "publishedVerified": 129
+    "readyPublication": 17,
+    "publishedVerified": 130
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T16:43:46.063Z"
+    "lastSyncedAt": "2026-08-04T16:49:04.829Z"
   },
   "lastError": {
-    "at": "2026-08-04T16:42:49.862Z",
-    "message": "Publication failed for cofounder.co with exit 1."
+    "at": "2026-08-04T16:49:47.462Z",
+    "message": "Publication failed for cosmic-ray.tv with exit 1."
   }
 }
