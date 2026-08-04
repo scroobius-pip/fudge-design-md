@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:12:34.860Z",
+  "generatedAt": "2026-08-04T16:17:48.265Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 125,
-    "ready": 10,
-    "validating": 4,
-    "failed": 45,
-    "drafting": 2,
+    "ready": 11,
+    "repairing": 2,
+    "failed": 44,
     "needs_reprocessing": 21,
+    "validating": 3,
+    "drafting": 1,
     "unpublished": 896,
     "syncing": 1,
     "legacy": 95
@@ -18,7 +19,7 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:12:32.516Z",
+    "heartbeatAt": "2026-08-04T16:17:45.653Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -31,47 +32,47 @@
           "startedAt": "2026-08-04T16:09:53.335Z"
         },
         {
-          "domain": "airbnb.com",
-          "startedAt": "2026-08-04T16:06:33.200Z"
-        },
-        {
           "domain": "airwallex.com",
           "startedAt": "2026-08-04T16:12:27.345Z"
         },
         {
-          "domain": "cosmos.so",
-          "startedAt": "2026-08-04T16:00:43.925Z"
+          "domain": "aistudio.google.com",
+          "startedAt": "2026-08-04T16:12:58.176Z"
         },
         {
-          "domain": "daisyui.com",
-          "startedAt": "2026-08-04T16:03:23.407Z"
+          "domain": "akukolabs.com",
+          "startedAt": "2026-08-04T16:13:03.299Z"
+        },
+        {
+          "domain": "aldiwan.net",
+          "startedAt": "2026-08-04T16:14:51.042Z"
         }
       ],
-      "completedThisRun": 38,
-      "failedThisRun": 25
+      "completedThisRun": 40,
+      "failedThisRun": 26
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "celesteduffy.com",
-        "startedAt": "2026-08-04T16:07:19.499Z"
+        "domain": "clarity.microsoft.com",
+        "startedAt": "2026-08-04T16:13:29.071Z"
       },
       "completedThisRun": 21,
-      "failedThisRun": 6
+      "failedThisRun": 7
     },
     "queue": {
-      "eligibleGeneration": 1036,
-      "availableGeneration": 1023,
-      "readyPublication": 10,
+      "eligibleGeneration": 1035,
+      "availableGeneration": 1020,
+      "readyPublication": 11,
       "publishedVerified": 125
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:07:27.418Z"
+      "lastSyncedAt": "2026-08-04T16:12:40.967Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:09:48.750Z",
-      "message": "Generation failed for cora.computer with exit 1."
+      "at": "2026-08-04T16:14:47.499Z",
+      "message": "Generation failed for cosmos.so with exit 1."
     }
   },
   "domains": [
@@ -675,9 +676,9 @@
     },
     {
       "domain": "ads.pinterest.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:12:19.443Z",
+      "updatedAt": "2026-08-04T16:16:41.277Z",
       "blocker": null,
       "publication": {
         "key": "ads.pinterest.com-design",
@@ -896,9 +897,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 5,
-      "updatedAt": "2026-08-04T16:10:01.105Z",
+      "updatedAt": "2026-08-04T16:16:44.254Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -974,9 +975,9 @@
     },
     {
       "domain": "airbnb.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:11:56.377Z",
+      "updatedAt": "2026-08-04T16:12:57.059Z",
       "blocker": null,
       "publication": {
         "key": "airbnb.com-design",
@@ -1000,9 +1001,9 @@
     },
     {
       "domain": "airwallex.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T16:12:32.438Z",
+      "updatedAt": "2026-08-04T16:16:27.787Z",
       "blocker": null,
       "publication": {
         "key": "airwallex.com-design",
@@ -1026,9 +1027,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T14:23:16.180Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T16:13:02.520Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1052,9 +1053,9 @@
     },
     {
       "domain": "akukolabs.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T14:23:16.180Z",
+      "state": "validating",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T16:16:58.993Z",
       "blocker": null,
       "publication": {
         "key": "akukolabs.com-design",
@@ -1078,9 +1079,9 @@
     },
     {
       "domain": "aldiwan.net",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:23:16.181Z",
+      "state": "validating",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:17:34.919Z",
       "blocker": null,
       "publication": {
         "key": "aldiwan.net-design",
@@ -4263,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:07:24.008Z",
+      "updatedAt": "2026-08-04T16:13:25.152Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4458,9 +4459,9 @@
     },
     {
       "domain": "clarity.microsoft.com",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:49:20.177Z",
+      "updatedAt": "2026-08-04T16:13:33.488Z",
       "blocker": null,
       "publication": {
         "key": "clarity.microsoft.com-design",
@@ -5004,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:12:17.319Z",
+      "updatedAt": "2026-08-04T16:14:47.431Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5368,9 +5369,9 @@
     },
     {
       "domain": "daisyui.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:12:20.303Z",
+      "updatedAt": "2026-08-04T16:12:58.453Z",
       "blocker": null,
       "publication": {
         "key": "daisyui.com-design",
