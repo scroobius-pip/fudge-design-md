@@ -3,11 +3,11 @@
   "domain": "1x.tech",
   "state": "published_verified",
   "attempt": 4,
-  "updatedAt": "2026-08-04T06:26:37.745Z",
+  "updatedAt": "2026-08-04T06:42:49.654Z",
   "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
+    "engine": "human-approved",
+    "model": null,
+    "thinking": null
   },
   "history": [
     {
@@ -225,19 +225,58 @@
       "attempt": 4,
       "from": "verifying",
       "to": "published_verified"
+    },
+    {
+      "at": "2026-08-04T06:42:09.702Z",
+      "attempt": 4,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:42:09.787Z",
+      "attempt": 4,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-04T06:42:43.707Z",
+      "attempt": 4,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-04T06:42:47.865Z",
+      "attempt": 4,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-04T06:42:47.915Z",
+      "attempt": 4,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-04T06:42:49.606Z",
+      "attempt": 4,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-04T06:42:49.654Z",
+      "attempt": 4,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
   "checks": {
     "local": {
       "ok": true,
-      "passed": 112,
-      "total": 112,
+      "passed": 114,
+      "total": 114,
       "failures": []
     },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    },
+    "approval": "human-approved",
     "payload": {
       "safe": true
     },
@@ -256,7 +295,7 @@
   "artifacts": {
     "runId": "2026-08-04T06-15-50-880Z-a4",
     "imageCount": 6,
-    "guideSha256": "a1801b6df5fa1f01c38cb3529dd5ad9f8400bb53f3a799cc7c9abf9f8dbbb98b"
+    "guideSha256": "6b2bc2001bda7e7fced40ac41134dc9113a80dcc379a25751787d3db17657935"
   },
   "publication": {
     "key": "1x.tech-design",

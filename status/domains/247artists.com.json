@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "domain": "247artists.com",
-  "state": "drafting",
+  "state": "published_verified",
   "attempt": 3,
-  "updatedAt": "2026-08-04T06:26:44.463Z",
+  "updatedAt": "2026-08-04T06:44:53.062Z",
   "agent": {
-    "engine": "omp",
-    "model": "gpt-5.4-mini",
-    "thinking": "medium"
+    "engine": "human-approved",
+    "model": null,
+    "thinking": null
   },
   "history": [
     {
@@ -117,16 +117,173 @@
       "attempt": 3,
       "from": "preparing",
       "to": "drafting"
+    },
+    {
+      "at": "2026-08-04T06:31:15.121Z",
+      "attempt": 3,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:32:30.902Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-04T06:32:32.122Z",
+      "attempt": 3,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-04T06:32:32.632Z",
+      "attempt": 3,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-04T06:32:40.529Z",
+      "attempt": 3,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-04T06:32:40.590Z",
+      "attempt": 3,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-04T06:33:16.939Z",
+      "attempt": 3,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-04T06:33:18.332Z",
+      "attempt": 3,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-04T06:42:35.812Z",
+      "attempt": 3,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:42:35.892Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-04T06:43:03.866Z",
+      "attempt": 3,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-04T06:43:07.867Z",
+      "attempt": 3,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-04T06:43:07.922Z",
+      "attempt": 3,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-04T06:43:09.322Z",
+      "attempt": 3,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-04T06:43:09.380Z",
+      "attempt": 3,
+      "from": "verifying",
+      "to": "published_verified"
+    },
+    {
+      "at": "2026-08-04T06:44:39.757Z",
+      "attempt": 3,
+      "from": "published_verified",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:44:39.833Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-04T06:44:47.938Z",
+      "attempt": 3,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-04T06:44:51.462Z",
+      "attempt": 3,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-04T06:44:51.511Z",
+      "attempt": 3,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-04T06:44:53.003Z",
+      "attempt": 3,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-04T06:44:53.062Z",
+      "attempt": 3,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
-  "checks": {},
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 114,
+      "total": 114,
+      "failures": []
+    },
+    "approval": "human-approved",
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/247artists.com-design",
+      "markdownUrl": "https://design.withfudge.com/share/247artists.com-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/247artists.com.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/3619?format=jpg"
+    }
+  },
   "artifacts": {
     "runId": "2026-08-04T06-26-38-821Z-a3",
-    "imageCount": 7,
-    "baselineAvailable": false
+    "imageCount": 6,
+    "guideSha256": "ee092b706242d73011dffaa52e885be477f82407f96de04cbd8822070e8c0843"
   },
   "publication": {
-    "key": "247artists.com-design"
+    "key": "247artists.com-design",
+    "url": "https://design.withfudge.com/share/247artists.com-design",
+    "markdownUrl": "https://design.withfudge.com/share/247artists.com-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/247artists.com.md"
   },
   "blocker": null,
   "inventory": {

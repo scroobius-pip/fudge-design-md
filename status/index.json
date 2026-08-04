@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T06:26:44.504Z",
+  "generatedAt": "2026-08-04T06:45:48.985Z",
   "counts": {
     "skipped_one_image": 523,
     "skipped_recent": 9,
-    "published_verified": 89,
+    "published_verified": 90,
     "drafting": 4,
-    "failed": 80,
+    "failed": 79,
     "unpublished": 908,
     "needs_reprocessing": 21,
     "repairing": 3,
@@ -94,7 +94,7 @@
       "domain": "1x.tech",
       "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T06:26:37.745Z",
+      "updatedAt": "2026-08-04T06:42:49.654Z",
       "blocker": null,
       "publication": {
         "key": "1x.tech-design",
@@ -151,12 +151,15 @@
     },
     {
       "domain": "247artists.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T06:26:44.463Z",
+      "updatedAt": "2026-08-04T06:44:53.062Z",
       "blocker": null,
       "publication": {
-        "key": "247artists.com-design"
+        "key": "247artists.com-design",
+        "url": "https://design.withfudge.com/share/247artists.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/247artists.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/247artists.com.md"
       }
     },
     {
@@ -240,9 +243,9 @@
     },
     {
       "domain": "abc.xyz",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T22:26:44.650Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T06:45:48.942Z",
       "blocker": null,
       "publication": {
         "key": "abc.xyz-design"

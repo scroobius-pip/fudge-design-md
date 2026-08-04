@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "abc.xyz",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T22:26:44.650Z",
+  "state": "drafting",
+  "attempt": 4,
+  "updatedAt": "2026-08-04T06:45:48.942Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -105,31 +105,47 @@
       "attempt": 2,
       "from": "reviewing",
       "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:33:22.498Z",
+      "attempt": 3,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:33:26.729Z",
+      "attempt": 3,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-04T06:36:23.645Z",
+      "attempt": 3,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:45:03.822Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:45:47.417Z",
+      "attempt": 4,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:45:48.942Z",
+      "attempt": 4,
+      "from": "preparing",
+      "to": "drafting"
     }
   ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, content-gap, section-gap, footer-pad, cookie-pad."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: page-gutter, content-gap, section-gap, footer-pad, cookie-pad."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    }
-  },
+  "checks": {},
   "artifacts": {
-    "runId": "2026-08-03T22-16-33-018Z-a2",
+    "runId": "2026-08-04T06-45-48-177Z-a4",
     "imageCount": 2,
     "baselineAvailable": false
   },
@@ -156,6 +172,5 @@
     "meanAbsoluteError": 0,
     "maximumResidual": 0,
     "valuesConsidered": 0
-  },
-  "error": "The repaired abc.xyz guide did not pass the publication gate after two repairs."
+  }
 }
