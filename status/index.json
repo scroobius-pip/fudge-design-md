@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:25:35.387Z",
+  "generatedAt": "2026-08-04T16:30:43.646Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 127,
-    "ready": 13,
-    "failed": 40,
+    "ready": 16,
+    "failed": 37,
+    "validating": 2,
     "drafting": 4,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "publishing": 1,
-    "repairing": 2,
+    "syncing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:25:32.732Z",
+    "heartbeatAt": "2026-08-04T16:30:40.763Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -27,28 +27,28 @@
           "startedAt": "2026-08-04T16:23:50.154Z"
         },
         {
-          "domain": "dandad.org",
-          "startedAt": "2026-08-04T16:19:02.631Z"
+          "domain": "ahrefsevolve.com",
+          "startedAt": "2026-08-04T16:27:41.187Z"
         },
         {
-          "domain": "danielsun.space",
-          "startedAt": "2026-08-04T16:19:02.633Z"
+          "domain": "aino.agency",
+          "startedAt": "2026-08-04T16:29:33.994Z"
         },
         {
-          "domain": "dany.works",
-          "startedAt": "2026-08-04T16:20:50.429Z"
+          "domain": "almost-pearfect.com",
+          "startedAt": "2026-08-04T16:29:54.694Z"
+        },
+        {
+          "domain": "ami.dev",
+          "startedAt": "2026-08-04T16:29:59.799Z"
         },
         {
           "domain": "dash.cloudflare.com",
           "startedAt": "2026-08-04T16:21:36.841Z"
-        },
-        {
-          "domain": "git.law",
-          "startedAt": "2026-08-04T16:21:47.067Z"
         }
       ],
-      "completedThisRun": 45,
-      "failedThisRun": 28
+      "completedThisRun": 48,
+      "failedThisRun": 29
     },
     "publication": {
       "concurrency": 1,
@@ -60,18 +60,18 @@
       "failedThisRun": 8
     },
     "queue": {
-      "eligibleGeneration": 1031,
-      "availableGeneration": 1015,
-      "readyPublication": 14,
+      "eligibleGeneration": 1028,
+      "availableGeneration": 1013,
+      "readyPublication": 16,
       "publishedVerified": 127
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:23:46.661Z"
+      "lastSyncedAt": "2026-08-04T16:25:40.400Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:24:43.010Z",
-      "message": "Publication failed for firecrawl.dev with exit 1."
+      "at": "2026-08-04T16:29:52.301Z",
+      "message": "Generation failed for danielsun.space with exit 1."
     }
   },
   "domains": [
@@ -818,9 +818,9 @@
     },
     {
       "domain": "agenticui.net",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:23:53.675Z",
+      "updatedAt": "2026-08-04T16:29:12.965Z",
       "blocker": null,
       "publication": {
         "key": "agenticui.net-design",
@@ -857,9 +857,9 @@
     },
     {
       "domain": "ahrefsevolve.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T14:26:30.507Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T16:27:58.711Z",
       "blocker": null,
       "publication": {
         "key": "ahrefsevolve.com-design",
@@ -935,9 +935,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.509Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:29:45.082Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1169,9 +1169,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.509Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:30:03.275Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -1260,9 +1260,9 @@
     },
     {
       "domain": "ami.dev",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.510Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T16:30:03.637Z",
       "blocker": null,
       "publication": {
         "key": "ami.dev-design",
@@ -4341,14 +4341,14 @@
     },
     {
       "domain": "chatgpt.com",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:25:32.726Z",
+      "updatedAt": "2026-08-04T16:25:37.209Z",
       "blocker": null,
       "publication": {
         "key": "chatgpt.com-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/chatgpt.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/chatgpt.com-design.md",
         "githubUrl": null
       }
     },
@@ -5381,9 +5381,9 @@
     },
     {
       "domain": "dandad.org",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:19:08.871Z",
+      "updatedAt": "2026-08-04T16:29:31.477Z",
       "blocker": null,
       "publication": {
         "key": "dandad.org-design",
@@ -5407,9 +5407,9 @@
     },
     {
       "domain": "danielsun.space",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:23:34.256Z",
+      "updatedAt": "2026-08-04T16:29:52.231Z",
       "blocker": null,
       "publication": {
         "key": "danielsun.space-design",
@@ -5420,9 +5420,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:24:36.559Z",
+      "updatedAt": "2026-08-04T16:27:40.430Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -5433,9 +5433,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:21:49.125Z",
+      "updatedAt": "2026-08-04T16:30:29.639Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -8735,9 +8735,9 @@
     },
     {
       "domain": "git.law",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:21:59.101Z",
+      "updatedAt": "2026-08-04T16:29:55.897Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",
