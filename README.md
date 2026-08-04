@@ -1435,7 +1435,7 @@ Dropbox Dash reads like a product shell that can also host a campaign skin. The 
 
 [![How dashboard.exa.ai is designed](https://pin.fontofweb.com/9452?format=jpg)](design-md/dashboard.exa.ai.md)
 
-dashboard.exa.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#fbfcfd`, with typography led by **Abc Diatype Plus**, **Proto Mono**, **Applesystem**, **Aeonik**, and **Abc Arizona Flare**. The guide below names reusable design roles only where the captured evidence supports them.
+dashboard.exa.ai is a light, compact developer console. The system stays close to white surfaces, thin dividers, and restrained blue accents, so the interface feels precise rather than decorative. The home page presents a split hero: a large introductory card on the left, a narrow API key card on the right, and a second row of product tiles below. The API Keys page strips the layout back further, leaving one heading, one summary band, a tab strip, one primary action, and one table. That difference in density is the strongest structural signal in the design.
 
 [Open guide](design-md/dashboard.exa.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.exa.ai-design)
 
