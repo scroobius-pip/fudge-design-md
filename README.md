@@ -375,6 +375,14 @@ Airbnb.ca uses a restrained marketplace system: white canvas, soft gray separato
 
 [Open guide](design-md/airbnb.ca.md) · [View the Fudge conversation](https://design.withfudge.com/share/airbnb.ca-design)
 
+### airbnb.com
+
+[![How airbnb.com is designed](https://pin.fontofweb.com/2577?format=jpg)](design-md/airbnb.com.md)
+
+Airbnb's home page is a quiet marketplace shell built around white space, rounded rectangles, and image-led browsing. The interface does not try to look like a dashboard or a promotional landing page. It behaves like a catalog: a compact top bar for getting into the product, a centered search capsule for starting a trip, horizontal rows of homes, then a low-contrast footer for support and company links.
+
+[Open guide](design-md/airbnb.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/airbnb.com-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/8555?format=jpg)](design-md/aiverse.design.md)
