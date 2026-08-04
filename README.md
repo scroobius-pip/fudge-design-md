@@ -151,6 +151,14 @@ access.mymind.com uses a calm, editorial product language built around white car
 
 [Open guide](design-md/access.mymind.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/access.mymind.com-design)
 
+### account.mongodb.com
+
+[![How account.mongodb.com is designed](https://pin.fontofweb.com/2786?format=jpg)](design-md/account.mongodb.com.md)
+
+MongoDB’s account pages are not trying to tell a brand story first. They present a login or registration task with a strict split between the working form and the decorative brand field around it. The white form area is sparse, left-aligned, and top-heavy. The dark green field uses oversized rounded geometry to add identity without competing with the form.
+
+[Open guide](design-md/account.mongodb.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/account.mongodb.com-design)
+
 ### account.nothing.tech
 
 [![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
