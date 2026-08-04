@@ -6,174 +6,187 @@ Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Connected whiteboard hero with floating cards, cursors, and blue route lines](https://pin.fontofweb.com/4161?format=jpg)](https://design.withfudge.com/share/pin-4161)
+[![White collaboration hero with blue action button and dotted canvas](https://pin.fontofweb.com/4159?format=jpg)](https://design.withfudge.com/share/pin-4159)
 
-[Connected whiteboard hero with floating cards, cursors, and blue route lines](https://design.withfudge.com/share/pin-4161)
+[White collaboration hero with blue action button and dotted canvas](https://design.withfudge.com/share/pin-4159)
 
-[![Three-up templates section with soft cards and a large left-aligned heading](https://pin.fontofweb.com/4158?format=jpg)](https://design.withfudge.com/share/pin-4158)
+[![Template grid with three rounded cards and soft shadowed previews](https://pin.fontofweb.com/4160?format=jpg)](https://design.withfudge.com/share/pin-4160)
 
-[Three-up templates section with soft cards and a large left-aligned heading](https://design.withfudge.com/share/pin-4158)
+[Template grid with three rounded cards and soft shadowed previews](https://design.withfudge.com/share/pin-4160)
 
-[![Handwritten hero headline over dotted canvas with a template strip below](https://pin.fontofweb.com/4157?format=jpg)](https://design.withfudge.com/share/pin-4157)
+[![Four-card feature matrix with diagram-like illustrations and labels](https://pin.fontofweb.com/4158?format=jpg)](https://design.withfudge.com/share/pin-4158)
 
-[Handwritten hero headline over dotted canvas with a template strip below](https://design.withfudge.com/share/pin-4157)
+[Four-card feature matrix with diagram-like illustrations and labels](https://design.withfudge.com/share/pin-4158)
 
-[![Centered download panel with stacked blue and outline pills above mobile links](https://pin.fontofweb.com/4156?format=jpg)](https://design.withfudge.com/share/pin-4156)
+[![Centered download section with stacked blue and outlined buttons](https://pin.fontofweb.com/4156?format=jpg)](https://design.withfudge.com/share/pin-4156)
 
-[Centered download panel with stacked blue and outline pills above mobile links](https://design.withfudge.com/share/pin-4156)
+[Centered download section with stacked blue and outlined buttons](https://design.withfudge.com/share/pin-4156)
 
-[![Cloud feature grid with dotted cards, timeline column, and mixed utility panels](https://pin.fontofweb.com/4154?format=jpg)](https://design.withfudge.com/share/pin-4154)
+[![Cloud feature grid with stacked cards and colored section headings](https://pin.fontofweb.com/4155?format=jpg)](https://design.withfudge.com/share/pin-4155)
 
-[Cloud feature grid with dotted cards, timeline column, and mixed utility panels](https://design.withfudge.com/share/pin-4154)
+[Cloud feature grid with stacked cards and colored section headings](https://design.withfudge.com/share/pin-4155)
+
+[![Accordion FAQ block with thin dividers and expanded answer row](https://pin.fontofweb.com/4161?format=jpg)](https://design.withfudge.com/share/pin-4161)
+
+[Accordion FAQ block with thin dividers and expanded answer row](https://design.withfudge.com/share/pin-4161)
 
 ## Overview
 
-AFFiNE’s public pages use a clean, product-first visual system built around a white canvas, dark text, rounded cards, and a single saturated blue action color. The layout reads as a workspace product rather than a brochure: content is presented in sections that feel like pinned boards, template galleries, and feature cards. Inter carries nearly all interface copy, while Kalam appears as a playful handwritten accent inside the large-canvas illustration language.
+AFFiNE's visual system is a clean white workspace with a strong product voice. Black Inter type carries almost all of the hierarchy, a single saturated blue handles action, and rounded cards keep the page calm even when the content becomes dense. The site presents whiteboard thinking, note taking, downloads, and pricing as one family of surfaces rather than as separate brand moods.
 
-The page rhythm comes from repetition with variation. Large left-aligned headings introduce each chapter, then the supporting material shifts into grids, stacked panels, or centered call-to-action blocks. The illustrations stay airy and technical at the same time: dotted grids, floating windows, selection handles, connector lines, colored name chips, and simple iconography make the product feel collaborative without crowding the page. The system feels most at home when it stays light, open, and precise.
+The design feels technical but not sterile. Dotted fields, connector lines, small interface labels, and stacked panels make the product look like a place for building and organizing ideas. Pastel blocks and bright diagram colors soften the layout and give each section a distinct accent without breaking the white base. Kalam appears only as a secondary handwritten accent, which adds a sketched, workshop-like note against the otherwise precise grid.
 
 ## Colors
 
-The visible system is overwhelmingly light. White and near-white surfaces do the structural work; black ink carries headlines and body copy; a bright blue action color is reserved for the main call to action; and pale illustration colors add variety inside diagrams, chips, and demo tiles. Dark surfaces are not part of the visible language here, so contrast comes from type weight, spacing, borders, and button fills rather than inversion. Illustrations and mockups remain pale enough to sit on the same white field without breaking the page into separate color modes.
+The system stays light. White and off-white surfaces do most of the work, while black text and thin gray borders give structure. Blue is the only persistent action color. The other hues are local accents for diagrams, labels, sticky-note shapes, and illustrative modules. There is no full dark page mode in the material here; instead, the design uses dark ink, gray dividers, and small shadow values to keep the page legible and airy.
 
 | token | value | use |
 |---|---|---|
-| action | #2598ea | Primary buttons, active links, and selection accents |
-| ink | #000000 | Headlines, body copy, and strong labels |
-| muted-ink | #727372 | Supporting copy, helper text, and subdued metadata |
-| canvas | #fbfbfa | Main page background and large blank sections |
-| surface | #f9f9f8 | Card fills, accordions, and inset content blocks |
-| border-quiet | #e6e6e3 | Soft dividers, card outlines, and row separators |
-| border | #bfbfbf | Stronger button outlines and structural rules |
-| diagram-blue | #b4daf1 | Light annotation bars, diagram fills, and secondary UI chips |
-| diagram-lilac | #e3b0f7 | Sticky-note panels and playful canvas accents |
-| diagram-warm | #efbdb1 | Soft callouts and warm illustration blocks |
-| diagram-yellow | #f8cf52 | Highlight circles, tabs, and emphasis markers in diagrams |
-| diagram-orange | #f67e30 | Small status tags and vivid annotation accents |
+| action | `#2999EA` | Primary CTA fills, active links, selected diagram edges |
+| ink | `#000000` | Headings, body text, icon strokes, strong contrast copy |
+| muted-ink | `#646664` | Supporting paragraphs, accordion answers, secondary labels |
+| canvas | `#F7F8F6` | Overall page background and breathing room between sections |
+| surface | `#FFFFFF` | Cards, white panels, FAQ rows, and button bases |
+| surface-raised | `#F6F6F4` | Slightly lifted panels and nested blocks |
+| border | `#B2B3B3` | Hairline outlines, dividers, card edges, outlined buttons |
+| accent-blue-soft | `#A4CBEC` | Connector lines, diagram fills, secondary highlights |
+| accent-lilac | `#D4D1F6` | Soft illustration blocks and note-like tiles |
+| accent-yellow | `#F0C52B` | Marker shapes, sticky-label accents, standout diagram nodes |
+| accent-green | `#A0CD7B` | Status chips, supportive diagram fills, small success cues |
+| accent-peach | `#EFBDB1` | Warm panel fills and soft background blocks |
+| accent-orange | `#F28B6E` | Small emphasis labels and contrast accents in feature art |
+
+The relationship between colors is straightforward: light surfaces create the stage, ink carries the message, blue signals intent, and the remaining accents stay contained inside diagrams or product illustrations. That keeps the interface from turning colorful in every direction at once. The page works best when accent colors remain local and the surrounding canvas stays quiet. Interactions should still lean on blue first, with pastel hues reserved for content illustration rather than navigation.
 
 ## Typography
 
-Inter is the core interface family. It carries the large product headlines, section titles, card captions, button text, and utility labels with a compact, modern texture. The page depends more on scale and weight than on many style shifts, so the family must stay consistent across the whole system. Kalam appears only as a handwritten accent in the more playful canvas illustrations and should remain secondary to Inter.
-
-Inter is credited to Rasmus Andersson and Rsms. No attribution claim is supported for Kalam.
+Inter is the main family throughout the site. It carries headlines, body copy, small labels, and button text with a compact, modern shape that fits the workspace theme. Kalam appears as a secondary hand-drawn note voice for sketched annotations, handwritten-style callouts, or playful labels. Inter is credited to Rasmus Andersson and Rsms; confirm Kalam reuse separately.
 
 | token | family | size | weight | leading | tracking | use |
 |---|---|---:|---:|---:|---:|---|
-| hero-display | Inter | 4rem | 700 | 0.95 | -0.03em | Main marketing headlines |
-| section-display | Inter | 3rem | 700 | 1 | -0.03em | Section openers and large feature titles |
-| card-heading | Inter | 1.5rem | 600 | 1.15 | -0.02em | Template names, feature titles, and download headings |
-| body | Inter | 1rem | 400 | 1.55 | 0em | Supporting paragraphs and explanatory copy |
-| label | Inter | 0.875rem | 500 | 1.3 | 0.01em | Buttons, small metadata, and interface labels |
-| handwritten | Kalam | 1.25rem | 400 | 1.1 | 0em | Sparse handwritten accents inside canvas diagrams |
+| hero-display | Inter | 3.5rem | 700 | 1.05 | -0.04em | Large landing headlines and opening claims |
+| section-display | Inter | 2.5rem | 700 | 1.08 | -0.03em | Section titles such as download, pricing, or feature blocks |
+| feature-display | Inter | 2rem | 700 | 1.1 | -0.025em | Strong supporting statements inside hero or feature rows |
+| card-title | Inter | 1.125rem | 600 | 1.2 | -0.02em | Template names, feature captions, and card headers |
+| body | Inter | 1rem | 400 | 1.6 | 0em | Explanatory copy, FAQ answers, and supporting text |
+| body-medium | Inter | 1rem | 500 | 1.5 | 0em | Buttons, tabs, and emphatic inline labels |
+| label | Inter | 0.875rem | 500 | 1.2 | 0.01em | Small metadata, tab labels, and utility text |
+| handwritten-note | Kalam | 1.25rem | 400 | 1.1 | 0em | Sketched notes and notebook-like accents |
 
-The hierarchy is quiet and deliberate. Headlines are large, black, and slightly tight. Supporting copy opens up just enough to stay legible inside card widths. Labels are medium weight and compact, which keeps the buttons and status chips readable without looking loud. The handwritten family should be used sparingly so it feels like an accent inside the whiteboard system rather than a second brand voice.
+The hierarchy depends on weight, scale, and tight letter spacing rather than on many families. Headlines are bold and compact. Body text opens up enough to breathe, but not so much that the page feels loose. Small labels stay crisp and neutral. Kalam should remain a garnish: use it to suggest drawing or annotation, not to replace the core information hierarchy.
 
 ## Layout
 
-The site is built from broad white sections with generous breathing room and a strong left-to-right reading path. Most chapters begin with a large heading aligned to the left edge of the content column, followed by a short support line and then a grid of cards or a single centered action block. The white space is not empty decoration; it is the primary separator between modules, so the page can stay light even when it carries many screenshots, cards, and callouts.
+The page uses a wide, centered marketing structure with generous white space and large, simple blocks. Most sections read as a title plus a structured content area underneath. The hero pairs a left-aligned statement with a right-side canvas of cards, connectors, and diagram-like objects. Below that, template previews and feature cards form shallow grids that let the illustrations do the explaining.
 
-Three-layout patterns recur. First is the hero stage: large headline on one side, diagrammatic product art on the other, and a blue pill button nearby. Second is the gallery grid: three cards across with large preview images above concise captions. Third is the centered conversion block: a stacked icon, headline, supporting line, primary pill, and secondary outline pill, all aligned around one vertical axis. A later utility section uses two-column and three-column card groupings with small colored headings and denser explanatory copy, which keeps the page from feeling repetitive while staying structurally simple.
+Spacing is broad but not empty. Sections breathe with large vertical separation, while card groups stay close enough to feel like a system. The visual rhythm comes from alternating between text-forward blocks and object-heavy blocks: a hero that feels like a whiteboard, a template gallery that feels like a library shelf, a feature matrix that feels like a set of modules, and a download area that feels like a clear endpoint.
 
-The content spacing is broad enough to let the screenshots breathe, but not so broad that the page feels editorial. Cards sit close enough together to read as one system. Dividers are thin and understated. Rounded corners are consistent across panels, buttons, and accordions, which gives the page a calm geometry even when the illustrations contain many small elements.
+Cards and panels follow the same shape language. White surfaces sit on a soft off-white canvas, outlines stay thin, corners are rounded, and depth comes from a restrained shadow rather than a strong frame. That makes the page feel polished without becoming glossy. When there is a diagram field, the field itself becomes part of the layout: dotted backgrounds, curved connector paths, and floating labels create structure without adding extra borders.
+
+The layouts shown here favor one dominant reading path per section. Copy stays short, buttons are close to the claim they support, and illustrations sit beside or beneath the text rather than competing with it. That keeps the page readable even when the visual content becomes playful.
 
 ## Visual language
 
-AFFiNE combines three visual languages: product UI, diagrammed collaboration, and soft presentation cards. The UI language is restrained. White cards, thin borders, and simple black type keep the interface legible and direct. The diagram language is more expressive. Dotted grids, connector lines, floating windows, cursor labels, selection handles, and colored notes turn the white canvas into a teaching surface. The presentation-card language sits between them: large preview thumbnails, short captions, and minimal framing make each template or feature feel immediately selectable.
+AFFiNE uses a whiteboard vocabulary translated into marketing pages. Floating cards, tiny windows, connector lines, nodes, labels, and dotted fields make the product feel collaborative and modular. The language is friendly but disciplined: simple outlines, soft shadows, and limited color bursts keep the composition from turning busy.
 
-Rounded rectangles are the dominant shape. They are used for cards, buttons, chips, and framed mockups, so the page feels unified even when it shows very different content. Shadows, when present, are soft and close to the surface; they separate layers without turning the page glossy. The palette inside the illustrations stays pastel and deliberate. Blue is the most important accent, but lilac, warm pink, yellow, and pale sky blue make the canvas feel active without competing with the main action color.
+The illustrations do much of the expressive work. Some blocks look like app windows, some look like template sheets, and some look like pinned cards or movable notes. Blue outlines suggest selection and connection. Yellow, lilac, green, peach, and cyan appear as local fills, chips, or small markers, which gives the page a made-by-hand feeling even though the shapes stay precise. The result is a system that can explain structure, flow, and organization without needing heavy ornament.
 
-The result is a system that looks organized before it looks decorative. It communicates structure through alignment, border clarity, and repeated card anatomy. Decorative energy comes from the illustrated workspace scenes, not from heavy gradients or ornamental texture.
+The page also uses contrast carefully. Large black headlines sit on open white fields. Smaller gray copy sits close to the headline or inside cards. The little shadow under a card or button is enough to lift it from the canvas. That restraint is important: the content already has motion and complexity through diagrams and multi-card layouts, so the styling should stay calm.
 
 ## Components
 
 ### Hero stage
 
-- **Anatomy:** Large headline, short supporting line, primary blue pill, and a right-side diagram or canvas illustration.
-- **Typography:** The headline uses the largest Inter style; the supporting line drops to body size with a calmer weight.
-- **Surface:** White canvas with pale diagram shapes and dotted-grid texture inside the illustration area.
-- **Composition:** Keep the text block left aligned and let the illustration occupy the opposite side as a wide visual anchor.
-- **Visible state:** The main button appears filled blue and reads as the primary action immediately.
+- **Anatomy:** A large headline, a short supporting line, one blue primary button, and a diagram or card composition on the opposite side.
+- **Typography:** Use the biggest Inter display size for the opening claim, then step down quickly to body copy.
+- **Surface:** White or near-white canvas with no heavy frame.
+- **Composition:** Keep the text block left aligned and the visual canvas right aligned on desktop. The visual side should feel like a working board, not a decorative poster.
+- **Visible state:** Blue is the only strong action cue; the button should read as the clear next step.
 
-### Template gallery card
+### Template cards
 
-- **Anatomy:** Large preview thumbnail, short title, and a narrow caption row or arrow at the bottom.
-- **Surface:** White or very light surface with a soft border and rounded corners.
-- **Typography:** Title text is medium weight and compact; the caption stays smaller and quieter.
-- **Spacing:** The preview image takes most of the card height, leaving the label area shallow and tidy.
-- **Composition:** Use a three-across grid when space allows, with equal card widths and matching vertical rhythm.
+- **Anatomy:** Thumbnail preview, template title, and a small directional cue or footer action.
+- **Surface:** White cards with thin borders and a soft shadow.
+- **Typography:** Card titles should stay bold enough to stand apart from the preview art, but smaller than hero text.
+- **Shape:** Rounded corners with enough radius to feel friendly, not pill-shaped.
+- **Spacing:** Keep the preview, title, and action tightly grouped so each card reads as a single unit.
+- **Variants:** The grid can hold notebooks, trackers, or planning templates, but the card structure stays the same.
 
-### Canvas feature card
+### Feature matrix cards
 
-- **Anatomy:** A framed screenshot or diagram, often with tool handles, connector lines, sticky labels, or floating windows.
-- **Surface:** Pale, highly legible art that keeps the white page from feeling heavy.
-- **Shape:** Rounded corners and thin outlines are enough; the card should not look boxed in.
-- **Composition:** The visual frame is the main content. Text, if present, should stay small and secondary.
+- **Anatomy:** Multiple cards in a grid, each with a short heading and a diagram-like illustration inside the card.
+- **Surface:** White panels on a white or very pale background, with color used inside the illustration rather than on the whole card.
+- **Composition:** Each card should contain a complete mini story: label, graphic, and a short caption.
+- **Visible states:** Some cards use selected-outline styling, others use soft fills; both should remain visually light.
+- **Hierarchy:** The illustration should be strong enough to explain the feature at a glance, while the caption keeps the message grounded.
+
+### Download block
+
+- **Anatomy:** Centered icon or app mark, a bold title, supporting copy, a blue primary button, and a secondary outlined button.
+- **Typography:** The title can use section-display scale; the supporting line should stay concise.
+- **Surface:** Centered white block with generous breathing room.
+- **Shape:** Both buttons should be rounded pills, with the secondary option carrying a neutral border and dark text.
+- **Composition:** The primary button should read as the recommended next action. The secondary button should stay visibly quieter but still clear.
+
+### Cloud and account feature cards
+
+- **Anatomy:** Headline, short description, and a cluster of supporting cards or screenshots.
+- **Surface:** White cards with color-coded labels and nested content areas.
+- **Composition:** Use the heading to set the topic, then let the internal cards show the workflow or data state.
+- **Variants:** Some cards are compact and stacked; others are wider and more editorial. Both keep the same border and corner language.
+- **Visible states:** Small colored tags and section headings help separate the cards without adding heavy dividers.
 
 ### FAQ accordion
 
-- **Anatomy:** Stacked question rows inside one soft container, with one row expanded in the visible state.
-- **Surface:** White panel with thin separators between rows.
-- **Typography:** Questions use medium-weight Inter; expanded answers switch to muted body text.
-- **Controls:** The chevron sits at the far right and gives the row a clear open/closed signal.
-- **Visible state:** The open row expands downward and introduces a muted paragraph without changing the overall container style.
-
-### Download CTA stack
-
-- **Anatomy:** Centered icon, bold page title, short supporting line, primary fill button, and secondary outline button.
-- **Surface:** Large white field with the stack held tightly in the center.
-- **Typography:** The title is prominent but not oversized enough to compete with the page hero.
-- **Shape:** Both buttons are wide pills with a clean stroke or fill contrast.
-- **Composition:** The vertical stack should read as one action unit, with the secondary button clearly subordinate.
-
-### Utility feature grid
-
-- **Anatomy:** Small line icons, short headings, and concise explanatory text in a compact grid.
-- **Surface:** White background with minimal framing.
-- **Typography:** Headings are strong enough to scan quickly; body copy stays short and direct.
-- **Spacing:** Keep the grid airy, with generous row and column separation so each benefit feels independent.
-- **Visible state:** The grid is static and informational; it should not need ornamental effects to be readable.
+- **Anatomy:** Stacked rows with question text, a chevron, and an expanded answer area.
+- **Surface:** White panel with thin horizontal separators.
+- **Typography:** Questions should feel slightly stronger than the answer text; answers should use muted ink.
+- **Spacing:** Keep each row generous enough to tap comfortably, with enough padding that the expanded state feels calm.
+- **Visible states:** Expanded rows should open within the same card field rather than spilling into a different panel style.
 
 ## Responsive behavior
 
-On narrower screens, the page should collapse from side-by-side chapters into one-column stacks without changing the overall tone. The hero should keep the headline first, then the support line, then the action. Template cards should become single-file or two-up only when width permits. The accordion should stay full width and readable without forcing horizontal scrolling. Centered download stacks should remain centered, but the buttons may narrow before the type changes size. Illustration-heavy sections should reduce visual density by stacking artwork above copy, not by introducing a new mobile-only style.
+On narrower screens, the hero should stack before it compresses. Text comes first, then the diagram canvas, then any card grid. Template cards should fall from three columns to two, then to one, while keeping their previews large enough to be useful. Feature cards should keep a clear title and enough internal padding so the illustrations do not crowd the captions.
 
-The key is to preserve the same order of emphasis: headline, supporting line, action, then content. If space becomes tight, reduce the number of cards per row before shrinking the white space so much that the page feels crowded. The blue action color should remain the same on every size.
+Buttons should remain easy to tap and visually separated from surrounding copy. The FAQ should stay as full-width rows with a clear toggle target. Long headings may need to wrap to two or three lines, but line breaks should keep the same strong left edge and the same compact rhythm. The system should never rely on tiny detail text to carry the main message on mobile.
+
+Diagram-heavy sections need special care on small widths. Connector lines, floating labels, and node clusters should simplify rather than shrink into clutter. If a card cannot preserve its internal structure at a smaller width, it should become a cleaner stacked composition instead of a squeezed replica. The white base, black text, and blue CTA should remain intact at every size.
 
 ## Practical implementation guidance
 
 ### Preserve
 
-- Keep Inter as the default family for all visible UI text.
-- Keep the page bright, low-contrast in framing, and high-contrast in copy.
-- Keep blue as the only persistent action color.
-- Keep cards, buttons, and accordions on the same rounded geometry.
-- Keep diagram backgrounds pale so the illustrations do not overpower the text.
+- Keep the page mostly white and let ink do the heavy lifting.
+- Use the blue action color consistently for primary intent.
+- Preserve the rounded card language and the light shadow treatment.
+- Let diagrams, template previews, and card galleries explain the product visually.
+- Keep Kalam secondary and limited to handwritten-style accents.
 
 ### Avoid
 
-- Avoid heavy shadows, dark page bands, and glossy gradients.
-- Avoid mixing several unrelated card radii or button shapes.
-- Avoid turning small labels into loud badges.
-- Avoid using Kalam as a general body face; it should stay an accent only.
-- Avoid making borders too strong, because the system depends on openness and lightness.
+- Avoid heavy gradients across whole sections.
+- Avoid turning every panel into a colored block.
+- Avoid deep shadows, dense borders, or boxed-in layouts.
+- Avoid using more than one strong action blue.
+- Avoid letting handwritten text take over the main hierarchy.
 
 ### Recommended build order
 
-1. Establish the color tokens and the Inter typographic scale.
-2. Build the shared button, card, and accordion shells.
-3. Recreate the hero stage with its diagrammatic illustration.
-4. Add the template gallery and feature-card grid.
-5. Add the FAQ accordion.
-6. Finish with the centered download block and utility feature grid.
+1. Establish the Inter hierarchy and the blue button treatment.
+2. Build the base card, panel, and accordion surfaces.
+3. Assemble the hero with its diagram canvas.
+4. Add the template gallery and feature matrix grids.
+5. Build the download block and cloud feature cards.
+6. Finish the FAQ and verify spacing consistency across sections.
 
 ### Accessibility
 
-- Keep black text on white or near-white surfaces for the main reading path.
-- Make every button and accordion row readable without relying on color alone.
-- Preserve a clear focus ring on pills, cards, and disclosure controls.
-- Keep small captions and utility copy large enough to scan quickly on a bright background.
-- Do not place important text only inside pale illustrations; pair it with real text nearby.
+- Keep black text on white or near-white surfaces wherever possible.
+- Make sure outlined buttons have enough border contrast to read as interactive.
+- Keep visible focus states distinct from the thin neutral borders.
+- Do not rely on color alone to explain status or selection inside diagrams.
+- Keep target sizes generous for buttons, accordion rows, and card actions.
 
 ## Scope note
 
-This guide covers the whiteboard hero, template gallery, collaboration feature panels, FAQ accordion, download page, and the cloud/pricing-style utility sections shown here. It does not set out unshown mobile art direction, motion, or interaction states beyond the visible page patterns. Measurements are practical adaptation targets.
+This guide covers AFFiNE's desktop marketing surfaces shown here: the collaboration hero, template gallery, feature cards, download block, cloud feature grid, and FAQ accordion. It does not define the editor canvas, mobile navigation, motion, or other states not shown. Measurements are practical adaptation targets.
