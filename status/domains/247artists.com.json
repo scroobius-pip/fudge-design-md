@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
   "domain": "247artists.com",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
+  "state": "drafting",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T06:26:44.463Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
   "history": [
     {
       "at": "2026-08-03T18:13:55.347Z",
@@ -35,10 +39,92 @@
       "attempt": 1,
       "from": "needs_reprocessing",
       "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T22:05:43.479Z",
+      "attempt": 2,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T22:05:50.544Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T22:10:58.013Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:11:42.905Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:11:42.978Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:13:29.202Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:14:21.711Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:14:21.789Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:15:51.197Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:16:31.989Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:16:32.062Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:26:37.900Z",
+      "attempt": 3,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:26:44.463Z",
+      "attempt": 3,
+      "from": "preparing",
+      "to": "drafting"
     }
   ],
   "checks": {},
-  "artifacts": {},
+  "artifacts": {
+    "runId": "2026-08-04T06-26-38-821Z-a3",
+    "imageCount": 7,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "247artists.com-design"
   },
@@ -56,5 +142,11 @@
       "pinCount": 7,
       "checkedAt": "2026-08-03T18:23:55.937Z"
     }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
   }
 }

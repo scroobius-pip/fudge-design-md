@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
   "domain": "about.instagram.com",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
+  "state": "failed",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T22:37:21.129Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
   "history": [
     {
       "at": "2026-08-03T18:13:57.826Z",
@@ -35,10 +39,100 @@
       "attempt": 1,
       "from": "needs_reprocessing",
       "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T22:26:44.833Z",
+      "attempt": 2,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T22:26:48.131Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T22:28:53.061Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:30:25.667Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:30:25.741Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:32:31.323Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:33:26.027Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:33:26.104Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:36:21.260Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:37:21.057Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:37:21.129Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
-  "checks": {},
-  "artifacts": {},
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: cluster, section."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: cluster, section."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T22-26-45-853Z-a2",
+    "imageCount": 2,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "about.instagram.com-design"
   },
@@ -56,5 +150,12 @@
       "pinCount": 2,
       "checkedAt": "2026-08-03T18:23:55.937Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
+  },
+  "error": "The repaired about.instagram.com guide did not pass the publication gate after two repairs."
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "1x.tech",
-  "state": "drafting",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T21:54:10.106Z",
+  "state": "published_verified",
+  "attempt": 4,
+  "updatedAt": "2026-08-04T06:26:37.745Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -51,16 +51,218 @@
       "attempt": 2,
       "from": "preparing",
       "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T21:58:19.712Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T21:59:26.925Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T21:59:27.003Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:02:11.877Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:02:45.285Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:02:45.379Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:04:33.410Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:05:43.164Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:05:43.270Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:07:31.821Z",
+      "attempt": 3,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:07:37.627Z",
+      "attempt": 3,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-04T06:12:38.495Z",
+      "attempt": 3,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:15:44.863Z",
+      "attempt": 3,
+      "from": "validating",
+      "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:15:49.667Z",
+      "attempt": 4,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:15:55.102Z",
+      "attempt": 4,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-04T06:18:51.591Z",
+      "attempt": 4,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:19:52.386Z",
+      "attempt": 4,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-04T06:19:52.454Z",
+      "attempt": 4,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-04T06:21:34.692Z",
+      "attempt": 4,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:23:04.282Z",
+      "attempt": 4,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-04T06:23:04.349Z",
+      "attempt": 4,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-04T06:24:57.107Z",
+      "attempt": 4,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-04T06:25:53.769Z",
+      "attempt": 4,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-04T06:25:53.833Z",
+      "attempt": 4,
+      "from": "reviewing",
+      "to": "ready"
+    },
+    {
+      "at": "2026-08-04T06:25:53.882Z",
+      "attempt": 4,
+      "from": "ready",
+      "to": "publishing"
+    },
+    {
+      "at": "2026-08-04T06:25:59.149Z",
+      "attempt": 4,
+      "from": "publishing",
+      "to": "share_published"
+    },
+    {
+      "at": "2026-08-04T06:25:59.203Z",
+      "attempt": 4,
+      "from": "share_published",
+      "to": "syncing"
+    },
+    {
+      "at": "2026-08-04T06:26:37.667Z",
+      "attempt": 4,
+      "from": "syncing",
+      "to": "verifying"
+    },
+    {
+      "at": "2026-08-04T06:26:37.745Z",
+      "attempt": 4,
+      "from": "verifying",
+      "to": "published_verified"
     }
   ],
-  "checks": {},
+  "checks": {
+    "local": {
+      "ok": true,
+      "passed": 112,
+      "total": 112,
+      "failures": []
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    },
+    "payload": {
+      "safe": true
+    },
+    "live": {
+      "page": true,
+      "markdown": true,
+      "github": true,
+      "readme": true,
+      "image": true,
+      "url": "https://design.withfudge.com/share/1x.tech-design",
+      "markdownUrl": "https://design.withfudge.com/share/1x.tech-design.md",
+      "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/1x.tech.md",
+      "representativeImageUrl": "https://pin.fontofweb.com/4217?format=jpg"
+    }
+  },
   "artifacts": {
-    "runId": "2026-08-03T21-54-04-574Z-a2",
-    "imageCount": 7,
-    "baselineAvailable": false
+    "runId": "2026-08-04T06-15-50-880Z-a4",
+    "imageCount": 6,
+    "guideSha256": "a1801b6df5fa1f01c38cb3529dd5ad9f8400bb53f3a799cc7c9abf9f8dbbb98b"
   },
   "publication": {
-    "key": "1x.tech-design"
+    "key": "1x.tech-design",
+    "url": "https://design.withfudge.com/share/1x.tech-design",
+    "markdownUrl": "https://design.withfudge.com/share/1x.tech-design.md",
+    "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/1x.tech.md"
   },
   "blocker": null,
   "inventory": {

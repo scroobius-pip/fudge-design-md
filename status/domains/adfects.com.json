@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
   "domain": "adfects.com",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
+  "state": "failed",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T23:54:36.707Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
   "history": [
     {
       "at": "2026-08-03T18:14:04.562Z",
@@ -35,10 +39,100 @@
       "attempt": 1,
       "from": "needs_reprocessing",
       "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T23:44:08.941Z",
+      "attempt": 2,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T23:44:12.533Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T23:47:02.561Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T23:47:56.990Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T23:47:57.062Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T23:50:29.997Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T23:51:21.862Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T23:51:21.927Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T23:53:38.669Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T23:54:36.645Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T23:54:36.707Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
-  "checks": {},
-  "artifacts": {},
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: page-gutter, section, section-tight, panel-gap, copy-stack, card-pad, card-gap, hero-gap."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: page-gutter, section, section-tight, panel-gap, copy-stack, card-pad, card-gap, hero-gap."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T23-44-09-853Z-a2",
+    "imageCount": 3,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "adfects.com-design"
   },
@@ -56,5 +150,12 @@
       "pinCount": 3,
       "checkedAt": "2026-08-03T18:23:55.937Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
+  },
+  "error": "The repaired adfects.com guide did not pass the publication gate after two repairs."
 }

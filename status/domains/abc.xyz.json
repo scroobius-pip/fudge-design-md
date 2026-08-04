@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
   "domain": "abc.xyz",
-  "state": "unpublished",
-  "attempt": 1,
-  "updatedAt": "2026-08-03T18:23:55.937Z",
-  "agent": null,
+  "state": "failed",
+  "attempt": 2,
+  "updatedAt": "2026-08-03T22:26:44.650Z",
+  "agent": {
+    "engine": "omp",
+    "model": "gpt-5.4-mini",
+    "thinking": "medium"
+  },
   "history": [
     {
       "at": "2026-08-03T18:13:56.478Z",
@@ -35,10 +39,100 @@
       "attempt": 1,
       "from": "needs_reprocessing",
       "to": "unpublished"
+    },
+    {
+      "at": "2026-08-03T22:16:32.243Z",
+      "attempt": 2,
+      "from": "unpublished",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-03T22:16:34.139Z",
+      "attempt": 2,
+      "from": "preparing",
+      "to": "drafting"
+    },
+    {
+      "at": "2026-08-03T22:19:30.706Z",
+      "attempt": 2,
+      "from": "drafting",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:20:35.709Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:20:35.785Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:22:59.879Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:24:03.627Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:24:03.701Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "repairing"
+    },
+    {
+      "at": "2026-08-03T22:25:56.395Z",
+      "attempt": 2,
+      "from": "repairing",
+      "to": "validating"
+    },
+    {
+      "at": "2026-08-03T22:26:44.573Z",
+      "attempt": 2,
+      "from": "validating",
+      "to": "reviewing"
+    },
+    {
+      "at": "2026-08-03T22:26:44.650Z",
+      "attempt": 2,
+      "from": "reviewing",
+      "to": "failed"
     }
   ],
-  "checks": {},
-  "artifacts": {},
+  "checks": {
+    "local": {
+      "ok": false,
+      "passed": 110,
+      "total": 112,
+      "failures": [
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: page-gutter, content-gap, section-gap, footer-pad, cookie-pad."
+        },
+        {
+          "id": "spacing.grounded",
+          "message": "spacing values more than 2px from supplied measurements: page-gutter, content-gap, section-gap, footer-pad, cookie-pad."
+        }
+      ]
+    },
+    "reviewer": {
+      "verdict": "pass",
+      "issues": []
+    }
+  },
+  "artifacts": {
+    "runId": "2026-08-03T22-16-33-018Z-a2",
+    "imageCount": 2,
+    "baselineAvailable": false
+  },
   "publication": {
     "key": "abc.xyz-design"
   },
@@ -56,5 +150,12 @@
       "pinCount": 2,
       "checkedAt": "2026-08-03T18:23:55.937Z"
     }
-  }
+  },
+  "normalization": {
+    "stepPx": 4,
+    "meanAbsoluteError": 0,
+    "maximumResidual": 0,
+    "valuesConsidered": 0
+  },
+  "error": "The repaired abc.xyz guide did not pass the publication gate after two repairs."
 }
