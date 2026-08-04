@@ -1,35 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:25:08.004Z",
+  "generatedAt": "2026-08-04T15:28:24.686Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 119,
-    "failed": 59,
+    "published_verified": 120,
+    "failed": 58,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "syncing": 1,
     "ready": 2,
+    "publishing": 1,
+    "validating": 4,
     "repairing": 1,
-    "validating": 2,
-    "drafting": 3,
+    "preparing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:24:59.478Z",
+    "heartbeatAt": "2026-08-04T15:28:19.644Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "bspk.xyz",
           "startedAt": "2026-08-04T15:18:14.784Z"
-        },
-        {
-          "domain": "bud.app",
-          "startedAt": "2026-08-04T15:20:02.423Z"
         },
         {
           "domain": "builtwith.kit.com",
@@ -46,29 +42,33 @@
         {
           "domain": "camo.com",
           "startedAt": "2026-08-04T15:24:38.919Z"
+        },
+        {
+          "domain": "campaignlive.co.uk",
+          "startedAt": "2026-08-04T15:25:50.763Z"
         }
       ],
-      "completedThisRun": 19,
+      "completedThisRun": 20,
       "failedThisRun": 17
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "braintrust.dev",
-        "startedAt": "2026-08-04T15:24:59.425Z"
+        "domain": "browserbase.com",
+        "startedAt": "2026-08-04T15:28:19.594Z"
       },
-      "completedThisRun": 15,
+      "completedThisRun": 16,
       "failedThisRun": 1
     },
     "queue": {
-      "eligibleGeneration": 1050,
-      "availableGeneration": 1033,
+      "eligibleGeneration": 1049,
+      "availableGeneration": 1036,
       "readyPublication": 3,
-      "publishedVerified": 119
+      "publishedVerified": 120
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:19:56.498Z"
+      "lastSyncedAt": "2026-08-04T15:25:46.093Z"
     },
     "lastError": {
       "at": "2026-08-04T15:24:37.771Z",
@@ -3458,15 +3458,15 @@
     },
     {
       "domain": "braintrust.dev",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:25:06.826Z",
+      "updatedAt": "2026-08-04T15:28:15.571Z",
       "blocker": null,
       "publication": {
         "key": "braintrust.dev-design",
         "url": "https://design.withfudge.com/share/braintrust.dev-design",
         "markdownUrl": "https://design.withfudge.com/share/braintrust.dev-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/braintrust.dev.md"
       }
     },
     {
@@ -3575,9 +3575,9 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:21:11.604Z",
+      "updatedAt": "2026-08-04T15:28:19.640Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3640,9 +3640,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:25:06.525Z",
+      "updatedAt": "2026-08-04T15:28:07.297Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -3653,9 +3653,9 @@
     },
     {
       "domain": "bud.app",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:24:22.490Z",
+      "updatedAt": "2026-08-04T15:25:46.997Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3746,7 +3746,7 @@
       "domain": "builtwith.kit.com",
       "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:24:03.079Z",
+      "updatedAt": "2026-08-04T15:27:44.054Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
@@ -3952,9 +3952,9 @@
     },
     {
       "domain": "c82.net",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:23:40.124Z",
+      "updatedAt": "2026-08-04T15:27:20.363Z",
       "blocker": null,
       "publication": {
         "key": "c82.net-design",
@@ -3991,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:23:27.666Z",
+      "updatedAt": "2026-08-04T15:28:18.261Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4056,9 +4056,9 @@
     },
     {
       "domain": "camo.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:24:54.988Z",
+      "updatedAt": "2026-08-04T15:28:06.656Z",
       "blocker": null,
       "publication": {
         "key": "camo.com-design",
@@ -4069,9 +4069,9 @@
     },
     {
       "domain": "campaignlive.co.uk",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:31:11.835Z",
+      "state": "preparing",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:25:50.897Z",
       "blocker": null,
       "publication": {
         "key": "campaignlive.co.uk-design",
