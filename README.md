@@ -659,7 +659,7 @@ Artefakt.mov uses a severe black-and-white language that feels closer to a quiet
 
 [![How artera.ae is designed](https://pin.fontofweb.com/6538?format=jpg)](design-md/artera.ae.md)
 
-artera.ae presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f3f3f3`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Artera reads as a dark art archive with a strong collector instinct. The interface lets the artwork lead, then frames it with compact chrome: a black canvas, white Inter text, muted gray metadata, and a single gold accent for the actions that matter most. The result feels closer to a night museum than a conventional marketplace. Nothing in the shell tries to outshine the art; the UI stays low-contrast and quiet so the images carry the emotional weight.
 
 [Open guide](design-md/artera.ae.md) · [View the Fudge conversation](https://design.withfudge.com/share/artera.ae-design)
 
