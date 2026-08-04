@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T16:41:36.176Z",
+  "generatedAt": "2026-08-04T16:43:39.946Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 128,
-    "ready": 15,
-    "failed": 37,
-    "repairing": 5,
+    "published_verified": 129,
+    "ready": 13,
+    "failed": 38,
+    "repairing": 4,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "drafting": 1,
-    "syncing": 1,
+    "validating": 2,
+    "publishing": 1,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T16:41:33.899Z",
+    "heartbeatAt": "2026-08-04T16:43:37.227Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -53,25 +53,25 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "cofounder.co",
-        "startedAt": "2026-08-04T16:32:38.916Z"
+        "domain": "cosmic-ray.tv",
+        "startedAt": "2026-08-04T16:43:37.180Z"
       },
-      "completedThisRun": 24,
-      "failedThisRun": 9
+      "completedThisRun": 25,
+      "failedThisRun": 10
     },
     "queue": {
-      "eligibleGeneration": 1028,
-      "availableGeneration": 1014,
-      "readyPublication": 15,
-      "publishedVerified": 128
+      "eligibleGeneration": 1029,
+      "availableGeneration": 1015,
+      "readyPublication": 14,
+      "publishedVerified": 129
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T16:32:48.205Z"
+      "lastSyncedAt": "2026-08-04T16:41:41.117Z"
     },
     "lastError": {
-      "at": "2026-08-04T16:34:41.194Z",
-      "message": "Generation failed for dash.cloudflare.com with exit 1."
+      "at": "2026-08-04T16:42:49.862Z",
+      "message": "Publication failed for cofounder.co with exit 1."
     }
   },
   "domains": [
@@ -1169,9 +1169,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:35:17.247Z",
+      "updatedAt": "2026-08-04T16:43:01.609Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -2092,9 +2092,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T16:34:46.643Z",
+      "updatedAt": "2026-08-04T16:43:22.018Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -4744,9 +4744,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:32:43.653Z",
+      "updatedAt": "2026-08-04T16:42:49.786Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -4991,9 +4991,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:06:31.228Z",
+      "updatedAt": "2026-08-04T16:43:37.225Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -8631,15 +8631,15 @@
     },
     {
       "domain": "getmesa.dev",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:03:20.838Z",
+      "updatedAt": "2026-08-04T16:43:32.146Z",
       "blocker": null,
       "publication": {
         "key": "getmesa.dev-design",
         "url": "https://design.withfudge.com/share/getmesa.dev-design",
         "markdownUrl": "https://design.withfudge.com/share/getmesa.dev-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/getmesa.dev.md"
       }
     },
     {
