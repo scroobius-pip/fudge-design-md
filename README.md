@@ -127,6 +127,14 @@ abcdinamo.com is a type-foundry storefront with the confidence of a studio archi
 
 [Open guide](design-md/abcdinamo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/abcdinamo.com-design)
 
+### about.instagram.com
+
+[![How about.instagram.com is designed](https://pin.fontofweb.com/5274?format=jpg)](design-md/about.instagram.com.md)
+
+about.instagram.com presents Instagram Sans as a brand object, not just a typeface specimen. The page language is spare and poster-like: a black field, a large white multiline headline, thin control labels, and a small pill-shaped control at the bottom establish the first mode. A second mode pushes harder into identity work, using a hard vertical split between hot magenta and pale violet while the type itself becomes the graphic subject. Black letterforms, magenta guide points, and simple alignment marks make the construction process part of the image.
+
+[Open guide](design-md/about.instagram.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/about.instagram.com-design)
+
 ### account.nothing.tech
 
 [![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
