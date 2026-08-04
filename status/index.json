@@ -1,41 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T18:09:43.355Z",
+  "generatedAt": "2026-08-04T18:13:00.312Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 139,
+    "published_verified": 140,
     "failed": 23,
-    "ready": 19,
+    "ready": 18,
     "needs_reprocessing": 21,
-    "validating": 3,
     "unpublished": 896,
-    "syncing": 2,
+    "syncing": 1,
+    "publishing": 1,
+    "validating": 1,
     "repairing": 1,
-    "drafting": 1,
-    "legacy": 93,
-    "preparing": 1
+    "drafting": 4,
+    "legacy": 93
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T17:55:55.975Z",
-    "heartbeatAt": "2026-08-04T18:09:41.544Z",
+    "heartbeatAt": "2026-08-04T18:12:56.161Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "alibabacloud.com",
-          "startedAt": "2026-08-04T18:06:42.126Z"
-        },
-        {
-          "domain": "baked.design",
-          "startedAt": "2026-08-04T17:55:56.528Z"
-        },
-        {
-          "domain": "binary.so",
-          "startedAt": "2026-08-04T18:02:21.018Z"
-        },
         {
           "domain": "blog.google",
           "startedAt": "2026-08-04T18:06:26.794Z"
@@ -45,35 +33,47 @@
           "startedAt": "2026-08-04T18:05:50.855Z"
         },
         {
+          "domain": "cora.computer",
+          "startedAt": "2026-08-04T18:10:37.868Z"
+        },
+        {
+          "domain": "dany.works",
+          "startedAt": "2026-08-04T18:12:15.159Z"
+        },
+        {
+          "domain": "fin.ai",
+          "startedAt": "2026-08-04T18:10:07.056Z"
+        },
+        {
           "domain": "firstpromoter.com",
           "startedAt": "2026-08-04T18:09:41.493Z"
         }
       ],
-      "completedThisRun": 2,
-      "failedThisRun": 3
+      "completedThisRun": 3,
+      "failedThisRun": 5
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "bbc.com",
-        "startedAt": "2026-08-04T18:04:28.955Z"
+        "domain": "bland.ai",
+        "startedAt": "2026-08-04T18:12:56.114Z"
       },
-      "completedThisRun": 1,
-      "failedThisRun": 1
+      "completedThisRun": 2,
+      "failedThisRun": 2
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 1008,
+      "eligibleGeneration": 1012,
+      "availableGeneration": 1005,
       "readyPublication": 19,
-      "publishedVerified": 139
+      "publishedVerified": 140
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T18:04:36.920Z"
+      "lastSyncedAt": "2026-08-04T18:09:48.290Z"
     },
     "lastError": {
-      "at": "2026-08-04T18:09:38.880Z",
-      "message": "Generation failed for base-ui.com with exit 1."
+      "at": "2026-08-04T18:12:15.112Z",
+      "message": "Generation failed for binary.so with exit 1."
     }
   },
   "domains": [
@@ -1106,9 +1106,9 @@
     },
     {
       "domain": "alibabacloud.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:18.000Z",
+      "updatedAt": "2026-08-04T18:10:36.226Z",
       "blocker": null,
       "publication": {
         "key": "alibabacloud.com-design",
@@ -2796,9 +2796,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "validating",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:16.604Z",
+      "updatedAt": "2026-08-04T18:10:04.228Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2965,9 +2965,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T18:04:33.937Z",
+      "updatedAt": "2026-08-04T18:10:42.363Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3134,9 +3134,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:08.320Z",
+      "updatedAt": "2026-08-04T18:12:15.050Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3186,9 +3186,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:13:28.967Z",
+      "updatedAt": "2026-08-04T18:12:56.156Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3290,9 +3290,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:06:29.727Z",
+      "updatedAt": "2026-08-04T18:12:32.313Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3641,9 +3641,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:08:48.510Z",
+      "updatedAt": "2026-08-04T18:09:59.948Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -3745,15 +3745,15 @@
     },
     {
       "domain": "builtwith.kit.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:11:18.199Z",
+      "updatedAt": "2026-08-04T18:12:51.660Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/builtwith.kit.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/builtwith.kit.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/builtwith.kit.com.md"
       }
     },
     {
@@ -4967,9 +4967,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T17:32:34.649Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T18:10:45.961Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -5422,9 +5422,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T17:32:41.849Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T18:12:20.224Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -7528,9 +7528,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T17:31:00.567Z",
+      "state": "drafting",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T18:10:13.772Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7671,9 +7671,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 4,
-      "updatedAt": "2026-08-04T18:09:41.615Z",
+      "updatedAt": "2026-08-04T18:09:46.080Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
