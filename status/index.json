@@ -1,32 +1,29 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:42:48.222Z",
+  "generatedAt": "2026-08-04T14:44:41.545Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 108,
-    "failed": 73,
+    "published_verified": 109,
+    "failed": 72,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 1,
-    "drafting": 5,
+    "repairing": 1,
+    "validating": 2,
+    "drafting": 3,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:42:46.116Z",
+    "heartbeatAt": "2026-08-04T14:44:38.945Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "artificialanalysis.ai",
           "startedAt": "2026-08-04T14:36:06.184Z"
-        },
-        {
-          "domain": "awwwards.com",
-          "startedAt": "2026-08-04T14:39:21.005Z"
         },
         {
           "domain": "baked.design",
@@ -41,28 +38,32 @@
           "startedAt": "2026-08-04T14:42:15.384Z"
         },
         {
+          "domain": "base44.com",
+          "startedAt": "2026-08-04T14:43:52.717Z"
+        },
+        {
           "domain": "dfy.co.kr",
           "startedAt": "2026-08-04T14:37:48.626Z"
         }
       ],
-      "completedThisRun": 4,
+      "completedThisRun": 5,
       "failedThisRun": 6
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 4,
+      "completedThisRun": 5,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1064,
-      "availableGeneration": 1059,
+      "eligibleGeneration": 1063,
+      "availableGeneration": 1058,
       "readyPublication": 0,
-      "publishedVerified": 108
+      "publishedVerified": 109
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:40:49.901Z"
+      "lastSyncedAt": "2026-08-04T14:42:54.873Z"
     },
     "lastError": {
       "at": "2026-08-04T14:40:45.257Z",
@@ -2373,9 +2374,9 @@
     },
     {
       "domain": "artificialanalysis.ai",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:42:17.654Z",
+      "updatedAt": "2026-08-04T14:43:21.659Z",
       "blocker": null,
       "publication": {
         "key": "artificialanalysis.ai-design",
@@ -2763,15 +2764,15 @@
     },
     {
       "domain": "awwwards.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:39:28.369Z",
+      "updatedAt": "2026-08-04T14:44:36.697Z",
       "blocker": null,
       "publication": {
         "key": "awwwards.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/awwwards.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/awwwards.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/awwwards.com.md"
       }
     },
     {
@@ -2789,9 +2790,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:40:19.778Z",
+      "updatedAt": "2026-08-04T14:44:02.198Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -2854,9 +2855,9 @@
     },
     {
       "domain": "baremettle.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:40:51.379Z",
+      "updatedAt": "2026-08-04T14:43:53.052Z",
       "blocker": null,
       "publication": {
         "key": "baremettle.com-design",
@@ -2880,9 +2881,9 @@
     },
     {
       "domain": "base44.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:27:20.737Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:44:00.541Z",
       "blocker": null,
       "publication": {
         "key": "base44.com-design",
