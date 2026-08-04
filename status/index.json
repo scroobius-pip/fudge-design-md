@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:26:32.939Z",
+  "generatedAt": "2026-08-04T14:31:44.454Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 9,
@@ -8,14 +8,15 @@
     "failed": 78,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "preparing": 6,
+    "repairing": 4,
+    "validating": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:26:30.859Z",
+    "heartbeatAt": "2026-08-04T14:31:42.895Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -54,14 +55,14 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1075,
+      "eligibleGeneration": 1069,
       "availableGeneration": 1069,
       "readyPublication": 0,
       "publishedVerified": 104
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-04T14:26:37.840Z"
     },
     "lastError": null
   },
@@ -1433,9 +1434,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.900Z",
+      "updatedAt": "2026-08-04T14:30:27.227Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1485,9 +1486,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:31.029Z",
+      "updatedAt": "2026-08-04T14:31:02.999Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1576,9 +1577,9 @@
     },
     {
       "domain": "app.brevo.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.912Z",
+      "updatedAt": "2026-08-04T14:30:58.646Z",
       "blocker": null,
       "publication": {
         "key": "app.brevo.com-design",
@@ -1966,9 +1967,9 @@
     },
     {
       "domain": "app.quiver.ai",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.981Z",
+      "updatedAt": "2026-08-04T14:30:25.174Z",
       "blocker": null,
       "publication": {
         "key": "app.quiver.ai-design",
@@ -1979,9 +1980,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:31.069Z",
+      "updatedAt": "2026-08-04T14:29:50.506Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2083,9 +2084,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:26:30.981Z",
+      "updatedAt": "2026-08-04T14:29:41.683Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
