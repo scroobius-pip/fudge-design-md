@@ -987,7 +987,7 @@ bud.app presents a predominantly dark surface treatment in the captured pages. T
 
 [![How builtwith.kit.com is designed](https://pin.fontofweb.com/6376?format=jpg)](design-md/builtwith.kit.com.md)
 
-builtwith.kit.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#f2efe9`, `#1e1e1e`, and `#ffffff`, with typography led by **Libre Franklin** and **Kit Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Kit's homepage uses a simple but forceful contrast system: dark promotional chapters, a bright off-white editorial chapter, and one electric-blue action color that stays constant across both moods. The page does not depend on decorative gradients or ornamental framing. Instead, it builds identity from scale, contrast, and a small set of repeated shapes. Large Kit Sans headlines carry the message, while Libre Franklin keeps the supporting copy plain and legible.
 
 [Open guide](design-md/builtwith.kit.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/builtwith.kit.com-design)
 
