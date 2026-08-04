@@ -243,7 +243,7 @@ adject.ai presents a predominantly dark surface treatment in the captured pages.
 
 [![How ads.pinterest.com is designed](https://pin.fontofweb.com/7070?format=jpg)](design-md/ads.pinterest.com.md)
 
-ads.pinterest.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#211922`, and `#ffffff`, with typography led by **Pin Sans Mac Os**. The guide below names reusable design roles only where the captured evidence supports them.
+Ads Pinterest uses a calm product-workspace language rather than a decorative marketing shell. The page is built from white panels, light gray borders, compact text, and a few pale accent bands that keep the flow readable without turning the surface loud. The result feels like a focused campaign builder: the user moves from campaign choice, to targeting, to forecast, to publish, with each step sitting inside its own rounded container.
 
 [Open guide](design-md/ads.pinterest.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ads.pinterest.com-design)
 
