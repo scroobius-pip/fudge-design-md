@@ -1379,7 +1379,7 @@ Cypherpunkbooks.com is a quiet archive built around the feeling of a serious rea
 
 [![How daisyui.com is designed](https://pin.fontofweb.com/6207?format=jpg)](design-md/daisyui.com.md)
 
-daisyui.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#ffffff`, with typography led by **Vazirmatn**, **Outfit**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+daisyUI’s visual system splits into two clear faces: a sparse marketing homepage and a dense theme-generator workspace. The homepage uses white space, an oversized headline, and playful mascot-driven imagery to make a component library feel friendly and open. The workspace compresses that same brand into a tool surface full of swatches, rows, pills, toggles, and dark preview panels. The result is not two unrelated designs; it is one system tuned for two jobs. The public face sells the product with air and scale. The working face lets users compare themes quickly without losing the brand’s simple black-and-white backbone.
 
 [Open guide](design-md/daisyui.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/daisyui.com-design)
 
