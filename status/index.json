@@ -1,24 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:57:04.703Z",
+  "generatedAt": "2026-08-04T14:57:46.453Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 112,
-    "failed": 69,
+    "published_verified": 113,
+    "failed": 68,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 2,
-    "repairing": 1,
-    "ready": 1,
-    "drafting": 2,
+    "repairing": 3,
+    "drafting": 3,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:57:02.298Z",
+    "heartbeatAt": "2026-08-04T14:57:43.603Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -35,36 +33,36 @@
           "startedAt": "2026-08-04T14:52:40.609Z"
         },
         {
-          "domain": "bengalturf.yolasite.com",
-          "startedAt": "2026-08-04T14:53:16.663Z"
-        },
-        {
           "domain": "besimple.ai",
           "startedAt": "2026-08-04T14:55:45.370Z"
         },
         {
           "domain": "betterstack.com",
           "startedAt": "2026-08-04T14:56:26.479Z"
+        },
+        {
+          "domain": "bfl.ai",
+          "startedAt": "2026-08-04T14:57:07.360Z"
         }
       ],
-      "completedThisRun": 8,
+      "completedThisRun": 9,
       "failedThisRun": 10
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 8,
+      "completedThisRun": 9,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1060,
-      "availableGeneration": 1051,
+      "eligibleGeneration": 1059,
+      "availableGeneration": 1050,
       "readyPublication": 0,
-      "publishedVerified": 112
+      "publishedVerified": 113
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:54:05.533Z"
+      "lastSyncedAt": "2026-08-04T14:57:11.180Z"
     },
     "lastError": {
       "at": "2026-08-04T14:55:44.564Z",
@@ -2947,9 +2945,9 @@
     },
     {
       "domain": "baseten.co",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:56:28.800Z",
+      "updatedAt": "2026-08-04T14:57:42.827Z",
       "blocker": null,
       "publication": {
         "key": "baseten.co-design",
@@ -2986,9 +2984,9 @@
     },
     {
       "domain": "behance.net",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:55:44.469Z",
+      "updatedAt": "2026-08-04T14:57:24.400Z",
       "blocker": null,
       "publication": {
         "key": "behance.net-design",
@@ -3025,15 +3023,15 @@
     },
     {
       "domain": "bengalturf.yolasite.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:57:03.088Z",
+      "updatedAt": "2026-08-04T14:57:38.971Z",
       "blocker": null,
       "publication": {
         "key": "bengalturf.yolasite.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/bengalturf.yolasite.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/bengalturf.yolasite.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bengalturf.yolasite.com.md"
       }
     },
     {
@@ -3103,9 +3101,9 @@
     },
     {
       "domain": "bfl.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:28:36.610Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:57:19.288Z",
       "blocker": null,
       "publication": {
         "key": "bfl.ai-design",
