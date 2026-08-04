@@ -1489,9 +1489,9 @@ deepmind.google presents a predominantly dark surface treatment in the captured 
 
 ### deepwiki.com
 
-[![How deepwiki.com is designed](https://pin.fontofweb.com/8114?format=jpg)](design-md/deepwiki.com.md)
+[![How deepwiki.com is designed](https://pin.fontofweb.com/8112?format=jpg)](design-md/deepwiki.com.md)
 
-deepwiki.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#333333`, `#000000`, and `#666666`, with typography led by **Geist** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+DeepWiki is a light documentation interface that treats a repository as something to browse, question, and index without leaving a calm page shell. The supplied views lean on a quiet off-white canvas, white cards with fine borders, compact Geist type, and a single saturated blue action for the highest-priority button. The overall feeling is closer to a developer reference tool than a marketing site: low drama, high legibility, and a strong preference for structured reading over decorative framing.
 
 [Open guide](design-md/deepwiki.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/deepwiki.com-design)
 
