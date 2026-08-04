@@ -2,56 +2,59 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:19:46.979Z",
+  "heartbeatAt": "2026-08-04T15:24:59.478Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "braintrust.dev",
-        "startedAt": "2026-08-04T15:09:05.793Z"
-      },
-      {
-        "domain": "brave.com",
-        "startedAt": "2026-08-04T15:11:18.974Z"
-      },
-      {
-        "domain": "brookings.edu",
-        "startedAt": "2026-08-04T15:11:34.313Z"
-      },
-      {
-        "domain": "browserbase.com",
-        "startedAt": "2026-08-04T15:12:15.404Z"
-      },
-      {
-        "domain": "browseros.com",
-        "startedAt": "2026-08-04T15:14:28.888Z"
-      },
-      {
         "domain": "bspk.xyz",
         "startedAt": "2026-08-04T15:18:14.784Z"
+      },
+      {
+        "domain": "bud.app",
+        "startedAt": "2026-08-04T15:20:02.423Z"
+      },
+      {
+        "domain": "builtwith.kit.com",
+        "startedAt": "2026-08-04T15:21:03.922Z"
+      },
+      {
+        "domain": "c82.net",
+        "startedAt": "2026-08-04T15:21:14.135Z"
+      },
+      {
+        "domain": "caffeine.ai",
+        "startedAt": "2026-08-04T15:23:11.893Z"
+      },
+      {
+        "domain": "camo.com",
+        "startedAt": "2026-08-04T15:24:38.919Z"
       }
     ],
-    "completedThisRun": 15,
-    "failedThisRun": 16
+    "completedThisRun": 19,
+    "failedThisRun": 17
   },
   "publication": {
     "concurrency": 1,
-    "active": null,
-    "completedThisRun": 14,
+    "active": {
+      "domain": "braintrust.dev",
+      "startedAt": "2026-08-04T15:24:59.425Z"
+    },
+    "completedThisRun": 15,
     "failedThisRun": 1
   },
   "queue": {
-    "eligibleGeneration": 1054,
-    "availableGeneration": 1038,
-    "readyPublication": 0,
-    "publishedVerified": 118
+    "eligibleGeneration": 1050,
+    "availableGeneration": 1033,
+    "readyPublication": 3,
+    "publishedVerified": 119
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:17:42.423Z"
+    "lastSyncedAt": "2026-08-04T15:19:56.498Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:18:31.966Z",
-    "message": "Publication failed for bland.ai with exit 1."
+    "at": "2026-08-04T15:24:37.771Z",
+    "message": "Generation failed for brave.com with exit 1."
   }
 }

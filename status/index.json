@@ -1,73 +1,78 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:19:50.143Z",
+  "generatedAt": "2026-08-04T15:25:08.004Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 118,
-    "failed": 63,
+    "published_verified": 119,
+    "failed": 59,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 2,
-    "validating": 3,
-    "drafting": 1,
+    "syncing": 1,
+    "ready": 2,
+    "repairing": 1,
+    "validating": 2,
+    "drafting": 3,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:19:46.979Z",
+    "heartbeatAt": "2026-08-04T15:24:59.478Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "braintrust.dev",
-          "startedAt": "2026-08-04T15:09:05.793Z"
-        },
-        {
-          "domain": "brave.com",
-          "startedAt": "2026-08-04T15:11:18.974Z"
-        },
-        {
-          "domain": "brookings.edu",
-          "startedAt": "2026-08-04T15:11:34.313Z"
-        },
-        {
-          "domain": "browserbase.com",
-          "startedAt": "2026-08-04T15:12:15.404Z"
-        },
-        {
-          "domain": "browseros.com",
-          "startedAt": "2026-08-04T15:14:28.888Z"
-        },
-        {
           "domain": "bspk.xyz",
           "startedAt": "2026-08-04T15:18:14.784Z"
+        },
+        {
+          "domain": "bud.app",
+          "startedAt": "2026-08-04T15:20:02.423Z"
+        },
+        {
+          "domain": "builtwith.kit.com",
+          "startedAt": "2026-08-04T15:21:03.922Z"
+        },
+        {
+          "domain": "c82.net",
+          "startedAt": "2026-08-04T15:21:14.135Z"
+        },
+        {
+          "domain": "caffeine.ai",
+          "startedAt": "2026-08-04T15:23:11.893Z"
+        },
+        {
+          "domain": "camo.com",
+          "startedAt": "2026-08-04T15:24:38.919Z"
         }
       ],
-      "completedThisRun": 15,
-      "failedThisRun": 16
+      "completedThisRun": 19,
+      "failedThisRun": 17
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
-      "completedThisRun": 14,
+      "active": {
+        "domain": "braintrust.dev",
+        "startedAt": "2026-08-04T15:24:59.425Z"
+      },
+      "completedThisRun": 15,
       "failedThisRun": 1
     },
     "queue": {
-      "eligibleGeneration": 1054,
-      "availableGeneration": 1038,
-      "readyPublication": 0,
-      "publishedVerified": 118
+      "eligibleGeneration": 1050,
+      "availableGeneration": 1033,
+      "readyPublication": 3,
+      "publishedVerified": 119
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:17:42.423Z"
+      "lastSyncedAt": "2026-08-04T15:19:56.498Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:18:31.966Z",
-      "message": "Publication failed for bland.ai with exit 1."
+      "at": "2026-08-04T15:24:37.771Z",
+      "message": "Generation failed for brave.com with exit 1."
     }
   },
   "domains": [
@@ -3453,14 +3458,14 @@
     },
     {
       "domain": "braintrust.dev",
-      "state": "repairing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:17:33.998Z",
+      "updatedAt": "2026-08-04T15:25:06.826Z",
       "blocker": null,
       "publication": {
         "key": "braintrust.dev-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/braintrust.dev-design",
+        "markdownUrl": "https://design.withfudge.com/share/braintrust.dev-design.md",
         "githubUrl": null
       }
     },
@@ -3492,9 +3497,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:18:38.516Z",
+      "updatedAt": "2026-08-04T15:24:37.701Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -3557,9 +3562,9 @@
     },
     {
       "domain": "brookings.edu",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:19:21.021Z",
+      "updatedAt": "2026-08-04T15:23:07.369Z",
       "blocker": null,
       "publication": {
         "key": "brookings.edu-design",
@@ -3570,9 +3575,9 @@
     },
     {
       "domain": "browserbase.com",
-      "state": "validating",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:19:34.734Z",
+      "updatedAt": "2026-08-04T15:21:11.604Z",
       "blocker": null,
       "publication": {
         "key": "browserbase.com-design",
@@ -3596,15 +3601,15 @@
     },
     {
       "domain": "browseros.com",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:18:46.324Z",
+      "updatedAt": "2026-08-04T15:24:59.295Z",
       "blocker": null,
       "publication": {
         "key": "browseros.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/browseros.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/browseros.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/browseros.com.md"
       }
     },
     {
@@ -3635,9 +3640,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:18:30.586Z",
+      "updatedAt": "2026-08-04T15:25:06.525Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
@@ -3648,9 +3653,9 @@
     },
     {
       "domain": "bud.app",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:11.914Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:24:22.490Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
@@ -3739,9 +3744,9 @@
     },
     {
       "domain": "builtwith.kit.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:17.796Z",
+      "state": "validating",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:24:03.079Z",
       "blocker": null,
       "publication": {
         "key": "builtwith.kit.com-design",
@@ -3947,9 +3952,9 @@
     },
     {
       "domain": "c82.net",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:26.047Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:23:40.124Z",
       "blocker": null,
       "publication": {
         "key": "c82.net-design",
@@ -3986,9 +3991,9 @@
     },
     {
       "domain": "caffeine.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:32.137Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:23:27.666Z",
       "blocker": null,
       "publication": {
         "key": "caffeine.ai-design",
@@ -4051,9 +4056,9 @@
     },
     {
       "domain": "camo.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:30:39.243Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:24:54.988Z",
       "blocker": null,
       "publication": {
         "key": "camo.com-design",
