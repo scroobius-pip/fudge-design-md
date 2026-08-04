@@ -255,6 +255,14 @@ Affectable Sleep presents itself as a quiet premium hardware brand, not a busy e
 
 [Open guide](design-md/affectablesleep.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/affectablesleep.com-design)
 
+### affine.pro
+
+[![How affine.pro is designed](https://pin.fontofweb.com/4161?format=jpg)](design-md/affine.pro.md)
+
+AFFiNE’s public pages use a clean, product-first visual system built around a white canvas, dark text, rounded cards, and a single saturated blue action color. The layout reads as a workspace product rather than a brochure: content is presented in sections that feel like pinned boards, template galleries, and feature cards. Inter carries nearly all interface copy, while Kalam appears as a playful handwritten accent inside the large-canvas illustration language.
+
+[Open guide](design-md/affine.pro.md) · [View the Fudge conversation](https://design.withfudge.com/share/affine.pro-design)
+
 ### agentation.dev
 
 [![How agentation.dev is designed](https://pin.fontofweb.com/6235?format=jpg)](design-md/agentation.dev.md)
