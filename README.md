@@ -143,6 +143,14 @@ Absolu reads like a creative agency poster series translated into a web page. Th
 
 [Open guide](design-md/absolu.ca.md) · [View the Fudge conversation](https://design.withfudge.com/share/absolu.ca-design)
 
+### access.mymind.com
+
+[![How access.mymind.com is designed](https://pin.fontofweb.com/3395?format=jpg)](design-md/access.mymind.com.md)
+
+access.mymind.com uses a calm, editorial product language built around white cards, soft gray fields, and a serif/sans contrast that keeps the page feeling polished instead of playful. The page is not visually busy. It relies on a few large headline moments, compact explanatory copy, and image-heavy feature cards that sit high on the page and read like framed product posters.
+
+[Open guide](design-md/access.mymind.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/access.mymind.com-design)
+
 ### account.nothing.tech
 
 [![How account.nothing.tech is designed](https://pin.fontofweb.com/8561?format=jpg)](design-md/account.nothing.tech.md)
