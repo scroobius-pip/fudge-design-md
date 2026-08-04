@@ -423,6 +423,14 @@ Algebrica is a restrained mathematical knowledge base with the tone of a printed
 
 [Open guide](design-md/algebrica.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/algebrica.org-design)
 
+### alibabacloud.com
+
+[![How alibabacloud.com is designed](https://pin.fontofweb.com/4365?format=jpg)](design-md/alibabacloud.com.md)
+
+Alibaba Cloud's public marketing pages use a strict enterprise tone: large Roboto headlines, black text on a white field, and one saturated blue action color that carries nearly all primary emphasis. The system feels technical without becoming dense. It gives the page room to breathe, then uses a few precise accents to keep the interface from turning bland. The hero copy is short and declarative, while the imagery carries the sense of scale.
+
+[Open guide](design-md/alibabacloud.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/alibabacloud.com-design)
+
 ### aljazeera.com
 
 [![How aljazeera.com is designed](https://pin.fontofweb.com/9086?format=jpg)](design-md/aljazeera.com.md)
