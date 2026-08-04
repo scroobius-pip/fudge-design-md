@@ -1,34 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:05:42.685Z",
+  "generatedAt": "2026-08-04T15:07:45.890Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 115,
-    "failed": 66,
+    "published_verified": 116,
+    "failed": 65,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "validating": 2,
     "repairing": 3,
-    "drafting": 1,
+    "drafting": 3,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:05:40.759Z",
+    "heartbeatAt": "2026-08-04T15:07:43.868Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "bbc.com",
-          "startedAt": "2026-08-04T14:51:59.527Z"
-        },
-        {
-          "domain": "bfl.ai",
-          "startedAt": "2026-08-04T14:57:07.360Z"
-        },
         {
           "domain": "binary.so",
           "startedAt": "2026-08-04T14:59:56.905Z"
@@ -44,30 +35,38 @@
         {
           "domain": "blindsight.space",
           "startedAt": "2026-08-04T15:04:54.460Z"
+        },
+        {
+          "domain": "blog.google",
+          "startedAt": "2026-08-04T15:06:37.161Z"
+        },
+        {
+          "domain": "bolt.new",
+          "startedAt": "2026-08-04T15:07:12.976Z"
         }
       ],
-      "completedThisRun": 11,
-      "failedThisRun": 12
+      "completedThisRun": 12,
+      "failedThisRun": 13
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 11,
+      "completedThisRun": 12,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1057,
-      "availableGeneration": 1046,
+      "eligibleGeneration": 1056,
+      "availableGeneration": 1044,
       "readyPublication": 0,
-      "publishedVerified": 115
+      "publishedVerified": 116
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:00:55.866Z"
+      "lastSyncedAt": "2026-08-04T15:05:47.369Z"
     },
     "lastError": {
-      "at": "2026-08-04T15:02:03.603Z",
-      "message": "Generation failed for betterstack.com with exit 1."
+      "at": "2026-08-04T15:06:35.030Z",
+      "message": "Generation failed for bbc.com with exit 1."
     }
   },
   "domains": [
@@ -2959,9 +2958,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:05:16.799Z",
+      "updatedAt": "2026-08-04T15:06:34.961Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -3102,15 +3101,15 @@
     },
     {
       "domain": "bfl.ai",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:04:09.256Z",
+      "updatedAt": "2026-08-04T15:07:42.329Z",
       "blocker": null,
       "publication": {
         "key": "bfl.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/bfl.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/bfl.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bfl.ai.md"
       }
     },
     {
@@ -3130,7 +3129,7 @@
       "domain": "binary.so",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:03:27.757Z",
+      "updatedAt": "2026-08-04T15:07:44.318Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3169,7 +3168,7 @@
       "domain": "bkid.co",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:04:01.565Z",
+      "updatedAt": "2026-08-04T15:06:55.330Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3180,9 +3179,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:05:21.999Z",
+      "updatedAt": "2026-08-04T15:07:07.075Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -3284,9 +3283,9 @@
     },
     {
       "domain": "blog.google",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:29:06.983Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:06:40.351Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
@@ -3349,9 +3348,9 @@
     },
     {
       "domain": "bolt.new",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:29:13.688Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:07:17.458Z",
       "blocker": null,
       "publication": {
         "key": "bolt.new-design",

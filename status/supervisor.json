@@ -2,18 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:05:40.759Z",
+  "heartbeatAt": "2026-08-04T15:07:43.868Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "bbc.com",
-        "startedAt": "2026-08-04T14:51:59.527Z"
-      },
-      {
-        "domain": "bfl.ai",
-        "startedAt": "2026-08-04T14:57:07.360Z"
-      },
       {
         "domain": "binary.so",
         "startedAt": "2026-08-04T14:59:56.905Z"
@@ -29,29 +21,37 @@
       {
         "domain": "blindsight.space",
         "startedAt": "2026-08-04T15:04:54.460Z"
+      },
+      {
+        "domain": "blog.google",
+        "startedAt": "2026-08-04T15:06:37.161Z"
+      },
+      {
+        "domain": "bolt.new",
+        "startedAt": "2026-08-04T15:07:12.976Z"
       }
     ],
-    "completedThisRun": 11,
-    "failedThisRun": 12
+    "completedThisRun": 12,
+    "failedThisRun": 13
   },
   "publication": {
     "concurrency": 1,
     "active": null,
-    "completedThisRun": 11,
+    "completedThisRun": 12,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1057,
-    "availableGeneration": 1046,
+    "eligibleGeneration": 1056,
+    "availableGeneration": 1044,
     "readyPublication": 0,
-    "publishedVerified": 115
+    "publishedVerified": 116
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:00:55.866Z"
+    "lastSyncedAt": "2026-08-04T15:05:47.369Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:02:03.603Z",
-    "message": "Generation failed for betterstack.com with exit 1."
+    "at": "2026-08-04T15:06:35.030Z",
+    "message": "Generation failed for bbc.com with exit 1."
   }
 }
