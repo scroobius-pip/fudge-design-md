@@ -785,9 +785,9 @@ Base44 reads as a calm idea-making brand rather than a hard utility dashboard. T
 
 ### baselight.ai
 
-[![How baselight.ai is designed](https://pin.fontofweb.com/7854?format=jpg)](design-md/baselight.ai.md)
+[![How baselight.ai is designed](https://pin.fontofweb.com/7851?format=jpg)](design-md/baselight.ai.md)
 
-baselight.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#111111`, and `#ffffff`, with typography led by **Wanted Sans Std**, **Nohemi**, **Wanted Sans**, and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Baselight presents structured data as a calm, premium product rather than a noisy dashboard. The page language is sparse, the alignment is strict, and the hierarchy depends on scale instead of ornament. A warm off-white ground carries the marketing story; white cards lift above it; deep night sections arrive later to reset the pace. Mint-teal marks identity and motion points. Black pills, compact labels, and large Nohemi headlines keep the system confident without feeling loud.
 
 [Open guide](design-md/baselight.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/baselight.ai-design)
 

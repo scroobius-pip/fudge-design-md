@@ -2,164 +2,196 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/baselight.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Baselight Data Catalog | Explore and Query Global Structured Datasets](https://pin.fontofweb.com/7854?format=jpg)](https://design.withfudge.com/share/pin-7854)
+[![Light homepage hero with the structured backbone headline and glassy panels](https://pin.fontofweb.com/7851?format=jpg)](https://design.withfudge.com/share/pin-7851)
 
-[Baselight Data Catalog | Explore and Query Global Structured Datasets](https://design.withfudge.com/share/pin-7854)
+[Light homepage hero with the structured backbone headline and glassy panels](https://design.withfudge.com/share/pin-7851)
 
-[![Pricing - Baselight](https://pin.fontofweb.com/7853?format=jpg)](https://design.withfudge.com/share/pin-7853)
+[![Dark feature stage with three product columns and one centered action](https://pin.fontofweb.com/7852?format=jpg)](https://design.withfudge.com/share/pin-7852)
 
-[Pricing - Baselight](https://design.withfudge.com/share/pin-7853)
+[Dark feature stage with three product columns and one centered action](https://design.withfudge.com/share/pin-7852)
 
-[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7852?format=jpg)](https://design.withfudge.com/share/pin-7852)
+[![Pricing page with coral eyebrow text, four cards, and the billing toggle](https://pin.fontofweb.com/7853?format=jpg)](https://design.withfudge.com/share/pin-7853)
 
-[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/share/pin-7852)
+[Pricing page with coral eyebrow text, four cards, and the billing toggle](https://design.withfudge.com/share/pin-7853)
 
-[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7851?format=jpg)](https://design.withfudge.com/share/pin-7851)
+[![Catalog workspace with search, filters, and the dense dataset table](https://pin.fontofweb.com/7854?format=jpg)](https://design.withfudge.com/share/pin-7854)
 
-[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/share/pin-7851)
-
-[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7850?format=jpg)](https://design.withfudge.com/share/pin-7850)
-
-[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/share/pin-7850)
-
-[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7849?format=jpg)](https://design.withfudge.com/share/pin-7849)
-
-[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/share/pin-7849)
-
-[![Baselight - The unified data layer for humans & AI](https://pin.fontofweb.com/7848?format=jpg)](https://design.withfudge.com/share/pin-7848)
-
-[Baselight - The unified data layer for humans & AI](https://design.withfudge.com/share/pin-7848)
+[Catalog workspace with search, filters, and the dense dataset table](https://design.withfudge.com/share/pin-7854)
 
 ## Overview
 
-baselight.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#111111`, and `#ffffff`, with typography led by **Wanted Sans Std**, **Nohemi**, **Wanted Sans**, and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Baselight presents structured data as a calm, premium product rather than a noisy dashboard. The page language is sparse, the alignment is strict, and the hierarchy depends on scale instead of ornament. A warm off-white ground carries the marketing story; white cards lift above it; deep night sections arrive later to reset the pace. Mint-teal marks identity and motion points. Black pills, compact labels, and large Nohemi headlines keep the system confident without feeling loud.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the header |
-| color.text | `#111111` | text on page content in the header |
-| color.text | `#ffffff` | text on page content in the nav |
-| color.surface | `#131621` | surface on page content in the main |
-| color.text | `#0dbf9b` | text on page content in the main |
-| color.text | `#696969` | text on page content in the main |
-| color.text | `#a4a4a4` | text on page content in the main |
-| color.text | `#d8613c` | text on page content in the main |
-| color.text | `#886bfb` | text on page content in the main |
-| color.text | `#fb8a6b` | text on page content in the main |
-| color.shadow | `#2d2342` | shadow on page content |
-| color.surface | `#d9613d` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Wanted Sans Std** | 16px | 400 | 24.8px | normal | <div> in the header, <a> in the nav, <div>, <div> in the nav, <p> in the main, <div> in the footer, <div> in the main, and <span> in the main |
-| type.body-18.08px | **Wanted Sans Std** | 18.08px | 400 | 28.024px | normal | <div> in the main, <ul> in the main, <li> in the main, and <span> in the main |
-| type.display-48px | **Nohemi** | 48px | 300 | 48px | -0.48px | <h2> in the main |
-| type.body-15px | **Wanted Sans Std** | 15px | 400 | 24px | normal | <div> in the main |
-| type.body-18.08px | **Wanted Sans Std** | 18.08px | 400 | 22.6px | normal | <div> in the main and <span> in the main |
-| type.display-64px | **Nohemi** | 64px | 400 | 73.6px | normal | <h1> in the main |
-| type.body-14px | **Wanted Sans Std** | 14px | 500 | 21.7px | 0.7px | <p> in the main |
-| type.body-26.4px | **Wanted Sans Std** | 26.4px | 400 | 40.92px | normal | <p> in the main |
-| type.heading-14px | **Wanted Sans Std** | 14px | 600 | 20px | 2% | <span>, <a>, <span> in the nav, <span> in the main, and <a> in the main |
-| type.display-52px | **Wanted Sans Std** | 52px | 700 | 62.4px | normal | <h2> in the main |
-| type.body-16px | **Wanted Sans Std** | 16px | 400 | 24px | normal | <span> in the main and <div> in the main |
-| type.body-18px | **Wanted Sans** | 18px | 400 | 27px | normal | <div> in the main |
-| type.utility-12px | **Wanted Sans Std** | 12px | 600 | 24px | 0.6px | <h3> in the main |
-| type.heading-20px | **Wanted Sans Std** | 20px | 600 | 22px | -0.2px | <span> in the main |
-| type.body-16px | **Wanted Sans Std** | 16px | 400 | 24px | -0.16px | <div> in the main |
-| type.heading-14px | **Wanted Sans Std** | 14px | 600 | 21px | 0.28px | <button> in the button and <div> in the button |
-| type.body-20px | **Wanted Sans Std** | 20px | 400 | 31px | normal | <p> in the footer |
-| type.body-14.4px | **Wanted Sans Std** | 14.4px | 500 | 22.32px | normal | <span> in the nav and <ul> in the nav |
-| type.heading-14px | **Wanted Sans Std** | 14px | 600 | 21.7px | 1px | <p> in the footer |
-| type.body-24px | **Wanted Sans Std** | 24px | 400 | 30px | -0.48px | <h3> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `15px 20px 0px` | padding | page content |
-| `40px 0px` | padding | page content |
-| `0px 0px 48px` | padding | page content |
-| `84px 20px` | padding | page content |
-| `0px 0px 80px` | padding | page content |
-| `20px 102.797px` | padding | page content |
-| `0px 0px -82px` | margin | page content |
-| `96px 20px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 20px`, `0px none 8px`, `1px 0px 0px solid none none 0px`, `0px none 16px`, `0px none 5px`, `1px solid 100px`, `0px none 50%`, and `0px none 100px` border treatments. Recorded gradients include `linear-gradient(0deg, rgb(244, 242, 240) 0%, rgba(245, 242, 240, 0) 100%)` and `linear-gradient(rgb(244, 242, 240) 0%, rgba(245, 242, 240, 0) 100%)`. Recorded shadows include `rgba(45, 35, 66, 0.4) 0px 2px 4px 0px, rgba(45, 35, 66, 0.3) 0px 7px 13px -3px, rgb(214, 214, 231) 0px -3px 0px 0px inset`, `rgba(0, 0, 0, 0.1) 0px 15px 25px 0px`, and `rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`.
+The public pages move through a clear sequence. The hero introduces the brand with a large statement, a short supporting line, and a single clear action. The catalog workspace turns that promise into a dense but orderly table. Pricing shifts to a softer glow with centered plan choices and four cards. A dark explanatory stage and a dark footer close the story with stronger contrast and quieter copy. The system works because each chapter keeps the same discipline: one dominant message, one principal surface, and one accent lane.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#131621`, and `#d9613d`. Text colors include `#111111`, `#ffffff`, and `#0dbf9b`. Keep image-derived colors separate from interface colors.
+Baselight is light-first. Warm canvas values support the homepage and the catalog; bright white surfaces separate cards and shells from the page ground; dark surfaces appear only when the page needs a stronger explanatory or closing register. Teal is the main identity color and the clearest positive accent. Coral belongs to pricing emphasis and small commercial markers. Violet appears as a secondary highlight in the data and product visuals. Neutral borders stay pale so table structure and card edges remain visible without hard outlines.
+
+| token | hex | use |
+|---|---|---|
+| action | `#000000` | Filled pills, strong CTAs, and the darkest interactive fill |
+| ink | `#111111` | Main text on light and warm surfaces |
+| ink-soft | `#696969` | Supporting copy, table meta, and quieter labels |
+| canvas | `#F4F2F0` | Primary page ground on the marketing pages |
+| canvas-soft | `#F5F2F0` | Slightly warmer off-white used for soft gradient fields |
+| surface | `#FCFCFD` | Raised cards and the catalog workspace shell |
+| surface-plain | `#FFFFFF` | White cards, pills, and high-contrast fills |
+| surface-night | `#131621` | Dark explanatory sections and the footer ground |
+| surface-ink | `#2D2342` | Deep shadow tone and dark-layer support |
+| brand | `#0DBF9B` | Primary teal accent, logo mark, and positive detail color |
+| brand-deep | `#0D9488` | Cooler teal support tone for small interface accents |
+| accent-coral | `#D9613D` | Pricing eyebrow, warm emphasis, and feature icons |
+| accent-coral-deep | `#D8613C` | Alternate coral used in the same commercial family |
+| accent-coral-soft | `#FB8A6B` | Softer coral highlight in the pricing glow |
+| accent-violet | `#886BFB` | Secondary graphic note in the data/product visuals |
+| border | `#D6D6E7` | Card rules, table lines, and shell separators |
+| border-muted | `#A4A4A4` | Quieter separators and inactive neutral UI detail |
+| shadow | `#000000` | Dark shadow base and depth support |
 
 ## Typography
 
-The captured type system uses **Wanted Sans Std**, **Nohemi**, and **Wanted Sans**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Nohemi carries the large headlines. Wanted Sans Std handles the dense product copy, labels, and table text. Wanted Sans appears in a few softer supporting passages. Inter is reserved for the smallest button text. The hierarchy depends on size, weight, and line length more than on switching families. Reuse requires separate licensing checks for each family; Inter has no credit entry in the packet.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Nohemi | 4rem | 400 | 1 | -0.01em | Main homepage and pricing headline |
+| section-display | Nohemi | 3rem | 300 | 1 | -0.01em | Dark stage headline and other large statements |
+| lead | Wanted Sans Std | 1.65rem | 400 | 1.55 | 0em | Hero support copy and pricing intro lines |
+| metric | Nohemi | 2rem | 200 | 1 | 0em | Big numerical callouts and compact stats |
+| feature-copy | Wanted Sans | 1.125rem | 400 | 1.5 | 0em | Feature paragraphs and softer explanatory text |
+| body | Wanted Sans Std | 1rem | 400 | 1.55 | 0em | Catalog rows, card copy, and general prose |
+| body-strong | Wanted Sans Std | 1rem | 600 | 1.4 | 0em | Strong labels, selected states, and card emphasis |
+| label | Wanted Sans Std | 0.875rem | 600 | 1.5 | 0.05em | Filters, tab labels, and small UI text |
+| micro-label | Wanted Sans Std | 0.75rem | 600 | 2 | 0.05em | Eyebrows, tiny section markers, and pricing tags |
+| button | Inter | 0.875rem | 500 | 1.43 | 0em | Small filled buttons and compact control text |
+
+The page uses a limited rhythm of large display text, one supportive lead line, then a steady body size for the product surface. Letter spacing is subtle except on the smallest labels, where a little tracking gives the interface a crisp, engineered edge. The result is editorial at the top and operational in the workspace.
 
 ## Layout
 
-The captured pages use values such as `15px 20px 0px`, `40px 0px`, `0px 0px 48px`, `84px 20px`, and `0px 0px 80px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is centered, wide, and measured. The homepage hero leaves a lot of breathing room around the statement, letting the eye settle on the left-aligned headline before moving to the right-side metric stack or product illustration. Navigation sits in a thin top band and stays visually light so the hero can carry the opening.
+
+The catalog page uses a very different structure but the same restraint. A large rounded shell holds the search field, tabs, filter chips, and a dense table. The shell is wide enough to feel like a real workspace, but the internal spacing keeps rows readable. The table depends on clear horizontal grouping: name at left, then provider, update time, tables, size, usage, and stars. Because the page has many columns, the row structure needs compact text and stable spacing more than decorative framing.
+
+Pricing is centered and symmetrical. The introductory text sits above a feature grid, then a toggle, then four equal cards. Each card is tall enough to support a big plan name, a price, short explanatory text, and a checklist. This layout is effective because all four plans share the same visual weight; the difference comes from content, not from wildly different shapes.
+
+The darker sections use a stronger block format. The dark explanatory stage turns into a single large container with a clear headline, a short paragraph, and subordinate modules or cards. The footer extends that logic with a wide multi-column link field and a quiet legal strip. The page never becomes crowded; it simply changes surface tone when the story needs a new register.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#131621`, `#d9613d`, and `#fcfcfd`. Depth is supported by the returned gradients and shadows.
+Baselight’s visual language is restrained, technical, and soft-edged. The edges are rounded, but not bubbly. Cards usually sit at 8px to 16px radii, while the larger pill controls use a much fuller curve. This gives the interface two shape scales: compact controls and larger panels. The contrast between those scales keeps the product looking polished without becoming decorative.
 
-## Components and states
+Depth is light. Most white cards float through spacing and a faint shadow rather than thick borders. The darkest sections rely on the surface change itself more than on stacked shadows. The result is a calm architecture that feels precise. Borders are used where they help structure, especially in the table and on small controls, but they never dominate the layout.
 
-The captured pages include repeated styling on <div>, <a>, <span>, <strong>, <h2>, <p>, <ul>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Color carries the visual rhythm. Teal marks identity and status. Coral introduces commercial energy on the pricing page. The warm canvas prevents the white cards from feeling sterile. Dark sections are used sparingly so the lower page can read as a deliberate shift rather than a second design language.
+
+Imagery and illustration lean toward product reality. Floating panels, soft chart blocks, and pale data forms explain the platform without turning the page into a pure marketing collage. Even when the surfaces are abstracted, they still feel like software parts. That balance is the defining trait: structured, calm, and unmistakably data-driven.
+
+## Components
+
+### Header
+
+The header is minimal and horizontal. The logo sits at the left, navigation items sit across the center, and a black sign-up pill closes the row at the right.
+
+- **Anatomy:** Mark, product links, solution links, docs, pricing, blog, and one filled action.
+- **Typography:** Small uppercase-feeling labels with compact spacing and a clean 14px utility face.
+- **Shape:** The sign-up control uses a pill form; the rest of the header stays flat.
+- **Composition:** The header should stay quiet enough that the hero headline dominates the opening frame.
+
+### Hero statement block
+
+The homepage hero relies on one oversized sentence, a short supporting line, and one primary action.
+
+- **Anatomy:** Eyebrow, large headline, short paragraph, pill action, and a separate metric stack or supporting link.
+- **Surface:** Warm canvas or very pale backdrop.
+- **Typography:** Nohemi for the main statement; Wanted Sans Std for the smaller explanatory line.
+- **Spacing:** Large vertical separation around the block; the copy stays compact within that space.
+- **Hierarchy:** One line carries the page; the support text explains, but does not compete.
+
+### Catalog workspace
+
+The catalog section looks like a real work surface, not a marketing card.
+
+- **Anatomy:** Title row, search field, tabs, filter chips, table header, and many data rows.
+- **Surface:** White shell with a soft edge and a pale border.
+- **Typography:** Strong label text for the tabs and filters; regular body text for rows.
+- **Shape:** Rounded outer shell, smaller rounded chips, and clean rectangular row structure.
+- **Visible states:** The active tab reads as selected through placement and contrast; the search field reads as a soft input rather than a hard box.
+
+### Pricing stack
+
+The pricing page is built from a centered introduction, a small feature grid, a yearly/monthly toggle, and four even cards.
+
+- **Anatomy:** Coral eyebrow, large headline, short subtitle, icon-and-copy benefits, toggle, and plan cards.
+- **Typography:** Nohemi for the heading and the plan names; Wanted Sans Std for the supporting lines; Inter for the toggle or action text where the interface uses a compact utility face.
+- **Surface:** Warm glow behind the content, then white cards below.
+- **Shape:** The toggle is pill-shaped; the cards are gently rounded rectangles.
+- **Hierarchy:** All plans remain comparable; the stronger hierarchy comes from price and copy, not from radically different panel sizes.
+
+### Dark storytelling panel
+
+The darker sections carry the product story with more weight and a quieter background.
+
+- **Anatomy:** Large statement, supporting copy, grouped cards or modules, and a strong centered or right-aligned action.
+- **Surface:** Deep night ground with white text and light product accents.
+- **Typography:** Nohemi headline, then Wanted Sans Std support text.
+- **Composition:** The content should remain spacious; dark surfaces need even more breathing room than light ones.
+- **Visible states:** The active action reads as a filled white or black pill depending on context, but always with clear contrast.
+
+### Footer
+
+The footer uses the deepest surface and the smallest contrast step in the system.
+
+- **Anatomy:** Brand mark, newsletter or prompt line, multi-column links, and legal text.
+- **Surface:** Near-black ground with white text.
+- **Typography:** Small body and label styles; no large display type.
+- **Spacing:** Wide column gaps and a clear break before the legal row.
+- **Hierarchy:** Utility comes first, then navigation, then legal information.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On smaller screens, the visual order should stay intact: statement, support line, action, then product detail. The catalog shell should compress into a single column or an overflow-safe table structure. Pricing should collapse from four cards to a stacked or two-up arrangement while preserving the same card language. Navigation should reduce without losing the sign-up control. Dark sections should keep their contrast, but their internal spacing must tighten so the page remains readable without turning cramped.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the warm canvas, white cards, and deep night sections as distinct surface roles.
+- Keep Nohemi reserved for the largest statements and metric moments.
+- Keep black pills as the strongest action shape.
+- Keep teal as the brand signal and coral as the pricing signal.
+- Keep table structure clear through spacing and pale separators, not heavy rules.
+
+### Avoid
+
+- Avoid adding more accent colors; the system already has enough color range.
+- Avoid thick borders around every panel; the layout depends on air and surface change.
+- Avoid mixing the dark-footer palette into the catalog or pricing areas.
+- Avoid turning every module into a pill; rounded controls and rounded panels play different roles.
+- Avoid oversized shadows or blur-heavy effects that weaken the clean, analytical tone.
+
+### Recommended build order
+
+1. Set the surface roles: canvas, white shell, dark stage, footer.
+2. Build the Nohemi hierarchy and the Wanted Sans Std body system.
+3. Add the pill actions and compact labels.
+4. Recreate the catalog workspace with search, tabs, filters, and table rows.
+5. Add the pricing section with the coral eyebrow, feature grid, toggle, and four cards.
+6. Finish with the dark explanatory block and the footer.
+
+### Accessibility
+
+- Keep text contrast strong on both warm and dark surfaces.
+- Make the search field, tabs, toggle, and pills clearly focusable.
+- Do not depend on color alone for table meaning; keep the numbers and labels present.
+- Preserve readable line length in the hero and pricing intro.
+- Keep icon-only controls paired with text or accessible labels.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#111111`
-- `#ffffff`
-- `#131621`
-- `#0dbf9b`
-- `#696969`
-- `#a4a4a4`
-- `#d8613c`
-- `#886bfb`
-- `#fb8a6b`
-- `#2d2342`
-- `#d9613d`
-- `#fcfcfd`
-- `#d6d6e7`
-- `#0d9488`
-
-## Typography captured from baselight.ai
-
-- **Wanted Sans Std** — weight 400 · size 16px
-- **Nohemi** — weight 400 · size 64px
-- **Wanted Sans** — weight 400 · size 18px
-- **Inter** — weight 500 · size 14px
+This guide covers the public homepage, catalog workspace, pricing page, dark explanatory stage, and footer. Measurements are normalized to a 0.125rem step. Mobile compression, exact breakpoint behavior, hover and press motion, and font licensing are not included.
