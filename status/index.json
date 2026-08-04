@@ -1,51 +1,51 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T23:30:40.645Z",
+  "generatedAt": "2026-08-04T23:35:49.713Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1001,
     "needs_reprocessing": 22,
-    "preparing": 3,
     "drafting": 4,
+    "preparing": 3,
     "unpublished": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T23:25:29.139Z",
-    "heartbeatAt": "2026-08-04T23:30:38.794Z",
+    "heartbeatAt": "2026-08-04T23:35:48.011Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "bbc.com",
-          "startedAt": "2026-08-04T23:30:38.716Z"
+          "domain": "paddle.com",
+          "startedAt": "2026-08-04T23:35:37.632Z"
         },
         {
-          "domain": "diabrowser.com",
-          "startedAt": "2026-08-04T23:30:23.288Z"
+          "domain": "pangram.com",
+          "startedAt": "2026-08-04T23:35:47.948Z"
         },
         {
-          "domain": "linktr.ee",
-          "startedAt": "2026-08-04T23:30:38.715Z"
+          "domain": "pangrampangram.com",
+          "startedAt": "2026-08-04T23:35:37.633Z"
         },
         {
-          "domain": "lit.dev",
-          "startedAt": "2026-08-04T23:30:38.714Z"
+          "domain": "para.co",
+          "startedAt": "2026-08-04T23:35:47.945Z"
         },
         {
-          "domain": "llmrefs.com",
-          "startedAt": "2026-08-04T23:30:33.530Z"
+          "domain": "paradigmai.com",
+          "startedAt": "2026-08-04T23:35:42.777Z"
         },
         {
-          "domain": "lofree.co",
-          "startedAt": "2026-08-04T23:30:33.523Z"
+          "domain": "paths.grasp.study",
+          "startedAt": "2026-08-04T23:35:47.949Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 121
+      "failedThisRun": 240
     },
     "publication": {
       "concurrency": 1,
@@ -55,17 +55,17 @@
     },
     "queue": {
       "eligibleGeneration": 1007,
-      "availableGeneration": 883,
+      "availableGeneration": 764,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 1,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T23:25:35.738Z"
+      "lastSyncedAt": "2026-08-04T23:30:45.305Z"
     },
     "lastError": {
-      "at": "2026-08-04T23:30:38.322Z",
-      "message": "Generation failed for link.com with exit 1."
+      "at": "2026-08-04T23:35:44.694Z",
+      "message": "Generation failed for outthere.studio with exit 1."
     }
   },
   "domains": [
@@ -2568,8 +2568,8 @@
     {
       "domain": "audio.com",
       "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-04T22:51:32.583Z",
+      "attempt": 7,
+      "updatedAt": "2026-08-04T23:31:54.836Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -2957,9 +2957,9 @@
     },
     {
       "domain": "bbc.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-04T23:30:38.971Z",
+      "updatedAt": "2026-08-04T23:30:48.210Z",
       "blocker": null,
       "publication": {
         "key": "bbc.com-design",
@@ -5493,8 +5493,8 @@
     {
       "domain": "dashboard.mux.com",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T22:51:19.805Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T23:31:37.513Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.mux.com-design",
@@ -5701,8 +5701,8 @@
     {
       "domain": "deepwiki.com",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T22:54:31.789Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-04T23:35:05.468Z",
       "blocker": null,
       "publication": {
         "key": "deepwiki.com-design",
@@ -6103,9 +6103,9 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-04T23:30:32.646Z",
+      "updatedAt": "2026-08-04T23:30:43.989Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
@@ -11849,9 +11849,9 @@
     },
     {
       "domain": "linktr.ee",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:30:38.880Z",
+      "updatedAt": "2026-08-04T23:30:51.668Z",
       "blocker": null,
       "publication": {
         "key": "linktr.ee-design",
@@ -11888,9 +11888,9 @@
     },
     {
       "domain": "lit.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:30:38.896Z",
+      "updatedAt": "2026-08-04T23:30:50.611Z",
       "blocker": null,
       "publication": {
         "key": "lit.dev-design",
@@ -11953,9 +11953,9 @@
     },
     {
       "domain": "llmrefs.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:30:36.535Z",
+      "updatedAt": "2026-08-04T23:30:44.001Z",
       "blocker": null,
       "publication": {
         "key": "llmrefs.com-design",
@@ -11967,8 +11967,8 @@
     {
       "domain": "lloydsbank.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:56.690Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:17.630Z",
       "blocker": null,
       "publication": {
         "key": "lloydsbank.com-design",
@@ -11992,9 +11992,9 @@
     },
     {
       "domain": "lofree.co",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:30:36.325Z",
+      "updatedAt": "2026-08-04T23:30:44.069Z",
       "blocker": null,
       "publication": {
         "key": "lofree.co-design",
@@ -12084,8 +12084,8 @@
     {
       "domain": "logsnag.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:44.982Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:30:59.877Z",
       "blocker": null,
       "publication": {
         "key": "logsnag.com-design",
@@ -12123,8 +12123,8 @@
     {
       "domain": "loom.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:45.606Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:01.989Z",
       "blocker": null,
       "publication": {
         "key": "loom.com-design",
@@ -12149,8 +12149,8 @@
     {
       "domain": "lovable.dev",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:54.218Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:14.039Z",
       "blocker": null,
       "publication": {
         "key": "lovable.dev-design",
@@ -12162,8 +12162,8 @@
     {
       "domain": "lovart.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:02.210Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:23.260Z",
       "blocker": null,
       "publication": {
         "key": "lovart.ai-design",
@@ -12227,8 +12227,8 @@
     {
       "domain": "lucumr.pocoo.org",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:47.759Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:30:59.677Z",
       "blocker": null,
       "publication": {
         "key": "lucumr.pocoo.org-design",
@@ -12240,8 +12240,8 @@
     {
       "domain": "lumalabs.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:42.689Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:30:51.518Z",
       "blocker": null,
       "publication": {
         "key": "lumalabs.ai-design",
@@ -12266,8 +12266,8 @@
     {
       "domain": "lunagraph.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:59.617Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:16.682Z",
       "blocker": null,
       "publication": {
         "key": "lunagraph.com-design",
@@ -12331,8 +12331,8 @@
     {
       "domain": "macaron.im",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:09.562Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:35.255Z",
       "blocker": null,
       "publication": {
         "key": "macaron.im-design",
@@ -12448,8 +12448,8 @@
     {
       "domain": "makingsoftware.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:04.903Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:29.139Z",
       "blocker": null,
       "publication": {
         "key": "makingsoftware.com-design",
@@ -12474,8 +12474,8 @@
     {
       "domain": "mangle.readthedocs.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:54.517Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:03.014Z",
       "blocker": null,
       "publication": {
         "key": "mangle.readthedocs.io-design",
@@ -12500,8 +12500,8 @@
     {
       "domain": "marathonthegame.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:15.667Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:37.831Z",
       "blocker": null,
       "publication": {
         "key": "marathonthegame.com-design",
@@ -12552,8 +12552,8 @@
     {
       "domain": "masterselects.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:03.308Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:14.391Z",
       "blocker": null,
       "publication": {
         "key": "masterselects.com-design",
@@ -12565,8 +12565,8 @@
     {
       "domain": "matklad.github.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:50:53.215Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:04.877Z",
       "blocker": null,
       "publication": {
         "key": "matklad.github.io-design",
@@ -12591,8 +12591,8 @@
     {
       "domain": "mattstromawn.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:10.346Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:29.710Z",
       "blocker": null,
       "publication": {
         "key": "mattstromawn.com-design",
@@ -12604,8 +12604,8 @@
     {
       "domain": "maxibestof.one",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:19.584Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:41.022Z",
       "blocker": null,
       "publication": {
         "key": "maxibestof.one-design",
@@ -12656,8 +12656,8 @@
     {
       "domain": "mdx.so",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:09.283Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:25.764Z",
       "blocker": null,
       "publication": {
         "key": "mdx.so-design",
@@ -12669,8 +12669,8 @@
     {
       "domain": "medium.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:21.760Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:42.495Z",
       "blocker": null,
       "publication": {
         "key": "medium.com-design",
@@ -12682,8 +12682,8 @@
     {
       "domain": "meduza.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:20.084Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:38.782Z",
       "blocker": null,
       "publication": {
         "key": "meduza.io-design",
@@ -12695,8 +12695,8 @@
     {
       "domain": "mega.nz",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:24.325Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:53.405Z",
       "blocker": null,
       "publication": {
         "key": "mega.nz-design",
@@ -12721,8 +12721,8 @@
     {
       "domain": "mellow.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:34.054Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:54.349Z",
       "blocker": null,
       "publication": {
         "key": "mellow.io-design",
@@ -12747,8 +12747,8 @@
     {
       "domain": "meodai.github.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:25.002Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:53.665Z",
       "blocker": null,
       "publication": {
         "key": "meodai.github.io-design",
@@ -12773,8 +12773,8 @@
     {
       "domain": "mercury.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:20.540Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:38.254Z",
       "blocker": null,
       "publication": {
         "key": "mercury.com-design",
@@ -12812,8 +12812,8 @@
     {
       "domain": "metalab.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:12.505Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:28.266Z",
       "blocker": null,
       "publication": {
         "key": "metalab.com-design",
@@ -12825,8 +12825,8 @@
     {
       "domain": "metamask.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:34.496Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:59.043Z",
       "blocker": null,
       "publication": {
         "key": "metamask.io-design",
@@ -12838,8 +12838,8 @@
     {
       "domain": "metr.org",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:36.608Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:07.383Z",
       "blocker": null,
       "publication": {
         "key": "metr.org-design",
@@ -12890,8 +12890,8 @@
     {
       "domain": "micro.so",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:47.182Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:07.405Z",
       "blocker": null,
       "publication": {
         "key": "micro.so-design",
@@ -12916,8 +12916,8 @@
     {
       "domain": "midjourney.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:49.539Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:15.315Z",
       "blocker": null,
       "publication": {
         "key": "midjourney.com-design",
@@ -12968,8 +12968,8 @@
     {
       "domain": "mimo.xiaomi.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:34.161Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:31:55.694Z",
       "blocker": null,
       "publication": {
         "key": "mimo.xiaomi.com-design",
@@ -12981,8 +12981,8 @@
     {
       "domain": "min.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:46.872Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:05.874Z",
       "blocker": null,
       "publication": {
         "key": "min.io-design",
@@ -12994,8 +12994,8 @@
     {
       "domain": "minimax.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:46.224Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:05.852Z",
       "blocker": null,
       "publication": {
         "key": "minimax.io-design",
@@ -13007,8 +13007,8 @@
     {
       "domain": "minoradventures.co",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:56.103Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:17.697Z",
       "blocker": null,
       "publication": {
         "key": "minoradventures.co-design",
@@ -13033,8 +13033,8 @@
     {
       "domain": "mio.gg",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:46.871Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:04.788Z",
       "blocker": null,
       "publication": {
         "key": "mio.gg-design",
@@ -13085,8 +13085,8 @@
     {
       "domain": "miromiro.app",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:54.872Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:15.707Z",
       "blocker": null,
       "publication": {
         "key": "miromiro.app-design",
@@ -13098,8 +13098,8 @@
     {
       "domain": "mistral.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:58.686Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:22.425Z",
       "blocker": null,
       "publication": {
         "key": "mistral.ai-design",
@@ -13137,8 +13137,8 @@
     {
       "domain": "mixfont.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:56.848Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:17.904Z",
       "blocker": null,
       "publication": {
         "key": "mixfont.com-design",
@@ -13176,8 +13176,8 @@
     {
       "domain": "mobbin.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:11.619Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:33.140Z",
       "blocker": null,
       "publication": {
         "key": "mobbin.com-design",
@@ -13189,8 +13189,8 @@
     {
       "domain": "mockdown.design",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:51:59.038Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:18.807Z",
       "blocker": null,
       "publication": {
         "key": "mockdown.design-design",
@@ -13215,8 +13215,8 @@
     {
       "domain": "moda.app",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:16.631Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:38.903Z",
       "blocker": null,
       "publication": {
         "key": "moda.app-design",
@@ -13228,8 +13228,8 @@
     {
       "domain": "modal.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:13.979Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:33.630Z",
       "blocker": null,
       "publication": {
         "key": "modal.com-design",
@@ -13254,8 +13254,8 @@
     {
       "domain": "modedesigns.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:23.266Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:00.463Z",
       "blocker": null,
       "publication": {
         "key": "modedesigns.com-design",
@@ -13293,8 +13293,8 @@
     {
       "domain": "modular.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:06.273Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:25.353Z",
       "blocker": null,
       "publication": {
         "key": "modular.com-design",
@@ -13306,8 +13306,8 @@
     {
       "domain": "mojolang.org",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:04.247Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:23.969Z",
       "blocker": null,
       "publication": {
         "key": "mojolang.org-design",
@@ -13397,8 +13397,8 @@
     {
       "domain": "monogram.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:10.949Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:30.762Z",
       "blocker": null,
       "publication": {
         "key": "monogram.ai-design",
@@ -13410,8 +13410,8 @@
     {
       "domain": "monosketch.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:21.569Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:41.671Z",
       "blocker": null,
       "publication": {
         "key": "monosketch.io-design",
@@ -13423,8 +13423,8 @@
     {
       "domain": "moondream.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:15.199Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:35.260Z",
       "blocker": null,
       "publication": {
         "key": "moondream.ai-design",
@@ -13436,8 +13436,8 @@
     {
       "domain": "moonpay.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:34.258Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:07.337Z",
       "blocker": null,
       "publication": {
         "key": "moonpay.com-design",
@@ -13488,8 +13488,8 @@
     {
       "domain": "morphllm.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:30.804Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:04.348Z",
       "blocker": null,
       "publication": {
         "key": "morphllm.com-design",
@@ -13514,8 +13514,8 @@
     {
       "domain": "motherduck.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:27.382Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:48.449Z",
       "blocker": null,
       "publication": {
         "key": "motherduck.com-design",
@@ -13540,8 +13540,8 @@
     {
       "domain": "motion.software",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:26.764Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:57.547Z",
       "blocker": null,
       "publication": {
         "key": "motion.software-design",
@@ -13579,8 +13579,8 @@
     {
       "domain": "mulerouter.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:33.544Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:07.089Z",
       "blocker": null,
       "publication": {
         "key": "mulerouter.ai-design",
@@ -13592,8 +13592,8 @@
     {
       "domain": "multi.app",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:45.521Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:18.620Z",
       "blocker": null,
       "publication": {
         "key": "multi.app-design",
@@ -13605,8 +13605,8 @@
     {
       "domain": "mux.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:45.536Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:18.632Z",
       "blocker": null,
       "publication": {
         "key": "mux.com-design",
@@ -13618,8 +13618,8 @@
     {
       "domain": "my.10web.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:31.686Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:32:58.487Z",
       "blocker": null,
       "publication": {
         "key": "my.10web.io-design",
@@ -13631,8 +13631,8 @@
     {
       "domain": "myaccount.payoneer.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:36.189Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:05.541Z",
       "blocker": null,
       "publication": {
         "key": "myaccount.payoneer.com-design",
@@ -13670,8 +13670,8 @@
     {
       "domain": "mykc.cargo.site",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:46.375Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:21.016Z",
       "blocker": null,
       "publication": {
         "key": "mykc.cargo.site-design",
@@ -13683,8 +13683,8 @@
     {
       "domain": "mymind.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:49.252Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:23.742Z",
       "blocker": null,
       "publication": {
         "key": "mymind.com-design",
@@ -13761,8 +13761,8 @@
     {
       "domain": "natoma.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:47.473Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:19.047Z",
       "blocker": null,
       "publication": {
         "key": "natoma.ai-design",
@@ -13774,8 +13774,8 @@
     {
       "domain": "natoma.run",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:02.059Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:38.178Z",
       "blocker": null,
       "publication": {
         "key": "natoma.run-design",
@@ -13787,8 +13787,8 @@
     {
       "domain": "nature.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:49.235Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:20.281Z",
       "blocker": null,
       "publication": {
         "key": "nature.com-design",
@@ -13826,8 +13826,8 @@
     {
       "domain": "neobrowser.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:02.945Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:36.113Z",
       "blocker": null,
       "publication": {
         "key": "neobrowser.ai-design",
@@ -13865,8 +13865,8 @@
     {
       "domain": "netflix.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:07.257Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:46.608Z",
       "blocker": null,
       "publication": {
         "key": "netflix.com-design",
@@ -13878,8 +13878,8 @@
     {
       "domain": "neubrutalism.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:01.444Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:34.485Z",
       "blocker": null,
       "publication": {
         "key": "neubrutalism.com-design",
@@ -13891,8 +13891,8 @@
     {
       "domain": "neuform.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:18.603Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:52.128Z",
       "blocker": null,
       "publication": {
         "key": "neuform.ai-design",
@@ -13904,8 +13904,8 @@
     {
       "domain": "neuralink.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:00.049Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:37.273Z",
       "blocker": null,
       "publication": {
         "key": "neuralink.com-design",
@@ -13917,8 +13917,8 @@
     {
       "domain": "new.email",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:20.611Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:50.872Z",
       "blocker": null,
       "publication": {
         "key": "new.email-design",
@@ -13943,8 +13943,8 @@
     {
       "domain": "newsinenglish.no",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:52:56.178Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:33.293Z",
       "blocker": null,
       "publication": {
         "key": "newsinenglish.no-design",
@@ -14008,8 +14008,8 @@
     {
       "domain": "nga.gov",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:33.987Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:15.684Z",
       "blocker": null,
       "publication": {
         "key": "nga.gov-design",
@@ -14021,8 +14021,8 @@
     {
       "domain": "ngs24.ru",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:19.381Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:49.130Z",
       "blocker": null,
       "publication": {
         "key": "ngs24.ru-design",
@@ -14034,8 +14034,8 @@
     {
       "domain": "nibzard.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:17.682Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:42.339Z",
       "blocker": null,
       "publication": {
         "key": "nibzard.com-design",
@@ -14047,8 +14047,8 @@
     {
       "domain": "nicelydone.club",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:31.173Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:01.067Z",
       "blocker": null,
       "publication": {
         "key": "nicelydone.club-design",
@@ -14125,8 +14125,8 @@
     {
       "domain": "noon.design",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:21.510Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:50.993Z",
       "blocker": null,
       "publication": {
         "key": "noon.design-design",
@@ -14164,8 +14164,8 @@
     {
       "domain": "norre.framer.website",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:30.847Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:33:52.508Z",
       "blocker": null,
       "publication": {
         "key": "norre.framer.website-design",
@@ -14177,8 +14177,8 @@
     {
       "domain": "northendboutique.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:36.663Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:10.633Z",
       "blocker": null,
       "publication": {
         "key": "northendboutique.com-design",
@@ -14203,8 +14203,8 @@
     {
       "domain": "notewave.app",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:34.403Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:04.869Z",
       "blocker": null,
       "publication": {
         "key": "notewave.app-design",
@@ -14229,8 +14229,8 @@
     {
       "domain": "notion.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:48.010Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:29.082Z",
       "blocker": null,
       "publication": {
         "key": "notion.com-design",
@@ -14242,8 +14242,8 @@
     {
       "domain": "notion.so",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:45.124Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:26.337Z",
       "blocker": null,
       "publication": {
         "key": "notion.so-design",
@@ -14281,8 +14281,8 @@
     {
       "domain": "nova.lightmode.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:33.909Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:01.039Z",
       "blocker": null,
       "publication": {
         "key": "nova.lightmode.io-design",
@@ -14320,8 +14320,8 @@
     {
       "domain": "ntathome.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:46.742Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:16.272Z",
       "blocker": null,
       "publication": {
         "key": "ntathome.com-design",
@@ -14372,8 +14372,8 @@
     {
       "domain": "nvg8.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:00.107Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:40.820Z",
       "blocker": null,
       "publication": {
         "key": "nvg8.io-design",
@@ -14411,8 +14411,8 @@
     {
       "domain": "nzxt.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:45.444Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:17.177Z",
       "blocker": null,
       "publication": {
         "key": "nzxt.com-design",
@@ -14424,8 +14424,8 @@
     {
       "domain": "oasishealth.app",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:44.313Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:02.768Z",
       "blocker": null,
       "publication": {
         "key": "oasishealth.app-design",
@@ -14476,8 +14476,8 @@
     {
       "domain": "obsidianos.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:00.610Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:51.731Z",
       "blocker": null,
       "publication": {
         "key": "obsidianos.com-design",
@@ -14489,8 +14489,8 @@
     {
       "domain": "ocoya.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:49.044Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:29.869Z",
       "blocker": null,
       "publication": {
         "key": "ocoya.com-design",
@@ -14515,8 +14515,8 @@
     {
       "domain": "odylicmedia.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:01.851Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:42.209Z",
       "blocker": null,
       "publication": {
         "key": "odylicmedia.com-design",
@@ -14528,8 +14528,8 @@
     {
       "domain": "of.domains",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:53:59.423Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:35.689Z",
       "blocker": null,
       "publication": {
         "key": "of.domains-design",
@@ -14541,8 +14541,8 @@
     {
       "domain": "offmenu.design",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:01.617Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:51.718Z",
       "blocker": null,
       "publication": {
         "key": "offmenu.design-design",
@@ -14567,8 +14567,8 @@
     {
       "domain": "ogilvy.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:16.666Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:10.277Z",
       "blocker": null,
       "publication": {
         "key": "ogilvy.com-design",
@@ -14606,8 +14606,8 @@
     {
       "domain": "ollama.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:12.277Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:50.980Z",
       "blocker": null,
       "publication": {
         "key": "ollama.com-design",
@@ -14619,8 +14619,8 @@
     {
       "domain": "om.co",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:00.198Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:30.721Z",
       "blocker": null,
       "publication": {
         "key": "om.co-design",
@@ -14658,8 +14658,8 @@
     {
       "domain": "omma.build",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:15.773Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:05.396Z",
       "blocker": null,
       "publication": {
         "key": "omma.build-design",
@@ -14723,8 +14723,8 @@
     {
       "domain": "once.film",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:14.076Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:04.834Z",
       "blocker": null,
       "publication": {
         "key": "once.film-design",
@@ -14775,8 +14775,8 @@
     {
       "domain": "onmy.land",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:11.939Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:53.317Z",
       "blocker": null,
       "publication": {
         "key": "onmy.land-design",
@@ -14840,8 +14840,8 @@
     {
       "domain": "opencode.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:13.400Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:34:59.228Z",
       "blocker": null,
       "publication": {
         "key": "opencode.ai-design",
@@ -14853,8 +14853,8 @@
     {
       "domain": "opencollective.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:32.179Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:10.463Z",
       "blocker": null,
       "publication": {
         "key": "opencollective.com-design",
@@ -14866,8 +14866,8 @@
     {
       "domain": "openinterpreter.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:35.334Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:18.697Z",
       "blocker": null,
       "publication": {
         "key": "openinterpreter.com-design",
@@ -14879,8 +14879,8 @@
     {
       "domain": "openknowledge.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:33.940Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:19.213Z",
       "blocker": null,
       "publication": {
         "key": "openknowledge.ai-design",
@@ -14905,8 +14905,8 @@
     {
       "domain": "openrouter.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:33.981Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:19.197Z",
       "blocker": null,
       "publication": {
         "key": "openrouter.ai-design",
@@ -14944,8 +14944,8 @@
     {
       "domain": "opensource.googleblog.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:31.349Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:05.897Z",
       "blocker": null,
       "publication": {
         "key": "opensource.googleblog.com-design",
@@ -14983,8 +14983,8 @@
     {
       "domain": "openwebui.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:46.806Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:30.023Z",
       "blocker": null,
       "publication": {
         "key": "openwebui.com-design",
@@ -14996,8 +14996,8 @@
     {
       "domain": "operaneon.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:43.099Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:31.150Z",
       "blocker": null,
       "publication": {
         "key": "operaneon.com-design",
@@ -15035,8 +15035,8 @@
     {
       "domain": "opper.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:47.637Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:32.833Z",
       "blocker": null,
       "publication": {
         "key": "opper.ai-design",
@@ -15074,8 +15074,8 @@
     {
       "domain": "ordinarypeople.info",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:46.933Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:34.448Z",
       "blocker": null,
       "publication": {
         "key": "ordinarypeople.info-design",
@@ -15113,8 +15113,8 @@
     {
       "domain": "orionbrowser.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:40.167Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:17.658Z",
       "blocker": null,
       "publication": {
         "key": "orionbrowser.com-design",
@@ -15165,8 +15165,8 @@
     {
       "domain": "outthere.studio",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:58.689Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:44.613Z",
       "blocker": null,
       "publication": {
         "key": "outthere.studio-design",
@@ -15204,8 +15204,8 @@
     {
       "domain": "oxylabs.io",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:46.878Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:30.207Z",
       "blocker": null,
       "publication": {
         "key": "oxylabs.io-design",
@@ -15217,8 +15217,8 @@
     {
       "domain": "p.cv",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:49.917Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:30.185Z",
       "blocker": null,
       "publication": {
         "key": "p.cv-design",
@@ -15229,9 +15229,9 @@
     },
     {
       "domain": "paddle.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:01.612Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:43.215Z",
       "blocker": null,
       "publication": {
         "key": "paddle.com-design",
@@ -15243,8 +15243,8 @@
     {
       "domain": "pageloop.ai",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:57.115Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:43.957Z",
       "blocker": null,
       "publication": {
         "key": "pageloop.ai-design",
@@ -15256,8 +15256,8 @@
     {
       "domain": "palantir.com",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:57.756Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:43.776Z",
       "blocker": null,
       "publication": {
         "key": "palantir.com-design",
@@ -15294,9 +15294,9 @@
     },
     {
       "domain": "pangram.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:10.967Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:48.142Z",
       "blocker": null,
       "publication": {
         "key": "pangram.com-design",
@@ -15307,9 +15307,9 @@
     },
     {
       "domain": "pangrampangram.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:02.700Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:43.417Z",
       "blocker": null,
       "publication": {
         "key": "pangrampangram.com-design",
@@ -15360,8 +15360,8 @@
     {
       "domain": "paperclip.ing",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:54:55.527Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:40.360Z",
       "blocker": null,
       "publication": {
         "key": "paperclip.ing-design",
@@ -15372,9 +15372,9 @@
     },
     {
       "domain": "para.co",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:09.542Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:48.107Z",
       "blocker": null,
       "publication": {
         "key": "para.co-design",
@@ -15385,9 +15385,9 @@
     },
     {
       "domain": "paradigmai.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:06.369Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:47.108Z",
       "blocker": null,
       "publication": {
         "key": "paradigmai.com-design",
@@ -15463,9 +15463,9 @@
     },
     {
       "domain": "paths.grasp.study",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:55:14.401Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:35:48.109Z",
       "blocker": null,
       "publication": {
         "key": "paths.grasp.study-design",
