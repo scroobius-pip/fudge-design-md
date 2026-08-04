@@ -383,6 +383,14 @@ Airbnb's home page is a quiet marketplace shell built around white space, rounde
 
 [Open guide](design-md/airbnb.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/airbnb.com-design)
 
+### airwallex.com
+
+[![How airwallex.com is designed](https://pin.fontofweb.com/5206?format=jpg)](design-md/airwallex.com.md)
+
+Airwallex reads as a clean enterprise-finance system with very little ornamental noise. White and pale gray surfaces carry most of the page, so the content feels open even when the layout is dense with forms, cards, and link lists. A single violet action color ties together the login button, FAQ chevrons, links, and primary calls to action. That consistency matters because the page moves across several moods: a white authentication surface, a white editorial resource hero, a light product grid, a dark developer band, a centered FAQ, and a restrained footer.
+
+[Open guide](design-md/airwallex.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/airwallex.com-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/8555?format=jpg)](design-md/aiverse.design.md)
