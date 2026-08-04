@@ -987,7 +987,7 @@ Camo Studio’s `/studio` page is a dark, product-forward marketing system built
 
 [![How campaignlive.co.uk is designed](https://pin.fontofweb.com/7894?format=jpg)](design-md/campaignlive.co.uk.md)
 
-campaignlive.co.uk presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1c1c1c`, and `#ffffff`, with typography led by **Freightpro**, **Tabletgothicnarrow**, and **Lato**. The guide below names reusable design roles only where the captured evidence supports them.
+Campaign Live is a trade-publication design system built from three clear materials: a black-and-white editorial reading surface, a red subscription accent, and a compact set of boxed commerce modules. The page hierarchy is blunt and practical. Headlines are heavy and often oversized. Supporting copy is calmer and narrower in measure. Utility links, navigation, and list-heavy modules use a disciplined sans face, while long-form article text leans into a serif voice that keeps the site grounded in editorial authority.
 
 [Open guide](design-md/campaignlive.co.uk.md) · [View the Fudge conversation](https://design.withfudge.com/share/campaignlive.co.uk-design)
 
