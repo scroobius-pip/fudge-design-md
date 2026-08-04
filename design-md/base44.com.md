@@ -2,169 +2,205 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/base44.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Plans to Fit Every Interest | Base44 Pricing](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/share/pin-9559)
+[![Five white pricing cards with black pill buttons and a pale enterprise band](https://pin.fontofweb.com/9559?format=jpg)](https://design.withfudge.com/share/pin-9559)
 
-[Plans to Fit Every Interest | Base44 Pricing](https://design.withfudge.com/share/pin-9559)
+[Five white pricing cards with black pill buttons and a pale enterprise band](https://design.withfudge.com/share/pin-9559)
 
-[![404 Error: Page Not Found | Base44](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/share/pin-9558)
+[![Lilac-to-peach 404 page with oversized black headline and one pill button](https://pin.fontofweb.com/9558?format=jpg)](https://design.withfudge.com/share/pin-9558)
 
-[404 Error: Page Not Found | Base44](https://design.withfudge.com/share/pin-9558)
+[Lilac-to-peach 404 page with oversized black headline and one pill button](https://design.withfudge.com/share/pin-9558)
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/share/pin-7409)
+[![Warm orange stage with a centered cream card and black call to action](https://pin.fontofweb.com/7409?format=jpg)](https://design.withfudge.com/share/pin-7409)
 
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7409)
+[Warm orange stage with a centered cream card and black call to action](https://design.withfudge.com/share/pin-7409)
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7408?format=jpg)](https://design.withfudge.com/share/pin-7408)
+[![Split hero with a white text panel beside a dark task-board preview](https://pin.fontofweb.com/7408?format=jpg)](https://design.withfudge.com/share/pin-7408)
 
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7408)
+[Split hero with a white text panel beside a dark task-board preview](https://design.withfudge.com/share/pin-7408)
 
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7407?format=jpg)](https://design.withfudge.com/share/pin-7407)
+[![Sky-blue hero with centered prompt field and rounded suggestion chips](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/share/pin-7406)
 
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7407)
-
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7406?format=jpg)](https://design.withfudge.com/share/pin-7406)
-
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7406)
-
-[![Build Apps with AI in Minutes | Base44](https://pin.fontofweb.com/7405?format=jpg)](https://design.withfudge.com/share/pin-7405)
-
-[Build Apps with AI in Minutes | Base44](https://design.withfudge.com/share/pin-7405)
+[Sky-blue hero with centered prompt field and rounded suggestion chips](https://design.withfudge.com/share/pin-7406)
 
 ## Overview
 
-base44.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#faf9f7`, with typography led by **Arial**, **Times**, **Madefor**, **Bcnovaticacyr**, **Stk Miso**, **Wix Madefor**, **Applesystem**, and **Wix Madefor Vf**. The guide below names reusable design roles only where the captured evidence supports them.
+Base44 reads as a calm idea-making brand rather than a hard utility dashboard. The page system prefers pale atmospheric fields, black display type, rounded white containers, and a single strong black action button. When it needs to prove depth, it drops in a dark task-board preview or a pricing matrix, but the surrounding frame stays light and open. The result is a site that can move from a sky-blue prompt hero to a peach-and-lilac error page without losing its voice. What ties the system together is the repeated use of Stk Miso for the large statements, Wix Madefor for reading copy, and pill-based controls for action.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content |
-| color.surface | `#ffffff` | surface on page content in the header |
-| color.surface | `#faf9f7` | surface on page content in the main |
-| color.surface | `#fff9eb` | surface on page content in the main |
-| color.surface | `#0f0f0f` | surface on page content in the main |
-| color.border | `#e6e6e6` | border on page content in the header |
-| color.text | `#0000ee` | text on page content |
-| color.surface | `#bfd7e0` | surface on page content in the main |
-| color.surface | `#dce8e8` | surface on page content in the main |
-| color.text | `#232529` | text on page content in the main |
-| color.surface | `#ebffb1` | surface on page content in the button |
-| color.border | `#ade900` | border on page content in the header |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.utility-10px | **Arial** | 10px | 400 | normal | normal | <body>, <div> in the main, <section> in the main, <main> in the main, <div>, <img> in the main, <picture> in the main, <div> in the header, <header> in the header, <span> in the main, <a> in the main, <svg> in the main, <div> in the nav, <li> in the nav, <ul> in the nav, and <nav> in the nav |
-| type.body-16px | **Times** | 16px | 400 | normal | normal | <body>, <div>, and <html> |
-| type.body-16px | **Madefor** | 16px | 400 | normal | normal | <span> in the button, <button> in the button, <svg> in the button, <a> in the nav, <a> in the header, <div>, and <a> |
-| type.display-120.4px | **Bcnovaticacyr** | 120.4px | 500 | normal | 2.408px | <div> and <h1> |
-| type.display-36.4083px | **Stk Miso** | 36.4083px | 400 | 43.6899px | normal | <p> in the main |
-| type.utility-12.4323px | **Wix Madefor** | 12.4323px | 400 | 19.8918px | normal | <span> in the main and <p> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.display-34.4px | **Bcnovaticacyr** | 34.4px | 500 | normal | 3.44px | <h2> |
-| type.body-13.3333px | **Arial** | 13.3333px | 400 | normal | normal | <svg> in the button, <span> in the button, and <button> in the button |
-| type.body-22.36px | **Madefor** | 22.36px | 400 | normal | normal | <div> |
-| type.display-68.5333px | **Stk Miso** | 68.5333px | 400 | 61.6799px | normal | <h2> in the main |
-| type.display-71.0417px | **Stk Miso** | 71.0417px | 400 | 78.1459px | -0.710417px | <h1> in the main |
-| type.body-19.275px | **Wix Madefor** | 19.275px | 400 | normal | normal | <p> in the main |
-| type.display-79.2417px | **Stk Miso** | 79.2417px | 400 | 79.2417px | normal | <h1> in the main |
-| type.utility-12px | **Wix Madefor** | 12px | 400 | 15.72px | normal | <p> in the main |
-| type.display-42.8333px | **Stk Miso** | 42.8333px | 400 | 47.1167px | normal | <h2> in the main and <h3> in the main |
-| type.body-21.4167px | **Wix Madefor** | 21.4167px | 400 | 29.9833px | normal | <p> in the main |
-| type.utility-12px | **Wix Madefor** | 12px | 400 | 12px | normal | <p> in the main |
-| type.body-26.6406px | **Stk Miso** | 26.6406px | 400 | 26.6406px | normal | <span> in the main and <h2> in the main |
-| type.body-19.5364px | **Stk Miso** | 19.5364px | 400 | 24.2251px | normal | <span> in the main and <p> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `145.483px 0px 68.8px` | padding | page content |
-| `145.483px` | padding-top | page content |
-| `68.8px` | padding-bottom | page content |
-| `0px 110.08px 0px 109.292px` | padding | page content |
-| `110.08px` | padding-right | page content |
-| `109.292px` | padding-left | page content |
-| `62.1614px 0px 0px` | margin | page content |
-| `62.1614px` | margin-top | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 1069.76px`, `0px none 10.7083px`, `0px none 8.88015px`, `0px none 19.5364px`, `1px solid 100px`, `0px none 5.32812px`, `0px none 300px`, and `0px none 37.4792px` border treatments. Recorded gradients include `radial-gradient(55.78% 55.78%, rgba(255, 241, 209, 0) 58.17%, rgb(255, 255, 255) 100%)`, `linear-gradient(rgba(251, 250, 248, 0) 0%, rgba(255, 240, 222, 0.3) 18.28%, rgb(255, 174, 83) 43.58%, rgb(255, 127, 71) 55.6%, rgba(255, 174, 83, 0) 80.7%)`, `linear-gradient(rgb(242, 241, 237) 43.61%, rgb(240, 196, 227) 93.76%, rgb(251, 180, 57) 104.42%)`, `linear-gradient(rgb(242, 241, 237) 42.49%, rgb(213, 223, 224) 93.98%, rgb(229, 255, 148) 104.08%)`, and `linear-gradient(280deg, rgba(255, 128, 71, 0) 0%, rgba(255, 154, 107, 0) 100%)`.
+The page is not built around photography. Instead, it uses gradient atmosphere, white cards, and embedded product screens to carry mood. That choice matters: the gradients are not decorative noise, they are the brand’s ambient space. The product screenshot becomes the dark counterweight inside that space, so the marketing shell feels airy while the product proof feels dense and purposeful.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#ffffff`, `#faf9f7`, and `#fff9eb`. Text colors include `#000000`, `#0000ee`, and `#232529`. Keep image-derived colors separate from interface colors.
+Base44’s palette is mostly monochrome text on white or near-white surfaces, with a few focused accents. Black is the main action color, used for the filled pills that anchor the homepage, pricing cards, and error page. Lime is the secondary accent, reserved for the top-bar invitation and other small emphasis points. Cool blue-gray tones build the hero atmosphere and the enterprise strip. Warm lilac, peach, sun, and orange are used for the 404 page and the orange promotional stages. Dark treatment is kept inside the product preview and the black pills, not as a full-page theme.
+
+| token | value | use |
+|---|---|---|
+| `action` | `#000000` | Filled pills, primary calls to action, and dark utility chrome |
+| `action-soft` | `#E5FF94` | Top-bar invitation and active lime emphasis |
+| `ink` | `#000000` | Main headlines, prices, and body text on light surfaces |
+| `muted-ink` | `#696F7B` | Supporting copy, short descriptions, and gray deck text |
+| `quiet-ink` | `#878787` | Fine print, helper notes, and the smallest nonessential text |
+| `canvas` | `#FFFFFF` | Header shell interior, pricing cards, and open page areas |
+| `paper` | `#FAF9F7` | Soft off-white grounds and the 404 page base |
+| `surface` | `#F2F1ED` | Neutral card ground and soft product-frame backing |
+| `surface-sky` | `#DCE8E8` | Cool hero wash and calm transition fields |
+| `surface-mist` | `#D5DFE0` | Soft neutral transition color in gradient blends |
+| `surface-blue` | `#BFD7E0` | Enterprise band and cool lower-stage tint |
+| `surface-lilac` | `#F0C4E3` | Upper glow in the 404 stage and pink-lilac wash areas |
+| `surface-peach` | `#FFF0DE` | Warm lower glow in the 404 stage and peach transition areas |
+| `surface-sun` | `#FBB439` | Warm glow at the base of the 404 page |
+| `surface-flame` | `#FF7F47` | Orange gradient stop and warm accent flare |
+| `surface-orange` | `#FFAE53` | Orange promotional glow and warm gradient body |
+| `surface-lime` | `#E5FF94` | Bright lime highlight in controls and small accent bands |
+| `border` | `#E6E6E6` | Hairline separators, shell edges, and card borders |
+| `on-dark` | `#FFFFFF` | White text on the black pills and dark preview surfaces |
+
+The light surfaces carry most of the page, so white and near-white need to stay distinct: `canvas` for the crisp card interior, `paper` for the soft stage base, and `surface` for the slightly warmer neutral field. The cool family keeps the hero calm instead of sterile. The warm family never becomes a broad brand fill; it is used as a glow, a stage wash, or a lower-band transition. That restraint is important because the page already has a strong black action shape. Too many saturated fills would break the balance between airy marketing and controlled product proof.
 
 ## Typography
 
-The captured type system uses **Arial**, **Times**, **Madefor**, **Bcnovaticacyr**, **Stk Miso**, **Wix Madefor**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Stk Miso drives the large statements. Wix Madefor handles most reading copy. Madefor supports navigation and button chrome. Arial appears only in the smallest utility text. The system also uses Applesystem for tiny shell labels, Times for the 404 fallback body, Bcnovaticacyr for the oversized 404 headline, and Wix Madefor Vf as the variable-source utility family. Wix Madefor and Wix Madefor Vf are the only families here with a listed Dalton Maag Ltd. credit. Font licensing for reuse should be checked separately.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Stk Miso | 4.9526rem | 400 | 1 | 0em | Largest homepage headline and the biggest orange-stage statement |
+| `page-display` | Stk Miso | 4.2833rem | 400 | 0.9 | 0em | 404 headline and other oversized page-level statements |
+| `section-display` | Stk Miso | 2.6771rem | 400 | 1.1 | 0em | Strong section leads and secondary hero statements |
+| `card-display` | Stk Miso | 2.3311rem | 400 | 1.1 | 0em | Short feature titles and plan headings on compact panels |
+| `body-large` | Wix Madefor | 1.3385rem | 400 | 1.4 | 0em | Hero deck text and longer supporting lines |
+| `body` | Wix Madefor | 0.777rem | 400 | 1.6 | 0em | Pricing copy, body paragraphs, and explanatory text |
+| `body-strong` | Wix Madefor | 0.777rem | 600 | 1.6 | 0em | Benefit lists and emphasized body copy |
+| `button` | Madefor | 1rem | 400 | 1 | 0em | Black pill labels and toggle text |
+| `nav` | Madefor | 1rem | 400 | 1 | 0em | Header links and utility navigation text |
+| `label` | Wix Madefor | 0.9375rem | 500 | 1.4 | 0em | Small prompts, chips, and billing labels |
+| `meta` | Arial | 0.625rem | 400 | 1 | 0em | Fine print and tiny utility notes |
+
+| `legacy-display` | Bcnovaticacyr | 2.15rem | 500 | 1 | 0.1em | Oversized 404 headline treatment |
+| `fallback-body` | Times | 1rem | 400 | 1 | 0em | Fallback body text on the 404 surface |
+| `utility-vf` | Wix Madefor Vf | 1rem | 400 | 1 | 0em | Variable-source utility text and shell chrome |
+
+The hierarchy is scale-led, not weight-led. The display family does most of the work by going very large, very black, and very open. Supporting text opens up enough to stay readable on the pale fields, but it never competes with the headline. Buttons stay close to body size, which keeps them readable without looking noisy. Chips and labels sit just below body size and lean on shape and color more than weight.
 
 ## Layout
 
-The captured pages use values such as `145.483px 0px 68.8px`, `145.483px`, `68.8px`, `0px 110.08px 0px 109.292px`, and `110.08px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+### Top bar and hero
+
+The header sits inside a white capsule with a thin border and fully rounded ends. The Base44 mark stays left, navigation stays centered, and the lime action sits at the far right. That layout keeps the bar light and floating rather than heavy. The hero below it is centered and spacious, with a large headline, a short deck line, and either a prompt field or a single call to action. Empty space is part of the composition. It lets the text feel more monumental and gives the gradient stage room to breathe.
+
+### Pricing and enterprise strip
+
+The pricing page uses a five-column grid of tall white cards. Each card is internally stacked: plan name, short description, large price, credit counts, a black pill, and a plan-highlights list. The cards are separated by soft borders and generous gutters rather than by shadow. That keeps the grid calm and readable. The enterprise strip below the cards is a full-width soft blue-gray band. It works like a closing rail: copy on the left, black button on the right, and very little else.
+
+### Error stage
+
+The 404 page is a full-bleed gradient field that moves from lilac into peach and then into warm orange. The copy is left aligned, with a small error label, a huge black headline, a short supporting line, and a single black pill. The large headline stays wide and simple so the gradient can do the framing work. There is no extra illustration or widgetry. The whole page is one composed moment.
+
+### Product proof panel
+
+The split feature panel uses a white copy block on the left and a dark task-board preview on the right. That contrast is the page’s strongest proof of product depth. The left side uses a modest step label and a large Stk Miso statement, followed by a readable paragraph and a black pill. The right side is dense, dark, and packed with colored task labels, which makes the product feel operational rather than decorative. The panel sits on a soft pastel field with restrained corner radii so the composition stays elegant, not bulky.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#ffffff`, `#faf9f7`, `#fff9eb`, and `#0f0f0f`. Depth is supported by the returned gradients.
+Base44 works by alternating cool and warm atmosphere. The hero leans cool and open, with pale blue-gray washes that feel like space around an idea. The 404 page flips warmer and more saturated, using lilac, peach, sun, and flame as a soft glow rather than a hard block of color. Orange is a brand spark, not a wall of color. It appears in the logo mark, in the warm stages, and in small controls, where it can act as a cue without taking over.
 
-## Components and states
+Corners are broad enough to soften the system but not so round that the page turns playful. The top bar and pills are fully rounded. Cards are only gently rounded. Borders are light and sparse, so the page feels cushioned without becoming shadow-heavy. The most visually dense surface is the dark product preview, and that density is important because it gives the marketing frames something to contrast against. The brand feels strongest when the light shell and the dark proof sit side by side.
 
-The captured pages include repeated styling on <div>, <body>, <section>, <main>, <img>, <picture>, <svg>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+## Components
+
+### Floating top bar
+
+- **Anatomy:** Brand mark, centered navigation, utility icon, lime action pill.
+- **Surface:** White capsule with a thin gray border.
+- **Typography:** Madefor for links and the pill label.
+- **Shape:** Fully rounded ends; the whole bar reads like a floating rail.
+- **Spacing:** Tight internal spacing, with enough side room that the bar feels suspended from the page edge.
+- **Composition:** The action should remain the most visible item, but not so dominant that it breaks the calm header.
+
+### Hero prompt field
+
+- **Anatomy:** Big statement, short supporting line, wide prompt field or single action, rounded suggestion chips.
+- **Surface:** Sky-blue, white, or peach-lilac gradient ground with a pale input field.
+- **Typography:** Stk Miso for the statement; Wix Madefor for the deck line and prompt text.
+- **Shape:** The field is softly rounded, and the chips are pill-shaped.
+- **Spacing:** Generous vertical spacing around the field and chips keeps the center of the page airy.
+- **Visible states:** The active chip or action can switch to lime, but the surrounding layout stays quiet.
+
+### Pricing card
+
+- **Anatomy:** Plan name, short pitch, large price, message credits, integration credits, primary button, highlights list.
+- **Surface:** White card on a pale canvas with a hairline border.
+- **Typography:** Stk Miso for the heading and price line; Wix Madefor for the support copy and list items.
+- **Shape:** Soft, near-square card corners rather than a fully pill-shaped card.
+- **Spacing:** Internal stacking is broad enough that each tier reads as a separate column from a distance.
+- **Hierarchy:** The black pill sits below the price and before the feature list, so the action feels like a natural next step.
+
+### Enterprise strip
+
+- **Anatomy:** Short heading, one-sentence explanation, black button.
+- **Surface:** Cool blue-gray band that spans the full width.
+- **Typography:** Smaller Wix Madefor copy, not a second display headline.
+- **Composition:** The copy stays on one side and the button stays on the other so the strip reads like a closing offer, not another card.
+- **Visible states:** The strip should stay quiet; it is support, not a competing promotion.
+
+### Split product panel
+
+- **Anatomy:** Step label, large lead, explanatory paragraph, black button, dark task-board screenshot.
+- **Surface:** White copy block against a pale pastel field; dark preview on the right.
+- **Typography:** Stk Miso for the lead; Wix Madefor for the paragraph and button labels.
+- **Shape:** Soft panel corners with a small amount of radius, not a chip-like pill.
+- **Composition:** Keep the text left and the preview right so the eye reads explanation first, proof second.
+- **Visible states:** The preview should keep its rich dark contrast and colored task tags, because that darkness is what makes the panel feel real.
+
+### 404 stage
+
+- **Anatomy:** Small error label, oversized headline, short supporting line, black back button.
+- **Surface:** Lilac-to-peach-to-orange gradient field.
+- **Typography:** Stk Miso for the headline; Wix Madefor for the supporting line; Madefor for the button.
+- **Shape:** The button is a full pill, while the page itself stays open and uncluttered.
+- **Hierarchy:** The headline should dominate the field; everything else should support it and leave the gradient visible.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+When the layout narrows, keep the order of meaning: headline, support line, action, then proof. The pricing grid should collapse from five columns to fewer columns without losing the internal stack of each card. The enterprise strip should become a stacked rail if needed, with the action below the text instead of beside it. The split product panel should move the dark preview beneath the explanation so the story still reads in the same order. The top bar should reduce link density before it gives up its floating-capsule character.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep one black action color and one lime accent; that pairing is the clearest part of the brand.
+- Keep the large type in Stk Miso and let scale do the heavy lifting.
+- Keep the page mostly white, pale, and open, with gradients used as atmosphere.
+- Keep the product preview dark so the marketing shell has something meaningful to contrast against.
+- Keep the cards tall, white, and lightly bordered rather than shadow-stacked.
+
+### Avoid
+
+- Avoid adding a second bright action color.
+- Avoid heavy drop shadows, glassy overlays, or chrome that makes the page feel busy.
+- Avoid shrinking the display type into a timid headline size.
+- Avoid turning the orange and lilac ramps into flat single-color backdrops.
+- Avoid tiny border radii on the cards; the system wants gentle softness, not sharp rectangles.
+
+### Recommended build order
+
+1. Build the floating top bar and the black and lime pill styles.
+2. Establish the Stk Miso headline ladder and the Wix Madefor body copy.
+3. Recreate the hero stage with its prompt field and chips.
+4. Build the pricing grid and the enterprise strip.
+5. Build the split product panel with the dark task-board preview.
+6. Finish with the 404 stage and verify the gradient transitions.
+
+### Accessibility
+
+- Keep dark text on the pale surfaces and white text only on the black or strongly saturated controls.
+- Keep the pill labels large enough to read comfortably at a glance.
+- Preserve visible focus rings on the pills, links, and any prompt controls.
+- Make the dark preview readable by retaining enough contrast in its own chrome.
+- Keep the line lengths in the hero and 404 page short enough that the display type does not collapse into a wall of text.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#faf9f7`
-- `#fff9eb`
-- `#0f0f0f`
-- `#e6e6e6`
-- `#0000ee`
-- `#bfd7e0`
-- `#dce8e8`
-- `#232529`
-- `#ebffb1`
-- `#ade900`
-- `#696f7b`
-- `#878787`
-- `#262626`
-- `#868686`
-
-## Typography captured from base44.com
-
-- **Arial** — weight 400 · size 10px
-- **Times** — weight 400 · size 16px
-- **Madefor** — weight 400 · size 10px
-- **Bcnovaticacyr** — weight 500 · size 34.4px
-- **Stk Miso** — weight 400 · size 26.6406px
-- **Wix Madefor** — weight 400 · size 12px
-- **Applesystem** — weight 400 · size 14px
-- **Wix Madefor Vf** — weight 400 · size 16px
+This guide covers the desktop hero states, pricing page, split product panel, and 404 page shown in the supplied images. It does not define mobile breakpoints, hover states, motion, loading states, or the underlying app shell. Font licensing should be checked before reuse.

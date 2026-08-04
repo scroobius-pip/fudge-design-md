@@ -779,7 +779,7 @@ base-ui.com presents a predominantly dark surface treatment in the captured page
 
 [![How base44.com is designed](https://pin.fontofweb.com/9559?format=jpg)](design-md/base44.com.md)
 
-base44.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#faf9f7`, with typography led by **Arial**, **Times**, **Madefor**, **Bcnovaticacyr**, **Stk Miso**, **Wix Madefor**, **Applesystem**, and **Wix Madefor Vf**. The guide below names reusable design roles only where the captured evidence supports them.
+Base44 reads as a calm idea-making brand rather than a hard utility dashboard. The page system prefers pale atmospheric fields, black display type, rounded white containers, and a single strong black action button. When it needs to prove depth, it drops in a dark task-board preview or a pricing matrix, but the surrounding frame stays light and open. The result is a site that can move from a sky-blue prompt hero to a peach-and-lilac error page without losing its voice. What ties the system together is the repeated use of Stk Miso for the large statements, Wix Madefor for reading copy, and pill-based controls for action.
 
 [Open guide](design-md/base44.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/base44.com-design)
 
