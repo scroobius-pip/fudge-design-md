@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:16:26.255Z",
+  "generatedAt": "2026-08-04T14:17:38.257Z",
   "counts": {
     "skipped_one_image": 523,
     "skipped_recent": 9,
     "published_verified": 103,
-    "drafting": 6,
+    "drafting": 3,
     "failed": 71,
+    "preparing": 6,
     "needs_reprocessing": 21,
-    "preparing": 3,
     "unpublished": 898,
     "repairing": 3,
     "validating": 1,
@@ -17,34 +17,34 @@
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T14:16:17.163Z",
-    "heartbeatAt": "2026-08-04T14:16:17.459Z",
+    "startedAt": "2026-08-04T14:17:35.493Z",
+    "heartbeatAt": "2026-08-04T14:17:36.139Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
           "domain": "ai.cloudflare.com",
-          "startedAt": "2026-08-04T14:16:17.389Z"
+          "startedAt": "2026-08-04T14:17:35.884Z"
         },
         {
           "domain": "air.dev",
-          "startedAt": "2026-08-04T14:16:17.390Z"
+          "startedAt": "2026-08-04T14:17:35.886Z"
         },
         {
           "domain": "airbnb.com",
-          "startedAt": "2026-08-04T14:16:17.391Z"
+          "startedAt": "2026-08-04T14:17:35.888Z"
         },
         {
           "domain": "airwallex.com",
-          "startedAt": "2026-08-04T14:16:17.392Z"
+          "startedAt": "2026-08-04T14:17:35.892Z"
         },
         {
           "domain": "aistudio.google.com",
-          "startedAt": "2026-08-04T14:16:17.393Z"
+          "startedAt": "2026-08-04T14:17:35.898Z"
         },
         {
           "domain": "akukolabs.com",
-          "startedAt": "2026-08-04T14:16:17.393Z"
+          "startedAt": "2026-08-04T14:17:35.943Z"
         }
       ],
       "completedThisRun": 0,
@@ -61,7 +61,7 @@
       "readyPublication": 0,
       "publishedVerified": 103
     },
-    "recoveredThisRun": 0,
+    "recoveredThisRun": 6,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -889,9 +889,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "drafting",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T14:16:23.002Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T14:17:36.186Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -941,9 +941,9 @@
     },
     {
       "domain": "air.dev",
-      "state": "drafting",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:16:22.791Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:17:36.249Z",
       "blocker": null,
       "publication": {
         "key": "air.dev-design",
@@ -967,9 +967,9 @@
     },
     {
       "domain": "airbnb.com",
-      "state": "drafting",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:16:22.130Z",
+      "state": "preparing",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:17:36.242Z",
       "blocker": null,
       "publication": {
         "key": "airbnb.com-design",
@@ -994,8 +994,8 @@
     {
       "domain": "airwallex.com",
       "state": "preparing",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:16:17.619Z",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:17:36.186Z",
       "blocker": null,
       "publication": {
         "key": "airwallex.com-design",
@@ -1020,8 +1020,8 @@
     {
       "domain": "aistudio.google.com",
       "state": "preparing",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:16:17.712Z",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:17:36.322Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1046,8 +1046,8 @@
     {
       "domain": "akukolabs.com",
       "state": "preparing",
-      "attempt": 2,
-      "updatedAt": "2026-08-04T14:16:17.631Z",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T14:17:36.375Z",
       "blocker": null,
       "publication": {
         "key": "akukolabs.com-design",
