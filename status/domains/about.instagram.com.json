@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "domain": "about.instagram.com",
-  "state": "failed",
-  "attempt": 2,
-  "updatedAt": "2026-08-03T22:37:21.129Z",
+  "state": "drafting",
+  "attempt": 3,
+  "updatedAt": "2026-08-04T06:49:15.288Z",
   "agent": {
     "engine": "omp",
     "model": "gpt-5.4-mini",
@@ -105,31 +105,23 @@
       "attempt": 2,
       "from": "reviewing",
       "to": "failed"
+    },
+    {
+      "at": "2026-08-04T06:49:13.124Z",
+      "attempt": 3,
+      "from": "failed",
+      "to": "preparing"
+    },
+    {
+      "at": "2026-08-04T06:49:15.288Z",
+      "attempt": 3,
+      "from": "preparing",
+      "to": "drafting"
     }
   ],
-  "checks": {
-    "local": {
-      "ok": false,
-      "passed": 110,
-      "total": 112,
-      "failures": [
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: cluster, section."
-        },
-        {
-          "id": "spacing.grounded",
-          "message": "spacing values more than 2px from supplied measurements: cluster, section."
-        }
-      ]
-    },
-    "reviewer": {
-      "verdict": "pass",
-      "issues": []
-    }
-  },
+  "checks": {},
   "artifacts": {
-    "runId": "2026-08-03T22-26-45-853Z-a2",
+    "runId": "2026-08-04T06-49-13-775Z-a3",
     "imageCount": 2,
     "baselineAvailable": false
   },
@@ -156,6 +148,5 @@
     "meanAbsoluteError": 0,
     "maximumResidual": 0,
     "valuesConsidered": 0
-  },
-  "error": "The repaired about.instagram.com guide did not pass the publication gate after two repairs."
+  }
 }

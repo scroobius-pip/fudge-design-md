@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T06:45:48.985Z",
+  "generatedAt": "2026-08-04T06:49:15.329Z",
   "counts": {
     "skipped_one_image": 523,
     "skipped_recent": 9,
-    "published_verified": 90,
+    "published_verified": 91,
     "drafting": 4,
-    "failed": 79,
+    "failed": 78,
     "unpublished": 908,
     "needs_reprocessing": 21,
     "repairing": 3,
@@ -243,12 +243,15 @@
     },
     {
       "domain": "abc.xyz",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 4,
-      "updatedAt": "2026-08-04T06:45:48.942Z",
+      "updatedAt": "2026-08-04T06:49:12.955Z",
       "blocker": null,
       "publication": {
-        "key": "abc.xyz-design"
+        "key": "abc.xyz-design",
+        "url": "https://design.withfudge.com/share/abc.xyz-design",
+        "markdownUrl": "https://design.withfudge.com/share/abc.xyz-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/abc.xyz.md"
       }
     },
     {
@@ -296,9 +299,9 @@
     },
     {
       "domain": "about.instagram.com",
-      "state": "failed",
-      "attempt": 2,
-      "updatedAt": "2026-08-03T22:37:21.129Z",
+      "state": "drafting",
+      "attempt": 3,
+      "updatedAt": "2026-08-04T06:49:15.288Z",
       "blocker": null,
       "publication": {
         "key": "about.instagram.com-design"
