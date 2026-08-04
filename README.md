@@ -857,9 +857,9 @@ Bengal Turf uses an old brochure-page formula and commits to it fully. The entir
 
 ### besimple.ai
 
-[![How besimple.ai is designed](https://pin.fontofweb.com/9802?format=jpg)](design-md/besimple.ai.md)
+[![How besimple.ai is designed](https://pin.fontofweb.com/9798?format=jpg)](design-md/besimple.ai.md)
 
-besimple.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#252322`, `#eeece8`, and `#e8e3df`, with typography led by **Suisse Intl**, **N Type 82**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Besimple.ai presents voice-AI audio licensing as an editorial product story rather than a noisy dashboard. The page sits on a warm stone canvas, uses a tall serif for claims, a quiet sans for explanation, and a single orange accent for brand marks, button chips, benchmark highlights, and small chart-like details. White cards and thin rules organize the technical material into easy-to-scan blocks. The result feels like a research report laid onto a calm marketing page: spare, centered, and highly legible.
 
 [Open guide](design-md/besimple.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/besimple.ai-design)
 

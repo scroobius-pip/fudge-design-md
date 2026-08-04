@@ -2,154 +2,169 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/besimple.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-04
 
 ## Captured pages
 
-[![Besimple AI](https://pin.fontofweb.com/9802?format=jpg)](https://design.withfudge.com/share/pin-9802)
+[![Centered hero with serif headline and black demo button](https://pin.fontofweb.com/9798?format=jpg)](https://design.withfudge.com/share/pin-9798)
 
-[Besimple AI](https://design.withfudge.com/share/pin-9802)
+[Centered hero with serif headline and black demo button](https://design.withfudge.com/share/pin-9798)
 
-[![Besimple AI](https://pin.fontofweb.com/9801?format=jpg)](https://design.withfudge.com/share/pin-9801)
+[![Benchmark report with large percentage card and structured rows](https://pin.fontofweb.com/9802?format=jpg)](https://design.withfudge.com/share/pin-9802)
 
-[Besimple AI](https://design.withfudge.com/share/pin-9801)
+[Benchmark report with large percentage card and structured rows](https://design.withfudge.com/share/pin-9802)
 
-[![Besimple AI](https://pin.fontofweb.com/9800?format=jpg)](https://design.withfudge.com/share/pin-9800)
+[![Comparison section with muted copy and waveform graphic](https://pin.fontofweb.com/9801?format=jpg)](https://design.withfudge.com/share/pin-9801)
 
-[Besimple AI](https://design.withfudge.com/share/pin-9800)
+[Comparison section with muted copy and waveform graphic](https://design.withfudge.com/share/pin-9801)
 
-[![Besimple AI](https://pin.fontofweb.com/9799?format=jpg)](https://design.withfudge.com/share/pin-9799)
+[![Closing call to action above the pale footer band](https://pin.fontofweb.com/9800?format=jpg)](https://design.withfudge.com/share/pin-9800)
 
-[Besimple AI](https://design.withfudge.com/share/pin-9799)
-
-[![Besimple AI](https://pin.fontofweb.com/9798?format=jpg)](https://design.withfudge.com/share/pin-9798)
-
-[Besimple AI](https://design.withfudge.com/share/pin-9798)
+[Closing call to action above the pale footer band](https://design.withfudge.com/share/pin-9800)
 
 ## Overview
 
-besimple.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#252322`, `#eeece8`, and `#e8e3df`, with typography led by **Suisse Intl**, **N Type 82**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Besimple.ai presents voice-AI audio licensing as an editorial product story rather than a noisy dashboard. The page sits on a warm stone canvas, uses a tall serif for claims, a quiet sans for explanation, and a single orange accent for brand marks, button chips, benchmark highlights, and small chart-like details. White cards and thin rules organize the technical material into easy-to-scan blocks. The result feels like a research report laid onto a calm marketing page: spare, centered, and highly legible.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#252322` | text on page content |
-| color.surface | `#eeece8` | surface on page content |
-| color.surface | `#e8e3df` | surface on page content in the footer |
-| color.surface | `#fafafa` | surface on page content in the nav |
-| color.border | `#b7b7b7` | border on page content in the main |
-| color.surface | `#ffffff` | surface on page content in the header |
-| color.text | `#9a9a9a` | text on page content in the main |
-| color.text | `#000000` | text on page content |
-| color.text | `#5d5852` | text on page content in the header |
-| color.text | `#a4a4a4` | text on page content in the main |
-| color.surface | `#111111` | surface on page content in the header |
-| color.text | `#2f2f2f` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Suisse Intl** | 16px | 400 | normal | normal | <html>, <div>, <body>, <main> in the main, <img> in the header, <a> in the header, <div> in the header, <header> in the header, <article> in the main, <a> in the main, <nav> in the nav, <div> in the main, <section> in the main, <aside> in the aside, <footer> in the footer, <div> in the footer, and <span> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.display-64px | **N Type 82** | 64px | 400 | 64px | normal | <h2> in the main |
-| type.body-14px | **Suisse Intl** | 14px | 400 | normal | normal | <nav> in the nav, <a> in the nav, and <div> in the main |
-| type.body-18px | **Suisse Intl** | 18px | 300 | 27.36px | normal | <p> in the header and <p> in the main |
-| type.body-20px | **Suisse Intl** | 20px | 300 | 34.4px | normal | <p> in the main |
-| type.display-72px | **N Type 82** | 72px | 400 | 70.56px | normal | <h1> in the main |
-| type.body-26px | **Suisse Intl** | 26px | 300 | 32.5px | normal | <p> in the main |
-| type.display-62px | **N Type 82** | 62px | 400 | 62px | normal | <h1> in the header |
-| type.body-14px | **Suisse Intl** | 14px | 400 | 14px | normal | <a> in the header, <span> in the main, and <a> in the main |
-| type.display-46px | **N Type 82** | 46px | 400 | 48.76px | normal | <h2> in the main |
-| type.body-30px | **N Type 82** | 30px | 400 | 34.5px | normal | <h3> in the main |
-| type.body-16px | **Suisse Intl** | 16px | 400 | 16px | normal | <a> in the header and <span> in the header |
-| type.utility-13px | **Suisse Intl** | 13px | 400 | normal | normal | <a> in the nav |
-| type.body-20px | **System** | 20px | 400 | normal | normal | <strong> in the main |
-| type.display-64px | **Suisse Intl** | 64px | 400 | 57.6px | normal | <strong> in the aside |
-| type.utility-12px | **Suisse Intl** | 12px | 400 | normal | normal | <span> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `40px` | padding-right | page content |
-| `40px` | padding-left | page content |
-| `98px 40px 0px` | padding | page content |
-| `98px` | padding-top | page content |
-| `120px 40px 130px` | padding | page content |
-| `120px` | padding-top | page content |
-| `130px` | padding-bottom | page content |
-| `0px 232.5px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 4px`, `1px solid 0px`, `0px 0px 1px none none solid 0px`, `0px none 3px`, `1px solid 0px`, `1px solid 3px`, and `0px none 2px` border treatments. Recorded gradients include `radial-gradient(circle, rgba(255, 255, 255, 0.85) 1.1px, rgba(0, 0, 0, 0) 1.2px)`.
+The design depends on contrast in tone more than on ornament. Large headings carry most of the weight, while the supporting copy stays light and quiet. The page does not try to look futuristic; it looks measured, printed, and deliberate. That restraint is important to the brand because the subject matter is exact tokens, exact values, and structured audio data. The interface never overwhelms that material.
 
 ## Colors
 
-The visual system is predominantly light surface treatment. Surface colors include `#eeece8`, `#e8e3df`, and `#fafafa`. Text colors include `#252322`, `#9a9a9a`, and `#000000`. Keep image-derived colors separate from interface colors.
+Besimple’s palette is small and disciplined. Light surfaces dominate the page. The warm canvas and pale panel fills do most of the framing, while the darkest tone is reserved for the black action button, tiny utility chips, and a few strong value blocks. Orange is the only saturated accent, so it reads as a signal color rather than a decorative wash. Gray tones step down in a clear hierarchy: headline ink, muted explanatory text, soft captions, then border lines and separators.
+
+The page stays in one light palette. Dark fills appear only in compact controls and high-contrast buttons, while orange handles emphasis across labels, benchmark numbers, and pixel-like artwork. There is no separate photographic color layer; the drawn waveform and peach bars use the same restrained accent family as the page artwork. Flat fills and hairline borders do the structural work, so the system never needs gradients or shadows to separate sections.
+
+| token | hex | use |
+|---|---|---|
+| action | `#FF6533` | Brand fruit, benchmark percentage, section eyebrow, waveform bars, and small accent chips |
+| ink | `#252322` | Main headlines, body copy, and most navigation text |
+| muted-ink | `#5D5852` | Secondary paragraphs, comparison copy, and subdued labels |
+| soft-ink | `#9A9A9A` | Quiet captions, report metadata, and lighter utility text |
+| canvas | `#EEECE8` | Main page background and large open fields between sections |
+| surface | `#F0EFEB` | Pale panel fills, footer band, and soft UI surfaces |
+| surface-raise | `#FAFAFA` | White cards, benchmark blocks, and row backgrounds |
+| border | `#D9D7D2` | Card outlines, table rules, and tab separators |
+| rule | `#E8E3DF` | Very soft dividers, hairlines, and inset separators |
+| control-dark | `#111111` | Primary button fill and other compact dark controls |
 
 ## Typography
 
-The captured type system uses **Suisse Intl**, **Applesystem**, **N Type 82**, and **System**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The site uses three visible families: **N Type 82** for the expressive serif headings, **Suisse Intl** for the neutral body and interface system, and **Applesystem** for tiny utility labels. N Type 82 gives the page its editorial authority. Suisse Intl keeps the system readable, neutral, and calm. Applesystem appears only in small utility text and should stay subordinate, because no designer or vendor credit is supplied for that family in the source material.
+
+N Type 82 is credited to Colophon Foundry. Suisse Intl is credited to Swiss Typefaces. Licensing details are not supplied, so keep implementation notes limited to the provided family credits.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | N Type 82 | 4.5rem | 400 | 0.98 | 0em | Hero claim and other page-opening statements |
+| section-display | N Type 82 | 4rem | 400 | 1 | 0em | Large section headings such as the comparison band title |
+| article-display | N Type 82 | 3.875rem | 400 | 1 | 0em | Dense report headlines and split-screen article titles |
+| card-title | N Type 82 | 1.875rem | 400 | 1.15 | 0em | Large supporting statements inside the report and footer blocks |
+| body-lead | Suisse Intl | 1.625rem | 300 | 1.52 | 0em | Intro copy under the hero and the longer comparison paragraphs |
+| body | Suisse Intl | 1rem | 400 | 1.5 | 0em | Standard explanatory copy, notes, and supporting text |
+| ui | Suisse Intl | 0.875rem | 400 | 1 | 0em | Navigation, buttons, tabs, and short utility labels |
+| micro | Suisse Intl | 0.8125rem | 400 | 1 | 0.02em | Section eyebrows, captions, and compact report metadata |
+| utility-note | Applesystem | 0.875rem | 400 | 1 | 0em | Tiny utility labels and small footer-style helper text |
+| data-mono | System-Uimonospace | 1.25rem | 400 | 1.2 | 0em | Code-like values, exact tokens, and numeric readouts |
+
+The hierarchy works because the serif sizes step cleanly from hero to section to card, while the sans sizes stay compact and understated. Leading is tight on the serif and a little looser on the body copy, so the page reads as one long editorial stack rather than a grid of disconnected modules. Keep letter spacing nearly neutral; the page relies on scale and contrast, not on exaggerated tracking.
 
 ## Layout
 
-The captured pages use values such as `40px`, `40px`, `98px 40px 0px`, `98px`, and `120px 40px 130px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page is built as a centered, spacious column with very wide outer margins and a calm, warm background. The hero section leaves a large amount of empty field around the main claim, which makes the content feel expensive and deliberate. A compact top bar sits above it as a thin white strip, with the logo at one end, navigation in the middle, and a dark acquisition button at the far side. That structure repeats the page’s core balance: quiet chrome, strong action.
+
+The first major content block is a two-column hero. The left side holds the eyebrow, title, paragraph, and two actions. The right side holds a white benchmark card with a small label, a large orange percentage, a model name, and a note. That split is the page’s most important layout pattern because it joins editorial language to a concrete result.
+
+Below the hero, the tab row sits low and horizontal, with small pill-like tabs on the left and a separate outlined control on the right. Beneath that, the report content uses stacked bordered rows. Each row is low in height, visually flat, and easy to scan. The orange left label, central structured value, and quiet right-side explanation form a compact data grammar.
+
+The comparison band is wider and more open. It uses three parts: muted left copy, a central waveform illustration, and a right-hand orange-heading explanation. That center graphic bridges the old and new approaches and keeps the section from feeling like a plain two-column essay.
+
+The closing portion brings the page back to a centered call to action above a pale footer-like band. The footer band is broad, lightly inset, and intentionally quiet. On the right, the orange square-wave illustration and green leaf shape add brand character without breaking the page’s calm rhythm. The overall composition stays horizontal, generous, and mostly flat from top to bottom.
 
 ## Visual language
 
-The captured visual language is predominantly light surface treatment. Surface treatment centers on `#eeece8`, `#e8e3df`, `#fafafa`, and `#ffffff`. Depth is supported by the returned gradients.
+Besimple’s visual language is editorial, measured, and technical at the same time. Large serif headings carry the argument; smaller sans text handles explanation and utility. That combination makes the page feel more like a published report than a marketing template. The page also uses a very specific orange: not a gradient system, not a neon product color, just one clear accent that marks the brand fruit, the benchmark result, the section eyebrow, and the waveform graphics.
 
-## Components and states
+The other important language is structure. Thin borders, square tabs, white cards, and low-height rows establish a rhythm of exactness. Nothing is heavily shadowed or deeply layered. Flat planes do the work. The benchmark card and the structured rows feel almost like printed slips or measurement sheets, which fits the subject matter well. The footer illustration turns that exactness into something warmer by converting the audio idea into a pixel-like orange wave. That small decorative move keeps the system from becoming sterile.
 
-The captured pages include repeated styling on <div>, <html>, <body>, <main>, <img>, <a>, <header>, and <article> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+## Components
+
+### Header bar
+- **Anatomy:** Small fruit mark at one side, centered navigation, and a compact dark action button.
+- **Surface:** White strip floating over the canvas with a very light border and soft radius.
+- **Typography:** `ui` for navigation and button text.
+- **Shape:** Tiny corner radii, with the button reading slightly firmer than the nav links.
+- **Composition:** Keep the header light and narrow so it never competes with the hero claim.
+
+### Hero claim block
+- **Anatomy:** Eyebrow, large serif claim, supporting paragraph, then two actions.
+- **Typography:** `micro` for the eyebrow, `hero-display` for the claim, `body-lead` for the paragraph, `ui` for the buttons.
+- **Spacing:** Large vertical separation between the claim and the actions; the block needs room to breathe.
+- **Visible states:** The primary action is dark and compact; the secondary action is lighter and quieter.
+- **Composition:** The block should feel centered even when aligned in the left column of the hero split.
+
+### Benchmark stat card
+- **Anatomy:** Small label, oversized orange percentage, model name, and a short explanatory note.
+- **Surface:** White card with a clear border and a calm interior.
+- **Typography:** The percentage should read as the strongest visual element; supporting lines stay smaller and quieter.
+- **Shape:** Slightly rounded corners, but still box-like and restrained.
+- **Composition:** This card anchors the hero by translating the page promise into one hard number.
+
+### Structured-value rows
+- **Anatomy:** Orange left label, exact value in the middle, short interpretation on the right.
+- **Surface:** White strips separated by thin borders.
+- **Typography:** `ui` or `body` for the row text; the value itself can move up a size when it needs emphasis.
+- **Spacing:** Tight vertical stack, uniform row height, very little wasted space.
+- **Visible states:** These rows do not need decorative hover language; their clarity comes from alignment and repetition.
+
+### Comparison band
+- **Anatomy:** Muted left essay, central waveform art, orange-right headline with supporting paragraph.
+- **Surface:** Same light canvas, with the graphic acting as the center of gravity.
+- **Typography:** Left copy stays quieter; the right heading can reintroduce the serif emphasis.
+- **Composition:** Keep the waveform centered and let the two text columns frame it like a diagram.
+- **Visible states:** The contrast between muted and accent text is the whole point of the section.
+
+### Footer band
+- **Anatomy:** Compact call to action, a row of small navigation pills, legal links, and a brand illustration at one end.
+- **Surface:** Pale inset band sitting inside the main canvas.
+- **Typography:** `ui` for the compact links and `micro` for legal text where needed.
+- **Shape:** Small pills, very light corners, and no heavy depth.
+- **Composition:** The illustration should live outside the reading path and act as a closing visual signature.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The desktop composition should collapse by stacking the hero card under the opening copy, then letting the tab row, report rows, comparison band, and footer band span the full column width. Serif headings need to reflow cleanly without changing the visual hierarchy, and the narrow buttons should keep their compact padding so the page still feels editorial rather than cramped. On smaller widths, preserve the large vertical gaps but reduce the side margins first, so the page keeps its calm breathing room before it gives up scale. The footer illustration can shrink or shift below the text without changing the reading order.
 
 ## Practical implementation guidance
 
-- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- Keep the serif and sans pairing exactly this way: serif for claims, sans for support.
+- Preserve the warm off-white background; it is part of the page’s calm tone.
+- Keep orange as the only saturated accent.
+- Use thin borders and tiny radii instead of shadows and heavy cards.
+- Let whitespace do more work than ornament.
+
+### Avoid
+- Avoid blue, purple, or extra accent colors.
+- Avoid large gradients, glass effects, or glossy shadows.
+- Avoid turning the buttons into rounded capsules; they should stay compact and square-leaning.
+- Avoid filling the page with pill badges or decorative chips.
+- Avoid overbuilding the report rows; the system is strongest when the structure stays plain.
+
+### Recommended build order
+1. Set the canvas, ink, border, and action colors.
+2. Build the header bar and the primary/secondary actions.
+3. Recreate the hero claim block and the right-side benchmark card.
+4. Add the tab row and the structured report rows.
+5. Add the comparison band with the waveform illustration.
+6. Finish with the closing CTA and footer band.
+
+### Accessibility
+- Keep the orange accent readable against the pale surfaces.
+- Make the black action button and white text meet contrast needs on every size.
+- Preserve clear focus styles on all links, tabs, and buttons.
+- Do not rely on color alone for row meaning; the left label, center value, and right explanation must stay distinct by position and spacing.
+- Keep line lengths comfortable in the hero and comparison paragraphs so the serif headings do not force awkward wraps.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#252322`
-- `#eeece8`
-- `#e8e3df`
-- `#fafafa`
-- `#b7b7b7`
-- `#ffffff`
-- `#9a9a9a`
-- `#000000`
-- `#5d5852`
-- `#a4a4a4`
-- `#111111`
-- `#2f2f2f`
-- `#ff6533`
-- `#f0efeb`
-- `#e9e8e4`
-- `#565656`
-
-## Typography captured from besimple.ai
-
-- **Suisse Intl** — weight 400 · size 16px
-- **N Type 82** — weight 400 · size 62px
-- **Applesystem** — weight 400 · size 14px
-- **System** — weight 400 · size 20px
+This guide covers the desktop home hero, benchmark report block, comparison band, and closing footer strip on besimple.ai. It does not include mobile reflow, hover or focus states, motion, loading states, or browser-default form chrome. Spacing and radii use practical rem targets rounded to the site’s 0.125rem step.
