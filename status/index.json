@@ -1,28 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T17:31:43.949Z",
+  "generatedAt": "2026-08-04T17:33:26.848Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
-    "published_verified": 134,
-    "failed": 26,
-    "ready": 20,
-    "drafting": 2,
+    "published_verified": 135,
+    "failed": 27,
+    "drafting": 1,
+    "ready": 18,
+    "validating": 3,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 3,
-    "validating": 1,
-    "syncing": 1,
-    "legacy": 95
+    "repairing": 2,
+    "legacy": 95,
+    "publishing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T17:31:42.182Z",
+    "heartbeatAt": "2026-08-04T17:33:24.550Z",
     "generation": {
       "concurrency": 6,
       "active": [
+        {
+          "domain": "ads.pinterest.com",
+          "startedAt": "2026-08-04T17:32:38.442Z"
+        },
         {
           "domain": "ai.cloudflare.com",
           "startedAt": "2026-08-04T17:31:01.181Z"
@@ -40,39 +44,35 @@
           "startedAt": "2026-08-04T17:21:02.505Z"
         },
         {
-          "domain": "cora.computer",
-          "startedAt": "2026-08-04T17:24:52.851Z"
-        },
-        {
           "domain": "cosmos.so",
           "startedAt": "2026-08-04T17:29:34.020Z"
         }
       ],
       "completedThisRun": 66,
-      "failedThisRun": 45
+      "failedThisRun": 46
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "dany.works",
-        "startedAt": "2026-08-04T17:26:29.849Z"
+        "domain": "git.law",
+        "startedAt": "2026-08-04T17:33:24.503Z"
       },
-      "completedThisRun": 30,
-      "failedThisRun": 15
+      "completedThisRun": 31,
+      "failedThisRun": 16
     },
     "queue": {
-      "eligibleGeneration": 1017,
+      "eligibleGeneration": 1018,
       "availableGeneration": 997,
-      "readyPublication": 20,
-      "publishedVerified": 134
+      "readyPublication": 19,
+      "publishedVerified": 135
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T17:26:37.487Z"
+      "lastSyncedAt": "2026-08-04T17:31:49.165Z"
     },
     "lastError": {
-      "at": "2026-08-04T17:31:00.629Z",
-      "message": "Generation failed for fin.ai with exit 1."
+      "at": "2026-08-04T17:32:41.934Z",
+      "message": "Publication failed for dany.works with exit 1."
     }
   },
   "domains": [
@@ -676,9 +676,9 @@
     },
     {
       "domain": "ads.pinterest.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T16:20:47.579Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T17:32:41.084Z",
       "blocker": null,
       "publication": {
         "key": "ads.pinterest.com-design",
@@ -897,9 +897,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 6,
-      "updatedAt": "2026-08-04T17:31:05.416Z",
+      "updatedAt": "2026-08-04T17:33:15.131Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -4264,9 +4264,9 @@
     },
     {
       "domain": "celesteduffy.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:31:04.620Z",
+      "updatedAt": "2026-08-04T17:33:05.978Z",
       "blocker": null,
       "publication": {
         "key": "celesteduffy.com-design",
@@ -4966,9 +4966,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "validating",
+      "state": "failed",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:31:25.952Z",
+      "updatedAt": "2026-08-04T17:32:34.649Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -5005,9 +5005,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 3,
-      "updatedAt": "2026-08-04T17:29:40.771Z",
+      "updatedAt": "2026-08-04T17:32:54.085Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -5382,15 +5382,15 @@
     },
     {
       "domain": "dandad.org",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:29:31.477Z",
+      "updatedAt": "2026-08-04T17:33:24.220Z",
       "blocker": null,
       "publication": {
         "key": "dandad.org-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dandad.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/dandad.org-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dandad.org.md"
       }
     },
     {
@@ -5421,9 +5421,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "syncing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T17:26:33.473Z",
+      "updatedAt": "2026-08-04T17:32:41.849Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -8736,9 +8736,9 @@
     },
     {
       "domain": "git.law",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T16:29:55.897Z",
+      "updatedAt": "2026-08-04T17:33:24.546Z",
       "blocker": null,
       "publication": {
         "key": "git.law-design",

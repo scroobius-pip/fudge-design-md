@@ -2,10 +2,14 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T17:31:42.182Z",
+  "heartbeatAt": "2026-08-04T17:33:24.550Z",
   "generation": {
     "concurrency": 6,
     "active": [
+      {
+        "domain": "ads.pinterest.com",
+        "startedAt": "2026-08-04T17:32:38.442Z"
+      },
       {
         "domain": "ai.cloudflare.com",
         "startedAt": "2026-08-04T17:31:01.181Z"
@@ -23,38 +27,34 @@
         "startedAt": "2026-08-04T17:21:02.505Z"
       },
       {
-        "domain": "cora.computer",
-        "startedAt": "2026-08-04T17:24:52.851Z"
-      },
-      {
         "domain": "cosmos.so",
         "startedAt": "2026-08-04T17:29:34.020Z"
       }
     ],
     "completedThisRun": 66,
-    "failedThisRun": 45
+    "failedThisRun": 46
   },
   "publication": {
     "concurrency": 1,
     "active": {
-      "domain": "dany.works",
-      "startedAt": "2026-08-04T17:26:29.849Z"
+      "domain": "git.law",
+      "startedAt": "2026-08-04T17:33:24.503Z"
     },
-    "completedThisRun": 30,
-    "failedThisRun": 15
+    "completedThisRun": 31,
+    "failedThisRun": 16
   },
   "queue": {
-    "eligibleGeneration": 1017,
+    "eligibleGeneration": 1018,
     "availableGeneration": 997,
-    "readyPublication": 20,
-    "publishedVerified": 134
+    "readyPublication": 19,
+    "publishedVerified": 135
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T17:26:37.487Z"
+    "lastSyncedAt": "2026-08-04T17:31:49.165Z"
   },
   "lastError": {
-    "at": "2026-08-04T17:31:00.629Z",
-    "message": "Generation failed for fin.ai with exit 1."
+    "at": "2026-08-04T17:32:41.934Z",
+    "message": "Publication failed for dany.works with exit 1."
   }
 }
