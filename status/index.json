@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T14:31:44.454Z",
+  "generatedAt": "2026-08-04T14:33:37.389Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 9,
-    "published_verified": 104,
-    "failed": 78,
+    "published_verified": 105,
+    "failed": 77,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "repairing": 4,
-    "validating": 2,
+    "repairing": 3,
+    "validating": 1,
+    "drafting": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T14:31:42.895Z",
+    "heartbeatAt": "2026-08-04T14:33:35.237Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -33,38 +34,41 @@
           "startedAt": "2026-08-04T14:26:30.651Z"
         },
         {
-          "domain": "app.quiver.ai",
-          "startedAt": "2026-08-04T14:26:30.657Z"
-        },
-        {
           "domain": "app.reve.com",
           "startedAt": "2026-08-04T14:26:30.661Z"
         },
         {
-          "domain": "app.superlist.com",
-          "startedAt": "2026-08-04T14:26:30.664Z"
+          "domain": "arcee.ai",
+          "startedAt": "2026-08-04T14:31:58.174Z"
+        },
+        {
+          "domain": "artera.ae",
+          "startedAt": "2026-08-04T14:32:44.189Z"
         }
       ],
-      "completedThisRun": 0,
-      "failedThisRun": 0
+      "completedThisRun": 1,
+      "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1069,
-      "availableGeneration": 1069,
+      "eligibleGeneration": 1068,
+      "availableGeneration": 1067,
       "readyPublication": 0,
-      "publishedVerified": 104
+      "publishedVerified": 105
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T14:26:37.840Z"
+      "lastSyncedAt": "2026-08-04T14:31:48.727Z"
     },
-    "lastError": null
+    "lastError": {
+      "at": "2026-08-04T14:31:53.449Z",
+      "message": "Generation failed for app.superlist.com with exit 1."
+    }
   },
   "domains": [
     {
@@ -1436,7 +1440,7 @@
       "domain": "aol.com",
       "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:30:27.227Z",
+      "updatedAt": "2026-08-04T14:32:57.227Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1486,9 +1490,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:31:02.999Z",
+      "updatedAt": "2026-08-04T14:33:19.029Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1577,9 +1581,9 @@
     },
     {
       "domain": "app.brevo.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:30:58.646Z",
+      "updatedAt": "2026-08-04T14:31:46.081Z",
       "blocker": null,
       "publication": {
         "key": "app.brevo.com-design",
@@ -1967,22 +1971,22 @@
     },
     {
       "domain": "app.quiver.ai",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:30:25.174Z",
+      "updatedAt": "2026-08-04T14:33:30.075Z",
       "blocker": null,
       "publication": {
         "key": "app.quiver.ai-design",
         "url": "https://design.withfudge.com/share/app.quiver.ai-design",
         "markdownUrl": "https://design.withfudge.com/share/app.quiver.ai-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.quiver.ai.md"
       }
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:29:50.506Z",
+      "updatedAt": "2026-08-04T14:32:10.760Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2084,9 +2088,9 @@
     },
     {
       "domain": "app.superlist.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 2,
-      "updatedAt": "2026-08-04T14:29:41.683Z",
+      "updatedAt": "2026-08-04T14:31:53.388Z",
       "blocker": null,
       "publication": {
         "key": "app.superlist.com-design",
@@ -2201,9 +2205,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:09:02.888Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:32:01.270Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -2357,9 +2361,9 @@
     },
     {
       "domain": "artera.ae",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:11:33.650Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T14:32:54.035Z",
       "blocker": null,
       "publication": {
         "key": "artera.ae-design",

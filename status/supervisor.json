@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T14:31:42.895Z",
+  "heartbeatAt": "2026-08-04T14:33:35.237Z",
   "generation": {
     "concurrency": 6,
     "active": [
@@ -19,36 +19,39 @@
         "startedAt": "2026-08-04T14:26:30.651Z"
       },
       {
-        "domain": "app.quiver.ai",
-        "startedAt": "2026-08-04T14:26:30.657Z"
-      },
-      {
         "domain": "app.reve.com",
         "startedAt": "2026-08-04T14:26:30.661Z"
       },
       {
-        "domain": "app.superlist.com",
-        "startedAt": "2026-08-04T14:26:30.664Z"
+        "domain": "arcee.ai",
+        "startedAt": "2026-08-04T14:31:58.174Z"
+      },
+      {
+        "domain": "artera.ae",
+        "startedAt": "2026-08-04T14:32:44.189Z"
       }
     ],
-    "completedThisRun": 0,
-    "failedThisRun": 0
+    "completedThisRun": 1,
+    "failedThisRun": 1
   },
   "publication": {
     "concurrency": 1,
     "active": null,
-    "completedThisRun": 0,
+    "completedThisRun": 1,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1069,
-    "availableGeneration": 1069,
+    "eligibleGeneration": 1068,
+    "availableGeneration": 1067,
     "readyPublication": 0,
-    "publishedVerified": 104
+    "publishedVerified": 105
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T14:26:37.840Z"
+    "lastSyncedAt": "2026-08-04T14:31:48.727Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-04T14:31:53.449Z",
+    "message": "Generation failed for app.superlist.com with exit 1."
+  }
 }
