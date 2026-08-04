@@ -1,43 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T15:35:58.962Z",
+  "generatedAt": "2026-08-04T15:41:10.260Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 9,
     "published_verified": 121,
-    "failed": 56,
+    "failed": 54,
     "needs_reprocessing": 21,
     "unpublished": 896,
-    "drafting": 3,
-    "publishing": 1,
-    "ready": 3,
-    "repairing": 1,
-    "preparing": 2,
+    "ready": 5,
+    "drafting": 4,
+    "syncing": 1,
+    "repairing": 2,
     "legacy": 95
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T14:26:30.284Z",
-    "heartbeatAt": "2026-08-04T15:35:55.759Z",
+    "heartbeatAt": "2026-08-04T15:41:08.472Z",
     "generation": {
       "concurrency": 6,
       "active": [
-        {
-          "domain": "audio.com",
-          "startedAt": "2026-08-04T15:31:13.985Z"
-        },
         {
           "domain": "aura.build",
           "startedAt": "2026-08-04T15:29:00.525Z"
         },
         {
-          "domain": "campaignlive.co.uk",
-          "startedAt": "2026-08-04T15:25:50.763Z"
-        },
-        {
           "domain": "cap.so",
           "startedAt": "2026-08-04T15:34:13.207Z"
+        },
+        {
+          "domain": "capacity.so",
+          "startedAt": "2026-08-04T15:40:11.897Z"
         },
         {
           "domain": "fin.ai",
@@ -46,9 +41,13 @@
         {
           "domain": "firecrawl.dev",
           "startedAt": "2026-08-04T15:33:01.473Z"
+        },
+        {
+          "domain": "firstpromoter.com",
+          "startedAt": "2026-08-04T15:40:32.564Z"
         }
       ],
-      "completedThisRun": 23,
+      "completedThisRun": 25,
       "failedThisRun": 19
     },
     "publication": {
@@ -61,14 +60,14 @@
       "failedThisRun": 2
     },
     "queue": {
-      "eligibleGeneration": 1047,
-      "availableGeneration": 1032,
-      "readyPublication": 4,
+      "eligibleGeneration": 1045,
+      "availableGeneration": 1033,
+      "readyPublication": 5,
       "publishedVerified": 121
     },
     "recoveredThisRun": 6,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T15:34:05.792Z"
+      "lastSyncedAt": "2026-08-04T15:36:03.893Z"
     },
     "lastError": {
       "at": "2026-08-04T15:34:35.754Z",
@@ -2574,9 +2573,9 @@
     },
     {
       "domain": "audio.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:32:18.136Z",
+      "updatedAt": "2026-08-04T15:40:09.806Z",
       "blocker": null,
       "publication": {
         "key": "audio.com-design",
@@ -2589,7 +2588,7 @@
       "domain": "aura.build",
       "state": "drafting",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:32:22.049Z",
+      "updatedAt": "2026-08-04T15:37:13.132Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3653,14 +3652,14 @@
     },
     {
       "domain": "bud.app",
-      "state": "publishing",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:35:55.752Z",
+      "updatedAt": "2026-08-04T15:36:02.037Z",
       "blocker": null,
       "publication": {
         "key": "bud.app-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/bud.app-design",
+        "markdownUrl": "https://design.withfudge.com/share/bud.app-design.md",
         "githubUrl": null
       }
     },
@@ -4069,9 +4068,9 @@
     },
     {
       "domain": "campaignlive.co.uk",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:34:51.287Z",
+      "updatedAt": "2026-08-04T15:40:29.678Z",
       "blocker": null,
       "publication": {
         "key": "campaignlive.co.uk-design",
@@ -4121,9 +4120,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "preparing",
+      "state": "repairing",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:34:13.333Z",
+      "updatedAt": "2026-08-04T15:39:28.197Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -4134,9 +4133,9 @@
     },
     {
       "domain": "capacity.so",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:52:02.269Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:40:23.491Z",
       "blocker": null,
       "publication": {
         "key": "capacity.so-design",
@@ -7527,9 +7526,9 @@
     },
     {
       "domain": "fin.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 3,
-      "updatedAt": "2026-08-04T15:32:56.217Z",
+      "updatedAt": "2026-08-04T15:40:34.231Z",
       "blocker": null,
       "publication": {
         "key": "fin.ai-design",
@@ -7579,9 +7578,9 @@
     },
     {
       "domain": "firecrawl.dev",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 2,
-      "updatedAt": "2026-08-04T15:33:01.600Z",
+      "updatedAt": "2026-08-04T15:37:57.736Z",
       "blocker": null,
       "publication": {
         "key": "firecrawl.dev-design",
@@ -7670,9 +7669,9 @@
     },
     {
       "domain": "firstpromoter.com",
-      "state": "failed",
-      "attempt": 1,
-      "updatedAt": "2026-08-03T18:56:12.348Z",
+      "state": "drafting",
+      "attempt": 2,
+      "updatedAt": "2026-08-04T15:40:38.740Z",
       "blocker": null,
       "publication": {
         "key": "firstpromoter.com-design",
