@@ -2175,6 +2175,14 @@ Giga's page is a dark, theatrical marketing system with a disciplined center. Bl
 
 [Open guide](design-md/giga.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/giga.ai-design)
 
+### git.law
+
+[![How git.law is designed](https://pin.fontofweb.com/7688?format=jpg)](design-md/git.law.md)
+
+GitLaw presents legal work as a bright, compact software system rather than a sober document portal. The pages lean on one dominant lavender field, crisp white paper surfaces, and a serif headline family that gives the product a more editorial tone than a typical SaaS sign-in or policy page. The result feels direct and polished: large type, short supporting lines, and clear blocks of action.
+
+[Open guide](design-md/git.law.md) · [View the Fudge conversation](https://design.withfudge.com/share/git.law-design)
+
 ### good-fella.com
 
 [![How good-fella.com is designed](https://pin.fontofweb.com/8198?format=jpg)](design-md/good-fella.com.md)
