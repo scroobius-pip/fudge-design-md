@@ -1,51 +1,51 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T23:40:59.442Z",
+  "generatedAt": "2026-08-04T23:41:20.096Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1001,
+    "failed": 1000,
     "needs_reprocessing": 22,
-    "drafting": 6,
-    "preparing": 1,
+    "preparing": 6,
+    "drafting": 2,
     "unpublished": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-04T23:25:29.139Z",
-    "heartbeatAt": "2026-08-04T23:40:57.611Z",
+    "startedAt": "2026-08-04T23:41:18.034Z",
+    "heartbeatAt": "2026-08-04T23:41:18.350Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "stateof.mozilla.org",
-          "startedAt": "2026-08-04T23:40:52.403Z"
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-04T23:41:18.268Z"
         },
         {
-          "domain": "stateofopensource.ai",
-          "startedAt": "2026-08-04T23:40:52.404Z"
+          "domain": "studiofnt.com",
+          "startedAt": "2026-08-04T23:41:18.269Z"
         },
         {
-          "domain": "stripe.dev",
-          "startedAt": "2026-08-04T23:40:52.406Z"
+          "domain": "supabase.com",
+          "startedAt": "2026-08-04T23:41:18.263Z"
         },
         {
-          "domain": "styles.refero.design",
-          "startedAt": "2026-08-04T23:40:57.558Z"
+          "domain": "superlist.com",
+          "startedAt": "2026-08-04T23:41:18.268Z"
         },
         {
-          "domain": "subq.ai",
-          "startedAt": "2026-08-04T23:40:52.405Z"
+          "domain": "supernova.io",
+          "startedAt": "2026-08-04T23:41:18.266Z"
         },
         {
-          "domain": "sunflower.me",
-          "startedAt": "2026-08-04T23:40:52.406Z"
+          "domain": "surrealdb.com",
+          "startedAt": "2026-08-04T23:41:18.267Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 363
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -54,19 +54,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 641,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 1,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-04T23:35:54.244Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-04T23:40:52.881Z",
-      "message": "Generation failed for stitch.withgoogle.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -3087,9 +3084,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 8,
-      "updatedAt": "2026-08-04T23:00:02.289Z",
+      "state": "preparing",
+      "attempt": 9,
+      "updatedAt": "2026-08-04T23:41:18.495Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -4999,8 +4996,8 @@
     {
       "domain": "cosmos.so",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-04T22:59:49.275Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-04T23:41:13.564Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -18934,9 +18931,9 @@
     },
     {
       "domain": "stateof.mozilla.org",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:58.079Z",
+      "updatedAt": "2026-08-04T23:41:06.407Z",
       "blocker": null,
       "publication": {
         "key": "stateof.mozilla.org-design",
@@ -18947,9 +18944,9 @@
     },
     {
       "domain": "stateofopensource.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:58.917Z",
+      "updatedAt": "2026-08-04T23:41:07.884Z",
       "blocker": null,
       "publication": {
         "key": "stateofopensource.ai-design",
@@ -19116,9 +19113,9 @@
     },
     {
       "domain": "stripe.dev",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:57.682Z",
+      "updatedAt": "2026-08-04T23:41:06.668Z",
       "blocker": null,
       "publication": {
         "key": "stripe.dev-design",
@@ -19155,9 +19152,9 @@
     },
     {
       "domain": "studiofnt.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T23:00:03.632Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:18.504Z",
       "blocker": null,
       "publication": {
         "key": "studiofnt.com-design",
@@ -19181,9 +19178,9 @@
     },
     {
       "domain": "styles.refero.design",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:57.698Z",
+      "updatedAt": "2026-08-04T23:41:07.814Z",
       "blocker": null,
       "publication": {
         "key": "styles.refero.design-design",
@@ -19194,9 +19191,9 @@
     },
     {
       "domain": "subframe.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:59:49.552Z",
+      "state": "drafting",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:13.372Z",
       "blocker": null,
       "publication": {
         "key": "subframe.com-design",
@@ -19220,9 +19217,9 @@
     },
     {
       "domain": "subq.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:54.618Z",
+      "updatedAt": "2026-08-04T23:40:59.483Z",
       "blocker": null,
       "publication": {
         "key": "subq.ai-design",
@@ -19272,9 +19269,9 @@
     },
     {
       "domain": "sunflower.me",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 4,
-      "updatedAt": "2026-08-04T23:40:55.365Z",
+      "updatedAt": "2026-08-04T23:41:00.863Z",
       "blocker": null,
       "publication": {
         "key": "sunflower.me-design",
@@ -19298,9 +19295,9 @@
     },
     {
       "domain": "supabase.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:59:58.562Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:18.490Z",
       "blocker": null,
       "publication": {
         "key": "supabase.com-design",
@@ -19350,9 +19347,9 @@
     },
     {
       "domain": "superlist.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T23:00:02.838Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:18.472Z",
       "blocker": null,
       "publication": {
         "key": "superlist.com-design",
@@ -19376,9 +19373,9 @@
     },
     {
       "domain": "supernova.io",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T23:00:00.882Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:18.487Z",
       "blocker": null,
       "publication": {
         "key": "supernova.io-design",
@@ -19429,8 +19426,8 @@
     {
       "domain": "supply.family",
       "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T22:59:49.356Z",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:13.347Z",
       "blocker": null,
       "publication": {
         "key": "supply.family-design",
@@ -19467,9 +19464,9 @@
     },
     {
       "domain": "surrealdb.com",
-      "state": "failed",
-      "attempt": 3,
-      "updatedAt": "2026-08-04T23:00:01.382Z",
+      "state": "preparing",
+      "attempt": 4,
+      "updatedAt": "2026-08-04T23:41:18.471Z",
       "blocker": null,
       "publication": {
         "key": "surrealdb.com-design",
