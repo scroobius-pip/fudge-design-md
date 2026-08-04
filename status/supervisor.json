@@ -2,26 +2,10 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T14:26:30.284Z",
-  "heartbeatAt": "2026-08-04T15:07:43.868Z",
+  "heartbeatAt": "2026-08-04T15:12:20.561Z",
   "generation": {
     "concurrency": 6,
     "active": [
-      {
-        "domain": "binary.so",
-        "startedAt": "2026-08-04T14:59:56.905Z"
-      },
-      {
-        "domain": "bkid.co",
-        "startedAt": "2026-08-04T15:00:17.337Z"
-      },
-      {
-        "domain": "bland.ai",
-        "startedAt": "2026-08-04T15:02:05.214Z"
-      },
-      {
-        "domain": "blindsight.space",
-        "startedAt": "2026-08-04T15:04:54.460Z"
-      },
       {
         "domain": "blog.google",
         "startedAt": "2026-08-04T15:06:37.161Z"
@@ -29,29 +13,48 @@
       {
         "domain": "bolt.new",
         "startedAt": "2026-08-04T15:07:12.976Z"
+      },
+      {
+        "domain": "braintrust.dev",
+        "startedAt": "2026-08-04T15:09:05.793Z"
+      },
+      {
+        "domain": "brave.com",
+        "startedAt": "2026-08-04T15:11:18.974Z"
+      },
+      {
+        "domain": "brookings.edu",
+        "startedAt": "2026-08-04T15:11:34.313Z"
+      },
+      {
+        "domain": "browserbase.com",
+        "startedAt": "2026-08-04T15:12:15.404Z"
       }
     ],
-    "completedThisRun": 12,
-    "failedThisRun": 13
+    "completedThisRun": 14,
+    "failedThisRun": 15
   },
   "publication": {
     "concurrency": 1,
-    "active": null,
-    "completedThisRun": 12,
+    "active": {
+      "domain": "bland.ai",
+      "startedAt": "2026-08-04T15:12:20.506Z"
+    },
+    "completedThisRun": 13,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1056,
-    "availableGeneration": 1044,
-    "readyPublication": 0,
-    "publishedVerified": 116
+    "eligibleGeneration": 1054,
+    "availableGeneration": 1040,
+    "readyPublication": 1,
+    "publishedVerified": 117
   },
   "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-04T15:05:47.369Z"
+    "lastSyncedAt": "2026-08-04T15:07:51.146Z"
   },
   "lastError": {
-    "at": "2026-08-04T15:06:35.030Z",
-    "message": "Generation failed for bbc.com with exit 1."
+    "at": "2026-08-04T15:11:16.535Z",
+    "message": "Generation failed for binary.so with exit 1."
   }
 }
