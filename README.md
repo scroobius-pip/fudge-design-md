@@ -521,9 +521,9 @@ Base44’s visual language is a desktop builder with two competing stages: a cal
 
 ### app.brevo.com
 
-[![How app.brevo.com is designed](https://pin.fontofweb.com/10111?format=jpg)](design-md/app.brevo.com.md)
+[![How app.brevo.com is designed](https://pin.fontofweb.com/10059?format=jpg)](design-md/app.brevo.com.md)
 
-app.brevo.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#1b1b1b`, `#ffffff`, and `#e3e3e3`, with typography led by **Inter**, **Applesystem**, **Times**, and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+Brevo’s app reads as a compact operational console. The page language is calm and direct: pale side navigation, white workspace cards, thin gray boundaries, and a small set of purple actions carry the whole system. Nothing feels theatrical. The interface is built to let a user move from one task to the next without losing the thread, so the design emphasizes legibility, short labels, and a clear relationship between headings, controls, and data blocks.
 
 [Open guide](design-md/app.brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
