@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T18:45:21.772Z",
+  "generatedAt": "2026-08-05T18:47:05.321Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 995,
     "needs_reprocessing": 22,
-    "drafting": 11,
-    "preparing": 5
+    "drafting": 10,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T18:44:54.634Z",
-    "heartbeatAt": "2026-08-05T18:44:59.979Z",
+    "startedAt": "2026-08-05T18:47:02.279Z",
+    "heartbeatAt": "2026-08-05T18:47:02.920Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "etsy.com",
-          "startedAt": "2026-08-05T18:44:58.656Z"
+          "domain": "doom.bethesda.net",
+          "startedAt": "2026-08-05T18:47:02.707Z"
         },
         {
-          "domain": "fabiensanglard.net",
-          "startedAt": "2026-08-05T18:44:58.778Z"
+          "domain": "durup.com",
+          "startedAt": "2026-08-05T18:47:02.698Z"
         },
         {
-          "domain": "fontradar.com",
-          "startedAt": "2026-08-05T18:44:58.738Z"
+          "domain": "ecosia.org",
+          "startedAt": "2026-08-05T18:47:02.705Z"
         },
         {
-          "domain": "urbit.org",
-          "startedAt": "2026-08-05T18:44:58.701Z"
+          "domain": "ferndesk.com",
+          "startedAt": "2026-08-05T18:47:02.708Z"
         },
         {
-          "domain": "uselogly.app",
-          "startedAt": "2026-08-05T18:44:58.773Z"
+          "domain": "frameplate.co",
+          "startedAt": "2026-08-05T18:47:02.700Z"
         },
         {
-          "domain": "usgraphics.com",
-          "startedAt": "2026-08-05T18:44:58.537Z"
+          "domain": "gallery.any.coop",
+          "startedAt": "2026-08-05T18:47:02.704Z"
         }
       ],
       "completedThisRun": 0,
@@ -58,7 +58,7 @@
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 3,
+    "recoveredThisRun": 2,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -6360,8 +6360,8 @@
     {
       "domain": "docs.swmansion.com",
       "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:56:52.228Z",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:02.491Z",
       "blocker": null,
       "publication": {
         "key": "docs.swmansion.com-design",
@@ -6424,9 +6424,9 @@
     },
     {
       "domain": "doom.bethesda.net",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:07.944Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.106Z",
       "blocker": null,
       "publication": {
         "key": "doom.bethesda.net-design",
@@ -6632,9 +6632,9 @@
     },
     {
       "domain": "durup.com",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:01.954Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.108Z",
       "blocker": null,
       "publication": {
         "key": "durup.com-design",
@@ -6788,9 +6788,9 @@
     },
     {
       "domain": "ecosia.org",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:05.672Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.118Z",
       "blocker": null,
       "publication": {
         "key": "ecosia.org-design",
@@ -7139,9 +7139,9 @@
     },
     {
       "domain": "etsy.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 28,
-      "updatedAt": "2026-08-05T18:45:02.025Z",
+      "updatedAt": "2026-08-05T18:46:43.850Z",
       "blocker": null,
       "publication": {
         "key": "etsy.com-design",
@@ -7334,9 +7334,9 @@
     },
     {
       "domain": "fabiensanglard.net",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 28,
-      "updatedAt": "2026-08-05T18:45:01.107Z",
+      "updatedAt": "2026-08-05T18:46:42.870Z",
       "blocker": null,
       "publication": {
         "key": "fabiensanglard.net-design",
@@ -7464,9 +7464,9 @@
     },
     {
       "domain": "ferndesk.com",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:08.173Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.107Z",
       "blocker": null,
       "publication": {
         "key": "ferndesk.com-design",
@@ -7841,9 +7841,9 @@
     },
     {
       "domain": "fluentwithparrot.com",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:56:52.524Z",
+      "state": "drafting",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:46:57.639Z",
       "blocker": null,
       "publication": {
         "key": "fluentwithparrot.com-design",
@@ -7932,9 +7932,9 @@
     },
     {
       "domain": "fontradar.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 28,
-      "updatedAt": "2026-08-05T18:45:08.430Z",
+      "updatedAt": "2026-08-05T18:46:22.822Z",
       "blocker": null,
       "publication": {
         "key": "fontradar.com-design",
@@ -8063,8 +8063,8 @@
     {
       "domain": "foreknown.com",
       "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:56:52.285Z",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:02.492Z",
       "blocker": null,
       "publication": {
         "key": "foreknown.com-design",
@@ -8179,9 +8179,9 @@
     },
     {
       "domain": "frameplate.co",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:03.780Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.103Z",
       "blocker": null,
       "publication": {
         "key": "frameplate.co-design",
@@ -8387,9 +8387,9 @@
     },
     {
       "domain": "gallery.any.coop",
-      "state": "failed",
-      "attempt": 27,
-      "updatedAt": "2026-08-05T17:57:04.476Z",
+      "state": "preparing",
+      "attempt": 28,
+      "updatedAt": "2026-08-05T18:47:03.120Z",
       "blocker": null,
       "publication": {
         "key": "gallery.any.coop-design",
@@ -13249,9 +13249,9 @@
     },
     {
       "domain": "modedesigns.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:20:18.646Z",
+      "updatedAt": "2026-08-05T18:46:00.529Z",
       "blocker": null,
       "publication": {
         "key": "modedesigns.com-design",
@@ -21049,9 +21049,9 @@
     },
     {
       "domain": "urbit.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:45:02.808Z",
+      "updatedAt": "2026-08-05T18:46:43.423Z",
       "blocker": null,
       "publication": {
         "key": "urbit.org-design",
@@ -21114,9 +21114,9 @@
     },
     {
       "domain": "uselogly.app",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:45:02.302Z",
+      "updatedAt": "2026-08-05T18:46:39.229Z",
       "blocker": null,
       "publication": {
         "key": "uselogly.app-design",
@@ -21166,9 +21166,9 @@
     },
     {
       "domain": "usgraphics.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:45:00.618Z",
+      "updatedAt": "2026-08-05T18:46:26.596Z",
       "blocker": null,
       "publication": {
         "key": "usgraphics.com-design",
