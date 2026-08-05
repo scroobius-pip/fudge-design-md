@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T03:12:48.587Z",
-  "heartbeatAt": "2026-08-05T03:12:48.934Z",
+  "heartbeatAt": "2026-08-05T03:17:59.919Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "base-ui.com",
-        "startedAt": "2026-08-05T03:12:48.806Z"
+        "domain": "linktr.ee",
+        "startedAt": "2026-08-05T03:17:54.636Z"
       },
       {
-        "domain": "supahero.io",
-        "startedAt": "2026-08-05T03:12:48.808Z"
+        "domain": "lit.dev",
+        "startedAt": "2026-08-05T03:17:54.636Z"
       },
       {
-        "domain": "superx.so",
-        "startedAt": "2026-08-05T03:12:48.807Z"
+        "domain": "lucumr.pocoo.org",
+        "startedAt": "2026-08-05T03:17:54.634Z"
       },
       {
-        "domain": "sweetshop.app",
-        "startedAt": "2026-08-05T03:12:48.808Z"
+        "domain": "mangle.readthedocs.io",
+        "startedAt": "2026-08-05T03:17:59.836Z"
       },
       {
-        "domain": "tandem.net",
-        "startedAt": "2026-08-05T03:12:48.809Z"
+        "domain": "masterselects.com",
+        "startedAt": "2026-08-05T03:17:59.837Z"
       },
       {
-        "domain": "tencent.com",
-        "startedAt": "2026-08-05T03:12:48.810Z"
+        "domain": "matklad.github.io",
+        "startedAt": "2026-08-05T03:17:54.635Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 158
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 847,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 3,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T03:12:55.620Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T03:17:56.257Z",
+    "message": "Generation failed for logsnag.com with exit 1."
+  }
 }
