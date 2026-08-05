@@ -1,23 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T04:32:08.066Z",
+  "generatedAt": "2026-08-05T04:37:17.137Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1011,
-    "needs_reprocessing": 22
+    "failed": 1006,
+    "needs_reprocessing": 22,
+    "drafting": 4,
+    "preparing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-05T03:35:32.163Z",
-    "heartbeatAt": "2026-08-05T04:32:06.534Z",
+    "heartbeatAt": "2026-08-05T04:37:15.310Z",
     "generation": {
       "concurrency": 6,
-      "active": [],
+      "active": [
+        {
+          "domain": "gatesandbrovi.com",
+          "startedAt": "2026-08-05T04:37:09.992Z"
+        },
+        {
+          "domain": "gitcoin.co",
+          "startedAt": "2026-08-05T04:37:09.995Z"
+        },
+        {
+          "domain": "gleam.run",
+          "startedAt": "2026-08-05T04:37:09.991Z"
+        },
+        {
+          "domain": "gofundme.com",
+          "startedAt": "2026-08-05T04:37:04.708Z"
+        },
+        {
+          "domain": "hash.ai",
+          "startedAt": "2026-08-05T04:37:15.230Z"
+        },
+        {
+          "domain": "wero-wallet.eu",
+          "startedAt": "2026-08-05T04:37:09.996Z"
+        }
+      ],
       "completedThisRun": 0,
-      "failedThisRun": 1011
+      "failedThisRun": 1051
     },
     "publication": {
       "concurrency": 1,
@@ -26,18 +53,18 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1011,
-      "availableGeneration": 0,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 9,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 2,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T04:27:04.108Z"
+      "lastSyncedAt": "2026-08-05T04:32:11.998Z"
     },
     "lastError": {
-      "at": "2026-08-05T04:08:51.395Z",
-      "message": "Generation failed for ferndesk.com with exit 1."
+      "at": "2026-08-05T04:37:13.811Z",
+      "message": "Generation failed for voiceos.com with exit 1."
     }
   },
   "domains": [
@@ -4711,8 +4738,8 @@
     {
       "domain": "cofounder.co",
       "state": "failed",
-      "attempt": 14,
-      "updatedAt": "2026-08-05T03:35:44.088Z",
+      "attempt": 15,
+      "updatedAt": "2026-08-05T04:35:50.522Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -7363,8 +7390,8 @@
     {
       "domain": "fal.ai",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:00.191Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:05.216Z",
       "blocker": null,
       "publication": {
         "key": "fal.ai-design",
@@ -7415,8 +7442,8 @@
     {
       "domain": "fastmail.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:35:58.585Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:06.559Z",
       "blocker": null,
       "publication": {
         "key": "fastmail.com-design",
@@ -7532,8 +7559,8 @@
     {
       "domain": "firebase.studio",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:35:44.205Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:35:50.232Z",
       "blocker": null,
       "publication": {
         "key": "firebase.studio-design",
@@ -7558,8 +7585,8 @@
     {
       "domain": "firefox.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:35:58.199Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:04.720Z",
       "blocker": null,
       "publication": {
         "key": "firefox.com-design",
@@ -7597,8 +7624,8 @@
     {
       "domain": "fireshinegames.co.uk",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:40.969Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:01.792Z",
       "blocker": null,
       "publication": {
         "key": "fireshinegames.co.uk-design",
@@ -7649,8 +7676,8 @@
     {
       "domain": "firsty.app",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:06.910Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:19.149Z",
       "blocker": null,
       "publication": {
         "key": "firsty.app-design",
@@ -7662,8 +7689,8 @@
     {
       "domain": "fisayofosudo.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:17.722Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:48.253Z",
       "blocker": null,
       "publication": {
         "key": "fisayofosudo.com-design",
@@ -7701,8 +7728,8 @@
     {
       "domain": "fix.studio",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:13.469Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:19.721Z",
       "blocker": null,
       "publication": {
         "key": "fix.studio-design",
@@ -7714,8 +7741,8 @@
     {
       "domain": "flask.do",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:35:57.999Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:02.572Z",
       "blocker": null,
       "publication": {
         "key": "flask.do-design",
@@ -7766,8 +7793,8 @@
     {
       "domain": "florafauna.ai",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:06.595Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:19.207Z",
       "blocker": null,
       "publication": {
         "key": "florafauna.ai-design",
@@ -7805,8 +7832,8 @@
     {
       "domain": "flowglad.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:37.439Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:55.633Z",
       "blocker": null,
       "publication": {
         "key": "flowglad.com-design",
@@ -7818,8 +7845,8 @@
     {
       "domain": "fluentwithparrot.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:05.307Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:13.602Z",
       "blocker": null,
       "publication": {
         "key": "fluentwithparrot.com-design",
@@ -7844,8 +7871,8 @@
     {
       "domain": "flutter.dev",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:37.230Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:54.884Z",
       "blocker": null,
       "publication": {
         "key": "flutter.dev-design",
@@ -7909,8 +7936,8 @@
     {
       "domain": "fontradar.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:35:54.846Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:10.152Z",
       "blocker": null,
       "publication": {
         "key": "fontradar.com-design",
@@ -7961,8 +7988,8 @@
     {
       "domain": "fonts.ninja",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:31.143Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:47.378Z",
       "blocker": null,
       "publication": {
         "key": "fonts.ninja-design",
@@ -8039,8 +8066,8 @@
     {
       "domain": "foreknown.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:15.939Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:27.073Z",
       "blocker": null,
       "publication": {
         "key": "foreknown.com-design",
@@ -8052,8 +8079,8 @@
     {
       "domain": "forgeandform.co",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:42.292Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:59.458Z",
       "blocker": null,
       "publication": {
         "key": "forgeandform.co-design",
@@ -8156,8 +8183,8 @@
     {
       "domain": "frameplate.co",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:27.894Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:36.111Z",
       "blocker": null,
       "publication": {
         "key": "frameplate.co-design",
@@ -8208,8 +8235,8 @@
     {
       "domain": "friend.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:28.144Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:42.569Z",
       "blocker": null,
       "publication": {
         "key": "friend.com-design",
@@ -8247,8 +8274,8 @@
     {
       "domain": "ft.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:47.578Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:09.363Z",
       "blocker": null,
       "publication": {
         "key": "ft.com-design",
@@ -8286,8 +8313,8 @@
     {
       "domain": "funky-whoever-082304.framer.app",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:20.733Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:30.877Z",
       "blocker": null,
       "publication": {
         "key": "funky-whoever-082304.framer.app-design",
@@ -8364,8 +8391,8 @@
     {
       "domain": "gallery.any.coop",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:27.860Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:35.968Z",
       "blocker": null,
       "publication": {
         "key": "gallery.any.coop-design",
@@ -8428,9 +8455,9 @@
     },
     {
       "domain": "gatesandbrovi.com",
-      "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:58.362Z",
+      "state": "drafting",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:13.973Z",
       "blocker": null,
       "publication": {
         "key": "gatesandbrovi.com-design",
@@ -8676,8 +8703,8 @@
     {
       "domain": "giphy.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:35.963Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:36:46.367Z",
       "blocker": null,
       "publication": {
         "key": "giphy.com-design",
@@ -8714,9 +8741,9 @@
     },
     {
       "domain": "gitcoin.co",
-      "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:37:00.836Z",
+      "state": "drafting",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:15.418Z",
       "blocker": null,
       "publication": {
         "key": "gitcoin.co-design",
@@ -8728,8 +8755,8 @@
     {
       "domain": "giuliaboggio.xyz",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:41.746Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:08.561Z",
       "blocker": null,
       "publication": {
         "key": "giuliaboggio.xyz-design",
@@ -8753,9 +8780,9 @@
     },
     {
       "domain": "gleam.run",
-      "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:58.232Z",
+      "state": "drafting",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:14.707Z",
       "blocker": null,
       "publication": {
         "key": "gleam.run-design",
@@ -8832,8 +8859,8 @@
     {
       "domain": "gofundme.com",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:54.716Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:15.462Z",
       "blocker": null,
       "publication": {
         "key": "gofundme.com-design",
@@ -8936,8 +8963,8 @@
     {
       "domain": "gpui.rs",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:36:53.474Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:08.970Z",
       "blocker": null,
       "publication": {
         "key": "gpui.rs-design",
@@ -9221,9 +9248,9 @@
     },
     {
       "domain": "hash.ai",
-      "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-05T03:37:02.789Z",
+      "state": "preparing",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T04:37:15.386Z",
       "blocker": null,
       "publication": {
         "key": "hash.ai-design",
@@ -21169,8 +21196,8 @@
     {
       "domain": "v0.app",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:35:44.351Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:35:50.484Z",
       "blocker": null,
       "publication": {
         "key": "v0.app-design",
@@ -21182,8 +21209,8 @@
     {
       "domain": "variant.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:35:43.901Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:35:51.952Z",
       "blocker": null,
       "publication": {
         "key": "variant.com-design",
@@ -21273,8 +21300,8 @@
     {
       "domain": "vendors.paddle.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:35:43.901Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:35:50.788Z",
       "blocker": null,
       "publication": {
         "key": "vendors.paddle.com-design",
@@ -21312,8 +21339,8 @@
     {
       "domain": "ventionteams.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:35:58.237Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:05.481Z",
       "blocker": null,
       "publication": {
         "key": "ventionteams.com-design",
@@ -21325,8 +21352,8 @@
     {
       "domain": "vercel.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:14.230Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:26.290Z",
       "blocker": null,
       "publication": {
         "key": "vercel.com-design",
@@ -21377,8 +21404,8 @@
     {
       "domain": "vimeo.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:35:43.901Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:35:50.217Z",
       "blocker": null,
       "publication": {
         "key": "vimeo.com-design",
@@ -21390,8 +21417,8 @@
     {
       "domain": "vinylc.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:08.904Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:19.228Z",
       "blocker": null,
       "publication": {
         "key": "vinylc.com-design",
@@ -21403,8 +21430,8 @@
     {
       "domain": "visitors.now",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:22.206Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:34.666Z",
       "blocker": null,
       "publication": {
         "key": "visitors.now-design",
@@ -21429,8 +21456,8 @@
     {
       "domain": "vitest.dev",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:16.740Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:33.297Z",
       "blocker": null,
       "publication": {
         "key": "vitest.dev-design",
@@ -21481,8 +21508,8 @@
     {
       "domain": "vogue.maitch.ai",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:28.292Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:43.525Z",
       "blocker": null,
       "publication": {
         "key": "vogue.maitch.ai-design",
@@ -21494,8 +21521,8 @@
     {
       "domain": "voiceos.com",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:54.209Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:37:13.747Z",
       "blocker": null,
       "publication": {
         "key": "voiceos.com-design",
@@ -21507,8 +21534,8 @@
     {
       "domain": "void.cloud",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:47.135Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:57.645Z",
       "blocker": null,
       "publication": {
         "key": "void.cloud-design",
@@ -21533,8 +21560,8 @@
     {
       "domain": "voidzero.dev",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:49.194Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:37:08.719Z",
       "blocker": null,
       "publication": {
         "key": "voidzero.dev-design",
@@ -21611,8 +21638,8 @@
     {
       "domain": "warbl.tw",
       "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:36:30.756Z",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:36:46.457Z",
       "blocker": null,
       "publication": {
         "key": "warbl.tw-design",
@@ -21792,9 +21819,9 @@
     },
     {
       "domain": "wero-wallet.eu",
-      "state": "failed",
-      "attempt": 9,
-      "updatedAt": "2026-08-05T03:37:02.446Z",
+      "state": "drafting",
+      "attempt": 10,
+      "updatedAt": "2026-08-05T04:37:14.505Z",
       "blocker": null,
       "publication": {
         "key": "wero-wallet.eu-design",
