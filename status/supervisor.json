@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T19:55:27.723Z",
-  "heartbeatAt": "2026-08-05T19:55:28.194Z",
+  "heartbeatAt": "2026-08-05T20:00:38.701Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "cora.computer",
-        "startedAt": "2026-08-05T19:55:28.068Z"
+        "domain": "openwebui.com",
+        "startedAt": "2026-08-05T20:00:28.113Z"
       },
       {
-        "domain": "lloydsbank.com",
-        "startedAt": "2026-08-05T19:55:28.070Z"
+        "domain": "paved.com",
+        "startedAt": "2026-08-05T20:00:28.112Z"
       },
       {
-        "domain": "meodai.github.io",
-        "startedAt": "2026-08-05T19:55:28.065Z"
+        "domain": "photon.codes",
+        "startedAt": "2026-08-05T20:00:33.364Z"
       },
       {
-        "domain": "mojolang.org",
-        "startedAt": "2026-08-05T19:55:28.066Z"
+        "domain": "phrasing.app",
+        "startedAt": "2026-08-05T20:00:28.114Z"
       },
       {
-        "domain": "monogram.ai",
-        "startedAt": "2026-08-05T19:55:28.069Z"
+        "domain": "qntm.org",
+        "startedAt": "2026-08-05T20:00:38.593Z"
       },
       {
-        "domain": "my.10web.io",
-        "startedAt": "2026-08-05T19:55:28.068Z"
+        "domain": "rama.works",
+        "startedAt": "2026-08-05T20:00:33.365Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 121
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 882,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T19:55:35.091Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T20:00:34.384Z",
+    "message": "Generation failed for postnext.io with exit 1."
+  }
 }
