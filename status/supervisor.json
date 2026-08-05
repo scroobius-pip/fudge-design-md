@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T16:52:16.752Z",
-  "heartbeatAt": "2026-08-05T16:52:17.134Z",
+  "heartbeatAt": "2026-08-05T16:57:26.076Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "five-am.com",
-        "startedAt": "2026-08-05T16:52:17.047Z"
+        "domain": "amd.com",
+        "startedAt": "2026-08-05T16:56:59.902Z"
       },
       {
-        "domain": "fonttrio.xyz",
-        "startedAt": "2026-08-05T16:52:17.046Z"
+        "domain": "applovin.com",
+        "startedAt": "2026-08-05T16:57:15.595Z"
       },
       {
-        "domain": "footer.design",
-        "startedAt": "2026-08-05T16:52:17.048Z"
+        "domain": "blitzreels.com",
+        "startedAt": "2026-08-05T16:57:10.386Z"
       },
       {
-        "domain": "helenazhang.com",
-        "startedAt": "2026-08-05T16:52:17.050Z"
+        "domain": "borretti.me",
+        "startedAt": "2026-08-05T16:57:15.596Z"
       },
       {
-        "domain": "higherorderco.com",
-        "startedAt": "2026-08-05T16:52:17.049Z"
+        "domain": "grokipedia.com",
+        "startedAt": "2026-08-05T16:57:15.596Z"
       },
       {
-        "domain": "teenage.engineering",
-        "startedAt": "2026-08-05T16:52:17.043Z"
+        "domain": "tryholo.ai",
+        "startedAt": "2026-08-05T16:57:15.594Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 100
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 901,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T16:52:23.642Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T16:57:12.647Z",
+    "message": "Generation failed for banjos.com.au with exit 1."
+  }
 }
