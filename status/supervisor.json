@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T14:28:20.091Z",
-  "heartbeatAt": "2026-08-05T14:28:20.524Z",
+  "heartbeatAt": "2026-08-05T14:33:29.088Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "amd.com",
-        "startedAt": "2026-08-05T14:28:20.406Z"
+        "domain": "buick.com",
+        "startedAt": "2026-08-05T14:33:23.737Z"
       },
       {
-        "domain": "app.cal.com",
-        "startedAt": "2026-08-05T14:28:20.398Z"
+        "domain": "civilization.2k.com",
+        "startedAt": "2026-08-05T14:33:18.530Z"
       },
       {
-        "domain": "athas.dev",
-        "startedAt": "2026-08-05T14:28:20.403Z"
+        "domain": "crescenzi.co",
+        "startedAt": "2026-08-05T14:33:23.737Z"
       },
       {
-        "domain": "dedcool.com",
-        "startedAt": "2026-08-05T14:28:20.405Z"
+        "domain": "developer.apple.com",
+        "startedAt": "2026-08-05T14:33:23.735Z"
       },
       {
-        "domain": "hermes4.nousresearch.com",
-        "startedAt": "2026-08-05T14:28:20.402Z"
+        "domain": "dmitrybrant.com",
+        "startedAt": "2026-08-05T14:33:28.977Z"
       },
       {
-        "domain": "tweakcn.com",
-        "startedAt": "2026-08-05T14:28:20.407Z"
+        "domain": "typotheque.com",
+        "startedAt": "2026-08-05T14:33:23.738Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 84
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 918,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T14:28:28.094Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T14:33:28.469Z",
+    "message": "Generation failed for cognition.ai with exit 1."
+  }
 }
