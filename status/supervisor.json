@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T06:31:52.498Z",
-  "heartbeatAt": "2026-08-05T06:31:52.946Z",
+  "heartbeatAt": "2026-08-05T06:37:03.376Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "regeneratio.eu",
-        "startedAt": "2026-08-05T06:31:52.814Z"
+        "domain": "ignytlabs.com",
+        "startedAt": "2026-08-05T06:36:58.073Z"
       },
       {
-        "domain": "revenuecat.com",
-        "startedAt": "2026-08-05T06:31:52.813Z"
+        "domain": "invideo.io",
+        "startedAt": "2026-08-05T06:37:03.235Z"
       },
       {
-        "domain": "ruda-bureau.pro",
-        "startedAt": "2026-08-05T06:31:52.813Z"
+        "domain": "jamm.co",
+        "startedAt": "2026-08-05T06:37:03.234Z"
       },
       {
-        "domain": "s6foundry.com",
-        "startedAt": "2026-08-05T06:31:52.811Z"
+        "domain": "juno.build",
+        "startedAt": "2026-08-05T06:37:03.233Z"
       },
       {
-        "domain": "sinelaw.github.io",
-        "startedAt": "2026-08-05T06:31:52.810Z"
+        "domain": "kapa.ai",
+        "startedAt": "2026-08-05T06:36:58.075Z"
       },
       {
-        "domain": "somo.nl",
-        "startedAt": "2026-08-05T06:31:52.807Z"
+        "domain": "kigen.design",
+        "startedAt": "2026-08-05T06:37:03.235Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 148
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 854,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T06:32:00.210Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T06:37:00.523Z",
+    "message": "Generation failed for jsfiddle.net with exit 1."
+  }
 }
