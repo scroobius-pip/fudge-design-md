@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T07:31:38.786Z",
-  "heartbeatAt": "2026-08-05T07:31:39.174Z",
+  "heartbeatAt": "2026-08-05T07:36:49.156Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "research.google",
-        "startedAt": "2026-08-05T07:31:39.082Z"
+        "domain": "fontstand.com",
+        "startedAt": "2026-08-05T07:36:49.066Z"
       },
       {
-        "domain": "rollups.com",
-        "startedAt": "2026-08-05T07:31:39.081Z"
+        "domain": "gemini.google",
+        "startedAt": "2026-08-05T07:36:43.910Z"
       },
       {
-        "domain": "saaspo.com",
-        "startedAt": "2026-08-05T07:31:39.080Z"
+        "domain": "generalbread.co",
+        "startedAt": "2026-08-05T07:36:49.067Z"
       },
       {
-        "domain": "seesaw.website",
-        "startedAt": "2026-08-05T07:31:39.083Z"
+        "domain": "georgivalk.framer.website",
+        "startedAt": "2026-08-05T07:36:49.069Z"
       },
       {
-        "domain": "shop.a24films.com",
-        "startedAt": "2026-08-05T07:31:39.084Z"
+        "domain": "goose.ai",
+        "startedAt": "2026-08-05T07:36:49.068Z"
       },
       {
-        "domain": "shortform.com",
-        "startedAt": "2026-08-05T07:31:39.086Z"
+        "domain": "hellotiana.framer.website",
+        "startedAt": "2026-08-05T07:36:49.067Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 138
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 864,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T07:31:46.123Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T07:36:49.006Z",
+    "message": "Generation failed for fourmula.ai with exit 1."
+  }
 }
