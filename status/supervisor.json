@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T08:25:59.738Z",
-  "heartbeatAt": "2026-08-05T08:26:00.171Z",
+  "heartbeatAt": "2026-08-05T08:31:09.460Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "kanadojo.com",
-        "startedAt": "2026-08-05T08:26:00.018Z"
+        "domain": "plaid.com",
+        "startedAt": "2026-08-05T08:31:04.174Z"
       },
       {
-        "domain": "kree8.studio",
-        "startedAt": "2026-08-05T08:26:00.021Z"
+        "domain": "quantumbody.io",
+        "startedAt": "2026-08-05T08:31:04.173Z"
       },
       {
-        "domain": "labs.chaingpt.org",
-        "startedAt": "2026-08-05T08:26:00.018Z"
+        "domain": "rabbit.tech",
+        "startedAt": "2026-08-05T08:31:04.176Z"
       },
       {
-        "domain": "landing.services",
-        "startedAt": "2026-08-05T08:26:00.019Z"
+        "domain": "railway.com",
+        "startedAt": "2026-08-05T08:31:09.358Z"
       },
       {
-        "domain": "lennysproductpass.com",
-        "startedAt": "2026-08-05T08:26:00.020Z"
+        "domain": "redo.com",
+        "startedAt": "2026-08-05T08:31:09.353Z"
       },
       {
-        "domain": "workspaces.xyz",
-        "startedAt": "2026-08-05T08:26:00.009Z"
+        "domain": "sacred.computer",
+        "startedAt": "2026-08-05T08:31:04.175Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 137
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 867,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T08:26:06.215Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T08:31:09.061Z",
+    "message": "Generation failed for q-industrial.com with exit 1."
+  }
 }
