@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T22:53:38.314Z",
+  "generatedAt": "2026-08-05T22:54:30.850Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1001,
     "needs_reprocessing": 22,
-    "drafting": 6,
-    "preparing": 4
+    "drafting": 4,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T22:43:16.564Z",
-    "heartbeatAt": "2026-08-05T22:53:36.650Z",
+    "startedAt": "2026-08-05T22:54:28.452Z",
+    "heartbeatAt": "2026-08-05T22:54:28.868Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "maallust.nl",
-          "startedAt": "2026-08-05T22:53:26.048Z"
+          "domain": "morphic.com",
+          "startedAt": "2026-08-05T22:54:28.743Z"
         },
         {
-          "domain": "morphik.ai",
-          "startedAt": "2026-08-05T22:53:36.494Z"
+          "domain": "nango.dev",
+          "startedAt": "2026-08-05T22:54:28.742Z"
         },
         {
-          "domain": "nextjs.org",
-          "startedAt": "2026-08-05T22:53:36.495Z"
+          "domain": "obsidian.md",
+          "startedAt": "2026-08-05T22:54:28.745Z"
         },
         {
-          "domain": "once.film",
-          "startedAt": "2026-08-05T22:53:36.496Z"
+          "domain": "oracea.com",
+          "startedAt": "2026-08-05T22:54:28.744Z"
         },
         {
-          "domain": "openship.org",
-          "startedAt": "2026-08-05T22:53:31.312Z"
+          "domain": "redesignthis.org",
+          "startedAt": "2026-08-05T22:54:28.743Z"
         },
         {
-          "domain": "openweb.com",
-          "startedAt": "2026-08-05T22:53:36.495Z"
+          "domain": "ycombinator.com",
+          "startedAt": "2026-08-05T22:54:28.739Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 201
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 800,
+      "eligibleGeneration": 1007,
+      "availableGeneration": 1001,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 1,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T22:48:32.897Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-05T22:53:35.402Z",
-      "message": "Generation failed for octolane.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -1384,8 +1381,8 @@
     {
       "domain": "antler.co",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:03:59.766Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:15.198Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -7715,8 +7712,8 @@
     {
       "domain": "fiverr.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:03.640Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:26.922Z",
       "blocker": null,
       "publication": {
         "key": "fiverr.com-design",
@@ -10614,8 +10611,8 @@
     {
       "domain": "jan.ai",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T22:03:57.020Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:54:15.036Z",
       "blocker": null,
       "publication": {
         "key": "jan.ai-design",
@@ -12316,9 +12313,9 @@
     },
     {
       "domain": "maallust.nl",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:53:36.742Z",
+      "updatedAt": "2026-08-05T22:54:00.030Z",
       "blocker": null,
       "publication": {
         "key": "maallust.nl-design",
@@ -12733,8 +12730,8 @@
     {
       "domain": "mentra.glass",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:03:51.123Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:16.109Z",
       "blocker": null,
       "publication": {
         "key": "mentra.glass-design",
@@ -12798,8 +12795,8 @@
     {
       "domain": "meta.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:03:53.963Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:18.183Z",
       "blocker": null,
       "publication": {
         "key": "meta.com-design",
@@ -13240,8 +13237,8 @@
     {
       "domain": "modash.io",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:02.525Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:24.609Z",
       "blocker": null,
       "publication": {
         "key": "modash.io-design",
@@ -13460,9 +13457,9 @@
     },
     {
       "domain": "morphic.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:16.883Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:28.982Z",
       "blocker": null,
       "publication": {
         "key": "morphic.com-design",
@@ -13473,9 +13470,9 @@
     },
     {
       "domain": "morphik.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:53:36.751Z",
+      "updatedAt": "2026-08-05T22:54:00.024Z",
       "blocker": null,
       "publication": {
         "key": "morphik.ai-design",
@@ -13746,9 +13743,9 @@
     },
     {
       "domain": "nango.dev",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:11.838Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:28.977Z",
       "blocker": null,
       "publication": {
         "key": "nango.dev-design",
@@ -13993,9 +13990,9 @@
     },
     {
       "domain": "nextjs.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:53:36.723Z",
+      "updatedAt": "2026-08-05T22:54:00.972Z",
       "blocker": null,
       "publication": {
         "key": "nextjs.org-design",
@@ -14111,8 +14108,8 @@
     {
       "domain": "nodes.io",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:03:43.696Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:08.614Z",
       "blocker": null,
       "publication": {
         "key": "nodes.io-design",
@@ -14461,9 +14458,9 @@
     },
     {
       "domain": "obsidian.md",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:17.980Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:29.043Z",
       "blocker": null,
       "publication": {
         "key": "obsidian.md-design",
@@ -14721,9 +14718,9 @@
     },
     {
       "domain": "once.film",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:53:36.740Z",
+      "updatedAt": "2026-08-05T22:54:00.975Z",
       "blocker": null,
       "publication": {
         "key": "once.film-design",
@@ -14929,9 +14926,9 @@
     },
     {
       "domain": "openship.org",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:53:35.477Z",
+      "updatedAt": "2026-08-05T22:53:46.776Z",
       "blocker": null,
       "publication": {
         "key": "openship.org-design",
@@ -14968,9 +14965,9 @@
     },
     {
       "domain": "openweb.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:53:36.711Z",
+      "updatedAt": "2026-08-05T22:54:00.423Z",
       "blocker": null,
       "publication": {
         "key": "openweb.com-design",
@@ -15046,9 +15043,9 @@
     },
     {
       "domain": "oracea.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:17.406Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:29.027Z",
       "blocker": null,
       "publication": {
         "key": "oracea.com-design",
@@ -15060,8 +15057,8 @@
     {
       "domain": "oracle.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:03:54.570Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:13.855Z",
       "blocker": null,
       "publication": {
         "key": "oracle.com-design",
@@ -17074,9 +17071,9 @@
     },
     {
       "domain": "redesignthis.org",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:04:16.179Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:54:29.022Z",
       "blocker": null,
       "publication": {
         "key": "redesignthis.org-design",
@@ -22391,9 +22388,9 @@
     },
     {
       "domain": "ycombinator.com",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T22:04:10.766Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:54:28.960Z",
       "blocker": null,
       "publication": {
         "key": "ycombinator.com-design",
