@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T07:18:08.286Z",
-  "heartbeatAt": "2026-08-05T07:18:08.690Z",
+  "heartbeatAt": "2026-08-05T07:23:17.034Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "binary.so",
-        "startedAt": "2026-08-05T07:18:08.550Z"
+        "domain": "bbc.com",
+        "startedAt": "2026-08-05T07:23:16.948Z"
       },
       {
-        "domain": "designme.agency",
-        "startedAt": "2026-08-05T07:18:08.550Z"
+        "domain": "cora.computer",
+        "startedAt": "2026-08-05T07:23:11.742Z"
       },
       {
-        "domain": "paulstamatiou.com",
-        "startedAt": "2026-08-05T07:18:08.548Z"
+        "domain": "laylo.com",
+        "startedAt": "2026-08-05T07:23:11.744Z"
       },
       {
-        "domain": "tavus.io",
-        "startedAt": "2026-08-05T07:18:08.549Z"
+        "domain": "lenta.ru",
+        "startedAt": "2026-08-05T07:23:06.484Z"
       },
       {
-        "domain": "tentree.com",
-        "startedAt": "2026-08-05T07:18:08.546Z"
+        "domain": "lexingtonthemes.com",
+        "startedAt": "2026-08-05T07:23:11.745Z"
       },
       {
-        "domain": "typefoundry.directory",
-        "startedAt": "2026-08-05T07:18:08.551Z"
+        "domain": "lineto.com",
+        "startedAt": "2026-08-05T07:23:11.743Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 124
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 878,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T07:18:15.176Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T07:23:13.564Z",
+    "message": "Generation failed for land-book.com with exit 1."
+  }
 }
