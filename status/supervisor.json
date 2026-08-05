@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T03:27:35.340Z",
-  "heartbeatAt": "2026-08-05T03:27:35.692Z",
+  "heartbeatAt": "2026-08-05T03:32:46.359Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "era.app",
-        "startedAt": "2026-08-05T03:27:35.569Z"
+        "domain": "buick.com",
+        "startedAt": "2026-08-05T03:32:35.929Z"
       },
       {
-        "domain": "every.to",
-        "startedAt": "2026-08-05T03:27:35.572Z"
+        "domain": "busy.bar",
+        "startedAt": "2026-08-05T03:32:35.930Z"
       },
       {
-        "domain": "evilmartians.com",
-        "startedAt": "2026-08-05T03:27:35.571Z"
+        "domain": "carbonads.net",
+        "startedAt": "2026-08-05T03:32:41.105Z"
       },
       {
-        "domain": "helenazhang.com",
-        "startedAt": "2026-08-05T03:27:35.570Z"
+        "domain": "charlieosborne.co",
+        "startedAt": "2026-08-05T03:32:46.288Z"
       },
       {
-        "domain": "higherorderco.com",
-        "startedAt": "2026-08-05T03:27:35.567Z"
+        "domain": "clay.com",
+        "startedAt": "2026-08-05T03:32:46.289Z"
       },
       {
-        "domain": "tinywins.com",
-        "startedAt": "2026-08-05T03:27:35.569Z"
+        "domain": "code.visualstudio.com",
+        "startedAt": "2026-08-05T03:32:41.104Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 156
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 848,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T03:27:42.287Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T03:32:45.581Z",
+    "message": "Generation failed for cal.com with exit 1."
+  }
 }
