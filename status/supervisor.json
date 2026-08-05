@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T14:58:48.974Z",
-  "heartbeatAt": "2026-08-05T14:58:49.447Z",
+  "heartbeatAt": "2026-08-05T15:04:01.997Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "preludesecurity.com",
-        "startedAt": "2026-08-05T14:58:49.299Z"
+        "domain": "base-ui.com",
+        "startedAt": "2026-08-05T15:03:25.582Z"
       },
       {
-        "domain": "q-industrial.com",
-        "startedAt": "2026-08-05T14:58:49.297Z"
+        "domain": "slowly.app",
+        "startedAt": "2026-08-05T15:03:10.049Z"
       },
       {
-        "domain": "railway.com",
-        "startedAt": "2026-08-05T14:58:49.300Z"
+        "domain": "sundaecreative.com",
+        "startedAt": "2026-08-05T15:03:46.234Z"
       },
       {
-        "domain": "redo.com",
-        "startedAt": "2026-08-05T14:58:49.299Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-05T15:03:51.488Z"
       },
       {
-        "domain": "scmp.com",
-        "startedAt": "2026-08-05T14:58:49.294Z"
+        "domain": "thebutterinbetween.com",
+        "startedAt": "2026-08-05T15:03:51.484Z"
       },
       {
-        "domain": "sinelaw.github.io",
-        "startedAt": "2026-08-05T14:58:49.298Z"
+        "domain": "trae.ai",
+        "startedAt": "2026-08-05T15:03:46.245Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 47
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 957,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 4,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T14:58:59.457Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T15:03:46.842Z",
+    "message": "Generation failed for sanity.io with exit 1."
+  }
 }
