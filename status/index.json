@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T16:51:27.195Z",
+  "generatedAt": "2026-08-05T16:52:19.062Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1001,
+    "failed": 1000,
     "needs_reprocessing": 22,
     "drafting": 3,
-    "preparing": 7
+    "preparing": 8
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T16:51:24.499Z",
-    "heartbeatAt": "2026-08-05T16:51:24.909Z",
+    "startedAt": "2026-08-05T16:52:16.752Z",
+    "heartbeatAt": "2026-08-05T16:52:17.134Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "endl.io",
-          "startedAt": "2026-08-05T16:51:24.793Z"
+          "domain": "five-am.com",
+          "startedAt": "2026-08-05T16:52:17.047Z"
         },
         {
-          "domain": "evilmartians.com",
-          "startedAt": "2026-08-05T16:51:24.796Z"
+          "domain": "fonttrio.xyz",
+          "startedAt": "2026-08-05T16:52:17.046Z"
         },
         {
-          "domain": "figr.design",
-          "startedAt": "2026-08-05T16:51:24.795Z"
+          "domain": "footer.design",
+          "startedAt": "2026-08-05T16:52:17.048Z"
         },
         {
-          "domain": "temporal.io",
-          "startedAt": "2026-08-05T16:51:24.789Z"
+          "domain": "helenazhang.com",
+          "startedAt": "2026-08-05T16:52:17.050Z"
         },
         {
-          "domain": "usepylon.com",
-          "startedAt": "2026-08-05T16:51:24.794Z"
+          "domain": "higherorderco.com",
+          "startedAt": "2026-08-05T16:52:17.049Z"
         },
         {
-          "domain": "youtube.com",
-          "startedAt": "2026-08-05T16:51:24.792Z"
+          "domain": "teenage.engineering",
+          "startedAt": "2026-08-05T16:52:17.043Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1007,
-      "availableGeneration": 1001,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 1000,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -5411,8 +5411,8 @@
     {
       "domain": "dany.works",
       "state": "failed",
-      "attempt": 28,
-      "updatedAt": "2026-08-05T15:39:46.046Z",
+      "attempt": 29,
+      "updatedAt": "2026-08-05T16:52:06.547Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -6581,8 +6581,8 @@
     {
       "domain": "dub.co",
       "state": "failed",
-      "attempt": 25,
-      "updatedAt": "2026-08-05T15:39:57.262Z",
+      "attempt": 26,
+      "updatedAt": "2026-08-05T16:52:07.288Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
@@ -6996,9 +6996,9 @@
     },
     {
       "domain": "endl.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 26,
-      "updatedAt": "2026-08-05T16:51:25.100Z",
+      "updatedAt": "2026-08-05T16:51:44.404Z",
       "blocker": null,
       "publication": {
         "key": "endl.io-design",
@@ -7204,9 +7204,9 @@
     },
     {
       "domain": "evilmartians.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 26,
-      "updatedAt": "2026-08-05T16:51:25.114Z",
+      "updatedAt": "2026-08-05T16:51:42.174Z",
       "blocker": null,
       "publication": {
         "key": "evilmartians.com-design",
@@ -7503,9 +7503,9 @@
     },
     {
       "domain": "figr.design",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 26,
-      "updatedAt": "2026-08-05T16:51:25.022Z",
+      "updatedAt": "2026-08-05T16:51:40.602Z",
       "blocker": null,
       "publication": {
         "key": "figr.design-design",
@@ -7698,9 +7698,9 @@
     },
     {
       "domain": "five-am.com",
-      "state": "failed",
-      "attempt": 25,
-      "updatedAt": "2026-08-05T15:40:12.392Z",
+      "state": "preparing",
+      "attempt": 26,
+      "updatedAt": "2026-08-05T16:52:17.307Z",
       "blocker": null,
       "publication": {
         "key": "five-am.com-design",
@@ -8023,9 +8023,9 @@
     },
     {
       "domain": "fonttrio.xyz",
-      "state": "failed",
-      "attempt": 25,
-      "updatedAt": "2026-08-05T15:40:04.011Z",
+      "state": "preparing",
+      "attempt": 26,
+      "updatedAt": "2026-08-05T16:52:17.270Z",
       "blocker": null,
       "publication": {
         "key": "fonttrio.xyz-design",
@@ -8036,9 +8036,9 @@
     },
     {
       "domain": "footer.design",
-      "state": "failed",
-      "attempt": 25,
-      "updatedAt": "2026-08-05T15:40:19.824Z",
+      "state": "preparing",
+      "attempt": 26,
+      "updatedAt": "2026-08-05T16:52:17.295Z",
       "blocker": null,
       "publication": {
         "key": "footer.design-design",
@@ -9349,9 +9349,9 @@
     },
     {
       "domain": "helenazhang.com",
-      "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:40:26.217Z",
+      "state": "preparing",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:17.318Z",
       "blocker": null,
       "publication": {
         "key": "helenazhang.com-design",
@@ -9596,9 +9596,9 @@
     },
     {
       "domain": "higherorderco.com",
-      "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:40:23.526Z",
+      "state": "preparing",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:17.335Z",
       "blocker": null,
       "publication": {
         "key": "higherorderco.com-design",
@@ -19620,8 +19620,8 @@
     {
       "domain": "tambo.co",
       "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:39:45.794Z",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:09.809Z",
       "blocker": null,
       "publication": {
         "key": "tambo.co-design",
@@ -19749,9 +19749,9 @@
     },
     {
       "domain": "teenage.engineering",
-      "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:40:04.006Z",
+      "state": "preparing",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:17.269Z",
       "blocker": null,
       "publication": {
         "key": "teenage.engineering-design",
@@ -19776,8 +19776,8 @@
     {
       "domain": "tella.com",
       "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:39:51.513Z",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:02.590Z",
       "blocker": null,
       "publication": {
         "key": "tella.com-design",
@@ -19814,9 +19814,9 @@
     },
     {
       "domain": "temporal.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 25,
-      "updatedAt": "2026-08-05T16:51:25.017Z",
+      "updatedAt": "2026-08-05T16:51:46.941Z",
       "blocker": null,
       "publication": {
         "key": "temporal.io-design",
@@ -19879,9 +19879,9 @@
     },
     {
       "domain": "tess.design",
-      "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:40:02.265Z",
+      "state": "preparing",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:06.783Z",
       "blocker": null,
       "publication": {
         "key": "tess.design-design",
@@ -19984,8 +19984,8 @@
     {
       "domain": "thehog.ai",
       "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:39:46.635Z",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:00.403Z",
       "blocker": null,
       "publication": {
         "key": "thehog.ai-design",
@@ -20127,8 +20127,8 @@
     {
       "domain": "threads.com",
       "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:40:01.677Z",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:15.664Z",
       "blocker": null,
       "publication": {
         "key": "threads.com-design",
@@ -20166,8 +20166,8 @@
     {
       "domain": "tinygrad.org",
       "state": "failed",
-      "attempt": 24,
-      "updatedAt": "2026-08-05T15:39:59.789Z",
+      "attempt": 25,
+      "updatedAt": "2026-08-05T16:52:03.798Z",
       "blocker": null,
       "publication": {
         "key": "tinygrad.org-design",
@@ -21153,9 +21153,9 @@
     },
     {
       "domain": "usepylon.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 25,
-      "updatedAt": "2026-08-05T16:51:25.022Z",
+      "updatedAt": "2026-08-05T16:51:48.435Z",
       "blocker": null,
       "publication": {
         "key": "usepylon.com-design",
@@ -22401,9 +22401,9 @@
     },
     {
       "domain": "youtube.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 24,
-      "updatedAt": "2026-08-05T16:51:25.026Z",
+      "updatedAt": "2026-08-05T16:51:40.871Z",
       "blocker": null,
       "publication": {
         "key": "youtube.com-design",
