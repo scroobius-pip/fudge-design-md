@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T09:39:04.304Z",
-  "heartbeatAt": "2026-08-05T09:39:04.687Z",
+  "heartbeatAt": "2026-08-05T09:44:14.673Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "deel.com",
-        "startedAt": "2026-08-05T09:39:04.574Z"
+        "domain": "hellotalk.com",
+        "startedAt": "2026-08-05T09:44:14.575Z"
       },
       {
-        "domain": "designjoy.co",
-        "startedAt": "2026-08-05T09:39:04.575Z"
+        "domain": "hometechco.com",
+        "startedAt": "2026-08-05T09:44:04.123Z"
       },
       {
-        "domain": "doodleduo.com",
-        "startedAt": "2026-08-05T09:39:04.577Z"
+        "domain": "honglyoeng.com",
+        "startedAt": "2026-08-05T09:44:04.122Z"
       },
       {
-        "domain": "duetnightabyss.dna-panstudio.com",
-        "startedAt": "2026-08-05T09:39:04.579Z"
+        "domain": "icp.ninja",
+        "startedAt": "2026-08-05T09:44:09.375Z"
       },
       {
-        "domain": "ebrd.com",
-        "startedAt": "2026-08-05T09:39:04.578Z"
+        "domain": "wise.com",
+        "startedAt": "2026-08-05T09:44:14.576Z"
       },
       {
-        "domain": "eclecticlight.co",
-        "startedAt": "2026-08-05T09:39:04.576Z"
+        "domain": "workbench.suna.design",
+        "startedAt": "2026-08-05T09:44:14.577Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 128
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T09:39:11.149Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T09:44:13.894Z",
+    "message": "Generation failed for witharc.co with exit 1."
+  }
 }
