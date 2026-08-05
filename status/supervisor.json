@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T08:07:53.539Z",
-  "heartbeatAt": "2026-08-05T08:07:53.944Z",
+  "heartbeatAt": "2026-08-05T08:13:01.702Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "cosmic-ray.tv",
-        "startedAt": "2026-08-05T08:07:53.789Z"
+        "domain": "elevenlabs.io",
+        "startedAt": "2026-08-05T08:12:56.329Z"
       },
       {
-        "domain": "producthunt.com",
-        "startedAt": "2026-08-05T08:07:53.792Z"
+        "domain": "era.app",
+        "startedAt": "2026-08-05T08:13:01.536Z"
       },
       {
-        "domain": "qoves.com",
-        "startedAt": "2026-08-05T08:07:53.793Z"
+        "domain": "explainers.blog",
+        "startedAt": "2026-08-05T08:13:01.539Z"
       },
       {
-        "domain": "rachelchen.tech",
-        "startedAt": "2026-08-05T08:07:53.790Z"
+        "domain": "five-am.com",
+        "startedAt": "2026-08-05T08:13:01.537Z"
       },
       {
-        "domain": "range.com",
-        "startedAt": "2026-08-05T08:07:53.791Z"
+        "domain": "thisispenny.com",
+        "startedAt": "2026-08-05T08:12:51.139Z"
       },
       {
-        "domain": "raycast.com",
-        "startedAt": "2026-08-05T08:07:53.794Z"
+        "domain": "tinywins.com",
+        "startedAt": "2026-08-05T08:13:01.538Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 135
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 1005,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 870,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T08:07:59.960Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T08:12:59.596Z",
+    "message": "Generation failed for evefrontier.com with exit 1."
+  }
 }
