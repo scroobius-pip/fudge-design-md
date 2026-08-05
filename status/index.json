@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T12:15:18.364Z",
+  "generatedAt": "2026-08-05T12:15:39.499Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "preparing": 5,
+    "preparing": 6,
     "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T11:54:22.743Z",
-    "heartbeatAt": "2026-08-05T12:15:16.452Z",
+    "startedAt": "2026-08-05T12:15:36.999Z",
+    "heartbeatAt": "2026-08-05T12:15:37.421Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "atlantide-festival.org",
-          "startedAt": "2026-08-05T12:15:11.112Z"
+          "domain": "bggs.qld.edu.au",
+          "startedAt": "2026-08-05T12:15:37.306Z"
         },
         {
-          "domain": "business.linkedin.com",
-          "startedAt": "2026-08-05T12:15:16.373Z"
+          "domain": "buffer.com",
+          "startedAt": "2026-08-05T12:15:37.300Z"
         },
         {
-          "domain": "businesstimes.com.sg",
-          "startedAt": "2026-08-05T12:15:16.372Z"
+          "domain": "buymeacoffee.com",
+          "startedAt": "2026-08-05T12:15:37.303Z"
         },
         {
-          "domain": "calligraphy.ge",
-          "startedAt": "2026-08-05T12:15:16.367Z"
+          "domain": "cabbin.net",
+          "startedAt": "2026-08-05T12:15:37.307Z"
         },
         {
-          "domain": "tweek.so",
-          "startedAt": "2026-08-05T12:15:11.107Z"
+          "domain": "radioshack.com",
+          "startedAt": "2026-08-05T12:15:37.305Z"
         },
         {
-          "domain": "typewolf.com",
-          "startedAt": "2026-08-05T12:15:11.110Z"
+          "domain": "raspberrypi.com",
+          "startedAt": "2026-08-05T12:15:37.304Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 314
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1007,
-      "availableGeneration": 690,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 8,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T12:10:15.519Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-05T12:15:11.217Z",
-      "message": "Generation failed for trymeasured.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -2540,9 +2537,9 @@
     },
     {
       "domain": "atlantide-festival.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 22,
-      "updatedAt": "2026-08-05T12:15:11.309Z",
+      "updatedAt": "2026-08-05T12:15:30.692Z",
       "blocker": null,
       "publication": {
         "key": "atlantide-festival.org-design",
@@ -3112,9 +3109,9 @@
     },
     {
       "domain": "bggs.qld.edu.au",
-      "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:17.846Z",
+      "state": "preparing",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:37.657Z",
       "blocker": null,
       "publication": {
         "key": "bggs.qld.edu.au-design",
@@ -3373,8 +3370,8 @@
     {
       "domain": "bookmarkify.io",
       "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:04.073Z",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:32.850Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
@@ -3502,9 +3499,9 @@
     },
     {
       "domain": "breathebatteries.com",
-      "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:06.187Z",
+      "state": "drafting",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:32.376Z",
       "blocker": null,
       "publication": {
         "key": "breathebatteries.com-design",
@@ -3658,9 +3655,9 @@
     },
     {
       "domain": "buffer.com",
-      "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:06.543Z",
+      "state": "preparing",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:37.558Z",
       "blocker": null,
       "publication": {
         "key": "buffer.com-design",
@@ -3827,9 +3824,9 @@
     },
     {
       "domain": "business.linkedin.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 22,
-      "updatedAt": "2026-08-05T12:15:16.538Z",
+      "updatedAt": "2026-08-05T12:15:28.706Z",
       "blocker": null,
       "publication": {
         "key": "business.linkedin.com-design",
@@ -3879,9 +3876,9 @@
     },
     {
       "domain": "businesstimes.com.sg",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 22,
-      "updatedAt": "2026-08-05T12:15:16.552Z",
+      "updatedAt": "2026-08-05T12:15:26.325Z",
       "blocker": null,
       "publication": {
         "key": "businesstimes.com.sg-design",
@@ -3918,9 +3915,9 @@
     },
     {
       "domain": "buymeacoffee.com",
-      "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:07.637Z",
+      "state": "preparing",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:37.563Z",
       "blocker": null,
       "publication": {
         "key": "buymeacoffee.com-design",
@@ -3957,9 +3954,9 @@
     },
     {
       "domain": "cabbin.net",
-      "state": "failed",
-      "attempt": 21,
-      "updatedAt": "2026-08-05T11:13:18.866Z",
+      "state": "preparing",
+      "attempt": 22,
+      "updatedAt": "2026-08-05T12:15:37.588Z",
       "blocker": null,
       "publication": {
         "key": "cabbin.net-design",
@@ -4035,9 +4032,9 @@
     },
     {
       "domain": "calligraphy.ge",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 22,
-      "updatedAt": "2026-08-05T12:15:16.534Z",
+      "updatedAt": "2026-08-05T12:15:25.543Z",
       "blocker": null,
       "publication": {
         "key": "calligraphy.ge-design",
@@ -16801,9 +16798,9 @@
     },
     {
       "domain": "radioshack.com",
-      "state": "failed",
-      "attempt": 20,
-      "updatedAt": "2026-08-05T11:13:12.883Z",
+      "state": "preparing",
+      "attempt": 21,
+      "updatedAt": "2026-08-05T12:15:37.561Z",
       "blocker": null,
       "publication": {
         "key": "radioshack.com-design",
@@ -16918,9 +16915,9 @@
     },
     {
       "domain": "raspberrypi.com",
-      "state": "failed",
-      "attempt": 20,
-      "updatedAt": "2026-08-05T11:13:10.893Z",
+      "state": "preparing",
+      "attempt": 21,
+      "updatedAt": "2026-08-05T12:15:37.558Z",
       "blocker": null,
       "publication": {
         "key": "raspberrypi.com-design",
@@ -20636,9 +20633,9 @@
     },
     {
       "domain": "tweek.so",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 21,
-      "updatedAt": "2026-08-05T12:15:11.269Z",
+      "updatedAt": "2026-08-05T12:15:26.817Z",
       "blocker": null,
       "publication": {
         "key": "tweek.so-design",
@@ -20779,9 +20776,9 @@
     },
     {
       "domain": "typewolf.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 21,
-      "updatedAt": "2026-08-05T12:15:13.051Z",
+      "updatedAt": "2026-08-05T12:15:18.272Z",
       "blocker": null,
       "publication": {
         "key": "typewolf.com-design",
