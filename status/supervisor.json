@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T18:47:02.279Z",
-  "heartbeatAt": "2026-08-05T18:47:02.920Z",
+  "heartbeatAt": "2026-08-05T18:52:16.766Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "doom.bethesda.net",
-        "startedAt": "2026-08-05T18:47:02.707Z"
+        "domain": "deezer.com",
+        "startedAt": "2026-08-05T18:50:59.235Z"
       },
       {
-        "domain": "durup.com",
-        "startedAt": "2026-08-05T18:47:02.698Z"
+        "domain": "gatesandbrovi.com",
+        "startedAt": "2026-08-05T18:51:07.222Z"
       },
       {
-        "domain": "ecosia.org",
-        "startedAt": "2026-08-05T18:47:02.705Z"
+        "domain": "halftonedigital.com",
+        "startedAt": "2026-08-05T18:52:15.491Z"
       },
       {
-        "domain": "ferndesk.com",
-        "startedAt": "2026-08-05T18:47:02.708Z"
+        "domain": "portfolio.adobe.com",
+        "startedAt": "2026-08-05T18:52:15.537Z"
       },
       {
-        "domain": "frameplate.co",
-        "startedAt": "2026-08-05T18:47:02.700Z"
+        "domain": "wabi.ai",
+        "startedAt": "2026-08-05T18:50:49.967Z"
       },
       {
-        "domain": "gallery.any.coop",
-        "startedAt": "2026-08-05T18:47:02.704Z"
+        "domain": "wip.co",
+        "startedAt": "2026-08-05T18:50:50.237Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 58
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1001,
-    "availableGeneration": 995,
+    "eligibleGeneration": 997,
+    "availableGeneration": 937,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T18:47:10.412Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T18:52:12.506Z",
+    "message": "Generation failed for gofundme.com with exit 1."
+  }
 }
