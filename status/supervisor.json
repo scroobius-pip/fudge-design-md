@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T04:57:04.011Z",
-  "heartbeatAt": "2026-08-05T04:57:04.402Z",
+  "heartbeatAt": "2026-08-05T05:02:15.103Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "operaneon.com",
-        "startedAt": "2026-08-05T04:57:04.251Z"
+        "domain": "betterstack.com",
+        "startedAt": "2026-08-05T05:02:09.816Z"
       },
       {
-        "domain": "outthere.studio",
-        "startedAt": "2026-08-05T04:57:04.253Z"
+        "domain": "stateofopensource.ai",
+        "startedAt": "2026-08-05T05:02:04.633Z"
       },
       {
-        "domain": "paddle.com",
-        "startedAt": "2026-08-05T04:57:04.250Z"
+        "domain": "superlist.com",
+        "startedAt": "2026-08-05T05:02:09.817Z"
       },
       {
-        "domain": "paths.grasp.study",
-        "startedAt": "2026-08-05T04:57:04.249Z"
+        "domain": "taito.ai",
+        "startedAt": "2026-08-05T05:02:15.021Z"
       },
       {
-        "domain": "percival.ink",
-        "startedAt": "2026-08-05T04:57:04.252Z"
+        "domain": "tenor.design",
+        "startedAt": "2026-08-05T05:02:15.030Z"
       },
       {
-        "domain": "phia.app",
-        "startedAt": "2026-08-05T04:57:04.252Z"
+        "domain": "zed.dev",
+        "startedAt": "2026-08-05T05:02:04.638Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 139
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 865,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T04:57:10.407Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T05:02:12.022Z",
+    "message": "Generation failed for symbl.space with exit 1."
+  }
 }
