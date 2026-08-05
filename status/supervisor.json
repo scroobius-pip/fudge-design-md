@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T00:43:18.270Z",
-  "heartbeatAt": "2026-08-05T00:43:18.567Z",
+  "heartbeatAt": "2026-08-05T00:48:29.635Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "epsteinexposed.com",
-        "startedAt": "2026-08-05T00:43:18.498Z"
+        "domain": "buick.com",
+        "startedAt": "2026-08-05T00:48:19.174Z"
       },
       {
-        "domain": "era.app",
-        "startedAt": "2026-08-05T00:43:18.501Z"
+        "domain": "busy.bar",
+        "startedAt": "2026-08-05T00:48:24.329Z"
       },
       {
-        "domain": "etched.com",
-        "startedAt": "2026-08-05T00:43:18.502Z"
+        "domain": "bybitglobal.com",
+        "startedAt": "2026-08-05T00:48:24.327Z"
       },
       {
-        "domain": "tinygrad.org",
-        "startedAt": "2026-08-05T00:43:18.499Z"
+        "domain": "calligraphy.ge",
+        "startedAt": "2026-08-05T00:48:24.325Z"
       },
       {
-        "domain": "tinywins.com",
-        "startedAt": "2026-08-05T00:43:18.501Z"
+        "domain": "carbonads.net",
+        "startedAt": "2026-08-05T00:48:29.582Z"
       },
       {
-        "domain": "youtube.com",
-        "startedAt": "2026-08-05T00:43:18.500Z"
+        "domain": "cloud.trigger.dev",
+        "startedAt": "2026-08-05T00:48:24.327Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 152
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 1005,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 853,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T00:43:24.678Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T00:48:29.479Z",
+    "message": "Generation failed for cal.com with exit 1."
+  }
 }
