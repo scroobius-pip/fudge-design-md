@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T13:26:18.698Z",
-  "heartbeatAt": "2026-08-05T13:26:19.176Z",
+  "heartbeatAt": "2026-08-05T13:31:26.903Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "brynmawr.edu",
-        "startedAt": "2026-08-05T13:26:19.013Z"
+        "domain": "daylight-health.com",
+        "startedAt": "2026-08-05T13:31:05.982Z"
       },
       {
-        "domain": "bugster.dev",
-        "startedAt": "2026-08-05T13:26:19.015Z"
+        "domain": "deta.surf",
+        "startedAt": "2026-08-05T13:31:26.790Z"
       },
       {
-        "domain": "caligra.com",
-        "startedAt": "2026-08-05T13:26:19.018Z"
+        "domain": "digitaltrends.com",
+        "startedAt": "2026-08-05T13:31:05.980Z"
       },
       {
-        "domain": "clay.com",
-        "startedAt": "2026-08-05T13:26:19.016Z"
+        "domain": "doodlewarriors.com",
+        "startedAt": "2026-08-05T13:31:05.981Z"
       },
       {
-        "domain": "dfy.co.kr",
-        "startedAt": "2026-08-05T13:26:19.014Z"
+        "domain": "early.works",
+        "startedAt": "2026-08-05T13:31:26.789Z"
       },
       {
-        "domain": "type.lol",
-        "startedAt": "2026-08-05T13:26:19.016Z"
+        "domain": "renode.io",
+        "startedAt": "2026-08-05T13:31:21.607Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 74
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 928,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T13:26:25.910Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T13:31:26.217Z",
+    "message": "Generation failed for unrealengine.com with exit 1."
+  }
 }
