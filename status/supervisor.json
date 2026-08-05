@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T11:08:45.726Z",
-  "heartbeatAt": "2026-08-05T11:08:46.566Z",
+  "heartbeatAt": "2026-08-05T11:13:56.755Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fable.co",
-        "startedAt": "2026-08-05T11:08:46.234Z"
+        "domain": "buildform.ai",
+        "startedAt": "2026-08-05T11:13:51.442Z"
       },
       {
-        "domain": "fundable.design",
-        "startedAt": "2026-08-05T11:08:46.237Z"
+        "domain": "busy.bar",
+        "startedAt": "2026-08-05T11:13:56.643Z"
       },
       {
-        "domain": "gamma.io",
-        "startedAt": "2026-08-05T11:08:46.231Z"
+        "domain": "carbonads.net",
+        "startedAt": "2026-08-05T11:13:56.642Z"
       },
       {
-        "domain": "gemini.google",
-        "startedAt": "2026-08-05T11:08:46.263Z"
+        "domain": "cloudflare.com",
+        "startedAt": "2026-08-05T11:13:56.645Z"
       },
       {
-        "domain": "hellotiana.framer.website",
-        "startedAt": "2026-08-05T11:08:46.239Z"
+        "domain": "cryptix.framer.website",
+        "startedAt": "2026-08-05T11:13:56.644Z"
       },
       {
-        "domain": "tradingview.com",
-        "startedAt": "2026-08-05T11:08:46.230Z"
+        "domain": "designwithvibbbes.com",
+        "startedAt": "2026-08-05T11:13:46.254Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 124
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T11:08:53.583Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T11:13:56.112Z",
+    "message": "Generation failed for bunny.net with exit 1."
+  }
 }
