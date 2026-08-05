@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T22:42:10.546Z",
+  "generatedAt": "2026-08-05T22:42:52.589Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1001,
     "needs_reprocessing": 22,
     "preparing": 7,
-    "drafting": 1
+    "drafting": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T22:42:08.235Z",
-    "heartbeatAt": "2026-08-05T22:42:08.717Z",
+    "startedAt": "2026-08-05T22:42:50.261Z",
+    "heartbeatAt": "2026-08-05T22:42:50.767Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "designerdailyreport.com",
-          "startedAt": "2026-08-05T22:42:08.536Z"
+          "domain": "daylight-health.com",
+          "startedAt": "2026-08-05T22:42:50.582Z"
         },
         {
-          "domain": "designjoy.co",
-          "startedAt": "2026-08-05T22:42:08.538Z"
+          "domain": "deel.com",
+          "startedAt": "2026-08-05T22:42:50.581Z"
         },
         {
-          "domain": "early.works",
-          "startedAt": "2026-08-05T22:42:08.534Z"
+          "domain": "fontradar.com",
+          "startedAt": "2026-08-05T22:42:50.581Z"
         },
         {
-          "domain": "extropic.ai",
-          "startedAt": "2026-08-05T22:42:08.536Z"
+          "domain": "foreknown.com",
+          "startedAt": "2026-08-05T22:42:50.584Z"
         },
         {
-          "domain": "fireriskalliance.com",
-          "startedAt": "2026-08-05T22:42:08.537Z"
+          "domain": "renode.io",
+          "startedAt": "2026-08-05T22:42:50.583Z"
         },
         {
-          "domain": "tencent.com",
-          "startedAt": "2026-08-05T22:42:08.539Z"
+          "domain": "unicorn.studio",
+          "startedAt": "2026-08-05T22:42:50.580Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,12 +53,12 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1003,
+      "eligibleGeneration": 1007,
+      "availableGeneration": 1001,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 0,
+    "recoveredThisRun": 1,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -5229,8 +5229,8 @@
     {
       "domain": "css-for-js.dev",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:52:49.791Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:40.070Z",
       "blocker": null,
       "publication": {
         "key": "css-for-js.dev-design",
@@ -5605,9 +5605,9 @@
     },
     {
       "domain": "daylight-health.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:20.565Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:50.915Z",
       "blocker": null,
       "publication": {
         "key": "daylight-health.com-design",
@@ -5631,9 +5631,9 @@
     },
     {
       "domain": "deel.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:08.202Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:50.826Z",
       "blocker": null,
       "publication": {
         "key": "deel.com-design",
@@ -5865,9 +5865,9 @@
     },
     {
       "domain": "designerdailyreport.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:08.873Z",
+      "updatedAt": "2026-08-05T22:42:20.349Z",
       "blocker": null,
       "publication": {
         "key": "designerdailyreport.com-design",
@@ -5878,9 +5878,9 @@
     },
     {
       "domain": "designjoy.co",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:08.768Z",
+      "updatedAt": "2026-08-05T22:42:20.789Z",
       "blocker": null,
       "publication": {
         "key": "designjoy.co-design",
@@ -6165,8 +6165,8 @@
     {
       "domain": "digitaltrends.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:52:48.623Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:32.368Z",
       "blocker": null,
       "publication": {
         "key": "digitaltrends.com-design",
@@ -6411,9 +6411,9 @@
     },
     {
       "domain": "doodlewarriors.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:02.201Z",
+      "state": "drafting",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:42.424Z",
       "blocker": null,
       "publication": {
         "key": "doodlewarriors.com-design",
@@ -6698,8 +6698,8 @@
     {
       "domain": "eagle.cool",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:52:50.245Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:37.859Z",
       "blocker": null,
       "publication": {
         "key": "eagle.cool-design",
@@ -6723,9 +6723,9 @@
     },
     {
       "domain": "early.works",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:08.764Z",
+      "updatedAt": "2026-08-05T22:42:50.420Z",
       "blocker": null,
       "publication": {
         "key": "early.works-design",
@@ -6918,9 +6918,9 @@
     },
     {
       "domain": "emailtooltester.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:05.787Z",
+      "state": "drafting",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:44.108Z",
       "blocker": null,
       "publication": {
         "key": "emailtooltester.com-design",
@@ -6932,8 +6932,8 @@
     {
       "domain": "emilysneddon.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:01.741Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:38.204Z",
       "blocker": null,
       "publication": {
         "key": "emilysneddon.com-design",
@@ -7321,9 +7321,9 @@
     },
     {
       "domain": "extropic.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:08.763Z",
+      "updatedAt": "2026-08-05T22:42:17.882Z",
       "blocker": null,
       "publication": {
         "key": "extropic.ai-design",
@@ -7607,9 +7607,9 @@
     },
     {
       "domain": "fireriskalliance.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:08.764Z",
+      "updatedAt": "2026-08-05T22:42:20.766Z",
       "blocker": null,
       "publication": {
         "key": "fireriskalliance.com-design",
@@ -7738,8 +7738,8 @@
     {
       "domain": "flask.do",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:01.506Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:36.433Z",
       "blocker": null,
       "publication": {
         "key": "flask.do-design",
@@ -7932,9 +7932,9 @@
     },
     {
       "domain": "fontradar.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:14.871Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:50.828Z",
       "blocker": null,
       "publication": {
         "key": "fontradar.com-design",
@@ -8062,9 +8062,9 @@
     },
     {
       "domain": "foreknown.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:31.404Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:42:50.819Z",
       "blocker": null,
       "publication": {
         "key": "foreknown.com-design",
@@ -17214,9 +17214,9 @@
     },
     {
       "domain": "renode.io",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:53:22.127Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:42:50.826Z",
       "blocker": null,
       "publication": {
         "key": "renode.io-design",
@@ -19827,9 +19827,9 @@
     },
     {
       "domain": "tencent.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:42:08.806Z",
+      "updatedAt": "2026-08-05T22:42:20.120Z",
       "blocker": null,
       "publication": {
         "key": "tencent.com-design",
@@ -20971,9 +20971,9 @@
     },
     {
       "domain": "unicorn.studio",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:53:06.034Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:42:50.859Z",
       "blocker": null,
       "publication": {
         "key": "unicorn.studio-design",
