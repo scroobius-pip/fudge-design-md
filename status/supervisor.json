@@ -1,34 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-05T06:13:42.739Z",
-  "heartbeatAt": "2026-08-05T06:24:03.645Z",
+  "startedAt": "2026-08-05T06:28:25.581Z",
+  "heartbeatAt": "2026-08-05T06:28:25.935Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "deezer.com",
-        "startedAt": "2026-08-05T06:24:03.464Z"
+        "domain": "meta.com",
+        "startedAt": "2026-08-05T06:28:25.859Z"
       },
       {
-        "domain": "going.com",
-        "startedAt": "2026-08-05T06:23:58.266Z"
+        "domain": "milanote.com",
+        "startedAt": "2026-08-05T06:28:25.858Z"
       },
       {
-        "domain": "graphite.com",
-        "startedAt": "2026-08-05T06:23:58.272Z"
+        "domain": "morphik.ai",
+        "startedAt": "2026-08-05T06:28:25.862Z"
       },
       {
-        "domain": "halftonedigital.com",
-        "startedAt": "2026-08-05T06:23:58.273Z"
+        "domain": "myanimelist.net",
+        "startedAt": "2026-08-05T06:28:25.862Z"
       },
       {
-        "domain": "wafer.ai",
-        "startedAt": "2026-08-05T06:23:53.014Z"
+        "domain": "newkino.studio",
+        "startedAt": "2026-08-05T06:28:25.860Z"
+      },
+      {
+        "domain": "ycombinator.com",
+        "startedAt": "2026-08-05T06:28:25.861Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 278
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -37,17 +41,14 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 726,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 1003,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-05T06:19:00.397Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-05T06:24:03.483Z",
-    "message": "Generation failed for wabi.ai with exit 1."
-  }
+  "lastError": null
 }
