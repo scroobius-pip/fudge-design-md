@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T22:10:02.023Z",
-  "heartbeatAt": "2026-08-05T22:10:02.513Z",
+  "heartbeatAt": "2026-08-05T22:15:12.209Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "binary.so",
-        "startedAt": "2026-08-05T22:10:02.361Z"
+        "domain": "gitcoin.co",
+        "startedAt": "2026-08-05T22:15:06.890Z"
       },
       {
-        "domain": "fushly.com",
-        "startedAt": "2026-08-05T22:10:02.362Z"
+        "domain": "intercom.com",
+        "startedAt": "2026-08-05T22:15:06.889Z"
       },
       {
-        "domain": "sundaecreative.com",
-        "startedAt": "2026-08-05T22:10:02.359Z"
+        "domain": "jace.ai",
+        "startedAt": "2026-08-05T22:15:06.883Z"
       },
       {
-        "domain": "superx.so",
-        "startedAt": "2026-08-05T22:10:02.358Z"
+        "domain": "kapa.ai",
+        "startedAt": "2026-08-05T22:15:12.107Z"
       },
       {
-        "domain": "unheard.fm",
-        "startedAt": "2026-08-05T22:10:02.356Z"
+        "domain": "kigen.design",
+        "startedAt": "2026-08-05T22:15:12.108Z"
       },
       {
-        "domain": "vaultandzn.com",
-        "startedAt": "2026-08-05T22:10:02.357Z"
+        "domain": "wafer.ai",
+        "startedAt": "2026-08-05T22:15:06.888Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 100
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 899,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T22:10:08.926Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T22:15:07.817Z",
+    "message": "Generation failed for exoape.com with exit 1."
+  }
 }
