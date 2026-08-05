@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T18:59:48.851Z",
-  "heartbeatAt": "2026-08-05T18:59:49.319Z",
+  "heartbeatAt": "2026-08-05T19:04:59.648Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "lemfi.com",
-        "startedAt": "2026-08-05T18:59:49.172Z"
+        "domain": "rains.com",
+        "startedAt": "2026-08-05T19:04:54.275Z"
       },
       {
-        "domain": "liverpoolfc.com",
-        "startedAt": "2026-08-05T18:59:49.171Z"
+        "domain": "replacement.ai",
+        "startedAt": "2026-08-05T19:04:54.277Z"
       },
       {
-        "domain": "maximeheckel.com",
-        "startedAt": "2026-08-05T18:59:49.170Z"
+        "domain": "revenuecat.com",
+        "startedAt": "2026-08-05T19:04:54.276Z"
       },
       {
-        "domain": "mosaic.so",
-        "startedAt": "2026-08-05T18:59:49.168Z"
+        "domain": "rfef.es",
+        "startedAt": "2026-08-05T19:04:54.281Z"
       },
       {
-        "domain": "open.spotify.com",
-        "startedAt": "2026-08-05T18:59:49.173Z"
+        "domain": "servicenow.com",
+        "startedAt": "2026-08-05T19:04:59.495Z"
       },
       {
-        "domain": "www2.hm.com",
-        "startedAt": "2026-08-05T18:59:49.169Z"
+        "domain": "tortastudios.com",
+        "startedAt": "2026-08-05T19:04:54.279Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 126
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 6,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T18:59:58.890Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T19:04:58.205Z",
+    "message": "Generation failed for s6foundry.com with exit 1."
+  }
 }
