@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T02:15:45.426Z",
-  "heartbeatAt": "2026-08-05T02:15:45.716Z",
+  "heartbeatAt": "2026-08-05T02:20:55.682Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "pop.site",
-        "startedAt": "2026-08-05T02:15:45.648Z"
+        "domain": "epsteinexposed.com",
+        "startedAt": "2026-08-05T02:20:50.413Z"
       },
       {
-        "domain": "pressgazette.co.uk",
-        "startedAt": "2026-08-05T02:15:45.641Z"
+        "domain": "etched.com",
+        "startedAt": "2026-08-05T02:20:50.417Z"
       },
       {
-        "domain": "primeintellect.ai",
-        "startedAt": "2026-08-05T02:15:45.651Z"
+        "domain": "evefrontier.com",
+        "startedAt": "2026-08-05T02:20:55.619Z"
       },
       {
-        "domain": "pulsemcp.com",
-        "startedAt": "2026-08-05T02:15:45.650Z"
+        "domain": "every.to",
+        "startedAt": "2026-08-05T02:20:50.418Z"
       },
       {
-        "domain": "quiver.ai",
-        "startedAt": "2026-08-05T02:15:45.649Z"
+        "domain": "evilmartians.com",
+        "startedAt": "2026-08-05T02:20:50.417Z"
       },
       {
-        "domain": "rbc.ru",
-        "startedAt": "2026-08-05T02:15:45.650Z"
+        "domain": "tinywins.com",
+        "startedAt": "2026-08-05T02:20:45.250Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 142
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 862,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 3,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T02:15:51.880Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T02:20:53.578Z",
+    "message": "Generation failed for era.app with exit 1."
+  }
 }
