@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T18:20:23.462Z",
-  "heartbeatAt": "2026-08-05T18:20:24.024Z",
+  "heartbeatAt": "2026-08-05T18:25:34.550Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "natoma.run",
-        "startedAt": "2026-08-05T18:20:23.835Z"
+        "domain": "rollups.com",
+        "startedAt": "2026-08-05T18:25:34.438Z"
       },
       {
-        "domain": "nicelydone.club",
-        "startedAt": "2026-08-05T18:20:23.838Z"
+        "domain": "runwayml.com",
+        "startedAt": "2026-08-05T18:25:24.047Z"
       },
       {
-        "domain": "odylicmedia.com",
-        "startedAt": "2026-08-05T18:20:23.837Z"
+        "domain": "scira.ai",
+        "startedAt": "2026-08-05T18:25:29.241Z"
       },
       {
-        "domain": "offmenu.design",
-        "startedAt": "2026-08-05T18:20:23.840Z"
+        "domain": "selkie.design",
+        "startedAt": "2026-08-05T18:25:29.240Z"
       },
       {
-        "domain": "opencode.ai",
-        "startedAt": "2026-08-05T18:20:23.844Z"
+        "domain": "supply.family",
+        "startedAt": "2026-08-05T18:25:29.241Z"
       },
       {
-        "domain": "paperclip.ing",
-        "startedAt": "2026-08-05T18:20:23.819Z"
+        "domain": "zcode.z.ai",
+        "startedAt": "2026-08-05T18:25:34.450Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 113
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 890,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T18:20:32.013Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T18:25:30.246Z",
+    "message": "Generation failed for dev.ochuko.space with exit 1."
+  }
 }
