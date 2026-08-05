@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T01:55:21.195Z",
-  "heartbeatAt": "2026-08-05T01:55:21.506Z",
+  "heartbeatAt": "2026-08-05T02:00:31.167Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "hellotalk.com",
-        "startedAt": "2026-08-05T01:55:21.425Z"
+        "domain": "departuremono.com",
+        "startedAt": "2026-08-05T02:00:20.725Z"
       },
       {
-        "domain": "henry.codes",
-        "startedAt": "2026-08-05T01:55:21.421Z"
+        "domain": "observablehq.com",
+        "startedAt": "2026-08-05T02:00:20.726Z"
       },
       {
-        "domain": "hoopladonuts.ca",
-        "startedAt": "2026-08-05T01:55:21.423Z"
+        "domain": "octolane.com",
+        "startedAt": "2026-08-05T02:00:25.838Z"
       },
       {
-        "domain": "windscribe.com",
-        "startedAt": "2026-08-05T01:55:21.424Z"
+        "domain": "offscript.sh",
+        "startedAt": "2026-08-05T02:00:25.838Z"
       },
       {
-        "domain": "windsurf.com",
-        "startedAt": "2026-08-05T01:55:21.422Z"
+        "domain": "openship.org",
+        "startedAt": "2026-08-05T02:00:25.837Z"
       },
       {
-        "domain": "wip.co",
-        "startedAt": "2026-08-05T01:55:21.425Z"
+        "domain": "openweb.com",
+        "startedAt": "2026-08-05T02:00:31.086Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 136
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 866,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T01:55:27.517Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T02:00:29.978Z",
+    "message": "Generation failed for openvpn.net with exit 1."
+  }
 }
