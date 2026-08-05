@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T20:14:31.673Z",
-  "heartbeatAt": "2026-08-05T20:14:32.171Z",
+  "heartbeatAt": "2026-08-05T20:19:44.405Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "cisco.com",
-        "startedAt": "2026-08-05T20:14:32.032Z"
+        "domain": "audio.com",
+        "startedAt": "2026-08-05T20:19:38.940Z"
       },
       {
-        "domain": "cognition.ai",
-        "startedAt": "2026-08-05T20:14:32.033Z"
+        "domain": "gleam.run",
+        "startedAt": "2026-08-05T20:19:44.210Z"
       },
       {
-        "domain": "crescenzi.co",
-        "startedAt": "2026-08-05T20:14:32.031Z"
+        "domain": "helloaxel.com",
+        "startedAt": "2026-08-05T20:19:38.940Z"
       },
       {
-        "domain": "desktopneo.com",
-        "startedAt": "2026-08-05T20:14:32.034Z"
+        "domain": "jamm.co",
+        "startedAt": "2026-08-05T20:19:38.939Z"
       },
       {
-        "domain": "dmitrybrant.com",
-        "startedAt": "2026-08-05T20:14:32.026Z"
+        "domain": "voiceos.com",
+        "startedAt": "2026-08-05T20:19:38.938Z"
       },
       {
-        "domain": "typotheque.com",
-        "startedAt": "2026-08-05T20:14:32.029Z"
+        "domain": "whop.com",
+        "startedAt": "2026-08-05T20:19:44.203Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 124
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 879,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T20:14:41.026Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T20:19:41.513Z",
+    "message": "Generation failed for graphite.com with exit 1."
+  }
 }
