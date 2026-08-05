@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T01:55:02.476Z",
+  "generatedAt": "2026-08-05T01:55:23.369Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1002,
     "needs_reprocessing": 22,
-    "drafting": 2,
+    "drafting": 3,
     "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T01:55:00.334Z",
-    "heartbeatAt": "2026-08-05T01:55:00.633Z",
+    "startedAt": "2026-08-05T01:55:21.195Z",
+    "heartbeatAt": "2026-08-05T01:55:21.506Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "happy.bg",
-          "startedAt": "2026-08-05T01:55:00.566Z"
+          "domain": "hellotalk.com",
+          "startedAt": "2026-08-05T01:55:21.425Z"
         },
         {
-          "domain": "hash.dev",
-          "startedAt": "2026-08-05T01:55:00.565Z"
+          "domain": "henry.codes",
+          "startedAt": "2026-08-05T01:55:21.421Z"
         },
         {
-          "domain": "haupcar.com",
-          "startedAt": "2026-08-05T01:55:00.565Z"
+          "domain": "hoopladonuts.ca",
+          "startedAt": "2026-08-05T01:55:21.423Z"
         },
         {
-          "domain": "helin.design",
-          "startedAt": "2026-08-05T01:55:00.563Z"
+          "domain": "windscribe.com",
+          "startedAt": "2026-08-05T01:55:21.424Z"
         },
         {
-          "domain": "helloaxel.com",
-          "startedAt": "2026-08-05T01:55:00.568Z"
+          "domain": "windsurf.com",
+          "startedAt": "2026-08-05T01:55:21.422Z"
         },
         {
-          "domain": "heroui.com",
-          "startedAt": "2026-08-05T01:55:00.567Z"
+          "domain": "wip.co",
+          "startedAt": "2026-08-05T01:55:21.425Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1003,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 1002,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -9206,9 +9206,9 @@
     },
     {
       "domain": "happy.bg",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.778Z",
+      "updatedAt": "2026-08-05T01:55:13.031Z",
       "blocker": null,
       "publication": {
         "key": "happy.bg-design",
@@ -9258,9 +9258,9 @@
     },
     {
       "domain": "hash.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.861Z",
+      "updatedAt": "2026-08-05T01:55:11.095Z",
       "blocker": null,
       "publication": {
         "key": "hash.dev-design",
@@ -9297,9 +9297,9 @@
     },
     {
       "domain": "haupcar.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.796Z",
+      "updatedAt": "2026-08-05T01:55:11.031Z",
       "blocker": null,
       "publication": {
         "key": "haupcar.com-design",
@@ -9362,9 +9362,9 @@
     },
     {
       "domain": "helin.design",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.778Z",
+      "updatedAt": "2026-08-05T01:55:10.966Z",
       "blocker": null,
       "publication": {
         "key": "helin.design-design",
@@ -9388,9 +9388,9 @@
     },
     {
       "domain": "helloaxel.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.834Z",
+      "updatedAt": "2026-08-05T01:55:07.815Z",
       "blocker": null,
       "publication": {
         "key": "helloaxel.com-design",
@@ -9401,9 +9401,9 @@
     },
     {
       "domain": "hellotalk.com",
-      "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-05T00:54:08.235Z",
+      "state": "preparing",
+      "attempt": 7,
+      "updatedAt": "2026-08-05T01:55:21.708Z",
       "blocker": null,
       "publication": {
         "key": "hellotalk.com-design",
@@ -9466,9 +9466,9 @@
     },
     {
       "domain": "henry.codes",
-      "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-05T00:53:58.876Z",
+      "state": "preparing",
+      "attempt": 7,
+      "updatedAt": "2026-08-05T01:55:21.620Z",
       "blocker": null,
       "publication": {
         "key": "henry.codes-design",
@@ -9531,9 +9531,9 @@
     },
     {
       "domain": "heroui.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 7,
-      "updatedAt": "2026-08-05T01:55:00.834Z",
+      "updatedAt": "2026-08-05T01:55:11.704Z",
       "blocker": null,
       "publication": {
         "key": "heroui.com-design",
@@ -9596,9 +9596,9 @@
     },
     {
       "domain": "higherorderco.com",
-      "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-05T00:53:58.016Z",
+      "state": "drafting",
+      "attempt": 7,
+      "updatedAt": "2026-08-05T01:55:15.014Z",
       "blocker": null,
       "publication": {
         "key": "higherorderco.com-design",
@@ -9674,9 +9674,9 @@
     },
     {
       "domain": "hoopladonuts.ca",
-      "state": "failed",
-      "attempt": 6,
-      "updatedAt": "2026-08-05T00:54:02.965Z",
+      "state": "preparing",
+      "attempt": 7,
+      "updatedAt": "2026-08-05T01:55:21.613Z",
       "blocker": null,
       "publication": {
         "key": "hoopladonuts.ca-design",
@@ -21868,9 +21868,9 @@
     },
     {
       "domain": "windscribe.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-05T00:54:07.011Z",
+      "state": "preparing",
+      "attempt": 6,
+      "updatedAt": "2026-08-05T01:55:21.612Z",
       "blocker": null,
       "publication": {
         "key": "windscribe.com-design",
@@ -21881,9 +21881,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-05T00:54:01.231Z",
+      "state": "preparing",
+      "attempt": 6,
+      "updatedAt": "2026-08-05T01:55:21.613Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
@@ -21894,9 +21894,9 @@
     },
     {
       "domain": "wip.co",
-      "state": "failed",
-      "attempt": 5,
-      "updatedAt": "2026-08-05T00:54:07.969Z",
+      "state": "preparing",
+      "attempt": 6,
+      "updatedAt": "2026-08-05T01:55:21.695Z",
       "blocker": null,
       "publication": {
         "key": "wip.co-design",
