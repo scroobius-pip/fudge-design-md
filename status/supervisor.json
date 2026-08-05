@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T20:26:17.238Z",
-  "heartbeatAt": "2026-08-05T20:26:17.730Z",
+  "heartbeatAt": "2026-08-05T20:31:29.379Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "antler.co",
-        "startedAt": "2026-08-05T20:26:17.560Z"
+        "domain": "regeneratio.eu",
+        "startedAt": "2026-08-05T20:31:18.820Z"
       },
       {
-        "domain": "jan.ai",
-        "startedAt": "2026-08-05T20:26:17.562Z"
+        "domain": "sanity.io",
+        "startedAt": "2026-08-05T20:31:18.826Z"
       },
       {
-        "domain": "modash.io",
-        "startedAt": "2026-08-05T20:26:17.558Z"
+        "domain": "superhuman.com",
+        "startedAt": "2026-08-05T20:31:29.236Z"
       },
       {
-        "domain": "openweb.com",
-        "startedAt": "2026-08-05T20:26:17.561Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-05T20:31:29.235Z"
       },
       {
-        "domain": "oracle.com",
-        "startedAt": "2026-08-05T20:26:17.564Z"
+        "domain": "thebutterinbetween.com",
+        "startedAt": "2026-08-05T20:31:24.041Z"
       },
       {
-        "domain": "ycombinator.com",
-        "startedAt": "2026-08-05T20:26:17.563Z"
+        "domain": "thefinch.design",
+        "startedAt": "2026-08-05T20:31:29.237Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 116
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 887,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T20:26:25.328Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T20:31:27.120Z",
+    "message": "Generation failed for salesforce.com with exit 1."
+  }
 }
