@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T14:09:34.191Z",
-  "heartbeatAt": "2026-08-05T14:09:34.614Z",
+  "heartbeatAt": "2026-08-05T14:14:48.143Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "deepwiki.com",
-        "startedAt": "2026-08-05T14:09:34.499Z"
+        "domain": "pop.site",
+        "startedAt": "2026-08-05T14:14:22.041Z"
       },
       {
-        "domain": "natoma.run",
-        "startedAt": "2026-08-05T14:09:34.494Z"
+        "domain": "primeintellect.ai",
+        "startedAt": "2026-08-05T14:14:11.559Z"
       },
       {
-        "domain": "netflix.com",
-        "startedAt": "2026-08-05T14:09:34.498Z"
+        "domain": "range.com",
+        "startedAt": "2026-08-05T14:14:22.040Z"
       },
       {
-        "domain": "of.domains",
-        "startedAt": "2026-08-05T14:09:34.497Z"
+        "domain": "raycast.com",
+        "startedAt": "2026-08-05T14:14:11.556Z"
       },
       {
-        "domain": "ollama.com",
-        "startedAt": "2026-08-05T14:09:34.496Z"
+        "domain": "rive.app",
+        "startedAt": "2026-08-05T14:14:27.237Z"
       },
       {
-        "domain": "p.cv",
-        "startedAt": "2026-08-05T14:09:34.493Z"
+        "domain": "sarah.dev",
+        "startedAt": "2026-08-05T14:14:27.236Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 83
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 918,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T14:09:43.531Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T14:14:23.035Z",
+    "message": "Generation failed for plutio.com with exit 1."
+  }
 }
