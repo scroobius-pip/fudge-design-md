@@ -2,37 +2,33 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T02:49:02.310Z",
-  "heartbeatAt": "2026-08-05T02:49:02.739Z",
+  "heartbeatAt": "2026-08-05T02:54:13.514Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "arcee.ai",
-        "startedAt": "2026-08-05T02:49:02.579Z"
+        "domain": "drinkag1.com",
+        "startedAt": "2026-08-05T02:54:13.445Z"
       },
       {
-        "domain": "paper.design",
-        "startedAt": "2026-08-05T02:49:02.575Z"
+        "domain": "drkst.framer.website",
+        "startedAt": "2026-08-05T02:54:08.176Z"
       },
       {
-        "domain": "paved.com",
-        "startedAt": "2026-08-05T02:49:02.585Z"
+        "domain": "duties.xyz",
+        "startedAt": "2026-08-05T02:54:13.438Z"
       },
       {
-        "domain": "pay.google.com",
-        "startedAt": "2026-08-05T02:49:02.578Z"
+        "domain": "tella.com",
+        "startedAt": "2026-08-05T02:54:13.441Z"
       },
       {
-        "domain": "pebblebed.com",
-        "startedAt": "2026-08-05T02:49:02.580Z"
-      },
-      {
-        "domain": "pingo.ai",
-        "startedAt": "2026-08-05T02:49:02.582Z"
+        "domain": "thehog.ai",
+        "startedAt": "2026-08-05T02:54:13.440Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 149
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +37,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 854,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T02:49:09.017Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T02:54:13.469Z",
+    "message": "Generation failed for temporal.io with exit 1."
+  }
 }
