@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T22:02:07.006Z",
+  "generatedAt": "2026-08-05T22:02:43.828Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1002,
+    "failed": 1001,
     "needs_reprocessing": 22,
-    "preparing": 6,
-    "drafting": 3
+    "drafting": 4,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T22:02:04.727Z",
-    "heartbeatAt": "2026-08-05T22:02:05.176Z",
+    "startedAt": "2026-08-05T22:02:41.532Z",
+    "heartbeatAt": "2026-08-05T22:02:42.006Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "belfasttelegraph.co.uk",
-          "startedAt": "2026-08-05T22:02:05.021Z"
+          "domain": "lowercase.club",
+          "startedAt": "2026-08-05T22:02:41.835Z"
         },
         {
-          "domain": "dfinity.org",
-          "startedAt": "2026-08-05T22:02:05.022Z"
+          "domain": "mi.com",
+          "startedAt": "2026-08-05T22:02:41.840Z"
         },
         {
-          "domain": "marimo.io",
-          "startedAt": "2026-08-05T22:02:05.022Z"
+          "domain": "noor.to",
+          "startedAt": "2026-08-05T22:02:41.837Z"
         },
         {
-          "domain": "mosaic.so",
-          "startedAt": "2026-08-05T22:02:05.024Z"
+          "domain": "nuformtype.com",
+          "startedAt": "2026-08-05T22:02:41.838Z"
         },
         {
-          "domain": "open.spotify.com",
-          "startedAt": "2026-08-05T22:02:05.020Z"
+          "domain": "oldcitymailroom.com",
+          "startedAt": "2026-08-05T22:02:41.836Z"
         },
         {
-          "domain": "x.com",
-          "startedAt": "2026-08-05T22:02:05.023Z"
+          "domain": "piccalil.li",
+          "startedAt": "2026-08-05T22:02:41.839Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1008,
-      "availableGeneration": 1002,
+      "eligibleGeneration": 1007,
+      "availableGeneration": 1001,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -2992,9 +2992,9 @@
     },
     {
       "domain": "belfasttelegraph.co.uk",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:02:05.301Z",
+      "updatedAt": "2026-08-05T22:02:16.583Z",
       "blocker": null,
       "publication": {
         "key": "belfasttelegraph.co.uk-design",
@@ -6073,9 +6073,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:02:05.249Z",
+      "updatedAt": "2026-08-05T22:02:15.370Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -11443,8 +11443,8 @@
     {
       "domain": "landonorris.com",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:22.100Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:31.250Z",
       "blocker": null,
       "publication": {
         "key": "landonorris.com-design",
@@ -11599,8 +11599,8 @@
     {
       "domain": "lemfi.com",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:31.641Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:35.789Z",
       "blocker": null,
       "publication": {
         "key": "lemfi.com-design",
@@ -11937,8 +11937,8 @@
     {
       "domain": "liverpoolfc.com",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:29.473Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:34.413Z",
       "blocker": null,
       "publication": {
         "key": "liverpoolfc.com-design",
@@ -12196,9 +12196,9 @@
     },
     {
       "domain": "lowercase.club",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:35.670Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:42.089Z",
       "blocker": null,
       "publication": {
         "key": "lowercase.club-design",
@@ -12508,9 +12508,9 @@
     },
     {
       "domain": "marimo.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:02:05.253Z",
+      "updatedAt": "2026-08-05T22:02:19.523Z",
       "blocker": null,
       "publication": {
         "key": "marimo.io-design",
@@ -12613,8 +12613,8 @@
     {
       "domain": "maximeheckel.com",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:20.370Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:28.027Z",
       "blocker": null,
       "publication": {
         "key": "maximeheckel.com-design",
@@ -12859,9 +12859,9 @@
     },
     {
       "domain": "mi.com",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:54.094Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:42.089Z",
       "blocker": null,
       "publication": {
         "key": "mi.com-design",
@@ -13496,9 +13496,9 @@
     },
     {
       "domain": "mosaic.so",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:02:05.302Z",
+      "updatedAt": "2026-08-05T22:02:16.501Z",
       "blocker": null,
       "publication": {
         "key": "mosaic.so-design",
@@ -13639,9 +13639,9 @@
     },
     {
       "domain": "myanimelist.net",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:35.594Z",
+      "state": "drafting",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:36.884Z",
       "blocker": null,
       "publication": {
         "key": "myanimelist.net-design",
@@ -13926,8 +13926,8 @@
     {
       "domain": "newkino.studio",
       "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:24.753Z",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:31.557Z",
       "blocker": null,
       "publication": {
         "key": "newkino.studio-design",
@@ -14133,9 +14133,9 @@
     },
     {
       "domain": "noor.to",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:51.935Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:42.078Z",
       "blocker": null,
       "publication": {
         "key": "noor.to-design",
@@ -14341,9 +14341,9 @@
     },
     {
       "domain": "nuformtype.com",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:52.772Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:42.091Z",
       "blocker": null,
       "publication": {
         "key": "nuformtype.com-design",
@@ -14588,9 +14588,9 @@
     },
     {
       "domain": "oldcitymailroom.com",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:13:51.686Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:02:42.155Z",
       "blocker": null,
       "publication": {
         "key": "oldcitymailroom.com-design",
@@ -14809,9 +14809,9 @@
     },
     {
       "domain": "open.spotify.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:02:05.268Z",
+      "updatedAt": "2026-08-05T22:02:15.055Z",
       "blocker": null,
       "publication": {
         "key": "open.spotify.com-design",
@@ -15810,9 +15810,9 @@
     },
     {
       "domain": "piccalil.li",
-      "state": "failed",
-      "attempt": 30,
-      "updatedAt": "2026-08-05T21:13:53.975Z",
+      "state": "preparing",
+      "attempt": 31,
+      "updatedAt": "2026-08-05T22:02:42.104Z",
       "blocker": null,
       "publication": {
         "key": "piccalil.li-design",
@@ -22285,8 +22285,8 @@
     {
       "domain": "www2.hm.com",
       "state": "failed",
-      "attempt": 30,
-      "updatedAt": "2026-08-05T21:13:34.145Z",
+      "attempt": 31,
+      "updatedAt": "2026-08-05T22:02:36.420Z",
       "blocker": null,
       "publication": {
         "key": "www2.hm.com-design",
@@ -22323,9 +22323,9 @@
     },
     {
       "domain": "x.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 31,
-      "updatedAt": "2026-08-05T22:02:05.302Z",
+      "updatedAt": "2026-08-05T22:02:20.654Z",
       "blocker": null,
       "publication": {
         "key": "x.com-design",
