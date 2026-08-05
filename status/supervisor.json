@@ -2,37 +2,12 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-04T23:41:18.034Z",
-  "heartbeatAt": "2026-08-05T00:17:33.675Z",
+  "heartbeatAt": "2026-08-05T00:22:41.676Z",
   "generation": {
     "concurrency": 6,
-    "active": [
-      {
-        "domain": "spectrum.ieee.org",
-        "startedAt": "2026-08-05T00:17:23.206Z"
-      },
-      {
-        "domain": "squareup.com",
-        "startedAt": "2026-08-05T00:17:23.226Z"
-      },
-      {
-        "domain": "stitch.withgoogle.com",
-        "startedAt": "2026-08-05T00:17:33.628Z"
-      },
-      {
-        "domain": "stock.adobe.com",
-        "startedAt": "2026-08-05T00:17:23.213Z"
-      },
-      {
-        "domain": "subq.ai",
-        "startedAt": "2026-08-05T00:17:33.628Z"
-      },
-      {
-        "domain": "sunflower.me",
-        "startedAt": "2026-08-05T00:17:33.629Z"
-      }
-    ],
+    "active": [],
     "completedThisRun": 0,
-    "failedThisRun": 994
+    "failedThisRun": 1011
   },
   "publication": {
     "concurrency": 1,
@@ -41,17 +16,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 11,
+    "eligibleGeneration": 1011,
+    "availableGeneration": 0,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-05T00:12:31.288Z"
+    "lastSyncedAt": "2026-08-05T00:17:40.317Z"
   },
   "lastError": {
-    "at": "2026-08-05T00:17:30.242Z",
-    "message": "Generation failed for standards.site with exit 1."
+    "at": "2026-08-05T00:18:10.473Z",
+    "message": "Generation failed for zed.dev with exit 1."
   }
 }

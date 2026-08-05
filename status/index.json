@@ -1,51 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T00:17:35.327Z",
+  "generatedAt": "2026-08-05T00:22:43.250Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
-    "needs_reprocessing": 22,
-    "drafting": 2,
-    "preparing": 3,
-    "unpublished": 3
+    "failed": 1011,
+    "needs_reprocessing": 22
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-04T23:41:18.034Z",
-    "heartbeatAt": "2026-08-05T00:17:33.675Z",
+    "heartbeatAt": "2026-08-05T00:22:41.676Z",
     "generation": {
       "concurrency": 6,
-      "active": [
-        {
-          "domain": "spectrum.ieee.org",
-          "startedAt": "2026-08-05T00:17:23.206Z"
-        },
-        {
-          "domain": "squareup.com",
-          "startedAt": "2026-08-05T00:17:23.226Z"
-        },
-        {
-          "domain": "stitch.withgoogle.com",
-          "startedAt": "2026-08-05T00:17:33.628Z"
-        },
-        {
-          "domain": "stock.adobe.com",
-          "startedAt": "2026-08-05T00:17:23.213Z"
-        },
-        {
-          "domain": "subq.ai",
-          "startedAt": "2026-08-05T00:17:33.628Z"
-        },
-        {
-          "domain": "sunflower.me",
-          "startedAt": "2026-08-05T00:17:33.629Z"
-        }
-      ],
+      "active": [],
       "completedThisRun": 0,
-      "failedThisRun": 994
+      "failedThisRun": 1011
     },
     "publication": {
       "concurrency": 1,
@@ -54,18 +26,18 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1008,
-      "availableGeneration": 11,
+      "eligibleGeneration": 1011,
+      "availableGeneration": 0,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 2,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T00:12:31.288Z"
+      "lastSyncedAt": "2026-08-05T00:17:40.317Z"
     },
     "lastError": {
-      "at": "2026-08-05T00:17:30.242Z",
-      "message": "Generation failed for standards.site with exit 1."
+      "at": "2026-08-05T00:18:10.473Z",
+      "message": "Generation failed for zed.dev with exit 1."
     }
   },
   "domains": [
@@ -4999,8 +4971,8 @@
     {
       "domain": "cosmos.so",
       "state": "failed",
-      "attempt": 10,
-      "updatedAt": "2026-08-04T23:41:13.564Z",
+      "attempt": 11,
+      "updatedAt": "2026-08-05T00:17:53.556Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -18843,9 +18815,9 @@
     },
     {
       "domain": "squareup.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-05T00:17:29.559Z",
+      "updatedAt": "2026-08-05T00:17:38.108Z",
       "blocker": null,
       "publication": {
         "key": "squareup.com-design",
@@ -18935,8 +18907,8 @@
     {
       "domain": "stateof.mozilla.org",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:41:06.407Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:48.107Z",
       "blocker": null,
       "publication": {
         "key": "stateof.mozilla.org-design",
@@ -18948,8 +18920,8 @@
     {
       "domain": "stateofopensource.ai",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:41:07.884Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:53.581Z",
       "blocker": null,
       "publication": {
         "key": "stateofopensource.ai-design",
@@ -19025,9 +18997,9 @@
     },
     {
       "domain": "stitch.withgoogle.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-05T00:17:33.785Z",
+      "updatedAt": "2026-08-05T00:17:42.008Z",
       "blocker": null,
       "publication": {
         "key": "stitch.withgoogle.com-design",
@@ -19038,9 +19010,9 @@
     },
     {
       "domain": "stock.adobe.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-05T00:17:29.851Z",
+      "updatedAt": "2026-08-05T00:17:36.123Z",
       "blocker": null,
       "publication": {
         "key": "stock.adobe.com-design",
@@ -19117,8 +19089,8 @@
     {
       "domain": "stripe.dev",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:41:06.668Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:51.304Z",
       "blocker": null,
       "publication": {
         "key": "stripe.dev-design",
@@ -19182,8 +19154,8 @@
     {
       "domain": "styles.refero.design",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:41:07.814Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:51.259Z",
       "blocker": null,
       "publication": {
         "key": "styles.refero.design-design",
@@ -19195,8 +19167,8 @@
     {
       "domain": "subframe.com",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-05T00:07:10.444Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:18:06.153Z",
       "blocker": null,
       "publication": {
         "key": "subframe.com-design",
@@ -19220,9 +19192,9 @@
     },
     {
       "domain": "subq.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-05T00:17:33.803Z",
+      "updatedAt": "2026-08-05T00:17:41.488Z",
       "blocker": null,
       "publication": {
         "key": "subq.ai-design",
@@ -19272,9 +19244,9 @@
     },
     {
       "domain": "sunflower.me",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 5,
-      "updatedAt": "2026-08-05T00:17:33.789Z",
+      "updatedAt": "2026-08-05T00:17:43.667Z",
       "blocker": null,
       "publication": {
         "key": "sunflower.me-design",
@@ -19429,8 +19401,8 @@
     {
       "domain": "supply.family",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:41:13.347Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:51.826Z",
       "blocker": null,
       "publication": {
         "key": "supply.family-design",
@@ -20469,8 +20441,8 @@
     {
       "domain": "trigger.dev",
       "state": "failed",
-      "attempt": 4,
-      "updatedAt": "2026-08-04T23:50:36.618Z",
+      "attempt": 5,
+      "updatedAt": "2026-08-05T00:17:59.839Z",
       "blocker": null,
       "publication": {
         "key": "trigger.dev-design",
@@ -22431,9 +22403,9 @@
     },
     {
       "domain": "yuskavage.com",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-05T00:18:07.259Z",
       "blocker": null,
       "publication": {
         "key": "yuskavage.com-design",
@@ -22496,9 +22468,9 @@
     },
     {
       "domain": "zcode.z.ai",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-05T00:18:01.910Z",
       "blocker": null,
       "publication": {
         "key": "zcode.z.ai-design",
@@ -22509,9 +22481,9 @@
     },
     {
       "domain": "zed.dev",
-      "state": "unpublished",
-      "attempt": 0,
-      "updatedAt": "2026-08-03T19:12:36.929Z",
+      "state": "failed",
+      "attempt": 1,
+      "updatedAt": "2026-08-05T00:18:10.411Z",
       "blocker": null,
       "publication": {
         "key": "zed.dev-design",
