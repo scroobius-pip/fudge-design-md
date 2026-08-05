@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T09:18:10.770Z",
-  "heartbeatAt": "2026-08-05T09:18:11.227Z",
+  "heartbeatAt": "2026-08-05T09:23:19.653Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "brave.com",
-        "startedAt": "2026-08-05T09:18:11.054Z"
+        "domain": "arcee.ai",
+        "startedAt": "2026-08-05T09:23:14.318Z"
       },
       {
-        "domain": "kraa.io",
-        "startedAt": "2026-08-05T09:18:11.059Z"
+        "domain": "openwebui.com",
+        "startedAt": "2026-08-05T09:23:09.062Z"
       },
       {
-        "domain": "lesswrong.com",
-        "startedAt": "2026-08-05T09:18:11.058Z"
+        "domain": "ordinarypeople.info",
+        "startedAt": "2026-08-05T09:23:14.328Z"
       },
       {
-        "domain": "lightfield.app",
-        "startedAt": "2026-08-05T09:18:11.058Z"
+        "domain": "oxylabs.io",
+        "startedAt": "2026-08-05T09:23:14.327Z"
       },
       {
-        "domain": "lofree.co",
-        "startedAt": "2026-08-05T09:18:11.060Z"
+        "domain": "paths.grasp.study",
+        "startedAt": "2026-08-05T09:23:14.327Z"
       },
       {
-        "domain": "lumalabs.ai",
-        "startedAt": "2026-08-05T09:18:11.061Z"
+        "domain": "phia.app",
+        "startedAt": "2026-08-05T09:23:19.543Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 132
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 871,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T09:18:18.781Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T09:23:17.542Z",
+    "message": "Generation failed for paradigmai.com with exit 1."
+  }
 }
