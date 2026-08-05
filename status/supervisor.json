@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T12:41:13.241Z",
-  "heartbeatAt": "2026-08-05T12:41:13.792Z",
+  "heartbeatAt": "2026-08-05T12:46:21.436Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "osmo.supply",
-        "startedAt": "2026-08-05T12:41:13.589Z"
+        "domain": "regeneratio.eu",
+        "startedAt": "2026-08-05T12:45:39.882Z"
       },
       {
-        "domain": "oxide.computer",
-        "startedAt": "2026-08-05T12:41:13.592Z"
+        "domain": "rfef.es",
+        "startedAt": "2026-08-05T12:45:45.086Z"
       },
       {
-        "domain": "pitch.com",
-        "startedAt": "2026-08-05T12:41:13.585Z"
+        "domain": "samsung.com",
+        "startedAt": "2026-08-05T12:46:10.998Z"
       },
       {
-        "domain": "plasma.to",
-        "startedAt": "2026-08-05T12:41:13.588Z"
+        "domain": "sandbox.cloudflare.com",
+        "startedAt": "2026-08-05T12:45:45.090Z"
       },
       {
-        "domain": "posthog.com",
-        "startedAt": "2026-08-05T12:41:13.590Z"
+        "domain": "stardrift.ai",
+        "startedAt": "2026-08-05T12:45:55.483Z"
       },
       {
-        "domain": "profitpath.com",
-        "startedAt": "2026-08-05T12:41:13.595Z"
+        "domain": "technicshistory.com",
+        "startedAt": "2026-08-05T12:46:05.820Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 51
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 951,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T12:41:20.608Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T12:46:10.049Z",
+    "message": "Generation failed for revenuecat.com with exit 1."
+  }
 }
