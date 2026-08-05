@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T22:43:16.564Z",
-  "heartbeatAt": "2026-08-05T22:43:17.003Z",
+  "heartbeatAt": "2026-08-05T22:48:26.786Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "davidprotein.com",
-        "startedAt": "2026-08-05T22:43:16.865Z"
+        "domain": "fireshinegames.co.uk",
+        "startedAt": "2026-08-05T22:48:21.436Z"
       },
       {
-        "domain": "etsy.com",
-        "startedAt": "2026-08-05T22:43:16.866Z"
+        "domain": "html.to.design",
+        "startedAt": "2026-08-05T22:48:16.194Z"
       },
       {
-        "domain": "fabiensanglard.net",
-        "startedAt": "2026-08-05T22:43:16.866Z"
+        "domain": "hyperfoundation.org",
+        "startedAt": "2026-08-05T22:48:21.435Z"
       },
       {
-        "domain": "urbit.org",
-        "startedAt": "2026-08-05T22:43:16.867Z"
+        "domain": "kimaventures.com",
+        "startedAt": "2026-08-05T22:48:21.436Z"
       },
       {
-        "domain": "uselogly.app",
-        "startedAt": "2026-08-05T22:43:16.868Z"
+        "domain": "leaflet.pub",
+        "startedAt": "2026-08-05T22:48:21.438Z"
       },
       {
-        "domain": "usgraphics.com",
-        "startedAt": "2026-08-05T22:43:16.864Z"
+        "domain": "warp.dev",
+        "startedAt": "2026-08-05T22:48:21.437Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 98
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 903,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T22:43:22.794Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T22:48:20.941Z",
+    "message": "Generation failed for henry.codes with exit 1."
+  }
 }
