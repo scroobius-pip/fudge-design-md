@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T09:24:01.117Z",
-  "heartbeatAt": "2026-08-05T09:24:01.560Z",
+  "heartbeatAt": "2026-08-05T09:29:09.791Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "paper.design",
-        "startedAt": "2026-08-05T09:24:01.405Z"
+        "domain": "discord.com",
+        "startedAt": "2026-08-05T09:29:09.495Z"
       },
       {
-        "domain": "pebblebed.com",
-        "startedAt": "2026-08-05T09:24:01.401Z"
+        "domain": "dosu.dev",
+        "startedAt": "2026-08-05T09:28:59.041Z"
       },
       {
-        "domain": "pentagram.com",
-        "startedAt": "2026-08-05T09:24:01.406Z"
+        "domain": "stateofopensource.ai",
+        "startedAt": "2026-08-05T09:28:59.042Z"
       },
       {
-        "domain": "photon.codes",
-        "startedAt": "2026-08-05T09:24:01.398Z"
+        "domain": "taito.ai",
+        "startedAt": "2026-08-05T09:28:59.045Z"
       },
       {
-        "domain": "playbit.app",
-        "startedAt": "2026-08-05T09:24:01.402Z"
+        "domain": "theatlantic.com",
+        "startedAt": "2026-08-05T09:29:09.512Z"
       },
       {
-        "domain": "postfa.st",
-        "startedAt": "2026-08-05T09:24:01.403Z"
+        "domain": "zed.dev",
+        "startedAt": "2026-08-05T09:28:59.044Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 127
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 875,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T09:24:08.861Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T09:29:08.309Z",
+    "message": "Generation failed for api.scira.ai with exit 1."
+  }
 }
