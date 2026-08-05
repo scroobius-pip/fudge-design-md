@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T02:28:46.714Z",
-  "heartbeatAt": "2026-08-05T02:28:47.080Z",
+  "heartbeatAt": "2026-08-05T02:33:57.454Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "firebase.studio",
-        "startedAt": "2026-08-05T02:28:46.934Z"
+        "domain": "marimo.io",
+        "startedAt": "2026-08-05T02:33:52.185Z"
       },
       {
-        "domain": "firefox.com",
-        "startedAt": "2026-08-05T02:28:46.937Z"
+        "domain": "maximeheckel.com",
+        "startedAt": "2026-08-05T02:33:57.366Z"
       },
       {
-        "domain": "fireriskalliance.com",
-        "startedAt": "2026-08-05T02:28:46.935Z"
+        "domain": "maxitype.com",
+        "startedAt": "2026-08-05T02:33:52.193Z"
       },
       {
-        "domain": "v0.app",
-        "startedAt": "2026-08-05T02:28:46.931Z"
+        "domain": "mint-lang.com",
+        "startedAt": "2026-08-05T02:33:57.364Z"
       },
       {
-        "domain": "vendors.paddle.com",
-        "startedAt": "2026-08-05T02:28:46.934Z"
+        "domain": "miraa.app",
+        "startedAt": "2026-08-05T02:33:57.365Z"
       },
       {
-        "domain": "vimeo.com",
-        "startedAt": "2026-08-05T02:28:46.936Z"
+        "domain": "ycombinator.com",
+        "startedAt": "2026-08-05T02:33:41.888Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 155
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 850,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T02:28:53.437Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T02:33:55.446Z",
+    "message": "Generation failed for makerstations.io with exit 1."
+  }
 }
