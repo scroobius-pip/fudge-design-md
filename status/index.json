@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T06:12:58.260Z",
+  "generatedAt": "2026-08-05T06:13:45.003Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "preparing": 6,
-    "drafting": 1
+    "drafting": 2,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T06:12:56.049Z",
-    "heartbeatAt": "2026-08-05T06:12:56.404Z",
+    "startedAt": "2026-08-05T06:13:42.739Z",
+    "heartbeatAt": "2026-08-05T06:13:43.082Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "elevenlabs.io",
-          "startedAt": "2026-08-05T06:12:56.295Z"
+          "domain": "fable.co",
+          "startedAt": "2026-08-05T06:13:42.990Z"
         },
         {
-          "domain": "era.app",
-          "startedAt": "2026-08-05T06:12:56.300Z"
+          "domain": "fontsinuse.com",
+          "startedAt": "2026-08-05T06:13:42.989Z"
         },
         {
-          "domain": "evefrontier.com",
-          "startedAt": "2026-08-05T06:12:56.298Z"
+          "domain": "forbes.com",
+          "startedAt": "2026-08-05T06:13:42.990Z"
         },
         {
-          "domain": "figr.design",
-          "startedAt": "2026-08-05T06:12:56.297Z"
+          "domain": "frankchimero.com",
+          "startedAt": "2026-08-05T06:13:42.992Z"
         },
         {
-          "domain": "fiverr.com",
-          "startedAt": "2026-08-05T06:12:56.300Z"
+          "domain": "tokens.studio",
+          "startedAt": "2026-08-05T06:13:42.987Z"
         },
         {
-          "domain": "tinywins.com",
-          "startedAt": "2026-08-05T06:12:56.299Z"
+          "domain": "wolfram.com",
+          "startedAt": "2026-08-05T06:13:42.991Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1010,
-      "availableGeneration": 1004,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -1979,8 +1979,8 @@
     {
       "domain": "app.reve.com",
       "state": "failed",
-      "attempt": 19,
-      "updatedAt": "2026-08-05T05:39:42.247Z",
+      "attempt": 20,
+      "updatedAt": "2026-08-05T06:13:24.145Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -6853,9 +6853,9 @@
     },
     {
       "domain": "elevenlabs.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 14,
-      "updatedAt": "2026-08-05T06:12:56.535Z",
+      "updatedAt": "2026-08-05T06:13:05.906Z",
       "blocker": null,
       "publication": {
         "key": "elevenlabs.io-design",
@@ -7075,8 +7075,8 @@
     {
       "domain": "epsteinexposed.com",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:31.285Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:19.195Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -7087,9 +7087,9 @@
     },
     {
       "domain": "era.app",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 14,
-      "updatedAt": "2026-08-05T06:12:56.540Z",
+      "updatedAt": "2026-08-05T06:13:08.386Z",
       "blocker": null,
       "publication": {
         "key": "era.app-design",
@@ -7114,8 +7114,8 @@
     {
       "domain": "etched.com",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:45.399Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:27.023Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -7165,9 +7165,9 @@
     },
     {
       "domain": "evefrontier.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 14,
-      "updatedAt": "2026-08-05T06:12:56.541Z",
+      "updatedAt": "2026-08-05T06:13:05.961Z",
       "blocker": null,
       "publication": {
         "key": "evefrontier.com-design",
@@ -7192,8 +7192,8 @@
     {
       "domain": "everyday-practice.com",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:53.889Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:39.498Z",
       "blocker": null,
       "publication": {
         "key": "everyday-practice.com-design",
@@ -7270,8 +7270,8 @@
     {
       "domain": "explainers.blog",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:36.776Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:17.018Z",
       "blocker": null,
       "publication": {
         "key": "explainers.blog-design",
@@ -7347,9 +7347,9 @@
     },
     {
       "domain": "fable.co",
-      "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:40:08.939Z",
+      "state": "preparing",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:43.294Z",
       "blocker": null,
       "publication": {
         "key": "fable.co-design",
@@ -7374,8 +7374,8 @@
     {
       "domain": "factory.ai",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:50.662Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:30.686Z",
       "blocker": null,
       "publication": {
         "key": "factory.ai-design",
@@ -7413,8 +7413,8 @@
     {
       "domain": "familytype.co",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:57.828Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:39.698Z",
       "blocker": null,
       "publication": {
         "key": "familytype.co-design",
@@ -7426,8 +7426,8 @@
     {
       "domain": "fastino.ai",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:51.575Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:32.577Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
@@ -7490,9 +7490,9 @@
     },
     {
       "domain": "figma.com",
-      "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:58.727Z",
+      "state": "drafting",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:38.323Z",
       "blocker": null,
       "publication": {
         "key": "figma.com-design",
@@ -7503,9 +7503,9 @@
     },
     {
       "domain": "figr.design",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 14,
-      "updatedAt": "2026-08-05T06:12:56.540Z",
+      "updatedAt": "2026-08-05T06:13:06.366Z",
       "blocker": null,
       "publication": {
         "key": "figr.design-design",
@@ -7699,8 +7699,8 @@
     {
       "domain": "five-am.com",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:40.455Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:14.992Z",
       "blocker": null,
       "publication": {
         "key": "five-am.com-design",
@@ -7711,9 +7711,9 @@
     },
     {
       "domain": "fiverr.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 14,
-      "updatedAt": "2026-08-05T06:12:56.523Z",
+      "updatedAt": "2026-08-05T06:13:05.861Z",
       "blocker": null,
       "publication": {
         "key": "fiverr.com-design",
@@ -7816,8 +7816,8 @@
     {
       "domain": "flowgenie.pro",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:55.894Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:35.776Z",
       "blocker": null,
       "publication": {
         "key": "flowgenie.pro-design",
@@ -7997,9 +7997,9 @@
     },
     {
       "domain": "fontsinuse.com",
-      "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:40:05.531Z",
+      "state": "preparing",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:43.201Z",
       "blocker": null,
       "publication": {
         "key": "fontsinuse.com-design",
@@ -8024,8 +8024,8 @@
     {
       "domain": "fonttrio.xyz",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:36.712Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:14.467Z",
       "blocker": null,
       "publication": {
         "key": "fonttrio.xyz-design",
@@ -8037,8 +8037,8 @@
     {
       "domain": "footer.design",
       "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:39:45.558Z",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:25.630Z",
       "blocker": null,
       "publication": {
         "key": "footer.design-design",
@@ -8049,9 +8049,9 @@
     },
     {
       "domain": "forbes.com",
-      "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:40:06.536Z",
+      "state": "preparing",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:43.201Z",
       "blocker": null,
       "publication": {
         "key": "forbes.com-design",
@@ -8205,9 +8205,9 @@
     },
     {
       "domain": "frankchimero.com",
-      "state": "failed",
-      "attempt": 13,
-      "updatedAt": "2026-08-05T05:40:11.926Z",
+      "state": "preparing",
+      "attempt": 14,
+      "updatedAt": "2026-08-05T06:13:43.203Z",
       "blocker": null,
       "publication": {
         "key": "frankchimero.com-design",
@@ -20153,8 +20153,8 @@
     {
       "domain": "tinker.com",
       "state": "failed",
-      "attempt": 12,
-      "updatedAt": "2026-08-05T05:39:45.416Z",
+      "attempt": 13,
+      "updatedAt": "2026-08-05T06:13:28.767Z",
       "blocker": null,
       "publication": {
         "key": "tinker.com-design",
@@ -20191,9 +20191,9 @@
     },
     {
       "domain": "tinywins.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 13,
-      "updatedAt": "2026-08-05T06:12:56.541Z",
+      "updatedAt": "2026-08-05T06:13:08.751Z",
       "blocker": null,
       "publication": {
         "key": "tinywins.com-design",
@@ -20256,9 +20256,9 @@
     },
     {
       "domain": "tokens.studio",
-      "state": "failed",
-      "attempt": 12,
-      "updatedAt": "2026-08-05T05:40:00.119Z",
+      "state": "preparing",
+      "attempt": 13,
+      "updatedAt": "2026-08-05T06:13:43.248Z",
       "blocker": null,
       "publication": {
         "key": "tokens.studio-design",
@@ -22076,9 +22076,9 @@
     },
     {
       "domain": "wolfram.com",
-      "state": "failed",
-      "attempt": 11,
-      "updatedAt": "2026-08-05T05:40:10.703Z",
+      "state": "preparing",
+      "attempt": 12,
+      "updatedAt": "2026-08-05T06:13:43.200Z",
       "blocker": null,
       "publication": {
         "key": "wolfram.com-design",
