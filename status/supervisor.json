@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T16:31:24.450Z",
-  "heartbeatAt": "2026-08-05T16:31:24.938Z",
+  "heartbeatAt": "2026-08-05T16:36:33.671Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "every.to",
-        "startedAt": "2026-08-05T16:31:24.770Z"
+        "domain": "milanote.com",
+        "startedAt": "2026-08-05T16:36:33.568Z"
       },
       {
-        "domain": "llmrefs.com",
-        "startedAt": "2026-08-05T16:31:24.767Z"
+        "domain": "modedesigns.com",
+        "startedAt": "2026-08-05T16:36:33.569Z"
       },
       {
-        "domain": "lucumr.pocoo.org",
-        "startedAt": "2026-08-05T16:31:24.770Z"
+        "domain": "multi.app",
+        "startedAt": "2026-08-05T16:36:17.873Z"
       },
       {
-        "domain": "mangle.readthedocs.io",
-        "startedAt": "2026-08-05T16:31:24.768Z"
+        "domain": "new.email",
+        "startedAt": "2026-08-05T16:36:23.073Z"
       },
       {
-        "domain": "metalab.com",
-        "startedAt": "2026-08-05T16:31:24.764Z"
+        "domain": "ntathome.com",
+        "startedAt": "2026-08-05T16:36:17.876Z"
       },
       {
-        "domain": "mio.gg",
-        "startedAt": "2026-08-05T16:31:24.769Z"
+        "domain": "ollama.com",
+        "startedAt": "2026-08-05T16:36:33.570Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 81
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 923,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T16:31:32.215Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T16:36:32.874Z",
+    "message": "Generation failed for notion.so with exit 1."
+  }
 }
