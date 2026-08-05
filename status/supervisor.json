@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T17:51:28.432Z",
-  "heartbeatAt": "2026-08-05T17:51:29.482Z",
+  "heartbeatAt": "2026-08-05T17:56:40.031Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "arago.wawww.studio",
-        "startedAt": "2026-08-05T17:51:29.159Z"
+        "domain": "docs.swmansion.com",
+        "startedAt": "2026-08-05T17:56:39.887Z"
       },
       {
-        "domain": "attio.com",
-        "startedAt": "2026-08-05T17:51:29.169Z"
+        "domain": "fabiensanglard.net",
+        "startedAt": "2026-08-05T17:56:39.888Z"
       },
       {
-        "domain": "bookmarkify.io",
-        "startedAt": "2026-08-05T17:51:29.166Z"
+        "domain": "fluentwithparrot.com",
+        "startedAt": "2026-08-05T17:56:39.887Z"
       },
       {
-        "domain": "business.linkedin.com",
-        "startedAt": "2026-08-05T17:51:29.168Z"
+        "domain": "fontradar.com",
+        "startedAt": "2026-08-05T17:56:34.685Z"
       },
       {
-        "domain": "buymeacoffee.com",
-        "startedAt": "2026-08-05T17:51:29.165Z"
+        "domain": "foreknown.com",
+        "startedAt": "2026-08-05T17:56:39.885Z"
       },
       {
-        "domain": "cabbin.net",
-        "startedAt": "2026-08-05T17:51:29.169Z"
+        "domain": "uselogly.app",
+        "startedAt": "2026-08-05T17:56:34.686Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 116
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 886,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T17:51:38.566Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T17:56:38.051Z",
+    "message": "Generation failed for urbit.org with exit 1."
+  }
 }
