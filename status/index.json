@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T23:19:36.817Z",
+  "generatedAt": "2026-08-05T23:19:52.694Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1003,
     "needs_reprocessing": 22,
-    "preparing": 4,
-    "drafting": 4
+    "preparing": 6,
+    "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T23:14:24.807Z",
-    "heartbeatAt": "2026-08-05T23:19:35.033Z",
+    "startedAt": "2026-08-05T23:19:50.417Z",
+    "heartbeatAt": "2026-08-05T23:19:50.817Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "dany.works",
-          "startedAt": "2026-08-05T23:19:34.914Z"
+          "domain": "fastino.ai",
+          "startedAt": "2026-08-05T23:19:50.701Z"
         },
         {
-          "domain": "evefrontier.com",
-          "startedAt": "2026-08-05T23:19:34.912Z"
+          "domain": "forbes.com",
+          "startedAt": "2026-08-05T23:19:50.705Z"
         },
         {
-          "domain": "gemini.google.com",
-          "startedAt": "2026-08-05T23:19:29.710Z"
+          "domain": "shop.ledger.com",
+          "startedAt": "2026-08-05T23:19:50.704Z"
         },
         {
-          "domain": "higherorderco.com",
-          "startedAt": "2026-08-05T23:19:34.913Z"
+          "domain": "tambo.co",
+          "startedAt": "2026-08-05T23:19:50.703Z"
         },
         {
-          "domain": "osmo.supply",
-          "startedAt": "2026-08-05T23:19:29.711Z"
+          "domain": "theverge.com",
+          "startedAt": "2026-08-05T23:19:50.705Z"
         },
         {
-          "domain": "threads.com",
-          "startedAt": "2026-08-05T23:19:24.524Z"
+          "domain": "tokens.studio",
+          "startedAt": "2026-08-05T23:19:50.702Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 113
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 890,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T23:14:32.853Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-05T23:19:34.777Z",
-      "message": "Generation failed for fonttrio.xyz with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -5413,9 +5410,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 37,
-      "updatedAt": "2026-08-05T23:19:35.089Z",
+      "updatedAt": "2026-08-05T23:19:47.516Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -7168,9 +7165,9 @@
     },
     {
       "domain": "evefrontier.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 34,
-      "updatedAt": "2026-08-05T23:19:35.089Z",
+      "updatedAt": "2026-08-05T23:19:44.376Z",
       "blocker": null,
       "publication": {
         "key": "evefrontier.com-design",
@@ -7428,9 +7425,9 @@
     },
     {
       "domain": "fastino.ai",
-      "state": "failed",
-      "attempt": 33,
-      "updatedAt": "2026-08-05T22:31:58.141Z",
+      "state": "preparing",
+      "attempt": 34,
+      "updatedAt": "2026-08-05T23:19:50.947Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
@@ -8052,9 +8049,9 @@
     },
     {
       "domain": "forbes.com",
-      "state": "failed",
-      "attempt": 33,
-      "updatedAt": "2026-08-05T22:32:09.733Z",
+      "state": "preparing",
+      "attempt": 34,
+      "updatedAt": "2026-08-05T23:19:50.994Z",
       "blocker": null,
       "publication": {
         "key": "forbes.com-design",
@@ -8494,9 +8491,9 @@
     },
     {
       "domain": "gemini.google.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 34,
-      "updatedAt": "2026-08-05T23:19:32.275Z",
+      "updatedAt": "2026-08-05T23:19:40.033Z",
       "blocker": null,
       "publication": {
         "key": "gemini.google.com-design",
@@ -9353,8 +9350,8 @@
     {
       "domain": "helenazhang.com",
       "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:31:56.648Z",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T23:19:49.596Z",
       "blocker": null,
       "publication": {
         "key": "helenazhang.com-design",
@@ -9599,9 +9596,9 @@
     },
     {
       "domain": "higherorderco.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T23:19:35.089Z",
+      "updatedAt": "2026-08-05T23:19:44.232Z",
       "blocker": null,
       "publication": {
         "key": "higherorderco.com-design",
@@ -15124,9 +15121,9 @@
     },
     {
       "domain": "osmo.supply",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T23:19:29.874Z",
+      "updatedAt": "2026-08-05T23:19:43.335Z",
       "blocker": null,
       "publication": {
         "key": "osmo.supply-design",
@@ -18270,9 +18267,9 @@
     },
     {
       "domain": "shop.ledger.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:32:08.681Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T23:19:51.039Z",
       "blocker": null,
       "publication": {
         "key": "shop.ledger.com-design",
@@ -19622,9 +19619,9 @@
     },
     {
       "domain": "tambo.co",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:32:06.016Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T23:19:50.948Z",
       "blocker": null,
       "publication": {
         "key": "tambo.co-design",
@@ -20051,9 +20048,9 @@
     },
     {
       "domain": "theverge.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:32:10.486Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T23:19:51.001Z",
       "blocker": null,
       "publication": {
         "key": "theverge.com-design",
@@ -20129,9 +20126,9 @@
     },
     {
       "domain": "threads.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T23:19:32.623Z",
+      "updatedAt": "2026-08-05T23:19:39.728Z",
       "blocker": null,
       "publication": {
         "key": "threads.com-design",
@@ -20259,9 +20256,9 @@
     },
     {
       "domain": "tokens.studio",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T22:32:05.827Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T23:19:50.935Z",
       "blocker": null,
       "publication": {
         "key": "tokens.studio-design",
