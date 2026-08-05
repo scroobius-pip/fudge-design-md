@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T03:03:43.870Z",
-  "heartbeatAt": "2026-08-05T03:03:44.172Z",
+  "heartbeatAt": "2026-08-05T03:08:55.767Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fonts.ninja",
-        "startedAt": "2026-08-05T03:03:44.095Z"
+        "domain": "morphic.com",
+        "startedAt": "2026-08-05T03:08:45.200Z"
       },
       {
-        "domain": "frameplate.co",
-        "startedAt": "2026-08-05T03:03:44.095Z"
+        "domain": "nango.dev",
+        "startedAt": "2026-08-05T03:08:45.199Z"
       },
       {
-        "domain": "friend.com",
-        "startedAt": "2026-08-05T03:03:44.090Z"
+        "domain": "nocodeapi.com",
+        "startedAt": "2026-08-05T03:08:45.201Z"
       },
       {
-        "domain": "funky-whoever-082304.framer.app",
-        "startedAt": "2026-08-05T03:03:44.093Z"
+        "domain": "nodes.io",
+        "startedAt": "2026-08-05T03:08:45.202Z"
       },
       {
-        "domain": "gallery.any.coop",
-        "startedAt": "2026-08-05T03:03:44.096Z"
+        "domain": "noor.to",
+        "startedAt": "2026-08-05T03:08:50.395Z"
       },
       {
-        "domain": "vogue.maitch.ai",
-        "startedAt": "2026-08-05T03:03:44.094Z"
+        "domain": "openai.com",
+        "startedAt": "2026-08-05T03:08:50.387Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 165
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 837,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T03:03:52.011Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T03:08:49.034Z",
+    "message": "Generation failed for modash.io with exit 1."
+  }
 }
