@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T07:44:56.581Z",
-  "heartbeatAt": "2026-08-05T07:44:57.023Z",
+  "heartbeatAt": "2026-08-05T07:50:08.358Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fireshinegames.co.uk",
-        "startedAt": "2026-08-05T07:44:56.863Z"
+        "domain": "mek.gallery",
+        "startedAt": "2026-08-05T07:50:08.183Z"
       },
       {
-        "domain": "fisayofosudo.com",
-        "startedAt": "2026-08-05T07:44:56.867Z"
+        "domain": "mosaic.so",
+        "startedAt": "2026-08-05T07:50:02.975Z"
       },
       {
-        "domain": "ft.com",
-        "startedAt": "2026-08-05T07:44:56.866Z"
+        "domain": "mshocc.org",
+        "startedAt": "2026-08-05T07:50:02.976Z"
       },
       {
-        "domain": "vogue.maitch.ai",
-        "startedAt": "2026-08-05T07:44:56.860Z"
+        "domain": "myanimelist.net",
+        "startedAt": "2026-08-05T07:50:08.222Z"
       },
       {
-        "domain": "voidzero.dev",
-        "startedAt": "2026-08-05T07:44:56.864Z"
+        "domain": "nucleoapp.com",
+        "startedAt": "2026-08-05T07:50:02.976Z"
       },
       {
-        "domain": "wero-wallet.eu",
-        "startedAt": "2026-08-05T07:44:56.865Z"
+        "domain": "wonder.design",
+        "startedAt": "2026-08-05T07:50:02.977Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 140
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 1005,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 865,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T07:45:03.473Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T07:50:07.853Z",
+    "message": "Generation failed for dfinity.org with exit 1."
+  }
 }
