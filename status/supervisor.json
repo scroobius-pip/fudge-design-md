@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T02:06:58.347Z",
-  "heartbeatAt": "2026-08-05T02:06:58.664Z",
+  "heartbeatAt": "2026-08-05T02:12:08.759Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "hatroid.com",
-        "startedAt": "2026-08-05T02:06:58.576Z"
+        "domain": "mymind.com",
+        "startedAt": "2026-08-05T02:11:58.401Z"
       },
       {
-        "domain": "heroui.pro",
-        "startedAt": "2026-08-05T02:06:58.576Z"
+        "domain": "natoma.run",
+        "startedAt": "2026-08-05T02:12:08.694Z"
       },
       {
-        "domain": "hugeicons.com",
-        "startedAt": "2026-08-05T02:06:58.573Z"
+        "domain": "neobrowser.ai",
+        "startedAt": "2026-08-05T02:12:08.693Z"
       },
       {
-        "domain": "hyperagent.com",
-        "startedAt": "2026-08-05T02:06:58.572Z"
+        "domain": "neuralink.com",
+        "startedAt": "2026-08-05T02:12:08.692Z"
       },
       {
-        "domain": "ic-toolkit.app",
-        "startedAt": "2026-08-05T02:06:58.574Z"
+        "domain": "newsinenglish.no",
+        "startedAt": "2026-08-05T02:12:08.692Z"
       },
       {
-        "domain": "insforge.dev",
-        "startedAt": "2026-08-05T02:06:58.575Z"
+        "domain": "nibzard.com",
+        "startedAt": "2026-08-05T02:12:08.695Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 143
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 858,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T02:07:04.719Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T02:12:08.352Z",
+    "message": "Generation failed for mykc.cargo.site with exit 1."
+  }
 }
