@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T11:44:24.796Z",
-  "heartbeatAt": "2026-08-05T11:44:25.239Z",
+  "heartbeatAt": "2026-08-05T11:49:35.469Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bbc.com",
-        "startedAt": "2026-08-05T11:44:25.106Z"
+        "domain": "medium.com",
+        "startedAt": "2026-08-05T11:49:14.534Z"
       },
       {
-        "domain": "brave.com",
-        "startedAt": "2026-08-05T11:44:25.105Z"
+        "domain": "mercury.com",
+        "startedAt": "2026-08-05T11:49:14.529Z"
       },
       {
-        "domain": "internetcomputer.org",
-        "startedAt": "2026-08-05T11:44:25.107Z"
+        "domain": "mixfont.com",
+        "startedAt": "2026-08-05T11:49:09.311Z"
       },
       {
-        "domain": "kapwing.com",
-        "startedAt": "2026-08-05T11:44:25.103Z"
+        "domain": "moda.app",
+        "startedAt": "2026-08-05T11:49:24.915Z"
       },
       {
-        "domain": "kraa.io",
-        "startedAt": "2026-08-05T11:44:25.104Z"
+        "domain": "mulerouter.ai",
+        "startedAt": "2026-08-05T11:49:30.109Z"
       },
       {
-        "domain": "lesswrong.com",
-        "startedAt": "2026-08-05T11:44:25.107Z"
+        "domain": "newsinenglish.no",
+        "startedAt": "2026-08-05T11:49:35.330Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 65
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 936,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T11:44:32.391Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T11:49:34.659Z",
+    "message": "Generation failed for nibzard.com with exit 1."
+  }
 }
