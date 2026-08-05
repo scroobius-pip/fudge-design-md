@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T22:42:52.589Z",
+  "generatedAt": "2026-08-05T22:43:18.794Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1001,
+    "failed": 1000,
     "needs_reprocessing": 22,
     "preparing": 7,
-    "drafting": 3
+    "drafting": 4
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T22:42:50.261Z",
-    "heartbeatAt": "2026-08-05T22:42:50.767Z",
+    "startedAt": "2026-08-05T22:43:16.564Z",
+    "heartbeatAt": "2026-08-05T22:43:17.003Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "daylight-health.com",
-          "startedAt": "2026-08-05T22:42:50.582Z"
+          "domain": "davidprotein.com",
+          "startedAt": "2026-08-05T22:43:16.865Z"
         },
         {
-          "domain": "deel.com",
-          "startedAt": "2026-08-05T22:42:50.581Z"
+          "domain": "etsy.com",
+          "startedAt": "2026-08-05T22:43:16.866Z"
         },
         {
-          "domain": "fontradar.com",
-          "startedAt": "2026-08-05T22:42:50.581Z"
+          "domain": "fabiensanglard.net",
+          "startedAt": "2026-08-05T22:43:16.866Z"
         },
         {
-          "domain": "foreknown.com",
-          "startedAt": "2026-08-05T22:42:50.584Z"
+          "domain": "urbit.org",
+          "startedAt": "2026-08-05T22:43:16.867Z"
         },
         {
-          "domain": "renode.io",
-          "startedAt": "2026-08-05T22:42:50.583Z"
+          "domain": "uselogly.app",
+          "startedAt": "2026-08-05T22:43:16.868Z"
         },
         {
-          "domain": "unicorn.studio",
-          "startedAt": "2026-08-05T22:42:50.580Z"
+          "domain": "usgraphics.com",
+          "startedAt": "2026-08-05T22:43:16.864Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,12 +53,12 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1007,
-      "availableGeneration": 1001,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 1000,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 1,
+    "recoveredThisRun": 0,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -5553,9 +5553,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T21:53:32.379Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-05T22:43:17.102Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
@@ -5605,9 +5605,9 @@
     },
     {
       "domain": "daylight-health.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:50.915Z",
+      "updatedAt": "2026-08-05T22:43:04.981Z",
       "blocker": null,
       "publication": {
         "key": "daylight-health.com-design",
@@ -5631,9 +5631,9 @@
     },
     {
       "domain": "deel.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:50.826Z",
+      "updatedAt": "2026-08-05T22:43:10.944Z",
       "blocker": null,
       "publication": {
         "key": "deel.com-design",
@@ -5956,9 +5956,9 @@
     },
     {
       "domain": "deta.surf",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:32.016Z",
+      "state": "drafting",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:43:11.316Z",
       "blocker": null,
       "publication": {
         "key": "deta.surf-design",
@@ -7139,9 +7139,9 @@
     },
     {
       "domain": "etsy.com",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:37.567Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:43:17.210Z",
       "blocker": null,
       "publication": {
         "key": "etsy.com-design",
@@ -7334,9 +7334,9 @@
     },
     {
       "domain": "fabiensanglard.net",
-      "state": "failed",
-      "attempt": 32,
-      "updatedAt": "2026-08-05T21:53:38.127Z",
+      "state": "preparing",
+      "attempt": 33,
+      "updatedAt": "2026-08-05T22:43:17.114Z",
       "blocker": null,
       "publication": {
         "key": "fabiensanglard.net-design",
@@ -7932,9 +7932,9 @@
     },
     {
       "domain": "fontradar.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:50.828Z",
+      "updatedAt": "2026-08-05T22:43:02.601Z",
       "blocker": null,
       "publication": {
         "key": "fontradar.com-design",
@@ -8062,9 +8062,9 @@
     },
     {
       "domain": "foreknown.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 33,
-      "updatedAt": "2026-08-05T22:42:50.819Z",
+      "updatedAt": "2026-08-05T22:43:01.675Z",
       "blocker": null,
       "publication": {
         "key": "foreknown.com-design",
@@ -17214,9 +17214,9 @@
     },
     {
       "domain": "renode.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:42:50.826Z",
+      "updatedAt": "2026-08-05T22:43:06.396Z",
       "blocker": null,
       "publication": {
         "key": "renode.io-design",
@@ -20971,9 +20971,9 @@
     },
     {
       "domain": "unicorn.studio",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 32,
-      "updatedAt": "2026-08-05T22:42:50.859Z",
+      "updatedAt": "2026-08-05T22:43:06.770Z",
       "blocker": null,
       "publication": {
         "key": "unicorn.studio-design",
@@ -21049,9 +21049,9 @@
     },
     {
       "domain": "urbit.org",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:53:48.297Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:43:17.108Z",
       "blocker": null,
       "publication": {
         "key": "urbit.org-design",
@@ -21114,9 +21114,9 @@
     },
     {
       "domain": "uselogly.app",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:53:49.283Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:43:17.118Z",
       "blocker": null,
       "publication": {
         "key": "uselogly.app-design",
@@ -21166,9 +21166,9 @@
     },
     {
       "domain": "usgraphics.com",
-      "state": "failed",
-      "attempt": 31,
-      "updatedAt": "2026-08-05T21:53:32.291Z",
+      "state": "preparing",
+      "attempt": 32,
+      "updatedAt": "2026-08-05T22:43:17.150Z",
       "blocker": null,
       "publication": {
         "key": "usgraphics.com-design",
