@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T06:42:02.191Z",
-  "heartbeatAt": "2026-08-05T06:42:02.648Z",
+  "heartbeatAt": "2026-08-05T06:47:12.942Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "omma.build",
-        "startedAt": "2026-08-05T06:42:02.483Z"
+        "domain": "cosmos.so",
+        "startedAt": "2026-08-05T06:47:07.580Z"
       },
       {
-        "domain": "opencollective.com",
-        "startedAt": "2026-08-05T06:42:02.479Z"
+        "domain": "dlang.org",
+        "startedAt": "2026-08-05T06:47:07.579Z"
       },
       {
-        "domain": "openknowledge.ai",
-        "startedAt": "2026-08-05T06:42:02.481Z"
+        "domain": "squareup.com",
+        "startedAt": "2026-08-05T06:47:07.578Z"
       },
       {
-        "domain": "openrouter.ai",
-        "startedAt": "2026-08-05T06:42:02.480Z"
+        "domain": "supernova.io",
+        "startedAt": "2026-08-05T06:47:07.574Z"
       },
       {
-        "domain": "opper.ai",
-        "startedAt": "2026-08-05T06:42:02.478Z"
+        "domain": "symbl.space",
+        "startedAt": "2026-08-05T06:47:12.795Z"
       },
       {
-        "domain": "petsmart.com",
-        "startedAt": "2026-08-05T06:42:02.482Z"
+        "domain": "yuskavage.com",
+        "startedAt": "2026-08-05T06:47:07.579Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 143
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 861,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T06:42:09.349Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T06:47:08.636Z",
+    "message": "Generation failed for stripe.dev with exit 1."
+  }
 }
