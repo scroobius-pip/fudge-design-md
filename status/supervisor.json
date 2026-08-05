@@ -2,37 +2,33 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T22:20:16.602Z",
-  "heartbeatAt": "2026-08-05T22:20:17.101Z",
+  "heartbeatAt": "2026-08-05T22:25:26.694Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "modal.com",
-        "startedAt": "2026-08-05T22:20:16.931Z"
+        "domain": "outthere.studio",
+        "startedAt": "2026-08-05T22:25:05.684Z"
       },
       {
-        "domain": "motion.software",
-        "startedAt": "2026-08-05T22:20:16.932Z"
+        "domain": "pentagram.com",
+        "startedAt": "2026-08-05T22:25:26.595Z"
       },
       {
-        "domain": "nzxt.com",
-        "startedAt": "2026-08-05T22:20:16.929Z"
+        "domain": "rachelchen.tech",
+        "startedAt": "2026-08-05T22:25:16.100Z"
       },
       {
-        "domain": "om.co",
-        "startedAt": "2026-08-05T22:20:16.930Z"
+        "domain": "republic.com",
+        "startedAt": "2026-08-05T22:25:16.101Z"
       },
       {
-        "domain": "opensource.googleblog.com",
-        "startedAt": "2026-08-05T22:20:16.928Z"
-      },
-      {
-        "domain": "orionbrowser.com",
-        "startedAt": "2026-08-05T22:20:16.933Z"
+        "domain": "rive.app",
+        "startedAt": "2026-08-05T22:25:26.594Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 99
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +37,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1004,
-    "availableGeneration": 998,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 901,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T22:20:23.482Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T22:25:26.651Z",
+    "message": "Generation failed for restate.dev with exit 1."
+  }
 }
