@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-04T23:41:18.034Z",
-  "heartbeatAt": "2026-08-05T00:38:04.794Z",
+  "startedAt": "2026-08-05T00:43:18.270Z",
+  "heartbeatAt": "2026-08-05T00:43:18.567Z",
   "generation": {
     "concurrency": 6,
-    "active": [],
+    "active": [
+      {
+        "domain": "epsteinexposed.com",
+        "startedAt": "2026-08-05T00:43:18.498Z"
+      },
+      {
+        "domain": "era.app",
+        "startedAt": "2026-08-05T00:43:18.501Z"
+      },
+      {
+        "domain": "etched.com",
+        "startedAt": "2026-08-05T00:43:18.502Z"
+      },
+      {
+        "domain": "tinygrad.org",
+        "startedAt": "2026-08-05T00:43:18.499Z"
+      },
+      {
+        "domain": "tinywins.com",
+        "startedAt": "2026-08-05T00:43:18.501Z"
+      },
+      {
+        "domain": "youtube.com",
+        "startedAt": "2026-08-05T00:43:18.500Z"
+      }
+    ],
     "completedThisRun": 0,
-    "failedThisRun": 1011
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -17,16 +42,13 @@
   },
   "queue": {
     "eligibleGeneration": 1011,
-    "availableGeneration": 0,
+    "availableGeneration": 1005,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 2,
+  "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-05T00:33:02.878Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-05T00:18:10.473Z",
-    "message": "Generation failed for zed.dev with exit 1."
-  }
+  "lastError": null
 }
