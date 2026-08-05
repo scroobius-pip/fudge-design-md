@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T08:48:45.179Z",
-  "heartbeatAt": "2026-08-05T08:48:45.585Z",
+  "heartbeatAt": "2026-08-05T08:53:53.921Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "betterstack.com",
-        "startedAt": "2026-08-05T08:48:45.449Z"
+        "domain": "app.kuse.ai",
+        "startedAt": "2026-08-05T08:53:48.517Z"
       },
       {
-        "domain": "dany.works",
-        "startedAt": "2026-08-05T08:48:45.454Z"
+        "domain": "applovin.com",
+        "startedAt": "2026-08-05T08:53:53.766Z"
       },
       {
-        "domain": "discord.com",
-        "startedAt": "2026-08-05T08:48:45.453Z"
+        "domain": "artists.soundcloud.com",
+        "startedAt": "2026-08-05T08:53:53.750Z"
       },
       {
-        "domain": "studiofnt.com",
-        "startedAt": "2026-08-05T08:48:45.452Z"
+        "domain": "athas.dev",
+        "startedAt": "2026-08-05T08:53:53.756Z"
       },
       {
-        "domain": "superlist.com",
-        "startedAt": "2026-08-05T08:48:45.451Z"
+        "domain": "tryholo.ai",
+        "startedAt": "2026-08-05T08:53:48.514Z"
       },
       {
-        "domain": "theatlantic.com",
-        "startedAt": "2026-08-05T08:48:45.453Z"
+        "domain": "tweakcn.com",
+        "startedAt": "2026-08-05T08:53:53.752Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 125
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T08:48:52.286Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T08:53:52.767Z",
+    "message": "Generation failed for app.speak.com with exit 1."
+  }
 }
