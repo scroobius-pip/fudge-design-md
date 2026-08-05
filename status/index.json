@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T18:12:19.222Z",
+  "generatedAt": "2026-08-05T18:12:44.899Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1002,
     "needs_reprocessing": 22,
-    "drafting": 5,
-    "preparing": 3
+    "drafting": 3,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-05T17:51:28.432Z",
-    "heartbeatAt": "2026-08-05T18:12:16.153Z",
+    "startedAt": "2026-08-05T18:12:41.897Z",
+    "heartbeatAt": "2026-08-05T18:12:42.426Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "dash.cloudflare.com",
-          "startedAt": "2026-08-05T18:12:16.026Z"
+          "domain": "bestdesignsonx.com",
+          "startedAt": "2026-08-05T18:12:42.293Z"
         },
         {
-          "domain": "glazeapp.com",
-          "startedAt": "2026-08-05T18:12:10.772Z"
+          "domain": "hinge.co",
+          "startedAt": "2026-08-05T18:12:42.290Z"
         },
         {
-          "domain": "hyperagent.com",
-          "startedAt": "2026-08-05T18:12:10.770Z"
+          "domain": "icelandreview.com",
+          "startedAt": "2026-08-05T18:12:42.295Z"
         },
         {
-          "domain": "parallel.ai",
-          "startedAt": "2026-08-05T18:12:16.027Z"
+          "domain": "icloud.com",
+          "startedAt": "2026-08-05T18:12:42.295Z"
         },
         {
-          "domain": "trycoast.com",
-          "startedAt": "2026-08-05T18:12:10.765Z"
+          "domain": "wearecollins.com",
+          "startedAt": "2026-08-05T18:12:42.297Z"
         },
         {
-          "domain": "venice.inc",
-          "startedAt": "2026-08-05T18:12:05.536Z"
+          "domain": "wsj.com",
+          "startedAt": "2026-08-05T18:12:42.296Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 494
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1004,
-      "availableGeneration": 508,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 1002,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-05T18:07:15.211Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-05T18:12:15.263Z",
-      "message": "Generation failed for godly.website with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -3047,9 +3044,9 @@
     },
     {
       "domain": "bestdesignsonx.com",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:56.628Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.622Z",
       "blocker": null,
       "publication": {
         "key": "bestdesignsonx.com-design",
@@ -5426,9 +5423,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 31,
-      "updatedAt": "2026-08-05T18:12:16.345Z",
+      "updatedAt": "2026-08-05T18:12:31.524Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
@@ -8767,9 +8764,9 @@
     },
     {
       "domain": "glazeapp.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:12:17.436Z",
+      "updatedAt": "2026-08-05T18:12:25.001Z",
       "blocker": null,
       "publication": {
         "key": "glazeapp.com-design",
@@ -9612,9 +9609,9 @@
     },
     {
       "domain": "hinge.co",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:55.612Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.595Z",
       "blocker": null,
       "publication": {
         "key": "hinge.co-design",
@@ -9730,8 +9727,8 @@
     {
       "domain": "hugeicons.com",
       "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:50.975Z",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:32.212Z",
       "blocker": null,
       "publication": {
         "key": "hugeicons.com-design",
@@ -9872,9 +9869,9 @@
     },
     {
       "domain": "hyperagent.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:12:13.641Z",
+      "updatedAt": "2026-08-05T18:12:20.113Z",
       "blocker": null,
       "publication": {
         "key": "hyperagent.com-design",
@@ -9963,9 +9960,9 @@
     },
     {
       "domain": "icelandreview.com",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:24:08.536Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.654Z",
       "blocker": null,
       "publication": {
         "key": "icelandreview.com-design",
@@ -9976,9 +9973,9 @@
     },
     {
       "domain": "icloud.com",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:24:07.536Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.615Z",
       "blocker": null,
       "publication": {
         "key": "icloud.com-design",
@@ -15397,9 +15394,9 @@
     },
     {
       "domain": "parallel.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 26,
-      "updatedAt": "2026-08-05T18:12:16.303Z",
+      "updatedAt": "2026-08-05T18:12:31.687Z",
       "blocker": null,
       "publication": {
         "key": "parallel.ai-design",
@@ -19675,8 +19672,8 @@
     {
       "domain": "tavus.io",
       "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:55.164Z",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:41.923Z",
       "blocker": null,
       "publication": {
         "key": "tavus.io-design",
@@ -19909,8 +19906,8 @@
     {
       "domain": "theastralfrontier.com",
       "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:55.204Z",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:41.985Z",
       "blocker": null,
       "publication": {
         "key": "theastralfrontier.com-design",
@@ -20558,9 +20555,9 @@
     },
     {
       "domain": "trycoast.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 27,
-      "updatedAt": "2026-08-05T18:12:10.978Z",
+      "updatedAt": "2026-08-05T18:12:31.294Z",
       "blocker": null,
       "publication": {
         "key": "trycoast.com-design",
@@ -21222,8 +21219,8 @@
     {
       "domain": "vast.ai",
       "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:23:51.282Z",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:34.074Z",
       "blocker": null,
       "publication": {
         "key": "vast.ai-design",
@@ -21689,9 +21686,9 @@
     },
     {
       "domain": "wearecollins.com",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:24:09.799Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.605Z",
       "blocker": null,
       "publication": {
         "key": "wearecollins.com-design",
@@ -22274,9 +22271,9 @@
     },
     {
       "domain": "wsj.com",
-      "state": "failed",
-      "attempt": 26,
-      "updatedAt": "2026-08-05T17:24:08.581Z",
+      "state": "preparing",
+      "attempt": 27,
+      "updatedAt": "2026-08-05T18:12:42.601Z",
       "blocker": null,
       "publication": {
         "key": "wsj.com-design",
