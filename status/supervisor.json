@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-05T12:53:49.555Z",
-  "heartbeatAt": "2026-08-05T12:53:50.007Z",
+  "heartbeatAt": "2026-08-05T12:59:02.920Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "blog.google",
-        "startedAt": "2026-08-05T12:53:49.842Z"
+        "domain": "lead.bank",
+        "startedAt": "2026-08-05T12:58:57.509Z"
       },
       {
-        "domain": "icpay.org",
-        "startedAt": "2026-08-05T12:53:49.848Z"
+        "domain": "linktr.ee",
+        "startedAt": "2026-08-05T12:58:46.956Z"
       },
       {
-        "domain": "jakub.kr",
-        "startedAt": "2026-08-05T12:53:49.845Z"
+        "domain": "lit.dev",
+        "startedAt": "2026-08-05T12:58:52.327Z"
       },
       {
-        "domain": "jamesadam.me",
-        "startedAt": "2026-08-05T12:53:49.846Z"
+        "domain": "maxibestof.one",
+        "startedAt": "2026-08-05T12:58:57.506Z"
       },
       {
-        "domain": "withsupafast.com",
-        "startedAt": "2026-08-05T12:53:49.847Z"
+        "domain": "mimo.xiaomi.com",
+        "startedAt": "2026-08-05T12:58:57.509Z"
       },
       {
-        "domain": "zillow.com",
-        "startedAt": "2026-08-05T12:53:49.848Z"
+        "domain": "mojolang.org",
+        "startedAt": "2026-08-05T12:58:57.508Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 79
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 922,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-05T12:53:59.285Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-05T12:58:55.895Z",
+    "message": "Generation failed for laylo.com with exit 1."
+  }
 }
