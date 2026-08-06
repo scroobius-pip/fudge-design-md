@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T13:37:28.835Z",
+  "generatedAt": "2026-08-06T13:37:50.416Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1000,
     "needs_reprocessing": 22,
-    "drafting": 8,
-    "preparing": 3
+    "drafting": 5,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T13:32:16.269Z",
-    "heartbeatAt": "2026-08-06T13:37:26.725Z",
+    "startedAt": "2026-08-06T13:37:47.654Z",
+    "heartbeatAt": "2026-08-06T13:37:48.280Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "mew.xyz",
-          "startedAt": "2026-08-06T13:37:15.802Z"
+          "domain": "lit.dev",
+          "startedAt": "2026-08-06T13:37:48.091Z"
         },
         {
-          "domain": "obsidian.md",
-          "startedAt": "2026-08-06T13:37:21.110Z"
+          "domain": "maallust.nl",
+          "startedAt": "2026-08-06T13:37:48.092Z"
         },
         {
-          "domain": "once.film",
-          "startedAt": "2026-08-06T13:37:26.452Z"
+          "domain": "mentra.glass",
+          "startedAt": "2026-08-06T13:37:48.092Z"
         },
         {
-          "domain": "ottografie.nl",
-          "startedAt": "2026-08-06T13:37:26.451Z"
+          "domain": "parrotapp.com",
+          "startedAt": "2026-08-06T13:37:48.090Z"
         },
         {
-          "domain": "pneumatter.com",
-          "startedAt": "2026-08-06T13:37:21.116Z"
+          "domain": "platform.minimax.io",
+          "startedAt": "2026-08-06T13:37:48.089Z"
         },
         {
-          "domain": "projectfluent.org",
-          "startedAt": "2026-08-06T13:37:26.429Z"
+          "domain": "refit.framer.website",
+          "startedAt": "2026-08-06T13:37:48.085Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 90
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1003,
-      "availableGeneration": 910,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 1000,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 2,
+    "recoveredThisRun": 1,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T13:32:23.835Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T13:37:25.035Z",
-      "message": "Generation failed for oracea.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -1384,8 +1381,8 @@
     {
       "domain": "antler.co",
       "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:19.978Z",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:42.733Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -11887,9 +11884,9 @@
     },
     {
       "domain": "lit.dev",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T12:48:35.968Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T13:37:48.398Z",
       "blocker": null,
       "publication": {
         "key": "lit.dev-design",
@@ -12316,9 +12313,9 @@
     },
     {
       "domain": "maallust.nl",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:36.847Z",
+      "state": "preparing",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:48.400Z",
       "blocker": null,
       "publication": {
         "key": "maallust.nl-design",
@@ -12732,9 +12729,9 @@
     },
     {
       "domain": "mentra.glass",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:40.267Z",
+      "state": "preparing",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:48.544Z",
       "blocker": null,
       "publication": {
         "key": "mentra.glass-design",
@@ -12849,9 +12846,9 @@
     },
     {
       "domain": "mew.xyz",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 53,
-      "updatedAt": "2026-08-06T13:37:22.329Z",
+      "updatedAt": "2026-08-06T13:37:29.070Z",
       "blocker": null,
       "publication": {
         "key": "mew.xyz-design",
@@ -14461,9 +14458,9 @@
     },
     {
       "domain": "obsidian.md",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 53,
-      "updatedAt": "2026-08-06T13:37:25.024Z",
+      "updatedAt": "2026-08-06T13:37:31.860Z",
       "blocker": null,
       "publication": {
         "key": "obsidian.md-design",
@@ -14721,9 +14718,9 @@
     },
     {
       "domain": "once.film",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T13:37:26.800Z",
+      "updatedAt": "2026-08-06T13:37:38.339Z",
       "blocker": null,
       "publication": {
         "key": "once.film-design",
@@ -15137,9 +15134,9 @@
     },
     {
       "domain": "ottografie.nl",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 53,
-      "updatedAt": "2026-08-06T13:37:26.874Z",
+      "updatedAt": "2026-08-06T13:37:37.377Z",
       "blocker": null,
       "publication": {
         "key": "ottografie.nl-design",
@@ -15436,9 +15433,9 @@
     },
     {
       "domain": "parrotapp.com",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:34.131Z",
+      "state": "preparing",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:48.400Z",
       "blocker": null,
       "publication": {
         "key": "parrotapp.com-design",
@@ -15618,9 +15615,9 @@
     },
     {
       "domain": "pepperl-fuchs.com",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:27.175Z",
+      "state": "drafting",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:40.702Z",
       "blocker": null,
       "publication": {
         "key": "pepperl-fuchs.com-design",
@@ -15697,8 +15694,8 @@
     {
       "domain": "pharos.jstor.org",
       "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:21.651Z",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:40.629Z",
       "blocker": null,
       "publication": {
         "key": "pharos.jstor.org-design",
@@ -15956,9 +15953,9 @@
     },
     {
       "domain": "platform.minimax.io",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T12:48:33.532Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T13:37:48.385Z",
       "blocker": null,
       "publication": {
         "key": "platform.minimax.io-design",
@@ -16138,9 +16135,9 @@
     },
     {
       "domain": "pneumatter.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 53,
-      "updatedAt": "2026-08-06T13:37:24.173Z",
+      "updatedAt": "2026-08-06T13:37:30.594Z",
       "blocker": null,
       "publication": {
         "key": "pneumatter.com-design",
@@ -16515,9 +16512,9 @@
     },
     {
       "domain": "projectfluent.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 53,
-      "updatedAt": "2026-08-06T13:37:26.795Z",
+      "updatedAt": "2026-08-06T13:37:36.553Z",
       "blocker": null,
       "publication": {
         "key": "projectfluent.org-design",
@@ -17165,9 +17162,9 @@
     },
     {
       "domain": "refit.framer.website",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T12:48:33.357Z",
+      "state": "preparing",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T13:37:48.431Z",
       "blocker": null,
       "publication": {
         "key": "refit.framer.website-design",
@@ -18257,9 +18254,9 @@
     },
     {
       "domain": "shop.heavymetal.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T13:12:44.080Z",
+      "updatedAt": "2026-08-06T13:37:47.841Z",
       "blocker": null,
       "publication": {
         "key": "shop.heavymetal.com-design",
