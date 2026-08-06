@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T23:53:07.188Z",
-  "heartbeatAt": "2026-08-06T23:53:07.739Z",
+  "heartbeatAt": "2026-08-06T23:58:16.709Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "n8n.io",
-        "startedAt": "2026-08-06T23:53:07.589Z"
+        "domain": "cap.so",
+        "startedAt": "2026-08-06T23:58:11.313Z"
       },
       {
-        "domain": "neonrated.com",
-        "startedAt": "2026-08-06T23:53:07.590Z"
+        "domain": "factory.ai",
+        "startedAt": "2026-08-06T23:58:06.005Z"
       },
       {
-        "domain": "oreilly.com",
-        "startedAt": "2026-08-06T23:53:07.587Z"
+        "domain": "ledger.com",
+        "startedAt": "2026-08-06T23:58:11.314Z"
       },
       {
-        "domain": "proto.io",
-        "startedAt": "2026-08-06T23:53:07.583Z"
+        "domain": "shopify.com",
+        "startedAt": "2026-08-06T23:58:11.303Z"
       },
       {
-        "domain": "red.org",
-        "startedAt": "2026-08-06T23:53:07.588Z"
+        "domain": "tentree.com",
+        "startedAt": "2026-08-06T23:58:16.574Z"
       },
       {
-        "domain": "trae.ai",
-        "startedAt": "2026-08-06T23:53:07.590Z"
+        "domain": "zillow.com",
+        "startedAt": "2026-08-06T23:58:16.575Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 133
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 871,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T23:53:13.828Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T23:58:12.015Z",
+    "message": "Generation failed for paulstamatiou.com with exit 1."
+  }
 }
