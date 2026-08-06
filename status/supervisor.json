@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T12:58:36.181Z",
-  "heartbeatAt": "2026-08-06T12:58:36.741Z",
+  "heartbeatAt": "2026-08-06T13:03:46.292Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "gaio.club",
-        "startedAt": "2026-08-06T12:58:36.584Z"
+        "domain": "metr.org",
+        "startedAt": "2026-08-06T13:03:46.081Z"
       },
       {
-        "domain": "ladybird.org",
-        "startedAt": "2026-08-06T12:58:36.587Z"
+        "domain": "mykc.cargo.site",
+        "startedAt": "2026-08-06T13:03:46.089Z"
       },
       {
-        "domain": "lettermatic.com",
-        "startedAt": "2026-08-06T12:58:36.584Z"
+        "domain": "neuralink.com",
+        "startedAt": "2026-08-06T13:03:46.086Z"
       },
       {
-        "domain": "logsnag.com",
-        "startedAt": "2026-08-06T12:58:36.586Z"
+        "domain": "of.domains",
+        "startedAt": "2026-08-06T13:03:46.084Z"
       },
       {
-        "domain": "mio.gg",
-        "startedAt": "2026-08-06T12:58:36.585Z"
+        "domain": "onmy.land",
+        "startedAt": "2026-08-06T13:03:46.080Z"
       },
       {
-        "domain": "visualelectric.com",
-        "startedAt": "2026-08-06T12:58:36.582Z"
+        "domain": "petsmart.com",
+        "startedAt": "2026-08-06T13:03:46.083Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 119
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1010,
+    "availableGeneration": 885,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T12:58:44.043Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T13:03:44.550Z",
+    "message": "Generation failed for deepwiki.com with exit 1."
+  }
 }
