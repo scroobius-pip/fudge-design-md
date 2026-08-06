@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T00:13:11.106Z",
-  "heartbeatAt": "2026-08-06T00:13:11.575Z",
+  "heartbeatAt": "2026-08-06T00:18:22.075Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "lemfi.com",
-        "startedAt": "2026-08-06T00:13:11.401Z"
+        "domain": "base-ui.com",
+        "startedAt": "2026-08-06T00:18:21.947Z"
       },
       {
-        "domain": "mshocc.org",
-        "startedAt": "2026-08-06T00:13:11.405Z"
+        "domain": "bun.com",
+        "startedAt": "2026-08-06T00:18:16.697Z"
       },
       {
-        "domain": "noor.to",
-        "startedAt": "2026-08-06T00:13:11.403Z"
+        "domain": "salesforce.com",
+        "startedAt": "2026-08-06T00:18:21.946Z"
       },
       {
-        "domain": "nuformtype.com",
-        "startedAt": "2026-08-06T00:13:11.402Z"
+        "domain": "sanity.io",
+        "startedAt": "2026-08-06T00:18:16.696Z"
       },
       {
-        "domain": "openvpn.net",
-        "startedAt": "2026-08-06T00:13:11.404Z"
+        "domain": "thebutterinbetween.com",
+        "startedAt": "2026-08-06T00:18:16.694Z"
       },
       {
-        "domain": "www2.hm.com",
-        "startedAt": "2026-08-06T00:13:11.404Z"
+        "domain": "thefinch.design",
+        "startedAt": "2026-08-06T00:18:21.937Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 135
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 869,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T00:13:17.565Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T00:18:21.627Z",
+    "message": "Generation failed for slowly.app with exit 1."
+  }
 }
