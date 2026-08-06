@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T11:20:30.684Z",
+  "generatedAt": "2026-08-06T11:21:19.110Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1002,
     "needs_reprocessing": 22,
-    "drafting": 2,
-    "preparing": 6
+    "preparing": 6,
+    "drafting": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T11:20:27.809Z",
-    "heartbeatAt": "2026-08-06T11:20:28.513Z",
+    "startedAt": "2026-08-06T11:21:16.011Z",
+    "heartbeatAt": "2026-08-06T11:21:16.783Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "medium.com",
-          "startedAt": "2026-08-06T11:20:28.264Z"
+          "domain": "criticker.com",
+          "startedAt": "2026-08-06T11:21:16.518Z"
         },
         {
-          "domain": "mixfont.com",
-          "startedAt": "2026-08-06T11:20:28.265Z"
+          "domain": "emmi.framer.website",
+          "startedAt": "2026-08-06T11:21:16.516Z"
         },
         {
-          "domain": "motion.software",
-          "startedAt": "2026-08-06T11:20:28.260Z"
+          "domain": "metamask.io",
+          "startedAt": "2026-08-06T11:21:16.519Z"
         },
         {
-          "domain": "ntathome.com",
-          "startedAt": "2026-08-06T11:20:28.261Z"
+          "domain": "mobbin.com",
+          "startedAt": "2026-08-06T11:21:16.503Z"
         },
         {
-          "domain": "oxylabs.io",
-          "startedAt": "2026-08-06T11:20:28.263Z"
+          "domain": "moonpay.com",
+          "startedAt": "2026-08-06T11:21:16.526Z"
         },
         {
-          "domain": "pocketui.app",
-          "startedAt": "2026-08-06T11:20:28.262Z"
+          "domain": "properm.ru",
+          "startedAt": "2026-08-06T11:21:16.532Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,12 +53,12 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1003,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 1002,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 1,
+    "recoveredThisRun": 2,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -5163,9 +5163,9 @@
     },
     {
       "domain": "criticker.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:17.531Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.851Z",
       "blocker": null,
       "publication": {
         "key": "criticker.com-design",
@@ -6944,9 +6944,9 @@
     },
     {
       "domain": "emmi.framer.website",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:13.692Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.891Z",
       "blocker": null,
       "publication": {
         "key": "emmi.framer.website-design",
@@ -12664,9 +12664,9 @@
     },
     {
       "domain": "medium.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.657Z",
+      "updatedAt": "2026-08-06T11:20:46.450Z",
       "blocker": null,
       "publication": {
         "key": "medium.com-design",
@@ -12820,9 +12820,9 @@
     },
     {
       "domain": "metamask.io",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:26.682Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.965Z",
       "blocker": null,
       "publication": {
         "key": "metamask.io-design",
@@ -12912,8 +12912,8 @@
     {
       "domain": "midjourney.com",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:03.551Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.239Z",
       "blocker": null,
       "publication": {
         "key": "midjourney.com-design",
@@ -12951,8 +12951,8 @@
     {
       "domain": "milanote.com",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:03.120Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:13.903Z",
       "blocker": null,
       "publication": {
         "key": "milanote.com-design",
@@ -13132,9 +13132,9 @@
     },
     {
       "domain": "mixfont.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.620Z",
+      "updatedAt": "2026-08-06T11:20:46.633Z",
       "blocker": null,
       "publication": {
         "key": "mixfont.com-design",
@@ -13171,9 +13171,9 @@
     },
     {
       "domain": "mobbin.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:13.479Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.935Z",
       "blocker": null,
       "publication": {
         "key": "mobbin.com-design",
@@ -13224,8 +13224,8 @@
     {
       "domain": "modal.com",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:01.655Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.244Z",
       "blocker": null,
       "publication": {
         "key": "modal.com-design",
@@ -13431,9 +13431,9 @@
     },
     {
       "domain": "moonpay.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:27.037Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.955Z",
       "blocker": null,
       "publication": {
         "key": "moonpay.com-design",
@@ -13535,9 +13535,9 @@
     },
     {
       "domain": "motion.software",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.616Z",
+      "updatedAt": "2026-08-06T11:20:44.660Z",
       "blocker": null,
       "publication": {
         "key": "motion.software-design",
@@ -13601,8 +13601,8 @@
     {
       "domain": "mux.com",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:59.305Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:05.787Z",
       "blocker": null,
       "publication": {
         "key": "mux.com-design",
@@ -13822,8 +13822,8 @@
     {
       "domain": "neobrowser.ai",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:43.570Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:20:56.106Z",
       "blocker": null,
       "publication": {
         "key": "neobrowser.ai-design",
@@ -14238,8 +14238,8 @@
     {
       "domain": "notion.so",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:43.291Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:20:53.547Z",
       "blocker": null,
       "publication": {
         "key": "notion.so-design",
@@ -14315,9 +14315,9 @@
     },
     {
       "domain": "ntathome.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.645Z",
+      "updatedAt": "2026-08-06T11:20:42.664Z",
       "blocker": null,
       "publication": {
         "key": "ntathome.com-design",
@@ -14511,8 +14511,8 @@
     {
       "domain": "odylicmedia.com",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:58.174Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:02.451Z",
       "blocker": null,
       "publication": {
         "key": "odylicmedia.com-design",
@@ -14848,9 +14848,9 @@
     },
     {
       "domain": "opencollective.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:13.347Z",
+      "state": "drafting",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:10.200Z",
       "blocker": null,
       "publication": {
         "key": "opencollective.com-design",
@@ -15031,8 +15031,8 @@
     {
       "domain": "opper.ai",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:59.105Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:04.937Z",
       "blocker": null,
       "publication": {
         "key": "opper.ai-design",
@@ -15199,9 +15199,9 @@
     },
     {
       "domain": "oxylabs.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.639Z",
+      "updatedAt": "2026-08-06T11:20:39.837Z",
       "blocker": null,
       "publication": {
         "key": "oxylabs.io-design",
@@ -16148,9 +16148,9 @@
     },
     {
       "domain": "pocketui.app",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T11:20:28.621Z",
+      "updatedAt": "2026-08-06T11:20:38.937Z",
       "blocker": null,
       "publication": {
         "key": "pocketui.app-design",
@@ -16240,8 +16240,8 @@
     {
       "domain": "poppy-connection-keeper.netlify.app",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:20:49.005Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:20:53.867Z",
       "blocker": null,
       "publication": {
         "key": "poppy-connection-keeper.netlify.app-design",
@@ -16538,9 +16538,9 @@
     },
     {
       "domain": "properm.ru",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:21:27.427Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T11:21:16.885Z",
       "blocker": null,
       "publication": {
         "key": "properm.ru-design",
