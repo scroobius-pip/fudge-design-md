@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T09:03:55.792Z",
-  "heartbeatAt": "2026-08-06T09:03:56.357Z",
+  "heartbeatAt": "2026-08-06T09:09:04.576Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "landonorris.com",
-        "startedAt": "2026-08-06T09:03:56.187Z"
+        "domain": "para.co",
+        "startedAt": "2026-08-06T09:09:04.457Z"
       },
       {
-        "domain": "lemfi.com",
-        "startedAt": "2026-08-06T09:03:56.188Z"
+        "domain": "realtime.cloudflare.com",
+        "startedAt": "2026-08-06T09:08:53.958Z"
       },
       {
-        "domain": "morphik.ai",
-        "startedAt": "2026-08-06T09:03:56.189Z"
+        "domain": "servicenow.com",
+        "startedAt": "2026-08-06T09:09:04.456Z"
       },
       {
-        "domain": "nextjs.org",
-        "startedAt": "2026-08-06T09:03:56.191Z"
+        "domain": "sievedata.com",
+        "startedAt": "2026-08-06T09:08:59.195Z"
       },
       {
-        "domain": "nocodeapi.com",
-        "startedAt": "2026-08-06T09:03:56.192Z"
+        "domain": "speak.com",
+        "startedAt": "2026-08-06T09:08:59.199Z"
       },
       {
-        "domain": "www2.hm.com",
-        "startedAt": "2026-08-06T09:03:56.190Z"
+        "domain": "thebutterinbetween.com",
+        "startedAt": "2026-08-06T09:08:53.954Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 105
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 897,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T09:04:04.405Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T09:09:01.133Z",
+    "message": "Generation failed for thefinch.design with exit 1."
+  }
 }
