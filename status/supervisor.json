@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T04:26:03.677Z",
-  "heartbeatAt": "2026-08-06T04:26:04.139Z",
+  "heartbeatAt": "2026-08-06T04:31:12.282Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bland.ai",
-        "startedAt": "2026-08-06T04:26:04.017Z"
+        "domain": "binary.so",
+        "startedAt": "2026-08-06T04:31:12.131Z"
       },
       {
-        "domain": "dfinity.org",
-        "startedAt": "2026-08-06T04:26:04.015Z"
+        "domain": "bun.com",
+        "startedAt": "2026-08-06T04:31:01.546Z"
       },
       {
-        "domain": "luna.amazon.com",
-        "startedAt": "2026-08-06T04:26:04.013Z"
+        "domain": "pencil.dev",
+        "startedAt": "2026-08-06T04:31:01.516Z"
       },
       {
-        "domain": "mailchimp.com",
-        "startedAt": "2026-08-06T04:26:04.014Z"
+        "domain": "sandwich.co",
+        "startedAt": "2026-08-06T04:31:12.135Z"
       },
       {
-        "domain": "oldcitymailroom.com",
-        "startedAt": "2026-08-06T04:26:04.016Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-06T04:31:12.134Z"
       },
       {
-        "domain": "workers.cloudflare.com",
-        "startedAt": "2026-08-06T04:26:04.003Z"
+        "domain": "wm.wts.edu",
+        "startedAt": "2026-08-06T04:31:12.135Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 155
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 850,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T04:26:10.746Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T04:31:11.623Z",
+    "message": "Generation failed for sanity.io with exit 1."
+  }
 }
