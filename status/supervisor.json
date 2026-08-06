@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T07:09:47.765Z",
-  "heartbeatAt": "2026-08-06T07:09:48.297Z",
+  "heartbeatAt": "2026-08-06T07:15:00.563Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "laylo.com",
-        "startedAt": "2026-08-06T07:09:48.163Z"
+        "domain": "pebblebed.com",
+        "startedAt": "2026-08-06T07:14:49.922Z"
       },
       {
-        "domain": "lelezhang.design",
-        "startedAt": "2026-08-06T07:09:48.157Z"
+        "domain": "pinterest.com",
+        "startedAt": "2026-08-06T07:15:00.419Z"
       },
       {
-        "domain": "motherduck.com",
-        "startedAt": "2026-08-06T07:09:48.164Z"
+        "domain": "polar.sh",
+        "startedAt": "2026-08-06T07:15:00.413Z"
       },
       {
-        "domain": "mulerouter.ai",
-        "startedAt": "2026-08-06T07:09:48.161Z"
+        "domain": "primeintellect.ai",
+        "startedAt": "2026-08-06T07:14:55.176Z"
       },
       {
-        "domain": "nature.com",
-        "startedAt": "2026-08-06T07:09:48.165Z"
+        "domain": "raycast.com",
+        "startedAt": "2026-08-06T07:14:49.925Z"
       },
       {
-        "domain": "opensource.googleblog.com",
-        "startedAt": "2026-08-06T07:09:48.162Z"
+        "domain": "stacks.co",
+        "startedAt": "2026-08-06T07:14:55.174Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 130
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 873,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T07:09:58.645Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T07:15:00.267Z",
+    "message": "Generation failed for screensmooth.com with exit 1."
+  }
 }
