@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T10:40:06.558Z",
+  "generatedAt": "2026-08-06T10:56:44.221Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1006,
+    "failed": 1005,
     "needs_reprocessing": 22,
-    "preparing": 5
+    "drafting": 5,
+    "preparing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-06T10:02:36.265Z",
-    "heartbeatAt": "2026-08-06T10:40:04.593Z",
+    "heartbeatAt": "2026-08-06T10:56:01.256Z",
     "generation": {
       "concurrency": 6,
       "active": [
@@ -30,12 +31,12 @@
           "startedAt": "2026-08-06T10:40:04.385Z"
         },
         {
-          "domain": "llmrefs.com",
-          "startedAt": "2026-08-06T10:40:04.384Z"
+          "domain": "kit.com",
+          "startedAt": "2026-08-06T10:40:19.004Z"
         },
         {
-          "domain": "masterselects.com",
-          "startedAt": "2026-08-06T10:24:55.746Z"
+          "domain": "llmrefs.com",
+          "startedAt": "2026-08-06T10:40:04.384Z"
         },
         {
           "domain": "studiofnt.com",
@@ -43,7 +44,7 @@
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 68
+      "failedThisRun": 69
     },
     "publication": {
       "concurrency": 1,
@@ -52,18 +53,18 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1010,
-      "availableGeneration": 937,
+      "eligibleGeneration": 1005,
+      "availableGeneration": 936,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 1,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T10:08:46.162Z"
+      "lastSyncedAt": "2026-08-06T10:40:46.982Z"
     },
     "lastError": {
-      "at": "2026-08-06T10:40:04.021Z",
-      "message": "Public tracker sync failed: git exited 1."
+      "at": "2026-08-06T10:40:04.813Z",
+      "message": "Generation failed for masterselects.com with exit 1."
     }
   },
   "domains": [
@@ -8740,9 +8741,9 @@
     },
     {
       "domain": "gitcoin.co",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:40:04.707Z",
+      "updatedAt": "2026-08-06T10:40:28.380Z",
       "blocker": null,
       "publication": {
         "key": "gitcoin.co-design",
@@ -10365,9 +10366,9 @@
     },
     {
       "domain": "intercom.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:40:04.711Z",
+      "updatedAt": "2026-08-06T10:40:38.800Z",
       "blocker": null,
       "publication": {
         "key": "intercom.com-design",
@@ -10989,9 +10990,9 @@
     },
     {
       "domain": "kapa.ai",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:40:04.812Z",
+      "updatedAt": "2026-08-06T10:40:08.875Z",
       "blocker": null,
       "publication": {
         "key": "kapa.ai-design",
@@ -11145,9 +11146,9 @@
     },
     {
       "domain": "kit.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:15:32.010Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T10:40:41.753Z",
       "blocker": null,
       "publication": {
         "key": "kit.com-design",
@@ -11951,9 +11952,9 @@
     },
     {
       "domain": "llmrefs.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:40:04.719Z",
+      "updatedAt": "2026-08-06T10:40:15.427Z",
       "blocker": null,
       "publication": {
         "key": "llmrefs.com-design",
@@ -19153,9 +19154,9 @@
     },
     {
       "domain": "studiofnt.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 49,
-      "updatedAt": "2026-08-06T10:40:04.771Z",
+      "updatedAt": "2026-08-06T10:40:37.418Z",
       "blocker": null,
       "publication": {
         "key": "studiofnt.com-design",
