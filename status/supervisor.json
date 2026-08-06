@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T16:33:22.410Z",
-  "heartbeatAt": "2026-08-06T16:33:23.143Z",
+  "heartbeatAt": "2026-08-06T16:38:36.959Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "displaay.net",
-        "startedAt": "2026-08-06T16:33:22.878Z"
+        "domain": "amazon.com",
+        "startedAt": "2026-08-06T16:38:26.118Z"
       },
       {
-        "domain": "dlang.org",
-        "startedAt": "2026-08-06T16:33:22.880Z"
+        "domain": "app.kit.com",
+        "startedAt": "2026-08-06T16:38:31.378Z"
       },
       {
-        "domain": "myanimelist.net",
-        "startedAt": "2026-08-06T16:33:22.881Z"
+        "domain": "elevenlabs.io",
+        "startedAt": "2026-08-06T16:38:36.741Z"
       },
       {
-        "domain": "plutio.com",
-        "startedAt": "2026-08-06T16:33:22.877Z"
+        "domain": "goose.ai",
+        "startedAt": "2026-08-06T16:38:36.771Z"
       },
       {
-        "domain": "storybook.js.org",
-        "startedAt": "2026-08-06T16:33:22.881Z"
+        "domain": "ifttt.com",
+        "startedAt": "2026-08-06T16:38:31.375Z"
       },
       {
-        "domain": "supply.family",
-        "startedAt": "2026-08-06T16:33:22.879Z"
+        "domain": "tinywins.com",
+        "startedAt": "2026-08-06T16:38:31.371Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 125
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1004,
-    "availableGeneration": 998,
+    "eligibleGeneration": 1000,
+    "availableGeneration": 873,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 3,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T16:33:34.563Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T16:38:36.099Z",
+    "message": "Generation failed for epsteinexposed.com with exit 1."
+  }
 }
