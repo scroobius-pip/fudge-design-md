@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T08:50:09.814Z",
-  "heartbeatAt": "2026-08-06T08:50:10.335Z",
+  "heartbeatAt": "2026-08-06T08:55:22.844Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "baked.design",
-        "startedAt": "2026-08-06T08:50:10.213Z"
+        "domain": "doom.bethesda.net",
+        "startedAt": "2026-08-06T08:55:06.885Z"
       },
       {
-        "domain": "bunny.net",
-        "startedAt": "2026-08-06T08:50:10.210Z"
+        "domain": "firefox.com",
+        "startedAt": "2026-08-06T08:55:06.888Z"
       },
       {
-        "domain": "cal.com",
-        "startedAt": "2026-08-06T08:50:10.212Z"
+        "domain": "ft.com",
+        "startedAt": "2026-08-06T08:55:22.642Z"
       },
       {
-        "domain": "crescenzi.co",
-        "startedAt": "2026-08-06T08:50:10.208Z"
+        "domain": "umbrel.com",
+        "startedAt": "2026-08-06T08:55:06.887Z"
       },
       {
-        "domain": "penpot.app",
-        "startedAt": "2026-08-06T08:50:10.211Z"
+        "domain": "vitest.dev",
+        "startedAt": "2026-08-06T08:55:22.663Z"
       },
       {
-        "domain": "vibrantpractice.com",
-        "startedAt": "2026-08-06T08:50:10.205Z"
+        "domain": "voidzero.dev",
+        "startedAt": "2026-08-06T08:55:22.662Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 104
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 899,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T08:50:18.670Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T08:55:20.473Z",
+    "message": "Generation failed for friend.com with exit 1."
+  }
 }
