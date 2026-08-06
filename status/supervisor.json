@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T04:05:12.710Z",
-  "heartbeatAt": "2026-08-06T04:05:13.185Z",
+  "heartbeatAt": "2026-08-06T04:10:20.511Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "medium.com",
-        "startedAt": "2026-08-06T04:05:13.039Z"
+        "domain": "revolut.com",
+        "startedAt": "2026-08-06T04:10:20.358Z"
       },
       {
-        "domain": "midjourney.com",
-        "startedAt": "2026-08-06T04:05:13.041Z"
+        "domain": "savee.com",
+        "startedAt": "2026-08-06T04:10:20.355Z"
       },
       {
-        "domain": "mixfont.com",
-        "startedAt": "2026-08-06T04:05:13.041Z"
+        "domain": "stitch.withgoogle.com",
+        "startedAt": "2026-08-06T04:10:20.359Z"
       },
       {
-        "domain": "notion.so",
-        "startedAt": "2026-08-06T04:05:13.042Z"
+        "domain": "supernova.io",
+        "startedAt": "2026-08-06T04:10:15.137Z"
       },
       {
-        "domain": "onmy.land",
-        "startedAt": "2026-08-06T04:05:13.036Z"
+        "domain": "technologyreview.com",
+        "startedAt": "2026-08-06T04:10:20.357Z"
       },
       {
-        "domain": "paperclip.ing",
-        "startedAt": "2026-08-06T04:05:13.040Z"
+        "domain": "v0.app",
+        "startedAt": "2026-08-06T04:10:20.358Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 153
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "availableGeneration": 851,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T04:05:19.805Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T04:10:18.933Z",
+    "message": "Generation failed for replicate.com with exit 1."
+  }
 }
