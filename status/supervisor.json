@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T17:36:55.896Z",
-  "heartbeatAt": "2026-08-06T17:36:56.488Z",
+  "heartbeatAt": "2026-08-06T17:42:06.851Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "code.visualstudio.com",
-        "startedAt": "2026-08-06T17:36:56.315Z"
+        "domain": "dfy.co.kr",
+        "startedAt": "2026-08-06T17:42:06.695Z"
       },
       {
-        "domain": "langchain.com",
-        "startedAt": "2026-08-06T17:36:56.314Z"
+        "domain": "operaneon.com",
+        "startedAt": "2026-08-06T17:42:01.422Z"
       },
       {
-        "domain": "mi.com",
-        "startedAt": "2026-08-06T17:36:56.314Z"
+        "domain": "patreon.com",
+        "startedAt": "2026-08-06T17:42:01.421Z"
       },
       {
-        "domain": "microsoft.com",
-        "startedAt": "2026-08-06T17:36:56.316Z"
+        "domain": "realtime.cloudflare.com",
+        "startedAt": "2026-08-06T17:42:06.697Z"
       },
       {
-        "domain": "nocodeapi.com",
-        "startedAt": "2026-08-06T17:36:56.311Z"
+        "domain": "speak.com",
+        "startedAt": "2026-08-06T17:42:01.408Z"
       },
       {
-        "domain": "workers.cloudflare.com",
-        "startedAt": "2026-08-06T17:36:56.313Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-06T17:42:06.696Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 121
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 882,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T17:37:02.638Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T17:42:04.423Z",
+    "message": "Generation failed for wydrstudios.com with exit 1."
+  }
 }
