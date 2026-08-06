@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T08:09:29.053Z",
-  "heartbeatAt": "2026-08-06T08:09:29.718Z",
+  "heartbeatAt": "2026-08-06T08:14:38.543Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "buick.com",
-        "startedAt": "2026-08-06T08:09:29.497Z"
+        "domain": "hifibridge.com",
+        "startedAt": "2026-08-06T08:14:38.396Z"
       },
       {
-        "domain": "deepnote.com",
-        "startedAt": "2026-08-06T08:09:29.507Z"
+        "domain": "html.to.design",
+        "startedAt": "2026-08-06T08:14:38.399Z"
       },
       {
-        "domain": "designarena.ai",
-        "startedAt": "2026-08-06T08:09:29.501Z"
+        "domain": "izipizi.com",
+        "startedAt": "2026-08-06T08:14:38.394Z"
       },
       {
-        "domain": "disco.ac",
-        "startedAt": "2026-08-06T08:09:29.502Z"
+        "domain": "lapa.ninja",
+        "startedAt": "2026-08-06T08:14:38.395Z"
       },
       {
-        "domain": "fireriskalliance.com",
-        "startedAt": "2026-08-06T08:09:29.499Z"
+        "domain": "wabi.ai",
+        "startedAt": "2026-08-06T08:14:38.390Z"
       },
       {
-        "domain": "godaddy.com",
-        "startedAt": "2026-08-06T08:09:29.498Z"
+        "domain": "windscribe.com",
+        "startedAt": "2026-08-06T08:14:27.600Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 125
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 875,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T08:09:36.615Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T08:14:34.543Z",
+    "message": "Generation failed for heroui.com with exit 1."
+  }
 }
