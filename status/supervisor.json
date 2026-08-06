@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T14:05:34.197Z",
-  "heartbeatAt": "2026-08-06T14:05:34.802Z",
+  "heartbeatAt": "2026-08-06T14:10:47.274Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "app.nocodeapi.com",
-        "startedAt": "2026-08-06T14:05:34.601Z"
+        "domain": "arc.net",
+        "startedAt": "2026-08-06T14:10:41.642Z"
       },
       {
-        "domain": "fastino.ai",
-        "startedAt": "2026-08-06T14:05:34.600Z"
+        "domain": "asml.com",
+        "startedAt": "2026-08-06T14:10:47.053Z"
       },
       {
-        "domain": "georgivalk.framer.website",
-        "startedAt": "2026-08-06T14:05:34.599Z"
+        "domain": "bookmarkify.io",
+        "startedAt": "2026-08-06T14:10:41.667Z"
       },
       {
-        "domain": "shop.ledger.com",
-        "startedAt": "2026-08-06T14:05:34.598Z"
+        "domain": "broadcom.com",
+        "startedAt": "2026-08-06T14:10:36.290Z"
       },
       {
-        "domain": "tella.com",
-        "startedAt": "2026-08-06T14:05:34.595Z"
+        "domain": "crazyrdp.com",
+        "startedAt": "2026-08-06T14:10:47.040Z"
       },
       {
-        "domain": "theverge.com",
-        "startedAt": "2026-08-06T14:05:34.601Z"
+        "domain": "prismdata.com",
+        "startedAt": "2026-08-06T14:10:47.042Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 111
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 892,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T14:05:44.809Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T14:10:45.814Z",
+    "message": "Generation failed for radioshack.com with exit 1."
+  }
 }
