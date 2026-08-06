@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T12:46:25.666Z",
-  "heartbeatAt": "2026-08-06T12:46:26.258Z",
+  "heartbeatAt": "2026-08-06T12:51:35.629Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "dfinity.org",
-        "startedAt": "2026-08-06T12:46:26.070Z"
+        "domain": "dfy.co.kr",
+        "startedAt": "2026-08-06T12:51:35.440Z"
       },
       {
-        "domain": "humantouch.com",
-        "startedAt": "2026-08-06T12:46:26.071Z"
+        "domain": "operaneon.com",
+        "startedAt": "2026-08-06T12:51:24.739Z"
       },
       {
-        "domain": "kree8.studio",
-        "startedAt": "2026-08-06T12:46:26.069Z"
+        "domain": "q-industrial.com",
+        "startedAt": "2026-08-06T12:51:24.754Z"
       },
       {
-        "domain": "lemonsqueezy.com",
-        "startedAt": "2026-08-06T12:46:26.071Z"
+        "domain": "ruda-bureau.pro",
+        "startedAt": "2026-08-06T12:51:30.152Z"
       },
       {
-        "domain": "mailchimp.com",
-        "startedAt": "2026-08-06T12:46:26.064Z"
+        "domain": "sciencedirect.com",
+        "startedAt": "2026-08-06T12:51:30.154Z"
       },
       {
-        "domain": "newkino.studio",
-        "startedAt": "2026-08-06T12:46:26.068Z"
+        "domain": "stardrift.ai",
+        "startedAt": "2026-08-06T12:51:30.153Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 117
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 887,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T12:46:33.221Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T12:51:30.265Z",
+    "message": "Generation failed for adject.ai with exit 1."
+  }
 }
