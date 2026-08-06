@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T14:54:27.139Z",
-  "heartbeatAt": "2026-08-06T14:54:27.684Z",
+  "heartbeatAt": "2026-08-06T14:59:39.780Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "cosmos.so",
-        "startedAt": "2026-08-06T14:54:27.483Z"
+        "domain": "app.speak.com",
+        "startedAt": "2026-08-06T14:59:39.553Z"
       },
       {
-        "domain": "endl.io",
-        "startedAt": "2026-08-06T14:54:27.487Z"
+        "domain": "exa.ai",
+        "startedAt": "2026-08-06T14:59:34.300Z"
       },
       {
-        "domain": "fonttrio.xyz",
-        "startedAt": "2026-08-06T14:54:27.485Z"
+        "domain": "garriock.com",
+        "startedAt": "2026-08-06T14:59:39.551Z"
       },
       {
-        "domain": "forbes.com",
-        "startedAt": "2026-08-06T14:54:27.488Z"
+        "domain": "inceptionlabs.ai",
+        "startedAt": "2026-08-06T14:59:39.552Z"
       },
       {
-        "domain": "mmm.page",
-        "startedAt": "2026-08-06T14:54:27.484Z"
+        "domain": "tweakcn.com",
+        "startedAt": "2026-08-06T14:59:39.554Z"
       },
       {
-        "domain": "theguardian.com",
-        "startedAt": "2026-08-06T14:54:27.486Z"
+        "domain": "worklouder.cc",
+        "startedAt": "2026-08-06T14:59:39.546Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 97
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "availableGeneration": 908,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T14:54:34.898Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T14:59:39.212Z",
+    "message": "Generation failed for autosend.com with exit 1."
+  }
 }
