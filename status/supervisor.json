@@ -1,38 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-06T12:34:03.192Z",
-  "heartbeatAt": "2026-08-06T12:39:13.363Z",
+  "startedAt": "2026-08-06T12:40:43.625Z",
+  "heartbeatAt": "2026-08-06T12:40:44.233Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "firefox.com",
-        "startedAt": "2026-08-06T12:39:02.705Z"
+        "domain": "hash.dev",
+        "startedAt": "2026-08-06T12:40:44.065Z"
       },
       {
-        "domain": "friend.com",
-        "startedAt": "2026-08-06T12:39:02.703Z"
+        "domain": "id.elsevier.com",
+        "startedAt": "2026-08-06T12:40:44.065Z"
       },
       {
-        "domain": "hash.ai",
-        "startedAt": "2026-08-06T12:39:02.702Z"
+        "domain": "jakub.kr",
+        "startedAt": "2026-08-06T12:40:44.068Z"
       },
       {
-        "domain": "modedesigns.com",
-        "startedAt": "2026-08-06T12:39:13.243Z"
+        "domain": "portfolio.adobe.com",
+        "startedAt": "2026-08-06T12:40:44.063Z"
       },
       {
-        "domain": "quantumbody.io",
-        "startedAt": "2026-08-06T12:39:02.705Z"
+        "domain": "voiceos.com",
+        "startedAt": "2026-08-06T12:40:44.066Z"
       },
       {
-        "domain": "voidzero.dev",
-        "startedAt": "2026-08-06T12:39:02.704Z"
+        "domain": "whop.com",
+        "startedAt": "2026-08-06T12:40:44.067Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 109
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -41,17 +41,14 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1004,
-    "availableGeneration": 894,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 1003,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-06T12:34:10.463Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-06T12:39:12.210Z",
-    "message": "Generation failed for ecosia.org with exit 1."
-  }
+  "lastError": null
 }
