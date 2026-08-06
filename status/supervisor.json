@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T15:12:39.379Z",
-  "heartbeatAt": "2026-08-06T15:12:39.952Z",
+  "heartbeatAt": "2026-08-06T15:17:51.900Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bankofamerica.com",
-        "startedAt": "2026-08-06T15:12:39.746Z"
+        "domain": "antler.co",
+        "startedAt": "2026-08-06T15:17:51.750Z"
       },
       {
-        "domain": "fisayofosudo.com",
-        "startedAt": "2026-08-06T15:12:39.742Z"
+        "domain": "once.film",
+        "startedAt": "2026-08-06T15:17:41.247Z"
       },
       {
-        "domain": "henry.codes",
-        "startedAt": "2026-08-06T15:12:39.744Z"
+        "domain": "parrotapp.com",
+        "startedAt": "2026-08-06T15:17:46.485Z"
       },
       {
-        "domain": "jules.google",
-        "startedAt": "2026-08-06T15:12:39.743Z"
+        "domain": "pharos.jstor.org",
+        "startedAt": "2026-08-06T15:17:46.482Z"
       },
       {
-        "domain": "postnext.io",
-        "startedAt": "2026-08-06T15:12:39.744Z"
+        "domain": "refit.framer.website",
+        "startedAt": "2026-08-06T15:17:46.465Z"
       },
       {
-        "domain": "webflow.com",
-        "startedAt": "2026-08-06T15:12:39.745Z"
+        "domain": "shop.heavymetal.com",
+        "startedAt": "2026-08-06T15:17:46.484Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 112
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 890,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T15:12:47.838Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T15:17:50.483Z",
+    "message": "Generation failed for obsidian.md with exit 1."
+  }
 }
