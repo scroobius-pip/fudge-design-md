@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T09:39:28.340Z",
+  "generatedAt": "2026-08-06T09:39:50.603Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1004,
     "needs_reprocessing": 22,
-    "preparing": 4,
-    "drafting": 3
+    "preparing": 6,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T09:34:13.202Z",
-    "heartbeatAt": "2026-08-06T09:39:26.680Z",
+    "startedAt": "2026-08-06T09:39:47.641Z",
+    "heartbeatAt": "2026-08-06T09:39:48.236Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "count.co",
-          "startedAt": "2026-08-06T09:39:16.074Z"
+          "domain": "buildform.ai",
+          "startedAt": "2026-08-06T09:39:48.075Z"
         },
         {
-          "domain": "docs.stripe.com",
-          "startedAt": "2026-08-06T09:39:16.073Z"
+          "domain": "curated.supply",
+          "startedAt": "2026-08-06T09:39:48.081Z"
         },
         {
-          "domain": "jam.dev",
-          "startedAt": "2026-08-06T09:39:21.313Z"
+          "domain": "davidrinman.com",
+          "startedAt": "2026-08-06T09:39:48.082Z"
         },
         {
-          "domain": "type.lol",
-          "startedAt": "2026-08-06T09:39:00.284Z"
+          "domain": "designreviewed.com",
+          "startedAt": "2026-08-06T09:39:48.078Z"
         },
         {
-          "domain": "vedomosti.ru",
-          "startedAt": "2026-08-06T09:39:26.578Z"
+          "domain": "explosion.ai",
+          "startedAt": "2026-08-06T09:39:48.079Z"
         },
         {
-          "domain": "yannickgregoire.nl",
-          "startedAt": "2026-08-06T09:39:00.277Z"
+          "domain": "spline.design",
+          "startedAt": "2026-08-06T09:39:48.080Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 110
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 894,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 0,
+    "recoveredThisRun": 1,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T09:34:21.900Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T09:39:23.484Z",
-      "message": "Generation failed for uicapsule.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -3710,9 +3707,9 @@
     },
     {
       "domain": "buildform.ai",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:44.242Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:48.340Z",
       "blocker": null,
       "publication": {
         "key": "buildform.ai-design",
@@ -5036,9 +5033,9 @@
     },
     {
       "domain": "count.co",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T09:39:16.265Z",
+      "updatedAt": "2026-08-06T09:39:34.807Z",
       "blocker": null,
       "publication": {
         "key": "count.co-design",
@@ -5270,9 +5267,9 @@
     },
     {
       "domain": "curated.supply",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:51.471Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:48.369Z",
       "blocker": null,
       "publication": {
         "key": "curated.supply-design",
@@ -5336,8 +5333,8 @@
     {
       "domain": "d33.io",
       "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:38.039Z",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:42.629Z",
       "blocker": null,
       "publication": {
         "key": "d33.io-design",
@@ -5569,9 +5566,9 @@
     },
     {
       "domain": "davidrinman.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:51.571Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:48.394Z",
       "blocker": null,
       "publication": {
         "key": "davidrinman.com-design",
@@ -5907,9 +5904,9 @@
     },
     {
       "domain": "designreviewed.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:45.208Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:48.355Z",
       "blocker": null,
       "publication": {
         "key": "designreviewed.com-design",
@@ -6349,9 +6346,9 @@
     },
     {
       "domain": "docs.stripe.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T09:39:23.151Z",
+      "updatedAt": "2026-08-06T09:39:30.578Z",
       "blocker": null,
       "publication": {
         "key": "docs.stripe.com-design",
@@ -7298,9 +7295,9 @@
     },
     {
       "domain": "explosion.ai",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T08:51:49.199Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T09:39:48.358Z",
       "blocker": null,
       "publication": {
         "key": "explosion.ai-design",
@@ -10574,9 +10571,9 @@
     },
     {
       "domain": "jam.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 49,
-      "updatedAt": "2026-08-06T09:39:21.485Z",
+      "updatedAt": "2026-08-06T09:39:37.332Z",
       "blocker": null,
       "publication": {
         "key": "jam.dev-design",
@@ -18790,9 +18787,9 @@
     },
     {
       "domain": "spline.design",
-      "state": "failed",
-      "attempt": 48,
-      "updatedAt": "2026-08-06T08:51:50.574Z",
+      "state": "preparing",
+      "attempt": 49,
+      "updatedAt": "2026-08-06T09:39:48.350Z",
       "blocker": null,
       "publication": {
         "key": "spline.design-design",
@@ -19597,8 +19594,8 @@
     {
       "domain": "tailscale.com",
       "state": "failed",
-      "attempt": 48,
-      "updatedAt": "2026-08-06T08:51:36.598Z",
+      "attempt": 49,
+      "updatedAt": "2026-08-06T09:39:47.830Z",
       "blocker": null,
       "publication": {
         "key": "tailscale.com-design",
@@ -20701,9 +20698,9 @@
     },
     {
       "domain": "type.lol",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 49,
-      "updatedAt": "2026-08-06T09:39:00.532Z",
+      "updatedAt": "2026-08-06T09:39:37.738Z",
       "blocker": null,
       "publication": {
         "key": "type.lol-design",
@@ -21092,8 +21089,8 @@
     {
       "domain": "useforma.app",
       "state": "failed",
-      "attempt": 48,
-      "updatedAt": "2026-08-06T08:51:38.129Z",
+      "attempt": 49,
+      "updatedAt": "2026-08-06T09:39:47.687Z",
       "blocker": null,
       "publication": {
         "key": "useforma.app-design",
@@ -21260,9 +21257,9 @@
     },
     {
       "domain": "vedomosti.ru",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 49,
-      "updatedAt": "2026-08-06T09:39:26.747Z",
+      "updatedAt": "2026-08-06T09:39:35.182Z",
       "blocker": null,
       "publication": {
         "key": "vedomosti.ru-design",
@@ -22378,9 +22375,9 @@
     },
     {
       "domain": "yannickgregoire.nl",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 49,
-      "updatedAt": "2026-08-06T09:39:16.567Z",
+      "updatedAt": "2026-08-06T09:39:29.396Z",
       "blocker": null,
       "publication": {
         "key": "yannickgregoire.nl-design",
