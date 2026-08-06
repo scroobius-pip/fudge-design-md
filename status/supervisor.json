@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T23:27:35.599Z",
-  "heartbeatAt": "2026-08-06T23:27:36.189Z",
+  "heartbeatAt": "2026-08-06T23:32:44.991Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "iroh.computer",
-        "startedAt": "2026-08-06T23:27:35.996Z"
+        "domain": "betterstack.com",
+        "startedAt": "2026-08-06T23:32:34.305Z"
       },
       {
-        "domain": "northendboutique.com",
-        "startedAt": "2026-08-06T23:27:35.994Z"
+        "domain": "cosmos.so",
+        "startedAt": "2026-08-06T23:32:34.306Z"
       },
       {
-        "domain": "plus.excalidraw.com",
-        "startedAt": "2026-08-06T23:27:35.996Z"
+        "domain": "dub.co",
+        "startedAt": "2026-08-06T23:32:39.587Z"
       },
       {
-        "domain": "restate.dev",
-        "startedAt": "2026-08-06T23:27:35.992Z"
+        "domain": "explainers.blog",
+        "startedAt": "2026-08-06T23:32:39.586Z"
       },
       {
-        "domain": "rive.app",
-        "startedAt": "2026-08-06T23:27:35.994Z"
+        "domain": "nytimes.com",
+        "startedAt": "2026-08-06T23:32:44.828Z"
       },
       {
-        "domain": "stacks.co",
-        "startedAt": "2026-08-06T23:27:35.995Z"
+        "domain": "subframe.com",
+        "startedAt": "2026-08-06T23:32:44.845Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 116
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 885,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T23:27:42.209Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T23:32:40.981Z",
+    "message": "Generation failed for temporal.io with exit 1."
+  }
 }
