@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T21:18:13.079Z",
-  "heartbeatAt": "2026-08-06T21:18:13.638Z",
+  "heartbeatAt": "2026-08-06T21:23:22.636Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "humantouch.com",
-        "startedAt": "2026-08-06T21:18:13.478Z"
+        "domain": "adject.ai",
+        "startedAt": "2026-08-06T21:23:22.500Z"
       },
       {
-        "domain": "kree8.studio",
-        "startedAt": "2026-08-06T21:18:13.479Z"
+        "domain": "cloudflare.com",
+        "startedAt": "2026-08-06T21:23:22.500Z"
       },
       {
-        "domain": "openship.org",
-        "startedAt": "2026-08-06T21:18:13.478Z"
+        "domain": "mek.gallery",
+        "startedAt": "2026-08-06T21:23:11.942Z"
       },
       {
-        "domain": "openvpn.net",
-        "startedAt": "2026-08-06T21:18:13.477Z"
+        "domain": "operate.so",
+        "startedAt": "2026-08-06T21:23:17.225Z"
       },
       {
-        "domain": "openweb.com",
-        "startedAt": "2026-08-06T21:18:13.480Z"
+        "domain": "thunder.rs",
+        "startedAt": "2026-08-06T21:23:22.499Z"
       },
       {
-        "domain": "thelocal.no",
-        "startedAt": "2026-08-06T21:18:13.475Z"
+        "domain": "zed.dev",
+        "startedAt": "2026-08-06T21:23:11.943Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 103
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 897,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T21:18:20.375Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T21:23:18.825Z",
+    "message": "Generation failed for steven-hanley.com with exit 1."
+  }
 }
