@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T15:27:07.943Z",
-  "heartbeatAt": "2026-08-06T15:27:08.543Z",
+  "heartbeatAt": "2026-08-06T15:32:20.181Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "hinge.co",
-        "startedAt": "2026-08-06T15:27:08.370Z"
+        "domain": "bbc.com",
+        "startedAt": "2026-08-06T15:32:14.786Z"
       },
       {
-        "domain": "igerman.cc",
-        "startedAt": "2026-08-06T15:27:08.368Z"
+        "domain": "cognition.ai",
+        "startedAt": "2026-08-06T15:32:14.786Z"
       },
       {
-        "domain": "kilo.ai",
-        "startedAt": "2026-08-06T15:27:08.367Z"
+        "domain": "krea.ai",
+        "startedAt": "2026-08-06T15:31:43.344Z"
       },
       {
-        "domain": "kiro.dev",
-        "startedAt": "2026-08-06T15:27:08.353Z"
+        "domain": "lineto.com",
+        "startedAt": "2026-08-06T15:32:20.053Z"
       },
       {
-        "domain": "kiwijo.com",
-        "startedAt": "2026-08-06T15:27:08.366Z"
+        "domain": "lucumr.pocoo.org",
+        "startedAt": "2026-08-06T15:32:14.785Z"
       },
       {
-        "domain": "unrav.io",
-        "startedAt": "2026-08-06T15:27:08.369Z"
+        "domain": "tradingview.com",
+        "startedAt": "2026-08-06T15:32:20.050Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 70
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "availableGeneration": 932,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 4,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T15:27:15.474Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T15:32:18.713Z",
+    "message": "Generation failed for lcd.ertdfgcvb.xyz with exit 1."
+  }
 }
