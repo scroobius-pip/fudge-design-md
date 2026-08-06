@@ -1,23 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T23:05:17.956Z",
+  "generatedAt": "2026-08-06T23:09:05.075Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1011,
-    "needs_reprocessing": 22
+    "failed": 1004,
+    "needs_reprocessing": 22,
+    "preparing": 6,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T22:08:35.413Z",
-    "heartbeatAt": "2026-08-06T23:05:16.241Z",
+    "startedAt": "2026-08-06T23:09:02.517Z",
+    "heartbeatAt": "2026-08-06T23:09:03.116Z",
     "generation": {
       "concurrency": 6,
-      "active": [],
+      "active": [
+        {
+          "domain": "antler.co",
+          "startedAt": "2026-08-06T23:09:02.924Z"
+        },
+        {
+          "domain": "meta.com",
+          "startedAt": "2026-08-06T23:09:02.920Z"
+        },
+        {
+          "domain": "pxlpowerup.se",
+          "startedAt": "2026-08-06T23:09:02.926Z"
+        },
+        {
+          "domain": "shapeof.ai",
+          "startedAt": "2026-08-06T23:09:02.927Z"
+        },
+        {
+          "domain": "shop.heavymetal.com",
+          "startedAt": "2026-08-06T23:09:02.932Z"
+        },
+        {
+          "domain": "technicshistory.com",
+          "startedAt": "2026-08-06T23:09:02.932Z"
+        }
+      ],
       "completedThisRun": 0,
-      "failedThisRun": 1011
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -26,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1011,
-      "availableGeneration": 0,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 9,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T23:00:11.090Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T22:57:59.698Z",
-      "message": "Generation failed for lemfi.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -1356,9 +1380,9 @@
     },
     {
       "domain": "antler.co",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:06.980Z",
+      "state": "preparing",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:09:03.194Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -11861,8 +11885,8 @@
     {
       "domain": "lit.dev",
       "state": "failed",
-      "attempt": 63,
-      "updatedAt": "2026-08-06T22:08:53.954Z",
+      "attempt": 64,
+      "updatedAt": "2026-08-06T23:08:50.284Z",
       "blocker": null,
       "publication": {
         "key": "lit.dev-design",
@@ -12147,8 +12171,8 @@
     {
       "domain": "loveeez.com",
       "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:08:51.905Z",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:08:52.256Z",
       "blocker": null,
       "publication": {
         "key": "loveeez.com-design",
@@ -12770,9 +12794,9 @@
     },
     {
       "domain": "meta.com",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:06.968Z",
+      "state": "preparing",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:09:03.176Z",
       "blocker": null,
       "publication": {
         "key": "meta.com-design",
@@ -14188,8 +14212,8 @@
     {
       "domain": "nothing.tech",
       "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:08:50.474Z",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:08:51.021Z",
       "blocker": null,
       "publication": {
         "key": "nothing.tech-design",
@@ -15747,9 +15771,9 @@
     },
     {
       "domain": "photoyoshi.com",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:05.353Z",
+      "state": "drafting",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:08:55.973Z",
       "blocker": null,
       "publication": {
         "key": "photoyoshi.com-design",
@@ -15930,8 +15954,8 @@
     {
       "domain": "platform.minimax.io",
       "state": "failed",
-      "attempt": 63,
-      "updatedAt": "2026-08-06T22:08:47.940Z",
+      "attempt": 64,
+      "updatedAt": "2026-08-06T23:08:50.118Z",
       "blocker": null,
       "publication": {
         "key": "platform.minimax.io-design",
@@ -16579,9 +16603,9 @@
     },
     {
       "domain": "pxlpowerup.se",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:08.374Z",
+      "state": "preparing",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:09:03.197Z",
       "blocker": null,
       "publication": {
         "key": "pxlpowerup.se-design",
@@ -16645,8 +16669,8 @@
     {
       "domain": "quantamagazine.org",
       "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:08:47.670Z",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:08:49.855Z",
       "blocker": null,
       "publication": {
         "key": "quantamagazine.org-design",
@@ -18178,9 +18202,9 @@
     },
     {
       "domain": "shapeof.ai",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:11.851Z",
+      "state": "preparing",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:09:03.196Z",
       "blocker": null,
       "publication": {
         "key": "shapeof.ai-design",
@@ -18230,9 +18254,9 @@
     },
     {
       "domain": "shop.heavymetal.com",
-      "state": "failed",
-      "attempt": 63,
-      "updatedAt": "2026-08-06T22:09:13.143Z",
+      "state": "preparing",
+      "attempt": 64,
+      "updatedAt": "2026-08-06T23:09:03.250Z",
       "blocker": null,
       "publication": {
         "key": "shop.heavymetal.com-design",
@@ -19699,9 +19723,9 @@
     },
     {
       "domain": "technicshistory.com",
-      "state": "failed",
-      "attempt": 64,
-      "updatedAt": "2026-08-06T22:09:20.712Z",
+      "state": "preparing",
+      "attempt": 65,
+      "updatedAt": "2026-08-06T23:09:03.264Z",
       "blocker": null,
       "publication": {
         "key": "technicshistory.com-design",
@@ -22261,8 +22285,8 @@
     {
       "domain": "www2.hm.com",
       "state": "failed",
-      "attempt": 63,
-      "updatedAt": "2026-08-06T22:08:53.364Z",
+      "attempt": 64,
+      "updatedAt": "2026-08-06T23:08:55.377Z",
       "blocker": null,
       "publication": {
         "key": "www2.hm.com-design",

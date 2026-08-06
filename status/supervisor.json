@@ -1,13 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-06T22:08:35.413Z",
-  "heartbeatAt": "2026-08-06T23:05:16.241Z",
+  "startedAt": "2026-08-06T23:09:02.517Z",
+  "heartbeatAt": "2026-08-06T23:09:03.116Z",
   "generation": {
     "concurrency": 6,
-    "active": [],
+    "active": [
+      {
+        "domain": "antler.co",
+        "startedAt": "2026-08-06T23:09:02.924Z"
+      },
+      {
+        "domain": "meta.com",
+        "startedAt": "2026-08-06T23:09:02.920Z"
+      },
+      {
+        "domain": "pxlpowerup.se",
+        "startedAt": "2026-08-06T23:09:02.926Z"
+      },
+      {
+        "domain": "shapeof.ai",
+        "startedAt": "2026-08-06T23:09:02.927Z"
+      },
+      {
+        "domain": "shop.heavymetal.com",
+        "startedAt": "2026-08-06T23:09:02.932Z"
+      },
+      {
+        "domain": "technicshistory.com",
+        "startedAt": "2026-08-06T23:09:02.932Z"
+      }
+    ],
     "completedThisRun": 0,
-    "failedThisRun": 1011
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -16,17 +41,14 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 0,
+    "eligibleGeneration": 1010,
+    "availableGeneration": 1004,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 9,
+  "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-06T23:00:11.090Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-06T22:57:59.698Z",
-    "message": "Generation failed for lemfi.com with exit 1."
-  }
+  "lastError": null
 }
