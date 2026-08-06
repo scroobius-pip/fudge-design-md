@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T07:25:43.870Z",
-  "heartbeatAt": "2026-08-06T07:25:44.423Z",
+  "heartbeatAt": "2026-08-06T07:30:59.730Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "arago.wawww.studio",
-        "startedAt": "2026-08-06T07:25:44.234Z"
+        "domain": "cofounder.co",
+        "startedAt": "2026-08-06T07:30:49.048Z"
       },
       {
-        "domain": "brynmawr.edu",
-        "startedAt": "2026-08-06T07:25:44.237Z"
+        "domain": "fastmail.com",
+        "startedAt": "2026-08-06T07:30:54.300Z"
       },
       {
-        "domain": "buffer.com",
-        "startedAt": "2026-08-06T07:25:44.230Z"
+        "domain": "ferndesk.com",
+        "startedAt": "2026-08-06T07:30:54.298Z"
       },
       {
-        "domain": "bybitglobal.com",
-        "startedAt": "2026-08-06T07:25:44.237Z"
+        "domain": "fix.studio",
+        "startedAt": "2026-08-06T07:30:54.299Z"
       },
       {
-        "domain": "cara.app",
-        "startedAt": "2026-08-06T07:25:44.234Z"
+        "domain": "florafauna.ai",
+        "startedAt": "2026-08-06T07:30:54.299Z"
       },
       {
-        "domain": "dmitrybrant.com",
-        "startedAt": "2026-08-06T07:25:44.236Z"
+        "domain": "vinylc.com",
+        "startedAt": "2026-08-06T07:30:54.296Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 130
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 871,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T07:25:54.612Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T07:30:54.235Z",
+    "message": "Generation failed for useorigin.com with exit 1."
+  }
 }
