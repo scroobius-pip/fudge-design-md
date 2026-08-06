@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T15:06:00.403Z",
-  "heartbeatAt": "2026-08-06T15:06:00.985Z",
+  "heartbeatAt": "2026-08-06T15:11:09.431Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "designarena.ai",
-        "startedAt": "2026-08-06T15:06:00.781Z"
+        "domain": "deezer.com",
+        "startedAt": "2026-08-06T15:11:03.953Z"
       },
       {
-        "domain": "designerdailyreport.com",
-        "startedAt": "2026-08-06T15:06:00.784Z"
+        "domain": "marathonthegame.com",
+        "startedAt": "2026-08-06T15:10:58.609Z"
       },
       {
-        "domain": "dribbble.com",
-        "startedAt": "2026-08-06T15:06:00.782Z"
+        "domain": "thinkingmachines.ai",
+        "startedAt": "2026-08-06T15:10:58.614Z"
       },
       {
-        "domain": "tencent.com",
-        "startedAt": "2026-08-06T15:06:00.785Z"
+        "domain": "ventionteams.com",
+        "startedAt": "2026-08-06T15:10:58.613Z"
       },
       {
-        "domain": "tiptap.dev",
-        "startedAt": "2026-08-06T15:06:00.783Z"
+        "domain": "wired.com",
+        "startedAt": "2026-08-06T15:10:58.616Z"
       },
       {
-        "domain": "type.lol",
-        "startedAt": "2026-08-06T15:06:00.785Z"
+        "domain": "witharc.co",
+        "startedAt": "2026-08-06T15:10:58.617Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 114
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 888,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T15:06:07.875Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T15:10:59.713Z",
+    "message": "Generation failed for audio.com with exit 1."
+  }
 }
