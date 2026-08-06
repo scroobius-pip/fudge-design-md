@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T12:45:56.317Z",
+  "generatedAt": "2026-08-06T12:46:28.583Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1004,
     "needs_reprocessing": 22,
-    "drafting": 4,
-    "preparing": 3
+    "drafting": 1,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T12:40:43.625Z",
-    "heartbeatAt": "2026-08-06T12:45:54.142Z",
+    "startedAt": "2026-08-06T12:46:25.666Z",
+    "heartbeatAt": "2026-08-06T12:46:26.258Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "harvey.ai",
-          "startedAt": "2026-08-06T12:45:48.677Z"
+          "domain": "dfinity.org",
+          "startedAt": "2026-08-06T12:46:26.070Z"
         },
         {
-          "domain": "leel.in",
-          "startedAt": "2026-08-06T12:45:38.164Z"
+          "domain": "humantouch.com",
+          "startedAt": "2026-08-06T12:46:26.071Z"
         },
         {
-          "domain": "makerstations.io",
-          "startedAt": "2026-08-06T12:45:53.961Z"
+          "domain": "kree8.studio",
+          "startedAt": "2026-08-06T12:46:26.069Z"
         },
         {
-          "domain": "maxitype.com",
-          "startedAt": "2026-08-06T12:45:48.676Z"
+          "domain": "lemonsqueezy.com",
+          "startedAt": "2026-08-06T12:46:26.071Z"
         },
         {
-          "domain": "midlife.engineering",
-          "startedAt": "2026-08-06T12:45:53.962Z"
+          "domain": "mailchimp.com",
+          "startedAt": "2026-08-06T12:46:26.064Z"
         },
         {
-          "domain": "oldcitymailroom.com",
-          "startedAt": "2026-08-06T12:45:48.677Z"
+          "domain": "newkino.studio",
+          "startedAt": "2026-08-06T12:46:26.068Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 97
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 907,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 2,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T12:40:53.581Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T12:45:53.480Z",
-      "message": "Generation failed for labs.chaingpt.org with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -2996,8 +2993,8 @@
     {
       "domain": "belfasttelegraph.co.uk",
       "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:53.436Z",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:24.711Z",
       "blocker": null,
       "publication": {
         "key": "belfasttelegraph.co.uk-design",
@@ -6076,9 +6073,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "failed",
-      "attempt": 52,
-      "updatedAt": "2026-08-06T11:55:58.170Z",
+      "state": "preparing",
+      "attempt": 53,
+      "updatedAt": "2026-08-06T12:46:26.404Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -9235,9 +9232,9 @@
     },
     {
       "domain": "harvey.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:48.906Z",
+      "updatedAt": "2026-08-06T12:46:03.714Z",
       "blocker": null,
       "publication": {
         "key": "harvey.ai-design",
@@ -9794,9 +9791,9 @@
     },
     {
       "domain": "humantouch.com",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:56:02.509Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:26.415Z",
       "blocker": null,
       "publication": {
         "key": "humantouch.com-design",
@@ -10783,8 +10780,8 @@
     {
       "domain": "joshwcomeau.com",
       "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:35.270Z",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:19.365Z",
       "blocker": null,
       "publication": {
         "key": "joshwcomeau.com-design",
@@ -11315,9 +11312,9 @@
     },
     {
       "domain": "kree8.studio",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:57.912Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:26.368Z",
       "blocker": null,
       "publication": {
         "key": "kree8.studio-design",
@@ -11575,9 +11572,9 @@
     },
     {
       "domain": "leel.in",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:50.540Z",
+      "updatedAt": "2026-08-06T12:45:59.843Z",
       "blocker": null,
       "publication": {
         "key": "leel.in-design",
@@ -11614,9 +11611,9 @@
     },
     {
       "domain": "lemonsqueezy.com",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:56:08.382Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:26.383Z",
       "blocker": null,
       "publication": {
         "key": "lemonsqueezy.com-design",
@@ -12356,8 +12353,8 @@
     {
       "domain": "maciej.co",
       "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:37.457Z",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:15.339Z",
       "blocker": null,
       "publication": {
         "key": "maciej.co-design",
@@ -12407,9 +12404,9 @@
     },
     {
       "domain": "mailchimp.com",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:55.487Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:26.366Z",
       "blocker": null,
       "publication": {
         "key": "mailchimp.com-design",
@@ -12433,9 +12430,9 @@
     },
     {
       "domain": "makerstations.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:54.198Z",
+      "updatedAt": "2026-08-06T12:46:03.857Z",
       "blocker": null,
       "publication": {
         "key": "makerstations.io-design",
@@ -12628,9 +12625,9 @@
     },
     {
       "domain": "maxitype.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:53.381Z",
+      "updatedAt": "2026-08-06T12:46:00.934Z",
       "blocker": null,
       "publication": {
         "key": "maxitype.com-design",
@@ -12927,9 +12924,9 @@
     },
     {
       "domain": "midlife.engineering",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:54.187Z",
+      "updatedAt": "2026-08-06T12:46:10.950Z",
       "blocker": null,
       "publication": {
         "key": "midlife.engineering-design",
@@ -13500,8 +13497,8 @@
     {
       "domain": "mosaic.so",
       "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:36.870Z",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:19.569Z",
       "blocker": null,
       "publication": {
         "key": "mosaic.so-design",
@@ -13928,9 +13925,9 @@
     },
     {
       "domain": "newkino.studio",
-      "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:57.774Z",
+      "state": "preparing",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:26.372Z",
       "blocker": null,
       "publication": {
         "key": "newkino.studio-design",
@@ -14332,8 +14329,8 @@
     {
       "domain": "nucleoapp.com",
       "state": "failed",
-      "attempt": 51,
-      "updatedAt": "2026-08-06T11:55:37.185Z",
+      "attempt": 52,
+      "updatedAt": "2026-08-06T12:46:15.434Z",
       "blocker": null,
       "publication": {
         "key": "nucleoapp.com-design",
@@ -14591,9 +14588,9 @@
     },
     {
       "domain": "oldcitymailroom.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 52,
-      "updatedAt": "2026-08-06T12:45:53.087Z",
+      "updatedAt": "2026-08-06T12:45:59.920Z",
       "blocker": null,
       "publication": {
         "key": "oldcitymailroom.com-design",
@@ -22483,8 +22480,8 @@
     {
       "domain": "zapier.com",
       "state": "failed",
-      "attempt": 50,
-      "updatedAt": "2026-08-06T11:55:38.245Z",
+      "attempt": 51,
+      "updatedAt": "2026-08-06T12:46:23.918Z",
       "blocker": null,
       "publication": {
         "key": "zapier.com-design",
