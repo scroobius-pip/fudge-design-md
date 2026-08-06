@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T04:58:29.987Z",
-  "heartbeatAt": "2026-08-06T04:58:30.463Z",
+  "heartbeatAt": "2026-08-06T05:03:42.051Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bankofamerica.com",
-        "startedAt": "2026-08-06T04:58:30.345Z"
+        "domain": "meta.com",
+        "startedAt": "2026-08-06T05:03:26.232Z"
       },
       {
-        "domain": "haupcar.com",
-        "startedAt": "2026-08-06T04:58:30.343Z"
+        "domain": "morphic.com",
+        "startedAt": "2026-08-06T05:03:41.926Z"
       },
       {
-        "domain": "henry.codes",
-        "startedAt": "2026-08-06T04:58:30.342Z"
+        "domain": "nothing.tech",
+        "startedAt": "2026-08-06T05:03:26.235Z"
       },
       {
-        "domain": "hifibridge.com",
-        "startedAt": "2026-08-06T04:58:30.346Z"
+        "domain": "pepperl-fuchs.com",
+        "startedAt": "2026-08-06T05:03:41.937Z"
       },
       {
-        "domain": "html.to.design",
-        "startedAt": "2026-08-06T04:58:30.344Z"
+        "domain": "platform.minimax.io",
+        "startedAt": "2026-08-06T05:03:41.938Z"
       },
       {
-        "domain": "lapa.ninja",
-        "startedAt": "2026-08-06T04:58:30.344Z"
+        "domain": "ycombinator.com",
+        "startedAt": "2026-08-06T05:03:31.461Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 125
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 879,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T04:58:36.796Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T05:03:41.337Z",
+    "message": "Generation failed for nango.dev with exit 1."
+  }
 }
