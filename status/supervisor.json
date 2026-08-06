@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T08:23:13.112Z",
-  "heartbeatAt": "2026-08-06T08:23:13.685Z",
+  "heartbeatAt": "2026-08-06T08:28:21.312Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "outerbase.com",
-        "startedAt": "2026-08-06T08:23:13.485Z"
+        "domain": "gaio.club",
+        "startedAt": "2026-08-06T08:28:15.893Z"
       },
       {
-        "domain": "patreon.com",
-        "startedAt": "2026-08-06T08:23:13.482Z"
+        "domain": "helin.design",
+        "startedAt": "2026-08-06T08:28:15.892Z"
       },
       {
-        "domain": "porsche.com",
-        "startedAt": "2026-08-06T08:23:13.486Z"
+        "domain": "heroui.pro",
+        "startedAt": "2026-08-06T08:28:15.889Z"
       },
       {
-        "domain": "preludesecurity.com",
-        "startedAt": "2026-08-06T08:23:13.485Z"
+        "domain": "visualelectric.com",
+        "startedAt": "2026-08-06T08:28:15.891Z"
       },
       {
-        "domain": "sacred.computer",
-        "startedAt": "2026-08-06T08:23:13.483Z"
+        "domain": "wearecollins.com",
+        "startedAt": "2026-08-06T08:28:10.596Z"
       },
       {
-        "domain": "sublime.app",
-        "startedAt": "2026-08-06T08:23:13.487Z"
+        "domain": "wix.com",
+        "startedAt": "2026-08-06T08:28:15.890Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 127
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T08:23:20.776Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T08:28:15.443Z",
+    "message": "Generation failed for lofree.co with exit 1."
+  }
 }
