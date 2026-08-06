@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T09:34:13.202Z",
-  "heartbeatAt": "2026-08-06T09:34:13.746Z",
+  "heartbeatAt": "2026-08-06T09:39:26.680Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "alibabagroup.com",
-        "startedAt": "2026-08-06T09:34:13.566Z"
+        "domain": "count.co",
+        "startedAt": "2026-08-06T09:39:16.074Z"
       },
       {
-        "domain": "app.cal.com",
-        "startedAt": "2026-08-06T09:34:13.567Z"
+        "domain": "docs.stripe.com",
+        "startedAt": "2026-08-06T09:39:16.073Z"
       },
       {
-        "domain": "app.kuse.ai",
-        "startedAt": "2026-08-06T09:34:13.569Z"
+        "domain": "jam.dev",
+        "startedAt": "2026-08-06T09:39:21.313Z"
       },
       {
-        "domain": "garriock.com",
-        "startedAt": "2026-08-06T09:34:13.565Z"
+        "domain": "type.lol",
+        "startedAt": "2026-08-06T09:39:00.284Z"
       },
       {
-        "domain": "triangle-studio.co.kr",
-        "startedAt": "2026-08-06T09:34:13.569Z"
+        "domain": "vedomosti.ru",
+        "startedAt": "2026-08-06T09:39:26.578Z"
       },
       {
-        "domain": "worklouder.cc",
-        "startedAt": "2026-08-06T09:34:13.568Z"
+        "domain": "yannickgregoire.nl",
+        "startedAt": "2026-08-06T09:39:00.277Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 110
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 894,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T09:34:21.900Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T09:39:23.484Z",
+    "message": "Generation failed for uicapsule.com with exit 1."
+  }
 }
