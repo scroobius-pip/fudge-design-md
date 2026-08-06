@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T09:15:32.361Z",
-  "heartbeatAt": "2026-08-06T09:15:32.902Z",
+  "heartbeatAt": "2026-08-06T09:20:46.022Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bbc.com",
-        "startedAt": "2026-08-06T09:15:32.733Z"
+        "domain": "midjourney.com",
+        "startedAt": "2026-08-06T09:20:45.810Z"
       },
       {
-        "domain": "juno.build",
-        "startedAt": "2026-08-06T09:15:32.732Z"
+        "domain": "modal.com",
+        "startedAt": "2026-08-06T09:20:45.777Z"
       },
       {
-        "domain": "krea.ai",
-        "startedAt": "2026-08-06T09:15:32.731Z"
+        "domain": "mux.com",
+        "startedAt": "2026-08-06T09:20:45.806Z"
       },
       {
-        "domain": "lightfield.app",
-        "startedAt": "2026-08-06T09:15:32.736Z"
+        "domain": "odylicmedia.com",
+        "startedAt": "2026-08-06T09:20:45.807Z"
       },
       {
-        "domain": "liveblocks.io",
-        "startedAt": "2026-08-06T09:15:32.735Z"
+        "domain": "opper.ai",
+        "startedAt": "2026-08-06T09:20:45.812Z"
       },
       {
-        "domain": "mangle.readthedocs.io",
-        "startedAt": "2026-08-06T09:15:32.734Z"
+        "domain": "poppy-connection-keeper.netlify.app",
+        "startedAt": "2026-08-06T09:20:40.553Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 113
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 890,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T09:15:40.918Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T09:20:43.686Z",
+    "message": "Generation failed for neobrowser.ai with exit 1."
+  }
 }
