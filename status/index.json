@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T20:52:57.113Z",
+  "generatedAt": "2026-08-06T20:53:29.178Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
@@ -13,34 +13,34 @@
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T20:52:54.451Z",
-    "heartbeatAt": "2026-08-06T20:52:55.012Z",
+    "startedAt": "2026-08-06T20:53:26.435Z",
+    "heartbeatAt": "2026-08-06T20:53:27.091Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "cosmic-ray.tv",
-          "startedAt": "2026-08-06T20:52:54.877Z"
+          "domain": "eu-inc.org",
+          "startedAt": "2026-08-06T20:53:26.897Z"
         },
         {
-          "domain": "ethicalads.io",
-          "startedAt": "2026-08-06T20:52:54.880Z"
+          "domain": "haupcar.com",
+          "startedAt": "2026-08-06T20:53:26.900Z"
         },
         {
-          "domain": "playground.nothing.tech",
-          "startedAt": "2026-08-06T20:52:54.879Z"
+          "domain": "selected.site",
+          "startedAt": "2026-08-06T20:53:26.901Z"
         },
         {
-          "domain": "replicate.com",
-          "startedAt": "2026-08-06T20:52:54.880Z"
+          "domain": "snorkel.ai",
+          "startedAt": "2026-08-06T20:53:26.902Z"
         },
         {
-          "domain": "research.google",
-          "startedAt": "2026-08-06T20:52:54.881Z"
+          "domain": "theseventeen.co",
+          "startedAt": "2026-08-06T20:53:26.899Z"
         },
         {
-          "domain": "stitch.withgoogle.com",
-          "startedAt": "2026-08-06T20:52:54.882Z"
+          "domain": "yuskavage.com",
+          "startedAt": "2026-08-06T20:53:26.899Z"
         }
       ],
       "completedThisRun": 0,
@@ -58,7 +58,7 @@
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 0,
+    "recoveredThisRun": 2,
     "publicTracker": {
       "lastSyncedAt": null
     },
@@ -4981,9 +4981,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 64,
-      "updatedAt": "2026-08-06T20:52:55.189Z",
+      "updatedAt": "2026-08-06T20:53:15.353Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -6958,8 +6958,8 @@
     {
       "domain": "emmiwu.com",
       "state": "failed",
-      "attempt": 62,
-      "updatedAt": "2026-08-06T20:05:50.675Z",
+      "attempt": 63,
+      "updatedAt": "2026-08-06T20:53:22.377Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
@@ -7126,9 +7126,9 @@
     },
     {
       "domain": "ethicalads.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 63,
-      "updatedAt": "2026-08-06T20:52:55.186Z",
+      "updatedAt": "2026-08-06T20:53:06.461Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
@@ -7152,9 +7152,9 @@
     },
     {
       "domain": "eu-inc.org",
-      "state": "failed",
-      "attempt": 62,
-      "updatedAt": "2026-08-06T20:05:52.751Z",
+      "state": "preparing",
+      "attempt": 63,
+      "updatedAt": "2026-08-06T20:53:27.209Z",
       "blocker": null,
       "publication": {
         "key": "eu-inc.org-design",
@@ -7504,8 +7504,8 @@
     {
       "domain": "figr.design",
       "state": "failed",
-      "attempt": 62,
-      "updatedAt": "2026-08-06T20:05:52.476Z",
+      "attempt": 63,
+      "updatedAt": "2026-08-06T20:53:25.793Z",
       "blocker": null,
       "publication": {
         "key": "figr.design-design",
@@ -9297,9 +9297,9 @@
     },
     {
       "domain": "haupcar.com",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:05:59.942Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:27.331Z",
       "blocker": null,
       "publication": {
         "key": "haupcar.com-design",
@@ -16044,9 +16044,9 @@
     },
     {
       "domain": "playground.nothing.tech",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:52:55.191Z",
+      "updatedAt": "2026-08-06T20:53:16.120Z",
       "blocker": null,
       "publication": {
         "key": "playground.nothing.tech-design",
@@ -17124,8 +17124,8 @@
     {
       "domain": "redreach.ai",
       "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:05:42.284Z",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:26.640Z",
       "blocker": null,
       "publication": {
         "key": "redreach.ai-design",
@@ -17150,8 +17150,8 @@
     {
       "domain": "refero.design",
       "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:05:43.116Z",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:26.641Z",
       "blocker": null,
       "publication": {
         "key": "refero.design-design",
@@ -17240,9 +17240,9 @@
     },
     {
       "domain": "replicate.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:52:55.189Z",
+      "updatedAt": "2026-08-06T20:53:08.982Z",
       "blocker": null,
       "publication": {
         "key": "replicate.com-design",
@@ -17292,9 +17292,9 @@
     },
     {
       "domain": "research.google",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:52:55.171Z",
+      "updatedAt": "2026-08-06T20:53:14.770Z",
       "blocker": null,
       "publication": {
         "key": "research.google-design",
@@ -18085,9 +18085,9 @@
     },
     {
       "domain": "selected.site",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:06:10.197Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:27.225Z",
       "blocker": null,
       "publication": {
         "key": "selected.site-design",
@@ -18566,9 +18566,9 @@
     },
     {
       "domain": "snorkel.ai",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:06:10.660Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:27.310Z",
       "blocker": null,
       "publication": {
         "key": "snorkel.ai-design",
@@ -19021,9 +19021,9 @@
     },
     {
       "domain": "stitch.withgoogle.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:52:55.226Z",
+      "updatedAt": "2026-08-06T20:53:10.569Z",
       "blocker": null,
       "publication": {
         "key": "stitch.withgoogle.com-design",
@@ -20022,9 +20022,9 @@
     },
     {
       "domain": "theseventeen.co",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T20:05:54.953Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:53:27.209Z",
       "blocker": null,
       "publication": {
         "key": "theseventeen.co-design",
@@ -22427,9 +22427,9 @@
     },
     {
       "domain": "yuskavage.com",
-      "state": "failed",
-      "attempt": 57,
-      "updatedAt": "2026-08-06T20:05:59.483Z",
+      "state": "preparing",
+      "attempt": 58,
+      "updatedAt": "2026-08-06T20:53:27.216Z",
       "blocker": null,
       "publication": {
         "key": "yuskavage.com-design",
