@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T02:06:00.512Z",
-  "heartbeatAt": "2026-08-06T02:06:01.024Z",
+  "heartbeatAt": "2026-08-06T02:11:08.497Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "rains.com",
-        "startedAt": "2026-08-06T02:06:00.826Z"
+        "domain": "juno.build",
+        "startedAt": "2026-08-06T02:10:57.833Z"
       },
       {
-        "domain": "replacement.ai",
-        "startedAt": "2026-08-06T02:06:00.827Z"
+        "domain": "liveblocks.io",
+        "startedAt": "2026-08-06T02:11:03.127Z"
       },
       {
-        "domain": "s6foundry.com",
-        "startedAt": "2026-08-06T02:06:00.825Z"
+        "domain": "matklad.github.io",
+        "startedAt": "2026-08-06T02:11:03.122Z"
       },
       {
-        "domain": "slowly.app",
-        "startedAt": "2026-08-06T02:06:00.828Z"
+        "domain": "metalab.com",
+        "startedAt": "2026-08-06T02:11:03.128Z"
       },
       {
-        "domain": "speak.com",
-        "startedAt": "2026-08-06T02:06:00.824Z"
+        "domain": "tempo.xyz",
+        "startedAt": "2026-08-06T02:11:08.397Z"
       },
       {
-        "domain": "trae.ai",
-        "startedAt": "2026-08-06T02:06:00.823Z"
+        "domain": "withsupafast.com",
+        "startedAt": "2026-08-06T02:11:03.125Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 141
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 863,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T02:06:07.813Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T02:11:03.424Z",
+    "message": "Generation failed for firstpromoter.com with exit 1."
+  }
 }
