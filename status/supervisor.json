@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T02:35:55.344Z",
-  "heartbeatAt": "2026-08-06T02:35:55.844Z",
+  "heartbeatAt": "2026-08-06T02:41:06.673Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fireshinegames.co.uk",
-        "startedAt": "2026-08-06T02:35:55.667Z"
+        "domain": "mek.gallery",
+        "startedAt": "2026-08-06T02:40:56.108Z"
       },
       {
-        "domain": "greptile.com",
-        "startedAt": "2026-08-06T02:35:55.667Z"
+        "domain": "mongodb.com",
+        "startedAt": "2026-08-06T02:41:01.329Z"
       },
       {
-        "domain": "hellotalk.com",
-        "startedAt": "2026-08-06T02:35:55.670Z"
+        "domain": "observablehq.com",
+        "startedAt": "2026-08-06T02:41:01.329Z"
       },
       {
-        "domain": "iamnoman.com",
-        "startedAt": "2026-08-06T02:35:55.668Z"
+        "domain": "peerlist.io",
+        "startedAt": "2026-08-06T02:41:01.330Z"
       },
       {
-        "domain": "lapa.ninja",
-        "startedAt": "2026-08-06T02:35:55.669Z"
+        "domain": "pxlpowerup.se",
+        "startedAt": "2026-08-06T02:41:01.328Z"
       },
       {
-        "domain": "warp.dev",
-        "startedAt": "2026-08-06T02:35:55.664Z"
+        "domain": "reducto.ai",
+        "startedAt": "2026-08-06T02:41:06.565Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 138
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 864,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T02:36:02.242Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T02:41:05.578Z",
+    "message": "Generation failed for rasp.club with exit 1."
+  }
 }
