@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T00:02:01.505Z",
-  "heartbeatAt": "2026-08-06T00:02:01.966Z",
+  "heartbeatAt": "2026-08-06T00:07:13.357Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "ai.cloudflare.com",
-        "startedAt": "2026-08-06T00:02:01.808Z"
+        "domain": "fonts.ninja",
+        "startedAt": "2026-08-06T00:07:13.206Z"
       },
       {
-        "domain": "applovin.com",
-        "startedAt": "2026-08-06T00:02:01.812Z"
+        "domain": "macaron.im",
+        "startedAt": "2026-08-06T00:07:13.202Z"
       },
       {
-        "domain": "artists.soundcloud.com",
-        "startedAt": "2026-08-06T00:02:01.815Z"
+        "domain": "useorigin.com",
+        "startedAt": "2026-08-06T00:07:13.208Z"
       },
       {
-        "domain": "basement.studio",
-        "startedAt": "2026-08-06T00:02:01.814Z"
+        "domain": "void.cloud",
+        "startedAt": "2026-08-06T00:07:13.205Z"
       },
       {
-        "domain": "builder.io",
-        "startedAt": "2026-08-06T00:02:01.812Z"
+        "domain": "warbl.tw",
+        "startedAt": "2026-08-06T00:07:08.006Z"
       },
       {
-        "domain": "tryholo.ai",
-        "startedAt": "2026-08-06T00:02:01.813Z"
+        "domain": "wero-wallet.eu",
+        "startedAt": "2026-08-06T00:07:13.207Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 153
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 851,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T00:02:08.219Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T00:07:13.075Z",
+    "message": "Generation failed for ea.com with exit 1."
+  }
 }
