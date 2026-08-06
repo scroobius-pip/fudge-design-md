@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T23:34:41.649Z",
-  "heartbeatAt": "2026-08-06T23:34:42.231Z",
+  "heartbeatAt": "2026-08-06T23:39:51.414Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "anytype.dev",
-        "startedAt": "2026-08-06T23:34:42.068Z"
+        "domain": "arago.wawww.studio",
+        "startedAt": "2026-08-06T23:39:45.952Z"
       },
       {
-        "domain": "blog.langchain.com",
-        "startedAt": "2026-08-06T23:34:42.067Z"
+        "domain": "bggs.qld.edu.au",
+        "startedAt": "2026-08-06T23:39:51.229Z"
       },
       {
-        "domain": "epsteinexposed.com",
-        "startedAt": "2026-08-06T23:34:42.065Z"
+        "domain": "bugster.dev",
+        "startedAt": "2026-08-06T23:39:51.231Z"
       },
       {
-        "domain": "goose.ai",
-        "startedAt": "2026-08-06T23:34:42.068Z"
+        "domain": "charlieosborne.co",
+        "startedAt": "2026-08-06T23:39:51.231Z"
       },
       {
-        "domain": "ifttt.com",
-        "startedAt": "2026-08-06T23:34:42.070Z"
+        "domain": "spline.design",
+        "startedAt": "2026-08-06T23:39:45.954Z"
       },
       {
-        "domain": "twitch.tv",
-        "startedAt": "2026-08-06T23:34:42.069Z"
+        "domain": "yannickgregoire.nl",
+        "startedAt": "2026-08-06T23:39:45.953Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 128
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 874,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T23:34:48.213Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T23:39:47.121Z",
+    "message": "Generation failed for docs.stripe.com with exit 1."
+  }
 }
