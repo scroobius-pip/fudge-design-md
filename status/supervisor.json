@@ -2,37 +2,33 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T19:48:53.421Z",
-  "heartbeatAt": "2026-08-06T19:48:54.001Z",
+  "heartbeatAt": "2026-08-06T19:54:01.943Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "blog.google",
-        "startedAt": "2026-08-06T19:48:53.823Z"
+        "domain": "hypen.space",
+        "startedAt": "2026-08-06T19:53:51.241Z"
       },
       {
-        "domain": "icelandreview.com",
-        "startedAt": "2026-08-06T19:48:53.831Z"
+        "domain": "kraa.io",
+        "startedAt": "2026-08-06T19:54:01.783Z"
       },
       {
-        "domain": "icloud.com",
-        "startedAt": "2026-08-06T19:48:53.829Z"
+        "domain": "link.com",
+        "startedAt": "2026-08-06T19:54:01.780Z"
       },
       {
-        "domain": "inceptionlabs.ai",
-        "startedAt": "2026-08-06T19:48:53.832Z"
+        "domain": "oasishealth.app",
+        "startedAt": "2026-08-06T19:54:01.781Z"
       },
       {
-        "domain": "jamesadam.me",
-        "startedAt": "2026-08-06T19:48:53.831Z"
-      },
-      {
-        "domain": "vellum.ai",
-        "startedAt": "2026-08-06T19:48:53.833Z"
+        "domain": "withsupafast.com",
+        "startedAt": "2026-08-06T19:53:45.972Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 109
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +37,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 895,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T19:48:59.815Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T19:54:01.827Z",
+    "message": "Generation failed for ibm.com with exit 1."
+  }
 }
