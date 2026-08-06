@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T03:20:52.559Z",
-  "heartbeatAt": "2026-08-06T03:20:53.076Z",
+  "heartbeatAt": "2026-08-06T03:25:59.490Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "rains.com",
-        "startedAt": "2026-08-06T03:20:52.901Z"
+        "domain": "bbc.com",
+        "startedAt": "2026-08-06T03:25:54.046Z"
       },
       {
-        "domain": "rfef.es",
-        "startedAt": "2026-08-06T03:20:52.900Z"
+        "domain": "hypen.space",
+        "startedAt": "2026-08-06T03:25:48.825Z"
       },
       {
-        "domain": "s6foundry.com",
-        "startedAt": "2026-08-06T03:20:52.903Z"
+        "domain": "ibm.com",
+        "startedAt": "2026-08-06T03:25:59.347Z"
       },
       {
-        "domain": "slowly.app",
-        "startedAt": "2026-08-06T03:20:52.901Z"
+        "domain": "lightfield.app",
+        "startedAt": "2026-08-06T03:25:59.346Z"
       },
       {
-        "domain": "speak.com",
-        "startedAt": "2026-08-06T03:20:52.902Z"
+        "domain": "masterselects.com",
+        "startedAt": "2026-08-06T03:25:59.342Z"
       },
       {
-        "domain": "trae.ai",
-        "startedAt": "2026-08-06T03:20:52.899Z"
+        "domain": "tempo.xyz",
+        "startedAt": "2026-08-06T03:25:59.345Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 152
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 852,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T03:20:59.315Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T03:25:59.172Z",
+    "message": "Generation failed for ente.com with exit 1."
+  }
 }
