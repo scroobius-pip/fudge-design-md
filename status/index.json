@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T04:25:39.249Z",
+  "generatedAt": "2026-08-06T04:26:06.021Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1004,
     "needs_reprocessing": 22,
-    "preparing": 3,
-    "drafting": 4
+    "preparing": 6,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T04:20:30.344Z",
-    "heartbeatAt": "2026-08-06T04:25:37.594Z",
+    "startedAt": "2026-08-06T04:26:03.677Z",
+    "heartbeatAt": "2026-08-06T04:26:04.139Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "almost-pearfect.com",
-          "startedAt": "2026-08-06T04:25:37.473Z"
+          "domain": "bland.ai",
+          "startedAt": "2026-08-06T04:26:04.017Z"
         },
         {
-          "domain": "kree8.studio",
-          "startedAt": "2026-08-06T04:25:32.251Z"
+          "domain": "dfinity.org",
+          "startedAt": "2026-08-06T04:26:04.015Z"
         },
         {
-          "domain": "makerstations.io",
-          "startedAt": "2026-08-06T04:25:37.474Z"
+          "domain": "luna.amazon.com",
+          "startedAt": "2026-08-06T04:26:04.013Z"
         },
         {
-          "domain": "miraa.app",
-          "startedAt": "2026-08-06T04:25:32.252Z"
+          "domain": "mailchimp.com",
+          "startedAt": "2026-08-06T04:26:04.014Z"
         },
         {
-          "domain": "monocle.heyiam.dk",
-          "startedAt": "2026-08-06T04:25:37.475Z"
+          "domain": "oldcitymailroom.com",
+          "startedAt": "2026-08-06T04:26:04.016Z"
         },
         {
-          "domain": "open.spotify.com",
-          "startedAt": "2026-08-06T04:25:32.252Z"
+          "domain": "workers.cloudflare.com",
+          "startedAt": "2026-08-06T04:26:04.003Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 146
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1007,
-      "availableGeneration": 858,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T04:20:37.215Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T04:25:36.375Z",
-      "message": "Generation failed for lemonsqueezy.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -1162,9 +1159,9 @@
     },
     {
       "domain": "almost-pearfect.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 46,
-      "updatedAt": "2026-08-06T04:25:37.660Z",
+      "updatedAt": "2026-08-06T04:25:48.533Z",
       "blocker": null,
       "publication": {
         "key": "almost-pearfect.com-design",
@@ -3177,9 +3174,9 @@
     },
     {
       "domain": "bland.ai",
-      "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T03:52:03.854Z",
+      "state": "preparing",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T04:26:04.313Z",
       "blocker": null,
       "publication": {
         "key": "bland.ai-design",
@@ -6076,9 +6073,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "failed",
-      "attempt": 42,
-      "updatedAt": "2026-08-06T03:52:02.625Z",
+      "state": "preparing",
+      "attempt": 43,
+      "updatedAt": "2026-08-06T04:26:04.262Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -11315,9 +11312,9 @@
     },
     {
       "domain": "kree8.studio",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 42,
-      "updatedAt": "2026-08-06T04:25:37.425Z",
+      "updatedAt": "2026-08-06T04:25:43.945Z",
       "blocker": null,
       "publication": {
         "key": "kree8.studio-design",
@@ -12251,9 +12248,9 @@
     },
     {
       "domain": "luna.amazon.com",
-      "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:57.119Z",
+      "state": "preparing",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:26:04.261Z",
       "blocker": null,
       "publication": {
         "key": "luna.amazon.com-design",
@@ -12356,8 +12353,8 @@
     {
       "domain": "maciej.co",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:47.004Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:25:58.398Z",
       "blocker": null,
       "publication": {
         "key": "maciej.co-design",
@@ -12407,9 +12404,9 @@
     },
     {
       "domain": "mailchimp.com",
-      "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:59.676Z",
+      "state": "preparing",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:26:04.263Z",
       "blocker": null,
       "publication": {
         "key": "mailchimp.com-design",
@@ -12433,9 +12430,9 @@
     },
     {
       "domain": "makerstations.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 42,
-      "updatedAt": "2026-08-06T04:25:37.662Z",
+      "updatedAt": "2026-08-06T04:25:47.294Z",
       "blocker": null,
       "publication": {
         "key": "makerstations.io-design",
@@ -12629,8 +12626,8 @@
     {
       "domain": "maxitype.com",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:45.950Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:25:53.354Z",
       "blocker": null,
       "publication": {
         "key": "maxitype.com-design",
@@ -12642,8 +12639,8 @@
     {
       "domain": "mcsweeneys.net",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:40.878Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:25:50.024Z",
       "blocker": null,
       "publication": {
         "key": "mcsweeneys.net-design",
@@ -12928,8 +12925,8 @@
     {
       "domain": "midlife.engineering",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:52.351Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:25:56.218Z",
       "blocker": null,
       "publication": {
         "key": "midlife.engineering-design",
@@ -13044,9 +13041,9 @@
     },
     {
       "domain": "miraa.app",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 42,
-      "updatedAt": "2026-08-06T04:25:34.135Z",
+      "updatedAt": "2026-08-06T04:25:40.070Z",
       "blocker": null,
       "publication": {
         "key": "miraa.app-design",
@@ -13369,9 +13366,9 @@
     },
     {
       "domain": "monocle.heyiam.dk",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 42,
-      "updatedAt": "2026-08-06T04:25:37.661Z",
+      "updatedAt": "2026-08-06T04:25:44.253Z",
       "blocker": null,
       "publication": {
         "key": "monocle.heyiam.dk-design",
@@ -13500,8 +13497,8 @@
     {
       "domain": "mosaic.so",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:52.641Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:25:57.897Z",
       "blocker": null,
       "publication": {
         "key": "mosaic.so-design",
@@ -14332,8 +14329,8 @@
     {
       "domain": "nucleoapp.com",
       "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:51:53.766Z",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:26:01.259Z",
       "blocker": null,
       "publication": {
         "key": "nucleoapp.com-design",
@@ -14591,9 +14588,9 @@
     },
     {
       "domain": "oldcitymailroom.com",
-      "state": "failed",
-      "attempt": 41,
-      "updatedAt": "2026-08-06T03:52:03.756Z",
+      "state": "preparing",
+      "attempt": 42,
+      "updatedAt": "2026-08-06T04:26:04.263Z",
       "blocker": null,
       "publication": {
         "key": "oldcitymailroom.com-design",
@@ -14812,9 +14809,9 @@
     },
     {
       "domain": "open.spotify.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 42,
-      "updatedAt": "2026-08-06T04:25:33.873Z",
+      "updatedAt": "2026-08-06T04:25:39.896Z",
       "blocker": null,
       "publication": {
         "key": "open.spotify.com-design",
@@ -22144,9 +22141,9 @@
     },
     {
       "domain": "workers.cloudflare.com",
-      "state": "failed",
-      "attempt": 40,
-      "updatedAt": "2026-08-06T03:51:55.178Z",
+      "state": "preparing",
+      "attempt": 41,
+      "updatedAt": "2026-08-06T04:26:04.229Z",
       "blocker": null,
       "publication": {
         "key": "workers.cloudflare.com-design",
