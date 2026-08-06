@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T00:30:20.697Z",
+  "generatedAt": "2026-08-06T00:30:52.462Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "preparing": 6,
-    "drafting": 1
+    "drafting": 2,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T00:30:18.387Z",
-    "heartbeatAt": "2026-08-06T00:30:18.851Z",
+    "startedAt": "2026-08-06T00:30:50.162Z",
+    "heartbeatAt": "2026-08-06T00:30:50.651Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "outthere.studio",
-          "startedAt": "2026-08-06T00:30:18.714Z"
+          "domain": "pentagram.com",
+          "startedAt": "2026-08-06T00:30:50.472Z"
         },
         {
-          "domain": "polar.sh",
-          "startedAt": "2026-08-06T00:30:18.706Z"
+          "domain": "pinterest.com",
+          "startedAt": "2026-08-06T00:30:50.477Z"
         },
         {
-          "domain": "rachelchen.tech",
-          "startedAt": "2026-08-06T00:30:18.711Z"
+          "domain": "pop.site",
+          "startedAt": "2026-08-06T00:30:50.475Z"
         },
         {
-          "domain": "republic.com",
-          "startedAt": "2026-08-06T00:30:18.710Z"
+          "domain": "primeintellect.ai",
+          "startedAt": "2026-08-06T00:30:50.478Z"
         },
         {
-          "domain": "restate.dev",
-          "startedAt": "2026-08-06T00:30:18.709Z"
+          "domain": "shop.a24films.com",
+          "startedAt": "2026-08-06T00:30:50.478Z"
         },
         {
-          "domain": "sajarin.com",
-          "startedAt": "2026-08-06T00:30:18.715Z"
+          "domain": "spellsurf.com",
+          "startedAt": "2026-08-06T00:30:50.476Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1010,
-      "availableGeneration": 1004,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -10663,8 +10663,8 @@
     {
       "domain": "jiddo.ca",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:30.878Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:39.745Z",
       "blocker": null,
       "publication": {
         "key": "jiddo.ca-design",
@@ -15160,9 +15160,9 @@
     },
     {
       "domain": "outthere.studio",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:19.012Z",
+      "updatedAt": "2026-08-06T00:30:29.499Z",
       "blocker": null,
       "publication": {
         "key": "outthere.studio-design",
@@ -15589,9 +15589,9 @@
     },
     {
       "domain": "pentagram.com",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:48.188Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.729Z",
       "blocker": null,
       "publication": {
         "key": "pentagram.com-design",
@@ -15875,9 +15875,9 @@
     },
     {
       "domain": "pinterest.com",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:55.362Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.693Z",
       "blocker": null,
       "publication": {
         "key": "pinterest.com-design",
@@ -16174,9 +16174,9 @@
     },
     {
       "domain": "polar.sh",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:18.999Z",
+      "updatedAt": "2026-08-06T00:30:31.416Z",
       "blocker": null,
       "publication": {
         "key": "polar.sh-design",
@@ -16226,9 +16226,9 @@
     },
     {
       "domain": "pop.site",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:49.070Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.731Z",
       "blocker": null,
       "publication": {
         "key": "pop.site-design",
@@ -16421,9 +16421,9 @@
     },
     {
       "domain": "primeintellect.ai",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:59.947Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.752Z",
       "blocker": null,
       "publication": {
         "key": "primeintellect.ai-design",
@@ -16785,9 +16785,9 @@
     },
     {
       "domain": "rachelchen.tech",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:18.930Z",
+      "updatedAt": "2026-08-06T00:30:29.566Z",
       "blocker": null,
       "publication": {
         "key": "rachelchen.tech-design",
@@ -16929,8 +16929,8 @@
     {
       "domain": "raycast.com",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:43.817Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:45.808Z",
       "blocker": null,
       "publication": {
         "key": "raycast.com-design",
@@ -17097,9 +17097,9 @@
     },
     {
       "domain": "redis.io",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:47.480Z",
+      "state": "drafting",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:44.754Z",
       "blocker": null,
       "publication": {
         "key": "redis.io-design",
@@ -17266,9 +17266,9 @@
     },
     {
       "domain": "republic.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:18.950Z",
+      "updatedAt": "2026-08-06T00:30:29.192Z",
       "blocker": null,
       "publication": {
         "key": "republic.com-design",
@@ -17357,9 +17357,9 @@
     },
     {
       "domain": "restate.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:18.948Z",
+      "updatedAt": "2026-08-06T00:30:28.537Z",
       "blocker": null,
       "publication": {
         "key": "restate.dev-design",
@@ -17449,8 +17449,8 @@
     {
       "domain": "rive.app",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:30.649Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:39.954Z",
       "blocker": null,
       "publication": {
         "key": "rive.app-design",
@@ -17682,9 +17682,9 @@
     },
     {
       "domain": "sajarin.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 35,
-      "updatedAt": "2026-08-06T00:30:18.962Z",
+      "updatedAt": "2026-08-06T00:30:28.648Z",
       "blocker": null,
       "publication": {
         "key": "sajarin.com-design",
@@ -17722,8 +17722,8 @@
     {
       "domain": "samsm.ch",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:43.439Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:42.615Z",
       "blocker": null,
       "publication": {
         "key": "samsm.ch-design",
@@ -17735,8 +17735,8 @@
     {
       "domain": "samspratt.com",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:29.304Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:38.801Z",
       "blocker": null,
       "publication": {
         "key": "samspratt.com-design",
@@ -18021,8 +18021,8 @@
     {
       "domain": "scribd.com",
       "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:43.504Z",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:42.739Z",
       "blocker": null,
       "publication": {
         "key": "scribd.com-design",
@@ -18228,9 +18228,9 @@
     },
     {
       "domain": "shop.a24films.com",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:58.722Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.777Z",
       "blocker": null,
       "publication": {
         "key": "shop.a24films.com-design",
@@ -18748,9 +18748,9 @@
     },
     {
       "domain": "spellsurf.com",
-      "state": "failed",
-      "attempt": 34,
-      "updatedAt": "2026-08-05T23:53:54.744Z",
+      "state": "preparing",
+      "attempt": 35,
+      "updatedAt": "2026-08-06T00:30:50.754Z",
       "blocker": null,
       "publication": {
         "key": "spellsurf.com-design",
