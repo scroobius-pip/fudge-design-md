@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T14:31:33.442Z",
+  "generatedAt": "2026-08-06T14:31:54.808Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1005,
+    "failed": 1004,
     "needs_reprocessing": 22,
-    "preparing": 3,
-    "drafting": 3
+    "preparing": 6,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T14:05:34.197Z",
-    "heartbeatAt": "2026-08-06T14:31:31.675Z",
+    "startedAt": "2026-08-06T14:31:52.357Z",
+    "heartbeatAt": "2026-08-06T14:31:52.883Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "bun.com",
-          "startedAt": "2026-08-06T14:31:26.309Z"
+          "domain": "binary.so",
+          "startedAt": "2026-08-06T14:31:52.716Z"
         },
         {
-          "domain": "oatly.com",
-          "startedAt": "2026-08-06T14:31:21.040Z"
+          "domain": "flickr.com",
+          "startedAt": "2026-08-06T14:31:52.713Z"
         },
         {
-          "domain": "rfef.es",
-          "startedAt": "2026-08-06T14:31:21.027Z"
+          "domain": "replacement.ai",
+          "startedAt": "2026-08-06T14:31:52.717Z"
         },
         {
-          "domain": "samsung.com",
-          "startedAt": "2026-08-06T14:31:26.308Z"
+          "domain": "sanity.io",
+          "startedAt": "2026-08-06T14:31:52.719Z"
         },
         {
-          "domain": "sandbox.cloudflare.com",
-          "startedAt": "2026-08-06T14:31:21.041Z"
+          "domain": "vemula.me",
+          "startedAt": "2026-08-06T14:31:52.718Z"
         },
         {
-          "domain": "sweetshop.app",
-          "startedAt": "2026-08-06T14:31:26.310Z"
+          "domain": "vidclue.com",
+          "startedAt": "2026-08-06T14:31:52.715Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 537
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 468,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 2,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T14:26:31.101Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T14:31:23.755Z",
-      "message": "Generation failed for base-ui.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -3125,9 +3122,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "failed",
-      "attempt": 59,
-      "updatedAt": "2026-08-06T13:43:34.049Z",
+      "state": "preparing",
+      "attempt": 60,
+      "updatedAt": "2026-08-06T14:31:53.020Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",
@@ -3749,9 +3746,9 @@
     },
     {
       "domain": "bun.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:26.547Z",
+      "updatedAt": "2026-08-06T14:31:42.159Z",
       "blocker": null,
       "publication": {
         "key": "bun.com-design",
@@ -7753,9 +7750,9 @@
     },
     {
       "domain": "flickr.com",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:27.546Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:52.981Z",
       "blocker": null,
       "publication": {
         "key": "flickr.com-design",
@@ -14435,9 +14432,9 @@
     },
     {
       "domain": "oatly.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:21.248Z",
+      "updatedAt": "2026-08-06T14:31:42.765Z",
       "blocker": null,
       "publication": {
         "key": "oatly.com-design",
@@ -16840,9 +16837,9 @@
     },
     {
       "domain": "rains.com",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:25.507Z",
+      "state": "drafting",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:50.885Z",
       "blocker": null,
       "publication": {
         "key": "rains.com-design",
@@ -17230,9 +17227,9 @@
     },
     {
       "domain": "replacement.ai",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:36.599Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:52.993Z",
       "blocker": null,
       "publication": {
         "key": "replacement.ai-design",
@@ -17425,9 +17422,9 @@
     },
     {
       "domain": "rfef.es",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:32.666Z",
+      "updatedAt": "2026-08-06T14:31:40.492Z",
       "blocker": null,
       "publication": {
         "key": "rfef.es-design",
@@ -17750,9 +17747,9 @@
     },
     {
       "domain": "samsung.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:26.574Z",
+      "updatedAt": "2026-08-06T14:31:43.102Z",
       "blocker": null,
       "publication": {
         "key": "samsung.com-design",
@@ -17776,9 +17773,9 @@
     },
     {
       "domain": "sandbox.cloudflare.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:31.857Z",
+      "updatedAt": "2026-08-06T14:31:40.475Z",
       "blocker": null,
       "publication": {
         "key": "sandbox.cloudflare.com-design",
@@ -17815,9 +17812,9 @@
     },
     {
       "domain": "sanity.io",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:42.002Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:53.063Z",
       "blocker": null,
       "publication": {
         "key": "sanity.io-design",
@@ -19505,9 +19502,9 @@
     },
     {
       "domain": "sweetshop.app",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T14:31:31.804Z",
+      "updatedAt": "2026-08-06T14:31:39.406Z",
       "blocker": null,
       "publication": {
         "key": "sweetshop.app-design",
@@ -21286,9 +21283,9 @@
     },
     {
       "domain": "vemula.me",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:39.297Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:53.023Z",
       "blocker": null,
       "publication": {
         "key": "vemula.me-design",
@@ -21377,9 +21374,9 @@
     },
     {
       "domain": "vidclue.com",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T13:43:33.689Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T14:31:52.993Z",
       "blocker": null,
       "publication": {
         "key": "vidclue.com-design",
