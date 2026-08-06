@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T17:54:43.953Z",
-  "heartbeatAt": "2026-08-06T17:54:44.521Z",
+  "heartbeatAt": "2026-08-06T17:59:56.627Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "grokipedia.com",
-        "startedAt": "2026-08-06T17:54:44.333Z"
+        "domain": "duties.xyz",
+        "startedAt": "2026-08-06T17:59:51.102Z"
       },
       {
-        "domain": "neuform.ai",
-        "startedAt": "2026-08-06T17:54:44.330Z"
+        "domain": "endl.io",
+        "startedAt": "2026-08-06T17:59:56.448Z"
       },
       {
-        "domain": "nvg8.io",
-        "startedAt": "2026-08-06T17:54:44.336Z"
+        "domain": "rerun.io",
+        "startedAt": "2026-08-06T17:59:51.103Z"
       },
       {
-        "domain": "palantir.com",
-        "startedAt": "2026-08-06T17:54:44.335Z"
+        "domain": "sanalabs.com",
+        "startedAt": "2026-08-06T17:59:56.450Z"
       },
       {
-        "domain": "playbit.app",
-        "startedAt": "2026-08-06T17:54:44.332Z"
+        "domain": "styles.refero.design",
+        "startedAt": "2026-08-06T17:59:45.767Z"
       },
       {
-        "domain": "samspratt.com",
-        "startedAt": "2026-08-06T17:54:44.334Z"
+        "domain": "youtube.com",
+        "startedAt": "2026-08-06T17:59:56.449Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 129
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 875,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T17:54:51.110Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T17:59:56.079Z",
+    "message": "Generation failed for pepperl-fuchs.com with exit 1."
+  }
 }
