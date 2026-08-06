@@ -1,38 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T10:25:01.095Z",
+  "generatedAt": "2026-08-06T10:40:06.558Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1009,
+    "failed": 1006,
     "needs_reprocessing": 22,
-    "preparing": 1,
-    "drafting": 1
+    "preparing": 5
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-06T10:02:36.265Z",
-    "heartbeatAt": "2026-08-06T10:24:58.850Z",
+    "heartbeatAt": "2026-08-06T10:40:04.593Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "jenwagner.co",
-          "startedAt": "2026-08-06T10:07:34.530Z"
+          "domain": "gitcoin.co",
+          "startedAt": "2026-08-06T10:40:04.386Z"
         },
         {
-          "domain": "kigen.design",
-          "startedAt": "2026-08-06T10:07:34.535Z"
+          "domain": "intercom.com",
+          "startedAt": "2026-08-06T10:40:04.387Z"
+        },
+        {
+          "domain": "kapa.ai",
+          "startedAt": "2026-08-06T10:40:04.385Z"
+        },
+        {
+          "domain": "llmrefs.com",
+          "startedAt": "2026-08-06T10:40:04.384Z"
         },
         {
           "domain": "masterselects.com",
           "startedAt": "2026-08-06T10:24:55.746Z"
+        },
+        {
+          "domain": "studiofnt.com",
+          "startedAt": "2026-08-06T10:40:04.383Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 66
+      "failedThisRun": 68
     },
     "publication": {
       "concurrency": 1,
@@ -42,17 +53,17 @@
     },
     "queue": {
       "eligibleGeneration": 1010,
-      "availableGeneration": 941,
+      "availableGeneration": 937,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 0,
+    "recoveredThisRun": 1,
     "publicTracker": {
       "lastSyncedAt": "2026-08-06T10:08:46.162Z"
     },
     "lastError": {
-      "at": "2026-08-06T10:24:58.849Z",
-      "message": "Generation failed for instantdb.com with exit 1."
+      "at": "2026-08-06T10:40:04.021Z",
+      "message": "Public tracker sync failed: git exited 1."
     }
   },
   "domains": [
@@ -8729,9 +8740,9 @@
     },
     {
       "domain": "gitcoin.co",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:15:23.917Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T10:40:04.707Z",
       "blocker": null,
       "publication": {
         "key": "gitcoin.co-design",
@@ -10354,9 +10365,9 @@
     },
     {
       "domain": "intercom.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:15:25.554Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T10:40:04.711Z",
       "blocker": null,
       "publication": {
         "key": "intercom.com-design",
@@ -10978,9 +10989,9 @@
     },
     {
       "domain": "kapa.ai",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:15:22.096Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T10:40:04.812Z",
       "blocker": null,
       "publication": {
         "key": "kapa.ai-design",
@@ -11940,9 +11951,9 @@
     },
     {
       "domain": "llmrefs.com",
-      "state": "failed",
-      "attempt": 49,
-      "updatedAt": "2026-08-06T09:15:21.904Z",
+      "state": "preparing",
+      "attempt": 50,
+      "updatedAt": "2026-08-06T10:40:04.719Z",
       "blocker": null,
       "publication": {
         "key": "llmrefs.com-design",
@@ -12538,9 +12549,9 @@
     },
     {
       "domain": "masterselects.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:24:58.951Z",
+      "updatedAt": "2026-08-06T10:40:04.514Z",
       "blocker": null,
       "publication": {
         "key": "masterselects.com-design",
@@ -19142,9 +19153,9 @@
     },
     {
       "domain": "studiofnt.com",
-      "state": "failed",
-      "attempt": 48,
-      "updatedAt": "2026-08-06T09:15:21.363Z",
+      "state": "preparing",
+      "attempt": 49,
+      "updatedAt": "2026-08-06T10:40:04.771Z",
       "blocker": null,
       "publication": {
         "key": "studiofnt.com-design",
@@ -20260,9 +20271,9 @@
     },
     {
       "domain": "tolans.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 50,
-      "updatedAt": "2026-08-06T10:02:30.997Z",
+      "updatedAt": "2026-08-06T10:40:04.380Z",
       "blocker": null,
       "publication": {
         "key": "tolans.com-design",
