@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T18:59:57.518Z",
-  "heartbeatAt": "2026-08-06T18:59:58.072Z",
+  "heartbeatAt": "2026-08-06T19:05:07.522Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "lemfi.com",
-        "startedAt": "2026-08-06T18:59:57.894Z"
+        "domain": "designme.agency",
+        "startedAt": "2026-08-06T19:05:07.358Z"
       },
       {
-        "domain": "once.film",
-        "startedAt": "2026-08-06T18:59:57.891Z"
+        "domain": "flickr.com",
+        "startedAt": "2026-08-06T19:04:56.753Z"
       },
       {
-        "domain": "parrotapp.com",
-        "startedAt": "2026-08-06T18:59:57.893Z"
+        "domain": "pencil.dev",
+        "startedAt": "2026-08-06T19:04:56.753Z"
       },
       {
-        "domain": "pharos.jstor.org",
-        "startedAt": "2026-08-06T18:59:57.890Z"
+        "domain": "revenuecat.com",
+        "startedAt": "2026-08-06T19:04:56.750Z"
       },
       {
-        "domain": "rasp.club",
-        "startedAt": "2026-08-06T18:59:57.893Z"
+        "domain": "s6foundry.com",
+        "startedAt": "2026-08-06T19:04:56.751Z"
       },
       {
-        "domain": "www2.hm.com",
-        "startedAt": "2026-08-06T18:59:57.892Z"
+        "domain": "swissgrid.posterhouse.org",
+        "startedAt": "2026-08-06T19:05:02.068Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 127
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T19:00:04.203Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T19:05:05.489Z",
+    "message": "Generation failed for fushly.com with exit 1."
+  }
 }
