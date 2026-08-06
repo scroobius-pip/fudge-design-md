@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T23:21:38.960Z",
-  "heartbeatAt": "2026-08-06T23:21:39.576Z",
+  "heartbeatAt": "2026-08-06T23:26:48.346Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "brave.com",
-        "startedAt": "2026-08-06T23:21:39.373Z"
+        "domain": "buildform.ai",
+        "startedAt": "2026-08-06T23:26:48.130Z"
       },
       {
-        "domain": "developer.apple.com",
-        "startedAt": "2026-08-06T23:21:39.371Z"
+        "domain": "gleam.run",
+        "startedAt": "2026-08-06T23:26:48.136Z"
       },
       {
-        "domain": "diabrowser.com",
-        "startedAt": "2026-08-06T23:21:39.375Z"
+        "domain": "grokipedia.com",
+        "startedAt": "2026-08-06T23:26:48.137Z"
       },
       {
-        "domain": "duetnightabyss.dna-panstudio.com",
-        "startedAt": "2026-08-06T23:21:39.372Z"
+        "domain": "notion.com",
+        "startedAt": "2026-08-06T23:26:48.135Z"
       },
       {
-        "domain": "every.to",
-        "startedAt": "2026-08-06T23:21:39.376Z"
+        "domain": "ordinarypeople.info",
+        "startedAt": "2026-08-06T23:26:37.554Z"
       },
       {
-        "domain": "ignytlabs.com",
-        "startedAt": "2026-08-06T23:21:39.374Z"
+        "domain": "palantir.com",
+        "startedAt": "2026-08-06T23:26:48.135Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 114
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 888,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T23:21:45.706Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T23:26:48.105Z",
+    "message": "Generation failed for neuform.ai with exit 1."
+  }
 }
