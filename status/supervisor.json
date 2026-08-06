@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T12:34:03.192Z",
-  "heartbeatAt": "2026-08-06T12:34:03.847Z",
+  "heartbeatAt": "2026-08-06T12:39:13.363Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "basepowercompany.com",
-        "startedAt": "2026-08-06T12:34:03.633Z"
+        "domain": "firefox.com",
+        "startedAt": "2026-08-06T12:39:02.705Z"
       },
       {
-        "domain": "brynmawr.edu",
-        "startedAt": "2026-08-06T12:34:03.639Z"
+        "domain": "friend.com",
+        "startedAt": "2026-08-06T12:39:02.703Z"
       },
       {
-        "domain": "bybitglobal.com",
-        "startedAt": "2026-08-06T12:34:03.631Z"
+        "domain": "hash.ai",
+        "startedAt": "2026-08-06T12:39:02.702Z"
       },
       {
-        "domain": "contra.com",
-        "startedAt": "2026-08-06T12:34:03.638Z"
+        "domain": "modedesigns.com",
+        "startedAt": "2026-08-06T12:39:13.243Z"
       },
       {
-        "domain": "desktopneo.com",
-        "startedAt": "2026-08-06T12:34:03.634Z"
+        "domain": "quantumbody.io",
+        "startedAt": "2026-08-06T12:39:02.705Z"
       },
       {
-        "domain": "uneed.best",
-        "startedAt": "2026-08-06T12:34:03.629Z"
+        "domain": "voidzero.dev",
+        "startedAt": "2026-08-06T12:39:02.704Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 109
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 894,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T12:34:10.463Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T12:39:12.210Z",
+    "message": "Generation failed for ecosia.org with exit 1."
+  }
 }
