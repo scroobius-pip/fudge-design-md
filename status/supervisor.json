@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T17:29:00.387Z",
-  "heartbeatAt": "2026-08-06T17:29:01.001Z",
+  "heartbeatAt": "2026-08-06T17:34:11.461Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "davidprotein.com",
-        "startedAt": "2026-08-06T17:29:00.781Z"
+        "domain": "deepmind.google",
+        "startedAt": "2026-08-06T17:34:05.876Z"
       },
       {
-        "domain": "deel.com",
-        "startedAt": "2026-08-06T17:29:00.778Z"
+        "domain": "doodlewarriors.com",
+        "startedAt": "2026-08-06T17:34:05.877Z"
       },
       {
-        "domain": "ft.com",
-        "startedAt": "2026-08-06T17:29:00.783Z"
+        "domain": "inkeep.com",
+        "startedAt": "2026-08-06T17:34:11.238Z"
       },
       {
-        "domain": "hoopladonuts.ca",
-        "startedAt": "2026-08-06T17:29:00.779Z"
+        "domain": "miraa.app",
+        "startedAt": "2026-08-06T17:34:05.874Z"
       },
       {
-        "domain": "typographyprinciples.obys.agency",
-        "startedAt": "2026-08-06T17:29:00.782Z"
+        "domain": "nova.lightmode.io",
+        "startedAt": "2026-08-06T17:34:05.875Z"
       },
       {
-        "domain": "voidzero.dev",
-        "startedAt": "2026-08-06T17:29:00.780Z"
+        "domain": "wise.com",
+        "startedAt": "2026-08-06T17:34:05.878Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 119
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 882,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T17:29:07.606Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T17:34:10.150Z",
+    "message": "Generation failed for kanadojo.com with exit 1."
+  }
 }
