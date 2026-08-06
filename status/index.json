@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T15:05:15.451Z",
+  "generatedAt": "2026-08-06T15:06:03.075Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1002,
     "needs_reprocessing": 22,
-    "drafting": 2,
+    "drafting": 3,
     "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T15:05:12.847Z",
-    "heartbeatAt": "2026-08-06T15:05:13.354Z",
+    "startedAt": "2026-08-06T15:06:00.403Z",
+    "heartbeatAt": "2026-08-06T15:06:00.985Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "cisco.com",
-          "startedAt": "2026-08-06T15:05:13.214Z"
+          "domain": "designarena.ai",
+          "startedAt": "2026-08-06T15:06:00.781Z"
         },
         {
-          "domain": "d33.io",
-          "startedAt": "2026-08-06T15:05:13.218Z"
+          "domain": "designerdailyreport.com",
+          "startedAt": "2026-08-06T15:06:00.784Z"
         },
         {
-          "domain": "docs.stripe.com",
-          "startedAt": "2026-08-06T15:05:13.216Z"
+          "domain": "dribbble.com",
+          "startedAt": "2026-08-06T15:06:00.782Z"
         },
         {
-          "domain": "explosion.ai",
-          "startedAt": "2026-08-06T15:05:13.217Z"
+          "domain": "tencent.com",
+          "startedAt": "2026-08-06T15:06:00.785Z"
         },
         {
-          "domain": "useforma.app",
-          "startedAt": "2026-08-06T15:05:13.215Z"
+          "domain": "tiptap.dev",
+          "startedAt": "2026-08-06T15:06:00.783Z"
         },
         {
-          "domain": "yannickgregoire.nl",
-          "startedAt": "2026-08-06T15:05:13.217Z"
+          "domain": "type.lol",
+          "startedAt": "2026-08-06T15:06:00.785Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1003,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 1002,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -4422,9 +4422,9 @@
     },
     {
       "domain": "cisco.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 55,
-      "updatedAt": "2026-08-06T15:05:13.486Z",
+      "updatedAt": "2026-08-06T15:05:32.274Z",
       "blocker": null,
       "publication": {
         "key": "cisco.com-design",
@@ -4436,8 +4436,8 @@
     {
       "domain": "civilization.2k.com",
       "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:22.531Z",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:50.115Z",
       "blocker": null,
       "publication": {
         "key": "civilization.2k.com-design",
@@ -5034,8 +5034,8 @@
     {
       "domain": "count.co",
       "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:15.644Z",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:44.952Z",
       "blocker": null,
       "publication": {
         "key": "count.co-design",
@@ -5267,9 +5267,9 @@
     },
     {
       "domain": "curated.supply",
-      "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:33.506Z",
+      "state": "drafting",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:55.273Z",
       "blocker": null,
       "publication": {
         "key": "curated.supply-design",
@@ -5332,9 +5332,9 @@
     },
     {
       "domain": "d33.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 55,
-      "updatedAt": "2026-08-06T15:05:13.572Z",
+      "updatedAt": "2026-08-06T15:05:28.364Z",
       "blocker": null,
       "publication": {
         "key": "d33.io-design",
@@ -5567,8 +5567,8 @@
     {
       "domain": "davidrinman.com",
       "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:25.120Z",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:45.727Z",
       "blocker": null,
       "publication": {
         "key": "davidrinman.com-design",
@@ -5852,9 +5852,9 @@
     },
     {
       "domain": "designarena.ai",
-      "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:35.690Z",
+      "state": "preparing",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:06:01.064Z",
       "blocker": null,
       "publication": {
         "key": "designarena.ai-design",
@@ -5865,9 +5865,9 @@
     },
     {
       "domain": "designerdailyreport.com",
-      "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:59.383Z",
+      "state": "preparing",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:06:01.066Z",
       "blocker": null,
       "publication": {
         "key": "designerdailyreport.com-design",
@@ -5905,8 +5905,8 @@
     {
       "domain": "designreviewed.com",
       "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:32.889Z",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:54.180Z",
       "blocker": null,
       "publication": {
         "key": "designreviewed.com-design",
@@ -6346,9 +6346,9 @@
     },
     {
       "domain": "docs.stripe.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 55,
-      "updatedAt": "2026-08-06T15:05:13.479Z",
+      "updatedAt": "2026-08-06T15:05:26.614Z",
       "blocker": null,
       "publication": {
         "key": "docs.stripe.com-design",
@@ -6502,9 +6502,9 @@
     },
     {
       "domain": "dribbble.com",
-      "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:37.227Z",
+      "state": "preparing",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:06:01.063Z",
       "blocker": null,
       "publication": {
         "key": "dribbble.com-design",
@@ -7295,9 +7295,9 @@
     },
     {
       "domain": "explosion.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 55,
-      "updatedAt": "2026-08-06T15:05:13.511Z",
+      "updatedAt": "2026-08-06T15:05:26.329Z",
       "blocker": null,
       "publication": {
         "key": "explosion.ai-design",
@@ -7608,8 +7608,8 @@
     {
       "domain": "fireriskalliance.com",
       "state": "failed",
-      "attempt": 54,
-      "updatedAt": "2026-08-06T14:13:18.881Z",
+      "attempt": 55,
+      "updatedAt": "2026-08-06T15:05:44.154Z",
       "blocker": null,
       "publication": {
         "key": "fireriskalliance.com-design",
@@ -10572,8 +10572,8 @@
     {
       "domain": "jam.dev",
       "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:13:15.926Z",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:05:45.074Z",
       "blocker": null,
       "publication": {
         "key": "jam.dev-design",
@@ -18788,8 +18788,8 @@
     {
       "domain": "spline.design",
       "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:13:20.727Z",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:05:44.177Z",
       "blocker": null,
       "publication": {
         "key": "spline.design-design",
@@ -19594,8 +19594,8 @@
     {
       "domain": "tailscale.com",
       "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:13:33.491Z",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:05:57.772Z",
       "blocker": null,
       "publication": {
         "key": "tailscale.com-design",
@@ -19827,9 +19827,9 @@
     },
     {
       "domain": "tencent.com",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:13:59.898Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:06:01.140Z",
       "blocker": null,
       "publication": {
         "key": "tencent.com-design",
@@ -20204,9 +20204,9 @@
     },
     {
       "domain": "tiptap.dev",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:13:39.360Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:06:01.066Z",
       "blocker": null,
       "publication": {
         "key": "tiptap.dev-design",
@@ -20698,9 +20698,9 @@
     },
     {
       "domain": "type.lol",
-      "state": "failed",
-      "attempt": 53,
-      "updatedAt": "2026-08-06T14:14:00.338Z",
+      "state": "preparing",
+      "attempt": 54,
+      "updatedAt": "2026-08-06T15:06:01.077Z",
       "blocker": null,
       "publication": {
         "key": "type.lol-design",
@@ -21088,9 +21088,9 @@
     },
     {
       "domain": "useforma.app",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T15:05:13.487Z",
+      "updatedAt": "2026-08-06T15:05:25.923Z",
       "blocker": null,
       "publication": {
         "key": "useforma.app-design",
@@ -22375,9 +22375,9 @@
     },
     {
       "domain": "yannickgregoire.nl",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 54,
-      "updatedAt": "2026-08-06T15:05:13.513Z",
+      "updatedAt": "2026-08-06T15:05:32.794Z",
       "blocker": null,
       "publication": {
         "key": "yannickgregoire.nl-design",
