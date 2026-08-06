@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T13:43:55.479Z",
-  "heartbeatAt": "2026-08-06T13:43:56.078Z",
+  "heartbeatAt": "2026-08-06T13:49:05.906Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "designme.agency",
-        "startedAt": "2026-08-06T13:43:55.881Z"
+        "domain": "firstpromoter.com",
+        "startedAt": "2026-08-06T13:48:59.154Z"
       },
       {
-        "domain": "fushly.com",
-        "startedAt": "2026-08-06T13:43:55.882Z"
+        "domain": "jace.ai",
+        "startedAt": "2026-08-06T13:48:53.012Z"
       },
       {
-        "domain": "sandwich.co",
-        "startedAt": "2026-08-06T13:43:55.883Z"
+        "domain": "kigen.design",
+        "startedAt": "2026-08-06T13:49:05.282Z"
       },
       {
-        "domain": "swissgrid.posterhouse.org",
-        "startedAt": "2026-08-06T13:43:55.884Z"
+        "domain": "matklad.github.io",
+        "startedAt": "2026-08-06T13:48:53.019Z"
       },
       {
-        "domain": "thinknextdesign.com",
-        "startedAt": "2026-08-06T13:43:55.880Z"
+        "domain": "visualelectric.com",
+        "startedAt": "2026-08-06T13:48:40.776Z"
       },
       {
-        "domain": "typeof.net",
-        "startedAt": "2026-08-06T13:43:55.883Z"
+        "domain": "wafer.ai",
+        "startedAt": "2026-08-06T13:48:53.007Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 102
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 901,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T13:44:03.325Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T13:49:02.191Z",
+    "message": "Generation failed for jasonwei.net with exit 1."
+  }
 }
