@@ -2,37 +2,29 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T03:50:23.626Z",
-  "heartbeatAt": "2026-08-06T03:50:24.132Z",
+  "heartbeatAt": "2026-08-06T03:55:30.759Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "jitter.video",
-        "startedAt": "2026-08-06T03:50:23.946Z"
+        "domain": "bkid.co",
+        "startedAt": "2026-08-06T03:55:25.379Z"
       },
       {
-        "domain": "joinbeni.com",
-        "startedAt": "2026-08-06T03:50:23.947Z"
+        "domain": "onest.md",
+        "startedAt": "2026-08-06T03:55:20.068Z"
       },
       {
-        "domain": "lustucru.fr",
-        "startedAt": "2026-08-06T03:50:23.948Z"
+        "domain": "ovhcloud.com",
+        "startedAt": "2026-08-06T03:55:30.641Z"
       },
       {
-        "domain": "matteosrr.webflow.io",
-        "startedAt": "2026-08-06T03:50:23.950Z"
-      },
-      {
-        "domain": "wise.com",
-        "startedAt": "2026-08-06T03:50:23.949Z"
-      },
-      {
-        "domain": "wisprflow.ai",
-        "startedAt": "2026-08-06T03:50:23.950Z"
+        "domain": "posthog.com",
+        "startedAt": "2026-08-06T03:55:30.640Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 150
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +33,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 855,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T03:50:30.433Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T03:55:30.640Z",
+    "message": "Generation failed for redo.com with exit 1."
+  }
 }
