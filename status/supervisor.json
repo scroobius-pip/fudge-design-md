@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T00:55:24.809Z",
-  "heartbeatAt": "2026-08-06T00:55:25.269Z",
+  "heartbeatAt": "2026-08-06T01:00:36.230Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "base-ui.com",
-        "startedAt": "2026-08-06T00:55:25.130Z"
+        "domain": "ignytlabs.com",
+        "startedAt": "2026-08-06T01:00:36.082Z"
       },
       {
-        "domain": "salesforce.com",
-        "startedAt": "2026-08-06T00:55:25.131Z"
+        "domain": "kraa.io",
+        "startedAt": "2026-08-06T01:00:36.075Z"
       },
       {
-        "domain": "sandwich.co",
-        "startedAt": "2026-08-06T00:55:25.131Z"
+        "domain": "lightfield.app",
+        "startedAt": "2026-08-06T01:00:30.823Z"
       },
       {
-        "domain": "sanity.io",
-        "startedAt": "2026-08-06T00:55:25.128Z"
+        "domain": "llmrefs.com",
+        "startedAt": "2026-08-06T01:00:36.091Z"
       },
       {
-        "domain": "thefinch.design",
-        "startedAt": "2026-08-06T00:55:25.129Z"
+        "domain": "masterselects.com",
+        "startedAt": "2026-08-06T01:00:30.823Z"
       },
       {
-        "domain": "vaultandzn.com",
-        "startedAt": "2026-08-06T00:55:25.132Z"
+        "domain": "thehog.ai",
+        "startedAt": "2026-08-06T01:00:36.093Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 140
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 863,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T00:55:31.856Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T01:00:34.483Z",
+    "message": "Generation failed for davincii.com with exit 1."
+  }
 }
