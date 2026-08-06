@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T21:38:02.135Z",
-  "heartbeatAt": "2026-08-06T21:38:02.729Z",
+  "heartbeatAt": "2026-08-06T21:43:11.705Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "medium.com",
-        "startedAt": "2026-08-06T21:38:02.552Z"
+        "domain": "dlang.org",
+        "startedAt": "2026-08-06T21:43:06.047Z"
       },
       {
-        "domain": "motion.software",
-        "startedAt": "2026-08-06T21:38:02.551Z"
+        "domain": "myanimelist.net",
+        "startedAt": "2026-08-06T21:43:11.365Z"
       },
       {
-        "domain": "postfa.st",
-        "startedAt": "2026-08-06T21:38:02.551Z"
+        "domain": "pentagram.com",
+        "startedAt": "2026-08-06T21:43:11.367Z"
       },
       {
-        "domain": "posts.im",
-        "startedAt": "2026-08-06T21:38:02.547Z"
+        "domain": "storybook.js.org",
+        "startedAt": "2026-08-06T21:43:06.048Z"
       },
       {
-        "domain": "quiver.ai",
-        "startedAt": "2026-08-06T21:38:02.550Z"
+        "domain": "supply.family",
+        "startedAt": "2026-08-06T21:43:06.046Z"
       },
       {
-        "domain": "rbc.ru",
-        "startedAt": "2026-08-06T21:38:02.549Z"
+        "domain": "wonder.design",
+        "startedAt": "2026-08-06T21:43:11.373Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 108
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 892,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T21:38:10.854Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T21:43:09.892Z",
+    "message": "Generation failed for maximeheckel.com with exit 1."
+  }
 }
