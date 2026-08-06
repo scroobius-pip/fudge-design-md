@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T14:31:52.357Z",
-  "heartbeatAt": "2026-08-06T14:31:52.883Z",
+  "heartbeatAt": "2026-08-06T14:37:05.041Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "binary.so",
-        "startedAt": "2026-08-06T14:31:52.716Z"
+        "domain": "jsfiddle.net",
+        "startedAt": "2026-08-06T14:37:04.897Z"
       },
       {
-        "domain": "flickr.com",
-        "startedAt": "2026-08-06T14:31:52.713Z"
+        "domain": "lofree.co",
+        "startedAt": "2026-08-06T14:36:59.641Z"
       },
       {
-        "domain": "replacement.ai",
-        "startedAt": "2026-08-06T14:31:52.717Z"
+        "domain": "theastralfrontier.com",
+        "startedAt": "2026-08-06T14:36:43.879Z"
       },
       {
-        "domain": "sanity.io",
-        "startedAt": "2026-08-06T14:31:52.719Z"
+        "domain": "trycoast.com",
+        "startedAt": "2026-08-06T14:36:38.603Z"
       },
       {
-        "domain": "vemula.me",
-        "startedAt": "2026-08-06T14:31:52.718Z"
+        "domain": "wise.jobs",
+        "startedAt": "2026-08-06T14:36:38.602Z"
       },
       {
-        "domain": "vidclue.com",
-        "startedAt": "2026-08-06T14:31:52.715Z"
+        "domain": "wsj.com",
+        "startedAt": "2026-08-06T14:36:43.865Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 88
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 916,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T14:32:00.851Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T14:37:00.673Z",
+    "message": "Generation failed for hatroid.com with exit 1."
+  }
 }
