@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T21:44:36.428Z",
-  "heartbeatAt": "2026-08-06T21:44:37.379Z",
+  "heartbeatAt": "2026-08-06T21:49:50.981Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "e360.yale.edu",
-        "startedAt": "2026-08-06T21:44:37.023Z"
+        "domain": "alibabagroup.com",
+        "startedAt": "2026-08-06T21:49:40.233Z"
       },
       {
-        "domain": "joinami.nl",
-        "startedAt": "2026-08-06T21:44:37.026Z"
+        "domain": "app.reve.com",
+        "startedAt": "2026-08-06T21:49:40.226Z"
       },
       {
-        "domain": "radix-ui.com",
-        "startedAt": "2026-08-06T21:44:37.024Z"
+        "domain": "autosend.com",
+        "startedAt": "2026-08-06T21:49:40.232Z"
       },
       {
-        "domain": "rollups.com",
-        "startedAt": "2026-08-06T21:44:37.025Z"
+        "domain": "blitzreels.com",
+        "startedAt": "2026-08-06T21:49:40.231Z"
       },
       {
-        "domain": "snorkel.ai",
-        "startedAt": "2026-08-06T21:44:37.016Z"
+        "domain": "etched.com",
+        "startedAt": "2026-08-06T21:49:34.951Z"
       },
       {
-        "domain": "standards.site",
-        "startedAt": "2026-08-06T21:44:37.031Z"
+        "domain": "everyday-practice.com",
+        "startedAt": "2026-08-06T21:49:34.941Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 106
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 997,
+    "availableGeneration": 891,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T21:44:45.697Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T21:49:38.766Z",
+    "message": "Generation failed for ground.news with exit 1."
+  }
 }
