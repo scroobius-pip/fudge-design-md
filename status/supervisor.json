@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T15:53:00.124Z",
-  "heartbeatAt": "2026-08-06T15:53:00.677Z",
+  "heartbeatAt": "2026-08-06T15:58:08.248Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "americanhistory.si.edu",
-        "startedAt": "2026-08-06T15:53:00.521Z"
+        "domain": "civilization.2k.com",
+        "startedAt": "2026-08-06T15:57:52.405Z"
       },
       {
-        "domain": "athas.dev",
-        "startedAt": "2026-08-06T15:53:00.519Z"
+        "domain": "designerdailyreport.com",
+        "startedAt": "2026-08-06T15:58:08.123Z"
       },
       {
-        "domain": "blockprotocol.org",
-        "startedAt": "2026-08-06T15:53:00.517Z"
+        "domain": "designreviewed.com",
+        "startedAt": "2026-08-06T15:57:57.645Z"
       },
       {
-        "domain": "borretti.me",
-        "startedAt": "2026-08-06T15:53:00.518Z"
+        "domain": "dribbble.com",
+        "startedAt": "2026-08-06T15:58:08.125Z"
       },
       {
-        "domain": "busy.app",
-        "startedAt": "2026-08-06T15:53:00.520Z"
+        "domain": "tailscale.com",
+        "startedAt": "2026-08-06T15:58:02.875Z"
       },
       {
-        "domain": "good-fella.com",
-        "startedAt": "2026-08-06T15:53:00.518Z"
+        "domain": "tencent.com",
+        "startedAt": "2026-08-06T15:58:08.124Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 103
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 1000,
+    "availableGeneration": 894,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T15:53:07.799Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T15:58:07.792Z",
+    "message": "Generation failed for jam.dev with exit 1."
+  }
 }
