@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T07:51:53.058Z",
-  "heartbeatAt": "2026-08-06T07:51:53.590Z",
+  "heartbeatAt": "2026-08-06T07:57:06.445Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "deepwiki.com",
-        "startedAt": "2026-08-06T07:51:53.462Z"
+        "domain": "drkst.framer.website",
+        "startedAt": "2026-08-06T07:57:06.302Z"
       },
       {
-        "domain": "labs.google",
-        "startedAt": "2026-08-06T07:51:53.457Z"
+        "domain": "playground.nothing.tech",
+        "startedAt": "2026-08-06T07:57:06.301Z"
       },
       {
-        "domain": "lovart.ai",
-        "startedAt": "2026-08-06T07:51:53.462Z"
+        "domain": "saaspo.com",
+        "startedAt": "2026-08-06T07:57:06.301Z"
       },
       {
-        "domain": "mykc.cargo.site",
-        "startedAt": "2026-08-06T07:51:53.461Z"
+        "domain": "sadewa.framer.website",
+        "startedAt": "2026-08-06T07:56:55.833Z"
       },
       {
-        "domain": "ocoya.com",
-        "startedAt": "2026-08-06T07:51:53.463Z"
+        "domain": "scira.ai",
+        "startedAt": "2026-08-06T07:57:01.069Z"
       },
       {
-        "domain": "openinterpreter.com",
-        "startedAt": "2026-08-06T07:51:53.464Z"
+        "domain": "zcode.z.ai",
+        "startedAt": "2026-08-06T07:57:06.300Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 132
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 869,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T07:52:01.102Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T07:57:04.018Z",
+    "message": "Generation failed for plutio.com with exit 1."
+  }
 }
