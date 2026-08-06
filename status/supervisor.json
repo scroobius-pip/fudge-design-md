@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T01:51:02.659Z",
-  "heartbeatAt": "2026-08-06T01:51:03.133Z",
+  "heartbeatAt": "2026-08-06T01:56:14.706Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "brevo.com",
-        "startedAt": "2026-08-06T01:51:02.970Z"
+        "domain": "hash.ai",
+        "startedAt": "2026-08-06T01:56:09.334Z"
       },
       {
-        "domain": "buildkite.com",
-        "startedAt": "2026-08-06T01:51:02.967Z"
+        "domain": "macaron.im",
+        "startedAt": "2026-08-06T01:56:14.586Z"
       },
       {
-        "domain": "buymeacoffee.com",
-        "startedAt": "2026-08-06T01:51:02.964Z"
+        "domain": "useorigin.com",
+        "startedAt": "2026-08-06T01:56:09.335Z"
       },
       {
-        "domain": "cabbin.net",
-        "startedAt": "2026-08-06T01:51:02.966Z"
+        "domain": "vitest.dev",
+        "startedAt": "2026-08-06T01:56:14.585Z"
       },
       {
-        "domain": "min.io",
-        "startedAt": "2026-08-06T01:51:02.970Z"
+        "domain": "void.cloud",
+        "startedAt": "2026-08-06T01:56:09.331Z"
       },
       {
-        "domain": "typewolf.com",
-        "startedAt": "2026-08-06T01:51:02.963Z"
+        "domain": "wero-wallet.eu",
+        "startedAt": "2026-08-06T01:56:09.335Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 145
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 859,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T01:51:09.805Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T01:56:12.169Z",
+    "message": "Generation failed for fonts.ninja with exit 1."
+  }
 }
