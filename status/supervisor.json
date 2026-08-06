@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T13:32:16.269Z",
-  "heartbeatAt": "2026-08-06T13:32:16.834Z",
+  "heartbeatAt": "2026-08-06T13:37:26.725Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fireshinegames.co.uk",
-        "startedAt": "2026-08-06T13:32:16.691Z"
+        "domain": "mew.xyz",
+        "startedAt": "2026-08-06T13:37:15.802Z"
       },
       {
-        "domain": "honglyoeng.com",
-        "startedAt": "2026-08-06T13:32:16.694Z"
+        "domain": "obsidian.md",
+        "startedAt": "2026-08-06T13:37:21.110Z"
       },
       {
-        "domain": "huly.io",
-        "startedAt": "2026-08-06T13:32:16.685Z"
+        "domain": "once.film",
+        "startedAt": "2026-08-06T13:37:26.452Z"
       },
       {
-        "domain": "longnow.org",
-        "startedAt": "2026-08-06T13:32:16.694Z"
+        "domain": "ottografie.nl",
+        "startedAt": "2026-08-06T13:37:26.451Z"
       },
       {
-        "domain": "warp.dev",
-        "startedAt": "2026-08-06T13:32:16.692Z"
+        "domain": "pneumatter.com",
+        "startedAt": "2026-08-06T13:37:21.116Z"
       },
       {
-        "domain": "windsurf.com",
-        "startedAt": "2026-08-06T13:32:16.693Z"
+        "domain": "projectfluent.org",
+        "startedAt": "2026-08-06T13:37:26.429Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 90
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1004,
-    "availableGeneration": 998,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 910,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T13:32:23.835Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T13:37:25.035Z",
+    "message": "Generation failed for oracea.com with exit 1."
+  }
 }
