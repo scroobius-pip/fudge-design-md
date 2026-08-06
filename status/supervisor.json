@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T11:21:16.011Z",
-  "heartbeatAt": "2026-08-06T11:21:16.783Z",
+  "heartbeatAt": "2026-08-06T11:26:26.037Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "criticker.com",
-        "startedAt": "2026-08-06T11:21:16.518Z"
+        "domain": "firecrawl.dev",
+        "startedAt": "2026-08-06T11:26:20.392Z"
       },
       {
-        "domain": "emmi.framer.website",
-        "startedAt": "2026-08-06T11:21:16.516Z"
+        "domain": "ren.tv",
+        "startedAt": "2026-08-06T11:26:25.780Z"
       },
       {
-        "domain": "metamask.io",
-        "startedAt": "2026-08-06T11:21:16.519Z"
+        "domain": "screenity.io",
+        "startedAt": "2026-08-06T11:26:20.391Z"
       },
       {
-        "domain": "mobbin.com",
-        "startedAt": "2026-08-06T11:21:16.503Z"
+        "domain": "selkie.design",
+        "startedAt": "2026-08-06T11:26:15.127Z"
       },
       {
-        "domain": "moonpay.com",
-        "startedAt": "2026-08-06T11:21:16.526Z"
+        "domain": "slideshare.net",
+        "startedAt": "2026-08-06T11:26:20.385Z"
       },
       {
-        "domain": "properm.ru",
-        "startedAt": "2026-08-06T11:21:16.532Z"
+        "domain": "subq.ai",
+        "startedAt": "2026-08-06T11:26:25.772Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 88
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 914,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T11:21:24.216Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T11:26:22.516Z",
+    "message": "Generation failed for pinterest.com with exit 1."
+  }
 }
