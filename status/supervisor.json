@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T12:17:50.382Z",
-  "heartbeatAt": "2026-08-06T12:17:51.027Z",
+  "heartbeatAt": "2026-08-06T12:23:01.155Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "midjourney.com",
-        "startedAt": "2026-08-06T12:17:50.828Z"
+        "domain": "displaay.net",
+        "startedAt": "2026-08-06T12:22:50.227Z"
       },
       {
-        "domain": "milanote.com",
-        "startedAt": "2026-08-06T12:17:50.827Z"
+        "domain": "docs.apara.design",
+        "startedAt": "2026-08-06T12:22:50.228Z"
       },
       {
-        "domain": "modal.com",
-        "startedAt": "2026-08-06T12:17:50.829Z"
+        "domain": "myanimelist.net",
+        "startedAt": "2026-08-06T12:22:50.229Z"
       },
       {
-        "domain": "mux.com",
-        "startedAt": "2026-08-06T12:17:50.826Z"
+        "domain": "playground.nothing.tech",
+        "startedAt": "2026-08-06T12:22:50.228Z"
       },
       {
-        "domain": "opper.ai",
-        "startedAt": "2026-08-06T12:17:50.825Z"
+        "domain": "supply.family",
+        "startedAt": "2026-08-06T12:22:55.580Z"
       },
       {
-        "domain": "properm.ru",
-        "startedAt": "2026-08-06T12:17:50.839Z"
+        "domain": "tenor.design",
+        "startedAt": "2026-08-06T12:22:50.230Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 115
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 888,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 3,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T12:17:57.831Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T12:22:51.224Z",
+    "message": "Generation failed for saaspo.com with exit 1."
+  }
 }
