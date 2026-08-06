@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T20:16:50.387Z",
-  "heartbeatAt": "2026-08-06T20:16:50.994Z",
+  "heartbeatAt": "2026-08-06T20:22:00.311Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "atlantide-festival.org",
-        "startedAt": "2026-08-06T20:16:50.801Z"
+        "domain": "fastmail.com",
+        "startedAt": "2026-08-06T20:21:49.513Z"
       },
       {
-        "domain": "count.co",
-        "startedAt": "2026-08-06T20:16:50.800Z"
+        "domain": "ferndesk.com",
+        "startedAt": "2026-08-06T20:21:54.864Z"
       },
       {
-        "domain": "davidrinman.com",
-        "startedAt": "2026-08-06T20:16:50.804Z"
+        "domain": "firsty.app",
+        "startedAt": "2026-08-06T20:21:49.514Z"
       },
       {
-        "domain": "designarena.ai",
-        "startedAt": "2026-08-06T20:16:50.803Z"
+        "domain": "hiyodel.com",
+        "startedAt": "2026-08-06T20:22:00.176Z"
       },
       {
-        "domain": "designerdailyreport.com",
-        "startedAt": "2026-08-06T20:16:50.802Z"
+        "domain": "voiceos.com",
+        "startedAt": "2026-08-06T20:21:49.514Z"
       },
       {
-        "domain": "tencent.com",
-        "startedAt": "2026-08-06T20:16:50.803Z"
+        "domain": "wired.com",
+        "startedAt": "2026-08-06T20:22:00.175Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 111
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 999,
+    "availableGeneration": 886,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T20:16:56.977Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T20:21:58.393Z",
+    "message": "Generation failed for leaflet.pub with exit 1."
+  }
 }
