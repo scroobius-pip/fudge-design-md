@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T13:19:04.781Z",
-  "heartbeatAt": "2026-08-06T13:19:05.420Z",
+  "heartbeatAt": "2026-08-06T13:24:15.021Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "americanhistory.si.edu",
-        "startedAt": "2026-08-06T13:19:05.213Z"
+        "domain": "buildform.ai",
+        "startedAt": "2026-08-06T13:24:09.594Z"
       },
       {
-        "domain": "americanprogress.org",
-        "startedAt": "2026-08-06T13:19:05.213Z"
+        "domain": "cathaypacific.com",
+        "startedAt": "2026-08-06T13:24:09.592Z"
       },
       {
-        "domain": "athas.dev",
-        "startedAt": "2026-08-06T13:19:05.215Z"
+        "domain": "designarena.ai",
+        "startedAt": "2026-08-06T13:24:09.593Z"
       },
       {
-        "domain": "blockprotocol.org",
-        "startedAt": "2026-08-06T13:19:05.214Z"
+        "domain": "dribbble.com",
+        "startedAt": "2026-08-06T13:24:09.588Z"
       },
       {
-        "domain": "borretti.me",
-        "startedAt": "2026-08-06T13:19:05.216Z"
+        "domain": "tiptap.dev",
+        "startedAt": "2026-08-06T13:24:09.592Z"
       },
       {
-        "domain": "cloud.trigger.dev",
-        "startedAt": "2026-08-06T13:19:05.211Z"
+        "domain": "type.lol",
+        "startedAt": "2026-08-06T13:23:43.206Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 108
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 997,
+    "availableGeneration": 889,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T13:19:12.871Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T13:24:07.804Z",
+    "message": "Generation failed for tailscale.com with exit 1."
+  }
 }
