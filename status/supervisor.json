@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T05:06:36.307Z",
-  "heartbeatAt": "2026-08-06T05:06:36.857Z",
+  "heartbeatAt": "2026-08-06T05:11:43.043Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "outerbase.com",
-        "startedAt": "2026-08-06T05:06:36.663Z"
+        "domain": "jsfiddle.net",
+        "startedAt": "2026-08-06T05:11:37.624Z"
       },
       {
-        "domain": "patreon.com",
-        "startedAt": "2026-08-06T05:06:36.666Z"
+        "domain": "tavus.io",
+        "startedAt": "2026-08-06T05:11:27.036Z"
       },
       {
-        "domain": "railway.com",
-        "startedAt": "2026-08-06T05:06:36.667Z"
+        "domain": "warhol-arts.webflow.io",
+        "startedAt": "2026-08-06T05:11:27.036Z"
       },
       {
-        "domain": "ruda-bureau.pro",
-        "startedAt": "2026-08-06T05:06:36.668Z"
+        "domain": "wearecollins.com",
+        "startedAt": "2026-08-06T05:11:32.385Z"
       },
       {
-        "domain": "sciencedirect.com",
-        "startedAt": "2026-08-06T05:06:36.669Z"
+        "domain": "zendaya.com",
+        "startedAt": "2026-08-06T05:11:37.625Z"
       },
       {
-        "domain": "thunder.rs",
-        "startedAt": "2026-08-06T05:06:36.668Z"
+        "domain": "zillow.com",
+        "startedAt": "2026-08-06T05:11:42.896Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 122
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T05:06:42.798Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T05:11:41.893Z",
+    "message": "Generation failed for jakub.kr with exit 1."
+  }
 }
