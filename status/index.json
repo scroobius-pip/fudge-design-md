@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T20:45:03.795Z",
+  "generatedAt": "2026-08-06T20:45:30.271Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "drafting": 4,
-    "preparing": 3
+    "preparing": 6,
+    "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T20:29:33.556Z",
-    "heartbeatAt": "2026-08-06T20:45:01.983Z",
+    "startedAt": "2026-08-06T20:45:27.775Z",
+    "heartbeatAt": "2026-08-06T20:45:28.373Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "figma.com",
-          "startedAt": "2026-08-06T20:44:51.285Z"
+          "domain": "d33.io",
+          "startedAt": "2026-08-06T20:45:28.177Z"
         },
         {
-          "domain": "laylo.com",
-          "startedAt": "2026-08-06T20:45:01.826Z"
+          "domain": "mistral.ai",
+          "startedAt": "2026-08-06T20:45:28.178Z"
         },
         {
-          "domain": "lelezhang.design",
-          "startedAt": "2026-08-06T20:44:51.285Z"
+          "domain": "mykc.cargo.site",
+          "startedAt": "2026-08-06T20:45:28.175Z"
         },
         {
-          "domain": "neuralink.com",
-          "startedAt": "2026-08-06T20:45:01.833Z"
+          "domain": "ollama.com",
+          "startedAt": "2026-08-06T20:45:28.174Z"
         },
         {
-          "domain": "onmy.land",
-          "startedAt": "2026-08-06T20:44:56.581Z"
+          "domain": "paperclip.ing",
+          "startedAt": "2026-08-06T20:45:28.176Z"
         },
         {
-          "domain": "plaid.com",
-          "startedAt": "2026-08-06T20:44:56.578Z"
+          "domain": "properm.ru",
+          "startedAt": "2026-08-06T20:45:28.177Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 332
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 672,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
-    "recoveredThisRun": 3,
+    "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T20:39:59.989Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T20:45:01.247Z",
-      "message": "Generation failed for deepwiki.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -5335,9 +5332,9 @@
     },
     {
       "domain": "d33.io",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:46.845Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.475Z",
       "blocker": null,
       "publication": {
         "key": "d33.io-design",
@@ -7493,9 +7490,9 @@
     },
     {
       "domain": "figma.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:44:57.957Z",
+      "updatedAt": "2026-08-06T20:45:05.056Z",
       "blocker": null,
       "publication": {
         "key": "figma.com-design",
@@ -11484,9 +11481,9 @@
     },
     {
       "domain": "laylo.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:45:02.043Z",
+      "updatedAt": "2026-08-06T20:45:17.463Z",
       "blocker": null,
       "publication": {
         "key": "laylo.com-design",
@@ -11588,9 +11585,9 @@
     },
     {
       "domain": "lelezhang.design",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:44:58.905Z",
+      "updatedAt": "2026-08-06T20:45:06.637Z",
       "blocker": null,
       "publication": {
         "key": "lelezhang.design-design",
@@ -12772,8 +12769,8 @@
     {
       "domain": "mercury.com",
       "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:27.535Z",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:21.789Z",
       "blocker": null,
       "publication": {
         "key": "mercury.com-design",
@@ -13096,9 +13093,9 @@
     },
     {
       "domain": "mistral.ai",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:54.500Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.491Z",
       "blocker": null,
       "publication": {
         "key": "mistral.ai-design",
@@ -13668,9 +13665,9 @@
     },
     {
       "domain": "mykc.cargo.site",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:45.961Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.499Z",
       "blocker": null,
       "publication": {
         "key": "mykc.cargo.site-design",
@@ -13902,9 +13899,9 @@
     },
     {
       "domain": "neuralink.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:45:02.049Z",
+      "updatedAt": "2026-08-06T20:45:15.469Z",
       "blocker": null,
       "publication": {
         "key": "neuralink.com-design",
@@ -14604,9 +14601,9 @@
     },
     {
       "domain": "ollama.com",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:45.396Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.524Z",
       "blocker": null,
       "publication": {
         "key": "ollama.com-design",
@@ -14773,9 +14770,9 @@
     },
     {
       "domain": "onmy.land",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 62,
-      "updatedAt": "2026-08-06T20:45:00.530Z",
+      "updatedAt": "2026-08-06T20:45:06.762Z",
       "blocker": null,
       "publication": {
         "key": "onmy.land-design",
@@ -15202,9 +15199,9 @@
     },
     {
       "domain": "oxylabs.io",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:38.192Z",
+      "state": "drafting",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:20.966Z",
       "blocker": null,
       "publication": {
         "key": "oxylabs.io-design",
@@ -15358,9 +15355,9 @@
     },
     {
       "domain": "paperclip.ing",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:46.601Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.551Z",
       "blocker": null,
       "publication": {
         "key": "paperclip.ing-design",
@@ -15917,9 +15914,9 @@
     },
     {
       "domain": "plaid.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 61,
-      "updatedAt": "2026-08-06T20:44:56.775Z",
+      "updatedAt": "2026-08-06T20:45:13.484Z",
       "blocker": null,
       "publication": {
         "key": "plaid.com-design",
@@ -16152,8 +16149,8 @@
     {
       "domain": "pocketui.app",
       "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:25.762Z",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:16.457Z",
       "blocker": null,
       "publication": {
         "key": "pocketui.app-design",
@@ -16243,8 +16240,8 @@
     {
       "domain": "poppy-connection-keeper.netlify.app",
       "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:37.613Z",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:16.389Z",
       "blocker": null,
       "publication": {
         "key": "poppy-connection-keeper.netlify.app-design",
@@ -16541,9 +16538,9 @@
     },
     {
       "domain": "properm.ru",
-      "state": "failed",
-      "attempt": 61,
-      "updatedAt": "2026-08-06T19:57:49.843Z",
+      "state": "preparing",
+      "attempt": 62,
+      "updatedAt": "2026-08-06T20:45:28.465Z",
       "blocker": null,
       "publication": {
         "key": "properm.ru-design",

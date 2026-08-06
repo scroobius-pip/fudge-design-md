@@ -1,38 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-06T20:29:33.556Z",
-  "heartbeatAt": "2026-08-06T20:45:01.983Z",
+  "startedAt": "2026-08-06T20:45:27.775Z",
+  "heartbeatAt": "2026-08-06T20:45:28.373Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "figma.com",
-        "startedAt": "2026-08-06T20:44:51.285Z"
+        "domain": "d33.io",
+        "startedAt": "2026-08-06T20:45:28.177Z"
       },
       {
-        "domain": "laylo.com",
-        "startedAt": "2026-08-06T20:45:01.826Z"
+        "domain": "mistral.ai",
+        "startedAt": "2026-08-06T20:45:28.178Z"
       },
       {
-        "domain": "lelezhang.design",
-        "startedAt": "2026-08-06T20:44:51.285Z"
+        "domain": "mykc.cargo.site",
+        "startedAt": "2026-08-06T20:45:28.175Z"
       },
       {
-        "domain": "neuralink.com",
-        "startedAt": "2026-08-06T20:45:01.833Z"
+        "domain": "ollama.com",
+        "startedAt": "2026-08-06T20:45:28.174Z"
       },
       {
-        "domain": "onmy.land",
-        "startedAt": "2026-08-06T20:44:56.581Z"
+        "domain": "paperclip.ing",
+        "startedAt": "2026-08-06T20:45:28.176Z"
       },
       {
-        "domain": "plaid.com",
-        "startedAt": "2026-08-06T20:44:56.578Z"
+        "domain": "properm.ru",
+        "startedAt": "2026-08-06T20:45:28.177Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 332
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -41,17 +41,14 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 672,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 1003,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 3,
+  "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-06T20:39:59.989Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-06T20:45:01.247Z",
-    "message": "Generation failed for deepwiki.com with exit 1."
-  }
+  "lastError": null
 }
