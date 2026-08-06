@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T17:15:40.569Z",
-  "heartbeatAt": "2026-08-06T17:15:41.143Z",
+  "heartbeatAt": "2026-08-06T17:20:48.593Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "ethicalads.io",
-        "startedAt": "2026-08-06T17:15:40.958Z"
+        "domain": "anytype.dev",
+        "startedAt": "2026-08-06T17:20:48.424Z"
       },
       {
-        "domain": "joinami.nl",
-        "startedAt": "2026-08-06T17:15:40.959Z"
+        "domain": "blog.langchain.com",
+        "startedAt": "2026-08-06T17:20:43.105Z"
       },
       {
-        "domain": "radix-ui.com",
-        "startedAt": "2026-08-06T17:15:40.959Z"
+        "domain": "elevenlabs.io",
+        "startedAt": "2026-08-06T17:20:37.813Z"
       },
       {
-        "domain": "rollups.com",
-        "startedAt": "2026-08-06T17:15:40.960Z"
+        "domain": "etched.com",
+        "startedAt": "2026-08-06T17:20:48.447Z"
       },
       {
-        "domain": "stitch.withgoogle.com",
-        "startedAt": "2026-08-06T17:15:40.957Z"
+        "domain": "goose.ai",
+        "startedAt": "2026-08-06T17:20:37.810Z"
       },
       {
-        "domain": "yuskavage.com",
-        "startedAt": "2026-08-06T17:15:40.961Z"
+        "domain": "wolfram.com",
+        "startedAt": "2026-08-06T17:20:43.097Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 105
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 896,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T17:15:47.756Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T17:20:45.415Z",
+    "message": "Generation failed for app.allworkapp.com with exit 1."
+  }
 }
