@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T07:33:44.873Z",
-  "heartbeatAt": "2026-08-06T07:33:45.411Z",
+  "heartbeatAt": "2026-08-06T07:38:57.384Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fireshinegames.co.uk",
-        "startedAt": "2026-08-06T07:33:45.242Z"
+        "domain": "neonrated.com",
+        "startedAt": "2026-08-06T07:38:57.213Z"
       },
       {
-        "domain": "hellotalk.com",
-        "startedAt": "2026-08-06T07:33:45.241Z"
+        "domain": "nova.app",
+        "startedAt": "2026-08-06T07:38:51.971Z"
       },
       {
-        "domain": "img.arible.co",
-        "startedAt": "2026-08-06T07:33:45.243Z"
+        "domain": "openai.com",
+        "startedAt": "2026-08-06T07:38:57.214Z"
       },
       {
-        "domain": "jules.google",
-        "startedAt": "2026-08-06T07:33:45.239Z"
+        "domain": "peerlist.io",
+        "startedAt": "2026-08-06T07:38:57.213Z"
       },
       {
-        "domain": "lovefrom.com",
-        "startedAt": "2026-08-06T07:33:45.242Z"
+        "domain": "pxlpowerup.se",
+        "startedAt": "2026-08-06T07:38:57.209Z"
       },
       {
-        "domain": "warp.dev",
-        "startedAt": "2026-08-06T07:33:45.240Z"
+        "domain": "trymeasured.com",
+        "startedAt": "2026-08-06T07:38:51.972Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 127
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T07:33:52.844Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T07:38:56.969Z",
+    "message": "Generation failed for nvidia.com with exit 1."
+  }
 }
