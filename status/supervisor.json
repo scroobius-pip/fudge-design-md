@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T00:30:50.162Z",
-  "heartbeatAt": "2026-08-06T00:30:50.651Z",
+  "heartbeatAt": "2026-08-06T00:36:00.866Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "pentagram.com",
-        "startedAt": "2026-08-06T00:30:50.472Z"
+        "domain": "drinkag1.com",
+        "startedAt": "2026-08-06T00:35:55.495Z"
       },
       {
-        "domain": "pinterest.com",
-        "startedAt": "2026-08-06T00:30:50.477Z"
+        "domain": "ergo.org",
+        "startedAt": "2026-08-06T00:35:55.492Z"
       },
       {
-        "domain": "pop.site",
-        "startedAt": "2026-08-06T00:30:50.475Z"
+        "domain": "flowgenie.pro",
+        "startedAt": "2026-08-06T00:36:00.754Z"
       },
       {
-        "domain": "primeintellect.ai",
-        "startedAt": "2026-08-06T00:30:50.478Z"
+        "domain": "hellotiana.framer.website",
+        "startedAt": "2026-08-06T00:35:55.497Z"
       },
       {
-        "domain": "shop.a24films.com",
-        "startedAt": "2026-08-06T00:30:50.478Z"
+        "domain": "tambo.co",
+        "startedAt": "2026-08-06T00:35:55.496Z"
       },
       {
-        "domain": "spellsurf.com",
-        "startedAt": "2026-08-06T00:30:50.476Z"
+        "domain": "theverge.com",
+        "startedAt": "2026-08-06T00:35:50.259Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 133
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 870,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T00:30:56.675Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T00:35:55.797Z",
+    "message": "Generation failed for shop.ledger.com with exit 1."
+  }
 }
