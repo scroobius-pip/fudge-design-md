@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T16:47:14.065Z",
+  "generatedAt": "2026-08-06T16:47:46.152Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 999,
+    "failed": 997,
     "needs_reprocessing": 22,
-    "drafting": 8,
-    "preparing": 4
+    "preparing": 7,
+    "drafting": 7
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T16:41:58.450Z",
-    "heartbeatAt": "2026-08-06T16:47:12.171Z",
+    "startedAt": "2026-08-06T16:47:43.700Z",
+    "heartbeatAt": "2026-08-06T16:47:44.266Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "deepjudge.ai",
-          "startedAt": "2026-08-06T16:47:01.508Z"
+          "domain": "cofounder.co",
+          "startedAt": "2026-08-06T16:47:44.083Z"
         },
         {
-          "domain": "durup.com",
-          "startedAt": "2026-08-06T16:47:06.755Z"
+          "domain": "fix.studio",
+          "startedAt": "2026-08-06T16:47:44.081Z"
         },
         {
-          "domain": "ecosia.org",
-          "startedAt": "2026-08-06T16:47:06.754Z"
+          "domain": "gpui.rs",
+          "startedAt": "2026-08-06T16:47:44.079Z"
         },
         {
-          "domain": "firefox.com",
-          "startedAt": "2026-08-06T16:47:12.024Z"
+          "domain": "macaron.im",
+          "startedAt": "2026-08-06T16:47:44.082Z"
         },
         {
-          "domain": "hackaday.com",
-          "startedAt": "2026-08-06T16:47:12.021Z"
+          "domain": "vinylc.com",
+          "startedAt": "2026-08-06T16:47:44.080Z"
         },
         {
-          "domain": "vogue.maitch.ai",
-          "startedAt": "2026-08-06T16:47:12.023Z"
+          "domain": "web.getmatter.com",
+          "startedAt": "2026-08-06T16:47:44.078Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 126
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1001,
-      "availableGeneration": 872,
+      "eligibleGeneration": 1003,
+      "availableGeneration": 997,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T16:42:07.012Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T16:47:10.883Z",
-      "message": "Generation failed for ft.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -4737,9 +4734,9 @@
     },
     {
       "domain": "cofounder.co",
-      "state": "failed",
-      "attempt": 60,
-      "updatedAt": "2026-08-06T16:02:40.457Z",
+      "state": "preparing",
+      "attempt": 61,
+      "updatedAt": "2026-08-06T16:47:44.386Z",
       "blocker": null,
       "publication": {
         "key": "cofounder.co-design",
@@ -6635,9 +6632,9 @@
     },
     {
       "domain": "durup.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 57,
-      "updatedAt": "2026-08-06T16:47:10.851Z",
+      "updatedAt": "2026-08-06T16:47:18.754Z",
       "blocker": null,
       "publication": {
         "key": "durup.com-design",
@@ -6791,9 +6788,9 @@
     },
     {
       "domain": "ecosia.org",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 57,
-      "updatedAt": "2026-08-06T16:47:11.932Z",
+      "updatedAt": "2026-08-06T16:47:19.075Z",
       "blocker": null,
       "publication": {
         "key": "ecosia.org-design",
@@ -7584,9 +7581,9 @@
     },
     {
       "domain": "firefox.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 57,
-      "updatedAt": "2026-08-06T16:47:12.257Z",
+      "updatedAt": "2026-08-06T16:47:24.326Z",
       "blocker": null,
       "publication": {
         "key": "firefox.com-design",
@@ -7727,9 +7724,9 @@
     },
     {
       "domain": "fix.studio",
-      "state": "failed",
-      "attempt": 56,
-      "updatedAt": "2026-08-06T16:02:36.160Z",
+      "state": "preparing",
+      "attempt": 57,
+      "updatedAt": "2026-08-06T16:47:44.359Z",
       "blocker": null,
       "publication": {
         "key": "fix.studio-design",
@@ -7871,8 +7868,8 @@
     {
       "domain": "flutter.dev",
       "state": "failed",
-      "attempt": 56,
-      "updatedAt": "2026-08-06T16:02:18.133Z",
+      "attempt": 57,
+      "updatedAt": "2026-08-06T16:47:33.391Z",
       "blocker": null,
       "publication": {
         "key": "flutter.dev-design",
@@ -8962,9 +8959,9 @@
     },
     {
       "domain": "gpui.rs",
-      "state": "failed",
-      "attempt": 56,
-      "updatedAt": "2026-08-06T16:02:30.337Z",
+      "state": "preparing",
+      "attempt": 57,
+      "updatedAt": "2026-08-06T16:47:44.375Z",
       "blocker": null,
       "publication": {
         "key": "gpui.rs-design",
@@ -9144,9 +9141,9 @@
     },
     {
       "domain": "hackaday.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 57,
-      "updatedAt": "2026-08-06T16:47:12.226Z",
+      "updatedAt": "2026-08-06T16:47:21.579Z",
       "blocker": null,
       "publication": {
         "key": "hackaday.com-design",
@@ -9314,8 +9311,8 @@
     {
       "domain": "headwayapp.co",
       "state": "failed",
-      "attempt": 56,
-      "updatedAt": "2026-08-06T16:02:17.175Z",
+      "attempt": 57,
+      "updatedAt": "2026-08-06T16:47:32.098Z",
       "blocker": null,
       "publication": {
         "key": "headwayapp.co-design",
@@ -9392,8 +9389,8 @@
     {
       "domain": "helloaxel.com",
       "state": "failed",
-      "attempt": 56,
-      "updatedAt": "2026-08-06T16:02:15.258Z",
+      "attempt": 57,
+      "updatedAt": "2026-08-06T16:47:31.250Z",
       "blocker": null,
       "publication": {
         "key": "helloaxel.com-design",
@@ -12329,9 +12326,9 @@
     },
     {
       "domain": "macaron.im",
-      "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:39.602Z",
+      "state": "preparing",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:44.456Z",
       "blocker": null,
       "publication": {
         "key": "macaron.im-design",
@@ -13253,8 +13250,8 @@
     {
       "domain": "modedesigns.com",
       "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:23.111Z",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:40.889Z",
       "blocker": null,
       "publication": {
         "key": "modedesigns.com-design",
@@ -16685,8 +16682,8 @@
     {
       "domain": "quantumbody.io",
       "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:11.058Z",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:30.583Z",
       "blocker": null,
       "publication": {
         "key": "quantumbody.io-design",
@@ -20909,9 +20906,9 @@
     },
     {
       "domain": "umbrel.com",
-      "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:23.370Z",
+      "state": "drafting",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:38.929Z",
       "blocker": null,
       "publication": {
         "key": "umbrel.com-design",
@@ -21416,9 +21413,9 @@
     },
     {
       "domain": "vinylc.com",
-      "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:30.596Z",
+      "state": "preparing",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:44.353Z",
       "blocker": null,
       "publication": {
         "key": "vinylc.com-design",
@@ -21456,8 +21453,8 @@
     {
       "domain": "vitest.dev",
       "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:14.068Z",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:33.404Z",
       "blocker": null,
       "publication": {
         "key": "vitest.dev-design",
@@ -21507,9 +21504,9 @@
     },
     {
       "domain": "vogue.maitch.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 56,
-      "updatedAt": "2026-08-06T16:47:12.255Z",
+      "updatedAt": "2026-08-06T16:47:21.610Z",
       "blocker": null,
       "publication": {
         "key": "vogue.maitch.ai-design",
@@ -21715,9 +21712,9 @@
     },
     {
       "domain": "web.getmatter.com",
-      "state": "failed",
-      "attempt": 55,
-      "updatedAt": "2026-08-06T16:02:24.952Z",
+      "state": "preparing",
+      "attempt": 56,
+      "updatedAt": "2026-08-06T16:47:44.369Z",
       "blocker": null,
       "publication": {
         "key": "web.getmatter.com-design",
