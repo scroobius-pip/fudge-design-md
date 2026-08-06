@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T18:48:45.629Z",
-  "heartbeatAt": "2026-08-06T18:48:46.270Z",
+  "heartbeatAt": "2026-08-06T18:53:55.819Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "civilization.2k.com",
-        "startedAt": "2026-08-06T18:48:46.037Z"
+        "domain": "halftonedigital.com",
+        "startedAt": "2026-08-06T18:53:55.672Z"
       },
       {
-        "domain": "designarena.ai",
-        "startedAt": "2026-08-06T18:48:46.038Z"
+        "domain": "jamm.co",
+        "startedAt": "2026-08-06T18:53:24.054Z"
       },
       {
-        "domain": "designerdailyreport.com",
-        "startedAt": "2026-08-06T18:48:46.036Z"
+        "domain": "kimaventures.com",
+        "startedAt": "2026-08-06T18:53:50.421Z"
       },
       {
-        "domain": "designreviewed.com",
-        "startedAt": "2026-08-06T18:48:46.037Z"
+        "domain": "lapa.ninja",
+        "startedAt": "2026-08-06T18:53:55.670Z"
       },
       {
-        "domain": "jam.dev",
-        "startedAt": "2026-08-06T18:48:46.021Z"
+        "domain": "mellow.io",
+        "startedAt": "2026-08-06T18:53:55.671Z"
       },
       {
-        "domain": "tencent.com",
-        "startedAt": "2026-08-06T18:48:46.035Z"
+        "domain": "thinkingmachines.ai",
+        "startedAt": "2026-08-06T18:53:55.655Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 124
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T18:48:53.064Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T18:53:54.158Z",
+    "message": "Generation failed for indexsy.com with exit 1."
+  }
 }
