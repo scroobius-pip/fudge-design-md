@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T06:15:52.446Z",
+  "generatedAt": "2026-08-06T06:16:18.952Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1004,
     "needs_reprocessing": 22,
-    "drafting": 6,
-    "preparing": 1
+    "preparing": 6,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-06T06:00:23.283Z",
-    "heartbeatAt": "2026-08-06T06:15:50.829Z",
+    "startedAt": "2026-08-06T06:16:16.579Z",
+    "heartbeatAt": "2026-08-06T06:16:17.054Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "fireshinegames.co.uk",
-          "startedAt": "2026-08-06T06:15:45.446Z"
+          "domain": "happy.bg",
+          "startedAt": "2026-08-06T06:16:16.918Z"
         },
         {
-          "domain": "greptile.com",
-          "startedAt": "2026-08-06T06:15:40.198Z"
+          "domain": "huly.io",
+          "startedAt": "2026-08-06T06:16:16.914Z"
         },
         {
-          "domain": "hellotalk.com",
-          "startedAt": "2026-08-06T06:15:50.713Z"
+          "domain": "lustucru.fr",
+          "startedAt": "2026-08-06T06:16:16.923Z"
         },
         {
-          "domain": "joodaloop.com",
-          "startedAt": "2026-08-06T06:15:45.448Z"
+          "domain": "matteosrr.webflow.io",
+          "startedAt": "2026-08-06T06:16:16.915Z"
         },
         {
-          "domain": "jules.google",
-          "startedAt": "2026-08-06T06:15:45.447Z"
+          "domain": "windsurf.com",
+          "startedAt": "2026-08-06T06:16:16.922Z"
         },
         {
-          "domain": "warp.dev",
-          "startedAt": "2026-08-06T06:15:40.197Z"
+          "domain": "workspaces.xyz",
+          "startedAt": "2026-08-06T06:16:16.916Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 415
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 589,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1004,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-06T06:10:49.486Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-06T06:15:50.235Z",
-      "message": "Generation failed for works.pm with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -7623,9 +7620,9 @@
     },
     {
       "domain": "fireshinegames.co.uk",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 45,
-      "updatedAt": "2026-08-06T06:15:49.067Z",
+      "updatedAt": "2026-08-06T06:15:55.915Z",
       "blocker": null,
       "publication": {
         "key": "fireshinegames.co.uk-design",
@@ -9027,9 +9024,9 @@
     },
     {
       "domain": "greptile.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 45,
-      "updatedAt": "2026-08-06T06:15:45.661Z",
+      "updatedAt": "2026-08-06T06:15:53.256Z",
       "blocker": null,
       "publication": {
         "key": "greptile.com-design",
@@ -9209,9 +9206,9 @@
     },
     {
       "domain": "happy.bg",
-      "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:39:18.554Z",
+      "state": "preparing",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:17.167Z",
       "blocker": null,
       "publication": {
         "key": "happy.bg-design",
@@ -9404,9 +9401,9 @@
     },
     {
       "domain": "hellotalk.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 45,
-      "updatedAt": "2026-08-06T06:15:50.890Z",
+      "updatedAt": "2026-08-06T06:16:02.412Z",
       "blocker": null,
       "publication": {
         "key": "hellotalk.com-design",
@@ -9561,8 +9558,8 @@
     {
       "domain": "heyquin.io",
       "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:38:51.935Z",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:04.928Z",
       "blocker": null,
       "publication": {
         "key": "heyquin.io-design",
@@ -9652,8 +9649,8 @@
     {
       "domain": "hometechco.com",
       "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:38:58.083Z",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:09.884Z",
       "blocker": null,
       "publication": {
         "key": "hometechco.com-design",
@@ -9755,9 +9752,9 @@
     },
     {
       "domain": "huly.io",
-      "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:39:16.967Z",
+      "state": "preparing",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:17.156Z",
       "blocker": null,
       "publication": {
         "key": "huly.io-design",
@@ -9990,8 +9987,8 @@
     {
       "domain": "icp.ninja",
       "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:38:50.073Z",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:06.277Z",
       "blocker": null,
       "publication": {
         "key": "icp.ninja-design",
@@ -10159,8 +10156,8 @@
     {
       "domain": "img.arible.co",
       "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:38:55.133Z",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:03.675Z",
       "blocker": null,
       "publication": {
         "key": "img.arible.co-design",
@@ -10756,9 +10753,9 @@
     },
     {
       "domain": "joodaloop.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 45,
-      "updatedAt": "2026-08-06T06:15:47.857Z",
+      "updatedAt": "2026-08-06T06:15:53.389Z",
       "blocker": null,
       "publication": {
         "key": "joodaloop.com-design",
@@ -10860,9 +10857,9 @@
     },
     {
       "domain": "jules.google",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 45,
-      "updatedAt": "2026-08-06T06:15:47.780Z",
+      "updatedAt": "2026-08-06T06:15:53.981Z",
       "blocker": null,
       "publication": {
         "key": "jules.google-design",
@@ -12187,8 +12184,8 @@
     {
       "domain": "lovefrom.com",
       "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:38:47.768Z",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:03.263Z",
       "blocker": null,
       "publication": {
         "key": "lovefrom.com-design",
@@ -12277,9 +12274,9 @@
     },
     {
       "domain": "lustucru.fr",
-      "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:39:25.545Z",
+      "state": "preparing",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:17.262Z",
       "blocker": null,
       "publication": {
         "key": "lustucru.fr-design",
@@ -12576,9 +12573,9 @@
     },
     {
       "domain": "matteosrr.webflow.io",
-      "state": "failed",
-      "attempt": 44,
-      "updatedAt": "2026-08-06T05:39:17.512Z",
+      "state": "preparing",
+      "attempt": 45,
+      "updatedAt": "2026-08-06T06:16:17.156Z",
       "blocker": null,
       "publication": {
         "key": "matteosrr.webflow.io-design",
@@ -16347,8 +16344,8 @@
     {
       "domain": "postnext.io",
       "state": "failed",
-      "attempt": 43,
-      "updatedAt": "2026-08-06T05:39:16.644Z",
+      "attempt": 44,
+      "updatedAt": "2026-08-06T06:16:16.633Z",
       "blocker": null,
       "publication": {
         "key": "postnext.io-design",
@@ -21663,9 +21660,9 @@
     },
     {
       "domain": "warp.dev",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 44,
-      "updatedAt": "2026-08-06T06:15:44.008Z",
+      "updatedAt": "2026-08-06T06:15:53.372Z",
       "blocker": null,
       "publication": {
         "key": "warp.dev-design",
@@ -21884,9 +21881,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "failed",
-      "attempt": 43,
-      "updatedAt": "2026-08-06T05:39:19.503Z",
+      "state": "preparing",
+      "attempt": 44,
+      "updatedAt": "2026-08-06T06:16:17.261Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
@@ -22209,9 +22206,9 @@
     },
     {
       "domain": "workspaces.xyz",
-      "state": "failed",
-      "attempt": 43,
-      "updatedAt": "2026-08-06T05:39:18.097Z",
+      "state": "preparing",
+      "attempt": 44,
+      "updatedAt": "2026-08-06T06:16:17.155Z",
       "blocker": null,
       "publication": {
         "key": "workspaces.xyz-design",
