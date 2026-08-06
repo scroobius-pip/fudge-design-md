@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T20:29:33.556Z",
-  "heartbeatAt": "2026-08-06T20:29:34.204Z",
+  "heartbeatAt": "2026-08-06T20:34:43.767Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "antler.co",
-        "startedAt": "2026-08-06T20:29:33.981Z"
+        "domain": "flickr.com",
+        "startedAt": "2026-08-06T20:34:43.571Z"
       },
       {
-        "domain": "lit.dev",
-        "startedAt": "2026-08-06T20:29:33.983Z"
+        "domain": "fushly.com",
+        "startedAt": "2026-08-06T20:34:43.570Z"
       },
       {
-        "domain": "meta.com",
-        "startedAt": "2026-08-06T20:29:33.978Z"
+        "domain": "oatly.com",
+        "startedAt": "2026-08-06T20:34:43.570Z"
       },
       {
-        "domain": "nothing.tech",
-        "startedAt": "2026-08-06T20:29:33.980Z"
+        "domain": "replacement.ai",
+        "startedAt": "2026-08-06T20:34:33.025Z"
       },
       {
-        "domain": "quantamagazine.org",
-        "startedAt": "2026-08-06T20:29:33.982Z"
+        "domain": "webshare.io",
+        "startedAt": "2026-08-06T20:34:43.569Z"
       },
       {
-        "domain": "shop.heavymetal.com",
-        "startedAt": "2026-08-06T20:29:33.981Z"
+        "domain": "yahoo.com",
+        "startedAt": "2026-08-06T20:34:43.568Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 110
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "availableGeneration": 892,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T20:29:41.004Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T20:34:42.424Z",
+    "message": "Generation failed for whisprgroup.com with exit 1."
+  }
 }
