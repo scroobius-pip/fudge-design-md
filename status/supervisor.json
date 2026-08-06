@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T12:40:43.625Z",
-  "heartbeatAt": "2026-08-06T12:40:44.233Z",
+  "heartbeatAt": "2026-08-06T12:45:54.142Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "hash.dev",
-        "startedAt": "2026-08-06T12:40:44.065Z"
+        "domain": "harvey.ai",
+        "startedAt": "2026-08-06T12:45:48.677Z"
       },
       {
-        "domain": "id.elsevier.com",
-        "startedAt": "2026-08-06T12:40:44.065Z"
+        "domain": "leel.in",
+        "startedAt": "2026-08-06T12:45:38.164Z"
       },
       {
-        "domain": "jakub.kr",
-        "startedAt": "2026-08-06T12:40:44.068Z"
+        "domain": "makerstations.io",
+        "startedAt": "2026-08-06T12:45:53.961Z"
       },
       {
-        "domain": "portfolio.adobe.com",
-        "startedAt": "2026-08-06T12:40:44.063Z"
+        "domain": "maxitype.com",
+        "startedAt": "2026-08-06T12:45:48.676Z"
       },
       {
-        "domain": "voiceos.com",
-        "startedAt": "2026-08-06T12:40:44.066Z"
+        "domain": "midlife.engineering",
+        "startedAt": "2026-08-06T12:45:53.962Z"
       },
       {
-        "domain": "whop.com",
-        "startedAt": "2026-08-06T12:40:44.067Z"
+        "domain": "oldcitymailroom.com",
+        "startedAt": "2026-08-06T12:45:48.677Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 97
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 907,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T12:40:53.581Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T12:45:53.480Z",
+    "message": "Generation failed for labs.chaingpt.org with exit 1."
+  }
 }
