@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T19:28:30.355Z",
-  "heartbeatAt": "2026-08-06T19:28:31.087Z",
+  "heartbeatAt": "2026-08-06T19:33:42.354Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "baked.design",
-        "startedAt": "2026-08-06T19:28:30.758Z"
+        "domain": "deel.com",
+        "startedAt": "2026-08-06T19:33:26.303Z"
       },
       {
-        "domain": "brynmawr.edu",
-        "startedAt": "2026-08-06T19:28:30.767Z"
+        "domain": "id.elsevier.com",
+        "startedAt": "2026-08-06T19:33:42.176Z"
       },
       {
-        "domain": "bunny.net",
-        "startedAt": "2026-08-06T19:28:30.766Z"
+        "domain": "jarbus.net",
+        "startedAt": "2026-08-06T19:33:42.172Z"
       },
       {
-        "domain": "crescenzi.co",
-        "startedAt": "2026-08-06T19:28:30.755Z"
+        "domain": "portfolio.adobe.com",
+        "startedAt": "2026-08-06T19:33:42.174Z"
       },
       {
-        "domain": "ebrd.com",
-        "startedAt": "2026-08-06T19:28:30.750Z"
+        "domain": "useorigin.com",
+        "startedAt": "2026-08-06T19:33:42.173Z"
       },
       {
-        "domain": "eclecticlight.co",
-        "startedAt": "2026-08-06T19:28:30.765Z"
+        "domain": "visitors.now",
+        "startedAt": "2026-08-06T19:33:42.170Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 127
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1009,
+    "availableGeneration": 877,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T19:28:39.246Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T19:33:40.413Z",
+    "message": "Generation failed for forgeandform.co with exit 1."
+  }
 }
