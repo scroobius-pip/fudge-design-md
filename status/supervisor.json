@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T20:45:27.775Z",
-  "heartbeatAt": "2026-08-06T20:45:28.373Z",
+  "heartbeatAt": "2026-08-06T20:50:36.946Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "d33.io",
-        "startedAt": "2026-08-06T20:45:28.177Z"
+        "domain": "aistudio.google.com",
+        "startedAt": "2026-08-06T20:50:26.269Z"
       },
       {
-        "domain": "mistral.ai",
-        "startedAt": "2026-08-06T20:45:28.178Z"
+        "domain": "firecrawl.dev",
+        "startedAt": "2026-08-06T20:50:20.978Z"
       },
       {
-        "domain": "mykc.cargo.site",
-        "startedAt": "2026-08-06T20:45:28.175Z"
+        "domain": "pangrampangram.com",
+        "startedAt": "2026-08-06T20:50:31.535Z"
       },
       {
-        "domain": "ollama.com",
-        "startedAt": "2026-08-06T20:45:28.174Z"
+        "domain": "perplexity.ai",
+        "startedAt": "2026-08-06T20:50:31.540Z"
       },
       {
-        "domain": "paperclip.ing",
-        "startedAt": "2026-08-06T20:45:28.176Z"
+        "domain": "phrasing.app",
+        "startedAt": "2026-08-06T20:50:26.267Z"
       },
       {
-        "domain": "properm.ru",
-        "startedAt": "2026-08-06T20:45:28.177Z"
+        "domain": "raycast.com",
+        "startedAt": "2026-08-06T20:50:31.541Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 92
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 911,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T20:45:34.588Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T20:50:30.026Z",
+    "message": "Generation failed for screenity.io with exit 1."
+  }
 }
