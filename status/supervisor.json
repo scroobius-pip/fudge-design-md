@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T01:24:20.846Z",
-  "heartbeatAt": "2026-08-06T01:24:21.337Z",
+  "heartbeatAt": "2026-08-06T01:29:32.783Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "happy.bg",
-        "startedAt": "2026-08-06T01:24:21.159Z"
+        "domain": "dfy.co.kr",
+        "startedAt": "2026-08-06T01:29:32.611Z"
       },
       {
-        "domain": "hometechco.com",
-        "startedAt": "2026-08-06T01:24:21.156Z"
+        "domain": "posthog.com",
+        "startedAt": "2026-08-06T01:29:32.610Z"
       },
       {
-        "domain": "huly.io",
-        "startedAt": "2026-08-06T01:24:21.158Z"
+        "domain": "proto.io",
+        "startedAt": "2026-08-06T01:29:27.404Z"
       },
       {
-        "domain": "jobyaviation.com",
-        "startedAt": "2026-08-06T01:24:21.157Z"
+        "domain": "red.org",
+        "startedAt": "2026-08-06T01:29:32.612Z"
       },
       {
-        "domain": "lovefrom.com",
-        "startedAt": "2026-08-06T01:24:21.159Z"
+        "domain": "redo.com",
+        "startedAt": "2026-08-06T01:29:32.612Z"
       },
       {
-        "domain": "windsurf.com",
-        "startedAt": "2026-08-06T01:24:21.160Z"
+        "domain": "sibru.com",
+        "startedAt": "2026-08-06T01:29:32.611Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 154
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "availableGeneration": 850,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T01:24:27.511Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T01:29:31.415Z",
+    "message": "Generation failed for profitpath.com with exit 1."
+  }
 }
