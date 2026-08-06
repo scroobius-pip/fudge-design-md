@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T21:01:46.274Z",
-  "heartbeatAt": "2026-08-06T21:01:46.847Z",
+  "heartbeatAt": "2026-08-06T21:06:55.155Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "clay.com",
-        "startedAt": "2026-08-06T21:01:46.656Z"
+        "domain": "createanything.com",
+        "startedAt": "2026-08-06T21:06:49.730Z"
       },
       {
-        "domain": "dailymotion.com",
-        "startedAt": "2026-08-06T21:01:46.657Z"
+        "domain": "deepnote.com",
+        "startedAt": "2026-08-06T21:06:49.732Z"
       },
       {
-        "domain": "designsystems.surf",
-        "startedAt": "2026-08-06T21:01:46.655Z"
+        "domain": "emilysneddon.com",
+        "startedAt": "2026-08-06T21:06:54.992Z"
       },
       {
-        "domain": "google.com",
-        "startedAt": "2026-08-06T21:01:46.658Z"
+        "domain": "etsy.com",
+        "startedAt": "2026-08-06T21:06:49.731Z"
       },
       {
-        "domain": "together.ai",
-        "startedAt": "2026-08-06T21:01:46.659Z"
+        "domain": "streamscharts.com",
+        "startedAt": "2026-08-06T21:06:44.402Z"
       },
       {
-        "domain": "tryholo.ai",
-        "startedAt": "2026-08-06T21:01:46.659Z"
+        "domain": "usgraphics.com",
+        "startedAt": "2026-08-06T21:06:54.993Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 102
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 898,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T21:01:53.334Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T21:06:51.329Z",
+    "message": "Generation failed for opencollective.com with exit 1."
+  }
 }
