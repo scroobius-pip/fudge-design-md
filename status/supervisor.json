@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-06T11:59:11.443Z",
-  "heartbeatAt": "2026-08-06T11:59:12.037Z",
+  "heartbeatAt": "2026-08-06T12:04:20.649Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "mentra.glass",
-        "startedAt": "2026-08-06T11:59:11.876Z"
+        "domain": "bun.com",
+        "startedAt": "2026-08-06T12:04:20.448Z"
       },
       {
-        "domain": "meta.com",
-        "startedAt": "2026-08-06T11:59:11.877Z"
+        "domain": "flickr.com",
+        "startedAt": "2026-08-06T12:04:20.432Z"
       },
       {
-        "domain": "nango.dev",
-        "startedAt": "2026-08-06T11:59:11.878Z"
+        "domain": "rains.com",
+        "startedAt": "2026-08-06T12:04:20.446Z"
       },
       {
-        "domain": "nothing.tech",
-        "startedAt": "2026-08-06T11:59:11.879Z"
+        "domain": "samsung.com",
+        "startedAt": "2026-08-06T12:04:09.887Z"
       },
       {
-        "domain": "refit.framer.website",
-        "startedAt": "2026-08-06T11:59:11.881Z"
+        "domain": "sandbox.cloudflare.com",
+        "startedAt": "2026-08-06T12:04:09.886Z"
       },
       {
-        "domain": "ycombinator.com",
-        "startedAt": "2026-08-06T11:59:11.880Z"
+        "domain": "wydrstudios.com",
+        "startedAt": "2026-08-06T12:04:15.166Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 92
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 909,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-06T11:59:18.724Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-06T12:04:20.266Z",
+    "message": "Generation failed for oatly.com with exit 1."
+  }
 }
