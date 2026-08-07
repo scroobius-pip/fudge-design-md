@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T09:13:01.544Z",
+  "generatedAt": "2026-08-07T09:13:28.863Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 999,
+    "failed": 998,
     "needs_reprocessing": 22,
-    "drafting": 5,
+    "drafting": 6,
     "preparing": 7
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T09:12:58.723Z",
-    "heartbeatAt": "2026-08-07T09:12:59.378Z",
+    "startedAt": "2026-08-07T09:13:25.653Z",
+    "heartbeatAt": "2026-08-07T09:13:26.313Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "diabrowser.com",
-          "startedAt": "2026-08-07T09:12:59.196Z"
+          "domain": "brave.com",
+          "startedAt": "2026-08-07T09:13:26.110Z"
         },
         {
-          "domain": "duetnightabyss.dna-panstudio.com",
-          "startedAt": "2026-08-07T09:12:59.189Z"
+          "domain": "cisco.com",
+          "startedAt": "2026-08-07T09:13:26.102Z"
         },
         {
-          "domain": "hypen.space",
-          "startedAt": "2026-08-07T09:12:59.190Z"
+          "domain": "kobbe.io",
+          "startedAt": "2026-08-07T09:13:26.109Z"
         },
         {
-          "domain": "ibm.com",
-          "startedAt": "2026-08-07T09:12:59.184Z"
+          "domain": "miromiro.app",
+          "startedAt": "2026-08-07T09:13:26.106Z"
         },
         {
-          "domain": "natoma.ai",
-          "startedAt": "2026-08-07T09:12:59.179Z"
+          "domain": "nibzard.com",
+          "startedAt": "2026-08-07T09:13:26.108Z"
         },
         {
-          "domain": "rabbit.tech",
-          "startedAt": "2026-08-07T09:12:59.187Z"
+          "domain": "opensource.googleblog.com",
+          "startedAt": "2026-08-07T09:13:26.110Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 999,
+      "eligibleGeneration": 1004,
+      "availableGeneration": 998,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -3486,9 +3486,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "failed",
-      "attempt": 74,
-      "updatedAt": "2026-08-07T08:28:18.906Z",
+      "state": "preparing",
+      "attempt": 75,
+      "updatedAt": "2026-08-07T09:13:26.436Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -4422,9 +4422,9 @@
     },
     {
       "domain": "cisco.com",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:06.178Z",
+      "state": "preparing",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:26.414Z",
       "blocker": null,
       "publication": {
         "key": "cisco.com-design",
@@ -6099,9 +6099,9 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 73,
-      "updatedAt": "2026-08-07T09:12:59.607Z",
+      "updatedAt": "2026-08-07T09:13:11.361Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
@@ -6593,9 +6593,9 @@
     },
     {
       "domain": "duetnightabyss.dna-panstudio.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 72,
-      "updatedAt": "2026-08-07T09:12:59.570Z",
+      "updatedAt": "2026-08-07T09:13:11.726Z",
       "blocker": null,
       "publication": {
         "key": "duetnightabyss.dna-panstudio.com-design",
@@ -9856,9 +9856,9 @@
     },
     {
       "domain": "hypen.space",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 72,
-      "updatedAt": "2026-08-07T09:12:59.608Z",
+      "updatedAt": "2026-08-07T09:13:15.018Z",
       "blocker": null,
       "publication": {
         "key": "hypen.space-design",
@@ -9921,9 +9921,9 @@
     },
     {
       "domain": "ibm.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 72,
-      "updatedAt": "2026-08-07T09:12:59.532Z",
+      "updatedAt": "2026-08-07T09:13:13.886Z",
       "blocker": null,
       "publication": {
         "key": "ibm.com-design",
@@ -11234,9 +11234,9 @@
     },
     {
       "domain": "kobbe.io",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:16.242Z",
+      "state": "preparing",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:26.490Z",
       "blocker": null,
       "publication": {
         "key": "kobbe.io-design",
@@ -11286,9 +11286,9 @@
     },
     {
       "domain": "kraa.io",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:02.853Z",
+      "state": "drafting",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:20.859Z",
       "blocker": null,
       "publication": {
         "key": "kraa.io-design",
@@ -13080,9 +13080,9 @@
     },
     {
       "domain": "miromiro.app",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:13.339Z",
+      "state": "preparing",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:26.424Z",
       "blocker": null,
       "publication": {
         "key": "miromiro.app-design",
@@ -13756,9 +13756,9 @@
     },
     {
       "domain": "natoma.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 72,
-      "updatedAt": "2026-08-07T09:12:59.532Z",
+      "updatedAt": "2026-08-07T09:13:10.597Z",
       "blocker": null,
       "publication": {
         "key": "natoma.ai-design",
@@ -14029,9 +14029,9 @@
     },
     {
       "domain": "nibzard.com",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:16.144Z",
+      "state": "preparing",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:26.426Z",
       "blocker": null,
       "publication": {
         "key": "nibzard.com-design",
@@ -14939,9 +14939,9 @@
     },
     {
       "domain": "opensource.googleblog.com",
-      "state": "failed",
-      "attempt": 71,
-      "updatedAt": "2026-08-07T08:28:17.374Z",
+      "state": "preparing",
+      "attempt": 72,
+      "updatedAt": "2026-08-07T09:13:26.512Z",
       "blocker": null,
       "publication": {
         "key": "opensource.googleblog.com-design",
@@ -16772,9 +16772,9 @@
     },
     {
       "domain": "rabbit.tech",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T09:12:59.535Z",
+      "updatedAt": "2026-08-07T09:13:15.299Z",
       "blocker": null,
       "publication": {
         "key": "rabbit.tech-design",
