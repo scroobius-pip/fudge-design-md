@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T10:05:50.998Z",
-  "heartbeatAt": "2026-08-07T10:05:51.623Z",
+  "heartbeatAt": "2026-08-07T10:11:01.958Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "d33.io",
-        "startedAt": "2026-08-07T10:05:51.451Z"
+        "domain": "eu-inc.org",
+        "startedAt": "2026-08-07T10:10:56.426Z"
       },
       {
-        "domain": "laylo.com",
-        "startedAt": "2026-08-07T10:05:51.445Z"
+        "domain": "maximeheckel.com",
+        "startedAt": "2026-08-07T10:10:51.140Z"
       },
       {
-        "domain": "new.email",
-        "startedAt": "2026-08-07T10:05:51.454Z"
+        "domain": "pentagram.com",
+        "startedAt": "2026-08-07T10:10:56.428Z"
       },
       {
-        "domain": "notion.so",
-        "startedAt": "2026-08-07T10:05:51.452Z"
+        "domain": "ramp.com",
+        "startedAt": "2026-08-07T10:10:56.427Z"
       },
       {
-        "domain": "ntathome.com",
-        "startedAt": "2026-08-07T10:05:51.453Z"
+        "domain": "runwayml.com",
+        "startedAt": "2026-08-07T10:10:56.425Z"
       },
       {
-        "domain": "paths.grasp.study",
-        "startedAt": "2026-08-07T10:05:51.450Z"
+        "domain": "zapier.com",
+        "startedAt": "2026-08-07T10:10:51.141Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 117
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1002,
-    "availableGeneration": 996,
+    "eligibleGeneration": 997,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T10:05:59.979Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T10:10:55.842Z",
+    "message": "Generation failed for skill-shrek.vercel.app with exit 1."
+  }
 }
