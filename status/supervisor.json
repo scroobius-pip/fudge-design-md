@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T10:26:03.869Z",
-  "heartbeatAt": "2026-08-07T10:26:04.528Z",
+  "heartbeatAt": "2026-08-07T10:31:19.163Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "daylight-health.com",
-        "startedAt": "2026-08-07T10:26:04.327Z"
+        "domain": "happy.bg",
+        "startedAt": "2026-08-07T10:31:18.974Z"
       },
       {
-        "domain": "durup.com",
-        "startedAt": "2026-08-07T10:26:04.326Z"
+        "domain": "hometechco.com",
+        "startedAt": "2026-08-07T10:31:18.977Z"
       },
       {
-        "domain": "flutter.dev",
-        "startedAt": "2026-08-07T10:26:04.326Z"
+        "domain": "joinbeni.com",
+        "startedAt": "2026-08-07T10:31:02.962Z"
       },
       {
-        "domain": "gpui.rs",
-        "startedAt": "2026-08-07T10:26:04.324Z"
+        "domain": "kanadojo.com",
+        "startedAt": "2026-08-07T10:31:08.333Z"
       },
       {
-        "domain": "vitest.dev",
-        "startedAt": "2026-08-07T10:26:04.324Z"
+        "domain": "maxitype.com",
+        "startedAt": "2026-08-07T10:31:18.975Z"
       },
       {
-        "domain": "vogue.maitch.ai",
-        "startedAt": "2026-08-07T10:26:04.323Z"
+        "domain": "writewithspiral.com",
+        "startedAt": "2026-08-07T10:31:18.973Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 126
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T10:26:13.803Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T10:31:16.312Z",
+    "message": "Generation failed for deepmind.google with exit 1."
+  }
 }
