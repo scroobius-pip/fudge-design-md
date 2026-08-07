@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T09:13:25.653Z",
-  "heartbeatAt": "2026-08-07T09:13:26.313Z",
+  "heartbeatAt": "2026-08-07T09:18:38.011Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "brave.com",
-        "startedAt": "2026-08-07T09:13:26.110Z"
+        "domain": "gleam.run",
+        "startedAt": "2026-08-07T09:18:27.214Z"
       },
       {
-        "domain": "cisco.com",
-        "startedAt": "2026-08-07T09:13:26.102Z"
+        "domain": "moonpay.com",
+        "startedAt": "2026-08-07T09:18:21.875Z"
       },
       {
-        "domain": "kobbe.io",
-        "startedAt": "2026-08-07T09:13:26.109Z"
+        "domain": "netflix.com",
+        "startedAt": "2026-08-07T09:18:32.539Z"
       },
       {
-        "domain": "miromiro.app",
-        "startedAt": "2026-08-07T09:13:26.106Z"
+        "domain": "offmenu.design",
+        "startedAt": "2026-08-07T09:18:27.208Z"
       },
       {
-        "domain": "nibzard.com",
-        "startedAt": "2026-08-07T09:13:26.108Z"
+        "domain": "phia.app",
+        "startedAt": "2026-08-07T09:18:21.876Z"
       },
       {
-        "domain": "opensource.googleblog.com",
-        "startedAt": "2026-08-07T09:13:26.110Z"
+        "domain": "plexui.com",
+        "startedAt": "2026-08-07T09:18:32.560Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 107
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1004,
-    "availableGeneration": 998,
+    "eligibleGeneration": 998,
+    "availableGeneration": 891,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T09:13:33.836Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T09:18:32.388Z",
+    "message": "Generation failed for periplus.app with exit 1."
+  }
 }
