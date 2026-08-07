@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T15:44:43.775Z",
-  "heartbeatAt": "2026-08-07T15:44:44.487Z",
+  "heartbeatAt": "2026-08-07T15:49:58.254Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "humantouch.com",
-        "startedAt": "2026-08-07T15:44:44.281Z"
+        "domain": "cloudflare.com",
+        "startedAt": "2026-08-07T15:49:52.825Z"
       },
       {
-        "domain": "jan.ai",
-        "startedAt": "2026-08-07T15:44:44.279Z"
+        "domain": "operate.so",
+        "startedAt": "2026-08-07T15:49:47.509Z"
       },
       {
-        "domain": "microsoft.com",
-        "startedAt": "2026-08-07T15:44:44.282Z"
+        "domain": "pinata.cloud",
+        "startedAt": "2026-08-07T15:49:52.821Z"
       },
       {
-        "domain": "nextjs.org",
-        "startedAt": "2026-08-07T15:44:44.278Z"
+        "domain": "schema.supply",
+        "startedAt": "2026-08-07T15:49:47.508Z"
       },
       {
-        "domain": "refit.framer.website",
-        "startedAt": "2026-08-07T15:44:44.274Z"
+        "domain": "signup.criterionchannel.com",
+        "startedAt": "2026-08-07T15:49:52.825Z"
       },
       {
-        "domain": "x.ai",
-        "startedAt": "2026-08-07T15:44:44.280Z"
+        "domain": "stardrift.ai",
+        "startedAt": "2026-08-07T15:49:47.509Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 96
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 907,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T15:44:53.373Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T15:49:49.738Z",
+    "message": "Generation failed for oxide.computer with exit 1."
+  }
 }
