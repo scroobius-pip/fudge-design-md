@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T12:28:45.878Z",
-  "heartbeatAt": "2026-08-07T12:28:46.712Z",
+  "heartbeatAt": "2026-08-07T12:34:00.147Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "inceptionlabs.ai",
-        "startedAt": "2026-08-07T12:28:46.430Z"
+        "domain": "davincii.com",
+        "startedAt": "2026-08-07T12:32:48.674Z"
       },
       {
-        "domain": "interfacecraft.dev",
-        "startedAt": "2026-08-07T12:28:46.425Z"
+        "domain": "krea.ai",
+        "startedAt": "2026-08-07T12:32:48.497Z"
       },
       {
-        "domain": "lofree.co",
-        "startedAt": "2026-08-07T12:28:46.432Z"
+        "domain": "lineto.com",
+        "startedAt": "2026-08-07T12:33:59.917Z"
       },
       {
-        "domain": "vellum.ai",
-        "startedAt": "2026-08-07T12:28:46.428Z"
+        "domain": "lunagraph.com",
+        "startedAt": "2026-08-07T12:32:48.743Z"
       },
       {
-        "domain": "venice.inc",
-        "startedAt": "2026-08-07T12:28:46.431Z"
+        "domain": "newsinenglish.no",
+        "startedAt": "2026-08-07T12:32:48.540Z"
       },
       {
-        "domain": "zillow.com",
-        "startedAt": "2026-08-07T12:28:46.432Z"
+        "domain": "scenery.io",
+        "startedAt": "2026-08-07T12:32:48.580Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 80
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1002,
-    "availableGeneration": 996,
+    "eligibleGeneration": 1000,
+    "availableGeneration": 919,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 1,
+  "recoveredThisRun": 4,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T12:28:58.437Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T12:33:13.480Z",
+    "message": "Generation failed for lcd.ertdfgcvb.xyz with exit 1."
+  }
 }
