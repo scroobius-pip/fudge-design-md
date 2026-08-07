@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T08:00:29.483Z",
+  "generatedAt": "2026-08-07T08:01:11.972Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "drafting": 5,
-    "preparing": 2
+    "preparing": 6,
+    "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T07:55:19.436Z",
-    "heartbeatAt": "2026-08-07T08:00:27.030Z",
+    "startedAt": "2026-08-07T08:01:09.189Z",
+    "heartbeatAt": "2026-08-07T08:01:09.807Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "app.speak.com",
-          "startedAt": "2026-08-07T08:00:21.309Z"
+          "domain": "americanhistory.si.edu",
+          "startedAt": "2026-08-07T08:01:09.640Z"
         },
         {
-          "domain": "etched.com",
-          "startedAt": "2026-08-07T08:00:21.318Z"
+          "domain": "athas.dev",
+          "startedAt": "2026-08-07T08:01:09.638Z"
         },
         {
-          "domain": "fastino.ai",
-          "startedAt": "2026-08-07T08:00:21.316Z"
+          "domain": "builder.io",
+          "startedAt": "2026-08-07T08:01:09.636Z"
         },
         {
-          "domain": "fourmula.ai",
-          "startedAt": "2026-08-07T08:00:26.755Z"
+          "domain": "cryptix.framer.website",
+          "startedAt": "2026-08-07T08:01:09.639Z"
         },
         {
-          "domain": "gemini.google",
-          "startedAt": "2026-08-07T08:00:26.754Z"
+          "domain": "invideo.io",
+          "startedAt": "2026-08-07T08:01:09.638Z"
         },
         {
-          "domain": "tinywins.com",
-          "startedAt": "2026-08-07T08:00:15.942Z"
+          "domain": "teenage.engineering",
+          "startedAt": "2026-08-07T08:01:09.641Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 136
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 868,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-07T07:55:26.633Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-07T08:00:24.878Z",
-      "message": "Generation failed for tweakcn.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -1227,9 +1224,9 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:08.806Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:09.970Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
@@ -1982,8 +1979,8 @@
     {
       "domain": "app.reve.com",
       "state": "failed",
-      "attempt": 76,
-      "updatedAt": "2026-08-07T07:20:32.168Z",
+      "attempt": 77,
+      "updatedAt": "2026-08-07T08:00:48.881Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2020,9 +2017,9 @@
     },
     {
       "domain": "app.speak.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:00:25.213Z",
+      "updatedAt": "2026-08-07T08:00:30.629Z",
       "blocker": null,
       "publication": {
         "key": "app.speak.com-design",
@@ -2527,9 +2524,9 @@
     },
     {
       "domain": "athas.dev",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:59.045Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:09.939Z",
       "blocker": null,
       "publication": {
         "key": "athas.dev-design",
@@ -3243,8 +3240,8 @@
     {
       "domain": "blockprotocol.org",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:44.637Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:00:58.852Z",
       "blocker": null,
       "publication": {
         "key": "blockprotocol.org-design",
@@ -3333,9 +3330,9 @@
     },
     {
       "domain": "blog.x.com",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:55.348Z",
+      "state": "drafting",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:02.862Z",
       "blocker": null,
       "publication": {
         "key": "blog.x.com-design",
@@ -3399,8 +3396,8 @@
     {
       "domain": "borretti.me",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:40.471Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:00:45.847Z",
       "blocker": null,
       "publication": {
         "key": "borretti.me-design",
@@ -3697,9 +3694,9 @@
     },
     {
       "domain": "builder.io",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:55.982Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:09.942Z",
       "blocker": null,
       "publication": {
         "key": "builder.io-design",
@@ -4036,8 +4033,8 @@
     {
       "domain": "calligraphy.ge",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:39.025Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:00:44.582Z",
       "blocker": null,
       "publication": {
         "key": "calligraphy.ge-design",
@@ -5205,9 +5202,9 @@
     },
     {
       "domain": "cryptix.framer.website",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:06.487Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:09.969Z",
       "blocker": null,
       "publication": {
         "key": "cryptix.framer.website-design",
@@ -7116,9 +7113,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:00:25.044Z",
+      "updatedAt": "2026-08-07T08:00:32.335Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -7416,8 +7413,8 @@
     {
       "domain": "familytype.co",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:43.276Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:01.773Z",
       "blocker": null,
       "publication": {
         "key": "familytype.co-design",
@@ -7428,9 +7425,9 @@
     },
     {
       "domain": "fastino.ai",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 70,
-      "updatedAt": "2026-08-07T08:00:25.606Z",
+      "updatedAt": "2026-08-07T08:00:32.630Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
@@ -8156,9 +8153,9 @@
     },
     {
       "domain": "fourmula.ai",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:00:27.059Z",
+      "updatedAt": "2026-08-07T08:00:36.777Z",
       "blocker": null,
       "publication": {
         "key": "fourmula.ai-design",
@@ -8170,8 +8167,8 @@
     {
       "domain": "frame.work",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:54.736Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:00.395Z",
       "blocker": null,
       "publication": {
         "key": "frame.work-design",
@@ -8443,8 +8440,8 @@
     {
       "domain": "garriock.com",
       "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:20:42.602Z",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:00:56.181Z",
       "blocker": null,
       "publication": {
         "key": "garriock.com-design",
@@ -8507,9 +8504,9 @@
     },
     {
       "domain": "gemini.google",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:00:27.105Z",
+      "updatedAt": "2026-08-07T08:00:38.097Z",
       "blocker": null,
       "publication": {
         "key": "gemini.google-design",
@@ -10431,9 +10428,9 @@
     },
     {
       "domain": "invideo.io",
-      "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:21:02.469Z",
+      "state": "preparing",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:01:09.970Z",
       "blocker": null,
       "publication": {
         "key": "invideo.io-design",
@@ -11251,8 +11248,8 @@
     {
       "domain": "kode.diy",
       "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:20:28.127Z",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:00:42.115Z",
       "blocker": null,
       "publication": {
         "key": "kode.diy-design",
@@ -13344,8 +13341,8 @@
     {
       "domain": "mongodb.com",
       "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:20:27.791Z",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:00:43.743Z",
       "blocker": null,
       "publication": {
         "key": "mongodb.com-design",
@@ -19752,9 +19749,9 @@
     },
     {
       "domain": "teenage.engineering",
-      "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:21:10.221Z",
+      "state": "preparing",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:01:09.943Z",
       "blocker": null,
       "publication": {
         "key": "teenage.engineering-design",
@@ -20194,9 +20191,9 @@
     },
     {
       "domain": "tinywins.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 70,
-      "updatedAt": "2026-08-07T08:00:20.662Z",
+      "updatedAt": "2026-08-07T08:00:29.613Z",
       "blocker": null,
       "publication": {
         "key": "tinywins.com-design",
@@ -20455,8 +20452,8 @@
     {
       "domain": "triangle-studio.co.kr",
       "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:20:42.752Z",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:00:56.464Z",
       "blocker": null,
       "publication": {
         "key": "triangle-studio.co.kr-design",
@@ -20780,8 +20777,8 @@
     {
       "domain": "typewolf.com",
       "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:20:54.967Z",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:01:01.309Z",
       "blocker": null,
       "publication": {
         "key": "typewolf.com-design",
