@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T17:29:50.614Z",
-  "heartbeatAt": "2026-08-07T17:29:51.323Z",
+  "heartbeatAt": "2026-08-07T17:35:04.945Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "drinkag1.com",
-        "startedAt": "2026-08-07T17:29:51.074Z"
+        "domain": "jitter.video",
+        "startedAt": "2026-08-07T17:34:54.124Z"
       },
       {
-        "domain": "every.to",
-        "startedAt": "2026-08-07T17:29:51.069Z"
+        "domain": "lovart.ai",
+        "startedAt": "2026-08-07T17:34:59.484Z"
       },
       {
-        "domain": "loom.com",
-        "startedAt": "2026-08-07T17:29:51.072Z"
+        "domain": "multi.app",
+        "startedAt": "2026-08-07T17:34:59.483Z"
       },
       {
-        "domain": "meodai.github.io",
-        "startedAt": "2026-08-07T17:29:51.073Z"
+        "domain": "rachelchen.tech",
+        "startedAt": "2026-08-07T17:35:04.794Z"
       },
       {
-        "domain": "nzxt.com",
-        "startedAt": "2026-08-07T17:29:51.075Z"
+        "domain": "symbl.space",
+        "startedAt": "2026-08-07T17:34:59.482Z"
       },
       {
-        "domain": "poppy-connection-keeper.netlify.app",
-        "startedAt": "2026-08-07T17:29:51.071Z"
+        "domain": "tenor.design",
+        "startedAt": "2026-08-07T17:35:04.790Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 124
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T17:29:59.845Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T17:35:01.802Z",
+    "message": "Generation failed for notion.com with exit 1."
+  }
 }
