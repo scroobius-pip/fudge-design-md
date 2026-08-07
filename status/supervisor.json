@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T12:19:11.779Z",
-  "heartbeatAt": "2026-08-07T12:19:12.690Z",
+  "heartbeatAt": "2026-08-07T12:24:27.334Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "humantouch.com",
-        "startedAt": "2026-08-07T12:19:12.371Z"
+        "domain": "binary.so",
+        "startedAt": "2026-08-07T12:24:16.455Z"
       },
       {
-        "domain": "microsoft.com",
-        "startedAt": "2026-08-07T12:19:12.373Z"
+        "domain": "helenazhang.com",
+        "startedAt": "2026-08-07T12:24:16.457Z"
       },
       {
-        "domain": "morphik.ai",
-        "startedAt": "2026-08-07T12:19:12.368Z"
+        "domain": "mek.gallery",
+        "startedAt": "2026-08-07T12:24:27.188Z"
       },
       {
-        "domain": "nextjs.org",
-        "startedAt": "2026-08-07T12:19:12.373Z"
+        "domain": "porsche.com",
+        "startedAt": "2026-08-07T12:24:21.795Z"
       },
       {
-        "domain": "projectfluent.org",
-        "startedAt": "2026-08-07T12:19:12.374Z"
+        "domain": "sievedata.com",
+        "startedAt": "2026-08-07T12:24:21.797Z"
       },
       {
-        "domain": "selkie.design",
-        "startedAt": "2026-08-07T12:19:12.370Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-07T12:24:16.456Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 116
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1002,
-    "availableGeneration": 996,
+    "eligibleGeneration": 999,
+    "availableGeneration": 881,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T12:19:22.612Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T12:24:26.836Z",
+    "message": "Generation failed for q-industrial.com with exit 1."
+  }
 }
