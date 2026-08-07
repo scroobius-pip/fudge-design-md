@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T11:08:01.234Z",
-  "heartbeatAt": "2026-08-07T11:08:01.962Z",
+  "heartbeatAt": "2026-08-07T11:13:12.754Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "arago.wawww.studio",
-        "startedAt": "2026-08-07T11:08:01.744Z"
+        "domain": "hash.dev",
+        "startedAt": "2026-08-07T11:13:12.593Z"
       },
       {
-        "domain": "charlieosborne.co",
-        "startedAt": "2026-08-07T11:08:01.742Z"
+        "domain": "heroui.pro",
+        "startedAt": "2026-08-07T11:13:12.588Z"
       },
       {
-        "domain": "designarena.ai",
-        "startedAt": "2026-08-07T11:08:01.741Z"
+        "domain": "ordinarypeople.info",
+        "startedAt": "2026-08-07T11:12:56.322Z"
       },
       {
-        "domain": "fontradar.com",
-        "startedAt": "2026-08-07T11:08:01.743Z"
+        "domain": "portfolio.adobe.com",
+        "startedAt": "2026-08-07T11:13:12.556Z"
       },
       {
-        "domain": "unrealengine.com",
-        "startedAt": "2026-08-07T11:08:01.744Z"
+        "domain": "vinylc.com",
+        "startedAt": "2026-08-07T11:13:07.125Z"
       },
       {
-        "domain": "vibrantpractice.com",
-        "startedAt": "2026-08-07T11:08:01.740Z"
+        "domain": "withsupafast.com",
+        "startedAt": "2026-08-07T11:13:01.759Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 104
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 900,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T11:08:10.776Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T11:13:11.435Z",
+    "message": "Generation failed for rollups.com with exit 1."
+  }
 }
