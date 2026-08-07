@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T18:07:29.289Z",
+  "generatedAt": "2026-08-07T18:07:56.190Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1003,
     "needs_reprocessing": 22,
-    "drafting": 5,
-    "preparing": 3
+    "drafting": 2,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T18:02:14.538Z",
-    "heartbeatAt": "2026-08-07T18:07:26.603Z",
+    "startedAt": "2026-08-07T18:07:53.221Z",
+    "heartbeatAt": "2026-08-07T18:07:53.845Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "dfy.co.kr",
-          "startedAt": "2026-08-07T18:07:20.855Z"
+          "domain": "hermesatlas.com",
+          "startedAt": "2026-08-07T18:07:53.665Z"
         },
         {
-          "domain": "drawabox.com",
-          "startedAt": "2026-08-07T18:07:26.358Z"
+          "domain": "kilo.ai",
+          "startedAt": "2026-08-07T18:07:53.663Z"
         },
         {
-          "domain": "hugeicons.com",
-          "startedAt": "2026-08-07T18:07:20.855Z"
+          "domain": "link2.gysin-vanetti.com",
+          "startedAt": "2026-08-07T18:07:53.665Z"
         },
         {
-          "domain": "icloud.com",
-          "startedAt": "2026-08-07T18:07:20.854Z"
+          "domain": "sanity.io",
+          "startedAt": "2026-08-07T18:07:53.666Z"
         },
         {
-          "domain": "jamesadam.me",
-          "startedAt": "2026-08-07T18:07:26.357Z"
+          "domain": "surella.fr",
+          "startedAt": "2026-08-07T18:07:53.662Z"
         },
         {
-          "domain": "sundaecreative.com",
-          "startedAt": "2026-08-07T18:07:26.359Z"
+          "domain": "tinker.com",
+          "startedAt": "2026-08-07T18:07:53.667Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 125
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 878,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-07T18:02:23.127Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-07T18:07:22.993Z",
-      "message": "Generation failed for salesforce.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -6089,9 +6086,9 @@
     },
     {
       "domain": "dfy.co.kr",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 90,
-      "updatedAt": "2026-08-07T18:07:24.866Z",
+      "updatedAt": "2026-08-07T18:07:38.767Z",
       "blocker": null,
       "publication": {
         "key": "dfy.co.kr-design",
@@ -6479,9 +6476,9 @@
     },
     {
       "domain": "drawabox.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-07T18:07:26.819Z",
+      "updatedAt": "2026-08-07T18:07:37.945Z",
       "blocker": null,
       "publication": {
         "key": "drawabox.com-design",
@@ -9508,9 +9505,9 @@
     },
     {
       "domain": "hermesatlas.com",
-      "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:39.857Z",
+      "state": "preparing",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:54.053Z",
       "blocker": null,
       "publication": {
         "key": "hermesatlas.com-design",
@@ -9729,9 +9726,9 @@
     },
     {
       "domain": "hugeicons.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-07T18:07:24.157Z",
+      "updatedAt": "2026-08-07T18:07:30.527Z",
       "blocker": null,
       "publication": {
         "key": "hugeicons.com-design",
@@ -9976,9 +9973,9 @@
     },
     {
       "domain": "icloud.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-07T18:07:23.494Z",
+      "updatedAt": "2026-08-07T18:07:30.183Z",
       "blocker": null,
       "publication": {
         "key": "icloud.com-design",
@@ -10094,8 +10091,8 @@
     {
       "domain": "igerman.cc",
       "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:20.464Z",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:41.267Z",
       "blocker": null,
       "publication": {
         "key": "igerman.cc-design",
@@ -10587,9 +10584,9 @@
     },
     {
       "domain": "jamesadam.me",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-07T18:07:26.850Z",
+      "updatedAt": "2026-08-07T18:07:38.424Z",
       "blocker": null,
       "publication": {
         "key": "jamesadam.me-design",
@@ -11094,9 +11091,9 @@
     },
     {
       "domain": "kilo.ai",
-      "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:31.920Z",
+      "state": "preparing",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:54.039Z",
       "blocker": null,
       "publication": {
         "key": "kilo.ai-design",
@@ -11835,9 +11832,9 @@
     },
     {
       "domain": "link2.gysin-vanetti.com",
-      "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:40.222Z",
+      "state": "preparing",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:54.048Z",
       "blocker": null,
       "publication": {
         "key": "link2.gysin-vanetti.com-design",
@@ -17101,8 +17098,8 @@
     {
       "domain": "redis.io",
       "state": "failed",
-      "attempt": 81,
-      "updatedAt": "2026-08-07T17:23:21.679Z",
+      "attempt": 82,
+      "updatedAt": "2026-08-07T18:07:42.905Z",
       "blocker": null,
       "publication": {
         "key": "redis.io-design",
@@ -17815,9 +17812,9 @@
     },
     {
       "domain": "sanity.io",
-      "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:43.773Z",
+      "state": "preparing",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:54.047Z",
       "blocker": null,
       "publication": {
         "key": "sanity.io-design",
@@ -19258,9 +19255,9 @@
     },
     {
       "domain": "sundaecreative.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-07T18:07:26.798Z",
+      "updatedAt": "2026-08-07T18:07:39.419Z",
       "blocker": null,
       "publication": {
         "key": "sundaecreative.com-design",
@@ -19453,9 +19450,9 @@
     },
     {
       "domain": "surella.fr",
-      "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:25.948Z",
+      "state": "preparing",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:54.054Z",
       "blocker": null,
       "publication": {
         "key": "surella.fr-design",
@@ -19649,8 +19646,8 @@
     {
       "domain": "tandem.net",
       "state": "failed",
-      "attempt": 82,
-      "updatedAt": "2026-08-07T17:23:22.020Z",
+      "attempt": 83,
+      "updatedAt": "2026-08-07T18:07:52.660Z",
       "blocker": null,
       "publication": {
         "key": "tandem.net-design",
@@ -20155,9 +20152,9 @@
     },
     {
       "domain": "tinker.com",
-      "state": "failed",
-      "attempt": 81,
-      "updatedAt": "2026-08-07T17:23:43.776Z",
+      "state": "preparing",
+      "attempt": 82,
+      "updatedAt": "2026-08-07T18:07:54.029Z",
       "blocker": null,
       "publication": {
         "key": "tinker.com-design",
