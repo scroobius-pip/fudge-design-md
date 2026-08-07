@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T14:56:35.154Z",
-  "heartbeatAt": "2026-08-07T14:56:35.815Z",
+  "heartbeatAt": "2026-08-07T15:01:44.295Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "cloudflare.com",
-        "startedAt": "2026-08-07T14:56:35.624Z"
+        "domain": "bestdesignsonx.com",
+        "startedAt": "2026-08-07T15:01:44.074Z"
       },
       {
-        "domain": "operate.so",
-        "startedAt": "2026-08-07T14:56:35.620Z"
+        "domain": "hinge.co",
+        "startedAt": "2026-08-07T15:01:38.539Z"
       },
       {
-        "domain": "pinata.cloud",
-        "startedAt": "2026-08-07T14:56:35.623Z"
+        "domain": "ledger.com",
+        "startedAt": "2026-08-07T15:01:44.073Z"
       },
       {
-        "domain": "schema.supply",
-        "startedAt": "2026-08-07T14:56:35.622Z"
+        "domain": "us.dollarshaveclub.com",
+        "startedAt": "2026-08-07T15:01:38.543Z"
       },
       {
-        "domain": "stardrift.ai",
-        "startedAt": "2026-08-07T14:56:35.622Z"
+        "domain": "venice.inc",
+        "startedAt": "2026-08-07T15:01:44.072Z"
       },
       {
-        "domain": "sublime.app",
-        "startedAt": "2026-08-07T14:56:35.625Z"
+        "domain": "zillow.com",
+        "startedAt": "2026-08-07T15:01:38.541Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 100
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 1000,
+    "availableGeneration": 897,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T14:56:42.868Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T15:01:43.291Z",
+    "message": "Generation failed for interfacecraft.dev with exit 1."
+  }
 }
