@@ -2,37 +2,33 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T08:25:19.932Z",
-  "heartbeatAt": "2026-08-07T08:25:20.538Z",
+  "heartbeatAt": "2026-08-07T08:30:28.675Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "firstpromoter.com",
-        "startedAt": "2026-08-07T08:25:20.372Z"
+        "domain": "figma.com",
+        "startedAt": "2026-08-07T08:30:23.085Z"
       },
       {
-        "domain": "jenwagner.co",
-        "startedAt": "2026-08-07T08:25:20.373Z"
+        "domain": "mercury.com",
+        "startedAt": "2026-08-07T08:30:17.688Z"
       },
       {
-        "domain": "masterselects.com",
-        "startedAt": "2026-08-07T08:25:20.370Z"
+        "domain": "mykc.cargo.site",
+        "startedAt": "2026-08-07T08:30:17.690Z"
       },
       {
-        "domain": "theastralfrontier.com",
-        "startedAt": "2026-08-07T08:25:20.366Z"
+        "domain": "plaid.com",
+        "startedAt": "2026-08-07T08:30:23.089Z"
       },
       {
-        "domain": "wordpress.com",
-        "startedAt": "2026-08-07T08:25:20.374Z"
-      },
-      {
-        "domain": "zendaya.com",
-        "startedAt": "2026-08-07T08:25:20.370Z"
+        "domain": "quiver.ai",
+        "startedAt": "2026-08-07T08:30:23.090Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 126
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +37,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 876,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T08:25:27.229Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T08:30:28.507Z",
+    "message": "Generation failed for lelezhang.design with exit 1."
+  }
 }
