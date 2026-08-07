@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T01:25:12.211Z",
-  "heartbeatAt": "2026-08-07T01:25:12.845Z",
+  "heartbeatAt": "2026-08-07T01:30:23.466Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "joinami.nl",
-        "startedAt": "2026-08-07T01:25:12.625Z"
+        "domain": "blender.org",
+        "startedAt": "2026-08-07T01:30:23.265Z"
       },
       {
-        "domain": "radix-ui.com",
-        "startedAt": "2026-08-07T01:25:12.627Z"
+        "domain": "buymeacoffee.com",
+        "startedAt": "2026-08-07T01:30:17.980Z"
       },
       {
-        "domain": "shopify.design",
-        "startedAt": "2026-08-07T01:25:12.628Z"
+        "domain": "dashboard.plaid.com",
+        "startedAt": "2026-08-07T01:30:23.263Z"
       },
       {
-        "domain": "snorkel.ai",
-        "startedAt": "2026-08-07T01:25:12.624Z"
+        "domain": "dedcool.com",
+        "startedAt": "2026-08-07T01:30:17.985Z"
       },
       {
-        "domain": "supabase.com",
-        "startedAt": "2026-08-07T01:25:12.626Z"
+        "domain": "fable.co",
+        "startedAt": "2026-08-07T01:30:23.264Z"
       },
       {
-        "domain": "taito.ai",
-        "startedAt": "2026-08-07T01:25:12.627Z"
+        "domain": "templifica.com",
+        "startedAt": "2026-08-07T01:30:12.674Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 148
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "eligibleGeneration": 1002,
+    "availableGeneration": 851,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T01:25:19.110Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T01:30:22.135Z",
+    "message": "Generation failed for clay.com with exit 1."
+  }
 }
