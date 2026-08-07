@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T00:16:05.175Z",
-  "heartbeatAt": "2026-08-07T00:16:05.779Z",
+  "heartbeatAt": "2026-08-07T00:21:16.630Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "businesstimes.com.sg",
-        "startedAt": "2026-08-07T00:16:05.587Z"
+        "domain": "forgeandform.co",
+        "startedAt": "2026-08-07T00:21:16.442Z"
       },
       {
-        "domain": "foundation.app",
-        "startedAt": "2026-08-07T00:16:05.573Z"
+        "domain": "graphite.com",
+        "startedAt": "2026-08-07T00:21:11.138Z"
       },
       {
-        "domain": "mdx.so",
-        "startedAt": "2026-08-07T00:16:05.587Z"
+        "domain": "id.elsevier.com",
+        "startedAt": "2026-08-07T00:21:11.138Z"
       },
       {
-        "domain": "spotify.com",
-        "startedAt": "2026-08-07T00:16:05.585Z"
+        "domain": "jarbus.net",
+        "startedAt": "2026-08-07T00:21:11.132Z"
       },
       {
-        "domain": "ui.shadcn.com",
-        "startedAt": "2026-08-07T00:16:05.586Z"
+        "domain": "quantumbody.io",
+        "startedAt": "2026-08-07T00:21:05.866Z"
       },
       {
-        "domain": "uneed.best",
-        "startedAt": "2026-08-07T00:16:05.584Z"
+        "domain": "typographyprinciples.obys.agency",
+        "startedAt": "2026-08-07T00:21:05.862Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 142
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 861,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T00:16:12.552Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T00:21:12.897Z",
+    "message": "Generation failed for wip.co with exit 1."
+  }
 }
