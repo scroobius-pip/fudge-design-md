@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T11:30:42.110Z",
-  "heartbeatAt": "2026-08-07T11:30:43.057Z",
+  "heartbeatAt": "2026-08-07T11:35:56.847Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "blog.google",
-        "startedAt": "2026-08-07T11:30:42.713Z"
+        "domain": "blog.x.com",
+        "startedAt": "2026-08-07T11:35:46.046Z"
       },
       {
-        "domain": "icelandmonitor.mbl.is",
-        "startedAt": "2026-08-07T11:30:42.708Z"
+        "domain": "curated.supply",
+        "startedAt": "2026-08-07T11:35:46.050Z"
       },
       {
-        "domain": "sundaecreative.com",
-        "startedAt": "2026-08-07T11:30:42.707Z"
+        "domain": "liveblocks.io",
+        "startedAt": "2026-08-07T11:35:51.387Z"
       },
       {
-        "domain": "superx.so",
-        "startedAt": "2026-08-07T11:30:42.710Z"
+        "domain": "tambo.co",
+        "startedAt": "2026-08-07T11:35:29.981Z"
       },
       {
-        "domain": "surrealdb.com",
-        "startedAt": "2026-08-07T11:30:42.700Z"
+        "domain": "tavus.io",
+        "startedAt": "2026-08-07T11:35:29.982Z"
       },
       {
-        "domain": "tinker.com",
-        "startedAt": "2026-08-07T11:30:42.706Z"
+        "domain": "tradingview.com",
+        "startedAt": "2026-08-07T11:35:46.051Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 91
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 997,
+    "eligibleGeneration": 998,
+    "availableGeneration": 907,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T11:30:51.871Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T11:35:49.416Z",
+    "message": "Generation failed for my.10web.io with exit 1."
+  }
 }
