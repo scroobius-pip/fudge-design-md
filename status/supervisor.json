@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T01:03:25.241Z",
-  "heartbeatAt": "2026-08-07T01:03:25.810Z",
+  "heartbeatAt": "2026-08-07T01:08:36.503Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "dfinity.org",
-        "startedAt": "2026-08-07T01:03:25.619Z"
+        "domain": "mek.gallery",
+        "startedAt": "2026-08-07T01:08:36.333Z"
       },
       {
-        "domain": "inkeep.com",
-        "startedAt": "2026-08-07T01:03:25.620Z"
+        "domain": "sciencedirect.com",
+        "startedAt": "2026-08-07T01:08:36.332Z"
       },
       {
-        "domain": "lead.bank",
-        "startedAt": "2026-08-07T01:03:25.617Z"
+        "domain": "signup.criterionchannel.com",
+        "startedAt": "2026-08-07T01:08:36.332Z"
       },
       {
-        "domain": "metamask.io",
-        "startedAt": "2026-08-07T01:03:25.621Z"
+        "domain": "thebutterinbetween.com",
+        "startedAt": "2026-08-07T01:08:36.334Z"
       },
       {
-        "domain": "midjourney.com",
-        "startedAt": "2026-08-07T01:03:25.621Z"
+        "domain": "thefinch.design",
+        "startedAt": "2026-08-07T01:08:30.914Z"
       },
       {
-        "domain": "nucleoapp.com",
-        "startedAt": "2026-08-07T01:03:25.618Z"
+        "domain": "zed.dev",
+        "startedAt": "2026-08-07T01:08:30.917Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 139
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 865,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T01:03:32.666Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T01:08:34.946Z",
+    "message": "Generation failed for cloudflare.com with exit 1."
+  }
 }
