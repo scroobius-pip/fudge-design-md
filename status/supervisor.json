@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T00:26:53.545Z",
-  "heartbeatAt": "2026-08-07T00:26:54.116Z",
+  "heartbeatAt": "2026-08-07T00:32:04.319Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "bland.ai",
-        "startedAt": "2026-08-07T00:26:53.941Z"
+        "domain": "library.obys.agency",
+        "startedAt": "2026-08-07T00:31:58.925Z"
       },
       {
-        "domain": "code.visualstudio.com",
-        "startedAt": "2026-08-07T00:26:53.939Z"
+        "domain": "plasticity.xyz",
+        "startedAt": "2026-08-07T00:31:53.643Z"
       },
       {
-        "domain": "kree8.studio",
-        "startedAt": "2026-08-07T00:26:53.940Z"
+        "domain": "porsche.com",
+        "startedAt": "2026-08-07T00:31:53.646Z"
       },
       {
-        "domain": "noor.to",
-        "startedAt": "2026-08-07T00:26:53.940Z"
+        "domain": "preludesecurity.com",
+        "startedAt": "2026-08-07T00:31:58.930Z"
       },
       {
-        "domain": "openship.org",
-        "startedAt": "2026-08-07T00:26:53.934Z"
+        "domain": "sievedata.com",
+        "startedAt": "2026-08-07T00:32:04.186Z"
       },
       {
-        "domain": "openweb.com",
-        "startedAt": "2026-08-07T00:26:53.938Z"
+        "domain": "sweetshop.app",
+        "startedAt": "2026-08-07T00:31:58.931Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 132
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 871,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T00:27:00.264Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T00:32:04.054Z",
+    "message": "Generation failed for priorlabs.ai with exit 1."
+  }
 }
