@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T08:01:11.972Z",
+  "generatedAt": "2026-08-07T08:01:33.426Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1003,
+    "failed": 1002,
     "needs_reprocessing": 22,
     "preparing": 6,
-    "drafting": 2
+    "drafting": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T08:01:09.189Z",
-    "heartbeatAt": "2026-08-07T08:01:09.807Z",
+    "startedAt": "2026-08-07T08:01:30.740Z",
+    "heartbeatAt": "2026-08-07T08:01:31.391Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "americanhistory.si.edu",
-          "startedAt": "2026-08-07T08:01:09.640Z"
+          "domain": "americanprogress.org",
+          "startedAt": "2026-08-07T08:01:31.180Z"
         },
         {
-          "domain": "athas.dev",
-          "startedAt": "2026-08-07T08:01:09.638Z"
+          "domain": "applovin.com",
+          "startedAt": "2026-08-07T08:01:31.170Z"
         },
         {
-          "domain": "builder.io",
-          "startedAt": "2026-08-07T08:01:09.636Z"
+          "domain": "checkout.rabbit.tech",
+          "startedAt": "2026-08-07T08:01:31.181Z"
         },
         {
-          "domain": "cryptix.framer.website",
-          "startedAt": "2026-08-07T08:01:09.639Z"
+          "domain": "exa.ai",
+          "startedAt": "2026-08-07T08:01:31.179Z"
         },
         {
-          "domain": "invideo.io",
-          "startedAt": "2026-08-07T08:01:09.638Z"
+          "domain": "good-fella.com",
+          "startedAt": "2026-08-07T08:01:31.183Z"
         },
         {
-          "domain": "teenage.engineering",
-          "startedAt": "2026-08-07T08:01:09.641Z"
+          "domain": "worklouder.cc",
+          "startedAt": "2026-08-07T08:01:31.182Z"
         }
       ],
       "completedThisRun": 0,
@@ -53,8 +53,8 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1003,
+      "eligibleGeneration": 1008,
+      "availableGeneration": 1002,
       "readyPublication": 0,
       "publishedVerified": 162
     },
@@ -1224,9 +1224,9 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:01:09.970Z",
+      "updatedAt": "2026-08-07T08:01:20.428Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
@@ -1237,9 +1237,9 @@
     },
     {
       "domain": "americanprogress.org",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:22.400Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:31.499Z",
       "blocker": null,
       "publication": {
         "key": "americanprogress.org-design",
@@ -2160,9 +2160,9 @@
     },
     {
       "domain": "applovin.com",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:13.917Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:31.496Z",
       "blocker": null,
       "publication": {
         "key": "applovin.com-design",
@@ -2524,9 +2524,9 @@
     },
     {
       "domain": "athas.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:01:09.939Z",
+      "updatedAt": "2026-08-07T08:01:20.531Z",
       "blocker": null,
       "publication": {
         "key": "athas.dev-design",
@@ -3694,9 +3694,9 @@
     },
     {
       "domain": "builder.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:01:09.942Z",
+      "updatedAt": "2026-08-07T08:01:20.310Z",
       "blocker": null,
       "publication": {
         "key": "builder.io-design",
@@ -4357,9 +4357,9 @@
     },
     {
       "domain": "checkout.rabbit.tech",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:23.345Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:31.536Z",
       "blocker": null,
       "publication": {
         "key": "checkout.rabbit.tech-design",
@@ -5202,9 +5202,9 @@
     },
     {
       "domain": "cryptix.framer.website",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 71,
-      "updatedAt": "2026-08-07T08:01:09.969Z",
+      "updatedAt": "2026-08-07T08:01:19.865Z",
       "blocker": null,
       "publication": {
         "key": "cryptix.framer.website-design",
@@ -7217,9 +7217,9 @@
     },
     {
       "domain": "exa.ai",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:16.763Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:31.500Z",
       "blocker": null,
       "publication": {
         "key": "exa.ai-design",
@@ -8894,9 +8894,9 @@
     },
     {
       "domain": "good-fella.com",
-      "state": "failed",
-      "attempt": 70,
-      "updatedAt": "2026-08-07T07:21:26.948Z",
+      "state": "preparing",
+      "attempt": 71,
+      "updatedAt": "2026-08-07T08:01:31.550Z",
       "blocker": null,
       "publication": {
         "key": "good-fella.com-design",
@@ -10428,9 +10428,9 @@
     },
     {
       "domain": "invideo.io",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 70,
-      "updatedAt": "2026-08-07T08:01:09.970Z",
+      "updatedAt": "2026-08-07T08:01:23.051Z",
       "blocker": null,
       "publication": {
         "key": "invideo.io-design",
@@ -19749,9 +19749,9 @@
     },
     {
       "domain": "teenage.engineering",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 70,
-      "updatedAt": "2026-08-07T08:01:09.943Z",
+      "updatedAt": "2026-08-07T08:01:23.304Z",
       "blocker": null,
       "publication": {
         "key": "teenage.engineering-design",
@@ -20113,9 +20113,9 @@
     },
     {
       "domain": "thisispenny.com",
-      "state": "failed",
-      "attempt": 69,
-      "updatedAt": "2026-08-07T07:21:11.043Z",
+      "state": "drafting",
+      "attempt": 70,
+      "updatedAt": "2026-08-07T08:01:25.599Z",
       "blocker": null,
       "publication": {
         "key": "thisispenny.com-design",
@@ -22154,9 +22154,9 @@
     },
     {
       "domain": "worklouder.cc",
-      "state": "failed",
-      "attempt": 68,
-      "updatedAt": "2026-08-07T07:21:26.586Z",
+      "state": "preparing",
+      "attempt": 69,
+      "updatedAt": "2026-08-07T08:01:31.534Z",
       "blocker": null,
       "publication": {
         "key": "worklouder.cc-design",
