@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T13:35:06.154Z",
-  "heartbeatAt": "2026-08-07T13:35:06.754Z",
+  "heartbeatAt": "2026-08-07T13:40:18.396Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fin.ai",
-        "startedAt": "2026-08-07T13:35:06.577Z"
+        "domain": "etched.com",
+        "startedAt": "2026-08-07T13:40:18.226Z"
       },
       {
-        "domain": "gemini.google.com",
-        "startedAt": "2026-08-07T13:35:06.579Z"
+        "domain": "everyday-practice.com",
+        "startedAt": "2026-08-07T13:40:12.931Z"
       },
       {
-        "domain": "pentagram.com",
-        "startedAt": "2026-08-07T13:35:06.572Z"
+        "domain": "fastino.ai",
+        "startedAt": "2026-08-07T13:40:12.932Z"
       },
       {
-        "domain": "research.google",
-        "startedAt": "2026-08-07T13:35:06.578Z"
+        "domain": "gemini.google",
+        "startedAt": "2026-08-07T13:40:18.225Z"
       },
       {
-        "domain": "taito.ai",
-        "startedAt": "2026-08-07T13:35:06.579Z"
+        "domain": "tinywins.com",
+        "startedAt": "2026-08-07T13:40:18.227Z"
       },
       {
-        "domain": "theseventeen.co",
-        "startedAt": "2026-08-07T13:35:06.578Z"
+        "domain": "wolfram.com",
+        "startedAt": "2026-08-07T13:40:07.529Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 121
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 883,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T13:35:14.653Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T13:40:17.115Z",
+    "message": "Generation failed for calligraphy.ge with exit 1."
+  }
 }
