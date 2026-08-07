@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T14:34:03.546Z",
+  "generatedAt": "2026-08-07T14:34:41.679Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
-    "failed": 1004,
+    "failed": 1003,
     "needs_reprocessing": 22,
-    "preparing": 3,
-    "drafting": 4
+    "preparing": 6,
+    "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T14:28:49.069Z",
-    "heartbeatAt": "2026-08-07T14:34:01.621Z",
+    "startedAt": "2026-08-07T14:34:38.940Z",
+    "heartbeatAt": "2026-08-07T14:34:39.636Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "amd.com",
-          "startedAt": "2026-08-07T14:33:50.779Z"
+          "domain": "basement.studio",
+          "startedAt": "2026-08-07T14:34:39.406Z"
         },
         {
-          "domain": "dmitrybrant.com",
-          "startedAt": "2026-08-07T14:34:01.398Z"
+          "domain": "business.reddit.com",
+          "startedAt": "2026-08-07T14:34:39.405Z"
         },
         {
-          "domain": "fable.co",
-          "startedAt": "2026-08-07T14:33:50.780Z"
+          "domain": "cara.app",
+          "startedAt": "2026-08-07T14:34:39.404Z"
         },
         {
-          "domain": "thelightphone.com",
-          "startedAt": "2026-08-07T14:33:56.103Z"
+          "domain": "desktopneo.com",
+          "startedAt": "2026-08-07T14:34:39.402Z"
         },
         {
-          "domain": "ucp.dev",
-          "startedAt": "2026-08-07T14:34:01.400Z"
+          "domain": "easlo.co",
+          "startedAt": "2026-08-07T14:34:39.408Z"
         },
         {
-          "domain": "ui.shadcn.com",
-          "startedAt": "2026-08-07T14:34:01.401Z"
+          "domain": "eclecticlight.co",
+          "startedAt": "2026-08-07T14:34:39.403Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 96
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 907,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-07T14:28:56.599Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-07T14:34:01.237Z",
-      "message": "Generation failed for google.com with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -2917,9 +2914,9 @@
     },
     {
       "domain": "basement.studio",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:44:06.011Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.886Z",
       "blocker": null,
       "publication": {
         "key": "basement.studio-design",
@@ -3828,8 +3825,8 @@
     {
       "domain": "business.linkedin.com",
       "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:51.021Z",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:28.639Z",
       "blocker": null,
       "publication": {
         "key": "business.linkedin.com-design",
@@ -3853,9 +3850,9 @@
     },
     {
       "domain": "business.reddit.com",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:44:05.691Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.806Z",
       "blocker": null,
       "publication": {
         "key": "business.reddit.com-design",
@@ -4152,9 +4149,9 @@
     },
     {
       "domain": "cara.app",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:44:04.831Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.743Z",
       "blocker": null,
       "publication": {
         "key": "cara.app-design",
@@ -4933,8 +4930,8 @@
     {
       "domain": "contra.com",
       "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:43.680Z",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:26.906Z",
       "blocker": null,
       "publication": {
         "key": "contra.com-design",
@@ -5946,9 +5943,9 @@
     },
     {
       "domain": "desktopneo.com",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:58.814Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.802Z",
       "blocker": null,
       "publication": {
         "key": "desktopneo.com-design",
@@ -6258,9 +6255,9 @@
     },
     {
       "domain": "dmitrybrant.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 79,
-      "updatedAt": "2026-08-07T14:34:01.807Z",
+      "updatedAt": "2026-08-07T14:34:10.379Z",
       "blocker": null,
       "publication": {
         "key": "dmitrybrant.com-design",
@@ -6752,9 +6749,9 @@
     },
     {
       "domain": "easlo.co",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:44:07.896Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.843Z",
       "blocker": null,
       "publication": {
         "key": "easlo.co-design",
@@ -6766,8 +6763,8 @@
     {
       "domain": "ebrd.com",
       "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:52.768Z",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:37.445Z",
       "blocker": null,
       "publication": {
         "key": "ebrd.com-design",
@@ -6778,9 +6775,9 @@
     },
     {
       "domain": "eclecticlight.co",
-      "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:59.074Z",
+      "state": "preparing",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:39.737Z",
       "blocker": null,
       "publication": {
         "key": "eclecticlight.co-design",
@@ -6974,8 +6971,8 @@
     {
       "domain": "empirical.health",
       "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:46.009Z",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:29.164Z",
       "blocker": null,
       "publication": {
         "key": "empirical.health-design",
@@ -7350,9 +7347,9 @@
     },
     {
       "domain": "fable.co",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 79,
-      "updatedAt": "2026-08-07T14:33:59.674Z",
+      "updatedAt": "2026-08-07T14:34:07.139Z",
       "blocker": null,
       "publication": {
         "key": "fable.co-design",
@@ -10185,8 +10182,8 @@
     {
       "domain": "impeccable.style",
       "state": "failed",
-      "attempt": 78,
-      "updatedAt": "2026-08-07T13:43:38.550Z",
+      "attempt": 79,
+      "updatedAt": "2026-08-07T14:34:26.993Z",
       "blocker": null,
       "publication": {
         "key": "impeccable.style-design",
@@ -19999,9 +19996,9 @@
     },
     {
       "domain": "thelightphone.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 78,
-      "updatedAt": "2026-08-07T14:34:00.786Z",
+      "updatedAt": "2026-08-07T14:34:07.755Z",
       "blocker": null,
       "publication": {
         "key": "thelightphone.com-design",
@@ -20247,8 +20244,8 @@
     {
       "domain": "together.ai",
       "state": "failed",
-      "attempt": 77,
-      "updatedAt": "2026-08-07T13:43:48.370Z",
+      "attempt": 78,
+      "updatedAt": "2026-08-07T14:34:29.380Z",
       "blocker": null,
       "publication": {
         "key": "together.ai-design",
@@ -20858,8 +20855,8 @@
     {
       "domain": "uber.com",
       "state": "failed",
-      "attempt": 77,
-      "updatedAt": "2026-08-07T13:43:48.122Z",
+      "attempt": 78,
+      "updatedAt": "2026-08-07T14:34:27.039Z",
       "blocker": null,
       "publication": {
         "key": "uber.com-design",
@@ -20870,9 +20867,9 @@
     },
     {
       "domain": "ucp.dev",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 78,
-      "updatedAt": "2026-08-07T14:34:01.730Z",
+      "updatedAt": "2026-08-07T14:34:11.288Z",
       "blocker": null,
       "publication": {
         "key": "ucp.dev-design",
@@ -20883,9 +20880,9 @@
     },
     {
       "domain": "ui.shadcn.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 78,
-      "updatedAt": "2026-08-07T14:34:01.776Z",
+      "updatedAt": "2026-08-07T14:34:11.301Z",
       "blocker": null,
       "publication": {
         "key": "ui.shadcn.com-design",
