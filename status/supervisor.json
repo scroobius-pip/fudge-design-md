@@ -2,37 +2,33 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T13:55:48.119Z",
-  "heartbeatAt": "2026-08-07T13:55:48.724Z",
+  "heartbeatAt": "2026-08-07T14:01:01.008Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "belfasttelegraph.co.uk",
-        "startedAt": "2026-08-07T13:55:48.551Z"
+        "domain": "morphic.com",
+        "startedAt": "2026-08-07T14:01:00.742Z"
       },
       {
-        "domain": "fiverr.com",
-        "startedAt": "2026-08-07T13:55:48.548Z"
+        "domain": "nova.app",
+        "startedAt": "2026-08-07T14:00:50.080Z"
       },
       {
-        "domain": "humanprogress.org",
-        "startedAt": "2026-08-07T13:55:48.545Z"
+        "domain": "nvidia.com",
+        "startedAt": "2026-08-07T14:01:00.738Z"
       },
       {
-        "domain": "maciej.co",
-        "startedAt": "2026-08-07T13:55:48.550Z"
+        "domain": "tess.design",
+        "startedAt": "2026-08-07T14:00:55.378Z"
       },
       {
-        "domain": "newkino.studio",
-        "startedAt": "2026-08-07T13:55:48.551Z"
-      },
-      {
-        "domain": "wise.com",
-        "startedAt": "2026-08-07T13:55:48.549Z"
+        "domain": "trae.ai",
+        "startedAt": "2026-08-07T14:00:55.374Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 111
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +37,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 894,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T13:55:56.459Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T14:01:00.770Z",
+    "message": "Generation failed for somo.nl with exit 1."
+  }
 }
