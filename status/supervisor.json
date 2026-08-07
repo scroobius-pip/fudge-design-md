@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T16:36:31.259Z",
-  "heartbeatAt": "2026-08-07T16:36:32.120Z",
+  "heartbeatAt": "2026-08-07T16:41:44.552Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "limitless.framer.photos",
-        "startedAt": "2026-08-07T16:36:31.807Z"
+        "domain": "blog.x.com",
+        "startedAt": "2026-08-07T16:41:44.345Z"
       },
       {
-        "domain": "patreon.com",
-        "startedAt": "2026-08-07T16:36:31.810Z"
+        "domain": "curated.supply",
+        "startedAt": "2026-08-07T16:41:44.346Z"
       },
       {
-        "domain": "replacement.ai",
-        "startedAt": "2026-08-07T16:36:31.809Z"
+        "domain": "gaio.club",
+        "startedAt": "2026-08-07T16:41:44.347Z"
       },
       {
-        "domain": "sandbox.cloudflare.com",
-        "startedAt": "2026-08-07T16:36:31.804Z"
+        "domain": "myaccount.payoneer.com",
+        "startedAt": "2026-08-07T16:41:38.722Z"
       },
       {
-        "domain": "swissgrid.posterhouse.org",
-        "startedAt": "2026-08-07T16:36:31.806Z"
+        "domain": "tradingview.com",
+        "startedAt": "2026-08-07T16:41:44.345Z"
       },
       {
-        "domain": "trigger.dev",
-        "startedAt": "2026-08-07T16:36:31.808Z"
+        "domain": "warhol-arts.webflow.io",
+        "startedAt": "2026-08-07T16:41:44.348Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 111
   },
   "publication": {
     "concurrency": 1,
@@ -42,13 +42,16 @@
   },
   "queue": {
     "eligibleGeneration": 1005,
-    "availableGeneration": 999,
+    "availableGeneration": 889,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 1,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T16:36:43.438Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T16:41:43.092Z",
+    "message": "Generation failed for mimo.xiaomi.com with exit 1."
+  }
 }
