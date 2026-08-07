@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T07:31:10.815Z",
-  "heartbeatAt": "2026-08-07T07:31:11.389Z",
+  "heartbeatAt": "2026-08-07T07:36:18.965Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "fal.ai",
-        "startedAt": "2026-08-07T07:31:11.227Z"
+        "domain": "obsidian.md",
+        "startedAt": "2026-08-07T07:36:13.424Z"
       },
       {
-        "domain": "heroui.com",
-        "startedAt": "2026-08-07T07:31:11.224Z"
+        "domain": "once.film",
+        "startedAt": "2026-08-07T07:36:18.792Z"
       },
       {
-        "domain": "jules.google",
-        "startedAt": "2026-08-07T07:31:11.227Z"
+        "domain": "parrotapp.com",
+        "startedAt": "2026-08-07T07:36:08.061Z"
       },
       {
-        "domain": "odylicmedia.com",
-        "startedAt": "2026-08-07T07:31:11.225Z"
+        "domain": "piccalil.li",
+        "startedAt": "2026-08-07T07:36:18.788Z"
       },
       {
-        "domain": "postnext.io",
-        "startedAt": "2026-08-07T07:31:11.223Z"
+        "domain": "polar.sh",
+        "startedAt": "2026-08-07T07:36:18.785Z"
       },
       {
-        "domain": "windscribe.com",
-        "startedAt": "2026-08-07T07:31:11.226Z"
+        "domain": "replit.com",
+        "startedAt": "2026-08-07T07:36:13.421Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 125
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 878,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T07:31:17.848Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T07:36:18.613Z",
+    "message": "Generation failed for refit.framer.website with exit 1."
+  }
 }
