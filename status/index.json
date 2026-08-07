@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T16:01:47.117Z",
+  "generatedAt": "2026-08-07T16:02:25.931Z",
   "counts": {
     "skipped_one_image": 529,
     "skipped_recent": 9,
     "published_verified": 162,
     "failed": 1003,
     "needs_reprocessing": 22,
-    "drafting": 5,
-    "preparing": 3
+    "drafting": 2,
+    "preparing": 6
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
-    "startedAt": "2026-08-07T15:56:30.453Z",
-    "heartbeatAt": "2026-08-07T16:01:44.372Z",
+    "startedAt": "2026-08-07T16:02:22.331Z",
+    "heartbeatAt": "2026-08-07T16:02:23.035Z",
     "generation": {
       "concurrency": 6,
       "active": [
         {
-          "domain": "d33.io",
-          "startedAt": "2026-08-07T16:01:38.660Z"
+          "domain": "laylo.com",
+          "startedAt": "2026-08-07T16:02:22.809Z"
         },
         {
-          "domain": "deepmind.google",
-          "startedAt": "2026-08-07T16:01:38.660Z"
+          "domain": "medium.com",
+          "startedAt": "2026-08-07T16:02:22.813Z"
         },
         {
-          "domain": "mixfont.com",
-          "startedAt": "2026-08-07T16:01:44.026Z"
+          "domain": "nicelydone.club",
+          "startedAt": "2026-08-07T16:02:22.810Z"
         },
         {
-          "domain": "new.email",
-          "startedAt": "2026-08-07T16:01:38.659Z"
+          "domain": "qntm.org",
+          "startedAt": "2026-08-07T16:02:22.807Z"
         },
         {
-          "domain": "polymarket.com",
-          "startedAt": "2026-08-07T16:01:44.007Z"
+          "domain": "rt.com",
+          "startedAt": "2026-08-07T16:02:22.808Z"
         },
         {
-          "domain": "tempo.xyz",
-          "startedAt": "2026-08-07T16:01:44.014Z"
+          "domain": "spellsurf.com",
+          "startedAt": "2026-08-07T16:02:22.814Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 121
+      "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
@@ -53,19 +53,16 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1006,
-      "availableGeneration": 882,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1003,
       "readyPublication": 0,
       "publishedVerified": 162
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-07T15:56:39.465Z"
+      "lastSyncedAt": null
     },
-    "lastError": {
-      "at": "2026-08-07T16:01:42.159Z",
-      "message": "Generation failed for predictions.paradigm.xyz with exit 1."
-    }
+    "lastError": null
   },
   "domains": [
     {
@@ -5335,9 +5332,9 @@
     },
     {
       "domain": "d33.io",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 80,
-      "updatedAt": "2026-08-07T16:01:42.651Z",
+      "updatedAt": "2026-08-07T16:01:50.173Z",
       "blocker": null,
       "publication": {
         "key": "d33.io-design",
@@ -5673,9 +5670,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 82,
-      "updatedAt": "2026-08-07T16:01:43.109Z",
+      "updatedAt": "2026-08-07T16:01:50.960Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -10718,8 +10715,8 @@
     {
       "domain": "joinbeni.com",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:39.802Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:14.775Z",
       "blocker": null,
       "publication": {
         "key": "joinbeni.com-design",
@@ -10965,8 +10962,8 @@
     {
       "domain": "kanadojo.com",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:39.700Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:12.034Z",
       "blocker": null,
       "publication": {
         "key": "kanadojo.com-design",
@@ -11484,9 +11481,9 @@
     },
     {
       "domain": "laylo.com",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:13:00.086Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.166Z",
       "blocker": null,
       "publication": {
         "key": "laylo.com-design",
@@ -12667,9 +12664,9 @@
     },
     {
       "domain": "medium.com",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:13:03.159Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.201Z",
       "blocker": null,
       "publication": {
         "key": "medium.com-design",
@@ -12837,8 +12834,8 @@
     {
       "domain": "metr.org",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:45.783Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:13.831Z",
       "blocker": null,
       "publication": {
         "key": "metr.org-design",
@@ -13135,9 +13132,9 @@
     },
     {
       "domain": "mixfont.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 80,
-      "updatedAt": "2026-08-07T16:01:44.493Z",
+      "updatedAt": "2026-08-07T16:01:56.800Z",
       "blocker": null,
       "publication": {
         "key": "mixfont.com-design",
@@ -13539,8 +13536,8 @@
     {
       "domain": "motion.software",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:47.169Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:14.736Z",
       "blocker": null,
       "publication": {
         "key": "motion.software-design",
@@ -13915,9 +13912,9 @@
     },
     {
       "domain": "new.email",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 80,
-      "updatedAt": "2026-08-07T16:01:43.996Z",
+      "updatedAt": "2026-08-07T16:01:52.887Z",
       "blocker": null,
       "publication": {
         "key": "new.email-design",
@@ -14045,9 +14042,9 @@
     },
     {
       "domain": "nicelydone.club",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:13:00.183Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.167Z",
       "blocker": null,
       "publication": {
         "key": "nicelydone.club-design",
@@ -16216,9 +16213,9 @@
     },
     {
       "domain": "polymarket.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 80,
-      "updatedAt": "2026-08-07T16:01:44.523Z",
+      "updatedAt": "2026-08-07T16:01:57.196Z",
       "blocker": null,
       "publication": {
         "key": "polymarket.com-design",
@@ -16645,9 +16642,9 @@
     },
     {
       "domain": "qntm.org",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:54.357Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.166Z",
       "blocker": null,
       "publication": {
         "key": "qntm.org-design",
@@ -17088,8 +17085,8 @@
     {
       "domain": "rediff.com",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:54.271Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:21.016Z",
       "blocker": null,
       "publication": {
         "key": "rediff.com-design",
@@ -17322,8 +17319,8 @@
     {
       "domain": "research.perplexity.ai",
       "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:47.522Z",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:13.633Z",
       "blocker": null,
       "publication": {
         "key": "research.perplexity.ai-design",
@@ -17542,9 +17539,9 @@
     },
     {
       "domain": "rt.com",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:12:57.555Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.175Z",
       "blocker": null,
       "publication": {
         "key": "rt.com-design",
@@ -18751,9 +18748,9 @@
     },
     {
       "domain": "spellsurf.com",
-      "state": "failed",
-      "attempt": 79,
-      "updatedAt": "2026-08-07T15:13:15.365Z",
+      "state": "preparing",
+      "attempt": 80,
+      "updatedAt": "2026-08-07T16:02:23.301Z",
       "blocker": null,
       "publication": {
         "key": "spellsurf.com-design",
@@ -19804,9 +19801,9 @@
     },
     {
       "domain": "tempo.xyz",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 80,
-      "updatedAt": "2026-08-07T16:01:44.563Z",
+      "updatedAt": "2026-08-07T16:02:11.084Z",
       "blocker": null,
       "publication": {
         "key": "tempo.xyz-design",
