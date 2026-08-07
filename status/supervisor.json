@@ -1,34 +1,38 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-07T10:05:50.998Z",
-  "heartbeatAt": "2026-08-07T10:21:22.559Z",
+  "startedAt": "2026-08-07T10:24:59.345Z",
+  "heartbeatAt": "2026-08-07T10:24:59.960Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "foreknown.com",
-        "startedAt": "2026-08-07T10:21:11.827Z"
+        "domain": "column.com",
+        "startedAt": "2026-08-07T10:24:59.772Z"
       },
       {
-        "domain": "hermes4.nousresearch.com",
-        "startedAt": "2026-08-07T10:21:11.823Z"
+        "domain": "docs.swmansion.com",
+        "startedAt": "2026-08-07T10:24:59.776Z"
       },
       {
-        "domain": "penpot.app",
-        "startedAt": "2026-08-07T10:21:11.825Z"
+        "domain": "hoopladonuts.ca",
+        "startedAt": "2026-08-07T10:24:59.775Z"
       },
       {
-        "domain": "spline.design",
-        "startedAt": "2026-08-07T10:21:17.176Z"
+        "domain": "mymind.com",
+        "startedAt": "2026-08-07T10:24:59.782Z"
       },
       {
-        "domain": "truus.co",
-        "startedAt": "2026-08-07T10:21:11.826Z"
+        "domain": "variant.com",
+        "startedAt": "2026-08-07T10:24:59.778Z"
+      },
+      {
+        "domain": "wero-wallet.eu",
+        "startedAt": "2026-08-07T10:24:59.783Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 351
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
@@ -37,17 +41,14 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1000,
-    "availableGeneration": 649,
+    "eligibleGeneration": 1007,
+    "availableGeneration": 1001,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 3,
+  "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-07T10:16:17.809Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-07T10:21:22.438Z",
-    "message": "Generation failed for docs.stripe.com with exit 1."
-  }
+  "lastError": null
 }
