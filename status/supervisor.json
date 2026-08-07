@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T00:08:03.923Z",
-  "heartbeatAt": "2026-08-07T00:08:04.518Z",
+  "heartbeatAt": "2026-08-07T00:13:14.984Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "perplexity.ai",
-        "startedAt": "2026-08-07T00:08:04.332Z"
+        "domain": "anytype.dev",
+        "startedAt": "2026-08-07T00:13:14.821Z"
       },
       {
-        "domain": "phrasing.app",
-        "startedAt": "2026-08-07T00:08:04.328Z"
+        "domain": "blog.langchain.com",
+        "startedAt": "2026-08-07T00:13:14.820Z"
       },
       {
-        "domain": "pop.site",
-        "startedAt": "2026-08-07T00:08:04.329Z"
+        "domain": "epsteinexposed.com",
+        "startedAt": "2026-08-07T00:13:14.822Z"
       },
       {
-        "domain": "sohnne.com",
-        "startedAt": "2026-08-07T00:08:04.332Z"
+        "domain": "frontify.com",
+        "startedAt": "2026-08-07T00:13:04.233Z"
       },
       {
-        "domain": "subq.ai",
-        "startedAt": "2026-08-07T00:08:04.330Z"
+        "domain": "liverpoolfc.com",
+        "startedAt": "2026-08-07T00:13:04.232Z"
       },
       {
-        "domain": "zcode.z.ai",
-        "startedAt": "2026-08-07T00:08:04.331Z"
+        "domain": "twitch.tv",
+        "startedAt": "2026-08-07T00:13:14.818Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 141
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1010,
-    "availableGeneration": 1004,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 863,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T00:08:11.269Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T00:13:13.144Z",
+    "message": "Generation failed for app.kit.com with exit 1."
+  }
 }
