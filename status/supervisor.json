@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T07:17:37.013Z",
-  "heartbeatAt": "2026-08-07T07:17:38.051Z",
+  "heartbeatAt": "2026-08-07T07:22:50.289Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "discord.com",
-        "startedAt": "2026-08-07T07:17:37.659Z"
+        "domain": "contra.com",
+        "startedAt": "2026-08-07T07:22:50.116Z"
       },
       {
-        "domain": "gamma.io",
-        "startedAt": "2026-08-07T07:17:37.677Z"
+        "domain": "desktopneo.com",
+        "startedAt": "2026-08-07T07:22:44.719Z"
       },
       {
-        "domain": "spectrum.ieee.org",
-        "startedAt": "2026-08-07T07:17:37.689Z"
+        "domain": "dmitrybrant.com",
+        "startedAt": "2026-08-07T07:22:44.718Z"
       },
       {
-        "domain": "superlist.com",
-        "startedAt": "2026-08-07T07:17:37.671Z"
+        "domain": "foundation.app",
+        "startedAt": "2026-08-07T07:22:50.114Z"
       },
       {
-        "domain": "toools.design",
-        "startedAt": "2026-08-07T07:17:37.695Z"
+        "domain": "spotify.com",
+        "startedAt": "2026-08-07T07:22:44.684Z"
       },
       {
-        "domain": "usepylon.com",
-        "startedAt": "2026-08-07T07:17:37.683Z"
+        "domain": "ucp.dev",
+        "startedAt": "2026-08-07T07:22:44.720Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 123
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1005,
+    "availableGeneration": 880,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T07:17:45.143Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T07:22:48.075Z",
+    "message": "Generation failed for ui.shadcn.com with exit 1."
+  }
 }
