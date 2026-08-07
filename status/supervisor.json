@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T11:50:24.781Z",
-  "heartbeatAt": "2026-08-07T11:50:25.545Z",
+  "heartbeatAt": "2026-08-07T11:55:37.276Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "emmiwu.com",
-        "startedAt": "2026-08-07T11:50:25.301Z"
+        "domain": "arches-template.framer.website",
+        "startedAt": "2026-08-07T11:55:37.130Z"
       },
       {
-        "domain": "ethicalads.io",
-        "startedAt": "2026-08-07T11:50:25.306Z"
+        "domain": "photoyoshi.com",
+        "startedAt": "2026-08-07T11:55:31.693Z"
       },
       {
-        "domain": "figr.design",
-        "startedAt": "2026-08-07T11:50:25.309Z"
+        "domain": "shaders.paper.design",
+        "startedAt": "2026-08-07T11:55:26.328Z"
       },
       {
-        "domain": "myanimelist.net",
-        "startedAt": "2026-08-07T11:50:25.303Z"
+        "domain": "spectrum.ieee.org",
+        "startedAt": "2026-08-07T11:55:26.329Z"
       },
       {
-        "domain": "openwebui.com",
-        "startedAt": "2026-08-07T11:50:25.310Z"
+        "domain": "squareup.com",
+        "startedAt": "2026-08-07T11:55:37.130Z"
       },
       {
-        "domain": "qoves.com",
-        "startedAt": "2026-08-07T11:50:25.304Z"
+        "domain": "stock.adobe.com",
+        "startedAt": "2026-08-07T11:55:37.128Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 90
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1007,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 913,
     "readyPublication": 0,
     "publishedVerified": 162
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 2,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T11:50:33.959Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T11:55:36.982Z",
+    "message": "Generation failed for fontsinuse.com with exit 1."
+  }
 }
