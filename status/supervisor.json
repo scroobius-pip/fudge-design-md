@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T09:49:34.258Z",
-  "heartbeatAt": "2026-08-07T09:49:34.954Z",
+  "heartbeatAt": "2026-08-07T09:54:45.880Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "maallust.nl",
-        "startedAt": "2026-08-07T09:49:34.710Z"
+        "domain": "flickr.com",
+        "startedAt": "2026-08-07T09:54:40.316Z"
       },
       {
-        "domain": "nvidia.com",
-        "startedAt": "2026-08-07T09:49:34.716Z"
+        "domain": "revenuecat.com",
+        "startedAt": "2026-08-07T09:54:40.315Z"
       },
       {
-        "domain": "plasma.to",
-        "startedAt": "2026-08-07T09:49:34.715Z"
+        "domain": "samsung.com",
+        "startedAt": "2026-08-07T09:54:40.317Z"
       },
       {
-        "domain": "sibru.com",
-        "startedAt": "2026-08-07T09:49:34.718Z"
+        "domain": "typeof.net",
+        "startedAt": "2026-08-07T09:54:45.698Z"
       },
       {
-        "domain": "superscale.ai",
-        "startedAt": "2026-08-07T09:49:34.718Z"
+        "domain": "vulture.com",
+        "startedAt": "2026-08-07T09:54:40.307Z"
       },
       {
-        "domain": "tess.design",
-        "startedAt": "2026-08-07T09:49:34.717Z"
+        "domain": "webkit.org",
+        "startedAt": "2026-08-07T09:54:45.697Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 94
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1008,
-    "availableGeneration": 1002,
+    "eligibleGeneration": 1004,
+    "availableGeneration": 908,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T09:49:42.039Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T09:54:45.023Z",
+    "message": "Generation failed for yaak.app with exit 1."
+  }
 }
