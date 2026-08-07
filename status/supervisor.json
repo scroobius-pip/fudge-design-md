@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T08:52:55.000Z",
-  "heartbeatAt": "2026-08-07T08:52:55.669Z",
+  "heartbeatAt": "2026-08-07T08:58:08.590Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "gatesandbrovi.com",
-        "startedAt": "2026-08-07T08:52:55.434Z"
+        "domain": "langchain.com",
+        "startedAt": "2026-08-07T08:58:08.334Z"
       },
       {
-        "domain": "halftonedigital.com",
-        "startedAt": "2026-08-07T08:52:55.423Z"
+        "domain": "mi.com",
+        "startedAt": "2026-08-07T08:57:57.554Z"
       },
       {
-        "domain": "hifibridge.com",
-        "startedAt": "2026-08-07T08:52:55.435Z"
+        "domain": "nextjs.org",
+        "startedAt": "2026-08-07T08:58:02.900Z"
       },
       {
-        "domain": "jamm.co",
-        "startedAt": "2026-08-07T08:52:55.437Z"
+        "domain": "nocodeapi.com",
+        "startedAt": "2026-08-07T08:58:02.894Z"
       },
       {
-        "domain": "odylicmedia.com",
-        "startedAt": "2026-08-07T08:52:55.436Z"
+        "domain": "ottografie.nl",
+        "startedAt": "2026-08-07T08:58:08.305Z"
       },
       {
-        "domain": "thinkingmachines.ai",
-        "startedAt": "2026-08-07T08:52:55.438Z"
+        "domain": "projectfluent.org",
+        "startedAt": "2026-08-07T08:58:08.341Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 118
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 1005,
+    "eligibleGeneration": 1008,
+    "availableGeneration": 887,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T08:53:03.232Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T08:58:07.351Z",
+    "message": "Generation failed for jan.ai with exit 1."
+  }
 }
