@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-07T14:28:49.069Z",
-  "heartbeatAt": "2026-08-07T14:28:49.754Z",
+  "heartbeatAt": "2026-08-07T14:34:01.621Z",
   "generation": {
     "concurrency": 6,
     "active": [
       {
-        "domain": "autosend.com",
-        "startedAt": "2026-08-07T14:28:49.530Z"
+        "domain": "amd.com",
+        "startedAt": "2026-08-07T14:33:50.779Z"
       },
       {
-        "domain": "blog.langchain.com",
-        "startedAt": "2026-08-07T14:28:49.527Z"
+        "domain": "dmitrybrant.com",
+        "startedAt": "2026-08-07T14:34:01.398Z"
       },
       {
-        "domain": "fontstand.com",
-        "startedAt": "2026-08-07T14:28:49.523Z"
+        "domain": "fable.co",
+        "startedAt": "2026-08-07T14:33:50.780Z"
       },
       {
-        "domain": "generalbread.co",
-        "startedAt": "2026-08-07T14:28:49.529Z"
+        "domain": "thelightphone.com",
+        "startedAt": "2026-08-07T14:33:56.103Z"
       },
       {
-        "domain": "plus-ex.com",
-        "startedAt": "2026-08-07T14:28:49.530Z"
+        "domain": "ucp.dev",
+        "startedAt": "2026-08-07T14:34:01.400Z"
       },
       {
-        "domain": "threads.com",
-        "startedAt": "2026-08-07T14:28:49.528Z"
+        "domain": "ui.shadcn.com",
+        "startedAt": "2026-08-07T14:34:01.401Z"
       }
     ],
     "completedThisRun": 0,
-    "failedThisRun": 0
+    "failedThisRun": 96
   },
   "publication": {
     "concurrency": 1,
@@ -41,14 +41,17 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1009,
-    "availableGeneration": 1003,
+    "eligibleGeneration": 1006,
+    "availableGeneration": 907,
     "readyPublication": 0,
     "publishedVerified": 162
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-07T14:28:56.599Z"
   },
-  "lastError": null
+  "lastError": {
+    "at": "2026-08-07T14:34:01.237Z",
+    "message": "Generation failed for google.com with exit 1."
+  }
 }
