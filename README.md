@@ -1028,7 +1028,7 @@ Blindsight uses a narrow set of visual rules and then commits to them hard. The 
 
 [![How blog.google is designed](https://pin.fontofweb.com/7540?format=jpg)](design-md/blog.google.md)
 
-blog.google presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#5f6368`, `#000000`, and `#364043`, with typography led by **Google Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+blog.google presents Google as a calm, editorial news surface with launch-page energy. The page is built around two clear moves: a large feature stage with a blue headline, floating thumbnail imagery, and a rounded white story card; then a quieter search tray that turns the same visual language into a utility surface with a text prompt, divider rule, and rounded suggestion pills.
 
 [Open guide](design-md/blog.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/blog.google-design)
 
