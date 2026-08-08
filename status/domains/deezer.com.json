@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "deezer.com",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 86,
-  "consecutiveFailures": 2,
+  "consecutiveFailures": 3,
   "nextEligibleAt": null,
-  "updatedAt": "2026-08-08T20:13:08.265Z",
+  "updatedAt": "2026-08-08T20:19:09.090Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -23,5 +23,5 @@
     "markdownUrl": "https://design.withfudge.com/share/deezer.com-design.md",
     "githubUrl": null
   },
-  "failure": null
+  "failure": "publication_failed"
 }

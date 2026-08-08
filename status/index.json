@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:16:34.997Z",
+  "generatedAt": "2026-08-08T20:22:31.571Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 66,
     "unpublished": 909,
-    "failed": 9,
-    "repairing": 2,
-    "drafting": 1,
-    "legacy": 49
+    "failed": 10,
+    "repairing": 1,
+    "drafting": 2,
+    "legacy": 48
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:16:18.149Z",
-    "heartbeatExpiresAt": "2026-08-08T20:21:18.149Z",
+    "heartbeatAt": "2026-08-08T20:22:18.850Z",
+    "heartbeatExpiresAt": "2026-08-08T20:27:18.850Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,20 +26,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "deezer.com",
-          "startedAt": "2026-08-08T19:58:10.117Z"
-        },
-        {
           "domain": "dub.co",
           "startedAt": "2026-08-08T20:09:40.841Z"
         },
         {
-          "domain": "ethicalads.io",
-          "startedAt": "2026-08-08T20:05:34.279Z"
+          "domain": "dzen.ru",
+          "startedAt": "2026-08-08T20:19:18.064Z"
+        },
+        {
+          "domain": "eu-inc.org",
+          "startedAt": "2026-08-08T20:20:16.399Z"
         }
       ],
       "completedThisRun": 55,
-      "failedThisRun": 31
+      "failedThisRun": 33
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 959,
-      "availableGeneration": 959,
-      "waitingForRetry": 8,
+      "eligibleGeneration": 957,
+      "availableGeneration": 957,
+      "waitingForRetry": 10,
       "readyPublication": 0,
       "publishedVerified": 66
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:11:12.620Z"
+      "lastSyncedAt": "2026-08-08T20:17:15.858Z"
     },
     "lastError": {
-      "at": "2026-08-08T20:09:36.999Z",
-      "message": "Generation failed for epsteinexposed.com with exit 1."
+      "at": "2026-08-08T20:20:09.855Z",
+      "message": "Generation failed for ethicalads.io with exit 1."
     }
   },
   "generationControl": {
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:13:08.265Z",
+      "updatedAt": "2026-08-08T20:19:09.090Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -7041,7 +7041,7 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "nextEligibleAt": null
     },
     {
@@ -8102,9 +8102,9 @@
     },
     {
       "domain": "dub.co",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:09:47.978Z",
+      "updatedAt": "2026-08-08T20:20:05.578Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
@@ -8198,9 +8198,9 @@
     },
     {
       "domain": "dzen.ru",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T19:11:43.103Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T20:19:25.679Z",
       "blocker": null,
       "publication": {
         "key": "dzen.ru-design",
@@ -8210,7 +8210,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T20:11:43.103Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "e360.yale.edu",
@@ -8790,9 +8790,9 @@
     },
     {
       "domain": "ethicalads.io",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:16:10.339Z",
+      "updatedAt": "2026-08-08T20:20:07.423Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
@@ -8801,8 +8801,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T21:20:07.423Z"
     },
     {
       "domain": "etsy.com",
@@ -8822,9 +8822,9 @@
     },
     {
       "domain": "eu-inc.org",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.752Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:20:38.116Z",
       "blocker": null,
       "publication": {
         "key": "eu-inc.org-design",
