@@ -2424,6 +2424,14 @@ Linear combines an editorially spare product pitch with an operational workspace
 
 [Open guide](design-md/linear.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/linear.app-design)
 
+### nocodeapi.com
+
+[![How nocodeapi.com is designed](https://pin.fontofweb.com/2097?format=jpg)](design-md/nocodeapi.com.md)
+
+NoCodeAPI uses a light, direct marketing system built around large rounded headlines, compact supporting copy, and a small set of flat accent surfaces. The pages shown here do not depend on imagery or ornamental graphics; instead, they use whitespace, text scale, and a few strong color blocks to separate one idea from the next. The result is a page that reads quickly and feels practical rather than decorative.
+
+[Open guide](design-md/nocodeapi.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/nocodeapi.com-design)
+
 ### sacred.computer
 
 [![How sacred.computer is designed](https://pin.fontofweb.com/4255?format=jpg)](design-md/sacred.computer.md)
