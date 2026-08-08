@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:34:06.365Z",
+  "generatedAt": "2026-08-08T19:40:26.880Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 62,
     "unpublished": 909,
-    "failed": 7,
-    "repairing": 3,
-    "legacy": 55
+    "failed": 8,
+    "validating": 2,
+    "drafting": 1,
+    "legacy": 54
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:33:53.910Z",
-    "heartbeatExpiresAt": "2026-08-08T19:38:53.910Z",
+    "heartbeatAt": "2026-08-08T19:40:10.872Z",
+    "heartbeatExpiresAt": "2026-08-08T19:45:10.872Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,20 +26,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "edition.cnn.com",
-          "startedAt": "2026-08-08T19:20:19.340Z"
-        },
-        {
           "domain": "elevenlabs.io",
           "startedAt": "2026-08-08T19:25:20.039Z"
         },
         {
           "domain": "emmiwu.com",
           "startedAt": "2026-08-08T19:26:03.922Z"
+        },
+        {
+          "domain": "endl.io",
+          "startedAt": "2026-08-08T19:38:18.759Z"
         }
       ],
       "completedThisRun": 51,
-      "failedThisRun": 26
+      "failedThisRun": 27
     },
     "publication": {
       "concurrency": 1,
@@ -55,11 +56,11 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:28:52.092Z"
+      "lastSyncedAt": "2026-08-08T19:34:47.994Z"
     },
     "lastError": {
-      "at": "2026-08-08T19:11:55.750Z",
-      "message": "Generation failed for dzen.ru with exit 1."
+      "at": "2026-08-08T19:38:13.777Z",
+      "message": "Generation failed for edition.cnn.com with exit 1."
     }
   },
   "generationControl": {
@@ -8389,9 +8390,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:32:35.701Z",
+      "updatedAt": "2026-08-08T19:38:12.388Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8400,8 +8401,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T20:38:12.388Z"
     },
     {
       "domain": "eff.org",
@@ -8453,9 +8454,9 @@
     },
     {
       "domain": "elevenlabs.io",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:31:52.422Z",
+      "updatedAt": "2026-08-08T19:38:43.677Z",
       "blocker": null,
       "publication": {
         "key": "elevenlabs.io-design",
@@ -8581,9 +8582,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:32:25.068Z",
+      "updatedAt": "2026-08-08T19:39:11.401Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
@@ -8629,9 +8630,9 @@
     },
     {
       "domain": "endl.io",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.652Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T19:38:29.884Z",
       "blocker": null,
       "publication": {
         "key": "endl.io-design",
