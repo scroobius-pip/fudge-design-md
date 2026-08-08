@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:15:22.490Z",
+  "generatedAt": "2026-08-08T19:17:37.125Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 58,
+    "published_verified": 59,
     "unpublished": 909,
     "failed": 7,
-    "validating": 2,
-    "drafting": 1,
-    "legacy": 59
+    "repairing": 1,
+    "drafting": 2,
+    "legacy": 58
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:14:17.823Z",
-    "heartbeatExpiresAt": "2026-08-08T19:19:17.823Z",
+    "heartbeatAt": "2026-08-08T19:17:25.347Z",
+    "heartbeatExpiresAt": "2026-08-08T19:22:25.347Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +30,33 @@
           "startedAt": "2026-08-08T19:07:02.733Z"
         },
         {
-          "domain": "dfinity.org",
-          "startedAt": "2026-08-08T19:00:23.481Z"
-        },
-        {
           "domain": "e360.yale.edu",
           "startedAt": "2026-08-08T19:11:59.157Z"
+        },
+        {
+          "domain": "earth.google.com",
+          "startedAt": "2026-08-08T19:16:39.956Z"
         }
       ],
-      "completedThisRun": 47,
+      "completedThisRun": 48,
       "failedThisRun": 26
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 45,
+      "completedThisRun": 46,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 968,
-      "availableGeneration": 968,
+      "eligibleGeneration": 967,
+      "availableGeneration": 967,
       "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 58
+      "publishedVerified": 59
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:08:10.884Z"
+      "lastSyncedAt": "2026-08-08T19:15:59.099Z"
     },
     "lastError": {
       "at": "2026-08-08T19:11:55.750Z",
@@ -7286,9 +7286,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:11:49.124Z",
+      "updatedAt": "2026-08-08T19:15:50.923Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7478,18 +7478,18 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T19:13:05.466Z",
+      "updatedAt": "2026-08-08T19:17:15.599Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dfinity.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/dfinity.org-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dfinity.org.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -8294,9 +8294,9 @@
     },
     {
       "domain": "earth.google.com",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.594Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T19:16:50.417Z",
       "blocker": null,
       "publication": {
         "key": "earth.google.com-design",
