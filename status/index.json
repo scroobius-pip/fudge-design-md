@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:20:55.342Z",
+  "generatedAt": "2026-08-08T15:24:16.604Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 180,
-    "published_verified": 22,
+    "published_verified": 23,
     "unpublished": 909,
     "repairing": 2,
-    "validating": 1,
-    "legacy": 101,
+    "drafting": 1,
+    "legacy": 100,
     "failed": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:20:45.081Z",
-    "heartbeatExpiresAt": "2026-08-08T15:25:45.081Z",
+    "heartbeatAt": "2026-08-08T15:23:59.965Z",
+    "heartbeatExpiresAt": "2026-08-08T15:28:59.965Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +26,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "aol.com",
-          "startedAt": "2026-08-08T15:02:27.015Z"
-        },
-        {
           "domain": "api.scira.ai",
           "startedAt": "2026-08-08T15:14:35.853Z"
         },
         {
           "domain": "app.reve.com",
           "startedAt": "2026-08-08T15:15:42.936Z"
+        },
+        {
+          "domain": "arcee.ai",
+          "startedAt": "2026-08-08T15:23:19.654Z"
         }
       ],
-      "completedThisRun": 10,
+      "completedThisRun": 11,
       "failedThisRun": 2
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 9,
+      "completedThisRun": 10,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1010,
-      "availableGeneration": 1010,
+      "eligibleGeneration": 1009,
+      "availableGeneration": 1009,
       "waitingForRetry": 2,
       "readyPublication": 0,
-      "publishedVerified": 22
+      "publishedVerified": 23
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:15:34.581Z"
+      "lastSyncedAt": "2026-08-08T15:21:26.240Z"
     },
     "lastError": {
       "at": "2026-08-08T15:15:42.929Z",
@@ -1750,15 +1750,15 @@
     },
     {
       "domain": "aol.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 88,
-      "updatedAt": "2026-08-08T15:18:27.468Z",
+      "updatedAt": "2026-08-08T15:23:52.880Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
         "url": "https://design.withfudge.com/share/aol.com-design",
         "markdownUrl": "https://design.withfudge.com/share/aol.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aol.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1816,7 +1816,7 @@
       "domain": "api.scira.ai",
       "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:18:46.316Z",
+      "updatedAt": "2026-08-08T15:23:24.781Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -2422,9 +2422,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:20:35.629Z",
+      "updatedAt": "2026-08-08T15:22:25.827Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -2694,9 +2694,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "legacy",
-      "attempt": 88,
-      "updatedAt": "2026-08-08T14:41:28.705Z",
+      "state": "drafting",
+      "attempt": 89,
+      "updatedAt": "2026-08-08T15:23:27.975Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
