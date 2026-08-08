@@ -1938,9 +1938,9 @@ everyday-practice.com presents a predominantly dark surface treatment in the cap
 
 ### evilmartians.com
 
-[![How evilmartians.com is designed](https://pin.fontofweb.com/8135?format=jpg)](design-md/evilmartians.com.md)
+[![How evilmartians.com is designed](https://pin.fontofweb.com/8132?format=jpg)](design-md/evilmartians.com.md)
 
-evilmartians.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#cb009e`, with typography led by **Martian Grotesk** and **Martian Mono Vf**. The guide below names reusable design roles only where the captured evidence supports them.
+Evil Martians uses a severe, theatrical developer identity: black first, white second, and color only where the content asks for it. The homepage hero is almost all negative space, oversized headline, and one central 3D illustration. A narrow left rail of section links and a small utility column on the right keep the frame organized without softening it. That same discipline carries into article pages, where the black top stage gives way to a white reading column. The result feels like a studio-built editorial site rather than a product brochure.
 
 [Open guide](design-md/evilmartians.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/evilmartians.com-design)
 
