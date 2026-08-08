@@ -1666,9 +1666,9 @@ designsystems.surf presents a mixed light and dark surface treatment in the capt
 
 ### designwithvibbbes.com
 
-[![How designwithvibbbes.com is designed](https://pin.fontofweb.com/7194?format=jpg)](design-md/designwithvibbbes.com.md)
+[![How designwithvibbbes.com is designed](https://pin.fontofweb.com/7189?format=jpg)](design-md/designwithvibbbes.com.md)
 
-designwithvibbbes.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#b4c3e6`, and `#ffffff`, with typography led by **Plus Jakarta Sans**, **Made Outer Sans**, and **Roboto Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+VIBBBES presents itself as a design-system SaaS with a calm but persuasive sales voice. The page language is built from a small set of strong moves: a dark navy stage, a centered pill-shaped top bar, large rounded headlines, frosted white cards, and a pair of accent colors that separate the main subscription path from the “best value” and lifetime choices. The site feels premium because it keeps the structure simple and lets contrast do the work.
 
 [Open guide](design-md/designwithvibbbes.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/designwithvibbbes.com-design)
 
