@@ -1924,7 +1924,7 @@ EVE Frontier is designed like a launch control screen for a hostile star system.
 
 [![How every.to is designed](https://pin.fontofweb.com/8446?format=jpg)](design-md/every.to.md)
 
-every.to presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#fafaf7`, with typography led by **Switzer**, **Klim Type Foundry**, **Inter**, and **Every**. The guide below names reusable design roles only where the captured evidence supports them.
+Every uses a black editorial shell with a very restrained grayscale system, then lifts attention through oversized serif headlines, white pill actions, and thin dividers. The page reads less like a conventional software homepage and more like a magazine front page that happens to sell products, newsletters, and subscriptions.
 
 [Open guide](design-md/every.to.md) · [View the Fudge conversation](https://design.withfudge.com/share/every.to-design)
 
