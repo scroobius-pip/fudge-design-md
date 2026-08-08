@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:01:53.091Z",
+  "generatedAt": "2026-08-08T21:07:31.556Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 72,
     "unpublished": 909,
     "failed": 11,
-    "drafting": 2,
-    "repairing": 1,
+    "validating": 3,
     "legacy": 41
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:01:42.413Z",
-    "heartbeatExpiresAt": "2026-08-08T21:06:42.413Z",
+    "heartbeatAt": "2026-08-08T21:07:16.130Z",
+    "heartbeatExpiresAt": "2026-08-08T21:12:16.130Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -48,15 +47,15 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 950,
-      "availableGeneration": 950,
-      "waitingForRetry": 11,
+      "eligibleGeneration": 951,
+      "availableGeneration": 951,
+      "waitingForRetry": 10,
       "readyPublication": 0,
       "publishedVerified": 72
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:57:56.615Z"
+      "lastSyncedAt": "2026-08-08T21:02:11.708Z"
     },
     "lastError": {
       "at": "2026-08-08T20:57:31.017Z",
@@ -8742,9 +8741,9 @@
     },
     {
       "domain": "era.app",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:00:47.121Z",
+      "updatedAt": "2026-08-08T21:05:51.890Z",
       "blocker": null,
       "publication": {
         "key": "era.app-design",
@@ -8966,9 +8965,9 @@
     },
     {
       "domain": "explainers.blog",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:59:52.241Z",
+      "updatedAt": "2026-08-08T21:06:34.969Z",
       "blocker": null,
       "publication": {
         "key": "explainers.blog-design",
@@ -9062,9 +9061,9 @@
     },
     {
       "domain": "fable.co",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:57:54.330Z",
+      "updatedAt": "2026-08-08T21:06:36.511Z",
       "blocker": null,
       "publication": {
         "key": "fable.co-design",
