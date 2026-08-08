@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:50:56.522Z",
+  "generatedAt": "2026-08-08T18:52:35.563Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 56,
+    "published_verified": 57,
     "unpublished": 909,
     "failed": 5,
-    "drafting": 1,
-    "validating": 2,
-    "legacy": 63
+    "drafting": 2,
+    "repairing": 1,
+    "legacy": 62
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:50:51.103Z",
-    "heartbeatExpiresAt": "2026-08-08T18:55:51.103Z",
+    "heartbeatAt": "2026-08-08T18:52:28.326Z",
+    "heartbeatExpiresAt": "2026-08-08T18:57:28.326Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -34,29 +34,32 @@
           "startedAt": "2026-08-08T18:39:24.396Z"
         },
         {
-          "domain": "drkst.framer.website",
-          "startedAt": "2026-08-08T18:47:00.518Z"
+          "domain": "dub.co",
+          "startedAt": "2026-08-08T18:51:45.912Z"
         }
       ],
-      "completedThisRun": 45,
+      "completedThisRun": 46,
       "failedThisRun": 22
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "drkst.framer.website",
+        "startedAt": "2026-08-08T18:51:45.901Z"
+      },
       "completedThisRun": 43,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 972,
-      "availableGeneration": 972,
+      "eligibleGeneration": 971,
+      "availableGeneration": 971,
       "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 56
+      "publishedVerified": 57
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:48:09.755Z"
+      "lastSyncedAt": "2026-08-08T18:51:08.032Z"
     },
     "lastError": {
       "at": "2026-08-08T18:39:23.980Z",
@@ -7030,9 +7033,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:47:33.791Z",
+      "updatedAt": "2026-08-08T18:51:02.961Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -8054,15 +8057,15 @@
     },
     {
       "domain": "drkst.framer.website",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:50:06.928Z",
+      "updatedAt": "2026-08-08T18:52:26.609Z",
       "blocker": null,
       "publication": {
         "key": "drkst.framer.website-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/drkst.framer.website-design",
+        "markdownUrl": "https://design.withfudge.com/share/drkst.framer.website-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/drkst.framer.website.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8102,9 +8105,9 @@
     },
     {
       "domain": "dub.co",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.537Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T18:51:55.370Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
