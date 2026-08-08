@@ -1724,7 +1724,7 @@ discord.com presents a predominantly dark surface treatment in the captured page
 
 [![How displaay.net is designed](https://pin.fontofweb.com/9585?format=jpg)](design-md/displaay.net.md)
 
-displaay.net presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#e3e3e3`, with typography led by **Saans** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Displaay’s site is a type-foundry system that puts the letterform itself at the center of the page. The first screen is almost empty apart from a huge logotype, a few small controls, and a wide field of light gray. That restraint is not a lack of design; it is the design. The page gives the type room to become the content, then uses thin rules, compact labels, and short catalog blocks to organize the rest of the experience.
 
 [Open guide](design-md/displaay.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/displaay.net-design)
 
