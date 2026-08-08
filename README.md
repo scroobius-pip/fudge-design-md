@@ -1092,7 +1092,7 @@ BrowserOS uses an editorial browser brand rather than a hard-edged software skin
 
 [![How bspk.xyz is designed](https://pin.fontofweb.com/9365?format=jpg)](design-md/bspk.xyz.md)
 
-bspk.xyz presents a predominantly light surface treatment in the captured pages. The system is anchored by `#333333`, with typography led by **Chivo** and **Courier New**. The guide below names reusable design roles only where the captured evidence supports them.
+BSPK’s Anthropic page is a quiet editorial case study built from contrast, spacing, and type scale rather than ornament. The page opens with a cream header and a bold two-column lead, then drops into a large black project stage that acts like the central chapter of the story. Below that, a pale release area organizes three compact cards into a clean grid, and the page finishes with a sparse footer line and tiny meta copy. The visual system feels deliberate and restrained, with every part kept in service of the written narrative.
 
 [Open guide](design-md/bspk.xyz.md) · [View the Fudge conversation](https://design.withfudge.com/share/bspk.xyz-design)
 
