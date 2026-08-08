@@ -2400,6 +2400,14 @@ inngest.com presents a predominantly dark surface treatment in the captured page
 
 [Open guide](design-md/inngest.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
 
+### lead.bank
+
+[![How lead.bank is designed](https://pin.fontofweb.com/7252?format=jpg)](design-md/lead.bank.md)
+
+Lead Bank uses a calm but forceful banking language. The pages are built on a white field with a deep blue-violet brand color, oversized rounded buttons, and a clear editorial order: logo, navigation, headline, image, explanation, then a practical next step. The result feels modern and direct rather than ornate. It looks like a financial site that wants to explain itself quickly and then get out of the way.
+
+[Open guide](design-md/lead.bank.md) · [View the Fudge conversation](https://design.withfudge.com/share/lead.bank-design)
+
 ### linear.app
 
 [![How linear.app is designed](https://pin.fontofweb.com/10441?format=jpg)](design-md/linear.app.md)
