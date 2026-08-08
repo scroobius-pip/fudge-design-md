@@ -2391,6 +2391,14 @@ Stripe's captured homepage is a calm editorial product interface: a pale canvas,
 YouWorkForThem is a catalog-first marketplace with a very quiet shell and very loud specimens. The interface frame stays almost entirely monochrome: a black utility bar at the top, a white canvas beneath it, and pale controls that keep their distance from the artwork. The page does not try to become a brand poster. It behaves like a working foundry storefront, where the product tiles carry the personality and the surrounding UI only organizes the flow.
 
 [Open guide](design-md/youworkforthem.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/youworkforthem.com-design)
+
+### yuskavage.com
+
+[![How yuskavage.com is designed](https://pin.fontofweb.com/7293?format=jpg)](design-md/yuskavage.com.md)
+
+Yuskavage.com is built like an art archive rather than a promotional site. The interface keeps the page almost entirely on a light field, then uses a narrow left rail to hold the brand, navigation, and utility links while the main area carries the content. That split gives the site a museum-catalog calm: the rail behaves like a directory spine, and the right side changes format depending on whether the page is a media index, an exhibition list, or a long biography.
+
+[Open guide](design-md/yuskavage.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/yuskavage.com-design)
 <!-- DESIGN_MD_INDEX_END -->
 
 ## Use a guide
