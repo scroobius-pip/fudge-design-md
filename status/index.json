@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:26:06.125Z",
+  "generatedAt": "2026-08-08T18:31:40.306Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 51,
     "unpublished": 909,
     "failed": 6,
-    "drafting": 3,
+    "repairing": 3,
     "legacy": 67
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:25:43.605Z",
-    "heartbeatExpiresAt": "2026-08-08T18:30:43.605Z",
+    "heartbeatAt": "2026-08-08T18:31:32.460Z",
+    "heartbeatExpiresAt": "2026-08-08T18:36:32.460Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -42,23 +42,20 @@
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "aura.build",
-        "startedAt": "2026-08-08T18:24:52.507Z"
-      },
-      "completedThisRun": 37,
+      "active": null,
+      "completedThisRun": 38,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 976,
-      "availableGeneration": 976,
-      "waitingForRetry": 6,
+      "eligibleGeneration": 977,
+      "availableGeneration": 977,
+      "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 50
+      "publishedVerified": 51
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:24:16.660Z"
+      "lastSyncedAt": "2026-08-08T18:26:25.298Z"
     },
     "lastError": {
       "at": "2026-08-08T18:23:53.659Z",
@@ -3784,9 +3781,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T18:23:02.986Z",
+      "updatedAt": "2026-08-08T18:29:45.597Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -7720,9 +7717,9 @@
     },
     {
       "domain": "docs.apara.design",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:24:14.020Z",
+      "updatedAt": "2026-08-08T18:30:28.072Z",
       "blocker": null,
       "publication": {
         "key": "docs.apara.design-design",
@@ -7944,9 +7941,9 @@
     },
     {
       "domain": "dosu.dev",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:25:09.326Z",
+      "updatedAt": "2026-08-08T18:30:58.985Z",
       "blocker": null,
       "publication": {
         "key": "dosu.dev-design",
