@@ -1,26 +1,41 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:31:58.244Z",
+  "generatedAt": "2026-08-08T14:37:26.592Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 180,
     "published_verified": 13,
-    "unpublished": 1025
+    "unpublished": 1014,
+    "validating": 3,
+    "failed": 8
   },
   "supervisor": {
     "schemaVersion": 1,
-    "state": "paused",
+    "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:31:52.081Z",
-    "heartbeatExpiresAt": "2026-08-08T14:36:52.081Z",
+    "heartbeatAt": "2026-08-08T14:37:17.670Z",
+    "heartbeatExpiresAt": "2026-08-08T14:42:17.670Z",
     "stale": false,
     "generationControl": {
-      "paused": true,
-      "reason": "sparse_palette_restart"
+      "paused": false,
+      "reason": null
     },
     "generation": {
       "concurrency": 3,
-      "active": [],
+      "active": [
+        {
+          "domain": "antler.co",
+          "startedAt": "2026-08-08T14:33:06.701Z"
+        },
+        {
+          "domain": "anytype.dev",
+          "startedAt": "2026-08-08T14:33:06.706Z"
+        },
+        {
+          "domain": "api.momentum.uninspired.studio",
+          "startedAt": "2026-08-08T14:33:06.724Z"
+        }
+      ],
       "completedThisRun": 0,
       "failedThisRun": 0
     },
@@ -33,19 +48,19 @@
     "queue": {
       "eligibleGeneration": 1018,
       "availableGeneration": 1018,
-      "waitingForRetry": 7,
+      "waitingForRetry": 4,
       "readyPublication": 0,
       "publishedVerified": 13
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-08T14:32:12.962Z"
     },
     "lastError": null
   },
   "generationControl": {
-    "paused": true,
-    "reason": "sparse_palette_restart"
+    "paused": false,
+    "reason": null
   },
   "domains": [
     {
@@ -1666,9 +1681,9 @@
     },
     {
       "domain": "antler.co",
-      "state": "unpublished",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "state": "validating",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T14:36:28.778Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -1677,8 +1692,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T15:30:52.400Z"
+      "consecutiveFailures": 0,
+      "nextEligibleAt": null
     },
     {
       "domain": "anysphere.inc",
@@ -1698,9 +1713,9 @@
     },
     {
       "domain": "anytype.dev",
-      "state": "unpublished",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "state": "validating",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T14:36:23.771Z",
       "blocker": null,
       "publication": {
         "key": "anytype.dev-design",
@@ -1709,8 +1724,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T15:30:52.401Z"
+      "consecutiveFailures": 0,
+      "nextEligibleAt": null
     },
     {
       "domain": "anytype.io",
@@ -1778,9 +1793,9 @@
     },
     {
       "domain": "api.momentum.uninspired.studio",
-      "state": "unpublished",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "state": "validating",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T14:36:30.249Z",
       "blocker": null,
       "publication": {
         "key": "api.momentum.uninspired.studio-design",
@@ -4130,9 +4145,9 @@
     },
     {
       "domain": "bookmarkify.io",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:22.978Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
@@ -8738,9 +8753,9 @@
     },
     {
       "domain": "ergo.org",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:22.337Z",
       "blocker": null,
       "publication": {
         "key": "ergo.org-design",
@@ -8749,8 +8764,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T15:30:52.401Z"
+      "consecutiveFailures": 0,
+      "nextEligibleAt": null
     },
     {
       "domain": "etched.com",
@@ -14242,9 +14257,9 @@
     },
     {
       "domain": "lead.bank",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:23.205Z",
       "blocker": null,
       "publication": {
         "key": "lead.bank-design",
@@ -17410,9 +17425,9 @@
     },
     {
       "domain": "nocodeapi.com",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:23.433Z",
       "blocker": null,
       "publication": {
         "key": "nocodeapi.com-design",
@@ -21778,9 +21793,9 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:23.662Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -21794,9 +21809,9 @@
     },
     {
       "domain": "sacred.computer",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:22.550Z",
       "blocker": null,
       "publication": {
         "key": "sacred.computer-design",
@@ -22034,9 +22049,9 @@
     },
     {
       "domain": "sap.com",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:22.763Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
@@ -27042,9 +27057,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "unpublished",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:31:38.466Z",
+      "updatedAt": "2026-08-08T14:34:23.891Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",

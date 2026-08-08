@@ -1,17 +1,30 @@
 {
   "schemaVersion": 1,
-  "state": "paused",
+  "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T14:31:52.081Z",
-  "heartbeatExpiresAt": "2026-08-08T14:36:52.081Z",
+  "heartbeatAt": "2026-08-08T14:37:17.670Z",
+  "heartbeatExpiresAt": "2026-08-08T14:42:17.670Z",
   "stale": false,
   "generationControl": {
-    "paused": true,
-    "reason": "sparse_palette_restart"
+    "paused": false,
+    "reason": null
   },
   "generation": {
     "concurrency": 3,
-    "active": [],
+    "active": [
+      {
+        "domain": "antler.co",
+        "startedAt": "2026-08-08T14:33:06.701Z"
+      },
+      {
+        "domain": "anytype.dev",
+        "startedAt": "2026-08-08T14:33:06.706Z"
+      },
+      {
+        "domain": "api.momentum.uninspired.studio",
+        "startedAt": "2026-08-08T14:33:06.724Z"
+      }
+    ],
     "completedThisRun": 0,
     "failedThisRun": 0
   },
@@ -24,13 +37,13 @@
   "queue": {
     "eligibleGeneration": 1018,
     "availableGeneration": 1018,
-    "waitingForRetry": 7,
+    "waitingForRetry": 4,
     "readyPublication": 0,
     "publishedVerified": 13
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": null
+    "lastSyncedAt": "2026-08-08T14:32:12.962Z"
   },
   "lastError": null
 }
