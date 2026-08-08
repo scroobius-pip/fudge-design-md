@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:19:40.103Z",
+  "generatedAt": "2026-08-08T17:26:38.963Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 40,
     "unpublished": 909,
     "failed": 6,
-    "repairing": 1,
-    "drafting": 2,
+    "validating": 1,
+    "repairing": 2,
     "legacy": 78
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:19:04.371Z",
-    "heartbeatExpiresAt": "2026-08-08T17:24:04.371Z",
+    "heartbeatAt": "2026-08-08T17:26:25.644Z",
+    "heartbeatExpiresAt": "2026-08-08T17:31:25.644Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -48,15 +48,15 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 987,
-      "availableGeneration": 987,
-      "waitingForRetry": 6,
+      "eligibleGeneration": 989,
+      "availableGeneration": 989,
+      "waitingForRetry": 4,
       "readyPublication": 0,
       "publishedVerified": 40
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:16:23.477Z"
+      "lastSyncedAt": "2026-08-08T17:21:20.081Z"
     },
     "lastError": {
       "at": "2026-08-08T17:12:42.784Z",
@@ -6918,9 +6918,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:16:11.887Z",
+      "updatedAt": "2026-08-08T17:25:22.643Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -6982,9 +6982,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T17:15:26.914Z",
+      "updatedAt": "2026-08-08T17:22:26.729Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T17:18:23.093Z",
+      "updatedAt": "2026-08-08T17:26:12.562Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
