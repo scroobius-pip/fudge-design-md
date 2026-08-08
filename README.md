@@ -1980,7 +1980,7 @@ factory.ai presents a mixed light and dark surface treatment in the captured pag
 
 [![How familytype.co is designed](https://pin.fontofweb.com/9796?format=jpg)](design-md/familytype.co.md)
 
-familytype.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#fafafa`, `#000000`, and `#0a0a0a`, with typography led by **Universal Sans** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Family Type is a dark, exacting type foundry storefront. The page starts with a compact top bar, then moves into a pricing workspace where font families, styles, and licence choices sit in two strict columns. The same system later shifts into specimen pages where Universal Sans takes over in oversized white type, large numerals, and clipped display blocks. The whole experience feels built from one rule set: black field, white structure, and green only where the page is making a selection or showing a price. That restraint is the brand. Nothing feels ornamental unless it helps people compare type, cost, or licence scope.
 
 [Open guide](design-md/familytype.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/familytype.co-design)
 
