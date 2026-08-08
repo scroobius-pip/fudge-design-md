@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:24:16.604Z",
+  "generatedAt": "2026-08-08T15:28:17.121Z",
   "counts": {
-    "skipped_one_image": 525,
+    "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 23,
+    "published_verified": 24,
     "unpublished": 909,
-    "repairing": 2,
-    "drafting": 1,
-    "legacy": 100,
-    "failed": 2
+    "failed": 3,
+    "repairing": 1,
+    "drafting": 2,
+    "legacy": 97
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:23:59.965Z",
-    "heartbeatExpiresAt": "2026-08-08T15:28:59.965Z",
+    "heartbeatAt": "2026-08-08T15:27:55.599Z",
+    "heartbeatExpiresAt": "2026-08-08T15:32:55.599Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,41 +26,41 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "api.scira.ai",
-          "startedAt": "2026-08-08T15:14:35.853Z"
-        },
-        {
-          "domain": "app.reve.com",
-          "startedAt": "2026-08-08T15:15:42.936Z"
-        },
-        {
           "domain": "arcee.ai",
           "startedAt": "2026-08-08T15:23:19.654Z"
+        },
+        {
+          "domain": "aura.build",
+          "startedAt": "2026-08-08T15:27:12.824Z"
+        },
+        {
+          "domain": "baked.design",
+          "startedAt": "2026-08-08T15:27:27.483Z"
         }
       ],
-      "completedThisRun": 11,
-      "failedThisRun": 2
+      "completedThisRun": 13,
+      "failedThisRun": 3
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 10,
+      "completedThisRun": 11,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1009,
-      "availableGeneration": 1009,
-      "waitingForRetry": 2,
+      "eligibleGeneration": 1006,
+      "availableGeneration": 1006,
+      "waitingForRetry": 3,
       "readyPublication": 0,
-      "publishedVerified": 23
+      "publishedVerified": 24
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:21:26.240Z"
+      "lastSyncedAt": "2026-08-08T15:24:32.314Z"
     },
     "lastError": {
-      "at": "2026-08-08T15:15:42.929Z",
-      "message": "Generation failed for windsurf.com with exit 1."
+      "at": "2026-08-08T15:27:08.856Z",
+      "message": "Generation failed for api.scira.ai with exit 1."
     }
   },
   "generationControl": {
@@ -1814,9 +1814,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:23:24.781Z",
+      "updatedAt": "2026-08-08T15:27:07.645Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1825,8 +1825,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T16:27:07.645Z"
     },
     {
       "domain": "app.acctual.com",
@@ -2422,15 +2422,15 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:22:25.827Z",
+      "updatedAt": "2026-08-08T15:27:49.271Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/app.reve.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/app.reve.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/app.reve.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -2694,9 +2694,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 89,
-      "updatedAt": "2026-08-08T15:23:27.975Z",
+      "updatedAt": "2026-08-08T15:27:25.990Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -3046,10 +3046,10 @@
     },
     {
       "domain": "assistant-ui.com",
-      "state": "legacy",
-      "attempt": 2,
-      "updatedAt": "2026-08-08T14:41:28.835Z",
-      "blocker": null,
+      "state": "skipped_one_image",
+      "attempt": 3,
+      "updatedAt": "2026-08-08T15:27:19.303Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "assistant-ui.com-design",
         "url": null,
@@ -3158,9 +3158,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:28.893Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T15:27:29.301Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3414,9 +3414,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "legacy",
-      "attempt": 88,
-      "updatedAt": "2026-08-08T14:41:28.937Z",
+      "state": "drafting",
+      "attempt": 89,
+      "updatedAt": "2026-08-08T15:27:58.400Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
