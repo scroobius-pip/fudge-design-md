@@ -1914,9 +1914,9 @@ eu-inc.org presents a predominantly light surface treatment in the captured page
 
 ### evefrontier.com
 
-[![How evefrontier.com is designed](https://pin.fontofweb.com/9922?format=jpg)](design-md/evefrontier.com.md)
+[![How evefrontier.com is designed](https://pin.fontofweb.com/9920?format=jpg)](design-md/evefrontier.com.md)
 
-evefrontier.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafae5`, and `#ff4700`, with typography led by **Abc Favorit Mono**, **Frontier Disket Mono**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+EVE Frontier is designed like a launch control screen for a hostile star system. The page stays inside a black field and uses cream mono type to carry almost every piece of information. Orange is reserved for the strongest call to action, so it reads as a signal rather than a decoration. The result is cinematic, severe, and highly organized: a few large messages, a small amount of utility text, and a lot of empty space around both.
 
 [Open guide](design-md/evefrontier.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/evefrontier.com-design)
 
