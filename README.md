@@ -706,9 +706,9 @@ QuiverAI is a restrained light interface that lets artwork and typography carry 
 
 ### app.reve.com
 
-[![How app.reve.com is designed](https://pin.fontofweb.com/8375?format=jpg)](design-md/app.reve.com.md)
+[![How app.reve.com is designed](https://pin.fontofweb.com/8374?format=jpg)](design-md/app.reve.com.md)
 
-app.reve.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by the recorded surface and text values, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
+Reve is built as a dark creative workspace with a strict split between the black shell and the content that sits inside it. The left rail stays narrow and quiet so the main area can change shape without breaking the system. On one page the content becomes a small project starter, on another it becomes a centered pricing comparison, and on another it expands into a full image board or a focused detail workspace. The design is not trying to look lively through chrome. It stays restrained and lets the imagery supply motion, color, and drama.
 
 [Open guide](design-md/app.reve.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.reve.com-design)
 
