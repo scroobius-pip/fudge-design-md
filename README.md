@@ -512,6 +512,14 @@ Ambigr.am feels like a competition board that has been cleaned down to its bones
 
 [Open guide](design-md/ambigr.am.md) · [View the Fudge conversation](https://design.withfudge.com/share/ambigr.am-design)
 
+### amd.com
+
+[![How amd.com is designed](https://pin.fontofweb.com/2396?format=jpg)](design-md/amd.com.md)
+
+AMD's page language is built around a black field, bright type, and technology imagery that feels engineered rather than decorative. The visual mood is serious and high contrast, with the site moving between a compact global header, a dramatic hero stage, a centered company narrative block, and a sparse footer. The result is less like a marketing brochure and more like a corporate control room for a semiconductor brand.
+
+[Open guide](design-md/amd.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/amd.com-design)
+
 ### ami.dev
 
 [![How ami.dev is designed](https://pin.fontofweb.com/6958?format=jpg)](design-md/ami.dev.md)
