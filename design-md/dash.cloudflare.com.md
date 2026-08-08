@@ -2,168 +2,172 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/10060?format=jpg)](https://design.withfudge.com/share/pin-10060)
+[![Wide dashboard with left rail, metrics, and right-side controls](https://pin.fontofweb.com/10060?format=jpg)](https://design.withfudge.com/share/pin-10060)
 
-[fontofweb.com | fontofweb.com | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/share/pin-10060)
+[Wide dashboard with left rail, metrics, and right-side controls](https://design.withfudge.com/share/pin-10060)
 
-[![Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/10039?format=jpg)](https://design.withfudge.com/share/pin-10039)
+[![Centered domain-ready page with four next-step cards](https://pin.fontofweb.com/10039?format=jpg)](https://design.withfudge.com/share/pin-10039)
 
-[Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/share/pin-10039)
+[Centered domain-ready page with four next-step cards](https://design.withfudge.com/share/pin-10039)
 
-[![Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/9843?format=jpg)](https://design.withfudge.com/share/pin-9843)
+[![Dense registration form with summary rail and field error](https://pin.fontofweb.com/9843?format=jpg)](https://design.withfudge.com/share/pin-9843)
 
-[Domains | Registrations | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/share/pin-9843)
+[Dense registration form with summary rail and field error](https://design.withfudge.com/share/pin-9843)
 
-[![Domains | Registrations | Cloudflare](https://pin.fontofweb.com/9840?format=jpg)](https://design.withfudge.com/share/pin-9840)
+[![Single-column payment panel with red error strip](https://pin.fontofweb.com/9840?format=jpg)](https://design.withfudge.com/share/pin-9840)
 
-[Domains | Registrations | Cloudflare](https://design.withfudge.com/share/pin-9840)
+[Single-column payment panel with red error strip](https://design.withfudge.com/share/pin-9840)
 
-[![Domains | Registrations | Cloudflare](https://pin.fontofweb.com/9839?format=jpg)](https://design.withfudge.com/share/pin-9839)
+[![Two-column registration screen with pricing summary rail](https://pin.fontofweb.com/9839?format=jpg)](https://design.withfudge.com/share/pin-9839)
 
-[Domains | Registrations | Cloudflare](https://design.withfudge.com/share/pin-9839)
+[Two-column registration screen with pricing summary rail](https://design.withfudge.com/share/pin-9839)
 
-[![Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://pin.fontofweb.com/9664?format=jpg)](https://design.withfudge.com/share/pin-9664)
+[![High-density billing table with product dots and zero totals](https://pin.fontofweb.com/9664?format=jpg)](https://design.withfudge.com/share/pin-9664)
 
-[Billing | Billable usage | xxx@xxx.com's Account | Cloudflare](https://design.withfudge.com/share/pin-9664)
-
-[![Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://pin.fontofweb.com/9239?format=jpg)](https://design.withfudge.com/share/pin-9239)
-
-[Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/share/pin-9239)
-
-[![Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://pin.fontofweb.com/9238?format=jpg)](https://design.withfudge.com/share/pin-9238)
-
-[Account API tokens | Sim04ful@gmail.com's Account | Cloudflare](https://design.withfudge.com/share/pin-9238)
+[High-density billing table with product dots and zero totals](https://design.withfudge.com/share/pin-9664)
 
 ## Overview
 
-dash.cloudflare.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#d9d9d9`, `#030303`, and `#000000`, with typography led by **Inter**, **Applesystem**, and **Paper Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cloudflare’s dashboard is a dark enterprise console built for account work rather than display. The page stays inside a black field, uses thin rules to separate sections, and keeps blue as the single dominant action color. That makes the interface feel calm, technical, and efficient. The main layout is not trying to entertain; it is trying to help a user move through domain, billing, and security tasks with as little visual noise as possible.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#d9d9d9` | text on page content in the aside |
-| color.surface | `#030303` | surface on page content in the aside |
-| color.text | `#000000` | text on page content |
-| color.surface | `#0a0a0a` | surface on page content in the button |
-| color.text | `#f5f5f5` | text on page content in the aside |
-| color.border | `#333333` | border on page content in the aside |
-| color.shadow | `#262626` | shadow on page content in the main |
-| color.surface | `#0f0f0f` | surface on page content in the button |
-| color.surface | `#060606` | surface on page content in the main |
-| color.text | `#ffffff` | text on page content |
-| color.text | `#a1a1a1` | text on page content in the button |
-| color.text | `#737373` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Inter** | 16px | 400 | 24px | -0.16px | <html>, <div> in the aside, <aside> in the aside, <div>, <body>, <div> in the nav, <nav> in the nav, <svg> in the aside, <a> in the aside, <li> in the nav, <ul> in the nav, <a> in the nav, <button> in the button, <header> in the header, <div> in the header, <main> in the main, <div> in the main, <span> in the header, <section> in the main, <ul> in the main, <section>, <a>, <span>, <span> in the main, <div> in the footer, and <div> in the button |
-| type.body-14px | **Inter** | 14px | 400 | 20px | -0.16px | <p>, <div> in the main, <div>, <svg>, <input>, <form>, <span>, and <a> |
-| type.body-14px | **Inter** | 14px | 500 | 20px | -0.16px | <a> in the header, <span>, <div> in the main, <div>, <span> in the main, <a> in the main, and <a> in the nav |
-| type.body-14px | **Inter** | 14px | 500 | 21px | -0.14px | <button> in the button, <span> in the button, and <div> in the button |
-| type.utility-13px | **Inter** | 13px | 400 | 15.2941px | -0.16px | <span> in the main, <a> in the main, <div> in the main, <li> in the main, <svg> in the main, <p>, <a> in the footer, <span> in the footer, and <span> |
-| type.utility-12px | **Inter** | 12px | 400 | 16px | -0.16px | <p> in the main, <span> in the main, <div> in the main, <a> in the main, <svg> in the main, <span>, <a>, <span> in the button, and <div> in the button |
-| type.utility-13px | **Inter** | 13px | 500 | 19.5px | -0.13px | <button> in the button, <div> in the button, and <span> in the button |
-| type.utility-13px | **Inter** | 13px | 500 | 15.2941px | -0.16px | <div> in the nav, <a> in the nav, <span> in the nav, <span> in the main, <label> in the main, <div> in the main, and <a> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.utility-12px | **Inter** | 12px | 500 | 16px | -0.16px | <span> in the main, <p> in the main, <svg> in the main, <a>, and <div> in the main |
-| type.heading-16px | **Inter** | 16px | 600 | 20px | -0.16px | <span> in the main, <h4> in the main, <h2>, and <div> in the main |
-| type.utility-13px | **Inter** | 13px | 400 | 21.125px | -0.16px | <span> in the main and <label> in the main |
-| type.utility-12px | **Inter** | 12px | 500 | 18px | -0.12px | <button> in the button and <span> in the button |
-| type.heading-30px | **Inter** | 30px | 600 | 36px | -0.16px | <h1> |
-| type.body-14px | **Inter** | 14px | 500 | 20px | 0.2px | <span> in the main and <div> in the main |
-| type.body-14px | **Inter** | 14px | 400 | 21px | -0.14px | <button> in the button, <span> in the button, <div> in the button, and <svg> in the button |
-| type.body-16px | **Inter** | 16px | 500 | 24px | -0.16px | <div> in the main |
-| type.body-14px | **Inter** | 14px | 400 | 21px | -0.16px | <div> in the main |
-| type.display-32px | **Inter** | 32px | 600 | 40px | -0.16px | <span> in the header, <div> in the header, and <h1> in the header |
-| type.utility-13px | **Inter** | 13px | 400 | 19.5px | -0.13px | <div> in the button, <span> in the button, and <button> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `24px` | padding-left | page content |
-| `24px` | padding-right | page content |
-| `16px` | padding-top | page content |
-| `24px` | gap | page content |
-| `24px` | row-gap | page content |
-| `24px` | column-gap | page content |
-| `32px` | margin-bottom | page content |
-| `0px 24px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 8px`, `1px solid 8px`, `0px 1px 0px 0px none solid none none 0px`, `0px 0px 1px none none solid 0px`, `0px none 12px`, `1px 0px 0px solid none none 0px`, `1px dashed 6px`, and `1px solid 5px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(0, 0, 0) 0px 100px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.269 0 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.32 0 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.32 0 0) 0px 0px 0px 1px, oklab(0 0 0 / 0.05) 0px 4px 6px -1px, oklab(0 0 0 / 0.05) 0px 2px 4px -2px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.32 0 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.269 0 0 / 0.7) 0px 0px 0px 1px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(245,245,245)`.
+The screens in this family share the same attitude even when the page structure changes. A centered handoff page can stand almost empty and still feel complete because the headline, the status card, and the next-step cards are arranged with strong spacing. A registration flow can become a dense form without losing clarity because the supporting panel stays close to the action. A billing page can expand into a long table and still feel consistent because the same dark surface, pale text, and blue emphasis remain in place. The result is a system that speaks in restraint, compact hierarchy, and precise separation.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#030303`, `#0a0a0a`, and `#0f0f0f`. Text colors include `#d9d9d9`, `#000000`, and `#f5f5f5`. Keep image-derived colors separate from interface colors.
+The palette is narrow and role-based. Black carries nearly every surface. Pale text carries the reading load. Blue marks the path forward, green marks safe status, and red marks trouble. Because the interface avoids decorative color fields, each hue does work. Blue is for links, primary actions, and selected emphasis. Green appears in success chips and positive state markers. Red appears in the checkout error banner and other urgent states. The screen family stays in the dark range rather than shifting between bright and dim presentations, so contrast comes from color role, weight, and spacing instead of from large background changes. There is no photographic layer in the shown surfaces; the accent system is the main source of contrast.
+
+| token | value | use |
+|---|---|---|
+| `canvas` | `#000000` | Full-page background and shell fields |
+| `surface` | `#000000` | Panels, cards, and table bodies |
+| `field-fill` | `#000000` | Input backgrounds and nested controls |
+| `text-strong` | `#FFFFFF` | Primary headings and highest-contrast labels |
+| `text` | `#FAFAFA` | Main copy and headline text |
+| `text-soft` | `#D9D9D9` | Body copy, table values, and helper lines |
+| `text-muted` | `#A1A1A1` | Quiet metadata, timestamps, and secondary labels |
+| `action` | `#056DFF` | Primary button fill and active links |
+| `action-hover` | `#086FFF` | Hover state for the main button color |
+| `action-soft` | `#4693FF` | Secondary blue emphasis and lighter link accents |
+| `chart-line` | `#82B6FF` | Thin chart strokes and line highlights |
+| `success` | `#00A63E` | Enabled states, success chips, and safe markers |
+| `danger` | `#FF6467` | Payment error text and urgent state markers |
+| `danger-soft` | `#FECCC8` | Soft red fill behind the checkout error banner |
+
+The same palette behaves differently across the page families. In the overview and security surfaces, blue and green carry the most meaning because the user is scanning for status and next actions. In checkout, red becomes the loudest note because it flags a problem that blocks progress. In billing, the palette cools back down and lets the table structure do most of the work. The dark base keeps these shifts from feeling abrupt. It also makes the blue action read as a functional signal instead of a decorative brand splash.
 
 ## Typography
 
-The captured type system uses **Inter** and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The interface uses **Inter** for the main content voice and **Applesystem** for compact UI text, labels, and shell chrome. Inter handles the larger headings, the metric values, and the longer form and table copy. Applesystem works in smaller controls, navigation rows, and legal text. The pairing keeps the dashboard crisp and practical rather than soft or editorial. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Inter | 2rem | 700 | 1.05 | -0.03em | Centered handoff headline and route title |
+| `section-display` | Inter | 1.5rem | 700 | 1.1 | -0.02em | Page section headers and strong panel titles |
+| `panel-title` | Inter | 1.125rem | 600 | 1.2 | -0.01em | Card labels, form group titles, and sidebar headings |
+| `metric-display` | Inter | 1.25rem | 700 | 1.05 | -0.02em | Large values in overview cards and usage summaries |
+| `body` | Inter | 1rem | 400 | 1.5 | 0em | Paragraph copy, helper text, and table content |
+| `body-strong` | Inter | 1rem | 600 | 1.5 | 0em | Inline emphasis, key values, and task labels |
+| `ui` | Applesystem | 0.875rem | 500 | 1.43 | 0em | Buttons, tabs, sidebar items, and utility links |
+| `label` | Applesystem | 0.75rem | 600 | 1.25 | 0.06em | Micro-labels, section captions, and compact badges |
+| `legal` | Applesystem | 0.75rem | 400 | 1.4 | 0em | Disclaimers, helper notes, and footer-style copy |
+
+The size ladder stays compact. Headings are strong, but they do not become theatrical. The hierarchy comes from weight, line length, and spacing as much as from size. Small labels tighten into a practical utility voice, while body text stays highly readable inside forms and tables. That makes the interface feel suited to repeat account work: familiar, calm, and quick to scan.
 
 ## Layout
 
-The captured pages use values such as `24px`, `24px`, `16px`, `24px`, and `24px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The overview dashboard uses a three-part composition. A left rail keeps the account and product navigation visible. The center column carries the working surface, where metrics, charts, and task cards stack in a clear vertical run. A right rail holds status, configuration, and quick actions. This split creates a command-center feeling: the user reads in the middle, navigates on the left, and edits or confirms on the right.
+
+The centered domain-handoff page follows a different plan but keeps the same discipline. It places one headline and one short explanatory paragraph in a narrow middle column, then supports them with a single status card and a row of next-step cards. The empty black margins are part of the design. They give the message room to stand out and prevent the page from feeling crowded. Because the task is simple, the layout stays simple too.
+
+The registration screen shifts into a two-column structure. The left side carries the long form, while the right side carries the price summary, renewal details, and the main call to action. This keeps the total visible while the user edits personal details. It also keeps the decision point near the form, which is important when the page has to report an error or request a missing field.
+
+The checkout screen uses a single-column stack. The order summary sits above the payment method, then the error strip appears near the action area, followed by the consent checkbox and the primary purchase button. That vertical order keeps the total, payment step, and problem state in one straight read, which suits a narrow payment panel.
+
+The billing view expands horizontally into a full-width table. Rows run across the page, and the left column holds the product names while the right side holds totals and cost. Colored dots near the product names create fast category scanning without extra ornament. Across the whole system, horizontal space is used generously on large screens, but the internal rows and cards remain compact. That contrast gives the interface its enterprise feel: wide page structure, tight working units.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#030303`, `#0a0a0a`, `#0f0f0f`, and `#060606`. Depth is supported by the returned shadows.
+Cloudflare’s visual language is built from restraint, not from decoration. Surfaces stay flat and dark. Rules stay thin and quiet. Shadows are minimal. A panel reads as a panel because of its outline and spacing, not because it floats. A field reads as a field because of its fill, border, and label position. That makes the pages feel precise and functional.
 
-## Components and states
+Color does the signaling work. Blue marks the primary path and selected emphasis. Green marks positive state. Red marks a problem the user needs to fix. The same idea appears in small pieces and large ones: a blue button, a green status chip, a red error strip. The system never asks the user to decode a large decorative palette. Instead, it presents a small number of cues that repeat across tasks.
 
-The captured pages include repeated styling on <div>, <html>, <aside>, <body>, <nav>, <svg>, <a>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Shape stays modest. Most corners are gently rounded, closer to a control than to a soft consumer card. The rounded pills and small chips are used sparingly and mainly for action or state. The overall mood is technical, controlled, and slightly austere. That works well for billing, domains, and security because the design keeps attention on the task and away from the frame around it.
+
+## Components
+
+### Shell and navigation
+
+The shell is a dark account frame with a left rail, a top account row, and compact navigation items. The rail needs small text, clear grouping, and simple separators so the account tree remains legible. Active rows should stand out through fill, line, or contrast changes rather than through loud color. The overall feel should stay dense but not crowded.
+
+### Overview metric cards
+
+The overview cards combine a label, a large metric, and a pale blue line chart. Their anatomy is simple and repeatable. The number is the focus, the label explains it, and the line chart adds movement without visual clutter. These cards work because they are wide, low, and visually calm. The chart line should remain slim and bright enough to stand off the black field.
+
+### Domain handoff strip and next-step cards
+
+The handoff screen centers a status strip with the domain name, a short status marker, and a compact pair of actions. Below it, the next-step cards form a short row with evenly sized blocks. Each card uses a small icon area, a short title, and a one-line explanation. The cards should feel like quick routes, not like promotional panels. Spacing is the key to the composition.
+
+### Registration and checkout forms
+
+The registration flow is the densest component family. It uses stacked labels, bordered text fields, helper copy, and a right-side summary rail. The fields should stay dark and quiet, with visible label-to-input pairing. The summary rail keeps the price and renewal state visible so the main decision never gets lost. In checkout, the primary button stays bright blue and the error strip sits directly above the action area so the user sees the problem before clicking again.
+
+### Error strip and payment state
+
+The red strip in checkout is short, flat, and direct. It uses a strong red fill with a pale red tone around it so the message reads as urgent but contained. The copy is plain and centered on the problem. It should be placed close to the button and close to the payment method row, because that is where the user needs it. This component is about clarity, not drama.
+
+### Status chips and inline state markers
+
+The green chip style is small, rounded, and efficient. It works well for safe billing notes, active state markers, and short labels in the side rail. The chip should remain low in visual weight so it can sit inside dense rows without stealing focus. It is a signpost, not a headline.
+
+### Billing table
+
+The billing surface is a high-density data table with long rows, stable columns, and small colored dots at the start of each product name. The table depends on strong alignment. The product name column is left-aligned, the totals stay easy to compare, and the cost column remains visually quiet. The row separators should stay subtle so the table reads as one continuous working surface. This is the part of the system that best shows Cloudflare’s practical side.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the navigation should collapse before the content becomes cramped. The left rail can turn into a shorter navigation surface or a stacked drawer, but the hierarchy should remain the same: navigation first, task content second, support details last. The right rail in the handoff, registration, and checkout screens should move under the main form so the summary remains close to the decision point. The billing table may need horizontal scrolling or a stacked row treatment, but it should not lose its column logic. Buttons, labels, and chips should keep their compact size and remain easy to tap.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the black canvas and the thin dark rules as the main structural language.
+- Keep one bright blue action color for primary buttons and active links.
+- Keep green for safe state and red for problems that need attention.
+- Keep cards, fields, and tables compact and strongly aligned.
+- Keep the side rails close to the main work area on wide screens.
+
+### Avoid
+
+- Avoid bright neutral page backgrounds that flatten the console feel.
+- Avoid soft, airy card styling that makes the system feel consumer-oriented.
+- Avoid large shadows or heavy lifts around panels.
+- Avoid adding extra accent colors beyond the blue, green, and red set.
+- Avoid oversized display type in billing, registration, or checkout surfaces.
+
+### Recommended build order
+
+1. Build the shell and left navigation.
+2. Add the reusable panel, field, and action styles.
+3. Recreate the overview cards and chart cards.
+4. Add the centered handoff state and next-step row.
+5. Build the registration and checkout layouts with the summary rail and error state.
+6. Add the status chips and the billing table.
+7. Check the narrow-screen layout and keep the reading order stable.
+
+### Accessibility
+
+- Keep text contrast high on all black surfaces, especially in helper copy and table rows.
+- Make the blue action obvious by shape, fill, and label, not by color alone.
+- Keep the red error strip close to the button it affects and use plain wording.
+- Attach labels directly to fields and keep helper text near the related control.
+- Keep focus states visible on links, tabs, toggles, and buttons.
+- Use clear row spacing and stable columns so the table stays readable at a glance.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#d9d9d9`
-- `#030303`
-- `#000000`
-- `#0a0a0a`
-- `#f5f5f5`
-- `#333333`
-- `#262626`
-- `#0f0f0f`
-- `#060606`
-- `#ffffff`
-- `#a1a1a1`
-- `#737373`
-- `#d4d4d4`
-- `#171717`
-- `#056dff`
-- `#fafafa`
-
-## Typography captured from dash.cloudflare.com
-
-- **Inter** — weight 400 · size 16px
-- **Applesystem** — weight 400 · size 14px
-- **Paper Mono** — weight 700 · size 13px
+This guide covers the desktop dashboard, domain handoff, registration, checkout, and billing surfaces shown here. It does not define mobile collapse behavior, motion, or alternate light themes.

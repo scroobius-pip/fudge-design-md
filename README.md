@@ -1532,7 +1532,7 @@ dany.works presents a predominantly dark surface treatment in the captured pages
 
 [![How dash.cloudflare.com is designed](https://pin.fontofweb.com/10060?format=jpg)](design-md/dash.cloudflare.com.md)
 
-dash.cloudflare.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#d9d9d9`, `#030303`, and `#000000`, with typography led by **Inter**, **Applesystem**, and **Paper Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Cloudflare’s dashboard is a dark enterprise console built for account work rather than display. The page stays inside a black field, uses thin rules to separate sections, and keeps blue as the single dominant action color. That makes the interface feel calm, technical, and efficient. The main layout is not trying to entertain; it is trying to help a user move through domain, billing, and security tasks with as little visual noise as possible.
 
 [Open guide](design-md/dash.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dash.cloudflare.com-design)
 
