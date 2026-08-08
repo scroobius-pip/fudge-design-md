@@ -372,7 +372,7 @@ AIHero is a dark learning site with an editorial rhythm. The page reads like a c
 
 [![How aino.agency is designed](https://pin.fontofweb.com/7074?format=jpg)](design-md/aino.agency.md)
 
-aino.agency presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f0`, and `#181818`, with typography led by **Abc Diatype Plus**. The guide below names reusable design roles only where the captured evidence supports them.
+Aino’s page system is defined by a sharp contrast between a full-bleed black home stage and quiet light pages built from thin rules, square frames, and compact text. The home stage turns the brand name into a dense field of ASCII letterforms, so identity becomes texture instead of a conventional logo block. The content pages answer that energy with restraint: short labels, small cards, airy editorial copy, and long stretches of empty space that make the typography feel deliberate rather than crowded.
 
 [Open guide](design-md/aino.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/aino.agency-design)
 
