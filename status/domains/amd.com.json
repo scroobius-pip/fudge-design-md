@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "amd.com",
-  "state": "failed",
-  "attempt": 85,
-  "updatedAt": "2026-08-07T18:29:01.700Z",
+  "state": "ready",
+  "attempt": 87,
+  "consecutiveFailures": 0,
+  "nextEligibleAt": null,
+  "updatedAt": "2026-08-08T13:55:20.728Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -13,7 +15,7 @@
     }
   },
   "artifacts": {
-    "imageCount": 7
+    "imageCount": 4
   },
   "publication": {
     "key": "amd.com-design",
@@ -21,5 +23,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": "generation_or_publication_failed"
+  "failure": null
 }

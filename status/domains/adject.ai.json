@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "adject.ai",
-  "state": "failed",
-  "attempt": 89,
-  "updatedAt": "2026-08-07T18:44:10.968Z",
+  "state": "publishing",
+  "attempt": 90,
+  "consecutiveFailures": 0,
+  "nextEligibleAt": null,
+  "updatedAt": "2026-08-08T13:55:34.281Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -13,7 +15,7 @@
     }
   },
   "artifacts": {
-    "imageCount": 4
+    "imageCount": 3
   },
   "publication": {
     "key": "adject.ai-design",
@@ -21,5 +23,5 @@
     "markdownUrl": "https://design.withfudge.com/share/adject.ai-design.md",
     "githubUrl": null
   },
-  "failure": "generation_or_publication_failed"
+  "failure": null
 }

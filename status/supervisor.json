@@ -1,34 +1,28 @@
 {
   "schemaVersion": 1,
   "state": "running",
-  "startedAt": "2026-08-07T18:45:27.396Z",
-  "heartbeatAt": "2026-08-07T18:45:28.139Z",
+  "startedAt": "2026-08-08T13:54:54.455Z",
+  "heartbeatAt": "2026-08-08T13:55:35.586Z",
+  "heartbeatExpiresAt": "2026-08-08T14:00:35.586Z",
+  "stale": false,
+  "generationControl": {
+    "paused": false,
+    "reason": null
+  },
   "generation": {
-    "concurrency": 6,
+    "concurrency": 3,
     "active": [
       {
-        "domain": "binary.so",
-        "startedAt": "2026-08-07T18:45:27.893Z"
+        "domain": "agentation.dev",
+        "startedAt": "2026-08-08T13:55:33.818Z"
       },
       {
-        "domain": "cloudflare.com",
-        "startedAt": "2026-08-07T18:45:27.892Z"
+        "domain": "americanhistory.si.edu",
+        "startedAt": "2026-08-08T13:55:33.843Z"
       },
       {
-        "domain": "oxide.computer",
-        "startedAt": "2026-08-07T18:45:27.893Z"
-      },
-      {
-        "domain": "pinata.cloud",
-        "startedAt": "2026-08-07T18:45:27.891Z"
-      },
-      {
-        "domain": "signup.criterionchannel.com",
-        "startedAt": "2026-08-07T18:45:27.888Z"
-      },
-      {
-        "domain": "vidclue.com",
-        "startedAt": "2026-08-07T18:45:27.894Z"
+        "domain": "americanprogress.org",
+        "startedAt": "2026-08-08T13:55:33.884Z"
       }
     ],
     "completedThisRun": 0,
@@ -36,17 +30,21 @@
   },
   "publication": {
     "concurrency": 1,
-    "active": null,
+    "active": {
+      "domain": "adject.ai",
+      "startedAt": "2026-08-08T13:55:33.809Z"
+    },
     "completedThisRun": 0,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1006,
-    "availableGeneration": 1000,
-    "readyPublication": 0,
-    "publishedVerified": 162
+    "eligibleGeneration": 1017,
+    "availableGeneration": 1014,
+    "waitingForRetry": 3,
+    "readyPublication": 11,
+    "publishedVerified": 0
   },
-  "recoveredThisRun": 0,
+  "recoveredThisRun": 3,
   "publicTracker": {
     "lastSyncedAt": null
   },

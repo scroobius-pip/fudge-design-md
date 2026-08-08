@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "aistudio.google.com",
-  "state": "failed",
-  "attempt": 89,
-  "updatedAt": "2026-08-07T18:19:47.292Z",
+  "state": "ready",
+  "attempt": 90,
+  "consecutiveFailures": 0,
+  "nextEligibleAt": null,
+  "updatedAt": "2026-08-08T13:55:20.728Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -13,7 +15,7 @@
     }
   },
   "artifacts": {
-    "imageCount": 8
+    "imageCount": 5
   },
   "publication": {
     "key": "aistudio.google.com-design",
@@ -21,5 +23,5 @@
     "markdownUrl": "https://design.withfudge.com/share/aistudio.google.com-design.md",
     "githubUrl": null
   },
-  "failure": "generation_or_publication_failed"
+  "failure": null
 }

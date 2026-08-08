@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "oxide.computer",
-  "state": "preparing",
+  "state": "failed",
   "attempt": 84,
-  "updatedAt": "2026-08-07T18:45:28.295Z",
+  "consecutiveFailures": 1,
+  "nextEligibleAt": "2026-08-08T14:55:32.250Z",
+  "updatedAt": "2026-08-08T13:55:32.250Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -21,5 +23,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": null
+  "failure": "interrupted"
 }
