@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:41:43.645Z",
+  "generatedAt": "2026-08-08T18:44:15.574Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 53,
+    "published_verified": 54,
     "unpublished": 909,
     "failed": 6,
-    "drafting": 3,
-    "legacy": 65
+    "validating": 1,
+    "drafting": 2,
+    "legacy": 64
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:41:35.765Z",
-    "heartbeatExpiresAt": "2026-08-08T18:46:35.765Z",
+    "heartbeatAt": "2026-08-08T18:44:09.787Z",
+    "heartbeatExpiresAt": "2026-08-08T18:49:09.787Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -29,33 +30,33 @@
           "startedAt": "2026-08-08T18:39:24.396Z"
         },
         {
-          "domain": "dotprolabs.com",
-          "startedAt": "2026-08-08T18:37:05.913Z"
-        },
-        {
           "domain": "dreamcomposer.co",
           "startedAt": "2026-08-08T18:41:01.550Z"
+        },
+        {
+          "domain": "drinkag1.com",
+          "startedAt": "2026-08-08T18:43:32.467Z"
         }
       ],
-      "completedThisRun": 42,
+      "completedThisRun": 43,
       "failedThisRun": 22
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 40,
+      "completedThisRun": 41,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 974,
-      "availableGeneration": 974,
+      "eligibleGeneration": 973,
+      "availableGeneration": 973,
       "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 53
+      "publishedVerified": 54
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:36:33.418Z"
+      "lastSyncedAt": "2026-08-08T18:41:54.018Z"
     },
     "lastError": {
       "at": "2026-08-08T18:39:23.980Z",
@@ -7029,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:39:30.518Z",
+      "updatedAt": "2026-08-08T18:43:05.733Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -7957,15 +7958,15 @@
     },
     {
       "domain": "dotprolabs.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:37:14.763Z",
+      "updatedAt": "2026-08-08T18:44:06.511Z",
       "blocker": null,
       "publication": {
         "key": "dotprolabs.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dotprolabs.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/dotprolabs.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dotprolabs.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8021,9 +8022,9 @@
     },
     {
       "domain": "drinkag1.com",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.508Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T18:43:46.449Z",
       "blocker": null,
       "publication": {
         "key": "drinkag1.com-design",
