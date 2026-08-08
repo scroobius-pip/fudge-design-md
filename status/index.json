@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:08:49.008Z",
+  "generatedAt": "2026-08-08T18:13:46.627Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 48,
+    "published_verified": 49,
     "unpublished": 909,
-    "drafting": 2,
-    "failed": 6,
     "repairing": 1,
-    "legacy": 70
+    "validating": 1,
+    "failed": 6,
+    "drafting": 1,
+    "legacy": 69
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:08:16.375Z",
-    "heartbeatExpiresAt": "2026-08-08T18:13:16.375Z",
+    "heartbeatAt": "2026-08-08T18:13:14.399Z",
+    "heartbeatExpiresAt": "2026-08-08T18:18:14.399Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -34,32 +35,29 @@
           "startedAt": "2026-08-08T18:07:23.048Z"
         },
         {
-          "domain": "discord.com",
-          "startedAt": "2026-08-08T17:57:38.100Z"
+          "domain": "dlang.org",
+          "startedAt": "2026-08-08T18:12:17.263Z"
         }
       ],
-      "completedThisRun": 37,
+      "completedThisRun": 38,
       "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "diabrowser.com",
-        "startedAt": "2026-08-08T18:07:23.039Z"
-      },
-      "completedThisRun": 34,
+      "active": null,
+      "completedThisRun": 36,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 979,
       "availableGeneration": 979,
-      "waitingForRetry": 6,
+      "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 48
+      "publishedVerified": 49
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:06:01.052Z"
+      "lastSyncedAt": "2026-08-08T18:09:02.864Z"
     },
     "lastError": {
       "at": "2026-08-08T17:58:34.908Z",
@@ -3161,9 +3159,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 88,
-      "updatedAt": "2026-08-08T18:04:14.408Z",
+      "updatedAt": "2026-08-08T18:12:52.962Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3513,9 +3511,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 92,
-      "updatedAt": "2026-08-08T18:07:36.014Z",
+      "updatedAt": "2026-08-08T18:12:14.640Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -7625,15 +7623,15 @@
     },
     {
       "domain": "discord.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:07:31.728Z",
+      "updatedAt": "2026-08-08T18:12:58.609Z",
       "blocker": null,
       "publication": {
         "key": "discord.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/discord.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/discord.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/discord.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -7689,9 +7687,9 @@
     },
     {
       "domain": "dlang.org",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.433Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T18:12:30.740Z",
       "blocker": null,
       "publication": {
         "key": "dlang.org-design",
