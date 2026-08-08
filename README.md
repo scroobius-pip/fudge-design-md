@@ -1596,7 +1596,7 @@ DeepJudge is built as a legal-tech editorial system rather than a busy software 
 
 [![How deepmind.google is designed](https://pin.fontofweb.com/9520?format=jpg)](design-md/deepmind.google.md)
 
-deepmind.google presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f8f9fc`, `#121317`, and `#000000`, with typography led by **Google Sans Flex**, **Times**, **Applesystem**, **Google Symbols**, and **Google Symbols Rounded 48 Pt**. The guide below names reusable design roles only where the captured evidence supports them.
+Google DeepMind’s model pages use a dark, centered system that turns technical content into a calm editorial layout. A compact tab rail leads into a large statement block, then the page opens into wide benchmark tables, strong section headings, and generous card panels. The result is serious without feeling cold. The page keeps one clear rhythm from top to bottom, so the reader can move from the lead message to the data and then into supporting sections without losing place.
 
 [Open guide](design-md/deepmind.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/deepmind.google-design)
 
