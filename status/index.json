@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:51:06.752Z",
+  "generatedAt": "2026-08-08T19:52:48.979Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 64,
+    "published_verified": 65,
     "unpublished": 909,
     "failed": 8,
-    "ready": 2,
-    "drafting": 2,
-    "legacy": 51
+    "ready": 1,
+    "drafting": 3,
+    "legacy": 50
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:50:31.751Z",
-    "heartbeatExpiresAt": "2026-08-08T19:55:31.751Z",
+    "heartbeatAt": "2026-08-08T19:52:40.605Z",
+    "heartbeatExpiresAt": "2026-08-08T19:57:40.605Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -32,6 +32,10 @@
         {
           "domain": "era.app",
           "startedAt": "2026-08-08T19:50:04.764Z"
+        },
+        {
+          "domain": "etched.com",
+          "startedAt": "2026-08-08T19:50:49.409Z"
         }
       ],
       "completedThisRun": 55,
@@ -39,23 +43,20 @@
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "ente.com",
-        "startedAt": "2026-08-08T19:49:38.035Z"
-      },
-      "completedThisRun": 50,
+      "active": null,
+      "completedThisRun": 52,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 960,
-      "availableGeneration": 960,
+      "eligibleGeneration": 959,
+      "availableGeneration": 959,
       "waitingForRetry": 8,
-      "readyPublication": 2,
-      "publishedVerified": 63
+      "readyPublication": 1,
+      "publishedVerified": 65
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:49:35.104Z"
+      "lastSyncedAt": "2026-08-08T19:51:50.699Z"
     },
     "lastError": {
       "at": "2026-08-08T19:42:24.071Z",
@@ -8629,15 +8630,15 @@
     },
     {
       "domain": "endl.io",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:49:54.797Z",
+      "updatedAt": "2026-08-08T19:52:35.067Z",
       "blocker": null,
       "publication": {
         "key": "endl.io-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/endl.io-design",
+        "markdownUrl": "https://design.withfudge.com/share/endl.io-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/endl.io.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8773,9 +8774,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "legacy",
+      "state": "drafting",
       "attempt": 84,
-      "updatedAt": "2026-08-08T19:50:51.679Z",
+      "updatedAt": "2026-08-08T19:51:15.605Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
