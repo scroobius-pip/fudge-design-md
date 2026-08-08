@@ -1628,7 +1628,7 @@ Delve’s home page treats compliance as a launch surface, not a soft brochure. 
 
 [![How demo.refero.design is designed](https://pin.fontofweb.com/7786?format=jpg)](design-md/demo.refero.design.md)
 
-demo.refero.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#fafafa`, `#000000`, and `#a1a1aa`, with typography led by **System**. The guide below names reusable design roles only where the captured evidence supports them.
+demo.refero.design is a dark research workspace for comparing interface patterns. The page is built from a near-black canvas, soft charcoal cards, and small system text that keeps attention on the screenshot tiles and suggestion chips. The visual order is consistent across both shown states: a compact top pill, a narrow reading column, one or more result cards, and a bottom composer. The alternate start state replaces the transcript with a centered logo network and a tight chip grid, but the same low-key shell, border rhythm, and white controls hold the page together. The whole system feels analytical and quiet rather than promotional.
 
 [Open guide](design-md/demo.refero.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/demo.refero.design-design)
 
