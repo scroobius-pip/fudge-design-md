@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:22:31.571Z",
+  "generatedAt": "2026-08-08T20:26:51.921Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 66,
+    "published_verified": 67,
     "unpublished": 909,
     "failed": 10,
+    "validating": 1,
     "repairing": 1,
-    "drafting": 2,
-    "legacy": 48
+    "drafting": 1,
+    "legacy": 47
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:22:18.850Z",
-    "heartbeatExpiresAt": "2026-08-08T20:27:18.850Z",
+    "heartbeatAt": "2026-08-08T20:26:35.211Z",
+    "heartbeatExpiresAt": "2026-08-08T20:31:35.211Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +27,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "dub.co",
-          "startedAt": "2026-08-08T20:09:40.841Z"
-        },
-        {
           "domain": "dzen.ru",
           "startedAt": "2026-08-08T20:19:18.064Z"
         },
         {
           "domain": "eu-inc.org",
           "startedAt": "2026-08-08T20:20:16.399Z"
+        },
+        {
+          "domain": "evefrontier.com",
+          "startedAt": "2026-08-08T20:25:51.710Z"
         }
       ],
-      "completedThisRun": 55,
+      "completedThisRun": 56,
       "failedThisRun": 33
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 53,
+      "completedThisRun": 54,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 957,
-      "availableGeneration": 957,
+      "eligibleGeneration": 956,
+      "availableGeneration": 956,
       "waitingForRetry": 10,
       "readyPublication": 0,
-      "publishedVerified": 66
+      "publishedVerified": 67
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:17:15.858Z"
+      "lastSyncedAt": "2026-08-08T20:23:16.971Z"
     },
     "lastError": {
       "at": "2026-08-08T20:20:09.855Z",
@@ -8102,18 +8103,18 @@
     },
     {
       "domain": "dub.co",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:20:05.578Z",
+      "updatedAt": "2026-08-08T20:26:26.021Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dub.co-design",
+        "markdownUrl": "https://design.withfudge.com/share/dub.co-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dub.co.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -8198,9 +8199,9 @@
     },
     {
       "domain": "dzen.ru",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:19:25.679Z",
+      "updatedAt": "2026-08-08T20:26:32.815Z",
       "blocker": null,
       "publication": {
         "key": "dzen.ru-design",
@@ -8822,9 +8823,9 @@
     },
     {
       "domain": "eu-inc.org",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:20:38.116Z",
+      "updatedAt": "2026-08-08T20:26:23.933Z",
       "blocker": null,
       "publication": {
         "key": "eu-inc.org-design",
@@ -8838,9 +8839,9 @@
     },
     {
       "domain": "evefrontier.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.766Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:26:01.889Z",
       "blocker": null,
       "publication": {
         "key": "evefrontier.com-design",
