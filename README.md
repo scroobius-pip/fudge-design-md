@@ -496,6 +496,14 @@ Alpine.inc uses a strict two-mode language: bright white paper sections with fai
 
 [Open guide](design-md/alpine.inc.md) · [View the Fudge conversation](https://design.withfudge.com/share/alpine.inc-design)
 
+### amazon.com
+
+[![How amazon.com is designed](https://pin.fontofweb.com/2307?format=jpg)](design-md/amazon.com.md)
+
+Amazon’s home page is built as a dense retail interface rather than a narrative landing page. The structure moves from a dark utility header into a large promotional banner, then into tight merchandising cards, a long product rail, and a deep information-heavy footer. The result is a page that rewards quick scanning: the strongest message appears at the top, smaller shopping choices fill the middle, and the bottom turns into a wide directory of links and account utilities.
+
+[Open guide](design-md/amazon.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/amazon.com-design)
+
 ### ami.dev
 
 [![How ami.dev is designed](https://pin.fontofweb.com/6958?format=jpg)](design-md/ami.dev.md)
