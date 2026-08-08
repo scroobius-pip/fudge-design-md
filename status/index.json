@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:13:46.627Z",
+  "generatedAt": "2026-08-08T18:19:54.138Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 49,
     "unpublished": 909,
-    "repairing": 1,
-    "validating": 1,
+    "repairing": 3,
     "failed": 6,
-    "drafting": 1,
     "legacy": 69
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:13:14.399Z",
-    "heartbeatExpiresAt": "2026-08-08T18:18:14.399Z",
+    "heartbeatAt": "2026-08-08T18:19:39.151Z",
+    "heartbeatExpiresAt": "2026-08-08T18:24:39.151Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -57,7 +55,7 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:09:02.864Z"
+      "lastSyncedAt": "2026-08-08T18:14:29.890Z"
     },
     "lastError": {
       "at": "2026-08-08T17:58:34.908Z",
@@ -3161,7 +3159,7 @@
       "domain": "aura.build",
       "state": "repairing",
       "attempt": 88,
-      "updatedAt": "2026-08-08T18:12:52.962Z",
+      "updatedAt": "2026-08-08T18:19:02.266Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3511,9 +3509,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 92,
-      "updatedAt": "2026-08-08T18:12:14.640Z",
+      "updatedAt": "2026-08-08T18:19:40.500Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -7687,9 +7685,9 @@
     },
     {
       "domain": "dlang.org",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:12:30.740Z",
+      "updatedAt": "2026-08-08T18:18:15.237Z",
       "blocker": null,
       "publication": {
         "key": "dlang.org-design",
