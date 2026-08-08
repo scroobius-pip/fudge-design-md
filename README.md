@@ -1756,7 +1756,7 @@ Dosu’s home page pairs a warm paper ground with a dark technical frame so the 
 
 [![How dotprolabs.com is designed](https://pin.fontofweb.com/7494?format=jpg)](design-md/dotprolabs.com.md)
 
-dotprolabs.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#ececec`, with typography led by **Monigue Demo**, **Anton**, **Raleway**, and **Pp Neue Machina**. The guide below names reusable design roles only where the captured evidence supports them.
+DotPro Labs is built like a wall of posters on a black stage. The page speaks in giant orange headlines, compact pale copy, and a few small hand-drawn accents that keep the tone rough and direct. The visual energy comes from scale and contrast rather than from ornament, so the words themselves become the main shapes on the page.
 
 [Open guide](design-md/dotprolabs.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dotprolabs.com-design)
 
