@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T15:50:54.218Z",
-  "heartbeatExpiresAt": "2026-08-08T15:55:54.218Z",
+  "heartbeatAt": "2026-08-08T15:56:04.546Z",
+  "heartbeatExpiresAt": "2026-08-08T16:01:04.546Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,40 +13,40 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "betterstack.com",
-        "startedAt": "2026-08-08T15:41:02.898Z"
-      },
-      {
         "domain": "bkid.co",
         "startedAt": "2026-08-08T15:50:14.123Z"
       },
       {
-        "domain": "blog.google",
-        "startedAt": "2026-08-08T15:50:22.019Z"
+        "domain": "brave.com",
+        "startedAt": "2026-08-08T15:55:08.150Z"
+      },
+      {
+        "domain": "bspk.xyz",
+        "startedAt": "2026-08-08T15:55:08.245Z"
       }
     ],
-    "completedThisRun": 15,
-    "failedThisRun": 6
+    "completedThisRun": 16,
+    "failedThisRun": 7
   },
   "publication": {
     "concurrency": 1,
     "active": null,
-    "completedThisRun": 13,
+    "completedThisRun": 14,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1001,
-    "availableGeneration": 1001,
+    "eligibleGeneration": 1000,
+    "availableGeneration": 1000,
     "waitingForRetry": 6,
     "readyPublication": 0,
-    "publishedVerified": 26
+    "publishedVerified": 27
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:46:46.831Z"
+    "lastSyncedAt": "2026-08-08T15:51:35.102Z"
   },
   "lastError": {
-    "at": "2026-08-08T15:50:18.937Z",
-    "message": "Generation failed for base-ui.com with exit 1."
+    "at": "2026-08-08T15:55:07.604Z",
+    "message": "Generation failed for betterstack.com with exit 1."
   }
 }

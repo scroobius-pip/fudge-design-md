@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:51:04.915Z",
+  "generatedAt": "2026-08-08T15:56:17.544Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 26,
+    "published_verified": 27,
     "unpublished": 909,
-    "failed": 6,
-    "validating": 1,
+    "failed": 7,
+    "repairing": 1,
     "drafting": 2,
-    "legacy": 92
+    "legacy": 90
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:50:54.218Z",
-    "heartbeatExpiresAt": "2026-08-08T15:55:54.218Z",
+    "heartbeatAt": "2026-08-08T15:56:04.546Z",
+    "heartbeatExpiresAt": "2026-08-08T16:01:04.546Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,41 +26,41 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "betterstack.com",
-          "startedAt": "2026-08-08T15:41:02.898Z"
-        },
-        {
           "domain": "bkid.co",
           "startedAt": "2026-08-08T15:50:14.123Z"
         },
         {
-          "domain": "blog.google",
-          "startedAt": "2026-08-08T15:50:22.019Z"
+          "domain": "brave.com",
+          "startedAt": "2026-08-08T15:55:08.150Z"
+        },
+        {
+          "domain": "bspk.xyz",
+          "startedAt": "2026-08-08T15:55:08.245Z"
         }
       ],
-      "completedThisRun": 15,
-      "failedThisRun": 6
+      "completedThisRun": 16,
+      "failedThisRun": 7
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 13,
+      "completedThisRun": 14,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1001,
-      "availableGeneration": 1001,
+      "eligibleGeneration": 1000,
+      "availableGeneration": 1000,
       "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 26
+      "publishedVerified": 27
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:46:46.831Z"
+      "lastSyncedAt": "2026-08-08T15:51:35.102Z"
     },
     "lastError": {
-      "at": "2026-08-08T15:50:18.937Z",
-      "message": "Generation failed for base-ui.com with exit 1."
+      "at": "2026-08-08T15:55:07.604Z",
+      "message": "Generation failed for betterstack.com with exit 1."
     }
   },
   "generationControl": {
@@ -3782,9 +3782,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 89,
-      "updatedAt": "2026-08-08T15:49:28.691Z",
+      "updatedAt": "2026-08-08T15:55:06.699Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3793,8 +3793,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T16:55:06.699Z"
     },
     {
       "domain": "bfl.ai",
@@ -3878,9 +3878,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:50:23.325Z",
+      "updatedAt": "2026-08-08T15:55:20.261Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -4022,15 +4022,15 @@
     },
     {
       "domain": "blog.google",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T15:50:36.488Z",
+      "updatedAt": "2026-08-08T15:55:50.640Z",
       "blocker": null,
       "publication": {
         "key": "blog.google-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/blog.google-design",
+        "markdownUrl": "https://design.withfudge.com/share/blog.google-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/blog.google.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -4294,9 +4294,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "legacy",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T14:41:29.215Z",
+      "state": "drafting",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T15:55:23.755Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -4470,9 +4470,9 @@
     },
     {
       "domain": "bspk.xyz",
-      "state": "legacy",
-      "attempt": 89,
-      "updatedAt": "2026-08-08T14:41:29.274Z",
+      "state": "drafting",
+      "attempt": 90,
+      "updatedAt": "2026-08-08T15:55:18.863Z",
       "blocker": null,
       "publication": {
         "key": "bspk.xyz-design",
