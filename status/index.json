@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:21:41.852Z",
+  "generatedAt": "2026-08-08T21:25:13.222Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 76,
+    "published_verified": 77,
     "unpublished": 909,
     "failed": 9,
-    "drafting": 1,
     "validating": 1,
-    "repairing": 1,
-    "legacy": 39
+    "drafting": 2,
+    "legacy": 38
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:21:30.811Z",
-    "heartbeatExpiresAt": "2026-08-08T21:26:30.811Z",
+    "heartbeatAt": "2026-08-08T21:24:52.269Z",
+    "heartbeatExpiresAt": "2026-08-08T21:29:52.269Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -31,37 +30,40 @@
           "startedAt": "2026-08-08T21:15:11.243Z"
         },
         {
-          "domain": "etched.com",
-          "startedAt": "2026-08-08T21:08:00.584Z"
+          "domain": "ethicalads.io",
+          "startedAt": "2026-08-08T21:23:05.741Z"
         },
         {
-          "domain": "factory.ai",
-          "startedAt": "2026-08-08T21:08:20.128Z"
+          "domain": "fastino.ai",
+          "startedAt": "2026-08-08T21:24:11.511Z"
         }
       ],
-      "completedThisRun": 65,
-      "failedThisRun": 37
+      "completedThisRun": 66,
+      "failedThisRun": 38
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "factory.ai",
+        "startedAt": "2026-08-08T21:24:11.502Z"
+      },
       "completedThisRun": 63,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 949,
-      "availableGeneration": 949,
-      "waitingForRetry": 8,
+      "eligibleGeneration": 947,
+      "availableGeneration": 947,
+      "waitingForRetry": 9,
       "readyPublication": 0,
       "publishedVerified": 76
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:16:23.518Z"
+      "lastSyncedAt": "2026-08-08T21:22:18.204Z"
     },
     "lastError": {
-      "at": "2026-08-08T20:57:31.017Z",
-      "message": "Generation failed for exa.ai with exit 1."
+      "at": "2026-08-08T21:23:05.737Z",
+      "message": "Generation failed for etched.com with exit 1."
     }
   },
   "generationControl": {
@@ -8727,9 +8729,9 @@
     },
     {
       "domain": "epsteinexposed.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:15:27.753Z",
+      "updatedAt": "2026-08-08T21:24:47.163Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -8775,9 +8777,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T21:21:22.705Z",
+      "updatedAt": "2026-08-08T21:23:03.658Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -8786,14 +8788,14 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T22:23:03.658Z"
     },
     {
       "domain": "ethicalads.io",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T20:20:07.423Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T21:23:11.825Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
@@ -8803,7 +8805,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T21:20:07.423Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "etsy.com",
@@ -9095,15 +9097,15 @@
     },
     {
       "domain": "factory.ai",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T21:18:46.058Z",
+      "updatedAt": "2026-08-08T21:24:51.283Z",
       "blocker": null,
       "publication": {
         "key": "factory.ai-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/factory.ai-design",
+        "markdownUrl": "https://design.withfudge.com/share/factory.ai-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/factory.ai.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -9175,9 +9177,9 @@
     },
     {
       "domain": "fastino.ai",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.896Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T21:24:24.056Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
