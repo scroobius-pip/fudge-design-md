@@ -1,54 +1,68 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:20:25.691Z",
+  "generatedAt": "2026-08-08T14:25:28.113Z",
   "counts": {
-    "skipped_one_image": 524,
-    "skipped_recent": 188,
-    "unpublished": 1018,
-    "published_verified": 1,
-    "ready": 3,
-    "drafting": 5,
-    "preparing": 3
+    "skipped_one_image": 525,
+    "skipped_recent": 179,
+    "published_verified": 11,
+    "unpublished": 1014,
+    "validating": 2,
+    "repairing": 1,
+    "failed": 8,
+    "ready": 2
   },
   "supervisor": {
     "schemaVersion": 1,
-    "state": "paused",
+    "state": "running",
     "startedAt": "2026-08-08T14:16:03.747Z",
-    "heartbeatAt": "2026-08-08T14:20:20.216Z",
-    "heartbeatExpiresAt": "2026-08-08T14:25:20.216Z",
+    "heartbeatAt": "2026-08-08T14:25:19.680Z",
+    "heartbeatExpiresAt": "2026-08-08T14:30:19.680Z",
     "stale": false,
     "generationControl": {
-      "paused": true,
-      "reason": "supervisor_restart"
+      "paused": false,
+      "reason": null
     },
     "generation": {
       "concurrency": 3,
-      "active": [],
-      "completedThisRun": 0,
+      "active": [
+        {
+          "domain": "andrian-portfolio-backup.framer.website",
+          "startedAt": "2026-08-08T14:20:39.007Z"
+        },
+        {
+          "domain": "antler.co",
+          "startedAt": "2026-08-08T14:20:39.041Z"
+        },
+        {
+          "domain": "anytype.dev",
+          "startedAt": "2026-08-08T14:20:55.676Z"
+        }
+      ],
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 1,
+      "completedThisRun": 2,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1014,
-      "availableGeneration": 1014,
+      "eligibleGeneration": 1018,
+      "availableGeneration": 1018,
       "waitingForRetry": 4,
-      "readyPublication": 3,
-      "publishedVerified": 1
+      "readyPublication": 2,
+      "publishedVerified": 11
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:17:18.267Z"
+      "lastSyncedAt": "2026-08-08T14:20:37.329Z"
     },
     "lastError": null
   },
   "generationControl": {
-    "paused": true,
-    "reason": "supervisor_restart"
+    "paused": false,
+    "reason": null
   },
   "domains": [
     {
@@ -773,9 +787,9 @@
     },
     {
       "domain": "adject.ai",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:56.040Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
@@ -949,10 +963,10 @@
     },
     {
       "domain": "agentation.dev",
-      "state": "unpublished",
-      "attempt": 5,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
-      "blocker": null,
+      "state": "skipped_one_image",
+      "attempt": 6,
+      "updatedAt": "2026-08-08T14:20:47.474Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "agentation.dev-design",
         "url": null,
@@ -1061,9 +1075,9 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 92,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:57.525Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
@@ -1093,9 +1107,9 @@
     },
     {
       "domain": "aihero.dev",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:59.025Z",
       "blocker": null,
       "publication": {
         "key": "aihero.dev-design",
@@ -1109,9 +1123,9 @@
     },
     {
       "domain": "aino.agency",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 92,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:02.732Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
@@ -1221,9 +1235,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:04.192Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1333,9 +1347,9 @@
     },
     {
       "domain": "alibabagroup.com",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:06.953Z",
       "blocker": null,
       "publication": {
         "key": "alibabagroup.com-design",
@@ -1429,9 +1443,9 @@
     },
     {
       "domain": "amazon.com",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:08.348Z",
       "blocker": null,
       "publication": {
         "key": "amazon.com-design",
@@ -1445,9 +1459,9 @@
     },
     {
       "domain": "ambigr.am",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:09.932Z",
       "blocker": null,
       "publication": {
         "key": "ambigr.am-design",
@@ -1461,9 +1475,9 @@
     },
     {
       "domain": "amd.com",
-      "state": "skipped_recent",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:24:11.441Z",
       "blocker": null,
       "publication": {
         "key": "amd.com-design",
@@ -1557,15 +1571,15 @@
     },
     {
       "domain": "andreadiego.es",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:25:14.678Z",
       "blocker": null,
       "publication": {
         "key": "andreadiego.es-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/andreadiego.es-design",
+        "markdownUrl": "https://design.withfudge.com/share/andreadiego.es-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/andreadiego.es.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1589,9 +1603,9 @@
     },
     {
       "domain": "andrian-portfolio-backup.framer.website",
-      "state": "unpublished",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "state": "validating",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T14:24:18.613Z",
       "blocker": null,
       "publication": {
         "key": "andrian-portfolio-backup.framer.website-design",
@@ -1669,9 +1683,9 @@
     },
     {
       "domain": "antler.co",
-      "state": "unpublished",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "state": "validating",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T14:24:23.737Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -1701,9 +1715,9 @@
     },
     {
       "domain": "anytype.dev",
-      "state": "unpublished",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "state": "repairing",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T14:25:17.514Z",
       "blocker": null,
       "publication": {
         "key": "anytype.dev-design",
@@ -4133,9 +4147,9 @@
     },
     {
       "domain": "bookmarkify.io",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:31.151Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
@@ -8741,9 +8755,9 @@
     },
     {
       "domain": "ergo.org",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:30.537Z",
       "blocker": null,
       "publication": {
         "key": "ergo.org-design",
@@ -14245,9 +14259,9 @@
     },
     {
       "domain": "lead.bank",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:31.366Z",
       "blocker": null,
       "publication": {
         "key": "lead.bank-design",
@@ -17413,9 +17427,9 @@
     },
     {
       "domain": "nocodeapi.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:31.561Z",
       "blocker": null,
       "publication": {
         "key": "nocodeapi.com-design",
@@ -21781,9 +21795,9 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:31.774Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -21797,9 +21811,9 @@
     },
     {
       "domain": "sacred.computer",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:30.733Z",
       "blocker": null,
       "publication": {
         "key": "sacred.computer-design",
@@ -22037,9 +22051,9 @@
     },
     {
       "domain": "sap.com",
-      "state": "preparing",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:30.936Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
@@ -27045,9 +27059,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 83,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:23:31.985Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
