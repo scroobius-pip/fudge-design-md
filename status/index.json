@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:30:55.767Z",
+  "generatedAt": "2026-08-08T21:32:17.648Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 77,
+    "published_verified": 78,
     "unpublished": 909,
     "failed": 10,
-    "validating": 2,
-    "drafting": 1,
-    "legacy": 37
+    "repairing": 1,
+    "drafting": 2,
+    "legacy": 36
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:30:48.835Z",
-    "heartbeatExpiresAt": "2026-08-08T21:35:48.835Z",
+    "heartbeatAt": "2026-08-08T21:32:01.433Z",
+    "heartbeatExpiresAt": "2026-08-08T21:37:01.433Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +26,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "ethicalads.io",
-          "startedAt": "2026-08-08T21:23:05.741Z"
-        },
-        {
           "domain": "fastino.ai",
           "startedAt": "2026-08-08T21:24:11.511Z"
         },
         {
           "domain": "figma.com",
           "startedAt": "2026-08-08T21:28:02.334Z"
+        },
+        {
+          "domain": "figr.design",
+          "startedAt": "2026-08-08T21:31:11.235Z"
         }
       ],
-      "completedThisRun": 66,
+      "completedThisRun": 67,
       "failedThisRun": 39
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 64,
+      "completedThisRun": 65,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 946,
       "availableGeneration": 946,
-      "waitingForRetry": 10,
+      "waitingForRetry": 9,
       "readyPublication": 0,
-      "publishedVerified": 77
+      "publishedVerified": 78
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:25:46.985Z"
+      "lastSyncedAt": "2026-08-08T21:31:09.298Z"
     },
     "lastError": {
       "at": "2026-08-08T21:27:57.993Z",
@@ -8790,18 +8790,18 @@
     },
     {
       "domain": "ethicalads.io",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:29:13.812Z",
+      "updatedAt": "2026-08-08T21:31:48.159Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/ethicalads.io-design",
+        "markdownUrl": "https://design.withfudge.com/share/ethicalads.io-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ethicalads.io.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -9174,9 +9174,9 @@
     },
     {
       "domain": "fastino.ai",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T21:28:35.086Z",
+      "updatedAt": "2026-08-08T21:31:18.103Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
@@ -9286,9 +9286,9 @@
     },
     {
       "domain": "figr.design",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.925Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T21:31:23.270Z",
       "blocker": null,
       "publication": {
         "key": "figr.design-design",
