@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:10:25.678Z",
+  "generatedAt": "2026-08-08T17:16:09.200Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 38,
+    "published_verified": 39,
     "unpublished": 909,
-    "failed": 5,
+    "failed": 6,
     "validating": 1,
     "drafting": 2,
-    "legacy": 81
+    "legacy": 79
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:10:00.756Z",
-    "heartbeatExpiresAt": "2026-08-08T17:15:00.756Z",
+    "heartbeatAt": "2026-08-08T17:16:02.462Z",
+    "heartbeatExpiresAt": "2026-08-08T17:21:02.462Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,44 +26,41 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "betterstack.com",
-          "startedAt": "2026-08-08T16:57:01.864Z"
-        },
-        {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-08T17:06:39.569Z"
-        },
-        {
           "domain": "dedcool.com",
           "startedAt": "2026-08-08T17:08:51.325Z"
+        },
+        {
+          "domain": "deepjudge.ai",
+          "startedAt": "2026-08-08T17:12:44.204Z"
+        },
+        {
+          "domain": "deepmind.google",
+          "startedAt": "2026-08-08T17:15:15.837Z"
         }
       ],
-      "completedThisRun": 27,
-      "failedThisRun": 13
+      "completedThisRun": 28,
+      "failedThisRun": 14
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "davidprotein.com",
-        "startedAt": "2026-08-08T17:09:09.958Z"
-      },
-      "completedThisRun": 24,
+      "active": null,
+      "completedThisRun": 26,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 990,
-      "availableGeneration": 990,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 988,
+      "availableGeneration": 988,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 38
+      "publishedVerified": 39
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:09:05.095Z"
+      "lastSyncedAt": "2026-08-08T17:11:13.290Z"
     },
     "lastError": {
-      "at": "2026-08-08T17:06:35.827Z",
-      "message": "Generation failed for base-ui.com with exit 1."
+      "at": "2026-08-08T17:12:42.784Z",
+      "message": "Generation failed for betterstack.com with exit 1."
     }
   },
   "generationControl": {
@@ -3785,9 +3782,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 90,
-      "updatedAt": "2026-08-08T17:09:39.291Z",
+      "updatedAt": "2026-08-08T17:12:41.215Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3796,8 +3793,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T18:12:41.215Z"
     },
     {
       "domain": "bfl.ai",
@@ -3881,18 +3878,18 @@
     },
     {
       "domain": "bkid.co",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 92,
-      "updatedAt": "2026-08-08T17:06:47.869Z",
+      "updatedAt": "2026-08-08T17:15:56.151Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/bkid.co-design",
+        "markdownUrl": "https://design.withfudge.com/share/bkid.co-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bkid.co.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -6921,9 +6918,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:09:04.627Z",
+      "updatedAt": "2026-08-08T17:12:50.930Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
@@ -6969,9 +6966,9 @@
     },
     {
       "domain": "deepjudge.ai",
-      "state": "legacy",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T14:41:30.170Z",
+      "state": "drafting",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T17:12:57.445Z",
       "blocker": null,
       "publication": {
         "key": "deepjudge.ai-design",
@@ -6985,9 +6982,9 @@
     },
     {
       "domain": "deepmind.google",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:30.184Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T17:15:26.914Z",
       "blocker": null,
       "publication": {
         "key": "deepmind.google-design",

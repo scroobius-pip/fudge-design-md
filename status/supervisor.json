@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T17:10:00.756Z",
-  "heartbeatExpiresAt": "2026-08-08T17:15:00.756Z",
+  "heartbeatAt": "2026-08-08T17:16:02.462Z",
+  "heartbeatExpiresAt": "2026-08-08T17:21:02.462Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,43 +13,40 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "betterstack.com",
-        "startedAt": "2026-08-08T16:57:01.864Z"
-      },
-      {
-        "domain": "bkid.co",
-        "startedAt": "2026-08-08T17:06:39.569Z"
-      },
-      {
         "domain": "dedcool.com",
         "startedAt": "2026-08-08T17:08:51.325Z"
+      },
+      {
+        "domain": "deepjudge.ai",
+        "startedAt": "2026-08-08T17:12:44.204Z"
+      },
+      {
+        "domain": "deepmind.google",
+        "startedAt": "2026-08-08T17:15:15.837Z"
       }
     ],
-    "completedThisRun": 27,
-    "failedThisRun": 13
+    "completedThisRun": 28,
+    "failedThisRun": 14
   },
   "publication": {
     "concurrency": 1,
-    "active": {
-      "domain": "davidprotein.com",
-      "startedAt": "2026-08-08T17:09:09.958Z"
-    },
-    "completedThisRun": 24,
+    "active": null,
+    "completedThisRun": 26,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 990,
-    "availableGeneration": 990,
-    "waitingForRetry": 5,
+    "eligibleGeneration": 988,
+    "availableGeneration": 988,
+    "waitingForRetry": 6,
     "readyPublication": 0,
-    "publishedVerified": 38
+    "publishedVerified": 39
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T17:09:05.095Z"
+    "lastSyncedAt": "2026-08-08T17:11:13.290Z"
   },
   "lastError": {
-    "at": "2026-08-08T17:06:35.827Z",
-    "message": "Generation failed for base-ui.com with exit 1."
+    "at": "2026-08-08T17:12:42.784Z",
+    "message": "Generation failed for betterstack.com with exit 1."
   }
 }
