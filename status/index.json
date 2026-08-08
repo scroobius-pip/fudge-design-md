@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:03:01.128Z",
+  "generatedAt": "2026-08-08T17:08:43.470Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 37,
     "unpublished": 909,
-    "validating": 2,
+    "failed": 5,
     "repairing": 1,
-    "failed": 4,
-    "legacy": 83
+    "drafting": 1,
+    "reviewing": 1,
+    "legacy": 82
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:02:56.327Z",
-    "heartbeatExpiresAt": "2026-08-08T17:07:56.327Z",
+    "heartbeatAt": "2026-08-08T17:08:18.952Z",
+    "heartbeatExpiresAt": "2026-08-08T17:13:18.952Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,20 +27,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "aura.build",
-          "startedAt": "2026-08-08T16:45:12.802Z"
-        },
-        {
-          "domain": "base-ui.com",
-          "startedAt": "2026-08-08T16:52:01.149Z"
-        },
-        {
           "domain": "betterstack.com",
           "startedAt": "2026-08-08T16:57:01.864Z"
+        },
+        {
+          "domain": "bkid.co",
+          "startedAt": "2026-08-08T17:06:39.569Z"
+        },
+        {
+          "domain": "davidprotein.com",
+          "startedAt": "2026-08-08T17:03:17.263Z"
         }
       ],
       "completedThisRun": 26,
-      "failedThisRun": 11
+      "failedThisRun": 13
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +49,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 992,
-      "availableGeneration": 992,
-      "waitingForRetry": 4,
+      "eligibleGeneration": 991,
+      "availableGeneration": 991,
+      "waitingForRetry": 5,
       "readyPublication": 0,
       "publishedVerified": 37
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:57:49.725Z"
+      "lastSyncedAt": "2026-08-08T17:03:11.978Z"
     },
     "lastError": {
-      "at": "2026-08-08T16:45:06.994Z",
-      "message": "Generation failed for dany.works with exit 1."
+      "at": "2026-08-08T17:06:35.827Z",
+      "message": "Generation failed for base-ui.com with exit 1."
     }
   },
   "generationControl": {
@@ -3158,9 +3159,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "validating",
+      "state": "failed",
       "attempt": 87,
-      "updatedAt": "2026-08-08T17:01:04.054Z",
+      "updatedAt": "2026-08-08T17:03:15.688Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3169,8 +3170,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T18:03:15.688Z"
     },
     {
       "domain": "aurorashouse.webflow.io",
@@ -3510,9 +3511,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 91,
-      "updatedAt": "2026-08-08T17:02:03.612Z",
+      "updatedAt": "2026-08-08T17:06:34.926Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3521,8 +3522,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T18:06:34.926Z"
     },
     {
       "domain": "base44.com",
@@ -3782,9 +3783,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 90,
-      "updatedAt": "2026-08-08T17:01:20.522Z",
+      "updatedAt": "2026-08-08T17:07:46.503Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3878,9 +3879,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "failed",
-      "attempt": 91,
-      "updatedAt": "2026-08-08T16:03:45.218Z",
+      "state": "drafting",
+      "attempt": 92,
+      "updatedAt": "2026-08-08T17:06:47.869Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3890,7 +3891,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T17:03:45.218Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "bland.ai",
@@ -6838,9 +6839,9 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:30.141Z",
+      "state": "reviewing",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T17:08:29.260Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
