@@ -1060,7 +1060,7 @@ Braintrust presents itself as a serious AI product for teams shipping to product
 
 [![How brave.com is designed](https://pin.fontofweb.com/9441?format=jpg)](design-md/brave.com.md)
 
-brave.com presents a predominantly light surface treatment in the captured pages. The system is anchored by `#1c1c1d`, `#fafafb`, and `#ffffff`, with typography led by **Poppins**, **Inter**, **Flecha M**, **Applesystem**, and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Brave’s visual system is clean, high contrast, and strongly editorial. The page sits on a bright canvas, keeps the body copy near-black, and uses a single blue for links, tabs, and API chrome. The homepage hero uses a serif headline with a warmer call-to-action card, while the Search API pages shift toward bold Poppins section heads and calmer Inter Variable body text so the same brand can serve both consumer browsing and developer tasks without losing its voice.
 
 [Open guide](design-md/brave.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/brave.com-design)
 
