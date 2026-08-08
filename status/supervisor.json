@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T18:52:28.326Z",
-  "heartbeatExpiresAt": "2026-08-08T18:57:28.326Z",
+  "heartbeatAt": "2026-08-08T18:57:58.242Z",
+  "heartbeatExpiresAt": "2026-08-08T19:02:58.242Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,43 +13,40 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "cora.computer",
-        "startedAt": "2026-08-08T18:50:10.100Z"
-      },
-      {
-        "domain": "deezer.com",
-        "startedAt": "2026-08-08T18:39:24.396Z"
-      },
-      {
         "domain": "dub.co",
         "startedAt": "2026-08-08T18:51:45.912Z"
+      },
+      {
+        "domain": "duties.xyz",
+        "startedAt": "2026-08-08T18:55:20.301Z"
+      },
+      {
+        "domain": "dzen.ru",
+        "startedAt": "2026-08-08T18:56:46.002Z"
       }
     ],
     "completedThisRun": 46,
-    "failedThisRun": 22
+    "failedThisRun": 24
   },
   "publication": {
     "concurrency": 1,
-    "active": {
-      "domain": "drkst.framer.website",
-      "startedAt": "2026-08-08T18:51:45.901Z"
-    },
-    "completedThisRun": 43,
+    "active": null,
+    "completedThisRun": 44,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 971,
-    "availableGeneration": 971,
-    "waitingForRetry": 5,
+    "eligibleGeneration": 970,
+    "availableGeneration": 970,
+    "waitingForRetry": 6,
     "readyPublication": 0,
     "publishedVerified": 57
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T18:51:08.032Z"
+    "lastSyncedAt": "2026-08-08T18:52:52.214Z"
   },
   "lastError": {
-    "at": "2026-08-08T18:39:23.980Z",
-    "message": "Generation failed for docs.apara.design with exit 1."
+    "at": "2026-08-08T18:56:42.611Z",
+    "message": "Generation failed for deezer.com with exit 1."
   }
 }
