@@ -2432,6 +2432,14 @@ NoCodeAPI uses a light, direct marketing system built around large rounded headl
 
 [Open guide](design-md/nocodeapi.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/nocodeapi.com-design)
 
+### saaspo.com
+
+[![How saaspo.com is designed](https://pin.fontofweb.com/7087?format=jpg)](design-md/saaspo.com.md)
+
+Saaspo presents a dark, tightly organized SaaS directory rather than a soft editorial magazine. The shared look is built from a near-black canvas, white type, crisp rectangular cards, thin charcoal edges, and a vivid green action color that stays reserved for the most important controls and signals. The system feels dense because it shows many items at once, but the page still reads clearly because the spacing is disciplined and the cards keep their own breathing room.
+
+[Open guide](design-md/saaspo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/saaspo.com-design)
+
 ### sacred.computer
 
 [![How sacred.computer is designed](https://pin.fontofweb.com/4255?format=jpg)](design-md/sacred.computer.md)
