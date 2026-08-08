@@ -1698,9 +1698,9 @@ dfinity.org presents a predominantly dark surface treatment in the captured page
 
 ### diabrowser.com
 
-[![How diabrowser.com is designed](https://pin.fontofweb.com/9533?format=jpg)](design-md/diabrowser.com.md)
+[![How diabrowser.com is designed](https://pin.fontofweb.com/10606?format=jpg)](design-md/diabrowser.com.md)
 
-diabrowser.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000` and `#ebebeb`, with typography led by **Abc Oracle**, **Exposure 0**, **Exposure 20**, and **Exposure**. The guide below names reusable design roles only where the captured evidence supports them.
+Dia’s visual language feels like a weekly printed magazine wrapped around a browser product. The page lives on a cool paper-white field, with centered serif headlines, tiny mono issue details, and a restrained top bar that keeps attention on the story. Large screenshots and feature mockups sit inside soft white or pale-gray cards, so the interface reads as editorial rather than software-heavy. One dark postcard panel breaks that rhythm on purpose, then the page returns to open white space and orderly cards.
 
 [Open guide](design-md/diabrowser.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/diabrowser.com-design)
 
