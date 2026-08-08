@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:07:31.556Z",
+  "generatedAt": "2026-08-08T21:09:12.781Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 72,
+    "published_verified": 73,
     "unpublished": 909,
-    "failed": 11,
-    "validating": 3,
-    "legacy": 41
+    "failed": 10,
+    "drafting": 3,
+    "ready": 2,
+    "legacy": 39
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:07:16.130Z",
-    "heartbeatExpiresAt": "2026-08-08T21:12:16.130Z",
+    "heartbeatAt": "2026-08-08T21:08:46.794Z",
+    "heartbeatExpiresAt": "2026-08-08T21:13:46.794Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,37 +26,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "era.app",
-          "startedAt": "2026-08-08T21:00:35.693Z"
+          "domain": "etched.com",
+          "startedAt": "2026-08-08T21:08:00.584Z"
         },
         {
-          "domain": "explainers.blog",
-          "startedAt": "2026-08-08T20:53:30.777Z"
+          "domain": "factory.ai",
+          "startedAt": "2026-08-08T21:08:20.128Z"
         },
         {
-          "domain": "fable.co",
-          "startedAt": "2026-08-08T20:57:38.364Z"
+          "domain": "familytype.co",
+          "startedAt": "2026-08-08T21:08:29.597Z"
         }
       ],
-      "completedThisRun": 61,
+      "completedThisRun": 64,
       "failedThisRun": 37
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 59,
+      "completedThisRun": 60,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 951,
-      "availableGeneration": 951,
+      "eligibleGeneration": 948,
+      "availableGeneration": 948,
       "waitingForRetry": 10,
-      "readyPublication": 0,
-      "publishedVerified": 72
+      "readyPublication": 2,
+      "publishedVerified": 73
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:02:11.708Z"
+      "lastSyncedAt": "2026-08-08T21:07:46.344Z"
     },
     "lastError": {
       "at": "2026-08-08T20:57:31.017Z",
@@ -8741,18 +8742,18 @@
     },
     {
       "domain": "era.app",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:05:51.890Z",
+      "updatedAt": "2026-08-08T21:08:36.297Z",
       "blocker": null,
       "publication": {
         "key": "era.app-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/era.app-design",
+        "markdownUrl": "https://design.withfudge.com/share/era.app-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/era.app.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -8773,9 +8774,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "failed",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T20:05:25.462Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T21:08:10.379Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -8785,7 +8786,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T21:05:25.460Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "ethicalads.io",
@@ -8965,9 +8966,9 @@
     },
     {
       "domain": "explainers.blog",
-      "state": "validating",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T21:06:34.969Z",
+      "updatedAt": "2026-08-08T21:08:26.802Z",
       "blocker": null,
       "publication": {
         "key": "explainers.blog-design",
@@ -9061,9 +9062,9 @@
     },
     {
       "domain": "fable.co",
-      "state": "validating",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T21:06:36.511Z",
+      "updatedAt": "2026-08-08T21:08:11.788Z",
       "blocker": null,
       "publication": {
         "key": "fable.co-design",
@@ -9093,9 +9094,9 @@
     },
     {
       "domain": "factory.ai",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.867Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T21:08:37.847Z",
       "blocker": null,
       "publication": {
         "key": "factory.ai-design",
@@ -9157,9 +9158,9 @@
     },
     {
       "domain": "familytype.co",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.882Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T21:08:48.896Z",
       "blocker": null,
       "publication": {
         "key": "familytype.co-design",
