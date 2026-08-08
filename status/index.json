@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:03:30.991Z",
+  "generatedAt": "2026-08-08T15:11:05.138Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 180,
     "published_verified": 21,
     "unpublished": 909,
-    "drafting": 1,
+    "validating": 1,
     "legacy": 103,
     "repairing": 2,
     "failed": 1
@@ -15,8 +15,8 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:02:50.034Z",
-    "heartbeatExpiresAt": "2026-08-08T15:07:50.034Z",
+    "heartbeatAt": "2026-08-08T15:09:55.260Z",
+    "heartbeatExpiresAt": "2026-08-08T15:14:55.260Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -56,7 +56,7 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:58:01.026Z"
+      "lastSyncedAt": "2026-08-08T15:04:38.318Z"
     },
     "lastError": {
       "at": "2026-08-08T14:55:16.977Z",
@@ -1750,9 +1750,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 88,
-      "updatedAt": "2026-08-08T15:02:37.879Z",
+      "updatedAt": "2026-08-08T15:07:03.707Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -21800,7 +21800,7 @@
       "domain": "saaspo.com",
       "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T15:01:10.421Z",
+      "updatedAt": "2026-08-08T15:07:17.709Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -27064,7 +27064,7 @@
       "domain": "windsurf.com",
       "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T15:02:49.520Z",
+      "updatedAt": "2026-08-08T15:08:17.085Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
