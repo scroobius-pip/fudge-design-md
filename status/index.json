@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:52:24.967Z",
+  "generatedAt": "2026-08-08T17:54:30.640Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 45,
+    "published_verified": 46,
     "unpublished": 909,
     "failed": 6,
-    "validating": 1,
     "repairing": 1,
+    "validating": 1,
     "drafting": 1,
-    "legacy": 73
+    "legacy": 72
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:52:02.303Z",
-    "heartbeatExpiresAt": "2026-08-08T17:57:02.303Z",
+    "heartbeatAt": "2026-08-08T17:54:13.376Z",
+    "heartbeatExpiresAt": "2026-08-08T17:59:13.376Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,40 +27,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "dany.works",
-          "startedAt": "2026-08-08T17:48:15.071Z"
-        },
-        {
           "domain": "designsystems.surf",
           "startedAt": "2026-08-08T17:39:14.098Z"
         },
         {
           "domain": "dfinity.org",
           "startedAt": "2026-08-08T17:51:09.981Z"
+        },
+        {
+          "domain": "diabrowser.com",
+          "startedAt": "2026-08-08T17:53:34.736Z"
         }
       ],
-      "completedThisRun": 34,
+      "completedThisRun": 35,
       "failedThisRun": 17
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "designwithvibbbes.com",
-        "startedAt": "2026-08-08T17:51:09.971Z"
-      },
-      "completedThisRun": 31,
+      "active": null,
+      "completedThisRun": 33,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 982,
-      "availableGeneration": 982,
+      "eligibleGeneration": 981,
+      "availableGeneration": 981,
       "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 45
+      "publishedVerified": 46
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:46:22.434Z"
+      "lastSyncedAt": "2026-08-08T17:53:06.443Z"
     },
     "lastError": {
       "at": "2026-08-08T17:48:10.660Z",
@@ -6666,18 +6663,18 @@
     },
     {
       "domain": "dany.works",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 88,
-      "updatedAt": "2026-08-08T17:51:43.735Z",
+      "updatedAt": "2026-08-08T17:54:06.961Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
         "url": "https://design.withfudge.com/share/dany.works-design",
         "markdownUrl": "https://design.withfudge.com/share/dany.works-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dany.works.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -7482,9 +7479,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T17:51:31.411Z",
+      "updatedAt": "2026-08-08T17:54:09.544Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -7514,9 +7511,9 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.375Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:53:47.077Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
