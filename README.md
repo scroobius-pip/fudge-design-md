@@ -236,7 +236,7 @@ Adithya Krishnan’s site is a spare, dark portfolio that treats the page as one
 
 [![How adject.ai is designed](https://pin.fontofweb.com/7678?format=jpg)](design-md/adject.ai.md)
 
-adject.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0a0a0a`, and `#ffffff`, with typography led by **System**, **Google Sans 18 Pt**, **Rebond Grotesque**, and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Adject.ai uses a stripped, high-contrast marketing system built to move quickly from promise to product proof. The page stays on a white canvas and lets a single electric blue carry emphasis: the launch strip, the main call to action, the selected plan outline, and the expanded FAQ row all repeat that same saturated note. Near-black type anchors the message, while the product image sits in a large rounded stage with a pale blue glow behind it. The result is clean and persuasive rather than decorative.
 
 [Open guide](design-md/adject.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/adject.ai-design)
 

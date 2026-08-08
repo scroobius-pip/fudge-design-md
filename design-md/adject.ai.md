@@ -2,133 +2,186 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/adject.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7678?format=jpg)](https://design.withfudge.com/share/pin-7678)
+[![Centered hero with blue halo, large black headline, and before-after product frame](https://pin.fontofweb.com/7678?format=jpg)](https://design.withfudge.com/share/pin-7678)
 
-[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/share/pin-7678)
+[Centered hero with blue halo, large black headline, and before-after product frame](https://design.withfudge.com/share/pin-7678)
 
-[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7677?format=jpg)](https://design.withfudge.com/share/pin-7677)
+[![Four-column pricing grid with rounded cards, monthly toggle, and blue outlined Pro plan](https://pin.fontofweb.com/7677?format=jpg)](https://design.withfudge.com/share/pin-7677)
 
-[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/share/pin-7677)
+[Four-column pricing grid with rounded cards, monthly toggle, and blue outlined Pro plan](https://design.withfudge.com/share/pin-7677)
 
-[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7676?format=jpg)](https://design.withfudge.com/share/pin-7676)
+[![Expanded FAQ row in solid blue with white question text and pale answer panel](https://pin.fontofweb.com/7676?format=jpg)](https://design.withfudge.com/share/pin-7676)
 
-[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/share/pin-7676)
-
-[![Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://pin.fontofweb.com/7675?format=jpg)](https://design.withfudge.com/share/pin-7675)
-
-[Adject AI | Product Images and Videos for Ecommerce Brands in Seconds](https://design.withfudge.com/share/pin-7675)
+[Expanded FAQ row in solid blue with white question text and pale answer panel](https://design.withfudge.com/share/pin-7676)
 
 ## Overview
 
-adject.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0a0a0a`, and `#ffffff`, with typography led by **System**, **Google Sans 18 Pt**, **Rebond Grotesque**, and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Adject.ai uses a stripped, high-contrast marketing system built to move quickly from promise to product proof. The page stays on a white canvas and lets a single electric blue carry emphasis: the launch strip, the main call to action, the selected plan outline, and the expanded FAQ row all repeat that same saturated note. Near-black type anchors the message, while the product image sits in a large rounded stage with a pale blue glow behind it. The result is clean and persuasive rather than decorative.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The page is organized like a sales sequence. First comes a compact announcement line and a centered hero with oversized type. Then a large product comparison image establishes the value proposition. Pricing follows in a four-card grid with a visible monthly-yearly switch. The FAQ closes the page with a strong active row that turns the entire line into a blue bar. Every section is spacious, symmetrical, and easy to scan.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content in the main |
-| color.text | `#0a0a0a` | text on page content in the main |
-| color.surface | `#ffffff` | surface on page content in the main |
-| color.surface | `#0540f2` | surface on page content |
-| color.surface | `#f5f6fa` | surface on page content in the main |
-| color.text | `#0000ee` | text on page content in the main |
-| color.text | `#f5fffd` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.utility-12px | **System** | 12px | 400 | normal | normal | <div> in the main, <div>, <div> in the nav, <a> in the main, <a> in the nav, <div> in the button, <div> in the footer, and <a> in the footer |
-| type.body-15px | **Google Sans 18 Pt** | 15px | 500 | 22.5px | -0.3px | <p> in the main, <p> in the button, and <p> in the footer |
-| type.display-80px | **Google Sans 18 Pt** | 80px | 700 | 96px | -3.2px | <span> in the main and <h1> in the main |
-| type.display-48px | **Google Sans 18 Pt** | 48px | 600 | 52.8px | -2.4px | <h2> in the main, <span> in the footer, and <h2> in the footer |
-| type.heading-20px | **Google Sans 18 Pt** | 20px | 600 | 26px | -0.6px | <h3> in the main and <h3> in the footer |
-| type.body-18px | **Google Sans 18 Pt** | 18px | 500 | 25.2px | -0.18px | <span> in the main and <p> in the main |
-| type.body-15px | **Google Sans 18 Pt** | 15px | 400 | 22.5px | -0.3px | <p> in the footer |
-| type.body-18px | **Rebond Grotesque** | 18px | 500 | 27px | -0.18px | <span> in the footer and <p> in the footer |
-| type.heading-24px | **Google Sans 18 Pt** | 24px | 600 | 26.4px | normal | <h2> in the main and <span> in the main |
-| type.display-52px | **Google Sans 18 Pt** | 52px | 500 | 52px | -2.08px | <p> in the main |
-| type.utility-11px | **Google Sans 18 Pt** | 11px | 500 | 15.4px | 1.54px | <p> in the main |
-| type.body-15px | **Rebond Grotesque** | 15px | 500 | 22.5px | -0.3px | <p> in the footer |
-| type.body-14px | **Inter** | 14px | 500 | 28px | normal | <div> in the main |
-| type.utility-12px | **Google Sans 18 Pt** | 12px | 500 | 18px | -0.24px | <p> in the footer |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `20px` | padding | page content |
-| `60px 40px` | padding | page content |
-| `20px 40px 0px` | padding | page content |
-| `64px 28px` | padding | page content |
-| `0px 10px 20px` | padding | page content |
-| `0px 20px` | padding | page content |
-| `10px` | padding | page content |
-| `9px 20px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 30px 30px 0px 0px`, `0px none 25px`, `0px none 30px`, `0px none 20px`, `0px none 26px`, `0px none 40px`, `0px none 13px`, and `1px solid 6px` border treatments. Recorded gradients include `linear-gradient(rgb(5, 64, 242) 0%, rgb(5, 64, 242) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0.09) 0px 1.34368px 0.537473px -0.625px, rgba(0, 0, 0, 0.09) 0px 3.18477px 1.27391px -1.25px, rgba(0, 0, 0, 0.08) 0px 5.80935px 2.32374px -1.875px, rgba(0, 0, 0, 0.08) 0px 9.65802px 3.86321px -2.5px, rgba(0, 0, 0, 0.07) 0px 15.5969px 6.23877px -3.125px, rgba(0, 0, 0, 0.06) 0px 25.5306px 10.2122px -3.75px, rgba(0, 0, 0, 0.04) 0px 43.962px 17.5848px -4.375px, rgba(0, 0, 0, 0) 0px 80px 32px -5px` and `rgb(5, 64, 242) 0px 0px 39px -10px`.
+What matters most is restraint: one dominant accent, large rounded containers, minimal color variety, and typography that carries most of the personality.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#ffffff`, `#0540f2`, and `#f5f6fa`. Text colors include `#000000`, `#0a0a0a`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+The color system is intentionally narrow. White is the dominant field, near-black handles primary text, and blue is reserved for actions, selected states, and the most important emphasis points. A cool off-white surface softens the pricing cards and FAQ answer area so the page never feels harsh. The system does not rely on a separate dark page mode; instead, it uses black type and black controls against white space to create contrast. That keeps the brand feeling lightweight and direct.
+
+| token | value | use |
+|---|---|---|
+| `action` | `#0540F2` | Primary buttons, the launch strip, the active FAQ row, and the selected pricing outline |
+| `link` | `#0000EE` | Quiet link accents and any small inline directional emphasis |
+| `ink` | `#0A0A0A` | Main headlines, plan names, and body text on light surfaces |
+| `ink-strong` | `#000000` | The heaviest black used for the wordmark, pills, and the strongest text contrast |
+| `canvas` | `#FFFFFF` | Page background, card base, and most negative space |
+| `surface` | `#F5FFFD` | Soft card fill, FAQ answer area, and the pale cool field behind content blocks |
+| `border` | `#F5FFFD` | Hairline edge on cards and soft framing where a visible border must stay almost silent |
+
+The blue should stay scarce. When it appears as a fill, outline, or bar, it should signal the most active state in the layout. The pale cool surface is not a competing brand color; it is a quiet lift that keeps the white page from feeling flat. The pricing grid and FAQ work because the surface tint is only slightly different from the canvas, so the hierarchy comes from shape, type, and blue emphasis rather than from many competing hues.
 
 ## Typography
 
-The captured type system uses **System**, **Google Sans 18 Pt**, **Rebond Grotesque**, and **Inter**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The page reads as a single-sans system. Inter carries the hero, pricing, FAQ, buttons, and body copy with a geometric, compact feel. Google Sans 18 Pt appears as a named family in the available set and fits small utility labels and badges well. System remains the safe fallback for micro copy and legal text. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Inter | 4.5rem | 700 | 0.95 | -0.04em | Main headline in the hero |
+| `section-display` | Inter | 3rem | 700 | 0.95 | -0.03em | Section titles such as Pricing and FAQ |
+| `price-display` | Inter | 2.75rem | 700 | 0.95 | -0.03em | Large monthly price figures |
+| `body` | Inter | 1rem | 400 | 1.5 | 0em | Supporting sentences and feature copy |
+| `body-medium` | Inter | 1rem | 500 | 1.5 | 0em | Buttons, plan names, and emphasized UI copy |
+| `nav` | Inter | 0.875rem | 500 | 1.2 | 0em | Top navigation and compact header links |
+| `label` | Google Sans 18 Pt | 0.875rem | 600 | 1 | 0.08em | Badges, tiny labels, and utility tags |
+| `micro` | System | 0.75rem | 500 | 1.4 | 0.04em | Small notes and short helper text |
+| `legal` | System | 0.75rem | 400 | 1.5 | 0em | Fine print and low-priority supporting copy |
+
+The hierarchy depends on size and weight more than on family changes. The hero headline is very bold and tight. Pricing numbers remain large enough to read as figures, not labels. The FAQ uses a strong question line and a softer answer block beneath it. Utility text stays compact and slightly spaced so it can sit comfortably inside pills and small controls without crowding the page.
 
 ## Layout
 
-The captured pages use values such as `20px`, `60px 40px`, `20px 40px 0px`, `64px 28px`, and `0px 10px 20px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is centered, staged, and highly symmetrical. The hero uses a narrow central column with a wide product image below it, so the headline and the proof image both get room to breathe. The announcement strip sits above everything else and uses the full width of the page, which makes the rest of the page feel intentionally calm by comparison. The large blue halo behind the hero image gives the top of the page depth without adding extra structure.
+
+Pricing changes the rhythm. Instead of a single stage, the page becomes a four-column comparison grid. Each card is large, rounded, and evenly spaced. The monthly-yearly switch sits above the grid and is visually small, but it matters because the selected state is emphasized with a dark pill against a pale track. This keeps the focus on the plans while still making the control easy to find.
+
+The FAQ returns to a single-column stack. That stack is deliberate: it slows the page down after the pricing grid and gives the active row enough horizontal width to read like a banner. The open state expands into a substantial blue band with the answer tucked directly below it on a pale surface. The repeated wide corner radius keeps even the long FAQ row feeling soft rather than rigid.
+
+Spacing is generous throughout. The page relies on vertical separation, large top and bottom padding, and clear gaps between cards rather than on dense borders or nested chrome. That simplicity is what makes the page feel fast.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ffffff`, `#0540f2`, and `#f5f6fa`. Depth is supported by the returned gradients and shadows.
+Adject.ai combines three visual moves. First, it uses bold black typography that looks designed for direct conversion rather than storytelling fluff. Second, it uses rounded, floating UI containers with soft shadows or light borders so the page feels lifted off the canvas. Third, it uses a single electric blue as the only loud accent color, which gives the page a clear emotional center.
 
-## Components and states
+The hero image is the most distinctive visual element. It is not a generic marketing illustration; it is a large framed product transformation with a visible before-and-after split, a central handle, and a black-and-white subject photo. That makes the product feel concrete. The blue glow behind the image frames the stage and visually ties the image back to the rest of the page.
 
-The captured pages include repeated styling on <div>, <span>, <h1>, <h2>, <p>, <a>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The pricing cards keep the same language but in a more structured form. Rounded corners, light fills, and thin edges make the plan grid feel calm. The Pro card gets the strongest emphasis through a blue border and a small “most popular” pill, not through a different background color. That keeps the system disciplined.
+
+The FAQ is the clearest state example. The active row becomes a full-width blue slab with white text and a close icon, while the inactive rows remain quiet and monochrome. The contrast between states is immediate and easy to scan.
+
+## Components
+
+### Announcement bar
+
+- **Anatomy:** Single-line message and a close icon on the far right.
+- **Surface:** Full-width blue strip with white text.
+- **Typography:** Small, compact utility text that fits inside a low-height band.
+- **Shape:** Straight-edged at page scale, but visually softened by the contrast with the white canvas.
+- **Visible state:** The dismiss control is present but unobtrusive, so the bar reads as a temporary launch note rather than a permanent page header.
+
+### Header
+
+- **Anatomy:** Wordmark on the left, centered navigation links, and a dark rounded CTA on the right.
+- **Typography:** Small medium-weight navigation with a compact rhythm.
+- **Shape:** The CTA is a pill with a deep black fill and white text.
+- **Composition:** The header stays light and sparse so the hero can own the page.
+- **Visible state:** The active emphasis is the CTA, not the links.
+
+### Hero
+
+- **Anatomy:** Tiny badge, oversized headline, supporting sentence, one primary action, and a short reassurance line.
+- **Typography:** The headline is heavy, centered, and tightly set; the support copy is much smaller and calmer.
+- **Surface:** White page with a pale blue stage behind the product image.
+- **Shape:** A very large rounded container frames the stage and keeps the hero soft.
+- **Composition:** Everything centers on the CTA and the before-and-after visual proof. The badge gives the section a launch feel without distracting from the headline.
+
+### Primary action
+
+- **Anatomy:** One dominant button with white text.
+- **Surface:** In the hero it uses blue; elsewhere the system may invert to black for hierarchy.
+- **Typography:** Medium-weight label, no extra flourish.
+- **Shape:** Fully rounded pill.
+- **Visible state:** The button should remain visually heavier than any secondary text link.
+
+### Pricing cards
+
+- **Anatomy:** Plan label, large monthly price, short descriptor, feature list, and a bottom CTA.
+- **Surface:** White cards with very light edges and generous padding.
+- **Typography:** Large price figures, smaller plan labels, then a compact list.
+- **Shape:** Tall rounded cards with consistent corner treatment.
+- **Composition:** Four even columns, with the highlighted plan marked by a blue outline and a small popularity pill.
+- **Visible states:** Included items are marked with blue checks; unavailable items fade down into a quieter gray.
+
+### Plan switch
+
+- **Anatomy:** Two-option pill control for monthly and yearly pricing.
+- **Surface:** Pale track with a dark selected segment.
+- **Typography:** Small medium-weight text.
+- **Shape:** Strong pill geometry with a clear selected thumb area.
+- **Visible states:** Selected state is dark and high-contrast; unselected state stays light.
+
+### FAQ accordion
+
+- **Anatomy:** Question row, expansion bar, answer block, and a trailing plus or close icon.
+- **Surface:** The open question becomes a solid blue bar; the answer sits on a pale surface below it.
+- **Typography:** Questions are bold and dark when closed, white when open.
+- **Shape:** Large rounded container with broad corners.
+- **Composition:** The open row spans the full width so the state change feels immediate.
+- **Visible states:** Closed rows are plain and airy; the open row is the strongest color moment on the page after the hero CTA.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+For smaller screens, keep the same hierarchy but compress the number of simultaneous columns. The hero should stack before the product image instead of squeezing the image beside the text. The pricing grid should reduce from four columns to two or one, while preserving the highlighted plan treatment and the CTA placement. The FAQ should remain a single-column stack so the open row can still stretch full width.
+
+Type can step down, but the proportions should stay bold: the hero should still feel headline-first, the price figures should remain large, and the labels should never overpower the plan names. Rounded shapes should remain rounded at every size; smaller screens should not turn the page into a boxy layout. If space gets tight, reduce lateral padding before reducing corner radius.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep one saturated blue as the only recurring accent.
+- Preserve the centered hero and the strong before-and-after product image.
+- Keep the pricing grid evenly spaced and the selected plan visibly outlined.
+- Maintain the full-width blue active FAQ row as the clearest state change.
+- Hold onto the large rounded geometry; it is part of the page’s softness.
+
+### Avoid
+
+- Avoid introducing extra accent colors or secondary fills that compete with blue.
+- Avoid thin, tiny buttons that weaken the conversion path.
+- Avoid dense borders, nested cards, or dashboard-style grid chrome.
+- Avoid making the FAQ or pricing cards visually noisy with too many icons or status colors.
+- Avoid shrinking the headline into a generic body-sized message on smaller layouts.
+
+### Recommended build order
+
+1. Set the white canvas, black text, and blue accent tokens.
+2. Build the announcement strip and the top header.
+3. Build the centered hero and the large product comparison stage.
+4. Add the primary action and the small reassurance line beneath it.
+5. Build the pricing toggle and the four-card plan grid.
+6. Finish with the FAQ accordion and its open blue state.
+7. Tune spacing and corner radius together so the whole page feels like one system.
+
+### Accessibility
+
+- Keep blue text or blue fills paired with white text wherever contrast matters.
+- Give the active FAQ row a clear focus state and a keyboard-friendly toggle target.
+- Make the pricing switch readable without color alone; the selected segment should also shift shape or fill.
+- Provide alt text for the hero comparison image so the product transformation is understandable without seeing the split.
+- Keep line length short in the hero and FAQ answers so the page remains readable when stacked.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#0a0a0a`
-- `#ffffff`
-- `#0540f2`
-- `#f5f6fa`
-- `#0000ee`
-- `#f5fffd`
-
-## Typography captured from adject.ai
-
-- **System** — weight 400 · size 12px
-- **Google Sans 18 Pt** — weight 700 · size 80px
-- **Rebond Grotesque** — weight 500 · size 18px
-- **Inter** — weight 500 · size 14px
+This guide covers the marketing homepage surface: the announcement bar, top navigation, hero, pricing block, and FAQ. It does not cover the app workspace, account flows, deeper product pages, or smaller-screen breakpoints.
