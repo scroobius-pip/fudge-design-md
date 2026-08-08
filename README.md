@@ -772,7 +772,7 @@ Apple Store commerce is precise, spacious, neutral, and conversion-focused. A br
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6373?format=jpg)](design-md/arcee.ai.md)
 
-arcee.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by `#0a0a0a` and `#008c8c`, with typography led by **Sora** and **Noto Serif Armenian**. The guide below names reusable design roles only where the captured evidence supports them.
+Arcee AI uses a restrained editorial layout that feels more like a printed argument than a busy software home page. The page is built from a white field, a centered serif headline, and a row of three equal cards below it. Each card carries a short promise, a thin border, and a small geometric drawing near the bottom edge. The result is calm and direct: the page gives the main statement room to breathe, then repeats the supporting ideas with the same structure so nothing feels privileged by accident.
 
 [Open guide](design-md/arcee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcee.ai-design)
 
