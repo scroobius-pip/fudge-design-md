@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "state": "paused",
-  "startedAt": "2026-08-08T13:54:54.455Z",
-  "heartbeatAt": "2026-08-08T14:10:49.489Z",
-  "heartbeatExpiresAt": "2026-08-08T14:15:49.489Z",
+  "startedAt": "2026-08-08T14:16:03.747Z",
+  "heartbeatAt": "2026-08-08T14:16:47.554Z",
+  "heartbeatExpiresAt": "2026-08-08T14:21:47.554Z",
   "stale": false,
   "generationControl": {
     "paused": true,
@@ -12,31 +12,25 @@
   "generation": {
     "concurrency": 3,
     "active": [],
-    "completedThisRun": 2,
-    "failedThisRun": 2
+    "completedThisRun": 0,
+    "failedThisRun": 0
   },
   "publication": {
     "concurrency": 1,
-    "active": {
-      "domain": "amd.com",
-      "startedAt": "2026-08-08T14:10:48.585Z"
-    },
-    "completedThisRun": 8,
+    "active": null,
+    "completedThisRun": 0,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1013,
-    "availableGeneration": 1013,
+    "eligibleGeneration": 1014,
+    "availableGeneration": 1014,
     "waitingForRetry": 4,
-    "readyPublication": 5,
-    "publishedVerified": 8
+    "readyPublication": 4,
+    "publishedVerified": 0
   },
-  "recoveredThisRun": 3,
+  "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T14:10:37.268Z"
+    "lastSyncedAt": null
   },
-  "lastError": {
-    "at": "2026-08-08T14:10:23.787Z",
-    "message": "Generation failed for americanprogress.org with exit 1."
-  }
+  "lastError": null
 }
