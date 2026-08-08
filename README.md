@@ -1908,7 +1908,7 @@ ethicalads.io presents a predominantly dark surface treatment in the captured pa
 
 [![How eu-inc.org is designed](https://pin.fontofweb.com/8207?format=jpg)](design-md/eu-inc.org.md)
 
-eu-inc.org presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#f5f5f5`, and `#5e5e5e`, with typography led by **System**, **Apfel Grotezk**, **Custom Apfel Grotezk**, **Inter**, and **Mono Spec**. The guide below names reusable design roles only where the captured evidence supports them.
+EU–INC reads like a civic campaign homepage. A pale field, tiny mono labels, a tight top bar, a centered star ring, and a narrow text column give the page a public-petition tone. The right side either becomes a dense portrait grid or opens into empty space with a small dark circular mark. That contrast keeps the page serious and measured.
 
 [Open guide](design-md/eu-inc.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/eu-inc.org-design)
 
