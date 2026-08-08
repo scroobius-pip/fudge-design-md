@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:26:51.921Z",
+  "generatedAt": "2026-08-08T20:32:31.295Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 67,
+    "published_verified": 68,
     "unpublished": 909,
-    "failed": 10,
-    "validating": 1,
-    "repairing": 1,
-    "drafting": 1,
-    "legacy": 47
+    "failed": 11,
+    "ready": 1,
+    "drafting": 2,
+    "preparing": 1,
+    "legacy": 44
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:26:35.211Z",
-    "heartbeatExpiresAt": "2026-08-08T20:31:35.211Z",
+    "heartbeatAt": "2026-08-08T20:32:05.522Z",
+    "heartbeatExpiresAt": "2026-08-08T20:37:05.522Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,41 +27,41 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "dzen.ru",
-          "startedAt": "2026-08-08T20:19:18.064Z"
+          "domain": "every.to",
+          "startedAt": "2026-08-08T20:31:07.827Z"
         },
         {
-          "domain": "eu-inc.org",
-          "startedAt": "2026-08-08T20:20:16.399Z"
+          "domain": "everyday-practice.com",
+          "startedAt": "2026-08-08T20:31:26.428Z"
         },
         {
-          "domain": "evefrontier.com",
-          "startedAt": "2026-08-08T20:25:51.710Z"
+          "domain": "evilmartians.com",
+          "startedAt": "2026-08-08T20:31:59.923Z"
         }
       ],
-      "completedThisRun": 56,
-      "failedThisRun": 33
+      "completedThisRun": 58,
+      "failedThisRun": 34
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 54,
+      "completedThisRun": 55,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 956,
-      "availableGeneration": 956,
-      "waitingForRetry": 10,
-      "readyPublication": 0,
-      "publishedVerified": 67
+      "eligibleGeneration": 954,
+      "availableGeneration": 953,
+      "waitingForRetry": 11,
+      "readyPublication": 1,
+      "publishedVerified": 68
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:23:16.971Z"
+      "lastSyncedAt": "2026-08-08T20:27:23.817Z"
     },
     "lastError": {
-      "at": "2026-08-08T20:20:09.855Z",
-      "message": "Generation failed for ethicalads.io with exit 1."
+      "at": "2026-08-08T20:31:49.741Z",
+      "message": "Generation failed for dzen.ru with exit 1."
     }
   },
   "generationControl": {
@@ -8199,9 +8199,9 @@
     },
     {
       "domain": "dzen.ru",
-      "state": "validating",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:26:32.815Z",
+      "updatedAt": "2026-08-08T20:31:46.407Z",
       "blocker": null,
       "publication": {
         "key": "dzen.ru-design",
@@ -8210,8 +8210,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T21:31:46.407Z"
     },
     {
       "domain": "e360.yale.edu",
@@ -8823,9 +8823,9 @@
     },
     {
       "domain": "eu-inc.org",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:26:23.933Z",
+      "updatedAt": "2026-08-08T20:31:19.975Z",
       "blocker": null,
       "publication": {
         "key": "eu-inc.org-design",
@@ -8839,15 +8839,15 @@
     },
     {
       "domain": "evefrontier.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:26:01.889Z",
+      "updatedAt": "2026-08-08T20:31:52.795Z",
       "blocker": null,
       "publication": {
         "key": "evefrontier.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/evefrontier.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/evefrontier.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/evefrontier.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8855,9 +8855,9 @@
     },
     {
       "domain": "every.to",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.781Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T20:31:27.980Z",
       "blocker": null,
       "publication": {
         "key": "every.to-design",
@@ -8871,9 +8871,9 @@
     },
     {
       "domain": "everyday-practice.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.795Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:31:40.135Z",
       "blocker": null,
       "publication": {
         "key": "everyday-practice.com-design",
@@ -8887,9 +8887,9 @@
     },
     {
       "domain": "evilmartians.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.809Z",
+      "state": "preparing",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:32:08.079Z",
       "blocker": null,
       "publication": {
         "key": "evilmartians.com-design",
