@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:33:37.128Z",
+  "generatedAt": "2026-08-08T16:38:05.226Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 32,
+    "published_verified": 33,
     "unpublished": 909,
-    "drafting": 2,
+    "repairing": 2,
     "failed": 7,
-    "validating": 1,
-    "legacy": 85
+    "drafting": 1,
+    "legacy": 84
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:33:29.726Z",
-    "heartbeatExpiresAt": "2026-08-08T16:38:29.726Z",
+    "heartbeatAt": "2026-08-08T16:37:57.818Z",
+    "heartbeatExpiresAt": "2026-08-08T16:42:57.818Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +30,33 @@
           "startedAt": "2026-08-08T16:31:54.968Z"
         },
         {
-          "domain": "cosmos.so",
-          "startedAt": "2026-08-08T16:26:23.394Z"
-        },
-        {
           "domain": "dany.works",
           "startedAt": "2026-08-08T16:32:20.102Z"
+        },
+        {
+          "domain": "dash.cloudflare.com",
+          "startedAt": "2026-08-08T16:37:23.005Z"
         }
       ],
-      "completedThisRun": 21,
+      "completedThisRun": 22,
       "failedThisRun": 10
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 19,
+      "completedThisRun": 20,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 994,
-      "availableGeneration": 994,
+      "eligibleGeneration": 993,
+      "availableGeneration": 993,
       "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 32
+      "publishedVerified": 33
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:32:51.756Z"
+      "lastSyncedAt": "2026-08-08T16:33:48.293Z"
     },
     "lastError": {
       "at": "2026-08-08T16:26:17.718Z",
@@ -1814,9 +1814,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 92,
-      "updatedAt": "2026-08-08T16:32:00.314Z",
+      "updatedAt": "2026-08-08T16:36:43.945Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -6150,15 +6150,15 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:31:13.595Z",
+      "updatedAt": "2026-08-08T16:37:52.648Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
         "url": "https://design.withfudge.com/share/cosmos.so-design",
         "markdownUrl": "https://design.withfudge.com/share/cosmos.so-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cosmos.so.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -6662,9 +6662,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:32:34.880Z",
+      "updatedAt": "2026-08-08T16:36:42.635Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -6678,9 +6678,9 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "legacy",
-      "attempt": 87,
-      "updatedAt": "2026-08-08T14:41:30.070Z",
+      "state": "drafting",
+      "attempt": 88,
+      "updatedAt": "2026-08-08T16:37:34.138Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
