@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:50:09.937Z",
+  "generatedAt": "2026-08-08T16:52:57.907Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 34,
+    "published_verified": 35,
     "unpublished": 909,
+    "validating": 1,
+    "ready": 1,
     "drafting": 1,
-    "repairing": 2,
-    "failed": 6,
+    "failed": 5,
     "legacy": 84
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:50:02.646Z",
-    "heartbeatExpiresAt": "2026-08-08T16:55:02.646Z",
+    "heartbeatAt": "2026-08-08T16:52:48.025Z",
+    "heartbeatExpiresAt": "2026-08-08T16:57:48.025Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -34,29 +35,32 @@
           "startedAt": "2026-08-08T16:44:05.144Z"
         },
         {
-          "domain": "dash.cloudflare.com",
-          "startedAt": "2026-08-08T16:37:23.005Z"
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-08T16:52:01.149Z"
         }
       ],
-      "completedThisRun": 23,
+      "completedThisRun": 24,
       "failedThisRun": 11
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "dash.cloudflare.com",
+        "startedAt": "2026-08-08T16:52:01.129Z"
+      },
       "completedThisRun": 21,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 993,
       "availableGeneration": 993,
-      "waitingForRetry": 6,
-      "readyPublication": 0,
-      "publishedVerified": 34
+      "waitingForRetry": 5,
+      "readyPublication": 1,
+      "publishedVerified": 35
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:44:56.105Z"
+      "lastSyncedAt": "2026-08-08T16:50:29.695Z"
     },
     "lastError": {
       "at": "2026-08-08T16:45:06.994Z",
@@ -3158,9 +3162,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:45:18.803Z",
+      "updatedAt": "2026-08-08T16:51:38.338Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3414,9 +3418,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:48:55.151Z",
+      "updatedAt": "2026-08-08T16:52:45.875Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -3425,7 +3429,7 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -3510,9 +3514,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 90,
-      "updatedAt": "2026-08-08T15:50:18.260Z",
+      "state": "drafting",
+      "attempt": 91,
+      "updatedAt": "2026-08-08T16:52:13.552Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3522,7 +3526,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T16:50:18.260Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "base44.com",
@@ -6678,15 +6682,15 @@
     },
     {
       "domain": "dash.cloudflare.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 88,
-      "updatedAt": "2026-08-08T16:47:47.095Z",
+      "updatedAt": "2026-08-08T16:52:44.236Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
         "url": "https://design.withfudge.com/share/dash.cloudflare.com-design",
         "markdownUrl": "https://design.withfudge.com/share/dash.cloudflare.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dash.cloudflare.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
