@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:16:53.931Z",
+  "generatedAt": "2026-08-08T14:20:25.691Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 188,
     "unpublished": 1018,
-    "ready": 4,
+    "published_verified": 1,
+    "ready": 3,
     "drafting": 5,
     "preparing": 3
   },
@@ -13,8 +14,8 @@
     "schemaVersion": 1,
     "state": "paused",
     "startedAt": "2026-08-08T14:16:03.747Z",
-    "heartbeatAt": "2026-08-08T14:16:47.554Z",
-    "heartbeatExpiresAt": "2026-08-08T14:21:47.554Z",
+    "heartbeatAt": "2026-08-08T14:20:20.216Z",
+    "heartbeatExpiresAt": "2026-08-08T14:25:20.216Z",
     "stale": false,
     "generationControl": {
       "paused": true,
@@ -29,19 +30,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1014,
       "availableGeneration": 1014,
       "waitingForRetry": 4,
-      "readyPublication": 4,
-      "publishedVerified": 0
+      "readyPublication": 3,
+      "publishedVerified": 1
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-08T14:17:18.267Z"
     },
     "lastError": null
   },
@@ -1476,15 +1477,15 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:20:13.604Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/americanhistory.si.edu-design",
+        "markdownUrl": "https://design.withfudge.com/share/americanhistory.si.edu-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/americanhistory.si.edu.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
