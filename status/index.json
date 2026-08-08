@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:11:05.138Z",
+  "generatedAt": "2026-08-08T15:15:17.687Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 180,
-    "published_verified": 21,
+    "published_verified": 22,
     "unpublished": 909,
-    "validating": 1,
-    "legacy": 103,
-    "repairing": 2,
-    "failed": 1
+    "repairing": 1,
+    "drafting": 1,
+    "legacy": 102,
+    "failed": 1,
+    "validating": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:09:55.260Z",
-    "heartbeatExpiresAt": "2026-08-08T15:14:55.260Z",
+    "heartbeatAt": "2026-08-08T15:15:09.483Z",
+    "heartbeatExpiresAt": "2026-08-08T15:20:09.483Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +31,33 @@
           "startedAt": "2026-08-08T15:02:27.015Z"
         },
         {
-          "domain": "saaspo.com",
-          "startedAt": "2026-08-08T14:55:19.130Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-08T15:14:35.853Z"
         },
         {
           "domain": "windsurf.com",
           "startedAt": "2026-08-08T14:56:11.342Z"
         }
       ],
-      "completedThisRun": 9,
+      "completedThisRun": 10,
       "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 8,
+      "completedThisRun": 9,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1011,
       "availableGeneration": 1011,
-      "waitingForRetry": 2,
+      "waitingForRetry": 1,
       "readyPublication": 0,
-      "publishedVerified": 21
+      "publishedVerified": 22
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:04:38.318Z"
+      "lastSyncedAt": "2026-08-08T15:12:22.623Z"
     },
     "lastError": {
       "at": "2026-08-08T14:55:16.977Z",
@@ -1750,9 +1751,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 88,
-      "updatedAt": "2026-08-08T15:07:03.707Z",
+      "updatedAt": "2026-08-08T15:10:53.685Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1814,9 +1815,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "legacy",
-      "attempt": 90,
-      "updatedAt": "2026-08-08T14:41:28.484Z",
+      "state": "drafting",
+      "attempt": 91,
+      "updatedAt": "2026-08-08T15:14:45.300Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -21798,15 +21799,15 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T15:07:17.709Z",
+      "updatedAt": "2026-08-08T15:15:05.411Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/saaspo.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/saaspo.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/saaspo.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -27062,9 +27063,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 84,
-      "updatedAt": "2026-08-08T15:08:17.085Z",
+      "updatedAt": "2026-08-08T15:13:43.606Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
