@@ -1716,7 +1716,7 @@ Digg presents a warm paper newsroom with a hard-edged logo, a very small set of 
 
 [![How discord.com is designed](https://pin.fontofweb.com/7873?format=jpg)](design-md/discord.com.md)
 
-discord.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#efeff1`, and `#97979f`, with typography led by **Gg Sans**. The guide below names reusable design roles only where the captured evidence supports them.
+Discord’s page system balances two distinct moods. One is the product shell: dark, compact, and structured like a control surface. The other is the promotional stage: bright, playful, and built around large statements, mascot art, and broad color fields. The contrast is not accidental; it is the brand. The shell keeps tasks, navigation, and account choices legible. The promotional side turns upgrades, plans, and feature lists into a more theatrical page experience without losing clarity.
 
 [Open guide](design-md/discord.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/discord.com-design)
 
