@@ -1860,7 +1860,7 @@ endl.io presents a predominantly light surface treatment in the captured pages. 
 
 [![How ente.com is designed](https://pin.fontofweb.com/8463?format=jpg)](design-md/ente.com.md)
 
-ente.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#282828`, and `#ffffff`, with typography led by **Gilroy** and **Gilroy W 00**. The guide below names reusable design roles only where the captured evidence supports them.
+Ente presents privacy as a calm, friendly home for personal photos rather than a technical vault. The home page is mostly white, with black navigation, rounded pills, and a centered headline that lands in two strong lines. The bright green emphasis in the hero gives the message a clear point of energy, but the rest of the system stays restrained so the page feels open and trustworthy.
 
 [Open guide](design-md/ente.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ente.com-design)
 
