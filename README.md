@@ -1764,7 +1764,7 @@ DotPro Labs is built like a wall of posters on a black stage. The page speaks in
 
 [![How dreamcomposer.co is designed](https://pin.fontofweb.com/8792?format=jpg)](design-md/dreamcomposer.co.md)
 
-dreamcomposer.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000` and `#fafcf6`, with typography led by **System**, **Ibm Plex Mono**, and **Geist**. The guide below names reusable design roles only where the captured evidence supports them.
+DreamComposer is built like a public idea wall. The page opens with a full-width dotted wordmark, then a large left-aligned statement that explains the product in plain language, with a small credit line anchored at the far right. Beneath that, a tight grid of rounded cards presents short prompts and community-style quotes. The structure is simple, but the contrast between the top banner and the card wall gives the page its character.
 
 [Open guide](design-md/dreamcomposer.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/dreamcomposer.co-design)
 
