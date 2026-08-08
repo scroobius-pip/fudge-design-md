@@ -1962,9 +1962,9 @@ explainers.blog presents a predominantly light surface treatment in the captured
 
 ### fable.co
 
-[![How fable.co is designed](https://pin.fontofweb.com/6898?format=jpg)](design-md/fable.co.md)
+[![How fable.co is designed](https://pin.fontofweb.com/6894?format=jpg)](design-md/fable.co.md)
 
-fable.co presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#161015`, and `#ffffff`, with typography led by **Inter** and **Test Heldane**. The guide below names reusable design roles only where the captured evidence supports them.
+Fable’s visual system presents reading as a calm, app-like storefront rather than a dense catalog tool. The page uses a spare white canvas, then brings in large serif statements, tidy content columns, and rows of book covers that do most of the visual talking. The result feels editorial but not fussy: the type is graceful, the chrome is quiet, and the books remain the main attraction.
 
 [Open guide](design-md/fable.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/fable.co-design)
 
