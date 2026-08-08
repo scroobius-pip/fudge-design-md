@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T13:55:55.690Z",
+  "generatedAt": "2026-08-08T13:57:36.856Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "publishing": 1,
-    "ready": 10,
-    "preparing": 5,
-    "unpublished": 1014,
-    "drafting": 5,
-    "failed": 3
+    "published_verified": 2,
+    "ready": 9,
+    "drafting": 8,
+    "unpublished": 1013,
+    "failed": 3,
+    "preparing": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T13:55:35.586Z",
-    "heartbeatExpiresAt": "2026-08-08T14:00:35.586Z",
+    "heartbeatAt": "2026-08-08T13:57:29.717Z",
+    "heartbeatExpiresAt": "2026-08-08T14:02:29.717Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,42 +26,45 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "agentation.dev",
-          "startedAt": "2026-08-08T13:55:33.818Z"
-        },
-        {
           "domain": "americanhistory.si.edu",
           "startedAt": "2026-08-08T13:55:33.843Z"
         },
         {
           "domain": "americanprogress.org",
           "startedAt": "2026-08-08T13:55:33.884Z"
+        },
+        {
+          "domain": "andreadiego.es",
+          "startedAt": "2026-08-08T13:55:45.826Z"
         }
       ],
       "completedThisRun": 0,
-      "failedThisRun": 0
+      "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "adject.ai",
-        "startedAt": "2026-08-08T13:55:33.809Z"
+        "domain": "ai.cloudflare.com",
+        "startedAt": "2026-08-08T13:56:41.263Z"
       },
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1017,
-      "availableGeneration": 1014,
+      "eligibleGeneration": 1013,
+      "availableGeneration": 1013,
       "waitingForRetry": 3,
-      "readyPublication": 11,
-      "publishedVerified": 0
+      "readyPublication": 9,
+      "publishedVerified": 1
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": null
+      "lastSyncedAt": "2026-08-08T13:57:27.532Z"
     },
-    "lastError": null
+    "lastError": {
+      "at": "2026-08-08T13:55:44.150Z",
+      "message": "Generation failed for agentation.dev with exit 1."
+    }
   },
   "generationControl": {
     "paused": false,
@@ -790,15 +793,15 @@
     },
     {
       "domain": "adject.ai",
-      "state": "publishing",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T13:55:34.281Z",
+      "updatedAt": "2026-08-08T13:56:25.377Z",
       "blocker": null,
       "publication": {
         "key": "adject.ai-design",
         "url": "https://design.withfudge.com/share/adject.ai-design",
         "markdownUrl": "https://design.withfudge.com/share/adject.ai-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/adject.ai.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1078,15 +1081,15 @@
     },
     {
       "domain": "ai.cloudflare.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 92,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T13:57:29.784Z",
       "blocker": null,
       "publication": {
         "key": "ai.cloudflare.com-design",
         "url": "https://design.withfudge.com/share/ai.cloudflare.com-design",
         "markdownUrl": "https://design.withfudge.com/share/ai.cloudflare.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ai.cloudflare.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1494,9 +1497,9 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 85,
-      "updatedAt": "2026-08-08T13:55:36.969Z",
+      "updatedAt": "2026-08-08T13:55:46.983Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
@@ -1510,9 +1513,9 @@
     },
     {
       "domain": "americanprogress.org",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 85,
-      "updatedAt": "2026-08-08T13:55:37.521Z",
+      "updatedAt": "2026-08-08T13:55:50.143Z",
       "blocker": null,
       "publication": {
         "key": "americanprogress.org-design",
@@ -1574,9 +1577,9 @@
     },
     {
       "domain": "andreadiego.es",
-      "state": "unpublished",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T13:56:18.539Z",
       "blocker": null,
       "publication": {
         "key": "andreadiego.es-design",
