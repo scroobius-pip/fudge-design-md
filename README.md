@@ -1588,7 +1588,7 @@ dedcool.com presents a mixed light and dark surface treatment in the captured pa
 
 [![How deepjudge.ai is designed](https://pin.fontofweb.com/6301?format=jpg)](design-md/deepjudge.ai.md)
 
-deepjudge.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#1a1a1a`, `#242422`, and `#ffffff`, with typography led by **Font**. The guide below names reusable design roles only where the captured evidence supports them.
+DeepJudge is built as a legal-tech editorial system rather than a busy software dashboard. The home page starts on a warm ivory field with a centered black navigation pill, a large serif promise, and a sparse line motif that gives the page a controlled, almost printed rhythm. That opening feels calm and formal, with the product message placed above visual structure instead of inside it.
 
 [Open guide](design-md/deepjudge.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/deepjudge.ai-design)
 
