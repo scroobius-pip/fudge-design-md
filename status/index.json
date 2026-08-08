@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:34:40.898Z",
+  "generatedAt": "2026-08-08T17:40:19.838Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 42,
+    "published_verified": 43,
     "unpublished": 909,
-    "failed": 5,
-    "drafting": 2,
+    "failed": 6,
     "repairing": 1,
-    "legacy": 77
+    "drafting": 2,
+    "legacy": 75
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:34:18.680Z",
-    "heartbeatExpiresAt": "2026-08-08T17:39:18.680Z",
+    "heartbeatAt": "2026-08-08T17:40:05.780Z",
+    "heartbeatExpiresAt": "2026-08-08T17:45:05.780Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,37 +30,37 @@
           "startedAt": "2026-08-08T17:29:29.530Z"
         },
         {
-          "domain": "deezer.com",
-          "startedAt": "2026-08-08T17:18:11.387Z"
+          "domain": "departuremono.com",
+          "startedAt": "2026-08-08T17:38:02.483Z"
         },
         {
-          "domain": "demo.refero.design",
-          "startedAt": "2026-08-08T17:33:17.096Z"
+          "domain": "designsystems.surf",
+          "startedAt": "2026-08-08T17:39:14.098Z"
         }
       ],
-      "completedThisRun": 31,
-      "failedThisRun": 15
+      "completedThisRun": 32,
+      "failedThisRun": 16
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 29,
+      "completedThisRun": 30,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 986,
-      "availableGeneration": 986,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 984,
+      "availableGeneration": 984,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 42
+      "publishedVerified": 43
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:32:04.505Z"
+      "lastSyncedAt": "2026-08-08T17:35:28.957Z"
     },
     "lastError": {
-      "at": "2026-08-08T17:27:41.573Z",
-      "message": "Generation failed for dedcool.com with exit 1."
+      "at": "2026-08-08T17:37:52.992Z",
+      "message": "Generation failed for deezer.com with exit 1."
     }
   },
   "generationControl": {
@@ -6102,9 +6102,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T17:29:44.128Z",
+      "updatedAt": "2026-08-08T17:37:04.988Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T17:32:46.608Z",
+      "updatedAt": "2026-08-08T17:37:48.565Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -7041,8 +7041,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T18:37:48.565Z"
     },
     {
       "domain": "define.app",
@@ -7126,15 +7126,15 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T17:33:42.629Z",
+      "updatedAt": "2026-08-08T17:39:52.720Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/demo.refero.design-design",
+        "markdownUrl": "https://design.withfudge.com/share/demo.refero.design-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/demo.refero.design.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -7158,9 +7158,9 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "legacy",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T14:41:30.258Z",
+      "state": "drafting",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T17:38:19.452Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
@@ -7286,9 +7286,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.303Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:39:26.942Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
