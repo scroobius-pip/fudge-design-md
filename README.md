@@ -1692,7 +1692,7 @@ developers.google.com uses a restrained Google marketing language: a white canva
 
 [![How dfinity.org is designed](https://pin.fontofweb.com/7231?format=jpg)](design-md/dfinity.org.md)
 
-dfinity.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0e031f`, and `#ffffff`, with typography led by **By Laurenz Brunner** and **Circular Xx**. The guide below names reusable design roles only where the captured evidence supports them.
+dfinity.org uses a severe, editorial hiring-page layout rather than a decorative marketing shell. The page is built from a white field, strong black vertical section rails, compact text blocks, and very little chrome. The result feels controlled and institutional, but not sterile: the typography is assertive, the spacing is expansive, and the portrait grid brings energy without adding visual noise.
 
 [Open guide](design-md/dfinity.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dfinity.org-design)
 
