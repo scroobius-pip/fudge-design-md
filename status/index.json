@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:57:43.325Z",
+  "generatedAt": "2026-08-08T15:03:30.991Z",
   "counts": {
-    "skipped_one_image": 524,
+    "skipped_one_image": 525,
     "skipped_recent": 180,
-    "published_verified": 20,
-    "legacy": 105,
+    "published_verified": 21,
     "unpublished": 909,
-    "drafting": 3,
+    "drafting": 1,
+    "legacy": 103,
+    "repairing": 2,
     "failed": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:57:35.088Z",
-    "heartbeatExpiresAt": "2026-08-08T15:02:35.088Z",
+    "heartbeatAt": "2026-08-08T15:02:50.034Z",
+    "heartbeatExpiresAt": "2026-08-08T15:07:50.034Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,8 +26,8 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "nocodeapi.com",
-          "startedAt": "2026-08-08T14:54:26.515Z"
+          "domain": "aol.com",
+          "startedAt": "2026-08-08T15:02:27.015Z"
         },
         {
           "domain": "saaspo.com",
@@ -37,25 +38,25 @@
           "startedAt": "2026-08-08T14:56:11.342Z"
         }
       ],
-      "completedThisRun": 7,
+      "completedThisRun": 9,
       "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 7,
+      "completedThisRun": 8,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 1013,
+      "eligibleGeneration": 1011,
+      "availableGeneration": 1011,
       "waitingForRetry": 2,
       "readyPublication": 0,
-      "publishedVerified": 20
+      "publishedVerified": 21
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:56:47.071Z"
+      "lastSyncedAt": "2026-08-08T14:58:01.026Z"
     },
     "lastError": {
       "at": "2026-08-08T14:55:16.977Z",
@@ -965,10 +966,10 @@
     },
     {
       "domain": "agentation.dev",
-      "state": "legacy",
-      "attempt": 6,
-      "updatedAt": "2026-08-08T14:41:27.853Z",
-      "blocker": null,
+      "state": "skipped_one_image",
+      "attempt": 7,
+      "updatedAt": "2026-08-08T15:02:04.064Z",
+      "blocker": "only_one_image",
       "publication": {
         "key": "agentation.dev-design",
         "url": null,
@@ -1749,9 +1750,9 @@
     },
     {
       "domain": "aol.com",
-      "state": "legacy",
-      "attempt": 87,
-      "updatedAt": "2026-08-08T14:41:28.425Z",
+      "state": "drafting",
+      "attempt": 88,
+      "updatedAt": "2026-08-08T15:02:37.879Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -17429,15 +17430,15 @@
     },
     {
       "domain": "nocodeapi.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:54:49.947Z",
+      "updatedAt": "2026-08-08T15:02:40.878Z",
       "blocker": null,
       "publication": {
         "key": "nocodeapi.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/nocodeapi.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/nocodeapi.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/nocodeapi.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -21797,9 +21798,9 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:55:44.139Z",
+      "updatedAt": "2026-08-08T15:01:10.421Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -27061,9 +27062,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:56:33.116Z",
+      "updatedAt": "2026-08-08T15:02:49.520Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
