@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:00:09.858Z",
+  "generatedAt": "2026-08-08T18:05:34.850Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 46,
+    "published_verified": 47,
     "unpublished": 909,
-    "failed": 8,
-    "validating": 1,
-    "drafting": 2,
+    "drafting": 1,
+    "failed": 7,
+    "validating": 2,
     "legacy": 70
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:00:03.090Z",
-    "heartbeatExpiresAt": "2026-08-08T18:05:03.090Z",
+    "heartbeatAt": "2026-08-08T18:04:51.980Z",
+    "heartbeatExpiresAt": "2026-08-08T18:09:51.980Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +26,37 @@
       "concurrency": 3,
       "active": [
         {
+          "domain": "aura.build",
+          "startedAt": "2026-08-08T18:04:04.485Z"
+        },
+        {
           "domain": "diabrowser.com",
           "startedAt": "2026-08-08T17:53:34.736Z"
         },
         {
           "domain": "discord.com",
           "startedAt": "2026-08-08T17:57:38.100Z"
-        },
-        {
-          "domain": "displaay.net",
-          "startedAt": "2026-08-08T17:58:36.229Z"
         }
       ],
-      "completedThisRun": 35,
+      "completedThisRun": 36,
       "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 33,
+      "completedThisRun": 34,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 979,
       "availableGeneration": 979,
-      "waitingForRetry": 8,
+      "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 46
+      "publishedVerified": 47
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:55:00.473Z"
+      "lastSyncedAt": "2026-08-08T18:00:22.051Z"
     },
     "lastError": {
       "at": "2026-08-08T17:58:34.908Z",
@@ -3158,9 +3158,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "failed",
-      "attempt": 87,
-      "updatedAt": "2026-08-08T17:03:15.688Z",
+      "state": "drafting",
+      "attempt": 88,
+      "updatedAt": "2026-08-08T18:04:14.408Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3170,7 +3170,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 2,
-      "nextEligibleAt": "2026-08-08T18:03:15.688Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "aurorashouse.webflow.io",
@@ -7512,7 +7512,7 @@
       "domain": "diabrowser.com",
       "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:59:13.033Z",
+      "updatedAt": "2026-08-08T18:04:18.309Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
@@ -7622,9 +7622,9 @@
     },
     {
       "domain": "discord.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:57:46.568Z",
+      "updatedAt": "2026-08-08T18:04:25.356Z",
       "blocker": null,
       "publication": {
         "key": "discord.com-design",
@@ -7638,15 +7638,15 @@
     },
     {
       "domain": "displaay.net",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:58:44.443Z",
+      "updatedAt": "2026-08-08T18:04:41.783Z",
       "blocker": null,
       "publication": {
         "key": "displaay.net-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/displaay.net-design",
+        "markdownUrl": "https://design.withfudge.com/share/displaay.net-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/displaay.net.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
