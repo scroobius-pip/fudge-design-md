@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T17:26:25.644Z",
-  "heartbeatExpiresAt": "2026-08-08T17:31:25.644Z",
+  "heartbeatAt": "2026-08-08T17:30:28.847Z",
+  "heartbeatExpiresAt": "2026-08-08T17:35:28.847Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,40 +13,43 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "dedcool.com",
-        "startedAt": "2026-08-08T17:08:51.325Z"
+        "domain": "cap.so",
+        "startedAt": "2026-08-08T17:27:41.594Z"
       },
       {
-        "domain": "deepmind.google",
-        "startedAt": "2026-08-08T17:15:15.837Z"
+        "domain": "cora.computer",
+        "startedAt": "2026-08-08T17:29:29.530Z"
       },
       {
         "domain": "deezer.com",
         "startedAt": "2026-08-08T17:18:11.387Z"
       }
     ],
-    "completedThisRun": 29,
-    "failedThisRun": 14
+    "completedThisRun": 30,
+    "failedThisRun": 15
   },
   "publication": {
     "concurrency": 1,
-    "active": null,
+    "active": {
+      "domain": "deepmind.google",
+      "startedAt": "2026-08-08T17:29:29.517Z"
+    },
     "completedThisRun": 27,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 989,
-    "availableGeneration": 989,
-    "waitingForRetry": 4,
+    "eligibleGeneration": 987,
+    "availableGeneration": 987,
+    "waitingForRetry": 5,
     "readyPublication": 0,
-    "publishedVerified": 40
+    "publishedVerified": 41
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T17:21:20.081Z"
+    "lastSyncedAt": "2026-08-08T17:27:17.757Z"
   },
   "lastError": {
-    "at": "2026-08-08T17:12:42.784Z",
-    "message": "Generation failed for betterstack.com with exit 1."
+    "at": "2026-08-08T17:27:41.573Z",
+    "message": "Generation failed for dedcool.com with exit 1."
   }
 }
