@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:54:30.640Z",
+  "generatedAt": "2026-08-08T18:00:09.858Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 46,
     "unpublished": 909,
-    "failed": 6,
-    "repairing": 1,
+    "failed": 8,
     "validating": 1,
-    "drafting": 1,
-    "legacy": 72
+    "drafting": 2,
+    "legacy": 70
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:54:13.376Z",
-    "heartbeatExpiresAt": "2026-08-08T17:59:13.376Z",
+    "heartbeatAt": "2026-08-08T18:00:03.090Z",
+    "heartbeatExpiresAt": "2026-08-08T18:05:03.090Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,20 +26,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "designsystems.surf",
-          "startedAt": "2026-08-08T17:39:14.098Z"
-        },
-        {
-          "domain": "dfinity.org",
-          "startedAt": "2026-08-08T17:51:09.981Z"
-        },
-        {
           "domain": "diabrowser.com",
           "startedAt": "2026-08-08T17:53:34.736Z"
+        },
+        {
+          "domain": "discord.com",
+          "startedAt": "2026-08-08T17:57:38.100Z"
+        },
+        {
+          "domain": "displaay.net",
+          "startedAt": "2026-08-08T17:58:36.229Z"
         }
       ],
       "completedThisRun": 35,
-      "failedThisRun": 17
+      "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 981,
-      "availableGeneration": 981,
-      "waitingForRetry": 6,
+      "eligibleGeneration": 979,
+      "availableGeneration": 979,
+      "waitingForRetry": 8,
       "readyPublication": 0,
       "publishedVerified": 46
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:53:06.443Z"
+      "lastSyncedAt": "2026-08-08T17:55:00.473Z"
     },
     "lastError": {
-      "at": "2026-08-08T17:48:10.660Z",
-      "message": "Generation failed for cora.computer with exit 1."
+      "at": "2026-08-08T17:58:34.908Z",
+      "message": "Generation failed for designsystems.surf with exit 1."
     }
   },
   "generationControl": {
@@ -7287,9 +7286,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:51:54.254Z",
+      "updatedAt": "2026-08-08T17:58:33.896Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7298,8 +7297,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T18:58:33.895Z"
     },
     {
       "domain": "designwithvibbbes.com",
@@ -7479,9 +7478,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "validating",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T17:54:09.544Z",
+      "updatedAt": "2026-08-08T17:57:33.486Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -7490,8 +7489,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T18:57:33.486Z"
     },
     {
       "domain": "dfy.co.kr",
@@ -7511,9 +7510,9 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:53:47.077Z",
+      "updatedAt": "2026-08-08T17:59:13.033Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
@@ -7623,9 +7622,9 @@
     },
     {
       "domain": "discord.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.403Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:57:46.568Z",
       "blocker": null,
       "publication": {
         "key": "discord.com-design",
@@ -7639,9 +7638,9 @@
     },
     {
       "domain": "displaay.net",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.418Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:58:44.443Z",
       "blocker": null,
       "publication": {
         "key": "displaay.net-design",
