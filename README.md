@@ -1810,9 +1810,9 @@ dzen.ru presents a predominantly dark surface treatment in the captured pages. T
 
 ### e360.yale.edu
 
-[![How e360.yale.edu is designed](https://pin.fontofweb.com/9925?format=jpg)](design-md/e360.yale.edu.md)
+[![How e360.yale.edu is designed](https://pin.fontofweb.com/9924?format=jpg)](design-md/e360.yale.edu.md)
 
-e360.yale.edu presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fcfaf6`, and `#1d1c1d`, with typography led by **Ashbury**, **Applesystem**, **System**, and **Moderat**. The guide below names reusable design roles only where the captured evidence supports them.
+E360 uses a classic editorial structure: a compact masthead, a single high-priority lead story, a dense topic index, and a deep black footer that closes the page with institutional weight. The system is calm rather than flashy. It trusts headline rhythm, restrained color, and careful spacing more than decoration. Most of the page sits on a bright reading field, so the black footer and coral labels feel deliberate instead of loud.
 
 [Open guide](design-md/e360.yale.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/e360.yale.edu-design)
 
