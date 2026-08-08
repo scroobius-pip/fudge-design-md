@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:25:28.113Z",
+  "generatedAt": "2026-08-08T14:26:50.989Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 11,
+    "published_verified": 12,
     "unpublished": 1014,
-    "validating": 2,
-    "repairing": 1,
+    "repairing": 3,
     "failed": 8,
-    "ready": 2
+    "ready": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:16:03.747Z",
-    "heartbeatAt": "2026-08-08T14:25:19.680Z",
-    "heartbeatExpiresAt": "2026-08-08T14:30:19.680Z",
+    "heartbeatAt": "2026-08-08T14:26:43.960Z",
+    "heartbeatExpiresAt": "2026-08-08T14:31:43.960Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -44,19 +43,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 2,
+      "completedThisRun": 3,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1018,
       "availableGeneration": 1018,
       "waitingForRetry": 4,
-      "readyPublication": 2,
-      "publishedVerified": 11
+      "readyPublication": 1,
+      "publishedVerified": 12
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:20:37.329Z"
+      "lastSyncedAt": "2026-08-08T14:25:51.046Z"
     },
     "lastError": null
   },
@@ -1603,9 +1602,9 @@
     },
     {
       "domain": "andrian-portfolio-backup.framer.website",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:24:18.613Z",
+      "updatedAt": "2026-08-08T14:26:10.955Z",
       "blocker": null,
       "publication": {
         "key": "andrian-portfolio-backup.framer.website-design",
@@ -1683,9 +1682,9 @@
     },
     {
       "domain": "antler.co",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:24:23.737Z",
+      "updatedAt": "2026-08-08T14:25:47.781Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -27731,15 +27730,15 @@
     },
     {
       "domain": "yuskavage.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 82,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:26:35.794Z",
       "blocker": null,
       "publication": {
         "key": "yuskavage.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/yuskavage.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/yuskavage.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/yuskavage.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
