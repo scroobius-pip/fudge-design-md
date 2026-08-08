@@ -1524,7 +1524,7 @@ danielsun.space is a personal portfolio system built around one clear contrast: 
 
 [![How dany.works is designed](https://pin.fontofweb.com/8350?format=jpg)](design-md/dany.works.md)
 
-dany.works presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#1a1a1a`, and `#b4b4b4`, with typography led by **Fragment Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+dany.works is a quiet studio home page built around a three-column editorial grid. The left rail gives the site its identity and short navigation, the center column behaves like a running note feed, and the right column carries large project imagery with small captions. The whole page feels deliberate and spare: there is no bright campaign color, no boxed dashboard chrome, and no attempt to make every part equally loud.
 
 [Open guide](design-md/dany.works.md) · [View the Fudge conversation](https://design.withfudge.com/share/dany.works-design)
 
