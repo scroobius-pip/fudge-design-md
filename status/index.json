@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:15:17.687Z",
+  "generatedAt": "2026-08-08T15:20:55.342Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 180,
     "published_verified": 22,
     "unpublished": 909,
-    "repairing": 1,
-    "drafting": 1,
-    "legacy": 102,
-    "failed": 1,
-    "validating": 1
+    "repairing": 2,
+    "validating": 1,
+    "legacy": 101,
+    "failed": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:15:09.483Z",
-    "heartbeatExpiresAt": "2026-08-08T15:20:09.483Z",
+    "heartbeatAt": "2026-08-08T15:20:45.081Z",
+    "heartbeatExpiresAt": "2026-08-08T15:25:45.081Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -35,12 +34,12 @@
           "startedAt": "2026-08-08T15:14:35.853Z"
         },
         {
-          "domain": "windsurf.com",
-          "startedAt": "2026-08-08T14:56:11.342Z"
+          "domain": "app.reve.com",
+          "startedAt": "2026-08-08T15:15:42.936Z"
         }
       ],
       "completedThisRun": 10,
-      "failedThisRun": 1
+      "failedThisRun": 2
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1011,
-      "availableGeneration": 1011,
-      "waitingForRetry": 1,
+      "eligibleGeneration": 1010,
+      "availableGeneration": 1010,
+      "waitingForRetry": 2,
       "readyPublication": 0,
       "publishedVerified": 22
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:12:22.623Z"
+      "lastSyncedAt": "2026-08-08T15:15:34.581Z"
     },
     "lastError": {
-      "at": "2026-08-08T14:55:16.977Z",
-      "message": "Generation failed for sap.com with exit 1."
+      "at": "2026-08-08T15:15:42.929Z",
+      "message": "Generation failed for windsurf.com with exit 1."
     }
   },
   "generationControl": {
@@ -1753,7 +1752,7 @@
       "domain": "aol.com",
       "state": "repairing",
       "attempt": 88,
-      "updatedAt": "2026-08-08T15:10:53.685Z",
+      "updatedAt": "2026-08-08T15:18:27.468Z",
       "blocker": null,
       "publication": {
         "key": "aol.com-design",
@@ -1815,9 +1814,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:14:45.300Z",
+      "updatedAt": "2026-08-08T15:18:46.316Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -2423,9 +2422,9 @@
     },
     {
       "domain": "app.reve.com",
-      "state": "legacy",
-      "attempt": 90,
-      "updatedAt": "2026-08-08T14:41:28.588Z",
+      "state": "validating",
+      "attempt": 91,
+      "updatedAt": "2026-08-08T15:20:35.629Z",
       "blocker": null,
       "publication": {
         "key": "app.reve.com-design",
@@ -27063,9 +27062,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T15:13:43.606Z",
+      "updatedAt": "2026-08-08T15:15:40.287Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
@@ -27074,8 +27073,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T16:15:40.287Z"
     },
     {
       "domain": "wip.co",

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T15:15:09.483Z",
-  "heartbeatExpiresAt": "2026-08-08T15:20:09.483Z",
+  "heartbeatAt": "2026-08-08T15:20:45.081Z",
+  "heartbeatExpiresAt": "2026-08-08T15:25:45.081Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -21,12 +21,12 @@
         "startedAt": "2026-08-08T15:14:35.853Z"
       },
       {
-        "domain": "windsurf.com",
-        "startedAt": "2026-08-08T14:56:11.342Z"
+        "domain": "app.reve.com",
+        "startedAt": "2026-08-08T15:15:42.936Z"
       }
     ],
     "completedThisRun": 10,
-    "failedThisRun": 1
+    "failedThisRun": 2
   },
   "publication": {
     "concurrency": 1,
@@ -35,18 +35,18 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1011,
-    "availableGeneration": 1011,
-    "waitingForRetry": 1,
+    "eligibleGeneration": 1010,
+    "availableGeneration": 1010,
+    "waitingForRetry": 2,
     "readyPublication": 0,
     "publishedVerified": 22
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:12:22.623Z"
+    "lastSyncedAt": "2026-08-08T15:15:34.581Z"
   },
   "lastError": {
-    "at": "2026-08-08T14:55:16.977Z",
-    "message": "Generation failed for sap.com with exit 1."
+    "at": "2026-08-08T15:15:42.929Z",
+    "message": "Generation failed for windsurf.com with exit 1."
   }
 }
