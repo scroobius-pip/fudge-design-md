@@ -1796,7 +1796,7 @@ dub.co presents a mixed light and dark surface treatment in the captured pages. 
 
 [![How duties.xyz is designed](https://pin.fontofweb.com/9565?format=jpg)](design-md/duties.xyz.md)
 
-duties.xyz presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#f1f0ee`, and `#0000ee`, with typography led by **System**, **As Therma**, **Applesystem**, and **Pp Neue Montreal Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Duties.xyz is built like a postered storefront that happens to hold a website. The page leans hard on a cream canvas, heavy black condensed display type, and tiny mono utility text so the entire identity reads as blunt, graphic, and slightly confrontational. Instead of a conventional product hero, the home page turns the first view into a typographic statement, then breaks the stillness with a low horizontal band of imagery, status lines, and small navigational details.
 
 [Open guide](design-md/duties.xyz.md) · [View the Fudge conversation](https://design.withfudge.com/share/duties.xyz-design)
 
