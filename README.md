@@ -560,6 +560,14 @@ andreadiego.es uses a quiet but dramatic editorial language. The site feels buil
 
 [Open guide](design-md/andreadiego.es.md) · [View the Fudge conversation](https://design.withfudge.com/share/andreadiego.es-design)
 
+### andrian-portfolio-backup.framer.website
+
+[![How andrian-portfolio-backup.framer.website is designed](https://pin.fontofweb.com/5080?format=jpg)](design-md/andrian-portfolio-backup.framer.website.md)
+
+This page reads like a poster-first portfolio rather than a conventional studio site. The first screen is dominated by open cream space, a centered black headline, and a few tiny square ornaments that give the composition a playful, retro pulse. The design relies on contrast between a very quiet field and a few very loud graphic moments. The result feels confident, youthful, and slightly nostalgic, with a clear preference for centered type, hard edges, and simple shapes.
+
+[Open guide](design-md/andrian-portfolio-backup.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/andrian-portfolio-backup.framer.website-design)
+
 ### animaapp.com
 
 [![How animaapp.com is designed](https://pin.fontofweb.com/5953?format=jpg)](design-md/animaapp.com.md)
