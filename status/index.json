@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:59:13.247Z",
+  "generatedAt": "2026-08-08T20:04:34.449Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 66,
     "unpublished": 909,
     "failed": 8,
-    "drafting": 1,
-    "repairing": 2,
+    "validating": 2,
+    "repairing": 1,
     "legacy": 50
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:59:06.212Z",
-    "heartbeatExpiresAt": "2026-08-08T20:04:06.212Z",
+    "heartbeatAt": "2026-08-08T20:04:27.583Z",
+    "heartbeatExpiresAt": "2026-08-08T20:09:27.583Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -56,7 +56,7 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:54:03.365Z"
+      "lastSyncedAt": "2026-08-08T19:59:26.507Z"
     },
     "lastError": {
       "at": "2026-08-08T19:58:04.373Z",
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:58:15.278Z",
+      "updatedAt": "2026-08-08T20:03:03.734Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -8728,7 +8728,7 @@
       "domain": "epsteinexposed.com",
       "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:56:06.575Z",
+      "updatedAt": "2026-08-08T20:02:43.512Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -8774,9 +8774,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 84,
-      "updatedAt": "2026-08-08T19:56:51.140Z",
+      "updatedAt": "2026-08-08T20:03:18.523Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
