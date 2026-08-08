@@ -456,6 +456,14 @@ Alibaba Cloud's public marketing pages use a strict enterprise tone: large Robot
 
 [Open guide](design-md/alibabacloud.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/alibabacloud.com-design)
 
+### alibabagroup.com
+
+[![How alibabagroup.com is designed](https://pin.fontofweb.com/2349?format=jpg)](design-md/alibabagroup.com.md)
+
+Alibaba Group’s homepage presents itself as a formal editorial system rather than a promotional landing page. The opening view is a large photographic stage with a top navigation row laid over the image and a headline anchored low and left. Below that, the page settles into a brighter information frame with a tab bar, a culture-and-values section, a news grid, and a spacious footer. The rhythm is steady: image, separator, text band, cards, then a dense link matrix at the bottom.
+
+[Open guide](design-md/alibabagroup.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/alibabagroup.com-design)
+
 ### aljazeera.com
 
 [![How aljazeera.com is designed](https://pin.fontofweb.com/9086?format=jpg)](design-md/aljazeera.com.md)
