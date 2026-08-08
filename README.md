@@ -994,9 +994,9 @@ Black Forest Labs uses a visual system that feels like a research poster laid ov
 
 ### binary.so
 
-[![How binary.so is designed](https://pin.fontofweb.com/7683?format=jpg)](design-md/binary.so.md)
+[![How binary.so is designed](https://pin.fontofweb.com/7681?format=jpg)](design-md/binary.so.md)
 
-binary.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0f172a`, and `#586a84`, with typography led by **System** and **Basier Square**. The guide below names reusable design roles only where the captured evidence supports them.
+Binary presents hiring software as a calm, compact marketing system. The page relies on a pale canvas, dark navy emphasis, and crisp white cards rather than loud illustration or dense dashboard styling. The visual tone is measured and efficient: one strong headline, one dark primary action, and a small set of supporting modules that explain the product in plain language.
 
 [Open guide](design-md/binary.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/binary.so-design)
 

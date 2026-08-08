@@ -2,139 +2,182 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/binary.so-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/share/pin-7683)
+[![Minimal hero with dark CTA, trust logos, and a product card on the right](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/share/pin-7681)
 
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7683)
+[Minimal hero with dark CTA, trust logos, and a product card on the right](https://design.withfudge.com/share/pin-7681)
 
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/share/pin-7682)
+[![Wide feature section with video, AI assistant, and white-space rhythm](https://pin.fontofweb.com/7682?format=jpg)](https://design.withfudge.com/share/pin-7682)
 
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7682)
+[Wide feature section with video, AI assistant, and white-space rhythm](https://design.withfudge.com/share/pin-7682)
 
-[![Binary | Hiring software that is fast, simple and AI powered](https://pin.fontofweb.com/7681?format=jpg)](https://design.withfudge.com/share/pin-7681)
+[![Centered pricing stage with four plan cards and a raised Business plan](https://pin.fontofweb.com/7683?format=jpg)](https://design.withfudge.com/share/pin-7683)
 
-[Binary | Hiring software that is fast, simple and AI powered](https://design.withfudge.com/share/pin-7681)
+[Centered pricing stage with four plan cards and a raised Business plan](https://design.withfudge.com/share/pin-7683)
 
 ## Overview
 
-binary.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0f172a`, and `#586a84`, with typography led by **System** and **Basier Square**. The guide below names reusable design roles only where the captured evidence supports them.
+Binary presents hiring software as a calm, compact marketing system. The page relies on a pale canvas, dark navy emphasis, and crisp white cards rather than loud illustration or dense dashboard styling. The visual tone is measured and efficient: one strong headline, one dark primary action, and a small set of supporting modules that explain the product in plain language.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content |
-| color.text | `#0f172a` | text on page content |
-| color.text | `#586a84` | text on page content |
-| color.text | `#ffffff` | text on page content in the button |
-| color.surface | `#f8f8f8` | surface on page content |
-| color.border | `#e2e8f0` | border on page content |
-| color.surface | `#f5f5f5` | surface on page content in the button |
-| color.border | `#e1e7ef` | border on page content in the button |
-| color.shadow | `#bdc1c8` | shadow on page content in the button |
-| color.text | `#f8fafc` | text on page content in the button |
-| color.shadow | `#3c424c` | shadow on page content in the button |
-| color.surface | `#f1f5f9` | surface on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <div>, <span>, <ul>, <li>, and <span> in the header |
-| type.display-52px | **Basier Square** | 52px | 500 | 62.4px | -2.6px | <h2> and <h1> |
-| type.body-18px | **System** | 18px | 400 | 28px | normal | <p> |
-| type.body-20px | **System** | 20px | 400 | 28px | normal | <ul> and <div> |
-| type.body-30px | **Basier Square** | 30px | 500 | 36px | -0.75px | <h3> |
-| type.body-15px | **System** | 15px | 500 | 22.5px | normal | <button> in the button |
-| type.body-18px | **System** | 18px | 500 | 28px | normal | <h2> |
-| type.body-14px | **System** | 14px | 400 | 20px | normal | <div> in the header |
-| type.body-14px | **System** | 14px | 500 | 20px | normal | <span>, <button> in the button, and <span> in the button |
-| type.display-44px | **System** | 44px | 600 | 66px | -1.1px | <span> |
-| type.body-16px | **System** | 16px | 500 | 24px | normal | <button> in the button |
-| type.body-18px | **System** | 18px | 500 | 28px | 0.45px | <button> in the button |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `64px 0px 0px` | padding | page content |
-| `0px 24px` | padding | page content |
-| `0px 260px 160px` | margin | page content |
-| `32px` | padding | page content |
-| `0px 24px 48px` | padding | page content |
-| `0px 416px` | margin | page content |
-| `0px 0px 32px` | margin | page content |
-| `8px 35.2812px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 8px`, `1px solid 8px`, `0px none 6px`, `1px solid 6px`, `0px none 4px`, and `1px solid 6px` border treatments. Recorded gradients include `linear-gradient(to right, rgb(50, 45, 45), rgb(48, 57, 60))`, `linear-gradient(rgb(57, 62, 64), rgb(39, 42, 44))`, and `linear-gradient(rgb(253, 254, 255), rgb(242, 245, 248))`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(60, 66, 76, 0.24) 0px 8px 10px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(189, 193, 200, 0.18) 0px 8px 10px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 8px 30px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(203, 213, 225) 0px 2px 0px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px`.
+The strongest pattern is contrast through restraint. Large headings carry the message, while the interface around them stays quiet with thin borders, subtle shadows, and generous gutters. Plan selection is easy to scan because the layout keeps each option in its own card and uses a single darker card to mark the featured tier. Feature sections repeat the same discipline: short copy on one side, a clean product mockup on the other, and very little extra decoration.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#f8f8f8`, `#f5f5f5`, and `#f1f5f9`. Text colors include `#000000`, `#0f172a`, and `#586a84`. Keep image-derived colors separate from interface colors.
+Binary uses a tightly controlled monochrome palette. The page feels mostly white and slate, with deep navy reserved for the most important control state and the strongest emphasis. That makes the action color feel serious rather than playful, and it keeps the product looking like a dependable B2B tool instead of a consumer brand with decorative color noise. The lighter slates carry the message hierarchy in body copy, labels, and UI metadata, while the borders stay pale enough to divide cards without drawing attention away from the content.
+
+| token | value | role | use |
+|---|---|---|---|
+| `action` | `#0F172A` | deep navy emphasis | Primary buttons, the selected billing state, and the strongest dark fills |
+| `ink` | `#000000` | strongest text | Main hero headlines and the biggest price figures |
+| `body` | `#334155` | primary body text | Feature descriptions, plan details, and supporting copy |
+| `title` | `#3C424C` | section and card titles | Card headings and compact explanatory labels |
+| `navigation` | `#475569` | interface text | Header links, toggle text, and top-level UI labels |
+| `secondary` | `#586A84` | softer supporting text | Secondary lines, notes, and quieter explanatory text |
+| `muted` | `#64748B` | quiet metadata | List items, plan notes, and small captions |
+| `border-soft` | `#BDC1C8` | soft divider | Faint separators and the least prominent card edges |
+| `border` | `#CBD5E1` | standard divider | Card outlines, plan boundaries, and control borders |
+| `canvas` | `#F8FAFC` | page background | The outer page field behind cards and sections |
+| `surface` | `#FFFFFF` | card surface | Pricing cards, product panels, toggles, and button text on dark fills |
+
+The relationship between the colors is simple: almost everything sits on white or near-white, then the action color appears only where the page needs a firm decision. The palette never tries to do too much at once. That keeps the content legible and makes the featured plan and primary action feel intentional rather than ornamental.
 
 ## Typography
 
-The captured type system uses **System** and **Basier Square**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Binary's type system is built from two families: Basier Square for display work and System for the interface layer. Basier Square carries the big statements and price figures, while System handles navigation, labels, body copy, and small UI notes. The hierarchy depends on size, weight, and compact leading more than on many stylistic shifts. That gives the page a crisp SaaS voice that stays readable even when sections are spacious and minimal.
+
+Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Basier Square | 4rem | 600 | 0.95 | -0.04em | Main homepage and pricing headlines |
+| `section-display` | Basier Square | 3.25rem | 600 | 1 | -0.03em | Feature section titles and page subheads |
+| `price-display` | Basier Square | 3.5rem | 600 | 1 | -0.03em | Large plan prices such as the featured tier |
+| `card-title` | Basier Square | 1.75rem | 500 | 1.1 | -0.02em | Plan names and feature block headings |
+| `body` | System | 1rem | 400 | 1.5 | 0em | Paragraph copy and plan detail text |
+| `body-medium` | System | 1rem | 500 | 1.5 | 0em | Buttons, emphasized body lines, and control text |
+| `navigation` | System | 1rem | 500 | 1.35 | 0em | Header links and top-level UI labels |
+| `label` | System | 0.75rem | 500 | 1.3 | 0.02em | Micro labels, toggle text, and small notes |
+| `legal` | System | 0.75rem | 500 | 1.4 | 0em | Fine print and the quietest supporting text |
+
+The large headlines use compact tracking so they read as confident statements rather than airy editorial copy. The body copy opens up enough to breathe, but not so much that the cards feel loose. The pricing figures are especially important: they sit inside the same display family as the major headings, which makes the numbers feel like a central part of the message rather than a separate utility element.
 
 ## Layout
 
-The captured pages use values such as `64px 0px 0px`, `0px 24px`, `0px 260px 160px`, `32px`, and `0px 24px 48px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page is built around a centered desktop column with very generous side space. On the widest views, the content sits far from the edges, which makes the whole page feel calm and premium. The main rhythm is vertical and chapter-like: a hero, then a feature section, then a pricing stage. Each block has enough breathing room to stand on its own, and the page never tries to crowd multiple stories into one band.
+
+The hero uses a two-column composition. The left side carries the headline, short supporting lines, and a dark filled call to action. The right side carries a product card that looks like a stack of documents or a concise application panel. A small trust row sits below the message, keeping the social proof close to the main claim without interrupting the open spacing.
+
+The feature section is more editorial. A text column sits beside product mockups, and the mockups are framed by soft color fields that make them feel like product demonstrations rather than raw screenshots. The images are placed with clear padding around them so they read as separate modules. The blocks are stacked with wide vertical gaps, which prevents the page from feeling like a long list of benefits.
+
+The pricing stage changes the layout rhythm but keeps the same discipline. A centered headline sits above a segmented billing switch and a four-card plan grid. Each plan occupies its own column, while the featured plan lifts above the others and gets a darker button. That raised middle card creates a clear focus point without breaking the overall symmetry. Thin borders and small dividers keep the cards related, while the white canvas around the grid stops the section from feeling heavy.
+
+Overall, the layout depends on wide margins, measured card widths, and a very clear alignment system. There is no visual clutter to hide weak structure. The space itself does most of the work.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#f8f8f8`, `#f5f5f5`, and `#f1f5f9`. Depth is supported by the returned gradients and shadows.
+Binary's visual language is disciplined and flat, with softness added through spacing rather than decoration. The cards are lightly rounded, the borders are pale, and the shadows stay subtle enough to suggest elevation without creating a glossy look. The page avoids gradients, vivid accent color, and busy surface treatments. Instead, it uses quiet tonal shifts and a single dark decision color to guide the eye.
 
-## Components and states
+The most visible state change is the selected button or featured plan. Those elements switch to the deep navy fill and white text, which makes them feel chosen without needing animation or heavy chrome. The rest of the interface stays light, which keeps the accent legible. That same contrast is what makes the featured pricing card stand out: it rises above the surrounding cards, but it still belongs to the same system because the border, radius, and typography stay consistent.
 
-The captured pages include repeated styling on <h2>, <div>, <span>, <button>, <ul>, <li>, <h3>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The product imagery also follows the same rule. Mockups sit inside clean white frames or soft tinted panels, and those frames are large enough to give the image room. Nothing is boxed too tightly. Checkmarks, small info icons, and compact list lines do the explanatory work, while the rest of the page stays visually quiet.
+
+The result is a system that feels straightforward, serious, and easy to scan. It does not rely on ornament to create trust. It builds trust through spacing, hierarchy, and a very limited palette.
+
+## Components
+
+### Header
+
+- **Anatomy:** Small black square mark, text links, and a dark primary action on the right.
+- **Typography:** Use `navigation` for the links so the top row stays present but not loud.
+- **Surface:** The header sits on the same pale canvas as the rest of the page.
+- **Shape:** The primary action uses the smaller control radius, which keeps it crisp instead of pill-like.
+- **Composition:** Keep the logo compact and the links evenly spaced so the hero remains the focus.
+
+### Primary action
+
+- **Surface:** `action` fill with white text.
+- **Typography:** `body-medium` gives the button enough weight without making it look oversized.
+- **Shape:** The control radius keeps the button visibly soft but still sharp enough for a SaaS product.
+- **Spacing:** The button feels compact; it should not sprawl into a large capsule.
+- **Visible state:** The dark fill is the page's strongest interaction cue, so reserve it for the main decision point.
+
+### Billing toggle
+
+- **Anatomy:** Two adjacent pills inside a pale container.
+- **Surface:** The unselected side remains white, while the selected side switches to `action`.
+- **Typography:** Use `navigation` so the labels read like controls rather than headlines.
+- **Shape:** Small rounded corners and a thin border keep the switch tidy.
+- **Visible state:** The active billing mode must be obvious without extra icons or motion.
+
+### Pricing card
+
+- **Anatomy:** Plan name, large price, call to action, then a short feature list.
+- **Surface:** White card with a pale border and a clean internal stack.
+- **Typography:** Plan names use `card-title`; prices use `price-display`; details fall back to `body`.
+- **Spacing:** Keep the interior padding generous so the price can breathe.
+- **Visible state:** The featured plan sits higher and uses a darker button, but it does not need a different visual language.
+
+### Feature panel
+
+- **Anatomy:** Short heading, one or two lines of supporting copy, and a product mockup or screenshot.
+- **Typography:** `card-title` for the heading and `body` for the explanation.
+- **Surface:** Mostly white, with soft tinted framing around the image area.
+- **Shape:** Moderate rounding keeps the module aligned with the pricing cards.
+- **Composition:** Leave enough empty space around the image so the panel reads as a polished marketing block rather than a dense data card.
+
+### Trust row and utility chrome
+
+- **Anatomy:** Short trust sentence, a row of partner logos, and a small floating chat control.
+- **Typography:** Keep the trust sentence in the body or label range so it stays secondary.
+- **Surface:** No heavy panel is needed; the logos work best directly on the canvas.
+- **Visible state:** The chat control stays small and circular, acting as a quiet utility rather than a primary navigation target.
+- **Composition:** This row should sit below the hero message and above the next content block so it supports, rather than interrupts, the main claim.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the page should keep the same reading order: headline, action, supporting copy, then product image or card. The pricing stage should collapse into a single-column stack so each plan can still be scanned independently. The featured plan should remain close to the other options so the comparison stays easy. The feature sections should also stack vertically, with the text above the mockup or image. That keeps the page readable without forcing side-by-side modules into cramped widths.
+
+The type scale should step down carefully, not abruptly. The hero should stay bold and compact, but the line lengths must shorten so the headline does not feel clipped. The large price figures can stay prominent, but the internal padding around them should shrink so the cards do not feel oversized on smaller viewports. Borders, corner radii, and the dark action color should remain unchanged so the system still feels like the same product at every width.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the page mostly white and let the deep navy action color do the decision-making.
+- Preserve the strong headline scale and the wide vertical rhythm between sections.
+- Keep borders thin and pale so the cards feel separated without becoming heavy.
+- Retain the featured pricing card as the clearest emphasis point.
+- Keep imagery inside generous white or softly tinted frames.
+
+### Avoid
+
+- Avoid bright accent colors or decorative gradients that compete with the dark action fill.
+- Avoid oversized pill shapes on buttons and toggles.
+- Avoid dense feature lists with tight line spacing.
+- Avoid heavy shadows that make the cards feel like app windows instead of marketing surfaces.
+- Avoid shrinking the gutters so much that the page loses its calm center.
+
+### Recommended build order
+
+1. Set the canvas, surface, and border colors.
+2. Build the type ladder with the display family first.
+3. Add the header and primary action.
+4. Recreate the hero with its two-column structure.
+5. Build the billing toggle and the four-card pricing grid.
+6. Add the feature section modules and trust row.
+7. Tune spacing, rounding, and selected-state emphasis together so the page feels consistent.
+
+### Accessibility
+
+- Keep the contrast strong on all slate copy against the white background.
+- Make the selected billing state readable without relying on color alone.
+- Ensure the dark action button has enough contrast for its text.
+- Keep interactive elements large enough to support easy tapping.
+- Provide visible focus treatment for the header links, toggle pills, and action buttons.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#0f172a`
-- `#586a84`
-- `#ffffff`
-- `#f8f8f8`
-- `#e2e8f0`
-- `#f5f5f5`
-- `#e1e7ef`
-- `#bdc1c8`
-- `#f8fafc`
-- `#3c424c`
-- `#f1f5f9`
-- `#475569`
-- `#64748b`
-- `#cbd5e1`
-- `#334155`
-
-## Typography captured from binary.so
-
-- **System** — weight 400 · size 16px
-- **Basier Square** — weight 500 · size 52px
+This guide covers the desktop marketing homepage shown in the supplied views: the hero, feature section, trust row, pricing stage, and floating utility control. Mobile rearrangement, hover and focus styling, motion, and full interaction states are not shown here. The spacing scale follows a 4px step.
