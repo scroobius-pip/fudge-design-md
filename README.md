@@ -1730,9 +1730,9 @@ Displaay’s site is a type-foundry system that puts the letterform itself at th
 
 ### dlang.org
 
-[![How dlang.org is designed](https://pin.fontofweb.com/6416?format=jpg)](design-md/dlang.org.md)
+[![How dlang.org is designed](https://pin.fontofweb.com/6415?format=jpg)](design-md/dlang.org.md)
 
-dlang.org presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#333333`, and `#b03931`, with typography led by **Roboto Slab** and **Consolas**. The guide below names reusable design roles only where the captured evidence supports them.
+dlang.org presents D as a practical language with a plain-spoken documentation face. The site does not lean on ornament, illustration, or dramatic surface changes. Instead, it uses a red masthead, centered reading columns, thin separators, and a serif text system to keep attention on the content itself. The home page mixes a short language pitch with a code example, sponsor logos, a four-column content grid for News, Learn, Community, and Documentation, and a separate announcements rail, so the page feels like a community hub as much as a product page. The specification contents page continues the same language, but turns the layout denser and more index-like. The result is steady, direct, and highly legible.
 
 [Open guide](design-md/dlang.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/dlang.org-design)
 
