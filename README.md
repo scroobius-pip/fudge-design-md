@@ -592,6 +592,14 @@ Antigravity uses a spare Google product register: a white page surface, a thin t
 
 [Open guide](design-md/antigravity.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/antigravity.google-design)
 
+### anytype.dev
+
+[![How anytype.dev is designed](https://pin.fontofweb.com/4171?format=jpg)](design-md/anytype.dev.md)
+
+Anytype.dev uses a single dark visual voice across the visible desktop views. The site does not split into bright and dark chapters; instead, it stays on a near-black canvas and lets hierarchy come from type size, opacity, and the orange accent. That makes the interface feel focused and self-contained, like a writing room or a timing tool rather than a general marketing site.
+
+[Open guide](design-md/anytype.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/anytype.dev-design)
+
 ### anytype.io
 
 [![How anytype.io is designed](https://pin.fontofweb.com/8145?format=jpg)](design-md/anytype.io.md)
