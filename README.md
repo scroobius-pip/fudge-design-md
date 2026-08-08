@@ -592,6 +592,14 @@ Antigravity uses a spare Google product register: a white page surface, a thin t
 
 [Open guide](design-md/antigravity.google.md) · [View the Fudge conversation](https://design.withfudge.com/share/antigravity.google-design)
 
+### antler.co
+
+[![How antler.co is designed](https://pin.fontofweb.com/5669?format=jpg)](design-md/antler.co.md)
+
+Antler’s homepage reads like a founder-network editorial page rather than a conventional corporate site. The page begins on a light, open canvas with a compact brand title, a red square mark, and a dense grid of links. It then moves into deep teal chapters where white headlines, serif emphasis, and photography work together to make the site feel international, selective, and active. The pacing is deliberate: one large idea per zone, with plenty of room around each block so the typography and imagery can carry the identity.
+
+[Open guide](design-md/antler.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/antler.co-design)
+
 ### anytype.dev
 
 [![How anytype.dev is designed](https://pin.fontofweb.com/4171?format=jpg)](design-md/anytype.dev.md)
