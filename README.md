@@ -352,6 +352,14 @@ ai-sdk.dev is designed as a dark developer homepage that sells the product throu
 
 [Open guide](design-md/ai-sdk.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai-sdk.dev-design)
 
+### ai.cloudflare.com
+
+[![How ai.cloudflare.com is designed](https://pin.fontofweb.com/744?format=jpg)](design-md/ai.cloudflare.com.md)
+
+Cloudflare AI uses a spare landing-page system built on white space, dark type, and a few sharp warm accents. The opening scene is centered and almost empty: a large headline, a compact dark button, and a faint globe-like field that gives the page scale without crowding the message. After that, the page shifts into a quote band with a strong heading, a long testimonial, and a row of customer logos. The lower half becomes explanatory and more editorial, with a centered chapter heading and alternating rows that pair short copy with product mockups. The rhythm is calm and deliberate. Each section gets room to breathe, and the page avoids busy framing, loud color blocks, or decorative clutter.
+
+[Open guide](design-md/ai.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai.cloudflare.com-design)
+
 ### aino.agency
 
 [![How aino.agency is designed](https://pin.fontofweb.com/7074?format=jpg)](design-md/aino.agency.md)
