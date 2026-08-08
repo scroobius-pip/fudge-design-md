@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:47:38.920Z",
+  "generatedAt": "2026-08-08T18:50:56.522Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 55,
+    "published_verified": 56,
     "unpublished": 909,
-    "failed": 6,
-    "repairing": 1,
-    "drafting": 2,
+    "failed": 5,
+    "drafting": 1,
+    "validating": 2,
     "legacy": 63
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:47:30.967Z",
-    "heartbeatExpiresAt": "2026-08-08T18:52:30.967Z",
+    "heartbeatAt": "2026-08-08T18:50:51.103Z",
+    "heartbeatExpiresAt": "2026-08-08T18:55:51.103Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +26,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "deezer.com",
-          "startedAt": "2026-08-08T18:39:24.396Z"
+          "domain": "cora.computer",
+          "startedAt": "2026-08-08T18:50:10.100Z"
         },
         {
-          "domain": "drinkag1.com",
-          "startedAt": "2026-08-08T18:43:32.467Z"
+          "domain": "deezer.com",
+          "startedAt": "2026-08-08T18:39:24.396Z"
         },
         {
           "domain": "drkst.framer.website",
           "startedAt": "2026-08-08T18:47:00.518Z"
         }
       ],
-      "completedThisRun": 44,
+      "completedThisRun": 45,
       "failedThisRun": 22
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 42,
+      "completedThisRun": 43,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 972,
       "availableGeneration": 972,
-      "waitingForRetry": 6,
+      "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 55
+      "publishedVerified": 56
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:44:27.101Z"
+      "lastSyncedAt": "2026-08-08T18:48:09.755Z"
     },
     "lastError": {
       "at": "2026-08-08T18:39:23.980Z",
@@ -6102,9 +6102,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "failed",
-      "attempt": 91,
-      "updatedAt": "2026-08-08T17:48:09.439Z",
+      "state": "drafting",
+      "attempt": 92,
+      "updatedAt": "2026-08-08T18:50:16.608Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -6114,7 +6114,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 2,
-      "nextEligibleAt": "2026-08-08T18:48:09.439Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "correresmidestino.com",
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:45:02.708Z",
+      "updatedAt": "2026-08-08T18:47:33.791Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -8022,15 +8022,15 @@
     },
     {
       "domain": "drinkag1.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T18:43:46.449Z",
+      "updatedAt": "2026-08-08T18:50:43.246Z",
       "blocker": null,
       "publication": {
         "key": "drinkag1.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/drinkag1.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/drinkag1.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/drinkag1.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8054,9 +8054,9 @@
     },
     {
       "domain": "drkst.framer.website",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:47:07.228Z",
+      "updatedAt": "2026-08-08T18:50:06.928Z",
       "blocker": null,
       "publication": {
         "key": "drkst.framer.website-design",
