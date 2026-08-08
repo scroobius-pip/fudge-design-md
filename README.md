@@ -1636,7 +1636,7 @@ demo.refero.design is a dark research workspace for comparing interface patterns
 
 [![How departuremono.com is designed](https://pin.fontofweb.com/9531?format=jpg)](design-md/departuremono.com.md)
 
-departuremono.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#444444`, `#eeeeee`, and `#222222`, with typography led by **Departure Mono** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Departure Mono’s homepage reads like a desktop desk set for one typeface. The huge wordmark at the top left acts as the hero specimen, while the rest of the page behaves like supporting paper laid around it: a letter sheet, a clipped research note, a dark access badge, a report page, and a spare footer stage. The design feels archival, technical, and a little playful because the page turns the font itself into the main object of attention.
 
 [Open guide](design-md/departuremono.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/departuremono.com-design)
 
