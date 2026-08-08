@@ -620,7 +620,7 @@ Anytype's marketing pages rely on a strict contrast between white canvas and bla
 
 [![How aol.com is designed](https://pin.fontofweb.com/8410?format=jpg)](design-md/aol.com.md)
 
-aol.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#232a31`, and `#12161c`, with typography led by **Basis Grotesque Pro**. The guide below names reusable design roles only where the captured evidence supports them.
+AOL’s homepage reads as a dense news portal rather than a spare landing page. The bright header announces the brand immediately, then the page opens into a broad light reading field packed with a lead carousel, a trending stack, and a right-side promo grid. The structure is direct: one dominant story block at the top, a strong supporting column beside it, and a second story-and-list band below. The design depends on quick scanning, not on decorative flourish.
 
 [Open guide](design-md/aol.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aol.com-design)
 
