@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:40:19.838Z",
+  "generatedAt": "2026-08-08T17:45:40.130Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 43,
+    "published_verified": 44,
     "unpublished": 909,
     "failed": 6,
     "repairing": 1,
-    "drafting": 2,
-    "legacy": 75
+    "validating": 1,
+    "drafting": 1,
+    "legacy": 74
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:40:05.780Z",
-    "heartbeatExpiresAt": "2026-08-08T17:45:05.780Z",
+    "heartbeatAt": "2026-08-08T17:45:17.138Z",
+    "heartbeatExpiresAt": "2026-08-08T17:50:17.138Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +31,33 @@
           "startedAt": "2026-08-08T17:29:29.530Z"
         },
         {
-          "domain": "departuremono.com",
-          "startedAt": "2026-08-08T17:38:02.483Z"
-        },
-        {
           "domain": "designsystems.surf",
           "startedAt": "2026-08-08T17:39:14.098Z"
+        },
+        {
+          "domain": "designwithvibbbes.com",
+          "startedAt": "2026-08-08T17:44:24.031Z"
         }
       ],
-      "completedThisRun": 32,
+      "completedThisRun": 33,
       "failedThisRun": 16
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 30,
+      "completedThisRun": 31,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 984,
       "availableGeneration": 984,
-      "waitingForRetry": 6,
+      "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 43
+      "publishedVerified": 44
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:35:28.957Z"
+      "lastSyncedAt": "2026-08-08T17:40:52.450Z"
     },
     "lastError": {
       "at": "2026-08-08T17:37:52.992Z",
@@ -6104,7 +6105,7 @@
       "domain": "cora.computer",
       "state": "repairing",
       "attempt": 91,
-      "updatedAt": "2026-08-08T17:37:04.988Z",
+      "updatedAt": "2026-08-08T17:42:34.054Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -7158,15 +7159,15 @@
     },
     {
       "domain": "departuremono.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T17:38:19.452Z",
+      "updatedAt": "2026-08-08T17:45:06.888Z",
       "blocker": null,
       "publication": {
         "key": "departuremono.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/departuremono.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/departuremono.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/departuremono.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -7286,9 +7287,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:39:26.942Z",
+      "updatedAt": "2026-08-08T17:43:17.827Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7302,9 +7303,9 @@
     },
     {
       "domain": "designwithvibbbes.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.316Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:44:39.590Z",
       "blocker": null,
       "publication": {
         "key": "designwithvibbbes.com-design",
