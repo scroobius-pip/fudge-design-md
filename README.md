@@ -2002,9 +2002,9 @@ figma.com presents a predominantly dark surface treatment in the captured pages.
 
 ### figr.design
 
-[![How figr.design is designed](https://pin.fontofweb.com/7414?format=jpg)](design-md/figr.design.md)
+[![How figr.design is designed](https://pin.fontofweb.com/7413?format=jpg)](design-md/figr.design.md)
 
-figr.design presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f4f3f1`, and `#ffffff`, with typography led by **Inter** and **Gt Alpina**. The guide below names reusable design roles only where the captured evidence supports them.
+Figr’s visual system is quiet, premium, and highly typographic. The page architecture gives the serif headline the most authority, then supports it with a restrained sans-serif UI for navigation, form labels, and helper copy. The overall mood is warm rather than clinical: the canvas reads as a soft cream, the main text is near-black, and the only vivid accent is a lavender-purple button fill. That single accent repeats in the top navigation and the form submit control, so the site feels consistent even as the page shifts from a marketing homepage to a practical contact form.
 
 [Open guide](design-md/figr.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/figr.design-design)
 
