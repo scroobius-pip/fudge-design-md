@@ -1780,7 +1780,7 @@ AG1’s design system is a premium wellness ecommerce language that keeps the in
 
 [![How drkst.framer.website is designed](https://pin.fontofweb.com/9029?format=jpg)](design-md/drkst.framer.website.md)
 
-drkst.framer.website presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f2f2f2`, and `#030303`, with typography led by **System** and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Drkst® is a minimal studio-style homepage built from a very small set of visual moves: a soft light field, a compact black brand chip, a suspended product tile, and a centered statement that relies on size and weight rather than ornament. The page feels deliberate and quiet, with enough spacing to make each object look placed by hand. Nothing on the screen tries to fill every corner.
 
 [Open guide](design-md/drkst.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/drkst.framer.website-design)
 
