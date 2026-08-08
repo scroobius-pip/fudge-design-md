@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:09:12.781Z",
+  "generatedAt": "2026-08-08T21:10:59.535Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 73,
+    "published_verified": 74,
     "unpublished": 909,
     "failed": 10,
     "drafting": 3,
-    "ready": 2,
+    "ready": 1,
     "legacy": 39
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:08:46.794Z",
-    "heartbeatExpiresAt": "2026-08-08T21:13:46.794Z",
+    "heartbeatAt": "2026-08-08T21:10:51.382Z",
+    "heartbeatExpiresAt": "2026-08-08T21:15:51.382Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -44,19 +44,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 60,
+      "completedThisRun": 61,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 948,
-      "availableGeneration": 948,
-      "waitingForRetry": 10,
-      "readyPublication": 2,
-      "publishedVerified": 73
+      "eligibleGeneration": 949,
+      "availableGeneration": 949,
+      "waitingForRetry": 9,
+      "readyPublication": 1,
+      "publishedVerified": 74
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:07:46.344Z"
+      "lastSyncedAt": "2026-08-08T21:10:08.006Z"
     },
     "lastError": {
       "at": "2026-08-08T20:57:31.017Z",
@@ -9062,15 +9062,15 @@
     },
     {
       "domain": "fable.co",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T21:08:11.788Z",
+      "updatedAt": "2026-08-08T21:10:45.235Z",
       "blocker": null,
       "publication": {
         "key": "fable.co-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/fable.co-design",
+        "markdownUrl": "https://design.withfudge.com/share/fable.co-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/fable.co.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
