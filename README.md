@@ -52,7 +52,7 @@ collection, including blocked jobs and completed replacements.
 
 [![How 1600.agency is designed](https://pin.fontofweb.com/5997?format=jpg)](design-md/1600.agency.md)
 
-1600.agency is built like a refined sales page for a motion studio: bright, centered, and unusually calm for a service site that sells speed and output. The page leans on a white canvas, a heavy black display face, and one warm orange action color. That combination makes the hero feel crisp and confident rather than decorative. The interface never becomes busy; the visual message is always easy to scan because the strongest elements are held in a small number of large, rounded containers.
+1600.agency uses a stark, highly centered landing-page composition. The page begins with a floating rounded header, then drops into a large stacked headline, a short promise line, three compact chips, and a single dark appointment button. The structure is simple, but the proportioning makes it feel deliberate rather than plain. The headline is the dominant object on the page, and everything else stays small enough to keep attention on that statement.
 
 [Open guide](design-md/1600.agency.md) · [View the Fudge conversation](https://design.withfudge.com/share/1600.agency-design)
 
