@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:04:34.449Z",
+  "generatedAt": "2026-08-08T20:10:13.994Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 66,
     "unpublished": 909,
-    "failed": 8,
-    "validating": 2,
+    "failed": 9,
     "repairing": 1,
-    "legacy": 50
+    "drafting": 1,
+    "validating": 1,
+    "legacy": 49
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:04:27.583Z",
-    "heartbeatExpiresAt": "2026-08-08T20:09:27.583Z",
+    "heartbeatAt": "2026-08-08T20:09:52.631Z",
+    "heartbeatExpiresAt": "2026-08-08T20:14:52.631Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,16 +31,16 @@
           "startedAt": "2026-08-08T19:58:10.117Z"
         },
         {
-          "domain": "epsteinexposed.com",
-          "startedAt": "2026-08-08T19:49:29.799Z"
+          "domain": "dub.co",
+          "startedAt": "2026-08-08T20:09:40.841Z"
         },
         {
-          "domain": "etched.com",
-          "startedAt": "2026-08-08T19:50:49.409Z"
+          "domain": "ethicalads.io",
+          "startedAt": "2026-08-08T20:05:34.279Z"
         }
       ],
       "completedThisRun": 55,
-      "failedThisRun": 29
+      "failedThisRun": 31
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +49,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 959,
-      "availableGeneration": 959,
-      "waitingForRetry": 8,
+      "eligibleGeneration": 958,
+      "availableGeneration": 958,
+      "waitingForRetry": 9,
       "readyPublication": 0,
       "publishedVerified": 66
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:59:26.507Z"
+      "lastSyncedAt": "2026-08-08T20:04:47.762Z"
     },
     "lastError": {
-      "at": "2026-08-08T19:58:04.373Z",
-      "message": "Generation failed for era.app with exit 1."
+      "at": "2026-08-08T20:09:36.999Z",
+      "message": "Generation failed for epsteinexposed.com with exit 1."
     }
   },
   "generationControl": {
@@ -7030,9 +7031,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:03:03.734Z",
+      "updatedAt": "2026-08-08T20:05:30.762Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -8102,9 +8103,9 @@
     },
     {
       "domain": "dub.co",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T19:06:51.333Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T20:09:47.978Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
@@ -8114,7 +8115,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T20:06:51.333Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "duetnightabyss.dna-panstudio.com",
@@ -8726,9 +8727,9 @@
     },
     {
       "domain": "epsteinexposed.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:02:43.512Z",
+      "updatedAt": "2026-08-08T20:09:35.852Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -8737,8 +8738,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T21:09:35.852Z"
     },
     {
       "domain": "era.app",
@@ -8774,9 +8775,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 84,
-      "updatedAt": "2026-08-08T20:03:18.523Z",
+      "updatedAt": "2026-08-08T20:05:25.462Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -8785,14 +8786,14 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T21:05:25.460Z"
     },
     {
       "domain": "ethicalads.io",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.738Z",
+      "state": "validating",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:09:51.999Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
