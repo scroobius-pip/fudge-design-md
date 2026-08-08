@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:32:31.295Z",
+  "generatedAt": "2026-08-08T20:34:18.270Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 68,
+    "published_verified": 69,
     "unpublished": 909,
     "failed": 11,
-    "ready": 1,
-    "drafting": 2,
-    "preparing": 1,
+    "drafting": 3,
     "legacy": 44
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:32:05.522Z",
-    "heartbeatExpiresAt": "2026-08-08T20:37:05.522Z",
+    "heartbeatAt": "2026-08-08T20:34:08.707Z",
+    "heartbeatExpiresAt": "2026-08-08T20:39:08.707Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -45,19 +43,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 55,
+      "completedThisRun": 56,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 954,
+      "eligibleGeneration": 953,
       "availableGeneration": 953,
       "waitingForRetry": 11,
-      "readyPublication": 1,
-      "publishedVerified": 68
+      "readyPublication": 0,
+      "publishedVerified": 69
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:27:23.817Z"
+      "lastSyncedAt": "2026-08-08T20:33:21.938Z"
     },
     "lastError": {
       "at": "2026-08-08T20:31:49.741Z",
@@ -8823,15 +8821,15 @@
     },
     {
       "domain": "eu-inc.org",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:31:19.975Z",
+      "updatedAt": "2026-08-08T20:34:02.245Z",
       "blocker": null,
       "publication": {
         "key": "eu-inc.org-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/eu-inc.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/eu-inc.org-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/eu-inc.org.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8887,9 +8885,9 @@
     },
     {
       "domain": "evilmartians.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:32:08.079Z",
+      "updatedAt": "2026-08-08T20:32:25.370Z",
       "blocker": null,
       "publication": {
         "key": "evilmartians.com-design",
