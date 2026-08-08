@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:04:27.307Z",
+  "generatedAt": "2026-08-08T14:05:14.763Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 4,
+    "published_verified": 5,
     "publishing": 1,
     "ready": 6,
-    "validating": 2,
+    "validating": 1,
     "repairing": 1,
     "unpublished": 1013,
     "drafting": 5,
@@ -16,14 +16,14 @@
   },
   "supervisor": {
     "schemaVersion": 1,
-    "state": "running",
+    "state": "paused",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T14:04:13.425Z",
-    "heartbeatExpiresAt": "2026-08-08T14:09:13.425Z",
+    "heartbeatAt": "2026-08-08T14:05:09.337Z",
+    "heartbeatExpiresAt": "2026-08-08T14:10:09.337Z",
     "stale": false,
     "generationControl": {
-      "paused": false,
-      "reason": null
+      "paused": true,
+      "reason": "supervisor_restart"
     },
     "generation": {
       "concurrency": 3,
@@ -35,22 +35,18 @@
         {
           "domain": "americanprogress.org",
           "startedAt": "2026-08-08T13:55:33.884Z"
-        },
-        {
-          "domain": "andreadiego.es",
-          "startedAt": "2026-08-08T13:55:45.826Z"
         }
       ],
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "aistudio.google.com",
-        "startedAt": "2026-08-08T14:04:11.787Z"
+        "domain": "alibabagroup.com",
+        "startedAt": "2026-08-08T14:05:08.089Z"
       },
-      "completedThisRun": 4,
+      "completedThisRun": 5,
       "failedThisRun": 0
     },
     "queue": {
@@ -58,11 +54,11 @@
       "availableGeneration": 1013,
       "waitingForRetry": 3,
       "readyPublication": 7,
-      "publishedVerified": 4
+      "publishedVerified": 5
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:03:45.960Z"
+      "lastSyncedAt": "2026-08-08T14:04:42.289Z"
     },
     "lastError": {
       "at": "2026-08-08T13:55:44.150Z",
@@ -70,8 +66,8 @@
     }
   },
   "generationControl": {
-    "paused": false,
-    "reason": null
+    "paused": true,
+    "reason": "supervisor_restart"
   },
   "domains": [
     {
@@ -1244,15 +1240,15 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "publishing",
+      "state": "published_verified",
       "attempt": 90,
-      "updatedAt": "2026-08-08T14:04:12.539Z",
+      "updatedAt": "2026-08-08T14:05:04.020Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
         "url": "https://design.withfudge.com/share/aistudio.google.com-design",
         "markdownUrl": "https://design.withfudge.com/share/aistudio.google.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aistudio.google.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1356,9 +1352,9 @@
     },
     {
       "domain": "alibabagroup.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 87,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T14:05:08.773Z",
       "blocker": null,
       "publication": {
         "key": "alibabagroup.com-design",
@@ -1580,9 +1576,9 @@
     },
     {
       "domain": "andreadiego.es",
-      "state": "validating",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:03:08.419Z",
+      "updatedAt": "2026-08-08T14:04:34.321Z",
       "blocker": null,
       "publication": {
         "key": "andreadiego.es-design",
