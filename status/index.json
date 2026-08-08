@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:07:22.550Z",
+  "generatedAt": "2026-08-08T19:15:22.490Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 58,
     "unpublished": 909,
     "failed": 7,
-    "repairing": 2,
-    "legacy": 60
+    "validating": 2,
+    "drafting": 1,
+    "legacy": 59
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:06:51.750Z",
-    "heartbeatExpiresAt": "2026-08-08T19:11:51.750Z",
+    "heartbeatAt": "2026-08-08T19:14:17.823Z",
+    "heartbeatExpiresAt": "2026-08-08T19:19:17.823Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,20 +26,20 @@
       "concurrency": 3,
       "active": [
         {
+          "domain": "designsystems.surf",
+          "startedAt": "2026-08-08T19:07:02.733Z"
+        },
+        {
           "domain": "dfinity.org",
           "startedAt": "2026-08-08T19:00:23.481Z"
         },
         {
-          "domain": "dub.co",
-          "startedAt": "2026-08-08T18:51:45.912Z"
-        },
-        {
-          "domain": "dzen.ru",
-          "startedAt": "2026-08-08T18:56:46.002Z"
+          "domain": "e360.yale.edu",
+          "startedAt": "2026-08-08T19:11:59.157Z"
         }
       ],
       "completedThisRun": 47,
-      "failedThisRun": 24
+      "failedThisRun": 26
     },
     "publication": {
       "concurrency": 1,
@@ -47,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 970,
-      "availableGeneration": 970,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 968,
+      "availableGeneration": 968,
+      "waitingForRetry": 7,
       "readyPublication": 0,
       "publishedVerified": 58
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:01:38.781Z"
+      "lastSyncedAt": "2026-08-08T19:08:10.884Z"
     },
     "lastError": {
-      "at": "2026-08-08T18:56:42.611Z",
-      "message": "Generation failed for deezer.com with exit 1."
+      "at": "2026-08-08T19:11:55.750Z",
+      "message": "Generation failed for dzen.ru with exit 1."
     }
   },
   "generationControl": {
@@ -7285,9 +7286,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T17:58:33.896Z",
+      "state": "validating",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T19:11:49.124Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7297,7 +7298,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T18:58:33.895Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "designwithvibbbes.com",
@@ -7477,9 +7478,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 87,
-      "updatedAt": "2026-08-08T19:06:22.208Z",
+      "updatedAt": "2026-08-08T19:13:05.466Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -8197,9 +8198,9 @@
     },
     {
       "domain": "dzen.ru",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:06:43.590Z",
+      "updatedAt": "2026-08-08T19:11:43.103Z",
       "blocker": null,
       "publication": {
         "key": "dzen.ru-design",
@@ -8208,14 +8209,14 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T20:11:43.103Z"
     },
     {
       "domain": "e360.yale.edu",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.580Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T19:12:39.289Z",
       "blocker": null,
       "publication": {
         "key": "e360.yale.edu-design",

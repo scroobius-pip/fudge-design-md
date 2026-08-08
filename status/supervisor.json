@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T19:06:51.750Z",
-  "heartbeatExpiresAt": "2026-08-08T19:11:51.750Z",
+  "heartbeatAt": "2026-08-08T19:14:17.823Z",
+  "heartbeatExpiresAt": "2026-08-08T19:19:17.823Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,20 +13,20 @@
     "concurrency": 3,
     "active": [
       {
+        "domain": "designsystems.surf",
+        "startedAt": "2026-08-08T19:07:02.733Z"
+      },
+      {
         "domain": "dfinity.org",
         "startedAt": "2026-08-08T19:00:23.481Z"
       },
       {
-        "domain": "dub.co",
-        "startedAt": "2026-08-08T18:51:45.912Z"
-      },
-      {
-        "domain": "dzen.ru",
-        "startedAt": "2026-08-08T18:56:46.002Z"
+        "domain": "e360.yale.edu",
+        "startedAt": "2026-08-08T19:11:59.157Z"
       }
     ],
     "completedThisRun": 47,
-    "failedThisRun": 24
+    "failedThisRun": 26
   },
   "publication": {
     "concurrency": 1,
@@ -35,18 +35,18 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 970,
-    "availableGeneration": 970,
-    "waitingForRetry": 5,
+    "eligibleGeneration": 968,
+    "availableGeneration": 968,
+    "waitingForRetry": 7,
     "readyPublication": 0,
     "publishedVerified": 58
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T19:01:38.781Z"
+    "lastSyncedAt": "2026-08-08T19:08:10.884Z"
   },
   "lastError": {
-    "at": "2026-08-08T18:56:42.611Z",
-    "message": "Generation failed for deezer.com with exit 1."
+    "at": "2026-08-08T19:11:55.750Z",
+    "message": "Generation failed for dzen.ru with exit 1."
   }
 }
