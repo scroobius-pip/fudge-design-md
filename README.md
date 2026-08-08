@@ -650,9 +650,9 @@ Momentum presents itself as a compact sequencing workspace: a dark shell wraps a
 
 ### api.scira.ai
 
-[![How api.scira.ai is designed](https://pin.fontofweb.com/5945?format=jpg)](design-md/api.scira.ai.md)
+[![How api.scira.ai is designed](https://pin.fontofweb.com/5944?format=jpg)](design-md/api.scira.ai.md)
 
-api.scira.ai presents a predominantly light surface treatment in the captured pages. The system is anchored by the recorded surface and text values, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
+Scira’s public page is a restrained developer landing system built almost entirely from dark surfaces, soft borders, and one warm action color. The page avoids visual noise and instead gives each section a clear job: a rounded call-to-action card, a split feature block with code, and a compact footer with navigation and legal links. The result feels technical and calm rather than playful or promotional.
 
 [Open guide](design-md/api.scira.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/api.scira.ai-design)
 
