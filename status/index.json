@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T13:57:59.112Z",
+  "generatedAt": "2026-08-08T14:03:15.246Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 2,
-    "syncing": 1,
+    "published_verified": 3,
     "ready": 8,
-    "drafting": 8,
+    "repairing": 2,
+    "validating": 1,
     "unpublished": 1013,
+    "drafting": 5,
     "failed": 3,
     "preparing": 3
   },
@@ -16,8 +17,8 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T13:57:54.278Z",
-    "heartbeatExpiresAt": "2026-08-08T14:02:54.278Z",
+    "heartbeatAt": "2026-08-08T14:03:06.020Z",
+    "heartbeatExpiresAt": "2026-08-08T14:08:06.020Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -60,7 +61,7 @@
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T13:57:51.845Z"
+      "lastSyncedAt": "2026-08-08T13:58:10.899Z"
     },
     "lastError": {
       "at": "2026-08-08T13:55:44.150Z",
@@ -1114,15 +1115,15 @@
     },
     {
       "domain": "aihero.dev",
-      "state": "syncing",
+      "state": "published_verified",
       "attempt": 2,
-      "updatedAt": "2026-08-08T13:57:45.899Z",
+      "updatedAt": "2026-08-08T14:03:06.104Z",
       "blocker": null,
       "publication": {
         "key": "aihero.dev-design",
         "url": "https://design.withfudge.com/share/aihero.dev-design",
         "markdownUrl": "https://design.withfudge.com/share/aihero.dev-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aihero.dev.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1498,9 +1499,9 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T13:55:46.983Z",
+      "updatedAt": "2026-08-08T14:01:04.691Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
@@ -1514,9 +1515,9 @@
     },
     {
       "domain": "americanprogress.org",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T13:55:50.143Z",
+      "updatedAt": "2026-08-08T14:01:44.793Z",
       "blocker": null,
       "publication": {
         "key": "americanprogress.org-design",
@@ -1578,9 +1579,9 @@
     },
     {
       "domain": "andreadiego.es",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T13:56:18.539Z",
+      "updatedAt": "2026-08-08T14:03:08.419Z",
       "blocker": null,
       "publication": {
         "key": "andreadiego.es-design",
