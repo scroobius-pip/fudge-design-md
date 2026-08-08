@@ -2408,6 +2408,14 @@ Linear combines an editorially spare product pitch with an operational workspace
 
 [Open guide](design-md/linear.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/linear.app-design)
 
+### sacred.computer
+
+[![How sacred.computer is designed](https://pin.fontofweb.com/4255?format=jpg)](design-md/sacred.computer.md)
+
+sacred.computer presents a strict terminal language built from a black grid field, pale framing lines, compact mono text, and one hot orange accent. The page feels assembled from software windows rather than marketing modules. Every major area is boxed, labeled, and separated by hard geometry, so the structure does most of the visual work.
+
+[Open guide](design-md/sacred.computer.md) · [View the Fudge conversation](https://design.withfudge.com/share/sacred.computer-design)
+
 ### stripe.com
 
 [![How stripe.com is designed](https://pin.fontofweb.com/7595?format=jpg)](design-md/stripe.com.md)
