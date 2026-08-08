@@ -876,7 +876,7 @@ audio.com uses a dark creator-platform language: deep charcoal backgrounds, brig
 
 [![How aura.build is designed](https://pin.fontofweb.com/8824?format=jpg)](design-md/aura.build.md)
 
-aura.build presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafafa`, and `#ffffff`, with typography led by **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Aura is built around a dark application shell and a bright inner canvas. The site moves between template pages, a React generator workspace, and a changelog timeline, but the same narrow palette, thin borders, and rounded cards keep those pages in one family. The result feels like a product studio: serious enough for technical work, yet polished enough for a template marketplace.
 
 [Open guide](design-md/aura.build.md) · [View the Fudge conversation](https://design.withfudge.com/share/aura.build-design)
 
