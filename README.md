@@ -1004,7 +1004,7 @@ Binary presents hiring software as a calm, compact marketing system. The page re
 
 [![How bkid.co is designed](https://pin.fontofweb.com/10283?format=jpg)](design-md/bkid.co.md)
 
-bkid.co presents a predominantly light surface treatment in the captured pages. The system is anchored by `#444444`, `#ffffff`, and `#888888`, with typography led by **Helvetica Neue**, **Applesystem**, **System**, and **Helvetica**. The guide below names reusable design roles only where the captured evidence supports them.
+BKID's work pages read like studio documentation rather than a commercial site. The page gives the work the first and strongest voice: a compact top navigation, a right-aligned wordmark, a large hero image, and then a calm sequence of credit text, explanation, and specimen grids. The interface is almost invisible because the visual system is built to keep attention on the 3D objects and their arrangement.
 
 [Open guide](design-md/bkid.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/bkid.co-design)
 
