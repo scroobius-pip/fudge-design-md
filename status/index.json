@@ -1,24 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:26:35.809Z",
+  "generatedAt": "2026-08-08T19:28:32.844Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 61,
+    "published_verified": 62,
     "unpublished": 909,
     "failed": 7,
-    "ready": 1,
-    "validating": 1,
-    "drafting": 1,
-    "preparing": 1,
+    "repairing": 1,
+    "drafting": 2,
     "legacy": 55
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:26:06.342Z",
-    "heartbeatExpiresAt": "2026-08-08T19:31:06.342Z",
+    "heartbeatAt": "2026-08-08T19:28:22.353Z",
+    "heartbeatExpiresAt": "2026-08-08T19:33:22.353Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -46,19 +44,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 48,
+      "completedThisRun": 49,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 965,
+      "eligibleGeneration": 964,
       "availableGeneration": 964,
       "waitingForRetry": 7,
-      "readyPublication": 1,
-      "publishedVerified": 61
+      "readyPublication": 0,
+      "publishedVerified": 62
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:22:04.604Z"
+      "lastSyncedAt": "2026-08-08T19:27:24.104Z"
     },
     "lastError": {
       "at": "2026-08-08T19:11:55.750Z",
@@ -7288,15 +7286,15 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:25:52.737Z",
+      "updatedAt": "2026-08-08T19:28:11.905Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/designsystems.surf-design",
+        "markdownUrl": "https://design.withfudge.com/share/designsystems.surf-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/designsystems.surf.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8392,9 +8390,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:24:20.137Z",
+      "updatedAt": "2026-08-08T19:27:24.637Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8584,9 +8582,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:26:07.805Z",
+      "updatedAt": "2026-08-08T19:26:32.436Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
