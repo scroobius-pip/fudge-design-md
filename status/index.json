@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:28:17.121Z",
+  "generatedAt": "2026-08-08T15:34:01.376Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 24,
     "unpublished": 909,
     "failed": 3,
+    "validating": 2,
     "repairing": 1,
-    "drafting": 2,
     "legacy": 97
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:27:55.599Z",
-    "heartbeatExpiresAt": "2026-08-08T15:32:55.599Z",
+    "heartbeatAt": "2026-08-08T15:33:55.279Z",
+    "heartbeatExpiresAt": "2026-08-08T15:38:55.279Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -56,7 +56,7 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:24:32.314Z"
+      "lastSyncedAt": "2026-08-08T15:28:48.201Z"
     },
     "lastError": {
       "at": "2026-08-08T15:27:08.856Z",
@@ -2694,9 +2694,9 @@
     },
     {
       "domain": "arcee.ai",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 89,
-      "updatedAt": "2026-08-08T15:27:25.990Z",
+      "updatedAt": "2026-08-08T15:32:42.777Z",
       "blocker": null,
       "publication": {
         "key": "arcee.ai-design",
@@ -3158,9 +3158,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T15:27:29.301Z",
+      "updatedAt": "2026-08-08T15:31:49.217Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3414,9 +3414,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 89,
-      "updatedAt": "2026-08-08T15:27:58.400Z",
+      "updatedAt": "2026-08-08T15:32:22.432Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
