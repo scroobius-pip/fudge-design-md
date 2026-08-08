@@ -2464,6 +2464,14 @@ Stripe's captured homepage is a calm editorial product interface: a pale canvas,
 
 [Open guide](design-md/stripe.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/stripe.com-design)
 
+### windsurf.com
+
+[![How windsurf.com is designed](https://pin.fontofweb.com/8872?format=jpg)](design-md/windsurf.com.md)
+
+Windsurf presents a dark software brand rather than a light marketing page. The strongest sections begin on a deep navy field with a centered headline, a concise action cluster, and just enough support text to make the choice obvious. From there the page moves into large product cards, a compact provider strip, and pricing blocks that keep the same calm tone while changing the surface color.
+
+[Open guide](design-md/windsurf.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/windsurf.com-design)
+
 ### youworkforthem.com
 
 [![How youworkforthem.com is designed](https://pin.fontofweb.com/7437?format=jpg)](design-md/youworkforthem.com.md)
