@@ -1772,7 +1772,7 @@ DreamComposer is built like a public idea wall. The page opens with a full-width
 
 [![How drinkag1.com is designed](https://pin.fontofweb.com/6222?format=jpg)](design-md/drinkag1.com.md)
 
-drinkag1.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f6f5f1`, with typography led by **By Johannes Breyer Fabian Harb Elias Hanzer Renan Rosatti Erkin Karamemet** and **Ag Items**. The guide below names reusable design roles only where the captured evidence supports them.
+AG1’s design system is a premium wellness ecommerce language that keeps the interface severe and calm while product imagery carries the sensory load. The page is built from a black-and-white chrome, deep green chapter panels, and large photo-led cards. The wordmark, navigation, and purchase controls stay minimal; the sections below do the persuasion through scale, contrast, and product proof.
 
 [Open guide](design-md/drinkag1.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/drinkag1.com-design)
 
