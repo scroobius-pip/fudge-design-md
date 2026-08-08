@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T15:46:27.630Z",
-  "heartbeatExpiresAt": "2026-08-08T15:51:27.630Z",
+  "heartbeatAt": "2026-08-08T15:50:54.218Z",
+  "heartbeatExpiresAt": "2026-08-08T15:55:54.218Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,40 +13,40 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "base-ui.com",
-        "startedAt": "2026-08-08T15:34:09.342Z"
-      },
-      {
         "domain": "betterstack.com",
         "startedAt": "2026-08-08T15:41:02.898Z"
       },
       {
-        "domain": "binary.so",
-        "startedAt": "2026-08-08T15:44:13.060Z"
+        "domain": "bkid.co",
+        "startedAt": "2026-08-08T15:50:14.123Z"
+      },
+      {
+        "domain": "blog.google",
+        "startedAt": "2026-08-08T15:50:22.019Z"
       }
     ],
-    "completedThisRun": 14,
-    "failedThisRun": 5
+    "completedThisRun": 15,
+    "failedThisRun": 6
   },
   "publication": {
     "concurrency": 1,
     "active": null,
-    "completedThisRun": 12,
+    "completedThisRun": 13,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1003,
-    "availableGeneration": 1003,
-    "waitingForRetry": 5,
+    "eligibleGeneration": 1001,
+    "availableGeneration": 1001,
+    "waitingForRetry": 6,
     "readyPublication": 0,
-    "publishedVerified": 25
+    "publishedVerified": 26
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:41:24.539Z"
+    "lastSyncedAt": "2026-08-08T15:46:46.831Z"
   },
   "lastError": {
-    "at": "2026-08-08T15:44:05.702Z",
-    "message": "Generation failed for aura.build with exit 1."
+    "at": "2026-08-08T15:50:18.937Z",
+    "message": "Generation failed for base-ui.com with exit 1."
   }
 }
