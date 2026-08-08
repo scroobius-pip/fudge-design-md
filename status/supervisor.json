@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T21:24:52.269Z",
-  "heartbeatExpiresAt": "2026-08-08T21:29:52.269Z",
+  "heartbeatAt": "2026-08-08T21:30:48.835Z",
+  "heartbeatExpiresAt": "2026-08-08T21:35:48.835Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,43 +13,40 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "epsteinexposed.com",
-        "startedAt": "2026-08-08T21:15:11.243Z"
-      },
-      {
         "domain": "ethicalads.io",
         "startedAt": "2026-08-08T21:23:05.741Z"
       },
       {
         "domain": "fastino.ai",
         "startedAt": "2026-08-08T21:24:11.511Z"
+      },
+      {
+        "domain": "figma.com",
+        "startedAt": "2026-08-08T21:28:02.334Z"
       }
     ],
     "completedThisRun": 66,
-    "failedThisRun": 38
+    "failedThisRun": 39
   },
   "publication": {
     "concurrency": 1,
-    "active": {
-      "domain": "factory.ai",
-      "startedAt": "2026-08-08T21:24:11.502Z"
-    },
-    "completedThisRun": 63,
+    "active": null,
+    "completedThisRun": 64,
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 947,
-    "availableGeneration": 947,
-    "waitingForRetry": 9,
+    "eligibleGeneration": 946,
+    "availableGeneration": 946,
+    "waitingForRetry": 10,
     "readyPublication": 0,
-    "publishedVerified": 76
+    "publishedVerified": 77
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T21:22:18.204Z"
+    "lastSyncedAt": "2026-08-08T21:25:46.985Z"
   },
   "lastError": {
-    "at": "2026-08-08T21:23:05.737Z",
-    "message": "Generation failed for etched.com with exit 1."
+    "at": "2026-08-08T21:27:57.993Z",
+    "message": "Generation failed for epsteinexposed.com with exit 1."
   }
 }

@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:25:13.222Z",
+  "generatedAt": "2026-08-08T21:30:55.767Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 77,
     "unpublished": 909,
-    "failed": 9,
-    "validating": 1,
-    "drafting": 2,
-    "legacy": 38
+    "failed": 10,
+    "validating": 2,
+    "drafting": 1,
+    "legacy": 37
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:24:52.269Z",
-    "heartbeatExpiresAt": "2026-08-08T21:29:52.269Z",
+    "heartbeatAt": "2026-08-08T21:30:48.835Z",
+    "heartbeatExpiresAt": "2026-08-08T21:35:48.835Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,44 +26,41 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "epsteinexposed.com",
-          "startedAt": "2026-08-08T21:15:11.243Z"
-        },
-        {
           "domain": "ethicalads.io",
           "startedAt": "2026-08-08T21:23:05.741Z"
         },
         {
           "domain": "fastino.ai",
           "startedAt": "2026-08-08T21:24:11.511Z"
+        },
+        {
+          "domain": "figma.com",
+          "startedAt": "2026-08-08T21:28:02.334Z"
         }
       ],
       "completedThisRun": 66,
-      "failedThisRun": 38
+      "failedThisRun": 39
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "factory.ai",
-        "startedAt": "2026-08-08T21:24:11.502Z"
-      },
-      "completedThisRun": 63,
+      "active": null,
+      "completedThisRun": 64,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 947,
-      "availableGeneration": 947,
-      "waitingForRetry": 9,
+      "eligibleGeneration": 946,
+      "availableGeneration": 946,
+      "waitingForRetry": 10,
       "readyPublication": 0,
-      "publishedVerified": 76
+      "publishedVerified": 77
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:22:18.204Z"
+      "lastSyncedAt": "2026-08-08T21:25:46.985Z"
     },
     "lastError": {
-      "at": "2026-08-08T21:23:05.737Z",
-      "message": "Generation failed for etched.com with exit 1."
+      "at": "2026-08-08T21:27:57.993Z",
+      "message": "Generation failed for epsteinexposed.com with exit 1."
     }
   },
   "generationControl": {
@@ -8729,9 +8726,9 @@
     },
     {
       "domain": "epsteinexposed.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:24:47.163Z",
+      "updatedAt": "2026-08-08T21:27:54.394Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -8740,8 +8737,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T22:27:54.394Z"
     },
     {
       "domain": "era.app",
@@ -8793,9 +8790,9 @@
     },
     {
       "domain": "ethicalads.io",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T21:23:11.825Z",
+      "updatedAt": "2026-08-08T21:29:13.812Z",
       "blocker": null,
       "publication": {
         "key": "ethicalads.io-design",
@@ -9177,9 +9174,9 @@
     },
     {
       "domain": "fastino.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 84,
-      "updatedAt": "2026-08-08T21:24:24.056Z",
+      "updatedAt": "2026-08-08T21:28:35.086Z",
       "blocker": null,
       "publication": {
         "key": "fastino.ai-design",
@@ -9273,9 +9270,9 @@
     },
     {
       "domain": "figma.com",
-      "state": "legacy",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:41:30.910Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T21:28:15.820Z",
       "blocker": null,
       "publication": {
         "key": "figma.com-design",
