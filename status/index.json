@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:31:14.567Z",
+  "generatedAt": "2026-08-08T17:34:40.898Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 41,
+    "published_verified": 42,
     "unpublished": 909,
     "failed": 5,
     "drafting": 2,
-    "validating": 1,
-    "legacy": 78
+    "repairing": 1,
+    "legacy": 77
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:30:28.847Z",
-    "heartbeatExpiresAt": "2026-08-08T17:35:28.847Z",
+    "heartbeatAt": "2026-08-08T17:34:18.680Z",
+    "heartbeatExpiresAt": "2026-08-08T17:39:18.680Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,40 +26,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "cap.so",
-          "startedAt": "2026-08-08T17:27:41.594Z"
-        },
-        {
           "domain": "cora.computer",
           "startedAt": "2026-08-08T17:29:29.530Z"
         },
         {
           "domain": "deezer.com",
           "startedAt": "2026-08-08T17:18:11.387Z"
+        },
+        {
+          "domain": "demo.refero.design",
+          "startedAt": "2026-08-08T17:33:17.096Z"
         }
       ],
-      "completedThisRun": 30,
+      "completedThisRun": 31,
       "failedThisRun": 15
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "deepmind.google",
-        "startedAt": "2026-08-08T17:29:29.517Z"
-      },
-      "completedThisRun": 27,
+      "active": null,
+      "completedThisRun": 29,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 987,
-      "availableGeneration": 987,
+      "eligibleGeneration": 986,
+      "availableGeneration": 986,
       "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 41
+      "publishedVerified": 42
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:27:17.757Z"
+      "lastSyncedAt": "2026-08-08T17:32:04.505Z"
     },
     "lastError": {
       "at": "2026-08-08T17:27:41.573Z",
@@ -5065,18 +5062,18 @@
     },
     {
       "domain": "cap.so",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T17:27:47.010Z",
+      "updatedAt": "2026-08-08T17:34:06.709Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
         "url": "https://design.withfudge.com/share/cap.so-design",
         "markdownUrl": "https://design.withfudge.com/share/cap.so-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cap.so.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -7033,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T17:29:31.843Z",
+      "updatedAt": "2026-08-08T17:32:46.608Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -7129,9 +7126,9 @@
     },
     {
       "domain": "demo.refero.design",
-      "state": "legacy",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T14:41:30.244Z",
+      "state": "drafting",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T17:33:42.629Z",
       "blocker": null,
       "publication": {
         "key": "demo.refero.design-design",
