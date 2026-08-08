@@ -1410,9 +1410,9 @@ cosmic-ray.tv uses a strict black shell so the work can carry almost all of the 
 
 ### cosmos.so
 
-[![How cosmos.so is designed](https://pin.fontofweb.com/9477?format=jpg)](design-md/cosmos.so.md)
+[![How cosmos.so is designed](https://pin.fontofweb.com/8596?format=jpg)](design-md/cosmos.so.md)
 
-cosmos.so presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f7f5f3`, and `#302f47`, with typography led by **Cosmos Oracle**. The guide below names reusable design roles only where the captured evidence supports them.
+Cosmos.so feels like a calm discovery system built from a paper-white canvas, a black typographic spine, and a loose field of rounded image tiles. The page is not dense or dashboard-like. It opens with a centered call to action surrounded by floating thumbnails, then moves into editorial chapters where a single headline, one image, and a short explanatory block do most of the work. Further down, a three-card comparison row turns the interface into a clearer product explanation, and the dark app shell at the end shifts the mood without changing the restraint.
 
 [Open guide](design-md/cosmos.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/cosmos.so-design)
 
