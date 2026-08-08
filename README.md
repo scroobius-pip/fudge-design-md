@@ -1738,9 +1738,9 @@ dlang.org presents D as a practical language with a plain-spoken documentation f
 
 ### docs.apara.design
 
-[![How docs.apara.design is designed](https://pin.fontofweb.com/7987?format=jpg)](design-md/docs.apara.design.md)
+[![How docs.apara.design is designed](https://pin.fontofweb.com/7986?format=jpg)](design-md/docs.apara.design.md)
 
-docs.apara.design presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f8f8f8`, with typography led by **System**, **Inter**, and **A 8 Vp Nyp Lzcud Gbirn 8 Oe Wq Belq**. The guide below names reusable design roles only where the captured evidence supports them.
+Apara Docs uses a restrained editorial shell instead of a dashboard-like interface. The page is built around three stable parts: a narrow navigation rail at left, a centered reading column, and a slim helper rail at right. That frame stays the same across the home hub and the terms page, but the content inside it changes from a welcoming entry point to a formal article. The home page leans on greeting copy and bright shortcut cards. The terms page swaps that energy for a strong title, update metadata, a large banner card, and stacked text sections.
 
 [Open guide](design-md/docs.apara.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/docs.apara.design-design)
 
