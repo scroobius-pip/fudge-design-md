@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:40:26.880Z",
+  "generatedAt": "2026-08-08T19:42:39.936Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 62,
+    "published_verified": 63,
     "unpublished": 909,
     "failed": 8,
-    "validating": 2,
     "drafting": 1,
+    "validating": 1,
     "legacy": 54
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:40:10.872Z",
-    "heartbeatExpiresAt": "2026-08-08T19:45:10.872Z",
+    "heartbeatAt": "2026-08-08T19:42:20.553Z",
+    "heartbeatExpiresAt": "2026-08-08T19:47:20.553Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,8 +26,8 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "elevenlabs.io",
-          "startedAt": "2026-08-08T19:25:20.039Z"
+          "domain": "docs.apara.design",
+          "startedAt": "2026-08-08T19:41:10.844Z"
         },
         {
           "domain": "emmiwu.com",
@@ -38,25 +38,25 @@
           "startedAt": "2026-08-08T19:38:18.759Z"
         }
       ],
-      "completedThisRun": 51,
+      "completedThisRun": 52,
       "failedThisRun": 27
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 49,
+      "completedThisRun": 50,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 964,
-      "availableGeneration": 964,
+      "eligibleGeneration": 963,
+      "availableGeneration": 963,
       "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 62
+      "publishedVerified": 63
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:34:47.994Z"
+      "lastSyncedAt": "2026-08-08T19:40:51.479Z"
     },
     "lastError": {
       "at": "2026-08-08T19:38:13.777Z",
@@ -7718,9 +7718,9 @@
     },
     {
       "domain": "docs.apara.design",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T18:39:20.093Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T19:41:24.071Z",
       "blocker": null,
       "publication": {
         "key": "docs.apara.design-design",
@@ -7730,7 +7730,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T19:39:20.093Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "docs.attio.com",
@@ -8454,15 +8454,15 @@
     },
     {
       "domain": "elevenlabs.io",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:38:43.677Z",
+      "updatedAt": "2026-08-08T19:42:06.086Z",
       "blocker": null,
       "publication": {
         "key": "elevenlabs.io-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/elevenlabs.io-design",
+        "markdownUrl": "https://design.withfudge.com/share/elevenlabs.io-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/elevenlabs.io.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8582,9 +8582,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:39:11.401Z",
+      "updatedAt": "2026-08-08T19:42:21.050Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
@@ -8593,8 +8593,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T20:42:21.050Z"
     },
     {
       "domain": "empirical.health",
@@ -8630,9 +8630,9 @@
     },
     {
       "domain": "endl.io",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:38:29.884Z",
+      "updatedAt": "2026-08-08T19:42:19.009Z",
       "blocker": null,
       "publication": {
         "key": "endl.io-design",
