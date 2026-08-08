@@ -408,6 +408,14 @@ Airwallex reads as a clean enterprise-finance system with very little ornamental
 
 [Open guide](design-md/airwallex.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/airwallex.com-design)
 
+### aistudio.google.com
+
+[![How aistudio.google.com is designed](https://pin.fontofweb.com/6258?format=jpg)](design-md/aistudio.google.com.md)
+
+Google AI Studio presents itself as a dark, compact workbench with a marketing surface layered above it. The interface is not trying to feel airy or ornamental. It feels controlled, technical, and immediate: a narrow settings rail, a centered prompt composer, a large hero block for a featured model, and a restrained footer. The result is a page that moves between product configuration and product story without changing its visual language.
+
+[Open guide](design-md/aistudio.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/aistudio.google.com-design)
+
 ### aiverse.design
 
 [![How aiverse.design is designed](https://pin.fontofweb.com/8555?format=jpg)](design-md/aiverse.design.md)
