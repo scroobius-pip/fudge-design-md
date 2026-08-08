@@ -1,20 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:37:26.592Z",
+  "generatedAt": "2026-08-08T14:38:52.156Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 180,
-    "published_verified": 13,
+    "published_verified": 14,
     "unpublished": 1014,
-    "validating": 3,
-    "failed": 8
+    "repairing": 1,
+    "ready": 1,
+    "failed": 6,
+    "drafting": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:37:17.670Z",
-    "heartbeatExpiresAt": "2026-08-08T14:42:17.670Z",
+    "heartbeatAt": "2026-08-08T14:38:35.624Z",
+    "heartbeatExpiresAt": "2026-08-08T14:43:35.624Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -28,33 +30,33 @@
           "startedAt": "2026-08-08T14:33:06.701Z"
         },
         {
-          "domain": "anytype.dev",
-          "startedAt": "2026-08-08T14:33:06.706Z"
+          "domain": "ergo.org",
+          "startedAt": "2026-08-08T14:37:40.636Z"
         },
         {
-          "domain": "api.momentum.uninspired.studio",
-          "startedAt": "2026-08-08T14:33:06.724Z"
+          "domain": "sacred.computer",
+          "startedAt": "2026-08-08T14:37:47.837Z"
         }
       ],
-      "completedThisRun": 0,
+      "completedThisRun": 2,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 0,
+      "completedThisRun": 1,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1018,
-      "availableGeneration": 1018,
+      "eligibleGeneration": 1016,
+      "availableGeneration": 1016,
       "waitingForRetry": 4,
-      "readyPublication": 0,
-      "publishedVerified": 13
+      "readyPublication": 1,
+      "publishedVerified": 14
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:32:12.962Z"
+      "lastSyncedAt": "2026-08-08T14:37:42.012Z"
     },
     "lastError": null
   },
@@ -1681,9 +1683,9 @@
     },
     {
       "domain": "antler.co",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T14:36:28.778Z",
+      "updatedAt": "2026-08-08T14:38:05.086Z",
       "blocker": null,
       "publication": {
         "key": "antler.co-design",
@@ -1713,9 +1715,9 @@
     },
     {
       "domain": "anytype.dev",
-      "state": "validating",
+      "state": "ready",
       "attempt": 86,
-      "updatedAt": "2026-08-08T14:36:23.771Z",
+      "updatedAt": "2026-08-08T14:37:42.236Z",
       "blocker": null,
       "publication": {
         "key": "anytype.dev-design",
@@ -1793,15 +1795,15 @@
     },
     {
       "domain": "api.momentum.uninspired.studio",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:36:30.249Z",
+      "updatedAt": "2026-08-08T14:38:23.437Z",
       "blocker": null,
       "publication": {
         "key": "api.momentum.uninspired.studio-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/api.momentum.uninspired.studio-design",
+        "markdownUrl": "https://design.withfudge.com/share/api.momentum.uninspired.studio-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/api.momentum.uninspired.studio.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8753,9 +8755,9 @@
     },
     {
       "domain": "ergo.org",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:34:22.337Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T14:37:46.219Z",
       "blocker": null,
       "publication": {
         "key": "ergo.org-design",
@@ -21809,9 +21811,9 @@
     },
     {
       "domain": "sacred.computer",
-      "state": "failed",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:34:22.550Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T14:37:58.082Z",
       "blocker": null,
       "publication": {
         "key": "sacred.computer-design",
