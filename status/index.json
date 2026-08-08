@@ -1,21 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:34:18.270Z",
+  "generatedAt": "2026-08-08T20:38:52.478Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 69,
+    "published_verified": 70,
     "unpublished": 909,
     "failed": 11,
-    "drafting": 3,
-    "legacy": 44
+    "repairing": 1,
+    "ready": 1,
+    "drafting": 1,
+    "legacy": 43
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:34:08.707Z",
-    "heartbeatExpiresAt": "2026-08-08T20:39:08.707Z",
+    "heartbeatAt": "2026-08-08T20:38:22.380Z",
+    "heartbeatExpiresAt": "2026-08-08T20:43:22.380Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,37 +27,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "every.to",
-          "startedAt": "2026-08-08T20:31:07.827Z"
-        },
-        {
           "domain": "everyday-practice.com",
           "startedAt": "2026-08-08T20:31:26.428Z"
         },
         {
           "domain": "evilmartians.com",
           "startedAt": "2026-08-08T20:31:59.923Z"
+        },
+        {
+          "domain": "exa.ai",
+          "startedAt": "2026-08-08T20:37:15.929Z"
         }
       ],
-      "completedThisRun": 58,
+      "completedThisRun": 59,
       "failedThisRun": 34
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 56,
+      "completedThisRun": 57,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 953,
       "availableGeneration": 953,
-      "waitingForRetry": 11,
+      "waitingForRetry": 10,
       "readyPublication": 0,
-      "publishedVerified": 69
+      "publishedVerified": 70
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:33:21.938Z"
+      "lastSyncedAt": "2026-08-08T20:34:32.631Z"
     },
     "lastError": {
       "at": "2026-08-08T20:31:49.741Z",
@@ -8853,15 +8855,15 @@
     },
     {
       "domain": "every.to",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T20:31:27.980Z",
+      "updatedAt": "2026-08-08T20:38:02.538Z",
       "blocker": null,
       "publication": {
         "key": "every.to-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/every.to-design",
+        "markdownUrl": "https://design.withfudge.com/share/every.to-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/every.to.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8869,9 +8871,9 @@
     },
     {
       "domain": "everyday-practice.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:31:40.135Z",
+      "updatedAt": "2026-08-08T20:37:43.006Z",
       "blocker": null,
       "publication": {
         "key": "everyday-practice.com-design",
@@ -8885,9 +8887,9 @@
     },
     {
       "domain": "evilmartians.com",
-      "state": "drafting",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:32:25.370Z",
+      "updatedAt": "2026-08-08T20:38:39.346Z",
       "blocker": null,
       "publication": {
         "key": "evilmartians.com-design",
@@ -8901,9 +8903,9 @@
     },
     {
       "domain": "exa.ai",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.824Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:37:38.022Z",
       "blocker": null,
       "publication": {
         "key": "exa.ai-design",
