@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T15:41:10.816Z",
+  "generatedAt": "2026-08-08T15:46:35.387Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 25,
     "unpublished": 909,
-    "failed": 4,
+    "failed": 5,
     "repairing": 1,
     "validating": 1,
-    "preparing": 1,
-    "legacy": 95
+    "drafting": 1,
+    "legacy": 94
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T15:41:03.942Z",
-    "heartbeatExpiresAt": "2026-08-08T15:46:03.942Z",
+    "heartbeatAt": "2026-08-08T15:46:27.630Z",
+    "heartbeatExpiresAt": "2026-08-08T15:51:27.630Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,20 +27,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "aura.build",
-          "startedAt": "2026-08-08T15:27:12.824Z"
-        },
-        {
           "domain": "base-ui.com",
           "startedAt": "2026-08-08T15:34:09.342Z"
         },
         {
           "domain": "betterstack.com",
           "startedAt": "2026-08-08T15:41:02.898Z"
+        },
+        {
+          "domain": "binary.so",
+          "startedAt": "2026-08-08T15:44:13.060Z"
         }
       ],
       "completedThisRun": 14,
-      "failedThisRun": 4
+      "failedThisRun": 5
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +49,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1005,
-      "availableGeneration": 1004,
-      "waitingForRetry": 4,
+      "eligibleGeneration": 1003,
+      "availableGeneration": 1003,
+      "waitingForRetry": 5,
       "readyPublication": 0,
       "publishedVerified": 25
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:35:56.942Z"
+      "lastSyncedAt": "2026-08-08T15:41:24.539Z"
     },
     "lastError": {
-      "at": "2026-08-08T15:40:54.763Z",
-      "message": "Generation failed for baked.design with exit 1."
+      "at": "2026-08-08T15:44:05.702Z",
+      "message": "Generation failed for aura.build with exit 1."
     }
   },
   "generationControl": {
@@ -3159,9 +3159,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T15:39:57.134Z",
+      "updatedAt": "2026-08-08T15:44:04.561Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3170,8 +3170,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T16:44:04.561Z"
     },
     {
       "domain": "aurorashouse.webflow.io",
@@ -3511,9 +3511,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 90,
-      "updatedAt": "2026-08-08T15:40:29.994Z",
+      "updatedAt": "2026-08-08T15:45:53.515Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3783,9 +3783,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "preparing",
+      "state": "validating",
       "attempt": 89,
-      "updatedAt": "2026-08-08T15:41:04.884Z",
+      "updatedAt": "2026-08-08T15:45:17.706Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3831,9 +3831,9 @@
     },
     {
       "domain": "binary.so",
-      "state": "legacy",
-      "attempt": 90,
-      "updatedAt": "2026-08-08T14:41:29.111Z",
+      "state": "drafting",
+      "attempt": 91,
+      "updatedAt": "2026-08-08T15:44:24.263Z",
       "blocker": null,
       "publication": {
         "key": "binary.so-design",

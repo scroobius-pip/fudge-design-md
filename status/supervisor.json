@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T15:41:03.942Z",
-  "heartbeatExpiresAt": "2026-08-08T15:46:03.942Z",
+  "heartbeatAt": "2026-08-08T15:46:27.630Z",
+  "heartbeatExpiresAt": "2026-08-08T15:51:27.630Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,20 +13,20 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "aura.build",
-        "startedAt": "2026-08-08T15:27:12.824Z"
-      },
-      {
         "domain": "base-ui.com",
         "startedAt": "2026-08-08T15:34:09.342Z"
       },
       {
         "domain": "betterstack.com",
         "startedAt": "2026-08-08T15:41:02.898Z"
+      },
+      {
+        "domain": "binary.so",
+        "startedAt": "2026-08-08T15:44:13.060Z"
       }
     ],
     "completedThisRun": 14,
-    "failedThisRun": 4
+    "failedThisRun": 5
   },
   "publication": {
     "concurrency": 1,
@@ -35,18 +35,18 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 1005,
-    "availableGeneration": 1004,
-    "waitingForRetry": 4,
+    "eligibleGeneration": 1003,
+    "availableGeneration": 1003,
+    "waitingForRetry": 5,
     "readyPublication": 0,
     "publishedVerified": 25
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:35:56.942Z"
+    "lastSyncedAt": "2026-08-08T15:41:24.539Z"
   },
   "lastError": {
-    "at": "2026-08-08T15:40:54.763Z",
-    "message": "Generation failed for baked.design with exit 1."
+    "at": "2026-08-08T15:44:05.702Z",
+    "message": "Generation failed for aura.build with exit 1."
   }
 }
