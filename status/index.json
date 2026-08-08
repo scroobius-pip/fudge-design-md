@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:45:40.130Z",
+  "generatedAt": "2026-08-08T17:52:24.967Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 44,
+    "published_verified": 45,
     "unpublished": 909,
     "failed": 6,
-    "repairing": 1,
     "validating": 1,
+    "repairing": 1,
     "drafting": 1,
-    "legacy": 74
+    "legacy": 73
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:45:17.138Z",
-    "heartbeatExpiresAt": "2026-08-08T17:50:17.138Z",
+    "heartbeatAt": "2026-08-08T17:52:02.303Z",
+    "heartbeatExpiresAt": "2026-08-08T17:57:02.303Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,41 +27,44 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "cora.computer",
-          "startedAt": "2026-08-08T17:29:29.530Z"
+          "domain": "dany.works",
+          "startedAt": "2026-08-08T17:48:15.071Z"
         },
         {
           "domain": "designsystems.surf",
           "startedAt": "2026-08-08T17:39:14.098Z"
         },
         {
-          "domain": "designwithvibbbes.com",
-          "startedAt": "2026-08-08T17:44:24.031Z"
+          "domain": "dfinity.org",
+          "startedAt": "2026-08-08T17:51:09.981Z"
         }
       ],
-      "completedThisRun": 33,
-      "failedThisRun": 16
+      "completedThisRun": 34,
+      "failedThisRun": 17
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "designwithvibbbes.com",
+        "startedAt": "2026-08-08T17:51:09.971Z"
+      },
       "completedThisRun": 31,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 984,
-      "availableGeneration": 984,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 982,
+      "availableGeneration": 982,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 44
+      "publishedVerified": 45
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:40:52.450Z"
+      "lastSyncedAt": "2026-08-08T17:46:22.434Z"
     },
     "lastError": {
-      "at": "2026-08-08T17:37:52.992Z",
-      "message": "Generation failed for deezer.com with exit 1."
+      "at": "2026-08-08T17:48:10.660Z",
+      "message": "Generation failed for cora.computer with exit 1."
     }
   },
   "generationControl": {
@@ -6103,9 +6106,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 91,
-      "updatedAt": "2026-08-08T17:42:34.054Z",
+      "updatedAt": "2026-08-08T17:48:09.439Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -6114,8 +6117,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T18:48:09.439Z"
     },
     {
       "domain": "correresmidestino.com",
@@ -6663,9 +6666,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "failed",
-      "attempt": 87,
-      "updatedAt": "2026-08-08T16:45:05.511Z",
+      "state": "validating",
+      "attempt": 88,
+      "updatedAt": "2026-08-08T17:51:43.735Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -6675,7 +6678,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T17:45:05.511Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "dash.cloudflare.com",
@@ -7287,9 +7290,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:43:17.827Z",
+      "updatedAt": "2026-08-08T17:51:54.254Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7303,15 +7306,15 @@
     },
     {
       "domain": "designwithvibbbes.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T17:44:39.590Z",
+      "updatedAt": "2026-08-08T17:51:58.537Z",
       "blocker": null,
       "publication": {
         "key": "designwithvibbbes.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/designwithvibbbes.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/designwithvibbbes.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/designwithvibbbes.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -7479,9 +7482,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:30.360Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T17:51:31.411Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",

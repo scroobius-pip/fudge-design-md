@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "cora.computer",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 91,
-  "consecutiveFailures": 1,
-  "nextEligibleAt": null,
-  "updatedAt": "2026-08-08T17:42:34.054Z",
+  "consecutiveFailures": 2,
+  "nextEligibleAt": "2026-08-08T18:48:09.439Z",
+  "updatedAt": "2026-08-08T17:48:09.439Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -23,5 +23,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": null
+  "failure": "publication_failed"
 }
