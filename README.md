@@ -1876,7 +1876,7 @@ era.app presents a predominantly dark surface treatment in the captured pages. T
 
 [![How ergo.org is designed](https://pin.fontofweb.com/9974?format=jpg)](design-md/ergo.org.md)
 
-ergo.org presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f0ebe4`, with typography led by **Libre Baskerville**, **Times**, **Sabon Lt Std**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Ergo uses a restrained academic tone: warm paper surfaces, large serif titles, quiet navigation, and lecture imagery that feels more like a framed title card than a marketing banner. The page reads in chapters. A light home canvas introduces the brand with a floating logo bar and large course tiles. A darker lecture stage then takes over for individual course pages, where white type sits over dimmed photography and a narrow essay column. The closing olive band ends the page with a blunt, almost poster-like finish.
 
 [Open guide](design-md/ergo.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/ergo.org-design)
 
