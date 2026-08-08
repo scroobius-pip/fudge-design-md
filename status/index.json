@@ -1,22 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:21:38.016Z",
+  "generatedAt": "2026-08-08T19:26:35.809Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 60,
+    "published_verified": 61,
     "unpublished": 909,
     "failed": 7,
-    "repairing": 2,
+    "ready": 1,
+    "validating": 1,
     "drafting": 1,
-    "legacy": 57
+    "preparing": 1,
+    "legacy": 55
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:21:18.619Z",
-    "heartbeatExpiresAt": "2026-08-08T19:26:18.619Z",
+    "heartbeatAt": "2026-08-08T19:26:06.342Z",
+    "heartbeatExpiresAt": "2026-08-08T19:31:06.342Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,40 +28,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "designsystems.surf",
-          "startedAt": "2026-08-08T19:07:02.733Z"
-        },
-        {
-          "domain": "earth.google.com",
-          "startedAt": "2026-08-08T19:16:39.956Z"
-        },
-        {
           "domain": "edition.cnn.com",
           "startedAt": "2026-08-08T19:20:19.340Z"
+        },
+        {
+          "domain": "elevenlabs.io",
+          "startedAt": "2026-08-08T19:25:20.039Z"
+        },
+        {
+          "domain": "emmiwu.com",
+          "startedAt": "2026-08-08T19:26:03.922Z"
         }
       ],
-      "completedThisRun": 49,
+      "completedThisRun": 51,
       "failedThisRun": 26
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "e360.yale.edu",
-        "startedAt": "2026-08-08T19:20:18.985Z"
-      },
-      "completedThisRun": 46,
+      "active": null,
+      "completedThisRun": 48,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 966,
-      "availableGeneration": 966,
+      "eligibleGeneration": 965,
+      "availableGeneration": 964,
       "waitingForRetry": 7,
-      "readyPublication": 0,
-      "publishedVerified": 60
+      "readyPublication": 1,
+      "publishedVerified": 61
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:17:54.441Z"
+      "lastSyncedAt": "2026-08-08T19:22:04.604Z"
     },
     "lastError": {
       "at": "2026-08-08T19:11:55.750Z",
@@ -7289,9 +7288,9 @@
     },
     {
       "domain": "designsystems.surf",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:20:19.533Z",
+      "updatedAt": "2026-08-08T19:25:52.737Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -7300,7 +7299,7 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -8297,15 +8296,15 @@
     },
     {
       "domain": "earth.google.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T19:21:31.636Z",
+      "updatedAt": "2026-08-08T19:25:59.591Z",
       "blocker": null,
       "publication": {
         "key": "earth.google.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/earth.google.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/earth.google.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/earth.google.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8393,9 +8392,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:20:39.502Z",
+      "updatedAt": "2026-08-08T19:24:20.137Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8457,9 +8456,9 @@
     },
     {
       "domain": "elevenlabs.io",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.623Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T19:25:42.352Z",
       "blocker": null,
       "publication": {
         "key": "elevenlabs.io-design",
@@ -8585,9 +8584,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.637Z",
+      "state": "preparing",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T19:26:07.805Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
