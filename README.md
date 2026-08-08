@@ -1788,7 +1788,7 @@ Drkst® is a minimal studio-style homepage built from a very small set of visual
 
 [![How dub.co is designed](https://pin.fontofweb.com/7583?format=jpg)](design-md/dub.co.md)
 
-dub.co presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#0a0a0a`, `#000000`, and `#171717`, with typography led by **Inter**, **Satoshi**, and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Dub presents link attribution as a disciplined SaaS interface with a strong black-and-white backbone. The most promotional moments sit on a very dark stage with centered copy and compact trust markers, while the operational pages open up into wide white systems of pricing tables, changelog timelines, and directory-style footers. That shift from dark theater to bright information architecture gives the site a clear rhythm: ask for attention in one mode, then explain the product in a calmer one.
 
 [Open guide](design-md/dub.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/dub.co-design)
 
