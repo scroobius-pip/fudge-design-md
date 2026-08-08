@@ -1836,7 +1836,7 @@ edition.cnn.com presents a predominantly dark surface treatment in the captured 
 
 [![How elevenlabs.io is designed](https://pin.fontofweb.com/9196?format=jpg)](design-md/elevenlabs.io.md)
 
-elevenlabs.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#0f0f10`, and `#ffffff`, with typography led by **Inter**, **Kmr Waldenburg Buch**, **Kmr Waldenburg**, **Eleven Waldenburg**, and **Kmr Waldenburg Fett Halbschmal**. The guide below names reusable design roles only where the captured evidence supports them.
+ElevenLabs presents two related faces: a light, orderly product shell and a broader marketing system that stays mostly monochrome even when it becomes more theatrical. The app views are built around a fixed left rail, a thin top utility bar, and roomy content modules that hold creation cards, lists, and search. The marketing views keep the same restraint, but they open up into larger statements, soft rounded stages, and image-led panels that explain the product through use cases rather than ornament.
 
 [Open guide](design-md/elevenlabs.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/elevenlabs.io-design)
 
