@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:01:22.391Z",
+  "generatedAt": "2026-08-08T19:07:22.550Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 58,
     "unpublished": 909,
-    "failed": 6,
-    "drafting": 1,
-    "validating": 2,
+    "failed": 7,
+    "repairing": 2,
     "legacy": 60
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:01:15.201Z",
-    "heartbeatExpiresAt": "2026-08-08T19:06:15.201Z",
+    "heartbeatAt": "2026-08-08T19:06:51.750Z",
+    "heartbeatExpiresAt": "2026-08-08T19:11:51.750Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -56,7 +55,7 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:58:21.418Z"
+      "lastSyncedAt": "2026-08-08T19:01:38.781Z"
     },
     "lastError": {
       "at": "2026-08-08T18:56:42.611Z",
@@ -7478,9 +7477,9 @@
     },
     {
       "domain": "dfinity.org",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 87,
-      "updatedAt": "2026-08-08T19:00:41.863Z",
+      "updatedAt": "2026-08-08T19:06:22.208Z",
       "blocker": null,
       "publication": {
         "key": "dfinity.org-design",
@@ -8102,9 +8101,9 @@
     },
     {
       "domain": "dub.co",
-      "state": "validating",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:00:06.069Z",
+      "updatedAt": "2026-08-08T19:06:51.333Z",
       "blocker": null,
       "publication": {
         "key": "dub.co-design",
@@ -8113,8 +8112,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T20:06:51.333Z"
     },
     {
       "domain": "duetnightabyss.dna-panstudio.com",
@@ -8198,9 +8197,9 @@
     },
     {
       "domain": "dzen.ru",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:59:51.749Z",
+      "updatedAt": "2026-08-08T19:06:43.590Z",
       "blocker": null,
       "publication": {
         "key": "dzen.ru-design",
