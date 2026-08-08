@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T21:16:11.109Z",
+  "generatedAt": "2026-08-08T21:21:41.852Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
@@ -8,15 +8,16 @@
     "unpublished": 909,
     "failed": 9,
     "drafting": 1,
-    "repairing": 2,
+    "validating": 1,
+    "repairing": 1,
     "legacy": 39
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T21:16:02.789Z",
-    "heartbeatExpiresAt": "2026-08-08T21:21:02.789Z",
+    "heartbeatAt": "2026-08-08T21:21:30.811Z",
+    "heartbeatExpiresAt": "2026-08-08T21:26:30.811Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -48,15 +49,15 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 948,
-      "availableGeneration": 948,
-      "waitingForRetry": 9,
+      "eligibleGeneration": 949,
+      "availableGeneration": 949,
+      "waitingForRetry": 8,
       "readyPublication": 0,
       "publishedVerified": 76
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T21:12:10.513Z"
+      "lastSyncedAt": "2026-08-08T21:16:23.518Z"
     },
     "lastError": {
       "at": "2026-08-08T20:57:31.017Z",
@@ -8774,9 +8775,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T21:13:53.432Z",
+      "updatedAt": "2026-08-08T21:21:22.705Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
@@ -9096,7 +9097,7 @@
       "domain": "factory.ai",
       "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T21:14:42.678Z",
+      "updatedAt": "2026-08-08T21:18:46.058Z",
       "blocker": null,
       "publication": {
         "key": "factory.ai-design",
