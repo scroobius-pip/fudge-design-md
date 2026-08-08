@@ -2,161 +2,180 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/dedcool.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![About – DedCool](https://pin.fontofweb.com/6073?format=jpg)](https://design.withfudge.com/share/pin-6073)
+[![Centered hero headline above a wide product strip and thin top ticker](https://pin.fontofweb.com/6066?format=jpg)](https://design.withfudge.com/share/pin-6066)
 
-[About – DedCool](https://design.withfudge.com/share/pin-6073)
+[Centered hero headline above a wide product strip and thin top ticker](https://design.withfudge.com/share/pin-6066)
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6072?format=jpg)](https://design.withfudge.com/share/pin-6072)
+[![Rounded portrait card paired with the about text block in a split layout](https://pin.fontofweb.com/6073?format=jpg)](https://design.withfudge.com/share/pin-6073)
 
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/share/pin-6072)
+[Rounded portrait card paired with the about text block in a split layout](https://design.withfudge.com/share/pin-6073)
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6071?format=jpg)](https://design.withfudge.com/share/pin-6071)
+[![Reward redemption cards with orange outlines above a spare product stage](https://pin.fontofweb.com/6072?format=jpg)](https://design.withfudge.com/share/pin-6072)
 
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/share/pin-6071)
+[Reward redemption cards with orange outlines above a spare product stage](https://design.withfudge.com/share/pin-6072)
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6070?format=jpg)](https://design.withfudge.com/share/pin-6070)
+[![Tier comparison grid with thin rules and orange check marks across columns](https://pin.fontofweb.com/6071?format=jpg)](https://design.withfudge.com/share/pin-6071)
 
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/share/pin-6070)
+[Tier comparison grid with thin rules and orange check marks across columns](https://design.withfudge.com/share/pin-6071)
 
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6069?format=jpg)](https://design.withfudge.com/share/pin-6069)
+[![Minimal login form with barcode mark, thin input lines, and a small round sign-in control](https://pin.fontofweb.com/6067?format=jpg)](https://design.withfudge.com/share/pin-6067)
 
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/share/pin-6069)
-
-[![DedClub Rewards - DedCool Official Website](https://pin.fontofweb.com/6068?format=jpg)](https://design.withfudge.com/share/pin-6068)
-
-[DedClub Rewards - DedCool Official Website](https://design.withfudge.com/share/pin-6068)
-
-[![Account – DedCool](https://pin.fontofweb.com/6067?format=jpg)](https://design.withfudge.com/share/pin-6067)
-
-[Account – DedCool](https://design.withfudge.com/share/pin-6067)
-
-[![Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://pin.fontofweb.com/6066?format=jpg)](https://design.withfudge.com/share/pin-6066)
-
-[Making life smell really good. GENDERLESS + VEGAN + NON TOXIC – DedCool](https://design.withfudge.com/share/pin-6066)
+[Minimal login form with barcode mark, thin input lines, and a small round sign-in control](https://design.withfudge.com/share/pin-6067)
 
 ## Overview
 
-dedcool.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#373330`, and `#f0f0f0`, with typography led by **Universal Sans** and **Messina Sans Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+DedCool uses a near-invisible storefront frame so the products and the page voice can stay in front. The home page opens with a tiny utility ticker, a sparse uppercase navigation line, a centered barcode wordmark, and a single oversized headline. Below that, a full-width product band shows pale packaging against a white field, so the page feels airy rather than boxed in.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
+The same system repeats across the about, rewards, and login pages. A rounded portrait card, a wide reward grid, a comparison table, and a minimal sign-in form all sit inside the same light canvas. The brand relies on scale, spacing, and crisp rules more than on decoration. Orange appears as a narrow accent lane; most of the interface stays black, white, and soft gray.
 
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content |
-| color.text | `#373330` | text on page content in the main |
-| color.surface | `#f0f0f0` | surface on page content |
-| color.text | `#1a172c` | text on page content in the header |
-| color.surface | `#ffffff` | surface on page content in the main |
-| color.surface | `#cce1f5` | surface on page content in the main |
-| color.border | `#ff6b18` | border on page content in the main |
-| color.text | `#2c2c2c` | text on page content in the main |
-| color.text | `#6c6c6c` | text on page content in the main |
-| color.surface | `#ff6b17` | surface on page content in the button |
-| color.text | `#007aff` | text on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.utility-12px | **Universal Sans** | 12px | 400 | 16.8px | normal | <div> in the header, <div> in the main, <a> in the header, <a> in the nav, <ul> in the nav, <div>, <div> in the footer, <span> in the nav, <a> in the main, <div> in the button, <span>, <li>, <a>, and <ul> |
-| type.body-24px | **Universal Sans** | 24px | 400 | 24px | normal | <div> in the main |
-| type.utility-12px | **Messina Sans Mono** | 12px | 400 | 14.4px | normal | <a> in the footer, <ul> in the footer, and <li> in the footer |
-| type.utility-10px | **Universal Sans** | 10px | 400 | 16.8px | normal | <div> |
-| type.display-80px | **Universal Sans** | 80px | 400 | 73.6px | -1.6px | <h1> in the main |
-| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -0.8px | <h2>, <a>, and <h3> |
-| type.body-16px | **Universal Sans** | 16px | 400 | 24px | normal | <span>, <div>, and <a> |
-| type.display-80px | **Universal Sans** | 80px | 400 | 74px | -1.6px | <div> in the main |
-| type.display-48px | **Universal Sans** | 48px | 400 | 44.16px | -0.96px | <h2> and <h1> in the main |
-| type.body-14px | **Messina Sans Mono** | 14px | 500 | 14px | -0.56px | <span> |
-| type.utility-10px | **Messina Sans Mono** | 10px | 400 | 26px | 0.4px | <div> |
-| type.utility-12px | **Universal Sans** | 12px | 400 | 16.8px | 0.24px | <p> in the main and <div> in the main |
-| type.body-24px | **Universal Sans** | 24px | 400 | 24px | -0.24px | <a> in the main and <h2> in the main |
-| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -1.6px | <h2> in the main |
-| type.utility-10px | **Messina Sans Mono** | 10px | 400 | 15px | -0.4px | <div> in the main |
-| type.body-16px | **Messina Sans Mono** | 16px | 400 | 16.8px | normal | <div> in the main |
-| type.display-40px | **Universal Sans** | 40px | 400 | 40px | -2px | <h1> in the main |
-| type.body-19px | **Messina Sans Mono** | 19px | 400 | 27px | 0.38px | <div> in the main |
-| type.body-16px | **Universal Sans** | 16px | 400 | 16px | normal | <div> |
-| type.body-18px | **Messina Sans Mono** | 18px | 500 | 25.56px | -0.36px | <span> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `65px 0px` | padding | page content |
-| `12px` | padding | page content |
-| `0px 308px` | margin | page content |
-| `0px -1028px` | margin | page content |
-| `0px 22px` | padding | page content |
-| `40px 0px 45px` | padding | page content |
-| `170px 0px 0px` | padding | page content |
-| `0px 0px 50px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `1px 0px 0px solid none none 0px`, `1px solid 20px`, `1px solid 49px`, `1px solid 25px`, `1px solid 8px`, `1px solid 100px`, `1px solid 44px`, and `0px none 32.6px` border treatments.
+The design reads as editorial and direct. It gives the copy room to feel like a statement, while the product photography supplies the mood and the color range. Nothing in the frame should compete with the bottles, the barcode mark, or the large page headings.
 
 ## Colors
 
-The visual system is mixed light and dark surface treatment. Surface colors include `#f0f0f0`, `#ffffff`, and `#cce1f5`. Text colors include `#000000`, `#373330`, and `#1a172c`. Keep image-derived colors separate from interface colors.
+| token | hex | use |
+|---|---|---|
+| canvas | `#F6F6F3` | Main page background and broad negative space |
+| paper | `#FFFFFF` | White cards, forms, and reward tiles |
+| ink | `#000000` | Headings, nav, rules, and logo marks |
+| muted-ink | `#1A172C` | Secondary copy, footer text, and quieter page text |
+| border | `#B8B7B2` | Hairlines, input rules, and table dividers |
+| accent | `#FF6B18` | Reward outlines, check marks, and the strongest callout color |
+| accent-soft | `#CFE0F1` | Pale blue pill, small badge surfaces, and gentle callouts |
+
+The system is light-first. The canvas stays pale, the paper surfaces stay white, and the strongest visual weight comes from black ink and thin rules. Dark is used only for text, the barcode mark, and the deepest footer or utility text. Photography fills the middle of the palette with beige, misty blue, blush, and warm gray packaging tones, so the interface itself can remain restrained. Accent is tightly controlled: orange marks the reward cards and the check marks in the comparison table, while the soft blue pill appears as a secondary highlight rather than a second brand color. That balance keeps the page calm while still giving one clear path to action.
 
 ## Typography
 
-The captured type system uses **Universal Sans** and **Messina Sans Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Universal Sans carries the big statements, the about copy, the login form, the footer, and most navigation. Messina Sans Mono is the smaller utility voice: the ticker, tiny labels, reward amounts, and other compact informational text. The hierarchy depends on size, spacing, and a few weight changes rather than on many families or ornate styling. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Universal Sans | 5rem | 700 | 0.95 | -0.03em | Main home headline and other dominant page statements |
+| section-display | Universal Sans | 3.5rem | 700 | 0.98 | -0.02em | Large section titles such as rewards and login |
+| subsection-display | Universal Sans | 2.5rem | 700 | 1 | -0.015em | About headings and secondary feature statements |
+| body | Universal Sans | 1rem | 400 | 1.45 | 0em | Paragraph copy, helper text, and form text |
+| body-medium | Universal Sans | 1rem | 500 | 1.45 | 0em | Emphasized body text, reward copy, and CTA text |
+| navigation | Universal Sans | 0.75rem | 500 | 1.2 | 0.02em | Header links and compact interface labels |
+| label | Messina Sans Mono | 0.75rem | 400 | 1.2 | 0.08em | Small all-caps labels, reward figures, and utility text |
+| micro | Messina Sans Mono | 0.625rem | 400 | 1.1 | 0.1em | Ticker copy and the smallest informational lines |
+
+The display scale stays bold and compact enough to feel editorial, not airy or lifestyle-soft. Small text gets a little tracking so it reads cleanly across the thin rules and the narrow header rail. Use Universal Sans wherever the page needs a plain, confident voice. Use Messina Sans Mono only when the design needs a tiny technical note, a price-like label, or a utility cadence.
 
 ## Layout
 
-The captured pages use values such as `65px 0px`, `12px`, `0px 308px`, `0px -1028px`, and `0px 22px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout is built around a centered column and a few very wide horizontal chapters. On the home page, the top rail spans the width of the viewport but remains visually light. The headline then sits in a broad centered zone with generous space above and below, so the eye lands on the product strip without distraction. The image band is almost full width, which gives the packaging enough scale to feel like a display wall.
+
+The about page shifts into a split composition. A rounded portrait card sits on one side while the copy block holds the other side with a clear title and a dense paragraph stack. The card radius softens the image without making the page playful. The rewards page goes back to centered presentation: a heading, a short explanatory line, four outlined reward cards in a row, and then a large product and tier section beneath. The comparison table uses thin horizontal rules and roomy row heights, which makes the information feel precise rather than crowded.
+
+The login page is the most restrained layout. The form fields sit under a large title, then a tiny help line and a compact sign-in control. The barcode mark remains part of the header language, so the page still feels branded even when the content is functional.
+
+Spacing is generous but disciplined. The visible rhythm often lands on wide vertical gaps, around 2.5rem to 4.375rem for normal separations and much larger jumps for the hero and section breaks. Side gutters are also strong: the desktop pages keep a centered measure with large left and right framing space, which helps the pages stay quiet and premium rather than dense.
 
 ## Visual language
 
-The captured visual language is mixed light and dark surface treatment. Surface treatment centers on `#f0f0f0`, `#ffffff`, `#cce1f5`, and `#ff6b17`. No structured gradient or shadow treatment is established.
+DedCool is defined by restraint. The page frame is almost monochrome, so the products and the words can supply the character. Thin rules separate rows, fields, and tables. Rounded corners appear in a few controlled places: the about portrait card, the reward tiles, and the small pills. Those corners soften the page without turning it into a soft-focus lifestyle brand.
 
-## Components and states
+The barcode wordmark is central to the identity. It gives the interface a lab-like, labeled feeling that fits the clean fragrance packaging. The product photography stays bright and airy, often on a white field, so the packaging edges and printed labels stay readable. The image treatment is not heavy or cinematic; it is clear, pale, and product-first.
 
-The captured pages include repeated styling on <div>, <h1>, <a>, <h2>, <p>, <ul>, <li>, and <ol> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Accent color is used sparingly and with intent. Orange shows up on the reward tiles and the table checks, which makes the benefits feel active without flooding the page. The soft blue pill is the gentlest accent and should stay rare. Keep shadows minimal or absent. The system gets its depth from spacing, line weight, and image contrast, not from glowing surfaces.
+
+## Components
+
+### Utility ticker
+- **Anatomy:** one-line promo strip with repeating short offers.
+- **Typography:** `micro` in Messina Sans Mono, all-caps feel, tight line height.
+- **Surface:** white or near-white background with black text.
+- **Composition:** stretches edge to edge and stays visually light.
+- **Visible state:** static text band with no heavy framing.
+
+### Primary nav and wordmark rail
+- **Anatomy:** centered barcode mark, left product links, right account links.
+- **Typography:** `navigation` in Universal Sans.
+- **Surface:** same light canvas as the page, no visible panel.
+- **Spacing:** wide gaps between groups; the row should feel airy, not packed.
+- **Visible state:** plain text links with the brand mark holding the middle.
+
+### Hero lockup
+- **Anatomy:** oversized statement, thin separator line, then a wide product image band.
+- **Typography:** `hero-display` with compact leading and slight negative tracking.
+- **Surface:** white field with black text and a broad photographic strip.
+- **Composition:** the headline must sit high and clear before the image takes over.
+- **Visible state:** one dominant message, no secondary card framing.
+
+### About split block
+- **Anatomy:** rounded portrait card and a text block headed by “WHAT WE STAND FOR.”
+- **Typography:** `subsection-display` for the heading, `body` for the paragraph.
+- **Shape:** `card` radius on the image container.
+- **Spacing:** generous gutter between image and text.
+- **Composition:** the portrait should carry warmth while the text stays direct and compact.
+
+### Reward card row
+- **Anatomy:** four outlined tiles with a cash-value line and a DedCoins line.
+- **Typography:** `body-medium` for the main line, `label` for the coin count.
+- **Shape:** `card` radius with a thin orange border.
+- **Surface:** white paper with no fill color drama.
+- **Visible state:** each tile reads as a selectable reward option rather than a raised button.
+
+### Reward tier table
+- **Anatomy:** heading, short intro line, product bottle stage, then a multi-column benefit table.
+- **Typography:** `section-display` for the title, `label` and `body` for the table.
+- **Structure:** thin gray row dividers and centered column headings.
+- **Accent:** orange check marks carry the positive signal.
+- **Composition:** the rows should stay broad and readable; the table is the information centerpiece.
+
+### Login form
+- **Anatomy:** large page title, two ruled fields, password help, sign-in control, and create-account link.
+- **Typography:** `section-display` for the title, `body` and `navigation` for the form language.
+- **Surface:** plain white or canvas background with hairline rules.
+- **Shape:** the sign-in control uses a compact pill or small rounded control.
+- **Visible state:** minimal and functional, with no decorative panel around the form.
+
+### Footer directory
+- **Anatomy:** four link columns, small legal line, and the barcode mark at the edge.
+- **Typography:** `navigation` for headings and `micro` or `label` for smaller items.
+- **Surface:** wide light field with low visual contrast.
+- **Composition:** link columns should read like a quiet index, not a promotional block.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+When the layout narrows, keep the reading order simple: utility line, brand rail, headline, image, and then the support sections. The hero headline should wrap in balanced lines instead of squeezing into one long line. The product strip should crop before labels become unreadable. The about split should collapse to one column, with the portrait above the text. Reward tiles should flow from four across to two across and then to one across as space decreases. The comparison table should switch to stacked rows or another narrow-friendly presentation before the columns become too tight. Keep the barcode mark legible at every width and preserve the clean edge spacing around the forms.
 
 ## Practical implementation guidance
 
-- Preserve the mixed light/dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+- Keep the page mostly white, black, and gray so the products stay in front.
+- Keep the barcode identity and uppercase utility language.
+- Keep the large headline scale and the wide breathing room around it.
+- Keep orange limited to reward emphasis and other narrow calls to action.
+- Keep radii modest: a small card curve and a stronger pill curve are enough.
+
+### Avoid
+- Avoid heavy shadows, glossy cards, and layered gradients.
+- Avoid adding extra accent colors that compete with the orange line.
+- Avoid filling the page with small rounded boxes; the layout should stay open.
+- Avoid mixing many font families or adding decorative display faces.
+- Avoid crowding the header or turning the promo row into a dense banner.
+
+### Recommended build order
+1. Set the canvas, ink, border, and accent colors.
+2. Build the utility ticker and the brand rail.
+3. Build the hero lockup and product strip.
+4. Add the about split block.
+5. Add the reward cards and reward table.
+6. Add the login form.
+7. Finish with the footer directory and then tune the narrow-width flow.
+
+### Accessibility
+- Keep the thin rules visible enough to separate fields and table rows.
+- Make sure the orange accents do not carry meaning by color alone.
+- Keep the sign-in control and reward tiles large enough to tap easily.
+- Use clear labels for the login fields and concise alt text for the portrait and product images.
+- Preserve strong contrast for the small mono text in the ticker and reward labels.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#373330`
-- `#f0f0f0`
-- `#1a172c`
-- `#ffffff`
-- `#cce1f5`
-- `#ff6b18`
-- `#2c2c2c`
-- `#6c6c6c`
-- `#ff6b17`
-- `#007aff`
-
-## Typography captured from dedcool.com
-
-- **Universal Sans** — weight 400 · size 12px
-- **Messina Sans Mono** — weight 400 · size 10px
+This guide covers the desktop home, about, rewards, and login surfaces for dedcool.com. Measurements are practical adaptation targets. Small-screen layouts, motion, loading states, and alternate campaign pages are not included.

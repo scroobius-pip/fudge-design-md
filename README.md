@@ -1578,9 +1578,9 @@ David Protein uses contrast as its main organizing idea. The page language moves
 
 ### dedcool.com
 
-[![How dedcool.com is designed](https://pin.fontofweb.com/6073?format=jpg)](design-md/dedcool.com.md)
+[![How dedcool.com is designed](https://pin.fontofweb.com/6066?format=jpg)](design-md/dedcool.com.md)
 
-dedcool.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#373330`, and `#f0f0f0`, with typography led by **Universal Sans** and **Messina Sans Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+DedCool uses a near-invisible storefront frame so the products and the page voice can stay in front. The home page opens with a tiny utility ticker, a sparse uppercase navigation line, a centered barcode wordmark, and a single oversized headline. Below that, a full-width product band shows pale packaging against a white field, so the page feels airy rather than boxed in.
 
 [Open guide](design-md/dedcool.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dedcool.com-design)
 
