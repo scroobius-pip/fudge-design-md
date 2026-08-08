@@ -1898,9 +1898,9 @@ etched.com presents a predominantly light surface treatment in the captured page
 
 ### ethicalads.io
 
-[![How ethicalads.io is designed](https://pin.fontofweb.com/6085?format=jpg)](design-md/ethicalads.io.md)
+[![How ethicalads.io is designed](https://pin.fontofweb.com/6084?format=jpg)](design-md/ethicalads.io.md)
 
-ethicalads.io presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#161c2d`, `#869ab8`, and `#384c74`, with typography led by the captured fallback stack. The guide below names reusable design roles only where the captured evidence supports them.
+EthicalAds presents itself as a practical developer advertising service rather than a theatrical brand site. The page begins with a very light canvas, a compact top navigation, and a centered hero that pairs a device mockup with a large headline and one primary action. The copy is short, direct, and oriented around a concrete outcome: reaching developers with a specific message at the right moment. The visual tone stays calm and functional, with little ornament and no heavy visual metaphor.
 
 [Open guide](design-md/ethicalads.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/ethicalads.io-design)
 
