@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:45:52.501Z",
+  "generatedAt": "2026-08-08T20:51:27.912Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
@@ -15,8 +15,8 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:45:44.478Z",
-    "heartbeatExpiresAt": "2026-08-08T20:50:44.478Z",
+    "heartbeatAt": "2026-08-08T20:51:19.846Z",
+    "heartbeatExpiresAt": "2026-08-08T20:56:19.846Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,8 +30,8 @@
           "startedAt": "2026-08-08T20:38:52.501Z"
         },
         {
-          "domain": "everyday-practice.com",
-          "startedAt": "2026-08-08T20:31:26.428Z"
+          "domain": "emmiwu.com",
+          "startedAt": "2026-08-08T20:46:25.876Z"
         },
         {
           "domain": "exa.ai",
@@ -39,7 +39,7 @@
         }
       ],
       "completedThisRun": 60,
-      "failedThisRun": 34
+      "failedThisRun": 35
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 953,
-      "availableGeneration": 953,
-      "waitingForRetry": 9,
+      "eligibleGeneration": 952,
+      "availableGeneration": 952,
+      "waitingForRetry": 10,
       "readyPublication": 0,
       "publishedVerified": 71
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:40:35.499Z"
+      "lastSyncedAt": "2026-08-08T20:46:15.550Z"
     },
     "lastError": {
-      "at": "2026-08-08T20:31:49.741Z",
-      "message": "Generation failed for dzen.ru with exit 1."
+      "at": "2026-08-08T20:46:16.384Z",
+      "message": "Generation failed for everyday-practice.com with exit 1."
     }
   },
   "generationControl": {
@@ -8392,7 +8392,7 @@
       "domain": "edition.cnn.com",
       "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:45:18.781Z",
+      "updatedAt": "2026-08-08T20:49:02.409Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8582,9 +8582,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T19:42:21.050Z",
+      "state": "validating",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T20:50:29.921Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
@@ -8594,7 +8594,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T20:42:21.050Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "empirical.health",
@@ -8870,9 +8870,9 @@
     },
     {
       "domain": "everyday-practice.com",
-      "state": "validating",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:44:13.461Z",
+      "updatedAt": "2026-08-08T20:46:14.265Z",
       "blocker": null,
       "publication": {
         "key": "everyday-practice.com-design",
@@ -8881,8 +8881,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T21:46:14.265Z"
     },
     {
       "domain": "evilmartians.com",
@@ -8904,7 +8904,7 @@
       "domain": "exa.ai",
       "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:43:27.933Z",
+      "updatedAt": "2026-08-08T20:49:01.632Z",
       "blocker": null,
       "publication": {
         "key": "exa.ai-design",
