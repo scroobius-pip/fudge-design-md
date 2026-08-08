@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:19:54.138Z",
+  "generatedAt": "2026-08-08T18:23:56.910Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 49,
+    "published_verified": 50,
     "unpublished": 909,
-    "repairing": 3,
+    "validating": 1,
     "failed": 6,
+    "drafting": 1,
     "legacy": 69
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:19:39.151Z",
-    "heartbeatExpiresAt": "2026-08-08T18:24:39.151Z",
+    "heartbeatAt": "2026-08-08T18:23:37.068Z",
+    "heartbeatExpiresAt": "2026-08-08T18:28:37.068Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -33,29 +34,32 @@
           "startedAt": "2026-08-08T18:07:23.048Z"
         },
         {
-          "domain": "dlang.org",
-          "startedAt": "2026-08-08T18:12:17.263Z"
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-08T18:22:47.408Z"
         }
       ],
-      "completedThisRun": 38,
+      "completedThisRun": 39,
       "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "dlang.org",
+        "startedAt": "2026-08-08T18:22:47.380Z"
+      },
       "completedThisRun": 36,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 979,
-      "availableGeneration": 979,
+      "eligibleGeneration": 978,
+      "availableGeneration": 978,
       "waitingForRetry": 5,
       "readyPublication": 0,
       "publishedVerified": 49
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:14:29.890Z"
+      "lastSyncedAt": "2026-08-08T18:20:32.364Z"
     },
     "lastError": {
       "at": "2026-08-08T17:58:34.908Z",
@@ -3157,9 +3161,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 88,
-      "updatedAt": "2026-08-08T18:19:02.266Z",
+      "updatedAt": "2026-08-08T18:21:40.482Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3509,9 +3513,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 92,
-      "updatedAt": "2026-08-08T18:19:40.500Z",
+      "updatedAt": "2026-08-08T18:23:50.694Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3520,7 +3524,7 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "nextEligibleAt": null
     },
     {
@@ -3781,9 +3785,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 90,
-      "updatedAt": "2026-08-08T17:12:41.215Z",
+      "state": "drafting",
+      "attempt": 91,
+      "updatedAt": "2026-08-08T18:23:02.986Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3793,7 +3797,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 2,
-      "nextEligibleAt": "2026-08-08T18:12:41.215Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "bfl.ai",
@@ -7685,15 +7689,15 @@
     },
     {
       "domain": "dlang.org",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:18:15.237Z",
+      "updatedAt": "2026-08-08T18:23:34.610Z",
       "blocker": null,
       "publication": {
         "key": "dlang.org-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/dlang.org-design",
+        "markdownUrl": "https://design.withfudge.com/share/dlang.org-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dlang.org.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
