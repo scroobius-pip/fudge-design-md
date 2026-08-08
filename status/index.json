@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:55:51.700Z",
+  "generatedAt": "2026-08-08T14:57:43.325Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 180,
-    "published_verified": 19,
+    "published_verified": 20,
     "legacy": 105,
     "unpublished": 909,
-    "validating": 1,
-    "drafting": 1,
-    "preparing": 1,
-    "failed": 2
+    "drafting": 3,
+    "failed": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:55:22.787Z",
-    "heartbeatExpiresAt": "2026-08-08T15:00:22.787Z",
+    "heartbeatAt": "2026-08-08T14:57:35.088Z",
+    "heartbeatExpiresAt": "2026-08-08T15:02:35.088Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,37 +25,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "bookmarkify.io",
-          "startedAt": "2026-08-08T14:43:46.102Z"
-        },
-        {
           "domain": "nocodeapi.com",
           "startedAt": "2026-08-08T14:54:26.515Z"
         },
         {
           "domain": "saaspo.com",
           "startedAt": "2026-08-08T14:55:19.130Z"
+        },
+        {
+          "domain": "windsurf.com",
+          "startedAt": "2026-08-08T14:56:11.342Z"
         }
       ],
-      "completedThisRun": 6,
+      "completedThisRun": 7,
       "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 6,
+      "completedThisRun": 7,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1012,
-      "availableGeneration": 1011,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 1013,
+      "availableGeneration": 1013,
+      "waitingForRetry": 2,
       "readyPublication": 0,
-      "publishedVerified": 19
+      "publishedVerified": 20
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:49:25.889Z"
+      "lastSyncedAt": "2026-08-08T14:56:47.071Z"
     },
     "lastError": {
       "at": "2026-08-08T14:55:16.977Z",
@@ -4151,15 +4149,15 @@
     },
     {
       "domain": "bookmarkify.io",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:54:37.264Z",
+      "updatedAt": "2026-08-08T14:57:28.759Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/bookmarkify.io-design",
+        "markdownUrl": "https://design.withfudge.com/share/bookmarkify.io-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/bookmarkify.io.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -21799,9 +21797,9 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:55:25.636Z",
+      "updatedAt": "2026-08-08T14:55:44.139Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -27063,9 +27061,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "failed",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:34:23.891Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T14:56:33.116Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
