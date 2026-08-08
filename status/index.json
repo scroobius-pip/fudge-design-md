@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:42:39.936Z",
+  "generatedAt": "2026-08-08T19:49:13.709Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 63,
     "unpublished": 909,
     "failed": 8,
-    "drafting": 1,
-    "validating": 1,
-    "legacy": 54
+    "validating": 3,
+    "legacy": 53
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:42:20.553Z",
-    "heartbeatExpiresAt": "2026-08-08T19:47:20.553Z",
+    "heartbeatAt": "2026-08-08T19:48:55.356Z",
+    "heartbeatExpiresAt": "2026-08-08T19:53:55.356Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,16 +29,16 @@
           "startedAt": "2026-08-08T19:41:10.844Z"
         },
         {
-          "domain": "emmiwu.com",
-          "startedAt": "2026-08-08T19:26:03.922Z"
-        },
-        {
           "domain": "endl.io",
           "startedAt": "2026-08-08T19:38:18.759Z"
+        },
+        {
+          "domain": "ente.com",
+          "startedAt": "2026-08-08T19:42:29.398Z"
         }
       ],
       "completedThisRun": 52,
-      "failedThisRun": 27
+      "failedThisRun": 28
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +47,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 963,
-      "availableGeneration": 963,
-      "waitingForRetry": 7,
+      "eligibleGeneration": 962,
+      "availableGeneration": 962,
+      "waitingForRetry": 8,
       "readyPublication": 0,
       "publishedVerified": 63
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:40:51.479Z"
+      "lastSyncedAt": "2026-08-08T19:43:37.584Z"
     },
     "lastError": {
-      "at": "2026-08-08T19:38:13.777Z",
-      "message": "Generation failed for edition.cnn.com with exit 1."
+      "at": "2026-08-08T19:42:24.071Z",
+      "message": "Generation failed for emmiwu.com with exit 1."
     }
   },
   "generationControl": {
@@ -7718,9 +7717,9 @@
     },
     {
       "domain": "docs.apara.design",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:41:24.071Z",
+      "updatedAt": "2026-08-08T19:48:10.813Z",
       "blocker": null,
       "publication": {
         "key": "docs.apara.design-design",
@@ -8632,7 +8631,7 @@
       "domain": "endl.io",
       "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:42:19.009Z",
+      "updatedAt": "2026-08-08T19:47:56.228Z",
       "blocker": null,
       "publication": {
         "key": "endl.io-design",
@@ -8678,9 +8677,9 @@
     },
     {
       "domain": "ente.com",
-      "state": "legacy",
-      "attempt": 82,
-      "updatedAt": "2026-08-08T14:41:30.666Z",
+      "state": "validating",
+      "attempt": 83,
+      "updatedAt": "2026-08-08T19:47:39.974Z",
       "blocker": null,
       "publication": {
         "key": "ente.com-design",
