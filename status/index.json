@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:44:57.655Z",
+  "generatedAt": "2026-08-08T14:48:43.742Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 180,
-    "published_verified": 17,
+    "published_verified": 18,
     "legacy": 105,
     "unpublished": 909,
-    "drafting": 2,
-    "failed": 4,
+    "validating": 1,
+    "drafting": 1,
+    "failed": 3,
     "repairing": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:44:50.772Z",
-    "heartbeatExpiresAt": "2026-08-08T14:49:50.772Z",
+    "heartbeatAt": "2026-08-08T14:48:29.758Z",
+    "heartbeatExpiresAt": "2026-08-08T14:53:29.758Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +31,33 @@
           "startedAt": "2026-08-08T14:43:46.102Z"
         },
         {
-          "domain": "sacred.computer",
-          "startedAt": "2026-08-08T14:37:47.837Z"
+          "domain": "lead.bank",
+          "startedAt": "2026-08-08T14:47:24.432Z"
         },
         {
           "domain": "sap.com",
           "startedAt": "2026-08-08T14:42:48.698Z"
         }
       ],
-      "completedThisRun": 4,
+      "completedThisRun": 5,
       "failedThisRun": 0
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 4,
+      "completedThisRun": 5,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1014,
-      "availableGeneration": 1014,
+      "eligibleGeneration": 1013,
+      "availableGeneration": 1013,
       "waitingForRetry": 4,
       "readyPublication": 0,
-      "publishedVerified": 17
+      "publishedVerified": 18
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:44:06.786Z"
+      "lastSyncedAt": "2026-08-08T14:45:09.722Z"
     },
     "lastError": null
   },
@@ -4147,9 +4148,9 @@
     },
     {
       "domain": "bookmarkify.io",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:43:59.384Z",
+      "updatedAt": "2026-08-08T14:47:04.114Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
@@ -14259,9 +14260,9 @@
     },
     {
       "domain": "lead.bank",
-      "state": "failed",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:34:23.205Z",
+      "state": "drafting",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T14:48:05.417Z",
       "blocker": null,
       "publication": {
         "key": "lead.bank-design",
@@ -21811,15 +21812,15 @@
     },
     {
       "domain": "sacred.computer",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:43:20.802Z",
+      "updatedAt": "2026-08-08T14:48:22.544Z",
       "blocker": null,
       "publication": {
         "key": "sacred.computer-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/sacred.computer-design",
+        "markdownUrl": "https://design.withfudge.com/share/sacred.computer-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/sacred.computer.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -22051,9 +22052,9 @@
     },
     {
       "domain": "sap.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:42:57.298Z",
+      "updatedAt": "2026-08-08T14:47:21.916Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
