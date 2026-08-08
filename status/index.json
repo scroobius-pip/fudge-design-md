@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:05:34.850Z",
+  "generatedAt": "2026-08-08T18:08:49.008Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 47,
+    "published_verified": 48,
     "unpublished": 909,
-    "drafting": 1,
-    "failed": 7,
-    "validating": 2,
+    "drafting": 2,
+    "failed": 6,
+    "repairing": 1,
     "legacy": 70
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:04:51.980Z",
-    "heartbeatExpiresAt": "2026-08-08T18:09:51.980Z",
+    "heartbeatAt": "2026-08-08T18:08:16.375Z",
+    "heartbeatExpiresAt": "2026-08-08T18:13:16.375Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +30,36 @@
           "startedAt": "2026-08-08T18:04:04.485Z"
         },
         {
-          "domain": "diabrowser.com",
-          "startedAt": "2026-08-08T17:53:34.736Z"
+          "domain": "base-ui.com",
+          "startedAt": "2026-08-08T18:07:23.048Z"
         },
         {
           "domain": "discord.com",
           "startedAt": "2026-08-08T17:57:38.100Z"
         }
       ],
-      "completedThisRun": 36,
+      "completedThisRun": 37,
       "failedThisRun": 19
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "diabrowser.com",
+        "startedAt": "2026-08-08T18:07:23.039Z"
+      },
       "completedThisRun": 34,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 979,
       "availableGeneration": 979,
-      "waitingForRetry": 7,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 47
+      "publishedVerified": 48
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:00:22.051Z"
+      "lastSyncedAt": "2026-08-08T18:06:01.052Z"
     },
     "lastError": {
       "at": "2026-08-08T17:58:34.908Z",
@@ -3510,9 +3513,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "failed",
-      "attempt": 91,
-      "updatedAt": "2026-08-08T17:06:34.926Z",
+      "state": "drafting",
+      "attempt": 92,
+      "updatedAt": "2026-08-08T18:07:36.014Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3522,7 +3525,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 2,
-      "nextEligibleAt": "2026-08-08T18:06:34.926Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "base44.com",
@@ -7510,15 +7513,15 @@
     },
     {
       "domain": "diabrowser.com",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:04:18.309Z",
+      "updatedAt": "2026-08-08T18:08:05.922Z",
       "blocker": null,
       "publication": {
         "key": "diabrowser.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/diabrowser.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/diabrowser.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/diabrowser.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -7622,9 +7625,9 @@
     },
     {
       "domain": "discord.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T18:04:25.356Z",
+      "updatedAt": "2026-08-08T18:07:31.728Z",
       "blocker": null,
       "publication": {
         "key": "discord.com-design",
