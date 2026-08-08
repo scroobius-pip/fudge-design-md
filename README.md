@@ -1746,9 +1746,9 @@ docs.apara.design presents a predominantly light surface treatment in the captur
 
 ### dosu.dev
 
-[![How dosu.dev is designed](https://pin.fontofweb.com/10413?format=jpg)](design-md/dosu.dev.md)
+[![How dosu.dev is designed](https://pin.fontofweb.com/10411?format=jpg)](design-md/dosu.dev.md)
 
-dosu.dev presents a predominantly light surface treatment in the captured pages. The system is anchored by `#0f172a`, `#e6e3d7`, and `#fffefc`, with typography led by **Mona Sans**, **Jet Brains Mono**, **Pp Mondwest**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Dosu’s home page pairs a warm paper ground with a dark technical frame so the brand feels both welcoming and exact. The opening impression comes from a carved serif headline and a deep charcoal control area, while the rest of the page settles into cream sections that explain the product with diagrams, code, and a comparison table. That mix keeps the page from feeling too polished or too casual. It reads like a product built for real workflow use, but it still has a distinct world.
 
 [Open guide](design-md/dosu.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/dosu.dev-design)
 
