@@ -1040,6 +1040,14 @@ Bolt.new uses one visual language for two related surfaces: the marketing page a
 
 [Open guide](design-md/bolt.new.md) · [View the Fudge conversation](https://design.withfudge.com/share/bolt.new-design)
 
+### bookmarkify.io
+
+[![How bookmarkify.io is designed](https://pin.fontofweb.com/5037?format=jpg)](design-md/bookmarkify.io.md)
+
+Bookmarkify uses a restrained SaaS language built around centered headlines, rounded white cards, soft gray structure, and a single warm orange action color. The page feels deliberately spacious and orderly. Most of the screen is left open so the message, product previews, and card-based feature explanations can breathe. The style is not decorative in a loud way; instead, it leans on proportion, contrast, and a clear hierarchy between large claims and small support text.
+
+[Open guide](design-md/bookmarkify.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/bookmarkify.io-design)
+
 ### braintrust.dev
 
 [![How braintrust.dev is designed](https://pin.fontofweb.com/8909?format=jpg)](design-md/braintrust.dev.md)
