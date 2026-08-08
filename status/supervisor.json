@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T15:35:16.747Z",
-  "heartbeatExpiresAt": "2026-08-08T15:40:16.747Z",
+  "heartbeatAt": "2026-08-08T15:41:03.942Z",
+  "heartbeatExpiresAt": "2026-08-08T15:46:03.942Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -17,16 +17,16 @@
         "startedAt": "2026-08-08T15:27:12.824Z"
       },
       {
-        "domain": "baked.design",
-        "startedAt": "2026-08-08T15:27:27.483Z"
-      },
-      {
         "domain": "base-ui.com",
         "startedAt": "2026-08-08T15:34:09.342Z"
+      },
+      {
+        "domain": "betterstack.com",
+        "startedAt": "2026-08-08T15:41:02.898Z"
       }
     ],
     "completedThisRun": 14,
-    "failedThisRun": 3
+    "failedThisRun": 4
   },
   "publication": {
     "concurrency": 1,
@@ -36,17 +36,17 @@
   },
   "queue": {
     "eligibleGeneration": 1005,
-    "availableGeneration": 1005,
-    "waitingForRetry": 3,
+    "availableGeneration": 1004,
+    "waitingForRetry": 4,
     "readyPublication": 0,
     "publishedVerified": 25
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:34:21.007Z"
+    "lastSyncedAt": "2026-08-08T15:35:56.942Z"
   },
   "lastError": {
-    "at": "2026-08-08T15:27:08.856Z",
-    "message": "Generation failed for api.scira.ai with exit 1."
+    "at": "2026-08-08T15:40:54.763Z",
+    "message": "Generation failed for baked.design with exit 1."
   }
 }
