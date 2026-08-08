@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:17:37.125Z",
+  "generatedAt": "2026-08-08T19:21:38.016Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 59,
+    "published_verified": 60,
     "unpublished": 909,
     "failed": 7,
-    "repairing": 1,
-    "drafting": 2,
-    "legacy": 58
+    "repairing": 2,
+    "drafting": 1,
+    "legacy": 57
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:17:25.347Z",
-    "heartbeatExpiresAt": "2026-08-08T19:22:25.347Z",
+    "heartbeatAt": "2026-08-08T19:21:18.619Z",
+    "heartbeatExpiresAt": "2026-08-08T19:26:18.619Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -30,33 +30,36 @@
           "startedAt": "2026-08-08T19:07:02.733Z"
         },
         {
-          "domain": "e360.yale.edu",
-          "startedAt": "2026-08-08T19:11:59.157Z"
-        },
-        {
           "domain": "earth.google.com",
           "startedAt": "2026-08-08T19:16:39.956Z"
+        },
+        {
+          "domain": "edition.cnn.com",
+          "startedAt": "2026-08-08T19:20:19.340Z"
         }
       ],
-      "completedThisRun": 48,
+      "completedThisRun": 49,
       "failedThisRun": 26
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "e360.yale.edu",
+        "startedAt": "2026-08-08T19:20:18.985Z"
+      },
       "completedThisRun": 46,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 967,
-      "availableGeneration": 967,
+      "eligibleGeneration": 966,
+      "availableGeneration": 966,
       "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 59
+      "publishedVerified": 60
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:15:59.099Z"
+      "lastSyncedAt": "2026-08-08T19:17:54.441Z"
     },
     "lastError": {
       "at": "2026-08-08T19:11:55.750Z",
@@ -7288,7 +7291,7 @@
       "domain": "designsystems.surf",
       "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T19:15:50.923Z",
+      "updatedAt": "2026-08-08T19:20:19.533Z",
       "blocker": null,
       "publication": {
         "key": "designsystems.surf-design",
@@ -8214,15 +8217,15 @@
     },
     {
       "domain": "e360.yale.edu",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:12:39.289Z",
+      "updatedAt": "2026-08-08T19:21:11.497Z",
       "blocker": null,
       "publication": {
         "key": "e360.yale.edu-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/e360.yale.edu-design",
+        "markdownUrl": "https://design.withfudge.com/share/e360.yale.edu-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/e360.yale.edu.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -8294,9 +8297,9 @@
     },
     {
       "domain": "earth.google.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T19:16:50.417Z",
+      "updatedAt": "2026-08-08T19:21:31.636Z",
       "blocker": null,
       "publication": {
         "key": "earth.google.com-design",
@@ -8390,9 +8393,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.608Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T19:20:39.502Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
