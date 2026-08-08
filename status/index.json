@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:03:15.246Z",
+  "generatedAt": "2026-08-08T14:04:27.307Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 3,
-    "ready": 8,
-    "repairing": 2,
-    "validating": 1,
+    "published_verified": 4,
+    "publishing": 1,
+    "ready": 6,
+    "validating": 2,
+    "repairing": 1,
     "unpublished": 1013,
     "drafting": 5,
     "failed": 3,
@@ -17,8 +18,8 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T14:03:06.020Z",
-    "heartbeatExpiresAt": "2026-08-08T14:08:06.020Z",
+    "heartbeatAt": "2026-08-08T14:04:13.425Z",
+    "heartbeatExpiresAt": "2026-08-08T14:09:13.425Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -46,22 +47,22 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "aihero.dev",
-        "startedAt": "2026-08-08T13:57:35.940Z"
+        "domain": "aistudio.google.com",
+        "startedAt": "2026-08-08T14:04:11.787Z"
       },
-      "completedThisRun": 2,
+      "completedThisRun": 4,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1013,
       "availableGeneration": 1013,
       "waitingForRetry": 3,
-      "readyPublication": 8,
-      "publishedVerified": 2
+      "readyPublication": 7,
+      "publishedVerified": 4
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T13:58:10.899Z"
+      "lastSyncedAt": "2026-08-08T14:03:45.960Z"
     },
     "lastError": {
       "at": "2026-08-08T13:55:44.150Z",
@@ -1131,15 +1132,15 @@
     },
     {
       "domain": "aino.agency",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 92,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T14:04:03.694Z",
       "blocker": null,
       "publication": {
         "key": "aino.agency-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/aino.agency-design",
+        "markdownUrl": "https://design.withfudge.com/share/aino.agency-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aino.agency.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1243,9 +1244,9 @@
     },
     {
       "domain": "aistudio.google.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 90,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T14:04:12.539Z",
       "blocker": null,
       "publication": {
         "key": "aistudio.google.com-design",
@@ -1499,9 +1500,9 @@
     },
     {
       "domain": "americanhistory.si.edu",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:01:04.691Z",
+      "updatedAt": "2026-08-08T14:03:53.093Z",
       "blocker": null,
       "publication": {
         "key": "americanhistory.si.edu-design",
