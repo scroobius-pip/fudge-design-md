@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:16:03.376Z",
+  "generatedAt": "2026-08-08T16:21:48.752Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 30,
     "unpublished": 909,
     "failed": 7,
-    "repairing": 1,
-    "reviewing": 1,
-    "drafting": 1,
-    "legacy": 87
+    "validating": 2,
+    "legacy": 87,
+    "drafting": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:15:52.150Z",
-    "heartbeatExpiresAt": "2026-08-08T16:20:52.150Z",
+    "heartbeatAt": "2026-08-08T16:21:44.034Z",
+    "heartbeatExpiresAt": "2026-08-08T16:26:44.034Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,20 +26,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "cap.so",
-          "startedAt": "2026-08-08T16:03:46.144Z"
-        },
-        {
           "domain": "cora.computer",
           "startedAt": "2026-08-08T16:08:04.104Z"
         },
         {
           "domain": "cosmic-ray.tv",
           "startedAt": "2026-08-08T16:15:13.617Z"
+        },
+        {
+          "domain": "windsurf.com",
+          "startedAt": "2026-08-08T16:19:16.673Z"
         }
       ],
       "completedThisRun": 19,
-      "failedThisRun": 8
+      "failedThisRun": 9
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 997,
-      "availableGeneration": 997,
-      "waitingForRetry": 6,
+      "eligibleGeneration": 996,
+      "availableGeneration": 996,
+      "waitingForRetry": 7,
       "readyPublication": 0,
       "publishedVerified": 30
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:14:23.834Z"
+      "lastSyncedAt": "2026-08-08T16:16:38.763Z"
     },
     "lastError": {
-      "at": "2026-08-08T16:03:46.138Z",
-      "message": "Generation failed for bkid.co with exit 1."
+      "at": "2026-08-08T16:19:13.663Z",
+      "message": "Generation failed for cap.so with exit 1."
     }
   },
   "generationControl": {
@@ -5063,9 +5062,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:14:49.907Z",
+      "updatedAt": "2026-08-08T16:19:12.846Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -5074,8 +5073,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T17:19:12.846Z"
     },
     {
       "domain": "capacity.so",
@@ -6103,9 +6102,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "reviewing",
+      "state": "validating",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:15:54.464Z",
+      "updatedAt": "2026-08-08T16:19:33.485Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -6135,9 +6134,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:15:48.521Z",
+      "updatedAt": "2026-08-08T16:20:02.708Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
@@ -27063,9 +27062,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "failed",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T15:15:40.287Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T16:19:21.905Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
@@ -27075,7 +27074,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T16:15:40.287Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "wip.co",

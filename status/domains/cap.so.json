@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "cap.so",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 86,
-  "consecutiveFailures": 0,
-  "nextEligibleAt": null,
-  "updatedAt": "2026-08-08T16:14:49.907Z",
+  "consecutiveFailures": 1,
+  "nextEligibleAt": "2026-08-08T17:19:12.846Z",
+  "updatedAt": "2026-08-08T16:19:12.846Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -23,5 +23,5 @@
     "markdownUrl": "https://design.withfudge.com/share/cap.so-design.md",
     "githubUrl": null
   },
-  "failure": null
+  "failure": "publication_failed"
 }
