@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:40:19.338Z",
+  "generatedAt": "2026-08-08T20:45:52.501Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 71,
     "unpublished": 909,
     "failed": 10,
-    "drafting": 2,
     "repairing": 1,
+    "validating": 2,
     "legacy": 43
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:40:10.072Z",
-    "heartbeatExpiresAt": "2026-08-08T20:45:10.072Z",
+    "heartbeatAt": "2026-08-08T20:45:44.478Z",
+    "heartbeatExpiresAt": "2026-08-08T20:50:44.478Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -48,15 +48,15 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 952,
-      "availableGeneration": 952,
-      "waitingForRetry": 10,
+      "eligibleGeneration": 953,
+      "availableGeneration": 953,
+      "waitingForRetry": 9,
       "readyPublication": 0,
       "publishedVerified": 71
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:39:20.998Z"
+      "lastSyncedAt": "2026-08-08T20:40:35.499Z"
     },
     "lastError": {
       "at": "2026-08-08T20:31:49.741Z",
@@ -8390,9 +8390,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:39:02.677Z",
+      "updatedAt": "2026-08-08T20:45:18.781Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8870,9 +8870,9 @@
     },
     {
       "domain": "everyday-practice.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:37:43.006Z",
+      "updatedAt": "2026-08-08T20:44:13.461Z",
       "blocker": null,
       "publication": {
         "key": "everyday-practice.com-design",
@@ -8902,9 +8902,9 @@
     },
     {
       "domain": "exa.ai",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:37:38.022Z",
+      "updatedAt": "2026-08-08T20:43:27.933Z",
       "blocker": null,
       "publication": {
         "key": "exa.ai-design",
