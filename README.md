@@ -1820,7 +1820,7 @@ E360 uses a classic editorial structure: a compact masthead, a single high-prior
 
 [![How earth.google.com is designed](https://pin.fontofweb.com/9655?format=jpg)](design-md/earth.google.com.md)
 
-earth.google.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, with typography led by **Times** and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Google Earth Web is an immersive dark application in which the planet, map layers, and project tools share the same stage. The page does not compete with the Earth imagery; instead, it frames the globe with restrained charcoal chrome, compact labels, and a single strong blue action color. The result feels technical and cinematic at once. The interface is built around floating panels, edge-anchored controls, and centered overlays that sit above the map without breaking the sense of depth.
 
 [Open guide](design-md/earth.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/earth.google.com-design)
 
