@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T13:57:36.856Z",
+  "generatedAt": "2026-08-08T13:57:59.112Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
     "published_verified": 2,
-    "ready": 9,
+    "syncing": 1,
+    "ready": 8,
     "drafting": 8,
     "unpublished": 1013,
     "failed": 3,
@@ -15,8 +16,8 @@
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T13:57:29.717Z",
-    "heartbeatExpiresAt": "2026-08-08T14:02:29.717Z",
+    "heartbeatAt": "2026-08-08T13:57:54.278Z",
+    "heartbeatExpiresAt": "2026-08-08T14:02:54.278Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -44,22 +45,22 @@
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "ai.cloudflare.com",
-        "startedAt": "2026-08-08T13:56:41.263Z"
+        "domain": "aihero.dev",
+        "startedAt": "2026-08-08T13:57:35.940Z"
       },
-      "completedThisRun": 1,
+      "completedThisRun": 2,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1013,
       "availableGeneration": 1013,
       "waitingForRetry": 3,
-      "readyPublication": 9,
-      "publishedVerified": 1
+      "readyPublication": 8,
+      "publishedVerified": 2
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T13:57:27.532Z"
+      "lastSyncedAt": "2026-08-08T13:57:51.845Z"
     },
     "lastError": {
       "at": "2026-08-08T13:55:44.150Z",
@@ -1113,14 +1114,14 @@
     },
     {
       "domain": "aihero.dev",
-      "state": "ready",
+      "state": "syncing",
       "attempt": 2,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T13:57:45.899Z",
       "blocker": null,
       "publication": {
         "key": "aihero.dev-design",
-        "url": null,
-        "markdownUrl": null,
+        "url": "https://design.withfudge.com/share/aihero.dev-design",
+        "markdownUrl": "https://design.withfudge.com/share/aihero.dev-design.md",
         "githubUrl": null
       },
       "failureCategory": null,
