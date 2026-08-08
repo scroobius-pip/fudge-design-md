@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:53:52.350Z",
+  "generatedAt": "2026-08-08T19:59:13.247Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 66,
     "unpublished": 909,
     "failed": 8,
-    "validating": 1,
-    "drafting": 2,
+    "drafting": 1,
+    "repairing": 2,
     "legacy": 50
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T19:53:38.678Z",
-    "heartbeatExpiresAt": "2026-08-08T19:58:38.678Z",
+    "heartbeatAt": "2026-08-08T19:59:06.212Z",
+    "heartbeatExpiresAt": "2026-08-08T20:04:06.212Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,12 +26,12 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "epsteinexposed.com",
-          "startedAt": "2026-08-08T19:49:29.799Z"
+          "domain": "deezer.com",
+          "startedAt": "2026-08-08T19:58:10.117Z"
         },
         {
-          "domain": "era.app",
-          "startedAt": "2026-08-08T19:50:04.764Z"
+          "domain": "epsteinexposed.com",
+          "startedAt": "2026-08-08T19:49:29.799Z"
         },
         {
           "domain": "etched.com",
@@ -39,7 +39,7 @@
         }
       ],
       "completedThisRun": 55,
-      "failedThisRun": 28
+      "failedThisRun": 29
     },
     "publication": {
       "concurrency": 1,
@@ -56,11 +56,11 @@
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T19:53:01.674Z"
+      "lastSyncedAt": "2026-08-08T19:54:03.365Z"
     },
     "lastError": {
-      "at": "2026-08-08T19:42:24.071Z",
-      "message": "Generation failed for emmiwu.com with exit 1."
+      "at": "2026-08-08T19:58:04.373Z",
+      "message": "Generation failed for era.app with exit 1."
     }
   },
   "generationControl": {
@@ -7030,9 +7030,9 @@
     },
     {
       "domain": "deezer.com",
-      "state": "failed",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T18:56:41.007Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T19:58:15.278Z",
       "blocker": null,
       "publication": {
         "key": "deezer.com-design",
@@ -7042,7 +7042,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 2,
-      "nextEligibleAt": "2026-08-08T19:56:41.007Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "define.app",
@@ -8726,9 +8726,9 @@
     },
     {
       "domain": "epsteinexposed.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:53:11.230Z",
+      "updatedAt": "2026-08-08T19:56:06.575Z",
       "blocker": null,
       "publication": {
         "key": "epsteinexposed.com-design",
@@ -8742,9 +8742,9 @@
     },
     {
       "domain": "era.app",
-      "state": "drafting",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T19:50:34.835Z",
+      "updatedAt": "2026-08-08T19:58:01.299Z",
       "blocker": null,
       "publication": {
         "key": "era.app-design",
@@ -8753,8 +8753,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T20:58:01.299Z"
     },
     {
       "domain": "ergo.org",
@@ -8774,9 +8774,9 @@
     },
     {
       "domain": "etched.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 84,
-      "updatedAt": "2026-08-08T19:51:15.605Z",
+      "updatedAt": "2026-08-08T19:56:51.140Z",
       "blocker": null,
       "publication": {
         "key": "etched.com-design",
