@@ -1874,9 +1874,9 @@ epsteinexposed.com presents a predominantly dark surface treatment in the captur
 
 ### era.app
 
-[![How era.app is designed](https://pin.fontofweb.com/9760?format=jpg)](design-md/era.app.md)
+[![How era.app is designed](https://pin.fontofweb.com/9758?format=jpg)](design-md/era.app.md)
 
-era.app presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#f8faf9`, `#0f1720`, and `#191a17`, with typography led by **Saans**, **Applesystem**, and **Times**. The guide below names reusable design roles only where the captured evidence supports them.
+Era is a dark finance workspace rather than a bright marketing site. The main canvas sits in a deep blue-black range, the primary content cards are slightly lighter and flatter, and the only steady accent is a mint-teal that marks the brand strip, key buttons, and tiny status chips. The pages feel practical before they feel decorative. A narrow left rail carries navigation and account utilities, while the center lane holds the active task: onboarding, transactions, support, referrals, or connector setup.
 
 [Open guide](design-md/era.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/era.app-design)
 
