@@ -1,21 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:26:50.989Z",
+  "generatedAt": "2026-08-08T14:27:39.773Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 12,
+    "published_verified": 13,
     "unpublished": 1014,
     "repairing": 3,
-    "failed": 8,
-    "ready": 1
+    "failed": 8
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:16:03.747Z",
-    "heartbeatAt": "2026-08-08T14:26:43.960Z",
-    "heartbeatExpiresAt": "2026-08-08T14:31:43.960Z",
+    "heartbeatAt": "2026-08-08T14:27:32.578Z",
+    "heartbeatExpiresAt": "2026-08-08T14:32:32.578Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -43,19 +42,19 @@
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 3,
+      "completedThisRun": 4,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1018,
       "availableGeneration": 1018,
       "waitingForRetry": 4,
-      "readyPublication": 1,
-      "publishedVerified": 12
+      "readyPublication": 0,
+      "publishedVerified": 13
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:25:51.046Z"
+      "lastSyncedAt": "2026-08-08T14:27:02.441Z"
     },
     "lastError": null
   },
@@ -27826,15 +27825,15 @@
     },
     {
       "domain": "zed.dev",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 80,
-      "updatedAt": "2026-08-08T14:16:33.152Z",
+      "updatedAt": "2026-08-08T14:27:29.389Z",
       "blocker": null,
       "publication": {
         "key": "zed.dev-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/zed.dev-design",
+        "markdownUrl": "https://design.withfudge.com/share/zed.dev-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/zed.dev.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
