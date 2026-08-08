@@ -1972,7 +1972,7 @@ Fable’s visual system presents reading as a calm, app-like storefront rather t
 
 [![How factory.ai is designed](https://pin.fontofweb.com/6823?format=jpg)](design-md/factory.ai.md)
 
-factory.ai presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#eeeeee`, and `#020202`, with typography led by **Geist** and **Geist Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Factory is a severe black developer brand built around restraint, clarity, and quiet control. The page surface stays near-black, the text stays white, and orange appears only as a small signal color for dots, badges, active indicators, and a few high-contrast controls. That limited palette gives every section a strong reading order without needing decorative backgrounds or soft gradients.
 
 [Open guide](design-md/factory.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/factory.ai-design)
 
