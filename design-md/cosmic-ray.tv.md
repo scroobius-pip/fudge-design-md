@@ -2,132 +2,170 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cosmic-ray.tv-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10402?format=jpg)](https://design.withfudge.com/share/pin-10402)
+[![Large DAN25 hero board with stacked pastel gradient bands](https://pin.fontofweb.com/10400?format=jpg)](https://design.withfudge.com/share/pin-10400)
 
-[NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10402)
+[Large DAN25 hero board with stacked pastel gradient bands](https://design.withfudge.com/share/pin-10400)
 
-[![NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10401?format=jpg)](https://design.withfudge.com/share/pin-10401)
+[![Dense storyboard grid of numbered black tiles with thin white rules](https://pin.fontofweb.com/10401?format=jpg)](https://design.withfudge.com/share/pin-10401)
 
-[NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10401)
+[Dense storyboard grid of numbered black tiles with thin white rules](https://design.withfudge.com/share/pin-10401)
 
-[![NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10400?format=jpg)](https://design.withfudge.com/share/pin-10400)
+[![Bright poster wall mixing pale cards, bold DAN25 type, and gradient panels](https://pin.fontofweb.com/10402?format=jpg)](https://design.withfudge.com/share/pin-10402)
 
-[NAVER DAN25 Conference Movie Package 2025 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10400)
+[Bright poster wall mixing pale cards, bold DAN25 type, and gradient panels](https://design.withfudge.com/share/pin-10402)
 
-[![NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10287?format=jpg)](https://design.withfudge.com/share/pin-10287)
+[![Dark motion boards with purple streaks and compact preview tiles](https://pin.fontofweb.com/10287?format=jpg)](https://design.withfudge.com/share/pin-10287)
 
-[NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10287)
-
-[![NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10286?format=jpg)](https://design.withfudge.com/share/pin-10286)
-
-[NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10286)
-
-[![NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10285?format=jpg)](https://design.withfudge.com/share/pin-10285)
-
-[NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10285)
-
-[![NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://pin.fontofweb.com/10284?format=jpg)](https://design.withfudge.com/share/pin-10284)
-
-[NAVER Dan23 Conference Movie Package 2023 - COSMIC RAY _ Newmedia Digital Design Company](https://design.withfudge.com/share/pin-10284)
+[Dark motion boards with purple streaks and compact preview tiles](https://design.withfudge.com/share/pin-10287)
 
 ## Overview
 
-cosmic-ray.tv presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000` and `#ffffff`, with typography led by **Apple Sd Gothic Neo**, **Tn**, **Applesystem**, and **Neue Haas Grotesk**. The guide below names reusable design roles only where the captured evidence supports them.
+cosmic-ray.tv uses a strict black shell so the work can carry almost all of the personality. The page feels like a studio wall made for conference-film material: a small logo row, a large headline stage, dense storyboard grids, bilingual explanatory copy, and poster panels that bring the energy. The interface itself stays restrained. White text, white rules, square edges, and deep black gutters keep the page quiet enough for the art to lead.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content |
-| color.surface | `#ffffff` | surface on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-17.1504px | **Apple Sd Gothic Neo** | 17.1504px | 400 | normal | normal | <html>, <div>, and <body> |
-| type.utility-11.9376px | **Apple Sd Gothic Neo** | 11.9376px | 400 | normal | normal | <html>, <div>, and <body> |
-| type.body-23.8752px | **Tn** | 23.8752px | 400 | 31.0378px | 0.238752px | <div>, <img>, and <a> |
-| type.display-34.3008px | **Tn** | 34.3008px | 400 | 44.591px | 0.343008px | <div>, <img>, and <a> |
-| type.heading-23.8752px | **Tn** | 23.8752px | 700 | 31.0378px | 0.238752px | <div> and <h2> |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.body-24.0106px | **Neue Haas Grotesk** | 24.0106px | 500 | 33.6148px | 0.240106px | <h1> |
-| type.display-34.3008px | **Tn** | 34.3008px | 700 | 44.591px | 0.343008px | <h2> |
-| type.body-16.7126px | **Neue Haas Grotesk** | 16.7126px | 500 | 23.3977px | 0.167126px | <h1> |
-| type.body-27.4406px | **Neue Haas Grotesk** | 27.4406px | 500 | 32.9288px | 0.274406px | <a> and <h1> |
-| type.body-19.1002px | **Neue Haas Grotesk** | 19.1002px | 500 | 22.9202px | 0.191002px | <a> and <h1> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `149.203px 0px 253.828px` | padding | page content |
-| `149.203px` | padding-top | page content |
-| `253.828px` | padding-bottom | page content |
-| `120.844px 0px 176.656px` | padding | page content |
-| `120.844px` | padding-top | page content |
-| `176.656px` | padding-bottom | page content |
-| `8.9532px` | padding | page content |
-| `8.9532px` | padding-top | page content |
-
-### Shape and depth
-
-The captured pages use `0px 0px 1px none none solid 0px` border treatments.
+The strongest idea is separation. Each board feels like a pinned chapter rather than a card in a feed. The oversized DAN25 title and the compact Tn wordmark give the header and hero a split voice: one part editorial, one part branded. Below that, the page alternates between hard-edged grid studies and broader copy blocks. That rhythm makes the site feel specific to a production studio, not to a generic portfolio template.
 
 ## Colors
 
-The visual system is predominantly light surface treatment. Surface colors include `#ffffff`. Text colors include `#000000`. Keep image-derived colors separate from interface colors.
+| token | value | use |
+|---|---|---|
+| `canvas` | `#000000` | Main shell, page gutters, and the dark stage around every board |
+| `ink` | `#FFFFFF` | Headlines, labels, frame numbers, and high-contrast copy on black |
+| `border` | `#FFFFFF` | Hairline rules, tile frames, and thin separators inside the grids |
+| `accent-cyan` | `#79DFFF` | Bright poster bands, cool glow strips, and the lightest art passages |
+| `accent-violet` | `#B23CFF` | Purple gradients, energetic bars, and the strongest color flare |
+| `accent-green` | `#31E38F` | Thin neon breaks, signal-like accents, and cross-panel highlights |
+| `accent-blue` | `#5E77FF` | Deep cool transitions, motion tiles, and secondary luminous panels |
+
+The color system is deliberately spare at the interface level. Black holds the page together, and white carries the reading path. The accent colors live inside the poster art, the glowing bars, and the motion fragments. They make the work feel electric without turning the shell itself into a color field. That balance matters: the page should stay calm at the container level and vivid inside the boards.
+
+The relationship between dark, light, photographic, and accent treatment is simple. Dark canvas creates the studio wall. Light text and rules create structure. Photographic or film-like panels provide texture, depth, and movement. Accent color appears inside those panels, where it acts like stage light instead of a page-wide brand palette. If those hues spread into every control, the system loses its discipline and the reading path becomes noisy. Keep the monochrome shell steady so the image-based color can do the expressive work.
 
 ## Typography
 
-The captured type system uses **Apple Sd Gothic Neo**, **Tn**, **Applesystem**, and **Neue Haas Grotesk**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The hierarchy uses four families, each with a narrow job. Tn handles the compact logo wordmark. Neue Haas Grotesk carries the large DAN25 headline and the section-level display lines. Apple Sd Gothic Neo supports the Korean and mixed-language paragraphs so the longer copy stays even and readable. Applesystem covers the smallest labels, navigation, and legal lines. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `site-wordmark` | Tn | 2rem | 400 | 1 | 0em | Top-left logo and the compact brand mark in the shell header |
+| `hero-display` | Neue Haas Grotesk | 3.5rem | 700 | 0.95 | -0.03em | Main case-study title and the loudest display text |
+| `section-display` | Neue Haas Grotesk | 2.25rem | 700 | 1 | -0.02em | Section headers and the larger supporting display lines |
+| `body` | Apple Sd Gothic Neo | 1rem | 400 | 1.5 | 0em | Main paragraph copy in Korean or mixed language |
+| `body-strong` | Apple Sd Gothic Neo | 1rem | 500 | 1.45 | 0em | Short emphasis lines and supporting sentences |
+| `navigation` | Applesystem | 0.875rem | 500 | 1.25 | 0em | Top links, utility text, and small interface labels |
+| `caption` | Applesystem | 0.75rem | 500 | 1.2 | 0.08em | Frame numbers, tiny tags, and corner labels |
+| `legal` | Applesystem | 0.75rem | 400 | 1.5 | 0.02em | Footer-style notes and low-priority metadata |
+
+The typography feels compact, but it is not cramped. Large display text is heavy enough to hold its ground against the artwork, while the smaller label styles stay crisp without becoming decorative. The page depends on the contrast between large and small rather than on a broad mix of font styles. Keep the logo face isolated to the wordmark area, and let the grotesk and system faces carry the rest of the hierarchy. That keeps the page edited and confident.
+
+The line structure also matters. The bigger headline lines should feel wide and assertive, while the body copy should stay calm enough for longer reading in both Korean and English. Small labels should not become ornamental. They work because they are direct, compact, and easy to scan against the black shell.
 
 ## Layout
 
-The captured pages use values such as `149.203px 0px 253.828px`, `149.203px`, `253.828px`, `120.844px 0px 176.656px`, and `120.844px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout works like a long black runway with large breaks between chapters. The first visible area is centered and dramatic, with a small header above a wide hero board. After that, the page switches between tight contact-sheet grids and broader copy stages. Each section should feel like a different board pinned to the same studio wall. The structure is not a repeating card list; it is a sequence of authored compositions.
+
+Spacing does most of the structural work. Small pads inside the storyboard cells create dense, technical panels. Much larger section spacing creates the pause between the hero, the grids, and the copy blocks. That contrast between tiny internal spacing and broad chapter spacing is one of the site’s defining traits. It keeps the page from flattening into a continuous scroll of equal panels. The eye should always know when it has moved from one chapter to the next.
+
+The wide poster boards use broad columns and strong centered weight. The grids use many small frames with consistent rules and labels. The bilingual copy area expands the reading width so Korean and Latin text can sit side by side without feeling squeezed. On narrower layouts, the order should stay story-first: header, hero board, grid studies, copy, then darker motion panels. The page should narrow by stacking, not by shrinking the art until it loses scale. The visual logic is large and editorial, so the layout should preserve that scale wherever possible.
+
+The most important layout habit is to keep the black shell visible around every chapter. That empty space is not wasted space. It is the frame that makes the poster panels feel like display objects and makes the contact sheets feel like work surfaces. Without that breathing room, the whole site would collapse into a dense collage. The page needs room at the edges so the boards feel deliberate rather than packed together.
 
 ## Visual language
 
-The captured visual language is predominantly light surface treatment. Surface treatment centers on `#ffffff`. No structured gradient or shadow treatment is established.
+The visual language is direct, rectangular, and cinematic. Hard edges dominate. White labels sit against black fields. Thin rules and small numbering give the storyboard sections a production-room tone. The hero boards feel like printed conference posters enlarged to screen size, while the smaller grids feel like review sheets or editing boards. The page rarely relies on shadow; separation comes from contrast, gutters, and layout rhythm.
 
-## Components and states
+Color behaves like light on a stage. Cyan and violet create the strongest poster glow. Green and blue act as interruptions inside the motion fragments and the brighter panel bands. Dark sections stay mostly monochrome, which keeps the color from turning into decoration. The work feels strongest when the shell remains restrained and the art supplies the energy. That split between calm interface and vivid content is the core of the system.
 
-The captured pages include repeated styling on <div>, <html>, <body>, <h1>, <img>, <a>, and <h2> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The site also uses a strong sense of movement without needing decorative motion in the interface. Streaks, blurred bands, cropped frames, and layered panels already suggest speed and flow. Keep the surrounding UI still so the art can imply motion on its own. The result should feel like a curated studio archive where every board belongs to the same project, even when the surfaces change from board to board.
+
+## Components
+
+### Shell and header
+
+- **Anatomy:** A small logo at the left, simple navigation nearby, and very little ornament.
+- **Surface:** The header sits directly on the black canvas without a separate container.
+- **Typography:** Use the Tn wordmark for the logo and Applesystem for the small navigation line.
+- **Shape:** Keep the top edge square and spare. There is no need for soft chrome.
+- **Composition:** The header should guide the page, then step back. It should not compete with the hero board below it.
+
+### Hero poster board
+
+- **Anatomy:** A dominant title, a large brand mark, supporting bilingual text, and a small line of project copy or date text.
+- **Surface:** The board reads as a bright object inside the dark shell, with strong contrast and poster-like color bands.
+- **Typography:** Use `hero-display` for the biggest title and `body` or `body-strong` for the supporting paragraphs.
+- **Shape:** The panel should stay firm and rectangular. The layout feels stronger when the edges are hard.
+- **Composition:** Keep the biggest wordmark low in the board and let the text blocks balance above or beside it. The result should feel like a conference poster, not a banner ad.
+
+### Storyboard grid
+
+- **Anatomy:** Many small cells, each with a tiny number and a short image or text fragment.
+- **Surface:** Mostly black, with white rules and small bright inserts.
+- **Typography:** Use `caption` for the frame numbers and tiny labels.
+- **Shape:** Thin borders and square corners make the grid feel technical and exact.
+- **Composition:** Preserve the contact-sheet rhythm. Each tile should carry one idea cleanly, not several ideas at once.
+- **Visible states:** Some tiles are dark and quiet; others are bright and image-heavy. Keep that variation so the grid feels like a real working board.
+
+### Bilingual copy block
+
+- **Anatomy:** A large display heading, then English and Korean paragraph columns.
+- **Surface:** A black or near-black ground keeps the text readable and serious.
+- **Typography:** Use `section-display` for the heading and `body` for the paragraphs.
+- **Spacing:** Leave enough room for both language columns to breathe. The copy should feel deliberate, not squeezed.
+- **Composition:** The heading should lead, and the paragraphs should settle underneath it with steady line lengths.
+- **Visible states:** The block feels strongest when the heading is bright and the body text softens just enough to support it.
+
+### Motion-art panels
+
+- **Anatomy:** Purple arcs, cyan streaks, blurred tracks, small interface cards, and cropped preview tiles.
+- **Surface:** These panels belong to the artwork itself, so they can carry the more vivid color treatment.
+- **Typography:** Any overlaid labels should stay small and unobtrusive.
+- **Composition:** Let the imagery do the loud work. Do not add extra chrome or shadow around it.
+- **Visible states:** Some panels are open and luminous; others are compressed and darker. Keep that contrast because it gives the page its chapter-by-chapter pace.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+When the layout narrows, the reading order should stay the same even if the structure stacks. The header remains first, the hero board stays dominant, the grid studies follow, and the bilingual copy remains readable. Reduce column count before reducing the type hierarchy. If a contact sheet can no longer hold every tile in one row, break it into clean stacked rows instead of shrinking the tiles until they lose meaning. The page should still feel like a studio wall, only in a narrower frame.
+
+The poster boards should remain the most important visual objects on smaller screens. Their titles, marks, and support copy should stay attached to the same board so the composition still reads as one authored unit. If the bilingual copy collapses from two columns to one, keep the line lengths comfortable and preserve the calm editorial tone. The goal is not to invent a separate phone language. The goal is to keep the same visual language readable in less space.
 
 ## Practical implementation guidance
 
-- Preserve the light surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+
+- Keep black as the dominant shell color and white as the main reading color.
+- Let the cyan, violet, green, and blue accents live inside the poster bands and motion strips.
+- Preserve the dense contact-sheet feeling of the grids and the billboard scale of the hero boards.
+- Keep the font set tight: one logo face, one display face, one Korean text face, and one system face for small labels.
+- Hold generous vertical space between chapters so each board feels separate and intentional.
+
+### Avoid
+
+- Avoid turning the page into a soft-card portfolio layout.
+- Avoid rounded corners that would make the boards feel casual.
+- Avoid adding a bright action color across the whole interface.
+- Avoid squeezing the bilingual text into narrow columns that force awkward breaks.
+- Avoid extra chrome such as floating badges, decorative shadows, or background texture that does not belong to the boards.
+
+### Recommended build order
+
+1. Set the black shell, white text, and core type hierarchy.
+2. Build the header and the large hero poster board.
+3. Add the dense storyboard grid with its tiny labels and rules.
+4. Add the bright poster wall with the high-contrast art panels.
+5. Add the bilingual copy block and the darker motion-art panels.
+6. Tune spacing, label size, and line length so the whole page keeps a single visual rhythm.
+
+### Accessibility
+
+- Keep white text on sufficiently dark surfaces and soften copy when a bright panel weakens contrast.
+- Give every image an alt description that names its role in the board.
+- Keep focus styles visible on links and any keyboard-reachable tile.
+- Make the tiny labels readable at real screen size instead of relying on hover.
+- Preserve comfortable line lengths in both Korean and English so the two scripts stay balanced and easy to scan.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-
-## Typography captured from cosmic-ray.tv
-
-- **Apple Sd Gothic Neo** — weight 400 · size 17.1504px
-- **Tn** — weight 400 · size 34.3008px
-- **Applesystem** — weight 400 · size 14px
-- **Neue Haas Grotesk** — weight 500 · size 24.0106px
+This guide covers the desktop case-study pages for the NAVER DAN25 and Dan23 work boards: the black shell, logo row, poster wall, storyboard grids, bilingual copy blocks, and the neon artwork inside those boards. It does not include mobile reflow, motion timing, hover treatment, or small interaction details. Measurements are practical adaptation targets. Verify licensing for these families before production use.

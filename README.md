@@ -1402,9 +1402,9 @@ cora.computer presents a predominantly dark surface treatment in the captured pa
 
 ### cosmic-ray.tv
 
-[![How cosmic-ray.tv is designed](https://pin.fontofweb.com/10402?format=jpg)](design-md/cosmic-ray.tv.md)
+[![How cosmic-ray.tv is designed](https://pin.fontofweb.com/10400?format=jpg)](design-md/cosmic-ray.tv.md)
 
-cosmic-ray.tv presents a predominantly light surface treatment in the captured pages. The system is anchored by `#000000` and `#ffffff`, with typography led by **Apple Sd Gothic Neo**, **Tn**, **Applesystem**, and **Neue Haas Grotesk**. The guide below names reusable design roles only where the captured evidence supports them.
+cosmic-ray.tv uses a strict black shell so the work can carry almost all of the personality. The page feels like a studio wall made for conference-film material: a small logo row, a large headline stage, dense storyboard grids, bilingual explanatory copy, and poster panels that bring the energy. The interface itself stays restrained. White text, white rules, square edges, and deep black gutters keep the page quiet enough for the art to lead.
 
 [Open guide](design-md/cosmic-ray.tv.md) · [View the Fudge conversation](https://design.withfudge.com/share/cosmic-ray.tv-design)
 
