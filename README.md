@@ -520,6 +520,14 @@ AMD's page language is built around a black field, bright type, and technology i
 
 [Open guide](design-md/amd.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/amd.com-design)
 
+### americanhistory.si.edu
+
+[![How americanhistory.si.edu is designed](https://pin.fontofweb.com/3940?format=jpg)](design-md/americanhistory.si.edu.md)
+
+American History uses a direct civic voice built from large color fields, compact heavy type, and a small set of clear actions. The homepage feels authoritative without becoming formal in a dry way. It reads like a sequence of large public panels: a mission statement at the top, a bright portrait field in the middle, a support callout below, and a dark utility footer at the bottom. The design depends on contrast between those bands more than on decorative detail.
+
+[Open guide](design-md/americanhistory.si.edu.md) · [View the Fudge conversation](https://design.withfudge.com/share/americanhistory.si.edu-design)
+
 ### ami.dev
 
 [![How ami.dev is designed](https://pin.fontofweb.com/6958?format=jpg)](design-md/ami.dev.md)
