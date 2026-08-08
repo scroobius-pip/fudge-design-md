@@ -504,6 +504,14 @@ Amazon’s home page is built as a dense retail interface rather than a narrativ
 
 [Open guide](design-md/amazon.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/amazon.com-design)
 
+### ambigr.am
+
+[![How ambigr.am is designed](https://pin.fontofweb.com/3318?format=jpg)](design-md/ambigr.am.md)
+
+Ambigr.am feels like a competition board that has been cleaned down to its bones and then given a sharp ornamental center. The page is built around a hard black-and-white structure, a loud display wordmark, a dense leaderboard, and a featured artwork panel that behaves like a poster. The whole system is direct and graphic. It uses strong alignment, compact text, and a high-contrast stage so the contest content can carry the personality without extra decoration around it.
+
+[Open guide](design-md/ambigr.am.md) · [View the Fudge conversation](https://design.withfudge.com/share/ambigr.am-design)
+
 ### ami.dev
 
 [![How ami.dev is designed](https://pin.fontofweb.com/6958?format=jpg)](design-md/ami.dev.md)
