@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:53:57.099Z",
+  "generatedAt": "2026-08-08T16:57:39.623Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 36,
+    "published_verified": 37,
     "unpublished": 909,
-    "validating": 1,
-    "drafting": 2,
-    "failed": 5,
+    "validating": 2,
+    "drafting": 1,
+    "failed": 4,
     "legacy": 83
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:53:51.469Z",
-    "heartbeatExpiresAt": "2026-08-08T16:58:51.469Z",
+    "heartbeatAt": "2026-08-08T16:57:34.797Z",
+    "heartbeatExpiresAt": "2026-08-08T17:02:34.797Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -34,29 +34,29 @@
           "startedAt": "2026-08-08T16:52:01.149Z"
         },
         {
-          "domain": "dashboard.mux.com",
-          "startedAt": "2026-08-08T16:52:56.370Z"
+          "domain": "betterstack.com",
+          "startedAt": "2026-08-08T16:57:01.864Z"
         }
       ],
-      "completedThisRun": 25,
+      "completedThisRun": 26,
       "failedThisRun": 11
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 23,
+      "completedThisRun": 24,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 992,
       "availableGeneration": 992,
-      "waitingForRetry": 5,
+      "waitingForRetry": 4,
       "readyPublication": 0,
-      "publishedVerified": 36
+      "publishedVerified": 37
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:53:10.763Z"
+      "lastSyncedAt": "2026-08-08T16:54:08.001Z"
     },
     "lastError": {
       "at": "2026-08-08T16:45:06.994Z",
@@ -3160,7 +3160,7 @@
       "domain": "aura.build",
       "state": "validating",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:51:38.338Z",
+      "updatedAt": "2026-08-08T16:56:36.118Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3510,9 +3510,9 @@
     },
     {
       "domain": "base-ui.com",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 91,
-      "updatedAt": "2026-08-08T16:52:13.552Z",
+      "updatedAt": "2026-08-08T16:56:51.016Z",
       "blocker": null,
       "publication": {
         "key": "base-ui.com-design",
@@ -3782,9 +3782,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "failed",
-      "attempt": 89,
-      "updatedAt": "2026-08-08T15:55:06.699Z",
+      "state": "drafting",
+      "attempt": 90,
+      "updatedAt": "2026-08-08T16:57:08.701Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -3794,7 +3794,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T16:55:06.699Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "bfl.ai",
@@ -6758,15 +6758,15 @@
     },
     {
       "domain": "dashboard.mux.com",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T16:53:04.289Z",
+      "updatedAt": "2026-08-08T16:57:27.698Z",
       "blocker": null,
       "publication": {
         "key": "dashboard.mux.com-design",
         "url": "https://design.withfudge.com/share/dashboard.mux.com-design",
         "markdownUrl": "https://design.withfudge.com/share/dashboard.mux.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/dashboard.mux.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
