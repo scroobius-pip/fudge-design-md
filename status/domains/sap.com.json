@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "sap.com",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 85,
-  "consecutiveFailures": 0,
-  "nextEligibleAt": null,
-  "updatedAt": "2026-08-08T14:47:21.916Z",
+  "consecutiveFailures": 1,
+  "nextEligibleAt": "2026-08-08T15:55:12.820Z",
+  "updatedAt": "2026-08-08T14:55:12.820Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -23,5 +23,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": null
+  "failure": "publication_failed"
 }

@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:48:43.742Z",
+  "generatedAt": "2026-08-08T14:55:51.700Z",
   "counts": {
     "skipped_one_image": 524,
     "skipped_recent": 180,
-    "published_verified": 18,
+    "published_verified": 19,
     "legacy": 105,
     "unpublished": 909,
     "validating": 1,
     "drafting": 1,
-    "failed": 3,
-    "repairing": 1
+    "preparing": 1,
+    "failed": 2
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T14:48:29.758Z",
-    "heartbeatExpiresAt": "2026-08-08T14:53:29.758Z",
+    "heartbeatAt": "2026-08-08T14:55:22.787Z",
+    "heartbeatExpiresAt": "2026-08-08T15:00:22.787Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -31,35 +31,38 @@
           "startedAt": "2026-08-08T14:43:46.102Z"
         },
         {
-          "domain": "lead.bank",
-          "startedAt": "2026-08-08T14:47:24.432Z"
+          "domain": "nocodeapi.com",
+          "startedAt": "2026-08-08T14:54:26.515Z"
         },
         {
-          "domain": "sap.com",
-          "startedAt": "2026-08-08T14:42:48.698Z"
+          "domain": "saaspo.com",
+          "startedAt": "2026-08-08T14:55:19.130Z"
         }
       ],
-      "completedThisRun": 5,
-      "failedThisRun": 0
+      "completedThisRun": 6,
+      "failedThisRun": 1
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 5,
+      "completedThisRun": 6,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 1013,
-      "availableGeneration": 1013,
-      "waitingForRetry": 4,
+      "eligibleGeneration": 1012,
+      "availableGeneration": 1011,
+      "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 18
+      "publishedVerified": 19
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:45:09.722Z"
+      "lastSyncedAt": "2026-08-08T14:49:25.889Z"
     },
-    "lastError": null
+    "lastError": {
+      "at": "2026-08-08T14:55:16.977Z",
+      "message": "Generation failed for sap.com with exit 1."
+    }
   },
   "generationControl": {
     "paused": false,
@@ -4150,7 +4153,7 @@
       "domain": "bookmarkify.io",
       "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:47:04.114Z",
+      "updatedAt": "2026-08-08T14:54:37.264Z",
       "blocker": null,
       "publication": {
         "key": "bookmarkify.io-design",
@@ -14260,15 +14263,15 @@
     },
     {
       "domain": "lead.bank",
-      "state": "drafting",
+      "state": "published_verified",
       "attempt": 84,
-      "updatedAt": "2026-08-08T14:48:05.417Z",
+      "updatedAt": "2026-08-08T14:55:13.748Z",
       "blocker": null,
       "publication": {
         "key": "lead.bank-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/lead.bank-design",
+        "markdownUrl": "https://design.withfudge.com/share/lead.bank-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/lead.bank.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -17428,9 +17431,9 @@
     },
     {
       "domain": "nocodeapi.com",
-      "state": "failed",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:34:23.433Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T14:54:49.947Z",
       "blocker": null,
       "publication": {
         "key": "nocodeapi.com-design",
@@ -21796,9 +21799,9 @@
     },
     {
       "domain": "saaspo.com",
-      "state": "failed",
-      "attempt": 83,
-      "updatedAt": "2026-08-08T14:34:23.662Z",
+      "state": "preparing",
+      "attempt": 84,
+      "updatedAt": "2026-08-08T14:55:25.636Z",
       "blocker": null,
       "publication": {
         "key": "saaspo.com-design",
@@ -22052,9 +22055,9 @@
     },
     {
       "domain": "sap.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:47:21.916Z",
+      "updatedAt": "2026-08-08T14:55:12.820Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
@@ -22063,8 +22066,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T15:55:12.820Z"
     },
     {
       "domain": "sarah.dev",
