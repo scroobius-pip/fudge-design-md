@@ -2,159 +2,169 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/cap.so-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![Pricing — Cap](https://pin.fontofweb.com/6479?format=jpg)](https://design.withfudge.com/share/pin-6479)
+[![Centered plan comparison table with three pricing columns and a blue sign-up action](https://pin.fontofweb.com/6479?format=jpg)](https://design.withfudge.com/share/pin-6479)
 
-[Pricing — Cap](https://design.withfudge.com/share/pin-6479)
+[Centered plan comparison table with three pricing columns and a blue sign-up action](https://design.withfudge.com/share/pin-6479)
 
-[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6478?format=jpg)](https://design.withfudge.com/share/pin-6478)
+[![Editor-style feature stage with a gradient canvas, dark preview, and right-side controls](https://pin.fontofweb.com/6478?format=jpg)](https://design.withfudge.com/share/pin-6478)
 
-[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/share/pin-6478)
+[Editor-style feature stage with a gradient canvas, dark preview, and right-side controls](https://design.withfudge.com/share/pin-6478)
 
-[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6477?format=jpg)](https://design.withfudge.com/share/pin-6477)
+[![Tilted testimonial cards floating across a bright white field beneath the heading](https://pin.fontofweb.com/6477?format=jpg)](https://design.withfudge.com/share/pin-6477)
 
-[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/share/pin-6477)
+[Tilted testimonial cards floating across a bright white field beneath the heading](https://design.withfudge.com/share/pin-6477)
 
-[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6476?format=jpg)](https://design.withfudge.com/share/pin-6476)
+[![Large rounded feature grid with pale illustrations and concise benefit copy](https://pin.fontofweb.com/6476?format=jpg)](https://design.withfudge.com/share/pin-6476)
 
-[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/share/pin-6476)
-
-[![Cap — Beautiful screen recordings, owned by you.](https://pin.fontofweb.com/6475?format=jpg)](https://design.withfudge.com/share/pin-6475)
-
-[Cap — Beautiful screen recordings, owned by you.](https://design.withfudge.com/share/pin-6475)
-
-[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4342?format=jpg)](https://design.withfudge.com/share/pin-4342)
-
-[Early Adopter Pricing — Cap](https://design.withfudge.com/share/pin-4342)
-
-[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4341?format=jpg)](https://design.withfudge.com/share/pin-4341)
-
-[Early Adopter Pricing — Cap](https://design.withfudge.com/share/pin-4341)
-
-[![Early Adopter Pricing — Cap](https://pin.fontofweb.com/4340?format=jpg)](https://design.withfudge.com/share/pin-4340)
-
-[Early Adopter Pricing — Cap](https://design.withfudge.com/share/pin-4340)
+[Large rounded feature grid with pale illustrations and concise benefit copy](https://design.withfudge.com/share/pin-6476)
 
 ## Overview
 
-cap.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#71717a`, with typography led by **Neue Montreal** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Cap presents a clean screen-recording brand with a strict black-and-white base, a pale canvas, and one deep blue action color. The page feels quiet and organized rather than decorative. Its strongest pattern is the centered, airy composition: a compact top bar, a generous headline, and large card-based sections that sit in a wide field of whitespace. On the home page, a dark editor preview and a grid of feature tiles explain the product through large, simple shapes. On the pricing page, the system becomes even more structured, using a centered comparison table, three plan columns, and long rows of evenly spaced feature checks.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content in the main |
-| color.surface | `#ffffff` | surface on page content in the button |
-| color.text | `#71717a` | text on page content in the main |
-| color.surface | `#181825` | surface on page content in the main |
-| color.surface | `#2563eb` | surface on page content in the button |
-| color.border | `#1e40af` | border on page content in the button |
-| color.surface | `#3b82f6` | surface on page content in the main |
-| color.surface | `#cba6f7` | surface on page content in the main |
-| color.surface | `#a6e3a1` | surface on page content in the main |
-| color.surface | `#f9e2af` | surface on page content in the main |
-| color.surface | `#f38ba8` | surface on page content in the main |
-| color.surface | `#89dceb` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Neue Montreal** | 16px | 400 | 24px | normal | <div> in the main, <a> in the main, and <p> in the main |
-| type.body-14px | **Neue Montreal** | 14px | 400 | 22.75px | normal | <p> in the main |
-| type.body-14px | **Neue Montreal** | 14px | 500 | 20px | normal | <button> in the button, <a> in the main, <div> in the main, <a> in the nav, <p> in the main, and <h4> in the main |
-| type.body-18px | **Neue Montreal** | 18px | 500 | 28px | normal | <h4> in the main and <h3> in the main |
-| type.body-18px | **Neue Montreal** | 18px | 400 | 28px | normal | <p> in the main |
-| type.display-60px | **Neue Montreal** | 60px | 500 | 64px | normal | <h1> in the main |
-| type.body-14px | **Neue Montreal** | 14px | 400 | 20px | normal | <p> in the main and <a> in the main |
-| type.display-36px | **Neue Montreal** | 36px | 400 | 40px | normal | <h2> in the main |
-| type.body-16px | **Neue Montreal** | 16px | 500 | 24px | normal | <a> in the main |
-| type.body-15px | **Neue Montreal** | 15px | 500 | 24px | normal | <p> in the main |
-| type.heading-16px | **Neue Montreal** | 16px | 700 | 24px | normal | <div> in the main |
-| type.display-36px | **Neue Montreal** | 36px | 500 | 40px | normal | <h2> in the main |
-| type.utility-9px | **Neue Montreal** | 9px | 500 | 24px | normal | <span> in the main |
-| type.body-14px | **Neue Montreal** | 14px | 400 | 24px | normal | <span> in the main |
-| type.utility-8px | **System** | 8px | 400 | 24px | normal | <span> in the main |
-| type.heading-14px | **Neue Montreal** | 14px | 700 | 20px | normal | <strong> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 20px` | padding | page content |
-| `32px` | padding | page content |
-| `24px` | padding | page content |
-| `100px 0px 0px` | margin | page content |
-| `160px 0px` | padding | page content |
-| `0px 258px` | margin | page content |
-| `16px` | padding | page content |
-| `0px 0px 16px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `1px solid 12px`, `1px solid 9999px`, `1px solid 9999px`, `0px none 9999px`, `0px none 2px`, and `0px none 6px` border treatments. Recorded gradients include `linear-gradient(135deg, rgb(161, 140, 209) 0%, rgb(251, 194, 235) 100%)`, `linear-gradient(to left, rgb(242, 242, 242), rgba(0, 0, 0, 0))`, and `linear-gradient(to right, rgb(242, 242, 242), rgba(0, 0, 0, 0))`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.2) 0px 1.5px 0px 0px inset`, `rgba(255, 255, 255, 0.2) 0px 1.5px 0px 0px inset`, `rgba(255, 255, 255, 0.4) 0px 1.5px 0px 0px inset`, `rgba(0, 0, 0, 0.05) 0px 4px 10px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.4) 0px 60px 40px 3px`.
+The visual tone is modern and restrained. Nothing is crowded, and nothing competes with the product screenshots. Rounded corners soften the layout, but the rounding stays modest on cards and becomes fully pill-shaped only on the main actions and navigation chips. The result is an interface that feels light, precise, and dependable.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#ffffff`, `#181825`, and `#2563eb`. Text colors include `#000000` and `#71717a`. Keep image-derived colors separate from interface colors.
+| token | value | role |
+|---|---|---|
+| `canvas` | `#FFFFFF` | Page backdrop, outer framing space, and the soft field around the white cards |
+| `surface` | `#FFFFFF` | Cards, tables, panels, and the main reading surface |
+| `ink` | `#000000` | Primary text, strong labels, and the black control used for the floating help button |
+| `muted-ink` | `#71717A` | Supporting copy, plan subtitles, and secondary labels |
+| `action` | `#1E40AF` | Active navigation, the main blue call to action, and selected accents |
+
+Cap stays close to monochrome. White surfaces do most of the work, black type gives the system its firmness, and the muted gray prevents secondary copy from fighting the main message. The blue action color is the only saturated note in the system and it appears with discipline: active links, the sign-up style button, and small highlighted accents. That makes the interface feel deliberate instead of colorful. The pale canvas keeps the white cards legible, while the strong black and deep blue controls create a clear hierarchy for where the user should look and click first.
 
 ## Typography
 
-The captured type system uses **Neue Montreal** and **System**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Cap relies on **Neue Montreal** for the visible brand voice and uses **System** for compact UI labels and browser fallback. Verify licensing for these families before production use. The hierarchy is calm and straightforward: large headings are bold but not condensed, body copy stays open and readable, and small labels remain compact without becoming decorative. The page does not need a second display family because the layout already creates contrast through spacing, alignment, and card structure.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Neue Montreal | 3.75rem | 700 | 1 | -0.03em | Main page heading and the biggest promotional statements |
+| `section-display` | Neue Montreal | 3rem | 700 | 1.05 | -0.025em | Section titles, especially the centered pricing heading |
+| `card-title` | Neue Montreal | 1.125rem | 700 | 1.2 | -0.01em | Feature tile headings, plan names, and short card labels |
+| `body` | Neue Montreal | 1rem | 400 | 1.5 | 0em | Supporting paragraphs, explanatory text, and row labels |
+| `body-medium` | Neue Montreal | 1rem | 500 | 1.5 | 0em | Buttons, emphasized labels, and stronger body lines |
+| `ui` | System | 0.875rem | 500 | 1.4 | 0em | Small navigation labels, compact controls, and tiny status text |
+
+The type scale depends on only a few steps, which keeps the page disciplined. Large headings stop at 60px, the most important section titles sit at 48px, and the rest of the interface settles into 18px, 16px, and 14px utilities. That separation is enough to carry the whole system because the layout is already spacious. Strong weight contrast matters more than dramatic tracking tricks. The bold titles feel direct, the body text feels readable, and the small UI labels stay crisp without turning into display copy.
 
 ## Layout
 
-The captured pages use values such as `0px 20px`, `32px`, `24px`, `100px 0px 0px`, and `160px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+Cap uses a centered layout with generous outer margins and very little lateral noise. The pricing page is the clearest example: a slim top navigation sits above a centered headline, then a large white comparison table fills the middle of the screen. The content is framed by wide left and right gutters, so the table feels like a focal object rather than a full-bleed block. The home page applies the same discipline in a more visual way. A large editor showcase sits inside a soft field, followed by a grid of white tiles that explain benefits in short, scannable pieces.
+
+Spacing is the main structuring force. Small internal gaps keep the nav, buttons, and table cells tight. Medium gaps separate text from images and titles from descriptions. Large section gaps create the calm distance between the editor stage, the feature grid, and the testimonials. The layout does not rely on ornate separators or heavy shadows. It uses whitespace, alignment, and card edges to tell the user where one idea ends and the next begins.
+
+The page rhythm is chapter-like. A large top statement leads into a proof-heavy section, then into a comparison table, then into a collage of testimonials or feature tiles. Each chapter is self-contained, but they share the same visual grammar: centered composition, clear headings, and rounded white panels on a pale ground.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#ffffff`, `#181825`, `#2563eb`, and `#3b82f6`. Depth is supported by the returned gradients and shadows.
+Cap’s visual language is built from a few repeating moves. First, there is the monochrome base: white cards on a pale canvas, black text, and gray support copy. Second, there is the blue action color, which appears only where the page wants a decision. Third, there are rounded surfaces that stay soft but not bubbly. A 12px card corner is enough for most blocks, while the main controls become full pills. That keeps the interface friendly without turning it playful.
 
-## Components and states
+The product imagery is presented with restraint. The editor showcase uses a large gradient stage and a dark central workspace, but it still feels organized because the controls sit in a clean right-hand column. The testimonial section pushes farther into motion and depth by tilting the quote cards and letting them overlap slightly. Even there, the shadows stay light and the palette stays simple. The feature grid uses pale illustrations and short titles, so the product is explained by shape and contrast instead of by ornamental color.
 
-The captured pages include repeated styling on <div>, <h2>, <button>, <p>, <a>, <span>, <h4>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+This system works because every area has one clear job. The nav points to destinations. The showcase proves the product. The pricing table clarifies the decision. The testimonial collage adds social proof. The feature grid turns benefits into concise cards. Nothing is visually overloaded, so the strong parts remain easy to scan.
+
+## Components
+
+### Top navigation
+
+- **Anatomy:** Centered pill-shaped container, brand mark, short text links, a GitHub-style utility chip, and two account actions.
+- **Surface:** White with a subtle boundary against the pale canvas.
+- **Typography:** `ui` for the compact links and utility labels.
+- **Shape:** Mostly pill geometry, with small internal spacing and soft edges.
+- **Visible states:** One link is blue to show the current section; the primary account action is darker and more prominent than the secondary one.
+
+### Primary action
+
+- **Anatomy:** Single-line label in a fully rounded pill.
+- **Surface and text color:** Deep blue fill with white text for the main action; the floating help button uses a black fill with white text or icon.
+- **Typography:** `body-medium`.
+- **Shape:** Full pill corners; the action reads as a solid chip rather than a square button.
+- **Spacing:** Compact horizontal padding with enough height to feel clickable.
+- **Visible states:** The filled blue version carries the main decision; the black floating version stays parked at the lower-right edge of the page.
+
+### Pricing comparison table
+
+- **Anatomy:** Three plan columns, a centered heading, call-to-action buttons, and long feature rows with status marks.
+- **Surface:** White card against the pale canvas, with thin row separators.
+- **Typography:** Plan names and row labels stay in `body` or `card-title`; prices are larger and bolder than the supporting copy.
+- **Shape:** The table itself is rectangular, but the buttons inside it keep the pill treatment.
+- **Spacing:** Wide cell padding, generous row height, and broad outer margins.
+- **Visible states:** The active plan column uses the blue action button, while the other plans rely on black or neutral buttons.
+
+### Feature grid cards
+
+- **Anatomy:** Small icon, bold label, and short explanatory line.
+- **Surface:** White cards with light borders or very soft separation from the canvas.
+- **Typography:** `card-title` for the heading and `body` for the explanation.
+- **Shape:** Rounded card corners, not fully circular containers.
+- **Spacing:** Tight icon-to-text spacing and moderate gaps between cards.
+- **Composition:** The grid keeps each benefit self-contained so the product can be skimmed quickly.
+
+### Editor showcase
+
+- **Anatomy:** Large preview field, dark central workspace, small toolbar area, and a stacked control panel on the right.
+- **Surface:** A cool gradient stage behind the dark preview, with white chrome around the outside.
+- **Typography:** Small labels and control text stay compact; the main descriptive line should use `body-medium` or `card-title`.
+- **Shape:** Large rounded container with softer internal geometry.
+- **Spacing:** Broad interior padding and a strong split between preview and settings.
+- **Visible states:** Color swatches, sliders, and buttons appear as immediate affordances for customizing the recording look.
+
+### Testimonial collage
+
+- **Anatomy:** Several overlapping quote cards with avatars, names, and short remarks.
+- **Surface:** White cards on the pale field, each lifted with a faint shadow.
+- **Typography:** Names use a stronger weight; quotes use regular body text.
+- **Shape:** Slightly rounded rectangles with subtle rotation.
+- **Spacing:** Cards overlap just enough to create depth without losing readability.
+- **Visible states:** The staggered angles and soft shadows make the group feel lively while staying calm.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the page should keep the same reading order: headline, proof, action, then supporting detail. The centered nav should compress before the main content does, and the pill actions should remain large enough to tap. The pricing comparison should turn into stacked plan cards or a horizontal matrix with clear row labels, because the long comparison table needs more room than a phone gives it. The editor showcase should place the preview above the control column if the width becomes tight, while the feature grid should drop from three columns to two, then to one.
+
+The testimonial collage should also simplify on small screens. The overlap and tilt can relax into a vertical stack so the names and quotes stay easy to scan. The floating help button should remain pinned and unobtrusive. Overall, the system should preserve spacing and hierarchy before it tries to preserve every desktop composition detail.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the palette nearly monochrome and let the blue action color stay rare and intentional.
+- Preserve the generous whitespace around the comparison table and the feature grid.
+- Use Neue Montreal for all large page copy so the brand stays calm and modern.
+- Keep cards soft and modestly rounded rather than turning every block into a pill.
+
+### Avoid
+
+- Avoid adding extra accent colors; the layout already has enough contrast.
+- Avoid heavy shadows or glassy effects; the page is mostly flat.
+- Avoid crowding the pricing table with dense copy or tight row height.
+
+### Recommended build order
+
+1. Set the canvas, surface, ink, muted ink, and action colors.
+2. Build the type scale and the pill-style primary actions.
+3. Recreate the centered navigation and the large pricing headline.
+4. Build the pricing table with its row separators and plan columns.
+5. Add the editor showcase with its split control layout.
+6. Add the feature grid and the testimonial collage.
+7. Finish with the floating help button and responsive stacking rules.
+
+### Accessibility
+
+- Keep contrast strong on gray supporting text, especially inside the pricing table.
+- Give the blue action button and the black floating button visible focus styles.
+- Do not rely on color alone to mark the active plan or the current section.
+- Add descriptive alt text for the editor preview, feature illustrations, and avatar thumbnails.
+- Preserve readable line lengths in the centered heading and the plan descriptions.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#71717a`
-- `#181825`
-- `#2563eb`
-- `#1e40af`
-- `#3b82f6`
-- `#cba6f7`
-- `#a6e3a1`
-- `#f9e2af`
-- `#f38ba8`
-- `#89dceb`
-
-## Typography captured from cap.so
-
-- **Neue Montreal** — weight 400 · size 16px
-- **System** — weight 400 · size 8px
+This guide covers the visible home and pricing surfaces shown here: the centered nav, editor showcase, feature grid, testimonial collage, and plan comparison table. It does not define motion, mobile-specific breakpoints, hidden dashboard states, or alternate product flows. Measurements are practical adaptation targets.

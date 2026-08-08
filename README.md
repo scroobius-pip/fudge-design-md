@@ -1156,7 +1156,7 @@ Canada Spends is built like a public finance report turned into an interactive d
 
 [![How cap.so is designed](https://pin.fontofweb.com/6479?format=jpg)](design-md/cap.so.md)
 
-cap.so presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#71717a`, with typography led by **Neue Montreal** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Cap presents a clean screen-recording brand with a strict black-and-white base, a pale canvas, and one deep blue action color. The page feels quiet and organized rather than decorative. Its strongest pattern is the centered, airy composition: a compact top bar, a generous headline, and large card-based sections that sit in a wide field of whitespace. On the home page, a dark editor preview and a grid of feature tiles explain the product through large, simple shapes. On the pricing page, the system becomes even more structured, using a centered comparison table, three plan columns, and long rows of evenly spaced feature checks.
 
 [Open guide](design-md/cap.so.md) · [View the Fudge conversation](https://design.withfudge.com/share/cap.so-design)
 
