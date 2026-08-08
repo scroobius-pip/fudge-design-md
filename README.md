@@ -1564,7 +1564,7 @@ dashboard.internetcomputer.org is a network-operations dashboard, not a marketin
 
 [![How dashboard.mux.com is designed](https://pin.fontofweb.com/6451?format=jpg)](design-md/dashboard.mux.com.md)
 
-dashboard.mux.com presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#242628`, `#e2e4dd`, and `#000000`, with typography led by **Aeonik** and **Jet Brains Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Mux presents authentication as a calm, technical entry point rather than a marketing page. The layout is split into two clear halves: a left-side proof board with product claims and trust content, and a right-side rounded card that holds the actual sign up or log in form. The two screens share the same structure, so the experience feels mirrored and stable; only the headline and the helper link change.
 
 [Open guide](design-md/dashboard.mux.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/dashboard.mux.com-design)
 
