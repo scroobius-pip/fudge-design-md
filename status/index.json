@@ -1,22 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:27:23.452Z",
+  "generatedAt": "2026-08-08T16:32:33.870Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 30,
+    "published_verified": 31,
     "unpublished": 909,
-    "failed": 8,
-    "repairing": 2,
     "drafting": 1,
-    "legacy": 86
+    "failed": 7,
+    "validating": 1,
+    "preparing": 1,
+    "legacy": 85,
+    "ready": 1
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:27:07.096Z",
-    "heartbeatExpiresAt": "2026-08-08T16:32:07.096Z",
+    "heartbeatAt": "2026-08-08T16:32:28.289Z",
+    "heartbeatExpiresAt": "2026-08-08T16:37:28.289Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,37 +28,40 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "cosmic-ray.tv",
-          "startedAt": "2026-08-08T16:15:13.617Z"
+          "domain": "api.scira.ai",
+          "startedAt": "2026-08-08T16:31:54.968Z"
         },
         {
           "domain": "cosmos.so",
           "startedAt": "2026-08-08T16:26:23.394Z"
         },
         {
-          "domain": "windsurf.com",
-          "startedAt": "2026-08-08T16:19:16.673Z"
+          "domain": "dany.works",
+          "startedAt": "2026-08-08T16:32:20.102Z"
         }
       ],
-      "completedThisRun": 19,
+      "completedThisRun": 21,
       "failedThisRun": 10
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "cosmic-ray.tv",
+        "startedAt": "2026-08-08T16:31:54.941Z"
+      },
       "completedThisRun": 17,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 995,
-      "availableGeneration": 995,
-      "waitingForRetry": 8,
-      "readyPublication": 0,
-      "publishedVerified": 30
+      "eligibleGeneration": 994,
+      "availableGeneration": 994,
+      "waitingForRetry": 7,
+      "readyPublication": 1,
+      "publishedVerified": 31
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:22:02.385Z"
+      "lastSyncedAt": "2026-08-08T16:27:51.006Z"
     },
     "lastError": {
       "at": "2026-08-08T16:26:17.718Z",
@@ -1814,9 +1819,9 @@
     },
     {
       "domain": "api.scira.ai",
-      "state": "failed",
-      "attempt": 91,
-      "updatedAt": "2026-08-08T15:27:07.645Z",
+      "state": "drafting",
+      "attempt": 92,
+      "updatedAt": "2026-08-08T16:32:00.314Z",
       "blocker": null,
       "publication": {
         "key": "api.scira.ai-design",
@@ -1826,7 +1831,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T16:27:07.645Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "app.acctual.com",
@@ -6134,15 +6139,15 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:26:35.603Z",
+      "updatedAt": "2026-08-08T16:32:27.212Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
         "url": "https://design.withfudge.com/share/cosmic-ray.tv-design",
         "markdownUrl": "https://design.withfudge.com/share/cosmic-ray.tv-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/cosmic-ray.tv.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -6150,9 +6155,9 @@
     },
     {
       "domain": "cosmos.so",
-      "state": "drafting",
+      "state": "validating",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:26:32.395Z",
+      "updatedAt": "2026-08-08T16:31:13.595Z",
       "blocker": null,
       "publication": {
         "key": "cosmos.so-design",
@@ -6662,9 +6667,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "legacy",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T14:41:30.055Z",
+      "state": "preparing",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T16:32:21.924Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -27062,9 +27067,9 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "repairing",
+      "state": "ready",
       "attempt": 85,
-      "updatedAt": "2026-08-08T16:26:52.846Z",
+      "updatedAt": "2026-08-08T16:32:17.730Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
@@ -27073,7 +27078,7 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
