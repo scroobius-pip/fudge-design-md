@@ -1956,7 +1956,7 @@ exa.ai presents a mixed light and dark surface treatment in the captured pages. 
 
 [![How explainers.blog is designed](https://pin.fontofweb.com/6337?format=jpg)](design-md/explainers.blog.md)
 
-explainers.blog presents a predominantly light surface treatment in the captured pages. The system is anchored by `#2d2d2d`, `#424242`, and `#ffffff`, with typography led by **Newsreader 16 Pt**, **Figtree**, and **Pp Supply Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Explainers.blog is built like a calm editorial article system rather than a glossy blog theme. The page opens with a large blue hero, then settles into a centered white reading column, a left-hand contents rail, and a narrow body flow that rewards slow reading. The title carries the emotional weight; the paragraphs carry the explanation. That split gives the site its voice: direct, patient, and precise.
 
 [Open guide](design-md/explainers.blog.md) · [View the Fudge conversation](https://design.withfudge.com/share/explainers.blog-design)
 
