@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T17:08:43.470Z",
+  "generatedAt": "2026-08-08T17:10:25.678Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 37,
+    "published_verified": 38,
     "unpublished": 909,
     "failed": 5,
-    "repairing": 1,
-    "drafting": 1,
-    "reviewing": 1,
-    "legacy": 82
+    "validating": 1,
+    "drafting": 2,
+    "legacy": 81
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T17:08:18.952Z",
-    "heartbeatExpiresAt": "2026-08-08T17:13:18.952Z",
+    "heartbeatAt": "2026-08-08T17:10:00.756Z",
+    "heartbeatExpiresAt": "2026-08-08T17:15:00.756Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -35,29 +34,32 @@
           "startedAt": "2026-08-08T17:06:39.569Z"
         },
         {
-          "domain": "davidprotein.com",
-          "startedAt": "2026-08-08T17:03:17.263Z"
+          "domain": "dedcool.com",
+          "startedAt": "2026-08-08T17:08:51.325Z"
         }
       ],
-      "completedThisRun": 26,
+      "completedThisRun": 27,
       "failedThisRun": 13
     },
     "publication": {
       "concurrency": 1,
-      "active": null,
+      "active": {
+        "domain": "davidprotein.com",
+        "startedAt": "2026-08-08T17:09:09.958Z"
+      },
       "completedThisRun": 24,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 991,
-      "availableGeneration": 991,
+      "eligibleGeneration": 990,
+      "availableGeneration": 990,
       "waitingForRetry": 5,
       "readyPublication": 0,
-      "publishedVerified": 37
+      "publishedVerified": 38
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T17:03:11.978Z"
+      "lastSyncedAt": "2026-08-08T17:09:05.095Z"
     },
     "lastError": {
       "at": "2026-08-08T17:06:35.827Z",
@@ -3783,9 +3785,9 @@
     },
     {
       "domain": "betterstack.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 90,
-      "updatedAt": "2026-08-08T17:07:46.503Z",
+      "updatedAt": "2026-08-08T17:09:39.291Z",
       "blocker": null,
       "publication": {
         "key": "betterstack.com-design",
@@ -6839,15 +6841,15 @@
     },
     {
       "domain": "davidprotein.com",
-      "state": "reviewing",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T17:08:29.260Z",
+      "updatedAt": "2026-08-08T17:09:54.904Z",
       "blocker": null,
       "publication": {
         "key": "davidprotein.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/davidprotein.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/davidprotein.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/davidprotein.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -6919,9 +6921,9 @@
     },
     {
       "domain": "dedcool.com",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.156Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T17:09:04.627Z",
       "blocker": null,
       "publication": {
         "key": "dedcool.com-design",
