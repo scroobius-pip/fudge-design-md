@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:44:44.314Z",
+  "generatedAt": "2026-08-08T16:50:09.937Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 34,
     "unpublished": 909,
-    "failed": 6,
     "drafting": 1,
-    "validating": 1,
-    "repairing": 1,
+    "repairing": 2,
+    "failed": 6,
     "legacy": 84
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:44:36.529Z",
-    "heartbeatExpiresAt": "2026-08-08T16:49:36.529Z",
+    "heartbeatAt": "2026-08-08T16:50:02.646Z",
+    "heartbeatExpiresAt": "2026-08-08T16:55:02.646Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,12 +26,12 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "baked.design",
-          "startedAt": "2026-08-08T16:44:05.144Z"
+          "domain": "aura.build",
+          "startedAt": "2026-08-08T16:45:12.802Z"
         },
         {
-          "domain": "dany.works",
-          "startedAt": "2026-08-08T16:32:20.102Z"
+          "domain": "baked.design",
+          "startedAt": "2026-08-08T16:44:05.144Z"
         },
         {
           "domain": "dash.cloudflare.com",
@@ -40,7 +39,7 @@
         }
       ],
       "completedThisRun": 23,
-      "failedThisRun": 10
+      "failedThisRun": 11
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 994,
-      "availableGeneration": 994,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 993,
+      "availableGeneration": 993,
+      "waitingForRetry": 6,
       "readyPublication": 0,
       "publishedVerified": 34
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:43:50.964Z"
+      "lastSyncedAt": "2026-08-08T16:44:56.105Z"
     },
     "lastError": {
-      "at": "2026-08-08T16:26:17.718Z",
-      "message": "Generation failed for cora.computer with exit 1."
+      "at": "2026-08-08T16:45:06.994Z",
+      "message": "Generation failed for dany.works with exit 1."
     }
   },
   "generationControl": {
@@ -3159,9 +3158,9 @@
     },
     {
       "domain": "aura.build",
-      "state": "failed",
-      "attempt": 86,
-      "updatedAt": "2026-08-08T15:44:04.561Z",
+      "state": "drafting",
+      "attempt": 87,
+      "updatedAt": "2026-08-08T16:45:18.803Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
@@ -3171,7 +3170,7 @@
       },
       "failureCategory": null,
       "consecutiveFailures": 1,
-      "nextEligibleAt": "2026-08-08T16:44:04.561Z"
+      "nextEligibleAt": null
     },
     {
       "domain": "aurorashouse.webflow.io",
@@ -3415,9 +3414,9 @@
     },
     {
       "domain": "baked.design",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:44:09.899Z",
+      "updatedAt": "2026-08-08T16:48:55.151Z",
       "blocker": null,
       "publication": {
         "key": "baked.design-design",
@@ -6663,9 +6662,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "validating",
+      "state": "failed",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:43:05.578Z",
+      "updatedAt": "2026-08-08T16:45:05.511Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -6674,14 +6673,14 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T17:45:05.511Z"
     },
     {
       "domain": "dash.cloudflare.com",
       "state": "repairing",
       "attempt": 88,
-      "updatedAt": "2026-08-08T16:42:41.226Z",
+      "updatedAt": "2026-08-08T16:47:47.095Z",
       "blocker": null,
       "publication": {
         "key": "dash.cloudflare.com-design",
