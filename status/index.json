@@ -1,24 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:32:33.870Z",
+  "generatedAt": "2026-08-08T16:33:37.128Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 31,
+    "published_verified": 32,
     "unpublished": 909,
-    "drafting": 1,
+    "drafting": 2,
     "failed": 7,
     "validating": 1,
-    "preparing": 1,
-    "legacy": 85,
-    "ready": 1
+    "legacy": 85
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:32:28.289Z",
-    "heartbeatExpiresAt": "2026-08-08T16:37:28.289Z",
+    "heartbeatAt": "2026-08-08T16:33:29.726Z",
+    "heartbeatExpiresAt": "2026-08-08T16:38:29.726Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -45,23 +43,20 @@
     },
     "publication": {
       "concurrency": 1,
-      "active": {
-        "domain": "cosmic-ray.tv",
-        "startedAt": "2026-08-08T16:31:54.941Z"
-      },
-      "completedThisRun": 17,
+      "active": null,
+      "completedThisRun": 19,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 994,
       "availableGeneration": 994,
       "waitingForRetry": 7,
-      "readyPublication": 1,
-      "publishedVerified": 31
+      "readyPublication": 0,
+      "publishedVerified": 32
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:27:51.006Z"
+      "lastSyncedAt": "2026-08-08T16:32:51.756Z"
     },
     "lastError": {
       "at": "2026-08-08T16:26:17.718Z",
@@ -6667,9 +6662,9 @@
     },
     {
       "domain": "dany.works",
-      "state": "preparing",
+      "state": "drafting",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:32:21.924Z",
+      "updatedAt": "2026-08-08T16:32:34.880Z",
       "blocker": null,
       "publication": {
         "key": "dany.works-design",
@@ -27067,15 +27062,15 @@
     },
     {
       "domain": "windsurf.com",
-      "state": "ready",
+      "state": "published_verified",
       "attempt": 85,
-      "updatedAt": "2026-08-08T16:32:17.730Z",
+      "updatedAt": "2026-08-08T16:33:22.916Z",
       "blocker": null,
       "publication": {
         "key": "windsurf.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/windsurf.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/windsurf.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/windsurf.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
