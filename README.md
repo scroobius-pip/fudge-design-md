@@ -900,7 +900,7 @@ Awwwards uses one visual grammar across a few page types: a quiet pale stage for
 
 [![How baked.design is designed](https://pin.fontofweb.com/6495?format=jpg)](design-md/baked.design.md)
 
-baked.design presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#404040`, with typography led by **System** and **Inter**. The guide below names reusable design roles only where the captured evidence supports them.
+Baked Design presents itself like a polished studio landing page rather than a traditional agency brochure. The visual system is simple on purpose: a white canvas, black and muted-black type, and a single vivid blue that carries the main action. The strongest feeling comes from contrast between a compact, phone-sized blue card and a much larger desktop scene where the work spreads out into floating devices, a left-aligned pitch column, and a centered contact form. The page does not rely on ornamental chrome. It uses spacing, scale, and a few rounded forms to make the offer feel direct and current.
 
 [Open guide](design-md/baked.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/baked.design-design)
 
