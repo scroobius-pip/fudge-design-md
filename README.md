@@ -1852,7 +1852,7 @@ emmiwu.com presents a predominantly dark surface treatment in the captured pages
 
 [![How endl.io is designed](https://pin.fontofweb.com/9905?format=jpg)](design-md/endl.io.md)
 
-endl.io presents a predominantly light surface treatment in the captured pages. The system is anchored by `#ffffff`, `#f4f4f5`, and `#245fff`, with typography led by **Dm Sans 9 Pt**, **System**, **Applesystem**, and **Times**. The guide below names reusable design roles only where the captured evidence supports them.
+Endl's page uses a simple hierarchy: a bright blue CTA shell, a dark product story band, a wide FAQ block, and a pale legal footer. The system feels confident and corporate without becoming rigid. Large rounded shapes do most of the branding work, while type stays clean and compact. White canvas gives the page breathing room between chapters, and the action blue stays constant so the site never loses its center.
 
 [Open guide](design-md/endl.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/endl.io-design)
 
