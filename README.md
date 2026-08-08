@@ -1572,7 +1572,7 @@ Mux presents authentication as a calm, technical entry point rather than a marke
 
 [![How davidprotein.com is designed](https://pin.fontofweb.com/8633?format=jpg)](design-md/davidprotein.com.md)
 
-davidprotein.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#6e6e6e`, with typography led by **System**, **Suisse Intl**, **Instrument Serif**, **Abc Monument Grotesk Mono Unlicensed**, and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+David Protein uses contrast as its main organizing idea. The page language moves between deep black promotional stages and bright white merchandising pages, while the product itself stays constant through glossy gold, copper, and bronze wrappers. The brand feels premium because the composition is calm and the type is large, not because the layout is crowded with decoration.
 
 [Open guide](design-md/davidprotein.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/davidprotein.com-design)
 

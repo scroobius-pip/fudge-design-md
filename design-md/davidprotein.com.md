@@ -2,167 +2,148 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/davidprotein.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## Captured pages
 
-[![David Protein](https://pin.fontofweb.com/8633?format=jpg)](https://design.withfudge.com/share/pin-8633)
+[![Split black hero with gold and bronze bars, centered divider, and pill shop buttons](https://pin.fontofweb.com/8633?format=jpg)](https://design.withfudge.com/share/pin-8633)
 
-[David Protein](https://design.withfudge.com/share/pin-8633)
+[Split black hero with gold and bronze bars, centered divider, and pill shop buttons](https://design.withfudge.com/share/pin-8633)
 
-[![David Protein](https://pin.fontofweb.com/7832?format=jpg)](https://design.withfudge.com/share/pin-7832)
+[![Full-bleed dark hero with a model holding a bar and a large serif headline](https://pin.fontofweb.com/7831?format=jpg)](https://design.withfudge.com/share/pin-7831)
 
-[David Protein](https://design.withfudge.com/share/pin-7832)
+[Full-bleed dark hero with a model holding a bar and a large serif headline](https://design.withfudge.com/share/pin-7831)
 
-[![David Protein](https://pin.fontofweb.com/7831?format=jpg)](https://design.withfudge.com/share/pin-7831)
+[![Light bundle grid with repeated product cards, black pill actions, and gold labels](https://pin.fontofweb.com/7830?format=jpg)](https://design.withfudge.com/share/pin-7830)
 
-[David Protein](https://design.withfudge.com/share/pin-7831)
+[Light bundle grid with repeated product cards, black pill actions, and gold labels](https://design.withfudge.com/share/pin-7830)
 
-[![Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://pin.fontofweb.com/7830?format=jpg)](https://design.withfudge.com/share/pin-7830)
+[![White FAQ page with a centered serif title and a narrow accordion column](https://pin.fontofweb.com/7827?format=jpg)](https://design.withfudge.com/share/pin-7827)
 
-[Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/share/pin-7830)
-
-[![Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://pin.fontofweb.com/7829?format=jpg)](https://design.withfudge.com/share/pin-7829)
-
-[Build a Bundle | Buy 4 Cartons, Get Your 5th Free | David Protein](https://design.withfudge.com/share/pin-7829)
-
-[![David frequently asked questions.](https://pin.fontofweb.com/7827?format=jpg)](https://design.withfudge.com/share/pin-7827)
-
-[David frequently asked questions.](https://design.withfudge.com/share/pin-7827)
-
-[![About David Protein | High Protein, 150 Calories, 0g Sugar](https://pin.fontofweb.com/7826?format=jpg)](https://design.withfudge.com/share/pin-7826)
-
-[About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/share/pin-7826)
-
-[![About David Protein | High Protein, 150 Calories, 0g Sugar](https://pin.fontofweb.com/7825?format=jpg)](https://design.withfudge.com/share/pin-7825)
-
-[About David Protein | High Protein, 150 Calories, 0g Sugar](https://design.withfudge.com/share/pin-7825)
+[White FAQ page with a centered serif title and a narrow accordion column](https://design.withfudge.com/share/pin-7827)
 
 ## Overview
 
-davidprotein.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#6e6e6e`, with typography led by **System**, **Suisse Intl**, **Instrument Serif**, **Abc Monument Grotesk Mono Unlicensed**, and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
+David Protein uses contrast as its main organizing idea. The page language moves between deep black promotional stages and bright white merchandising pages, while the product itself stays constant through glossy gold, copper, and bronze wrappers. The brand feels premium because the composition is calm and the type is large, not because the layout is crowded with decoration.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#000000` | text on page content in the main |
-| color.text | `#ffffff` | text on page content in the main |
-| color.text | `#6e6e6e` | text on page content in the button |
-| color.text | `#dcdcdc` | text on page content |
-| color.surface | `#efeded` | surface on page content in the main |
-| color.surface | `#161616` | surface on page content in the button |
-| color.surface | `#010101` | surface on page content in the button |
-| color.surface | `#f7f5f5` | surface on page content in the main |
-| color.text | `#b59f4a` | text on page content in the main |
-| color.text | `#a26632` | text on page content in the main |
-| color.border | `#d1d5dc` | border on page content in the main |
-| color.text | `#909090` | text on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <ul> in the main, <div> in the main, <div>, <button> in the button, <li> in the header, <ul> in the header, <div> in the header, <div> in the button, <span> in the main, <span> in the button, <div> in the footer, and <a> in the main |
-| type.display-50px | **Instrument Serif** | 50px | 400 | 55px | 0.5px | <h2> in the main |
-| type.body-14px | **Suisse Intl** | 14px | 400 | 19.6px | 0.14px | <p> in the main, <span> in the header, <a> in the header, <div> in the header, <span> in the footer, <span> in the main, and <div> in the main |
-| type.utility-12px | **Suisse Intl** | 12px | 400 | 16.8px | 0.12px | <p> in the main, <span> in the main, <button> in the button, and <div> in the button |
-| type.utility-12px | **Abc Monument Grotesk Mono Unlicensed** | 12px | 400 | 16.8px | normal | <span> in the main, <div> in the main, <p> in the main, <span> in the button, and <span> in the footer |
-| type.body-16px | **System** | 16px | 400 | normal | normal | <div> |
-| type.utility-12px | **Suisse Intl** | 12px | 400 | 16px | 0.12px | <div>, <div> in the main, <span> in the main, <p> in the main, and <a> in the main |
-| type.display-40px | **Instrument Serif** | 40px | 400 | 42px | 0.4px | <h2> in the main and <h3> in the main |
-| type.display-55px | **Instrument Serif** | 55px | 400 | 60.5px | 0.55px | <h2> in the main |
-| type.body-14px | **Abc Monument Grotesk Mono Unlicensed** | 14px | 400 | 14px | normal | <a> in the main and <button> in the button |
-| type.body-18px | **Suisse Intl** | 18px | 400 | 24.3px | 0.18px | <span> in the button, <span> in the footer, and <span> in the main |
-| type.body-16px | **Suisse Intl** | 16px | 400 | 22.4px | 0.16px | <h3> in the main and <p> in the button |
-| type.body-14px | **Abc Monument Grotesk Mono Unlicensed** | 14px | 400 | 19.6px | normal | <div> in the main |
-| type.display-35px | **Instrument Serif** | 35px | 400 | 36.75px | 0.35px | <p> in the main |
-| type.utility-12px | **Suisse Intl** | 12px | 500 | 16.8px | 0.12px | <span> in the button and <strong> in the main |
-| type.body-18px | **Suisse Intl** | 18px | 450 | 24.3px | 0.18px | <h1> in the main |
-| type.body-14px | **Abc Monument Grotesk Mono Unlicensed** | 14px | 500 | 14px | normal | <span> in the main and <button> in the button |
-| type.display-40px | **Instrument Serif** | 40px | 400 | 44px | 0.4px | <h2> in the main |
-| type.body-14px | **Suisse Intl** | 14px | 400 | 18px | 0.14px | <a> in the footer |
-| type.display-45px | **Instrument Serif** | 45px | 400 | 45px | -1px | <span> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `70px` | padding | page content |
-| `0px 20px` | padding | page content |
-| `25px 43px 25px 20px` | padding | page content |
-| `80px 0px` | padding | page content |
-| `0px 84.5px` | margin | page content |
-| `18px 0px` | padding | page content |
-| `40px` | padding | page content |
-| `100px 57px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 5px`, `0px none 1000px`, `0px none 3.35544e+07px`, `2px 0px solid 0px`, `0px none 10px`, `1px solid 5px`, `1px dashed 0px`, and `1px 0px 0px solid 0px` border treatments. Recorded gradients include `linear-gradient(rgb(181, 159, 74), color(srgb 0.425882 0.374118 0.174118))`, `linear-gradient(rgb(162, 102, 50), color(srgb 0.381176 0.24 0.117647))`, `linear-gradient(rgb(93, 42, 44), color(srgb 0.218824 0.0988235 0.103529))`, `linear-gradient(rgb(39, 94, 163), color(srgb 0.0917647 0.221176 0.383529))`, `linear-gradient(rgb(255, 143, 28), color(srgb 0.6 0.336471 0.0658824))`, and `linear-gradient(rgb(128, 47, 45), color(srgb 0.301176 0.110588 0.105882))`. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(110,110,110)`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 4px 0px`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(255,255,255)`.
+The home view treats the bar wrapper as the hero object and places it inside a theatrical black field. The shop and bundle views then switch to pale card walls that feel more like a catalog. The FAQ and about pages become editorial and airy, with a large serif title and long horizontal breathing room. Together these modes create a clear retail system: the dark pages build desire, the light pages explain the offer, and the serif headings keep the whole site feeling deliberate rather than casual.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#efeded`, `#161616`, and `#010101`. Text colors include `#000000`, `#ffffff`, and `#6e6e6e`. Keep image-derived colors separate from interface colors.
+David Protein’s palette is narrow and purposeful. Black and white do most of the structural work, while gold and bronze carry the brand’s appetite and warmth. Gray softens the quieter text and dividing rules. The result is a system that can move from showroom drama to practical shopping without changing identity.
+
+| token | value | use |
+|---|---|---|
+| `action` | `#B59F4A` | Brand accent for labels, highlights, and gold-coded product moments |
+| `ink` | `#000000` | Main text, black buttons, dark backgrounds, and product wells |
+| `muted-ink` | `#6E6E6E` | Support text, stats, meta copy, and low-emphasis labels |
+| `canvas` | `#FFFFFF` | Light page background, white pills, and clean editorial surfaces |
+| `surface` | `#DCDCDC` | Pale card fields, section rules, and light merchandising panels |
+| `surface-dark` | `#000000` | Immersive home sections and full-bleed promotional stages |
+| `accent-bronze` | `#A26632` | Bronze product moments, warmer labels, and secondary tone shifts |
+| `border` | `#DCDCDC` | Hairline dividers, card edges, and subtle structure on light pages |
+
+On black stages, `canvas` and `surface` text stay crisp while the wrappers and product photography supply the warm color. On white or pale merchandising pages, `ink` and `muted-ink` take over, and `action` stays visible as a restrained gold accent rather than a loud signal. `accent-bronze` adds depth when the layout needs a second warm note, especially beside chocolate or copper packaging. The palette never drifts into neon or bright chroma; it stays close to food, metal, paper, and shadow.
 
 ## Typography
 
-The captured type system uses **System**, **Instrument Serif**, **Suisse Intl**, and **Abc Monument Grotesk Mono Unlicensed**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system is split between a high-contrast serif for presentation, a clean sans serif for functional copy, and a mono face for product facts. The serif carries the emotional weight of the brand, the sans handles shopping clarity, and the mono rows make nutrition-style data feel exact. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| `hero-display` | Instrument Serif | 3.5rem | 400 | 0.9 | -0.02em | Home headline and major brand statements |
+| `section-display` | Instrument Serif | 3.125rem | 400 | 0.95 | -0.015em | FAQ title, about pages, and section openers |
+| `card-title` | Instrument Serif | 1.875rem | 400 | 1 | -0.01em | Smaller chapter headings and featured product names |
+| `body` | Suisse Intl | 1rem | 400 | 1.5 | 0em | Paragraph copy, descriptions, and supporting text |
+| `body-medium` | Suisse Intl | 1rem | 500 | 1.4 | 0em | Button text, navigation, and emphasized labels |
+| `label` | Suisse Intl | 0.875rem | 500 | 1.2 | 0.06em | Small product labels, category tags, and section markers |
+| `legal-copy` | Suisse Intl | 0.875rem | 400 | 1.5 | 0em | Footnotes, policy text, and quiet supporting lines |
+| `mono-meta` | Abc Monument Grotesk Mono Unlicensed | 0.75rem | 400 | 1.3 | 0.08em | Protein, calorie, and sugar rows |
+
+The serif should stay calm rather than theatrical. Its job is to slow the page down and make the product feel considered. Suisse Intl keeps the interface legible and modern, with enough weight range to support pills, navigation, and stat rows without switching families. The mono face should stay limited to factual strips so those details read like packaging data instead of decorative code.
 
 ## Layout
 
-The captured pages use values such as `70px`, `0px 20px`, `25px 43px 25px 20px`, `80px 0px`, and `0px 84.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout alternates between two moods. The first is a black stage that uses centered product objects, thin dividers, and low-positioned copy. The second is a white or pale catalog field that uses wide margins, repeated cards, and clear rows of facts. This alternation is the strongest structural move in the system.
+
+The home hero is split and symmetrical. A vertical divider creates two product bays, each with a bar centered high in the frame and a small text cluster anchored low. The product is large enough to dominate the page, but the surrounding empty space keeps the composition composed. Below that, the merchandising band uses a broad black field with one large serif line at the left and a small navigation cluster at the right. Product cards then repeat in a row with consistent spacing and a strict grid rhythm.
+
+The bundle builder switches to a pale field with a tighter card matrix. Each card stacks a small product image, a mono stat row, a bold black action pill, and a short descriptive line. That order keeps the shopping decision simple: see the flavor, read the nutrition row, then act. The cards sit inside generous outer margins so the grid feels curated rather than dense.
+
+The FAQ page becomes the most editorial layout. A large serif heading floats above a two-column body: a small left label column and a right accordion stack. The open answer has enough vertical air to read like a magazine essay, while the collapsed rows stay thin and orderly. The about page follows the same calm logic, but with a tighter mobile crop and a taller central product image.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#efeded`, `#161616`, `#010101`, and `#f7f5f5`. Depth is supported by the returned gradients and shadows.
+The brand’s visual language comes from the tension between luxury and utility. The packaging looks metallic and tactile, so the UI keeps the stage dark and simple. The wrappers carry the color, while the interface stays in black, white, gray, and muted gold. This keeps the site feeling product-led instead of graphic-led.
 
-## Components and states
+Textural contrast matters more than decoration. A black canvas makes the gold foil and chocolate tones glow. White pages make the serif headlines and product facts feel crisp. The small mono stat rows echo packaged nutrition panels, and the gold labels such as Best seller, New, Gold, and Bronze act like simple merchandising badges rather than loud promos. Rounded pills soften the sharp product photography, but the system avoids extra flourishes like heavy shadows or ornate outlines.
 
-The captured pages include repeated styling on <div>, <ul>, <span>, <a>, <button>, <h3>, <h2>, and <p> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The strongest forms are rectangular product wells, pill buttons, thin rules, and large serif text blocks. The site does not rely on illustration, pattern, or layered gradients. Instead, it lets the bar wrappers, the product-in-hand photos, and the clean typesetting do the work. That creates a visual language that is direct, polished, and easy to shop.
+
+## Components
+
+### Header
+
+The header is slim, horizontal, and understated. It uses small sans serif links, a compact logo, and right-aligned utility actions such as store locator, search, account, and cart. The treatment stays flat and dark, with the header sitting above the hero instead of competing with it. Keep the navigation quiet so the product and headline remain the first read.
+
+### Hero stage
+
+The hero is the brand’s main statement. It combines a black background, a large serif headline, short supporting copy, and one or two pill actions. The product photography sits high and central, often cropped close enough that the bar fills the vertical space. In the split version, the layout reads as two mirrored product bays separated by a fine line. The hero should feel cinematic, but the UI around it should remain almost invisible.
+
+### Product card
+
+The product card is a simple merchandising unit with a dark image well, a product name or flavor label, a mono fact row, and a pill action. The gold or bronze product package is the visual anchor, while the text stays small and practical. Cards on the bundle page are white or pale, and the action button is usually black with white text. Keep the card radius modest and the spacing even so the grid feels orderly.
+
+### Bundle grid
+
+The bundle grid expands the product card into a repeated shopping matrix. It uses identical cards, small gold or bronze category markers, and consistent black action pills. The grid is dense enough to show range but not so dense that it loses rhythm. The ordering of image, fact row, action, and flavor note should stay the same across cards.
+
+### FAQ accordion
+
+The FAQ accordion uses a large serif title at the top and a numbered list of questions below. Each row is thin, well separated, and aligned to a clean right column. The open state adds a tall answer block with calm paragraph copy, while the closed rows stay compact. The accordion should feel editorial, not technical; the numbers and the spacing provide structure without extra UI chrome.
+
+### Expert and video panel
+
+The expert panel sits on a dark background and uses a tall serif headline above stacked disclosure rows and a video frame. It feels like a teaching section, but the styling stays consistent with the rest of the brand: black ground, white text, and restrained controls. The opened video frame becomes the visual center, while the list items remain simple and rectangular.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+On narrower screens, the layout should keep the same order of importance rather than compressing everything evenly. The hero should still lead with product, then headline, then actions. Product cards should stack before text becomes too small, and the FAQ should preserve its numbering and spacing even when it shifts into a single column. The serif display can shrink, but it should never lose its calm, high-contrast presence.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+
+- Keep the black-and-white structure as the default frame for the brand.
+- Use `action` sparingly so the gold accent keeps its value.
+- Let the wrappers, not the UI chrome, provide most of the color.
+- Keep the serif headline calm and spacious.
+- Preserve pill actions and the small mono fact row.
+
+### Avoid
+
+- Avoid neon colors, glossy gradients, or fitness-style chrome.
+- Avoid turning every card into a heavy boxed panel.
+- Avoid replacing the serif with a geometric display face.
+- Avoid extra shadows that compete with the product photography.
+- Avoid crowding the FAQ with dense body text or small line lengths.
+
+### Recommended build order
+
+1. Build the dark hero stage with the serif headline, product image, and pill actions.
+2. Add the merch band and the repeated product card pattern.
+3. Build the light bundle grid with stats, labels, and black pills.
+4. Add the FAQ accordion and the about-page editorial layout.
+5. Finish with utility navigation, cart, and the expert/video section.
+
+### Accessibility
+
+- Keep white text on black surfaces at strong contrast and verify the gold accent against the chosen ground.
+- Give every pill button a visible focus state that is easy to spot on dark and light pages.
+- Label accordion toggles clearly and expose the open or closed state in the control itself.
+- Add descriptive alt text for product wrappers, hands, and video frames.
+- Keep the mono stat rows legible and avoid shrinking them below comfortable reading size.
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ffffff`
-- `#6e6e6e`
-- `#dcdcdc`
-- `#efeded`
-- `#161616`
-- `#010101`
-- `#f7f5f5`
-- `#b59f4a`
-- `#a26632`
-- `#d1d5dc`
-- `#909090`
-- `#e5e7eb`
-
-## Typography captured from davidprotein.com
-
-- **System** — weight 400 · size 16px
-- **Suisse Intl** — weight 400 · size 12px
-- **Instrument Serif** — weight 400 · size 80px
-- **Abc Monument Grotesk Mono Unlicensed** — weight 400 · size 12px
-- **Arial** — weight 400 · size 14px
+This guide covers the home hero, merchandising band, bundle grid, FAQ page, about-page styling, and the expert/video section. It does not include checkout, account flows, mobile breakpoints, motion rules, or interaction details beyond the visible states shown here.
