@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:06:25.029Z",
+  "generatedAt": "2026-08-08T16:08:48.977Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 28,
+    "published_verified": 29,
     "unpublished": 909,
     "failed": 7,
-    "repairing": 2,
-    "drafting": 1,
-    "legacy": 89
+    "validating": 1,
+    "drafting": 2,
+    "legacy": 88
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:06:17.659Z",
-    "heartbeatExpiresAt": "2026-08-08T16:11:17.659Z",
+    "heartbeatAt": "2026-08-08T16:08:37.115Z",
+    "heartbeatExpiresAt": "2026-08-08T16:13:37.115Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -34,29 +34,29 @@
           "startedAt": "2026-08-08T16:03:46.144Z"
         },
         {
-          "domain": "sap.com",
-          "startedAt": "2026-08-08T16:00:13.307Z"
+          "domain": "cora.computer",
+          "startedAt": "2026-08-08T16:08:04.104Z"
         }
       ],
-      "completedThisRun": 17,
+      "completedThisRun": 18,
       "failedThisRun": 8
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 15,
+      "completedThisRun": 16,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 998,
-      "availableGeneration": 998,
+      "eligibleGeneration": 997,
+      "availableGeneration": 997,
       "waitingForRetry": 7,
       "readyPublication": 0,
-      "publishedVerified": 28
+      "publishedVerified": 29
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:01:11.597Z"
+      "lastSyncedAt": "2026-08-08T16:06:36.349Z"
     },
     "lastError": {
       "at": "2026-08-08T16:03:46.138Z",
@@ -4294,9 +4294,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "repairing",
+      "state": "validating",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:03:20.337Z",
+      "updatedAt": "2026-08-08T16:06:45.057Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -6102,9 +6102,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "legacy",
-      "attempt": 89,
-      "updatedAt": "2026-08-08T14:41:29.824Z",
+      "state": "drafting",
+      "attempt": 90,
+      "updatedAt": "2026-08-08T16:08:15.557Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -22054,18 +22054,18 @@
     },
     {
       "domain": "sap.com",
-      "state": "repairing",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:04:33.922Z",
+      "updatedAt": "2026-08-08T16:08:32.506Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/sap.com-design",
+        "markdownUrl": "https://design.withfudge.com/share/sap.com-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/sap.com.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
