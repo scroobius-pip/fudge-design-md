@@ -624,6 +624,14 @@ api-dashboard.search.brave.com is a dark, state-driven developer console. The pa
 
 [Open guide](design-md/api-dashboard.search.brave.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/api-dashboard.search.brave.com-design)
 
+### api.momentum.uninspired.studio
+
+[![How api.momentum.uninspired.studio is designed](https://pin.fontofweb.com/3662?format=jpg)](design-md/api.momentum.uninspired.studio.md)
+
+Momentum presents itself as a compact sequencing workspace: a dark shell wraps a bright white stage, and the whole layout is organized like a tool for arranging and tuning visual sequences. The page does not rely on decorative imagery or soft marketing surfaces. Instead, it uses a controlled editor grammar made from rails, cards, chips, tabs, sliders, and a central composition field. That gives the interface a precise, technical character while still feeling polished and intentional.
+
+[Open guide](design-md/api.momentum.uninspired.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/api.momentum.uninspired.studio-design)
+
 ### api.scira.ai
 
 [![How api.scira.ai is designed](https://pin.fontofweb.com/5945?format=jpg)](design-md/api.scira.ai.md)
