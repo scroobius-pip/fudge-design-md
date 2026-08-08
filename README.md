@@ -2448,6 +2448,14 @@ sacred.computer presents a strict terminal language built from a black grid fiel
 
 [Open guide](design-md/sacred.computer.md) · [View the Fudge conversation](https://design.withfudge.com/share/sacred.computer-design)
 
+### sap.com
+
+[![How sap.com is designed](https://pin.fontofweb.com/2381?format=jpg)](design-md/sap.com.md)
+
+SAP’s homepage presents enterprise software as steady and globally established rather than flashy. The page leans on a pale base, a faint world-map wash, centered headline language, and a restrained blue action color to create a calm first impression. The message is direct: the site wants to feel dependable, broad in reach, and easy to scan.
+
+[Open guide](design-md/sap.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/sap.com-design)
+
 ### stripe.com
 
 [![How stripe.com is designed](https://pin.fontofweb.com/7595?format=jpg)](design-md/stripe.com.md)
