@@ -1,21 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:14:11.665Z",
+  "generatedAt": "2026-08-08T16:16:03.376Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 29,
+    "published_verified": 30,
     "unpublished": 909,
     "failed": 7,
-    "validating": 3,
-    "legacy": 88
+    "repairing": 1,
+    "reviewing": 1,
+    "drafting": 1,
+    "legacy": 87
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:14:05.954Z",
-    "heartbeatExpiresAt": "2026-08-08T16:19:05.954Z",
+    "heartbeatAt": "2026-08-08T16:15:52.150Z",
+    "heartbeatExpiresAt": "2026-08-08T16:20:52.150Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -25,37 +27,37 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "brave.com",
-          "startedAt": "2026-08-08T15:55:08.150Z"
-        },
-        {
           "domain": "cap.so",
           "startedAt": "2026-08-08T16:03:46.144Z"
         },
         {
           "domain": "cora.computer",
           "startedAt": "2026-08-08T16:08:04.104Z"
+        },
+        {
+          "domain": "cosmic-ray.tv",
+          "startedAt": "2026-08-08T16:15:13.617Z"
         }
       ],
-      "completedThisRun": 18,
+      "completedThisRun": 19,
       "failedThisRun": 8
     },
     "publication": {
       "concurrency": 1,
       "active": null,
-      "completedThisRun": 16,
+      "completedThisRun": 17,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 997,
       "availableGeneration": 997,
-      "waitingForRetry": 7,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 29
+      "publishedVerified": 30
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T16:09:01.737Z"
+      "lastSyncedAt": "2026-08-08T16:14:23.834Z"
     },
     "lastError": {
       "at": "2026-08-08T16:03:46.138Z",
@@ -4293,15 +4295,15 @@
     },
     {
       "domain": "brave.com",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:12:20.863Z",
+      "updatedAt": "2026-08-08T16:15:49.622Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
         "url": "https://design.withfudge.com/share/brave.com-design",
         "markdownUrl": "https://design.withfudge.com/share/brave.com-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/brave.com.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -5061,9 +5063,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:13:04.622Z",
+      "updatedAt": "2026-08-08T16:14:49.907Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -6101,9 +6103,9 @@
     },
     {
       "domain": "cora.computer",
-      "state": "validating",
+      "state": "reviewing",
       "attempt": 90,
-      "updatedAt": "2026-08-08T16:12:19.402Z",
+      "updatedAt": "2026-08-08T16:15:54.464Z",
       "blocker": null,
       "publication": {
         "key": "cora.computer-design",
@@ -6133,9 +6135,9 @@
     },
     {
       "domain": "cosmic-ray.tv",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:29.839Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T16:15:48.521Z",
       "blocker": null,
       "publication": {
         "key": "cosmic-ray.tv-design",
