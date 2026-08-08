@@ -1,22 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T18:23:56.910Z",
+  "generatedAt": "2026-08-08T18:26:06.125Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
-    "published_verified": 50,
+    "published_verified": 51,
     "unpublished": 909,
-    "validating": 1,
     "failed": 6,
-    "drafting": 1,
-    "legacy": 69
+    "drafting": 3,
+    "legacy": 67
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T18:23:37.068Z",
-    "heartbeatExpiresAt": "2026-08-08T18:28:37.068Z",
+    "heartbeatAt": "2026-08-08T18:25:43.605Z",
+    "heartbeatExpiresAt": "2026-08-08T18:30:43.605Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,44 +25,44 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "aura.build",
-          "startedAt": "2026-08-08T18:04:04.485Z"
-        },
-        {
-          "domain": "base-ui.com",
-          "startedAt": "2026-08-08T18:07:23.048Z"
-        },
-        {
           "domain": "betterstack.com",
           "startedAt": "2026-08-08T18:22:47.408Z"
+        },
+        {
+          "domain": "docs.apara.design",
+          "startedAt": "2026-08-08T18:24:03.498Z"
+        },
+        {
+          "domain": "dosu.dev",
+          "startedAt": "2026-08-08T18:24:52.620Z"
         }
       ],
-      "completedThisRun": 39,
-      "failedThisRun": 19
+      "completedThisRun": 40,
+      "failedThisRun": 20
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "dlang.org",
-        "startedAt": "2026-08-08T18:22:47.380Z"
+        "domain": "aura.build",
+        "startedAt": "2026-08-08T18:24:52.507Z"
       },
-      "completedThisRun": 36,
+      "completedThisRun": 37,
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 978,
-      "availableGeneration": 978,
-      "waitingForRetry": 5,
+      "eligibleGeneration": 976,
+      "availableGeneration": 976,
+      "waitingForRetry": 6,
       "readyPublication": 0,
-      "publishedVerified": 49
+      "publishedVerified": 50
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T18:20:32.364Z"
+      "lastSyncedAt": "2026-08-08T18:24:16.660Z"
     },
     "lastError": {
-      "at": "2026-08-08T17:58:34.908Z",
-      "message": "Generation failed for designsystems.surf with exit 1."
+      "at": "2026-08-08T18:23:53.659Z",
+      "message": "Generation failed for base-ui.com with exit 1."
     }
   },
   "generationControl": {
@@ -3161,18 +3160,18 @@
     },
     {
       "domain": "aura.build",
-      "state": "validating",
+      "state": "published_verified",
       "attempt": 88,
-      "updatedAt": "2026-08-08T18:21:40.482Z",
+      "updatedAt": "2026-08-08T18:25:42.075Z",
       "blocker": null,
       "publication": {
         "key": "aura.build-design",
         "url": "https://design.withfudge.com/share/aura.build-design",
         "markdownUrl": "https://design.withfudge.com/share/aura.build-design.md",
-        "githubUrl": null
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/aura.build.md"
       },
       "failureCategory": null,
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 0,
       "nextEligibleAt": null
     },
     {
@@ -7721,9 +7720,9 @@
     },
     {
       "domain": "docs.apara.design",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.447Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T18:24:14.020Z",
       "blocker": null,
       "publication": {
         "key": "docs.apara.design-design",
@@ -7945,9 +7944,9 @@
     },
     {
       "domain": "dosu.dev",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.462Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T18:25:09.326Z",
       "blocker": null,
       "publication": {
         "key": "dosu.dev-design",
