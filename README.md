@@ -360,6 +360,14 @@ Cloudflare AI uses a spare landing-page system built on white space, dark type, 
 
 [Open guide](design-md/ai.cloudflare.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ai.cloudflare.com-design)
 
+### aihero.dev
+
+[![How aihero.dev is designed](https://pin.fontofweb.com/10601?format=jpg)](design-md/aihero.dev.md)
+
+AIHero is a dark learning site with an editorial rhythm. The page reads like a curated index rather than a marketing landing page: a thin top rail, a large opening question, stacked topic blocks, a portrait-and-signup section, a grid of recent posts, and a quiet footer. The design depends on contrast through scale and surface, not through ornament. The black field stays constant, the white text stays crisp, and the yellow action color is reserved for the most important calls to action.
+
+[Open guide](design-md/aihero.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/aihero.dev-design)
+
 ### aino.agency
 
 [![How aino.agency is designed](https://pin.fontofweb.com/7074?format=jpg)](design-md/aino.agency.md)
