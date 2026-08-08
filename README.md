@@ -552,6 +552,14 @@ Google Analytics uses a restrained enterprise dashboard language: light gray pag
 
 [Open guide](design-md/analytics.google.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/analytics.google.com-design)
 
+### andreadiego.es
+
+[![How andreadiego.es is designed](https://pin.fontofweb.com/1887?format=jpg)](design-md/andreadiego.es.md)
+
+andreadiego.es uses a quiet but dramatic editorial language. The site feels built around one strong idea: oversized serif lettering on a warm field, with small grotesk text carrying the useful information around it. That contrast gives the brand a studio-like tone rather than a conventional service-site tone. The pages rely on calm spacing, sharp alignment, and a few carefully placed image blocks instead of dense interface furniture.
+
+[Open guide](design-md/andreadiego.es.md) · [View the Fudge conversation](https://design.withfudge.com/share/andreadiego.es-design)
+
 ### animaapp.com
 
 [![How animaapp.com is designed](https://pin.fontofweb.com/5953?format=jpg)](design-md/animaapp.com.md)
