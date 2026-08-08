@@ -1,24 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:10:19.769Z",
+  "generatedAt": "2026-08-08T14:10:54.257Z",
   "counts": {
     "skipped_one_image": 525,
     "skipped_recent": 179,
-    "published_verified": 7,
+    "published_verified": 8,
     "publishing": 1,
-    "ready": 5,
-    "validating": 1,
+    "ready": 4,
+    "failed": 4,
     "unpublished": 1013,
     "drafting": 5,
-    "failed": 3,
     "preparing": 3
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "paused",
     "startedAt": "2026-08-08T13:54:54.455Z",
-    "heartbeatAt": "2026-08-08T14:10:11.054Z",
-    "heartbeatExpiresAt": "2026-08-08T14:15:11.054Z",
+    "heartbeatAt": "2026-08-08T14:10:49.489Z",
+    "heartbeatExpiresAt": "2026-08-08T14:15:49.489Z",
     "stale": false,
     "generationControl": {
       "paused": true,
@@ -26,38 +25,33 @@
     },
     "generation": {
       "concurrency": 3,
-      "active": [
-        {
-          "domain": "americanprogress.org",
-          "startedAt": "2026-08-08T13:55:33.884Z"
-        }
-      ],
+      "active": [],
       "completedThisRun": 2,
-      "failedThisRun": 1
+      "failedThisRun": 2
     },
     "publication": {
       "concurrency": 1,
       "active": {
-        "domain": "ambigr.am",
-        "startedAt": "2026-08-08T14:10:10.396Z"
+        "domain": "amd.com",
+        "startedAt": "2026-08-08T14:10:48.585Z"
       },
-      "completedThisRun": 7,
+      "completedThisRun": 8,
       "failedThisRun": 0
     },
     "queue": {
       "eligibleGeneration": 1013,
       "availableGeneration": 1013,
-      "waitingForRetry": 3,
-      "readyPublication": 6,
-      "publishedVerified": 7
+      "waitingForRetry": 4,
+      "readyPublication": 5,
+      "publishedVerified": 8
     },
     "recoveredThisRun": 3,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T14:06:17.686Z"
+      "lastSyncedAt": "2026-08-08T14:10:37.268Z"
     },
     "lastError": {
-      "at": "2026-08-08T13:55:44.150Z",
-      "message": "Generation failed for agentation.dev with exit 1."
+      "at": "2026-08-08T14:10:23.787Z",
+      "message": "Generation failed for americanprogress.org with exit 1."
     }
   },
   "generationControl": {
@@ -1459,15 +1453,15 @@
     },
     {
       "domain": "ambigr.am",
-      "state": "publishing",
+      "state": "published_verified",
       "attempt": 86,
-      "updatedAt": "2026-08-08T14:10:10.618Z",
+      "updatedAt": "2026-08-08T14:10:46.725Z",
       "blocker": null,
       "publication": {
         "key": "ambigr.am-design",
-        "url": null,
-        "markdownUrl": null,
-        "githubUrl": null
+        "url": "https://design.withfudge.com/share/ambigr.am-design",
+        "markdownUrl": "https://design.withfudge.com/share/ambigr.am-design.md",
+        "githubUrl": "https://github.com/scroobius-pip/fudge-design-md/blob/main/design-md/ambigr.am.md"
       },
       "failureCategory": null,
       "consecutiveFailures": 0,
@@ -1475,9 +1469,9 @@
     },
     {
       "domain": "amd.com",
-      "state": "ready",
+      "state": "publishing",
       "attempt": 87,
-      "updatedAt": "2026-08-08T13:55:20.728Z",
+      "updatedAt": "2026-08-08T14:10:48.891Z",
       "blocker": null,
       "publication": {
         "key": "amd.com-design",
@@ -1507,9 +1501,9 @@
     },
     {
       "domain": "americanprogress.org",
-      "state": "validating",
+      "state": "failed",
       "attempt": 85,
-      "updatedAt": "2026-08-08T14:08:48.820Z",
+      "updatedAt": "2026-08-08T14:10:22.451Z",
       "blocker": null,
       "publication": {
         "key": "americanprogress.org-design",
@@ -1518,8 +1512,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T15:10:22.451Z"
     },
     {
       "domain": "ami.dev",
