@@ -1844,7 +1844,7 @@ ElevenLabs presents two related faces: a light, orderly product shell and a broa
 
 [![How emmiwu.com is designed](https://pin.fontofweb.com/8632?format=jpg)](design-md/emmiwu.com.md)
 
-emmiwu.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f9f8f6`, and `#f2511b`, with typography led by **System**, **Self Modern**, **Ibm Plex Mono**, **Figtree**, and **Kode Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+Emmi Wu’s home screen feels like a desktop sketchbook spread across a pale tabletop. A thin header sits at the top edge, then the page opens into a loose collage of tilted paper blocks with almost no visual chrome around them. The strongest idea is the contrast between restraint and play: the interface itself stays quiet, while the central notes carry the personality through rotation, color, and mixed typography.
 
 [Open guide](design-md/emmiwu.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/emmiwu.com-design)
 
