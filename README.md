@@ -1660,7 +1660,7 @@ DesignMe’s homepage is a narrow-to-broad agency pitch system built on hard con
 
 [![How designsystems.surf is designed](https://pin.fontofweb.com/8109?format=jpg)](design-md/designsystems.surf.md)
 
-designsystems.surf presents a mixed light and dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ffffff`, and `#f5f5f5`, with typography led by **System**, **Inter**, and **Ibm Plex Mono**. The guide below names reusable design roles only where the captured evidence supports them.
+designsystems.surf feels like a calm library front door with a commercial edge. The page uses a wide white stage, a slim top bar, a left index, and a centered reading column that stays easy to scan even when the content runs long. Black headlines carry the structure, muted supporting copy softens the pace, and action color appears in the smaller orange button while a separate black full-width CTA gives the page a stronger closing note.
 
 [Open guide](design-md/designsystems.surf.md) · [View the Fudge conversation](https://design.withfudge.com/share/designsystems.surf-design)
 
