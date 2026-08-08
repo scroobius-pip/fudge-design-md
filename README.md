@@ -2399,6 +2399,14 @@ YouWorkForThem is a catalog-first marketplace with a very quiet shell and very l
 Yuskavage.com is built like an art archive rather than a promotional site. The interface keeps the page almost entirely on a light field, then uses a narrow left rail to hold the brand, navigation, and utility links while the main area carries the content. That split gives the site a museum-catalog calm: the rail behaves like a directory spine, and the right side changes format depending on whether the page is a media index, an exhibition list, or a long biography.
 
 [Open guide](design-md/yuskavage.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/yuskavage.com-design)
+
+### zed.dev
+
+[![How zed.dev is designed](https://pin.fontofweb.com/10733?format=jpg)](design-md/zed.dev.md)
+
+Zed.dev uses two related moods. The light pages feel like precise paper layouts: white surfaces, thin borders, small blue actions, and compact Writer copy. The dark early-access page turns the same brand into a denser editor stage, but the language stays restrained rather than theatrical. The system reads as software-native, not decorative.
+
+[Open guide](design-md/zed.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/zed.dev-design)
 <!-- DESIGN_MD_INDEX_END -->
 
 ## Use a guide
