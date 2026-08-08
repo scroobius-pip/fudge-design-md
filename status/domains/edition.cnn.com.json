@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "domain": "edition.cnn.com",
-  "state": "repairing",
+  "state": "failed",
   "attempt": 86,
-  "consecutiveFailures": 1,
-  "nextEligibleAt": null,
-  "updatedAt": "2026-08-08T20:49:02.409Z",
+  "consecutiveFailures": 2,
+  "nextEligibleAt": "2026-08-08T21:53:23.567Z",
+  "updatedAt": "2026-08-08T20:53:23.567Z",
   "blocker": null,
   "inventory": {
     "projection": {
@@ -23,5 +23,5 @@
     "markdownUrl": null,
     "githubUrl": null
   },
-  "failure": null
+  "failure": "publication_failed"
 }

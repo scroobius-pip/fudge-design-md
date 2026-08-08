@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T20:51:27.912Z",
+  "generatedAt": "2026-08-08T20:57:27.867Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 71,
     "unpublished": 909,
-    "failed": 10,
+    "failed": 11,
     "repairing": 1,
-    "validating": 2,
-    "legacy": 43
+    "validating": 1,
+    "drafting": 1,
+    "legacy": 42
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T20:51:19.846Z",
-    "heartbeatExpiresAt": "2026-08-08T20:56:19.846Z",
+    "heartbeatAt": "2026-08-08T20:56:54.852Z",
+    "heartbeatExpiresAt": "2026-08-08T21:01:54.852Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -26,20 +27,20 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "edition.cnn.com",
-          "startedAt": "2026-08-08T20:38:52.501Z"
-        },
-        {
           "domain": "emmiwu.com",
           "startedAt": "2026-08-08T20:46:25.876Z"
         },
         {
           "domain": "exa.ai",
           "startedAt": "2026-08-08T20:37:15.929Z"
+        },
+        {
+          "domain": "explainers.blog",
+          "startedAt": "2026-08-08T20:53:30.777Z"
         }
       ],
       "completedThisRun": 60,
-      "failedThisRun": 35
+      "failedThisRun": 36
     },
     "publication": {
       "concurrency": 1,
@@ -48,19 +49,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 952,
-      "availableGeneration": 952,
-      "waitingForRetry": 10,
+      "eligibleGeneration": 951,
+      "availableGeneration": 951,
+      "waitingForRetry": 11,
       "readyPublication": 0,
       "publishedVerified": 71
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T20:46:15.550Z"
+      "lastSyncedAt": "2026-08-08T20:51:52.833Z"
     },
     "lastError": {
-      "at": "2026-08-08T20:46:16.384Z",
-      "message": "Generation failed for everyday-practice.com with exit 1."
+      "at": "2026-08-08T20:53:25.033Z",
+      "message": "Generation failed for edition.cnn.com with exit 1."
     }
   },
   "generationControl": {
@@ -8390,9 +8391,9 @@
     },
     {
       "domain": "edition.cnn.com",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:49:02.409Z",
+      "updatedAt": "2026-08-08T20:53:23.567Z",
       "blocker": null,
       "publication": {
         "key": "edition.cnn.com-design",
@@ -8401,8 +8402,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 1,
-      "nextEligibleAt": null
+      "consecutiveFailures": 2,
+      "nextEligibleAt": "2026-08-08T21:53:23.567Z"
     },
     {
       "domain": "eff.org",
@@ -8582,9 +8583,9 @@
     },
     {
       "domain": "emmiwu.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T20:50:29.921Z",
+      "updatedAt": "2026-08-08T20:56:45.914Z",
       "blocker": null,
       "publication": {
         "key": "emmiwu.com-design",
@@ -8904,7 +8905,7 @@
       "domain": "exa.ai",
       "state": "validating",
       "attempt": 85,
-      "updatedAt": "2026-08-08T20:49:01.632Z",
+      "updatedAt": "2026-08-08T20:54:47.550Z",
       "blocker": null,
       "publication": {
         "key": "exa.ai-design",
@@ -8966,9 +8967,9 @@
     },
     {
       "domain": "explainers.blog",
-      "state": "legacy",
-      "attempt": 84,
-      "updatedAt": "2026-08-08T14:41:30.839Z",
+      "state": "drafting",
+      "attempt": 85,
+      "updatedAt": "2026-08-08T20:53:40.081Z",
       "blocker": null,
       "publication": {
         "key": "explainers.blog-design",

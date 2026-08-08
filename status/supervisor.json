@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T20:51:19.846Z",
-  "heartbeatExpiresAt": "2026-08-08T20:56:19.846Z",
+  "heartbeatAt": "2026-08-08T20:56:54.852Z",
+  "heartbeatExpiresAt": "2026-08-08T21:01:54.852Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,20 +13,20 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "edition.cnn.com",
-        "startedAt": "2026-08-08T20:38:52.501Z"
-      },
-      {
         "domain": "emmiwu.com",
         "startedAt": "2026-08-08T20:46:25.876Z"
       },
       {
         "domain": "exa.ai",
         "startedAt": "2026-08-08T20:37:15.929Z"
+      },
+      {
+        "domain": "explainers.blog",
+        "startedAt": "2026-08-08T20:53:30.777Z"
       }
     ],
     "completedThisRun": 60,
-    "failedThisRun": 35
+    "failedThisRun": 36
   },
   "publication": {
     "concurrency": 1,
@@ -35,18 +35,18 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 952,
-    "availableGeneration": 952,
-    "waitingForRetry": 10,
+    "eligibleGeneration": 951,
+    "availableGeneration": 951,
+    "waitingForRetry": 11,
     "readyPublication": 0,
     "publishedVerified": 71
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T20:46:15.550Z"
+    "lastSyncedAt": "2026-08-08T20:51:52.833Z"
   },
   "lastError": {
-    "at": "2026-08-08T20:46:16.384Z",
-    "message": "Generation failed for everyday-practice.com with exit 1."
+    "at": "2026-08-08T20:53:25.033Z",
+    "message": "Generation failed for edition.cnn.com with exit 1."
   }
 }
