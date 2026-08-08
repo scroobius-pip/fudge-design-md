@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "state": "running",
   "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T16:00:44.765Z",
-  "heartbeatExpiresAt": "2026-08-08T16:05:44.765Z",
+  "heartbeatAt": "2026-08-08T16:06:17.659Z",
+  "heartbeatExpiresAt": "2026-08-08T16:11:17.659Z",
   "stale": false,
   "generationControl": {
     "paused": false,
@@ -13,12 +13,12 @@
     "concurrency": 3,
     "active": [
       {
-        "domain": "bkid.co",
-        "startedAt": "2026-08-08T15:50:14.123Z"
-      },
-      {
         "domain": "brave.com",
         "startedAt": "2026-08-08T15:55:08.150Z"
+      },
+      {
+        "domain": "cap.so",
+        "startedAt": "2026-08-08T16:03:46.144Z"
       },
       {
         "domain": "sap.com",
@@ -26,7 +26,7 @@
       }
     ],
     "completedThisRun": 17,
-    "failedThisRun": 7
+    "failedThisRun": 8
   },
   "publication": {
     "concurrency": 1,
@@ -35,18 +35,18 @@
     "failedThisRun": 0
   },
   "queue": {
-    "eligibleGeneration": 999,
-    "availableGeneration": 999,
-    "waitingForRetry": 6,
+    "eligibleGeneration": 998,
+    "availableGeneration": 998,
+    "waitingForRetry": 7,
     "readyPublication": 0,
     "publishedVerified": 28
   },
   "recoveredThisRun": 0,
   "publicTracker": {
-    "lastSyncedAt": "2026-08-08T15:56:28.799Z"
+    "lastSyncedAt": "2026-08-08T16:01:11.597Z"
   },
   "lastError": {
-    "at": "2026-08-08T15:55:07.604Z",
-    "message": "Generation failed for betterstack.com with exit 1."
+    "at": "2026-08-08T16:03:46.138Z",
+    "message": "Generation failed for bkid.co with exit 1."
   }
 }

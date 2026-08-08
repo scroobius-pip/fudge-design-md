@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:00:55.859Z",
+  "generatedAt": "2026-08-08T16:06:25.029Z",
   "counts": {
     "skipped_one_image": 526,
     "skipped_recent": 180,
     "published_verified": 28,
     "unpublished": 909,
-    "failed": 6,
-    "repairing": 1,
-    "validating": 1,
-    "legacy": 90,
-    "drafting": 1
+    "failed": 7,
+    "repairing": 2,
+    "drafting": 1,
+    "legacy": 89
   },
   "supervisor": {
     "schemaVersion": 1,
     "state": "running",
     "startedAt": "2026-08-08T14:31:02.704Z",
-    "heartbeatAt": "2026-08-08T16:00:44.765Z",
-    "heartbeatExpiresAt": "2026-08-08T16:05:44.765Z",
+    "heartbeatAt": "2026-08-08T16:06:17.659Z",
+    "heartbeatExpiresAt": "2026-08-08T16:11:17.659Z",
     "stale": false,
     "generationControl": {
       "paused": false,
@@ -27,12 +26,12 @@
       "concurrency": 3,
       "active": [
         {
-          "domain": "bkid.co",
-          "startedAt": "2026-08-08T15:50:14.123Z"
-        },
-        {
           "domain": "brave.com",
           "startedAt": "2026-08-08T15:55:08.150Z"
+        },
+        {
+          "domain": "cap.so",
+          "startedAt": "2026-08-08T16:03:46.144Z"
         },
         {
           "domain": "sap.com",
@@ -40,7 +39,7 @@
         }
       ],
       "completedThisRun": 17,
-      "failedThisRun": 7
+      "failedThisRun": 8
     },
     "publication": {
       "concurrency": 1,
@@ -49,19 +48,19 @@
       "failedThisRun": 0
     },
     "queue": {
-      "eligibleGeneration": 999,
-      "availableGeneration": 999,
-      "waitingForRetry": 6,
+      "eligibleGeneration": 998,
+      "availableGeneration": 998,
+      "waitingForRetry": 7,
       "readyPublication": 0,
       "publishedVerified": 28
     },
     "recoveredThisRun": 0,
     "publicTracker": {
-      "lastSyncedAt": "2026-08-08T15:56:28.799Z"
+      "lastSyncedAt": "2026-08-08T16:01:11.597Z"
     },
     "lastError": {
-      "at": "2026-08-08T15:55:07.604Z",
-      "message": "Generation failed for betterstack.com with exit 1."
+      "at": "2026-08-08T16:03:46.138Z",
+      "message": "Generation failed for bkid.co with exit 1."
     }
   },
   "generationControl": {
@@ -3879,9 +3878,9 @@
     },
     {
       "domain": "bkid.co",
-      "state": "repairing",
+      "state": "failed",
       "attempt": 91,
-      "updatedAt": "2026-08-08T15:59:33.777Z",
+      "updatedAt": "2026-08-08T16:03:45.218Z",
       "blocker": null,
       "publication": {
         "key": "bkid.co-design",
@@ -3890,8 +3889,8 @@
         "githubUrl": null
       },
       "failureCategory": null,
-      "consecutiveFailures": 0,
-      "nextEligibleAt": null
+      "consecutiveFailures": 1,
+      "nextEligibleAt": "2026-08-08T17:03:45.218Z"
     },
     {
       "domain": "bland.ai",
@@ -4295,9 +4294,9 @@
     },
     {
       "domain": "brave.com",
-      "state": "validating",
+      "state": "repairing",
       "attempt": 87,
-      "updatedAt": "2026-08-08T16:00:31.301Z",
+      "updatedAt": "2026-08-08T16:03:20.337Z",
       "blocker": null,
       "publication": {
         "key": "brave.com-design",
@@ -5063,9 +5062,9 @@
     },
     {
       "domain": "cap.so",
-      "state": "legacy",
-      "attempt": 85,
-      "updatedAt": "2026-08-08T14:41:29.390Z",
+      "state": "drafting",
+      "attempt": 86,
+      "updatedAt": "2026-08-08T16:03:56.973Z",
       "blocker": null,
       "publication": {
         "key": "cap.so-design",
@@ -22055,9 +22054,9 @@
     },
     {
       "domain": "sap.com",
-      "state": "drafting",
+      "state": "repairing",
       "attempt": 86,
-      "updatedAt": "2026-08-08T16:00:18.282Z",
+      "updatedAt": "2026-08-08T16:04:33.922Z",
       "blocker": null,
       "publication": {
         "key": "sap.com-design",
