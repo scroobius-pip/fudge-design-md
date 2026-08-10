@@ -2,157 +2,186 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/harvey.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Harvey AI Blog: Learn about legal AI, Harvey, and more](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/share/pin-8744)
+[![Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://pin.fontofweb.com/8744?format=jpg)](https://design.withfudge.com/share/pin-8744)
 
-[Harvey AI Blog: Learn about legal AI, Harvey, and more](https://design.withfudge.com/share/pin-8744)
+[Blog landing page with light warm-gray background, featuring a large editorial card with portrait photography and serif headline, plus an Innovation Spotlight section below.](https://design.withfudge.com/share/pin-8744)
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/share/pin-8743)
+[![Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://pin.fontofweb.com/8743?format=jpg)](https://design.withfudge.com/share/pin-8743)
 
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8743)
+[Dark homepage section showing Solutions navigation with customer logos card, followed by a full-bleed photography band with trust message and Request a Demo button.](https://design.withfudge.com/share/pin-8743)
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8742?format=jpg)](https://design.withfudge.com/share/pin-8742)
+[![Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://pin.fontofweb.com/8742?format=jpg)](https://design.withfudge.com/share/pin-8742)
 
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8742)
+[Footer on near-black background with serif CTA headline, multi-column navigation links, and a large H mark logo in the corner.](https://design.withfudge.com/share/pin-8742)
 
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/share/pin-8741)
+[![Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://pin.fontofweb.com/8741?format=jpg)](https://design.withfudge.com/share/pin-8741)
 
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8741)
-
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8740?format=jpg)](https://design.withfudge.com/share/pin-8740)
-
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8740)
-
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8739?format=jpg)](https://design.withfudge.com/share/pin-8739)
-
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8739)
-
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8738?format=jpg)](https://design.withfudge.com/share/pin-8738)
-
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8738)
-
-[![Harvey | AI platform for legal and professional services](https://pin.fontofweb.com/8737?format=jpg)](https://design.withfudge.com/share/pin-8737)
-
-[Harvey | AI platform for legal and professional services](https://design.withfudge.com/share/pin-8737)
+[Enterprise security section with dark background, compliance certification icons in a four-column grid, and a bordered outline button for More About Security.](https://design.withfudge.com/share/pin-8741)
 
 ## Overview
 
-harvey.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#fafaf9`, and `#0f0e0d`, with typography led by **Harvey Sans Diatype** and **Harvey Serif**. The guide below names reusable design roles only where the captured evidence supports them.
+Harvey's design system conveys institutional confidence through restraint and contrast. The visual language alternates between warm near-black surfaces and soft light backgrounds, using typography as the primary differentiator rather than color alone. Harvey Serif provides editorial authority for headlines and display moments, while Harvey Sans Diatype delivers crisp, readable utility for navigation, body copy, and interface labels. The result is a system that feels simultaneously modern and established—appropriate for a platform serving the legal profession.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the header |
-| color.text | `#fafaf9` | text on page content in the header |
-| color.text | `#0f0e0d` | text on page content in the header |
-| color.text | `#ffffff` | text on page content |
-| color.border | `#33312c` | border on page content in the main |
-| color.text | `#706d66` | text on page content in the header |
-| color.text | `#cccac6` | text on page content in the header |
-| color.text | `#8f8b85` | text on page content in the main |
-| color.text | `#4d4b46` | text on page content in the nav |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Harvey Sans Diatype** | 16px | 400 | 24px | normal | <div> in the header, <div>, <a> in the header, <div> in the main, <li> in the main, <div> in the footer, <div> in the nav, <ul> in the nav, <a> in the main, and <button> in the button |
-| type.display-80px | **Harvey Serif** | 80px | 400 | 84px | -1px | <p> in the main and <h1> in the main |
-| type.display-56px | **Harvey Serif** | 56px | 400 | 58.8px | -0.56px | <div> in the main |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 400 | 18.2px | normal | <p> in the header, <p> in the footer, and <div> in the header |
-| type.display-36px | **Harvey Sans Diatype** | 36px | 500 | 39.6px | -0.36px | <h3> in the main and <strong> in the main |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 500 | 20px | normal | <li> in the nav and <button> in the button |
-| type.body-20px | **Harvey Sans Diatype** | 20px | 400 | 26px | normal | <p> in the main |
-| type.display-36px | **Harvey Serif** | 36px | 400 | 37.8px | -0.36px | <span> in the main and <blockquote> in the main |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 500 | 18.2px | normal | <a> in the nav, <span> in the button, and <span> in the nav |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 500 | 18.2px | -0.14px | <h3> in the header |
-| type.display-32px | **Harvey Serif** | 32px | 400 | 33.6px | -0.32px | <h3> in the footer |
-| type.display-36px | **Harvey Serif** | 36px | 500 | 37.8px | -0.36px | <p> in the main |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 400 | 20px | normal | <a> in the main |
-| type.body-16px | **Harvey Sans Diatype** | 16px | 500 | 24px | normal | <a> in the main |
-| type.display-36px | **Harvey Sans Diatype** | 36px | 500 | 37.8px | -0.36px | <h3> in the main |
-| type.body-16px | **Harvey Sans Diatype** | 16px | 400 | 20.8px | normal | <p> in the main |
-| type.body-28px | **Harvey Serif** | 28px | 400 | 39.2px | normal | <div> in the header |
-| type.body-14px | **Harvey Sans Diatype** | 14px | 500 | 14px | normal | <p> in the header |
-| type.body-20px | **Harvey Sans Diatype** | 20px | 500 | 26px | normal | <p> in the main |
-| type.body-16px | **Harvey Sans Diatype** | 16px | 500 | 16px | normal | <a> in the footer |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 36px` | padding | page content |
-| `72px` | padding | page content |
-| `36px 0px` | padding | page content |
-| `0px 68px` | margin | page content |
-| `0px 0px 18px` | margin | page content |
-| `72px 0px 0px` | margin | page content |
-| `0px 16px` | padding | page content |
-| `0px 24px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `2px 0px 0px solid 0px`, `0px none 4px`, `1px solid 4px`, `0px none 3.35544e+07px`, and `1px solid 4px` border treatments.
+The design employs two dominant modes: a dark mode used for the homepage hero, product sections, and footer, and a light mode for editorial content like the blog. Both modes share the same typographic scale and spacing logic, ensuring consistency across contexts. Photography is treated with warmth and naturalism, often showing professionals in candid moments rather than staged corporate imagery.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`. Text colors include `#fafaf9`, `#0f0e0d`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+The palette is intentionally narrow, relying on temperature and value contrast rather than hue variation. Dark surfaces use a warm near-black that avoids the harshness of pure black, while light surfaces employ a soft warm white and muted gray for depth.
+
+| token | value | use |
+|---|---|---|
+| ink | #0F0E0D | Primary dark background, footer, deep sections |
+| ink-deep | #000000 | Pure black for maximum contrast moments |
+| surface | #FAFAF9 | Primary light background, blog pages, cards |
+| surface-warm | #CCCAC6 | Editorial card backgrounds, subtle elevation |
+| muted | #706D66 | Secondary text on dark backgrounds, captions |
+| muted-light | #8F8B85 | Tertiary text, disabled states, metadata |
+| text-primary | #33312C | Body text on light backgrounds |
+| text-inverse | #FFFFFF | Text on dark backgrounds, primary buttons |
+| action | #4D4B46 | Interactive elements, hover states |
+| border-subtle | #33312C | Hairline borders on dark surfaces |
+
+Dark sections use ink as the dominant background with text-inverse for primary content and muted for secondary information. Light sections invert this relationship, using surface as the canvas with text-primary for reading content. The surface-warm tone appears selectively for editorial cards and featured content blocks, creating gentle elevation without shadows. No gradients or drop shadows appear in the visible interface; depth is achieved through value contrast and spacing alone.
 
 ## Typography
 
-The captured type system uses **Harvey Sans Diatype** and **Harvey Serif**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Harvey employs two complementary families: a variable sans-serif for interface and body text, and a refined serif for display and editorial moments. The scale is built on a 2px relative unit, with sizes snapping to even multiples for consistency.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Harvey Serif | 5rem | 400 | 1.05 | -0.0125em | Homepage hero headlines, major section titles |
+| section-display | Harvey Serif | 2.25rem | 400 | 1.1 | -0.01em | Section headers, CTA headlines, blog titles |
+| body-large | Harvey Sans Diatype | 1.25rem | 400 | 1.3 | normal | Lead paragraphs, feature descriptions |
+| body | Harvey Sans Diatype | 1rem | 400 | 1.5 | normal | Standard paragraphs, UI copy |
+| label | Harvey Sans Diatype | 0.875rem | 500 | 1.25 | normal | Buttons, tags, metadata labels |
+| navigation | Harvey Sans Diatype | 0.875rem | 500 | 1.43 | normal | Primary nav, dropdown items, footer columns |
+| legal-copy | Harvey Sans Diatype | 0.875rem | 400 | 1.3 | normal | Copyright, disclaimers, fine print |
+
+Harvey Serif appears at 80px (5rem) for the homepage hero, 56px (3.5rem) for secondary display moments, 36px (2.25rem) for section headers, and 32px (2rem) for the footer CTA. Harvey Sans Diatype operates at 16px (1rem) for body and navigation, 20px (1.25rem) for lead text, and 14px (0.875rem) for labels and secondary navigation. Weight distinctions are minimal: Regular (400) for body and display, Medium (500) for labels, navigation, and emphasized UI elements.
+
+Harvey Sans Diatype was designed by Johannes Breyer, Fabian Harb, Elias Hanzer, Renan Rosatti, and Erkin Karamemet of Dinamo. Harvey Serif was designed by Nolan Paparelli of Typeweltkern. Verify licensing for these families before production use.
 
 ## Layout
 
-The captured pages use values such as `0px 36px`, `72px`, `36px 0px`, `0px 68px`, and `0px 0px 18px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout system is built on generous horizontal padding and substantial vertical rhythm. Content is constrained to a centered container with asymmetric internal spacing that favors left-aligned text blocks over centered compositions.
+
+Horizontal padding uses 36px (2.25rem) as the standard gutter for both header and main content regions. The navigation bar maintains this padding while distributing links across the full width. Main content sections employ the same 36px padding, creating consistent alignment from header through footer.
+
+Vertical spacing operates at multiple scales. Section breaks use 72px (4.5rem) to create clear territorial separation between content areas. Internal component spacing uses 18px (1.125rem) for related elements and 36px (2.25rem) for distinct blocks within a section. The footer CTA employs a dramatic 144px (9rem) bottom margin on its headline, demonstrating how extreme vertical space can signal section importance.
+
+The grid is implicitly asymmetric. On the blog page, editorial cards split into a two-column arrangement with photography occupying roughly 55% and text 45%. The homepage solutions section places navigation links in a narrow left column while featured content occupies the wider right space. This asymmetry creates visual interest without requiring complex grid declarations.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`. No structured gradient or shadow treatment is established.
+Photography treatment emphasizes natural light, candid professionalism, and warm color temperature. Subjects appear in authentic work environments rather than isolated against seamless backgrounds. The image palette tends toward muted earth tones—soft grays, warm beiges, and desaturated blues—that harmonize with the interface colors rather than competing for attention.
 
-## Components and states
+Iconography is minimal and functional. Security certifications use simple line-art badges in muted tones against dark backgrounds. Navigation dropdowns employ small chevrons for expand/collapse indication. The Harvey wordmark uses Harvey Serif in the header, while a large standalone H mark anchors the footer.
 
-The captured pages include repeated styling on <div>, <p>, <a>, <h3>, <span>, <li>, <button>, and <ul> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The static interface suggests a preference for understated transitions—color shifts on links, subtle background changes on buttons—rather than dramatic animations. The overall impression is of a system that values stability and predictability, appropriate for its professional audience.
+
+## Components
+
+### Navigation bar
+
+The navigation bar spans the full viewport width with 36px horizontal padding. On light backgrounds, the Harvey wordmark appears in dark text alongside primary nav links in text-primary. On dark backgrounds, all elements invert to text-inverse. The right side clusters secondary actions: a Login text link and a Request a Demo button with filled surface background and ink text.
+
+- Anatomy: Wordmark left, primary nav center-left, secondary actions right
+- Surface: Transparent, adapting to parent background
+- Typography: navigation token for links, label token for the demo button
+- Spacing: 36px horizontal padding, 16px between nav items
+- Variants: Light mode (dark text on light ground), dark mode (light text on dark ground)
+
+### Editorial card
+
+Featured on the blog landing page, this component pairs photography with serif typography in a warm gray container. The card uses a two-column layout with rounded corners and internal padding.
+
+- Anatomy: Photography left, category label above, serif headline, body text, and attribution right
+- Surface: surface-warm background, no border
+- Typography: label for category, section-display for headline, body for description
+- Shape: 8px (0.5rem) border radius
+- Spacing: Generous internal padding creating breathing room around content
+
+### Solutions menu
+
+A dark-mode navigation overlay showing product categories with descriptive text. Each category pairs a bold label with a concise value proposition.
+
+- Anatomy: Stacked list of category labels with descriptions, featured content card to the right
+- Surface: ink background
+- Typography: label for category names, body for descriptions
+- Composition: Narrow left column for navigation, wider right column for featured case study or customer logos
+
+### Security compliance grid
+
+Four-column layout displaying certification badges with labels and detail links. Each item centers an icon above text on a dark background.
+
+- Anatomy: Icon, certification name, and "Details" link with arrow
+- Surface: ink background, icons in muted tone
+- Typography: body for certification names, legal-copy for detail links
+- Composition: Equal-width columns, generous vertical space between icon and text
+
+### Footer
+
+The footer combines a strong CTA headline with multi-column navigation and legal information. A large H mark occupies the bottom left as a brand anchor.
+
+- Anatomy: Serif CTA headline top, five-column link grid below, copyright and privacy bottom left
+- Surface: ink background throughout
+- Typography: section-display for CTA, navigation for column headers, body for links
+- Spacing: 72px top padding, horizontal rule separating CTA from navigation
+
+### Buttons
+
+Two variants are visible: a filled primary with surface background and ink text, and an outlined secondary with transparent background, text-inverse text, and a 1px text-inverse border.
+
+- Anatomy: Text label with optional icon
+- Surface: surface for primary, transparent for secondary
+- Typography: label token
+- Shape: 4px (0.25rem) border radius
+- Spacing: 14px vertical, 28px horizontal padding for primary; similar proportions for secondary
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design implies a desktop-first approach with substantial fixed-width elements. The navigation bar, content containers, and card layouts all assume adequate horizontal space. At narrower viewports, the two-column editorial card should stack vertically, with photography preceding text. The solutions menu would likely collapse to an accordion or full-screen overlay on mobile.
+
+The security compliance grid should reflow to two columns on tablet and single column on mobile, maintaining centered alignment for each item. Footer navigation columns should stack vertically, preserving the H mark and copyright at the bottom.
+
+Typography should scale down proportionally: hero-display reducing to 3rem on tablet and 2.5rem on mobile, section-display to 1.75rem. Line heights can tighten slightly at smaller sizes to maintain vertical rhythm.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+- The warm temperature of dark backgrounds; avoid pure black (#000000) except in specific high-contrast moments
+- The serif/sans pairing; Harvey Serif for display, Harvey Sans Diatype for everything else
+- Generous vertical spacing; the 72px section break and 144px dramatic margins are intentional
+- The asymmetric two-column layouts in editorial cards and feature sections
+- Minimal color usage; let typography and spacing carry the design
+
+### Avoid
+- Adding saturated accent colors; the palette succeeds through restraint
+- Centering long text blocks; the system prefers left-aligned reading
+- Heavy shadows or gradients for elevation; use value contrast and spacing instead
+- Reducing horizontal padding below 36px; the generous gutters are part of the premium feel
+- Using Harvey Serif at small sizes; it is optimized for display, not body text
+
+### Recommended build order
+1. Establish the color tokens and apply dark/light mode contexts
+2. Implement the typography scale with both families at their designated sizes
+3. Build the navigation bar with light and dark variants
+4. Create the editorial card component with proper two-column behavior
+5. Develop the footer with multi-column navigation and CTA headline
+6. Add button variants and refine interactive states
+7. Implement the security compliance grid with responsive reflow
+
+### Accessibility
+- Ensure text-inverse on ink backgrounds meets WCAG AAA contrast ratios; the near-black provides sufficient depth
+- Maintain focus indicators on all interactive elements; the minimal visual language requires clear keyboard navigation
+- Use semantic heading hierarchy: h1 for hero headlines, h2 for sections, h3 for card titles
+- Provide alt text for all photography, describing the professional context rather than generic labels
+- Ensure dropdown menus are operable via keyboard and screen reader
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#fafaf9`
-- `#0f0e0d`
-- `#ffffff`
-- `#33312c`
-- `#706d66`
-- `#cccac6`
-- `#8f8b85`
-- `#4d4b46`
-
-## Typography captured from harvey.ai
-
-- **Harvey Sans Diatype** — weight 400 · size 16px
-- **Harvey Serif** — weight 400 · size 28px
+This guide covers the Harvey homepage and blog landing page as visible in the supplied images. Interior pages, mobile breakpoints, form interactions, loading states, and motion specifications are not included. The spacing and sizing values reflect the exact measurements from the desktop interface.

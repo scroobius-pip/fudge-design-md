@@ -2,169 +2,182 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/inngest.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Pricing - Inngest](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/share/pin-7556)
+[![Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://pin.fontofweb.com/7556?format=jpg)](https://design.withfudge.com/share/pin-7556)
 
-[Pricing - Inngest](https://design.withfudge.com/share/pin-7556)
+[Enterprise readiness section with geometric art border, featuring SOC, RBAC, and SLA feature cards on dark brown surface with gold CTA button.](https://design.withfudge.com/share/pin-7556)
 
-[![Pricing - Inngest](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/share/pin-7555)
+[![Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://pin.fontofweb.com/7555?format=jpg)](https://design.withfudge.com/share/pin-7555)
 
-[Pricing - Inngest](https://design.withfudge.com/share/pin-7555)
+[Pricing plan comparison table with Hobby, Pro, and Enterprise tiers showing feature rows and green checkmarks on dark background.](https://design.withfudge.com/share/pin-7555)
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/share/pin-7554)
+[![Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://pin.fontofweb.com/7554?format=jpg)](https://design.withfudge.com/share/pin-7554)
 
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7554)
+[Footer CTA section with diagonal line pattern, large display headline, gold and outlined buttons, and multi-column footer navigation.](https://design.withfudge.com/share/pin-7554)
 
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/share/pin-7553)
+[![Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://pin.fontofweb.com/7553?format=jpg)](https://design.withfudge.com/share/pin-7553)
 
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7553)
-
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7552?format=jpg)](https://design.withfudge.com/share/pin-7552)
-
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7552)
-
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7551?format=jpg)](https://design.withfudge.com/share/pin-7551)
-
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7551)
-
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7550?format=jpg)](https://design.withfudge.com/share/pin-7550)
-
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7550)
-
-[![AI and backend workflows, orchestrated at any scale](https://pin.fontofweb.com/7549?format=jpg)](https://design.withfudge.com/share/pin-7549)
-
-[AI and backend workflows, orchestrated at any scale](https://design.withfudge.com/share/pin-7549)
+[Customer testimonials carousel with SoundCloud, Otto, and GitBook cards featuring highlighted keyword tags on dark cards.](https://design.withfudge.com/share/pin-7553)
 
 ## Overview
 
-inngest.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#f6f6f6`, and `#0c0a09`, with typography led by **By Laurenz Brunner**, **Abc Whyte**, **By Laurenz Brunner 20132019**, and **Abc Whyte Inktrap**. The guide below names reusable design roles only where the captured evidence supports them.
-
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the main |
-| color.text | `#f6f6f6` | text on page content in the main |
-| color.surface | `#0c0a09` | surface on page content in the footer |
-| color.text | `#fafaf9` | text on page content in the main |
-| color.surface | `#1c1917` | surface on page content in the main |
-| color.border | `#ffffff` | border on page content in the footer |
-| color.text | `#d6d3d1` | text on page content in the main |
-| color.text | `#e7e5e4` | text on page content in the main |
-| color.text | `#9b9b9b` | text on page content in the main |
-| color.text | `#78716c` | text on page content in the footer |
-| color.border | `#a8a29e` | border on page content in the main |
-| color.text | `#f5f5f4` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **By Laurenz Brunner** | 16px | 400 | 24px | normal | <div> in the main, <div> in the footer, <li> in the footer, <p> in the main, and <div> in the nav |
-| type.body-14px | **By Laurenz Brunner 20132019** | 14px | 400 | 22.75px | normal | <span> in the main and <code> in the main |
-| type.display-48px | **Abc Whyte Inktrap** | 48px | 400 | 62.4px | normal | <h1> in the main |
-| type.display-48px | **By Laurenz Brunner** | 48px | 400 | 57.6px | -2.4px | <h2> in the main |
-| type.body-14px | **By Laurenz Brunner** | 14px | 400 | 20px | normal | <div> in the main, <a> in the main, <span> in the main, <div> in the nav, and <span> in the nav |
-| type.body-14px | **By Laurenz Brunner** | 14px | 500 | 20px | normal | <a> in the main, <div> in the main, <h2> in the main, <a> in the footer, <button> in the button, <a> in the nav, and <span> in the nav |
-| type.display-48px | **Abc Whyte** | 48px | 300 | 62.4px | normal | <h1> in the main |
-| type.display-72px | **Abc Whyte** | 72px | 400 | 72px | normal | <h1> in the main |
-| type.display-36px | **Abc Whyte** | 36px | 300 | 40px | normal | <h2> in the main and <h1> in the main |
-| type.body-24px | **Abc Whyte** | 24px | 300 | 32px | normal | <button> in the button |
-| type.body-18px | **By Laurenz Brunner** | 18px | 300 | 28px | normal | <p> in the main |
-| type.body-30px | **Abc Whyte** | 30px | 300 | 36px | -0.75px | <div> in the main |
-| type.body-16px | **By Laurenz Brunner** | 16px | 400 | 26.24px | -0.304px | <p> in the main |
-| type.body-14px | **By Laurenz Brunner** | 14px | 300 | 20px | normal | <p> in the main and <h2> in the main |
-| type.body-30px | **Abc Whyte** | 30px | 300 | 36px | normal | <h1> in the main |
-| type.display-60px | **Abc Whyte Inktrap** | 60px | 600 | 60px | -1.5px | <p> in the footer |
-| type.body-14px | **By Laurenz Brunner** | 14px | 400 | 22.75px | normal | <p> in the main and <span> in the main |
-| type.body-16px | **By Laurenz Brunner** | 16px | 500 | 24px | 0.8px | <h3> in the main |
-| type.body-24px | **By Laurenz Brunner** | 24px | 300 | 32px | normal | <p> in the main |
-| type.body-18px | **Abc Whyte Inktrap** | 18px | 400 | 28px | normal | <p> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 32px` | padding | page content |
-| `80px 0px 128px` | padding | page content |
-| `128px 0px 0px` | padding | page content |
-| `80px 0px` | margin | page content |
-| `0px 512.5px` | margin | page content |
-| `160px 0px` | padding | page content |
-| `0px 52.5px` | margin | page content |
-| `0px 272.5px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 12px`, `0px none 6px`, `1px 0px 0px solid 0px`, `1px 0px 0px solid 0px`, `1px solid 0px`, `0px none 4px`, `1px solid 0px`, and `0px none 9999px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px`, `rgb(255, 255, 255) 0px 0px 0px 0px, rgba(59, 130, 246, 0.5) 0px 0px 0px 1px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(255,255,255)`, and `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(209,213,219)`.
+Inngest presents a developer platform with a dark, warm aesthetic that avoids cold blue-gray conventions. The interface rests on a near-black canvas with subtle brown undertones, creating an atmosphere that feels technical yet approachable. Large inktrap display type dominates hero and section headlines, while a clean geometric sans handles body text and UI labels. The visual system balances density and openness: marketing pages use generous vertical breathing room, while product surfaces like pricing tables pack information into tight, scannable grids. Geometric accent art—triangles, arcs, and diagonal lines—appears at section boundaries, adding personality without competing with content. A restrained accent palette of muted gold, forest green, and soft salmon appears sparingly for CTAs, status indicators, and keyword highlights.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#0c0a09`, and `#1c1917`. Text colors include `#f6f6f6`, `#fafaf9`, and `#d6d3d1`. Keep image-derived colors separate from interface colors.
+The color system is built around warmth and restraint. Dark surfaces carry brown rather than blue undertones, preventing the clinical feel of pure grayscale dark modes.
+
+| token | hex | use |
+|---|---|---|
+| canvas | #0C0A09 | Page background, deepest layer |
+| surface | #1C1917 | Cards, panels, elevated containers |
+| surface-elevated | #242424 | Hover states, active rows, code blocks |
+| ink | #FAFAF9 | Primary text, headlines, icons |
+| ink-muted | #A8A29E | Secondary descriptions, labels, captions |
+| ink-dim | #78716C | Tertiary text, disabled states, metadata |
+| accent-gold | #D8A657 | Primary CTAs, keyword highlights, enterprise badges |
+| accent-green | #2C9B63 | Success states, checkmarks, positive indicators |
+| accent-salmon | #EA6962 | Errors, warnings, destructive actions |
+| border-subtle | #44403C | Card borders, dividers, inactive states |
+| border-hairline | #57534E | Table row separators, fine rules |
+
+The dark mode is not merely inverted but intentionally warm. Text hierarchy moves from near-white ink through muted warm gray to dim brown-gray. Accent colors appear at low saturation: the gold reads as mustard rather than yellow, the green as forest rather than neon. This palette supports long reading sessions without eye strain while maintaining sufficient contrast for accessibility.
 
 ## Typography
 
-The captured type system uses **By Laurenz Brunner**, **By Laurenz Brunner 20132019**, **Abc Whyte Inktrap**, and **Abc Whyte**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system combines display and body families from two foundries. ABC Whyte Inktrap and ABC Whyte, designed by Johannes Breyer, Fabian Harb, and Erkin Karamemet for Dinamo, serve display and section headlines. By Laurenz Brunner handles body text, labels, and UI elements at weights including Regular (By Laurenz Brunner-9206590962487874998), Light (By Laurenz Brunner-2473265567715032644), Book (By Laurenz Brunner-1819525584441985430), Medium (By Laurenz Brunner-10405797975480712807), and Semibold. By Laurenz Brunner 20132019 and its specific variant By Laurenz Brunner 20132019-5094406491328746366 provide monospaced code rendering. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | ABC Whyte Inktrap | 3.75rem | 400 | 1.3 | normal | Hero headlines, footer CTA |
+| section-display | ABC Whyte | 3rem | 300 | 1.11 | normal | Section titles, pricing headers |
+| body | By Laurenz Brunner | 1rem | 400 | 1.5 | normal | Paragraphs, descriptions, UI text |
+| body-light | By Laurenz Brunner | 1.125rem | 300 | 1.56 | normal | Lead paragraphs, feature descriptions |
+| label | By Laurenz Brunner | 0.875rem | 500 | 1.43 | normal | Buttons, tags, table headers, navigation |
+| code | By Laurenz Brunner 20132019 | 0.875rem | 400 | 1.625 | normal | Inline code, technical values |
+
+Display sizes use tight leading to create solid blocks of color, while body text maintains generous line height for readability. The inktrap variant's flared terminals add character at large sizes without compromising legibility.
 
 ## Layout
 
-The captured pages use values such as `0px 32px`, `80px 0px 128px`, `128px 0px 0px`, `80px 0px`, and `0px 512.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout system uses a centered content column with generous horizontal padding and substantial vertical section spacing. Content max-widths vary by context: marketing narratives use narrower measures for readability, while tables and feature grids expand to wider bounds.
+
+The base spacing unit is 0.125rem (2px). Key layout values:
+
+- Section vertical padding: 6rem to 12rem, with hero sections reaching 12rem and standard sections at 6rem to 8rem
+- Content horizontal padding: 2rem on each side, creating comfortable margins without excessive whitespace
+- Content max-width: narrow 52.5rem for focused reading, standard 80rem for general content, wide 108rem for full-bleed tables and grids
+- Component internal padding: 1.5rem to 2.5rem depending on density needs
+- Grid gap: 1.5rem between cards and panels
+
+Sections stack vertically with no visible separators except geometric art transitions. Cards and panels use consistent internal padding, creating a modular rhythm. The pricing table compresses vertical space with tight row heights and minimal cell padding, while marketing sections expand with large headline margins and generous paragraph spacing. Horizontal centering relies on auto margins with explicit max-width constraints rather than full-bleed containers.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#0c0a09`, `#1c1917`, and `#cbb26a`. Depth is supported by the returned shadows.
+Geometric accent art is a distinctive element. Simple shapes—triangles, semicircles, arcs, diagonal hash lines—appear as section borders or background textures. These use the accent palette at full saturation: emerald green, burnt orange, mustard gold, and muted purple. The shapes are flat, unshaded, and arranged in grid-like patterns that suggest technical precision without literal diagramming.
 
-## Components and states
+Photography and illustration are absent; the visual story is told through type, geometry, and surface. Customer logos appear in white or light gray on dark cards. Keyword highlights within testimonials use small gold-background pills behind single words, creating a scanning pattern that draws attention to technical terms.
 
-The captured pages include repeated styling on <div>, <p>, <h2>, <a>, <span>, <li>, <button>, and <h3> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Shadows are minimal and functional: a subtle 1px-2px elevation shadow for dropdowns and focused elements, never for decorative depth. Borders are hairline-thin, often single pixels, serving as structural dividers rather than decorative frames.
+
+## Components
+
+### Primary action button
+- Anatomy: Text label with optional icon, no visible border
+- Surface: Accent gold background with dark canvas text
+- Typography: Label token, medium weight
+- Shape: Full pill, 9999px radius
+- Spacing: 0.5rem vertical, 1rem horizontal padding
+- Composition: Inline with adjacent elements, or centered in CTA groups
+
+### Secondary action button
+- Anatomy: Text label with 1px border
+- Surface: Transparent background, subtle border
+- Typography: Label token, medium weight
+- Shape: Full pill, 9999px radius
+- Spacing: 0.5rem vertical, 1rem horizontal padding
+- Variants: Border color shifts to hairline gray for default, accent gold for hover
+
+### Feature card
+- Anatomy: Container with optional icon, headline, description, and link
+- Surface: Elevated dark surface, 1px subtle border
+- Typography: Section display for headlines, body for descriptions, label for links
+- Shape: 0.75rem corner radius
+- Spacing: 2rem to 2.5rem internal padding
+- Composition: Grid of 3-5 cards with equal gaps
+
+### Pricing table
+- Anatomy: Column headers with tier names, row labels with feature descriptions, cell values with limits and pricing
+- Surface: Canvas background, no card elevation
+- Typography: Label for headers and row labels, body for values
+- Shape: No radius, full-width rows
+- Spacing: Tight vertical padding, generous horizontal gutters
+- Composition: Sticky header with scrollable body on narrow viewports
+- Variants: Tier names use accent colors—green for Enterprise, salmon for Pro, muted for Hobby
+
+### Customer testimonial card
+- Anatomy: Logo, quote text with highlighted keywords, attribution, and link
+- Surface: Dark surface with subtle border
+- Typography: Body for quotes, label for attribution
+- Shape: 0.75rem corner radius
+- Spacing: 2rem internal padding
+- Composition: Horizontal carousel with peeking adjacent cards
+- Variants: Keyword highlights use gold background pills behind inline text
+
+### Footer CTA section
+- Anatomy: Overline label, large display headline, button pair, geometric background
+- Surface: Canvas with diagonal line pattern overlay
+- Typography: Hero display for headline, label for buttons
+- Shape: Full-width section, no border radius
+- Composition: Centered text with horizontal button row, multi-column footer links below
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design is documented at desktop widths. At narrower viewports, the following adaptations should occur:
+
+- Hero display scales down to section-display size
+- Multi-column feature grids collapse to single column
+- Pricing tables gain horizontal scroll with sticky first column
+- Testimonial carousel shows single card with swipe navigation
+- Footer link columns stack vertically
+
+Breakpoints are not specified; implement standard ranges (768px, 1024px, 1280px) with fluid scaling between.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- The warm dark palette with brown undertones; avoid pure black and cold grays
+- Inktrap display type for headlines at 48px and above
+- Geometric accent art as section transitions, not decorative backgrounds
+- Gold accent for primary actions only, maintaining scarcity
+- Full-pill buttons for all CTAs
+
+### Avoid
+- Blue-tinted dark mode grays that clash with the warm palette
+- Drop shadows for card elevation; rely on border and surface color
+- Rounded corners larger than 12px except for pills
+- Multiple accent colors in a single component
+- Body text lighter than 16px for primary content
+
+### Recommended build order
+1. Establish canvas and surface color tokens with warm dark values
+2. Implement typography scale with ABC Whyte Inktrap for display, By Laurenz Brunner for body
+3. Build button components with pill shape and gold/transparent variants
+4. Create feature card with consistent padding and border treatment
+5. Implement pricing table with tight row spacing and tier color coding
+6. Add geometric art elements as SVG or CSS patterns at section boundaries
+7. Polish with keyword highlight pills and testimonial carousel
+
+### Accessibility
+- Maintain 4.5:1 contrast for body text against all surfaces
+- Use 3:1 minimum for large display text and UI components
+- Ensure keyword highlight pills have sufficient contrast for the gold background
+- Provide focus indicators that match the accent gold color
+- Support reduced motion for geometric art animations if implemented
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#f6f6f6`
-- `#0c0a09`
-- `#fafaf9`
-- `#1c1917`
-- `#ffffff`
-- `#d6d3d1`
-- `#e7e5e4`
-- `#9b9b9b`
-- `#78716c`
-- `#a8a29e`
-- `#f5f5f4`
-- `#d1d5db`
-- `#9ca3af`
-- `#e5e7eb`
-- `#a89984`
-
-## Typography captured from inngest.com
-
-- **By Laurenz Brunner** — weight 400 · size 16px
-- **Abc Whyte** — weight 300 · size 36px
-- **By Laurenz Brunner 20132019** — weight 400 · size 14px
-- **Abc Whyte Inktrap** — weight 500 · size 36px
+This guide covers the marketing site homepage and pricing page as visible in desktop views. Mobile layouts, component hover and focus states, loading skeletons, form validation, and the authenticated product dashboard are not included. The documentation site and blog may extend this system with additional components. Measurements are exact where retained and practical adaptation targets where inferred from visual inspection.

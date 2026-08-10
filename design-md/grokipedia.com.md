@@ -2,160 +2,211 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/grokipedia.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Search — Grokipedia](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/share/pin-9678)
+[![Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://pin.fontofweb.com/9678?format=jpg)](https://design.withfudge.com/share/pin-9678)
 
-[Search — Grokipedia](https://design.withfudge.com/share/pin-9678)
+[Search results page with dark theme, rounded search bar, and article list with muted descriptions](https://design.withfudge.com/share/pin-9678)
 
-[![Grokipedia](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/share/pin-9677)
+[![Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://pin.fontofweb.com/9677?format=jpg)](https://design.withfudge.com/share/pin-9677)
 
-[Grokipedia](https://design.withfudge.com/share/pin-9677)
+[Homepage with centered Grokipedia logo, search input, trending topics, and recent history panel](https://design.withfudge.com/share/pin-9677)
 
-[![Robert Kowalski — Grokipedia](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/share/pin-9649)
+[![Article body showing inline code tokens with orange background and citation links in muted blue](https://pin.fontofweb.com/9649?format=jpg)](https://design.withfudge.com/share/pin-9649)
 
-[Robert Kowalski — Grokipedia](https://design.withfudge.com/share/pin-9649)
+[Article body showing inline code tokens with orange background and citation links in muted blue](https://design.withfudge.com/share/pin-9649)
 
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/share/pin-9343)
+[![Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://pin.fontofweb.com/9343?format=jpg)](https://design.withfudge.com/share/pin-9343)
 
-[Homoiconicity — Grokipedia](https://design.withfudge.com/share/pin-9343)
-
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9342?format=jpg)](https://design.withfudge.com/share/pin-9342)
-
-[Homoiconicity — Grokipedia](https://design.withfudge.com/share/pin-9342)
-
-[![Homoiconicity — Grokipedia](https://pin.fontofweb.com/9341?format=jpg)](https://design.withfudge.com/share/pin-9341)
-
-[Homoiconicity — Grokipedia](https://design.withfudge.com/share/pin-9341)
-
-[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8828?format=jpg)](https://design.withfudge.com/share/pin-8828)
-
-[Quine (computing) — Grokipedia](https://design.withfudge.com/share/pin-8828)
-
-[![Quine (computing) — Grokipedia](https://pin.fontofweb.com/8827?format=jpg)](https://design.withfudge.com/share/pin-8827)
-
-[Quine (computing) — Grokipedia](https://design.withfudge.com/share/pin-8827)
+[Full article layout with left sidebar navigation, Georgia serif headings, and structured content sections](https://design.withfudge.com/share/pin-9343)
 
 ## Overview
 
-grokipedia.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#fcfcfc`, `#141414`, and `#000000`, with typography led by **System**, **Georgia**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Grokipedia presents a dark-mode encyclopedia experience built around readability and information density. The interface uses a near-black canvas with warm off-white text, creating a high-contrast environment that reduces eye strain during extended reading sessions. The visual system pairs a clean system sans-serif for body text and navigation with Georgia serif for display headings, establishing a clear typographic hierarchy that echoes traditional reference works while maintaining contemporary digital polish.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#fcfcfc` | text on page content |
-| color.surface | `#141414` | surface on page content |
-| color.text | `#000000` | text on page content |
-| color.surface | `#1f1f1f` | surface on page content in the main |
-| color.text | `#858585` | text on page content in the main |
-| color.text | `#bfdbfe` | text on page content in the main |
-| color.surface | `#242424` | surface on page content |
-| color.text | `#9e9e9e` | text on page content in the button |
-| color.shadow | `#ffffff` | shadow on page content in the main |
-| color.shadow | `#3b82f6` | shadow on page content in the main |
-| color.surface | `#ff6e14` | surface on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <body>, <header> in the header, <html>, <div> in the header, <svg> in the header, <a> in the header, <main> in the main, <div> in the main, <form> in the main, <a> in the main, <button> in the button, <div>, <svg> in the main, <nav> in the nav, and <aside> in the aside |
-| type.body-16px | **System** | 16px | 400 | 24px | 0.16px | <div> in the main, <article> in the main, <button> in the button, and <ol> in the main |
-| type.body-16px | **System** | 16px | 400 | 29.6px | 0.16px | <span> in the main and <a> in the main |
-| type.body-14px | **System** | 14px | 400 | 22.75px | 0.16px | <li> in the main |
-| type.body-16px | **System** | 16px | 400 | 26px | 0.16px | <a> in the main and <div> in the main |
-| type.body-14px | **System** | 14px | 400 | 20px | normal | <input> in the main, <p> in the main, <span> in the main, <button> in the button, <li> in the nav, <ul> in the nav, <a> in the nav, <a> in the header, and <svg> in the button |
-| type.body-14px | **System** | 14px | 400 | 22.75px | normal | <p> in the main |
-| type.body-22.8571px | **Georgia** | 22.8571px | 500 | 34.2857px | 0.16px | <h3> in the main, <button> in the button, <span> in the main, and <svg> in the button |
-| type.display-34px | **Georgia** | 34px | 600 | 51px | -1px | <h1> in the main |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.body-27.4286px | **Georgia** | 27.4286px | 500 | 41.1429px | 0.16px | <h2> in the main |
-| type.body-14px | **System** | 14px | 500 | 20px | normal | <span> in the main and <button> in the button |
-| type.heading-27.4286px | **Georgia** | 27.4286px | 600 | 41.1429px | 0.16px | <h2> in the main |
-| type.utility-12px | **System** | 12px | 400 | 16px | normal | <span> in the main |
-| type.body-14px | **System** | 14px | 400 | 20px | 0.16px | <code> in the main |
-| type.utility-12px | **System** | 12px | 400 | 16px | 0.16px | <a> in the main |
-| type.utility-12px | **System** | 12px | 500 | 16px | normal | <span> in the main |
-| type.heading-16px | **System** | 16px | 700 | 29.6px | 0.16px | <strong> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `24px` | padding-left | page content |
-| `24px` | padding-right | page content |
-| `32px` | padding-top | page content |
-| `128px` | padding-bottom | page content |
-| `0px 24px` | padding | page content |
-| `32px 32px 128px` | padding | page content |
-| `32px` | padding-right | page content |
-| `32px` | padding-left | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 8px`, `0px 1px 1px solid 0px 0px 12px 12px`, `0px none 6px`, `0px 0px 1px solid 0px`, `1px solid 9999px`, `1px solid 12px`, `0px none 9999px`, and `0px none 4px` border treatments. Recorded shadows include `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px`, `rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px rgb(252,252,252)`, and `rgb(255, 255, 255) 0px 0px 0px 0px, rgba(59, 130, 246, 0.5) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px`.
+The design organizes content into three primary surfaces: a persistent top header with global search, a collapsible left sidebar for article navigation on desktop, and a spacious main content area. Search functionality sits at the center of the experience, with a prominent rounded input that expands into a full results panel. Article pages unfold with generous vertical rhythm, using serif headings to mark section boundaries and inline code tokens to highlight technical terms. The overall impression is of a focused, distraction-free reading environment where typography and spacing do the heavy lifting of guiding attention.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#141414`, `#1f1f1f`, and `#242424`. Text colors include `#fcfcfc`, `#000000`, and `#858585`. Keep image-derived colors separate from interface colors.
+The palette is intentionally restrained, operating almost entirely in grayscale with two functional accents.
+
+| token | value | use |
+|---|---|---|
+| canvas | #141414 | Page background, deepest surface |
+| surface | #1F1F1F | Search input background, card interiors, elevated panels |
+| surface-elevated | #242424 | Hover states, active search results, dropdown menus |
+| ink | #FCFCFC | Primary text, headings, borders, icons |
+| muted-ink | #9E9E9E | Secondary descriptions, placeholder text, disabled elements |
+| dim-ink | #858585 | Tertiary metadata, citation numbers, subtle dividers |
+| accent-blue | #3B82F6 | Active search focus ring, interactive highlights |
+| accent-blue-muted | #BFDBFE | Link text in article bodies, visited state hints |
+| accent-orange | #FF6E14 | Inline code token backgrounds, syntax highlighting |
+| border | #FCFCFC | Hairline borders on inputs, buttons, dividers |
+
+The dark canvas dominates every page, with surface layers stepping up in lightness for interactive elements. The near-white ink provides maximum contrast for reading comfort. Blue serves as the primary interactive accent, appearing in focus states and link text. Orange is reserved for code tokens, creating a warm highlight that distinguishes technical terms from prose without breaking the dark-mode cohesion. No light mode is present in the interface; the system commits fully to its dark identity.
 
 ## Typography
 
-The captured type system uses **System**, **Georgia**, and **Applesystem**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+Grokipedia uses Georgia for display headings and a system sans-serif stack for body text and UI elements. The design facts identify three system-related family labels: Applesystem, System-Systemui, and System-Uimonospace. In practice, the rendered interface applies System-Systemui as the primary sans-serif for body, navigation, and headings, while System-Uimonospace serves code contexts. Applesystem appears in the sources at 14px but is not visibly distinguished from the broader system stack in the captured interface. Georgia carries no listed designer or vendor attribution. IBM Plex Mono and Universal Sans-400 also appear in the font sources but are not visibly applied in the rendered interface.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Georgia | 2.125rem | 600 | 1.5 | -0.0625em | Article titles, page H1 |
+| section-display | Georgia | 1.714rem | 500 | 1.5 | 0.01em | Section H2 headings |
+| subsection-display | Georgia | 1.429rem | 500 | 1.5 | 0.01em | Subsection H3 headings |
+| body | System | 1rem | 400 | 1.5 | normal | Navigation, UI labels, forms |
+| body-reading | System | 1rem | 400 | 1.85 | 0.01em | Article paragraphs, long-form content |
+| label | System | 0.875rem | 400 | 1.429 | normal | Descriptions, metadata, captions |
+| label-medium | System | 0.875rem | 500 | 1.429 | normal | Emphasized labels, button text |
+| caption | System | 0.75rem | 400 | 1.333 | normal | Small timestamps, badges |
+| code | System | 0.875rem | 400 | 1.429 | 0.01em | Inline code tokens, monospace contexts |
+
+Georgia's weight 600 for H1 and weight 500 for H2 and H3 create a stepped hierarchy without size alone carrying all the burden. The negative letter spacing on hero-display tightens the article title for impact, while body-reading's expanded line height and slight positive tracking optimize paragraph readability. The system stack renders at 16px base with 14px for labels and 12px for captions, maintaining clear differentiation without excessive scale jumps.
+
+Verify licensing for these families before production use.
 
 ## Layout
 
-The captured pages use values such as `24px`, `24px`, `32px`, `128px`, and `0px 24px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page structure follows a classic reference-site pattern with modern proportions. The header spans the full viewport width with internal horizontal padding of 1.5rem and a centered content constraint. On article pages, the main content area uses a two-column asymmetrical layout: a narrow left sidebar for section navigation and a wider right column for the article body.
+
+The header contains the Grokipedia wordmark left-aligned, a global search input centered or right-of-center, and utility actions (settings, suggest article, user avatar) at the far right. Header elements sit within a flex container with 1rem gaps between items.
+
+Article pages position the sidebar navigation with 2rem top padding and 8rem bottom padding, creating generous vertical breathing room. The main content area carries 2rem top padding and 8rem bottom padding as well, with 2rem horizontal padding on the outer container and 1.5rem internal padding for text blocks. This creates a comfortable measure for reading while keeping the layout anchored.
+
+The search page uses a centered narrow column approximately 36rem wide, with the search input prominently placed and results stacking below with 1rem vertical spacing between entries. The homepage centers its content vertically with approximately 15rem of top padding, pushing the search interface into the optical center of the viewport.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#141414`, `#1f1f1f`, `#242424`, and `#ff6e14`. Depth is supported by the returned shadows.
+The interface communicates through restraint and precision. Rounded corners appear consistently: 9999px for pills and circular buttons, 1.5rem for the search input, 0.75rem for panels and cards, and 0.5rem for smaller surface elements. This creates a family of related shapes without uniform sameness.
 
-## Components and states
+Shadows are minimal and functional. The search input carries a subtle focus ring using accent-blue at partial opacity. Article content uses no shadows, relying on spacing and typography to create hierarchy. One visible shadow pattern appears on elevated elements: a soft diffuse shadow with 10px vertical offset and 15px blur, paired with a tighter 4px/6px secondary layer for depth.
 
-The captured pages include repeated styling on <div>, <body>, <header>, <html>, <svg>, <a>, <main>, and <form> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Inline code tokens use a distinctive visual treatment: accent-orange background at full opacity behind dark text, with 0.25rem border radius and 0.5rem horizontal padding. These tokens sit within the reading flow without disrupting line height, creating a highlight effect that draws the eye to technical terms.
+
+Borders are hairline-thin at 1px, using ink color at full or partial opacity. Horizontal rules below H2 headings use this treatment to separate sections cleanly. The search input border transitions from transparent to ink on focus, providing state feedback without color overload.
+
+## Components
+
+### Global header
+
+- **Anatomy**: Wordmark lockup ("Grokipedia" in Georgia with "v0.2" version label), search input, settings icon, "Suggest Article" text button, user avatar circle
+- **Surface**: Transparent background over canvas, ink text and icons
+- **Typography**: Wordmark uses Georgia at body size with version label in muted-ink; navigation actions use label-medium
+- **Shape**: Full-width bar, height determined by content plus 1.5rem horizontal padding
+- **Spacing**: 1rem gap between utility actions, 0.5rem gap within wordmark lockup
+- **Composition**: Flex row, space-between alignment, items vertically centered
+
+### Search input
+
+- **Anatomy**: Magnifying glass icon, placeholder text, submit button with up-arrow icon
+- **Surface**: surface background, 1px ink border, transitioning to accent-blue focus ring
+- **Typography**: label size for placeholder and input text
+- **Shape**: 1.5rem border radius (pill-ends), full-width within its container
+- **Spacing**: 2.5rem left padding for icon, 3.5rem right padding for submit button, vertical padding 0
+- **States**: Default shows muted-ink placeholder; focused state adds accent-blue shadow ring
+
+### Search result item
+
+- **Anatomy**: Title link, description paragraph, right-pointing chevron
+- **Surface**: Transparent, full-width row
+- **Typography**: Title in body weight 500, description in label using muted-ink
+- **Spacing**: 1rem vertical margin between items, 0.5rem internal gap between title and description
+- **Composition**: Title and description stacked vertically, chevron right-aligned on the title row
+
+### Article sidebar navigation
+
+- **Anatomy**: Section list with nested structure, active state indicator
+- **Surface**: Transparent over canvas
+- **Typography**: label size, weight 400; nested items indented with 0.75rem left padding
+- **Spacing**: 2rem top padding, 8rem bottom padding, 0.5rem vertical gap between items
+- **Composition**: Stacked vertical list, left-aligned, width approximately 12rem
+
+### Article title (H1)
+
+- **Anatomy**: Heading text with optional action icons (audio, link, refresh) to the right
+- **Surface**: Transparent
+- **Typography**: hero-display token
+- **Spacing**: 1rem bottom margin, clearing into article body
+
+### Section heading (H2)
+
+- **Anatomy**: Heading text with optional anchor link icon
+- **Surface**: Transparent with 1px bottom border in ink
+- **Typography**: section-display token
+- **Spacing**: 1.25rem top margin, 0.5rem bottom padding, 0.5rem bottom margin
+- **Shape**: Full-width, border-radius 0
+
+### Subsection heading (H3)
+
+- **Anatomy**: Heading text only
+- **Surface**: Transparent
+- **Typography**: subsection-display token
+- **Spacing**: 1.25rem top margin, 0.5rem bottom margin
+
+### Inline code token
+
+- **Anatomy**: Monospace text span
+- **Surface**: accent-orange background, no border
+- **Typography**: code token
+- **Shape**: 0.25rem border radius
+- **Spacing**: 0.5rem horizontal padding, 0 vertical padding
+
+### Text button
+
+- **Anatomy**: Label text with optional icon
+- **Surface**: Transparent or surface background, optional 1px ink border
+- **Typography**: label-medium
+- **Shape**: 9999px for pill style, 0.5rem for rectangular
+- **Spacing**: 0.375rem vertical padding, 1rem horizontal padding for pill; 0.5rem 0.625rem for compact
+
+### Icon button
+
+- **Anatomy**: Icon only, circular container
+- **Surface**: Transparent or surface background on hover
+- **Shape**: 9999px circular
+- **Spacing**: 0.5rem padding
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The layout assumes a desktop viewport for its full expression. The two-column article layout with left sidebar should collapse to a single column on narrower viewports, with the sidebar either hiding behind a toggle or moving to a top-of-page dropdown. The search interface remains centered across widths, with its container padding reducing from 1.5rem to 1rem on smaller screens.
+
+Typography scales down modestly: the hero-display may drop to section-display size on viewports below 768px, and section-display to subsection-display. Body text maintains its 1rem base size for readability. The homepage vertical centering should reduce from 15rem to 8rem top padding to keep the search interface accessible without excessive scrolling.
+
+Touch targets for buttons and links should maintain a minimum 44px tap area, with icon buttons expanding their padding or hit region accordingly.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- The dark canvas as the default and only mode; do not introduce a light theme without full palette rederivation
+- Georgia serif for all display headings; the contrast between serif titles and sans-serif body is central to the visual identity
+- The inline code token styling with accent-orange background; this is a distinctive signature element
+- Generous vertical padding in article containers (8rem bottom) for scroll breathing room
+- The search input's prominent placement and rounded pill shape
+
+### Avoid
+- Adding background colors to article body text areas; the transparent-over-canvas treatment maintains reading focus
+- Using accent-orange for non-code purposes; reserve it for syntax and technical terms
+- Excessive border radius on large panels; keep cards at 0.75rem and below
+- Shadows on static content; use them sparingly and only for elevated interactive elements
+
+### Recommended build order
+1. Establish the dark canvas and surface color tokens with the system font stack at 16px base
+2. Implement the global header with wordmark, search input, and utility actions
+3. Build the search page layout with centered column and result item components
+4. Add Georgia serif headings with proper weight and size stepping
+5. Implement article page two-column layout with sidebar navigation
+6. Add inline code tokens with accent-orange background
+7. Polish focus states, hover transitions, and the accent-blue focus ring
+
+### Accessibility
+- Maintain the 4.5:1 minimum contrast ratio between ink (#FCFCFC) and canvas (#141414); the current pairing exceeds 15:1
+- Ensure focus indicators are visible against all surfaces; the accent-blue focus ring provides this
+- Add `aria-label` descriptions to icon-only buttons in the header
+- Consider adding a skip-to-content link for keyboard users navigating past the sidebar
+- The high contrast mode should preserve the ink/canvas relationship without relying on blue or orange accents for essential information
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#fcfcfc`
-- `#141414`
-- `#000000`
-- `#1f1f1f`
-- `#858585`
-- `#bfdbfe`
-- `#242424`
-- `#9e9e9e`
-- `#ffffff`
-- `#3b82f6`
-- `#ff6e14`
-
-## Typography captured from grokipedia.com
-
-- **System** — weight 400 · size 16px
-- **Georgia** — weight 600 · size 34px
-- **Applesystem** — weight 400 · size 14px
+This guide covers the article reading experience, search interface, and homepage as visible on desktop viewports. Mobile breakpoints, animation behavior, loading states, and error surfaces are not represented in the source material. The IBM Plex Mono and Universal Sans-400 families appear in sources but are not visibly applied in the captured interface; their intended roles are not covered here. Measurements are exact where retained and practical adaptation targets where inferred from visual proportion.

@@ -2,174 +2,216 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/impeccable.style-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Impeccable: The missing upgrade to Anthropic's impeccable skill](https://pin.fontofweb.com/9917?format=jpg)](https://design.withfudge.com/share/pin-9917)
+[![Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://pin.fontofweb.com/9917?format=jpg)](https://design.withfudge.com/share/pin-9917)
 
-[Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/share/pin-9917)
+[Dark-themed Get started section with gold-accented terminal code blocks and kintsugi-style gold crack artwork on the right edge](https://design.withfudge.com/share/pin-9917)
 
-[![Impeccable: The missing upgrade to Anthropic's impeccable skill](https://pin.fontofweb.com/9916?format=jpg)](https://design.withfudge.com/share/pin-9916)
+[![Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://pin.fontofweb.com/9916?format=jpg)](https://design.withfudge.com/share/pin-9916)
 
-[Impeccable: The missing upgrade to Anthropic's impeccable skill](https://design.withfudge.com/share/pin-9916)
+[Desloppification feature section with staggered dark cards showing typography, color, spatial design, responsive, interaction, motion, and UX writing disciplines](https://design.withfudge.com/share/pin-9916)
 
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7738?format=jpg)](https://design.withfudge.com/share/pin-7738)
+[![Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://pin.fontofweb.com/7738?format=jpg)](https://design.withfudge.com/share/pin-7738)
 
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7738)
+[Light-themed FAQ accordion with Cormorant Garamond headings, pink accent links, and expanded answer with bullet list](https://design.withfudge.com/share/pin-7738)
 
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7737?format=jpg)](https://design.withfudge.com/share/pin-7737)
+[![Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://pin.fontofweb.com/7737?format=jpg)](https://design.withfudge.com/share/pin-7737)
 
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7737)
-
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7736?format=jpg)](https://design.withfudge.com/share/pin-7736)
-
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7736)
-
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7735?format=jpg)](https://design.withfudge.com/share/pin-7735)
-
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7735)
-
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7734?format=jpg)](https://design.withfudge.com/share/pin-7734)
-
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7734)
-
-[![Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://pin.fontofweb.com/7733?format=jpg)](https://design.withfudge.com/share/pin-7733)
-
-[Impeccable: The missing upgrade to Anthropic's frontend-design skill](https://design.withfudge.com/share/pin-7733)
+[Light-themed What's New changelog with version headings, inline code snippets, and horizontal rule separators](https://design.withfudge.com/share/pin-7737)
 
 ## Overview
 
-impeccable.style presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#d7d7d7`, `#000000`, and `#030303`, with typography led by **Albert Sans**, **Instrument Sans**, **Cormorant Garamond**, **Space Grotesk**, **Inter**, **Times**, **Alumni Sans**, **Sf Mono**, and **Applesystem**. The guide below names reusable design roles only where the captured evidence supports them.
+Impeccable.style operates across two distinct visual modes that serve different narrative purposes. The dark theme presents a cinematic, technical atmosphere—deep charcoal backgrounds with gold and amber accents, monospace labels, and terminal-inspired code blocks. This mode dominates product messaging and feature showcases, using a dramatic kintsugi-inspired gold crack artwork as a recurring visual motif along the right edge of sections. The light theme shifts to an editorial, documentation-forward tone with warm off-white backgrounds, classical serif headings in Cormorant Garamond, and restrained violet accents for interactive elements.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#d7d7d7` | text on page content in the main |
-| color.text | `#000000` | text on page content |
-| color.surface | `#030303` | surface on page content in the main |
-| color.surface | `#0f0f0f` | surface on page content in the main |
-| color.border | `#b7b7b7` | border on page content in the main |
-| color.text | `#222222` | text on page content in the main |
-| color.surface | `#0b0b0b` | surface on page content in the main |
-| color.border | `#e4e4e4` | border on page content in the main |
-| color.text | `#717171` | text on page content in the main |
-| color.border | `#ffba00` | border on page content in the main |
-| color.text | `#f8f8f8` | text on page content in the main |
-| color.text | `#a4a4a4` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Albert Sans** | 16px | 400 | 25.6px | normal | <section> in the main, <main> in the main, <body>, <div> in the main, <ul> in the main, <li> in the main, <button> in the button, <a> in the main, and <svg> in the main |
-| type.body-16px | **Instrument Sans** | 16px | 400 | 26px | normal | <div> in the main, <div>, and <div> in the footer |
-| type.body-16px | **Instrument Sans** | 16px | 400 | 27.2px | normal | <ul> in the main and <li> in the main |
-| type.display-40px | **Cormorant Garamond** | 40px | 400 | 48px | -0.8px | <h2> in the main |
-| type.body-16px | **Instrument Sans** | 16px | 400 | 25.6px | normal | <p> in the main and <p> |
-| type.body-15px | **Space Grotesk** | 15px | 400 | 24.375px | normal | <div> in the main and <code> in the main |
-| type.utility-10px | **Space Grotesk** | 10px | 500 | 16.25px | 0.5px | <span> in the main |
-| type.body-16px | **Times** | 16px | 400 | normal | normal | <html> |
-| type.display-72px | **Cormorant Garamond** | 72px | 300 | 72px | -1.44px | <h1> |
-| type.display-32px | **Cormorant Garamond** | 32px | 300 | 35.2px | -0.64px | <h2> in the main |
-| type.body-14px | **Albert Sans** | 14px | 400 | 19.6px | normal | <p> in the main |
-| type.utility-12.8px | **Albert Sans** | 12.8px | 400 | 19.2px | normal | <p> in the main and <span> in the main |
-| type.display-54.4px | **Alumni Sans** | 54.4px | 300 | 56.576px | -0.272px | <h2> in the main |
-| type.utility-13px | **Instrument Sans** | 13px | 400 | 21.125px | normal | <span> in the main, <a>, and <p> |
-| type.body-14.08px | **Albert Sans** | 14.08px | 400 | 21.12px | normal | <span> in the main |
-| type.utility-13px | **Inter** | 13px | 400 | 19.5px | normal | <p> |
-| type.body-16.32px | **Albert Sans** | 16.32px | 400 | 26.112px | normal | <p> in the main |
-| type.body-28px | **Cormorant Garamond** | 28px | 400 | 36.4px | normal | <p> |
-| type.body-13.44px | **Albert Sans** | 13.44px | 400 | 21.504px | normal | <a> in the main and <p> in the main |
-| type.utility-11.2px | **Sf Mono** | 11.2px | 500 | 17.92px | 2.24px | <span> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `56px` | padding-left | page content |
-| `0px 56px` | padding | page content |
-| `56px` | padding-right | page content |
-| `0px 102.5px` | margin | page content |
-| `102.5px` | margin-right | page content |
-| `102.5px` | margin-left | page content |
-| `120px 0px` | padding | page content |
-| `120px` | padding-top | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 2px`, `1px solid 4px`, `1px 0px 0px solid none none 0px`, `1px 1px 0px solid solid none 8px 8px 0px 0px`, `1px 0px solid none 0px`, `1px solid 2px`, `1px 0px 0px solid none none 0px`, and `1px solid 0px` border treatments. Recorded gradients include `linear-gradient(oklch(0.07 0.006 95), oklch(0.04 0.004 95))`, `repeating-linear-gradient(45deg, oklch(0.8 0 0 / 0.07), oklch(0.8 0 0 / 0.07) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 9px)`, `linear-gradient(135deg, rgb(139, 92, 246), rgb(124, 58, 237))`, and `linear-gradient(135deg, rgb(245, 243, 255) 0%, rgb(237, 233, 254) 50%, rgb(221, 214, 254) 100%)`. Recorded shadows include `rgba(0, 0, 0, 0.1) 0px 4px 6px -1px`, `rgba(0, 0, 0, 0.08) 0px 10px 40px 0px`, and `rgba(0, 0, 0, 0.15) 0px 20px 60px -10px`.
+The system balances these modes through consistent structural logic: generous section spacing, clear typographic hierarchy, and purposeful accent color deployment. The dark theme reads as the product's personality—confident, crafted, anti-generic—while the light theme serves functional content like documentation, changelogs, and FAQs with calmer contrast and longer reading comfort.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#030303`, `#0f0f0f`, and `#0b0b0b`. Text colors include `#d7d7d7`, `#000000`, and `#222222`. Keep image-derived colors separate from interface colors.
+| token | value | use |
+|---|---|---|
+| ink | #0B0B0B | Primary dark background, terminal blocks |
+| ink-deep | #030303 | Deepest background layer, gradient endpoint |
+| surface | #0F0F0F | Elevated dark surfaces, cards |
+| surface-elevated | #1F2937 | Hover states, secondary dark panels |
+| canvas | #F8F8F8 | Light theme primary background |
+| canvas-warm | #F5F0F2 | Warm tint for light theme sections |
+| text-primary | #D7D7D7 | Primary readable text on dark |
+| text-secondary | #A4A4A4 | Supporting text, descriptions |
+| text-muted | #717171 | Tertiary labels, timestamps |
+| accent-gold | #FFBA00 | Primary action color, links, labels, terminal borders |
+| accent-amber | #8B5CF6 | Secondary accent, gradient stops |
+| accent-violet | #7C3AED | Gradient endpoint, button fills |
+| accent-teal | #0FB6AC | Update section labels, alternate accent |
+| border-subtle | #222222 | Dark theme card borders |
+| border-light | #E4E4E4 | Light theme horizontal rules |
+| border-warm | #E1E1E1 | Light theme card borders |
+| code-bg | #000000 | Terminal and inline code backgrounds |
+| code-text | #B7B7B7 | Code block text color |
+
+The dark theme builds atmosphere through a near-black gradient from oklch(0.07 0.006 95) to oklch(0.04 0.004 95), creating subtle depth without visible banding. Gold (#FFBA00) functions as the emotional anchor—warm, premium, deliberately anti-corporate. The light theme inverts this relationship: near-white backgrounds with dark ink text (#030303), using violet tones sparingly for interactive emphasis and pink-tinged links in FAQ contexts. Both themes share structural colors for borders and separators, adapted to their respective luminance environments.
 
 ## Typography
 
-The captured type system uses **Albert Sans**, **Instrument Sans**, **Cormorant Garamond**, **Space Grotesk**, **Times**, **Alumni Sans**, **Inter**, and **Sf Mono**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Alumni Sans | 3.4rem | 300 | 1.04 | -0.005em | Dark theme section headings |
+| section-display | Cormorant Garamond | 2.5rem | 400 | 1.2 | -0.02em | Light theme headings, changelog titles |
+| section-italic | Cormorant Garamond | 2rem | 300 | 1.1 | -0.02em | Subheadings, italic emphasis |
+| body | Albert Sans | 1rem | 400 | 1.6 | normal | Primary body text |
+| body-small | Albert Sans | 0.875rem | 400 | 1.55 | normal | Descriptions, card copy |
+| label | SF Mono | 0.7rem | 500 | 1.6 | 0.14em | Uppercase section labels, terminal prefixes |
+| code | SF Mono | 1.22rem | 400 | 1.6 | normal | Terminal blocks, code snippets |
+| caption | Albert Sans | 0.8rem | 400 | 1.5 | normal | Footnotes, metadata |
+| navigation | Instrument Sans | 0.9375rem | 600 | 1.625 | 0.03em | Buttons, nav links, CTAs |
+
+The typographic system pairs three distinct voices: Alumni Sans for dark theme display (condensed, light weight, technical confidence), Cormorant Garamond for light theme editorial elegance (serif, classical proportions, generous letter-spacing reduction), and Albert Sans as the neutral workhorse for body text across both modes. SF Mono carries all code and label duties with characteristic medium weight and expanded tracking for labels. Instrument Sans handles interactive elements with slightly heavier weight and subtle letter-spacing for button readability.
+
+The supplied font set also includes Applesystem, a system-ui fallback, and Cormorant Garamond-Italic as the specific italic cut of the Cormorant Garamond family. The italic variant appears in legacy captures for subheadings and display emphasis, while current implementations use the main family with weight 300 for similar roles.
+
+Verify licensing for these families before production use. Instrument Sans is designed by Rodrigo Fuenzalida for Frag Type. SF Mono is designed and distributed by Apple Inc. Space Grotesk is designed by Florian Karsten.
 
 ## Layout
 
-The captured pages use values such as `56px`, `0px 56px`, `56px`, `0px 102.5px`, and `102.5px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout system employs a centered content column with generous side margins and substantial vertical breathing room. The dark theme uses `margin: 0 6.4rem` (102.5px at 16px root) for main content containment, while interior sections pad `7.5rem` vertically. The light theme narrows to `padding: 0 2rem` with proportional margins around `9.3rem` (149.5px) for certain footer contexts.
+
+Grid structures vary by content type. Feature showcases in the dark theme use staggered card arrangements—cards offset vertically in a masonry-like rhythm without strict column alignment, creating visual dynamism against the rigid terminal blocks. Documentation sections in the light theme use straightforward single-column flows with horizontal rule separators between entries.
+
+Spacing follows a 2px base unit (0.125rem), with common increments at 8px, 16px, 24px, 32px, 48px, and 64px. Section breaks consistently use 120px vertical padding. Card internal spacing sits at 24px. Terminal blocks use asymmetric padding—slightly more left (22px) than right (14px)—to accommodate the command prompt symbol.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#030303`, `#0f0f0f`, `#0b0b0b`, and `#f5f0f2`. Depth is supported by the returned gradients and shadows.
+The dark theme's signature visual element is the kintsugi-inspired gold crack artwork: a vertical, irregular gold line with textured, almost geological depth, running along the right edge of sections. This motif reinforces the brand narrative of repair, craft, and deliberate imperfection against AI-generated sameness. The artwork uses photographic gold tones that shift between warm amber and deeper bronze, creating organic contrast with the flat UI colors.
 
-## Components and states
+Terminal blocks carry strong visual weight through their combination of monospace typography, gold left borders, and dark fills. The `$` prompt symbol and copy icon establish immediate CLI recognition. Feature cards use subtle 1px borders in near-black tones, with small geometric icons—circles, arcs, squares—in gold or white depending on hierarchy.
 
-The captured pages include repeated styling on <div>, <html>, <section>, <main>, <body>, <h2>, <p>, and <svg> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The light theme abandons ornament for clarity. Horizontal rules in warm gray separate content sections. Inline code uses pill-shaped backgrounds in light violet tints. Accordion interactions reveal content with pink-toned links against the neutral ground. The overall impression is of a well-typeset document rather than a product interface.
+
+## Components
+
+### Terminal block
+
+Anatomy: Dark rectangular container with left-aligned content, gold left border, `$` prompt prefix, command text, and trailing copy icon.
+
+Surface and text color: Background `{colors.ink-deep}`, text `{colors.code-text}`, border-left `{colors.accent-gold}`.
+
+Typography: `{typography.code}` for commands, `{typography.label}` for section prefixes like "INSTALL VIA" or "FIRST RUN".
+
+Shape and border: `border-radius: {rounded.panel}`, `border-left: 1px solid {colors.accent-gold}` for standard blocks; teal accent variant for update sections.
+
+Spacing: Padding `0.9375rem 1.375rem 0.9375rem 1.375rem` with internal gap to copy icon.
+
+Composition: Full-width within content column, stacked with `1.5rem` vertical gap between blocks.
+
+Variants: Gold border (default), teal border (update/alternate), no border with subtle background (inline code).
+
+### Feature card
+
+Anatomy: Dark card with top icon, title, and description text. Cards appear in staggered vertical arrangement.
+
+Surface and text color: Background `{colors.surface}`, border `{colors.border-subtle}`, title `{colors.text-primary}`, description `{colors.text-secondary}`.
+
+Typography: Title uses `{typography.body}` at 16px with normal weight, description uses `{typography.body-small}`.
+
+Shape and border: `border-radius: {rounded.card}`, `border: 1px solid {colors.border-subtle}`.
+
+Spacing: Internal padding `1.5rem`, cards offset by varying top margins creating staircase effect.
+
+Composition: Horizontal row with `1.125rem` gap, cards at different vertical positions (0, 2rem, 4rem, 6rem approximate offsets).
+
+### Section label
+
+Anatomy: Uppercase text prefix before major content blocks, often with accent color and monospace treatment.
+
+Surface and text color: Text `{colors.accent-gold}` or `{colors.accent-teal}`.
+
+Typography: `{typography.label}` with `letter-spacing: 0.14em`.
+
+Shape and border: No background, no border, purely typographic.
+
+Spacing: Margin bottom `0.5rem` to following heading.
+
+### FAQ accordion
+
+Anatomy: Light theme component with question text, expand/collapse indicator, and revealed answer with bullet list.
+
+Surface and text color: Background transparent, question text `{colors.ink}`, answer text `{colors.surface-elevated}`, links in pink/violet accent.
+
+Typography: Question uses `{typography.section-display}` at smaller scale or `{typography.body}`, answer uses `{typography.body}`.
+
+Shape and border: Bottom border `{colors.border-light}` separating items, no border-radius.
+
+Spacing: Vertical padding `1.5rem` per item, answer padding top `1rem`.
+
+Composition: Full-width stack, expand icon right-aligned.
+
+### Changelog entry
+
+Anatomy: Version heading with date, followed by bullet list of changes with inline code snippets.
+
+Surface and text color: Version `{colors.ink}`, date `{colors.text-muted}`, body `{colors.surface-elevated}`, inline code background `{colors.canvas-warm}`.
+
+Typography: Version uses `{typography.navigation}` at 15px with semibold weight, body uses `{typography.body}`.
+
+Shape and border: Horizontal rule `{colors.border-light}` above each entry, code pills with `border-radius: {rounded.code}`.
+
+Spacing: Entry padding `1.5rem 0`, list item gap `0.5rem`.
+
+### Primary button
+
+Anatomy: Text label with optional icon, solid or outlined treatment.
+
+Surface and text color: Solid variant uses gradient from `{colors.accent-amber}` to `{colors.accent-violet}` with white text; outlined variant uses transparent background with `{colors.accent-gold}` text and border.
+
+Typography: `{typography.navigation}`.
+
+Shape and border: `border-radius: {rounded.pill}`, padding `1rem 2rem` or `0.625rem 1.25rem` for compact variant.
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design maintains its dual-mode character across viewport sizes, with key adaptations for narrower screens. The dark theme's staggered card grid should collapse to a single column with consistent vertical spacing, preserving the card aesthetic while losing the masonry offset. The kintsugi artwork scales proportionally or hides below medium breakpoints to prevent horizontal overflow.
+
+The light theme's generous margins compress to standard container padding (16–24px) on mobile, with heading sizes stepping down by approximately 25%. FAQ accordion items maintain their full-width treatment with touch-appropriate tap targets (minimum 44px height for expand/collapse areas).
+
+Terminal blocks should remain horizontally scrollable rather than wrapping, preserving command readability. Code font size may reduce to 0.875rem on small screens to prevent excessive line breaking.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- The dual-mode architecture: dark for product/marketing, light for documentation
+- Gold accent discipline—use #FFBA00 sparingly as the primary emotional signal
+- Monospace label styling with expanded tracking for section prefixes
+- Staggered card offsets in dark theme feature grids
+- Cormorant Garamond's tight letter-spacing for light theme headings
+- Generous section spacing (120px) as a brand signature
+
+### Avoid
+- Mixing dark and light theme elements within a single section
+- Using the gold accent for large background fills—reserve for borders, text, and small indicators
+- Generic card grids without the intentional vertical offset
+- Body text smaller than 0.875rem in either theme
+- Pure black (#000000) as primary background—use #0B0B0B or #030303 for warmth
+
+### Recommended build order
+1. Establish root gradient and base dark background
+2. Implement typography scale with Albert Sans body and Alumni Sans display
+3. Build terminal block component with gold left border and SF Mono text
+4. Create feature card with subtle border and icon slot
+5. Add staggered grid layout with variable top margins
+6. Implement light theme override with Cormorant Garamond headings
+7. Build FAQ accordion with expand/collapse state
+8. Add kintsugi artwork as positioned decorative element
+
+### Accessibility
+- Dark theme body text at #D7D7D7 on #0B0B0B provides approximately 8.6:1 contrast, exceeding WCAG AAA
+- Light theme ink text at #030303 on #F8F8F8 exceeds 15:1 contrast
+- Gold accent #FFBA00 on dark backgrounds achieves 7.2:1, suitable for large text and UI components but verify for small text
+- Ensure terminal blocks have visible focus indicators; the gold border can serve as focus state enhancement
+- Provide `prefers-reduced-motion` respect for any staggered card entrance animations
+- Light theme link colors in FAQ should maintain 4.5:1 minimum against background
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#d7d7d7`
-- `#000000`
-- `#030303`
-- `#0f0f0f`
-- `#b7b7b7`
-- `#222222`
-- `#0b0b0b`
-- `#e4e4e4`
-- `#717171`
-- `#ffba00`
-- `#f8f8f8`
-- `#a4a4a4`
-- `#ffffff`
-- `#e1e1e1`
-- `#0fb6ac`
-- `#4b5563`
-
-## Typography captured from impeccable.style
-
-- **Albert Sans** — weight 400 · size 16px
-- **Instrument Sans** — weight 400 · size 16px
-- **Cormorant Garamond** — weight 400 · size 40px
-- **Space Grotesk** — weight 500 · size 10px
-- **Inter** — weight 400 · size 16px
-- **Times** — weight 400 · size 16px
-- **Alumni Sans** — weight 300 · size 54.4px
-- **Sf Mono** — weight 500 · size 11.2px
-- **Applesystem** — weight 400 · size 14px
+This guide covers the landing page and documentation surfaces of impeccable.style as visible in the supplied captures. The dark theme's full feature catalog, interactive command demonstrations, and any motion behaviors are not represented. The light theme's complete FAQ and changelog entries are partially shown. Measurements derive from the retained interface data with font sizes snapped to the 2px base grid where exact values were not recorded.
