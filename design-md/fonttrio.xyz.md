@@ -2,142 +2,152 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/fonttrio.xyz-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Fonttrio - Font Pairings for shadcn](https://pin.fontofweb.com/7847?format=jpg)](https://design.withfudge.com/share/pin-7847)
+[![Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://pin.fontofweb.com/7847?format=jpg)](https://design.withfudge.com/share/pin-7847)
 
-[Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/share/pin-7847)
+[Grid of font pairing cards showing heading and body font samples with install commands and category filters](https://design.withfudge.com/share/pin-7847)
 
-[![Fonttrio - Font Pairings for shadcn](https://pin.fontofweb.com/7846?format=jpg)](https://design.withfudge.com/share/pin-7846)
+[![Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://pin.fontofweb.com/7846?format=jpg)](https://design.withfudge.com/share/pin-7846)
 
-[Fonttrio - Font Pairings for shadcn](https://design.withfudge.com/share/pin-7846)
+[Hero section with oversized 'Three fonts' display type, grid background, and package manager selector](https://design.withfudge.com/share/pin-7846)
 
 ## Overview
 
-fonttrio.xyz presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#ededed`, and `#888888`, with typography led by **System**, **Montserrat**, **Karla**, **Archivo**, **Outfit**, **Libre Baskerville**, **Mukta**, **Schibsted Grotesk**, **Pt Serif**, **Pt Sans**, **Inconsolata**, **Space Grotesk**, **Exo 2**, **Titillium**, **Jet Brains Mono**, **Roboto**, **Manrope**, **Source Code Pro**, and **Plus Jakarta Sans**. The guide below names reusable design roles only where the captured evidence supports them.
-
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the nav |
-| color.text | `#ededed` | text on page content in the nav |
-| color.text | `#888888` | text on page content in the nav |
-| color.border | `#1f1f1f` | border on page content in the button |
-| color.surface | `#141414` | surface on page content in the button |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **System** | 16px | 400 | 24px | normal | <div> in the nav, <div>, <button> in the button, and <a> in the nav |
-| type.display-192px | **System** | 192px | 400 | 211.2px | -4.8px | <div> |
-| type.display-192px | **Montserrat** | 192px | 800 | 192px | -5.76px | <span> |
-| type.utility-10px | **System** | 10px | 400 | 15px | 0.5px | <p> |
-| type.body-14px | **System** | 14px | 500 | 20px | normal | <h3> and <p> |
-| type.body-28px | **Karla** | 28px | 400 | 42px | -0.28px | <span> |
-| type.utility-13px | **Karla** | 13px | 400 | 19.5px | normal | <p> |
-| type.body-14px | **System** | 14px | 400 | 20px | normal | <div> |
-| type.heading-28px | **Outfit** | 28px | 700 | 30.8px | normal | <p> |
-| type.utility-13px | **Libre Baskerville** | 13px | 400 | 19.5px | normal | <p> |
-| type.heading-28px | **Archivo** | 28px | 800 | 30.8px | normal | <p> |
-| type.utility-13px | **Archivo** | 13px | 400 | 19.5px | normal | <p> |
-| type.utility-13px | **Mukta** | 13px | 400 | 19.5px | normal | <p> |
-| type.heading-28px | **Schibsted Grotesk** | 28px | 700 | 30.8px | normal | <p> |
-| type.heading-28px | **Pt Serif** | 28px | 700 | 30.8px | normal | <p> |
-| type.utility-13px | **Pt Sans** | 13px | 400 | 19.5px | normal | <p> |
-| type.utility-11px | **Inconsolata** | 11px | 400 | 16.5px | normal | <code> in the button |
-| type.heading-28px | **Space Grotesk** | 28px | 700 | 30.8px | normal | <p> |
-| type.heading-28px | **Exo 2** | 28px | 700 | 30.8px | normal | <p> |
-| type.utility-13px | **Titillium** | 13px | 400 | 19.5px | normal | <p> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `0px 48px 64px` | padding | page content |
-| `16px` | padding | page content |
-| `12px 16px` | padding | page content |
-| `0px 48px` | padding | page content |
-| `0px 0px 4px` | margin | page content |
-| `12px 32px` | padding | page content |
-| `10px 16px` | padding | page content |
-| `16px 0px 0px 20px` | margin | page content |
-
-### Shape and depth
-
-The captured pages use `1px 0px 0px solid 0px`, `1px solid 6px`, `1px solid 0px`, and `0px none 8px` border treatments.
+Fonttrio is a dark-themed showcase and distribution tool for curated font combinations built for shadcn/ui projects. The interface immerses visitors in a near-black environment where typography itself becomes the primary visual content. The design philosophy strips away decorative chrome in favor of maximum contrast between the deep canvas and bright, precisely rendered type specimens. Each font pairing is presented as a self-contained card that demonstrates the relationship between heading, body, and monospace fonts through live samples and descriptive text. The overall impression is technical, authoritative, and gallery-like—treating typefaces as artifacts worthy of focused attention rather than commodities in a list.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000` and `#141414`. Text colors include `#ededed` and `#888888`. Keep image-derived colors separate from interface colors.
+The color system is intentionally austere, built on a near-monochrome foundation that ensures any font specimen remains fully legible and visually dominant.
+
+| token | value | use |
+|---|---|---|
+| canvas | #000000 | Primary page background; deepest layer |
+| surface | #0A0A0A | Card backgrounds, secondary containers |
+| surface-raised | #141414 | Elevated elements like command bars |
+| border | #1F1F1F | Hairline dividers, card borders, button outlines |
+| ink | #EDEDED | Primary text, headings, active states |
+| muted-ink | #888888 | Secondary text, descriptions, inactive labels |
+| action | #EDEDED | Interactive text, hover states, primary actions |
+
+The palette operates in a single dark mode with no light variant. The near-black canvas absorbs light while the off-white ink provides comfortable reading contrast without the harshness of pure white. Muted ink serves as the bridge between content tiers, appearing in body descriptions, category labels, and secondary metadata. The border color is subtle enough to structure space without drawing attention to itself. No gradients, shadows, or accent colors compete with the font specimens—every chromatic decision defers to the typography.
 
 ## Typography
 
-The captured type system uses **System**, **Montserrat**, **Karla**, **Outfit**, **Libre Baskerville**, **Archivo**, **Mukta**, **Schibsted Grotesk**, **Pt Serif**, **Pt Sans**, **Inconsolata**, **Space Grotesk**, **Exo 2**, **Titillium**, **Jet Brains Mono**, **Roboto**, and **Manrope**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The site's own interface uses a restrained system font stack, while the displayed content introduces a wide variety of external families. This creates a useful tension: the UI recedes while the specimens command attention.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Montserrat | 12rem | 800 | 1 | -0.03em | Hero "Three fonts" headline |
+| section-heading | System | 1.75rem | 700 | 1.1 | normal | Card heading specimens |
+| body | System | 1rem | 400 | 1.5 | normal | Navigation, primary UI text |
+| body-small | System | 0.875rem | 400 | 1.43 | normal | Descriptions, metadata |
+| label | System | 0.75rem | 400 | 1.33 | 0.05em | Category tags, uppercase labels |
+| code | Inconsolata | 0.6875rem | 400 | 1.5 | normal | Install commands, monospace samples |
+
+The hero display at 192px (12rem) uses Montserrat at ExtraBold weight with tight negative tracking, creating an architectural presence that fills the viewport width. Section headings for card specimens render at 28px (1.75rem) in System UI, though the actual displayed fonts vary per pairing. Body text across the interface maintains 16px (1rem) with comfortable 1.5 line height. Labels and tags shrink to 12px (0.75rem) with slight positive tracking for scannability. Code samples use Inconsolata at 11px (0.6875rem), compact but legible within bounded command bars.
+
+The specimen cards demonstrate pairings drawn from a broad library: Archivo, Exo 2, Inconsolata, Jet Brains Mono, Karla, Libre Baskerville, Manrope, Montserrat, Mukta, Outfit, Plus Jakarta Sans, Pt Serif, Pt Sans, Roboto, Schibsted Grotesk, Source Code Pro, Space Grotesk, and Titillium. These appear as heading, body, or monospace fonts within individual cards according to each curated combination. System-Systemui serves as the UI font family in the extracted data.
+
+Font credits: Montserrat by Julieta Ulanovsky; Libre Baskerville by Pablo Impallari Rodrigo Fuenzalida; Manrope by Mikhail Sharanda; Outfit by Rodrigo Fuenzalida via Frag Type; Plus Jakarta Sans by Gumpita Rahayu via Tokotype; Roboto by Christian Robertson via Google; Space Grotesk by Florian Karsten; Archivo by Hector Gatti via Omnibus Type. Verify licensing for these families before production use.
 
 ## Layout
 
-The captured pages use values such as `0px 48px 64px`, `16px`, `12px 16px`, `0px 48px`, and `0px 0px 4px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout follows a strict grid system that remains visible as a subtle background texture in the hero section. This grid serves as both structural guide and aesthetic motif, reinforcing the site's technical precision.
+
+The page uses a single-column hero that transitions into a three-column card grid. The hero occupies substantial vertical space with generous padding—approximately 4rem on the sides and significant top offset to center the massive display type vertically within the viewport. Below, the card grid maintains consistent gutters and uniform card heights.
+
+Navigation sits at the very top as a fixed or sticky bar, spanning full width with interior padding of 48px horizontal. The filter row beneath uses a horizontal scroll or wrap of pill-shaped category buttons. Cards themselves stack in a masonry-like or strict grid formation, each containing: a heading specimen, body specimen, install command bar, and action footer with pairing name and arrow.
+
+Spacing derives from a 2px base unit, with practical values at 8px (0.5rem), 12px (0.75rem), 16px (1rem), 20px (1.25rem), 32px (2rem), 48px (3rem), and 64px (4rem). Section breaks use the larger values to create breathing room between content zones.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000` and `#141414`. No structured gradient or shadow treatment is established.
+The visual language is that of a technical reference or specimen book translated to the web. The persistent grid background in the hero suggests design software, engineering diagrams, or typographic baseline guides. This metaphor extends to the precise alignment of all elements to invisible columns.
 
-## Components and states
+Visual hierarchy is established entirely through scale and weight rather than color variation. The hero headline dominates through sheer size; card headings through weight and brightness; body text through position and containment within bordered regions. The absence of imagery, illustration, or decorative graphics means every visual decision must serve clarity and readability.
 
-The captured pages include repeated styling on <div>, <button>, <span>, <p>, <h3>, <code>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The border treatment is consistent and minimal: 1px solid lines in the border color separate cards, define command bars, and outline interactive elements. These borders are sharp with no radius on cards, though buttons receive slight rounding. The overall effect is crisp, almost print-like in its precision.
+
+Iconography is limited to functional symbols: copy icons for commands, arrows for navigation, and simple glyphs for external links. These remain small and in muted ink so as not to compete with type specimens.
+
+## Components
+
+### Navigation bar
+- **Anatomy**: Logo wordmark left-aligned, utility links right-aligned
+- **Surface**: Transparent or canvas background, no border
+- **Typography**: `{typography.body}` in ink
+- **Spacing**: 48px horizontal padding, comfortable vertical centering
+- **Composition**: Flex row with space-between alignment
+
+### Category filter
+- **Anatomy**: Horizontal row of pill buttons with category labels
+- **Surface**: Transparent background for container, surface with border for individual pills
+- **Typography**: `{typography.label}` in muted ink, ink when active
+- **Shape**: Pills with slight rounding or sharp rectangles
+- **Spacing**: Compact horizontal gap between pills, 12px-16px internal padding
+- **Variants**: Active state shows underline or filled background; inactive shows border only
+
+### Font pairing card
+- **Anatomy**: Heading specimen, body specimen, install command, footer with pairing name and arrow
+- **Surface**: `{colors.surface}` background, `{colors.border}` top border
+- **Typography**: Variable heading in displayed font at `{typography.section-heading}`; body in displayed font at `{typography.body-small}`; metadata in `{typography.label}`
+- **Spacing**: 16px-32px internal padding, generous vertical rhythm between specimens
+- **Composition**: Stacked vertical flow with clear separation between type categories
+
+### Install command bar
+- **Anatomy**: Monospace command string with copy icon button
+- **Surface**: `{colors.surface-raised}` background, `{colors.border}` border
+- **Typography**: `{typography.code}` in muted ink
+- **Shape**: Slight rounding (6px)
+- **Spacing**: 10px-16px internal padding, full-width within card
+- **Composition**: Flex row with command left, copy action right
+
+### Action button
+- **Anatomy**: Text label with arrow icon
+- **Surface**: Transparent or surface background
+- **Typography**: `{typography.body-small}` in ink
+- **Shape**: Sharp or slightly rounded
+- **Spacing**: 12px-16px padding
+- **Variants**: Hover state may shift arrow position or underline text
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The three-column card grid should collapse to two columns at intermediate widths and single column on narrow viewports. The hero display type must scale down dramatically—below 6rem on tablet and 3rem on mobile—to maintain readability without horizontal overflow. Navigation may compress to a hamburger menu or simplify to essential links. Category filters should remain horizontally scrollable rather than wrapping, preserving the pill aesthetic. Card internal spacing can reduce by half on mobile while maintaining the vertical content sequence. The install command bar should remain full-width within its card and may truncate with ellipsis if the command string exceeds container width.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+- The extreme contrast between near-black canvas and off-white text
+- The grid background texture in the hero section
+- The strict typographic hierarchy using only scale, weight, and spacing
+- The three-part card structure: heading specimen, body specimen, command bar
+- The monospace font for all code and command displays
+
+### Avoid
+- Introducing accent colors that compete with font specimens
+- Adding shadows or dimensional effects that soften the flat aesthetic
+- Using rounded corners on cards—the sharp edges reinforce the technical tone
+- Generating placeholder imagery or decorative graphics
+- Light mode without careful rebalancing of the entire contrast system
+
+### Recommended build order
+1. Establish the dark canvas and grid background system
+2. Implement the hero with Montserrat at display scale
+3. Build the navigation and filter bar with system fonts
+4. Create the card component with variable font injection for specimens
+5. Add install command bars with copy functionality
+6. Implement the responsive grid collapse
+
+### Accessibility
+- Ensure the 4.5:1 contrast ratio between muted ink and canvas for small text
+- Provide visible focus indicators on all interactive elements
+- Make category filters keyboard-navigable as a single tab stop with arrow key traversal
+- Include `aria-label` on copy buttons that describe the action
+- Allow users to select and copy command text directly, not only via the copy button
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#ededed`
-- `#888888`
-- `#1f1f1f`
-- `#141414`
-
-## Typography captured from fonttrio.xyz
-
-- **System** — weight 400 · size 16px
-- **Montserrat** — weight 800 · size 28px
-- **Karla** — weight 400 · size 13px
-- **Archivo** — weight 800 · size 28px
-- **Outfit** — weight 700 · size 28px
-- **Libre Baskerville** — weight 400 · size 13px
-- **Mukta** — weight 400 · size 13px
-- **Schibsted Grotesk** — weight 700 · size 28px
-- **Pt Serif** — weight 700 · size 28px
-- **Pt Sans** — weight 400 · size 13px
-- **Inconsolata** — weight 400 · size 11px
-- **Space Grotesk** — weight 700 · size 28px
-- **Exo 2** — weight 700 · size 28px
-- **Titillium** — weight 400 · size 13px
-- **Jet Brains Mono** — weight 400 · size 11px
-- **Roboto** — weight 400 · size 13px
-- **Manrope** — weight 700 · size 28px
-- **Source Code Pro** — weight 400 · size 11px
-- **Plus Jakarta Sans** — weight 600 · size 28px
+This guide covers the landing page experience including the hero section, category filters, and font pairing card grid. It does not document individual pairing detail pages, theme switching behavior, or the full installation flow. Motion, loading states, and mobile-specific navigation patterns are not represented in the supplied material.

@@ -2,134 +2,156 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/figr.design-design)
 
-Last updated: 2026-08-08
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![Centered serif hero with lavender pills and a framed product mockup](https://pin.fontofweb.com/7413?format=jpg)](https://design.withfudge.com/share/pin-7413)
+[![Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://pin.fontofweb.com/7414?format=jpg)](https://design.withfudge.com/share/pin-7414)
 
-[Centered serif hero with lavender pills and a framed product mockup](https://design.withfudge.com/share/pin-7413)
+[Contact page with split-layout hero, serif headline, and form with purple submit button on light canvas](https://design.withfudge.com/share/pin-7414)
 
-[![Split contact page with large question text, stacked inputs, and submit pill](https://pin.fontofweb.com/7414?format=jpg)](https://design.withfudge.com/share/pin-7414)
+[![Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://pin.fontofweb.com/7413?format=jpg)](https://design.withfudge.com/share/pin-7413)
 
-[Split contact page with large question text, stacked inputs, and submit pill](https://design.withfudge.com/share/pin-7414)
+[Homepage hero with centered serif display, product diagram in rounded purple frame, and dual CTA buttons](https://design.withfudge.com/share/pin-7413)
 
 ## Overview
 
-Figr’s visual system is quiet, premium, and highly typographic. The page architecture gives the serif headline the most authority, then supports it with a restrained sans-serif UI for navigation, form labels, and helper copy. The overall mood is warm rather than clinical: the canvas reads as a soft cream, the main text is near-black, and the only vivid accent is a lavender-purple button fill. That single accent repeats in the top navigation and the form submit control, so the site feels consistent even as the page shifts from a marketing homepage to a practical contact form.
-
-The home page centers a large promise above a framed product showcase. The contact page keeps the same header language and button system but changes the composition to a two-column problem report layout. Both pages rely on empty space, a small number of visible controls, and very large serif statements. The result is editorial and composed, with enough contrast to stay usable but not enough color or ornament to feel busy.
+Figr presents itself as an AI design agent for product teams, and its visual system communicates that positioning through restrained elegance rather than flashy effects. The design pairs a warm, near-white canvas with sharp black typography, letting content breathe while a single purple accent provides energy and hierarchy. The overall impression is of a tool built for designers—confident, uncluttered, and typographically sophisticated. The homepage establishes the product narrative through a centered editorial headline and an illustrative product diagram, while the contact page demonstrates the system's adaptability to functional forms without losing its refined character. Every element feels intentional: generous whitespace, precise corner radii, and a clear separation between content and interface chrome.
 
 ## Colors
 
-The palette is small and intentionally calm. Cream canvas replaces stark white as the page base, while black type and lavender actions do the heavy lifting. Light grays handle fields, soft secondary surfaces, and borders. The lower dark band on the home page adds a deep terminal chapter without introducing a new accent color.
+The palette is intentionally minimal, built around a high-contrast core with one distinctive accent. The warm off-white canvas prevents sterility, while the purple action color carries almost all interactive meaning.
 
 | token | value | use |
 |---|---|---|
-| `action` | `#6D5AE7` | Primary buttons such as “Sign up for free” and “Submit” |
-| `action-soft` | `#FFFFFF` | Framing color behind the product showcase |
-| `ink` | `#000000` | Headings, nav text, and body copy on light surfaces |
-| `muted-ink` | `#6F6A64` | Supporting copy and helper text |
-| `canvas` | `#FFFFFF` | Main page background |
-| `surface` | `#FFFFFF` | Input fields, cards, and inner panels |
-| `surface-soft` | `#FFFFFF` | Secondary button fill and quiet UI surfaces |
-| `border` | `#DCD6CF` | Field borders and the dashed file area |
-| `footer` | `#000000` | Deep lower band at the bottom of the home page |
-| `footer-ink` | `#FFFFFF` | Light text on the dark lower band |
+| ink | #000000 | Primary text, headlines, body copy, navigation |
+| canvas | #FAFAF8 | Page background, creating warmth against pure white |
+| surface | #FFFFFF | Input fields, cards, elevated panels |
+| action | #6B5CE7 | Primary buttons, submit actions, key interactive elements |
+| action-hover | #5A4BD4 | Darker purple for button hover states |
+| muted-ink | #6B6B6B | Secondary text, descriptions, placeholders |
+| border | #E5E5E5 | Subtle dividers, input borders, card outlines |
+| border-dashed | #CCCCCC | Dashed borders for upload zones and secondary boundaries |
 
-The system does not rely on separate photographic or multi-theme palettes. Instead, it uses one warm light mode, one deep black closing band, and one lavender accent family that carries through the site. The accent remains the same color in the navigation pill and the submit control, which keeps the interface unified even when the page moves from editorial hero to form utility.
+The system operates in a light mode exclusively across the captured surfaces. Black ink on the warm canvas provides maximum readability without the harshness of pure white backgrounds. The purple accent appears only on primary actions—buttons that advance the user toward conversion—making it a scarce and therefore meaningful signal. The product diagram on the homepage introduces a light lavender-tinted frame (#E8E4F7) that extends the purple family into decorative surfaces without competing for attention. No dark mode is visible in the supplied material.
 
 ## Typography
 
-The page uses two families with a strict role split. **Gt Alpina** carries the voice: it appears in the giant hero statements and the lower black section. **Inter** carries the interface: it is used for navigation, labels, body copy, helper text, and button text. The hierarchy comes from scale, weight, and spacing rather than from many font families. Display text is light and spacious. UI text is compact, legible, and plain.
+Two families create a clear functional hierarchy: GT Alpina for editorial display moments and Inter for everything functional. The serif's light weight and slight tracking compression give headlines a refined, magazine-like quality that elevates the product positioning.
 
 | token | family | size | weight | leading | tracking | use |
 |---|---|---:|---:|---:|---:|---|
-| `hero-display` | Gt Alpina | 4.75rem | 300 | 1.02 | -0.03em | Main homepage and contact headline |
-| `section-display` | Gt Alpina | 4rem | 300 | 1.04 | -0.025em | Large dark-band heading and secondary display moments |
-| `body` | Inter | 1rem | 400 | 1.55 | 0em | Supporting sentences, helper text, and general copy |
-| `body-strong` | Inter | 1rem | 500 | 1.45 | 0em | Button text and emphasized labels |
-| `field-label` | Inter | 1rem | 600 | 1.2 | 0em | Form labels and required-field headings |
-| `nav` | Inter | 1rem | 400 | 1.2 | 0em | Header links and account actions |
-| `button` | Inter | 1rem | 500 | 1.2 | 0em | Lavender and soft buttons |
-| `legal` | Inter | 0.75rem | 400 | 1.4 | 0em | Small note text and compact helper copy |
+| hero-display | GT Alpina | 4.75rem | 300 | 1.05 | -0.02em | Homepage and page headlines |
+| section-display | GT Alpina | 3rem | 300 | 1.1 | -0.01em | Secondary headings, form page titles |
+| body | Inter | 1rem | 400 | 1.6 | 0 | Paragraphs, descriptions, form labels |
+| body-large | Inter | 1.25rem | 400 | 1.5 | 0 | Hero subheadings, introductory text |
+| label | Inter | 0.875rem | 500 | 1.4 | 0 | Buttons, tags, form field labels |
+| navigation | Inter | 0.875rem | 400 | 1 | 0 | Top-bar links, utility text |
 
-The display scale is intentionally large and restrained. The homepage headline occupies several lines with generous leading, while the contact headline stays equally serious but slightly more functional. The sans-serif text never competes with the serif voice; it simply explains, labels, and confirms. Verify licensing for these families before production use.
+GT Alpina appears exclusively at light weight (300), leveraging its high contrast strokes for impact at large sizes. Inter handles all interface text at regular and medium weights, ensuring clarity at small sizes. The hero display size of 4.75rem creates commanding presence on the homepage, while the section display at 3rem adapts the same voice to interior pages. Body text maintains generous line height for comfortable reading of product descriptions and form instructions. Verify licensing for these families before production use.
 
 ## Layout
 
-The page shell is wide and centered, with a great deal of empty cream space around the content. Top padding is generous, and the header sits lightly above the rest of the page rather than acting like a heavy bar. On the homepage, the hero is centered and stacked: wordmark and nav at the top, headline in the middle, short supporting text below, then two pills and a large framed product panel. The contact page keeps the same upper structure but shifts the main content into a split layout, with the question headline and one-line support on the left and a form column on the right.
+The layout system favors centered, single-column compositions for hero content and asymmetric two-column arrangements for functional pages. The homepage hero occupies a centered container with generous vertical padding, while the contact page splits into a left text block and right form area.
 
-Spacing is spacious but not random. Small relationships use 4, 8, 16, and 20 pixel steps. The larger breathing room appears in the 32 pixel outer gutters, the 48 pixel vertical separations between major pieces, and the 128 pixel band of top offset that gives the page its calm start. The product showcase also uses a deep inset feel: a lavender outer frame, a white inner field, and wide margins that keep the mockup from feeling cramped.
+The navigation bar spans the full width with internal padding of 2rem horizontally, keeping the logo and links aligned to a consistent edge. Content sections use substantial vertical spacing—8rem between major sections—to maintain the airy, unhurried rhythm. The product diagram on the homepage sits within a rounded container that breaks the full-width pattern, creating a focal point through containment.
 
-The page is composed as a sequence of chapters rather than a grid of equally weighted modules. First comes the brand line and navigation. Then comes the hero statement. Then the product showcase or the contact form. Finally, the composition drops into the black lower section. That progression creates a clear visual rhythm without relying on dividers, icons, or dense card systems.
+Horizontal margins on interior content appear to reach approximately 29rem on each side in the centered homepage layout, suggesting a narrow reading column for editorial content. The contact page uses a wider effective content area with the form occupying roughly half the available width. Grid gaps between related elements typically measure 1rem to 2rem, with tighter 0.5rem spacing for label-input pairs.
 
 ## Visual language
 
-Figr feels editorial and product-led at the same time. The serif headline gives the site a magazine-like tone, but the interface parts are practical and familiar. Buttons are soft pills, not sharp rectangles. Inputs are white and lightly outlined. The file upload zone uses a dashed border so it reads as a drop area without shouting for attention. The product showcase is the most decorative piece on the homepage, yet it still feels controlled because the lavender frame is broad, the inner panel is white, and the small cards inside remain simple.
+The visual language balances editorial sophistication with product clarity. Rounded corners appear throughout but remain restrained—8px for interactive elements, expanding to 24px for major containers and the distinctive product frame. This creates a family of related shapes without monotony.
 
-The whole system avoids visual noise. There are no heavy gradients across the page, no loud drop shadows, and no crowded icon sets. Color is used sparingly: cream for calm, black for authority, lavender for action, and warm gray for support. Shape is also disciplined. Small controls use the 8 pixel radius, while the larger panels use the 24 pixel radius. That difference keeps the buttons crisp and the showcase and form regions soft.
+The product diagram on the homepage introduces the most distinctive visual element: a rounded rectangle with a subtle grid texture in light purple, containing a flowchart-like illustration with icon nodes and connecting lines. This frame demonstrates how the system handles complex information visualization while maintaining its clean aesthetic. The rounded container creates a "device" or "window" metaphor that elevates the screenshot-like content.
 
-The strongest visual contrast comes from the black lower band. It closes the page like a stage curtain and lets the serif type turn bright white. This works well with the rest of the design because the system has already stayed quiet above it. The dark band is not a second theme; it is the final beat in the same editorial language.
+Photography and illustration appear minimal in the captured surfaces. The interface relies on typography, spacing, and the single purple accent to create visual interest. Iconography is simple and functional, appearing in the product diagram as small colored markers rather than as a comprehensive icon system.
 
 ## Components
 
-### Header and navigation
+**Navigation bar**
+- Anatomy: Logo left, text links center-left, utility links and primary CTA right
+- Surface: Transparent over canvas background
+- Typography: Navigation token for all links
+- Spacing: 2rem horizontal padding, comfortable vertical centering
+- Composition: Horizontal flex with space-between logic on outer sections
 
-The header is a slim, low-emphasis row with the black wordmark at the left, centered navigation links, and three actions at the right. The hierarchy is clear: text links first, a quiet “Book a demo” pill second, and the lavender “Sign up for free” pill as the dominant action. The surrounding cream space keeps the header from competing with the hero.
+**Primary button**
+- Anatomy: Text label with optional arrow icon
+- Surface: Solid action purple background, white text
+- Typography: Label token, medium weight
+- Shape: 8px border radius
+- Spacing: 0.75rem vertical padding, 1.5rem horizontal padding
+- Variants: Homepage version appears slightly larger than navigation version
 
-### Hero statement
+**Secondary button**
+- Anatomy: Text label only
+- Surface: Canvas-colored background with subtle border
+- Typography: Label token, regular weight
+- Shape: 8px border radius
+- Spacing: Matching primary button dimensions
 
-The homepage hero is centered and very large. It uses the serif display family, light weight, and tight tracking to make the promise feel editorial rather than salesy. Supporting copy sits below in muted ink and stays short. The two button row beneath it is compact, with the softer secondary action offset by the lavender primary. On the contact page, the same serif voice becomes a practical question-and-answer headline, but the tone remains calm and direct.
+**Text input**
+- Anatomy: Label above, single-line field below
+- Surface: White background, light gray border
+- Typography: Body token for entered text, label token for field label
+- Shape: 8px border radius
+- Spacing: 1rem internal padding, 0.5rem gap between label and field
 
-### Product showcase
+**Textarea**
+- Anatomy: Label above, multi-line field below with placeholder text
+- Surface: White background, light gray border
+- Typography: Body token
+- Shape: 8px border radius
+- Spacing: Generous internal padding for comfortable text entry
 
-The homepage showcase is a major visual block. It uses a broad lavender frame, a white inner panel, and rounded corners that make the large object feel friendly. Inside the frame, the top row of small cards is evenly spaced and lightly shadowless, the central round play control gives one clear focal point, and the lower prompt bar behaves like a command field. The composition is centered and symmetrical, which makes the panel feel stable even though the interior contains many small pieces.
+**File upload zone**
+- Anatomy: Dashed border container with centered icon, instruction text, and helper text
+- Surface: Transparent with dashed border
+- Typography: Label token for primary instruction, smaller text for file type acceptance
+- Shape: 8px border radius
+- Spacing: Substantial vertical padding for drag-and-drop target area
 
-### Form stack
-
-The contact form is tall and neatly ordered. Labels are bold enough to read at a glance, required markers are explicit, and each field is separated by a clear vertical gap. Inputs have a white fill, a thin warm border, and a subtle inset impression that gives them a little depth without becoming glossy. The textarea is larger but follows the same rules. The file area uses a dashed border and a centered prompt so it feels like a special input rather than a generic box. The submit button stays small, rounded, and lavender, which keeps the action focused while leaving the rest of the form quiet.
-
-### Footer band
-
-The dark lower band uses the same serif display style as the hero, but it shifts the mood into a terminal chapter. White text on black produces the strongest contrast in the system, and the large type size makes the band feel like a conclusion rather than a footer afterthought. Because the band is so plain, it benefits from generous top spacing and very little surrounding detail.
+**Product frame**
+- Anatomy: Large rounded container with internal grid texture, containing illustrative content
+- Surface: Light lavender-tinted background (#E8E4F7)
+- Shape: 24px border radius
+- Spacing: 3rem internal padding
+- Composition: Centered within page, wider than text content above
 
 ## Responsive behavior
 
-The visual hierarchy should collapse in the same order it appears on desktop: brand bar, headline, support copy, actions, then the main panel or form. On narrower screens, the hero should still feel spacious, but the two-column contact layout should stack cleanly so the headline remains readable before the form fields. The showcase panel should remain centered and should not become cramped with tiny interior elements. Buttons should keep their pill shape and stay large enough to tap comfortably. The dark lower band should remain a simple full-width block rather than a narrow strip.
+The captured layouts suggest a desktop-first approach with fixed-width content areas. The homepage hero maintains its centered composition, while the contact page's two-column layout would naturally stack on narrower viewports. The navigation bar's link list would likely collapse to a menu at smaller breakpoints.
+
+The product frame's fixed aspect ratio and internal illustration would require scaling or scroll behavior on mobile. Form fields should expand to full width on narrow screens, maintaining their internal padding. Typography sizes may require reduction on mobile, particularly the 4.75rem hero display which could overwhelm smaller screens.
 
 ## Practical implementation guidance
 
-### Preserve
-- Keep the serif headline large, light, and centered or near-centered depending on the page section.
-- Keep lavender as the only strong action color across nav and forms.
-- Preserve the warm cream canvas instead of switching to bright pure white.
-- Keep borders thin and quiet so the form feels refined.
-- Let negative space do the work; the page should feel airy, not packed.
+**Preserve**
+- The warm off-white canvas against pure black text; this subtle warmth distinguishes the system from generic gray-white designs
+- GT Alpina's light weight for headlines; heavier weights would lose the refined editorial quality
+- The scarcity of the purple accent; use it only for primary conversion actions
+- Generous section spacing; the airy rhythm is essential to the premium feel
 
-### Avoid
-- Avoid bold, saturated brand colors beyond the lavender action.
-- Avoid dark interface chrome above the hero.
-- Avoid heavy shadows, glossy field treatments, and dense card grids.
-- Avoid shrinking the serif headline into a standard marketing size.
-- Avoid introducing a second accent hue for alternate actions.
+**Avoid**
+- Introducing additional accent colors; the single purple against black and white is the core identity
+- Heavy borders or shadows; the system relies on spacing and background color for separation
+- Tight line heights on body text; the generous 1.6 leading contributes to readability
+- Rounding corners beyond the established 8px/24px system; consistency matters more than novelty
 
-### Recommended build order
-1. Define the core tokens for cream, black, lavender, and warm gray.
-2. Build the header and the two button styles.
-3. Establish the serif headline and sans-serif supporting text roles.
-4. Assemble the homepage hero and framed product showcase.
-5. Build the contact form stack with fields, textarea, and file area.
-6. Finish with the black lower band and its white display text.
+**Recommended build order**
+1. Establish the canvas and ink color tokens with the warm off-white background
+2. Implement GT Alpina at 300 weight for hero and section display sizes
+3. Build the navigation bar with Inter at navigation size
+4. Create primary and secondary button components with matching padding
+5. Implement form components with consistent 8px radius and border treatment
+6. Add the product frame as a specialized container for homepage content
 
-### Accessibility
-- Keep text contrast strong on the cream canvas and especially on lavender buttons.
-- Use explicit labels for every field; do not rely on placeholders as the only instruction.
-- Make required fields obvious with text, not color alone.
-- Keep focus styles visible on links, pills, and inputs.
-- Ensure the file upload zone has a clear text label and keyboard access.
-- Maintain readable line lengths so the large serif text does not become difficult to scan.
+**Accessibility**
+- Ensure the purple action color meets contrast requirements against white text; the visible shade appears to have sufficient darkness
+- Maintain visible focus indicators on all interactive elements; the clean aesthetic should not remove accessibility affordances
+- Form labels should remain visually associated with their fields through proximity and consistent spacing
+- The light weight GT Alpina headlines should be tested at smaller sizes for readability; consider a minimum size threshold
 
 ## Scope note
 
-This guide covers the desktop home hero, shared header, contact form, product showcase panel, and dark lower band. It does not include mobile layouts, motion, or interaction states that are not shown here. Measurements are practical adaptation targets.
+This guide covers the homepage and contact page surfaces of figr.design. Mobile layouts, additional interior pages, dark mode, motion behavior, and comprehensive component states are not represented in the supplied material. Measurements are practical adaptation targets derived from visible desktop compositions.

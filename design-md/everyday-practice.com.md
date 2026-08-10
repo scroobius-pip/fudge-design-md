@@ -2,140 +2,166 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/everyday-practice.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![일상의실천](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/share/pin-10374)
+[![Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://pin.fontofweb.com/10374?format=jpg)](https://design.withfudge.com/share/pin-10374)
 
-[일상의실천](https://design.withfudge.com/share/pin-10374)
+[Project detail page showing POSEUTEO POSTER book stack with split-pane layout and category filter bar](https://design.withfudge.com/share/pin-10374)
 
-[![일상의실천](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/share/pin-10373)
+[![Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://pin.fontofweb.com/10373?format=jpg)](https://design.withfudge.com/share/pin-10373)
 
-[일상의실천](https://design.withfudge.com/share/pin-10373)
+[Project grid with editorial works including LG Chem report and Olive Young packaging alongside detail panel](https://design.withfudge.com/share/pin-10373)
 
-[![일상의실천](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/share/pin-10372)
+[![Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://pin.fontofweb.com/10372?format=jpg)](https://design.withfudge.com/share/pin-10372)
 
-[일상의실천](https://design.withfudge.com/share/pin-10372)
+[Homepage with member directory sidebar and project grid featuring book covers and exhibition works](https://design.withfudge.com/share/pin-10372)
 
-[![일상의실천](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/share/pin-10371)
+[![Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://pin.fontofweb.com/10371?format=jpg)](https://design.withfudge.com/share/pin-10371)
 
-[일상의실천](https://design.withfudge.com/share/pin-10371)
-
-[![일상의실천](https://pin.fontofweb.com/10370?format=jpg)](https://design.withfudge.com/share/pin-10370)
-
-[일상의실천](https://design.withfudge.com/share/pin-10370)
+[Contact form panel with project inquiry fields alongside vibrant poster grid with colorful tag pills](https://design.withfudge.com/share/pin-10371)
 
 ## Overview
 
-everyday-practice.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#e2e2e2`, `#131313`, and `#787878`, with typography led by **Font**, **Applesystem**, and **Apple Sd Gothic Neo**. The guide below names reusable design roles only where the captured evidence supports them.
-
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.text | `#e2e2e2` | text on page content |
-| color.surface | `#131313` | surface on page content |
-| color.border | `#787878` | border on page content |
-| color.surface | `#ffffff` | surface on page content |
-| color.text | `#000000` | text on page content |
-| color.surface | `#1c1c1c` | surface on page content |
-| color.surface | `#222222` | surface on page content |
-| color.surface | `#d8baff` | surface on page content |
-| color.surface | `#42ff00` | surface on page content |
-| color.surface | `#ffeb3a` | surface on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-16px | **Font** | 16px | 400 | normal | normal | <li> in the nav, <ul> in the nav, <nav> in the nav, <div>, <body>, <a>, <img>, <figure>, <form>, <label>, <input>, and <span> |
-| type.body-17.6px | **Font** | 17.6px | 400 | normal | normal | <input> and <textarea> |
-| type.body-14px | **Applesystem** | 14px | 400 | normal | normal | <div> |
-| type.body-16px | **Apple Sd Gothic Neo** | 16px | 400 | normal | normal | <html> |
-| type.body-21.3333px | **Font** | 21.3333px | 400 | normal | normal | <a> in the nav, <span>, <div>, and <a> |
-| type.body-16px | **Font** | 16px | 400 | 24px | normal | <span>, <p>, and <a> |
-| type.body-13.3333px | **Font** | 13.3333px | 400 | normal | normal | <button> in the button |
-| type.body-13.8667px | **Font** | 13.8667px | 400 | normal | normal | <div> and <label> |
-| type.body-17.6px | **Font** | 17.6px | 400 | 24.64px | normal | <h3> |
-| type.body-21.3333px | **Font** | 21.3333px | 400 | 23.4667px | normal | <h2> |
-| type.body-16px | **Font** | 16px | 400 | 16px | normal | <div> |
-| type.utility-11.5px | **Font** | 11.5px | 500 | normal | normal | <span> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `10px` | padding-left | page content |
-| `10px` | padding-right | page content |
-| `0px 10px` | padding | page content |
-| `10px` | column-gap | page content |
-| `10px` | gap | page content |
-| `10px` | row-gap | page content |
-| `50px 0px 0px` | padding | page content |
-| `50px` | padding-top | page content |
-
-### Shape and depth
-
-The captured pages use `0px 1px 0px 0px none solid none none 0px`, `0px 0px 0px 1px none none none solid 0px`, `0px 0px 1px none none solid 0px`, `0px 0px 1px none none solid 0px`, `0px none 5.175px`, and `1px solid 0px` border treatments.
+Everyday Practice presents itself as a Seoul-based graphic design studio through a website that functions as both portfolio archive and working interface. The system uses a stark, utilitarian shell that deliberately recedes behind the studio's own graphic work. A persistent dark field—near-black with soft charcoal accents—serves as the constant ground against which project imagery, category tags, and text elements assert themselves. The layout divides into functional zones: a primary content area displaying project grids or detail views, and a secondary panel that shifts between member directories, contact forms, and project information depending on context. This split-pane architecture allows the studio to maintain navigational continuity while presenting dense information without overwhelming the visual work. The design language speaks with restraint: no decorative borders on containers, no drop shadows, no gradients. Typography stays small and neutral, letting project thumbnails with their inherent color and composition carry the visual energy.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#131313`, `#ffffff`, and `#1c1c1c`. Text colors include `#e2e2e2` and `#000000`. Keep image-derived colors separate from interface colors.
+The palette is severely limited, built to maximize contrast with the studio's colorful project imagery while maintaining legibility across dense information surfaces.
+
+| token | hex | use |
+|---|---|---|
+| ink | #000000 | Primary background for all surfaces; project grid ground; navigation bar |
+| ink-soft | #131313 | Elevated panels, contact form fields, secondary information areas |
+| muted | #787878 | Hairline borders, inactive navigation elements, secondary text |
+| canvas | #E2E2E2 | Category tag backgrounds, primary text on dark grounds, active UI elements |
+
+The color logic follows a simple inversion principle. Dark grounds dominate; light elements appear as discrete accents. The muted gray functions optically rather than chromatically—appearing as 1px rules that separate zones without asserting themselves as design elements. Category tags invert the relationship, carrying light backgrounds with dark text so they remain legible when overlaid on varied project thumbnails. No gradients or shadows appear in the interface layer; all depth and hierarchy come from spatial arrangement and tonal contrast. Project photography introduces the full spectrum of color, which the neutral system frames without competing.
 
 ## Typography
 
-The captured type system uses **Font**, **Applesystem**, and **Apple Sd Gothic Neo**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system relies on system-available sans-serif families, sized modestly to serve information rather than expression. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| body | Applesystem | 1rem | 400 | 1.6 | 0 | Contact form labels, member biographies, project descriptions |
+| label | Applesystem | 0.875rem | 400 | 1.4 | 0 | Category tags, pagination, metadata |
+| navigation | Applesystem | 1rem | 400 | 1.2 | 0 | Primary nav, language toggle, utility links |
+| section-heading | Applesystem | 1.125rem | 500 | 1.2 | 0 | Member section headers, exhibition categories |
+| project-title | Applesystem | 1rem | 400 | 1.4 | 0 | Project captions beneath thumbnails |
+
+The hierarchy operates through weight and spatial position rather than dramatic scale shifts. Section headings at 1.125rem with medium weight establish information architecture; body text at 1rem handles reading content; labels at 0.875rem manage dense UI surfaces. Line heights stay generous for body content but tighten for navigation and labels where vertical economy matters. No display sizes appear in the interface—the studio's graphic work provides visual impact, and oversized typography would compete. Korean text uses Apple SD Gothic Neo as a system fallback, maintaining the same scale relationships.
 
 ## Layout
 
-The captured pages use values such as `10px`, `10px`, `0px 10px`, `10px`, and `10px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The page architecture follows a split-pane model with a fixed or persistent left content zone and a right panel that adapts to context. On the homepage and project index, the left side carries a responsive grid of project thumbnails while the right presents member information, exhibition history, or contact forms. On project detail pages, the right panel displays expanded project imagery and description.
+
+The grid system uses tight internal spacing—0.625rem gaps between thumbnails—creating a dense mosaic that emphasizes the quantity and variety of work. Thumbnails follow an irregular or masonry-like rhythm rather than strict uniform rows, allowing varied aspect ratios to coexist naturally. The right panel maintains consistent internal padding, approximately 0.625rem horizontally and 3.125rem vertically, creating breathing room around dense text blocks.
+
+Navigation sits at the top edge as a full-width bar, with studio identity at left, category filters center-left, and utility links (Contact, Profile, Client) at right. A language toggle (Kor / Eng) and email placeholder occupy the top-right zone. Category filters present as inline text links with a list-view toggle, maintaining horizontal flow without dropdown containers.
+
+The contact form panel stacks fields vertically with generous vertical spacing between inputs. Each field carries a label above a full-width input, with hairline borders defining field boundaries. Form sections group logically: project information, contact details, project type selection via inline toggle buttons.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#131313`, `#ffffff`, `#1c1c1c`, and `#222222`. No structured gradient or shadow treatment is established.
+The visual character emerges from systematic restraint applied to a content-heavy portfolio. The near-black ground creates a gallery-like environment where each project thumbnail reads as an independent object. Category tags appear as small, rounded pills with light backgrounds—distinct enough to scan quickly, small enough to avoid overwhelming the imagery they annotate.
 
-## Components and states
+Borders function as structural hairlines: 1px solid rules in muted gray separate the split panes, define form field boundaries, and create the faintest spatial demarcation between navigation and content. No border-radius appears on major containers; the single rounded element is the category tag at approximately 0.325rem, softening an otherwise angular system.
 
-The captured pages include repeated styling on <div>, <html>, <a>, <li>, <ul>, <nav>, <body>, and <span> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The project grid's visual rhythm depends on thumbnail diversity. The interface provides consistent framing—uniform gaps, aligned edges, caption placement below—while the content supplies variation. This creates a productive tension between systematic order and graphic eclecticism. Pagination at the bottom uses compact numbered circles, maintaining the small-scale typographic approach.
+
+Imagery treatment is direct: photographs of books, posters, and environmental graphics appear without overlays, frames, or effects. The dark ground extends behind thumbnails where images don't fill the full rectangle, creating implied depth without explicit shadow.
+
+## Components
+
+### Project card
+
+- **Anatomy**: Thumbnail image, project title caption below, optional category tag pills beneath title
+- **Surface**: Transparent background on dark ground; image fills available space
+- **Typography**: Project title at 1rem regular weight; category labels at 0.875rem
+- **Shape**: No border-radius on card container; sharp rectangular edges
+- **Spacing**: 0.625rem gap to adjacent cards; title sits flush below thumbnail with minimal vertical offset
+- **Composition**: Thumbnails vary in aspect ratio, creating irregular grid rhythm
+- **Variants**: Some cards display single category tag, others multiple tags in horizontal row with small internal gap
+
+### Category tag
+
+- **Anatomy**: Text label within rounded pill container
+- **Surface**: Light background (#E2E2E2) with dark text; no border
+- **Typography**: Label token at 0.875rem
+- **Shape**: 0.325rem border-radius creating soft pill
+- **Spacing**: Internal padding approximately 0.3125rem horizontal, 0.25rem vertical; multiple tags gap at 0.625rem
+- **Composition**: Appears inline below project titles or as filter indicators
+
+### Navigation bar
+
+- **Anatomy**: Studio wordmark left, category filter links center-left, utility links right, language toggle and email far right
+- **Surface**: Full-width bar on ink background
+- **Typography**: Navigation token at 1rem; category links in regular weight with active state in light color
+- **Shape**: No border or shadow; separated from content by implied boundary
+- **Spacing**: Horizontal padding approximately 0.625rem; vertical padding tight to maintain compact profile
+- **Composition**: Single horizontal row with flex distribution; list-view toggle as text icon at filter section end
+
+### Contact form
+
+- **Anatomy**: Stacked field groups with labels, text inputs, textareas, and toggle button sets
+- **Surface**: Panel on ink-soft background; fields with transparent or matching backgrounds
+- **Typography**: Body token for labels and inputs; section headings for form group titles
+- **Shape**: No field border-radius; full-width inputs with bottom hairline borders in muted gray
+- **Spacing**: Generous vertical spacing between field groups; internal field padding approximately 0.625rem
+- **Composition**: Single column with left-aligned labels above inputs; project type selection as horizontal toggle button row
+
+### Member directory
+
+- **Anatomy**: Section headings for role categories (Co-Founder, Current Member), individual entries with name and role description
+- **Surface**: Right panel on ink or ink-soft background
+- **Typography**: Section-heading token for category titles; body token for member details
+- **Shape**: No containing borders; entries separated by vertical whitespace
+- **Spacing**: Section headings preceded by substantial vertical space; member entries compactly stacked
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The split-pane architecture suggests a breakpoint where the right panel collapses below the main content or transforms into an overlay. At narrower widths, the project grid reduces from multiple columns to two or single column, maintaining the tight gap rhythm. Category filters in the navigation bar may compress into a dropdown or horizontal scroll container when space constricts.
+
+The contact form, spacious in the right panel, would require full-width treatment on mobile with maintained field stacking. Member directory information might relocate to a dedicated page rather than sharing viewport with project grids on small screens.
+
+Typography scales down modestly if at all—the already-small sizes provide reasonable mobile legibility without dramatic reduction. Touch targets for category tags and pagination would need expansion to meet minimum accessibility requirements.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+- The severe dark-light contrast that frames project imagery
+- Small, neutral typography that serves rather than competes with graphic content
+- Tight grid gaps that create dense, energetic project indexes
+- Sharp rectangular containers without decorative radius
+- Category tag pills as the single softened element in an angular system
+- Split-pane information architecture with context-adapting right panel
+
+### Avoid
+- Adding shadows, gradients, or dimensional effects to UI surfaces
+- Increasing type scale for "visual impact"—the restraint is intentional
+- Rounding card containers or adding frames around thumbnails
+- Lightening the background ground—this would destroy the gallery effect
+- Multiple font families or expressive type treatments in the interface layer
+
+### Recommended build order
+1. Establish the dark ground system with ink and ink-soft tokens
+2. Implement navigation bar with flex distribution and category filter links
+3. Build project grid with CSS Grid or masonry layout, tight gaps, and responsive column behavior
+4. Create project card component with thumbnail, caption, and optional tag array
+5. Develop right panel system with member directory, contact form, and project detail variants
+6. Add category tag component with consistent pill styling
+7. Implement contact form with hairline-bordered fields and toggle button sets
+8. Polish spacing rhythm across all panel types
+
+### Accessibility
+- Ensure category tags and pagination controls meet minimum 44×44dp touch targets on mobile
+- Provide visible focus indicators on navigation links and form fields; the muted border color may need lightening for focus states
+- Maintain sufficient contrast for body text on dark grounds; the canvas token on ink background exceeds WCAG AA requirements
+- Consider adding skip navigation for keyboard users moving past dense project grids
+- Form fields should carry explicit labels with proper association, not placeholder-only text
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#e2e2e2`
-- `#131313`
-- `#787878`
-- `#ffffff`
-- `#000000`
-- `#1c1c1c`
-- `#222222`
-- `#d8baff`
-- `#42ff00`
-- `#ffeb3a`
-
-## Typography captured from everyday-practice.com
-
-- **Font** — weight 400 · size 21.3333px
-- **Applesystem** — weight 400 · size 14px
-- **Apple Sd Gothic Neo** — weight 400 · size 16px
+This guide covers the desktop portfolio and contact surfaces visible in the supplied captures. Mobile breakpoints, hover and focus states, loading behavior, and project detail page transitions are not represented. The member directory and exhibition history appear on the homepage right panel; their full content hierarchy is partially visible. Measurements are practical adaptation targets.

@@ -2,157 +2,193 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/flickr.com-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![About Flickr | We’re the real deal.](https://pin.fontofweb.com/8230?format=jpg)](https://design.withfudge.com/share/pin-8230)
+[![Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://pin.fontofweb.com/8227?format=jpg)](https://design.withfudge.com/share/pin-8227)
 
-[About Flickr | We’re the real deal.](https://design.withfudge.com/share/pin-8230)
+[Features page hero with oversized display typography, editorial photography grid, and email-capture section on dark canvas](https://design.withfudge.com/share/pin-8227)
 
-[![About Flickr | We’re the real deal.](https://pin.fontofweb.com/8229?format=jpg)](https://design.withfudge.com/share/pin-8229)
+[![Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://pin.fontofweb.com/8228?format=jpg)](https://design.withfudge.com/share/pin-8228)
 
-[About Flickr | We’re the real deal.](https://design.withfudge.com/share/pin-8229)
+[Flickr Pro landing page with deep green background, large promotional headline, and blue call-to-action button](https://design.withfudge.com/share/pin-8228)
 
-[![Flickr Pro | Get to know Flickr Pro.](https://pin.fontofweb.com/8228?format=jpg)](https://design.withfudge.com/share/pin-8228)
+[![About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://pin.fontofweb.com/8229?format=jpg)](https://design.withfudge.com/share/pin-8229)
 
-[Flickr Pro | Get to know Flickr Pro.](https://design.withfudge.com/share/pin-8228)
+[About page with alternating text-and-image sections, bold section headings, and top promotional banner](https://design.withfudge.com/share/pin-8229)
 
-[![Flickr | Come for the photos, stay for the weirdos.](https://pin.fontofweb.com/8227?format=jpg)](https://design.withfudge.com/share/pin-8227)
+[![Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://pin.fontofweb.com/8230?format=jpg)](https://design.withfudge.com/share/pin-8230)
 
-[Flickr | Come for the photos, stay for the weirdos.](https://design.withfudge.com/share/pin-8227)
-
-[![Flickr | The best place to be a photographer online.](https://pin.fontofweb.com/8226?format=jpg)](https://design.withfudge.com/share/pin-8226)
-
-[Flickr | The best place to be a photographer online.](https://design.withfudge.com/share/pin-8226)
-
-[![Flickr | The best place to be a photographer online.](https://pin.fontofweb.com/8225?format=jpg)](https://design.withfudge.com/share/pin-8225)
-
-[Flickr | The best place to be a photographer online.](https://design.withfudge.com/share/pin-8225)
+[Three-column editorial card grid with photography backgrounds, white overlay text, and arrow links](https://design.withfudge.com/share/pin-8230)
 
 ## Overview
 
-flickr.com presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#333333`, and `#d9d7ce`, with typography led by **Proxima Nova** and **System**. The guide below names reusable design roles only where the captured evidence supports them.
+Flickr's design system is built around a single principle: photography comes first. The interface operates as a dark, minimal stage that lets images command attention while bold, oversized typography delivers messaging with editorial confidence. The visual language draws from magazine and gallery aesthetics—high contrast, generous whitespace, and a restrained palette that shifts energy through selective accent colors rather than decorative complexity.
 
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content in the main |
-| color.text | `#333333` | text on page content in the main |
-| color.text | `#d9d7ce` | text on page content in the main |
-| color.text | `#0000ee` | text on page content in the main |
-| color.surface | `#232323` | surface on page content in the main |
-| color.surface | `#bdbbb3` | surface on page content in the main |
-| color.surface | `#f6ff00` | surface on page content in the main |
-| color.text | `#ffffff` | text on page content in the main |
-| color.surface | `#ff0084` | surface on page content in the header |
-| color.surface | `#98d6d9` | surface on page content in the main |
-| color.surface | `#0967e7` | surface on page content in the main |
-| color.text | `#787878` | text on page content in the main |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-22.3333px | **Proxima Nova** | 22.3333px | 400 | 20px | normal | <a> in the main, <div> in the main, <div> in the header, and <div> |
-| type.display-107.2px | **Proxima Nova** | 107.2px | 700 | 80.4px | -5px | <h2> in the main |
-| type.display-138.467px | **Proxima Nova** | 138.467px | 700 | 96.9267px | -6px | <h1> in the main and <span> in the main |
-| type.display-44.6667px | **Proxima Nova** | 44.6667px | 700 | 44.6667px | -1px | <h2> in the main |
-| type.display-55.8333px | **Proxima Nova** | 55.8333px | 700 | 44.6667px | -1px | <h2> in the main |
-| type.heading-22.3333px | **Proxima Nova** | 22.3333px | 600 | 20px | normal | <a> in the main and <div> in the main |
-| type.body-27.9167px | **Proxima Nova** | 27.9167px | 300 | 36.2917px | normal | <span> in the main and <p> in the main |
-| type.body-16px | **Proxima Nova** | 16px | 400 | 20px | normal | <div> in the header |
-| type.body-20.1px | **Proxima Nova** | 20.1px | 300 | 30.15px | normal | <p> |
-| type.body-22.3333px | **Proxima Nova** | 22.3333px | 300 | 29.0333px | normal | <p> in the main |
-| type.display-55.8333px | **Proxima Nova** | 55.8333px | 700 | 41.875px | -1px | <h3> in the main |
-| type.heading-20.1px | **Proxima Nova** | 20.1px | 700 | 30.15px | normal | <p> |
-| type.body-20.1px | **Proxima Nova** | 20.1px | 400 | 20px | 0.5px | <a> in the nav |
-| type.heading-20.1px | **Proxima Nova** | 20.1px | 700 | 25.125px | 1px | <div> in the main |
-| type.body-15.075px | **Proxima Nova** | 15.075px | 400 | 25.6275px | normal | <div> in the main |
-| type.heading-17.8667px | **Proxima Nova** | 17.8667px | 600 | 26.8px | 1px | <div> in the main |
-| type.heading-20.1px | **Proxima Nova** | 20.1px | 700 | 24.12px | 0.5px | <a> in the header |
-| type.heading-20.1px | **Proxima Nova** | 20.1px | 700 | 20px | 1px | <a> in the header |
-| type.display-107.2px | **Proxima Nova** | 107.2px | 700 | 80.4px | -6px | <h2> in the main |
-| type.heading-16px | **Proxima Nova** | 16px | 700 | 16px | 1px | <a> in the main |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `55.8333px 33.5px` | padding | page content |
-| `0px 0px -44.6667px` | margin | page content |
-| `44.6667px 33.5px 33.5px` | padding | page content |
-| `0px 164.844px 0px 164.828px` | margin | page content |
-| `26.8px 0px 0px` | margin | page content |
-| `22.3333px 0px 0px` | padding | page content |
-| `55.8333px 55.8333px 33.5px` | padding | page content |
-| `22.3333px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `22px solid 0px`, `40px solid 0px`, `0px none 7px`, `0px none 5px`, `1px solid 50%`, and `1px solid 50%` border treatments.
+The system uses a near-black canvas as its foundation, with warm off-white text that avoids the clinical harshness of pure white on pure black. Typography scales dramatically, with hero display sizes reaching nearly 140 pixels for homepage headlines that compete with the photography for visual dominance. Navigation and functional text stay smaller and lighter, creating a clear hierarchy between expressive messaging and utility. The result is a browsing experience that feels like moving through a curated exhibition rather than a conventional website.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#232323`, and `#bdbbb3`. Text colors include `#333333`, `#d9d7ce`, and `#0000ee`. Keep image-derived colors separate from interface colors.
+The color system is intentionally narrow, relying on value contrast and a single vibrant accent to create energy against the dark canvas.
+
+| token | value | use |
+|---|---|---|
+| canvas | #000000 | Primary page background; deepest layer behind all content |
+| surface | #161613 | Elevated panels, card backgrounds, secondary containers |
+| surface-elevated | #232323 | Header bar, navigation regions, subtle elevation shifts |
+| ink | #D9D7CE | Primary headings, display text, high-emphasis content |
+| ink-muted | #BDBBB3 | Body copy, descriptions, secondary text |
+| ink-inverse | #FFFFFF | Text on photography, buttons, and dark overlays |
+| action-primary | #0967E7 | Primary call-to-action buttons, Pro upgrade prompts |
+| action-accent | #FF0084 | Flickr brand pink; navigation highlights, text links, emphasis |
+| action-accent-hover | #F6FF00 | High-visibility accent for hover states and special highlights |
+| border-subtle | #2D2D2D | Dividers between dark sections, minimal separation |
+| border-light | #CCCCCC | Light borders on elevated surfaces, form outlines |
+
+The dark canvas dominates every page, with body backgrounds consistently at `#000000`. Text operates in two modes: warm off-white for general readability against dark surfaces, and pure white for maximum contrast on photography or within interactive elements. The pink accent (`#FF0084`) functions as Flickr's signature brand color, appearing in navigation active states, text links, and the prominent "SIGN UP" button. Blue (`#0967E7`) serves a functional role for Pro-related calls to action, creating a secondary accent that signals premium features. Yellow (`#F6FF00`) appears sparingly as a high-energy highlight for special emphasis and hover feedback.
 
 ## Typography
 
-The captured type system uses **Proxima Nova**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system is built on Proxima Nova, designed by Mark Simonson and available through Mark Simonson Studio LLC. System-Systemui appears for smallest utility text where custom font loading would be disproportionate. Verify licensing for these families before production use.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | Proxima Nova | 8.625rem | 700 | 0.9 | -0.0375em | Homepage hero headlines; maximum visual impact |
+| section-display | Proxima Nova | 6.75rem | 700 | 0.9 | -0.03125em | Section-level display; Pro page hero |
+| headline-large | Proxima Nova | 3.5rem | 700 | 1 | -0.03125em | Major section headings, feature titles |
+| headline-medium | Proxima Nova | 2.25rem | 700 | 1.1 | -0.03125em | Card titles, sub-section headings |
+| body-large | Proxima Nova | 1.5rem | 300 | 1.5 | normal | Long-form descriptions, editorial body |
+| body | Proxima Nova | 1.375rem | 400 | 1.25 | normal | Navigation, utility text, general content |
+| label | Proxima Nova | 1.25rem | 700 | 1.2 | 0.0625em | Buttons, tags, uppercase labels |
+| navigation | Proxima Nova | 1.25rem | 400 | 1 | 0.03125em | Primary nav, header links |
+| caption | Proxima Nova | 1rem | 400 | 1.25 | normal | Small utility text, metadata |
+
+The type system is defined by extreme scale contrast. Hero display sizes use Extrabold weight with tight negative tracking, creating dense, impactful blocks of text that read as graphic elements. At the other end, body-large uses Light weight with generous line height for comfortable reading of longer passages. The middle range—headline sizes—bridges these extremes for section organization. Letter spacing is consistently negative for display sizes, normal for body, and slightly positive for labels and navigation to improve all-caps readability. System-Systemui at 14px serves smallest utility contexts where the custom typeface is not loaded.
 
 ## Layout
 
-The captured pages use values such as `55.8333px 33.5px`, `0px 0px -44.6667px`, `44.6667px 33.5px 33.5px`, `0px 164.844px 0px 164.828px`, and `26.8px 0px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout system favors full-bleed sections with asymmetric content placement, creating dynamic tension between text and imagery.
+
+Content sections use generous vertical padding, typically `3.5rem` to `6.75rem`, with horizontal gutters at `2.125rem`. The maximum content width centers around `85rem`, though many elements—particularly hero typography and photography—break this container to edge the viewport. Sections stack vertically with no visible borders between them, relying on background color shifts or photography to create separation.
+
+The header is a fixed or persistent bar at `surface-elevated` color, containing the Flickr wordmark, primary navigation, search, and authentication actions. Navigation items space evenly with `1.125rem` horizontal margins. Below the header, a thin promotional banner in light gray provides upgrade messaging, creating a subtle horizontal band that separates navigation from content.
+
+Content sections follow two dominant patterns: full-bleed photography with overlaid text, and split compositions with text on one side and imagery on the other. The split layouts favor the imagery, often placing it at 60% width or more. Text blocks maintain comfortable measure through generous padding rather than rigid column constraints. On the Features page, a grid of photography cards creates editorial rhythm, with text captions positioned at image edges.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#232323`, `#bdbbb3`, and `#f6ff00`. No structured gradient or shadow treatment is established.
+Flickr's visual identity is photography-centric in every detail. The dark canvas functions as a gallery wall—neutral, unobtrusive, designed to make images appear luminous. When photography fills sections, text overlays use pure white with subtle text-shadow or gradient scrims for legibility without heavy boxes.
 
-## Components and states
+The brand's signature pink dot appears in the logo mark and as an accent throughout, creating instant recognition. This pink is vibrant and warm, distinct from the cooler blue used for functional actions. The combination of near-black backgrounds with this pink and occasional yellow creates a palette that feels contemporary and creative rather than corporate.
 
-The captured pages include repeated styling on <a>, <h2>, <div>, <p>, <h3>, <span>, <strong>, and <h1> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+Imagery treatment varies by context: editorial photography appears full-bleed with natural color; promotional sections use stylized or illustrated photography with bold color blocking; community photography displays with photographer attribution in small, light text at image corners. The overall effect prioritizes authenticity and creative expression over polished perfection.
+
+Decorative elements are minimal. Arrows indicate linked content rather than underlines. Borders are hairline-thin when present. Rounded corners appear only on interactive elements like buttons, keeping photographic containers sharp-edged for maximum impact.
+
+## Components
+
+### Primary button
+
+- **Anatomy**: Text label with no icon, solid fill
+- **Surface**: `action-primary` background with `ink-inverse` text
+- **Typography**: `label` token, uppercase, letter-spaced
+- **Shape**: `0.3125rem` border radius
+- **Spacing**: `0.5625rem` vertical padding, `1.375rem` horizontal padding
+- **Composition**: Inline or left-aligned within sections
+- **Variants**: Blue for Pro actions; pink `action-accent` for sign-up and brand moments
+
+### Accent button
+
+- **Anatomy**: Text label with no icon, solid fill
+- **Surface**: `action-accent` background with `ink-inverse` text
+- **Typography**: `label` token, uppercase, letter-spaced
+- **Shape**: `0.3125rem` border radius
+- **Spacing**: `0.5625rem` vertical padding, `1.375rem` horizontal padding
+- **Composition**: Header-adjacent for high-priority actions
+
+### Text link
+
+- **Anatomy**: Inline text with arrow indicator for external or emphasized links
+- **Surface**: Transparent background
+- **Typography**: `navigation` token, `action-accent` color
+- **Composition**: Inline with body text or as standalone call-to-action
+- **States**: Underline on hover; arrow translates right
+
+### Section heading
+
+- **Anatomy**: Large display text, often multi-line
+- **Surface**: Transparent, inherits section background
+- **Typography**: `headline-large` or `section-display` depending on hierarchy
+- **Composition**: Left-aligned or centered; may overlap photography
+- **Spacing**: `2.125rem` to `3.5rem` bottom margin before body content
+
+### Editorial card
+
+- **Anatomy**: Photography background with text overlay and arrow link
+- **Surface**: Full-bleed image with dark gradient scrim at bottom
+- **Typography**: `headline-medium` for title, `label` for link text
+- **Shape**: No border radius; sharp edges
+- **Composition**: Grid of equal-width columns with `2.125rem` gutters
+- **States**: Hover reveals or emphasizes arrow; slight image scale
+
+### Email capture
+
+- **Anatomy**: Text input with submit button, optional checkbox
+- **Surface**: `surface` or transparent over photography
+- **Typography**: `body` for input, `label` for button
+- **Shape**: Input with `0.4375rem` radius; button with `0.3125rem` radius
+- **Composition**: Stacked or inline depending on context; often overlaid on dramatic photography
+
+### Navigation header
+
+- **Anatomy**: Logo, primary links, search, auth actions
+- **Surface**: `surface-elevated` background
+- **Typography**: `navigation` for links, `label` for active/highlighted items
+- **Spacing**: `0.6875rem` vertical padding; `1.125rem` link margins
+- **Composition**: Horizontal flex with logo left, actions right; dropdown indicators on parent items
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design system is documented from desktop viewport widths. At narrower widths, the extreme display typography should scale down proportionally—hero sizes reducing to `section-display`, then `headline-large`—while maintaining weight and tracking characteristics. The multi-column editorial grids should collapse to single columns with maintained aspect ratios on photography.
+
+Navigation should collapse to a menu trigger below approximately `64rem` width, with the promotional banner potentially hiding to preserve vertical space. Split layouts should stack with imagery preceding text, as the photography carries primary communicative weight.
+
+Touch targets for buttons and links should maintain minimum `2.75rem` height. The dense negative tracking on display sizes may require slight loosening at smallest sizes to preserve legibility.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; none are established.
+### Preserve
+- The extreme scale contrast between display and body type; this is central to Flickr's editorial personality
+- Full-bleed photography with minimal overlay treatment; avoid boxing images in heavy containers
+- The warm off-white `ink` color against dark backgrounds rather than pure white for general text
+- The signature pink accent as a brand identifier, not merely a decorative color
+- Photographer attribution as small, light text at image edges
+
+### Avoid
+- Adding background colors or borders around photography that compete with the image
+- Using the display type sizes for body content; the tight tracking and extreme weight become illegible
+- Introducing additional accent colors beyond the established pink, blue, and yellow
+- Heavy drop shadows or dimensional effects; the system is flat and photography-driven
+- Centering long passages of body text; left alignment maintains the editorial feel
+
+### Recommended build order
+1. Establish the dark canvas and surface color tokens
+2. Implement Proxima Nova with the full weight range (Light, Regular, Semibold, Extrabold)
+3. Build the type scale from hero-display down to caption
+4. Create the header with navigation and promotional banner
+5. Implement full-bleed hero sections with overlaid typography
+6. Build editorial card grids with photography and text overlays
+7. Add button components with primary and accent variants
+8. Implement email capture with appropriate form styling
+
+### Accessibility
+- Ensure text over photography meets contrast minimums through gradient scrims or text-shadow
+- Provide focus indicators that are visible against dark backgrounds; consider `action-accent` or `action-primary` outlines
+- Maintain logical heading hierarchy despite visual scale; hero display should still be `h1` where appropriate
+- The pink accent against dark backgrounds should be verified for WCAG AA compliance at normal text sizes
+- Photography alt text should be descriptive given the image-centric nature of the site
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#333333`
-- `#d9d7ce`
-- `#0000ee`
-- `#232323`
-- `#bdbbb3`
-- `#f6ff00`
-- `#ffffff`
-- `#ff0084`
-- `#98d6d9`
-- `#0967e7`
-- `#787878`
-- `#161613`
-- `#cccccc`
-
-## Typography captured from flickr.com
-
-- **Proxima Nova** — weight 400 · size 22.3333px
-- **System** — weight 400 · size 14px
+This guide covers Flickr's marketing and feature pages as represented in the supplied images: the homepage, Features page, Flickr Pro landing page, and About page. The photography-focused canvas, editorial typography, and promotional components are documented. Items not covered include mobile layouts, authenticated user dashboards, photo upload flows, search results, community group pages, and any motion or animation behavior. Measurements reflect the desktop viewport widths captured in the source material.
