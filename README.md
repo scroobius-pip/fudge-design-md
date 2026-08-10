@@ -736,6 +736,14 @@ Kit's dashboard interface presents a warm, approachable visual system built arou
 
 [Open guide](design-md/app.kit.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.kit.com-design)
 
+### app.kuse.ai
+
+[![How app.kuse.ai is designed](https://pin.fontofweb.com/1066?format=jpg)](design-md/app.kuse.ai.md)
+
+Kuse AI presents a distinctive visual identity that bridges editorial sophistication with SaaS utility. The interface centers on a warm, muted palette dominated by mauve-browns and cream tones, creating an approachable yet premium atmosphere distinct from typical cool-toned AI tools. The design language relies on strong typographic contrast: elegant italic serifs for display and emotional headlines, paired with a clean geometric sans-serif for all functional text, labels, and data. This dual-font system establishes clear hierarchy while maintaining readability across dense information surfaces like pricing tables and onboarding flows. The overall impression is of a thoughtful, human-centered workspace that treats AI interaction as a creative process rather than a purely technical one.
+
+[Open guide](design-md/app.kuse.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.kuse.ai-design)
+
 ### app.nocodeapi.com
 
 [![How app.nocodeapi.com is designed](https://pin.fontofweb.com/2099?format=jpg)](design-md/app.nocodeapi.com.md)
@@ -1360,6 +1368,14 @@ Brevo's pricing interface presents a conversion-optimized experience built on a 
 
 [Open guide](design-md/brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/brevo.com-design)
 
+### broadcom.com
+
+[![How broadcom.com is designed](https://pin.fontofweb.com/2322?format=jpg)](design-md/broadcom.com.md)
+
+The Broadcom design system presents a corporate technology identity built around high-contrast red branding against expansive white space. The visual language communicates semiconductor precision and enterprise reliability through disciplined typography, geometric iconography, and hierarchical navigation structures. The system balances marketing storytelling with dense product information architecture, serving both investor relations and engineering procurement audiences. Key characteristics include a persistent red brand bar anchoring the header, circular solution icons in deep blue, and a dual-mode navigation that switches between light promotional surfaces and dark functional menus. The overall impression is of a mature B2B technology company—authoritative, structured, and globally scaled.
+
+[Open guide](design-md/broadcom.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/broadcom.com-design)
+
 ### brookings.edu
 
 [![How brookings.edu is designed](https://pin.fontofweb.com/9557?format=jpg)](design-md/brookings.edu.md)
@@ -1439,6 +1455,14 @@ Buffer's design system presents a warm, human-centered visual language that bala
 Bugster's visual identity merges developer credibility with approachable playfulness. The system centers on a warm, textured off-white canvas that feels like premium paper rather than sterile digital space. Electric blue serves as the energetic brand anchor, appearing in the chameleon mascot illustrations and key interactive moments. The typography pairs a clean, modern sans-serif for interface clarity with a monospace face for code-centric testimonials and technical moments—creating a rhythm between human-readable marketing and machine-readable authenticity. Hand-drawn illustration style with bold black outlines and flat color fills distinguishes the brand from typical SaaS minimalism. The overall composition favors generous whitespace, centered section headings, and card-based organization that lets the mascot characters breathe while maintaining clear information hierarchy.
 
 [Open guide](design-md/bugster.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/bugster.dev-design)
+
+### buick.com
+
+[![How buick.com is designed](https://pin.fontofweb.com/932?format=jpg)](design-md/buick.com.md)
+
+The Buick.com design system presents a premium automotive experience built on restraint and warmth. The visual language avoids cold corporate sterility in favor of an approachable elegance that mirrors the brand's positioning in the luxury crossover market. The foundation rests on a warm off-white canvas that softens the technical precision of vehicle photography, while a distinctive copper-orange accent provides energy and clear wayfinding without overwhelming the composed atmosphere.
+
+[Open guide](design-md/buick.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/buick.com-design)
 
 ### builder.io
 
@@ -1959,6 +1983,14 @@ Concepts App presents itself as a dark-mode creative-tool marketing experience b
 GroqCloud's home screen is a dark developer console with a tight, centered reading column and a strong hierarchy of rounded panels. The page does not try to feel expansive or decorative. It feels controlled, technical, and compact: a top bar, a sign-in block, and a model directory stacked one after another inside a charcoal shell. The visual mood comes from restraint. Most surfaces sit inside the same black-to-stone family, while the brightest notes are the coral brand accent and the pale blue secondary highlight.
 
 [Open guide](design-md/console.groq.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/console.groq.com-design)
+
+### consumer.huawei.com
+
+[![How consumer.huawei.com is designed](https://pin.fontofweb.com/10654?format=jpg)](design-md/consumer.huawei.com.md)
+
+The HUAWEI consumer site presents a product-first ecommerce experience built around large, immersive imagery and clear transactional pathways. The visual system prioritizes the products themselves—wearables rendered in high fidelity against minimal backgrounds—while using typography and spacing to create clear information hierarchy. The design language is restrained and confident: a near-monochrome palette with selective red accents, generous whitespace, and a single sans-serif type family that scales from small UI labels to large section headings without losing clarity.
+
+[Open guide](design-md/consumer.huawei.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/consumer.huawei.com-design)
 
 ### contentformcontext.com
 
@@ -2607,6 +2639,14 @@ Doodle Duo presents a warm, family-centered visual identity built around the app
 Doodle Warriors presents a bold, energetic visual system built around a dark foundation with vibrant purple action elements and playful coral-pink accents. The design targets aspiring digital artists with a confident, approachable personality that balances professional credibility with creative enthusiasm. The interface alternates between deep navy-black immersive sections and clean light-gray functional areas, creating visual rhythm across long-scrolling pages. Typography pairs a friendly, rounded display face for headlines with a clean sans-serif for body content, ensuring readability while maintaining character. The overall impression is of a modern ed-tech platform that doesn't take itself too seriously—inviting users to join a creative community rather than complete a transaction.
 
 [Open guide](design-md/doodlewarriors.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/doodlewarriors.com-design)
+
+### doom.bethesda.net
+
+[![How doom.bethesda.net is designed](https://pin.fontofweb.com/1834?format=jpg)](design-md/doom.bethesda.net.md)
+
+The DOOM: The Dark Ages marketing site presents a visceral, dark-cinematic visual system built for high-impact game promotion. The design immerses viewers in a near-black environment where atmospheric photography, dramatic character art, and bold typographic statements dominate. Every surface reinforces the franchise's aggressive, hellish identity through restrained color, maximal contrast, and carefully orchestrated hierarchy.
+
+[Open guide](design-md/doom.bethesda.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/doom.bethesda.net-design)
 
 ### dosu.dev
 
@@ -3839,6 +3879,14 @@ HASH.dev presents a developer-facing brand identity built on clarity, openness, 
 HATRA OFFICIAL presents a deliberately restrained e-commerce experience built around the clarity of its product photography. The visual system operates in two distinct modes: a light, airy presentation for product browsing and purchasing, and a dark, immersive mode for editorial and campaign content. The homepage opens with a full-bleed collaboration hero—here featuring Ghost in the Shell—where white typography and navigation float over rich, dark imagery. Product pages and collection grids invert this relationship, placing garments against pale, neutral backgrounds with dark text. The overall impression is one of editorial precision: generous whitespace, minimal interface chrome, and typography that recedes in favor of the clothing. Navigation is sparse, with only Store, Project, Info, and Cart links anchoring the header. The system prioritizes the garment as the primary visual event, using consistent framing, neutral backdrops, and understated labeling to maintain focus.
 
 [Open guide](design-md/hatroid.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/hatroid.com-design)
+
+### hauntii.com
+
+[![How hauntii.com is designed](https://pin.fontofweb.com/10491?format=jpg)](design-md/hauntii.com.md)
+
+Hauntii's landing page presents a single-screen experience built around a stark black canvas and a central hand-drawn illustration. The design language draws from vintage horror aesthetics and theatrical poster typography, pairing a decorative serif display face with minimal system UI elements. Every interface element exists to frame the artwork and direct attention toward two actions: watching the trailer or accessing the press kit. The monochrome palette eliminates distraction, while generous negative space and precise letter-spacing give the compact layout an expansive, cinematic quality. The overall impression is of a curated gallery piece rather than a conventional product page, with the ghost illustration serving as both brand identity and emotional anchor.
+
+[Open guide](design-md/hauntii.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/hauntii.com-design)
 
 ### haupcar.com
 
@@ -5720,6 +5768,14 @@ Natoma's design system serves an enterprise MCP gateway platform, balancing tech
 
 [Open guide](design-md/natoma.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/natoma.ai-design)
 
+### natoma.run
+
+[![How natoma.run is designed](https://pin.fontofweb.com/7708?format=jpg)](design-md/natoma.run.md)
+
+Natoma is a developer-focused directory for discovering and running MCP (Model Context Protocol) servers. The visual system balances clinical precision with approachable warmth through a restrained monochrome palette punctuated by a distinctive mint-green hero treatment. The interface prioritizes scanability and action: server cards present dense tool information in digestible grids, while the hero search experience invites immediate exploration. Every element serves the core workflow of finding, evaluating, and executing server capabilities. The design avoids decorative excess in favor of clear hierarchy, consistent spacing, and purposeful interactivity that respects developer attention.
+
+[Open guide](design-md/natoma.run.md) · [View the Fudge conversation](https://design.withfudge.com/share/natoma.run-design)
+
 ### nature.com
 
 [![How nature.com is designed](https://pin.fontofweb.com/9909?format=jpg)](design-md/nature.com.md)
@@ -6000,6 +6056,14 @@ Obsidian presents a dark, premium fintech aesthetic built on near-black canvases
 
 [Open guide](design-md/obsidianos.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/obsidianos.com-design)
 
+### ocoya.com
+
+[![How ocoya.com is designed](https://pin.fontofweb.com/7673?format=jpg)](design-md/ocoya.com.md)
+
+Ocoya's marketing site presents a dark, immersive environment designed to showcase AI-powered social media management tools. The visual system relies on near-black backgrounds, warm off-white typography, and muted gray secondary text to create a premium SaaS aesthetic. The design organizes content into rounded cards that float against the deep canvas, each containing product screenshots, feature descriptions, or social content previews. The hierarchy moves from centered section headers with small category badges down to multi-column card grids, then into detailed feature blocks with embedded UI mockups. The overall impression is technical yet approachable, using generous whitespace within cards and tight gaps between them to maintain visual density without clutter. Product imagery inside cards uses realistic interface screenshots and social media posts, giving visitors immediate recognition of the platform's capabilities.
+
+[Open guide](design-md/ocoya.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ocoya.com-design)
+
 ### octolane.com
 
 [![How octolane.com is designed](https://pin.fontofweb.com/3155?format=jpg)](design-md/octolane.com.md)
@@ -6095,6 +6159,14 @@ The Onest font presentation site is a typographic showcase built around clarity,
 Onmy.land is a personal-site builder whose marketing presence uses a dark, editorial aesthetic to position user-created pages as owned digital land. The design language pairs a near-black canvas with warm off-white typography, creating a gallery-like environment where light-colored demo pages and content panels appear to float forward. The system relies on two principal type families: Lt Remark, a refined serif with italic cuts, for display headlines that carry literary weight; and Inter, a neutral sans-serif, for all interface, body, and label text. Applesystem appears as a system fallback at 14px in isolated contexts. This pairing creates clear hierarchy without visual noise—serif commands attention at large sizes, while sans-serif recedes into efficient navigation and functional copy. The overall impression is restrained, confident, and slightly academic: a platform that treats personal websites as craft objects rather than social profiles.
 
 [Open guide](design-md/onmy.land.md) · [View the Fudge conversation](https://design.withfudge.com/share/onmy.land-design)
+
+### onton.com
+
+[![How onton.com is designed](https://pin.fontofweb.com/10494?format=jpg)](design-md/onton.com.md)
+
+Onton presents a confident, editorial visual system built around the tension between warm, tactile interior photography and crisp, geometric typography. The brand identity centers on a custom wordmark—an oversized, interwoven "ONTON" letterform paired with a circular knot emblem—that dominates both light and dark page surfaces. The interface alternates between a warm stone canvas and near-black depths, creating distinct moods for discovery (light, airy, photographic) and structural pages (dark, grounded, typographic). The design prioritizes generous whitespace, restrained color, and clear information hierarchy, letting product imagery and the bold logotype carry emotional weight while UI elements recede into quiet functionality.
+
+[Open guide](design-md/onton.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/onton.com-design)
 
 ### open.spotify.com
 
@@ -6656,6 +6728,14 @@ PocketUI presents a developer-focused SaaS product through a restrained, light-t
 
 [Open guide](design-md/pocketui.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/pocketui.app-design)
 
+### polsia.com
+
+[![How polsia.com is designed](https://pin.fontofweb.com/7666?format=jpg)](design-md/polsia.com.md)
+
+Polsia presents a deliberately austere visual system that contrasts classical editorial typography with the raw aesthetic of a live terminal interface. The design philosophy centers on radical simplicity: black ink on white canvas, a single warm orange accent for live-state indicators, and an uncluttered information hierarchy that lets data breathe. The homepage opens with a stark black terminal header showing system logs, followed by an urgent orange banner announcing live company activity. Below, a spacious white field carries a large serif headline and minimal call-to-action, creating an almost manifesto-like landing experience. The live dashboard transforms this restraint into dense information architecture—task cards with orange borders, scrolling social feeds, email queues, and advertising metrics arranged in a disciplined multi-column grid. The system feels like a financial newspaper crossed with a developer console: authoritative, unembellished, and obsessively focused on operational transparency.
+
+[Open guide](design-md/polsia.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/polsia.com-design)
+
 ### polymarket.com
 
 [![How polymarket.com is designed](https://pin.fontofweb.com/8585?format=jpg)](design-md/polymarket.com.md)
@@ -6663,6 +6743,14 @@ PocketUI presents a developer-focused SaaS product through a restrained, light-t
 Polymarket presents a dark, data-dense prediction market interface designed for rapid scanning and decision-making. The visual system prioritizes legibility of numerical data—probabilities, prices, and volumes—against a near-black canvas. Information hierarchy is established through color saturation rather than size variation: bright accent colors signal actionable data points while muted grays recede into supporting context. The interface organizes markets into scannable cards, each containing embedded probability charts, outcome buttons, and metadata. A persistent navigation bar provides category filtering, while sidebars surface trending topics and breaking news with percentage indicators. The overall impression is of a financial terminal reimagined for consumer prediction markets: serious, efficient, and visually restrained except where color encodes meaning.
 
 [Open guide](design-md/polymarket.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/polymarket.com-design)
+
+### pop.site
+
+[![How pop.site is designed](https://pin.fontofweb.com/7732?format=jpg)](design-md/pop.site.md)
+
+Pop Site presents a confident, minimal visual system built around a single idea: make personal site creation feel effortless and premium. The design alternates between expansive white space and dramatic dark moments, using oversized display typography as its primary visual signature. The interface relies on a tight typographic hierarchy with generous negative space, punctuated by a single vibrant blue action color that appears consistently across claim buttons, links, and interactive elements. Phone mockups serve as the primary illustrative device, floating against light or dark backgrounds to demonstrate the product's output. The overall impression is one of clarity and modern professionalism—no decorative excess, just bold statements, clean cards, and clear paths to action.
+
+[Open guide](design-md/pop.site.md) · [View the Fudge conversation](https://design.withfudge.com/share/pop.site-design)
 
 ### poppy-connection-keeper.netlify.app
 
@@ -6760,6 +6848,14 @@ Prime Intellect's design system presents a dark, technical aesthetic built for a
 
 [Open guide](design-md/primeintellect.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/primeintellect.ai-design)
 
+### priorlabs.ai
+
+[![How priorlabs.ai is designed](https://pin.fontofweb.com/6866?format=jpg)](design-md/priorlabs.ai.md)
+
+Prior Labs presents a visual identity that balances technical precision with approachable warmth. The system is built around a deep navy ink that serves as both primary text and interactive action color, set against clean white and subtle warm-gray surfaces. The typographic approach pairs a geometric variable sans for display headings with a semi-mono sans for all body, navigation, and interface text—creating a rhythm that feels computational without being cold. Every element, from job listings to city cards to partner logos, shares this restrained palette and consistent spacing logic. The result is a design language that communicates research credibility and engineering excellence while remaining inviting to potential collaborators and hires.
+
+[Open guide](design-md/priorlabs.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/priorlabs.ai-design)
+
 ### prismdata.com
 
 [![How prismdata.com is designed](https://pin.fontofweb.com/4462?format=jpg)](design-md/prismdata.com.md)
@@ -6783,6 +6879,14 @@ Product Hunt presents a content-dense product discovery experience built on a wh
 ProfitPath presents a clean, modern SaaS aesthetic built around trust and data clarity. The visual system centers on generous white space, a vibrant blue accent palette, and crisp typography that balances authority with accessibility. The homepage opens with a bold gradient headline treatment that shifts from dark ink to bright blue, immediately establishing the brand's energetic yet professional character. Below the hero, the design transitions into feature showcases, social proof, and pricing tiers that maintain visual consistency through repeated surface treatments, rounded corners, and systematic spacing.
 
 [Open guide](design-md/profitpath.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/profitpath.com-design)
+
+### projectfluent.org
+
+[![How projectfluent.org is designed](https://pin.fontofweb.com/5619?format=jpg)](design-md/projectfluent.org.md)
+
+Project Fluent presents itself as a developer-focused localization framework with a visual identity that prioritizes clarity and technical credibility over decorative flourish. The site opens with a dramatic, airy hero: a single word "Fluent" rendered in an extremely light weight, centered in vast whitespace, anchored by a script wordmark in the upper left and a minimal navigation bar. This establishes immediate confidence through restraint rather than density.
+
+[Open guide](design-md/projectfluent.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/projectfluent.org-design)
 
 ### prompts.voao.co
 
@@ -6928,6 +7032,22 @@ RAMA WORKS presents a design language rooted in product craftsmanship and editor
 
 [Open guide](design-md/rama.works.md) · [View the Fudge conversation](https://design.withfudge.com/share/rama.works-design)
 
+### ramen.haus
+
+[![How ramen.haus is designed](https://pin.fontofweb.com/10558?format=jpg)](design-md/ramen.haus.md)
+
+RamenHaus presents a disciplined split-view portfolio system designed to showcase food photography with editorial restraint. The layout divides the viewport into two distinct zones: a full-bleed image panel that dominates the left portion of the screen, and a minimal white content panel that anchors the right. This architectural approach treats photography as the primary content while maintaining a clean, navigable interface for project information and wayfinding.
+
+[Open guide](design-md/ramen.haus.md) · [View the Fudge conversation](https://design.withfudge.com/share/ramen.haus-design)
+
+### ramp.com
+
+[![How ramp.com is designed](https://pin.fontofweb.com/9052?format=jpg)](design-md/ramp.com.md)
+
+Ramp's homepage presents a confident, editorial visual system built for a finance platform serving tens of thousands of teams. The design language leans into restraint: a near-black and warm-white palette, a single Swiss typeface at multiple scales, and generous breathing room between elements. The overall impression is of a premium product that does not need to shout—authority comes from precision, not decoration.
+
+[Open guide](design-md/ramp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ramp.com-design)
+
 ### range.com
 
 [![How range.com is designed](https://pin.fontofweb.com/8933?format=jpg)](design-md/range.com.md)
@@ -7008,6 +7128,14 @@ The Redis.io homepage presents a dark, developer-centric visual language built o
 
 [Open guide](design-md/redis.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/redis.io-design)
 
+### redo.com
+
+[![How redo.com is designed](https://pin.fontofweb.com/5429?format=jpg)](design-md/redo.com.md)
+
+Redo presents a sophisticated dark-mode SaaS experience built around post-purchase commerce operations. The visual system establishes immediate credibility through restrained elegance: a near-black canvas hosts warm white typography, punctuated by a vivid orange that drives action without overwhelming the editorial tone. The design language speaks to operations teams and brand decision-makers through clarity and confidence rather than playful decoration.
+
+[Open guide](design-md/redo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/redo.com-design)
+
 ### redreach.ai
 
 [![How redreach.ai is designed](https://pin.fontofweb.com/10189?format=jpg)](design-md/redreach.ai.md)
@@ -7015,6 +7143,14 @@ The Redis.io homepage presents a dark, developer-centric visual language built o
 Redreach.ai presents a modern SaaS identity built on the tension between editorial warmth and technical precision. The visual system pairs the humanist serif Recoleta for display typography against the neutral, highly legible Inter for all body and interface text. This combination creates immediate brand recognition: the serif headings feel trustworthy and editorial, while the sans-serif body maintains the clarity expected of a productivity tool.
 
 [Open guide](design-md/redreach.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/redreach.ai-design)
+
+### refit.framer.website
+
+[![How refit.framer.website is designed](https://pin.fontofweb.com/5556?format=jpg)](design-md/refit.framer.website.md)
+
+Refit presents a construction and renovation brand through a restrained, editorial visual system. The design pairs stark black typography against expansive white space, creating a gallery-like atmosphere that lets interior photography breathe. The tone is professional and confident without heaviness—achieved through thin, elegant display letterforms and generous margins that suggest precision and care. Warm photographic content showing wood ceilings, neutral walls, and crafted interiors provides the emotional warmth that the typographic system deliberately withholds. This contrast between cool, minimal structure and warm, tactile imagery defines the brand's visual personality: expert craftsmanship delivered with modern clarity.
+
+[Open guide](design-md/refit.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/refit.framer.website-design)
 
 ### regeneratio.eu
 
@@ -7047,6 +7183,14 @@ Replacement.AI presents itself as a deliberately confrontational product landing
 Replit's visual system is built around a warm, approachable foundation that contrasts with the cold precision typical of developer tools. The interface pairs a soft cream canvas with near-black typography, using vivid orange as an energetic accent for calls-to-action and key moments. This creates a distinctive personality that feels both creative and professional. The system is expressed across two primary contexts: a light, editorial marketing experience and a dark, focused workspace environment. Typography plays a central role, with Dinamo's ABC Diatype family providing a contemporary grotesque voice that ranges from monumental display settings to precise UI labels. The overall impression is one of confident simplicity—generous whitespace, clear hierarchy, and moments of bold color that guide attention without overwhelming.
 
 [Open guide](design-md/replit.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/replit.com-design)
+
+### republic.com
+
+[![How republic.com is designed](https://pin.fontofweb.com/6981?format=jpg)](design-md/republic.com.md)
+
+Republic's design system serves a financial technology platform that connects investors with private market opportunities. The interface alternates between dramatic dark hero sections and clean, airy light content areas, creating visual rhythm that separates marketing narrative from functional content. The system relies on a single type family—Inter—used across all weights from Regular to Bold, establishing consistency while allowing hierarchy through size and weight contrast. A vivid blue defines primary actions, while a bright green accent appears selectively for financial metrics and success indicators. The overall impression is institutional yet approachable: precise enough to convey trust in financial transactions, warm enough to invite community participation.
+
+[Open guide](design-md/republic.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/republic.com-design)
 
 ### research.google
 
@@ -7424,6 +7568,14 @@ Shortform's onboarding flow presents a clean, centered experience designed to bu
 
 [Open guide](design-md/shortform.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/shortform.com-design)
 
+### sibru.com
+
+[![How sibru.com is designed](https://pin.fontofweb.com/9095?format=jpg)](design-md/sibru.com.md)
+
+Sibru.com is a Russian-language news publication with a restrained, editorial visual system that prioritizes readability and photographic impact over decorative complexity. The design centers on classic serif typography for headlines and body text, paired with a clean sans-serif for secondary information such as photo credits and metadata. The overall impression is that of a traditional newspaper brought into a digital format: authoritative, uncluttered, and focused on content. Full-bleed photographs dominate the upper portion of articles, often depicting current events with documentary directness. Below each image, understated captions in muted gray provide attribution without competing with the main content. The color palette is deliberately limited, relying on near-black text against a light gray page background to reduce eye strain during extended reading. There is no visible navigation chrome, sidebar clutter, or aggressive calls-to-action in the article view—just the essential hierarchy of image, caption, headline, and body text.
+
+[Open guide](design-md/sibru.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/sibru.com-design)
+
 ### sievedata.com
 
 [![How sievedata.com is designed](https://pin.fontofweb.com/2009?format=jpg)](design-md/sievedata.com.md)
@@ -7495,6 +7647,14 @@ SnuggleDesk presents itself as a gentle, emotionally resonant desktop companion 
 SOMO's website presents the Centre for Research on Multinational Corporations as an authoritative, independent voice through a distinctive visual system built on bold color blocking and confident typography. The design rejects corporate minimalism in favor of high-contrast, civic-minded aesthetics: a warm mustard yellow dominates the header and footer, a vibrant teal energizes content sections, and a deep olive green anchors interactive elements. The type pairing of Poppins for display and navigation with Merriweather for body text creates a clear hierarchy between institutional voice and readable research content. The overall impression is of an organization that is both approachable and rigorous—colorful enough to stand apart from typical NGO aesthetics, yet structured enough to convey serious research credibility. The system relies on flat color fields with minimal ornamentation, letting content density and typographic contrast carry the visual interest.
 
 [Open guide](design-md/somo.nl.md) · [View the Fudge conversation](https://design.withfudge.com/share/somo.nl-design)
+
+### soundcloud.com
+
+[![How soundcloud.com is designed](https://pin.fontofweb.com/8707?format=jpg)](design-md/soundcloud.com.md)
+
+SoundCloud's design system is built around a dark-first aesthetic that puts music and artist imagery at the center of the experience. The interface uses a near-black canvas with layered surface elevations to create depth without departing from its monochromatic foundation. Typography is handled by Söhne, a geometric sans-serif family that provides crisp readability at small sizes while offering enough weight range for dramatic display headlines. The system's most distinctive visual element is the waveform player—a horizontal audio visualization that serves as both progress indicator and interactive scrubber, rendered in the brand's signature orange against dark gray. Editorial photography appears full-bleed in hero sections with overlaid white text, while marketing pages alternate between light and dark bands to create rhythm. The overall impression is utilitarian and music-focused: dense information hierarchies, compact spacing, and immediate access to playback controls.
+
+[Open guide](design-md/soundcloud.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/soundcloud.com-design)
 
 ### speak.com
 
@@ -7904,6 +8064,14 @@ Tess is an AI image generation platform built around a stark, high-contrast visu
 
 [Open guide](design-md/tess.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/tess.design-design)
 
+### theastralfrontier.com
+
+[![How theastralfrontier.com is designed](https://pin.fontofweb.com/639?format=jpg)](design-md/theastralfrontier.com.md)
+
+The Astral Frontier presents a cinematic, science-fiction exploration interface that treats every screen as a viewport into deep space. The visual system builds atmosphere through extreme contrast: an almost-black canvas supports warm, aged-copper typography and technical grid overlays that suggest navigational instruments. Large geometric display type dominates headlines, set in a constructed sans with squared terminals and mechanical proportions that evoke starmaps and spacecraft instrumentation. Body content appears in a lighter humanist sans, creating readable texture against the dark ground. The interface avoids conventional web patterns in favor of immersive, full-bleed compositions where planetary bodies, armillary spheres, and architectural renderings float against starfields. Interactive elements use dashed borders and thin rules rather than filled buttons, maintaining the technical-drawing aesthetic throughout. The overall impression is of a mission control interface or ancient astronomical instrument rendered with contemporary precision—part archive, part invitation to voyage.
+
+[Open guide](design-md/theastralfrontier.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/theastralfrontier.com-design)
+
 ### theatlantic.com
 
 [![How theatlantic.com is designed](https://pin.fontofweb.com/8964?format=jpg)](design-md/theatlantic.com.md)
@@ -8055,6 +8223,14 @@ The tldraw.dev site presents a developer-focused product experience for the tldr
 Together AI's visual system is built for technical credibility and developer trust. The design alternates between warm off-white surfaces and deep charcoal backgrounds, using electric blue as a consistent accent for calls-to-action, syntax highlighting, and interactive states. The typography relies on Aeonik, a precise geometric sans-serif, with Aeonik Fono serving as a distinctive monospace-style variant for labels and technical annotations. The result is a clean, engineering-forward aesthetic that feels both approachable and authoritative.
 
 [Open guide](design-md/together.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/together.ai-design)
+
+### tokens.studio
+
+[![How tokens.studio is designed](https://pin.fontofweb.com/5915?format=jpg)](design-md/tokens.studio.md)
+
+Tokens Studio presents a developer-focused design system built around dramatic mode switching and confident typographic hierarchy. The interface alternates between a deep teal immersive mode and a clean light product mode, unified by a single bright cyan accent that signals action across every context. Almarena Neue provides the sole type family, deployed in tightly tracked weights that range from an ultra-bold display cut for headlines to a regular weight for body copy and UI labels. The result is a system that feels technically precise yet visually striking—appropriate for a tool that bridges design and engineering workflows. Every surface is intentional: dark sections absorb attention for hero messaging, while light sections expand readability for product explanations and embedded interfaces.
+
+[Open guide](design-md/tokens.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/tokens.studio-design)
 
 ### tolans.com
 
@@ -8359,6 +8535,14 @@ Dollar Shave Club's visual system communicates straightforward confidence throug
 Forma presents itself as a canvas-based productivity tool through a landing page that balances expressive personality with technical precision. The design relies on stark contrast: pure black and white dominate the composition, while a warm orange-to-yellow gradient provides the only chromatic accent. This restraint makes the gradient action elements immediately scannable and memorable.
 
 [Open guide](design-md/useforma.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/useforma.app-design)
+
+### uselogly.app
+
+[![How uselogly.app is designed](https://pin.fontofweb.com/6915?format=jpg)](design-md/uselogly.app.md)
+
+Logly presents itself as an effortless food journal, and its visual system reinforces that positioning through restraint and warmth. The design avoids the clinical coldness typical of health-tracking applications, instead embracing an editorial sensibility that feels more like a premium lifestyle publication than a utility app. The page structure flows from a dramatic dark hero into lighter, airy feature sections, creating visual rhythm through contrast rather than decoration.
+
+[Open guide](design-md/uselogly.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/uselogly.app-design)
 
 ### useorigin.com
 
@@ -8871,6 +9055,14 @@ Yahoo's homepage presents a classic portal experience rebuilt with contemporary 
 This design system captures a terminal-inspired portfolio website with a stark, high-contrast visual language. The system is built around a single monospace typeface rendered in white against an unmodulated black canvas, punctuated by a vivid green accent that appears in highlight bars, status indicators, and interactive elements. The aesthetic evokes early computing interfaces—CRT terminals, command-line tools, and ASCII art—while serving modern portfolio content including project listings, service descriptions, and contact information.
 
 [Open guide](design-md/yannickgregoire.nl.md) · [View the Fudge conversation](https://design.withfudge.com/share/yannickgregoire.nl-design)
+
+### ycombinator.com
+
+[![How ycombinator.com is designed](https://pin.fontofweb.com/6679?format=jpg)](design-md/ycombinator.com.md)
+
+Y Combinator's visual system balances institutional credibility with startup energy through a deliberate typographic tension. The interface rests on a warm cream canvas that avoids sterile white, creating an approachable editorial atmosphere. Navigation and functional labels use a thin-weight geometric sans-serif, while headlines and body copy deploy an elegant serif with dramatic scale contrasts. The homepage alternates between immersive dark sections and light editorial passages, using photography as a bridge between the two modes. Job postings and internal pages maintain this same warmth while introducing structured card-based layouts for practical information. The overall impression is of a refined publication that happens to fund companies—authoritative but never corporate, with orange accents that punctuate rather than dominate.
+
+[Open guide](design-md/ycombinator.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ycombinator.com-design)
 
 ### youworkforthem.com
 
