@@ -2,145 +2,184 @@
 
 [Open the live Fudge conversation](https://design.withfudge.com/share/fourmula.ai-design)
 
-Last updated: 2026-08-03
+Last updated: 2026-08-10
 
 ## Captured pages
 
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8675?format=jpg)](https://design.withfudge.com/share/pin-8675)
+[![Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://pin.fontofweb.com/8675?format=jpg)](https://design.withfudge.com/share/pin-8675)
 
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8675)
+[Dark footer with Fourmula logo, navigation columns, and a large dotted grid pattern fading from white to dark gray](https://design.withfudge.com/share/pin-8675)
 
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8674?format=jpg)](https://design.withfudge.com/share/pin-8674)
+[![Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://pin.fontofweb.com/8674?format=jpg)](https://design.withfudge.com/share/pin-8674)
 
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8674)
+[Split-screen feature cards showing AI product shots and AI video production with rounded image grids and white headlines on dark surfaces](https://design.withfudge.com/share/pin-8674)
 
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8673?format=jpg)](https://design.withfudge.com/share/pin-8673)
+[![Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://pin.fontofweb.com/8673?format=jpg)](https://design.withfudge.com/share/pin-8673)
 
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8673)
+[Hero section with orbiting fashion portrait thumbnails around a central upload zone and large display typography on pure black](https://design.withfudge.com/share/pin-8673)
 
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8672?format=jpg)](https://design.withfudge.com/share/pin-8672)
+[![Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://pin.fontofweb.com/8672?format=jpg)](https://design.withfudge.com/share/pin-8672)
 
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8672)
-
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8671?format=jpg)](https://design.withfudge.com/share/pin-8671)
-
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8671)
-
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8670?format=jpg)](https://design.withfudge.com/share/pin-8670)
-
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8670)
-
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8669?format=jpg)](https://design.withfudge.com/share/pin-8669)
-
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8669)
-
-[![AI Product Generation — Fourmula.ai](https://pin.fontofweb.com/8668?format=jpg)](https://design.withfudge.com/share/pin-8668)
-
-[AI Product Generation — Fourmula.ai](https://design.withfudge.com/share/pin-8668)
+[Light-themed navigation overlay with rounded menu panel, category links, and floating portrait thumbnails on white background](https://design.withfudge.com/share/pin-8672)
 
 ## Overview
 
-fourmula.ai presents a predominantly dark surface treatment in the captured pages. The system is anchored by `#000000`, `#333333`, and `#020108`, with typography led by **Sf Pro** and **Arial**. The guide below names reusable design roles only where the captured evidence supports them.
-
-The reference set uses representative captured pages. It is a design reference, not a claim about the site's private source code or a complete responsive specification.
-
-## Design tokens
-
-The token names are practical labels for the recorded values. They are not claims about the source site's variable names.
-
-### Colors
-
-| token | value | observed use |
-| --- | --- | --- |
-| color.surface | `#000000` | surface on page content |
-| color.text | `#333333` | text on page content |
-| color.text | `#020108` | text on page content |
-| color.text | `#ffffff` | text on page content |
-| color.surface | `#111111` | surface on page content |
-| color.surface | `#d9d9d9` | surface on page content |
-| color.surface | `#f8f8f8` | surface on page content |
-
-### Typography
-
-| token | font family | size | weight | line height | letter spacing | observed use |
-| --- | --- | --- | --- | --- | --- | --- |
-| type.body-15.9252px | **Sf Pro** | 15.9252px | 500 | 15.9252px | normal | <div> |
-| type.body-17.2px | **Arial** | 17.2px | 400 | 20px | normal | <div> and <a> |
-| type.display-63.7009px | **Sf Pro** | 63.7009px | 400 | 63.7009px | -1.91103px | <span> and <h3> |
-| type.display-51.757px | **Sf Pro** | 51.757px | 500 | 54.3449px | -1.59252px | <span> and <h3> |
-| type.display-119.439px | **Sf Pro** | 119.439px | 400 | 119.439px | -3.58318px | <div> and <span> |
-| type.body-23.8879px | **Sf Pro** | 23.8879px | 500 | 35.8318px | -0.209098px | <div>, <a>, and <span> |
-| type.body-23.8879px | **Sf Pro** | 23.8879px | 500 | 27.471px | -0.209098px | <span> and <div> |
-| type.body-13.9346px | **Sf Pro** | 13.9346px | 500 | 20.9019px | -0.209098px | <div> and <a> |
-| type.utility-11.9439px | **Sf Pro** | 11.9439px | 400 | 17.9159px | -0.119439px | <div> |
-| type.body-15.9252px | **Sf Pro** | 15.9252px | 400 | 19.9065px | normal | <div> |
-| type.body-16.9206px | **Sf Pro** | 16.9206px | 400 | 20.3047px | -0.338411px | <a> and <div> |
-| type.body-15.9252px | **Sf Pro** | 15.9252px | 500 | 23.8879px | -0.238879px | <div> |
-
-### Spacing
-
-| value | property | observed element |
-| --- | --- | --- |
-| `31.8505px` | padding | page content |
-| `79.6262px` | padding | page content |
-| `23.8879px` | padding | page content |
-| `99.5327px 19.9065px 39.8131px` | padding | page content |
-| `119.439px 31.8505px 0px` | padding | page content |
-| `47.7757px 0px 0px` | padding | page content |
-| `27.8692px 0px 0px` | padding | page content |
-| `0px 0px 23.8879px` | padding | page content |
-
-### Shape and depth
-
-The captured pages use `0px none 47.7757px`, `1px 1px 0px solid solid none 0px`, `0px none 31.8505px`, `1px 0px 0px 1px solid none none solid 0px`, `1px solid 23.8879px`, `0px none 1576.6px`, `1px solid 23.8879px`, and `1px 0px 0px solid none none 0px` border treatments. Recorded gradients include `linear-gradient(rgba(252, 115, 3, 0), rgb(252, 115, 3))`.
+Fourmula.ai presents an AI-powered creative platform for fashion and product imagery with a bold, editorial aesthetic. The design alternates between immersive dark environments and clean light surfaces, creating dramatic contrast that emphasizes the generated content. The visual system centers on oversized display typography set in SF Pro, organic rounded shapes with unusually large radii, and a restrained palette that lets product photography dominate. The interface feels like a creative tool crossed with a luxury brand experience—precise yet expressive, technical yet emotional. Key structural elements include a persistent top navigation with menu and progress indicators, full-bleed feature sections with asymmetric image grids, and a distinctive footer with a large-scale dotted pattern that serves as a brand signature.
 
 ## Colors
 
-The visual system is predominantly dark surface treatment. Surface colors include `#000000`, `#111111`, and `#d9d9d9`. Text colors include `#333333`, `#020108`, and `#ffffff`. Keep image-derived colors separate from interface colors.
+The color system is intentionally minimal, built on a near-monochrome foundation with a single warm accent. Dark surfaces dominate the immersive experience, while light surfaces appear for navigation overlays and select content areas.
+
+| token | hex | use |
+|---|---|---|
+| ink | #000000 | Primary backgrounds, deep surfaces, hero sections |
+| near-ink | #020108 | Body background, subtle dark variation |
+| charcoal | #111111 | Feature card backgrounds, elevated dark surfaces |
+| body | #333333 | Body text on light backgrounds, secondary ink |
+| border | #D9D9D9 | Subtle dividers, upload zone borders, hairlines |
+| surface | #F8F8F8 | Navigation panels, light overlays, menu backgrounds |
+| accent | #FC7303 | Gradient endpoints, warm highlights, energy moments |
+| white | #FFFFFF | Primary text on dark, button fills, logo |
+
+The dark mode is not an alternate theme but the default experience. White text on ink or charcoal backgrounds provides maximum legibility for headlines, while body text at #333333 appears on light surfaces for longer reading. The accent orange (#FC7303) appears sparingly in gradient moments, adding warmth without disrupting the monochrome discipline. Border colors shift contextually: white borders on dark surfaces create definition, while #D9D9D9 borders on light surfaces maintain subtlety. The overall effect is a gallery-like environment where generated imagery receives full visual priority.
 
 ## Typography
 
-The captured type system uses **Sf Pro** and **Arial**. The table records measured size, weight, leading, and tracking where available; it does not establish licensing or a complete fallback stack.
+The type system pairs Apple's SF Pro for all display and interface text with Arial for body copy, creating a hybrid of refined system typography and neutral readability. SF Pro carries the brand voice through its tight tracking and clean geometry, while Arial handles utilitarian text without competing for attention.
+
+| token | family | size | weight | leading | tracking | use |
+|---|---|---:|---:|---:|---:|---|
+| hero-display | SF Pro | 7.5rem | 400 | 1 | -0.03em | Massive homepage headlines, brand statements |
+| section-display | SF Pro | 4rem | 500 | 1.05 | -0.02em | Feature section headings, product category titles |
+| headline | SF Pro | 1.5rem | 500 | 1.5 | -0.01em | Card titles, subsections, navigation headers |
+| body | Arial | 1.075rem | 400 | 1.15 | normal | Descriptions, legal copy, secondary content |
+| label | SF Pro | 1rem | 500 | 1 | normal | Buttons, tags, category pills, navigation items |
+| caption | SF Pro | 0.75rem | 400 | 1.5 | -0.01em | Fine print, metadata, progress indicators |
+| navigation | SF Pro | 1.06rem | 400 | 1.2 | -0.02em | Menu links, overlay navigation, footer links |
+
+SF Pro appears in Medium (500) for interface elements and headlines, and Regular (400) for display sizes and body-level content. The extreme display sizes—7.5rem hero and 4rem section—use tight negative tracking that creates a compressed, editorial density. Arial at 1.075rem serves as the workhorse for readable paragraphs, maintaining neutral presence without stylistic interference. Verify licensing for SF Pro before production use; it is designed by Apple Inc and requires appropriate licensing for web deployment.
 
 ## Layout
 
-The captured pages use values such as `31.8505px`, `79.6262px`, `23.8879px`, `99.5327px 19.9065px 39.8131px`, and `119.439px 31.8505px 0px` for padding and margin. These are measured usages, not a resolved scale. The available evidence does not establish container widths, grid rules, or breakpoints.
+The layout system employs generous fixed spacing with a 0.125rem base unit, creating a scale that supports both tight interface elements and expansive section breaks. The page structure flows as a single continuous scroll with full-viewport sections, each establishing its own spatial environment.
+
+Section spacing uses 6rem as the standard vertical rhythm, with hero sections extending to 7.5rem for maximum impact. Internal padding within cards and containers ranges from 1.5rem for compact elements to 3rem for feature cards. The asymmetric composition of image grids—where photographs overlap, extend beyond boundaries, and sit at varied scales—creates dynamic tension against the rigid typographic grid.
+
+The top navigation remains fixed, containing the Fourmula mark, a menu trigger with progress percentage, and a "Get started" call-to-action. This bar sits above all content without background separation in dark sections, then inverts for light surfaces. Feature sections use a split-panel structure: two equal dark columns separated by a hairline border, each containing an image cluster and bottom-aligned text. The hero section breaks this pattern with a central focal point—an upload zone surrounded by orbiting thumbnail images in organic rounded shapes.
+
+Border radii follow a distinctive scale: 1.5rem for small elements like tags, 2rem for medium cards and panels, 3rem for large feature cards, and 9999px for pill buttons. This creates a family of rounded corners that feel intentionally soft rather than mechanically circular.
 
 ## Visual language
 
-The captured visual language is predominantly dark surface treatment. Surface treatment centers on `#000000`, `#111111`, `#d9d9d9`, and `#f8f8f8`. Depth is supported by the returned gradients.
+The visual identity balances technical precision with organic warmth. The Fourmula mark—a geometric "F" constructed from dots and lines—establishes the modular, generative theme. This dot language extends to the footer as a massive gradient field of circles fading from white to dark gray, creating an atmospheric brand signature.
 
-## Components and states
+Image treatment emphasizes fashion and product photography with natural lighting, soft shadows, and editorial styling. Thumbnails appear in distinctive organic shapes: not pure circles or rounded rectangles, but asymmetric blobs with large radii that suggest AI-generated imperfection. These shapes cluster in orbital arrangements around central actions, implying creative possibility radiating outward.
 
-The captured pages include repeated styling on <div>, <span>, <h3>, and <a> elements. The evidence does not identify reusable component boundaries or interaction states. Treat loading, focus, hover, pressed, error, and disabled states as implementation work to validate rather than as captured facts.
+The interface avoids decorative elements beyond the dot pattern and gradient accents. Progress indicators, menu triggers, and percentage displays use minimal pill containers with subtle borders. The overall mood is confident and premium—dark enough to feel immersive, clean enough to feel trustworthy, with enough warmth in the photography and accent color to avoid sterility.
+
+## Components
+
+### Primary action button
+
+- **Anatomy**: Text label within a filled pill container
+- **Surface**: White background (#FFFFFF) with ink text (#000000)
+- **Typography**: `{typography.label}` at SF Pro Medium, 1rem
+- **Shape**: Full pill with 9999px radius
+- **Spacing**: 0.875rem vertical padding, 1.5rem horizontal padding
+- **Composition**: Positioned in top-right of navigation bar, right-aligned in card footers
+
+### Secondary action button
+
+- **Anatomy**: Text label within a stroked pill container
+- **Surface**: Transparent background with white border and white text
+- **Typography**: `{typography.label}` at SF Pro Medium, 1rem
+- **Shape**: Full pill with 9999px radius, 1px solid border
+- **Spacing**: 0.875rem vertical padding, 1.5rem horizontal padding
+- **Variants**: Border color shifts to #D9D9D9 on light backgrounds
+
+### Feature card
+
+- **Anatomy**: Full-height container with image cluster above, text block below, and category label at top-left
+- **Surface**: Charcoal background (#111111) with white text
+- **Typography**: Category label uses `{typography.label}`; headline uses `{typography.section-display}`; description uses `{typography.body}` in white
+- **Shape**: 3rem border radius
+- **Spacing**: 3rem internal padding, images extend to edges with internal gaps
+- **Composition**: Two cards sit side-by-side with 1px dividing border; images overlap and scale asymmetrically within each card
+
+### Upload zone
+
+- **Anatomy**: Central square container with icon, label below, and orbiting thumbnail images surrounding
+- **Surface**: Transparent with subtle #D9D9D9 border
+- **Typography**: "Upload or drop your assets" uses `{typography.label}` in white
+- **Shape**: 2rem border radius, square proportions
+- **Spacing**: Generous internal padding, thumbnails positioned in circular orbit at varying distances
+- **Composition**: Center of hero section, thumbnails appear to float in 3D space around the zone
+
+### Navigation overlay
+
+- **Anatomy**: Modal panel with close control, menu section, legal section, and social section
+- **Surface**: Light surface (#F8F8F8) with ink text, appearing over blurred or dimmed content
+- **Typography**: Section headers use `{typography.label}` in muted gray; links use `{typography.headline}` at 1.5rem for primary navigation, `{typography.body}` for legal items
+- **Shape**: 2rem border radius for panel, full pill for close button
+- **Spacing**: Comfortable 1.5rem internal padding, generous vertical spacing between sections
+- **Composition**: Centered panel with floating thumbnail images visible at edges, suggesting content continues behind
+
+### Category tag
+
+- **Anatomy**: Small pill with text label
+- **Surface**: Transparent with subtle border or filled dark
+- **Typography**: `{typography.label}` at SF Pro Medium, 1rem
+- **Shape**: 1.5rem border radius
+- **Spacing**: Compact internal padding
+- **Composition**: Appears in vertical stacks at right edge of hero, or as inline labels above feature cards
+
+### Footer
+
+- **Anatomy**: Logo and navigation columns above, massive dot pattern below
+- **Surface**: Ink background (#000000) with white and gray text
+- **Typography**: Navigation links use `{typography.body}` in white; legal copy uses `{typography.body}` in muted gray; copyright uses `{typography.caption}`
+- **Shape**: Dot pattern uses circles at graduated opacities
+- **Spacing**: Generous top padding, dot pattern fills remaining viewport
+- **Composition**: Four-column link grid above, full-bleed pattern below with gradient fade from dense white dots to sparse dark dots
 
 ## Responsive behavior
 
-The captured token set does not establish breakpoint values or mobile behavior. Validate stacking, navigation changes, image treatment, and type scaling against the representative captures before implementing a responsive adaptation.
+The design appears optimized for large viewports with its split-panel layouts and expansive negative space. At narrower widths, the side-by-side feature cards should stack vertically, maintaining their internal image-text hierarchy. The hero's orbital thumbnail arrangement may compress to a tighter cluster or reduce the number of visible images. Navigation shifts from inline links to the centered overlay panel, triggered by the persistent menu button.
+
+Typography scales down proportionally: hero display should reduce to section-display size on tablet, and headline size on mobile. The massive footer dot pattern may crop vertically rather than scale, preserving the gradient density effect. Touch targets for pill buttons and category tags should maintain minimum 44px height. The upload zone remains central but may lose peripheral thumbnails on very small screens.
 
 ## Practical implementation guidance
 
-- Preserve the dark surface relationship and the measured type hierarchy before adding decorative treatment.
-- Start from the returned typography, spacing, color, and border values; name any new scale or semantic role as an adaptation rather than as a source fact.
-- Keep the captured font families separate from licensing decisions.
-- Use screenshots to validate component anatomy, responsive behavior, focus treatment, and motion before shipping.
-- Avoid introducing gradients or shadows beyond the captured treatment; the returned evidence includes those treatments.
+### Preserve
+- The dramatic dark-to-light section transitions that create rhythm and visual rest
+- SF Pro's tight negative tracking at display sizes; this compression is essential to the editorial character
+- Asymmetric image compositions within feature cards, where photographs break grid boundaries
+- The distinctive organic blob shapes for thumbnails, neither circles nor rounded rectangles
+- The footer dot gradient as a recognizable brand signature
+
+### Avoid
+- Adding decorative gradients or shadows beyond the single orange accent
+- Using body text (#333333) on dark backgrounds; maintain white-on-dark for all dark surface content
+- Shrinking border radii below the established scale; the large radii are intentional
+- Introducing additional font families; the SF Pro/Arial pairing is deliberately restrained
+- Centering body text; left alignment maintains the editorial, tool-like feel
+
+### Recommended build order
+1. Establish the dark base with ink background and white typography
+2. Implement the type scale with SF Pro at all weights and Arial for body
+3. Build the fixed navigation with menu trigger and primary action
+4. Create the hero section with central upload zone and orbital thumbnail layout
+5. Develop split-panel feature cards with asymmetric image grids
+6. Add the navigation overlay with light surface treatment
+7. Implement the footer with dot pattern gradient
+
+### Accessibility
+- Ensure white text on ink/charcoal backgrounds meets WCAG AAA contrast ratios
+- Provide visible focus states for pill buttons and navigation links, using the accent orange or white outline
+- Maintain keyboard operability for the upload zone and orbital thumbnail interactions
+- Add `aria-label` descriptions to percentage progress indicators and menu triggers
+- Respect `prefers-reduced-motion` for any orbital or parallax thumbnail movements
 
 ## Scope note
 
-The guide uses representative captured pages. The evidence supports the values and observations above; it does not establish component semantics, interaction states, motion timing, breakpoint rules, font licensing, or a complete source stylesheet.
-
-## Colors
-
-- `#000000`
-- `#333333`
-- `#020108`
-- `#ffffff`
-- `#111111`
-- `#d9d9d9`
-- `#f8f8f8`
-
-## Typography captured from fourmula.ai
-
-- **Sf Pro** — weight 500 · size 15.9252px
-- **Arial** — weight 400 · size 17.2px
+This guide covers the homepage and primary navigation experience of Fourmula.ai. Interior pages, product generation workflows, account dashboards, and mobile-specific layouts are not represented in the supplied material. The exact spacing and radius values derive from the desktop interface; responsive adaptations should be validated against additional breakpoints. Measurements are practical adaptation targets based on the visible interface.
