@@ -7936,6 +7936,14 @@ This design system captures the visual language of a personal portfolio website 
 
 [Open guide](design-md/trushaneogi.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/trushaneogi.com-design)
 
+### trustmrr.com
+
+[![How trustmrr.com is designed](https://pin.fontofweb.com/7516?format=jpg)](design-md/trustmrr.com.md)
+
+TrustMRR is a dark-mode SaaS marketplace and database for verified startup revenue data. The visual system communicates financial precision and technical credibility through a near-black canvas, monospace typography, and restrained accent colors that signal growth, status, and action. The interface divides into two primary contexts: a public-facing marketing surface that showcases startup listings and revenue leaderboards, and an authenticated dashboard where sellers manage startup profiles, track conversations, and monitor acquisition opportunities. Every surface maintains the same austere palette—deep blacks and charcoals for backgrounds, warm white for primary text, and a narrow spectrum of greens, ambers, and reds for data indicators and calls to action. The design avoids decorative gradients and relies on subtle borders, precise spacing, and typographic hierarchy to organize dense financial information.
+
+[Open guide](design-md/trustmrr.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/trustmrr.com-design)
+
 ### trustpilot.com
 
 [![How trustpilot.com is designed](https://pin.fontofweb.com/7774?format=jpg)](design-md/trustpilot.com.md)
@@ -8088,6 +8096,14 @@ The Universal Commerce Protocol (UCP) documentation site presents a technical st
 
 [Open guide](design-md/ucp.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/ucp.dev-design)
 
+### uicapsule.com
+
+[![How uicapsule.com is designed](https://pin.fontofweb.com/8762?format=jpg)](design-md/uicapsule.com.md)
+
+UICapsule is a dark-mode-first component gallery and marketplace for UI primitives. The visual system is built around a near-black canvas that lets interactive demos and colorful component previews become the focal point. The interface avoids decorative chrome in favor of utilitarian clarity: a persistent top navigation with search, filter dropdowns, and a dense masonry grid of component cards. Each card presents a live or static preview of a UI element—ranging from ASCII renderers to iOS-style volume sliders—paired with a monospace label and a numerical identifier. The overall impression is that of a developer-focused tool: precise, information-dense, and deliberately subdued so that the components themselves provide the visual energy.
+
+[Open guide](design-md/uicapsule.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/uicapsule.com-design)
+
 ### uneed.best
 
 [![How uneed.best is designed](https://pin.fontofweb.com/6623?format=jpg)](design-md/uneed.best.md)
@@ -8104,6 +8120,14 @@ Unheard.FM presents a music discovery service for Spotify built around a distinc
 
 [Open guide](design-md/unheard.fm.md) · [View the Fudge conversation](https://design.withfudge.com/share/unheard.fm-design)
 
+### unicorn.studio
+
+[![How unicorn.studio is designed](https://pin.fontofweb.com/8329?format=jpg)](design-md/unicorn.studio.md)
+
+Unicorn Studio presents a dark, immersive visual system built around the creative possibilities of WebGL. The design language establishes immediate technical credibility through its near-black canvas, allowing aurora-like gradient effects and vibrant user-generated content to become the focal point. The interface maintains a restrained, editorial quality where typography and spacing feel deliberately considered rather than utilitarian.
+
+[Open guide](design-md/unicorn.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/unicorn.studio-design)
+
 ### unrav.io
 
 [![How unrav.io is designed](https://pin.fontofweb.com/3536?format=jpg)](design-md/unrav.io.md)
@@ -8119,6 +8143,14 @@ The unrav.io design system is a high-energy, dark-mode interface built around el
 The Unreal Engine website presents a dark, immersive visual system built around cinematic game imagery and precise technical typography. The design prioritizes content density and wayfinding clarity while maintaining a premium, developer-focused atmosphere. The interface rests on near-black backgrounds that allow vibrant game screenshots and the signature electric blue accent to command attention. Every surface is intentional: content sits in clearly delineated cards with subtle borders, navigation remains compact and persistent, and typographic hierarchy is established through weight and family pairing rather than size alone. The system balances the expressive needs of a creative tool with the functional demands of extensive documentation, community forums, and learning resources. Inter serves as the workhorse for body copy and UI labels, while Inter Tight delivers impact for headlines and section titles with its more condensed proportions. The overall impression is of a professional tool that respects the sophistication of its audience—clean, confident, and technically precise without being cold.
 
 [Open guide](design-md/unrealengine.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/unrealengine.com-design)
+
+### urbit.org
+
+[![How urbit.org is designed](https://pin.fontofweb.com/8845?format=jpg)](design-md/urbit.org.md)
+
+The Urbit.org design system presents a computing platform through an editorial, almost literary visual language. The interface avoids tech-industry conventions of bright blues and purples, instead grounding the brand in warm olive greens, off-whites, and charcoal tones that evoke printed matter and architectural drawings. The system balances three distinct typefaces: Awesome Serif for commanding display headlines with italic warmth, Sltf Skyling for readable body text with a humanist thin weight, and Space Mono for technical labels and metadata. Halftone illustrations in matching olive tones serve as the primary visual decoration, creating texture without competing with the content hierarchy. The overall impression is of a thoughtful, durable technology—one that references both classical publishing and systems engineering.
+
+[Open guide](design-md/urbit.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/urbit.org-design)
 
 ### us.dollarshaveclub.com
 
@@ -8152,6 +8184,14 @@ Pylon's design system presents a disciplined, engineering-forward aesthetic that
 
 [Open guide](design-md/usepylon.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/usepylon.com-design)
 
+### usgraphics.com
+
+[![How usgraphics.com is designed](https://pin.fontofweb.com/6710?format=jpg)](design-md/usgraphics.com.md)
+
+The U.S. Graphics Company website presents itself as a precision-oriented design office and type foundry. The visual language is deliberately austere, rooted in Swiss-influenced functionalism with an engineering mindset. Every element serves a communicative purpose; decoration is minimal and always systematic. The interface is built on a strict black-and-white foundation with selective accent colors that appear only when signaling action or status. The overall impression is that of a technical document or specification sheet rendered for the web—dense with information, organized by clear hierarchies, and devoid of ornamental excess. The site functions as both portfolio and storefront, displaying type specimens, project identities, and product catalogs with the same methodical consistency. Navigation is tab-based and explicit, content is framed by dotted rules and hairline borders, and typography is treated as infrastructure rather than embellishment.
+
+[Open guide](design-md/usgraphics.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/usgraphics.com-design)
+
 ### v0.app
 
 [![How v0.app is designed](https://pin.fontofweb.com/8061?format=jpg)](design-md/v0.app.md)
@@ -8159,6 +8199,14 @@ Pylon's design system presents a disciplined, engineering-forward aesthetic that
 v0.app is an AI-powered interface builder that combines a conversational code-generation flow with visual design system management. The interface commits to a dark-first aesthetic with near-black canvases, subtle elevation layers, and high-contrast typography that remains legible across dense technical content. The product surfaces split into three primary zones: a persistent left sidebar for navigation and project context, a central chat or canvas area for AI interaction, and right-hand preview or property panels for visual feedback. This system prioritizes information density over whitespace, using compact spacing, small-radius corners, and fine hairline borders to separate functional regions without visual heaviness. The overall impression is of a precision tool—minimal decoration, maximum clarity, with color reserved for functional accents like build status, interactive focus, and data visualization.
 
 [Open guide](design-md/v0.app.md) · [View the Fudge conversation](https://design.withfudge.com/share/v0.app-design)
+
+### variant.com
+
+[![How variant.com is designed](https://pin.fontofweb.com/8763?format=jpg)](design-md/variant.com.md)
+
+Variant presents a dark-first environment built around AI-generated design exploration. The interface immerses users in a near-black canvas where generated designs appear as luminous objects against the void. White typography provides crisp readability without competing with the colorful design outputs. The platform organizes content in flexible grids and floating surfaces, with a persistent bottom input bar that anchors the creative workflow. Navigation collapses to a minimal left rail, freeing horizontal space for design previews. The overall impression is of a professional creative tool—restrained in its chrome, generous in its output area, and precise in its spacing.
+
+[Open guide](design-md/variant.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/variant.com-design)
 
 ### vast.ai
 
@@ -8176,6 +8224,14 @@ Vault andzn presents a dark, immersive e-commerce experience built around curate
 
 [Open guide](design-md/vaultandzn.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vaultandzn.com-design)
 
+### vedomosti.ru
+
+[![How vedomosti.ru is designed](https://pin.fontofweb.com/9137?format=jpg)](design-md/vedomosti.ru.md)
+
+Vedomosti presents itself as Russia's leading business publication through a visual system that prioritizes editorial authority and readability over decorative flourish. The design rests on a stark contrast between immersive photographic storytelling and clean typographic lists. A warm off-white canvas provides the primary reading surface, while deep navy-tinged dark tones anchor hero imagery through gradient overlays. The type system relies entirely on Fira Sans in a single weight family, using size and weight contrast rather than multiple typefaces to establish hierarchy. This creates a disciplined, newspaper-like experience where content density and information clarity take precedence over visual experimentation. The overall impression is of institutional seriousness: the design does not compete with the news but frames it with quiet confidence.
+
+[Open guide](design-md/vedomosti.ru.md) · [View the Fudge conversation](https://design.withfudge.com/share/vedomosti.ru-design)
+
 ### vellum.ai
 
 [![How vellum.ai is designed](https://pin.fontofweb.com/5553?format=jpg)](design-md/vellum.ai.md)
@@ -8184,6 +8240,22 @@ Vellum's design system operates across two distinct environmental modes: a drama
 
 [Open guide](design-md/vellum.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/vellum.ai-design)
 
+### vemula.me
+
+[![How vemula.me is designed](https://pin.fontofweb.com/4328?format=jpg)](design-md/vemula.me.md)
+
+This design system captures a personal portfolio homepage that balances editorial elegance with playful color energy. The visual hierarchy leads with a large, confident serif headline that introduces the designer by name, embedding a circular avatar directly within the text flow for warmth and personality. Below this introduction, a status indicator grounds the page in present-tense activity. The lower portion of the viewport is dominated by a horizontal strip of project cards, each rendered as a bold color block with uppercase monospace labels. The overall impression is of a designer who values craft and clarity—sophisticated typography above, vibrant creative work below, with generous white space creating breathing room between these two zones.
+
+[Open guide](design-md/vemula.me.md) · [View the Fudge conversation](https://design.withfudge.com/share/vemula.me-design)
+
+### vendors.paddle.com
+
+[![How vendors.paddle.com is designed](https://pin.fontofweb.com/7187?format=jpg)](design-md/vendors.paddle.com.md)
+
+The Paddle vendor dashboard presents a sophisticated dual-mode interface that separates navigation from content through extreme contrast. A permanent dark sidebar anchors the left edge in pure black, while the main workspace operates on light, airy surfaces. This creates immediate visual hierarchy: the sidebar recedes into the background frame, allowing analytical content and marketing surfaces to command attention.
+
+[Open guide](design-md/vendors.paddle.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vendors.paddle.com-design)
+
 ### venice.inc
 
 [![How venice.inc is designed](https://pin.fontofweb.com/5687?format=jpg)](design-md/venice.inc.md)
@@ -8191,6 +8263,22 @@ Vellum's design system operates across two distinct environmental modes: a drama
 Venice Inc. presents itself as a design consultancy with an editorial, almost literary sensibility. The visual system rejects the homogenized aesthetic of contemporary SaaS landing pages in favor of classical typography, generous negative space, and restrained ornamental detail. The experience unfolds like a well-typeset document: large serif headings establish tone, Swiss sans-serif body copy delivers information with clarity, and a handwritten script face injects warmth and personality at specific moments.
 
 [Open guide](design-md/venice.inc.md) · [View the Fudge conversation](https://design.withfudge.com/share/venice.inc-design)
+
+### ventionteams.com
+
+[![How ventionteams.com is designed](https://pin.fontofweb.com/7354?format=jpg)](design-md/ventionteams.com.md)
+
+Vention's design system presents a software-development company with editorial confidence and restrained sophistication. The visual language balances generous whitespace against precise grid structures, letting oversized typography and selective color accents carry the brand personality. The near-white canvas creates breathing room for dense content areas, while a burgundy and coral accent palette adds warmth without visual noise. The system moves between light and dark modes fluidly: light sections use black ink on warm gray surfaces, while dark hero sections invert to white text on deep near-black backgrounds. Navigation remains minimal and persistent, with dropdown menus that overlay content without disrupting the page rhythm. Every element feels intentionally placed, from the hairline borders that subdivide statistics grids to the pill-shaped buttons that punctuate calls to action.
+
+[Open guide](design-md/ventionteams.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/ventionteams.com-design)
+
+### vercel.com
+
+[![How vercel.com is designed](https://pin.fontofweb.com/9715?format=jpg)](design-md/vercel.com.md)
+
+The Vercel dashboard presents a dark-first developer experience built around density, clarity, and surgical precision. The interface immerses users in near-black canvas surfaces where content floats on subtly elevated cards with hairline borders. Every element serves a functional purpose: project cards surface deployment status at a glance, settings forms organize complex configuration into scannable sections, and the persistent left navigation provides immediate access to deep tooling. The visual system avoids decorative excess in favor of typographic hierarchy, measured spacing, and a single blue accent that signals interactivity without visual noise. This is a system designed for prolonged use by technical users who need to parse information quickly and act with confidence.
+
+[Open guide](design-md/vercel.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vercel.com-design)
 
 ### vibrantpractice.com
 
@@ -8208,6 +8296,158 @@ Vidclue presents a video idea library as a dark, immersive application wrapped i
 
 [Open guide](design-md/vidclue.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vidclue.com-design)
 
+### vimeo.com
+
+[![How vimeo.com is designed](https://pin.fontofweb.com/6442?format=jpg)](design-md/vimeo.com.md)
+
+Vimeo's design system presents a refined, content-forward visual language built for a professional video platform. The interface alternates between crisp light-mode surfaces and immersive dark-mode environments, using a distinctive cyan accent to guide user action. Custom typefaces by Erkin Karamemet—distributed by Dinamo—provide geometric precision with subtle humanist warmth, creating a typographic identity that feels both technical and approachable. The system prioritizes video content through generous whitespace, restrained UI chrome, and high-contrast section breaks. Navigation remains understated, allowing imagery and motion to dominate the visual hierarchy. Component design favors rounded rectangles with consistent corner radii, creating a soft but structured feel that scales from compact mobile interfaces to expansive desktop layouts.
+
+[Open guide](design-md/vimeo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vimeo.com-design)
+
+### visualelectric.com
+
+[![How visualelectric.com is designed](https://pin.fontofweb.com/2727?format=jpg)](design-md/visualelectric.com.md)
+
+Visual Electric presents itself as a creative platform for generating AI images and videos, built around a stark dark-mode aesthetic that lets colorful photography and bold accent elements command attention. The design system operates on a high-contrast principle: an absolute black canvas supports white typography, while a vivid orange serves as the singular energetic accent for calls to action and brand identity. The overall impression is editorial and gallery-like, with content arranged in deliberately casual, rotated compositions that suggest creative freedom rather than rigid grid conformity. The interface avoids decorative chrome in favor of generous negative space, allowing the product's visual output to become the primary design material. Navigation is minimal and unobtrusive, appearing as simple text links that recede until needed. The system balances professional credibility with creative playfulness through its combination of restrained UI elements and expressive image treatments.
+
+[Open guide](design-md/visualelectric.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/visualelectric.com-design)
+
+### vitest.dev
+
+[![How vitest.dev is designed](https://pin.fontofweb.com/8186?format=jpg)](design-md/vitest.dev.md)
+
+The Vitest website presents a developer-tool identity built on extreme contrast: near-black surfaces against bright white typography, punctuated by electric green and cyan accents. The visual system communicates speed and technical precision through a disciplined dark-mode palette, a distinctive display typeface with tight negative tracking, and structured grid layouts that organize dense technical information into scannable feature cards. The homepage moves from an assertive hero statement through a sponsor ecosystem to a detailed capability grid, maintaining visual coherence through consistent border treatments, monospace code styling, and a restrained elevation system that keeps all elements flat against the dark canvas.
+
+[Open guide](design-md/vitest.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/vitest.dev-design)
+
+### vogue.maitch.ai
+
+[![How vogue.maitch.ai is designed](https://pin.fontofweb.com/7945?format=jpg)](design-md/vogue.maitch.ai.md)
+
+The vogue@maitch interface presents an AI-powered fashion discovery experience that balances editorial sophistication with approachable utility. The visual system centers on a warm, light canvas that lets fashion photography dominate, punctuated by deep navy action elements and an elegant serif italic voice for brand moments. The design moves users through a stepped quiz flow—comparing garments, selecting features, and refining preferences—while maintaining a consistent sense of calm authority. Every surface feels intentionally restrained: generous whitespace, soft rounded corners on interactive elements, and a typographic pairing that contrasts a light geometric sans-serif for utility with Playfair Italic for editorial flair. The overall impression is of a high-end shopping companion rather than a transactional retail site, with the interface receding to elevate the clothing and the user's own style journey.
+
+[Open guide](design-md/vogue.maitch.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/vogue.maitch.ai-design)
+
+### voiceos.com
+
+[![How voiceos.com is designed](https://pin.fontofweb.com/6414?format=jpg)](design-md/voiceos.com.md)
+
+VoiceOS presents a voice-first productivity tool through a restrained, high-contrast visual system. The design centers on near-black typography against pure white backgrounds, creating immediate readability and a sense of technical precision. Large display type dominates the hero and section headers, set tight with negative letter-spacing for a modern, confident presence. The interface avoids decorative excess: content lives in softly rounded cards with faint blue-tinted borders that suggest digital clarity without visual noise. A monospace footer family provides subtle texture against the geometric sans used throughout the main content. The overall impression is of a focused, trustworthy utility—clean enough for casual browsing, precise enough for professional users evaluating a productivity tool.
+
+[Open guide](design-md/voiceos.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/voiceos.com-design)
+
+### void.cloud
+
+[![How void.cloud is designed](https://pin.fontofweb.com/8096?format=jpg)](design-md/void.cloud.md)
+
+Void presents a developer-centric deployment platform through a dark, immersive visual language that evokes terminal environments and code editors. The design prioritizes technical credibility over decorative flourish, using a near-black canvas with electric purple accents to create depth and focus. The page structure follows a classic landing pattern: a bold hero with product positioning, a feature grid explaining capabilities, a prominent call-to-action banner, and a comprehensive footer. What distinguishes the system is its restrained palette and typographic hierarchy—display type carries the emotional weight while utilitarian body copy delivers technical specifics. The terminal mockup in the hero section reinforces the product's developer DNA, presenting code organization as a visual metaphor for the platform's capabilities. Every element serves the narrative of speed, simplicity, and technical sophistication.
+
+[Open guide](design-md/void.cloud.md) · [View the Fudge conversation](https://design.withfudge.com/share/void.cloud-design)
+
+### voidzero.dev
+
+[![How voidzero.dev is designed](https://pin.fontofweb.com/8190?format=jpg)](design-md/voidzero.dev.md)
+
+VoidZero presents itself as a JavaScript tooling company with a visual identity that balances technical credibility and contemporary polish. The design operates in two distinct modes: a clean, light-dominated surface for editorial and marketing content, and a deep, immersive dark mode for product showcases and developer tools. The system relies on a single geometric sans-serif family for all proportional text, paired with a monospace face for category labels, status badges, and technical annotations. Color is used sparingly but strategically—near-black text on warm off-white grounds for readability, with a vivid violet gradient serving as the singular accent for hero moments, interactive highlights, and product imagery. The overall impression is of precision engineering: generous whitespace, sharp corners with subtle rounding, and a strict hierarchy that lets large numerals and section headings command attention while supporting copy remains muted and measured.
+
+[Open guide](design-md/voidzero.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/voidzero.dev-design)
+
+### vulture.com
+
+[![How vulture.com is designed](https://pin.fontofweb.com/1430?format=jpg)](design-md/vulture.com.md)
+
+Vulture presents an entertainment journalism experience built on dramatic typographic contrast and editorial confidence. The visual system centers on two type families working in deliberate tension: Elderkin delivers oversized, italicized section headers that dominate the viewport with personality and swagger, while Tn provides the refined, readable text fabric for headlines, body copy, and navigation. The color philosophy is restrained almost to the point of austerity—pure black and white carry the structural load, while a single electric cyan accent punctuates section identities, interactive badges, and directional cues. This is a design that trusts its content: large photography sits in clean rectangular frames, typography scales aggressively for section breaks, and the overall rhythm alternates between moments of typographic spectacle and dense editorial information. The result feels simultaneously magazine-authoritative and digitally native, with the bold display treatments signaling entertainment coverage that takes its subject seriously without becoming solemn.
+
+[Open guide](design-md/vulture.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/vulture.com-design)
+
+### wabi.ai
+
+[![How wabi.ai is designed](https://pin.fontofweb.com/8287?format=jpg)](design-md/wabi.ai.md)
+
+Wabi presents a personal software platform through a restrained, warm minimalism that balances approachability with creative energy. The design language centers on soft gray canvases, pill-shaped interactive elements, and generous whitespace that lets expressive content breathe. Typography relies on a single geometric sans-serif family with careful weight and size gradations rather than multiple typefaces. The visual system moves between two distinct modes: a light, airy landing experience with muted tones and a dramatic dark mode that showcases colorful circular imagery. This duality creates rhythm across the page—calm invitation above, vibrant creative density below. Every surface feels intentionally softened through rounded corners, subtle shadows, and blurred backdrop effects rather than harsh edges or heavy chrome.
+
+[Open guide](design-md/wabi.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/wabi.ai-design)
+
+### warbl.tw
+
+[![How warbl.tw is designed](https://pin.fontofweb.com/7680?format=jpg)](design-md/warbl.tw.md)
+
+Warbl presents a dark, immersive landing experience for a Chrome extension that accelerates engagement on X/Twitter. The visual system builds authority through near-black canvases, high-contrast white typography, and energetic gradient accents that shift between teal and coral. The design balances technical credibility with approachable warmth: monospace labels signal precision, while rounded pill shapes and soft glow effects keep the interface feeling modern and friendly. Product mockups appear as floating cards with subtle depth, demonstrating the tool in context without overwhelming the narrative. The overall composition centers content in generous negative space, letting the gradient headlines and social proof metrics command attention.
+
+[Open guide](design-md/warbl.tw.md) · [View the Fudge conversation](https://design.withfudge.com/share/warbl.tw-design)
+
+### warhol-arts.webflow.io
+
+[![How warhol-arts.webflow.io is designed](https://pin.fontofweb.com/1267?format=jpg)](design-md/warhol-arts.webflow.io.md)
+
+Warhol Arts presents a deliberately confrontational visual system that channels pop-art energy into a contemporary exhibition platform. The design operates on extreme contrast: vast fields of absolute black meet a single saturated orange-red accent, while oversized condensed display typography dominates the viewport. The aesthetic borrows from gallery signage, event ticketing, and the graphic legacy of Andy Warhol's own work—particularly the repeated dollar-sign motif and bold commercial typography.
+
+[Open guide](design-md/warhol-arts.webflow.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/warhol-arts.webflow.io-design)
+
+### wearecollins.com
+
+[![How wearecollins.com is designed](https://pin.fontofweb.com/4744?format=jpg)](design-md/wearecollins.com.md)
+
+The COLLINS website presents a confident, editorial design language that balances restraint with moments of bold visual expression. The system is built on a foundation of warm off-white canvases and precise black typography, creating a gallery-like environment where case study photography and brand work command full attention. The design avoids decorative excess, relying instead on typographic hierarchy, generous whitespace, and carefully orchestrated color moments to communicate creative authority.
+
+[Open guide](design-md/wearecollins.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/wearecollins.com-design)
+
+### web.getmatter.com
+
+[![How web.getmatter.com is designed](https://pin.fontofweb.com/9225?format=jpg)](design-md/web.getmatter.com.md)
+
+Matter presents a dark, immersive reading environment built around focus and content clarity. The interface uses a near-black canvas with subtle surface elevation to create depth without distraction. Purple accents mark premium features and interactive states, while the typographic system relies on two weights of the Camphor family—heavy display cuts for headlines and navigation, regular weights for body text—to establish clear hierarchy with minimal visual noise. The design favors centered compositions for authentication and onboarding flows, shifting to structured grids for content browsing. Cards with generous rounding and soft borders organize information into scannable units. The overall impression is of a premium productivity tool: restrained, confident, and built for extended use.
+
+[Open guide](design-md/web.getmatter.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/web.getmatter.com-design)
+
+### webflow.com
+
+[![How webflow.com is designed](https://pin.fontofweb.com/6023?format=jpg)](design-md/webflow.com.md)
+
+Webflow's design system is built for high-contrast, dark-mode-first product marketing. The visual language centers on absolute black backgrounds, electric blue action elements, and a single custom typeface that scales from restrained body copy to oversized display headlines. The system prioritizes information density—pricing tables, feature comparisons, and navigation mega-menus all occupy the same dark canvas without visual fatigue. White typography provides primary hierarchy, while a mid-tone gray handles secondary information. The blue accent color appears almost exclusively in interactive moments: primary buttons, active navigation states, and promotional badges. This creates a clear behavioral pattern where color signals action and the monochrome field supports reading. The overall impression is technical confidence—generous whitespace in hero sections gives way to tightly packed data in product surfaces, suggesting a tool that scales from aspirational promise to detailed specification.
+
+[Open guide](design-md/webflow.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/webflow.com-design)
+
+### webkit.org
+
+[![How webkit.org is designed](https://pin.fontofweb.com/1960?format=jpg)](design-md/webkit.org.md)
+
+WebKit.org presents a dark-mode-first documentation and blog platform for the open-source WebKit browser engine. The visual system prioritates technical credibility through restrained color usage, generous whitespace, and clear typographic hierarchy. The design operates across two primary surface modes: a deep navy blue hero treatment for the homepage that evokes technical precision and trust, and a near-black charcoal background for blog content and article listings that reduces eye strain during extended reading sessions.
+
+[Open guide](design-md/webkit.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/webkit.org-design)
+
+### webshare.io
+
+[![How webshare.io is designed](https://pin.fontofweb.com/5012?format=jpg)](design-md/webshare.io.md)
+
+Webshare presents a proxy-service platform with a warm, approachable visual personality that balances technical credibility with playful illustration. The design system relies on three distinct pastel section backgrounds—mint, lavender, and pale blue—to create rhythm and wayfinding across long-scrolling pages. A single emerald green action color unifies calls-to-action, while dark navy ink provides strong readability against light surfaces. The aesthetic feels contemporary SaaS: generous whitespace, rounded corners on every container, and friendly character illustrations that soften infrastructure topics. Typography is light and airy, using a single geometric sans-serif family at low weights to maintain openness. Cards group related capabilities with subtle shadowless surfaces, and the overall density remains low to emphasize clarity and trust.
+
+[Open guide](design-md/webshare.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/webshare.io-design)
+
+### wellgousa.com
+
+[![How wellgousa.com is designed](https://pin.fontofweb.com/10544?format=jpg)](design-md/wellgousa.com.md)
+
+Well Go USA Entertainment's film marketing pages present a theatrical, immersive experience built around full-bleed cinematic imagery and aggressive typography. The system prioritizes visual impact over information density: hero sections dominate the viewport with dimmed production stills serving as atmospheric backdrops, while oversized condensed display type commands immediate attention. The design language speaks directly to action and martial-arts film audiences through high contrast, minimal chrome, and strategic use of vivid warm accent colors in promotional artwork.
+
+[Open guide](design-md/wellgousa.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/wellgousa.com-design)
+
+### wero-wallet.eu
+
+[![How wero-wallet.eu is designed](https://pin.fontofweb.com/6825?format=jpg)](design-md/wero-wallet.eu.md)
+
+Wero presents itself as a digital payment wallet with an unmistakably bold visual personality. The homepage opens with a dramatic split-screen composition: one half immerses the viewer in a vibrant photographic world of pink-to-orange gradients and playful 3D phone imagery, while the other half delivers messaging through stark black typography on an electric yellow ground. This duality—warm, approachable photography against crisp, high-contrast information design—defines the entire system. The brand avoids the cold minimalism typical of fintech products, instead embracing saturated color, dimensional illustration, and confident typographic scale to communicate speed, simplicity, and European identity. Every element feels intentionally oversized and immediate, from the tightly tracked headline to the chunky pill-shaped call-to-action that sits three pixels above its shadow.
+
+[Open guide](design-md/wero-wallet.eu.md) · [View the Fudge conversation](https://design.withfudge.com/share/wero-wallet.eu-design)
+
+### whisprgroup.com
+
+[![How whisprgroup.com is designed](https://pin.fontofweb.com/2670?format=jpg)](design-md/whisprgroup.com.md)
+
+Whispr Group's visual system presents a confident, editorial brand identity built on deliberate contrast: deep, atmospheric darkness against warm human photography, and classical serif headlines against clean sans-serif utility text. The design communicates analytical sophistication without coldness, using a rich navy canvas that lets full-bleed imagery breathe while maintaining strong typographic hierarchy. The system is intentionally restrained—two principal type families, a compact palette, and rounded pill-shaped actions that feel approachable within the otherwise serious tone. Every element serves the narrative of data-driven insight delivered with human understanding, creating a cohesive experience across the homepage surfaces.
+
+[Open guide](design-md/whisprgroup.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/whisprgroup.com-design)
+
 ### windsurf.com
 
 [![How windsurf.com is designed](https://pin.fontofweb.com/8872?format=jpg)](design-md/windsurf.com.md)
@@ -8215,6 +8455,62 @@ Vidclue presents a video idea library as a dark, immersive application wrapped i
 Windsurf presents a dark software brand rather than a light marketing page. The strongest sections begin on a deep navy field with a centered headline, a concise action cluster, and just enough support text to make the choice obvious. From there the page moves into large product cards, a compact provider strip, and pricing blocks that keep the same calm tone while changing the surface color.
 
 [Open guide](design-md/windsurf.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/windsurf.com-design)
+
+### wired.com
+
+[![How wired.com is designed](https://pin.fontofweb.com/6786?format=jpg)](design-md/wired.com.md)
+
+WIRED's article page presents a confident editorial voice built on extreme contrast and typographic drama. The system centers on a stark black-and-white palette that lets photography and illustration command full attention. A bold condensed slab-serif headline family creates immediate visual impact, while a clean sans-serif body face maintains readable warmth for long-form content. Monospaced labels and captions add a technical, data-driven accent that reinforces the publication's technology focus. The layout favors generous horizontal margins and clear vertical rhythm, with full-bleed hero imagery that breaks the container to create immersive story openings. Navigation stays minimal and unobtrusive, using small uppercase labels that recede behind content. The overall impression is authoritative and contemporary—designed for readers who expect visual sophistication alongside rigorous reporting.
+
+[Open guide](design-md/wired.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/wired.com-design)
+
+### wise.jobs
+
+[![How wise.jobs is designed](https://pin.fontofweb.com/990?format=jpg)](design-md/wise.jobs.md)
+
+The Wise Jobs site presents a confident, modern recruitment experience built on stark typographic contrast and a tightly controlled two-tone palette. The visual system centers on Wise Sans, a heavy custom display face that delivers punchy, all-caps headlines with tight tracking, set against the clean neutrality of Inter for body text and labels. The color story moves between warm off-white canvas backgrounds and deep forest green surfaces, with electric lime green serving as the singular accent for calls to action, metrics, and interactive highlights. Rounded corners appear everywhere—pill-shaped buttons, generously curved cards, and soft panel containers—creating a friendly, approachable tone that balances the weight of the display typography. The overall composition favors centered alignment for messaging, generous vertical breathing room between sections, and a clear hierarchy that guides candidates from mission statement to open roles without visual clutter.
+
+[Open guide](design-md/wise.jobs.md) · [View the Fudge conversation](https://design.withfudge.com/share/wise.jobs-design)
+
+### wisprflow.ai
+
+[![How wisprflow.ai is designed](https://pin.fontofweb.com/7402?format=jpg)](design-md/wisprflow.ai.md)
+
+Wispr Flow presents a voice dictation product through a design language that balances technical credibility with human warmth. The system rests on three visual pillars: an airy cream-and-teal color story that avoids sterile tech conventions, a dramatic typographic pairing of classical serif display with geometric sans-serif body copy, and generous rounded corners that soften every container into approachable shapes. The result feels like a premium editorial publication reimagined for software—confident in its voice, restrained in its ornament, and consistently warm across every surface.
+
+[Open guide](design-md/wisprflow.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/wisprflow.ai-design)
+
+### witharc.co
+
+[![How witharc.co is designed](https://pin.fontofweb.com/6764?format=jpg)](design-md/witharc.co.md)
+
+Arc is a creative studio positioned as a design partner for busy founders. The site's visual system communicates confidence through extreme scale contrast and disciplined restraint. The interface alternates between near-white canvas sections and deep black surfaces, using typography as the primary design element rather than decorative graphics. The overall impression is editorial and direct: large Grotesk headlines dominate each section, while supporting text remains small and measured. The site functions as both a portfolio presentation and a service offering, with embedded booking tools and pricing structures integrated directly into the page flow. Visual hierarchy is established through size alone—there are no accent colors beyond black, white, and the occasional photographic or interface element from embedded content.
+
+[Open guide](design-md/witharc.co.md) · [View the Fudge conversation](https://design.withfudge.com/share/witharc.co-design)
+
+### withdavid.ai
+
+[![How withdavid.ai is designed](https://pin.fontofweb.com/5460?format=jpg)](design-md/withdavid.ai.md)
+
+David AI presents itself as a premium provider of audio datasets for speech and conversational AI. The visual system communicates technical credibility through editorial restraint rather than complexity. A warm off-white canvas dominates, letting content breathe while a distinctive serif typeface—Besley—lends intellectual weight to headlines and page titles. Inter handles all functional text with quiet efficiency. The overall impression is of a research-forward company that values clarity and precision: generous margins, uncluttered navigation, and a consistent left-sidebar layout that anchors every page. Color appears sparingly, reserved for data visualizations and accent moments, while the core interface relies on subtle tonal shifts between warm grays and near-black ink. The design avoids trendy gradients or heavy shadows, preferring flat planes of color and crisp typographic hierarchy to establish trust with technical buyers and researchers.
+
+[Open guide](design-md/withdavid.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/withdavid.ai-design)
+
+### withsupafast.com
+
+[![How withsupafast.com is designed](https://pin.fontofweb.com/3178?format=jpg)](design-md/withsupafast.com.md)
+
+Supafast presents a bold, high-contrast visual identity built around the concept of speed and urgency. The design system employs a predominantly black canvas with electric yellow as its singular accent, creating immediate visual impact and clear hierarchy. The aesthetic is deliberately minimal and modern—stripped of decorative elements in favor of strong typography, generous whitespace, and purposeful color blocking. The brand wordmark uses an oversized outlined treatment that dominates the hero, with a dramatic spotlight beam cutting through the letterforms to reinforce the "fast" positioning. This is not a subtle system; it relies on confidence, clarity, and the stark contrast between darkness and light to communicate capability and momentum to startup founders and scale-up teams.
+
+[Open guide](design-md/withsupafast.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/withsupafast.com-design)
+
+### wix.com
+
+[![How wix.com is designed](https://pin.fontofweb.com/3493?format=jpg)](design-md/wix.com.md)
+
+Wix.com presents a confident, approachable brand identity built for a creative audience. The system alternates between dramatic, saturated moments and airy, minimal layouts. Deep indigo and electric blue establish trust and technological credibility, while a distinctive soft lime green injects warmth and creative energy. The visual language is intentionally varied: some sections use immersive color fields with oversized display type, while others retreat to white space with careful typographic hierarchy. Photography of real entrepreneurs and makers humanizes the platform, appearing in circular crops and rounded rectangles that soften the digital experience. The overall impression is of a powerful tool that remains accessible and friendly.
+
+[Open guide](design-md/wix.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/wix.com-design)
 
 ### youworkforthem.com
 
