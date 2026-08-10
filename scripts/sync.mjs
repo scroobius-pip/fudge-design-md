@@ -9,6 +9,7 @@ import { basename } from "node:path";
 
 const origin = process.env.FUDGE_ORIGIN ?? "https://design.withfudge.com";
 const backfill = process.env.FUDGE_BACKFILL === "1";
+const manifestUrl = process.env.FUDGE_MANIFEST_URL?.trim() ?? "";
 const guideDir = new URL("../design-md/", import.meta.url);
 const readmePath = new URL("../README.md", import.meta.url);
 const indexStart = "<!-- DESIGN_MD_INDEX_START -->";
@@ -18,8 +19,9 @@ await mkdir(guideDir, { recursive: true });
 
 let targets;
 if (backfill) {
-  const sitemap = await fetchText(`${origin}/sitemaps/shares.xml`);
-  targets = designSharesFromSitemap(sitemap);
+  targets = manifestUrl
+    ? designSharesFromManifest(await fetchJson(manifestUrl))
+    : designSharesFromSitemap(await fetchText(`${origin}/sitemaps/shares.xml`));
   if (targets.length === 0) {
     throw new Error("No accepted domain DESIGN.md shares found");
   }
@@ -51,7 +53,7 @@ await Promise.all(
 );
 
 let removed = 0;
-if (backfill) {
+if (backfill && !manifestUrl) {
   for (const file of await readdir(guideDir)) {
     if (!file.endsWith(".md")) continue;
     if (acceptedDomains.has(basename(file, ".md"))) continue;
@@ -107,6 +109,34 @@ async function fetchText(url) {
     throw new Error(`Could not fetch ${url}: ${response.status}`);
   }
   return response.text();
+}
+
+async function fetchJson(url) {
+  const response = await fetch(url, {
+    headers: { "user-agent": "fudge-design-md-publisher/2.0" },
+  });
+  if (!response.ok) {
+    throw new Error(`Could not fetch ${url}: ${response.status}`);
+  }
+  return response.json();
+}
+
+function designSharesFromManifest(manifest) {
+  if (!manifest || !Array.isArray(manifest.shares)) {
+    throw new Error("Accepted guide manifest is missing its shares array");
+  }
+  const shares = new Map();
+  for (const entry of manifest.shares) {
+    const domain = safeDomain(entry?.domain ?? "");
+    const shareKey = entry?.shareKey?.trim() ?? "";
+    if (shareKey !== `${domain}-design`) {
+      throw new Error(`Expected share key ${domain}-design, received ${shareKey}`);
+    }
+    shares.set(domain, shareKey);
+  }
+  return [...shares.entries()]
+    .map(([domain, shareKey]) => ({ domain, shareKey }))
+    .sort((a, b) => a.domain.localeCompare(b.domain));
 }
 
 function designSharesFromSitemap(xml) {

@@ -31,6 +31,7 @@ jobs:
       FUDGE_DOMAIN: ${{ inputs.domain }}
       FUDGE_SHARE_KEY: ${{ inputs.share_key }}
       FUDGE_BACKFILL: ${{ inputs.backfill && '1' || '0' }}
+      FUDGE_MANIFEST_URL: https://fudge-design-md-rollout.simdi.workers.dev/v1/accepted
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

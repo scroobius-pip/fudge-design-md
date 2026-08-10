@@ -656,6 +656,30 @@ Scira’s public page is a restrained developer landing system built almost enti
 
 [Open guide](design-md/api.scira.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/api.scira.ai-design)
 
+### app.acctual.com
+
+[![How app.acctual.com is designed](https://pin.fontofweb.com/2026?format=jpg)](design-md/app.acctual.com.md)
+
+Acctual's authentication interface presents a refined, trust-building entry point for a financial technology platform. The design centers on a single-column form layout against an expansive light gradient background, creating breathing room that emphasizes clarity and reduces cognitive load. Floating decorative elements—3D-rendered currency, invoice previews, and financial document fragments—surround the form without competing for attention, establishing the product's domain in global payments and invoicing while maintaining a clean, modern aesthetic.
+
+[Open guide](design-md/app.acctual.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.acctual.com-design)
+
+### app.ahrefs.com
+
+[![How app.ahrefs.com is designed](https://pin.fontofweb.com/1744?format=jpg)](design-md/app.ahrefs.com.md)
+
+The Ahrefs web application presents a dark-mode SaaS interface built for SEO professionals managing website projects. The visual system prioritizes functional clarity over decorative elements, using deep charcoal surfaces that reduce eye strain during extended analytical work. The design employs a restrained palette where warm orange accents signal primary actions and progress, while cool grays establish information hierarchy. Typography relies entirely on Inter, a neo-grotesque sans-serif that maintains crisp legibility at small sizes for data-dense dashboards. The interface architecture favors card-based layouts with clear vertical rhythm, using subtle borders and background shifts rather than heavy shadows to separate content regions. Every element serves the core workflow of project creation, verification, and data exploration, with promotional surfaces integrated unobtrusively into the task flow.
+
+[Open guide](design-md/app.ahrefs.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.ahrefs.com-design)
+
+### app.allworkapp.com
+
+[![How app.allworkapp.com is designed](https://pin.fontofweb.com/4618?format=jpg)](design-md/app.allworkapp.com.md)
+
+This design system describes a talent marketplace interface for hiring real humans for real jobs. The visual language prioritizes clarity and approachability through a restrained grayscale palette, generous whitespace, and soft gradient accents that appear primarily in user avatars. The interface follows a classic two-column layout with a persistent left sidebar for primary navigation and a scrollable content area for talent discovery and profile review.
+
+[Open guide](design-md/app.allworkapp.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.allworkapp.com-design)
+
 ### app.base44.com
 
 [![How app.base44.com is designed](https://pin.fontofweb.com/7412?format=jpg)](design-md/app.base44.com.md)
