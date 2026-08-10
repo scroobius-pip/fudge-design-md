@@ -696,6 +696,14 @@ Brevo’s app reads as a compact operational console. The page language is calm 
 
 [Open guide](design-md/app.brevo.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.brevo.com-design)
 
+### app.cal.com
+
+[![How app.cal.com is designed](https://pin.fontofweb.com/5535?format=jpg)](design-md/app.cal.com.md)
+
+The Cal.com application interface presents a dark-first, productivity-oriented design system built around scheduling and calendar management. The visual language emphasizes clarity through high-contrast typography, restrained color usage, and generous rounded corners that soften the technical density of scheduling interfaces. The system operates across authentication flows, onboarding sequences, and account management screens, maintaining consistent spatial rhythms and component behaviors throughout.
+
+[Open guide](design-md/app.cal.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.cal.com-design)
+
 ### app.flora.ai
 
 [![How app.flora.ai is designed](https://pin.fontofweb.com/7889?format=jpg)](design-md/app.flora.ai.md)
@@ -711,6 +719,30 @@ FLORA reads as a dark creative workspace rather than a conventional app shell. T
 Formula AI uses a dark, controlled studio language rather than a bright marketing system. The page surface is almost entirely black and charcoal, with white type, muted gray support text, and one hot orange action color that carries the whole interface. The start screen centers a short promise over a dense grid of figure tiles, while the create-asset workspace turns the same visual language into a split production layout with a left staging column and a larger right adjustment column.
 
 [Open guide](design-md/app.fourmula.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.fourmula.ai-design)
+
+### app.issen.com
+
+[![How app.issen.com is designed](https://pin.fontofweb.com/5678?format=jpg)](design-md/app.issen.com.md)
+
+ISSEN presents a language-learning experience through a warm, approachable visual system that prioritizes clarity and encouragement. The interface centers on a distinctive pink-to-orange gradient that threads through branding, progress indicators, and primary actions, creating cohesive energy across onboarding and welcome surfaces. The design favors generous whitespace, soft rounded corners, and a restrained typographic hierarchy that keeps attention on content choices rather than decorative elements. Every screen appears as a contained moment—either a centered welcome statement or a card-based selection flow—suggesting a step-by-step progression that feels manageable and focused. The overall impression is of a modern consumer application that balances playfulness with functional directness, using gradient warmth to differentiate from colder productivity tools.
+
+[Open guide](design-md/app.issen.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.issen.com-design)
+
+### app.kit.com
+
+[![How app.kit.com is designed](https://pin.fontofweb.com/5178?format=jpg)](design-md/app.kit.com.md)
+
+Kit's dashboard interface presents a warm, approachable visual system built around creator-centric tools. The design prioritizes clarity and progressive disclosure: dense information lives in rounded cards with soft backgrounds, while primary actions stand out through high-contrast black buttons. The overall impression is of a professional but friendly workspace—clean without being clinical, structured without feeling rigid.
+
+[Open guide](design-md/app.kit.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.kit.com-design)
+
+### app.nocodeapi.com
+
+[![How app.nocodeapi.com is designed](https://pin.fontofweb.com/2099?format=jpg)](design-md/app.nocodeapi.com.md)
+
+The NoCodeAPI authentication interface presents a deliberately minimal, approachable entry point for a developer-facing no-code platform. The design language prioritizes clarity and low friction: generous white space surrounds a tightly focused vertical form, while a warm yellow accent color injects personality into an otherwise neutral palette. The system uses a single type family—Lexend—at restrained weights and sizes, creating a friendly but professional tone that avoids technical intimidation. Every element is centered and symmetrical, reinforcing the simplicity of the "connect and go" value proposition. The authentication flow covers login and account creation, sharing a unified component vocabulary that reduces cognitive load across states. Visual hierarchy is established through scale contrast between the page title and form elements, with color reserved almost exclusively for the primary action and legal hyperlinks.
+
+[Open guide](design-md/app.nocodeapi.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.nocodeapi.com-design)
 
 ### app.paper.design
 
@@ -735,6 +767,22 @@ QuiverAI is a restrained light interface that lets artwork and typography carry 
 Reve is built as a dark creative workspace with a strict split between the black shell and the content that sits inside it. The left rail stays narrow and quiet so the main area can change shape without breaking the system. On one page the content becomes a small project starter, on another it becomes a centered pricing comparison, and on another it expands into a full image board or a focused detail workspace. The design is not trying to look lively through chrome. It stays restrained and lets the imagery supply motion, color, and drama.
 
 [Open guide](design-md/app.reve.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.reve.com-design)
+
+### app.revenuecat.com
+
+[![How app.revenuecat.com is designed](https://pin.fontofweb.com/4612?format=jpg)](design-md/app.revenuecat.com.md)
+
+The RevenueCat app dashboard presents a developer-focused interface built around SDK integration and project configuration. The visual system employs a near-black canvas with layered gray surfaces that create depth without introducing visual noise. Purple serves as the singular accent color, reserved exclusively for primary actions and active states, which makes progress buttons and selected tabs immediately scannable against the dark environment. The interface prioritizes code readability through dedicated syntax-highlighted blocks with their own slightly darker surface treatment, while forms and selectors follow a consistent pattern of muted borders and generous internal spacing. The overall impression is of a technical tool that respects developer attention: information density is high, but hierarchy is clear through surface elevation, type weight, and the disciplined use of color.
+
+[Open guide](design-md/app.revenuecat.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.revenuecat.com-design)
+
+### app.speak.com
+
+[![How app.speak.com is designed](https://pin.fontofweb.com/5345?format=jpg)](design-md/app.speak.com.md)
+
+Speak's app interface presents a warm, encouraging entry point into language learning through a carefully balanced visual system. The design pairs confident, high-contrast action elements with soft, approachable backgrounds that reduce cognitive load during onboarding. The split login screen establishes immediate product context through a floating card preview of the speaking practice experience, while subsequent onboarding flows center the user in a narrow, focused content column that guides sequential decision-making. Every interactive element reinforces the brand's friendly personality through rounded pill shapes, generous whitespace, and emoji iconography that adds human warmth without clutter. The system prioritizes clarity of choice: selection states are unambiguous with bold blue borders and light blue fills, disabled states are clearly muted, and progress is always visible through a simple segmented bar. This is a design built for conversion and comfort in equal measure, using restraint in color and form to keep attention on the learning journey ahead.
+
+[Open guide](design-md/app.speak.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/app.speak.com-design)
 
 ### app.squareup.com
 
@@ -792,6 +840,30 @@ Apple Store commerce is precise, spacious, neutral, and conversion-focused. A br
 
 [Open guide](design-md/apple.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/apple.com-design)
 
+### applovin.com
+
+[![How applovin.com is designed](https://pin.fontofweb.com/2435?format=jpg)](design-md/applovin.com.md)
+
+AppLovin's design system presents a dark-mode-first enterprise aesthetic that balances technical credibility with approachable warmth. The visual language centers on deep navy-to-black canvas surfaces that allow gradient accents and photography to carry emotional weight. The homepage alternates between immersive dark sections with atmospheric gradients and lighter functional zones for product information, creating a rhythmic reading experience that guides visitors from brand promise through solution exploration to social proof.
+
+[Open guide](design-md/applovin.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/applovin.com-design)
+
+### arago.wawww.studio
+
+[![How arago.wawww.studio is designed](https://pin.fontofweb.com/3792?format=jpg)](design-md/arago.wawww.studio.md)
+
+Arago presents a dark, technically precise visual identity built around optical computing hardware. The design immerses viewers in a deep navy-to-black environment that evokes the interior of a cleanroom or the void of optical pathways. A subtle grid pattern overlays the background, suggesting engineering precision and measurement. The central visual motif is a photorealistic render of an optical computing chip—black substrate with gold mounting holes, arrays of dark rectangular components, and a central region that glows with cyan-green light where photonic circuits become visible.
+
+[Open guide](design-md/arago.wawww.studio.md) · [View the Fudge conversation](https://design.withfudge.com/share/arago.wawww.studio-design)
+
+### arc.net
+
+[![How arc.net is designed](https://pin.fontofweb.com/4907?format=jpg)](design-md/arc.net.md)
+
+Arc's marketing site presents a browser as a cultural object rather than a utility. The design language is built on electric-blue dominance, high-contrast white typography, and playful surface textures that suggest both technical precision and creative warmth. The homepage moves through distinct atmospheric zones: a textured electric-blue hero with oversized display quotes, a cream-colored social-proof band with electric-blue testimonials, and a solid blue conversion footer. The developers page inverts this logic, using a dark slate canvas with white type to signal technical depth. Throughout, the system relies on expressive display typography—heavy, tightly tracked sans-serifs for headlines, clean geometric sans for body copy, and a monospace face for labels and attributions. The result is a site that feels simultaneously confident and approachable, premium without austerity.
+
+[Open guide](design-md/arc.net.md) · [View the Fudge conversation](https://design.withfudge.com/share/arc.net-design)
+
 ### arcee.ai
 
 [![How arcee.ai is designed](https://pin.fontofweb.com/6373?format=jpg)](design-md/arcee.ai.md)
@@ -800,6 +872,14 @@ Arcee AI uses a restrained editorial layout that feels more like a printed argum
 
 [Open guide](design-md/arcee.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcee.ai-design)
 
+### arches-template.framer.website
+
+[![How arches-template.framer.website is designed](https://pin.fontofweb.com/5579?format=jpg)](design-md/arches-template.framer.website.md)
+
+This design system describes a sophisticated architecture and interior design portfolio template. The visual language alternates between two distinct modes: immersive dark hero sections that showcase architectural photography at full bleed, and clean white content areas that present firm information with editorial restraint. The system prioritizes photographic storytelling while maintaining typographic clarity through a single geometric sans-serif family. Layouts favor asymmetric compositions where text and imagery occupy clearly defined zones without competing for attention. The overall impression is one of practiced minimalism—every element earns its place, and the generous use of negative space reinforces the premium positioning appropriate for architectural practice.
+
+[Open guide](design-md/arches-template.framer.website.md) · [View the Fudge conversation](https://design.withfudge.com/share/arches-template.framer.website-design)
+
 ### arcraiders.com
 
 [![How arcraiders.com is designed](https://pin.fontofweb.com/7113?format=jpg)](design-md/arcraiders.com.md)
@@ -807,6 +887,14 @@ Arcee AI uses a restrained editorial layout that feels more like a printed argum
 ARC Raiders pairs a utilitarian game-world identity with unusually disciplined editorial structure. It alternates between cinematic, character-led dark campaign surfaces and a warm paper-like reading surface for news. The signature is not a generic sci-fi dashboard: it is bold black type, cream stock, gold action color, and a repeated stack of bright signal stripes.
 
 [Open guide](design-md/arcraiders.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/arcraiders.com-design)
+
+### are.na
+
+[![How are.na is designed](https://pin.fontofweb.com/4174?format=jpg)](design-md/are.na.md)
+
+Are.na is a dark-themed platform for collecting, organizing, and connecting ideas through visual blocks and channels. The interface prioritizes user-generated content by submerging its own chrome into a near-black canvas, letting colorful images and media take visual precedence. The design language is restrained and editorial: generous negative space, minimal UI decoration, and a single variable typeface that scales from small functional labels to large section headings without changing family. Navigation is sparse, typically appearing as simple text links in the upper portion of pages. The overall impression is of a creative tool that refuses to compete with the material it holds—content blocks float on darkness like items in a vitrine, while text remains crisp and highly legible through disciplined contrast. The system supports both personal profile browsing and informational pages through the same visual vocabulary of black grounds, white type, and subtle blue accents for interactive emphasis.
+
+[Open guide](design-md/are.na.md) · [View the Fudge conversation](https://design.withfudge.com/share/are.na-design)
 
 ### arena.ai
 
@@ -840,6 +928,14 @@ Artificial Analysis is a light AI analytics system with a strong editorial spine
 
 [Open guide](design-md/artificialanalysis.ai.md) · [View the Fudge conversation](https://design.withfudge.com/share/artificialanalysis.ai-design)
 
+### artists.soundcloud.com
+
+[![How artists.soundcloud.com is designed](https://pin.fontofweb.com/5221?format=jpg)](design-md/artists.soundcloud.com.md)
+
+The SoundCloud for Artists marketing site presents a bold, dark-themed visual system designed to resonate with musicians and creators. The design language centers on maximum contrast: pure black backgrounds serve as a stage for large, confident white typography and strategic accent colors that punctuate key moments. The overall impression is cinematic and music-industry authentic—reminiscent of dark recording studios and live performance venues.
+
+[Open guide](design-md/artists.soundcloud.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/artists.soundcloud.com-design)
+
 ### artsandculture.google.com
 
 [![How artsandculture.google.com is designed](https://pin.fontofweb.com/7274?format=jpg)](design-md/artsandculture.google.com.md)
@@ -863,6 +959,14 @@ ArtStation presents itself as a dark working surface for illustration, concept a
 Ashmolean.org is built like a museum publication translated into a web page: calm, documentary, and easy to scan. The site keeps a white or warm off-white canvas, black primary text, and a restrained sage-green action color. Photography carries the emotional load. The interface stays quiet around it, using centered cards, pale section bands, and long horizontal margins to make each page feel spacious rather than busy.
 
 [Open guide](design-md/ashmolean.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/ashmolean.org-design)
+
+### asml.com
+
+[![How asml.com is designed](https://pin.fontofweb.com/2375?format=jpg)](design-md/asml.com.md)
+
+The ASML design system presents a disciplined, engineering-forward visual language that reflects the company's position as a leading supplier to the semiconductor industry. The system is built on a foundation of deep institutional blue, clean Swiss-inspired typography, and rigorous grid-based layouts that communicate precision and technological authority. Every element serves a functional purpose: generous whitespace creates breathing room for complex information, bold display typography establishes clear hierarchy, and a restrained accent palette keeps attention focused on content rather than decoration.
+
+[Open guide](design-md/asml.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/asml.com-design)
 
 ### assistant-ui.com
 
@@ -888,6 +992,30 @@ Astrotypes is a type specimen page with a deliberately narrow visual range. The 
 
 [Open guide](design-md/astrotypes.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/astrotypes.com-design)
 
+### athas.dev
+
+[![How athas.dev is designed](https://pin.fontofweb.com/5503?format=jpg)](design-md/athas.dev.md)
+
+Athas.dev presents a dark, developer-focused product site for a lightweight code editor. The visual system builds atmosphere through near-black backgrounds layered with slightly lighter charcoal surfaces, creating depth without visual noise. Typography pairs a distinctive serif display face with a clean geometric sans-serif for body content, establishing a editorial-meets-technical personality. Blue serves as the sole accent color, reserved for primary actions, status indicators, and gradient highlights. The overall impression is restrained and purposeful: every element signals utility rather than decoration. Cards organize content into scannable units with subtle borders, while status badges communicate progress through color-coded labels. The design prioritizes readability in low-light conditions and maintains consistent spacing rhythms across marketing pages, documentation, and product interfaces.
+
+[Open guide](design-md/athas.dev.md) · [View the Fudge conversation](https://design.withfudge.com/share/athas.dev-design)
+
+### atlantide-festival.org
+
+[![How atlantide-festival.org is designed](https://pin.fontofweb.com/916?format=jpg)](design-md/atlantide-festival.org.md)
+
+Atlantide Festival is a literary festival website that balances editorial warmth with contemporary graphic confidence. The design system centers on a striking typographic pairing: an elegant condensed italic serif for expressive display moments, and a clean geometric sans-serif for functional body text and navigation. The visual identity is anchored by bold, flat color blocks in coral and amber that punctuate the otherwise restrained palette of black, white, and warm neutrals. Photography of authors and cultural objects receives generous space, often arranged in staggered, asymmetric grids that suggest the curated, exploratory nature of a festival program. The overall impression is sophisticated yet accessible—literary without being precious, contemporary without being cold.
+
+[Open guide](design-md/atlantide-festival.org.md) · [View the Fudge conversation](https://design.withfudge.com/share/atlantide-festival.org-design)
+
+### attio.com
+
+[![How attio.com is designed](https://pin.fontofweb.com/5045?format=jpg)](design-md/attio.com.md)
+
+Attio's design system presents a contemporary SaaS aesthetic that balances professional credibility with approachable warmth. The visual language centers on generous whitespace, precise typography, and a carefully calibrated neutral palette punctuated by vibrant blue action moments. The system employs three distinct typefaces: Inter for all interface elements, navigation, and body content; Inter Tight as a condensed variant for specific display contexts; and Tiempos Text for editorial moments including hero headlines and section displays that require a more refined, literary tone.
+
+[Open guide](design-md/attio.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/attio.com-design)
+
 ### audio.com
 
 [![How audio.com is designed](https://pin.fontofweb.com/6243?format=jpg)](design-md/audio.com.md)
@@ -904,6 +1032,14 @@ Aura is built around a dark application shell and a bright inner canvas. The sit
 
 [Open guide](design-md/aura.build.md) · [View the Fudge conversation](https://design.withfudge.com/share/aura.build-design)
 
+### aurorashouse.webflow.io
+
+[![How aurorashouse.webflow.io is designed](https://pin.fontofweb.com/518?format=jpg)](design-md/aurorashouse.webflow.io.md)
+
+Aurora's House is a graphic designer's portfolio built on stark contrasts: massive, tightly tracked Helvetica headlines against generous white space, with Lora's warm serifs providing readable, human-scale body text. The system favors editorial confidence over decorative complexity. Navigation sits in a dark pill bar that floats at the top of pages, while project pages unfold as long-form case studies anchored by full-bleed photography and bold typographic hierarchy. A vivid red accent color appears selectively on project cards and interactive moments, creating punctuation points in an otherwise monochrome environment. The overall impression is that of a print-aware designer translating magazine-like layouts to the web—precise, spacious, and intentionally restrained in its color palette.
+
+[Open guide](design-md/aurorashouse.webflow.io.md) · [View the Fudge conversation](https://design.withfudge.com/share/aurorashouse.webflow.io-design)
+
 ### autogram.id
 
 [![How autogram.id is designed](https://pin.fontofweb.com/10168?format=jpg)](design-md/autogram.id.md)
@@ -911,6 +1047,22 @@ Aura is built around a dark application shell and a bright inner canvas. The sit
 Autogram’s page language is spare, bright, and centered. The whole screen reads as a soft white field with one decisive message in the middle, then a loose ring of floating tiles that makes the product feel social rather than dashboard-like. The copy stays short. The whitespace stays large. The surrounding objects carry much of the personality: app icons, document cards, small photo crops, and colored name chips all sit outside the main text column like pinned notes around a workstation.
 
 [Open guide](design-md/autogram.id.md) · [View the Fudge conversation](https://design.withfudge.com/share/autogram.id-design)
+
+### autosend.com
+
+[![How autosend.com is designed](https://pin.fontofweb.com/5430?format=jpg)](design-md/autosend.com.md)
+
+AutoSend presents itself as an email infrastructure platform serving both developers and marketers. The visual system balances technical credibility with approachable warmth through a distinctive typographic pairing: Cooper Lt Bt's elegant italic serifs for headlines against Geist's clean, modern sans-serif for all interface text. The overall impression is of a tool that takes email seriously without taking itself too seriously—professional but not corporate, capable but not cold.
+
+[Open guide](design-md/autosend.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/autosend.com-design)
+
+### avocasystems.com
+
+[![How avocasystems.com is designed](https://pin.fontofweb.com/10517?format=jpg)](design-md/avocasystems.com.md)
+
+Avoca's design system serves operational intelligence software for radiology networks. The visual language balances clinical credibility with technological sophistication through a distinctive pairing of deep teal atmospherics and warm mint accents. The system employs a dual-typography approach: KopubBatang, a Korean serif, delivers display headlines with editorial authority and human warmth, while Pretendard, a geometric sans-serif, handles all interface and body text with crisp precision. This combination signals both medical trustworthiness and modern efficiency.
+
+[Open guide](design-md/avocasystems.com.md) · [View the Fudge conversation](https://design.withfudge.com/share/avocasystems.com-design)
 
 ### awwwards.com
 
@@ -927,6 +1079,14 @@ Awwwards uses one visual grammar across a few page types: a quiet pale stage for
 Baked Design presents itself like a polished studio landing page rather than a traditional agency brochure. The visual system is simple on purpose: a white canvas, black and muted-black type, and a single vivid blue that carries the main action. The strongest feeling comes from contrast between a compact, phone-sized blue card and a much larger desktop scene where the work spreads out into floating devices, a left-aligned pitch column, and a centered contact form. The page does not rely on ornamental chrome. It uses spacing, scale, and a few rounded forms to make the offer feel direct and current.
 
 [Open guide](design-md/baked.design.md) · [View the Fudge conversation](https://design.withfudge.com/share/baked.design-design)
+
+### banjos.com.au
+
+[![How banjos.com.au is designed](https://pin.fontofweb.com/2133?format=jpg)](design-md/banjos.com.au.md)
+
+Banjo's Bakery Cafe presents a warm, inviting online ordering experience that balances the rustic charm of an Australian bakery with the clarity expected of modern e-commerce. The interface centers on a clean white canvas that lets food photography and colorful category icons take visual priority. Earthy green tones anchor the brand identity, appearing in the logo, primary actions, and selected navigation states, while a spectrum of warm, appetizing colors distinguishes the ten product categories through circular icon badges.
+
+[Open guide](design-md/banjos.com.au.md) · [View the Fudge conversation](https://design.withfudge.com/share/banjos.com.au-design)
 
 ### baremettle.com
 
