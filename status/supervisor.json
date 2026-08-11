@@ -1,52 +1,6 @@
 {
-  "schemaVersion": 1,
-  "state": "running",
-  "startedAt": "2026-08-08T14:31:02.704Z",
-  "heartbeatAt": "2026-08-08T21:32:01.433Z",
-  "heartbeatExpiresAt": "2026-08-08T21:37:01.433Z",
-  "stale": false,
-  "generationControl": {
-    "paused": false,
-    "reason": null
-  },
-  "generation": {
-    "concurrency": 3,
-    "active": [
-      {
-        "domain": "fastino.ai",
-        "startedAt": "2026-08-08T21:24:11.511Z"
-      },
-      {
-        "domain": "figma.com",
-        "startedAt": "2026-08-08T21:28:02.334Z"
-      },
-      {
-        "domain": "figr.design",
-        "startedAt": "2026-08-08T21:31:11.235Z"
-      }
-    ],
-    "completedThisRun": 67,
-    "failedThisRun": 39
-  },
-  "publication": {
-    "concurrency": 1,
-    "active": null,
-    "completedThisRun": 65,
-    "failedThisRun": 0
-  },
-  "queue": {
-    "eligibleGeneration": 946,
-    "availableGeneration": 946,
-    "waitingForRetry": 9,
-    "readyPublication": 0,
-    "publishedVerified": 78
-  },
-  "recoveredThisRun": 0,
-  "publicTracker": {
-    "lastSyncedAt": "2026-08-08T21:31:09.298Z"
-  },
-  "lastError": {
-    "at": "2026-08-08T21:27:57.993Z",
-    "message": "Generation failed for epsteinexposed.com with exit 1."
-  }
+  "schemaVersion": 2,
+  "state": "retired",
+  "replacedBy": "Cloudflare Workflows",
+  "snapshotAt": "2026-08-11T09:54:04.694Z"
 }

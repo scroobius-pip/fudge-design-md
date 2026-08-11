@@ -39,6 +39,10 @@ jobs:
           node-version: 20
       - name: Download accepted guide
         run: node scripts/sync.mjs
+      - name: Test status generator
+        run: node --test scripts/status.test.mjs
+      - name: Refresh public status
+        run: node scripts/status.mjs
       - name: Commit accepted guides
         run: |
           if git diff --quiet; then
@@ -48,10 +52,10 @@ jobs:
           git config user.name "fudge-design-md[bot]"
           git config user.email "fudge-design-md[bot]@users.noreply.github.com"
           if [ "${FUDGE_BACKFILL}" = "1" ]; then
-            git add README.md design-md
+            git add README.md design-md status/STATUS.md status/index.json status/supervisor.json
             git commit -m "docs: backfill accepted design guides"
           else
-            git add README.md "design-md/${FUDGE_DOMAIN}.md"
+            git add README.md "design-md/${FUDGE_DOMAIN}.md" status/STATUS.md status/index.json status/supervisor.json
             git commit -m "docs: publish ${FUDGE_DOMAIN} design guide"
           fi
           git push

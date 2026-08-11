@@ -1,0 +1,37 @@
+name: Refresh DESIGN.md collection status
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fudge-design-md-status
+  cancel-in-progress: true
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Test status generator
+        run: node --test scripts/status.test.mjs
+      - name: Refresh public status
+        run: node scripts/status.mjs
+      - name: Commit status snapshot
+        run: |
+          if git diff --quiet; then
+            echo "No status changes."
+            exit 0
+          fi
+          git config user.name "fudge-design-md[bot]"
+          git config user.email "fudge-design-md[bot]@users.noreply.github.com"
+          git add status/STATUS.md status/index.json status/supervisor.json
+          git commit -m "status: refresh collection progress"
+          git push
