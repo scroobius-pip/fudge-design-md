@@ -8,6 +8,9 @@ import {
 import { basename } from "node:path";
 
 const origin = process.env.FUDGE_ORIGIN ?? "https://design.withfudge.com";
+// Guides link to their Fudge share on Fudge's canonical address. Older guides use design.withfudge.com and newer
+// ones fudge.design; both serve the same shares, so either is a valid link back to Fudge.
+const shareOrigins = [...new Set([origin, "https://fudge.design", "https://design.withfudge.com"])];
 const backfill = process.env.FUDGE_BACKFILL === "1";
 const manifestUrl = process.env.FUDGE_MANIFEST_URL?.trim() ?? "";
 const guideDir = new URL("../design-md/", import.meta.url);
@@ -169,7 +172,9 @@ function safeDomain(value) {
 
 function readGuide(markdown, expectedDomain, expectedKey) {
   const title = markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
-  const liveUrl = `${origin}/share/${expectedKey}`;
+  const liveUrl = shareOrigins
+    .map((shareOrigin) => `${shareOrigin}/share/${expectedKey}`)
+    .find((url) => markdown.includes(`](${url})`));
   const images = [
     ...markdown.matchAll(/\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)/g),
   ];
@@ -177,14 +182,14 @@ function readGuide(markdown, expectedDomain, expectedKey) {
     || sectionParagraph(markdown, "Overview");
 
   if (!title) throw new Error("Guide is missing its title");
-  if (!markdown.includes(`](${liveUrl})`)) {
+  if (!liveUrl) {
     throw new Error("Guide is missing its canonical Fudge conversation");
   }
   if (!character) throw new Error("Guide is missing its design character or overview");
   if (images.length < 2 || images.length > 8) {
     throw new Error("Guide must contain two to eight linked representative images");
   }
-  if (!images.every((match) => match[3].startsWith(`${origin}/share/`))) {
+  if (!images.every((match) => shareOrigins.some((shareOrigin) => match[3].startsWith(`${shareOrigin}/share/`)))) {
     throw new Error("Every representative image must link to a Fudge share");
   }
 
