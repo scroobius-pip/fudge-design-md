@@ -1,5 +1,8 @@
 name: Refresh DESIGN.md collection status
 
+# Each day: copy every guide Fudge has accepted, then check the collection and refresh the status. Copying first means
+# a newly accepted guide never depends on a separate per-guide run.
+
 on:
   workflow_dispatch:
   schedule:
@@ -22,16 +25,25 @@ jobs:
           node-version: 20
       - name: Test status generator
         run: node --test scripts/status.test.mjs
+      - name: Copy accepted guides
+        # A guide that fails to download keeps its last good copy. The status step below fails the run if an accepted
+        # guide is still missing, so a transient download error alone does not stop the refresh.
+        continue-on-error: true
+        env:
+          FUDGE_BACKFILL: "1"
+          FUDGE_MANIFEST_URL: https://fudge-design-md-rollout.simdi.workers.dev/v1/accepted
+        run: node scripts/sync.mjs
       - name: Refresh public status
         run: node scripts/status.mjs
-      - name: Commit status snapshot
+      - name: Commit guides and status
         run: |
-          if git diff --quiet; then
-            echo "No status changes."
+          git add README.md design-md status/STATUS.md status/index.json status/supervisor.json
+          if git diff --cached --quiet; then
+            echo "No changes."
             exit 0
           fi
           git config user.name "fudge-design-md[bot]"
           git config user.email "fudge-design-md[bot]@users.noreply.github.com"
-          git add status/STATUS.md status/index.json status/supervisor.json
-          git commit -m "status: refresh collection progress"
+          git commit -m "docs: sync accepted design guides and refresh status"
+          git pull --rebase
           git push
